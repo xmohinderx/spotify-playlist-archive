@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "HAIM",
   "num_followers": 230,
+  "original_name": "HAIM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -121,5 +121,6 @@
       "url": "https://open.spotify.com/track/4e6bjKVgk1Jo0aV7gpnYiN"
     }
   ],
+  "unique_name": "HAIM",
   "url": "https://open.spotify.com/playlist/5hINCaYWvVwzzLmhh4y11x"
 }

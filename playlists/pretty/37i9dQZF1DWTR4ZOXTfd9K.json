@@ -1,7 +1,7 @@
 {
   "description": "The best music from one of the greatest jazz labels.",
-  "name": "Jazz Classics Blue Note Edition",
-  "num_followers": 352118,
+  "num_followers": 352140,
+  "original_name": "Jazz Classics Blue Note Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1673,5 +1673,6 @@
       "url": "https://open.spotify.com/track/6AplJffmm6vaEltCayfGLV"
     }
   ],
+  "unique_name": "Jazz Classics Blue Note Edition",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTR4ZOXTfd9K"
 }

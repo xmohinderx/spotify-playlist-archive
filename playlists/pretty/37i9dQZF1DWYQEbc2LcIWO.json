@@ -1,7 +1,7 @@
 {
   "description": "Enjoy your dinner with some great acoustic tracks.",
-  "name": "Dinner Unplugged",
   "num_followers": 1598,
+  "original_name": "Dinner Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -413,5 +413,6 @@
       "url": "https://open.spotify.com/track/4s53Uc7CoEtES0wHmr3peN"
     }
   ],
+  "unique_name": "Dinner Unplugged",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYQEbc2LcIWO"
 }

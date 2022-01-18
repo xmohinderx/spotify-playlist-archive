@@ -1,7 +1,7 @@
 {
   "description": "The best music with a Nashville flavour. Cover: Maren Morris",
-  "name": "Very Nearly Nashville",
-  "num_followers": 154618,
+  "num_followers": 154633,
+  "original_name": "Very Nearly Nashville",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -869,5 +869,6 @@
       "url": "https://open.spotify.com/track/79D9sS05hiL69QszESYsAr"
     }
   ],
+  "unique_name": "Very Nearly Nashville",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXU4C3nPzApC"
 }

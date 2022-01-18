@@ -1,7 +1,7 @@
 {
   "description": "All new, all rock. Cover: Muse",
-  "name": "All New Rock",
-  "num_followers": 300739,
+  "num_followers": 300770,
+  "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -861,5 +861,6 @@
       "url": "https://open.spotify.com/track/71JxAAy4BMfrrrj6I8VL6l"
     }
   ],
+  "unique_name": "All New Rock",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZryfp6NSvtz"
 }

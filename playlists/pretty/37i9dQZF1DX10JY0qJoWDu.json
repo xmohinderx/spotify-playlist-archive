@@ -1,7 +1,7 @@
 {
   "description": "Holiday cheer from your Disney favorites!",
-  "name": "Disney Christmas",
-  "num_followers": 103123,
+  "num_followers": 103116,
+  "original_name": "Disney Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1473,5 +1473,6 @@
       "url": "https://open.spotify.com/track/1Msh8qZfJ708O9BfVwem5Y"
     }
   ],
+  "unique_name": "Disney Christmas",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX10JY0qJoWDu"
 }

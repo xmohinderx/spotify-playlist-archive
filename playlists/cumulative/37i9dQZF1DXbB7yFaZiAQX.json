@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-17",
   "description": "'80s New Wave, New Romantic and Post-punk.",
   "name": "The '80s All Lined Up",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7s9ComSaLKzt9AMKgawOKB"
+  ],
   "tracks": [
     {
       "album": {
@@ -219,7 +221,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 238626,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5zpRUKG7MSRZvNjr25vJsl"
@@ -583,7 +585,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 354639,
       "name": "Dreiklangsdimensionen",
       "url": "https://open.spotify.com/track/6ng1rv2P24h2wly30Jbnz7"
@@ -781,7 +783,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 244506,
       "name": "Generals And Majors - 2001 Remaster",
       "url": "https://open.spotify.com/track/3jJm28Q9MEhnRbxk2LdfkK"
@@ -817,7 +819,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 237706,
       "name": "Gigantic",
       "url": "https://open.spotify.com/track/3oqJ3POeLfa2TJh6BFLhPM"
@@ -969,7 +971,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 331240,
       "name": "I Still Believe (Great Design)",
       "url": "https://open.spotify.com/track/6XpG30QPzV1wkuUhUMw64l"
@@ -987,7 +989,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 242000,
       "name": "I Travel",
       "url": "https://open.spotify.com/track/3GRyWgNPX5rBdh0VQctl5P"
@@ -1063,6 +1065,24 @@
       "duration_ms": 283200,
       "name": "In A Big Country",
       "url": "https://open.spotify.com/track/4cY1KFcIcTkjXxxF4KVDpY"
+    },
+    {
+      "album": {
+        "name": "Infected",
+        "url": "https://open.spotify.com/album/13uzNaVoUa39KlxEtE8Fo6"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "date_added": "2019-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288733,
+      "name": "Infected",
+      "url": "https://open.spotify.com/track/7mqRfGV4RarfX8Pgl5BIqT"
     },
     {
       "album": {
@@ -1185,7 +1205,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 299000,
       "name": "Kristallnaach",
       "url": "https://open.spotify.com/track/2aZsp1KAJLMOaW2socza14"
@@ -1207,6 +1227,24 @@
       "duration_ms": 418173,
       "name": "Living in Another World - 1997 Remaster",
       "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
+    },
+    {
+      "album": {
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/7oS0WvPmX0SuhAwMPm2w6I"
+      },
+      "artists": [
+        {
+          "name": "Blancmange",
+          "url": "https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239959,
+      "name": "Living On The Ceiling",
+      "url": "https://open.spotify.com/track/1LysqZOvGYyVNjPz0HYU7m"
     },
     {
       "album": {
@@ -1409,7 +1447,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 233800,
       "name": "Making Plans For Nigel",
       "url": "https://open.spotify.com/track/3ey3YMZLdl1tQjbz7EJkKG"
@@ -1445,7 +1483,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 294240,
       "name": "Midnight Man",
       "url": "https://open.spotify.com/track/4NkNu6seQP1XttxabCJSx1"
@@ -1485,6 +1523,24 @@
       "duration_ms": 288466,
       "name": "Modern Love - 1999 Remaster",
       "url": "https://open.spotify.com/track/7LyIoUsiMtelB1I0I4drEF"
+    },
+    {
+      "album": {
+        "name": "Vision Thing",
+        "url": "https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503109,
+      "name": "More",
+      "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
     },
     {
       "album": {
@@ -1614,6 +1670,24 @@
     },
     {
       "album": {
+        "name": "The Very Best of The Selecter",
+        "url": "https://open.spotify.com/album/1Sk2mljWUTXFEtZpoT0fPg"
+      },
+      "artists": [
+        {
+          "name": "The Selecter",
+          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185199,
+      "name": "On my Radio",
+      "url": "https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD"
+    },
+    {
+      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -1697,7 +1771,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 215933,
       "name": "Papas Got a Brand New Pigbag - 7\" Version",
       "url": "https://open.spotify.com/track/6gtHfDlKg0NW0TnJrmkCGF"
@@ -1805,7 +1879,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 282600,
       "name": "Pull Up To The Bumper",
       "url": "https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF"
@@ -2097,7 +2171,7 @@
       ],
       "date_added": "2020-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 200666,
       "name": "Shine on",
       "url": "https://open.spotify.com/track/3vcDExbvA3Nw3exPXdRyHv"
@@ -2284,6 +2358,24 @@
     },
     {
       "album": {
+        "name": "Daydream Nation (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417800,
+      "name": "Teen Age Riot (Album Version)",
+      "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
+    },
+    {
+      "album": {
         "name": "Spot the Difference (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2dk3IM7YsoHVeeeGpk8Uzx"
       },
@@ -2295,7 +2387,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 241013,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/42pwUwxNpqxPEEzCnu7eOn"
@@ -2601,7 +2693,7 @@
       ],
       "date_added": "2019-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 224106,
       "name": "Turning Japanese - Non Stop Edit",
       "url": "https://open.spotify.com/track/1MANhf0nwr6gFwsRJMeDbr"
@@ -2839,7 +2931,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 228613,
       "name": "Whisper to a Scream (Birds Fly) - Single Version",
       "url": "https://open.spotify.com/track/1uiktZkzFSVDhp7i73faz2"
@@ -2864,6 +2956,24 @@
     },
     {
       "album": {
+        "name": "Alle 40 Goed - 80's",
+        "url": "https://open.spotify.com/album/1nImqnEjONcXaE99zT9Ddw"
+      },
+      "artists": [
+        {
+          "name": "China Crisis",
+          "url": "https://open.spotify.com/artist/0WUphJOGHE5i95IeR87hsO"
+        }
+      ],
+      "date_added": "2019-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247973,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/7w76loirJapdVKMf6sFrJo"
+    },
+    {
+      "album": {
         "name": "Playlist: The Very Best of A Flock of Seagulls",
         "url": "https://open.spotify.com/album/6cphBfn6beKzazlp3xjftb"
       },
@@ -2875,7 +2985,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 330426,
       "name": "Wishing (If I Had a Photograph of You)",
       "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
@@ -2919,7 +3029,7 @@
       ],
       "date_added": "2020-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 268240,
       "name": "Would I Lie to You? - Remastered Version",
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"
@@ -2955,7 +3065,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 322653,
       "name": "Young At Heart",
       "url": "https://open.spotify.com/track/0yyH5YRWZielfMB5hnHcMF"

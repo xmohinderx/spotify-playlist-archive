@@ -1,7 +1,7 @@
 {
   "description": "A collection of all things Austen, including audiobooks, poetry, and cinematic scores.",
-  "name": "Jane Austen",
-  "num_followers": 34956,
+  "num_followers": 34953,
+  "original_name": "Jane Austen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -2153,5 +2153,6 @@
       "url": "https://open.spotify.com/track/6TgGWDhhnOVBxLX3DV5sNn"
     }
   ],
+  "unique_name": "Jane Austen",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWC5ySVGqQA1"
 }

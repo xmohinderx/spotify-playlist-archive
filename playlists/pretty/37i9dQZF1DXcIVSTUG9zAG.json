@@ -1,7 +1,7 @@
 {
   "description": "Listen to a collection of his greatest hits. This Is: George Michael",
-  "name": "This Is: George Michael",
   "num_followers": 480555,
+  "original_name": "This Is: George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -781,5 +781,6 @@
       "url": "https://open.spotify.com/track/2q1lPD9JAnCo5TDDrbC9Tm"
     }
   ],
+  "unique_name": "This Is: George Michael",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcIVSTUG9zAG"
 }

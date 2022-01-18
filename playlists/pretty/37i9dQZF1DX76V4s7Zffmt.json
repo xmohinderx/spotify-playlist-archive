@@ -1,7 +1,7 @@
 {
   "description": "This is the essential Animal Collective.",
-  "name": "This Is: Animal Collective",
   "num_followers": 15778,
+  "original_name": "This Is: Animal Collective",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -489,5 +489,6 @@
       "url": "https://open.spotify.com/track/5nd7ChzzSoUO3VmXhjxVbi"
     }
   ],
+  "unique_name": "This Is: Animal Collective",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX76V4s7Zffmt"
 }

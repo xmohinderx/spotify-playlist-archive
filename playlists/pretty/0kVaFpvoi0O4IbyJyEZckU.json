@@ -1,7 +1,7 @@
 {
   "description": "Psych yourself up for whatever you've got going...",
-  "name": "Amped up.",
   "num_followers": 1434,
+  "original_name": "Amped up.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -2981,5 +2981,6 @@
       "url": "https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc"
     }
   ],
+  "unique_name": "Amped up.",
   "url": "https://open.spotify.com/playlist/0kVaFpvoi0O4IbyJyEZckU"
 }

@@ -1,7 +1,7 @@
 {
   "description": "This is Sonny Okosun. The essential tracks, all in one playlist.",
-  "name": "This Is Sonny Okosun",
   "num_followers": 256,
+  "original_name": "This Is Sonny Okosun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -797,5 +797,6 @@
       "url": "https://open.spotify.com/track/2g79o3Z89QIl1WHhsBQRJj"
     }
   ],
+  "unique_name": "This Is Sonny Okosun",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2x3RAa"
 }

@@ -1,7 +1,7 @@
 {
   "description": "The trending country songs and viral hits you need to know. ",
-  "name": "Viral Country",
-  "num_followers": 1117,
+  "num_followers": 1120,
+  "original_name": "Viral Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1277,5 +1277,6 @@
       "url": "https://open.spotify.com/track/7A8OfzqXBHYGk61FZTHoeo"
     }
   ],
+  "unique_name": "Viral Country",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8OjqpsBZy3r"
 }

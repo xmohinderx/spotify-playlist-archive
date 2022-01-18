@@ -1,7 +1,7 @@
 {
   "description": "Get yourself in that summer mood with these great rocking summer songs from the last 20 years.",
-  "name": "Summer Rock Vibes",
   "num_followers": 36714,
+  "original_name": "Summer Rock Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1193,5 +1193,6 @@
       "url": "https://open.spotify.com/track/3j9ERO1WUkVvU71sNFRDEt"
     }
   ],
+  "unique_name": "Summer Rock Vibes",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU3bkMPOyjie"
 }

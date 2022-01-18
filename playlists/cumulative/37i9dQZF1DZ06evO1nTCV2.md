@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1nTCV2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1nTCV2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1nTCV2)
 
-### This Is Ryan Adams
+### [This Is Ryan Adams](https://open.spotify.com/playlist/1wzNW1io1DWM2bpUlq1Ggc)
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 

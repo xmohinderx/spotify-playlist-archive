@@ -1,7 +1,7 @@
 {
   "description": "New takes on old sounds. These tracks talk back to their roots in the folk, blues, soul, country, and Americana traditions.",
-  "name": "Rock & Roots",
   "num_followers": 325,
+  "original_name": "Rock & Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -893,5 +893,6 @@
       "url": "https://open.spotify.com/track/2ycQPQ6gAYh7hPpDZCpNRo"
     }
   ],
+  "unique_name": "Rock & Roots",
   "url": "https://open.spotify.com/playlist/7pD7pMFxcq8agMXqLQCggM"
 }

@@ -1,7 +1,7 @@
 {
   "description": "This is Thomas Rhett. The essential tracks, all in one playlist.",
-  "name": "This Is Thomas Rhett",
   "num_followers": 161178,
+  "original_name": "This Is Thomas Rhett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1313,5 +1313,6 @@
       "url": "https://open.spotify.com/track/2d48mamATjby7wgPjdrSOQ"
     }
   ],
+  "unique_name": "This Is Thomas Rhett",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXctzlWgrxNLn"
 }

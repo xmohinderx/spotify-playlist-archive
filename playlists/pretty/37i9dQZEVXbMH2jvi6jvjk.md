@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMH2jvi6jvjk.md) - [plain]
 
 > Your daily update of the most played tracks right now \- South Africa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,347 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,349 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

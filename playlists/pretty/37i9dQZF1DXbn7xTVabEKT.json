@@ -1,7 +1,7 @@
 {
   "description": "Your favorite arias, performed by legendary opera divas.",
-  "name": "Opera Divas",
-  "num_followers": 33039,
+  "num_followers": 33044,
+  "original_name": "Opera Divas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1501,5 +1501,6 @@
       "url": "https://open.spotify.com/track/32Mani5ydtEWVcTnplZRpe"
     }
   ],
+  "unique_name": "Opera Divas",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbn7xTVabEKT"
 }

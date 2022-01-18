@@ -1,7 +1,7 @@
 {
   "description": "A look back at some of the most impactful songs of 2017.",
-  "name": "Rock This: Best of 2017",
-  "num_followers": 58359,
+  "num_followers": 58358,
+  "original_name": "Rock This: Best of 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1629,5 +1629,6 @@
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     }
   ],
+  "unique_name": "Rock This: Best of 2017",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1Jg9KZ76Rr9"
 }

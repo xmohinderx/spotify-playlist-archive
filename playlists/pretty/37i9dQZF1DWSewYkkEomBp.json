@@ -1,7 +1,7 @@
 {
   "description": "The perfect tunes to accompany your lazy day in the garden.",
-  "name": "Summer in the Garden",
-  "num_followers": 120690,
+  "num_followers": 120689,
+  "original_name": "Summer in the Garden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1653,5 +1653,6 @@
       "url": "https://open.spotify.com/track/1c5KZhtOAOH7eFOlBekNhS"
     }
   ],
+  "unique_name": "Summer in the Garden",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSewYkkEomBp"
 }

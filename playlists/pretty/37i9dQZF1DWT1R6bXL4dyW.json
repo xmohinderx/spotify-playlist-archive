@@ -1,7 +1,7 @@
 {
   "description": "Enjoy the best Italian dinner of your life. Buon Appetito!",
-  "name": "The Perfect Italian Dinner",
-  "num_followers": 170499,
+  "num_followers": 170507,
+  "original_name": "The Perfect Italian Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -725,5 +725,6 @@
       "url": "https://open.spotify.com/track/0gr7BsQKGQHzTGHoGELIdE"
     }
   ],
+  "unique_name": "The Perfect Italian Dinner",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT1R6bXL4dyW"
 }

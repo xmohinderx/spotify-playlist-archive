@@ -1,7 +1,7 @@
 {
   "description": "The Bollywood singer\u2019s biggest hits.",
-  "name": "This Is Shreya Ghoshal",
   "num_followers": 58529,
+  "original_name": "This Is Shreya Ghoshal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -737,5 +737,6 @@
       "url": "https://open.spotify.com/track/4pQaT0aihR7eE43MyEqVHR"
     }
   ],
+  "unique_name": "This Is Shreya Ghoshal",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc0BeAqkMlJ0"
 }

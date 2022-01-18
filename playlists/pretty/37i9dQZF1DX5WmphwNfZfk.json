@@ -1,7 +1,7 @@
 {
   "description": "All the Canadian artists you need to hear this month, handpicked by our curators. Cover: Idman",
-  "name": "RADAR Canada",
-  "num_followers": 18527,
+  "num_followers": 18529,
+  "original_name": "RADAR Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1705,5 +1705,6 @@
       "url": "https://open.spotify.com/track/5YRp8dRLHmt5dIBJcU7lj8"
     }
   ],
+  "unique_name": "RADAR Canada",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5WmphwNfZfk"
 }

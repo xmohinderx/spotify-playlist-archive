@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "dw_g",
   "num_followers": 8,
+  "original_name": "dw_g",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -513,5 +513,6 @@
       "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
     }
   ],
+  "unique_name": "dw_g",
   "url": "https://open.spotify.com/playlist/40VxbK9NqccdUDUpiUXmbp"
 }

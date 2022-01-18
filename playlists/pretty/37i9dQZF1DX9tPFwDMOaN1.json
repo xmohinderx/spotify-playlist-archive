@@ -1,12 +1,12 @@
 {
   "description": "Score all the hottest hits from your favourite hallyu star and check out your one true K-Pop playlist! #kdaebak Cover: TAEYEON",
-  "name": "K-Pop Daebak",
-  "num_followers": 3434954,
+  "num_followers": 3435386,
+  "original_name": "K-Pop Daebak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2NjkwMCwwMDAwMDAwMDZmNTdkZTk0MDFlNTEwZWMyNmM4N2ZmZTdjZTRkYzNj",
+  "snapshot_id": "MTY0MjQ3OTMyNiwwMDAwMDAwMDZmNTdkZTk0MDFlNTEwZWMyNmM4N2ZmZTdjZTRkYzNj",
   "tracks": [
     {
       "added_at": "2022-01-17 09:02:41",
@@ -841,5 +841,6 @@
       "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
     }
   ],
+  "unique_name": "K-Pop Daebak",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1"
 }

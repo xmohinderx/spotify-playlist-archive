@@ -1,7 +1,7 @@
 {
   "description": "A collection of all The Shins greatest tracks, plus some of James Mercer's other projects.",
-  "name": "This Is The Shins",
   "num_followers": 51496,
+  "original_name": "This Is The Shins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -457,5 +457,6 @@
       "url": "https://open.spotify.com/track/0kPxrjsA9OG0SqiJ4ypq9x"
     }
   ],
+  "unique_name": "This Is The Shins",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZyp9KgPL31Y"
 }

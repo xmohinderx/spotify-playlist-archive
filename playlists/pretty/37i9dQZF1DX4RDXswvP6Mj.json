@@ -1,12 +1,12 @@
 {
   "description": "Let's party & clubbing with your favorite K-pop dance hits!! (Cover: onlyoneof(\uc628\ub9ac\uc6d0\uc624\ube0c)) [\uc9c0\uae08 \uac00\uc7a5 \ud56b\ud55c \ub304\uc2a4\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.]",
-  "name": "K-Club Party",
-  "num_followers": 738912,
+  "num_followers": 738921,
+  "original_name": "K-Club Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2Njc1NywwMDAwMDAwMGQxM2ZjOWU1ODJiN2ZjZTFmY2YwYzQ2NThkMjcyYzA3",
+  "snapshot_id": "MTY0MjQ3OTE2MCwwMDAwMDAwMGFmOTZhZGI0MmFiOGQ4MWFiNzQ3MDVmODA4ZDBhYmY0",
   "tracks": [
     {
       "added_at": "2022-01-14 09:15:17",
@@ -107,18 +107,34 @@
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/4ASxFYWyk2216OloHoaSh8"
+        "name": "FIRST IMPACT",
+        "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
         }
       ],
-      "duration_ms": 200689,
-      "name": "LALISA",
-      "url": "https://open.spotify.com/track/2KZ3sNqPogEyMUUH6A5HFy"
+      "duration_ms": 183693,
+      "name": "WA DA DA",
+      "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 202203,
+      "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+      "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
     },
     {
       "added_at": "2022-01-14 09:15:17",
@@ -139,22 +155,6 @@
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "Dreams Come True - SM STATION",
-        "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Dreams Come True",
-      "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
         "name": "Crazy in Love",
         "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
       },
@@ -171,18 +171,82 @@
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "FIRST IMPACT",
-        "url": "https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN"
+        "name": "NO LIMIT",
+        "url": "https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII"
       },
       "artists": [
         {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
         }
       ],
-      "duration_ms": 183693,
-      "name": "WA DA DA",
-      "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
+      "duration_ms": 202840,
+      "name": "Rush Hour",
+      "url": "https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "First Love/gimme gimme",
+        "url": "https://open.spotify.com/album/42ntRqVrWaiSSzekEHdKlr"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "duration_ms": 219732,
+      "name": "gimme gimme",
+      "url": "https://open.spotify.com/track/2etvRAUH3Q7HrI0JFF9z9p"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 221573,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
     },
     {
       "added_at": "2022-01-14 09:15:17",
@@ -199,6 +263,54 @@
       "duration_ms": 207650,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 172358,
+      "name": "In the morning",
+      "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "One-reeler / Act IV",
+        "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "I Don't Know You Anymore",
+        "url": "https://open.spotify.com/album/2CGgP7HTjvgAU2ta6bImXP"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 166323,
+      "name": "I Don't Know You Anymore",
+      "url": "https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj"
     },
     {
       "added_at": "2022-01-14 09:15:17",
@@ -235,8 +347,8 @@
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
+        "name": "Dreams Come True - SM STATION",
+        "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
       },
       "artists": [
         {
@@ -244,31 +356,15 @@
           "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 221573,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
+      "duration_ms": 204933,
+      "name": "Dreams Come True",
+      "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
     },
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
-        "name": "The Chaos Chapter: FREEZE",
-        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
       "artists": [
         {
@@ -276,41 +372,25 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 202203,
-      "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
-      "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
+      "duration_ms": 209105,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
     },
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "One-reeler / Act IV",
-        "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
+        "name": "HELICOPTER",
+        "url": "https://open.spotify.com/album/1uwfxRAhW1hxclCVkzku8d"
       },
       "artists": [
         {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+          "name": "CLC",
+          "url": "https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO"
         }
       ],
-      "duration_ms": 222853,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 194765,
-      "name": "Lovesick Girls",
-      "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
+      "duration_ms": 225720,
+      "name": "HELICOPTER",
+      "url": "https://open.spotify.com/track/2hJS7BdEaH9Jo8MeJujsHT"
     },
     {
       "added_at": "2022-01-14 09:15:17",
@@ -331,22 +411,6 @@
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "GUESS WHO",
-        "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 172358,
-      "name": "In the morning",
-      "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
         "name": "DUMB DUMB",
         "url": "https://open.spotify.com/album/24sFioeGsPtxa5fD6VzL8b"
       },
@@ -359,6 +423,22 @@
       "duration_ms": 149446,
       "name": "DUMB DUMB",
       "url": "https://open.spotify.com/track/0dnkOK5hGUCmIJ7FDF0yHz"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
+        "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Ready to love",
+      "url": "https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID"
     },
     {
       "added_at": "2022-01-14 09:15:17",
@@ -399,50 +479,34 @@
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "NO LIMIT",
-        "url": "https://open.spotify.com/album/7C4wO7npFwUlVgNye4hbII"
+        "name": "Butter / Permission to Dance",
+        "url": "https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG"
       },
       "artists": [
         {
-          "name": "Monsta X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 202840,
-      "name": "Rush Hour",
-      "url": "https://open.spotify.com/track/1Goejji6m1d0s0cv4OnL7f"
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2"
     },
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "LOVE or TAKE",
-        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
+        "name": "A Page",
+        "url": "https://open.spotify.com/album/7jmRVFWYCVgx2OEC1ZQJH8"
       },
       "artists": [
         {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
         }
       ],
-      "duration_ms": 188240,
-      "name": "DO or NOT",
-      "url": "https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
-        "name": "THE BOYZ 3rd Single Album [MAVERICK]",
-        "url": "https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "MAVERICK",
-      "url": "https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO"
+      "duration_ms": 209106,
+      "name": "Giant",
+      "url": "https://open.spotify.com/track/3p8low79RQzkixDlIngBTT"
     },
     {
       "added_at": "2022-01-14 09:15:17",
@@ -463,50 +527,22 @@
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "Butter / Permission to Dance",
-        "url": "https://open.spotify.com/album/1iLUfFVZF8bltkBkONumgG"
+        "name": "Fallin\u2019 (Adrenaline) [AB6IX Remix]",
+        "url": "https://open.spotify.com/album/1At9o3z07x2UPf8XGMINzR"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
-        "name": "I Don't Know You Anymore",
-        "url": "https://open.spotify.com/album/2CGgP7HTjvgAU2ta6bImXP"
-      },
-      "artists": [
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        },
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
         }
       ],
-      "duration_ms": 166323,
-      "name": "I Don't Know You Anymore",
-      "url": "https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
-        "name": "YELLOW",
-        "url": "https://open.spotify.com/album/4igVZxLMxQDV7D94RzW6cw"
-      },
-      "artists": [
-        {
-          "name": "KANG DANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        }
-      ],
-      "duration_ms": 218840,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/34U33Fr2hM6wWkjvdpiwS6"
+      "duration_ms": 212962,
+      "name": "Fallin\u2019 (Adrenaline) - AB6IX Remix",
+      "url": "https://open.spotify.com/track/5p9FaCojrBbXf6qttoFeFV"
     },
     {
       "added_at": "2022-01-14 09:15:17",
@@ -523,6 +559,86 @@
       "duration_ms": 174933,
       "name": "Black Mamba",
       "url": "https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 194765,
+      "name": "Lovesick Girls",
+      "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "\u56de:Walpurgis Night",
+        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "MAGO",
+      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "Take",
+        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 214136,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "Atlantis - The 7th Album Repackage",
+        "url": "https://open.spotify.com/album/4hyhyzEkMEsaSHzkuMn4Ds"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/0BBUGRUURDjwcXmDS3kQkN"
+    },
+    {
+      "added_at": "2022-01-14 09:15:17",
+      "album": {
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Thunderous",
+      "url": "https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n"
     },
     {
       "added_at": "2022-01-14 09:15:17",
@@ -559,86 +675,34 @@
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "Fallin\u2019 (Adrenaline) [AB6IX Remix]",
-        "url": "https://open.spotify.com/album/1At9o3z07x2UPf8XGMINzR"
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
       "artists": [
         {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        },
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 212962,
-      "name": "Fallin\u2019 (Adrenaline) - AB6IX Remix",
-      "url": "https://open.spotify.com/track/5p9FaCojrBbXf6qttoFeFV"
+      "duration_ms": 199026,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
     },
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
-        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+        "name": "WE:TH",
+        "url": "https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
         }
       ],
-      "duration_ms": 199919,
-      "name": "LO$ER=LO\u2661ER",
-      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
-        "name": "MUST",
-        "url": "https://open.spotify.com/album/1dbp3aJzOuyRfGHLUJZqT1"
-      },
-      "artists": [
-        {
-          "name": "2PM",
-          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Make it",
-      "url": "https://open.spotify.com/track/4EF941VzqGMLFnYlXH03hG"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
-        "name": "be",
-        "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
-      },
-      "artists": [
-        {
-          "name": "EUNHYUK",
-          "url": "https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX"
-        }
-      ],
-      "duration_ms": 229066,
-      "name": "be",
-      "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
-        "name": "Redd",
-        "url": "https://open.spotify.com/album/32pXXle0zoKIFG03iefH2c"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "water color",
-      "url": "https://open.spotify.com/track/2pNJ0TsgiRc4mGdYHazD5w"
+      "duration_ms": 189000,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
     },
     {
       "added_at": "2022-01-14 09:15:17",
@@ -659,46 +723,6 @@
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "Going Dumb",
-        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "CORSAK",
-          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
-        },
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 169506,
-      "name": "Going Dumb (with Stray Kids)",
-      "url": "https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
-        "name": "Atlantis - The 7th Album Repackage",
-        "url": "https://open.spotify.com/album/4hyhyzEkMEsaSHzkuMn4Ds"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/0BBUGRUURDjwcXmDS3kQkN"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
         "name": "Celebrity",
         "url": "https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g"
       },
@@ -715,72 +739,72 @@
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "Favorite - The 3rd Album Repackage",
-        "url": "https://open.spotify.com/album/5LbnQtyHBfJUCigA08llHX"
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
       },
       "artists": [
         {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 215586,
-      "name": "Favorite (Vampire)",
-      "url": "https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY"
+      "duration_ms": 199919,
+      "name": "LO$ER=LO\u2661ER",
+      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
     },
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
+        "name": "YELLOW",
+        "url": "https://open.spotify.com/album/4igVZxLMxQDV7D94RzW6cw"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "KANG DANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Thunderous",
-      "url": "https://open.spotify.com/track/3XHJUG5I2zYqOEmEZUX68n"
+      "duration_ms": 218840,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/34U33Fr2hM6wWkjvdpiwS6"
     },
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "GYOPO HAIRSTYLE",
-        "url": "https://open.spotify.com/album/1JVAKAJI0RwttgnhpYlH0o"
+        "name": "CIX 1st Album 'OK' Prologue : Be OK",
+        "url": "https://open.spotify.com/album/3pDsgSLUn5213aS3II19WR"
       },
       "artists": [
         {
-          "name": "Peakboy",
-          "url": "https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l"
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
         }
       ],
-      "duration_ms": 159560,
-      "name": "GYOPO HAIRSTYLE",
-      "url": "https://open.spotify.com/track/4pAas7JMUikN9utv8ul14H"
+      "duration_ms": 199946,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f"
     },
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
-        "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
         }
       ],
-      "duration_ms": 186760,
-      "name": "Ready to love",
-      "url": "https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID"
+      "duration_ms": 197693,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5"
     },
     {
       "added_at": "2022-01-14 09:15:17",
       "album": {
-        "name": "Hello Future - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
       },
       "artists": [
         {
@@ -788,42 +812,11 @@
           "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
-      "duration_ms": 220920,
-      "name": "Hello Future",
-      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
-        "name": "DON'T TOUCH ME",
-        "url": "https://open.spotify.com/album/6SEAMFqNh1pzaPqLMaAydK"
-      },
-      "artists": [
-        {
-          "name": "REFUND SISTERS",
-          "url": "https://open.spotify.com/artist/28Nk9B0LudPoufVThERUDi"
-        }
-      ],
-      "duration_ms": 223226,
-      "name": "DON'T TOUCH ME",
-      "url": "https://open.spotify.com/track/5WYW22IZkApppYwwJfZ7wC"
-    },
-    {
-      "added_at": "2022-01-14 09:15:17",
-      "album": {
-        "name": "YES or YES",
-        "url": "https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 237685,
-      "name": "YES or YES",
-      "url": "https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md"
+      "duration_ms": 195813,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
     }
   ],
+  "unique_name": "K-Club Party",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj"
 }

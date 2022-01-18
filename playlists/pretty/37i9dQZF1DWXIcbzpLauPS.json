@@ -1,7 +1,7 @@
 {
   "description": "This is the new core at its finest. Cover: Pridelands",
-  "name": "New Core",
-  "num_followers": 511636,
+  "num_followers": 511642,
+  "original_name": "New Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1665,5 +1665,6 @@
       "url": "https://open.spotify.com/track/4sSDuuHmKD3wKoZaoGVM29"
     }
   ],
+  "unique_name": "New Core",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXIcbzpLauPS"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Latvia.",
-  "name": "Top 50 - Latvia",
   "num_followers": 13522,
+  "original_name": "Top 50 - Latvia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -881,5 +881,6 @@
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     }
   ],
+  "unique_name": "Top 50 - Latvia",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJWuzDrTxbKS"
 }

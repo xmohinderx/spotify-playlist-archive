@@ -1,7 +1,7 @@
 {
   "description": "That special feeling of being calm, happy and relaxed at the same time.",
-  "name": "Bliss",
   "num_followers": 21575,
+  "original_name": "Bliss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1237,5 +1237,6 @@
       "url": "https://open.spotify.com/track/172Tyy70R4Cc1JWarP9DNU"
     }
   ],
+  "unique_name": "Bliss",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4bSrsRWE9cd"
 }

@@ -1,7 +1,7 @@
 {
   "description": "All the essentials from this South African star.",
-  "name": "This Is Zonke",
   "num_followers": 13481,
+  "original_name": "This Is Zonke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -605,5 +605,6 @@
       "url": "https://open.spotify.com/track/0hzeCXjJi6qpILrFFPrbgR"
     }
   ],
+  "unique_name": "This Is Zonke",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWxuZGEYY4h1"
 }

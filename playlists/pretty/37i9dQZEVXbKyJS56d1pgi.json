@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Portugal.",
-  "name": "Top 50 - Portugal",
-  "num_followers": 178520,
+  "num_followers": 178524,
+  "original_name": "Top 50 - Portugal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -941,5 +941,6 @@
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     }
   ],
+  "unique_name": "Top 50 - Portugal",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKyJS56d1pgi"
 }

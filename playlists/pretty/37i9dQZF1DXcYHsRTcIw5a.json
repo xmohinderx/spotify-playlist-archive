@@ -1,7 +1,7 @@
 {
   "description": "Get ready, to do, do rocksteady",
-  "name": "Rocksteady",
-  "num_followers": 128651,
+  "num_followers": 128665,
+  "original_name": "Rocksteady",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -665,5 +665,6 @@
       "url": "https://open.spotify.com/track/5ySuxlxlQ9IwoOQR1iPLIS"
     }
   ],
+  "unique_name": "Rocksteady",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcYHsRTcIw5a"
 }

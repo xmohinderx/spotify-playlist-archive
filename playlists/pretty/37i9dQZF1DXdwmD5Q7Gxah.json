@@ -1,7 +1,7 @@
 {
   "description": "welcome back, lorem. cover: MICHELLE",
-  "name": "Lorem",
-  "num_followers": 907185,
+  "num_followers": 907194,
+  "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -2137,5 +2137,6 @@
       "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
     }
   ],
+  "unique_name": "Lorem",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah"
 }

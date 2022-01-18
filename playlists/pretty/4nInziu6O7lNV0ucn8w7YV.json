@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Spotify Global Hits",
   "num_followers": 822,
+  "original_name": "Spotify Global Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -2489,5 +2489,6 @@
       "url": "https://open.spotify.com/track/3XBPCbTU9rSGuyuK7Xbj4B"
     }
   ],
+  "unique_name": "Spotify Global Hits",
   "url": "https://open.spotify.com/playlist/4nInziu6O7lNV0ucn8w7YV"
 }

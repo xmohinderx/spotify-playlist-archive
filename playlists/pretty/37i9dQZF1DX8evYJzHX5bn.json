@@ -1,7 +1,7 @@
 {
   "description": "The latest and greatest. Lo nuevo y lo esencial.",
-  "name": "This Is Marc Anthony",
   "num_followers": 750241,
+  "original_name": "This Is Marc Anthony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1057,5 +1057,6 @@
       "url": "https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo"
     }
   ],
+  "unique_name": "This Is Marc Anthony",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8evYJzHX5bn"
 }

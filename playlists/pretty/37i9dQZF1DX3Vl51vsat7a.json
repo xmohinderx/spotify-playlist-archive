@@ -1,7 +1,7 @@
 {
   "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Wilhelmine",
-  "name": "RADAR GSA",
-  "num_followers": 15528,
+  "num_followers": 15529,
+  "original_name": "RADAR GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1053,5 +1053,6 @@
       "url": "https://open.spotify.com/track/4ALVnrzsiNjtRZs3hulmEZ"
     }
   ],
+  "unique_name": "RADAR GSA",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Congrats to all the winners this year at the AMAs!",
-  "name": "AMA Winners 2014",
-  "num_followers": 2994,
+  "num_followers": 2993,
+  "original_name": "AMA Winners 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -293,5 +293,6 @@
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
     }
   ],
+  "unique_name": "AMA Winners 2014",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3JLmmala1kX"
 }

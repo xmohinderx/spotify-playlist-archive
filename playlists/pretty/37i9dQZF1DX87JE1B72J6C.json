@@ -1,7 +1,7 @@
 {
   "description": "The essential deadmau5 originals and remixes.",
-  "name": "This Is deadmau5",
-  "num_followers": 170334,
+  "num_followers": 170340,
+  "original_name": "This Is deadmau5",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1097,5 +1097,6 @@
       "url": "https://open.spotify.com/track/5ZUbGQwH2cCoh2DyMLgGUu"
     }
   ],
+  "unique_name": "This Is deadmau5",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX87JE1B72J6C"
 }

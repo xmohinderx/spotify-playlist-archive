@@ -1,7 +1,7 @@
 {
   "description": "No, not to tango... to write an awesome rock song! These duos know how to make a lot out of what they've got.",
-  "name": "It Only Takes Two",
   "num_followers": 113,
+  "original_name": "It Only Takes Two",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -601,5 +601,6 @@
       "url": "https://open.spotify.com/track/1jcxuWEJYwQ47Ylh9CBDLV"
     }
   ],
+  "unique_name": "It Only Takes Two",
   "url": "https://open.spotify.com/playlist/5McngUiuALFIS4VVF4oko5"
 }

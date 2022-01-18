@@ -1,7 +1,7 @@
 {
   "description": "Fancy Hagood co-curates a list of the very best songs from LGBTQQIA+ artists and allies Music City has to offer!",
-  "name": "PRIDE: Nashville",
-  "num_followers": 1222,
+  "num_followers": 1223,
+  "original_name": "PRIDE: Nashville",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -697,5 +697,6 @@
       "url": "https://open.spotify.com/track/2tGGjVf9IAyXRv9XucKgCs"
     }
   ],
+  "unique_name": "PRIDE: Nashville",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3DgvEv65pjR"
 }

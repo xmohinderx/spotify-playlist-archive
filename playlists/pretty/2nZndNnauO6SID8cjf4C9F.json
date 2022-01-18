@@ -1,7 +1,7 @@
 {
   "description": "MMG top picks chosen by Spotify.",
-  "name": "MMG Spotify Picks",
   "num_followers": 2124,
+  "original_name": "MMG Spotify Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -837,5 +837,6 @@
       "url": "https://open.spotify.com/track/4aX8n2fDEfOB2JRijB6vXy"
     }
   ],
+  "unique_name": "MMG Spotify Picks",
   "url": "https://open.spotify.com/playlist/2nZndNnauO6SID8cjf4C9F"
 }

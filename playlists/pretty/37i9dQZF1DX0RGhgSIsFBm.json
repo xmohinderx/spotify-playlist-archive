@@ -1,7 +1,7 @@
 {
   "description": "A collection of classic horror and spooky stories, from Stoker to Hitchcock.",
-  "name": "Scary Stories",
-  "num_followers": 128776,
+  "num_followers": 128772,
+  "original_name": "Scary Stories",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -2085,5 +2085,6 @@
       "url": "https://open.spotify.com/track/6xIYr8XA0bAnYrGQm57Xhq"
     }
   ],
+  "unique_name": "Scary Stories",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0RGhgSIsFBm"
 }

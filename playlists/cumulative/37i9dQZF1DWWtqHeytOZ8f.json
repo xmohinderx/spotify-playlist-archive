@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-17",
   "description": "Contemplate the universe in a bottle of friendly colored magma.",
   "name": "Lava Lamp",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4e7iEbtUvKT5kUZr66KUI3"
+  ],
   "tracks": [
     {
       "album": {
@@ -61,6 +63,24 @@
       "duration_ms": 209000,
       "name": "[a sea of thoughts behind it]",
       "url": "https://open.spotify.com/track/60cHXUfIETuSrV1DJ0Mx96"
+    },
+    {
+      "album": {
+        "name": "A Bright Resemblance [Abridged]",
+        "url": "https://open.spotify.com/album/2ZxTJ8NvJzp0KC7aPYlPK0"
+      },
+      "artists": [
+        {
+          "name": "Light Conductor",
+          "url": "https://open.spotify.com/artist/590vdsp0V7yIZNMzdbi2qs"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461397,
+      "name": "A Bright Resemblance [Abridged]",
+      "url": "https://open.spotify.com/track/1rygz23Z4RvxpSyz6ovz0D"
     },
     {
       "album": {
@@ -129,7 +149,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 227215,
       "name": "A5",
       "url": "https://open.spotify.com/track/5nI3W2azdcqxACGImR3XbL"
@@ -173,6 +193,32 @@
       "duration_ms": 274166,
       "name": "Aichi",
       "url": "https://open.spotify.com/track/1IwejTZPtIVjRacHd4TPqO"
+    },
+    {
+      "album": {
+        "name": "Deliquium in C",
+        "url": "https://open.spotify.com/album/4HteZzCTXLPZ7Yh4NQ18rU"
+      },
+      "artists": [
+        {
+          "name": "Anna Homler",
+          "url": "https://open.spotify.com/artist/7y0aWNamQursS9ZHS6kxkh"
+        },
+        {
+          "name": "The Pylon King",
+          "url": "https://open.spotify.com/artist/4jlViWmR6heNu4pyY7JAlY"
+        },
+        {
+          "name": "Voices Of Kwahn",
+          "url": "https://open.spotify.com/artist/4RiT4SIuqeCUEuBoj9yB0k"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249200,
+      "name": "Almost Beautiful",
+      "url": "https://open.spotify.com/track/7CUuHHMNjZiGfWvzNkXRMy"
     },
     {
       "album": {
@@ -375,7 +421,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 360000,
       "name": "Badwater Psalm - Khotin Remix",
       "url": "https://open.spotify.com/track/5SekNmby1zOV9m9wB2d7ZO"
@@ -436,6 +482,28 @@
     },
     {
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/725lNa4TQ4kMUOphWG0iCl"
+      },
+      "artists": [
+        {
+          "name": "Roger Eno",
+          "url": "https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250040,
+      "name": "Blonde",
+      "url": "https://open.spotify.com/track/1yy59D7L2Ym3wYLQct8dHR"
+    },
+    {
+      "album": {
         "name": "Auroras",
         "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
       },
@@ -465,7 +533,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 208040,
       "name": "Boreal Kiss Pt. 1",
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
@@ -707,7 +775,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 266800,
       "name": "Coral Riff",
       "url": "https://open.spotify.com/track/3WQZDj6ab8ZNlfyFU4usM2"
@@ -768,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Erratics & Unconformities",
+        "url": "https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V"
+      },
+      "artists": [
+        {
+          "name": "Craven Faults",
+          "url": "https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475379,
+      "name": "Deipkier",
+      "url": "https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf"
+    },
+    {
+      "album": {
         "name": "Children of the Sun",
         "url": "https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV"
       },
@@ -797,7 +883,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 329207,
       "name": "Diaphonia Basilica (version)",
       "url": "https://open.spotify.com/track/4gPj8aifhSMVqbGR96p0Nh"
@@ -943,6 +1029,24 @@
       "duration_ms": 290727,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/6XSLLT1QwdhekITVFp7OFa"
+    },
+    {
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/7enHhnx6XPGlobGI8SliUQ"
+      },
+      "artists": [
+        {
+          "name": "Silje M\u00e5nsson",
+          "url": "https://open.spotify.com/artist/0kjvjrxeHcYCe2KZkYHqIu"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123353,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/2PlPzw2QFgaGfGNxf6yxf4"
     },
     {
       "album": {
@@ -1134,6 +1238,24 @@
     },
     {
       "album": {
+        "name": "Eyes of the Moon",
+        "url": "https://open.spotify.com/album/6GKLtsT1RISbpYgFnT998Y"
+      },
+      "artists": [
+        {
+          "name": "Seahawks",
+          "url": "https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313473,
+      "name": "Eyes of the Moon",
+      "url": "https://open.spotify.com/track/0Ro4fM38RLPZGfCfJDlQBg"
+    },
+    {
+      "album": {
         "name": "Draw Me a Silence (Extended Version)",
         "url": "https://open.spotify.com/album/3yEiqOlQUT7zB19SSYgGZu"
       },
@@ -1163,7 +1285,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 231760,
       "name": "Fairy Creek Alder in the Evening (Raag Kafi)",
       "url": "https://open.spotify.com/track/6yAKjHs4JD64LBgWkYghUO"
@@ -1257,7 +1379,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 195136,
       "name": "First Defeat",
       "url": "https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt"
@@ -1293,7 +1415,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 321000,
       "name": "Flutter",
       "url": "https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4"
@@ -1329,7 +1451,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 280000,
       "name": "Frog Fractions",
       "url": "https://open.spotify.com/track/0pvezfxrKMaXPNNpGHlu5Q"
@@ -1347,7 +1469,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 318087,
       "name": "Gloria: Small Dance of Gratitude",
       "url": "https://open.spotify.com/track/0V3XEs32pgzyRVoaCvJSGH"
@@ -1365,7 +1487,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 396159,
       "name": "Golden Cloud Layers",
       "url": "https://open.spotify.com/track/46doTykO7orQMvEZg58BCE"
@@ -1567,7 +1689,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 284385,
       "name": "In My Heart",
       "url": "https://open.spotify.com/track/0pRxvCua1jbNhUq1Q9PG7l"
@@ -1983,7 +2105,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 198691,
       "name": "Memory Training Gamma",
       "url": "https://open.spotify.com/track/7FqzKYClGACfIYBRvm3zWS"
@@ -2305,7 +2427,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 126346,
       "name": "Oh, Sleeper",
       "url": "https://open.spotify.com/track/7mLdq3ObWP07ZyF4ZwLh8c"
@@ -2601,6 +2723,24 @@
       "duration_ms": 281228,
       "name": "Return Forever",
       "url": "https://open.spotify.com/track/3S2TaFyKQ03FAoBE75ikkK"
+    },
+    {
+      "album": {
+        "name": "Richer Than Blood",
+        "url": "https://open.spotify.com/album/33Rlsqx3ydxFjQX1YnZijp"
+      },
+      "artists": [
+        {
+          "name": "Arushi Jain",
+          "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215993,
+      "name": "Richer Than Blood",
+      "url": "https://open.spotify.com/track/3iKRZKooxPAfvDs0zo2YqV"
     },
     {
       "album": {
@@ -2903,7 +3043,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 250648,
       "name": "Solar",
       "url": "https://open.spotify.com/track/4Mgq8E9ehbpUFAFxiEcwss"
@@ -2921,7 +3061,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 94996,
       "name": "Solar Witnesses",
       "url": "https://open.spotify.com/track/5YKNMbXHA0TaiAiOL8meI9"
@@ -2993,7 +3133,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 1052000,
       "name": "Space 8",
       "url": "https://open.spotify.com/track/1vDr33ErpWkmSc29e7eXIL"
@@ -3015,7 +3155,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 286066,
       "name": "Spain",
       "url": "https://open.spotify.com/track/1nfzTO082ijlY61zApT9nK"
@@ -3242,6 +3382,24 @@
     },
     {
       "album": {
+        "name": "Encores 2",
+        "url": "https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Talisman",
+      "url": "https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6"
+    },
+    {
+      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
       },
@@ -3445,7 +3603,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 110680,
       "name": "Theme Number Sixty Eight",
       "url": "https://open.spotify.com/track/4Ug4rbQ666U9pputB0E3kV"
@@ -3499,7 +3657,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 626740,
       "name": "Til A Mermaid Drags You Under",
       "url": "https://open.spotify.com/track/4E8ynZqI38EJ1HJDVxSKbO"
@@ -3517,7 +3675,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 498065,
       "name": "Tilting On Windmills",
       "url": "https://open.spotify.com/track/7mvnU6KO4nC2C37BrbF4YL"
@@ -3553,7 +3711,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 135187,
       "name": "Tomb",
       "url": "https://open.spotify.com/track/6WTGLr26egcppsIEHeBuL3"
@@ -3597,6 +3755,28 @@
       "duration_ms": 212319,
       "name": "Traversed",
       "url": "https://open.spotify.com/track/5Y8exvnvuYA24sEdo1d1TS"
+    },
+    {
+      "album": {
+        "name": "Framed Space: Selected Works 2014-2017",
+        "url": "https://open.spotify.com/album/1hOdkJC3mrDganKOFFjUWu"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Gigi Masin",
+          "url": "https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339025,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/6sgxMkvgsSjpHc9kdECxoC"
     },
     {
       "album": {
@@ -3755,7 +3935,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 269861,
       "name": "V4.3 pt. 2",
       "url": "https://open.spotify.com/track/315NEEn9ZZupYATwDKb88G"

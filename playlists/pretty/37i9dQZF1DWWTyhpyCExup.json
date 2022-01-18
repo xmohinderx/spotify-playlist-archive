@@ -1,7 +1,7 @@
 {
   "description": "Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music. Cover: Jon Batiste",
-  "name": "Our Roots",
   "num_followers": 6067,
+  "original_name": "Our Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1161,5 +1161,6 @@
       "url": "https://open.spotify.com/track/7rJNvxjt9dXQkRYNrQfjOV"
     }
   ],
+  "unique_name": "Our Roots",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWTyhpyCExup"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Svensk jazz n\u00e4r den \u00e4r som b\u00e4st.",
-  "name": "Svensk jazz",
   "num_followers": 26698,
+  "original_name": "Svensk jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1573,5 +1573,6 @@
       "url": "https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE"
     }
   ],
+  "unique_name": "Svensk jazz",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4roJ565TJ33"
 }

@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Tracks in Travel",
   "num_followers": 5278,
+  "original_name": "Top Tracks in Travel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -425,5 +425,6 @@
       "url": "https://open.spotify.com/track/6vgdsUtEcdRJtXbr1w9RT1"
     }
   ],
+  "unique_name": "Top Tracks in Travel",
   "url": "https://open.spotify.com/playlist/2Hg4Q2t6mD8PITWKAQCMFD"
 }

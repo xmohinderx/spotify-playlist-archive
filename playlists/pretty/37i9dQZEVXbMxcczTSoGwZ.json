@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
-  "name": "Top 50 - Finland",
   "num_followers": 121408,
+  "original_name": "Top 50 - Finland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -933,5 +933,6 @@
       "url": "https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ"
     }
   ],
+  "unique_name": "Top 50 - Finland",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMxcczTSoGwZ"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Hit music from Ethiopia's finest.",
-  "name": "Ethio-Pop",
-  "num_followers": 10611,
+  "num_followers": 10612,
+  "original_name": "Ethio-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -905,5 +905,6 @@
       "url": "https://open.spotify.com/track/6p6EtFi1gebyBR0gkXYEbS"
     }
   ],
+  "unique_name": "Ethio-Pop",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8Q8vgP3md04"
 }

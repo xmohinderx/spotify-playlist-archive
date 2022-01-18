@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Fuck Valentine!",
   "num_followers": 42,
+  "original_name": "Fuck Valentine!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1201,5 +1201,6 @@
       "url": "https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl"
     }
   ],
+  "unique_name": "Fuck Valentine!",
   "url": "https://open.spotify.com/playlist/5Dn14a8hNIhT3NLLjUUBGL"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Escape the world with the best, most relaxing Jazz.",
-  "name": "The Jazz Escape",
   "num_followers": 85,
+  "original_name": "The Jazz Escape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -853,5 +853,6 @@
       "url": "https://open.spotify.com/track/2Jy6tT44Ay0m5kTUQs2GJB"
     }
   ],
+  "unique_name": "The Jazz Escape",
   "url": "https://open.spotify.com/playlist/7hjaw2oDqkMS2uDk5vmzAu"
 }

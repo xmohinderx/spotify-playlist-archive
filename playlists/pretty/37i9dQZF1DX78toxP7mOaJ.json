@@ -1,7 +1,7 @@
 {
   "description": "Fresh rock from independent artists every Wednesday. Cover: Daphne's Couch | Artwork: Jim Klok",
-  "name": "Fresh Finds Rock",
-  "num_followers": 87509,
+  "num_followers": 87520,
+  "original_name": "Fresh Finds Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1649,5 +1649,6 @@
       "url": "https://open.spotify.com/track/1WaKD5cNCYS7EgcJETMh2g"
     }
   ],
+  "unique_name": "Fresh Finds Rock",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ"
 }

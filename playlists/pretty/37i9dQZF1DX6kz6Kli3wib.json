@@ -1,7 +1,7 @@
 {
   "description": "Soft electronic music for your dinner.",
-  "name": "Dinner Lounge",
-  "num_followers": 130163,
+  "num_followers": 130156,
+  "original_name": "Dinner Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -2465,5 +2465,6 @@
       "url": "https://open.spotify.com/track/354rwG2WjcE4G6Gf43U1hy"
     }
   ],
+  "unique_name": "Dinner Lounge",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6kz6Kli3wib"
 }

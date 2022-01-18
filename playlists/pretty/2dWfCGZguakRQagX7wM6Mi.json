@@ -1,7 +1,7 @@
 {
   "description": "Stay tuned for a fresh mix of flashback hits! This week, party like it's 1999!",
-  "name": "#FlashbackFriday",
   "num_followers": 317,
+  "original_name": "#FlashbackFriday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -849,5 +849,6 @@
       "url": "https://open.spotify.com/track/2EFNNFGIgSqHZaU1V16KRr"
     }
   ],
+  "unique_name": "#FlashbackFriday",
   "url": "https://open.spotify.com/playlist/2dWfCGZguakRQagX7wM6Mi"
 }

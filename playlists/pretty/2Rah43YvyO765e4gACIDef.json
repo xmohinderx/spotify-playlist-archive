@@ -1,7 +1,7 @@
 {
   "description": "Wake up in your makeup? Rock it.",
-  "name": "#Hotmess",
   "num_followers": 74,
+  "original_name": "#Hotmess",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -393,5 +393,6 @@
       "url": "https://open.spotify.com/track/5GvrWC5WIeUcUi2q1ywhYY"
     }
   ],
+  "unique_name": "#Hotmess",
   "url": "https://open.spotify.com/playlist/2Rah43YvyO765e4gACIDef"
 }

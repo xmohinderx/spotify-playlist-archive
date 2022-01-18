@@ -1,7 +1,7 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "name": "This Is Ravel",
-  "num_followers": 37689,
+  "num_followers": 37692,
+  "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1673,5 +1673,6 @@
       "url": "https://open.spotify.com/track/7lkXt8wHRkHb4lvwQRZZVx"
     }
   ],
+  "unique_name": "This Is Ravel",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZhMbcax6CUd"
 }

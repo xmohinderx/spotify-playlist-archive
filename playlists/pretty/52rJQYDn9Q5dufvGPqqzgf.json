@@ -1,7 +1,7 @@
 {
   "description": "Celebrate your baby girl and spread the good news!",
-  "name": "It's a Girl!",
   "num_followers": 209,
+  "original_name": "It's a Girl!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -409,5 +409,6 @@
       "url": "https://open.spotify.com/track/2TZKX5LUciQcMbvqVNCXjk"
     }
   ],
+  "unique_name": "It's a Girl!",
   "url": "https://open.spotify.com/playlist/52rJQYDn9Q5dufvGPqqzgf"
 }

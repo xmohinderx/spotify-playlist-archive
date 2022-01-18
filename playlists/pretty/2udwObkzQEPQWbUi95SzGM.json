@@ -1,7 +1,7 @@
 {
   "description": "Escalating folk and chamber pop to pump up your day.",
-  "name": "Up & Out",
   "num_followers": 127,
+  "original_name": "Up & Out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -361,5 +361,6 @@
       "url": "https://open.spotify.com/track/3gbBpTdY8lnQwqxNCcf795"
     }
   ],
+  "unique_name": "Up & Out",
   "url": "https://open.spotify.com/playlist/2udwObkzQEPQWbUi95SzGM"
 }

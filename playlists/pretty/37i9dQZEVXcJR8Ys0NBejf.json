@@ -1,7 +1,7 @@
 {
   "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
-  "name": "Discover Weekly (@catzs)",
   "num_followers": 1,
+  "original_name": "Discover Weekly (@catzs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -521,5 +521,6 @@
       "url": "https://open.spotify.com/track/3EwhrR9ts4IwheC8o6yCz4"
     }
   ],
+  "unique_name": "Discover Weekly (@catzs)",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXcJR8Ys0NBejf"
 }

@@ -173,7 +173,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 231568,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/4sGCBGyyNPVv3ZExd9RJ8a"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 242758,
       "name": "Boom (feat. Tonn Piper)",
       "url": "https://open.spotify.com/track/51xVwKyFMgrKeeLePsomNI"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 205011,
       "name": "Buss The Red",
       "url": "https://open.spotify.com/track/67X5z4XFBbRxjbfbIGP3Ii"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 227586,
       "name": "Changes",
       "url": "https://open.spotify.com/track/5dWmmgi7LKMpH1cfrRapxT"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 157521,
       "name": "CHERRY",
       "url": "https://open.spotify.com/track/7ozVjHGiCPXJ8I9ktvWakW"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 254339,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/0gagDJrA1Kdm1xmwOzNoSN"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 252744,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/2XTVCQI1LwJOiwKGA14co2"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 297964,
       "name": "First To Go - Edlan Remix",
       "url": "https://open.spotify.com/track/4YDgz9iDzgs8FC47XwSyjP"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 158620,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/5yZ0qWaaLroWRwM7f1YZ3W"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 217000,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5D4YdAFb2OUZ4xtsevk4Xl"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 209655,
       "name": "Mac 19",
       "url": "https://open.spotify.com/track/0cfzsbbOnqe8Ly6quaBKDk"
@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 290742,
       "name": "Sientelo",
       "url": "https://open.spotify.com/track/0VPtIe8j9wZMVTcYWURQGd"
@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 268955,
       "name": "Sweeter",
       "url": "https://open.spotify.com/track/3u787rFfUvg3kMK7tNyjiV"
@@ -1838,6 +1838,24 @@
     },
     {
       "album": {
+        "name": "Ultralight",
+        "url": "https://open.spotify.com/album/4gXeehzyi205HkjcXKp9Oc"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Ultralight",
+      "url": "https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314"
+    },
+    {
+      "album": {
         "name": "Used to This",
         "url": "https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm"
       },
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 216637,
       "name": "Where\u2019s Your Head At - 1991 Remix",
       "url": "https://open.spotify.com/track/3MX0TGUzniV9GiEVEcjNqB"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 224991,
       "name": "You & Me (feat. Selin)",
       "url": "https://open.spotify.com/track/0fMwDS1m5ZJMA0SLTNoZxs"

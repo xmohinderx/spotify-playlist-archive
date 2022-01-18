@@ -1,7 +1,7 @@
 {
   "description": "Remember the biggest boy bands of the 90s? They are all here!",
-  "name": "90s Boy Bands",
-  "num_followers": 55577,
+  "num_followers": 55582,
+  "original_name": "90s Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -697,5 +697,6 @@
       "url": "https://open.spotify.com/track/6Ln76fIfkdmL6UHbuYR756"
     }
   ],
+  "unique_name": "90s Boy Bands",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX17dmzi8A5FV"
 }

@@ -1,7 +1,7 @@
 {
   "description": "All the best new tracks this week, all in one place. Cover: Avril Lavigne",
-  "name": "New Music Friday Canada",
-  "num_followers": 320502,
+  "num_followers": 320495,
+  "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1753,5 +1753,6 @@
       "url": "https://open.spotify.com/track/1Fm5W64ccdN74IWDY6vtrI"
     }
   ],
+  "unique_name": "New Music Friday Canada",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5DfG8gQdC3F"
 }

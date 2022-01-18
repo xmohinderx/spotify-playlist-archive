@@ -1,7 +1,7 @@
 {
   "description": "The ultimate chill out playlist.",
-  "name": "Chill Out Music",
-  "num_followers": 751196,
+  "num_followers": 751204,
+  "original_name": "Chill Out Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -3597,5 +3597,6 @@
       "url": "https://open.spotify.com/track/6NZMz8XyEGKmVc7ngRBlkt"
     }
   ],
+  "unique_name": "Chill Out Music",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX32oVqaQE8BM"
 }

@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Events",
   "num_followers": 29,
+  "original_name": "Top Picks Events",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -349,5 +349,6 @@
       "url": "https://open.spotify.com/track/5M8nEsWqUkwUwCp58ydE4W"
     }
   ],
+  "unique_name": "Top Picks Events",
   "url": "https://open.spotify.com/playlist/2Mecjd64RGHE4vLDMuX88V"
 }

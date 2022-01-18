@@ -1,7 +1,7 @@
 {
   "description": "Stuck in stop and go? This should help.",
-  "name": "Traffic Jams",
   "num_followers": 1310,
+  "original_name": "Traffic Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1285,5 +1285,6 @@
       "url": "https://open.spotify.com/track/3Gamc2D6VSlXpUcmhPUFYt"
     }
   ],
+  "unique_name": "Traffic Jams",
   "url": "https://open.spotify.com/playlist/0mY9BQvlpraYLzg9BfKuVa"
 }

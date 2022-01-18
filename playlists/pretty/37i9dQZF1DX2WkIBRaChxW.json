@@ -1,7 +1,7 @@
 {
   "description": "What's happening in R&B, right now. Cover: The Weeknd",
-  "name": "R&B Right Now",
-  "num_followers": 345769,
+  "num_followers": 345774,
+  "original_name": "R&B Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1417,5 +1417,6 @@
       "url": "https://open.spotify.com/track/6oNlhbPtDLVMcSKzloa3WO"
     }
   ],
+  "unique_name": "R&B Right Now",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2WkIBRaChxW"
 }

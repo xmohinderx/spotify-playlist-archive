@@ -1,7 +1,7 @@
 {
   "description": "Celebrate the career of one of the most influential <a href=\"spotify:artist:1mFX1QlezK1lNPKQJkhwWb\">R&B groups</a> of all time.",
-  "name": "This Is New Edition",
-  "num_followers": 107017,
+  "num_followers": 107025,
+  "original_name": "This Is New Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -753,5 +753,6 @@
       "url": "https://open.spotify.com/track/2ktjSreVH3T7598zGwBC56"
     }
   ],
+  "unique_name": "This Is New Edition",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWThFkopzOaNW"
 }

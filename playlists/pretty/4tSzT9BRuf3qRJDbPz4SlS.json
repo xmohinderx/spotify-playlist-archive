@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Romance",
   "num_followers": 52,
+  "original_name": "Top Picks Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -349,5 +349,6 @@
       "url": "https://open.spotify.com/track/6OA6JTMUGmQRtYGxpXgEa1"
     }
   ],
+  "unique_name": "Top Picks Romance",
   "url": "https://open.spotify.com/playlist/4tSzT9BRuf3qRJDbPz4SlS"
 }

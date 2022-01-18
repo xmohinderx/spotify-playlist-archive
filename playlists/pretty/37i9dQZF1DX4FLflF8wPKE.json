@@ -1,7 +1,7 @@
 {
   "description": "Relax and escape with these tranquil tracks.",
-  "name": "Tranquility",
-  "num_followers": 76860,
+  "num_followers": 76864,
+  "original_name": "Tranquility",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1477,5 +1477,6 @@
       "url": "https://open.spotify.com/track/6IihP5ExawBf9ddqN5fO6k"
     }
   ],
+  "unique_name": "Tranquility",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4FLflF8wPKE"
 }

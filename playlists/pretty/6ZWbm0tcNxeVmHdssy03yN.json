@@ -1,7 +1,7 @@
 {
   "description": "The best independent music in a post-genre world",
-  "name": "HEADPHONES",
-  "num_followers": 30156,
+  "num_followers": 30159,
+  "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
@@ -1733,5 +1733,6 @@
       "url": "https://open.spotify.com/track/1DELQ06xFcX2U7xKaJpOxA"
     }
   ],
+  "unique_name": "HEADPHONES",
   "url": "https://open.spotify.com/playlist/6ZWbm0tcNxeVmHdssy03yN"
 }

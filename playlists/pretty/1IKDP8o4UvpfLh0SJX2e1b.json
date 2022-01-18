@@ -1,7 +1,7 @@
 {
   "description": "Free-spirited, eclectic, and decadent lyrics mix with folksy, indie, and slightly psychedelic acoustics. This is The New Bohemian.",
-  "name": "The New Bohemian",
   "num_followers": 133,
+  "original_name": "The New Bohemian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1313,5 +1313,6 @@
       "url": "https://open.spotify.com/track/6UT1Gxt8Qq2KMOHqSCJCLk"
     }
   ],
+  "unique_name": "The New Bohemian",
   "url": "https://open.spotify.com/playlist/1IKDP8o4UvpfLh0SJX2e1b"
 }

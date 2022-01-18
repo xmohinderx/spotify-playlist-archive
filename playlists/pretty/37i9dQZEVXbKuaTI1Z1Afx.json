@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most viral tracks right now - USA.",
-  "name": "Viral 50 - USA",
   "num_followers": 357315,
+  "original_name": "Viral 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -929,5 +929,6 @@
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     }
   ],
+  "unique_name": "Viral 50 - USA",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKuaTI1Z1Afx"
 }

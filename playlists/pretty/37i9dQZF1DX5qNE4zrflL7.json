@@ -1,7 +1,7 @@
 {
   "description": "The songs that influenced everything that has happened since. Cover: Jimi Hendrix",
-  "name": "Alternative 60s",
-  "num_followers": 263607,
+  "num_followers": 263609,
+  "original_name": "Alternative 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1297,5 +1297,6 @@
       "url": "https://open.spotify.com/track/2WhRJwrsy57H5Mm1P3lykJ"
     }
   ],
+  "unique_name": "Alternative 60s",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5qNE4zrflL7"
 }

@@ -1,12 +1,12 @@
 {
-  "description": "With LeBrock, Trevor Something, Primo and more",
-  "name": "The Midnight Radio",
-  "num_followers": 10097,
+  "description": "With Timecop1983, Gunship, Mitch Murder and more",
+  "num_followers": 10099,
+  "original_name": "The Midnight Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2NzAxNCwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi",
+  "snapshot_id": "MTY0MjQ3OTQ2MCwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi",
   "tracks": [
     {
       "added_at": null,
@@ -849,5 +849,6 @@
       "url": "https://open.spotify.com/track/5iTda1icTNQH81m8nASF8t"
     }
   ],
+  "unique_name": "The Midnight Radio",
   "url": "https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI"
 }

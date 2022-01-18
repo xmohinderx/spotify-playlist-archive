@@ -1,7 +1,7 @@
 {
   "description": "Spend some quality time with these romantic classical masterpieces.",
-  "name": "Classical Romance",
-  "num_followers": 376294,
+  "num_followers": 376307,
+  "original_name": "Classical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -937,5 +937,6 @@
       "url": "https://open.spotify.com/track/17gz8bmRy8HDUf6AZBnD5K"
     }
   ],
+  "unique_name": "Classical Romance",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4s3V2rTswzO"
 }

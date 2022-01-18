@@ -1,7 +1,7 @@
 {
   "description": "The perfect playlist for a great party. Fun, happy, joyful... the kids will love it!",
-  "name": "Kids B-day Party",
   "num_followers": 31394,
+  "original_name": "Kids B-day Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -725,5 +725,6 @@
       "url": "https://open.spotify.com/track/6BEy3rp6994OcBZvv8o5b4"
     }
   ],
+  "unique_name": "Kids B-day Party",
   "url": "https://open.spotify.com/playlist/6PzNMpCPMDMo1pOUjNhDUC"
 }

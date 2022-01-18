@@ -1,7 +1,7 @@
 {
   "description": "The best of Deftones, all in one place.",
-  "name": "This Is Deftones",
   "num_followers": 174225,
+  "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -809,5 +809,6 @@
       "url": "https://open.spotify.com/track/0qVlikZi9VNhMnPf47zGMv"
     }
   ],
+  "unique_name": "This Is Deftones",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6zPl1mbTZSq"
 }

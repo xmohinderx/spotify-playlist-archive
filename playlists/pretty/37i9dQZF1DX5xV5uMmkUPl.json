@@ -1,7 +1,7 @@
 {
   "description": "Lo nuevo y lo esencial de Ren\u00e9.",
-  "name": "This Is Residente",
   "num_followers": 134110,
+  "original_name": "This Is Residente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -365,5 +365,6 @@
       "url": "https://open.spotify.com/track/6dABTmyCBksFEW76oTOr5q"
     }
   ],
+  "unique_name": "This Is Residente",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5xV5uMmkUPl"
 }

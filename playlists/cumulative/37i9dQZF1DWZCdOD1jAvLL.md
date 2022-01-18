@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZCdOD1jAvLL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZCdOD1jAvLL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZCdOD1jAvLL)
 
-### Bangers
+### [Bangers](https://open.spotify.com/playlist/2inX9KjLJ9q0s1JwzrIqze)
 
 > Ride the bassline\. Cover: Zeds Dead, Subtronics, Flowdan
 

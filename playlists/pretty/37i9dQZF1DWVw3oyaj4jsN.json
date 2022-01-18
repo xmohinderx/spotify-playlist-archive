@@ -1,7 +1,7 @@
 {
   "description": "Meet G-Dragon, Taeyang, T.O.P, and Daesung\u2014members of the acclaimed K-Pop phenom with their V.I.Ps",
-  "name": "This Is: BIGBANG",
   "num_followers": 604760,
+  "original_name": "This Is: BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -761,5 +761,6 @@
       "url": "https://open.spotify.com/track/0r6cbuaBbvrCMIIAUWUsNA"
     }
   ],
+  "unique_name": "This Is: BIGBANG",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVw3oyaj4jsN"
 }

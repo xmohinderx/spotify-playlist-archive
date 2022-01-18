@@ -1,7 +1,7 @@
 {
   "description": "We've all been there. This playlist can help. Just don't let your boss catch you listening....",
-  "name": "I Hate My Job.",
   "num_followers": 2410,
+  "original_name": "I Hate My Job.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -625,5 +625,6 @@
       "url": "https://open.spotify.com/track/6TEVFttBadrsDhlpQJRIK0"
     }
   ],
+  "unique_name": "I Hate My Job.",
   "url": "https://open.spotify.com/playlist/6cdV0hVW2suJaMOxzwE46S"
 }

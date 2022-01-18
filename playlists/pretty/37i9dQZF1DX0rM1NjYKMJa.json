@@ -1,7 +1,7 @@
 {
   "description": "DJ Private Ryan takes over our Carnival playlist for Carnival season 2021",
-  "name": "Carnival",
-  "num_followers": 176330,
+  "num_followers": 176329,
+  "original_name": "Carnival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -965,5 +965,6 @@
       "url": "https://open.spotify.com/track/6mwwsvHtE7yPAEAYAIAqmB"
     }
   ],
+  "unique_name": "Carnival",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa"
 }

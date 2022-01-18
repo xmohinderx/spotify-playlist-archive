@@ -1,7 +1,7 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "name": "Eastern Vibes",
-  "num_followers": 6583,
+  "num_followers": 6584,
+  "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1309,5 +1309,6 @@
       "url": "https://open.spotify.com/track/5FKRgg3w4e4uKOiLxttCSY"
     }
   ],
+  "unique_name": "Eastern Vibes",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVkyW4DM7wMY"
 }

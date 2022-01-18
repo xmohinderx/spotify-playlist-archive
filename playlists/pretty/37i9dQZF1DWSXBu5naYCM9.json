@@ -1,7 +1,7 @@
 {
   "description": "Timeless melodies from your favourite artists, both old and new.",
-  "name": "A Perfect Day",
-  "num_followers": 793524,
+  "num_followers": 793529,
+  "original_name": "A Perfect Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1165,5 +1165,6 @@
       "url": "https://open.spotify.com/track/4tIhDBT9YgxR38EJ7kXN2F"
     }
   ],
+  "unique_name": "A Perfect Day",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSXBu5naYCM9"
 }

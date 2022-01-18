@@ -1,7 +1,7 @@
 {
   "description": "Country music with a Latin flair. Cover: Kat & Alex",
-  "name": "Country Latino",
-  "num_followers": 8982,
+  "num_followers": 8991,
+  "original_name": "Country Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1285,5 +1285,6 @@
       "url": "https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN"
     }
   ],
+  "unique_name": "Country Latino",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5U9LWxuimGj"
 }

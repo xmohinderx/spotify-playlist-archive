@@ -1,7 +1,7 @@
 {
   "description": "Country's Top 50 most played songs\u2014in the world. Updated weekly. Formerly Nashville's Worldwide Hot 50.",
-  "name": "Country Worldwide Hot 50",
-  "num_followers": 507487,
+  "num_followers": 507534,
+  "original_name": "Country Worldwide Hot 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -853,5 +853,6 @@
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
     }
   ],
+  "unique_name": "Country Worldwide Hot 50",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7aUUBCKwo4Y"
 }

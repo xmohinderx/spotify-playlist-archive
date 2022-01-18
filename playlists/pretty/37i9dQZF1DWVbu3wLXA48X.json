@@ -1,7 +1,7 @@
 {
   "description": "Current indie tunes from Asia and around the world. Cover: Paul Cherry",
-  "name": "Indie Shuffle",
-  "num_followers": 89088,
+  "num_followers": 89092,
+  "original_name": "Indie Shuffle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1381,5 +1381,6 @@
       "url": "https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M"
     }
   ],
+  "unique_name": "Indie Shuffle",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVbu3wLXA48X"
 }

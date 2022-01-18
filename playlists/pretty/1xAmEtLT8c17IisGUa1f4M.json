@@ -1,7 +1,7 @@
 {
   "description": "38 great tunes by female singers only!",
-  "name": "38 Great Female Duets",
   "num_followers": 8339,
+  "original_name": "38 Great Female Duets",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -785,5 +785,6 @@
       "url": "https://open.spotify.com/track/2NsanI9fS6MuVCBvHXjt8F"
     }
   ],
+  "unique_name": "38 Great Female Duets",
   "url": "https://open.spotify.com/playlist/1xAmEtLT8c17IisGUa1f4M"
 }

@@ -1,7 +1,7 @@
 {
   "description": "A gathering of essentials by the <a href=\"spotify:artist:5s6TJEuHTr9GR894wc6VfP\">Americana icon</a>.",
-  "name": "This Is Emmylou Harris",
   "num_followers": 47482,
+  "original_name": "This Is Emmylou Harris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1301,5 +1301,6 @@
       "url": "https://open.spotify.com/track/3BVmr5izeSoE3H9256z5eh"
     }
   ],
+  "unique_name": "This Is Emmylou Harris",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8kcxLFdICLh"
 }

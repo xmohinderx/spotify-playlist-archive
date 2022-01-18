@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5COO9vTaRpO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5COO9vTaRpO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5COO9vTaRpO)
 
-### This Is The Rolling Stones \(2\)
+### [This Is The Rolling Stones \(2\)](https://open.spotify.com/playlist/0vFowEiBrXTiLgDSTmBtAU)
 
 > Honoring the life and legacy of the great Charlie Watts
 

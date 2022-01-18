@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Global.",
-  "name": "Top 50 - Global",
-  "num_followers": 16506570,
+  "num_followers": 16506824,
+  "original_name": "Top 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -921,5 +921,6 @@
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     }
   ],
+  "unique_name": "Top 50 - Global",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF"
 }

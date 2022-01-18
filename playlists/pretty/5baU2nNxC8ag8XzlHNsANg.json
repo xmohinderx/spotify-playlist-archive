@@ -1,7 +1,7 @@
 {
   "description": "All your favorite hits from the decade you love most!",
-  "name": "Bring Back the 2000s",
   "num_followers": 6408,
+  "original_name": "Bring Back the 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1333,5 +1333,6 @@
       "url": "https://open.spotify.com/track/3zdDxhDo5SycC7XSAPfdjv"
     }
   ],
+  "unique_name": "Bring Back the 2000s",
   "url": "https://open.spotify.com/playlist/5baU2nNxC8ag8XzlHNsANg"
 }

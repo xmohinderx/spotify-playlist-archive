@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "2008",
   "num_followers": 871,
+  "original_name": "2008",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -869,5 +869,6 @@
       "url": "https://open.spotify.com/track/3HrvYuNSbihekRPHkNDeGe"
     }
   ],
+  "unique_name": "2008",
   "url": "https://open.spotify.com/playlist/3jibtPWLDXBK0OCJN6Ztsf"
 }

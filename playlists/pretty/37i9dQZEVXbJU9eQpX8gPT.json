@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
-  "name": "Top 50 - Morocco",
-  "num_followers": 11930,
+  "num_followers": 11932,
+  "original_name": "Top 50 - Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -877,5 +877,6 @@
       "url": "https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS"
     }
   ],
+  "unique_name": "Top 50 - Morocco",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJU9eQpX8gPT"
 }

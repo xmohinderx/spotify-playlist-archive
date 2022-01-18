@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Toplists",
   "num_followers": 67,
+  "original_name": "Top Picks Toplists",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -409,5 +409,6 @@
       "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
     }
   ],
+  "unique_name": "Top Picks Toplists",
   "url": "https://open.spotify.com/playlist/4lCv0oN3gPxoqvXmA3cDjS"
 }

@@ -1,7 +1,7 @@
 {
   "description": "The latest singles on Spotify all in one playlist. Updated weekly.",
-  "name": "New Singles on Spotify",
   "num_followers": 15818,
+  "original_name": "New Singles on Spotify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1345,5 +1345,6 @@
       "url": "https://open.spotify.com/track/0l3EAxaJbPkDqCWg8FpdeM"
     }
   ],
+  "unique_name": "New Singles on Spotify",
   "url": "https://open.spotify.com/playlist/5JOn3LSfpbCrOQ7azB4S6C"
 }

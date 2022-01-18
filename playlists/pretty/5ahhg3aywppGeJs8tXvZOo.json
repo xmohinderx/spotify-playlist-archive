@@ -1,7 +1,7 @@
 {
   "description": "Fresh takes on all of your favorite standards.",
-  "name": "The New Standards",
   "num_followers": 74,
+  "original_name": "The New Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -429,5 +429,6 @@
       "url": "https://open.spotify.com/track/5BJmdbayrUuwVQK2eK1lr1"
     }
   ],
+  "unique_name": "The New Standards",
   "url": "https://open.spotify.com/playlist/5ahhg3aywppGeJs8tXvZOo"
 }

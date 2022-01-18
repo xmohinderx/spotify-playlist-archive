@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTtzPKJEaTC4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTtzPKJEaTC4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTtzPKJEaTC4)
 
-### [Terrace Martin Digs Jazz](https://open.spotify.com/playlist/2TueXG9KHKKt0m4pFfGeCr)
+### [Terrace Martin Digs Jazz](https://open.spotify.com/playlist/2qMzxMtm3OKS2mUDUNdDKU)
 
 > <a href="spotify:artist:7MNEVabc4cs19CbzAFZmXz">Terrace Martin</a> shares his jazz favorites
 

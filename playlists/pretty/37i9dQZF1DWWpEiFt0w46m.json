@@ -1,7 +1,7 @@
 {
   "description": "The essential tracks, all in one playlist.",
-  "name": "This Is Fleet Foxes",
   "num_followers": 44262,
+  "original_name": "This Is Fleet Foxes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -649,5 +649,6 @@
       "url": "https://open.spotify.com/track/7ejNRmaEYpXVbdWEulQbb4"
     }
   ],
+  "unique_name": "This Is Fleet Foxes",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWpEiFt0w46m"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Your essential collection of music by the visionary <a href=\"spotify:artist:1EI0NtLHoh9KBziYCeN1vM\">artist</a>, all in a single playlist.",
-  "name": "This Is Rhiannon Giddens",
   "num_followers": 13765,
+  "original_name": "This Is Rhiannon Giddens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1673,5 +1673,6 @@
       "url": "https://open.spotify.com/track/3HdJsIKm0jE8XS5oFWrlfX"
     }
   ],
+  "unique_name": "This Is Rhiannon Giddens",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3BGNfdmZK0t"
 }

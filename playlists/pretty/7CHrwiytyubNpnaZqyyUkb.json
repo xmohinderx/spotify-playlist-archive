@@ -1,7 +1,7 @@
 {
   "description": "Rockabilly and old school rock & roll\u2014the perfect soundtrack to a night of beer and burgers.",
-  "name": "Beer 'n Burgers",
   "num_followers": 15634,
+  "original_name": "Beer 'n Burgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -349,5 +349,6 @@
       "url": "https://open.spotify.com/track/3jfpT6NaxztOflqrYWJtQd"
     }
   ],
+  "unique_name": "Beer 'n Burgers",
   "url": "https://open.spotify.com/playlist/7CHrwiytyubNpnaZqyyUkb"
 }

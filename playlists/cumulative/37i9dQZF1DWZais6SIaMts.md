@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZais6SIaMts.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZais6SIaMts) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZais6SIaMts)
 
-### [This Is Bonobo \(2\)](https://open.spotify.com/playlist/3Lqe04NZCgclmzpw1Wxzz9)
+### [This Is Bonobo \(2\)](https://open.spotify.com/playlist/3sHkOtBaIPlhpfOT6TRa1G)
 
 > The pivotal tracks by the genre\-redefining <a href="spotify:artist:0cmWgDlu9CwTgxPhf403hb">producer</a>, composer, and DJ.
 

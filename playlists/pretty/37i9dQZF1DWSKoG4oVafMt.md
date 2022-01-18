@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring " Satinder Sartaaj".
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,247 likes - 78 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,251 likes - 78 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

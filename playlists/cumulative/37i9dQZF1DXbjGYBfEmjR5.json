@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-17",
   "description": "Dance yourself back in time with these 80s sampled futuristic rhythms. Welcome to the future of funk.",
   "name": "Future Funk",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5Mb9k5KDyY5oYukNfuYpM8"
+  ],
   "tracks": [
     {
       "album": {
@@ -151,7 +153,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 218947,
       "name": "Bbrown",
       "url": "https://open.spotify.com/track/21JcSs9Zkdc2kuNzoLBcbz"
@@ -631,7 +633,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 215125,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
@@ -711,7 +713,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 154714,
       "name": "INTEREST",
       "url": "https://open.spotify.com/track/6UdlzMokOxI2PhDi6fl9HF"
@@ -823,6 +825,24 @@
       "duration_ms": 185806,
       "name": "Love & Affection",
       "url": "https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd"
+    },
+    {
+      "album": {
+        "name": "love u!!",
+        "url": "https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C"
+      },
+      "artists": [
+        {
+          "name": "Aests",
+          "url": "https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150004,
+      "name": "love u!!",
+      "url": "https://open.spotify.com/track/0EeokoKzJwbnEzJi6cDbry"
     },
     {
       "album": {
@@ -1135,7 +1155,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 145920,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2"
@@ -1250,6 +1270,28 @@
     },
     {
       "album": {
+        "name": "alchemist rats beg bashful (remixes)",
+        "url": "https://open.spotify.com/album/2NgnnfzxHXketoOg1iU9uw"
+      },
+      "artists": [
+        {
+          "name": "glass beach",
+          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
+        },
+        {
+          "name": "Skylar Spence",
+          "url": "https://open.spotify.com/artist/0x0u0jCVf5Jf4DNh45XPXL"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202153,
+      "name": "Rat Castle (Skylar Spence Remix)",
+      "url": "https://open.spotify.com/track/7coIyCR7adaGjC7cEc5Vow"
+    },
+    {
+      "album": {
         "name": "\u674f\u91cc - Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
         "url": "https://open.spotify.com/album/77kXckOL5mwaVEeWTExyvz"
       },
@@ -1265,7 +1307,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 226909,
       "name": "Remember Summer Days (Night Tempo Showa Groove Mix)",
       "url": "https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE"
@@ -1425,7 +1467,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 180000,
       "name": "Soul",
       "url": "https://open.spotify.com/track/7LoZEGOrU0h8nY6YK4fywE"
@@ -1443,7 +1485,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 176269,
       "name": "SOULLL",
       "url": "https://open.spotify.com/track/3kEfPE27bw75A4IXlr7szx"
@@ -1479,7 +1521,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 228396,
       "name": "Square Two",
       "url": "https://open.spotify.com/track/7nGEutN0d98FkCfn25IjPS"
@@ -1573,7 +1615,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 251254,
       "name": "Strawby Strawby Beat",
       "url": "https://open.spotify.com/track/1yXm6iZUu6ZHcwmpUbYgba"
@@ -1613,6 +1655,24 @@
       "duration_ms": 153074,
       "name": "Sweet Baby!",
       "url": "https://open.spotify.com/track/4O1I1VgHT0d0Ntkbuge658"
+    },
+    {
+      "album": {
+        "name": "Swimsuits",
+        "url": "https://open.spotify.com/album/12swMc3oZGNfma2tvWOsnh"
+      },
+      "artists": [
+        {
+          "name": "ED.",
+          "url": "https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179261,
+      "name": "Swimsuits",
+      "url": "https://open.spotify.com/track/2nVUdR91kwV4kHoAE9r1tY"
     },
     {
       "album": {
@@ -1685,7 +1745,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 140692,
       "name": "THANK YOU",
       "url": "https://open.spotify.com/track/5xkt8vnh8OBCrnzeL9dxGs"
@@ -1797,7 +1857,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/6a9LRx9D3CsZ0HDP0YI3A1"
@@ -1971,7 +2031,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 165000,
       "name": "Yatsuro Tamashita",
       "url": "https://open.spotify.com/track/2nSIEWaJDpYhZEMciiIKUR"
@@ -2091,7 +2151,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 259855,
       "name": "\u30d0\u30a4\u5c11\u5973\u6642\u4ee3",
       "url": "https://open.spotify.com/track/3XfKumvamwW49nvWeOAYex"

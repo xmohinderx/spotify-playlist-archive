@@ -1,7 +1,7 @@
 {
   "description": "This is Kendrick Lamar. Essential tracks all in one playlist. ",
-  "name": "This Is Kendrick Lamar",
-  "num_followers": 991892,
+  "num_followers": 991929,
+  "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -813,5 +813,6 @@
       "url": "https://open.spotify.com/track/6CTG85NJI1Wm60pxTSRNwL"
     }
   ],
+  "unique_name": "This Is Kendrick Lamar",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5EkyRFIV92g"
 }

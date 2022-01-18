@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/4unVIKdkTCDXOJosfpD9UD)
 
-> With Adele, Meryl Streep, Mikky Ekko, Alicia Keys and more
+> With Adele, Christina Perri, Sleeping At Last, Kodaline and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

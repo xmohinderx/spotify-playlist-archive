@@ -1,7 +1,7 @@
 {
   "description": "Una lista perfecta para aquellos corazones que a\u00fan no han sido correspondidos.",
-  "name": "Bienvenido a la Friendzone",
-  "num_followers": 132385,
+  "num_followers": 132431,
+  "original_name": "Bienvenido a la Friendzone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1033,5 +1033,6 @@
       "url": "https://open.spotify.com/track/0gKTjLgXQYvjvlNpg79WbW"
     }
   ],
+  "unique_name": "Bienvenido a la Friendzone",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc8dqv8mDRBy"
 }

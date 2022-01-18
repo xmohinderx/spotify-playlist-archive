@@ -1,7 +1,7 @@
 {
   "description": "A journey through The Beatles' career.",
-  "name": "The Long and Winding Road",
-  "num_followers": 209216,
+  "num_followers": 209229,
+  "original_name": "The Long and Winding Road",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -729,5 +729,6 @@
       "url": "https://open.spotify.com/track/0Oroc0HXQaxs8ONgI7dLnw"
     }
   ],
+  "unique_name": "The Long and Winding Road",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYHkSks5rujC"
 }

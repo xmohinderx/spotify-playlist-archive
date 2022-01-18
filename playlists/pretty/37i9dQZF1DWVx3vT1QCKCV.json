@@ -1,7 +1,7 @@
 {
   "description": "The jazz giant's classic recordings.",
-  "name": "This Is John Coltrane",
-  "num_followers": 161179,
+  "num_followers": 161184,
+  "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -853,5 +853,6 @@
       "url": "https://open.spotify.com/track/6fdLlJJC7D4wkeRVAXR6tK"
     }
   ],
+  "unique_name": "This Is John Coltrane",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVx3vT1QCKCV"
 }

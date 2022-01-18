@@ -1,7 +1,7 @@
 {
   "description": "A chronology of Sir Arthur Conan Doyle's best Sherlock Holmes' adventures, followed by rare and vintage radio and audio adaptations.",
-  "name": "The Adventures of Sherlock Holmes",
   "num_followers": 48359,
+  "original_name": "The Adventures of Sherlock Holmes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -2961,5 +2961,6 @@
       "url": "https://open.spotify.com/track/5tzZKCPM8K7TsuFAfiyFGO"
     }
   ],
+  "unique_name": "The Adventures of Sherlock Holmes",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY3FN0WeKCeB"
 }

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-17",
   "description": "Get your bassface on with these classic Dubstep tracks.",
   "name": "Dubstep Classics",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2qzn7ImjgDrhmEL5jaeO3u"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 301843,
       "name": "26 Basslines",
       "url": "https://open.spotify.com/track/1oyc8GS43HQ0SDunBMn9Bd"
@@ -358,6 +360,28 @@
     },
     {
       "album": {
+        "name": "Blow Your Head - Diplo Presents: Dubstep",
+        "url": "https://open.spotify.com/album/4L07DEQ2oZzbNGRd5AHjzH"
+      },
+      "artists": [
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        },
+        {
+          "name": "Amber Coffman",
+          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266973,
+      "name": "Hold On - Sub Focus Remix",
+      "url": "https://open.spotify.com/track/1p3pNDVO8n9UyNpnNY0qyx"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/3Q7Mi2wjS7jbAd4wkQ7Wjy"
       },
@@ -457,7 +481,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 224040,
       "name": "Intensive Snare feat. Skepta - Original Mix",
       "url": "https://open.spotify.com/track/5iNvnrGvOV6J17eUUc0skt"
@@ -540,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Me Want Cookie",
+        "url": "https://open.spotify.com/album/6oLAMVK3lpLvqWFqqy07Ax"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monsta",
+          "url": "https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219860,
+      "name": "Me Want Cookie",
+      "url": "https://open.spotify.com/track/32DHNTwLq8wX9boBM7Kye7"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/78FzmtmPS5byGfw6tsz8QM"
       },
@@ -595,7 +637,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 306891,
       "name": "Music in Me",
       "url": "https://open.spotify.com/track/3sSwdKGqxmpycfrRHY61Mf"
@@ -707,7 +749,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 184615,
       "name": "Sepia",
       "url": "https://open.spotify.com/track/4vpvkDPQfCVPDS64hBtUbl"
@@ -769,7 +811,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 275056,
       "name": "Sweet Shop",
       "url": "https://open.spotify.com/track/295nnPutAyvfXpVsfwJbga"
@@ -863,7 +905,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 248706,
       "name": "Woo Boost",
       "url": "https://open.spotify.com/track/7INs3UHgJ7VCv4IHt2afvG"

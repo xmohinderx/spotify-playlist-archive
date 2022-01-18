@@ -1,7 +1,7 @@
 {
   "description": "Check out this collection of this vocalist's hottest singles!",
-  "name": "This Is Kelly Khumalo",
   "num_followers": 9030,
+  "original_name": "This Is Kelly Khumalo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -905,5 +905,6 @@
       "url": "https://open.spotify.com/track/79q7qUbVIfpn8J5llwaXLB"
     }
   ],
+  "unique_name": "This Is Kelly Khumalo",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3VxoFMom3BD"
 }

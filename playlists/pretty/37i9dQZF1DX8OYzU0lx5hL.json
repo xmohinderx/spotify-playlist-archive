@@ -1,7 +1,7 @@
 {
   "description": "One of the finest <a href=\"spotify:artist:7G1GBhoKtEPnP86X2PvEYO\">voices</a> we've ever known. Now hear her greatest songs.",
-  "name": "This Is Nina Simone",
-  "num_followers": 343096,
+  "num_followers": 343120,
+  "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -809,5 +809,6 @@
       "url": "https://open.spotify.com/track/2FyTJxPdcMJnrxcIWBSNce"
     }
   ],
+  "unique_name": "This Is Nina Simone",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8OYzU0lx5hL"
 }

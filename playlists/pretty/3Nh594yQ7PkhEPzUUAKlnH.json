@@ -1,7 +1,7 @@
 {
   "description": "It's the weekend and you need some popular songs to hang out with. We've got you covered.",
-  "name": "Let Loose",
   "num_followers": 62,
+  "original_name": "Let Loose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1145,5 +1145,6 @@
       "url": "https://open.spotify.com/track/1UMWbdzeucChFiry9SYQ2w"
     }
   ],
+  "unique_name": "Let Loose",
   "url": "https://open.spotify.com/playlist/3Nh594yQ7PkhEPzUUAKlnH"
 }

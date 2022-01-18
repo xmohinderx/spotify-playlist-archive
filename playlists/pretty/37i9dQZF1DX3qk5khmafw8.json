@@ -1,7 +1,7 @@
 {
   "description": "A collection of live, intimate, exclusive performances from the most exciting pop artists in the world.",
-  "name": "Spotify Sessions - Pop",
   "num_followers": 5713,
+  "original_name": "Spotify Sessions - Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -729,5 +729,6 @@
       "url": "https://open.spotify.com/track/2LEFfsq272ijpJPZuKen8Z"
     }
   ],
+  "unique_name": "Spotify Sessions - Pop",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3qk5khmafw8"
 }

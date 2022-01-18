@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - France.",
-  "name": "Top 50 - France",
-  "num_followers": 782620,
+  "num_followers": 782631,
+  "original_name": "Top 50 - France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -981,5 +981,6 @@
       "url": "https://open.spotify.com/track/2WYpG3Kv1xRTqMSNXVOpAN"
     }
   ],
+  "unique_name": "Top 50 - France",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbIPWwFssbupI"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "name": "Top 50 - Sweden",
-  "num_followers": 586135,
+  "num_followers": 586133,
+  "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -937,5 +937,6 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     }
   ],
+  "unique_name": "Top 50 - Sweden",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLoATJ81JYXz"
 }

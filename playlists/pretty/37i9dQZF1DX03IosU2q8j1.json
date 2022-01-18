@@ -1,7 +1,7 @@
 {
   "description": "Ro, Ro, Ro, Rodrigo carajo!",
-  "name": "This Is Rodrigo",
-  "num_followers": 148897,
+  "num_followers": 148908,
+  "original_name": "This Is Rodrigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1013,5 +1013,6 @@
       "url": "https://open.spotify.com/track/3TKUDzwOmHUti9AHw3784q"
     }
   ],
+  "unique_name": "This Is Rodrigo",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX03IosU2q8j1"
 }

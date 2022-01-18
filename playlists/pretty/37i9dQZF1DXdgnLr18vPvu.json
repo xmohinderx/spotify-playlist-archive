@@ -1,7 +1,7 @@
 {
   "description": "The right music can make a good tailgate great.",
-  "name": "Tailgate Party",
-  "num_followers": 808413,
+  "num_followers": 808407,
+  "original_name": "Tailgate Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1673,5 +1673,6 @@
       "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
     }
   ],
+  "unique_name": "Tailgate Party",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdgnLr18vPvu"
 }

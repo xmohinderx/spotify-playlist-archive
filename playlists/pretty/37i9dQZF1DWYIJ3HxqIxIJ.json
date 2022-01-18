@@ -1,7 +1,7 @@
 {
   "description": "New music from artists who are on our RADAR. Featuring Baker Boy",
-  "name": "RADAR AU & NZ",
   "num_followers": 7353,
+  "original_name": "RADAR AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1393,5 +1393,6 @@
       "url": "https://open.spotify.com/track/1MYODELBg0qtdV6OJiYK94"
     }
   ],
+  "unique_name": "RADAR AU & NZ",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYIJ3HxqIxIJ"
 }

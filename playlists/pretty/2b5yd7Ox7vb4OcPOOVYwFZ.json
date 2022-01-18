@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Chill",
   "num_followers": 56,
+  "original_name": "Top Picks Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -333,5 +333,6 @@
       "url": "https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy"
     }
   ],
+  "unique_name": "Top Picks Chill",
   "url": "https://open.spotify.com/playlist/2b5yd7Ox7vb4OcPOOVYwFZ"
 }

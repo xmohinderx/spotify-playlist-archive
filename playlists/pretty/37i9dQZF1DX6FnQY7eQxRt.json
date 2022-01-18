@@ -1,7 +1,7 @@
 {
   "description": "Your favourite Christmas carols, performed and re-imagined by the world's greatest choirs.",
-  "name": "Christmas Choir",
-  "num_followers": 22709,
+  "num_followers": 22710,
+  "original_name": "Christmas Choir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1661,5 +1661,6 @@
       "url": "https://open.spotify.com/track/0FZJC2ONkPMSlQw8CBqwkI"
     }
   ],
+  "unique_name": "Christmas Choir",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6FnQY7eQxRt"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Explore the evolution of eternal folk songs through some of their essential adaptations \u2013 from field recordings to recent releases. Follow for new additions and song cycles!",
-  "name": "Word of Mouth",
   "num_followers": 51,
+  "original_name": "Word of Mouth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -965,5 +965,6 @@
       "url": "https://open.spotify.com/track/7ERbDKcfniKn1nCYfm4FOh"
     }
   ],
+  "unique_name": "Word of Mouth",
   "url": "https://open.spotify.com/playlist/2VxQy0Q22k1gP542tzaMCN"
 }

@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Jazz and Blues",
   "num_followers": 48,
+  "original_name": "Top Picks Jazz and Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -373,5 +373,6 @@
       "url": "https://open.spotify.com/track/1ECj0h5eVmX6ZERWQfNr33"
     }
   ],
+  "unique_name": "Top Picks Jazz and Blues",
   "url": "https://open.spotify.com/playlist/5LrQkRUFFuKWAJCECd2X9y"
 }

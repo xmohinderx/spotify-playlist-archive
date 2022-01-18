@@ -1,7 +1,7 @@
 {
   "description": "Bollywood beats to keep you dancing all night. Cover: Akshay Kumar & Katrina Kaif",
-  "name": "Filmy Party",
-  "num_followers": 195972,
+  "num_followers": 195975,
+  "original_name": "Filmy Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1373,5 +1373,6 @@
       "url": "https://open.spotify.com/track/3UaP2PQwhA31keZXt7oPLA"
     }
   ],
+  "unique_name": "Filmy Party",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTUfv2yzHEe7"
 }

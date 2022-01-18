@@ -1,7 +1,7 @@
 {
   "description": "The Bollywood crooner's best songs.",
-  "name": "This Is Arijit Singh",
-  "num_followers": 429315,
+  "num_followers": 429348,
+  "original_name": "This Is Arijit Singh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1521,5 +1521,6 @@
       "url": "https://open.spotify.com/track/4BH3FzJwNvjDpL8J78NMYM"
     }
   ],
+  "unique_name": "This Is Arijit Singh",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYztMONFqfvX"
 }

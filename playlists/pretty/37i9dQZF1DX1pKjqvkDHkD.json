@@ -1,7 +1,7 @@
 {
   "description": "Renowned for her part in the Chicago Black Renaissance, the <a href=\"spotify:artist:4H2657mM3Y4j6ITcmHOf21\">writer</a> reads her own poems and the work of her contemporaries.",
-  "name": "Margaret Walker",
   "num_followers": 5569,
+  "original_name": "Margaret Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -841,5 +841,6 @@
       "url": "https://open.spotify.com/track/63BsFbhUYSYvcZ7M74gwUB"
     }
   ],
+  "unique_name": "Margaret Walker",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1pKjqvkDHkD"
 }

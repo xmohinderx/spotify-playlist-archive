@@ -1,7 +1,7 @@
 {
   "description": "Relive the 80s disco era with these hits",
-  "name": "Disco Deewane",
   "num_followers": 24592,
+  "original_name": "Disco Deewane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -913,5 +913,6 @@
       "url": "https://open.spotify.com/track/31WTP7wNINdClak1Mj7JUD"
     }
   ],
+  "unique_name": "Disco Deewane",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4PMbm7GPN1x"
 }

@@ -41,10 +41,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 207986,
       "name": "A Second To Midnight",
       "url": "https://open.spotify.com/track/3lwKYKDxE2tNDDC24WAYRT"
+    },
+    {
+      "album": {
+        "name": "All Along",
+        "url": "https://open.spotify.com/album/7m3BQyRSefzOAxElf6SCnt"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203425,
+      "name": "All Along",
+      "url": "https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF"
     },
     {
       "album": {
@@ -81,7 +99,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/1q5XUAzuOJ6GXCFhePKu70"
@@ -165,7 +183,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 318900,
       "name": "Back 2 Love (feat. Desmond 'DSP' Powell)",
       "url": "https://open.spotify.com/track/6fjsLcQMJ0OfTMfy3wEYAs"
@@ -245,7 +263,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 163308,
       "name": "Body",
       "url": "https://open.spotify.com/track/5nbq4CyzheTl7BLPR3caJY"
@@ -321,7 +339,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 275131,
       "name": "Chilli Heatwave",
       "url": "https://open.spotify.com/track/0I5CXOrOHwCg13oTgG3TAr"
@@ -433,6 +451,28 @@
       "duration_ms": 409387,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/0aITsSU1pXt3Tt3noutwzM"
+    },
+    {
+      "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/7C51SL4F5IQ5RDiF9XjY1g"
+      },
+      "artists": [
+        {
+          "name": "Joey McCrilley",
+          "url": "https://open.spotify.com/artist/4ew3WXgHuVN5LOVn0KfiNI"
+        },
+        {
+          "name": "Danny Rhys",
+          "url": "https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185290,
+      "name": "Come Together - Danny Rhys Remix",
+      "url": "https://open.spotify.com/track/5y0SrwRs0zzCOy6syRtvnD"
     },
     {
       "album": {
@@ -1017,7 +1057,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 148000,
       "name": "I Want",
       "url": "https://open.spotify.com/track/2MRbbtbADstXAGGOO60Zav"
@@ -1093,7 +1133,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 225494,
       "name": "Incapable",
       "url": "https://open.spotify.com/track/02CkWazM7YqypIxYKy3iSy"
@@ -1115,7 +1155,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 164516,
       "name": "It Is What It Is (feat. Elise LeGrow)",
       "url": "https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm"
@@ -1287,7 +1327,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 243870,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/0OM8IYqmWKoVPsWa1l2y9f"
@@ -1445,7 +1485,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 202051,
       "name": "Lover 4 Now (feat. Todd Edwards) - Edit",
       "url": "https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7"
@@ -1657,7 +1697,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 357586,
       "name": "No Misery",
       "url": "https://open.spotify.com/track/0i4ab8bJX3a0v30coiUPfR"
@@ -1823,7 +1863,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 262893,
       "name": "Real Groove - Studio 2054 Remix",
       "url": "https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm"
@@ -1939,7 +1979,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 335383,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5xXGRExlDrPuYzhAj0BHxm"
@@ -1979,7 +2019,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 204132,
       "name": "Second Chance (feat. Kimberly Davis)",
       "url": "https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz"
@@ -2089,7 +2129,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 220213,
       "name": "Someday - Harris & Hurr Radio Edit",
       "url": "https://open.spotify.com/track/7xEZRa5g3guKLXDgPIDSJ7"
@@ -2177,7 +2217,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 487619,
       "name": "The Best Rapper Alive",
       "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
@@ -2424,6 +2464,28 @@
     },
     {
       "album": {
+        "name": "What's Your World (feat. Gloria Ann Taylor)",
+        "url": "https://open.spotify.com/album/0B1JIgirhhCL0onK0olkc0"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "Gloria Ann Taylor",
+          "url": "https://open.spotify.com/artist/1xpBuU9oUPQIYw2bP0XOu8"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273230,
+      "name": "What's Your World (feat. Gloria Ann Taylor)",
+      "url": "https://open.spotify.com/track/7ir78RK7dikfhptUV0S6kC"
+    },
+    {
+      "album": {
         "name": "WHITE FLAG (feat. Alex Mills) [Sandy Rivera's Extended Mix]",
         "url": "https://open.spotify.com/album/3cUZjK4dVZMXi2O3pPNna2"
       },
@@ -2567,7 +2629,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 408889,
       "name": "You Are the Sun - Sun Up Mix",
       "url": "https://open.spotify.com/track/7LE9T4XBDParc9tDvNf29H"

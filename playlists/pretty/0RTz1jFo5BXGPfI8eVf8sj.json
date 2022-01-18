@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Shower Songs",
   "num_followers": 57,
+  "original_name": "Top Shower Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1697,5 +1697,6 @@
       "url": "https://open.spotify.com/track/61lqNlVRnWYiR9C7BDJw2l"
     }
   ],
+  "unique_name": "Top Shower Songs",
   "url": "https://open.spotify.com/playlist/0RTz1jFo5BXGPfI8eVf8sj"
 }

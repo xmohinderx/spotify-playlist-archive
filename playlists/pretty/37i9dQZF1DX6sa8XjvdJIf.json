@@ -1,7 +1,7 @@
 {
   "description": "All the classics in one playlist.",
-  "name": "This Is New Found Glory",
   "num_followers": 33749,
+  "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -873,5 +873,6 @@
       "url": "https://open.spotify.com/track/4i9smHubqWFWVusTktEwYo"
     }
   ],
+  "unique_name": "This Is New Found Glory",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6sa8XjvdJIf"
 }

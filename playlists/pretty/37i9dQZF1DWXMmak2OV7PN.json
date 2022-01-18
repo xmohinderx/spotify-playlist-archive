@@ -1,7 +1,7 @@
 {
   "description": "The best of alt-J, so far.",
-  "name": "This Is alt-J",
   "num_followers": 180405,
+  "original_name": "This Is alt-J",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -509,5 +509,6 @@
       "url": "https://open.spotify.com/track/5kWOvZNbRA9Nemq7t3BfFE"
     }
   ],
+  "unique_name": "This Is alt-J",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXMmak2OV7PN"
 }

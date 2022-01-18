@@ -1,7 +1,7 @@
 {
   "description": "The best of Nirvana, all in one place.",
-  "name": "This Is Nirvana (2)",
   "num_followers": 1059966,
+  "original_name": "This Is Nirvana (2)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -729,5 +729,6 @@
       "url": "https://open.spotify.com/track/0W0s27FypnkXjJTJKUAnx0"
     }
   ],
+  "unique_name": "This Is Nirvana (2)",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX82CY3GzF2m6"
 }

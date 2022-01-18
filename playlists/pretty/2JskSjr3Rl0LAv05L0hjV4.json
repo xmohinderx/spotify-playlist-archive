@@ -1,7 +1,7 @@
 {
   "description": "Let these singers tug on your heartstrings with their amazing vocal performances. ",
-  "name": "Vocal Acrobats",
   "num_followers": 71,
+  "original_name": "Vocal Acrobats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -409,5 +409,6 @@
       "url": "https://open.spotify.com/track/4artWewaXlYPhhir8SRRE0"
     }
   ],
+  "unique_name": "Vocal Acrobats",
   "url": "https://open.spotify.com/playlist/2JskSjr3Rl0LAv05L0hjV4"
 }

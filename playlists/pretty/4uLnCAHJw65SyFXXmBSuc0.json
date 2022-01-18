@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks holiday",
   "num_followers": 959,
+  "original_name": "Top Picks holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -341,5 +341,6 @@
       "url": "https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao"
     }
   ],
+  "unique_name": "Top Picks holiday",
   "url": "https://open.spotify.com/playlist/4uLnCAHJw65SyFXXmBSuc0"
 }

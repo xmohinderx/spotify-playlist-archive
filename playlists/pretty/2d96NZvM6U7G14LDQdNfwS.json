@@ -1,7 +1,7 @@
 {
   "description": "SXSW has deep roots in Austin. Get a sense of the city and all its sounds.",
-  "name": "Austin Sounds",
   "num_followers": 654,
+  "original_name": "Austin Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -673,5 +673,6 @@
       "url": "https://open.spotify.com/track/3OgkfYg13Jj96E982moWje"
     }
   ],
+  "unique_name": "Austin Sounds",
   "url": "https://open.spotify.com/playlist/2d96NZvM6U7G14LDQdNfwS"
 }

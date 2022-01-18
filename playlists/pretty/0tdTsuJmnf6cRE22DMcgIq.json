@@ -1,7 +1,7 @@
 {
   "description": "The American Music Awards is the world\u2019s biggest fan-voted award show. This year, hosts Gigi Hadid and Jay Pharoah will share the stage with performers Bruno Mars, Twenty One Pilots, The Chainsmokers, and many more.",
-  "name": "The 2016 AMAs",
-  "num_followers": 8847,
+  "num_followers": 8846,
+  "original_name": "The 2016 AMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -629,5 +629,6 @@
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
     }
   ],
+  "unique_name": "The 2016 AMAs",
   "url": "https://open.spotify.com/playlist/0tdTsuJmnf6cRE22DMcgIq"
 }

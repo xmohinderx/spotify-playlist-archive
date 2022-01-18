@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0eAsdXwbE4f.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0eAsdXwbE4f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0eAsdXwbE4f)
 
-### Birds in the Rain
+### [Birds in the Rain](https://open.spotify.com/playlist/0bPXBk5PNX5kyNMRXtU8ae)
 
 > Relax to the sound of birds singing in the rain.
 

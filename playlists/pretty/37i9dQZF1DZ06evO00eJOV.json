@@ -1,7 +1,7 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "name": "This Is Brenda Fassie",
   "num_followers": 16,
+  "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -813,5 +813,6 @@
       "url": "https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze"
     }
   ],
+  "unique_name": "This Is Brenda Fassie",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO00eJOV"
 }

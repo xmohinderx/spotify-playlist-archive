@@ -1,7 +1,7 @@
 {
   "description": "Experience Tom Petty's final project, \"Wildflowers & All The Rest,\" the way he originally envisioned it.",
-  "name": "This Is Tom Petty",
   "num_followers": 287700,
+  "original_name": "This Is Tom Petty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1265,5 +1265,6 @@
       "url": "https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF"
     }
   ],
+  "unique_name": "This Is Tom Petty",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUlZhYdX0uqM"
 }

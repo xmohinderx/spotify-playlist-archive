@@ -1,7 +1,7 @@
 {
   "description": "Check out the top streamed indie tracks of 2016!",
-  "name": "Best of 2016: Ultimate Indie",
   "num_followers": 9961,
+  "original_name": "Best of 2016: Ultimate Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -833,5 +833,6 @@
       "url": "https://open.spotify.com/track/0hTMUZ7vuxVLzihQDNV0b3"
     }
   ],
+  "unique_name": "Best of 2016: Ultimate Indie",
   "url": "https://open.spotify.com/playlist/1517hhPIVwA9EN41krpZo3"
 }

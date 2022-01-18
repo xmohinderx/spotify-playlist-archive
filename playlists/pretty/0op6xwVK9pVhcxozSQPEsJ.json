@@ -1,7 +1,7 @@
 {
   "description": "Take some time out of your day to recharge your mind.",
-  "name": "Namaste",
   "num_followers": 2357,
+  "original_name": "Namaste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1513,5 +1513,6 @@
       "url": "https://open.spotify.com/track/1MFQOSrJkUo5nLbWxooihd"
     }
   ],
+  "unique_name": "Namaste",
   "url": "https://open.spotify.com/playlist/0op6xwVK9pVhcxozSQPEsJ"
 }

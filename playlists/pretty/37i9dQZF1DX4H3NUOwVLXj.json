@@ -1,7 +1,7 @@
 {
   "description": "Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.",
-  "name": "This Is Frank Sinatra",
-  "num_followers": 972232,
+  "num_followers": 972261,
+  "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -873,5 +873,6 @@
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
     }
   ],
+  "unique_name": "This Is Frank Sinatra",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4H3NUOwVLXj"
 }

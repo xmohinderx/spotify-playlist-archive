@@ -1,7 +1,7 @@
 {
   "description": "The greatest hits of U2, all in one place.",
-  "name": "This Is U2",
-  "num_followers": 1001003,
+  "num_followers": 1001055,
+  "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -965,5 +965,6 @@
       "url": "https://open.spotify.com/track/7cKUo1owIJRUFDE41hmjLH"
     }
   ],
+  "unique_name": "This Is U2",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8kI525v95Yu"
 }

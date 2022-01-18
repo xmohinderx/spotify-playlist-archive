@@ -1,7 +1,7 @@
 {
   "description": "Born in the Mississippi Delta - at the turn of the 20th century - the Delta Blues is one of the earliest and most influential styles of blues.",
-  "name": "Delta Blues",
-  "num_followers": 69187,
+  "num_followers": 69192,
+  "original_name": "Delta Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -765,5 +765,6 @@
       "url": "https://open.spotify.com/track/0trDFIYb4jdj9HOICf9dJc"
     }
   ],
+  "unique_name": "Delta Blues",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSTHVqvNCwNq"
 }

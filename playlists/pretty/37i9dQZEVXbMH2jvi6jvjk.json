@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - South Africa.",
-  "name": "Top 50 - South Africa",
-  "num_followers": 25347,
+  "num_followers": 25349,
+  "original_name": "Top 50 - South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1117,5 +1117,6 @@
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     }
   ],
+  "unique_name": "Top 50 - South Africa",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMH2jvi6jvjk"
 }

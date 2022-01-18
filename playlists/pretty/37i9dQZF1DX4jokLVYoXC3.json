@@ -1,7 +1,7 @@
 {
   "description": "A selection of some of our favorite fiction \u2013 featuring short stories, novels, plays, and more.",
-  "name": "Editor's Choice: Fiction",
   "num_followers": 11943,
+  "original_name": "Editor's Choice: Fiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1521,5 +1521,6 @@
       "url": "https://open.spotify.com/track/25xBzWLvz60fEdfRLs06Zf"
     }
   ],
+  "unique_name": "Editor's Choice: Fiction",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4jokLVYoXC3"
 }

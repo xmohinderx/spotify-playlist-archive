@@ -1,7 +1,7 @@
 {
   "description": "John Mayer's new album Sob Rock and his greatest songs all in one playlist.",
-  "name": "This Is John Mayer",
-  "num_followers": 732821,
+  "num_followers": 732839,
+  "original_name": "This Is John Mayer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -977,5 +977,6 @@
       "url": "https://open.spotify.com/track/3KePc5zqybSrshHWzo65pk"
     }
   ],
+  "unique_name": "This Is John Mayer",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYrlaUEYy4Vg"
 }

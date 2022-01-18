@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUvpePTXR1D.md) - [plain]
 
 > Sway your way through the evening...
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,459 likes - 137 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,460 likes - 137 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

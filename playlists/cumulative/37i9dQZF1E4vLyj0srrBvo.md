@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/18KhvyGVGWgFiASCWVYL67)
 
-> With Warpaint, Ariel Pink, John Maus and more
+> With James K, Tennis, Magdalena Bay and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Caladan](https://open.spotify.com/track/6HV4CxCU2wSsBvRO1xRq6u) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Geidi Primes](https://open.spotify.com/album/3M5v4kVIOcncI9O8KpINc1) | 2:25 | 2021-01-08 | 2021-07-19 |
 | [California](https://open.spotify.com/track/3zxqTbepxLQesm41y2NoE4) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 3:18 | 2020-10-16\* | 2020-12-06 |
 | [California](https://open.spotify.com/track/6PY49R5SjxYDiOMFQj7Gsq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 3:18 | 2020-12-08 | 2022-01-18 |
-| [careless \(feat\. daniel caesar\)](https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:36 | 2022-01-18 |  |
+| [careless \(feat\. daniel caesar\)](https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:36 | 2022-01-17 |  |
 | [Caroline Shut Up](https://open.spotify.com/track/6uEBCC605XCODjtwzae93h) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:32 | 2022-01-05 | 2022-01-06 |
 | [Celestica](https://open.spotify.com/track/5QmolkpuE6IfPdr7j2MGn5) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(II\)](https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA) | 3:48 | 2021-08-28 | 2022-01-18 |
 | [cellophane](https://open.spotify.com/track/2cYALQZNXmuFGp2ecgpKMa) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/2w8Wshbp9RCPJdPU1iOpaY) | 3:24 | 2020-10-19 | 2020-12-06 |
@@ -419,7 +419,7 @@
 | [Runner](https://open.spotify.com/track/2FLW1FnWZxGUuiDgsLDGOG) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Swimmer](https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb) | 3:36 | 2020-10-29 | 2022-01-17 |
 | [Running Up That Hill](https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Night Drive](https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy) | 6:06 | 2020-12-19 | 2022-01-08 |
 | [Safety Dance](https://open.spotify.com/track/41iyTkS7vxn5sOJTMjOrL8) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Safety Dance](https://open.spotify.com/album/7rvR8Bfm6DbVDThl64aVD9) | 3:51 | 2021-08-11 | 2021-09-19 |
-| [Sagrad Прекрасный](https://open.spotify.com/track/1QRNhuad47Ew2aKG0sFRmG) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Halfaxa](https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D) | 5:10 | 2022-01-18 |  |
+| [Sagrad Прекрасный](https://open.spotify.com/track/1QRNhuad47Ew2aKG0sFRmG) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Halfaxa](https://open.spotify.com/album/3V7dE1inQRFzhA7PiMY33D) | 5:10 | 2022-01-17 |  |
 | [Sagrad Прекрасный](https://open.spotify.com/track/2DMDhTPBW7V1ROVlIPRbNT) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Halfaxa](https://open.spotify.com/album/3ttWoxpmhvizD9yvhxfMqd) | 5:10 | 2020-12-13 | 2021-01-10 |
 | [Saint](https://open.spotify.com/track/2PzWUwFXApjQBZzKMl4Hd6) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Negro Swan](https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn) | 3:12 | 2020-11-18 | 2021-08-05 |
 | [SCREAM](https://open.spotify.com/track/0i7AGJG9DX0vI1w798IVKZ) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 2:20 | 2020-12-20 | 2022-01-04 |

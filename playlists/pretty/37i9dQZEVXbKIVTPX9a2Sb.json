@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Slovakia.",
-  "name": "Top 50 - Slovakia",
   "num_followers": 19784,
+  "original_name": "Top 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -929,5 +929,6 @@
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     }
   ],
+  "unique_name": "Top 50 - Slovakia",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKIVTPX9a2Sb"
 }

@@ -1,7 +1,7 @@
 {
   "description": "This story collection is sure to please even the biggest animal lover!",
-  "name": "Animal Stories",
   "num_followers": 60651,
+  "original_name": "Animal Stories",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -705,5 +705,6 @@
       "url": "https://open.spotify.com/track/2JcuTK0jUFqxtePRVIhwP8"
     }
   ],
+  "unique_name": "Animal Stories",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb9DmOVVVkdh"
 }

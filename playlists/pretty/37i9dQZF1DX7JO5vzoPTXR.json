@@ -1,12 +1,12 @@
 {
   "description": "Highlighting <a href=\"http://noteable.spotify.com\">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href=\"https://open.spotify.com/artist/3Mgv0bbH3V7s7c3ddUyC1y?si=vMpAwRm7RQqcoN7yEmku6g&nd=1\">MASUMI</a>, <a href=\"https://open.spotify.com/artist/0O66QHPs08luarCKRfo5ys?si=RvceOVkQS_uNAwak49f29A\">So Wylie</a>",
-  "name": "Created by Women",
-  "num_followers": 41675,
+  "num_followers": 41687,
+  "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2Njg0MCwwMDAwMDAwMDI5MjAyNzczZjQ0M2Q5ZTM4MWM5YTJiMmE0MzIxMWMx",
+  "snapshot_id": "MTY0MjQ3OTI1OCwwMDAwMDAwMDI5MjAyNzczZjQ0M2Q5ZTM4MWM5YTJiMmE0MzIxMWMx",
   "tracks": [
     {
       "added_at": "2022-01-05 15:23:13",
@@ -665,5 +665,6 @@
       "url": "https://open.spotify.com/track/0NNPCKrXPAxxMC0QGugv2G"
     }
   ],
+  "unique_name": "Created by Women",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7JO5vzoPTXR"
 }

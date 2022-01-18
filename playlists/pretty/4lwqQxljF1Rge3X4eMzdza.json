@@ -1,7 +1,7 @@
 {
   "description": "Missa inte Kendrick Lamar p\u00e5 Azalea-scenen p\u00e5 L\u00d6RDAG / 21.00",
-  "name": "Kendrick Lamar",
   "num_followers": 36,
+  "original_name": "Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -173,5 +173,6 @@
       "url": "https://open.spotify.com/track/0UtnpKaReKUg2GquaSxCyD"
     }
   ],
+  "unique_name": "Kendrick Lamar",
   "url": "https://open.spotify.com/playlist/4lwqQxljF1Rge3X4eMzdza"
 }

@@ -1,7 +1,7 @@
 {
   "description": "If it's buzzing, it's here. The hottest new songs of the week. Cover: Avril Lavigne & blackbear",
-  "name": "Singled Out",
-  "num_followers": 817468,
+  "num_followers": 817483,
+  "original_name": "Singled Out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -741,5 +741,6 @@
       "url": "https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3"
     }
   ],
+  "unique_name": "Singled Out",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8f6LHxMjnzD"
 }

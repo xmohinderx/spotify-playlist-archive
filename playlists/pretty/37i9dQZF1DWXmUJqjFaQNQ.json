@@ -1,7 +1,7 @@
 {
   "description": "A collection of classic short stories perfect for a lazy afternoon or relaxing commute.",
-  "name": "Short Stories",
   "num_followers": 24337,
+  "original_name": "Short Stories",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1085,5 +1085,6 @@
       "url": "https://open.spotify.com/track/2FvhAP5IdvxgL413CdqOZW"
     }
   ],
+  "unique_name": "Short Stories",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXmUJqjFaQNQ"
 }

@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Groove",
   "num_followers": 40,
+  "original_name": "Top Picks Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -349,5 +349,6 @@
       "url": "https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI"
     }
   ],
+  "unique_name": "Top Picks Groove",
   "url": "https://open.spotify.com/playlist/38ZGEwSsiHoOEOu446h75W"
 }

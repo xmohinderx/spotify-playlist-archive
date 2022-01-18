@@ -1,7 +1,7 @@
 {
   "description": "Get into the inspired sounds of <a href=\"spotify:artist:2kGBy2WHvF0VdZyqiVCkDT\">Father John Misty</a>.",
-  "name": "This Is Father John Misty",
   "num_followers": 57807,
+  "original_name": "This Is Father John Misty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -449,5 +449,6 @@
       "url": "https://open.spotify.com/track/2OTovEYN1lx57YfLEe4ylM"
     }
   ],
+  "unique_name": "This Is Father John Misty",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Y4Bt8VdicW"
 }

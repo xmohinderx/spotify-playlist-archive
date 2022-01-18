@@ -1,7 +1,7 @@
 {
   "description": "Riffing around the Christmas tree. Cover: My Chemical Romance",
-  "name": "Rock Christmas",
-  "num_followers": 133405,
+  "num_followers": 133400,
+  "original_name": "Rock Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1809,5 +1809,6 @@
       "url": "https://open.spotify.com/track/3zQIGDsyha7U1oOqBI0tp2"
     }
   ],
+  "unique_name": "Rock Christmas",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaf9K2UnDhgp"
 }

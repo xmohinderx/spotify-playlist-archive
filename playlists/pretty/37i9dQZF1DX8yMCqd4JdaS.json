@@ -1,7 +1,7 @@
 {
   "description": "Sting, the essential tracks, all in one playlist.",
-  "name": "This is Sting",
   "num_followers": 439937,
+  "original_name": "This is Sting",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -925,5 +925,6 @@
       "url": "https://open.spotify.com/track/6pw6rxTiwWwTf9k62NFUwr"
     }
   ],
+  "unique_name": "This is Sting",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8yMCqd4JdaS"
 }

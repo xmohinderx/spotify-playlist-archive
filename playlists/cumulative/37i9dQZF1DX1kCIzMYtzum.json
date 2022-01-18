@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-17",
   "description": "New hits from your favorite festival legends. Peace, love, unity, respect. \ud83d\udc97",
   "name": "EDM",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3QJ3qDsL9JOXl4UUUMkXwN"
+  ],
   "tracks": [
     {
       "album": {
@@ -39,7 +41,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 226000,
       "name": "Anything",
       "url": "https://open.spotify.com/track/48fPdAwGVoSkGK8GSez9yx"
@@ -69,6 +71,28 @@
       "duration_ms": 158807,
       "name": "Anywhere With You",
       "url": "https://open.spotify.com/track/5MxKAr6Ui5hQ9TtjdnlmrR"
+    },
+    {
+      "album": {
+        "name": "Around The World (feat. NOUMENN)",
+        "url": "https://open.spotify.com/album/5mbOLvo8EOsUyuKStqC0aY"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "NOUMENN",
+          "url": "https://open.spotify.com/artist/7bFQpPcrEXYDQDcVPVahyC"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199017,
+      "name": "Around The World (feat. NOUMENN)",
+      "url": "https://open.spotify.com/track/273n4aGEPcL1HrcdhpGGul"
     },
     {
       "album": {
@@ -197,6 +221,32 @@
       "duration_ms": 200624,
       "name": "Brighter Side",
       "url": "https://open.spotify.com/track/2cXlDeF2sUoZRQgYQZ2nb0"
+    },
+    {
+      "album": {
+        "name": "6OKI - Rave Royale EP",
+        "url": "https://open.spotify.com/album/11ibpJAfVHfwyqFOsKVenu"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Close to You (feat. PollyAnna)",
+      "url": "https://open.spotify.com/track/4gEC7He07d6cuzkQ7MSobQ"
     },
     {
       "album": {
@@ -341,7 +391,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
@@ -451,10 +501,36 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 171208,
       "name": "Flame",
       "url": "https://open.spotify.com/track/46BhtWkz8zKHdABv0yzxV7"
+    },
+    {
+      "album": {
+        "name": "Memories From Another Life (Remixes)",
+        "url": "https://open.spotify.com/album/6tjqZDbyXnvEwEDOBdCKxn"
+      },
+      "artists": [
+        {
+          "name": "Awakend",
+          "url": "https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O"
+        },
+        {
+          "name": "TR\u00d8VES",
+          "url": "https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg"
+        },
+        {
+          "name": "Steve Brian",
+          "url": "https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208064,
+      "name": "Floating Through The Sky - Steve Brian Remix",
+      "url": "https://open.spotify.com/track/5LZUUhWgxVTviQZF77EfJm"
     },
     {
       "album": {
@@ -605,7 +681,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 229565,
       "name": "Higher Power - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/04zCkONaIDxTx2gDjV1yCd"
@@ -1035,7 +1111,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 220221,
       "name": "Nova",
       "url": "https://open.spotify.com/track/5d6jheZrGY0xNFNDeIGDrY"
@@ -1127,7 +1203,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
@@ -1337,7 +1413,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 267676,
       "name": "Saving Lives",
       "url": "https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz"
@@ -1363,7 +1439,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 263200,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/4pXG8Q82L8WvypAm5Wo86y"
@@ -1845,7 +1921,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 174720,
       "name": "You Used To",
       "url": "https://open.spotify.com/track/0NMhB5jf4SJhzqnx6pBHNh"

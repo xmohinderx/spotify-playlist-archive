@@ -1,7 +1,7 @@
 {
   "description": "Revel in some key gems and explore the sprawling musical landscape.",
-  "name": "The Wilds",
-  "num_followers": 685827,
+  "num_followers": 685845,
+  "original_name": "The Wilds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1837,5 +1837,6 @@
       "url": "https://open.spotify.com/track/2DAshXha1ZTujz0pP7E28P"
     }
   ],
+  "unique_name": "The Wilds",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUDoJcM4v6Tm"
 }

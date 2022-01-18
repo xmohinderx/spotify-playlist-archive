@@ -1,7 +1,7 @@
 {
   "description": "Lou Reed, the essential tracks, all in one playlist.",
-  "name": "This Is Lou Reed",
   "num_followers": 81993,
+  "original_name": "This Is Lou Reed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -817,5 +817,6 @@
       "url": "https://open.spotify.com/track/1ENGe5j5pdmz1YKiW6NhK9"
     }
   ],
+  "unique_name": "This Is Lou Reed",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdVelxaccCqL"
 }

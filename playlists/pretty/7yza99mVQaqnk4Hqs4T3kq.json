@@ -1,7 +1,7 @@
 {
   "description": "Companion playlist for the Metallica documentaries.",
-  "name": "New Wave Of British Heavy Metal",
   "num_followers": 4713,
+  "original_name": "New Wave Of British Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -489,5 +489,6 @@
       "url": "https://open.spotify.com/track/3eXgAsug7GIYYET25z1utZ"
     }
   ],
+  "unique_name": "New Wave Of British Heavy Metal",
   "url": "https://open.spotify.com/playlist/7yza99mVQaqnk4Hqs4T3kq"
 }

@@ -1,7 +1,7 @@
 {
   "description": "This is WizKid. The essential tracks, all in one playlist.",
-  "name": "This Is WizKid",
-  "num_followers": 77342,
+  "num_followers": 77391,
+  "original_name": "This Is WizKid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1041,5 +1041,6 @@
       "url": "https://open.spotify.com/track/4yF6ykrqb0iDtMjPtQMG8O"
     }
   ],
+  "unique_name": "This Is WizKid",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO21rV4I"
 }

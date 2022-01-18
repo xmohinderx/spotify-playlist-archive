@@ -1,7 +1,7 @@
 {
   "description": "This Sunday, let's tune out the words.",
-  "name": "An Instrumental Sunday",
-  "num_followers": 134026,
+  "num_followers": 134024,
+  "original_name": "An Instrumental Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -761,5 +761,6 @@
       "url": "https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz"
     }
   ],
+  "unique_name": "An Instrumental Sunday",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9XdJRfSK6a0"
 }

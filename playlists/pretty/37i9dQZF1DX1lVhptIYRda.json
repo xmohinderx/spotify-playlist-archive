@@ -1,7 +1,7 @@
 {
   "description": "Today's top country hits of the week, worldwide! Cover: Brett Eldredge",
-  "name": "Hot Country",
-  "num_followers": 6699005,
+  "num_followers": 6699053,
+  "original_name": "Hot Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -849,5 +849,6 @@
       "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
     }
   ],
+  "unique_name": "Hot Country",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda"
 }

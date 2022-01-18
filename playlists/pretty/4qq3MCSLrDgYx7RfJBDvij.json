@@ -1,7 +1,7 @@
 {
   "description": "From then to now, these songs will forever be classics.",
-  "name": "The Bridge",
   "num_followers": 43,
+  "original_name": "The Bridge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -513,5 +513,6 @@
       "url": "https://open.spotify.com/track/7egyR1d4Xmr1TsmpJct9bL"
     }
   ],
+  "unique_name": "The Bridge",
   "url": "https://open.spotify.com/playlist/4qq3MCSLrDgYx7RfJBDvij"
 }

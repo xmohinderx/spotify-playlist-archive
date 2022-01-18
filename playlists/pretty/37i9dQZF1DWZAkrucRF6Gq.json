@@ -1,7 +1,7 @@
 {
   "description": "Celebrated masters of 'French touch', This Is Daft Punk.",
-  "name": "This Is Daft Punk",
   "num_followers": 765162,
+  "original_name": "This Is Daft Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -709,5 +709,6 @@
       "url": "https://open.spotify.com/track/0k1xMUwn9sb7bZiqdT9ygx"
     }
   ],
+  "unique_name": "This Is Daft Punk",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZAkrucRF6Gq"
 }

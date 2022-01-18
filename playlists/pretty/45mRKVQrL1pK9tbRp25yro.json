@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Workout",
   "num_followers": 57,
+  "original_name": "Top Picks Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -345,5 +345,6 @@
       "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
     }
   ],
+  "unique_name": "Top Picks Workout",
   "url": "https://open.spotify.com/playlist/45mRKVQrL1pK9tbRp25yro"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Canada.",
-  "name": "Top 50 - Canada",
-  "num_followers": 325877,
+  "num_followers": 325870,
+  "original_name": "Top 50 - Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -937,5 +937,6 @@
       "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
     }
   ],
+  "unique_name": "Top 50 - Canada",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKj23U1GF4IR"
 }

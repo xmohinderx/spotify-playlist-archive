@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Tracks in Popculture",
   "num_followers": 3600,
+  "original_name": "Top Tracks in Popculture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -933,5 +933,6 @@
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
     }
   ],
+  "unique_name": "Top Tracks in Popculture",
   "url": "https://open.spotify.com/playlist/6dvI9YLz5JyXhoUo0eQJze"
 }

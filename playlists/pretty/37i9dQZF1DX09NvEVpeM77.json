@@ -1,7 +1,7 @@
 {
   "description": "Keep on rockin' in the free world with these classic tracks from musicians born in the USA.",
-  "name": "Born in the USA",
-  "num_followers": 133000,
+  "num_followers": 133010,
+  "original_name": "Born in the USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -477,5 +477,6 @@
       "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     }
   ],
+  "unique_name": "Born in the USA",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX09NvEVpeM77"
 }

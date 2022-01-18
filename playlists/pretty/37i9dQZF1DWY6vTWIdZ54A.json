@@ -1,7 +1,7 @@
 {
   "description": "Get down and dirty with these bluesy rock songs. Cover: Royal Blood",
-  "name": "Dirty Rock",
-  "num_followers": 408560,
+  "num_followers": 408572,
+  "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -2265,5 +2265,6 @@
       "url": "https://open.spotify.com/track/5udAfExLZ6ZsB0vxV7JirF"
     }
   ],
+  "unique_name": "Dirty Rock",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY6vTWIdZ54A"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Eagles, the essential tracks, all in one playlist.",
-  "name": "This Is Eagles",
   "num_followers": 581547,
+  "original_name": "This Is Eagles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -745,5 +745,6 @@
       "url": "https://open.spotify.com/track/2Ui4rye4ZabIjurcFTwWkU"
     }
   ],
+  "unique_name": "This Is Eagles",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9AUVnnnNUND"
 }

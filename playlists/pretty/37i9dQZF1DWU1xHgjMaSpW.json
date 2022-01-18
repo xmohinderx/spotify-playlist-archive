@@ -1,7 +1,7 @@
 {
   "description": "All Mighty Merle...All The Time!",
-  "name": "This Is: Merle Haggard",
   "num_followers": 57056,
+  "original_name": "This Is: Merle Haggard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1481,5 +1481,6 @@
       "url": "https://open.spotify.com/track/6kGzSd5cyxrHMibk9Rok3h"
     }
   ],
+  "unique_name": "This Is: Merle Haggard",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU1xHgjMaSpW"
 }

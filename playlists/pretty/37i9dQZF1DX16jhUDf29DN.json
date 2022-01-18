@@ -1,7 +1,7 @@
 {
   "description": "The latest and greatest. Lo nuevo y lo esencial.",
-  "name": "This Is: Victor Manuelle",
   "num_followers": 100759,
+  "original_name": "This Is: Victor Manuelle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -829,5 +829,6 @@
       "url": "https://open.spotify.com/track/5OcpuwdnJoQBrpDAKF3OTE"
     }
   ],
+  "unique_name": "This Is: Victor Manuelle",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX16jhUDf29DN"
 }

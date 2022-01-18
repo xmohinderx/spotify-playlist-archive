@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Happy Birthday Prince!",
   "num_followers": 299,
+  "original_name": "Happy Birthday Prince!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -753,5 +753,6 @@
       "url": "https://open.spotify.com/track/37boVGhMqQF129fn3jHQU4"
     }
   ],
+  "unique_name": "Happy Birthday Prince!",
   "url": "https://open.spotify.com/playlist/44uPoVqT6tOn5AphWVnSvu"
 }

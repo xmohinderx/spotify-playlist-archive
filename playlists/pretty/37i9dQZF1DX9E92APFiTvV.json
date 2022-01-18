@@ -1,7 +1,7 @@
 {
   "description": "A lifetime of legendary tunes courtesy of the holy triumvirate. Rest in peace, Neil Peart.",
-  "name": "This Is Rush",
   "num_followers": 186063,
+  "original_name": "This Is Rush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -809,5 +809,6 @@
       "url": "https://open.spotify.com/track/1nxLJ2M54Fk6RwJ6wg0Xv3"
     }
   ],
+  "unique_name": "This Is Rush",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9E92APFiTvV"
 }

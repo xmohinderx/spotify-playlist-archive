@@ -1,7 +1,7 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "name": "This Is Jane's Addiction",
   "num_followers": 32950,
+  "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -649,5 +649,6 @@
       "url": "https://open.spotify.com/track/7mlv1xHxHHv3PBcapEiJp7"
     }
   ],
+  "unique_name": "This Is Jane's Addiction",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXcOE4"
 }

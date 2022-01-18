@@ -1,7 +1,7 @@
 {
   "description": "Relive your favourite artist moments from the Brilliant Minds conference during <a href=\"http://symposium.co/\">Symposium Stockholm</a>.",
-  "name": "BRILLIANTMINDS2016",
   "num_followers": 224,
+  "original_name": "BRILLIANTMINDS2016",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -301,5 +301,6 @@
       "url": "https://open.spotify.com/track/5c5dgEF3gb9ZLtrqQyHg2h"
     }
   ],
+  "unique_name": "BRILLIANTMINDS2016",
   "url": "https://open.spotify.com/playlist/57clV3IPw1TXSWdzzDVDwp"
 }

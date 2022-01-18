@@ -1,7 +1,7 @@
 {
   "description": "Sweden Rock \u00e4r Sveriges st\u00f6rsta h\u00e5rdrocksfestival. Sommarens upplaga \u00e4ger rum 6 - 9 juni i S\u00f6lvesborg. Hitta spellistor f\u00f6r alla tillf\u00e4llen p\u00e5 <a href=\"spottily:app:tunigo\">Tunigo</a>.",
-  "name": "Sweden Rock Festival 2012",
   "num_followers": 50,
+  "original_name": "Sweden Rock Festival 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1221,5 +1221,6 @@
       "url": "https://open.spotify.com/track/6Y8m1jnWUksCjwWIZ4hlg0"
     }
   ],
+  "unique_name": "Sweden Rock Festival 2012",
   "url": "https://open.spotify.com/playlist/2xxkK8eaOyM6JRhHOheZBZ"
 }

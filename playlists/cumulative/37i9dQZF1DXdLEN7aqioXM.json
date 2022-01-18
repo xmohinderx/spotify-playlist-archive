@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-17",
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
   "name": "RetroWave / Outrun",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "24oMtAVzB5ucnLKOOsTNft"
+  ],
   "tracks": [
     {
       "album": {
@@ -89,7 +91,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/0kDaCo0U2UcaM3SgZ1Ji7X"
@@ -215,7 +217,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 230571,
       "name": "Dance or Die",
       "url": "https://open.spotify.com/track/7k6a58ZGLCWG7dCpptHPbq"
@@ -251,7 +253,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 228028,
       "name": "Dark Prince, Pt. 3",
       "url": "https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL"
@@ -345,7 +347,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 111111,
       "name": "Droid Rage",
       "url": "https://open.spotify.com/track/6BzXcsB6HhmO7yQ7qBjK48"
@@ -476,6 +478,32 @@
     },
     {
       "album": {
+        "name": "Fractal Forms",
+        "url": "https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6"
+      },
+      "artists": [
+        {
+          "name": "Earmake",
+          "url": "https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC"
+        },
+        {
+          "name": "AstroPilot",
+          "url": "https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws"
+        },
+        {
+          "name": "Unusual Cosmic Process",
+          "url": "https://open.spotify.com/artist/37oPFegoFXsfDNMdVOASlT"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235862,
+      "name": "Fractal Forms",
+      "url": "https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx"
+    },
+    {
+      "album": {
         "name": "District 970",
         "url": "https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd"
       },
@@ -527,7 +555,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 299913,
       "name": "Homebound",
       "url": "https://open.spotify.com/track/1M7tv8CnuKzTVK4otfr355"
@@ -549,6 +577,24 @@
       "duration_ms": 159939,
       "name": "Homo Deus",
       "url": "https://open.spotify.com/track/3l5bTYYEBEteJpi1MsA5qR"
+    },
+    {
+      "album": {
+        "name": "Dreamrider",
+        "url": "https://open.spotify.com/album/5sE8JtVAJH23pYT4ZRAVwh"
+      },
+      "artists": [
+        {
+          "name": "Lazerhawk",
+          "url": "https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247146,
+      "name": "Hypnic",
+      "url": "https://open.spotify.com/track/2H55QFDo3vexV4gu85WUTl"
     },
     {
       "album": {
@@ -625,7 +671,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 257614,
       "name": "Looking for Tracy Tzu",
       "url": "https://open.spotify.com/track/546WYUcLvrd9YifNgEaGsi"
@@ -807,7 +853,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 290690,
       "name": "Nightdrive (1984 Mix)",
       "url": "https://open.spotify.com/track/59RQNWwH7eQ7PKwHvAbEN7"
@@ -865,7 +911,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 193267,
       "name": "Ocean Parkway",
       "url": "https://open.spotify.com/track/1uloqdf6spYzacVShYYsMU"
@@ -991,7 +1037,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 254814,
       "name": "Paradise Warfare",
       "url": "https://open.spotify.com/track/7MwjanOxjvV2ILQPfOKIIm"
@@ -1164,6 +1210,28 @@
     },
     {
       "album": {
+        "name": "Synthesizer Hearts (W.H. Lung Remix)",
+        "url": "https://open.spotify.com/album/5yWyDTD3ymcTb6lXXtyRzU"
+      },
+      "artists": [
+        {
+          "name": "Eve Maret",
+          "url": "https://open.spotify.com/artist/6EPKhshyGfzUrurBHGJAnA"
+        },
+        {
+          "name": "W. H. Lung",
+          "url": "https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360874,
+      "name": "Synthesizer Hearts - W.H. Lung Remix",
+      "url": "https://open.spotify.com/track/2a42N7b4XOl42OsL2EZvQt"
+    },
+    {
+      "album": {
         "name": "Lost Tracks Katana Zero",
         "url": "https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB"
       },
@@ -1200,6 +1268,24 @@
     },
     {
       "album": {
+        "name": "Transmission",
+        "url": "https://open.spotify.com/album/5OcuXU4YAlttA7FZtxMUrw"
+      },
+      "artists": [
+        {
+          "name": "Saffari",
+          "url": "https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg"
+    },
+    {
+      "album": {
         "name": "Celeste",
         "url": "https://open.spotify.com/album/2AkabzuOF5cIiED2GcgCKp"
       },
@@ -1229,7 +1315,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 238288,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3j6XM4Fo5a6ZYhqalcb9xA"

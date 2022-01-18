@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/3X9pREhPT1sgh0QMNyY8S7)
 
-> With John Mayer, Mat Kearney, Penny and Sparrow, Local Natives and more
+> With John Mayer, Blake Rose, Penny and Sparrow, Lake Street Dive and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

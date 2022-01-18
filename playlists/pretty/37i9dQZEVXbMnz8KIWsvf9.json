@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Thailand.",
-  "name": "Top 50 - Thailand",
-  "num_followers": 115089,
+  "num_followers": 115096,
+  "original_name": "Top 50 - Thailand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -861,5 +861,6 @@
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
     }
   ],
+  "unique_name": "Top 50 - Thailand",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMnz8KIWsvf9"
 }

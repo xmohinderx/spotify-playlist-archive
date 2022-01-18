@@ -1,7 +1,7 @@
 {
   "description": "Get to know some of the most loved comedians on Spotify with this collection of their top 5 tracks &amp; newest releases.",
-  "name": "Comedy Top Tracks",
-  "num_followers": 320436,
+  "num_followers": 320435,
+  "original_name": "Comedy Top Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1641,5 +1641,6 @@
       "url": "https://open.spotify.com/track/5FWRSS8OQV0Jr30Gn53Tir"
     }
   ],
+  "unique_name": "Comedy Top Tracks",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSRoT7QRAibZ"
 }

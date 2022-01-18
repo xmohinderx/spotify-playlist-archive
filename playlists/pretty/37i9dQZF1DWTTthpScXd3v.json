@@ -1,7 +1,7 @@
 {
   "description": "One of the greatest of all time. 75 years. Celebrate his legacy here.",
-  "name": "This Is David Bowie",
   "num_followers": 920515,
+  "original_name": "This Is David Bowie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1225,5 +1225,6 @@
       "url": "https://open.spotify.com/track/42bQZnfDGmejgB5elWY3QA"
     }
   ],
+  "unique_name": "This Is David Bowie",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTTthpScXd3v"
 }

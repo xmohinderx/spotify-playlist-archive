@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Muse",
-  "name": "Volume M\u00e1ximo",
-  "num_followers": 693624,
+  "num_followers": 693622,
+  "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2Njc1MCwwMDAwMDAwMDZlMDg3YWJjYWM3NmE0ZTc2MTQwOGU0YWY4OTc2ZWM4",
+  "snapshot_id": "MTY0MjQ3OTE1MSwwMDAwMDAwMDY0NTFmM2Y0OTc3ZDE4ZjhlMmM4YWM0ZDZjOWNmODg3",
   "tracks": [
     {
       "added_at": "2022-01-14 11:44:35",
@@ -103,22 +103,6 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "game",
-        "url": "https://open.spotify.com/album/5vOHcm81OJgROOZP0B0fe2"
-      },
-      "artists": [
-        {
-          "name": "Odeon",
-          "url": "https://open.spotify.com/artist/4sQ0rhuhy3NbmADbXEFmIt"
-        }
-      ],
-      "duration_ms": 202570,
-      "name": "game",
-      "url": "https://open.spotify.com/track/4m3yaLdrw9E8cfpXmYiUM9"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/2Chidgv4qlo6nTFczR85NB"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 272626,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/4UyoswHCt1WgJhPCrfX330"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "game",
+        "url": "https://open.spotify.com/album/5vOHcm81OJgROOZP0B0fe2"
+      },
+      "artists": [
+        {
+          "name": "Odeon",
+          "url": "https://open.spotify.com/artist/4sQ0rhuhy3NbmADbXEFmIt"
+        }
+      ],
+      "duration_ms": 202570,
+      "name": "game",
+      "url": "https://open.spotify.com/track/4m3yaLdrw9E8cfpXmYiUM9"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 161253,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
         "name": "HWY 666/Black Eyes Blue/CMFT Must Be Stopped (Featuring Tech N9ne and Kid Bookie)",
         "url": "https://open.spotify.com/album/2PlblaXwjQDSHsXWUUBA2S"
       },
@@ -179,6 +195,22 @@
       "duration_ms": 249045,
       "name": "HWY 666",
       "url": "https://open.spotify.com/track/6QnwNrGUyLRkHSXgHRblmn"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "The Antidote",
+        "url": "https://open.spotify.com/album/5Hv9wT0F9Mq2HPcA3Ce1Rl"
+      },
+      "artists": [
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 195661,
+      "name": "The Antidote",
+      "url": "https://open.spotify.com/track/2LnsEYFfPwk6ueO2OCBNLA"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -247,6 +279,22 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
+        "name": "Feast Of Fire",
+        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 258837,
+      "name": "Feast Of Fire",
+      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
         "name": "The Metallica Blacklist",
         "url": "https://open.spotify.com/album/7N32mF0BlA3BOhlSyCiHgf"
       },
@@ -267,8 +315,8 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+        "name": "Boilermaker",
+        "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
       },
       "artists": [
         {
@@ -276,25 +324,41 @@
           "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 161253,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ"
+      "duration_ms": 209480,
+      "name": "Boilermaker",
+      "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
     },
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Kill The Noise",
-        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
+        "name": "Brainless",
+        "url": "https://open.spotify.com/album/2tcvRYXQyMZvudUdXFNZxM"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "DREAMERS",
+          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
         }
       ],
-      "duration_ms": 188127,
-      "name": "Kill The Noise",
-      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
+      "duration_ms": 160411,
+      "name": "Brainless",
+      "url": "https://open.spotify.com/track/66LgSLTaY4qAPRNazf0Psn"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Nowhere Generation",
+        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Nowhere Generation",
+      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -327,18 +391,18 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Start The Healing",
-        "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
+        "name": "Kill The Noise",
+        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 208053,
-      "name": "Start The Healing",
-      "url": "https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG"
+      "duration_ms": 188127,
+      "name": "Kill The Noise",
+      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -363,98 +427,18 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "The Antidote",
-        "url": "https://open.spotify.com/album/5Hv9wT0F9Mq2HPcA3Ce1Rl"
+        "name": "Start The Healing",
+        "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
       },
       "artists": [
         {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 195661,
-      "name": "The Antidote",
-      "url": "https://open.spotify.com/track/2LnsEYFfPwk6ueO2OCBNLA"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Black Holes and Revelations",
-        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 212439,
-      "name": "Supermassive Black Hole",
-      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Bruised And Bloodied",
-        "url": "https://open.spotify.com/album/0MS6wmxkZJsqtxPw8heXzg"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 217773,
-      "name": "Bruised And Bloodied",
-      "url": "https://open.spotify.com/track/3N4kyvQ7hDN6SaO3aYjeoU"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Nowhere Sessions",
-        "url": "https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Fortunate Son - Nowhere Sessions",
-      "url": "https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/33LMoG1vTsoNnUy9vvy8t3"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 256440,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/1OWNwD4n5bGm8CcH3uuQ3C"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Boilermaker",
-        "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 209480,
-      "name": "Boilermaker",
-      "url": "https://open.spotify.com/track/6Ci6L6EeLqR6VHV1DBJy2S"
+      "duration_ms": 208053,
+      "name": "Start The Healing",
+      "url": "https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -475,66 +459,50 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
+        "name": "Black Holes and Revelations",
+        "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
       "artists": [
         {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 245961,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
+      "duration_ms": 212439,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
     },
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Servant Of The Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+        "name": "Anno Satana",
+        "url": "https://open.spotify.com/album/1NlDv04JbrxfypB0XF0rSc"
       },
       "artists": [
         {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         }
       ],
-      "duration_ms": 259173,
-      "name": "Temple Of Ekur",
-      "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
+      "duration_ms": 229666,
+      "name": "Anno Satana",
+      "url": "https://open.spotify.com/track/1iYkDXdNOzjbnOWuYPYHeO"
     },
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Brainless",
-        "url": "https://open.spotify.com/album/2tcvRYXQyMZvudUdXFNZxM"
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
       },
       "artists": [
         {
-          "name": "DREAMERS",
-          "url": "https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 160411,
-      "name": "Brainless",
-      "url": "https://open.spotify.com/track/66LgSLTaY4qAPRNazf0Psn"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/75pgJat1FOBpDBBNPwaCW8"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 244364,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/1Td7TGT1XtK2ojUjz1mGUV"
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -555,130 +523,34 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Trouble\u2019s Coming",
-        "url": "https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj"
+        "name": "Bruised And Bloodied",
+        "url": "https://open.spotify.com/album/0MS6wmxkZJsqtxPw8heXzg"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 228400,
-      "name": "Trouble\u2019s Coming",
-      "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
+      "duration_ms": 217773,
+      "name": "Bruised And Bloodied",
+      "url": "https://open.spotify.com/track/3N4kyvQ7hDN6SaO3aYjeoU"
     },
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Looking Tragic / Begging For Trouble",
-        "url": "https://open.spotify.com/album/1hKjd2OnD0fXSWVsl80M74"
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
       },
       "artists": [
         {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 157894,
-      "name": "Looking Tragic",
-      "url": "https://open.spotify.com/track/3Sacn9UUjr7ksQaTAoYIKg"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Feast Of Fire",
-        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 258837,
-      "name": "Feast Of Fire",
-      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "BURIED ALIVE",
-        "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 213774,
-      "name": "BURIED ALIVE",
-      "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Nowhere Generation",
-        "url": "https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Nowhere Generation",
-      "url": "https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "STILL SUCKS",
-        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 202862,
-      "name": "Out Of Style",
-      "url": "https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Walk The Sky",
-        "url": "https://open.spotify.com/album/6ER0MJlkiEGBKsebXRq2U7"
-      },
-      "artists": [
-        {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
-        }
-      ],
-      "duration_ms": 229940,
-      "name": "Wouldn't You Rather",
-      "url": "https://open.spotify.com/track/1bmip4OvKbC0t1VYbZqv8O"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Blood From A Stone / The Day I Tried To Live",
-        "url": "https://open.spotify.com/album/7iQdbCqEWLgZbvCjNXPHle"
-      },
-      "artists": [
-        {
-          "name": "Sevendust",
-          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
-        }
-      ],
-      "duration_ms": 201688,
-      "name": "Blood From A Stone",
-      "url": "https://open.spotify.com/track/3E67SH1aQjwRBvQ9jphK6c"
+      "duration_ms": 245961,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -699,24 +571,56 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
+        "name": "Nowhere Sessions",
+        "url": "https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 293093,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
+      "duration_ms": 114000,
+      "name": "Fortunate Son - Nowhere Sessions",
+      "url": "https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo"
     },
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "STAY",
-        "url": "https://open.spotify.com/album/76OC7HQKwiJQgVDSP8AgOG"
+        "name": "Looking Tragic / Begging For Trouble",
+        "url": "https://open.spotify.com/album/1hKjd2OnD0fXSWVsl80M74"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 157894,
+      "name": "Looking Tragic",
+      "url": "https://open.spotify.com/track/3Sacn9UUjr7ksQaTAoYIKg"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/33LMoG1vTsoNnUy9vvy8t3"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 256440,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/1OWNwD4n5bGm8CcH3uuQ3C"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "BURIED ALIVE",
+        "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
       },
       "artists": [
         {
@@ -724,45 +628,9 @@
           "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
         }
       ],
-      "duration_ms": 147617,
-      "name": "STAY",
-      "url": "https://open.spotify.com/track/6zYsGB0XlAAsHIm7uSgt0J"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Echoing",
-        "url": "https://open.spotify.com/album/6A2VAAC2N3GBc3UkSfJqaF"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 217346,
-      "name": "Echoing",
-      "url": "https://open.spotify.com/track/7ab894xLywHmwswdr00QSr"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Wouldn\u2019t Change A Thing",
-        "url": "https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Wouldn\u2019t Change A Thing",
-      "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"
+      "duration_ms": 213774,
+      "name": "BURIED ALIVE",
+      "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -791,40 +659,24 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Anno Satana",
-        "url": "https://open.spotify.com/album/1NlDv04JbrxfypB0XF0rSc"
+        "name": "Trouble\u2019s Coming",
+        "url": "https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj"
       },
       "artists": [
         {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 229666,
-      "name": "Anno Satana",
-      "url": "https://open.spotify.com/track/1iYkDXdNOzjbnOWuYPYHeO"
+      "duration_ms": 228400,
+      "name": "Trouble\u2019s Coming",
+      "url": "https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu"
     },
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "I'd Rather Die Than Let You In",
-        "url": "https://open.spotify.com/album/6u34jktTRXSNEWTJgqU8L9"
-      },
-      "artists": [
-        {
-          "name": "The Hunna",
-          "url": "https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "I'd Rather Die Than Let You In",
-      "url": "https://open.spotify.com/track/1fufYQ0Tz8QOXMGQ3MEyot"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Dad Vibes",
-        "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
+        "name": "STILL SUCKS",
+        "url": "https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ"
       },
       "artists": [
         {
@@ -832,9 +684,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 132206,
-      "name": "Dad Vibes",
-      "url": "https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb"
+      "duration_ms": 202862,
+      "name": "Out Of Style",
+      "url": "https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -855,24 +707,76 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Everything We Need",
-        "url": "https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF"
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/75pgJat1FOBpDBBNPwaCW8"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 185200,
-      "name": "Everything We Need",
-      "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
+      "duration_ms": 244364,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/1Td7TGT1XtK2ojUjz1mGUV"
     },
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
+        "name": "Servant Of The Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 259173,
+      "name": "Temple Of Ekur",
+      "url": "https://open.spotify.com/track/1SsCpBXMHUYlrHR7Hozgvu"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/76OC7HQKwiJQgVDSP8AgOG"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 147617,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/6zYsGB0XlAAsHIm7uSgt0J"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Wouldn\u2019t Change A Thing",
+        "url": "https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Wouldn\u2019t Change A Thing",
+      "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
       },
       "artists": [
         {
@@ -880,9 +784,9 @@
           "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
+      "duration_ms": 293093,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -899,6 +803,22 @@
       "duration_ms": 189507,
       "name": "Daddy's Coming Home",
       "url": "https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Walk The Sky",
+        "url": "https://open.spotify.com/album/6ER0MJlkiEGBKsebXRq2U7"
+      },
+      "artists": [
+        {
+          "name": "Alter Bridge",
+          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+        }
+      ],
+      "duration_ms": 229940,
+      "name": "Wouldn't You Rather",
+      "url": "https://open.spotify.com/track/1bmip4OvKbC0t1VYbZqv8O"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -927,114 +847,18 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Knives",
-        "url": "https://open.spotify.com/album/46fenR6yH4MASF1fkHgcWq"
+        "name": "I'd Rather Die Than Let You In",
+        "url": "https://open.spotify.com/album/6u34jktTRXSNEWTJgqU8L9"
       },
       "artists": [
         {
-          "name": "Bullet For My Valentine",
-          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+          "name": "The Hunna",
+          "url": "https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG"
         }
       ],
-      "duration_ms": 256068,
-      "name": "Knives",
-      "url": "https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Black Lungs",
-        "url": "https://open.spotify.com/album/7gGWmZWIBB3EOZaGY602gE"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 231161,
-      "name": "Black Lungs",
-      "url": "https://open.spotify.com/track/1nIw3ohgilArczHubneGxD"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Got it Good",
-        "url": "https://open.spotify.com/album/1Z2xWFVgIjt0W2xwDHWAkn"
-      },
-      "artists": [
-        {
-          "name": "Adelitas Way",
-          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
-        }
-      ],
-      "duration_ms": 195234,
-      "name": "Got it Good",
-      "url": "https://open.spotify.com/track/2IMBocq4JpTY3AofR8zNsr"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "\u00c5NOM\u00c5LY",
-        "url": "https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv"
-      },
-      "artists": [
-        {
-          "name": "Fuel",
-          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 211520,
-      "name": "Misery Business",
-      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Talking To Ourselves (Nowhere Sessions)",
-        "url": "https://open.spotify.com/album/0cojTDESsFKop7BaFCdL8L"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "Talking To Ourselves - Nowhere Sessions",
-      "url": "https://open.spotify.com/track/5xY9w82ln57yAxtwNEU7ha"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Left For Dead",
-        "url": "https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 185772,
-      "name": "Left For Dead",
-      "url": "https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx"
+      "duration_ms": 190080,
+      "name": "I'd Rather Die Than Let You In",
+      "url": "https://open.spotify.com/track/1fufYQ0Tz8QOXMGQ3MEyot"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -1075,18 +899,178 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Forgotten",
-        "url": "https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E"
+        "name": "Dad Vibes",
+        "url": "https://open.spotify.com/album/7tadqEjXzmv9fgy21AelkR"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 197213,
-      "name": "Forgotten",
-      "url": "https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8"
+      "duration_ms": 132206,
+      "name": "Dad Vibes",
+      "url": "https://open.spotify.com/track/3XM6V7K5nbZf5AQz20fDDb"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Blood From A Stone / The Day I Tried To Live",
+        "url": "https://open.spotify.com/album/7iQdbCqEWLgZbvCjNXPHle"
+      },
+      "artists": [
+        {
+          "name": "Sevendust",
+          "url": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+        }
+      ],
+      "duration_ms": 201688,
+      "name": "Blood From A Stone",
+      "url": "https://open.spotify.com/track/3E67SH1aQjwRBvQ9jphK6c"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Echoing",
+        "url": "https://open.spotify.com/album/6A2VAAC2N3GBc3UkSfJqaF"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 217346,
+      "name": "Echoing",
+      "url": "https://open.spotify.com/track/7ab894xLywHmwswdr00QSr"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Knives",
+        "url": "https://open.spotify.com/album/46fenR6yH4MASF1fkHgcWq"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 256068,
+      "name": "Knives",
+      "url": "https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Talking To Ourselves (Nowhere Sessions)",
+        "url": "https://open.spotify.com/album/0cojTDESsFKop7BaFCdL8L"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Talking To Ourselves - Nowhere Sessions",
+      "url": "https://open.spotify.com/track/5xY9w82ln57yAxtwNEU7ha"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "Misery Business",
+      "url": "https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Everything We Need",
+        "url": "https://open.spotify.com/album/45iFc2ouMdWTuxImSsjaJF"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Everything We Need",
+      "url": "https://open.spotify.com/track/5oKBOiiJceLlAEQ4VaVe8p"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Black Lungs",
+        "url": "https://open.spotify.com/album/7gGWmZWIBB3EOZaGY602gE"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 231161,
+      "name": "Black Lungs",
+      "url": "https://open.spotify.com/track/1nIw3ohgilArczHubneGxD"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Left For Dead",
+        "url": "https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 185772,
+      "name": "Left For Dead",
+      "url": "https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "\u00c5NOM\u00c5LY",
+        "url": "https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv"
+      },
+      "artists": [
+        {
+          "name": "Fuel",
+          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
+        }
+      ],
+      "duration_ms": 178066,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Got it Good",
+        "url": "https://open.spotify.com/album/1Z2xWFVgIjt0W2xwDHWAkn"
+      },
+      "artists": [
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "duration_ms": 195234,
+      "name": "Got it Good",
+      "url": "https://open.spotify.com/track/2IMBocq4JpTY3AofR8zNsr"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -1107,18 +1091,38 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Brick Wall",
-        "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
+        "name": "Golden State (20th Anniversary Expanded Version)",
+        "url": "https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        },
+        {
+          "name": "Greg Brimson",
+          "url": "https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Brick Wall",
-      "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
+      "duration_ms": 342306,
+      "name": "The People That We Love - Golden Dub Remix",
+      "url": "https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "One + One",
+        "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 226296,
+      "name": "One + One",
+      "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -1139,6 +1143,38 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
+        "name": "Brick Wall",
+        "url": "https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Brick Wall",
+      "url": "https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
+        "name": "Forgotten",
+        "url": "https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
         "name": "Keep It Away",
         "url": "https://open.spotify.com/album/56a0YTfgc8pSSmvdD381eB"
       },
@@ -1155,6 +1191,22 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 199250,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve"
+    },
+    {
+      "added_at": "2022-01-14 11:44:35",
+      "album": {
         "name": "Traps",
         "url": "https://open.spotify.com/album/0UdQroPXUq5V73zbzsGGrh"
       },
@@ -1167,22 +1219,6 @@
       "duration_ms": 174581,
       "name": "Traps",
       "url": "https://open.spotify.com/track/2ZvxyrNMYKMTazLQI2v9BX"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "One + One",
-        "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 226296,
-      "name": "One + One",
-      "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -1211,22 +1247,18 @@
     {
       "added_at": "2022-01-14 11:44:35",
       "album": {
-        "name": "Golden State (20th Anniversary Expanded Version)",
-        "url": "https://open.spotify.com/album/43TsRvNOblRitRDfdgu4VS"
+        "name": "Heaven in Hiding",
+        "url": "https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ"
       },
       "artists": [
         {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        },
-        {
-          "name": "Greg Brimson",
-          "url": "https://open.spotify.com/artist/52Fd5EqIgOlMWe3yqd1YMe"
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
         }
       ],
-      "duration_ms": 342306,
-      "name": "The People That We Love - Golden Dub Remix",
-      "url": "https://open.spotify.com/track/1QJpxlH4M7DmSFdIyE7Ekq"
+      "duration_ms": 221114,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -1243,38 +1275,6 @@
       "duration_ms": 242193,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C"
-      },
-      "artists": [
-        {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 199250,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve"
-    },
-    {
-      "added_at": "2022-01-14 11:44:35",
-      "album": {
-        "name": "Heaven in Hiding",
-        "url": "https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ"
-      },
-      "artists": [
-        {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
-        }
-      ],
-      "duration_ms": 221114,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5"
     },
     {
       "added_at": "2022-01-14 11:44:35",
@@ -1297,5 +1297,6 @@
       "url": "https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt"
     }
   ],
+  "unique_name": "Volume M\u00e1ximo",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4908CEYEdlz"
 }

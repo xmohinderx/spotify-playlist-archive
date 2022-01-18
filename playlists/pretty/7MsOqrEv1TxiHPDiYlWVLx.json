@@ -1,7 +1,7 @@
 {
   "description": "...and everything nice. Enjoy your dinner to the sounds of classic jazz vocals.",
-  "name": "Sugar & Spice",
   "num_followers": 159,
+  "original_name": "Sugar & Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -413,5 +413,6 @@
       "url": "https://open.spotify.com/track/29dFStdDNJHdgGPhwyKdbB"
     }
   ],
+  "unique_name": "Sugar & Spice",
   "url": "https://open.spotify.com/playlist/7MsOqrEv1TxiHPDiYlWVLx"
 }

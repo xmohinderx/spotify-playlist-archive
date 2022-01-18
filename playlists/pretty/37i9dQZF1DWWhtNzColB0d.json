@@ -1,7 +1,7 @@
 {
   "description": "Flaubert, Hugo, Balzac, Dumas, Stendhal, Maupassant... audio versions of classic French novels and short stories.",
-  "name": "French Literature",
-  "num_followers": 16915,
+  "num_followers": 16914,
+  "original_name": "French Literature",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -661,5 +661,6 @@
       "url": "https://open.spotify.com/track/1J1KVZjeJHGKJ5vU8w3o0n"
     }
   ],
+  "unique_name": "French Literature",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWhtNzColB0d"
 }

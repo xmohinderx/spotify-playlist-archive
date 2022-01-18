@@ -1,7 +1,7 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music.",
-  "name": "Country's Greatest Hits",
-  "num_followers": 222846,
+  "num_followers": 222873,
+  "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1633,5 +1633,6 @@
       "url": "https://open.spotify.com/track/7w3YZLWL8l11US6FMMLOGq"
     }
   ],
+  "unique_name": "Country's Greatest Hits",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZBCPUIUs2iR"
 }

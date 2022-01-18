@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Luxembourg.",
-  "name": "Top 50 - Luxembourg",
   "num_followers": 6828,
+  "original_name": "Top 50 - Luxembourg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -909,5 +909,6 @@
       "url": "https://open.spotify.com/track/1F80MEkZA9yTlpMQp9dhht"
     }
   ],
+  "unique_name": "Top 50 - Luxembourg",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKGcyg6TFGx6"
 }

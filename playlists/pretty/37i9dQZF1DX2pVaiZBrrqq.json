@@ -1,7 +1,7 @@
 {
   "description": "All the best of The Laurie Berkner Band!",
-  "name": "This Is The Laurie Berkner Band",
   "num_followers": 20866,
+  "original_name": "This Is The Laurie Berkner Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1233,5 +1233,6 @@
       "url": "https://open.spotify.com/track/3JwZZy7Jfv1Bv9bijSc0S1"
     }
   ],
+  "unique_name": "This Is The Laurie Berkner Band",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2pVaiZBrrqq"
 }

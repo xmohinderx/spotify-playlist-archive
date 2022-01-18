@@ -1,7 +1,7 @@
 {
   "description": "Some heart and soul for those up late.",
-  "name": "The Midnight Hour",
-  "num_followers": 127157,
+  "num_followers": 127161,
+  "original_name": "The Midnight Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -857,5 +857,6 @@
       "url": "https://open.spotify.com/track/7Cbdk6g8ll93qL9QT66ABu"
     }
   ],
+  "unique_name": "The Midnight Hour",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXea80XwOJRgD"
 }

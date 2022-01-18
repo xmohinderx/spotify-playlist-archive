@@ -1,7 +1,7 @@
 {
   "description": "Tina Turner's most essential tracks, all in one playlist.",
-  "name": "This Is Tina Turner",
   "num_followers": 247112,
+  "original_name": "This Is Tina Turner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -633,5 +633,6 @@
       "url": "https://open.spotify.com/track/6Srd24SS5VX3tKztnos6gk"
     }
   ],
+  "unique_name": "This Is Tina Turner",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4UK2Qu9x6KC"
 }

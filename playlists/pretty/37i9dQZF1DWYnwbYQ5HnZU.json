@@ -1,7 +1,7 @@
 {
   "description": "Spotify Fan Favorites from the last few years.  Artist: Dierks Bentley",
-  "name": "Country Gold",
-  "num_followers": 1699270,
+  "num_followers": 1699322,
+  "original_name": "Country Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1713,5 +1713,6 @@
       "url": "https://open.spotify.com/track/7mDZ2NdYOeKFcz2zGnKBwU"
     }
   ],
+  "unique_name": "Country Gold",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYnwbYQ5HnZU"
 }

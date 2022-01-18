@@ -1,7 +1,7 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "name": "The Good Cup",
-  "num_followers": 34766,
+  "num_followers": 34765,
+  "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -981,5 +981,6 @@
       "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
     }
   ],
+  "unique_name": "The Good Cup",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUEbH7oMQunS"
 }

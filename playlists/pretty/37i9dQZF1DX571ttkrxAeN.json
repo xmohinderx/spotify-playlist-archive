@@ -1,7 +1,7 @@
 {
   "description": "Sit and sip a cup as you soak up some acoustic vibes from across the world. Cover: Souad Massi.",
-  "name": "Acoustic Cafe International",
   "num_followers": 322473,
+  "original_name": "Acoustic Cafe International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1277,5 +1277,6 @@
       "url": "https://open.spotify.com/track/0eztsnxQ3UXNl5O6n55ZYo"
     }
   ],
+  "unique_name": "Acoustic Cafe International",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX571ttkrxAeN"
 }

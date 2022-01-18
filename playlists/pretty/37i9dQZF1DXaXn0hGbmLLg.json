@@ -1,7 +1,7 @@
 {
   "description": "Women at full volume! Luister naar muziek van vrouwen uit Nederland. Cover: MEAU",
-  "name": "EQUAL Netherlands",
-  "num_followers": 3910,
+  "num_followers": 3909,
+  "original_name": "EQUAL Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -845,5 +845,6 @@
       "url": "https://open.spotify.com/track/6moY3G5xwRXSOgSE18jXG3"
     }
   ],
+  "unique_name": "EQUAL Netherlands",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaXn0hGbmLLg"
 }

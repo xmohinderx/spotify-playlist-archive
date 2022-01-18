@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Hank - Gutsy",
   "num_followers": 226,
+  "original_name": "Hank - Gutsy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -489,5 +489,6 @@
       "url": "https://open.spotify.com/track/4o6o6DTA9kNg7Adl9LvkbB"
     }
   ],
+  "unique_name": "Hank - Gutsy",
   "url": "https://open.spotify.com/playlist/2nRUp0P50ClCxPibGSfFcL"
 }

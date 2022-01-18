@@ -1,7 +1,7 @@
 {
   "description": "Ease into these recent hits and new songs from your favorite artists. Cover: Adele",
-  "name": "Just Good Music",
-  "num_followers": 725153,
+  "num_followers": 725219,
+  "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1425,5 +1425,6 @@
       "url": "https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0"
     }
   ],
+  "unique_name": "Just Good Music",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0b1hHYQtJjp"
 }

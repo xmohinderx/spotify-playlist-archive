@@ -1,7 +1,7 @@
 {
   "description": "The essential Joan Baez, all in one place.",
-  "name": "This Is Joan Baez",
   "num_followers": 51980,
+  "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -997,5 +997,6 @@
       "url": "https://open.spotify.com/track/0oVbP6H6Erf8eg03F33MbF"
     }
   ],
+  "unique_name": "This Is Joan Baez",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0ylvIHUvZdj"
 }

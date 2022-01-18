@@ -1,7 +1,7 @@
 {
   "description": "Get your fill of vibes straight out of Tanzania.",
-  "name": "Bongo Flava",
   "num_followers": 35510,
+  "original_name": "Bongo Flava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1337,5 +1337,6 @@
       "url": "https://open.spotify.com/track/2dkVYJdwNJJ3XHxLwbcfaG"
     }
   ],
+  "unique_name": "Bongo Flava",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Comedians ponder all things music, including their favorite celebrities and pop culture icons. [Warning: Explicit Content]",
-  "name": "Music Jokes",
   "num_followers": 4813,
+  "original_name": "Music Jokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1145,5 +1145,6 @@
       "url": "https://open.spotify.com/track/7h3bN2ufjkSpjoXmHXqrwx"
     }
   ],
+  "unique_name": "Music Jokes",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdWZwKY7xcB3"
 }

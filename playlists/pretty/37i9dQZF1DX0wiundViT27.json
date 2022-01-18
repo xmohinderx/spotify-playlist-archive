@@ -1,7 +1,7 @@
 {
   "description": "A dose of high energy, feel-good rock tunes. Press play and let the good vibes come your way.",
-  "name": "Rock Me UP!",
-  "num_followers": 610258,
+  "num_followers": 610257,
+  "original_name": "Rock Me UP!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1637,5 +1637,6 @@
       "url": "https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs"
     }
   ],
+  "unique_name": "Rock Me UP!",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0wiundViT27"
 }

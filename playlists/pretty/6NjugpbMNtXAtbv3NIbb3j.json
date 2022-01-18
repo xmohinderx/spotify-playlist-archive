@@ -1,7 +1,7 @@
 {
   "description": "The Spotify House 2015 Thursday lineup. ",
-  "name": "Spotify House Thursday",
   "num_followers": 462,
+  "original_name": "Spotify House Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -365,5 +365,6 @@
       "url": "https://open.spotify.com/track/02uNz94xdQzo2b3tq7YDfF"
     }
   ],
+  "unique_name": "Spotify House Thursday",
   "url": "https://open.spotify.com/playlist/6NjugpbMNtXAtbv3NIbb3j"
 }

@@ -1,7 +1,7 @@
 {
   "description": "From denial and pleading to anger and acceptance, this genre-blending playlist will carry you through each stage of your breakup blues.",
-  "name": "Breakup Blues",
   "num_followers": 215,
+  "original_name": "Breakup Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -705,5 +705,6 @@
       "url": "https://open.spotify.com/track/0PUvGDmQSDlxqwExmU4CWz"
     }
   ],
+  "unique_name": "Breakup Blues",
   "url": "https://open.spotify.com/playlist/1o2bTwofazfzElA5mXGf2t"
 }

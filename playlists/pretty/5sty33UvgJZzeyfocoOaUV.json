@@ -1,7 +1,7 @@
 {
   "description": "Get the most out of your day and #makeithappen.",
-  "name": "#MakeitHappen",
   "num_followers": 77,
+  "original_name": "#MakeitHappen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -533,5 +533,6 @@
       "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
     }
   ],
+  "unique_name": "#MakeitHappen",
   "url": "https://open.spotify.com/playlist/5sty33UvgJZzeyfocoOaUV"
 }

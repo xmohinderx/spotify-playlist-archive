@@ -446,6 +446,24 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/5S7129DvkAVp9RbuaS1Ik0"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210787,
+      "name": "Friendzone",
+      "url": "https://open.spotify.com/track/5OS46yuAV5pRqeCxrRw7XL"
+    },
+    {
+      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e [Deluxe Version]",
         "url": "https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu"
       },

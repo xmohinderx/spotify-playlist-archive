@@ -1,7 +1,7 @@
 {
   "description": "Saluting the songs and artists that have filled us with pride.",
-  "name": "Black History Salute",
-  "num_followers": 262424,
+  "num_followers": 262422,
+  "original_name": "Black History Salute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -425,5 +425,6 @@
       "url": "https://open.spotify.com/track/4rU1Cunyeg7JNdNM3mP8BL"
     }
   ],
+  "unique_name": "Black History Salute",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2r0FByV5U4C"
 }

@@ -1,7 +1,7 @@
 {
   "description": "The essential Radiohead, all in one playlist.",
-  "name": "This Is Radiohead",
   "num_followers": 564784,
+  "original_name": "This Is Radiohead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1113,5 +1113,6 @@
       "url": "https://open.spotify.com/track/6gXv8OCSgKr5ZoVYi7Q7GM"
     }
   ],
+  "unique_name": "This Is Radiohead",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1XDyq5cTk95"
 }

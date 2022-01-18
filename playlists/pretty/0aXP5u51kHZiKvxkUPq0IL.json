@@ -1,7 +1,7 @@
 {
   "description": "Score your day with some signature indie ballads.",
-  "name": "Indie Ballads",
   "num_followers": 232,
+  "original_name": "Indie Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -933,5 +933,6 @@
       "url": "https://open.spotify.com/track/4l7vH6zMLfz2P3F5ufpc55"
     }
   ],
+  "unique_name": "Indie Ballads",
   "url": "https://open.spotify.com/playlist/0aXP5u51kHZiKvxkUPq0IL"
 }

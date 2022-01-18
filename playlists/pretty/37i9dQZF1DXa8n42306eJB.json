@@ -1,7 +1,7 @@
 {
   "description": "Good vibes for good times!",
-  "name": "Reggae Party",
-  "num_followers": 98902,
+  "num_followers": 98907,
+  "original_name": "Reggae Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1249,5 +1249,6 @@
       "url": "https://open.spotify.com/track/0gnncXckqtWNoyq77cz0mL"
     }
   ],
+  "unique_name": "Reggae Party",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXa8n42306eJB"
 }

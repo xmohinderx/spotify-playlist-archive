@@ -1,7 +1,7 @@
 {
   "description": "The essential originals and remixes from Alex & Drew.",
-  "name": "This Is The Chainsmokers",
   "num_followers": 955687,
+  "original_name": "This Is The Chainsmokers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -929,5 +929,6 @@
       "url": "https://open.spotify.com/track/7D7tu1NS4f9jvDkb5xcUSj"
     }
   ],
+  "unique_name": "This Is The Chainsmokers",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX46HBMApdlID"
 }

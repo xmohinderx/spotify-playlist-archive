@@ -1,7 +1,7 @@
 {
   "description": "Your essential collection, all in one playlist.",
-  "name": "This Is Margo Price",
   "num_followers": 7380,
+  "original_name": "This Is Margo Price",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -413,5 +413,6 @@
       "url": "https://open.spotify.com/track/7xNHIo5t0jZEBjvxQGflkQ"
     }
   ],
+  "unique_name": "This Is Margo Price",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5P58TnuVGha"
 }

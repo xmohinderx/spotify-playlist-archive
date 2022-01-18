@@ -1,7 +1,7 @@
 {
   "description": "Enjoy the electric, amplified sound that is Chicago Blues.\u00a0",
-  "name": "Chicago Blues",
-  "num_followers": 105200,
+  "num_followers": 105208,
+  "original_name": "Chicago Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -825,5 +825,6 @@
       "url": "https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR"
     }
   ],
+  "unique_name": "Chicago Blues",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4rGCw5bMNp1"
 }

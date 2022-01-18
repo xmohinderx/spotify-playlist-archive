@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4hpot8sYudB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4hpot8sYudB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4hpot8sYudB)
 
-### Brown Noise
+### [Brown Noise](https://open.spotify.com/playlist/1WAyEUZtOSwZyUwFQKR52M)
 
 > Soothing, low frequencies for relaxation, meditation or sleep.
 

@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Happy Birthday Cheryl!",
   "num_followers": 569,
+  "original_name": "Happy Birthday Cheryl!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -553,5 +553,6 @@
       "url": "https://open.spotify.com/track/78vhO9k0vcok9qm2ixTmUh"
     }
   ],
+  "unique_name": "Happy Birthday Cheryl!",
   "url": "https://open.spotify.com/playlist/7qLIVhpCFAiX1Teqf3L6Y4"
 }

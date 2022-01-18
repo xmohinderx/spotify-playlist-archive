@@ -1,7 +1,7 @@
 {
   "description": "The best of Iron Maiden. All in one playlist.",
-  "name": "This Is Iron Maiden",
   "num_followers": 602880,
+  "original_name": "This Is Iron Maiden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -809,5 +809,6 @@
       "url": "https://open.spotify.com/track/3KqYcqLk7YUyNIxr9jCNhC"
     }
   ],
+  "unique_name": "This Is Iron Maiden",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXagb3XZSnOQ8"
 }

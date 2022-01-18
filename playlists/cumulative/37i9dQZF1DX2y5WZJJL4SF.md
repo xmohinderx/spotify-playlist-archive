@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2y5WZJJL4SF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2y5WZJJL4SF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2y5WZJJL4SF)
 
-### Harp Lullabies
+### [Harp Lullabies](https://open.spotify.com/playlist/5s5aESIlnEiqencTr1QRMW)
 
 > Soft and calm renditions of songs for harp.
 

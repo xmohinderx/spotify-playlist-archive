@@ -1,7 +1,7 @@
 {
   "description": "The best of the band's 8 albums!",
-  "name": "This Is Portugal. The Man",
   "num_followers": 90759,
+  "original_name": "This Is Portugal. The Man",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -601,5 +601,6 @@
       "url": "https://open.spotify.com/track/0BCRg55jHpvPONP7yCm87V"
     }
   ],
+  "unique_name": "This Is Portugal. The Man",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUbOQi4OiTx4"
 }

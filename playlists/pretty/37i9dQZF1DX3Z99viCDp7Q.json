@@ -1,7 +1,7 @@
 {
   "description": "The Knot shares its wedding favorites.",
-  "name": "Wedding Songs",
-  "num_followers": 147016,
+  "num_followers": 147017,
+  "original_name": "Wedding Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -657,5 +657,6 @@
       "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
     }
   ],
+  "unique_name": "Wedding Songs",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Z99viCDp7Q"
 }

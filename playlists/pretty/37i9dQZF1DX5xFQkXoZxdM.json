@@ -1,7 +1,7 @@
 {
   "description": "This is the essential collection of songs from Trey Songz.",
-  "name": "This Is: Trey Songz",
   "num_followers": 188999,
+  "original_name": "This Is: Trey Songz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1001,5 +1001,6 @@
       "url": "https://open.spotify.com/track/23znB7WDG5MBUiGSsdvYRw"
     }
   ],
+  "unique_name": "This Is: Trey Songz",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5xFQkXoZxdM"
 }

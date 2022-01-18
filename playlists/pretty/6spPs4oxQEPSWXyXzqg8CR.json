@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Urban",
   "num_followers": 45,
+  "original_name": "Top Picks Urban",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -441,5 +441,6 @@
       "url": "https://open.spotify.com/track/2ydOONTJ0e8894AA3Nplh5"
     }
   ],
+  "unique_name": "Top Picks Urban",
   "url": "https://open.spotify.com/playlist/6spPs4oxQEPSWXyXzqg8CR"
 }

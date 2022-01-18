@@ -1,7 +1,7 @@
 {
   "description": "Explore the music of Franz Liszt.",
-  "name": "This Is Liszt",
-  "num_followers": 62341,
+  "num_followers": 62350,
+  "original_name": "This Is Liszt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1377,5 +1377,6 @@
       "url": "https://open.spotify.com/track/0N4sQWENULr0EHhYWDfRw1"
     }
   ],
+  "unique_name": "This Is Liszt",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX93wmY669mVj"
 }

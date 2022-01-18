@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/7516uBfjNbecLTG6tnzPU5)
 
-> With La Bouquet, Charli Adams, Luca Fogale and more
+> With Sunglasses Kid, Ed Patrick, Caroline Polachek and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Time Lapse](https://open.spotify.com/track/7oMI71Jb3USQX5ILk5lp6x) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Kalax](https://open.spotify.com/album/7voXS1czW5xne4u6vsuSKS) | 4:19 | 2021-12-07 | 2022-01-11 |
 | [Tougher Than the Rest](https://open.spotify.com/track/2DrkIi5HbaX97SbGsuwsg5) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Dreams You Don't Forget](https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4) | 3:54 | 2021-12-01\* | 2022-01-10 |
 | [Towel](https://open.spotify.com/track/1fhpNdiCQSTQmov5BAgfig) | [The Wldlfe](https://open.spotify.com/artist/2Vvj76fff5uAw10W1sW54W) | [I'm Not Worried Anymore, 2018](https://open.spotify.com/album/7nBk8wmGeXYaWXHAVBwWKS) | 4:36 | 2021-12-21 | 2021-12-22 |
-| [Villains](https://open.spotify.com/track/3wkpzupNc2h7MI97YtWSS6) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Safety](https://open.spotify.com/album/6tgbjRYSkt8AHTBwG4lP3u) | 4:07 | 2022-01-18 |  |
+| [Villains](https://open.spotify.com/track/3wkpzupNc2h7MI97YtWSS6) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Safety](https://open.spotify.com/album/6tgbjRYSkt8AHTBwG4lP3u) | 4:07 | 2022-01-17 |  |
 | [Waiting](https://open.spotify.com/track/3hcPwxqzGiAHQVqnDhkzVZ) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Dreams You Don't Forget](https://open.spotify.com/album/3PJe5CI9HcvQaQtDvCZmS4) | 5:22 | 2021-12-02 | 2022-01-18 |
 | [Wallflowers](https://open.spotify.com/track/1jlYZtPqHOb8zueJ6X9QEO) | [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [FELT](https://open.spotify.com/album/01ncI2Fftcla2D0p7xhhvj) | 3:55 | 2021-12-01\* | 2022-01-18 |
 | [Washed Wine](https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz) | [LAVE](https://open.spotify.com/artist/5MahcP4Ovco9oORrQRaUqp) | [Washed Wine](https://open.spotify.com/album/6cPnpY4PBuarcZVCOkddjA) | 3:39 | 2021-12-08 | 2022-01-15 |

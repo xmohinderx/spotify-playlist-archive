@@ -1,7 +1,7 @@
 {
   "description": "The essential tracks with Bruce Springsteen.",
-  "name": "This is Bruce Springsteen",
   "num_followers": 490137,
+  "original_name": "This is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1161,5 +1161,6 @@
       "url": "https://open.spotify.com/track/1ROdEjSQNMGFvckeRu68SE"
     }
   ],
+  "unique_name": "This is Bruce Springsteen",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9qkL85stcHs"
 }

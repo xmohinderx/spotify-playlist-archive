@@ -1,7 +1,7 @@
 {
   "description": "Get all the essential music by Nickelback.",
-  "name": "This Is Nickelback",
   "num_followers": 497732,
+  "original_name": "This Is Nickelback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -537,5 +537,6 @@
       "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
     }
   ],
+  "unique_name": "This Is Nickelback",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6JuPU62sIoU"
 }

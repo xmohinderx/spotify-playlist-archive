@@ -1,7 +1,7 @@
 {
   "description": "Because we love our Hip Hop... Dance away!",
-  "name": "We Dem Girlz",
   "num_followers": 19552,
+  "original_name": "We Dem Girlz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -425,5 +425,6 @@
       "url": "https://open.spotify.com/track/7lkQTp7j815mtUuSO9LFzI"
     }
   ],
+  "unique_name": "We Dem Girlz",
   "url": "https://open.spotify.com/playlist/3g2dsbLbtpOz0Gpo4W50QK"
 }

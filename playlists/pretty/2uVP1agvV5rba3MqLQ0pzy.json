@@ -1,7 +1,7 @@
 {
   "description": "Despite their nomenclature defying eclecticism, these folk inspired artists share a collective penchant for welding experimentation with tradition.",
-  "name": "Avant Folk",
   "num_followers": 265,
+  "original_name": "Avant Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -733,5 +733,6 @@
       "url": "https://open.spotify.com/track/4OUc5vA09ySv6hdVSsnCWQ"
     }
   ],
+  "unique_name": "Avant Folk",
   "url": "https://open.spotify.com/playlist/2uVP1agvV5rba3MqLQ0pzy"
 }

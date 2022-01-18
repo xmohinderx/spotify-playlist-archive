@@ -1,7 +1,7 @@
 {
   "description": "Bands from and songs about The Golden State. Here's your playlist for California Dreamin'",
-  "name": "California Rock State",
-  "num_followers": 749793,
+  "num_followers": 749797,
+  "original_name": "California Rock State",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1217,5 +1217,6 @@
       "url": "https://open.spotify.com/track/7MdqStZphq1x5yTXfqgD5U"
     }
   ],
+  "unique_name": "California Rock State",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTlgzqHpWg4m"
 }

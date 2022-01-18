@@ -1,7 +1,7 @@
 {
   "description": "The newest, freshest R&B tunes.  Cover: Muni Long",
-  "name": "New Jams",
-  "num_followers": 847958,
+  "num_followers": 848032,
+  "original_name": "New Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -901,5 +901,6 @@
       "url": "https://open.spotify.com/track/2RtodA9O20qR1GcAqzhWLy"
     }
   ],
+  "unique_name": "New Jams",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUzFXarNiofw"
 }

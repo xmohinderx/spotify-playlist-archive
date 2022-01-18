@@ -1,7 +1,7 @@
 {
   "description": "As one of the most widely beloved entertainers of all-time, Michael Jackson made an unforgettable imprint on popular music. Here is a collection of some of his best tunes.",
-  "name": "King of Pop",
   "num_followers": 1487,
+  "original_name": "King of Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -441,5 +441,6 @@
       "url": "https://open.spotify.com/track/0tdoyI0QqMa5G1mdOEKIDw"
     }
   ],
+  "unique_name": "King of Pop",
   "url": "https://open.spotify.com/playlist/653U7cDBXXkPZ07Xk8kxL6"
 }

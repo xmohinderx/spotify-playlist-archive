@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Mos Def & Talib Kweli",
-  "name": "I Love My Underground Classics",
-  "num_followers": 232460,
+  "num_followers": 232500,
+  "original_name": "I Love My Underground Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2Njk4NywwMDAwMDAwMDMzMTI1NmUzZGY5OWYzMGVhYjFlMzExMzEzYTZlMWY4",
+  "snapshot_id": "MTY0MjQ3OTQzMCwwMDAwMDAwMDlhMTA1MmYyYTc4YWZlY2UwMDk5NGVkODAxZmIzMTNj",
   "tracks": [
     {
       "added_at": "2021-07-29 22:51:03",
@@ -47,6 +47,22 @@
     {
       "added_at": "2021-03-26 15:50:36",
       "album": {
+        "name": "Re:Release",
+        "url": "https://open.spotify.com/album/5Xm5v4DQ9d9y02eK0jO6zG"
+      },
+      "artists": [
+        {
+          "name": "Juggaknots",
+          "url": "https://open.spotify.com/artist/0kU2Phi8xn8Sd6pC2qXxs5"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Clear Blue Skies",
+      "url": "https://open.spotify.com/track/1zA1vA6xf8VyzHCSu8wAve"
+    },
+    {
+      "added_at": "2021-03-26 15:50:36",
+      "album": {
         "name": "Acid Raindrops",
         "url": "https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 264152,
       "name": "Acid Raindrops",
       "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
-    },
-    {
-      "added_at": "2021-01-11 18:08:05",
-      "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Won't Do",
-      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -93,20 +93,20 @@
       "url": "https://open.spotify.com/track/2KBo6O5rkNdtYT3wYjkEkq"
     },
     {
-      "added_at": "2021-03-26 15:50:36",
+      "added_at": "2021-02-01 17:08:11",
       "album": {
-        "name": "Re:Release",
-        "url": "https://open.spotify.com/album/5Xm5v4DQ9d9y02eK0jO6zG"
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/7xJ7jHNu3JNfdnao9xwMho"
       },
       "artists": [
         {
-          "name": "Juggaknots",
-          "url": "https://open.spotify.com/artist/0kU2Phi8xn8Sd6pC2qXxs5"
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 235171,
-      "name": "Clear Blue Skies",
-      "url": "https://open.spotify.com/track/1zA1vA6xf8VyzHCSu8wAve"
+      "duration_ms": 177120,
+      "name": "Workinonit",
+      "url": "https://open.spotify.com/track/6qK7s9JlNBfYLWPb1nwQAG"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -129,52 +129,36 @@
       "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
     },
     {
-      "added_at": "2021-07-29 22:51:03",
-      "album": {
-        "name": "Mos Def & Talib Kweli Are Black Star",
-        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 365333,
-      "name": "Respiration",
-      "url": "https://open.spotify.com/track/5mxVKAuunOKqcBfR5ivbRf"
-    },
-    {
       "added_at": "2021-03-26 15:50:36",
       "album": {
-        "name": "Masters of the Universe",
-        "url": "https://open.spotify.com/album/69UJqktqkpO9QdzybUMxNK"
+        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
+        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
       },
       "artists": [
         {
-          "name": "Binary Star",
-          "url": "https://open.spotify.com/artist/1bulNj9KHvx8haqJBFDSyz"
-        },
-        {
-          "name": "Senim",
-          "url": "https://open.spotify.com/artist/0Df5gzL6quFRUanH7J8yNe"
-        },
-        {
-          "name": "Onemanarmy",
-          "url": "https://open.spotify.com/artist/5hFUdo03JPEWYkusqTwjiX"
-        },
-        {
-          "name": "One Be Lo",
-          "url": "https://open.spotify.com/artist/2wQR86xNE8mkPaffnClYAj"
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
         }
       ],
-      "duration_ms": 241394,
-      "name": "Reality Check",
-      "url": "https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU"
+      "duration_ms": 253068,
+      "name": "2000 Seasons",
+      "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "I Juswanna Chill",
+      "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -217,26 +201,10 @@
       "url": "https://open.spotify.com/track/5jAvbp8kEnRPToi4Bzcvzt"
     },
     {
-      "added_at": "2021-03-26 15:50:36",
+      "added_at": "2021-01-11 18:08:05",
       "album": {
-        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
-        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
-      },
-      "artists": [
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        }
-      ],
-      "duration_ms": 253068,
-      "name": "2000 Seasons",
-      "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
-    },
-    {
-      "added_at": "2021-02-01 17:08:11",
-      "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/7xJ7jHNu3JNfdnao9xwMho"
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
       },
       "artists": [
         {
@@ -244,9 +212,29 @@
           "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 177120,
-      "name": "Workinonit",
-      "url": "https://open.spotify.com/track/6qK7s9JlNBfYLWPb1nwQAG"
+      "duration_ms": 232533,
+      "name": "Won't Do",
+      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
+    },
+    {
+      "added_at": "2021-07-29 22:51:03",
+      "album": {
+        "name": "Mos Def & Talib Kweli Are Black Star",
+        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
+      },
+      "artists": [
+        {
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 365333,
+      "name": "Respiration",
+      "url": "https://open.spotify.com/track/5mxVKAuunOKqcBfR5ivbRf"
     },
     {
       "added_at": "2021-03-26 14:56:41",
@@ -265,20 +253,20 @@
       "url": "https://open.spotify.com/track/6piDHcH0vdPWzIg2uU2q3K"
     },
     {
-      "added_at": "2020-09-25 04:39:22",
+      "added_at": "2020-09-25 14:36:39",
       "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
+        "name": "Things Fall Apart",
+        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
       },
       "artists": [
         {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
         }
       ],
-      "duration_ms": 208866,
-      "name": "I Juswanna Chill",
-      "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
+      "duration_ms": 233493,
+      "name": "100% Dundee",
+      "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
     },
     {
       "added_at": "2021-01-06 03:25:12",
@@ -303,6 +291,58 @@
       "duration_ms": 131866,
       "name": "Meat Grinder",
       "url": "https://open.spotify.com/track/60PZUWKsJC52uXaPlPcEVf"
+    },
+    {
+      "added_at": "2021-01-11 18:08:05",
+      "album": {
+        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
+        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Yasiin Bey",
+          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
+        },
+        {
+          "name": "Mr Man",
+          "url": "https://open.spotify.com/artist/0g0fNhGsKbfFuNlaHK9e43"
+        }
+      ],
+      "duration_ms": 311040,
+      "name": "Fortfied Live",
+      "url": "https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL"
+    },
+    {
+      "added_at": "2021-03-26 15:50:36",
+      "album": {
+        "name": "Masters of the Universe",
+        "url": "https://open.spotify.com/album/69UJqktqkpO9QdzybUMxNK"
+      },
+      "artists": [
+        {
+          "name": "Binary Star",
+          "url": "https://open.spotify.com/artist/1bulNj9KHvx8haqJBFDSyz"
+        },
+        {
+          "name": "Senim",
+          "url": "https://open.spotify.com/artist/0Df5gzL6quFRUanH7J8yNe"
+        },
+        {
+          "name": "Onemanarmy",
+          "url": "https://open.spotify.com/artist/5hFUdo03JPEWYkusqTwjiX"
+        },
+        {
+          "name": "One Be Lo",
+          "url": "https://open.spotify.com/artist/2wQR86xNE8mkPaffnClYAj"
+        }
+      ],
+      "duration_ms": 241394,
+      "name": "Reality Check",
+      "url": "https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU"
     },
     {
       "added_at": "2021-08-13 21:56:13",
@@ -341,22 +381,6 @@
       "url": "https://open.spotify.com/track/5zEP0MRnDe5qwL361xBz0B"
     },
     {
-      "added_at": "2020-09-25 14:36:39",
-      "album": {
-        "name": "Things Fall Apart",
-        "url": "https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "100% Dundee",
-      "url": "https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O"
-    },
-    {
       "added_at": "2021-03-26 15:50:36",
       "album": {
         "name": "Lyricist Lounge Vol. 1",
@@ -381,6 +405,38 @@
       "url": "https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij"
     },
     {
+      "added_at": "2021-02-01 17:08:11",
+      "album": {
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/7xJ7jHNu3JNfdnao9xwMho"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 119386,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/4jVqbLx0MvlIaj3h2D872X"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "The Way You Do It/The Get Up",
+        "url": "https://open.spotify.com/album/1FoizIaKBYPv4c0RbKf7mm"
+      },
+      "artists": [
+        {
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "The Way You Do It",
+      "url": "https://open.spotify.com/track/0G3uLnfuwt3PLxw6QgDIZr"
+    },
+    {
       "added_at": "2021-08-13 21:56:13",
       "album": {
         "name": "Train Of Thought",
@@ -401,62 +457,6 @@
       "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
     },
     {
-      "added_at": "2021-02-01 17:08:11",
-      "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/7xJ7jHNu3JNfdnao9xwMho"
-      },
-      "artists": [
-        {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
-        }
-      ],
-      "duration_ms": 119386,
-      "name": "Don't Cry",
-      "url": "https://open.spotify.com/track/4jVqbLx0MvlIaj3h2D872X"
-    },
-    {
-      "added_at": "2021-01-11 18:08:05",
-      "album": {
-        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
-        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
-      },
-      "artists": [
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        },
-        {
-          "name": "Yasiin Bey",
-          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
-        },
-        {
-          "name": "Mr Man",
-          "url": "https://open.spotify.com/artist/0g0fNhGsKbfFuNlaHK9e43"
-        }
-      ],
-      "duration_ms": 311040,
-      "name": "Fortfied Live",
-      "url": "https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "The Way You Do It/The Get Up",
-        "url": "https://open.spotify.com/album/1FoizIaKBYPv4c0RbKf7mm"
-      },
-      "artists": [
-        {
-          "name": "Little Brother",
-          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "The Way You Do It",
-      "url": "https://open.spotify.com/track/0G3uLnfuwt3PLxw6QgDIZr"
-    },
-    {
       "added_at": "2021-07-29 22:51:03",
       "album": {
         "name": "J-88",
@@ -471,22 +471,6 @@
       "duration_ms": 218079,
       "name": "The Look of Love, Pt. 1",
       "url": "https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Won",
-        "url": "https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH"
-      },
-      "artists": [
-        {
-          "name": "Pacewon",
-          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "I Declare War",
-      "url": "https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -533,22 +517,6 @@
       "url": "https://open.spotify.com/track/5V7JsXzvnZ7gYF479LGFAO"
     },
     {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Little Brother",
-      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
-    },
-    {
       "added_at": "2021-06-10 04:28:06",
       "album": {
         "name": "Kollage",
@@ -587,6 +555,58 @@
       "duration_ms": 274826,
       "name": "The Sun God",
       "url": "https://open.spotify.com/track/2IUCmiYLRuQohsIyiE3RaG"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "The Hurricane (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/5ozerhrq5BPSXI3xwl9lGs"
+      },
+      "artists": [
+        {
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "Little Brother",
+      "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "Won",
+        "url": "https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH"
+      },
+      "artists": [
+        {
+          "name": "Pacewon",
+          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "I Declare War",
+      "url": "https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "The Future Is Now",
+        "url": "https://open.spotify.com/album/553dWgdmE89xioa8E7ftjD"
+      },
+      "artists": [
+        {
+          "name": "Non Phixion",
+          "url": "https://open.spotify.com/artist/0bWOVEEzzkEIqsSZoXt8KW"
+        },
+        {
+          "name": "ILL Bill",
+          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
+        }
+      ],
+      "duration_ms": 239973,
+      "name": "Rock Stars",
+      "url": "https://open.spotify.com/track/2WYZfrZJX2YSFXW29tpHrV"
     },
     {
       "added_at": "2021-03-26 15:50:36",
@@ -639,26 +659,6 @@
       "duration_ms": 217440,
       "name": "Full Clip",
       "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "The Future Is Now",
-        "url": "https://open.spotify.com/album/553dWgdmE89xioa8E7ftjD"
-      },
-      "artists": [
-        {
-          "name": "Non Phixion",
-          "url": "https://open.spotify.com/artist/0bWOVEEzzkEIqsSZoXt8KW"
-        },
-        {
-          "name": "ILL Bill",
-          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
-        }
-      ],
-      "duration_ms": 239973,
-      "name": "Rock Stars",
-      "url": "https://open.spotify.com/track/2WYZfrZJX2YSFXW29tpHrV"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -719,62 +719,18 @@
     {
       "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "D.I.T.C.",
-        "url": "https://open.spotify.com/album/7Kw28Qg3OeGQiGso0qyONJ"
+        "name": "Queendom",
+        "url": "https://open.spotify.com/album/0N2SnzGzq7fGetnFqc08Os"
       },
       "artists": [
         {
-          "name": "D.I.T.C.",
-          "url": "https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS"
-        },
-        {
-          "name": "A.G.",
-          "url": "https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE"
-        },
-        {
-          "name": "Big L",
-          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
-        },
-        {
-          "name": "O.C.",
-          "url": "https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q"
+          "name": "Apani B Fly",
+          "url": "https://open.spotify.com/artist/1vwi3xNqy219xk39J92xtK"
         }
       ],
-      "duration_ms": 222440,
-      "name": "Thick",
-      "url": "https://open.spotify.com/track/7ImXlOjKprb3ADIeSTqHmg"
-    },
-    {
-      "added_at": "2021-03-26 15:50:36",
-      "album": {
-        "name": "Whatever You Say/Light It Up",
-        "url": "https://open.spotify.com/album/6JKktb5GjcSe56mKh7XyOi"
-      },
-      "artists": [
-        {
-          "name": "Little Brother",
-          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
-        }
-      ],
-      "duration_ms": 239546,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/2VnSbFSjK3c0fZIUH7SJej"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Industry Shakedown",
-        "url": "https://open.spotify.com/album/3qZlSLYLw9k9Dqux3LXzoM"
-      },
-      "artists": [
-        {
-          "name": "Bumpy Knuckles",
-          "url": "https://open.spotify.com/artist/7pqZVedlsryCmpMGf9L9zV"
-        }
-      ],
-      "duration_ms": 243330,
-      "name": "Bumpy Knuckles Baby",
-      "url": "https://open.spotify.com/track/5PU1UsxI8wuLsXWMt3t7Fy"
+      "duration_ms": 290173,
+      "name": "Right the Wrongs",
+      "url": "https://open.spotify.com/track/1cxMLrNOldSm0gbwIoWEuH"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -825,20 +781,20 @@
       "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
     },
     {
-      "added_at": "2020-09-25 04:39:22",
+      "added_at": "2021-03-26 15:50:36",
       "album": {
-        "name": "Queendom",
-        "url": "https://open.spotify.com/album/0N2SnzGzq7fGetnFqc08Os"
+        "name": "Whatever You Say/Light It Up",
+        "url": "https://open.spotify.com/album/6JKktb5GjcSe56mKh7XyOi"
       },
       "artists": [
         {
-          "name": "Apani B Fly",
-          "url": "https://open.spotify.com/artist/1vwi3xNqy219xk39J92xtK"
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
         }
       ],
-      "duration_ms": 290173,
-      "name": "Right the Wrongs",
-      "url": "https://open.spotify.com/track/1cxMLrNOldSm0gbwIoWEuH"
+      "duration_ms": 239546,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/2VnSbFSjK3c0fZIUH7SJej"
     },
     {
       "added_at": "2021-08-13 21:56:13",
@@ -873,36 +829,48 @@
       "url": "https://open.spotify.com/track/1G8jOp5DjW83kJdz00acel"
     },
     {
-      "added_at": "2021-07-29 22:51:03",
+      "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "A Long Hot Summer",
-        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
+        "name": "Krumbsnatcha Classics",
+        "url": "https://open.spotify.com/album/5Wez6YN8Xw1mPptxfFlZhx"
       },
       "artists": [
         {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+          "name": "Krumbsnatcha",
+          "url": "https://open.spotify.com/artist/4StWnbDC5LLdf3socfu0gx"
         }
       ],
-      "duration_ms": 226866,
-      "name": "Good Ol Love",
-      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
+      "duration_ms": 276960,
+      "name": "Gettin' Closer to God",
+      "url": "https://open.spotify.com/track/0sdgkO6TP624IIDEbiajsx"
     },
     {
-      "added_at": "2021-06-10 04:28:06",
+      "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+        "name": "D.I.T.C.",
+        "url": "https://open.spotify.com/album/7Kw28Qg3OeGQiGso0qyONJ"
       },
       "artists": [
         {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+          "name": "D.I.T.C.",
+          "url": "https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS"
+        },
+        {
+          "name": "A.G.",
+          "url": "https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE"
+        },
+        {
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+        },
+        {
+          "name": "O.C.",
+          "url": "https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q"
         }
       ],
-      "duration_ms": 221640,
-      "name": "True Honey Buns (Dat Freak Shit)",
-      "url": "https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT"
+      "duration_ms": 222440,
+      "name": "Thick",
+      "url": "https://open.spotify.com/track/7ImXlOjKprb3ADIeSTqHmg"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -919,7 +887,40 @@
       "duration_ms": 313106,
       "name": "Due Process",
       "url": "https://open.spotify.com/track/5KiDI9YhptlZWNABPuSmnL"
+    },
+    {
+      "added_at": "2021-03-26 15:50:36",
+      "album": {
+        "name": "Dangerous Connection",
+        "url": "https://open.spotify.com/album/1WW8vRSnseIom1EzPkiNjW"
+      },
+      "artists": [
+        {
+          "name": "7L & Esoteric",
+          "url": "https://open.spotify.com/artist/4EhgA7Pf9pRCNJMgqgul8K"
+        }
+      ],
+      "duration_ms": 234013,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/7htuNpZWosnto4wXMkKYZk"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "Dirty Harriet",
+        "url": "https://open.spotify.com/album/6OUIOBJjnQvKB3e22hAQEm"
+      },
+      "artists": [
+        {
+          "name": "Rah Digga",
+          "url": "https://open.spotify.com/artist/1uT0jnwsq3AifrLorG4UDt"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "What They Call Me",
+      "url": "https://open.spotify.com/track/79qSLBw54yfALjCp41cTkn"
     }
   ],
+  "unique_name": "I Love My Underground Classics",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu"
 }

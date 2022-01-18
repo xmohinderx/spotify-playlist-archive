@@ -1,12 +1,12 @@
 {
   "description": "Country music making waves. Cover: Rvshvd",
-  "name": "Country Frequency",
-  "num_followers": 3699,
+  "num_followers": 3704,
+  "original_name": "Country Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2NjU4OSwwMDAwMDAwMGRjOGNiNjQzMjk5YzFlMWVjZTAxMTdkYmRiN2NkZGJm",
+  "snapshot_id": "MTY0MjQ3ODk1NSwwMDAwMDAwMGRjOGNiNjQzMjk5YzFlMWVjZTAxMTdkYmRiN2NkZGJm",
   "tracks": [
     {
       "added_at": "2022-01-14 05:46:49",
@@ -973,5 +973,6 @@
       "url": "https://open.spotify.com/track/06eu1Ntmqj1XQT7kspc0mN"
     }
   ],
+  "unique_name": "Country Frequency",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA"
 }

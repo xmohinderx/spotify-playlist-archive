@@ -1,7 +1,7 @@
 {
   "description": "The best in folk and singer songwriter from the UK and Ireland.",
-  "name": "Britfolk",
   "num_followers": 1491,
+  "original_name": "Britfolk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -249,5 +249,6 @@
       "url": "https://open.spotify.com/track/6qPL9COhWUsNzTMoKeRVi0"
     }
   ],
+  "unique_name": "Britfolk",
   "url": "https://open.spotify.com/playlist/5XyoROE7WrTHtvcwFrhzO1"
 }

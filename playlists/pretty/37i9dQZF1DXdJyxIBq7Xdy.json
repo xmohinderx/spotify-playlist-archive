@@ -1,7 +1,7 @@
 {
   "description": "The most definitive female voices in Disco. Cover: Chaka Khan",
-  "name": "Queens of Disco",
   "num_followers": 40361,
+  "original_name": "Queens of Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -545,5 +545,6 @@
       "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
     }
   ],
+  "unique_name": "Queens of Disco",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdJyxIBq7Xdy"
 }

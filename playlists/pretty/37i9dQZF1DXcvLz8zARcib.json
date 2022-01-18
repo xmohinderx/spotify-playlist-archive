@@ -1,7 +1,7 @@
 {
   "description": "Get the party going with these poppy rock tracks!",
-  "name": "Pop Rock Party Time",
   "num_followers": 811,
+  "original_name": "Pop Rock Party Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -545,5 +545,6 @@
       "url": "https://open.spotify.com/track/1iAQYy8QPlnS9cVWG9KFqg"
     }
   ],
+  "unique_name": "Pop Rock Party Time",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcvLz8zARcib"
 }

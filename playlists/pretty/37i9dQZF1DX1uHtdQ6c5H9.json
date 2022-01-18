@@ -1,7 +1,7 @@
 {
   "description": "Banjo and guitar lessons care of folk hero Pete Seeger.",
-  "name": "Music Lessons with Pete Seeger",
   "num_followers": 4275,
+  "original_name": "Music Lessons with Pete Seeger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1049,5 +1049,6 @@
       "url": "https://open.spotify.com/track/2QStxhDspW989jwhikbqp3"
     }
   ],
+  "unique_name": "Music Lessons with Pete Seeger",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1uHtdQ6c5H9"
 }

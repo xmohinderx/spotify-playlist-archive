@@ -1,7 +1,7 @@
 {
   "description": "Celebrate the spirit of an iconic city.",
-  "name": "I Love NYC",
-  "num_followers": 111044,
+  "num_followers": 111045,
+  "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1157,5 +1157,6 @@
       "url": "https://open.spotify.com/track/5vwudDPhjnuA1KrNsFjAHK"
     }
   ],
+  "unique_name": "I Love NYC",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXS0qyx76B7l"
 }

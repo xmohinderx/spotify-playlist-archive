@@ -1,7 +1,7 @@
 {
   "description": "The most exciting new Latin artists and tracks, handpicked by our curators featuring Ivan Cornejo.",
-  "name": "Radar US Latin",
   "num_followers": 12585,
+  "original_name": "Radar US Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -517,5 +517,6 @@
       "url": "https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU"
     }
   ],
+  "unique_name": "Radar US Latin",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbSwbJpH6lAw"
 }

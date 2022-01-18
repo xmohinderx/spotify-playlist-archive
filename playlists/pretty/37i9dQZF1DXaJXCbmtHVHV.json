@@ -1,7 +1,7 @@
 {
   "description": "The top country hits of the week across America! Cover: Blake Shelton",
-  "name": "Big Country",
-  "num_followers": 262909,
+  "num_followers": 262924,
+  "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -861,5 +861,6 @@
       "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
     }
   ],
+  "unique_name": "Big Country",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV"
 }

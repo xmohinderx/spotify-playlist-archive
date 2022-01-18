@@ -1,12 +1,12 @@
 {
   "description": "Where all Hamilton music coexists.",
-  "name": "Best of Hamilton",
-  "num_followers": 268101,
+  "num_followers": 268115,
+  "original_name": "Best of Hamilton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2NjY4NSwwMDAwMDAwMDZiYjA3ODQyNTg5NTgzYTY5YTM5M2Q5NzRiNTc4Yzkz",
+  "snapshot_id": "MTY0MjQ3OTA3MSwwMDAwMDAwMDZiYjA3ODQyNTg5NTgzYTY5YTM5M2Q5NzRiNTc4Yzkz",
   "tracks": [
     {
       "added_at": "2020-07-03 19:01:00",
@@ -1681,5 +1681,6 @@
       "url": "https://open.spotify.com/track/0EPhiIcssW3jLKcGL8zYfl"
     }
   ],
+  "unique_name": "Best of Hamilton",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1nsfmnIDVAJ"
 }

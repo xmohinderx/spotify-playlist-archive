@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Happy Birthday Nicole!",
   "num_followers": 146,
+  "original_name": "Happy Birthday Nicole!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -493,5 +493,6 @@
       "url": "https://open.spotify.com/track/1CuEEiZwbcoGLwe0TKAcvH"
     }
   ],
+  "unique_name": "Happy Birthday Nicole!",
   "url": "https://open.spotify.com/playlist/1dB0DjEsx9Gy0VG7Hmyc7Q"
 }

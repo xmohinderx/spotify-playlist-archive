@@ -1,7 +1,7 @@
 {
   "description": "All killer, no filler.",
-  "name": "This Is Sum 41",
   "num_followers": 152870,
+  "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -809,5 +809,6 @@
       "url": "https://open.spotify.com/track/1iMkOFj5JUpikLGFT2UffT"
     }
   ],
+  "unique_name": "This Is Sum 41",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4gScoXV8KpV"
 }

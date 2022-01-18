@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Happy Birthday Kanye!",
   "num_followers": 345,
+  "original_name": "Happy Birthday Kanye!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1273,5 +1273,6 @@
       "url": "https://open.spotify.com/track/4HqnvgdVdY2rT9FlvLqApN"
     }
   ],
+  "unique_name": "Happy Birthday Kanye!",
   "url": "https://open.spotify.com/playlist/45Cyxm3R3Gpn2upYrjcPbc"
 }

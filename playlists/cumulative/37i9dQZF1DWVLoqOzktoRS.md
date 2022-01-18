@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVLoqOzktoRS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVLoqOzktoRS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVLoqOzktoRS)
 
-### Buenas Noches
+### [Buenas Noches](https://open.spotify.com/playlist/1RgBFdIwebWb1x2uWs7aGx)
 
 > Sweet dreams are made of this\. Relajate, es hora de dormir.
 

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-17",
   "description": "Remixed hits from the past.",
   "name": "Remix Hits",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3QLsH06OpU02nY0NDXbVsq"
+  ],
   "tracks": [
     {
       "album": {
@@ -862,6 +864,32 @@
     },
     {
       "album": {
+        "name": "Don't Wanna Know (Ryan Riback Remix)",
+        "url": "https://open.spotify.com/album/0Mbvdz7IZehexdxccsVAOx"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Don't Wanna Know - Ryan Riback Remix",
+      "url": "https://open.spotify.com/track/5LInnQ09xldtU2CGhT8FYn"
+    },
+    {
+      "album": {
         "name": "Eyes Shut (Sam Feldt Remix)",
         "url": "https://open.spotify.com/album/4WABugXz0ReUmAIZb6LOqH"
       },
@@ -1499,6 +1527,28 @@
       "duration_ms": 179047,
       "name": "I Wanna Know (feat. Bea Miller) - Syn Cole Remix",
       "url": "https://open.spotify.com/track/5qmklQfO5yyZ3Es4e0c0ax"
+    },
+    {
+      "album": {
+        "name": "I Will Never Let You Down (The Remixes)",
+        "url": "https://open.spotify.com/album/3AU0UhrH5sa0WxtoqMCN4J"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Digital Dog (Steve Cornish)",
+          "url": "https://open.spotify.com/artist/1NtK6fCXHPwJpTwLDdVALf"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240586,
+      "name": "I Will Never Let You Down - Digital Dog Radio Edit",
+      "url": "https://open.spotify.com/track/1fYFrBjsR5rtghInz0CEsf"
     },
     {
       "album": {
@@ -2143,7 +2193,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 223090,
       "name": "Miss You - Major Lazer & Alvaro Remix",
       "url": "https://open.spotify.com/track/03FUQjwgCIfnprBZqVFvgh"
@@ -2279,7 +2329,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 246055,
       "name": "Nights With You - Cheat Codes Remix",
       "url": "https://open.spotify.com/track/2lE6CIzmQvcF7Mo3z4k9cr"
@@ -2353,7 +2403,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 184714,
       "name": "Now Or Never - R3hab Remix",
       "url": "https://open.spotify.com/track/34mowgpYk8cnLLiIvEzWBm"
@@ -2897,7 +2947,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 200892,
       "name": "Sexual - Oliver Nelson Remix / Radio Edit",
       "url": "https://open.spotify.com/track/39zrVbRvAjw1FbKaK64NTZ"
@@ -2919,7 +2969,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 195988,
       "name": "Shape of You - Galantis Remix",
       "url": "https://open.spotify.com/track/5H7CwzYZ60e7w69tX4ivQN"
@@ -3283,6 +3333,32 @@
       "duration_ms": 226875,
       "name": "Sweet but Psycho - Morgan Page Dance Remix",
       "url": "https://open.spotify.com/track/7nbVbGjifh0m2fhPYqcI1R"
+    },
+    {
+      "album": {
+        "name": "Swish Swish (Valentino Khan Remix)",
+        "url": "https://open.spotify.com/album/4nBHxbpFjEtPuxif8qf7pv"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "Swish Swish - Valentino Khan Remix",
+      "url": "https://open.spotify.com/track/60jMCb9jnlhICNbD3wqmGR"
     },
     {
       "album": {

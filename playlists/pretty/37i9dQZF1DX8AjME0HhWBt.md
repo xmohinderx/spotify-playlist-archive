@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AjME0HhWBt.md) - [plain]
 
 > Disfruta toda la música de Rombai!
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,771 likes - 43 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,772 likes - 43 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

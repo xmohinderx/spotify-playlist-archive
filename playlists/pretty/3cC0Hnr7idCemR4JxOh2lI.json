@@ -1,7 +1,7 @@
 {
   "description": "Borl\u00e4ngeprofilen Ingemar Magnusson, som till vardags driver skivbutiken Folk \u00e5 Rock, listar sina 200 favoritl\u00e5tar. Hitta spellistor f\u00f6r alla tillf\u00e4llen p\u00e5 <a href=\"spotify:app:tunigo\">Tunigo</a>",
-  "name": "Folk & Rock 200 favoriter",
   "num_followers": 71,
+  "original_name": "Folk & Rock 200 favoriter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -3225,5 +3225,6 @@
       "url": "https://open.spotify.com/track/5h2XR7VWvJ7jPhbvCyuYee"
     }
   ],
+  "unique_name": "Folk & Rock 200 favoriter",
   "url": "https://open.spotify.com/playlist/3cC0Hnr7idCemR4JxOh2lI"
 }

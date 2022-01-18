@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "House of Gold & Bones, Part 1",
+        "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229840,
+      "name": "Absolute Zero",
+      "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
+    },
+    {
+      "album": {
         "name": "Loose Threads",
         "url": "https://open.spotify.com/album/5rEM2fDMOEBCNjgdgDvvon"
       },
@@ -59,7 +77,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 182679,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/58Eyr2rZWIYM19qhpals74"
@@ -297,7 +315,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 247373,
       "name": "Black Wedding (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 164670,
       "name": "Burn!",
       "url": "https://open.spotify.com/track/3PkosLobiLp6RymQ20mzq5"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 225133,
       "name": "Chaos And Earthquakes",
       "url": "https://open.spotify.com/track/2imkodSyg1hOZwZuE2fJdU"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 198248,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/6nMNpGl4VvMhtYigbbOmBu"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 241560,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/74XK6loeWil2omwM9VMZdi"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 161626,
       "name": "Looking Down the Barrel of Today",
       "url": "https://open.spotify.com/track/5hQfs9spSyXUavvPe7jmgn"
@@ -1597,7 +1615,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 259959,
       "name": "Metalingus",
       "url": "https://open.spotify.com/track/3UULkHdmLDqBDPmBYltoRE"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 189746,
       "name": "Nimrod",
       "url": "https://open.spotify.com/track/5cUziBfFGOHrkXFE4qAgKe"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 204266,
       "name": "ONE OF US",
       "url": "https://open.spotify.com/track/51rdCmgHBzg9HJ7eHjVRK9"
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 216571,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/4x241uAmPrxKZdCZKt2r5t"
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 180810,
       "name": "Silence Means Nothing (feat. Liam Cormier)",
       "url": "https://open.spotify.com/track/1iG8AeszL0CUIp6ryOG1za"
@@ -2311,7 +2329,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
@@ -2419,7 +2437,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 217099,
       "name": "The End",
       "url": "https://open.spotify.com/track/6CRSmqVeFPd4zwvlHhgFrj"
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 251106,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S"

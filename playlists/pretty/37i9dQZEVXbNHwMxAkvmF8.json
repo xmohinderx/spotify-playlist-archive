@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "name": "Top 50 - Hungary",
-  "num_followers": 64889,
+  "num_followers": 64890,
+  "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -925,5 +925,6 @@
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     }
   ],
+  "unique_name": "Top 50 - Hungary",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNHwMxAkvmF8"
 }

@@ -1,12 +1,12 @@
 {
-  "description": "With Years & Years, Katy Perry, Rita Ora and more",
-  "name": "Lady Gaga Radio",
-  "num_followers": 135150,
+  "description": "With Galantis, Lorde, Kesha and more",
+  "num_followers": 135157,
+  "original_name": "Lady Gaga Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2NzAxMywwMDAwMDAwMGVlYjZjNGM1YTc4YThjZDZiMzI4MDM3M2EwNGZjNGI1",
+  "snapshot_id": "MTY0MjQ3OTQ1OSwwMDAwMDAwMGVlYjZjNGM1YTc4YThjZDZiMzI4MDM3M2EwNGZjNGI1",
   "tracks": [
     {
       "added_at": null,
@@ -857,5 +857,6 @@
       "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
     }
   ],
+  "unique_name": "Lady Gaga Radio",
   "url": "https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ"
 }

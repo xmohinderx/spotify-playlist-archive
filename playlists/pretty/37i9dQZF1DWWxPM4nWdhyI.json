@@ -1,7 +1,7 @@
 {
   "description": "Listen to new album =, alongside all his biggest hits.",
-  "name": "This Is Ed Sheeran",
-  "num_followers": 5041451,
+  "num_followers": 5041517,
+  "original_name": "This Is Ed Sheeran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -969,5 +969,6 @@
       "url": "https://open.spotify.com/track/1jVAfsSceuAQx7zgY76qDA"
     }
   ],
+  "unique_name": "This Is Ed Sheeran",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWxPM4nWdhyI"
 }

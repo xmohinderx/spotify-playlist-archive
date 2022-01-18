@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0EhHXi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0EhHXi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0EhHXi)
 
-### This Is Ramones
+### [This Is Ramones](https://open.spotify.com/playlist/5ZxP7JHkbgCsoZsdWaI04b)
 
 > This is Ramones\. The essential tracks, all in one playlist.
 

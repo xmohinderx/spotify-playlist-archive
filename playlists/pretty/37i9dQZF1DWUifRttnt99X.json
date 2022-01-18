@@ -1,7 +1,7 @@
 {
   "description": "An essential collection of songs from the <a href=\"spotify:artist:2H5elA2mJKrHmqkN9GSfkz\">folk icon</a>.",
-  "name": "This Is: Gillian Welch",
   "num_followers": 19281,
+  "original_name": "This Is: Gillian Welch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -969,5 +969,6 @@
       "url": "https://open.spotify.com/track/7h5Fo79KttT0f7ARxDKKEh"
     }
   ],
+  "unique_name": "This Is: Gillian Welch",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUifRttnt99X"
 }

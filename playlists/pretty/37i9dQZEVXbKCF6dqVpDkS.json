@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "name": "Top 50 - Netherlands",
-  "num_followers": 858733,
+  "num_followers": 858732,
+  "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -949,5 +949,6 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     }
   ],
+  "unique_name": "Top 50 - Netherlands",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKCF6dqVpDkS"
 }

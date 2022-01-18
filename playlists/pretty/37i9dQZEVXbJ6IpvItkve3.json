@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Israel.",
-  "name": "Top 50 - Israel",
-  "num_followers": 42592,
+  "num_followers": 42591,
+  "original_name": "Top 50 - Israel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -869,5 +869,6 @@
       "url": "https://open.spotify.com/track/5e4PVtYVBu9BpJVhmQhIvS"
     }
   ],
+  "unique_name": "Top 50 - Israel",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJ6IpvItkve3"
 }

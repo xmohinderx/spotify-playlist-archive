@@ -1,7 +1,7 @@
 {
   "description": "All of your favorite songs from the legendary singer-songwriter.",
-  "name": "This Is Leonard Cohen",
   "num_followers": 388368,
+  "original_name": "This Is Leonard Cohen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -809,5 +809,6 @@
       "url": "https://open.spotify.com/track/3tyG4HmvzZLlLwkUveXRSW"
     }
   ],
+  "unique_name": "This Is Leonard Cohen",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVpFvorxSZ6K"
 }

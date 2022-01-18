@@ -1,7 +1,7 @@
 {
   "description": "In loving memory of Marie Fredriksson.",
-  "name": "This Is Roxette",
-  "num_followers": 309195,
+  "num_followers": 309210,
+  "original_name": "This Is Roxette",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -825,5 +825,6 @@
       "url": "https://open.spotify.com/track/2XoC5eg7dngMTiySchGYFU"
     }
   ],
+  "unique_name": "This Is Roxette",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8IAL5KfmFJA"
 }

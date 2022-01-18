@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 178555,
       "name": "#with_you",
       "url": "https://open.spotify.com/track/1D1laQvjRLunEs8XDO9sag"
@@ -73,10 +73,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 230531,
       "name": "8%",
       "url": "https://open.spotify.com/track/5b8kLu7ws92PZNztnAfhTr"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/1RLCUlVVaSoATwOUI6CihR"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212786,
+      "name": "99",
+      "url": "https://open.spotify.com/track/0NVc9dRJa7IqBbOPvuDqwq"
     },
     {
       "album": {
@@ -221,7 +239,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 218040,
       "name": "Burning Sunset",
       "url": "https://open.spotify.com/track/7EH1Z1xI4lUG1G0STPGsHj"
@@ -351,7 +369,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 185840,
       "name": "Concrete (feat. CHEEZE)",
       "url": "https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi"
@@ -557,7 +575,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 236440,
       "name": "Eyes on you",
       "url": "https://open.spotify.com/track/1sdCoReUzXPLDIJ2i9ConA"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 191560,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/1HshcipCZ4rEiNfKckNShW"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 237265,
       "name": "Hangkio",
       "url": "https://open.spotify.com/track/0hUYYFoOPCuSsb6stdqR0h"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 331000,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/5FqGmuM9LxaZGOMKLsGL1U"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 248156,
       "name": "I don't know",
       "url": "https://open.spotify.com/track/2tjh87mXDZJJIKLOpqH97T"
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 269775,
       "name": "Instant Lover",
       "url": "https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 181697,
       "name": "Islet",
       "url": "https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 319344,
       "name": "It's Raining",
       "url": "https://open.spotify.com/track/33pFdhZM3hNMTq6QPJf1Mu"
@@ -1187,6 +1205,28 @@
       "duration_ms": 150226,
       "name": "I\u2019ll just smile",
       "url": "https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG"
+    },
+    {
+      "album": {
+        "name": "INCHEON CITYPOP Vol. 1",
+        "url": "https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH"
+      },
+      "artists": [
+        {
+          "name": "QUDO",
+          "url": "https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf"
+        },
+        {
+          "name": "Sehwan Hong",
+          "url": "https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226173,
+      "name": "I\u2032m Alright",
+      "url": "https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj"
     },
     {
       "album": {
@@ -1259,7 +1299,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 239842,
       "name": "Let's stay together",
       "url": "https://open.spotify.com/track/52ZZz4FthV6FAjbUiPF7th"
@@ -1837,7 +1877,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 132437,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/6YBR8tsZZjbZRATuFPNPVu"
@@ -1913,7 +1953,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 292439,
       "name": "starlight",
       "url": "https://open.spotify.com/track/6PAitd0U0mvJCVJ11xIx4y"
@@ -1935,7 +1975,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 216490,
       "name": "Story Line (Feat.Dawon) (Korean ver.)",
       "url": "https://open.spotify.com/track/51ZLM32YbcAQ1aSl292T5N"
@@ -2011,7 +2051,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 207850,
       "name": "Swan",
       "url": "https://open.spotify.com/track/6G0Kl2Fi4DalbsfbzuzMcD"
@@ -2058,6 +2098,28 @@
     },
     {
       "album": {
+        "name": "The possible(feat. Kim Sawol)",
+        "url": "https://open.spotify.com/album/6eHpG7BEZPELIoItJoUUZF"
+      },
+      "artists": [
+        {
+          "name": "Broccoli, you too?",
+          "url": "https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j"
+        },
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "The Possible(feat. Kim Sawol)",
+      "url": "https://open.spotify.com/track/7t7u9IY9HIKuRYWMqw0Uyd"
+    },
+    {
+      "album": {
         "name": "Thirsty",
         "url": "https://open.spotify.com/album/4UGWbAYWe4N1VawX01am5y"
       },
@@ -2069,7 +2131,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 167045,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/237XyNLeiI0MdnIRGpvlCt"
@@ -2087,7 +2149,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 225333,
       "name": "Today's Mood",
       "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
@@ -2257,7 +2319,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 171106,
       "name": "When It Snows",
       "url": "https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1"
@@ -2459,7 +2521,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 348445,
       "name": "\uc624\ud0a4\ub098\uc640 Okinawa",
       "url": "https://open.spotify.com/track/5WJtEElIz5vt7EOEGR97Yz"

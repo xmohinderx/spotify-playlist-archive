@@ -1,7 +1,7 @@
 {
   "description": "Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.",
-  "name": "Soul Lounge",
-  "num_followers": 804076,
+  "num_followers": 804096,
+  "original_name": "Soul Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -993,5 +993,6 @@
       "url": "https://open.spotify.com/track/15qljmrsinxDSec3Y0Hql2"
     }
   ],
+  "unique_name": "Soul Lounge",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX62Nfha2yFhL"
 }

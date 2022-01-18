@@ -1,7 +1,7 @@
 {
   "description": "Soft, relaxing music for workout recovery.",
-  "name": "Cool Down",
-  "num_followers": 158150,
+  "num_followers": 158153,
+  "original_name": "Cool Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1769,5 +1769,6 @@
       "url": "https://open.spotify.com/track/3PQGFShoKzMowJlPgysF0Y"
     }
   ],
+  "unique_name": "Cool Down",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUI1rlvkdQnb"
 }

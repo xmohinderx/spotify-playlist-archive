@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "One Perfect Day",
   "num_followers": 172,
+  "original_name": "One Perfect Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1293,5 +1293,6 @@
       "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
     }
   ],
+  "unique_name": "One Perfect Day",
   "url": "https://open.spotify.com/playlist/6jUFiT3D8f4Rt9n6UnC1aB"
 }

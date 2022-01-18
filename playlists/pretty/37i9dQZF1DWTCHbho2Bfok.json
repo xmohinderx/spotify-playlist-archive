@@ -1,7 +1,7 @@
 {
   "description": "All the festive faves to soundtrack your very merry Christmas!",
-  "name": "Christmas Favourites",
-  "num_followers": 452887,
+  "num_followers": 452855,
+  "original_name": "Christmas Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -905,5 +905,6 @@
       "url": "https://open.spotify.com/track/43EtTBgd5UPVkqPWiQCAnm"
     }
   ],
+  "unique_name": "Christmas Favourites",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTCHbho2Bfok"
 }

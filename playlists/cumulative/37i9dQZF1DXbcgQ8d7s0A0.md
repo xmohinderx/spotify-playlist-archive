@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbcgQ8d7s0A0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbcgQ8d7s0A0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbcgQ8d7s0A0)
 
-### Sweet Soul Chillout
+### [Sweet Soul Chillout](https://open.spotify.com/playlist/7xn5yJaidaf1p3Zso53LRw)
 
 > Chill out to the sweetest soul songs.
 
@@ -23,7 +23,7 @@
 | [Fantasy \- Single Version](https://open.spotify.com/track/3YcusdF0VAb25wLvmvJDJ6) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/6kEe268WsSL0bE5KPeaq8X) | 3:46 | 2021-02-18 |  |
 | [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 | 2021-02-18 |  |
 | [For Once In My Life](https://open.spotify.com/track/111BQRr9rRMHTn69KamC4Z) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb) | 2:48 | 2021-02-18 |  |
-| [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 | 2021-02-18 | 2022-01-18 |
+| [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 | 2021-02-18 |  |
 | [Harvest for the World, Pt\. 1 \- Single Version](https://open.spotify.com/track/0fl2MichhIDeOYQOCce7GW) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Harvest for the World](https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ) | 3:31 | 2021-02-18 |  |
 | [Holding On](https://open.spotify.com/track/7hrUma6oSEaVwnlwkQa7XB) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Holding On](https://open.spotify.com/album/4ZlV13oHyTpo3S3LjZRvRU) | 4:14 | 2021-02-18 |  |
 | [I Heard It Through The Grapevine](https://open.spotify.com/track/6ZqUFyK79l2TYgTfuUmbLB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Marvin Gaye '50' \(International Version\)](https://open.spotify.com/album/6dP88Q6t9UMPowre0Gaywa) | 3:15 | 2021-02-18 |  |
@@ -61,7 +61,7 @@
 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 | 2021-02-18 |  |
 | [Take My Heart \(You Can Have It If You Want It\)](https://open.spotify.com/track/3hk1TZ66bpq75noaB9Fojf) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [The 50 Greatest Songs](https://open.spotify.com/album/02BqgvQgdF71E6QcOjKpAp) | 3:44 | 2021-02-18 |  |
 | [The Weight](https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Soul Folk In Action](https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL) | 4:35 | 2021-02-18 |  |
-| [Tired of Being Alone](https://open.spotify.com/track/5vjmFhes2UVEo5aGQ27q7l) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next To You](https://open.spotify.com/album/4nTKWrByenmBKz7juWltfi) | 2:52 | 2021-02-18 |  |
+| [Tired of Being Alone](https://open.spotify.com/track/5vjmFhes2UVEo5aGQ27q7l) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next To You](https://open.spotify.com/album/4nTKWrByenmBKz7juWltfi) | 2:52 | 2021-02-18 | 2022-01-17 |
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2021-02-18 |  |
 | [Walk On By \- Remastered](https://open.spotify.com/track/5gA0Yg9MLfYlNRTws3nwYe) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [The Love Collection](https://open.spotify.com/album/6RwAF1GgLkRYP1lZY26Gk1) | 2:53 | 2021-02-18 |  |
 | [We're in This Love Together](https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Love Songs](https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy) | 3:46 | 2021-02-18 |  |

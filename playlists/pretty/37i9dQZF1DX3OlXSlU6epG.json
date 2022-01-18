@@ -1,7 +1,7 @@
 {
   "description": "Welcome the voice of Robert Frost and his daughter Lesley Frost into your reading room...",
-  "name": "The Robert Frost Reading Room",
   "num_followers": 10205,
+  "original_name": "The Robert Frost Reading Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1033,5 +1033,6 @@
       "url": "https://open.spotify.com/track/3p2jVJkMRxn6Ndva8QuieW"
     }
   ],
+  "unique_name": "The Robert Frost Reading Room",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3OlXSlU6epG"
 }

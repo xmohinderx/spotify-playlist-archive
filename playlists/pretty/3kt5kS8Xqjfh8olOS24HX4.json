@@ -1,7 +1,7 @@
 {
   "description": "Get your sparklers out for this patriotic blend of folk, pop, and Americana.",
-  "name": "Red, White, & Blue",
   "num_followers": 57,
+  "original_name": "Red, White, & Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -577,5 +577,6 @@
       "url": "https://open.spotify.com/track/6kT2T4pofQmT4dOlg3Ki3B"
     }
   ],
+  "unique_name": "Red, White, & Blue",
   "url": "https://open.spotify.com/playlist/3kt5kS8Xqjfh8olOS24HX4"
 }

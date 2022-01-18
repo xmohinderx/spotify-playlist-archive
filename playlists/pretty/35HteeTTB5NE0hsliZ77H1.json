@@ -1,7 +1,7 @@
 {
   "description": "Yours is no ordinary life. Listen outside the lines.",
-  "name": "The Life Eclectic",
   "num_followers": 65,
+  "original_name": "The Life Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1025,5 +1025,6 @@
       "url": "https://open.spotify.com/track/3AOa9T4BQOddGxt48JrZl4"
     }
   ],
+  "unique_name": "The Life Eclectic",
   "url": "https://open.spotify.com/playlist/35HteeTTB5NE0hsliZ77H1"
 }

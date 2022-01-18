@@ -1,7 +1,7 @@
 {
   "description": "Keep up with all the latest pop hits. Cover: Ryland James",
-  "name": "Pop All Day",
-  "num_followers": 483874,
+  "num_followers": 483868,
+  "original_name": "Pop All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1805,5 +1805,6 @@
       "url": "https://open.spotify.com/track/6mSH4YFZAI1y5uIXOtnVPe"
     }
   ],
+  "unique_name": "Pop All Day",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXarRysLJmuju"
 }

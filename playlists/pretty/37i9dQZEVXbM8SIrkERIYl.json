@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - New Zealand.",
-  "name": "Top 50 - New Zealand",
-  "num_followers": 206925,
+  "num_followers": 206930,
+  "original_name": "Top 50 - New Zealand",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -921,5 +921,6 @@
       "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
     }
   ],
+  "unique_name": "Top 50 - New Zealand",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbM8SIrkERIYl"
 }

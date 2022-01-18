@@ -1,7 +1,7 @@
 {
   "description": "Companion playlist for the Metallica documentaries.",
-  "name": "Metallica: The Early Years",
   "num_followers": 5449,
+  "original_name": "Metallica: The Early Years",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -489,5 +489,6 @@
       "url": "https://open.spotify.com/track/2TBi9kCzlIQNEsed36GipV"
     }
   ],
+  "unique_name": "Metallica: The Early Years",
   "url": "https://open.spotify.com/playlist/056jpfChuMP5D1NMMaDXRR"
 }

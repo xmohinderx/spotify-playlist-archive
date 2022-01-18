@@ -1,7 +1,7 @@
 {
   "description": "Comedians weigh in on all things sports, football, and -of course- the Super Bowl.",
-  "name": "The Funny Thing About Football Is...",
   "num_followers": 7002,
+  "original_name": "The Funny Thing About Football Is...",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -553,5 +553,6 @@
       "url": "https://open.spotify.com/track/2Iz3hx26nSpPoAbZwZ1ATF"
     }
   ],
+  "unique_name": "The Funny Thing About Football Is...",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWsTBFM3ksVb"
 }

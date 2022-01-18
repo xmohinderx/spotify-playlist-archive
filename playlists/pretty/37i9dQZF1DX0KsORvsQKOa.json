@@ -1,7 +1,7 @@
 {
   "description": "Claim your space this Pride in Glasgow. Cover: Joesef",
-  "name": "PRIDE: Glasgow",
-  "num_followers": 1095,
+  "num_followers": 1098,
+  "original_name": "PRIDE: Glasgow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -493,5 +493,6 @@
       "url": "https://open.spotify.com/track/7JtaC3oIpfhxMxzuYvWOCO"
     }
   ],
+  "unique_name": "PRIDE: Glasgow",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0KsORvsQKOa"
 }

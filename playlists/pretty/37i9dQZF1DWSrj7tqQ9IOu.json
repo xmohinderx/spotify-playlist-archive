@@ -1,7 +1,7 @@
 {
   "description": "The best French indie tracks right now. Cover: Owlle",
-  "name": "Made in France",
-  "num_followers": 279003,
+  "num_followers": 279026,
+  "original_name": "Made in France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -837,5 +837,6 @@
       "url": "https://open.spotify.com/track/5GpC05bmwr5eQ50Yc7BTMS"
     }
   ],
+  "unique_name": "Made in France",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu"
 }

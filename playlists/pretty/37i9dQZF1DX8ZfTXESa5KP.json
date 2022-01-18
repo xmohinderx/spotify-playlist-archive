@@ -1,7 +1,7 @@
 {
   "description": "Congratulations to all of the CMA Awards nominees and winners!",
-  "name": "CMA Awards 2021 Nominees",
-  "num_followers": 38046,
+  "num_followers": 38045,
+  "original_name": "CMA Awards 2021 Nominees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1049,5 +1049,6 @@
       "url": "https://open.spotify.com/track/0fRgzc8RmZJnNY9AxGaKLk"
     }
   ],
+  "unique_name": "CMA Awards 2021 Nominees",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8ZfTXESa5KP"
 }

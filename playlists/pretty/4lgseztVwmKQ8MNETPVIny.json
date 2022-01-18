@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "foodora dinner playlist",
   "num_followers": 168,
+  "original_name": "foodora dinner playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -413,5 +413,6 @@
       "url": "https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK"
     }
   ],
+  "unique_name": "foodora dinner playlist",
   "url": "https://open.spotify.com/playlist/4lgseztVwmKQ8MNETPVIny"
 }

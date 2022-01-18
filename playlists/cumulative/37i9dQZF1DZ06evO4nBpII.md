@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO4nBpII.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4nBpII) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4nBpII)
 
-### This Is Green Day
+### [This Is Green Day](https://open.spotify.com/playlist/534MSxUBcKwFusuT5LJosR)
 
 > This is Green Day\. The essential tracks, all in one playlist.
 

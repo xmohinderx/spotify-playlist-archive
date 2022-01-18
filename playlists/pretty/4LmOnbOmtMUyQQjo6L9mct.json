@@ -1,7 +1,7 @@
 {
   "description": "Enjoy the sweet rhythms of bossa nova - the perfect marriage of samba and jazz.",
-  "name": "Bossa Nova",
   "num_followers": 4512,
+  "original_name": "Bossa Nova",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -701,5 +701,6 @@
       "url": "https://open.spotify.com/track/0upEwTChCn08mKReV9Wisj"
     }
   ],
+  "unique_name": "Bossa Nova",
   "url": "https://open.spotify.com/playlist/4LmOnbOmtMUyQQjo6L9mct"
 }

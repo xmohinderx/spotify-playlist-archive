@@ -1,7 +1,7 @@
 {
   "description": "A different option for your New Year's Eve party. Sweet pop, rock, and singer/songwriter tunes about this special holiday.",
-  "name": "Alternative New Year's Eve",
   "num_followers": 456,
+  "original_name": "Alternative New Year's Eve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -461,5 +461,6 @@
       "url": "https://open.spotify.com/track/6IlVrmuGFjNKPlGOhR1J9J"
     }
   ],
+  "unique_name": "Alternative New Year's Eve",
   "url": "https://open.spotify.com/playlist/214Nwj78JwTfjSeQxbGxeX"
 }

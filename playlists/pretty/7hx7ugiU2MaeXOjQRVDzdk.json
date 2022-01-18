@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Country",
   "num_followers": 80,
+  "original_name": "Top Picks Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -341,5 +341,6 @@
       "url": "https://open.spotify.com/track/3UJvgGaBEJcDqz61mbvqAp"
     }
   ],
+  "unique_name": "Top Picks Country",
   "url": "https://open.spotify.com/playlist/7hx7ugiU2MaeXOjQRVDzdk"
 }

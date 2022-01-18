@@ -1,7 +1,7 @@
 {
   "description": "The bluesy side of jazz",
-  "name": "Jazz-Blues",
-  "num_followers": 48988,
+  "num_followers": 49008,
+  "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -853,5 +853,6 @@
       "url": "https://open.spotify.com/track/59SgNbsj3NHKPjMApBmWHU"
     }
   ],
+  "unique_name": "Jazz-Blues",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9GSZDbrndTa"
 }

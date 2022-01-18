@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "JIRMP",
   "num_followers": 143,
+  "original_name": "JIRMP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -473,5 +473,6 @@
       "url": "https://open.spotify.com/track/0EeTraheLjBiSGZ2PJUjaL"
     }
   ],
+  "unique_name": "JIRMP",
   "url": "https://open.spotify.com/playlist/6r0dNjQD0WUHKs1gpMvpLk"
 }

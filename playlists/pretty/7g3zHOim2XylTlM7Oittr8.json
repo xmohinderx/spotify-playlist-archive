@@ -1,7 +1,7 @@
 {
   "description": "Enjoy the top streamed country songs of 2016 right here! Cover: Dan + Shay",
-  "name": "Best of 2016:  Hot Country",
   "num_followers": 8802,
+  "original_name": "Best of 2016:  Hot Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -837,5 +837,6 @@
       "url": "https://open.spotify.com/track/0iA1unTbTbDOWUSlbwJ1pS"
     }
   ],
+  "unique_name": "Best of 2016:  Hot Country",
   "url": "https://open.spotify.com/playlist/7g3zHOim2XylTlM7Oittr8"
 }

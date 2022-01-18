@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 144449,
       "name": "Bass Goes Down",
       "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 155769,
       "name": "Don't Cry For Me (with Jason Derulo)",
       "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
@@ -1647,6 +1647,24 @@
       "duration_ms": 146893,
       "name": "Release Me (feat. Kalhaader)",
       "url": "https://open.spotify.com/track/4t0HhIaWIhumL2MAuKwqOM"
+    },
+    {
+      "album": {
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/206xtArgTCFMzrKjfC2Mcf"
+      },
+      "artists": [
+        {
+          "name": "Mapei",
+          "url": "https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182694,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0aspqLK9B5XjeOKpAKOvEy"
     },
     {
       "album": {
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 176734,
       "name": "Something Stupid (feat. AWA)",
       "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
@@ -1863,7 +1881,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 150047,
       "name": "Spoiled (Goodboys Remix)",
       "url": "https://open.spotify.com/track/2WZLaweYiFKTR3SANawH4J"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 122274,
       "name": "Supaflow",
       "url": "https://open.spotify.com/track/2wX74JRMdBZBv6YVfCLK7n"
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/0uIwEMEjZDGrZ3NvxK3T9F"
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 181713,
       "name": "Think You Should",
       "url": "https://open.spotify.com/track/4QZHDAf0lw2PN6olVg0ztp"

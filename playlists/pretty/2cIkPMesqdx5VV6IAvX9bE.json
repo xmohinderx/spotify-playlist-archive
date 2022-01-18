@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "1977",
   "num_followers": 356,
+  "original_name": "1977",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -813,5 +813,6 @@
       "url": "https://open.spotify.com/track/4V0uQkCIquydgfUtfSnctU"
     }
   ],
+  "unique_name": "1977",
   "url": "https://open.spotify.com/playlist/2cIkPMesqdx5VV6IAvX9bE"
 }

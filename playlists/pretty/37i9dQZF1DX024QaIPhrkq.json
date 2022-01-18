@@ -1,7 +1,7 @@
 {
   "description": "The essential Soundgarden, all in one playlist.",
-  "name": "This Is Soundgarden",
   "num_followers": 139399,
+  "original_name": "This Is Soundgarden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -813,5 +813,6 @@
       "url": "https://open.spotify.com/track/6bUF1XOYynZ0DPcvDcXGYL"
     }
   ],
+  "unique_name": "This Is Soundgarden",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX024QaIPhrkq"
 }

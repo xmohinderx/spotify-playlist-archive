@@ -1,7 +1,7 @@
 {
   "description": "Travel the world through sound \u2013 with indie and traditional folk and acoustic from across the globe.",
-  "name": "World Folk",
   "num_followers": 123,
+  "original_name": "World Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -593,5 +593,6 @@
       "url": "https://open.spotify.com/track/6XdppiQVUN5W9GRqq8vcze"
     }
   ],
+  "unique_name": "World Folk",
   "url": "https://open.spotify.com/playlist/0ByLkBLDx1AS5yXJuBTyCd"
 }

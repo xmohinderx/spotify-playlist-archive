@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Metaltown 2013",
   "num_followers": 26,
+  "original_name": "Metaltown 2013",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -369,5 +369,6 @@
       "url": "https://open.spotify.com/track/01fbg0DMFY4N0wWNOjjTyC"
     }
   ],
+  "unique_name": "Metaltown 2013",
   "url": "https://open.spotify.com/playlist/7LxjY6mdINPgSVhILU2nk6"
 }

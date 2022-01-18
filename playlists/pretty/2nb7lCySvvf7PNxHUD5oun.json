@@ -1,7 +1,7 @@
 {
   "description": "In honor of JAM, we're collecting your favorite jazz tracks! Share yours at\u00a0#SpotifyJAM",
-  "name": "#JazzAppreciationMonth",
   "num_followers": 288,
+  "original_name": "#JazzAppreciationMonth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -749,5 +749,6 @@
       "url": "https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq"
     }
   ],
+  "unique_name": "#JazzAppreciationMonth",
   "url": "https://open.spotify.com/playlist/2nb7lCySvvf7PNxHUD5oun"
 }

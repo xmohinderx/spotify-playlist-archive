@@ -1,7 +1,7 @@
 {
   "description": "Beatiful, mellow jazz for romance",
-  "name": "Hours of Ours",
   "num_followers": 1508,
+  "original_name": "Hours of Ours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -401,5 +401,6 @@
       "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
     }
   ],
+  "unique_name": "Hours of Ours",
   "url": "https://open.spotify.com/playlist/54LbSpjd64NjKPUyYAGkNU"
 }

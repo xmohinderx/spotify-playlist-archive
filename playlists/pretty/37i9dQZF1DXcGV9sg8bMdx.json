@@ -1,7 +1,7 @@
 {
   "description": "Jane says these are the essentials.",
-  "name": "This Is Jane's Addiction (2)",
   "num_followers": 27405,
+  "original_name": "This Is Jane's Addiction (2)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -649,5 +649,6 @@
       "url": "https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I"
     }
   ],
+  "unique_name": "This Is Jane's Addiction (2)",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcGV9sg8bMdx"
 }

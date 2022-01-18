@@ -1,7 +1,7 @@
 {
   "description": "The legendary Indian musician's classics.",
-  "name": "This Is A.R. Rahman",
   "num_followers": 146909,
+  "original_name": "This Is A.R. Rahman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1137,5 +1137,6 @@
       "url": "https://open.spotify.com/track/32DWojMZeZebVrfBkhAkKy"
     }
   ],
+  "unique_name": "This Is A.R. Rahman",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6WjBAV6orkC"
 }

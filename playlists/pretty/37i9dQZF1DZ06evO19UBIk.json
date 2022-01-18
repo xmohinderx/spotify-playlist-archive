@@ -1,7 +1,7 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "name": "This Is The Doors",
-  "num_followers": 526115,
+  "num_followers": 526132,
+  "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -709,5 +709,6 @@
       "url": "https://open.spotify.com/track/13ejmQX8lVzeKijqMWiNO7"
     }
   ],
+  "unique_name": "This Is The Doors",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO19UBIk"
 }

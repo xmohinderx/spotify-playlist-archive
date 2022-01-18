@@ -1,7 +1,7 @@
 {
   "description": "From early performances to iconic Grateful Dead, enjoy key picks that highlight the folk, bluegrass, and old time virtuosity of Jerry Garcia.",
-  "name": "This is Jerry Garcia",
   "num_followers": 65334,
+  "original_name": "This is Jerry Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1133,5 +1133,6 @@
       "url": "https://open.spotify.com/track/4HK7a8MoxqxNG0lGjJKY28"
     }
   ],
+  "unique_name": "This is Jerry Garcia",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8N0xov3IdrH"
 }

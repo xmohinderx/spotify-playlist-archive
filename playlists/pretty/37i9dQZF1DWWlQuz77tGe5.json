@@ -1,7 +1,7 @@
 {
   "description": "This Icelandic indie-folk group has established a global fan base.",
-  "name": "This is Of Monsters and Men",
   "num_followers": 121592,
+  "original_name": "This is Of Monsters and Men",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -433,5 +433,6 @@
       "url": "https://open.spotify.com/track/2lH0yKkcYCcebO4Z2mkYTB"
     }
   ],
+  "unique_name": "This is Of Monsters and Men",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWlQuz77tGe5"
 }

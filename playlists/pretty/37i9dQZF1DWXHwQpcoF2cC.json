@@ -1,7 +1,7 @@
 {
   "description": "The best recent metal tracks. Cover: Arch Enemy",
-  "name": "Metal Rewind",
-  "num_followers": 272629,
+  "num_followers": 272657,
+  "original_name": "Metal Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -829,5 +829,6 @@
       "url": "https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz"
     }
   ],
+  "unique_name": "Metal Rewind",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXHwQpcoF2cC"
 }

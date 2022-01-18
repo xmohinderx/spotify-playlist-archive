@@ -1,7 +1,7 @@
 {
   "description": "Claim your space this Pride in Manchester. Cover: Heather Baron-Gracie",
-  "name": "PRIDE: Manchester",
   "num_followers": 1446,
+  "original_name": "PRIDE: Manchester",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -509,5 +509,6 @@
       "url": "https://open.spotify.com/track/0JenjTjq7rMuOCSSa9Emdg"
     }
   ],
+  "unique_name": "PRIDE: Manchester",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5s99CZPCFK4"
 }

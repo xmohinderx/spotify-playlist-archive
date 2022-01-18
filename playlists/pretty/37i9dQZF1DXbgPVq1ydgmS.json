@@ -1,7 +1,7 @@
 {
   "description": "'Tis the season to be melancholy.",
-  "name": "Alone on Christmas",
   "num_followers": 8319,
+  "original_name": "Alone on Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -469,5 +469,6 @@
       "url": "https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN"
     }
   ],
+  "unique_name": "Alone on Christmas",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbgPVq1ydgmS"
 }

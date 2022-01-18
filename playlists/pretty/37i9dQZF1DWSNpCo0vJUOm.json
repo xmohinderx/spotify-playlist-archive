@@ -1,7 +1,7 @@
 {
   "description": "The ones we love. This is R.E.M.",
-  "name": "This Is: R.E.M.",
   "num_followers": 248027,
+  "original_name": "This Is: R.E.M.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -953,5 +953,6 @@
       "url": "https://open.spotify.com/track/2cF01xTPbe08sLyWm6efb3"
     }
   ],
+  "unique_name": "This Is: R.E.M.",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSNpCo0vJUOm"
 }

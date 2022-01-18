@@ -1,7 +1,7 @@
 {
   "description": "Those were the days, this was the music...",
-  "name": "1960s Nostalgia",
   "num_followers": 18161,
+  "original_name": "1960s Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1117,5 +1117,6 @@
       "url": "https://open.spotify.com/track/0VUc1mg82yM5Qj93xtzfDz"
     }
   ],
+  "unique_name": "1960s Nostalgia",
   "url": "https://open.spotify.com/playlist/2NFOUmp2wyR5CrXtKDkUkB"
 }

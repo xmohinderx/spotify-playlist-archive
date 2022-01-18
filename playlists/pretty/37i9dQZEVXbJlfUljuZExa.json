@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Malaysia.",
-  "name": "Top 50 - Malaysia",
-  "num_followers": 192495,
+  "num_followers": 192499,
+  "original_name": "Top 50 - Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -845,5 +845,6 @@
       "url": "https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ"
     }
   ],
+  "unique_name": "Top 50 - Malaysia",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJlfUljuZExa"
 }

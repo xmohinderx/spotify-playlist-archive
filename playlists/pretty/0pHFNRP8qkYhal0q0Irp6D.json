@@ -1,7 +1,7 @@
 {
   "description": "You should be dancing, yeah. (This ain't your typical disco either...)",
-  "name": "Disco Beats",
-  "num_followers": 2090,
+  "num_followers": 2091,
+  "original_name": "Disco Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -877,5 +877,6 @@
       "url": "https://open.spotify.com/track/2rgqPSIRAfaO2MGo9smdSX"
     }
   ],
+  "unique_name": "Disco Beats",
   "url": "https://open.spotify.com/playlist/0pHFNRP8qkYhal0q0Irp6D"
 }

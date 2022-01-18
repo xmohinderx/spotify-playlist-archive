@@ -1,7 +1,7 @@
 {
   "description": "Smooth soulful tracks to ease your troubled mind...",
-  "name": "Soul Soothers",
   "num_followers": 73,
+  "original_name": "Soul Soothers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -353,5 +353,6 @@
       "url": "https://open.spotify.com/track/4c3FhBgCv81e3tdZe3n8WH"
     }
   ],
+  "unique_name": "Soul Soothers",
   "url": "https://open.spotify.com/playlist/3TymQFosH9UgfP5jV5mPEe"
 }

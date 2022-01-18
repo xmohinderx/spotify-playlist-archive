@@ -1,7 +1,7 @@
 {
   "description": "The sun is setting and the night takes over. Enjoy these while letting the evening play on.",
-  "name": "Sunset in Austin",
   "num_followers": 461,
+  "original_name": "Sunset in Austin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -725,5 +725,6 @@
       "url": "https://open.spotify.com/track/5xBlWyn64LmSXFucqoNBiK"
     }
   ],
+  "unique_name": "Sunset in Austin",
   "url": "https://open.spotify.com/playlist/1MXbpQ8OiNsYtQxiXexPJ7"
 }

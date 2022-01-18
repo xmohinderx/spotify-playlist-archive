@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 223451,
       "name": "11:11",
       "url": "https://open.spotify.com/track/093PI3mdUvOSlvMYDwnV1e"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 271946,
       "name": "Be with me - Acoustic Mix",
       "url": "https://open.spotify.com/track/39OvFhBrhWmYne1x6YtBjx"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 208649,
       "name": "come as you are",
       "url": "https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 186200,
       "name": "Eye To Eye",
       "url": "https://open.spotify.com/track/3l5h4nyOoMXv52yRwbk139"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 244382,
       "name": "goodnight, dear",
       "url": "https://open.spotify.com/track/3c8LgCeqvBz0qtCRrS72yD"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 227506,
       "name": "HONEY (Feat. Crucial Star)",
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 263453,
       "name": "How Is Your Night",
       "url": "https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase"
@@ -814,6 +814,28 @@
     },
     {
       "album": {
+        "name": "I'll be by your side, you'll be by my side",
+        "url": "https://open.spotify.com/album/0qm1jTUO7eC2Qg4gNiCPoT"
+      },
+      "artists": [
+        {
+          "name": "Brunch recipe",
+          "url": "https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v"
+        },
+        {
+          "name": "morning coffee",
+          "url": "https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201758,
+      "name": "I'll be by your side, you'll be by my side (Feat. Morning Coffee)",
+      "url": "https://open.spotify.com/track/7ihmKfltRTBX5Ol48V3XEX"
+    },
+    {
+      "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
@@ -883,7 +905,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 287535,
       "name": "If",
       "url": "https://open.spotify.com/track/0zaHICE67lr13INMJggubW"
@@ -955,7 +977,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 248433,
       "name": "Kim Cheolsu Story",
       "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
@@ -1031,7 +1053,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 192730,
       "name": "Little By Little",
       "url": "https://open.spotify.com/track/1CuwvRM23gfdvfz4Dpn6Ua"
@@ -1201,7 +1223,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 118356,
       "name": "Night Sky",
       "url": "https://open.spotify.com/track/2s1GJh3L6PXeEm5SgHALZT"
@@ -1219,7 +1241,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 287386,
       "name": "Oh, My Sun",
       "url": "https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW"
@@ -1703,7 +1725,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
@@ -1757,7 +1779,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 145360,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
@@ -2105,7 +2127,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 258961,
       "name": "YOUR SONG",
       "url": "https://open.spotify.com/track/6XshUdxavknBQlcnu72LpD"

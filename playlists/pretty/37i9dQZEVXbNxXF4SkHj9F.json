@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - South Korea.",
-  "name": "Top 50 - South Korea",
-  "num_followers": 32322,
+  "num_followers": 32336,
+  "original_name": "Top 50 - South Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -933,5 +933,6 @@
       "url": "https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA"
     }
   ],
+  "unique_name": "Top 50 - South Korea",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNxXF4SkHj9F"
 }

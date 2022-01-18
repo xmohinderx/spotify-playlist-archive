@@ -1,7 +1,7 @@
 {
   "description": "The freshest pop sounds. Cover: Tai Verdes",
-  "name": "New Pop Revolution",
   "num_followers": 185203,
+  "original_name": "New Pop Revolution",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1345,5 +1345,6 @@
       "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
     }
   ],
+  "unique_name": "New Pop Revolution",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb"
 }

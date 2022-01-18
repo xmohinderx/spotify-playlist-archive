@@ -1,7 +1,7 @@
 {
   "description": "Recent tracks from the Hot Country playlist that are still smokin'.  Cover: Ryan Hurd and Maren Morris",
-  "name": "Still Hot",
-  "num_followers": 198182,
+  "num_followers": 198198,
+  "original_name": "Still Hot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1153,5 +1153,6 @@
       "url": "https://open.spotify.com/track/58J6FWRdf7PSUIDe9rbqdi"
     }
   ],
+  "unique_name": "Still Hot",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6rVyqO2FaN8"
 }

@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Rock",
   "num_followers": 56,
+  "original_name": "Top Picks Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -329,5 +329,6 @@
       "url": "https://open.spotify.com/track/5jiUJZ7EQadvIr52caQXUj"
     }
   ],
+  "unique_name": "Top Picks Rock",
   "url": "https://open.spotify.com/playlist/5QOzTki17fEWKoUVcvTrI2"
 }

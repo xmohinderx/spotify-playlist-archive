@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Classical",
   "num_followers": 53,
+  "original_name": "Top Picks Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -461,5 +461,6 @@
       "url": "https://open.spotify.com/track/3OgtoSMZoM7RYdrFaQDoPd"
     }
   ],
+  "unique_name": "Top Picks Classical",
   "url": "https://open.spotify.com/playlist/3jh9R9uXIoozPA0uccJt2C"
 }

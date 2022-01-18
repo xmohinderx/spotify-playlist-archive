@@ -1,7 +1,7 @@
 {
   "description": "Hear all the best songs by the monumental <a href=\"spotify:artist:3dkbV4qihUeMsqN4vBGg93\">soul singer</a>.",
-  "name": "This Is Al Green",
   "num_followers": 157768,
+  "original_name": "This Is Al Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -445,5 +445,6 @@
       "url": "https://open.spotify.com/track/0fb8yW05S7hPXrOf5Il2hR"
     }
   ],
+  "unique_name": "This Is Al Green",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZMCPjHG57gq"
 }

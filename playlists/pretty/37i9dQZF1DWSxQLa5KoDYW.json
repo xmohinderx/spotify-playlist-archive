@@ -1,7 +1,7 @@
 {
   "description": "The best of Gorillaz, in one place.",
-  "name": "This Is Gorillaz",
   "num_followers": 836084,
+  "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1145,5 +1145,6 @@
       "url": "https://open.spotify.com/track/46LDfGrOIJF85wfRZLrfbM"
     }
   ],
+  "unique_name": "This Is Gorillaz",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSxQLa5KoDYW"
 }

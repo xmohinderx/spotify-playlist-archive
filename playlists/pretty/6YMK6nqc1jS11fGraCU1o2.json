@@ -1,7 +1,7 @@
 {
   "description": "Sleep, study, or simply still your mind with the soothing sounds of spring.",
-  "name": "Spring Garden",
   "num_followers": 191,
+  "original_name": "Spring Garden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -349,5 +349,6 @@
       "url": "https://open.spotify.com/track/4COj2uKPYtjdaJUSpB0X5t"
     }
   ],
+  "unique_name": "Spring Garden",
   "url": "https://open.spotify.com/playlist/6YMK6nqc1jS11fGraCU1o2"
 }

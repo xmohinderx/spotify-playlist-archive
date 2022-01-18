@@ -1,7 +1,7 @@
 {
   "description": "Don't spill your popcorn... these scary movie themes will scare the bejeezus out of you!",
-  "name": "Fright Fest",
   "num_followers": 20994,
+  "original_name": "Fright Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -469,5 +469,6 @@
       "url": "https://open.spotify.com/track/2pdqaNUADr4vkmml8wveJd"
     }
   ],
+  "unique_name": "Fright Fest",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6dCTsdzLHOw"
 }

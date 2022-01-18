@@ -1,7 +1,7 @@
 {
   "description": "New music from Cordae, Gunna and NLE Choppa.",
-  "name": "RapCaviar",
-  "num_followers": 14291270,
+  "num_followers": 14291486,
+  "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -949,5 +949,6 @@
       "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
     }
   ],
+  "unique_name": "RapCaviar",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Home to all the latest indie jams. Cover: Broken Social Scene",
-  "name": "Indie All Stars",
-  "num_followers": 147269,
+  "num_followers": 147264,
+  "original_name": "Indie All Stars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1685,5 +1685,6 @@
       "url": "https://open.spotify.com/track/3zOMHLVVWWb1NvD9jkVoAf"
     }
   ],
+  "unique_name": "Indie All Stars",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7XNgsy4UFju"
 }

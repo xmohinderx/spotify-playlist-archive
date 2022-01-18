@@ -1,7 +1,7 @@
 {
   "description": "This is Muse. The essential tracks, all in one playlist.",
-  "name": "This Is Muse",
-  "num_followers": 633348,
+  "num_followers": 633368,
+  "original_name": "This Is Muse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -825,5 +825,6 @@
       "url": "https://open.spotify.com/track/6Jf7Sx68vsWFKeWjOxcLhQ"
     }
   ],
+  "unique_name": "This Is Muse",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0yp56w"
 }

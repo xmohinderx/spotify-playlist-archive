@@ -1,7 +1,7 @@
 {
   "description": "We made you a personalized playlist with songs to take you back in time.",
-  "name": "Your Time Capsule",
   "num_followers": 0,
+  "original_name": "Your Time Capsule",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -849,5 +849,6 @@
       "url": "https://open.spotify.com/track/6TefPQD0oc88BNALpu4U87"
     }
   ],
+  "unique_name": "Your Time Capsule",
   "url": "https://open.spotify.com/playlist/37i9dQZF1EuGR7rEA0UUF1"
 }

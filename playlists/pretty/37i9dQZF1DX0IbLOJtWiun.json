@@ -1,7 +1,7 @@
 {
   "description": "In honor of the little teams who could ",
-  "name": "Rise of the Underdog",
   "num_followers": 13,
+  "original_name": "Rise of the Underdog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -329,5 +329,6 @@
       "url": "https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy"
     }
   ],
+  "unique_name": "Rise of the Underdog",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0IbLOJtWiun"
 }

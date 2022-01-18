@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "1994",
   "num_followers": 465,
+  "original_name": "1994",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -845,5 +845,6 @@
       "url": "https://open.spotify.com/track/62utntNdsx80hraXA5ha0Q"
     }
   ],
+  "unique_name": "1994",
   "url": "https://open.spotify.com/playlist/27hnSuEcFg6wr5C5t3J5eL"
 }

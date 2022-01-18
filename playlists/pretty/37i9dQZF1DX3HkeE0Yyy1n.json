@@ -1,7 +1,7 @@
 {
   "description": "Looking back at the greatest metal released in 2016.",
-  "name": "Best of 2016: Metal",
   "num_followers": 916,
+  "original_name": "Best of 2016: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1973,5 +1973,6 @@
       "url": "https://open.spotify.com/track/7zTOZF5EeB9rf8e1hYfxAy"
     }
   ],
+  "unique_name": "Best of 2016: Metal",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3HkeE0Yyy1n"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Django and beyond.",
-  "name": "Hot Club Swing",
-  "num_followers": 251644,
+  "num_followers": 251646,
+  "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1005,5 +1005,6 @@
       "url": "https://open.spotify.com/track/0L9mejRz6i3CnI1mGxmeoM"
     }
   ],
+  "unique_name": "Hot Club Swing",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdDe8IDhRIo5"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - USA.",
-  "name": "Top 50 - USA",
-  "num_followers": 3376877,
+  "num_followers": 3376878,
+  "original_name": "Top 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -961,5 +961,6 @@
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     }
   ],
+  "unique_name": "Top 50 - USA",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLRQDuF5jeBp"
 }

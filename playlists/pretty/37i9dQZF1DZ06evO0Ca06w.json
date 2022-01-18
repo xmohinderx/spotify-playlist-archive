@@ -1,7 +1,7 @@
 {
   "description": "This is Miriam Makeba. The essential tracks, all in one playlist.",
-  "name": "This Is Miriam Makeba",
   "num_followers": 8222,
+  "original_name": "This Is Miriam Makeba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -837,5 +837,6 @@
       "url": "https://open.spotify.com/track/5Ihhlizj6aZEfT8ajxgNj5"
     }
   ],
+  "unique_name": "This Is Miriam Makeba",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ca06w"
 }

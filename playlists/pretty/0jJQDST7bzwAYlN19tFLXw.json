@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Covered in Country",
   "num_followers": 25,
+  "original_name": "Covered in Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -365,5 +365,6 @@
       "url": "https://open.spotify.com/track/5Q87J0EX7neuWEqybXQhfr"
     }
   ],
+  "unique_name": "Covered in Country",
   "url": "https://open.spotify.com/playlist/0jJQDST7bzwAYlN19tFLXw"
 }

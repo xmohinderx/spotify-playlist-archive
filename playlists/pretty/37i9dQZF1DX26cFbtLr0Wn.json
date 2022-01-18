@@ -1,7 +1,7 @@
 {
   "description": "Selections of modern and contemporary poetry, featuring readings from the poets themselves.",
-  "name": "Modern Poetry",
-  "num_followers": 23201,
+  "num_followers": 23200,
+  "original_name": "Modern Poetry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -2729,5 +2729,6 @@
       "url": "https://open.spotify.com/track/7mI4O5iEO8Ws9tyHWGw7zZ"
     }
   ],
+  "unique_name": "Modern Poetry",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX26cFbtLr0Wn"
 }

@@ -1,7 +1,7 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "name": "This Is Daddy Lumba",
-  "num_followers": 2481,
+  "num_followers": 2482,
+  "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -813,5 +813,6 @@
       "url": "https://open.spotify.com/track/0MOHsre9xorGBBAsAPRyJr"
     }
   ],
+  "unique_name": "This Is Daddy Lumba",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3gEzVb"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Deep Purple\u00b4s most essential tracks, all in one playlist.",
-  "name": "This is Deep Purple",
   "num_followers": 229947,
+  "original_name": "This is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -793,5 +793,6 @@
       "url": "https://open.spotify.com/track/4wFgwK0AW0mQMWr6PozI8k"
     }
   ],
+  "unique_name": "This is Deep Purple",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5WtNRbfbuUo"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Ascolta a tutto volume queste straordinarie artiste italiane! Cover: Annalisa",
-  "name": "EQUAL Italia",
-  "num_followers": 10041,
+  "num_followers": 10042,
+  "original_name": "EQUAL Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -833,5 +833,6 @@
       "url": "https://open.spotify.com/track/1vO1PM21XquIr92fJgAFzh"
     }
   ],
+  "unique_name": "EQUAL Italia",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUHxBb0SYtLj"
 }

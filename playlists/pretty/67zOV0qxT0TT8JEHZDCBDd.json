@@ -1,7 +1,7 @@
 {
   "description": "Missa inte Miguel p\u00e5 Azalea-scenen p\u00e5 FREDAG / 21.15",
-  "name": "Miguel",
   "num_followers": 47,
+  "original_name": "Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -173,5 +173,6 @@
       "url": "https://open.spotify.com/track/4LiQ8uAynrXFWY0vimnAa1"
     }
   ],
+  "unique_name": "Miguel",
   "url": "https://open.spotify.com/playlist/67zOV0qxT0TT8JEHZDCBDd"
 }

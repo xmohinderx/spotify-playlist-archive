@@ -1,7 +1,7 @@
 {
   "description": "Crank up the recent hits of Christian rock.  Cover artist: Skillet",
-  "name": "Top Christian Rock",
-  "num_followers": 81711,
+  "num_followers": 81730,
+  "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1245,5 +1245,6 @@
       "url": "https://open.spotify.com/track/4MJoEFLiEMkDZch8l3J63z"
     }
   ],
+  "unique_name": "Top Christian Rock",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0N57moxx9BL"
 }

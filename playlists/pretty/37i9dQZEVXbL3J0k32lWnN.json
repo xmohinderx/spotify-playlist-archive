@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "name": "Top 50 - Denmark",
-  "num_followers": 174235,
+  "num_followers": 174238,
+  "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -909,5 +909,6 @@
       "url": "https://open.spotify.com/track/6BrXK35IO466yYtq7iGqVh"
     }
   ],
+  "unique_name": "Top 50 - Denmark",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbL3J0k32lWnN"
 }

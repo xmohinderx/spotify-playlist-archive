@@ -1,7 +1,7 @@
 {
   "description": "Enjoy the company of friends alongside some folksy acoustics perfect for an autumn dinner party.",
-  "name": "FriendsGiving",
   "num_followers": 2691,
+  "original_name": "FriendsGiving",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -569,5 +569,6 @@
       "url": "https://open.spotify.com/track/2sZS1YF9PepJiie2C9xw4Y"
     }
   ],
+  "unique_name": "FriendsGiving",
   "url": "https://open.spotify.com/playlist/7a80QjnKAMnZu5Lx50INeh"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Get deep into The Flaming Lips with this career-spanning playlist.",
-  "name": "This Is The Flaming Lips",
   "num_followers": 25066,
+  "original_name": "This Is The Flaming Lips",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -805,5 +805,6 @@
       "url": "https://open.spotify.com/track/6ViV4Gt8n3G1g22lnsX3Gu"
     }
   ],
+  "unique_name": "This Is The Flaming Lips",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX79Q60SopbIW"
 }

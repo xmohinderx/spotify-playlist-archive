@@ -1,7 +1,7 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "name": "This Is Rossini",
-  "num_followers": 19678,
+  "num_followers": 19679,
+  "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1933,5 +1933,6 @@
       "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
     }
   ],
+  "unique_name": "This Is Rossini",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0VplLa7NC0a"
 }

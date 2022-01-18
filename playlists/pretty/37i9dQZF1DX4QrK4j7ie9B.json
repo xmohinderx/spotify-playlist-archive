@@ -1,7 +1,7 @@
 {
   "description": "The ultimate classical playlist for yoga, meditation and daily mindfulness.",
-  "name": "Classical Yoga",
-  "num_followers": 59671,
+  "num_followers": 59677,
+  "original_name": "Classical Yoga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1121,5 +1121,6 @@
       "url": "https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr"
     }
   ],
+  "unique_name": "Classical Yoga",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4QrK4j7ie9B"
 }

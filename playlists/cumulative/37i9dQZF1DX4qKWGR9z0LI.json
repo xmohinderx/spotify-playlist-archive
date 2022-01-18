@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 262746,
       "name": "Abre Que Voy",
       "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 449640,
       "name": "Aparentemente",
       "url": "https://open.spotify.com/track/5MhLjE5KvAfqFx8hxQi3eW"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 262079,
       "name": "Entre La Espada y La Pared",
       "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 374840,
       "name": "La Pantera Mambo",
       "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 263920,
       "name": "Me Liber\u00e9",
       "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
@@ -1443,7 +1443,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 224826,
       "name": "Pa Bravo Yo",
       "url": "https://open.spotify.com/track/1reO9cqAkoJUWQw29KwA6S"
@@ -1491,6 +1491,28 @@
       "duration_ms": 246787,
       "name": "Pa'lla Voy",
       "url": "https://open.spotify.com/track/05jVbjHBsX3V8OxFWlpayR"
+    },
+    {
+      "album": {
+        "name": "SALSA PLUS!",
+        "url": "https://open.spotify.com/album/0Q8OYG3pgYUyntttMXCjD8"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        },
+        {
+          "name": "Roberto Delgado & Orquesta",
+          "url": "https://open.spotify.com/artist/2BRXfbwZl8Rqv4Spi8kB8u"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336947,
+      "name": "Paula C.",
+      "url": "https://open.spotify.com/track/0umkHdiZRtXBxyDGmLBkwc"
     },
     {
       "album": {
@@ -1715,7 +1737,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 288600,
       "name": "Resistir\u00e9 - Salsa",
       "url": "https://open.spotify.com/track/4Qpom4kmnP9PEFOF2TAoxi"
@@ -1925,7 +1947,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 188364,
       "name": "Suma y Resta",
       "url": "https://open.spotify.com/track/6vj4z8xXfG2qKpfT5je3uk"
@@ -2019,7 +2041,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 220453,
       "name": "Tengo Que Colgar",
       "url": "https://open.spotify.com/track/6W9gmfyZ94oeAaBK3IjAqx"

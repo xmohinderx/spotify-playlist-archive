@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJlM6nvL1nD1.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Ecuador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,449 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,462 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

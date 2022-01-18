@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg?si=687634401a3b4f9f">The Lumineers</a> take over this week to celebrate the release of their new album <a href="https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW?si=expjkX6LRuGTNxJ3MieE8w">BRIGHTSIDE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,827,441 likes - 120 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,827,443 likes - 120 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

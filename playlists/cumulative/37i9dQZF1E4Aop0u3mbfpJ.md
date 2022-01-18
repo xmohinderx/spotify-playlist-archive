@@ -2,7 +2,7 @@
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/5wwUkYS2OcCkau5CdCfyc6)
 
-> With Years & Years, Katy Perry, Rita Ora and more
+> With Galantis, Lorde, Kesha and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,7 +1,7 @@
 {
   "description": "The essential songs from Paul McCartney's solo career and the Wings.",
-  "name": "This Is: Paul McCartney",
   "num_followers": 169345,
+  "original_name": "This Is: Paul McCartney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1237,5 +1237,6 @@
       "url": "https://open.spotify.com/track/5Rr5QQ1wRzmnqC9MyfTqmk"
     }
   ],
+  "unique_name": "This Is: Paul McCartney",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2PB4Qx11qXU"
 }

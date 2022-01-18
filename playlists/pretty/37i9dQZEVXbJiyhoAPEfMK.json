@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Switzerland.",
-  "name": "Top 50 - Switzerland",
-  "num_followers": 116525,
+  "num_followers": 116527,
+  "original_name": "Top 50 - Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -909,5 +909,6 @@
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     }
   ],
+  "unique_name": "Top 50 - Switzerland",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJiyhoAPEfMK"
 }

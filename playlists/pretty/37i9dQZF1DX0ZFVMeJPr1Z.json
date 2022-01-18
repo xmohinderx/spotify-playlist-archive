@@ -1,7 +1,7 @@
 {
   "description": "Spellistan f\u00f6r den svenska sommaren.",
-  "name": "Svenska sommarklassiker",
   "num_followers": 68065,
+  "original_name": "Svenska sommarklassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1057,5 +1057,6 @@
       "url": "https://open.spotify.com/track/0aKmin3xzPUYtiwCPSJomL"
     }
   ],
+  "unique_name": "Svenska sommarklassiker",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0ZFVMeJPr1Z"
 }

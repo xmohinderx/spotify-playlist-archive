@@ -1,7 +1,7 @@
 {
   "description": "Grand Hustle Gang top picks chosen by Spotify.",
-  "name": "Grand Hustle Gang Spotify Picks",
   "num_followers": 96,
+  "original_name": "Grand Hustle Gang Spotify Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -773,5 +773,6 @@
       "url": "https://open.spotify.com/track/54ohgeZ4ESJDlffKb9Ktrt"
     }
   ],
+  "unique_name": "Grand Hustle Gang Spotify Picks",
   "url": "https://open.spotify.com/playlist/4C0S1zvtcMtk2notLxCL1J"
 }

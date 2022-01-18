@@ -1,7 +1,7 @@
 {
   "description": "A collection of sessions from some of the best comedians of all time.",
-  "name": "Women of Comedy",
   "num_followers": 66867,
+  "original_name": "Women of Comedy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -2349,5 +2349,6 @@
       "url": "https://open.spotify.com/track/3S1UsL6vPKHTWaVKZdVSH6"
     }
   ],
+  "unique_name": "Women of Comedy",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9O8pzsnCkf6"
 }

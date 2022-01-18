@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 216280,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/5hufQzFmqxdyp09BQAqZ5C"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 211533,
       "name": "La Diferencia",
       "url": "https://open.spotify.com/track/2sPGyx5ETMoNk2iOBAK7Vh"
@@ -1772,6 +1772,24 @@
     },
     {
       "album": {
+        "name": "Mi Historia Musical - Juan Gabriel",
+        "url": "https://open.spotify.com/album/40MZoVyhtsHn83wB3FevRe"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Siempre Estoy Pensando en Ti",
+      "url": "https://open.spotify.com/track/32cBT2cbmzvRP30lvylngM"
+    },
+    {
+      "album": {
         "name": "El Pr\u00edncipe de la Canci\u00f3n",
         "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
       },
@@ -2091,6 +2109,24 @@
       "duration_ms": 324573,
       "name": "Voy a Llenarte Toda",
       "url": "https://open.spotify.com/track/6RjJbVwSkEdr6UnzVUDtn4"
+    },
+    {
+      "album": {
+        "name": "25 Aniversario 1971-1996 Edici\u00f3n, Vol\u00famenes 21 a 25",
+        "url": "https://open.spotify.com/album/7sZyPt93cvbX8AK97vM1Mh"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159106,
+      "name": "Ya Lo Pasado Pasado (En Vivo) - En el Palacio de Bellas Artes",
+      "url": "https://open.spotify.com/track/7gmhT4CKZM6eFR6zFXt5Lv"
     },
     {
       "album": {

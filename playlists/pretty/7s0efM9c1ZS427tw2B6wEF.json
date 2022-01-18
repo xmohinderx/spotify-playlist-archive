@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Tracks in Workout",
   "num_followers": 19172,
+  "original_name": "Top Tracks in Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -489,5 +489,6 @@
       "url": "https://open.spotify.com/track/7aC7xWyT2LJ4R5r18GymA2"
     }
   ],
+  "unique_name": "Top Tracks in Workout",
   "url": "https://open.spotify.com/playlist/7s0efM9c1ZS427tw2B6wEF"
 }

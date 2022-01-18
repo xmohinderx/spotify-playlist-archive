@@ -1,7 +1,7 @@
 {
   "description": "The man, the myth, the legend.",
-  "name": "This Is Bob Dylan",
   "num_followers": 443959,
+  "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1221,5 +1221,6 @@
       "url": "https://open.spotify.com/track/4CyZpcjZdbAAD0J0EPSwmF"
     }
   ],
+  "unique_name": "This Is Bob Dylan",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8f6VxHEcGCN"
 }

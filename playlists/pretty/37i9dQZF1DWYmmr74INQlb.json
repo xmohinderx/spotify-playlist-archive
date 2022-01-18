@@ -1,12 +1,12 @@
 {
   "description": "Check out these throwback R&B jams from the first decade of the 21st century. Cover: Mariah Carey",
-  "name": "I Love My '00s R&B",
-  "num_followers": 3776308,
+  "num_followers": 3776413,
+  "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2NjYwNywwMDAwMDAwMDllNjE5MDI1NDdhZDUzMDY3ZjQ1ZGVmOTI2YzY0NDA5",
+  "snapshot_id": "MTY0MjQ3ODk3NiwwMDAwMDAwMGFiNzFjOGE0NmU1ZWJhMzE5ZmYxYjZhYjQ4NmEyZWEz",
   "tracks": [
     {
       "added_at": "2021-09-10 04:11:56",
@@ -207,6 +207,26 @@
     {
       "added_at": "2021-09-10 04:11:56",
       "album": {
+        "name": "Jagged Little Thrill",
+        "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 232573,
+      "name": "Where the Party At (feat. Nelly)",
+      "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
+    },
+    {
+      "added_at": "2021-09-10 04:11:56",
+      "album": {
         "name": "Ashanti",
         "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
       },
@@ -239,22 +259,6 @@
     {
       "added_at": "2021-09-10 04:11:56",
       "album": {
-        "name": "The Breakthrough",
-        "url": "https://open.spotify.com/album/5cnNuunPepqlcT0VoFdLOh"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Be Without You - Kendu Mix",
-      "url": "https://open.spotify.com/track/2YegxR5As7BeQuVp2U6pek"
-    },
-    {
-      "added_at": "2021-09-10 04:11:56",
-      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/44Z1ZEmOyois0QoAgfUxrD"
       },
@@ -275,22 +279,6 @@
     {
       "added_at": "2021-09-10 04:11:56",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Me, Myself and I",
-      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
-    },
-    {
-      "added_at": "2021-09-10 04:11:56",
-      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD"
       },
@@ -303,6 +291,22 @@
       "duration_ms": 216893,
       "name": "How Do I Breathe",
       "url": "https://open.spotify.com/track/174rZBKJAqD10VBnOjlQQ3"
+    },
+    {
+      "added_at": "2021-09-10 04:11:56",
+      "album": {
+        "name": "The Breakthrough",
+        "url": "https://open.spotify.com/album/5cnNuunPepqlcT0VoFdLOh"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Be Without You - Kendu Mix",
+      "url": "https://open.spotify.com/track/2YegxR5As7BeQuVp2U6pek"
     },
     {
       "added_at": "2021-10-13 12:30:42",
@@ -319,6 +323,22 @@
       "duration_ms": 40234,
       "name": "R&B Fashion & Style featuring Brandy",
       "url": "https://open.spotify.com/track/3CgksqmyMvWLo5g7WOnZVf"
+    },
+    {
+      "added_at": "2021-09-10 04:11:56",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
     },
     {
       "added_at": "2021-09-10 04:11:56",
@@ -387,22 +407,6 @@
     {
       "added_at": "2021-09-10 04:11:56",
       "album": {
-        "name": "After The Storm",
-        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
-      },
-      "artists": [
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "So Gone",
-      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
-    },
-    {
-      "added_at": "2021-09-10 04:11:56",
-      "album": {
         "name": "The Emancipation of Mimi",
         "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
       },
@@ -451,18 +455,18 @@
     {
       "added_at": "2021-09-10 04:11:56",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
+        "name": "After The Storm",
+        "url": "https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v"
       },
       "artists": [
         {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
         }
       ],
-      "duration_ms": 261933,
-      "name": "He Wasn't Man Enough",
-      "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
+      "duration_ms": 242773,
+      "name": "So Gone",
+      "url": "https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4"
     },
     {
       "added_at": "2021-09-10 04:11:56",
@@ -507,22 +511,18 @@
     {
       "added_at": "2021-09-10 04:11:56",
       "album": {
-        "name": "Ms. Kelly",
-        "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
       },
       "artists": [
         {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Like This (feat. Eve)",
-      "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
+      "duration_ms": 261426,
+      "name": "Go On Girl",
+      "url": "https://open.spotify.com/track/3QE7ObGjkt1kYnhLvZPRUy"
     },
     {
       "added_at": "2021-09-10 04:11:56",
@@ -543,54 +543,18 @@
     {
       "added_at": "2021-09-10 04:11:56",
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
       },
       "artists": [
         {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 327693,
-      "name": "I Should Have Cheated",
-      "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
-    },
-    {
-      "added_at": "2021-09-10 04:11:56",
-      "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Go On Girl",
-      "url": "https://open.spotify.com/track/3QE7ObGjkt1kYnhLvZPRUy"
-    },
-    {
-      "added_at": "2021-09-10 04:11:56",
-      "album": {
-        "name": "From The Bottom To The Top",
-        "url": "https://open.spotify.com/album/5q8AaOLpjlUQTn9KaQnI0f"
-      },
-      "artists": [
-        {
-          "name": "Sammie",
-          "url": "https://open.spotify.com/artist/4p07QU02SrLsaORo25h2Lg"
-        },
-        {
-          "name": "JT Money",
-          "url": "https://open.spotify.com/artist/1pJhCUTEZhR4nYeemYlkVz"
-        }
-      ],
-      "duration_ms": 251040,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/0IvTGWbNnCiUi9IOF7ye3F"
+      "duration_ms": 261933,
+      "name": "He Wasn't Man Enough",
+      "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
     },
     {
       "added_at": "2021-09-10 04:11:56",
@@ -611,18 +575,38 @@
     {
       "added_at": "2021-09-10 04:11:56",
       "album": {
-        "name": "As I Am",
-        "url": "https://open.spotify.com/album/0neqylYFL6s6Ikdf3UFmUo"
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
         }
       ],
-      "duration_ms": 253813,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/0JEqGkvUiMTQmFY6sgL9kg"
+      "duration_ms": 327693,
+      "name": "I Should Have Cheated",
+      "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
+    },
+    {
+      "added_at": "2021-09-10 04:11:56",
+      "album": {
+        "name": "Ms. Kelly",
+        "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Like This (feat. Eve)",
+      "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
     },
     {
       "added_at": "2021-09-10 04:11:56",
@@ -659,6 +643,26 @@
     {
       "added_at": "2021-09-10 04:11:56",
       "album": {
+        "name": "From The Bottom To The Top",
+        "url": "https://open.spotify.com/album/5q8AaOLpjlUQTn9KaQnI0f"
+      },
+      "artists": [
+        {
+          "name": "Sammie",
+          "url": "https://open.spotify.com/artist/4p07QU02SrLsaORo25h2Lg"
+        },
+        {
+          "name": "JT Money",
+          "url": "https://open.spotify.com/artist/1pJhCUTEZhR4nYeemYlkVz"
+        }
+      ],
+      "duration_ms": 251040,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/0IvTGWbNnCiUi9IOF7ye3F"
+    },
+    {
+      "added_at": "2021-09-10 04:11:56",
+      "album": {
         "name": "J.E. Heartbreak",
         "url": "https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3"
       },
@@ -675,35 +679,36 @@
     {
       "added_at": "2021-09-10 04:11:56",
       "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
       },
       "artists": [
         {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 262226,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6CbcdeTQKj0qTaZTt0xkdk"
+      "duration_ms": 228266,
+      "name": "Do You",
+      "url": "https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl"
     },
     {
       "added_at": "2021-09-10 04:11:56",
       "album": {
-        "name": "The Evolution of Robin Thicke",
-        "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
+        "name": "As I Am",
+        "url": "https://open.spotify.com/album/0neqylYFL6s6Ikdf3UFmUo"
       },
       "artists": [
         {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 254146,
-      "name": "Lost Without U",
-      "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
+      "duration_ms": 253813,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0JEqGkvUiMTQmFY6sgL9kg"
     }
   ],
+  "unique_name": "I Love My '00s R&B",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYmmr74INQlb"
 }

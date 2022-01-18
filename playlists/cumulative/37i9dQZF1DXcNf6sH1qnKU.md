@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcNf6sH1qnKU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcNf6sH1qnKU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcNf6sH1qnKU)
 
-### Dreampop Classics
+### [Dreampop Classics](https://open.spotify.com/playlist/2i2f84b6aFCm4d39FIhHSI)
 
 > Glimmering, warm, and bright memories: Beach House on the cover.
 
@@ -47,6 +47,7 @@
 | [Pearl \- Edit](https://open.spotify.com/track/0kCzcpTLcdi6ClEI2x28hb) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 4:50 | 2021-10-01 |  |
 | [Pulling Our Weight](https://open.spotify.com/track/22tKhWXrNZ3XxlOIBXJlkm) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Passive Aggressive](https://open.spotify.com/album/4vIEzWfChYUpciMNXdfHwZ) | 3:21 | 2021-10-01 |  |
 | [Revival](https://open.spotify.com/track/1k7lK8tjU5BPsXez7WEpg0) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 2:13 | 2021-10-01 |  |
+| [She Hangs Brightly](https://open.spotify.com/track/0PwKkV9wQCpbCxJmYEkcsd) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [She Hangs Brightly](https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA) | 6:24 | 2021-10-01 |  |
 | [Sight of You](https://open.spotify.com/track/2XMwak0QKaukNo502mcufY) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [The Comforts of Madness](https://open.spotify.com/album/0nIWyOR3JgBnVsJgKQxyWt) | 5:37 | 2021-10-01 |  |
 | [Some Time Alone, Alone](https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:46 | 2021-10-01 |  |
 | [Space Song](https://open.spotify.com/track/0hNhlwnzMLzZSlKGDCuHOo) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt) | 5:20 | 2021-10-01 |  |
@@ -56,7 +57,7 @@
 | [The Book Lovers](https://open.spotify.com/track/4O76joQmZKoZm78s0vOHTJ) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/7kqQeOzeLJxSlQEQXyIkqH) | 4:49 | 2021-10-01 |  |
 | [The World Backwards](https://open.spotify.com/track/3KGOHUtSdDMUQ9v7V4DmW1) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Work And Non Work](https://open.spotify.com/album/7kqQeOzeLJxSlQEQXyIkqH) | 4:00 | 2021-10-01 |  |
 | [Thursday](https://open.spotify.com/track/6MC9eyZJiicT4tT2YOqf5d) | [Asobi Seksu](https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62) | [Citrus](https://open.spotify.com/album/5ohM0IJGIOO1xacFqrba3l) | 4:17 | 2021-10-01 |  |
-| [Transparent Radiation \- Single Version](https://open.spotify.com/track/3doCN5B3fuqeJ06AY6Cbxx) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Forged Prescriptions \(Remastered\)](https://open.spotify.com/album/5o99dlCEEIKu7fihvSgvVs) | 4:12 | 2021-10-01 |  |
+| [Transparent Radiation \- Single Version](https://open.spotify.com/track/3doCN5B3fuqeJ06AY6Cbxx) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Forged Prescriptions \(Remastered\)](https://open.spotify.com/album/5o99dlCEEIKu7fihvSgvVs) | 4:12 | 2021-10-01 | 2022-01-17 |
 | [Watersong](https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Wings Of Joy \(Expanded Edition\)](https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq) | 3:51 | 2021-10-01 | 2022-01-18 |
 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 | 2021-10-01 |  |
 

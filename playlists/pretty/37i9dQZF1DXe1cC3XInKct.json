@@ -1,7 +1,7 @@
 {
   "description": "...and find your focus.",
-  "name": "Apply Yourself",
   "num_followers": 53846,
+  "original_name": "Apply Yourself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1389,5 +1389,6 @@
       "url": "https://open.spotify.com/track/4DkDaJm6uxyeAG9LDrJVL6"
     }
   ],
+  "unique_name": "Apply Yourself",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXe1cC3XInKct"
 }

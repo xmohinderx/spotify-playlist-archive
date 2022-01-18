@@ -1,7 +1,7 @@
 {
   "description": "The essential tracks, all in one playlist.",
-  "name": "This Is OneRepublic",
-  "num_followers": 399332,
+  "num_followers": 399341,
+  "original_name": "This Is OneRepublic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -705,5 +705,6 @@
       "url": "https://open.spotify.com/track/77ZdAoTHYoF6Umo76HFD4m"
     }
   ],
+  "unique_name": "This Is OneRepublic",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbZBKpgxsyXU"
 }

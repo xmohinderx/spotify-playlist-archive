@@ -1,12 +1,12 @@
 {
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: PERC%NT)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
-  "name": "K-Pop Acoustic",
-  "num_followers": 210225,
+  "num_followers": 210230,
+  "original_name": "K-Pop Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2NjY5MiwwMDAwMDAwMDQ3OGQ2NWY0ZDc1NTc1MzA2M2YwM2EyMTI3MGU1ZmYz",
+  "snapshot_id": "MTY0MjQ3OTA3OSwwMDAwMDAwMDdiYmJjYjg5NGMyOTc4ZTlkMWYyMGZmYTU0MjRlMTEw",
   "tracks": [
     {
       "added_at": "2022-01-13 09:50:16",
@@ -179,6 +179,38 @@
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
+        "name": "A change of heart",
+        "url": "https://open.spotify.com/album/6e0T7rftQKt3so7xHtJhPY"
+      },
+      "artists": [
+        {
+          "name": "on_poem",
+          "url": "https://open.spotify.com/artist/2lGdHsKg4Kv4KsTfrUxGLL"
+        }
+      ],
+      "duration_ms": 205639,
+      "name": "A change of heart",
+      "url": "https://open.spotify.com/track/4d5cA8jjecQNwWAO2oVtoU"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "Only Then",
+        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 248835,
+      "name": "Only Then",
+      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
         "name": "bandages",
         "url": "https://open.spotify.com/album/1UZLvFGY6S1xSZJ8wnhnZW"
       },
@@ -211,54 +243,18 @@
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
-        "name": "Autumn breeze",
-        "url": "https://open.spotify.com/album/1zPdH4xj4rZsLVRtgO8MRI"
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "Milky Day",
-          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
         }
       ],
-      "duration_ms": 174683,
-      "name": "Autumn breeze",
-      "url": "https://open.spotify.com/track/0nmdvYrzUgocrXt6IDanCj"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/7hhddpXpVkzeJBgR4zkis2"
-      },
-      "artists": [
-        {
-          "name": "92914",
-          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/05ho1OFzZj2yGMcEGPKtCF"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "The 3rd EP",
-        "url": "https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Yesterday You Left Me",
-      "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
+      "duration_ms": 188666,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
     },
     {
       "added_at": "2022-01-13 09:50:16",
@@ -279,6 +275,22 @@
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
+        "name": "Sun And Moon",
+        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 249771,
+      "name": "Sunny Days, Summer Nights",
+      "url": "https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
         "name": "babyblue",
         "url": "https://open.spotify.com/album/5THYTuiOWFn46iwKVfJjO2"
       },
@@ -295,34 +307,18 @@
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
-        "name": "Reason (Vocal by Kim Seonho)",
-        "url": "https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas"
+        "name": "The 3rd EP",
+        "url": "https://open.spotify.com/album/3C9boxwboGAAwNcZoax7Hi"
       },
       "artists": [
         {
-          "name": "Epitone Project",
-          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 217626,
-      "name": "Reason (Vocal by Kim Seonho)",
-      "url": "https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9"
+      "duration_ms": 222826,
+      "name": "Yesterday You Left Me",
+      "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
     },
     {
       "added_at": "2022-01-13 09:50:16",
@@ -339,6 +335,26 @@
       "duration_ms": 226853,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "NEXT EPISODE",
+        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 188864,
+      "name": "Stupid love song (with Crush)",
+      "url": "https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ"
     },
     {
       "added_at": "2022-01-13 09:50:16",
@@ -375,34 +391,18 @@
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
-        "name": "I'm Late but I'm OK",
-        "url": "https://open.spotify.com/album/6glPBJAV1SFtu353ckYe0E"
+        "name": "My Yellow",
+        "url": "https://open.spotify.com/album/30xUoTIuMQTUyFLreOiiDL"
       },
       "artists": [
         {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+          "name": "YELO",
+          "url": "https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD"
         }
       ],
-      "duration_ms": 227872,
-      "name": "I'm Late but I'm OK",
-      "url": "https://open.spotify.com/track/1FtgzOwryldXWIjxmTqOoE"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "Only Then",
-        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 248835,
-      "name": "Only Then",
-      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
+      "duration_ms": 183840,
+      "name": "My Yellow",
+      "url": "https://open.spotify.com/track/2QZ67tcgnbqziznZl6tC2k"
     },
     {
       "added_at": "2022-01-13 09:50:16",
@@ -423,70 +423,134 @@
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
-        "name": "A change of heart",
-        "url": "https://open.spotify.com/album/6e0T7rftQKt3so7xHtJhPY"
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
       "artists": [
         {
-          "name": "on_poem",
-          "url": "https://open.spotify.com/artist/2lGdHsKg4Kv4KsTfrUxGLL"
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
         }
       ],
-      "duration_ms": 205639,
-      "name": "A change of heart",
-      "url": "https://open.spotify.com/track/4d5cA8jjecQNwWAO2oVtoU"
+      "duration_ms": 174520,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
     },
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
-        "name": "\ubb3c\uac10 Paint",
-        "url": "https://open.spotify.com/album/7j8U1x5nDleP8O6ZLW93Lz"
+        "name": "These Walls",
+        "url": "https://open.spotify.com/album/2m4ekwYIbphT3mENFLouhK"
       },
       "artists": [
-        {
-          "name": "MoonMoon",
-          "url": "https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV"
-        }
-      ],
-      "duration_ms": 188196,
-      "name": "\ubb3c\uac10 Paint",
-      "url": "https://open.spotify.com/track/1HbRmJsM1oi7zTlKZtMVGS"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "O_ne",
-        "url": "https://open.spotify.com/album/0fbVHkoxzHbm6RDa9IOUGC"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 263453,
-      "name": "How Is Your Night",
-      "url": "https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "NEXT EPISODE",
-        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        },
         {
           "name": "Sam Kim",
           "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 195882,
-      "name": "EVEREST (with Sam Kim)",
-      "url": "https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo"
+      "duration_ms": 220106,
+      "name": "These Walls",
+      "url": "https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/6ZLQnQfsxbsdLNff0gz2Qe"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/093PI3mdUvOSlvMYDwnV1e"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "Polaris",
+        "url": "https://open.spotify.com/album/230aWpzxURX48FY6WtMe9s"
+      },
+      "artists": [
+        {
+          "name": "Lee MinHyuk",
+          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "Walking in the Starlight",
+      "url": "https://open.spotify.com/track/3wT6q6lHoOpZUM38uPSUTF"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/7hhddpXpVkzeJBgR4zkis2"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/05ho1OFzZj2yGMcEGPKtCF"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "Reason (Vocal by Kim Seonho)",
+        "url": "https://open.spotify.com/album/5MnLSMaZmIPQf6oMyUiGas"
+      },
+      "artists": [
+        {
+          "name": "Epitone Project",
+          "url": "https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Reason (Vocal by Kim Seonho)",
+      "url": "https://open.spotify.com/track/1qDpiJRazdFxAfFZIVWy12"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "Beloved (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/12AITMfwXY2uvJClZKJcf5"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "duration_ms": 271946,
+      "name": "Be with me - Acoustic Mix",
+      "url": "https://open.spotify.com/track/39OvFhBrhWmYne1x6YtBjx"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "Autumn breeze",
+        "url": "https://open.spotify.com/album/1zPdH4xj4rZsLVRtgO8MRI"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Milky Day",
+          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
+        }
+      ],
+      "duration_ms": 174683,
+      "name": "Autumn breeze",
+      "url": "https://open.spotify.com/track/0nmdvYrzUgocrXt6IDanCj"
     },
     {
       "added_at": "2022-01-13 09:50:16",
@@ -507,54 +571,86 @@
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
-        "name": "See you",
-        "url": "https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG"
+        "name": "T_wo",
+        "url": "https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW"
       },
       "artists": [
         {
-          "name": "amin",
-          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 237106,
+      "name": "will be happy",
+      "url": "https://open.spotify.com/track/2tqwVC2POBU8BrHlzgkRK2"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "Uncontrollably Fond OST Part.14",
+        "url": "https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh"
+      },
+      "artists": [
+        {
+          "name": "New Empire",
+          "url": "https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ"
+        }
+      ],
+      "duration_ms": 206854,
+      "name": "A Little Braver",
+      "url": "https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
+      },
+      "artists": [
+        {
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
         },
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
         }
       ],
-      "duration_ms": 186666,
-      "name": "See you - with Noair, Nason",
-      "url": "https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo"
+      "duration_ms": 227506,
+      "name": "HONEY (Feat. Crucial Star)",
+      "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
     },
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
-        "name": "Eternal",
-        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
+        "name": "\ubb3c\uac10 Paint",
+        "url": "https://open.spotify.com/album/7j8U1x5nDleP8O6ZLW93Lz"
       },
       "artists": [
         {
-          "name": "Young K",
-          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+          "name": "MoonMoon",
+          "url": "https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV"
         }
       ],
-      "duration_ms": 244382,
-      "name": "goodnight, dear",
-      "url": "https://open.spotify.com/track/3c8LgCeqvBz0qtCRrS72yD"
+      "duration_ms": 188196,
+      "name": "\ubb3c\uac10 Paint",
+      "url": "https://open.spotify.com/track/1HbRmJsM1oi7zTlKZtMVGS"
     },
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
-        "name": "These Walls",
-        "url": "https://open.spotify.com/album/2m4ekwYIbphT3mENFLouhK"
+        "name": "A story that will turn into a poem",
+        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
       },
       "artists": [
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
         }
       ],
-      "duration_ms": 220106,
-      "name": "These Walls",
-      "url": "https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij"
+      "duration_ms": 235157,
+      "name": "A story that will turn into a poem",
+      "url": "https://open.spotify.com/track/7IXlFjVlJ8LuiTfMkPKEnA"
     },
     {
       "added_at": "2022-01-13 09:50:16",
@@ -595,202 +691,18 @@
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
-        "name": "Tomorrow - SM STATION",
-        "url": "https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm"
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
       },
       "artists": [
         {
-          "name": "CHANYEOL",
-          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+          "name": "Acoustic Collabo",
+          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
         }
       ],
-      "duration_ms": 145360,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "A story that will turn into a poem",
-        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
-      },
-      "artists": [
-        {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
-        }
-      ],
-      "duration_ms": 235157,
-      "name": "A story that will turn into a poem",
-      "url": "https://open.spotify.com/track/7IXlFjVlJ8LuiTfMkPKEnA"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "Polaris",
-        "url": "https://open.spotify.com/album/230aWpzxURX48FY6WtMe9s"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "Walking in the Starlight",
-      "url": "https://open.spotify.com/track/3wT6q6lHoOpZUM38uPSUTF"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "NEXT EPISODE",
-        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 188864,
-      "name": "Stupid love song (with Crush)",
-      "url": "https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "Eye To Eye",
-        "url": "https://open.spotify.com/album/66KIloUNndKqtAxyjwCAgS"
-      },
-      "artists": [
-        {
-          "name": "Kwak Jin Eon",
-          "url": "https://open.spotify.com/artist/4xQ4GjBomHvTRL1GO624zd"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "Eye To Eye",
-      "url": "https://open.spotify.com/track/3l5h4nyOoMXv52yRwbk139"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "D_iary Page.1",
-        "url": "https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "I wanna go out",
-      "url": "https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "Sun And Moon",
-        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 287535,
-      "name": "If",
-      "url": "https://open.spotify.com/track/0zaHICE67lr13INMJggubW"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "Kim Cheolsu Story",
-        "url": "https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2"
-      },
-      "artists": [
-        {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
-        }
-      ],
-      "duration_ms": 248433,
-      "name": "Kim Cheolsu Story",
-      "url": "https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 174520,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "Begin Again Open MIC EPISODE. 14",
-        "url": "https://open.spotify.com/album/6LNVvZVEtWbVy6PfhaqKwQ"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        },
-        {
-          "name": "Jung In",
-          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
-        }
-      ],
-      "duration_ms": 192730,
-      "name": "Little By Little",
-      "url": "https://open.spotify.com/track/1CuwvRM23gfdvfz4Dpn6Ua"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "Uncontrollably Fond OST Part.14",
-        "url": "https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh"
-      },
-      "artists": [
-        {
-          "name": "New Empire",
-          "url": "https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ"
-        }
-      ],
-      "duration_ms": 206854,
-      "name": "A Little Braver",
-      "url": "https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "My Yellow",
-        "url": "https://open.spotify.com/album/30xUoTIuMQTUyFLreOiiDL"
-      },
-      "artists": [
-        {
-          "name": "YELO",
-          "url": "https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD"
-        }
-      ],
-      "duration_ms": 183840,
-      "name": "My Yellow",
-      "url": "https://open.spotify.com/track/2QZ67tcgnbqziznZl6tC2k"
+      "duration_ms": 224000,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
     },
     {
       "added_at": "2022-01-13 09:50:16",
@@ -811,34 +723,22 @@
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
-        "name": "T_wo",
-        "url": "https://open.spotify.com/album/6ICh5ekibNXg1CJEWztazW"
+        "name": "See you",
+        "url": "https://open.spotify.com/album/5XNFZVAs12EnZfZu7hJLNG"
       },
       "artists": [
         {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "will be happy",
-      "url": "https://open.spotify.com/track/2tqwVC2POBU8BrHlzgkRK2"
-    },
-    {
-      "added_at": "2022-01-13 09:50:16",
-      "album": {
-        "name": "Oh, My Sun",
-        "url": "https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi"
-      },
-      "artists": [
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+        },
         {
-          "name": "Kevin Oh",
-          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
         }
       ],
-      "duration_ms": 287386,
-      "name": "Oh, My Sun",
-      "url": "https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW"
+      "duration_ms": 186666,
+      "name": "See you - with Noair, Nason",
+      "url": "https://open.spotify.com/track/5HFl0JaGH9FPvI4Z7kVINo"
     },
     {
       "added_at": "2022-01-13 09:50:16",
@@ -859,19 +759,144 @@
     {
       "added_at": "2022-01-13 09:50:16",
       "album": {
-        "name": "Sun And Moon",
-        "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
+        "name": "MY NAME IS SAM",
+        "url": "https://open.spotify.com/album/6GUiTUgcpkhKlCZMTLLMI3"
       },
       "artists": [
         {
           "name": "Sam Kim",
           "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
+        {
+          "name": "Lee Jin Ah",
+          "url": "https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM"
+        },
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 249771,
-      "name": "Sunny Days, Summer Nights",
-      "url": "https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q"
+      "duration_ms": 258961,
+      "name": "YOUR SONG",
+      "url": "https://open.spotify.com/track/6XshUdxavknBQlcnu72LpD"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "I'm Late but I'm OK",
+        "url": "https://open.spotify.com/album/6glPBJAV1SFtu353ckYe0E"
+      },
+      "artists": [
+        {
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+        }
+      ],
+      "duration_ms": 227872,
+      "name": "I'm Late but I'm OK",
+      "url": "https://open.spotify.com/track/1FtgzOwryldXWIjxmTqOoE"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/6JuoNIefYEpSGTT0lUMIX3"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "duration_ms": 208649,
+      "name": "come as you are",
+      "url": "https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "I'll be by your side, you'll be by my side",
+        "url": "https://open.spotify.com/album/0qm1jTUO7eC2Qg4gNiCPoT"
+      },
+      "artists": [
+        {
+          "name": "Brunch recipe",
+          "url": "https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v"
+        },
+        {
+          "name": "morning coffee",
+          "url": "https://open.spotify.com/artist/0LHfA50RG8DSCk4divJea4"
+        }
+      ],
+      "duration_ms": 201758,
+      "name": "I'll be by your side, you'll be by my side (Feat. Morning Coffee)",
+      "url": "https://open.spotify.com/track/7ihmKfltRTBX5Ol48V3XEX"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "D_iary Page.1",
+        "url": "https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "I wanna go out",
+      "url": "https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "Night Sky",
+        "url": "https://open.spotify.com/album/0D9TASJi9ZEpwQFtfZWiDt"
+      },
+      "artists": [
+        {
+          "name": "Hayne",
+          "url": "https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL"
+        },
+        {
+          "name": "Milky Day",
+          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
+        },
+        {
+          "name": "frad",
+          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
+        }
+      ],
+      "duration_ms": 118356,
+      "name": "Night Sky",
+      "url": "https://open.spotify.com/track/2s1GJh3L6PXeEm5SgHALZT"
+    },
+    {
+      "added_at": "2022-01-13 09:50:16",
+      "album": {
+        "name": "NEXT EPISODE",
+        "url": "https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "EVEREST (with Sam Kim)",
+      "url": "https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo"
     }
   ],
+  "unique_name": "K-Pop Acoustic",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79"
 }

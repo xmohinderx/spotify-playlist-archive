@@ -1,7 +1,7 @@
 {
   "description": "Listen to all her biggest hits, in one place.",
-  "name": "This Is Lady Gaga",
-  "num_followers": 1281233,
+  "num_followers": 1281270,
+  "original_name": "This Is Lady Gaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -845,5 +845,6 @@
       "url": "https://open.spotify.com/track/1Rz58vTzev4MpbJ0eePfqU"
     }
   ],
+  "unique_name": "This Is Lady Gaga",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc7FZ2VBjaeT"
 }

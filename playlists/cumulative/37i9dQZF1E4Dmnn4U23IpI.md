@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/2T4bEFEfvvK4qvB1iHmD1n)
 
-> With LeBrock, Trevor Something, Primo and more
+> With Timecop1983, Gunship, Mitch Murder and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

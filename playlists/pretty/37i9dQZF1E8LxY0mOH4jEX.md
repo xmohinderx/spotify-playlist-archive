@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain]
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Travie McCoy, Calvin Harris, Lil Wayne and more
+> With Bruno Mars, Frankie J, Justin Bieber, Nicki Minaj and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 3,081 likes - 50 songs - 2 hr 57 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain]
 | 49 | [Trumpets](https://open.spotify.com/track/5KONnBIQ9LqCxyeSPin26k) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Talk Dirty](https://open.spotify.com/album/4PeZu0It7qVrTG40t3HM9A) | 3:37 |
 | 50 | [No Excuses](https://open.spotify.com/track/13KCcVDJM9rrQlPgGtepK8) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:32 |
 
-Snapshot ID: `MTY0MjQ2NzAxNiwwMDAwMDAwMDg1ZTZiNDA3YzgxMjA1YjVhMjdkMzk1NDI4NjU5OTk4`
+Snapshot ID: `MTY0MjQ3OTQ2MiwwMDAwMDAwMDg1ZTZiNDA3YzgxMjA1YjVhMjdkMzk1NDI4NjU5OTk4`

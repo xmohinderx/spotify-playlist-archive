@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With La Bouquet, Charli Adams, Luca Fogale and more
+> With Sunglasses Kid, Ed Patrick, Caroline Polachek and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 946 likes - 50 songs - 3 hr 19 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Call Me a Fool](https://open.spotify.com/track/1d9TH6UbBljrMUh3CV21Nj) | [Perlo](https://open.spotify.com/artist/7HoyQiwbj67vedZeOSFQSJ) | [Day by Day](https://open.spotify.com/album/3qq5vTW7xGBgSD9YHrc84B) | 3:24 |
 | 50 | [I Don't Feel Real](https://open.spotify.com/track/6MZYWdxGka0BnG3KYO739d) | [Patternist](https://open.spotify.com/artist/1n5JefcusF9c1qITJSp6Ms) | [I Don't Know What I'm Doing Here](https://open.spotify.com/album/4xmrb6kQ1X0ftdb2Xe3Cwd) | 3:18 |
 
-Snapshot ID: `MTY0MjQ2NzAxNCwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY0MjQ3OTQ2MCwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`

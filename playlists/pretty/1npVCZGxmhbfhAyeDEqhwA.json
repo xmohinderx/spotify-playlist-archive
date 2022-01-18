@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Disclosure's Spotify Playlist",
   "num_followers": 500,
+  "original_name": "Disclosure's Spotify Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -389,5 +389,6 @@
       "url": "https://open.spotify.com/track/21gvRGGQ81d7zijU6QlLZX"
     }
   ],
+  "unique_name": "Disclosure's Spotify Playlist",
   "url": "https://open.spotify.com/playlist/1npVCZGxmhbfhAyeDEqhwA"
 }

@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 186680,
       "name": "10%",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 124736,
       "name": "Automatic - Orion Sun Remix",
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 150700,
       "name": "Body & Soul (feat. Biig Piig)",
       "url": "https://open.spotify.com/track/7IE6uE2NqL9SI5gOSeNi3r"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 144567,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/2cWAfOTxFrCPJ6rZU5WqDG"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 173666,
       "name": "Disco Pantz",
       "url": "https://open.spotify.com/track/7JOocpT1H61AgjsIfoAMW5"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 237517,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 233722,
       "name": "Lonely As I Ever Was",
       "url": "https://open.spotify.com/track/1eYHAdDUKLUUWn0lhZgyUz"
@@ -1369,10 +1369,32 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 301995,
       "name": "Pelota (Cut a Rug Mix)",
       "url": "https://open.spotify.com/track/380cW88WvjXFmX3wzK1NOf"
+    },
+    {
+      "album": {
+        "name": "Canvas",
+        "url": "https://open.spotify.com/album/59dHUABz6phP7gCSjqhP8T"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        },
+        {
+          "name": "love-sadKID",
+          "url": "https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204937,
+      "name": "Poetry (feat. love-sadKiD)",
+      "url": "https://open.spotify.com/track/6V1K9SNXWMkMnP1ITn7O8c"
     },
     {
       "album": {
@@ -1609,7 +1631,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 294445,
       "name": "Tangerine - Channel Tres Remix",
       "url": "https://open.spotify.com/track/4xC3EWDjwlWS0L62QZO9F8"
@@ -1649,7 +1671,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
@@ -1729,7 +1751,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
@@ -1787,7 +1809,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 222626,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/3i1bEZOg8cDNmQGptB4HSv"
@@ -2003,6 +2025,28 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/1CYeaVkI5cGod4IGZKM87T"
+    },
+    {
+      "album": {
+        "name": "Woof (Kan Sano Remix)",
+        "url": "https://open.spotify.com/album/4z0YehJZRNqCRfkizYXobK"
+      },
+      "artists": [
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224459,
+      "name": "Woof - Kan Sano Remix",
+      "url": "https://open.spotify.com/track/1Lx9LCHfi0UZ9faIyjCGa2"
     },
     {
       "album": {

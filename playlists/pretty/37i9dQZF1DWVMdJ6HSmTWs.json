@@ -1,7 +1,7 @@
 {
   "description": "A collection of myths, fairy tales, and fables from across the globe.",
-  "name": "Mythologies",
-  "num_followers": 61096,
+  "num_followers": 61094,
+  "original_name": "Mythologies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1513,5 +1513,6 @@
       "url": "https://open.spotify.com/track/2Gbo0IUo0LlASldd3LiQdu"
     }
   ],
+  "unique_name": "Mythologies",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVMdJ6HSmTWs"
 }

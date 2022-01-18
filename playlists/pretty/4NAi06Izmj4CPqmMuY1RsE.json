@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Travel",
   "num_followers": 56,
+  "original_name": "Top Picks Travel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -333,5 +333,6 @@
       "url": "https://open.spotify.com/track/4rlWtsOCfxD8u1aCbbaHHp"
     }
   ],
+  "unique_name": "Top Picks Travel",
   "url": "https://open.spotify.com/playlist/4NAi06Izmj4CPqmMuY1RsE"
 }

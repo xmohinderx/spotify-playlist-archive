@@ -1,7 +1,7 @@
 {
   "description": "The best music for just chilling.",
-  "name": "Pop Chillout",
   "num_followers": 1524,
+  "original_name": "Pop Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1685,5 +1685,6 @@
       "url": "https://open.spotify.com/track/5BB3UvbXDoR3nKC7ujTkcc"
     }
   ],
+  "unique_name": "Pop Chillout",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbIGqYf7WDxP"
 }

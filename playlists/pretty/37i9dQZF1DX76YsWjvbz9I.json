@@ -1,12 +1,12 @@
 {
   "description": "The unforgettable romantic jazz songs. Cover: Nat King Cole",
-  "name": "Jazz for Lovers",
-  "num_followers": 54170,
+  "num_followers": 54210,
+  "original_name": "Jazz for Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2NjgzMiwwMDAwMDAwMDhmOTQyNTk3NWIwZmEwZDk4OTYzZWEyYjU2YzQyMzFj",
+  "snapshot_id": "MTY0MjQ3OTI1MCwwMDAwMDAwMGNiNGJiZDgyMzk5ZDJhYjcwMTUxMTU3YmEyODg1N2I4",
   "tracks": [
     {
       "added_at": "2022-01-14 08:17:01",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "Time After Time - Vocal Version",
-      "url": "https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -111,6 +95,22 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "Time After Time - Vocal Version",
+      "url": "https://open.spotify.com/track/4m6OC8u2rC6LMFtFWsME7d"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -123,26 +123,6 @@
       "duration_ms": 194040,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4YPYFUATiul0877A1HhSlW"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
-        "name": "The Complete Ella And Louis On Verve",
-        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "They Can't Take That Away From Me",
-      "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -179,6 +159,26 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "They Can't Take That Away From Me",
+      "url": "https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
         "name": "The Lost Tapes",
         "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
       },
@@ -211,18 +211,34 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "Mystery Lady: Songs of Billie Holiday",
-        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
+        "name": "The Legendary Bobby Darin",
+        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 266733,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
+      "duration_ms": 145933,
+      "name": "More - Remastered 2004",
+      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -247,22 +263,6 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "The Legendary Bobby Darin",
-        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 145933,
-      "name": "More - Remastered 2004",
-      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
         "name": "September In The Rain",
         "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
       },
@@ -279,34 +279,18 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+        "name": "Mystery Lady: Songs of Billie Holiday",
+        "url": "https://open.spotify.com/album/73XbGVMidbd8XpuNmTVkOW"
       },
       "artists": [
         {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 181440,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/1LGqJ3nvxpVXDWpEzq4DJD"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
-        "name": "Unforgettable: With Love",
-        "url": "https://open.spotify.com/album/3Z4DrrPcAsTWOhDelLNwrK"
-      },
-      "artists": [
-        {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Our Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/5KC32YrLNFpjDrjz37KIrK"
+      "duration_ms": 266733,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/0rXZu998CXslEpwhxdHzeu"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -379,6 +363,22 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
+        "name": "Unforgettable: With Love",
+        "url": "https://open.spotify.com/album/3Z4DrrPcAsTWOhDelLNwrK"
+      },
+      "artists": [
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Our Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/5KC32YrLNFpjDrjz37KIrK"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
         "name": "Sinatra's Sinatra",
         "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
       },
@@ -391,22 +391,6 @@
       "duration_ms": 209066,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -455,22 +439,6 @@
       "duration_ms": 196440,
       "name": "I've Got A Crush On You",
       "url": "https://open.spotify.com/track/5DIVWgTeJ2fPIxaY9e7ZKn"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
-        "name": "Etta Jones - A Collection",
-        "url": "https://open.spotify.com/album/4KV996XKJaCh6Pkflm68Xh"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 163474,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/35fAfaeEMDKYWOnZGDr6NG"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -527,18 +495,18 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
+        "name": "Etta Jones - A Collection",
+        "url": "https://open.spotify.com/album/4KV996XKJaCh6Pkflm68Xh"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
         }
       ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
+      "duration_ms": 163474,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/35fAfaeEMDKYWOnZGDr6NG"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -559,6 +527,22 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
         "name": "Julie Is Her Name",
         "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 191360,
       "name": "Can't Help Lovin' That Man",
       "url": "https://open.spotify.com/track/2qf5Xr89ShgSu1up0xQmLt"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/4x4gE6oHHuZ2y7yUsGuOO1"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "Little Girl Blue (2013 Remastered Version)",
-        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
-      "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
         "name": "The Complete Great American Songbook",
         "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+      "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
         "name": "Carmen McRae Sings Lover Man And Other Billie Holiday Classics",
         "url": "https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A"
       },
@@ -639,6 +639,38 @@
       "duration_ms": 165400,
       "name": "Them There Eyes",
       "url": "https://open.spotify.com/track/069NmdhmDYDPQm363GsVWw"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/19UoBHanqMth4tk0rFw5RJ"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 137520,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/1qCQTy0fTXerET4x8VHyr9"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -675,22 +707,6 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/19UoBHanqMth4tk0rFw5RJ"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 137520,
-      "name": "What A Wonderful World",
-      "url": "https://open.spotify.com/track/1qCQTy0fTXerET4x8VHyr9"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
         "name": "Silk & Soul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 142613,
       "name": "The Look of Love",
       "url": "https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/3JByavtrnBqKpNzl18SGNI"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -787,24 +787,8 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 146040,
-      "name": "Like Someone In Love - Vocal Version",
-      "url": "https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
-        "name": "Nice 'n' Easy (2020 Mix)",
-        "url": "https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW"
+        "name": "Baby Blue Eyes",
+        "url": "https://open.spotify.com/album/0LM90G0IGNZ9O5PkQcjOpw"
       },
       "artists": [
         {
@@ -812,9 +796,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 266800,
-      "name": "You Go To My Head - 2020 Mix",
-      "url": "https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc"
+      "duration_ms": 172040,
+      "name": "I've Got My Love to Keep Me Warm",
+      "url": "https://open.spotify.com/track/1nYBShHiR5XZTqQTSmAfHA"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -835,38 +819,6 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "Swedish Sensation",
-        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 337706,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 150720,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
         "name": "There's Only One...",
         "url": "https://open.spotify.com/album/23rGVbzBz5S72mqLUGQJB8"
       },
@@ -879,6 +831,22 @@
       "duration_ms": 312840,
       "name": "I'm Getting Sentimental Over You",
       "url": "https://open.spotify.com/track/1OxzwCDfkefXTnfwiKUufb"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 146040,
+      "name": "Like Someone In Love - Vocal Version",
+      "url": "https://open.spotify.com/track/7HqMu6Oa7jLQVDUuWiy6v2"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -899,22 +867,34 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "Lush Life",
-        "url": "https://open.spotify.com/album/29hewcqIIQfEFYlghRWYD2"
+        "name": "Nice 'n' Easy (2020 Mix)",
+        "url": "https://open.spotify.com/album/5myvnvNMM6RaI2as8s0KpW"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        },
-        {
-          "name": "Jeff Rach",
-          "url": "https://open.spotify.com/artist/6YAlFgtCMJB9VKgKncFlTN"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 239266,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/35jMzVgRFxGkSg7N0ZMVTw"
+      "duration_ms": 266800,
+      "name": "You Go To My Head - 2020 Mix",
+      "url": "https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
+        "name": "Swedish Sensation",
+        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 337706,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/7GfGULTcjWV5Np3xFNZ9hW"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -939,18 +919,18 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "Matt Dennis - Four Complete Albums",
-        "url": "https://open.spotify.com/album/3knF6YC5Rdeg8J7S7yu4vR"
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
       },
       "artists": [
         {
-          "name": "Matt Dennis",
-          "url": "https://open.spotify.com/artist/518N7qPrUx1WQJTl0IZC3I"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 166413,
-      "name": "Wait 'Til You See Her",
-      "url": "https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM"
+      "duration_ms": 150720,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/7g4vp6gM7cpMCZabF6vWm6"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -971,34 +951,22 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "Baby Blue Eyes",
-        "url": "https://open.spotify.com/album/0LM90G0IGNZ9O5PkQcjOpw"
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/29hewcqIIQfEFYlghRWYD2"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 172040,
-      "name": "I've Got My Love to Keep Me Warm",
-      "url": "https://open.spotify.com/track/1nYBShHiR5XZTqQTSmAfHA"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
-        "name": "Sing for Your Supper",
-        "url": "https://open.spotify.com/album/1WoseZW1CCYpKIv5AJYMvT"
-      },
-      "artists": [
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        },
         {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+          "name": "Jeff Rach",
+          "url": "https://open.spotify.com/artist/6YAlFgtCMJB9VKgKncFlTN"
         }
       ],
-      "duration_ms": 203773,
-      "name": "You Leave Me Breathless - 2015 Remastered Version",
-      "url": "https://open.spotify.com/track/3CbN0iFlYubKNVsJHZPmuH"
+      "duration_ms": 239266,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/35jMzVgRFxGkSg7N0ZMVTw"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -1019,6 +987,38 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
+        "name": "Sing for Your Supper",
+        "url": "https://open.spotify.com/album/1WoseZW1CCYpKIv5AJYMvT"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "You Leave Me Breathless - 2015 Remastered Version",
+      "url": "https://open.spotify.com/track/3CbN0iFlYubKNVsJHZPmuH"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
+        "name": "Matt Dennis - Four Complete Albums",
+        "url": "https://open.spotify.com/album/3knF6YC5Rdeg8J7S7yu4vR"
+      },
+      "artists": [
+        {
+          "name": "Matt Dennis",
+          "url": "https://open.spotify.com/artist/518N7qPrUx1WQJTl0IZC3I"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Wait 'Til You See Her",
+      "url": "https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -1031,38 +1031,6 @@
       "duration_ms": 133213,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
-        "name": "Pointless Nostalgic",
-        "url": "https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 306840,
-      "name": "A Time For Love",
-      "url": "https://open.spotify.com/track/4j6agW1zyunmyp6IYJZQyB"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
-        "name": "Blame It On My Youth",
-        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/772lBovJFWwQdjQn5WnhhY"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -1099,22 +1067,6 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 104773,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
         "name": "Duets (20th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
       },
@@ -1131,6 +1083,54 @@
       "duration_ms": 225773,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/45IeaJkarobL2YT6bZYMm3"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
+        "name": "Pointless Nostalgic",
+        "url": "https://open.spotify.com/album/0T4B2RzILZxlRkHd1QbhDz"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 306840,
+      "name": "A Time For Love",
+      "url": "https://open.spotify.com/track/4j6agW1zyunmyp6IYJZQyB"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 104773,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/772lBovJFWwQdjQn5WnhhY"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -1163,22 +1163,6 @@
       "duration_ms": 142866,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/15MObStooR3cTaXIf1fQCX"
-    },
-    {
-      "added_at": "2022-01-14 08:17:01",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 198866,
-      "name": "From This Moment On",
-      "url": "https://open.spotify.com/track/6eSkVenOm7gkZ9nD1SnNht"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -1223,18 +1207,34 @@
     {
       "added_at": "2022-01-14 08:17:01",
       "album": {
-        "name": "Quiet Nights",
-        "url": "https://open.spotify.com/album/1zTw5dv57Nd7qQNYO1qcmd"
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 347400,
-      "name": "You're My Thrill",
-      "url": "https://open.spotify.com/track/6FTNlQjDHIegogP2uHvSk0"
+      "duration_ms": 132160,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
+    },
+    {
+      "added_at": "2022-01-14 08:17:01",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 198866,
+      "name": "From This Moment On",
+      "url": "https://open.spotify.com/track/6eSkVenOm7gkZ9nD1SnNht"
     },
     {
       "added_at": "2022-01-14 08:17:01",
@@ -1253,5 +1253,6 @@
       "url": "https://open.spotify.com/track/48QgQqeezCQCHKr009uAe6"
     }
   ],
+  "unique_name": "Jazz for Lovers",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX76YsWjvbz9I"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Costa Rica.",
-  "name": "Top 50 - Costa Rica",
   "num_followers": 130151,
+  "original_name": "Top 50 - Costa Rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1041,5 +1041,6 @@
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     }
   ],
+  "unique_name": "Top 50 - Costa Rica",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMZAjGMynsQX"
 }

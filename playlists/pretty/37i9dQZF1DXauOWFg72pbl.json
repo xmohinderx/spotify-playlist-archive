@@ -1,7 +1,7 @@
 {
   "description": "Cold beer. Hot wings. Great rock. This is your game day soundtrack.",
-  "name": "Beer & Wings",
-  "num_followers": 492167,
+  "num_followers": 492183,
+  "original_name": "Beer & Wings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1557,5 +1557,6 @@
       "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
     }
   ],
+  "unique_name": "Beer & Wings",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXauOWFg72pbl"
 }

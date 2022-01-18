@@ -1,7 +1,7 @@
 {
   "description": "The essential works of Franz Schubert.",
-  "name": "This Is Schubert",
-  "num_followers": 83272,
+  "num_followers": 83274,
+  "original_name": "This Is Schubert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1545,5 +1545,6 @@
       "url": "https://open.spotify.com/track/3Kl3KMDm4W0lbm4XJYy6Zy"
     }
   ],
+  "unique_name": "This Is Schubert",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY3VlkBR4Jhb"
 }

@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Pop Culture",
   "num_followers": 41,
+  "original_name": "Top Picks Pop Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -357,5 +357,6 @@
       "url": "https://open.spotify.com/track/2o660Ri2wTg7Rv6cKbFBCe"
     }
   ],
+  "unique_name": "Top Picks Pop Culture",
   "url": "https://open.spotify.com/playlist/5QZZbWjNVjynssxTuO3f0f"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Ten hours of ultimate jams \u2014all long, all live.",
-  "name": "Ultimate Live Jams",
   "num_followers": 113,
+  "original_name": "Ultimate Live Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -705,5 +705,6 @@
       "url": "https://open.spotify.com/track/4w5G2CRpsv14IcRfYxPw5e"
     }
   ],
+  "unique_name": "Ultimate Live Jams",
   "url": "https://open.spotify.com/playlist/5bjjHyKeiGnYdupfr3UUCW"
 }

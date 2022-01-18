@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX238lkgUuFzI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX238lkgUuFzI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX238lkgUuFzI)
 
-### misfits 2.0 presents..\. Best of 2021
+### [misfits 2.0 presents..\. Best of 2021](https://open.spotify.com/playlist/1SAU5RhpSqUWVCaX01XWdm)
 
 > the best of what landed on planet misfits in 2021\. Cover: Ashnikko
 

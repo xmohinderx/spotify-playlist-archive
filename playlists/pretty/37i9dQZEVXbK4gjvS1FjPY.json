@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Singapore.",
-  "name": "Top 50 - Singapore",
-  "num_followers": 125337,
+  "num_followers": 125333,
+  "original_name": "Top 50 - Singapore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -885,5 +885,6 @@
       "url": "https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b"
     }
   ],
+  "unique_name": "Top 50 - Singapore",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbK4gjvS1FjPY"
 }

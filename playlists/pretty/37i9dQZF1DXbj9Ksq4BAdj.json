@@ -1,7 +1,7 @@
 {
   "description": "The best of Metallica, all in one playlist.",
-  "name": "This Is Metallica",
   "num_followers": 1479613,
+  "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -809,5 +809,6 @@
       "url": "https://open.spotify.com/track/5iLhIpIgGZxI7kjgj9807I"
     }
   ],
+  "unique_name": "This Is Metallica",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbj9Ksq4BAdj"
 }

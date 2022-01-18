@@ -1,7 +1,7 @@
 {
   "description": "The essential Ryan Adams, all in one place.",
-  "name": "This Is Ryan Adams (2)",
   "num_followers": 36988,
+  "original_name": "This Is Ryan Adams (2)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -921,5 +921,6 @@
       "url": "https://open.spotify.com/track/2KcJilosB6XbFg2jr6bdcd"
     }
   ],
+  "unique_name": "This Is Ryan Adams (2)",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdXKIWnpyigm"
 }

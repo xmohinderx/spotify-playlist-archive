@@ -1,7 +1,7 @@
 {
   "description": "Todo lo nuevo y lo esencial de El Alfa.",
-  "name": "This Is El Alfa",
   "num_followers": 156515,
+  "original_name": "This Is El Alfa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -2401,5 +2401,6 @@
       "url": "https://open.spotify.com/track/1StjQHjCyI6xmC0Mihqmkl"
     }
   ],
+  "unique_name": "This Is El Alfa",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYl3xONiBhif"
 }

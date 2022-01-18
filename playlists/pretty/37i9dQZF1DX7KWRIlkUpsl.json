@@ -1,7 +1,7 @@
 {
   "description": "From Songs About Jane to JORDI, find their latest releases here!",
-  "name": "This Is Maroon 5",
-  "num_followers": 1815913,
+  "num_followers": 1816013,
+  "original_name": "This Is Maroon 5",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -897,5 +897,6 @@
       "url": "https://open.spotify.com/track/2TRuBFYZYw0Q7qIVBhqR1T"
     }
   ],
+  "unique_name": "This Is Maroon 5",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7KWRIlkUpsl"
 }

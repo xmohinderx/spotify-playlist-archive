@@ -1,7 +1,7 @@
 {
   "description": "Check out the essential tracks by Volbeat.",
-  "name": "This Is Volbeat",
   "num_followers": 298263,
+  "original_name": "This Is Volbeat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -893,5 +893,6 @@
       "url": "https://open.spotify.com/track/42DF4fBoaHjRa9VAztSr1f"
     }
   ],
+  "unique_name": "This Is Volbeat",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYrXu9rm1zUZ"
 }

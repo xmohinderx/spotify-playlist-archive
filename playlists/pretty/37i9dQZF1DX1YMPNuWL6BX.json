@@ -1,7 +1,7 @@
 {
   "description": "Ring in 2022 with your favorite party tracks!",
-  "name": "New Years 2022",
-  "num_followers": 415609,
+  "num_followers": 415600,
+  "original_name": "New Years 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1821,5 +1821,6 @@
       "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
     }
   ],
+  "unique_name": "New Years 2022",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1YMPNuWL6BX"
 }

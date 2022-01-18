@@ -1,7 +1,7 @@
 {
   "description": "First Aid Kit. The essential tracks, all in one playlist.",
-  "name": "This Is First Aid Kit",
   "num_followers": 101002,
+  "original_name": "This Is First Aid Kit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -905,5 +905,6 @@
       "url": "https://open.spotify.com/track/3TLcZQUrr2CR1NUiRj7soP"
     }
   ],
+  "unique_name": "This Is First Aid Kit",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSMzsi7xJUqJ"
 }

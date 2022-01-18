@@ -1,7 +1,7 @@
 {
   "description": "An introduction to <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWXXW8bE6k5tq\">John Williams'</a> soundtracks.",
-  "name": "This Is: John Williams",
   "num_followers": 183257,
+  "original_name": "This Is: John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1025,5 +1025,6 @@
       "url": "https://open.spotify.com/track/594R8nKEl2Rr5cuVGsU8EO"
     }
   ],
+  "unique_name": "This Is: John Williams",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSQeR9oTmnyj"
 }

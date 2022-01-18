@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Party",
   "num_followers": 78,
+  "original_name": "Top Picks Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -381,5 +381,6 @@
       "url": "https://open.spotify.com/track/2d6MFEO69kPWRAAPOzpyz2"
     }
   ],
+  "unique_name": "Top Picks Party",
   "url": "https://open.spotify.com/playlist/2WIkzIBRwM9wRD9innJ8b7"
 }

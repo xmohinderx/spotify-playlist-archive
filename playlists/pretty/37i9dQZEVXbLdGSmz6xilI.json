@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Vietnam.",
-  "name": "Top 50 - Vietnam",
-  "num_followers": 68555,
+  "num_followers": 68554,
+  "original_name": "Top 50 - Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -905,5 +905,6 @@
       "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
     }
   ],
+  "unique_name": "Top 50 - Vietnam",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLdGSmz6xilI"
 }

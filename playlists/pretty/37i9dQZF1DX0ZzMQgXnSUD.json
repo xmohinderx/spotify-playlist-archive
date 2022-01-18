@@ -1,7 +1,7 @@
 {
   "description": "\"Bond... James Bond.\" Cover: <a href=\"spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH\">Billie Eilish</a>",
-  "name": "Best of Bond",
-  "num_followers": 54272,
+  "num_followers": 54275,
+  "original_name": "Best of Bond",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -501,5 +501,6 @@
       "url": "https://open.spotify.com/track/3fmYId4SqzuLFQkCXPRWjg"
     }
   ],
+  "unique_name": "Best of Bond",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0ZzMQgXnSUD"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Lounge around without a care in the world...",
-  "name": "Lazy Afternoon",
   "num_followers": 832,
+  "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -637,5 +637,6 @@
       "url": "https://open.spotify.com/track/1xrJuKS9ntH1XMLagfwnqw"
     }
   ],
+  "unique_name": "Lazy Afternoon",
   "url": "https://open.spotify.com/playlist/6QAwHYtCdTdrgX6wh1iE9H"
 }

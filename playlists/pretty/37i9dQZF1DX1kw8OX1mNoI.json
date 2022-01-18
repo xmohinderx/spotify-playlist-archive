@@ -1,7 +1,7 @@
 {
   "description": "This is Johnny Cash. The essential tracks, all in one playlist.",
-  "name": "This Is:  Johnny Cash",
   "num_followers": 602402,
+  "original_name": "This Is:  Johnny Cash",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1241,5 +1241,6 @@
       "url": "https://open.spotify.com/track/1p1lr7yRQRywMSj3isYGmS"
     }
   ],
+  "unique_name": "This Is:  Johnny Cash",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1kw8OX1mNoI"
 }

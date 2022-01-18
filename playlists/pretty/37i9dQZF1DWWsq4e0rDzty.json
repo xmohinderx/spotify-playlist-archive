@@ -1,7 +1,7 @@
 {
   "description": "For an education in rock.",
-  "name": "Rock School",
-  "num_followers": 157735,
+  "num_followers": 157771,
+  "original_name": "Rock School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1613,5 +1613,6 @@
       "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
     }
   ],
+  "unique_name": "Rock School",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWsq4e0rDzty"
 }

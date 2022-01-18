@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "LSP",
   "num_followers": 208,
+  "original_name": "LSP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -3357,5 +3357,6 @@
       "url": "https://open.spotify.com/track/3ZidDfI1V127vhYngBhUj0"
     }
   ],
+  "unique_name": "LSP",
   "url": "https://open.spotify.com/playlist/6cSrBkF4TPHetlU033IopA"
 }

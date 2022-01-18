@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Egypt.",
-  "name": "Top 50 - Egypt",
-  "num_followers": 6375,
+  "num_followers": 6376,
+  "original_name": "Top 50 - Egypt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -881,5 +881,6 @@
       "url": "https://open.spotify.com/track/3yCO77szbEBiah3kTM70QM"
     }
   ],
+  "unique_name": "Top 50 - Egypt",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLn7RQmT5Xv2"
 }

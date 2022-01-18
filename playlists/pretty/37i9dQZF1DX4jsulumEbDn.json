@@ -1,7 +1,7 @@
 {
   "description": "The <a href=\"spotify:artist:066X20Nz7iquqkkCW6Jxy6\">band</a>'s greatest hits, including selections from their latest album, american dream.",
-  "name": "This Is LCD Soundsystem",
   "num_followers": 68505,
+  "original_name": "This Is LCD Soundsystem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -377,5 +377,6 @@
       "url": "https://open.spotify.com/track/1C5clIP355I4ujVGQv4UCw"
     }
   ],
+  "unique_name": "This Is LCD Soundsystem",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4jsulumEbDn"
 }

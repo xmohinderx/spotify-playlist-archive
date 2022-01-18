@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Spotify Global Discoveries",
   "num_followers": 401,
+  "original_name": "Spotify Global Discoveries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1709,5 +1709,6 @@
       "url": "https://open.spotify.com/track/2O5l71UYlE1fpfllWqaA9L"
     }
   ],
+  "unique_name": "Spotify Global Discoveries",
   "url": "https://open.spotify.com/playlist/0aArwHugPhiiuaL8KxyVXQ"
 }

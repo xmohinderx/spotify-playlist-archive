@@ -1,7 +1,7 @@
 {
   "description": "All of the classics songs, all in one place.",
-  "name": "This Is NOFX",
   "num_followers": 70982,
+  "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -845,5 +845,6 @@
       "url": "https://open.spotify.com/track/3V5YvDJvJYLrjzuzl23dC9"
     }
   ],
+  "unique_name": "This Is NOFX",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6KE9M7aTCxK"
 }

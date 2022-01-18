@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Club",
   "num_followers": 63,
+  "original_name": "Top Picks Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -377,5 +377,6 @@
       "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     }
   ],
+  "unique_name": "Top Picks Club",
   "url": "https://open.spotify.com/playlist/285xVjuyHG2CusStdc8kCS"
 }

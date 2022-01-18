@@ -1,7 +1,7 @@
 {
   "description": "Katy Perry all day. All the hits and more.",
-  "name": "This Is Katy Perry (2)",
   "num_followers": 988775,
+  "original_name": "This Is Katy Perry (2)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -945,5 +945,6 @@
       "url": "https://open.spotify.com/track/2IRK3qdY6BzbKxKr8eBk8o"
     }
   ],
+  "unique_name": "This Is Katy Perry (2)",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2jD2cAwnIit"
 }

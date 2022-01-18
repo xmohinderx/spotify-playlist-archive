@@ -1,7 +1,7 @@
 {
   "description": "A selection of classic short stories and literature by women.",
-  "name": "Women's Lit",
-  "num_followers": 51876,
+  "num_followers": 51877,
+  "original_name": "Women's Lit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -649,5 +649,6 @@
       "url": "https://open.spotify.com/track/1pqT8L4vh7S42CrhaerANp"
     }
   ],
+  "unique_name": "Women's Lit",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5nERjWj1zmg"
 }

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Mat Kearney, Penny and Sparrow, Local Natives and more
+> With John Mayer, Blake Rose, Penny and Sparrow, Lake Street Dive and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 736 likes - 50 songs - 3 hr 12 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 | 49 | [Things You Can't Change](https://open.spotify.com/track/1PyBjO06OZIPO67tMLlpha) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:19 |
 | 50 | [Conversations in the Dark](https://open.spotify.com/track/0QjQC8sGqxUkaJFBsJjtGm) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:55 |
 
-Snapshot ID: `MTY0MjQ2NzAxNSwwMDAwMDAwMGQ3MTNhNzBiZDNhMzdjOWRlMjkzZDI4Y2ZjNWFjNjcx`
+Snapshot ID: `MTY0MjQ3OTQ2MSwwMDAwMDAwMGQ3MTNhNzBiZDNhMzdjOWRlMjkzZDI4Y2ZjNWFjNjcx`

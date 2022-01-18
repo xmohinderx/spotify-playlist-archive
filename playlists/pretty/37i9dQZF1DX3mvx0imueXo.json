@@ -1,7 +1,7 @@
 {
   "description": "Let the music lift your soul. Vibes from the different islands in the Caribbean",
-  "name": "Island Reggae",
-  "num_followers": 366477,
+  "num_followers": 366489,
+  "original_name": "Island Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1025,5 +1025,6 @@
       "url": "https://open.spotify.com/track/0GMzxdm0Pc3lU14JmDlxN8"
     }
   ],
+  "unique_name": "Island Reggae",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3mvx0imueXo"
 }

@@ -1,7 +1,7 @@
 {
   "description": "An essential list of classics from one of the great singer-songwriters of our time.",
-  "name": "This Is Paul Simon",
   "num_followers": 127506,
+  "original_name": "This Is Paul Simon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -697,5 +697,6 @@
       "url": "https://open.spotify.com/track/23rJDAe2pzvydRAo3HA7Hg"
     }
   ],
+  "unique_name": "This Is Paul Simon",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXEb535ZGeRC"
 }

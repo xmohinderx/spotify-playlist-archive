@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Top Picks Mood",
   "num_followers": 41,
+  "original_name": "Top Picks Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -329,5 +329,6 @@
       "url": "https://open.spotify.com/track/6knYNyQupBIbBxV8TMOMYM"
     }
   ],
+  "unique_name": "Top Picks Mood",
   "url": "https://open.spotify.com/playlist/1EQVvrXxgoWdqUHni1LOgm"
 }

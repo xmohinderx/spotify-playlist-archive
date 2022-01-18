@@ -1,7 +1,7 @@
 {
   "description": "Experience the beloved classics of Charles Dickens.",
-  "name": "Charles Dickens' Classics",
   "num_followers": 16389,
+  "original_name": "Charles Dickens' Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1117,5 +1117,6 @@
       "url": "https://open.spotify.com/track/06GMNUdV5usErFoFMU1C8Q"
     }
   ],
+  "unique_name": "Charles Dickens' Classics",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3pCvCNjYFEt"
 }

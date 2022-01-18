@@ -1,7 +1,7 @@
 {
   "description": "The essential tracks, all in one playlist.",
-  "name": "This Is Michael Bubl\u00e9",
   "num_followers": 807809,
+  "original_name": "This Is Michael Bubl\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -849,5 +849,6 @@
       "url": "https://open.spotify.com/track/5cEap0vG6Dc6TJDN77cyF9"
     }
   ],
+  "unique_name": "This Is Michael Bubl\u00e9",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5kVmFQxhnLW"
 }

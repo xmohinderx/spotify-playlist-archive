@@ -1,7 +1,7 @@
 {
   "description": "100+ of the happiest songs of all time. Come on, Get Happy!",
-  "name": "Get Happy!",
   "num_followers": 644,
+  "original_name": "Get Happy!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1733,5 +1733,6 @@
       "url": "https://open.spotify.com/track/7ePFDzrnLt3Ynqgy2UFWri"
     }
   ],
+  "unique_name": "Get Happy!",
   "url": "https://open.spotify.com/playlist/4Buj61XKuhfVLsW8rPX8YQ"
 }

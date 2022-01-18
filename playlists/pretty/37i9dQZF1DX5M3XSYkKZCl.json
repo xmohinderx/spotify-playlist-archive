@@ -1,7 +1,7 @@
 {
   "description": "An introduction to Luciano Pavarotti, whose brilliant sound set the standard for operatic singing in the modern era. ",
-  "name": "This Is: Pavarotti",
-  "num_followers": 126976,
+  "num_followers": 126990,
+  "original_name": "This Is: Pavarotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1517,5 +1517,6 @@
       "url": "https://open.spotify.com/track/6WqCGiMD1cfQHedbQUUPwg"
     }
   ],
+  "unique_name": "This Is: Pavarotti",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5M3XSYkKZCl"
 }

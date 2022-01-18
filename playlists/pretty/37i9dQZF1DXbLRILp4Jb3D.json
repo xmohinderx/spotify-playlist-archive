@@ -1,12 +1,12 @@
 {
   "description": "Dulces canciones para disfrutar con tus beb\u00e9s.",
-  "name": "Leche con Chocolate",
-  "num_followers": 117750,
+  "num_followers": 117759,
+  "original_name": "Leche con Chocolate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2NjkzNiwwMDAwMDAwMGI2NGNjMTg5OTFiZTA1ZjM2YjkwZWQyMWIwNzIyMzMw",
+  "snapshot_id": "MTY0MjQ3OTM2OSwwMDAwMDAwMDE5ODU2NjI1YTk0YWEyZGNiOTJhYmI1NDU5ODczMDk1",
   "tracks": [
     {
       "added_at": "2020-07-16 23:31:15",
@@ -35,22 +35,6 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Nada en Su Lugar",
-        "url": "https://open.spotify.com/album/1X0J6enanArUKaI6uH3fuJ"
-      },
-      "artists": [
-        {
-          "name": "Canticu\u00e9nticos",
-          "url": "https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Cumbia del Monstruo",
-      "url": "https://open.spotify.com/track/3XRSw1WELRPB3yJV9NtN0U"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
         "name": "Buenos D\u00edas Se\u00f1or Sol",
         "url": "https://open.spotify.com/album/24HuJNzk4nHDvGhJ5nANUQ"
       },
@@ -67,18 +51,102 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "We Love Disney (Latino)",
-        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+        "name": "Nada en Su Lugar",
+        "url": "https://open.spotify.com/album/1X0J6enanArUKaI6uH3fuJ"
       },
       "artists": [
         {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+          "name": "Canticu\u00e9nticos",
+          "url": "https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Un Mundo Ideal",
-      "url": "https://open.spotify.com/track/374W2LUkFHs3WIRoRaskWi"
+      "duration_ms": 207133,
+      "name": "Cumbia del Monstruo",
+      "url": "https://open.spotify.com/track/3XRSw1WELRPB3yJV9NtN0U"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 291000,
+      "name": "No Importa la Distancia (Go the Distance)",
+      "url": "https://open.spotify.com/track/4QKkCh2wn5iTdws70W9XaR"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Tu Guardi\u00e1n",
+      "url": "https://open.spotify.com/track/724ixTDFsgRWkhiwQHgtS1"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Mariposa Azul",
+        "url": "https://open.spotify.com/album/5REwUP5ZEXTLMwxDikUmly"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 264424,
+      "name": "Estrellita Viajera",
+      "url": "https://open.spotify.com/track/3HqhXRvZ82kJwAjuc36Vcp"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Bob Marley For Babies",
+        "url": "https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr"
+      },
+      "artists": [
+        {
+          "name": "Sweet Little Band",
+          "url": "https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy"
+        }
+      ],
+      "duration_ms": 161172,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/1C3myqXSGq5ulhe1eqGsiB"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "El Ciclo Sin Fin",
+        "url": "https://open.spotify.com/album/6LFMHq2OerUb17FRbDenAD"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 245946,
+      "name": "El Ciclo Sin Fin",
+      "url": "https://open.spotify.com/track/0DRYjkzPqeVX2gYBFeMmxq"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -115,6 +183,22 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
+        "name": "En Vivo - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "Chuchuw\u00e1 - Remasterizado 2016",
+      "url": "https://open.spotify.com/track/2IpvzISpbaoqTErnNGS4ec"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
         "name": "Buenas Noches Mi Sol",
         "url": "https://open.spotify.com/album/14I0lzuMWY6oV8be0n16Jm"
       },
@@ -131,22 +215,6 @@
       "duration_ms": 162973,
       "name": "Canci\u00f3n de Cuna",
       "url": "https://open.spotify.com/track/7douQtrRKnSyVPVFqNOJJL"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Bob Marley For Babies",
-        "url": "https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr"
-      },
-      "artists": [
-        {
-          "name": "Sweet Little Band",
-          "url": "https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy"
-        }
-      ],
-      "duration_ms": 187652,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/1THS6PJOgGmjoL9ynjyHXH"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -171,6 +239,26 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
+        "name": "Nube de Algod\u00f3n",
+        "url": "https://open.spotify.com/album/3jN0mCiud1s0mQ46aj2Yom"
+      },
+      "artists": [
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        },
+        {
+          "name": "CACUCA",
+          "url": "https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "Nube de Algod\u00f3n",
+      "url": "https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
         "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
         "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
       },
@@ -183,22 +271,6 @@
       "duration_ms": 163786,
       "name": "La Merienda - Remasterizado",
       "url": "https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 265533,
-      "name": "Tu Guardi\u00e1n",
-      "url": "https://open.spotify.com/track/724ixTDFsgRWkhiwQHgtS1"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -219,78 +291,6 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Rodrigo Amarante",
-          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "Azul (with Rodrigo Amarante)",
-      "url": "https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 291000,
-      "name": "No Importa la Distancia (Go the Distance)",
-      "url": "https://open.spotify.com/track/4QKkCh2wn5iTdws70W9XaR"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "El Ciclo Sin Fin",
-        "url": "https://open.spotify.com/album/6LFMHq2OerUb17FRbDenAD"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 245946,
-      "name": "El Ciclo Sin Fin",
-      "url": "https://open.spotify.com/track/0DRYjkzPqeVX2gYBFeMmxq"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Bob Marley For Babies",
-        "url": "https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr"
-      },
-      "artists": [
-        {
-          "name": "Sweet Little Band",
-          "url": "https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy"
-        }
-      ],
-      "duration_ms": 161172,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/1C3myqXSGq5ulhe1eqGsiB"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
         "name": "Hermanos Rigual (Cuando Calienta el Sol)",
         "url": "https://open.spotify.com/album/3LxaFScf42WT4Pw1eWOwNa"
       },
@@ -303,6 +303,38 @@
       "duration_ms": 142986,
       "name": "El Le\u00f3n Duerme esta Noche (The Lion Sleeps Tonight)",
       "url": "https://open.spotify.com/track/1k1347MCMjIoFuRSV3rkiK"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "We Love Disney (Latino)",
+        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Un Mundo Ideal",
+      "url": "https://open.spotify.com/track/374W2LUkFHs3WIRoRaskWi"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Postales",
+        "url": "https://open.spotify.com/album/7dyAMfOtDFmmjGCOMNJGQL"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 230008,
+      "name": "Luz y Sombra",
+      "url": "https://open.spotify.com/track/3va2SowjH83eDOkzYsnKbw"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -323,70 +355,18 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "En Vivo - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs"
+        "name": "Bob Marley For Babies",
+        "url": "https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr"
       },
       "artists": [
         {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+          "name": "Sweet Little Band",
+          "url": "https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy"
         }
       ],
-      "duration_ms": 178780,
-      "name": "Chuchuw\u00e1 - Remasterizado 2016",
-      "url": "https://open.spotify.com/track/2IpvzISpbaoqTErnNGS4ec"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 364573,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/5I1B7QAifCIE2yQVGz7NLb"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Ag\u00fcita de Lim\u00f3n Con Ch\u00eda",
-        "url": "https://open.spotify.com/album/5hd7XnjV5mYGkZZlMFrpWx"
-      },
-      "artists": [
-        {
-          "name": "Mariana Mallol",
-          "url": "https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg"
-        },
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 154640,
-      "name": "Sin Miedo",
-      "url": "https://open.spotify.com/track/3pKJorxzBf2Mad3wfm8iGY"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Marc Anthony For Babies",
-        "url": "https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony For Babies",
-          "url": "https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA"
-        }
-      ],
-      "duration_ms": 292440,
-      "name": "Tu Amor Me Hace Bien",
-      "url": "https://open.spotify.com/track/0emtVBWAk55CUfzJQ5MWRE"
+      "duration_ms": 223477,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/6EeYBu8RautSHkqJeWgKff"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -411,22 +391,6 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Mariposa Azul",
-        "url": "https://open.spotify.com/album/5REwUP5ZEXTLMwxDikUmly"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 264424,
-      "name": "Estrellita Viajera",
-      "url": "https://open.spotify.com/track/3HqhXRvZ82kJwAjuc36Vcp"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
         "name": "Andrea Echeverri",
         "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
       },
@@ -443,38 +407,42 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Nube de Algod\u00f3n",
-        "url": "https://open.spotify.com/album/3jN0mCiud1s0mQ46aj2Yom"
+        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
       "artists": [
         {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         },
         {
-          "name": "CACUCA",
-          "url": "https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe"
+          "name": "Rodrigo Amarante",
+          "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
         }
       ],
-      "duration_ms": 136826,
-      "name": "Nube de Algod\u00f3n",
-      "url": "https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP"
+      "duration_ms": 291000,
+      "name": "Azul (with Rodrigo Amarante)",
+      "url": "https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH"
     },
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "El Ni\u00f1o Robot",
-        "url": "https://open.spotify.com/album/2jRAVcRsU8Z5QHuH3sJgo4"
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
       "artists": [
         {
-          "name": "Los Hermanos Rincon",
-          "url": "https://open.spotify.com/artist/54nUT6aFw4BREEh8vutdK2"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 151626,
-      "name": "El Nino Robot",
-      "url": "https://open.spotify.com/track/4inKpFJUU3iES0WwU0zGIN"
+      "duration_ms": 192746,
+      "name": "Un besito m\u00e1s (feat. Juan Luis Guerra)",
+      "url": "https://open.spotify.com/track/1182pxG4uNxr3QqIH8b8k0"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -488,9 +456,25 @@
           "url": "https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA"
         }
       ],
-      "duration_ms": 275106,
-      "name": "No Me Ames",
-      "url": "https://open.spotify.com/track/4hhbhZfhwynwUG6ByqcoE6"
+      "duration_ms": 191253,
+      "name": "La Gozadera",
+      "url": "https://open.spotify.com/track/2KGpCouUk6W0t0c6428Sd3"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 364573,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/5I1B7QAifCIE2yQVGz7NLb"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -513,21 +497,38 @@
       "url": "https://open.spotify.com/track/4dJEKzBZLrdF7dzeixyrIF"
     },
     {
-      "added_at": "2021-07-30 15:02:38",
+      "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Nana Boruca",
-        "url": "https://open.spotify.com/album/2hnrMIBi0zullEG1TYCZEJ"
+        "name": "Conciencia Musical para Ni\u00f1os",
+        "url": "https://open.spotify.com/album/6ufal3clyi5V10KiAqFmTe"
       },
       "artists": [
         {
-          "name": "Mariana Baggio",
-          "url": "https://open.spotify.com/artist/72l6wuv5Ic1Lm9yAMayCKx"
+          "name": "Ola Maya",
+          "url": "https://open.spotify.com/artist/2AOTBXCsmvLVnt3KwTFlrF"
         }
       ],
-      "duration_ms": 101520,
-      "name": "Nana Boruca",
-      "url": "https://open.spotify.com/track/3buxz8sFvbMoQdX5tQuBcz"
+      "duration_ms": 121813,
+      "name": "En la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/6tmCiEf2w2Dz4vsDIoQRKX"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Bob Marley For Babies",
+        "url": "https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr"
+      },
+      "artists": [
+        {
+          "name": "Sweet Little Band",
+          "url": "https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy"
+        }
+      ],
+      "duration_ms": 187652,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/1THS6PJOgGmjoL9ynjyHXH"
     }
   ],
+  "unique_name": "Leche con Chocolate",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbLRILp4Jb3D"
 }

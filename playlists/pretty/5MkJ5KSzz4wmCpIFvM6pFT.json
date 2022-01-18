@@ -1,7 +1,7 @@
 {
   "description": "Missa inte Johnossi p\u00e5 Flamingo-scenen p\u00e5 TORSDAG / 18.45",
-  "name": "Johnossi",
   "num_followers": 30,
+  "original_name": "Johnossi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -169,5 +169,6 @@
       "url": "https://open.spotify.com/track/4WWuQjTD97O08zmjwH5IXp"
     }
   ],
+  "unique_name": "Johnossi",
   "url": "https://open.spotify.com/playlist/5MkJ5KSzz4wmCpIFvM6pFT"
 }

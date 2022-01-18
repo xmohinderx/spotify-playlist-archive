@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "name": "Top 50 - Norway",
-  "num_followers": 486300,
+  "num_followers": 486299,
+  "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -961,5 +961,6 @@
       "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
     }
   ],
+  "unique_name": "Top 50 - Norway",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJvfa0Yxg7E7"
 }

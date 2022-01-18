@@ -1,7 +1,7 @@
 {
   "description": "Your essential Jack Johnson, all in one playlist.",
-  "name": "This Is Jack Johnson",
   "num_followers": 633099,
+  "original_name": "This Is Jack Johnson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1145,5 +1145,6 @@
       "url": "https://open.spotify.com/track/6ga7OkVgr9g1qxxdsTOQvc"
     }
   ],
+  "unique_name": "This Is Jack Johnson",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXe1eE6Gj3EKS"
 }

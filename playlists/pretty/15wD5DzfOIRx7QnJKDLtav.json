@@ -1,7 +1,7 @@
 {
   "description": "Your guide to what's hot in Austin, TX during South By Southwest 2017. Cover: <a href=\"spotify:artist:4NZvixzsSefsNiIqXn0NDe\">Maggie Rogers</a>.",
-  "name": "Austin Pops",
   "num_followers": 3204,
+  "original_name": "Austin Pops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1069,5 +1069,6 @@
       "url": "https://open.spotify.com/track/6NOq79ynBpBi6BSJMdgReN"
     }
   ],
+  "unique_name": "Austin Pops",
   "url": "https://open.spotify.com/playlist/15wD5DzfOIRx7QnJKDLtav"
 }

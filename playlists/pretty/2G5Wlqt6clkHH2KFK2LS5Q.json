@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Happy Birthday George!",
   "num_followers": 158,
+  "original_name": "Happy Birthday George!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -397,5 +397,6 @@
       "url": "https://open.spotify.com/track/56wGOS3UEO4L5cucWOhWHh"
     }
   ],
+  "unique_name": "Happy Birthday George!",
   "url": "https://open.spotify.com/playlist/2G5Wlqt6clkHH2KFK2LS5Q"
 }

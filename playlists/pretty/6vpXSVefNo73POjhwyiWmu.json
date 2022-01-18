@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Remembering 2Pac",
   "num_followers": 949,
+  "original_name": "Remembering 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -749,5 +749,6 @@
       "url": "https://open.spotify.com/track/3A0R2q4U2Z8IEts6IwjSmi"
     }
   ],
+  "unique_name": "Remembering 2Pac",
   "url": "https://open.spotify.com/playlist/6vpXSVefNo73POjhwyiWmu"
 }

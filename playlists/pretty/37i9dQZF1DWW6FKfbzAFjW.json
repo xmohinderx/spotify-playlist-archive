@@ -1,7 +1,7 @@
 {
   "description": "Feel-good tunes for your Cinco de Mayo. \u00a1Salud!",
-  "name": "Cinco de Mayo",
   "num_followers": 34611,
+  "original_name": "Cinco de Mayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -753,5 +753,6 @@
       "url": "https://open.spotify.com/track/2fmMPJb5EzZCx8BcNJvVk4"
     }
   ],
+  "unique_name": "Cinco de Mayo",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWW6FKfbzAFjW"
 }

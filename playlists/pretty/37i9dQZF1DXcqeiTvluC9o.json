@@ -1,7 +1,7 @@
 {
   "description": "There's nothing better than Country Music and Small Town livin'!",
-  "name": "Country Music 101:  Welcome to Hicktown",
-  "num_followers": 12123,
+  "num_followers": 12124,
+  "original_name": "Country Music 101:  Welcome to Hicktown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1229,5 +1229,6 @@
       "url": "https://open.spotify.com/track/2HsjJJL4DhPCzMlnaGv7ap"
     }
   ],
+  "unique_name": "Country Music 101:  Welcome to Hicktown",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcqeiTvluC9o"
 }

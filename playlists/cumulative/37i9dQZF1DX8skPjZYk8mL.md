@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8skPjZYk8mL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8skPjZYk8mL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8skPjZYk8mL)
 
-### Sweet Lullabies
+### [Sweet Lullabies](https://open.spotify.com/playlist/4brsiVrRqupTtRCpganxxP)
 
 > Soft instrumental lullabies for the little ones.
 

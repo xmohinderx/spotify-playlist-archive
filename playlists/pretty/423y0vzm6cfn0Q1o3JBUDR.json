@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Marie - Sassy",
   "num_followers": 135,
+  "original_name": "Marie - Sassy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -501,5 +501,6 @@
       "url": "https://open.spotify.com/track/1mJ05BN0So26a14iib85aI"
     }
   ],
+  "unique_name": "Marie - Sassy",
   "url": "https://open.spotify.com/playlist/423y0vzm6cfn0Q1o3JBUDR"
 }

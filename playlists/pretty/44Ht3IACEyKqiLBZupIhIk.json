@@ -1,7 +1,7 @@
 {
   "description": "Sweet and slow, soft and soothing... a collection of beautiful bluegrass vocals.",
-  "name": "Sweetgrass",
   "num_followers": 218,
+  "original_name": "Sweetgrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -489,5 +489,6 @@
       "url": "https://open.spotify.com/track/26wNjnmHPKFEGVYxaCxNL2"
     }
   ],
+  "unique_name": "Sweetgrass",
   "url": "https://open.spotify.com/playlist/44Ht3IACEyKqiLBZupIhIk"
 }

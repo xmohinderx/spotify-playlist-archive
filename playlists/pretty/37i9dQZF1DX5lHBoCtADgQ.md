@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,625 likes - 43 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,626 likes - 43 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

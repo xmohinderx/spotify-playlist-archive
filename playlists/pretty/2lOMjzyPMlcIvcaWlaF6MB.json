@@ -1,7 +1,7 @@
 {
   "description": "Transport yourself to the \"Mother Church of Country Music\" with these live cuts from the Ryman.",
-  "name": "Historic Venue: Ryman Auditorium",
   "num_followers": 254,
+  "original_name": "Historic Venue: Ryman Auditorium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -429,5 +429,6 @@
       "url": "https://open.spotify.com/track/0vykpAq2QuuFMzIr776Cno"
     }
   ],
+  "unique_name": "Historic Venue: Ryman Auditorium",
   "url": "https://open.spotify.com/playlist/2lOMjzyPMlcIvcaWlaF6MB"
 }

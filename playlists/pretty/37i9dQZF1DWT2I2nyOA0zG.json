@@ -1,7 +1,7 @@
 {
   "description": "Cool vibes from the African continent.",
-  "name": "Afrocentric",
   "num_followers": 12546,
+  "original_name": "Afrocentric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1125,5 +1125,6 @@
       "url": "https://open.spotify.com/track/7Ewd1NIKEKM1VokE0QeraM"
     }
   ],
+  "unique_name": "Afrocentric",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT2I2nyOA0zG"
 }

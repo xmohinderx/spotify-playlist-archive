@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW1XLSH8Oafp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW1XLSH8Oafp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW1XLSH8Oafp)
 
-### planet rave
+### [planet rave](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 > ur on the list bb 🪐
 

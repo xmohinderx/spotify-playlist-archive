@@ -1,7 +1,7 @@
 {
   "description": "In memory of the South African jazz pioneer (1939\u20132018).",
-  "name": "This Is Hugh Masekela",
   "num_followers": 11233,
+  "original_name": "This Is Hugh Masekela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -625,5 +625,6 @@
       "url": "https://open.spotify.com/track/6pho1AoUYje8KbVbUc2R1Q"
     }
   ],
+  "unique_name": "This Is Hugh Masekela",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0do1Z6kTyyR"
 }

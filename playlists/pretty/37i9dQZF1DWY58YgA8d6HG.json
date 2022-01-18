@@ -1,7 +1,7 @@
 {
   "description": "Celebrate music's biggest awards show with all the ultimate performances.",
-  "name": "Ultimate Performances",
   "num_followers": 6177,
+  "original_name": "Ultimate Performances",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -709,5 +709,6 @@
       "url": "https://open.spotify.com/track/7uoQRNx100em2FLLxnqym0"
     }
   ],
+  "unique_name": "Ultimate Performances",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWY58YgA8d6HG"
 }

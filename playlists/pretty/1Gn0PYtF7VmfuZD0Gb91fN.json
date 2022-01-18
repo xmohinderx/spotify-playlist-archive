@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "2006",
   "num_followers": 881,
+  "original_name": "2006",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -885,5 +885,6 @@
       "url": "https://open.spotify.com/track/4eHMRKYFZvDyznWMoToX2J"
     }
   ],
+  "unique_name": "2006",
   "url": "https://open.spotify.com/playlist/1Gn0PYtF7VmfuZD0Gb91fN"
 }

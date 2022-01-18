@@ -1,7 +1,7 @@
 {
   "description": "Celebrating the music of Aretha Franklin with the songs she inspired.",
-  "name": "Sample School",
-  "num_followers": 152700,
+  "num_followers": 152711,
+  "original_name": "Sample School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -405,5 +405,6 @@
       "url": "https://open.spotify.com/track/0kkb3Cs6V7oUuYuC8eOOC1"
     }
   ],
+  "unique_name": "Sample School",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3KoYiZJ8DD4"
 }

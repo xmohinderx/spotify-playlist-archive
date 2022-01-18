@@ -1,7 +1,7 @@
 {
   "description": "All the essentials, one playlist.",
-  "name": "This Is Brandi Carlile",
   "num_followers": 73680,
+  "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1693,5 +1693,6 @@
       "url": "https://open.spotify.com/track/0NDdsUd1VMbHf9a3Evjihm"
     }
   ],
+  "unique_name": "This Is Brandi Carlile",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5IsxYrftjp3"
 }

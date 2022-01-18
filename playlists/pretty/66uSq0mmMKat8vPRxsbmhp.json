@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Happy Birthday Joe Cocker",
   "num_followers": 205,
+  "original_name": "Happy Birthday Joe Cocker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -169,5 +169,6 @@
       "url": "https://open.spotify.com/track/6eagxZmlPNTHFdmzkppfx7"
     }
   ],
+  "unique_name": "Happy Birthday Joe Cocker",
   "url": "https://open.spotify.com/playlist/66uSq0mmMKat8vPRxsbmhp"
 }

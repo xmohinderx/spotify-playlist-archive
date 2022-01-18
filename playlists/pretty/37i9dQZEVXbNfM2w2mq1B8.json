@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
-  "name": "Top 50 - Bulgaria",
   "num_followers": 9953,
+  "original_name": "Top 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -905,5 +905,6 @@
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
     }
   ],
+  "unique_name": "Top 50 - Bulgaria",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNfM2w2mq1B8"
 }

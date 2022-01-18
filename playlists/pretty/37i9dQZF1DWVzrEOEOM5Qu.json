@@ -1,7 +1,7 @@
 {
   "description": "New and classic Christmas tales for kids.",
-  "name": "Christmas Stories",
   "num_followers": 51555,
+  "original_name": "Christmas Stories",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -465,5 +465,6 @@
       "url": "https://open.spotify.com/track/5P8oxotA95amzBLjcZQzFB"
     }
   ],
+  "unique_name": "Christmas Stories",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVzrEOEOM5Qu"
 }

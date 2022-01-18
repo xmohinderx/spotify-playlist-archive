@@ -1,7 +1,7 @@
 {
   "description": "Music to reduce insomnia and help you relax.",
-  "name": "Sleep Tight",
-  "num_followers": 574566,
+  "num_followers": 574564,
+  "original_name": "Sleep Tight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -3809,5 +3809,6 @@
       "url": "https://open.spotify.com/track/02tUBBShoCFZE2RB1sANKl"
     }
   ],
+  "unique_name": "Sleep Tight",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSUFOo47GEsI"
 }

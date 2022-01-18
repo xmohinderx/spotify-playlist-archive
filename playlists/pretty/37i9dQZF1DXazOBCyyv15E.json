@@ -1,7 +1,7 @@
 {
   "description": "The home of the best new alternative music. Cover: Kae Tempest",
-  "name": "The Other List",
-  "num_followers": 138327,
+  "num_followers": 138336,
+  "original_name": "The Other List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1361,5 +1361,6 @@
       "url": "https://open.spotify.com/track/2DIrNUvNn2bePJptkvUUgi"
     }
   ],
+  "unique_name": "The Other List",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXazOBCyyv15E"
 }

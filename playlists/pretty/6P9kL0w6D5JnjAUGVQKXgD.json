@@ -1,7 +1,7 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki",
-  "name": "EDM Top 100",
   "num_followers": 48549,
+  "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
@@ -2081,5 +2081,6 @@
       "url": "https://open.spotify.com/track/6liZV0Nrz90vVrxuNwKRI4"
     }
   ],
+  "unique_name": "EDM Top 100",
   "url": "https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD"
 }

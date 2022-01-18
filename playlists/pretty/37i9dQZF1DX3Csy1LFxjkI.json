@@ -1,7 +1,7 @@
 {
   "description": "All his biggest hits, all in one place.",
-  "name": "This Is James Arthur",
-  "num_followers": 473871,
+  "num_followers": 473878,
+  "original_name": "This Is James Arthur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -741,5 +741,6 @@
       "url": "https://open.spotify.com/track/6rlgy1boD69A3mcV7VzPRL"
     }
   ],
+  "unique_name": "This Is James Arthur",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Csy1LFxjkI"
 }

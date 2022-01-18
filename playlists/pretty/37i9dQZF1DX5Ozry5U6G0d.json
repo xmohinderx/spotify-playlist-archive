@@ -1,7 +1,7 @@
 {
   "description": "That summer sound.",
-  "name": "Summer Party",
-  "num_followers": 1684287,
+  "num_followers": 1684265,
+  "original_name": "Summer Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -2245,5 +2245,6 @@
       "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
     }
   ],
+  "unique_name": "Summer Party",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Ozry5U6G0d"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Discover hits signed Smokey Robinson that shaped the early sound of Motown.",
-  "name": "Smokey's Songbook",
-  "num_followers": 18862,
+  "num_followers": 18863,
+  "original_name": "Smokey's Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -409,5 +409,6 @@
       "url": "https://open.spotify.com/track/471yG3FpXwgKcbNlblZ1Yt"
     }
   ],
+  "unique_name": "Smokey's Songbook",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6eUekrgxJ8J"
 }

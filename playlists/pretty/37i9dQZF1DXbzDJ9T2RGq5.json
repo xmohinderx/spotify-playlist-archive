@@ -1,7 +1,7 @@
 {
   "description": "Claim your space this Pride in London. Cover: SOPHIE",
-  "name": "PRIDE: London",
-  "num_followers": 9427,
+  "num_followers": 9430,
+  "original_name": "PRIDE: London",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -493,5 +493,6 @@
       "url": "https://open.spotify.com/track/7cBzwYUbsPYQjpdTruTdMW"
     }
   ],
+  "unique_name": "PRIDE: London",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbzDJ9T2RGq5"
 }

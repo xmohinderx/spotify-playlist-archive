@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "Global Music Day",
   "num_followers": 337,
+  "original_name": "Global Music Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1061,5 +1061,6 @@
       "url": "https://open.spotify.com/track/0iI8JdNhkVDmUo7TSP388d"
     }
   ],
+  "unique_name": "Global Music Day",
   "url": "https://open.spotify.com/playlist/2EsohEQHsGn1LWNgOxnuoI"
 }

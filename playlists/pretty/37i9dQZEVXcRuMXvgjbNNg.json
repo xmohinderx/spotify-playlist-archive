@@ -1,12 +1,12 @@
 {
   "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
-  "name": "Discover Weekly (@mackorone)",
   "num_followers": 1,
+  "original_name": "Discover Weekly (@mackorone)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMDc1MDQzOTliYjYwMzVmNTBiYmExZTRiMTViN2JjZTVl",
+  "snapshot_id": "MCwwMDAwMDAwMGI3NzM2Zjg5YjRiYjcyMWI3NzFlMDRjZGExYjFjMmI2",
   "tracks": [
     {
       "added_at": "2022-01-17 05:00:00",
@@ -517,5 +517,6 @@
       "url": "https://open.spotify.com/track/6Jp3Z3rrb2sfZjVmDhD2Jq"
     }
   ],
+  "unique_name": "Discover Weekly (@mackorone)",
   "url": "https://open.spotify.com/playlist/37i9dQZEVXcRuMXvgjbNNg"
 }

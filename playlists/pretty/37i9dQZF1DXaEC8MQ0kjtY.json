@@ -1,7 +1,7 @@
 {
   "description": "Take a look at Australia's future king of Pop.",
-  "name": "This Is: Troye Sivan",
   "num_followers": 364119,
+  "original_name": "This Is: Troye Sivan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -793,5 +793,6 @@
       "url": "https://open.spotify.com/track/5PoWbm2gxIIgg7Ykx9oY8S"
     }
   ],
+  "unique_name": "This Is: Troye Sivan",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaEC8MQ0kjtY"
 }

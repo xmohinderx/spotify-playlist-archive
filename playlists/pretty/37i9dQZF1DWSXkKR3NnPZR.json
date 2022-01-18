@@ -1,7 +1,7 @@
 {
   "description": "Los grandes \u00e9xitos de Luis Miguel y Alejandro Fern\u00e1ndez en un mismo lugar.",
-  "name": "Dos \u00cdconos: Luis Miguel x Alejandro Fern\u00e1ndez",
-  "num_followers": 65505,
+  "num_followers": 65536,
+  "original_name": "Dos \u00cdconos: Luis Miguel x Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -821,5 +821,6 @@
       "url": "https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv"
     }
   ],
+  "unique_name": "Dos \u00cdconos: Luis Miguel x Alejandro Fern\u00e1ndez",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSXkKR3NnPZR"
 }

@@ -1,7 +1,7 @@
 {
   "description": "A rich, mellow blend of hits to see you through your most productive days and cozy nights.",
-  "name": "Barista Blend",
   "num_followers": 108,
+  "original_name": "Barista Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1057,5 +1057,6 @@
       "url": "https://open.spotify.com/track/4gupPromYvaSQaiawbtbgH"
     }
   ],
+  "unique_name": "Barista Blend",
   "url": "https://open.spotify.com/playlist/25zEHXJzEQZU1eyF6eqEzD"
 }

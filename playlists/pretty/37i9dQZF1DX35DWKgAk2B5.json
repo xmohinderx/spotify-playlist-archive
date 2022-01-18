@@ -1,7 +1,7 @@
 {
   "description": "Welcome to Indie Rock Club. Cover: The White Stripes",
-  "name": "Indie Rock Club",
-  "num_followers": 490025,
+  "num_followers": 490074,
+  "original_name": "Indie Rock Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -817,5 +817,6 @@
       "url": "https://open.spotify.com/track/19503qDaxgCdPL2BhJngij"
     }
   ],
+  "unique_name": "Indie Rock Club",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX35DWKgAk2B5"
 }

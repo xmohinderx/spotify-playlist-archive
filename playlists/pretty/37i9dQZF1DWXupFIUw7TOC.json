@@ -1,7 +1,7 @@
 {
   "description": "The best of Oasis, all in one playlist.",
-  "name": "This Is Oasis (2)",
   "num_followers": 782508,
+  "original_name": "This Is Oasis (2)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -809,5 +809,6 @@
       "url": "https://open.spotify.com/track/2wDOBCr9j0SgUmhNOmqKSk"
     }
   ],
+  "unique_name": "This Is Oasis (2)",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXupFIUw7TOC"
 }

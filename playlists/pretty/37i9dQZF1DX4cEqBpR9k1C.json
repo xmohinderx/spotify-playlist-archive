@@ -1,7 +1,7 @@
 {
   "description": "Immerse yourself in the dark and beautiful sound of Trentem\u00f8ller.",
-  "name": "This Is Trentem\u00f8ller",
   "num_followers": 36962,
+  "original_name": "This Is Trentem\u00f8ller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -613,5 +613,6 @@
       "url": "https://open.spotify.com/track/7bTKMYPBA3TsqQ1gjgvEg2"
     }
   ],
+  "unique_name": "This Is Trentem\u00f8ller",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4cEqBpR9k1C"
 }

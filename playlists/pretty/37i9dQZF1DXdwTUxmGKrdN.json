@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "name": "Smooth Jazz",
-  "num_followers": 312004,
+  "num_followers": 312046,
+  "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ2Njk5OCwwMDAwMDAwMDRkYzQ4MzE4ZjA5MTdmNDM5ZDI5MzNkYzczYmMwNWIz",
+  "snapshot_id": "MTY0MjQ3OTQ0MSwwMDAwMDAwMDBkOTVhMTU0NDlhN2RiODM1ZDc5MmNmZDJlYmQ4M2Rh",
   "tracks": [
     {
       "added_at": "2022-01-17 08:01:52",
@@ -163,54 +163,6 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
-        "name": "Listen to This",
-        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
-      },
-      "artists": [
-        {
-          "name": "Lisa Addeo",
-          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
-        }
-      ],
-      "duration_ms": 253577,
-      "name": "Listen to This",
-      "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
-    },
-    {
-      "added_at": "2022-01-17 08:01:52",
-      "album": {
-        "name": "Honestly",
-        "url": "https://open.spotify.com/album/0vHob9cPz7DqegoGiAtQgJ"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "Low and Slow",
-      "url": "https://open.spotify.com/track/04fVzUHhEBwEHOOtWeKEUA"
-    },
-    {
-      "added_at": "2022-01-17 08:01:52",
-      "album": {
-        "name": "Fluid",
-        "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
-      },
-      "artists": [
-        {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
-        }
-      ],
-      "duration_ms": 265875,
-      "name": "Fluid",
-      "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
-    },
-    {
-      "added_at": "2022-01-17 08:01:52",
-      "album": {
         "name": "Unified",
         "url": "https://open.spotify.com/album/5CHXhccisUukWWv9yGxq5f"
       },
@@ -231,6 +183,54 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/0vHob9cPz7DqegoGiAtQgJ"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "Low and Slow",
+      "url": "https://open.spotify.com/track/04fVzUHhEBwEHOOtWeKEUA"
+    },
+    {
+      "added_at": "2022-01-17 08:01:52",
+      "album": {
+        "name": "Listen to This",
+        "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
+      },
+      "artists": [
+        {
+          "name": "Lisa Addeo",
+          "url": "https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U"
+        }
+      ],
+      "duration_ms": 253577,
+      "name": "Listen to This",
+      "url": "https://open.spotify.com/track/6kXk5A2Ea0NtN4H9xVvSc0"
+    },
+    {
+      "added_at": "2022-01-17 08:01:52",
+      "album": {
+        "name": "Fluid",
+        "url": "https://open.spotify.com/album/29nL9iA8XbL1Bt726I7XUH"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 265875,
+      "name": "Fluid",
+      "url": "https://open.spotify.com/track/2OCteRb2LiiMEN6XA2cqaL"
+    },
+    {
+      "added_at": "2022-01-17 08:01:52",
+      "album": {
         "name": "Let's Get Serious",
         "url": "https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj"
       },
@@ -243,6 +243,26 @@
       "duration_ms": 246546,
       "name": "Let's Get Serious",
       "url": "https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4"
+    },
+    {
+      "added_at": "2022-01-17 08:01:52",
+      "album": {
+        "name": "Magic Hour",
+        "url": "https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz"
+      },
+      "artists": [
+        {
+          "name": "Sean U",
+          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
+        },
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 255348,
+      "name": "Magic Hour",
+      "url": "https://open.spotify.com/track/1AbQCUGbvIbO2NUen6tVAg"
     },
     {
       "added_at": "2022-01-17 08:01:52",
@@ -279,22 +299,34 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
-        "name": "Magic Hour",
-        "url": "https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz"
+        "name": "Shakedown",
+        "url": "https://open.spotify.com/album/6ft9InAWvNoaKFlYn7WOlq"
       },
       "artists": [
         {
-          "name": "Sean U",
-          "url": "https://open.spotify.com/artist/0z87sJVJOzK2uqJ4lsxUdE"
-        },
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
         }
       ],
-      "duration_ms": 255348,
-      "name": "Magic Hour",
-      "url": "https://open.spotify.com/track/1AbQCUGbvIbO2NUen6tVAg"
+      "duration_ms": 259386,
+      "name": "Feels Like Friday Night",
+      "url": "https://open.spotify.com/track/28sKYtJT2YHLyhevt94R1m"
+    },
+    {
+      "added_at": "2022-01-17 08:01:52",
+      "album": {
+        "name": "Pacific Coast Highway",
+        "url": "https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ"
+      },
+      "artists": [
+        {
+          "name": "Nils",
+          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+        }
+      ],
+      "duration_ms": 238853,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/61S3v0zujG9J171zdMEap7"
     },
     {
       "added_at": "2022-01-17 08:01:52",
@@ -315,22 +347,6 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
-        "name": "Shakedown",
-        "url": "https://open.spotify.com/album/6ft9InAWvNoaKFlYn7WOlq"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 259386,
-      "name": "Feels Like Friday Night",
-      "url": "https://open.spotify.com/track/28sKYtJT2YHLyhevt94R1m"
-    },
-    {
-      "added_at": "2022-01-17 08:01:52",
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/3ym18a0dExcRA2VNAMAVBm"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
-        "name": "Pacific Coast Highway",
-        "url": "https://open.spotify.com/album/3dN9WXJltGklnpGhEkVbcQ"
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
       },
       "artists": [
         {
-          "name": "Nils",
-          "url": "https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB"
+          "name": "Avenue Blue (Featuring Jeff Golub)",
+          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
         }
       ],
-      "duration_ms": 238853,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/61S3v0zujG9J171zdMEap7"
+      "duration_ms": 310280,
+      "name": "Seventh Heaven (feat. Jeff Golub)",
+      "url": "https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7"
     },
     {
       "added_at": "2022-01-17 08:01:52",
@@ -411,22 +427,6 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
-      },
-      "artists": [
-        {
-          "name": "Avenue Blue (Featuring Jeff Golub)",
-          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
-        }
-      ],
-      "duration_ms": 310280,
-      "name": "Seventh Heaven (feat. Jeff Golub)",
-      "url": "https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7"
-    },
-    {
-      "added_at": "2022-01-17 08:01:52",
-      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/1KO2CGLFnWltGv9mRwc22y"
       },
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/3NUmzmDKiJpN2I0Jznj6zS"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 282546,
+      "name": "Brazz Street",
+      "url": "https://open.spotify.com/track/5zicMKlbOqwkKr3iCuVJnS"
+    },
+    {
+      "added_at": "2022-01-17 08:01:52",
+      "album": {
         "name": "Stronger Now",
         "url": "https://open.spotify.com/album/2rE6572rB3fOGktDLQWzdC"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 223196,
       "name": "Stronger Now",
       "url": "https://open.spotify.com/track/1ldNcaMyLRYnRgYORskmlX"
-    },
-    {
-      "added_at": "2022-01-17 08:01:52",
-      "album": {
-        "name": "Night On The Town",
-        "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "Let It Flow",
-      "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
     },
     {
       "added_at": "2022-01-17 08:01:52",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
-        "name": "Crossroads",
-        "url": "https://open.spotify.com/album/3NUmzmDKiJpN2I0Jznj6zS"
+        "name": "Night On The Town",
+        "url": "https://open.spotify.com/album/6d7FWLGkFqF4i4hsksCzvq"
       },
       "artists": [
         {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
         }
       ],
-      "duration_ms": 282546,
-      "name": "Brazz Street",
-      "url": "https://open.spotify.com/track/5zicMKlbOqwkKr3iCuVJnS"
+      "duration_ms": 289240,
+      "name": "Let It Flow",
+      "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
     },
     {
       "added_at": "2022-01-17 08:01:52",
@@ -595,6 +595,22 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
+        "name": "Infinite Love",
+        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
+      },
+      "artists": [
+        {
+          "name": "Darren Rahn",
+          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
+        }
+      ],
+      "duration_ms": 257367,
+      "name": "Infinite Love",
+      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
+    },
+    {
+      "added_at": "2022-01-17 08:01:52",
+      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7"
       },
@@ -627,38 +643,6 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
-        "name": "Infinite Love",
-        "url": "https://open.spotify.com/album/4PUEmWCsMIauK26YDbXz25"
-      },
-      "artists": [
-        {
-          "name": "Darren Rahn",
-          "url": "https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u"
-        }
-      ],
-      "duration_ms": 257367,
-      "name": "Infinite Love",
-      "url": "https://open.spotify.com/track/2Zw99p6yQDuFkk6Bikbr0P"
-    },
-    {
-      "added_at": "2022-01-17 08:01:52",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 293533,
-      "name": "Undun",
-      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
-    },
-    {
-      "added_at": "2022-01-17 08:01:52",
-      "album": {
         "name": "Coevolve",
         "url": "https://open.spotify.com/album/1Ppa4z7b3BL1qB8nkqvQoT"
       },
@@ -675,8 +659,8 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
-        "name": "Retrospect",
-        "url": "https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/7H9XuHrHpGiknmAdjO3epZ"
       },
       "artists": [
         {
@@ -684,25 +668,25 @@
           "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
         }
       ],
-      "duration_ms": 260886,
-      "name": "Sample That",
-      "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
+      "duration_ms": 244000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6Sw0KXcoIOtBl4OrXMxe9U"
     },
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
       },
       "artists": [
         {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
         }
       ],
-      "duration_ms": 266338,
-      "name": "Soul Vibration",
-      "url": "https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB"
+      "duration_ms": 293533,
+      "name": "Undun",
+      "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
     },
     {
       "added_at": "2022-01-17 08:01:52",
@@ -739,22 +723,18 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
-        "name": "Supreme",
-        "url": "https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj"
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e"
       },
       "artists": [
         {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        },
-        {
-          "name": "Elan Trotman",
-          "url": "https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww"
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
         }
       ],
-      "duration_ms": 263106,
-      "name": "Afternoon Delight",
-      "url": "https://open.spotify.com/track/1TeSdXeVdGb8YbE7YcNTyU"
+      "duration_ms": 266338,
+      "name": "Soul Vibration",
+      "url": "https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB"
     },
     {
       "added_at": "2022-01-17 08:01:52",
@@ -779,38 +759,6 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
-        "name": "Midnight Daydream",
-        "url": "https://open.spotify.com/album/1Evdw2XJNENemvkBO4aM4G"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dave & The HouseCall Band",
-          "url": "https://open.spotify.com/artist/134PknVZizoh9QcdLGLPF8"
-        }
-      ],
-      "duration_ms": 261266,
-      "name": "Cecil's Groove",
-      "url": "https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc"
-    },
-    {
-      "added_at": "2022-01-17 08:01:52",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/7H9XuHrHpGiknmAdjO3epZ"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6Sw0KXcoIOtBl4OrXMxe9U"
-    },
-    {
-      "added_at": "2022-01-17 08:01:52",
-      "album": {
         "name": "Fall For You",
         "url": "https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV"
       },
@@ -823,6 +771,26 @@
       "duration_ms": 272400,
       "name": "Fall For You",
       "url": "https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L"
+    },
+    {
+      "added_at": "2022-01-17 08:01:52",
+      "album": {
+        "name": "Supreme",
+        "url": "https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        },
+        {
+          "name": "Elan Trotman",
+          "url": "https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Afternoon Delight",
+      "url": "https://open.spotify.com/track/1TeSdXeVdGb8YbE7YcNTyU"
     },
     {
       "added_at": "2022-01-17 08:01:52",
@@ -843,18 +811,18 @@
     {
       "added_at": "2022-01-17 08:01:52",
       "album": {
-        "name": "Finger Painting",
-        "url": "https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI"
+        "name": "Retrospect",
+        "url": "https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh"
       },
       "artists": [
         {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
         }
       ],
-      "duration_ms": 228973,
-      "name": "Romantic Nites",
-      "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
+      "duration_ms": 260886,
+      "name": "Sample That",
+      "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
     },
     {
       "added_at": "2022-01-17 08:01:52",
@@ -871,7 +839,40 @@
       "duration_ms": 313973,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V"
+    },
+    {
+      "added_at": "2022-01-17 08:01:52",
+      "album": {
+        "name": "Finger Painting",
+        "url": "https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 228973,
+      "name": "Romantic Nites",
+      "url": "https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp"
+    },
+    {
+      "added_at": "2022-01-17 08:01:52",
+      "album": {
+        "name": "Midnight Daydream",
+        "url": "https://open.spotify.com/album/1Evdw2XJNENemvkBO4aM4G"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dave & The HouseCall Band",
+          "url": "https://open.spotify.com/artist/134PknVZizoh9QcdLGLPF8"
+        }
+      ],
+      "duration_ms": 261266,
+      "name": "Cecil's Groove",
+      "url": "https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc"
     }
   ],
+  "unique_name": "Smooth Jazz",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdwTUxmGKrdN"
 }

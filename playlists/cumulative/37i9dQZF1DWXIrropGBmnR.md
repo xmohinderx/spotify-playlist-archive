@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXIrropGBmnR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXIrropGBmnR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXIrropGBmnR)
 
-### Strings for Sleeping
+### [Strings for Sleeping](https://open.spotify.com/playlist/3Z0IuotzjWfeTQs2UgGRVV)
 
 > Calm and soothing strings for sleeping.
 

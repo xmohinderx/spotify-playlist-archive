@@ -1,7 +1,7 @@
 {
   "description": "The best in alt, folk, and indie rock. Cover: Elvis Costello & The Imposters",
-  "name": "Rockin' Vibes",
-  "num_followers": 451198,
+  "num_followers": 451202,
+  "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1753,5 +1753,6 @@
       "url": "https://open.spotify.com/track/00nnzvRP1Nt3dzkUVFhuIQ"
     }
   ],
+  "unique_name": "Rockin' Vibes",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2aneNMeYHQ8"
 }

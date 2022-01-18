@@ -1,7 +1,7 @@
 {
   "description": "Go deep in discovery for great new songs of faith and inspiration. Cover: Becca Bradley",
-  "name": "Faith Finds",
-  "num_followers": 26580,
+  "num_followers": 26582,
+  "original_name": "Faith Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -897,5 +897,6 @@
       "url": "https://open.spotify.com/track/0UodTBf4fjeCEnbTlxLomd"
     }
   ],
+  "unique_name": "Faith Finds",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq"
 }

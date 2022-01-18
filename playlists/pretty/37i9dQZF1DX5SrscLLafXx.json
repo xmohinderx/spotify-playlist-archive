@@ -1,7 +1,7 @@
 {
   "description": "Ah, Paris. It's easy to see why it's called the city of love.",
-  "name": "Love In Paris",
-  "num_followers": 286019,
+  "num_followers": 286027,
+  "original_name": "Love In Paris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -669,5 +669,6 @@
       "url": "https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD"
     }
   ],
+  "unique_name": "Love In Paris",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5SrscLLafXx"
 }

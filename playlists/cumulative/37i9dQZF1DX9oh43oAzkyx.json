@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 147962,
       "name": "9 Bridge",
       "url": "https://open.spotify.com/track/2sHekv6OdEiO4htSjdB9j4"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 178066,
       "name": "I Do This",
       "url": "https://open.spotify.com/track/7gcF9zyTczyx9aXtHOMsWJ"
@@ -923,6 +923,32 @@
       "duration_ms": 184213,
       "name": "Motley Crew",
       "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "album": {
+        "name": "Floor Seats II",
+        "url": "https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2021-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144973,
+      "name": "Move Ya Hips (feat. Nicki Minaj & MadeinTYO)",
+      "url": "https://open.spotify.com/track/13v5IXnvO2BccWwOx5rb4s"
     },
     {
       "album": {
@@ -1625,7 +1651,7 @@
       ],
       "date_added": "2021-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 189486,
       "name": "Swervin (feat. 6ix9ine)",
       "url": "https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6"

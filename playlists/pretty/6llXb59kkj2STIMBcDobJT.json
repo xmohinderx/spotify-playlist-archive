@@ -1,7 +1,7 @@
 {
   "description": "",
-  "name": "101_FTB",
   "num_followers": 73,
+  "original_name": "101_FTB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -605,5 +605,6 @@
       "url": "https://open.spotify.com/track/0LJXBcmVmXAmbMQf9HdgLw"
     }
   ],
+  "unique_name": "101_FTB",
   "url": "https://open.spotify.com/playlist/6llXb59kkj2STIMBcDobJT"
 }

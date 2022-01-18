@@ -1,7 +1,7 @@
 {
   "description": "Korn on top of the biggest Metal playlist!",
-  "name": "Kickass Metal",
-  "num_followers": 1238553,
+  "num_followers": 1238590,
+  "original_name": "Kickass Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -969,5 +969,6 @@
       "url": "https://open.spotify.com/track/5FH2JoAe00DL628PTwKPH9"
     }
   ],
+  "unique_name": "Kickass Metal",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv"
 }

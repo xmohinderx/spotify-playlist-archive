@@ -1,7 +1,7 @@
 {
   "description": "Electronic music with caffeine.",
-  "name": "Coffee Beats",
-  "num_followers": 101276,
+  "num_followers": 101285,
+  "original_name": "Coffee Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -3365,5 +3365,6 @@
       "url": "https://open.spotify.com/track/1GXVgFAp3qlzGc903TnJDE"
     }
   ],
+  "unique_name": "Coffee Beats",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1uaml3UXYLk"
 }

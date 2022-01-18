@@ -1,7 +1,7 @@
 {
   "description": "The best of RHCP, all in one playlist.",
-  "name": "This Is Red Hot Chili Peppers",
   "num_followers": 1584322,
+  "original_name": "This Is Red Hot Chili Peppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -809,5 +809,6 @@
       "url": "https://open.spotify.com/track/4xqNzk4pINoCZ2gUGbEQW7"
     }
   ],
+  "unique_name": "This Is Red Hot Chili Peppers",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbuvTm9NMIGt"
 }

@@ -1,7 +1,7 @@
 {
   "description": "Push play on a slowly building mix of indie folk faves as you roll out of bed and get your coffee on...",
-  "name": "Morning Rituals",
   "num_followers": 478,
+  "original_name": "Morning Rituals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -825,5 +825,6 @@
       "url": "https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp"
     }
   ],
+  "unique_name": "Morning Rituals",
   "url": "https://open.spotify.com/playlist/7iJKTAmd5aP1opVYLB3XJ4"
 }

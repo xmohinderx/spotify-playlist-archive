@@ -1,7 +1,7 @@
 {
   "description": "The essential Poe listening experience, from vintage radio versions to contemporary readings.",
-  "name": "The Essential Edgar Allan Poe",
-  "num_followers": 39843,
+  "num_followers": 39841,
+  "original_name": "The Essential Edgar Allan Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1073,5 +1073,6 @@
       "url": "https://open.spotify.com/track/05MfkKzpM3mxFed0TmB9yi"
     }
   ],
+  "unique_name": "The Essential Edgar Allan Poe",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVezbGpUvpz7"
 }

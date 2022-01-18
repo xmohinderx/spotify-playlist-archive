@@ -1,7 +1,7 @@
 {
   "description": "Eagles Of Death Metal\u2019s <a href=\"http://playitforwardeodm.com\">Play It Forward Campaign</a> features new versions of the band\u2019s \u201cI Love You All The Time\u201d by a bevy of their peers. Play these tracks to support the victims of the Paris attacks. Check out the amazing covers below and head to <a href=\"http://playitforwardeodm.com\">http://playitforwardeodm.com</a> for more info.",
-  "name": "EODM Play it Forward Campaign",
   "num_followers": 1783,
+  "original_name": "EODM Play it Forward Campaign",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -237,5 +237,6 @@
       "url": "https://open.spotify.com/track/3b6zBJFReSnNMn3KuOrQKE"
     }
   ],
+  "unique_name": "EODM Play it Forward Campaign",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWpCjltOl2fU"
 }

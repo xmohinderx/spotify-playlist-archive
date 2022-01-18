@@ -1,7 +1,7 @@
 {
   "description": "A collection to remember and honor the music and life of Joe Cocker.",
-  "name": "Joe Cocker",
   "num_followers": 282,
+  "original_name": "Joe Cocker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -877,5 +877,6 @@
       "url": "https://open.spotify.com/track/0O2GrLCWELwPas47sX70nb"
     }
   ],
+  "unique_name": "Joe Cocker",
   "url": "https://open.spotify.com/playlist/2rdMSQHM9YryNLPnEbQ7g6"
 }

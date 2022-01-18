@@ -1,7 +1,7 @@
 {
   "description": "Featured Artist, Pritty, just dropped two new singles with us and has more new music coming this month.  Listen to Poison &amp; John Cena here + a mix of songs everyone at Moving Castle are listening to lately ",
-  "name": "Moving Castle Monthly",
   "num_followers": 21525,
+  "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
@@ -421,5 +421,6 @@
       "url": "https://open.spotify.com/track/54bvLApXwHqh869Uqt74TJ"
     }
   ],
+  "unique_name": "Moving Castle Monthly",
   "url": "https://open.spotify.com/playlist/0NKCe5F0ORuDO4sPmqhvcQ"
 }
