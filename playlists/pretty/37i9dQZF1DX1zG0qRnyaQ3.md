@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,055 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,073 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 49 | [The United States Of Amnesiacs](https://open.spotify.com/track/3e3yoJojwM7oTNMRn92pyN) | [Death of a Nation](https://open.spotify.com/artist/0qv0TWMDQa7k4EE96OWEvS) | [Death of a Nation](https://open.spotify.com/album/0r0nQvRduisuCKpcs7eRwC) | 3:50 |
 | 50 | [London Is Burning](https://open.spotify.com/track/6mlTmvwG2NqqARTyHzdAjE) | [Joe Strummer](https://open.spotify.com/artist/2A09V0kHlETOFfT8Hz8oba), [The Mescaleros](https://open.spotify.com/artist/6JCvjM8Q5vlsFLpF7H8Vs2) | [London Is Burning](https://open.spotify.com/album/3LmT4vcLiEbsCBa0YBgERe) | 3:14 |
 
-Snapshot ID: `MTY0MjQ3OTA3OSwwMDAwMDAwMDA3YmEzZDljZGVjOWM2OGVhNTgzMzkzOGUyZTViN2I1`
+Snapshot ID: `MTY0MjQ5MjAwMSwwMDAwMDAwMDA3YmEzZDljZGVjOWM2OGVhNTgzMzkzOGUyZTViN2I1`

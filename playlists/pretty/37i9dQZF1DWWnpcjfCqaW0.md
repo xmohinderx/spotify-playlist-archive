@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Lefty Frizzell, Hank Williams, Kitty Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,564 likes - 96 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,577 likes - 96 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 95 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 | 96 | [Jailhouse Rock](https://open.spotify.com/track/4gphxUgq0JSFv2BCLhNDiE) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:26 |
 
-Snapshot ID: `MTY0MjQ3ODkyMCwwMDAwMDAwMDI2ZjlkZmY0MWVlMmFhYjdmNTgxM2UxZGJjZTI0YzVl`
+Snapshot ID: `MTY0MjQ5MTg4MCwwMDAwMDAwMDI2ZjlkZmY0MWVlMmFhYjdmNTgxM2UxZGJjZTI0YzVl`

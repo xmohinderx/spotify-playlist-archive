@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked indie to nourish the ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,536 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,549 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 79 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 |
 | 80 | [Something Going On](https://open.spotify.com/track/4pjHz7vl4LDOLWtTS7QmDQ) | [NIGHT FLIGHT](https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE) | [Something Going On](https://open.spotify.com/album/6FZ17rwKoCdgxsfSvusG0m) | 3:09 |
 
-Snapshot ID: `MTY0MjQ3ODg3MSwwMDAwMDAwMGU3NWQwZDIyNTE1YmU1ZDZjOTIyN2U4NWI0ZjI5ZGVm`
+Snapshot ID: `MTY0MjQ5MTg0NSwwMDAwMDAwMGU3NWQwZDIyNTE1YmU1ZDZjOTIyN2U4NWI0ZjI5ZGVm`

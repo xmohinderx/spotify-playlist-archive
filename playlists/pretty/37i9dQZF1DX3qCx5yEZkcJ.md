@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,483,216 likes - 80 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,231 likes - 80 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Jazz Apple](https://open.spotify.com/track/1X4FlTe5ECNONBfbUWcpXf) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Jazz Apple](https://open.spotify.com/album/3HS9hq92Zdyuh6i52kmn0w) | 2:20 |
 | 80 | [Fanatic \- Instrumental](https://open.spotify.com/track/2616QFNwHldTARXR2PHS7k) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/6Adv0cRSeQrUWUYACknTpS) | 3:30 |
 
-Snapshot ID: `MTY0MjQ3OTE0NCwwMDAwMDAwMDQ1NWY4MWI3Y2Q3ZjQyYWYzOTU4OGEyYzhmNjc5NjFh`
+Snapshot ID: `MTY0MjQ5MjA0OCwwMDAwMDAwMDQ1NWY4MWI3Y2Q3ZjQyYWYzOTU4OGEyYzhmNjc5NjFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Madison Cunningham
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,608 likes - 115 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,616 likes - 115 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 |
 | 115 | [True Love Will Find You In The End](https://open.spotify.com/track/2QdzHAm5fq0v7lOuC3XImf) | [Katherine Priddy](https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41) | [True Love Will Find You In The End](https://open.spotify.com/album/20mtg0Xbs9vwuzqVsVNAKL) | 2:45 |
 
-Snapshot ID: `MTY0MjQ3OTM5NCwwMDAwMDAwMGY5YWUyZGE4Njk4NmVjM2Q2YTNjYWViZGY4MDE2OGNi`
+Snapshot ID: `MTY0MjQ5MjI0NCwwMDAwMDAwMGY5YWUyZGE4Njk4NmVjM2Q2YTNjYWViZGY4MDE2OGNi`

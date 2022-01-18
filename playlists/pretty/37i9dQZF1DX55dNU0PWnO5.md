@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Where jazz meets electronic music\. Cover: Mark de Clive\-Lowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,108 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,117 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 79 | [Stranger Than Fiction](https://open.spotify.com/track/26b7DkpsVvOSnHgFnHJ4RV) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 4:54 |
 | 80 | [Hidden Levels](https://open.spotify.com/track/2k5uXmRmaAgdixEAkhQZlM) | [Potatohead People](https://open.spotify.com/artist/2lmWYYMM80tsoDES4aUB1m), [Clear Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Hidden Levels](https://open.spotify.com/album/375BDqAAeAHME4ZmEbs7JO) | 3:50 |
 
-Snapshot ID: `MTY0MjQ3OTE4NCwwMDAwMDAwMGQzMmZlN2M5NmJkODdmZGY0NThlOTM3ZDgyNGEwZGQ0`
+Snapshot ID: `MTY0MjQ5MjA3OCwwMDAwMDAwMGQzMmZlN2M5NmJkODdmZGY0NThlOTM3ZDgyNGEwZGQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Tom Morello, Eddie Vedder, & Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,260 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,266 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [Immigrant Song](https://open.spotify.com/track/40zf3WgjcwVxPdWzSaE9OS) | [Small Town Titans](https://open.spotify.com/artist/3aVd0CcXBa0rOlxMpUS6on) | [Immigrant Song](https://open.spotify.com/album/6P3VswZv5OBxMPfc6Ov5WY) | 2:28 |
 | 100 | [True Colors \(Cyndi Lauper Cover\)](https://open.spotify.com/track/3jWZlzNRO2WYjYw0H0fGbc) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Love Is Hopeless 2013](https://open.spotify.com/album/7640HI9pqZOifqm2vBOov4) | 3:11 |
 
-Snapshot ID: `MTY0MjQ3OTA5NSwwMDAwMDAwMDJjMjg1Mzg0YjJlZjU2NzAwM2QzMDcxM2ZhMmQxMDE4`
+Snapshot ID: `MTY0MjQ5MjAxMywwMDAwMDAwMDJjMjg1Mzg0YjJlZjU2NzAwM2QzMDcxM2ZhMmQxMDE4`

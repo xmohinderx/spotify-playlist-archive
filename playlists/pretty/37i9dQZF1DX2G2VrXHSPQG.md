@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,478 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,483 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 74 | [Waking up the World](https://open.spotify.com/track/1eu9N3gFrVQa9UzffUVUC6) | [Youngblood Hawke](https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K) | [Waking up the World](https://open.spotify.com/album/3X9wEOXiZRDVSafx8s2rFR) | 3:43 |
 | 75 | [Falling](https://open.spotify.com/track/5u7hUcmeztyz4iuDf4UHFV) | [Charming Liars](https://open.spotify.com/artist/478LE0Vmglapdba9xQQt0J) | [Falling](https://open.spotify.com/album/7nVJBnGVXoZyi988HFOC1M) | 3:14 |
 
-Snapshot ID: `MTY0MjQ3OTA4OSwwMDAwMDAwMDYwZDdiNWU2ZTk0YTBhY2JmYmJkMmJkYjJkYWNjM2E5`
+Snapshot ID: `MTY0MjQ5MjAwOCwwMDAwMDAwMDYwZDdiNWU2ZTk0YTBhY2JmYmJkMmJkYjJkYWNjM2E5`

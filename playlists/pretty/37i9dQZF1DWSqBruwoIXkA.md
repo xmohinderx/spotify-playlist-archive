@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > for when you're feelin' blue\. Cover: vaultboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,720 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,778 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 99 | [hurt so bad](https://open.spotify.com/track/5c1gKtJkR8dPjki25BU7Qz) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [hurt so bad](https://open.spotify.com/album/2btlqRkfHY0u4IZdKk1lcC) | 4:02 |
 | 100 | [Is It Just Me? \(feat\. JP Cooper\)](https://open.spotify.com/track/1vSzDndzFVbHWl77uKOhhy) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Is It Just Me?](https://open.spotify.com/album/58yuPddTFKKIIzn1ZEhMHz) | 3:23 |
 
-Snapshot ID: `MTY0MjQ3ODc5NywwMDAwMDAwMGYwYTlhM2ExMDFhZGM0ODQ4ZmQ1MDNlNWVmZjczZGY2`
+Snapshot ID: `MTY0MjQ5MTc5MywwMDAwMDAwMGYwYTlhM2ExMDFhZGM0ODQ4ZmQ1MDNlNWVmZjczZGY2`

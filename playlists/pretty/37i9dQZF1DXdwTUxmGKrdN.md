@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,046 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,073 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 49 | [Romantic Nites](https://open.spotify.com/track/6IfLElgQIOE5xG8DDCC9Rp) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Finger Painting](https://open.spotify.com/album/4VCMgZaEQq8p8oNAtQPVoI) | 3:48 |
 | 50 | [Cecil's Groove](https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc) | [Dr\. Dave & The HouseCall Band](https://open.spotify.com/artist/134PknVZizoh9QcdLGLPF8) | [Midnight Daydream](https://open.spotify.com/album/1Evdw2XJNENemvkBO4aM4G) | 4:21 |
 
-Snapshot ID: `MTY0MjQ3OTQ0MSwwMDAwMDAwMDBkOTVhMTU0NDlhN2RiODM1ZDc5MmNmZDJlYmQ4M2Rh`
+Snapshot ID: `MTY0MjQ5MjI4MSwwMDAwMDAwMDBkOTVhMTU0NDlhN2RiODM1ZDc5MmNmZDJlYmQ4M2Rh`

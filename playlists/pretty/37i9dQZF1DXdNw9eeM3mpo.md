@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100 % ska latinoamericano\. Foto: Inspector
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,414 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,432 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Lola](https://open.spotify.com/track/1iqz2JdKipjRJULjXaoce9) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Un Lustro Inyectando Ruido Positivo](https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N) | 3:45 |
 | 100 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
 
-Snapshot ID: `MTY0MjQ3OTQyNCwwMDAwMDAwMDU3ZDhmMGRkYTc1NjA0YjMwMmUwYzAzZTllMTllNjZj`
+Snapshot ID: `MTY0MjQ5MjI2OCwwMDAwMDAwMDU3ZDhmMGRkYTc1NjA0YjMwMmUwYzAzZTllMTllNjZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,970 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,976 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Come Together \- Danny Rhys Remix](https://open.spotify.com/track/5y0SrwRs0zzCOy6syRtvnD) | [Joey McCrilley](https://open.spotify.com/artist/4ew3WXgHuVN5LOVn0KfiNI), [Danny Rhys](https://open.spotify.com/artist/2M6Re1FK8R8PfaKrlpF19S) | [Come Together](https://open.spotify.com/album/7C51SL4F5IQ5RDiF9XjY1g) | 3:05 |
 | 60 | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/track/1hx5zZoz6ARiIAss9hL7tz) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Second Chance \(feat\. Kimberly Davis\)](https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc) | 3:24 |
 
-Snapshot ID: `MTY0MjQ3OTA3NCwwMDAwMDAwMGY0NjM4MjY1NTBmZTMxNmI4NDMzOWQ3NjZhMzM0Mzc5`
+Snapshot ID: `MTY0MjQ5MTk5NywwMDAwMDAwMGY0NjM4MjY1NTBmZTMxNmI4NDMzOWQ3NjZhMzM0Mzc5`

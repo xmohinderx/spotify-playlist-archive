@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 
 > Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,439,138 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,439,160 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRktbhJiuqL.md) - [plain]
 | 99 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 |
 | 100 | [Magic Carpet Ride](https://open.spotify.com/track/1PqETpgGlfWvkWRF4ypD9w) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [70s Classic Rock](https://open.spotify.com/album/4LMCyx911631WjwnTs1DDN) | 4:21 |
 
-Snapshot ID: `MTY0MjQ3ODkwOSwwMDAwMDAwMGQyZTY2MmJkMzI4MTc2OTk4M2JiMWJlZTJhZTUwYTQ3`
+Snapshot ID: `MTY0MjQ5MTg3MywwMDAwMDAwMGQyZTY2MmJkMzI4MTc2OTk4M2JiMWJlZTJhZTUwYTQ3`

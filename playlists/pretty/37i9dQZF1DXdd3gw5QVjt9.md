@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise & shine with the perfect blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,735 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,739 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 89 | [Old Town](https://open.spotify.com/track/62wUcF268nKH9HcMaY247d) | [Luis Trindade](https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk) | [Dead Leaves](https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ) | 3:07 |
 | 90 | [Heartbeats](https://open.spotify.com/track/2fi8X9Ma973SF22JbTZtHj) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/56ptUz8XTMSuQNxZaiz4P9) | 2:38 |
 
-Snapshot ID: `MTY0MjQ3OTQzNSwwMDAwMDAwMDc4MmRiMjgzMDgzNjY0OTFlM2FjYTkxYTJjOTUyYzk5`
+Snapshot ID: `MTY0MjQ5MjI3NSwwMDAwMDAwMDc4MmRiMjgzMDgzNjY0OTFlM2FjYTkxYTJjOTUyYzk5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,487 likes - 100 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,492 likes - 100 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [Come Thou Fount](https://open.spotify.com/track/6xm33FNagGQqZAawkJSFkh) | [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH), [John Rhee](https://open.spotify.com/artist/7kdZdS2FP5Eo3W4Y6H76wr), [Yuris Yoon](https://open.spotify.com/artist/4CJebvyrxoOaB8vFTkPQSh) | [Laus Deo](https://open.spotify.com/album/0Ti83UJsThYXnvVBRBJVAz) | 4:25 |
 | 100 | [Born Again](https://open.spotify.com/track/68nNNThyOXq060K1ZAWb2t) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Home](https://open.spotify.com/album/4Oj3NQVZjlhji59z6bSKl1) | 4:31 |
 
-Snapshot ID: `MTY0MjQ3OTEzOCwwMDAwMDAwMDQzZGZiYzA2YjhhMTgxZmExNmIxYWU5ZjdjMDU4YjAz`
+Snapshot ID: `MTY0MjQ5MjA0MywwMDAwMDAwMDQzZGZiYzA2YjhhMTgxZmExNmIxYWU5ZjdjMDU4YjAz`

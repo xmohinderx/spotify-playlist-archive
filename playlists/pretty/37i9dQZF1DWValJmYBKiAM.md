@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,342 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,365 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 99 | [Quiero Perderme En Tu Cuerpo](https://open.spotify.com/track/0fifvkrdqqIAZcQUD5o6Gk) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazon Latino](https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl) | 3:56 |
 | 100 | [Momento](https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 5:49 |
 
-Snapshot ID: `MTY0MjQ3ODg3NiwwMDAwMDAwMGJlNDBhNTYwNWMwYzgxYjJhZGUxYzRkNzQ4YmE3MjQ3`
+Snapshot ID: `MTY0MjQ5MTg0OSwwMDAwMDAwMGJlNDBhNTYwNWMwYzgxYjJhZGUxYzRkNzQ4YmE3MjQ3`

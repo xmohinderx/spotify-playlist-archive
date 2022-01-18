@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Trousdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,039 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 763,052 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [Steady My Bones](https://open.spotify.com/track/4asocwUbrFvs7ZLuDFuC2q) | [Winterbourne](https://open.spotify.com/artist/6ADN6CbxZ0IdI5Btdem7ty) | [All But The Sun](https://open.spotify.com/album/0smhFaTHoGiW5YrCggomEm) | 4:26 |
 | 100 | [What to Do](https://open.spotify.com/track/01yXBrB0ddIzRaIfGk3ZrG) | [Bandits on the Run](https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6) | [The Criminal Record](https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV) | 3:48 |
 
-Snapshot ID: `MTY0MjQ3ODkzNSwwMDAwMDAwMGQwM2Q0NDgwNzFkOTM1YjMwYmE3OGQzMWQyNTVlYTBi`
+Snapshot ID: `MTY0MjQ5MTg5MSwwMDAwMDAwMGQwM2Q0NDgwNzFkOTM1YjMwYmE3OGQzMWQyNTVlYTBi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > tfw ur crushing so hard it hurts
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,158 likes - 70 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,227 likes - 70 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 69 | [Tinder Song](https://open.spotify.com/track/1JHOy566xSKwNPqaB9AF2i) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [Tinder Song](https://open.spotify.com/album/5WiUuc6jcsA4oWvT1wLk3h) | 2:00 |
 | 70 | [Internet Stalking \(feat\. Adam Melchor\)](https://open.spotify.com/track/4BAkJk9QFtYWycVXRvhmhk) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Internet Stalking \(feat\. Adam Melchor\)](https://open.spotify.com/album/1mOoH3VAEdd0SOCpYdYw1c) | 2:30 |
 
-Snapshot ID: `MTY0MjQ3OTQwMywwMDAwMDAwMGYxNjcxOWE4NjI3ZGEwNDE5MDE4ZjM4YjVhMzA3MjI4`
+Snapshot ID: `MTY0MjQ5MjI1MSwwMDAwMDAwMGYxNjcxOWE4NjI3ZGEwNDE5MDE4ZjM4YjVhMzA3MjI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,233,691 likes - 200 songs - 13 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,233,802 likes - 200 songs - 13 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 199 | [Our Love Is Our Love](https://open.spotify.com/track/61m6aeqYw9pI9OlqMGZQH7) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Weird Kid](https://open.spotify.com/album/0exttWypl3tW1MIkkeqgVu) | 3:29 |
 | 200 | [Lust for Delirium](https://open.spotify.com/track/2orT8RBYk5i2ntDEokyhCV) | [MKSTN](https://open.spotify.com/artist/43sodApl7acNHbFLOrgZuD) | [Lust for Delirium](https://open.spotify.com/album/3ZSmvouT1RS8vfGpVV6LOw) | 3:18 |
 
-Snapshot ID: `MTY0MjQ3OTIzNCwwMDAwMDAwMDRmZTcyNzZlNzFmZmZiY2MwMWJmZWM4OWQ0Yjg3ZjFj`
+Snapshot ID: `MTY0MjQ5MjExOCwwMDAwMDAwMDRmZTcyNzZlNzFmZmZiY2MwMWJmZWM4OWQ0Yjg3ZjFj`

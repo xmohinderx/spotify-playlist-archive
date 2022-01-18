@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,655 likes - 150 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,659 likes - 150 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 149 | [Mine All Mine](https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Closer Than Close](https://open.spotify.com/album/6niA5WysdTshOMYsFAvkTz) | 4:30 |
 | 150 | [Come Over](https://open.spotify.com/track/4Jsqi44IrfUjdigUfZiaqr) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 3:42 |
 
-Snapshot ID: `MTY0MjQ3OTI4MiwwMDAwMDAwMGQ5Y2U2MjQwZGYwYmQ4ZGQ1MmUyOTczNzM1ZTVhMzhj`
+Snapshot ID: `MTY0MjQ5MjE1OCwwMDAwMDAwMGQ5Y2U2MjQwZGYwYmQ4ZGQ1MmUyOTczNzM1ZTVhMzhj`

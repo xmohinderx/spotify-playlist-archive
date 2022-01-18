@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Oli XL, Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,702 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,716 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 49 | [The Accident](https://open.spotify.com/track/7dZjCkAhseMB3g3bRhGvgQ) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [Icons](https://open.spotify.com/album/0Pw8GjF2XNrDNM3uIeV8QB) | 4:36 |
 | 50 | [Echo Boomed](https://open.spotify.com/track/4xsuHsl6KbNrkFnCvNY3JG) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Zoom](https://open.spotify.com/album/6Fgw2NUHzJFbOQ5u4o0Clq) | 3:16 |
 
-Snapshot ID: `MTY0MjQ3OTI3OSwwMDAwMDAwMDFlMmI3NjI1N2M2YjkzNzU0ZmRhMzk4OGQ4MmVlOWNi`
+Snapshot ID: `MTY0MjQ5MjE1NSwwMDAwMDAwMDFlMmI3NjI1N2M2YjkzNzU0ZmRhMzk4OGQ4MmVlOWNi`

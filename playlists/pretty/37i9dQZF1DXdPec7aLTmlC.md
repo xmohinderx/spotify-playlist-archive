@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 
 > Hits to boost your mood and fill you with happiness!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,780,172 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,780,214 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdPec7aLTmlC.md) - [plain]
 | 99 | [Skate](https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Skate](https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo) | 3:23 |
 | 100 | [My Way \(Steve Aoki & Aloe Blacc\)](https://open.spotify.com/track/0FJw1Pg9xXCxbcyQMI6GAe) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [My Way \(Steve Aoki & Aloe Blacc\)](https://open.spotify.com/album/51RVQ2kpX8huPWERdmpdy8) | 3:17 |
 
-Snapshot ID: `MTY0MjQ3OTQyNiwwMDAwMDAwMDgwNTk0YjY0NDI2NTE0NTQ3ZjhhYThlMWUwYmRhYWYx`
+Snapshot ID: `MTY0MjQ5MjI2OSwwMDAwMDAwMDgwNTk0YjY0NDI2NTE0NTQ3ZjhhYThlMWUwYmRhYWYx`

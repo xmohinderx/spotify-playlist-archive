@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,285,171 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,285,251 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 99 | [Alive](https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ) | [Ytram](https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ), [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Alive](https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD) | 2:48 |
 | 100 | [Say](https://open.spotify.com/track/51o86RT9X0EqMLJ43hrYe9) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Say](https://open.spotify.com/album/7cLqRIMFqyzbGRyVYMhCyA) | 4:10 |
 
-Snapshot ID: `MTY0MjQ3OTIyNiwwMDAwMDAwMDI3YTBmZmEwZTE5N2M3OTRlMjYzNGJhNDQ3MWJhZjdk`
+Snapshot ID: `MTY0MjQ5MjExMiwwMDAwMDAwMDI3YTBmZmEwZTE5N2M3OTRlMjYzNGJhNDQ3MWJhZjdk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 > The Mexican Hits of Today! The playlist sin fronteras\. Cover: Legado 7
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,811,972 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,811,983 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 49 | [Sangre De Colima](https://open.spotify.com/track/3yaQXJLibcGEhRG8x62pUX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Del Barrio Hasta Aquí, Vol\. 2](https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp) | 2:59 |
 | 50 | [Jugaste y Sufrí](https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 4:35 |
 
-Snapshot ID: `MTY0MjQ3OTM1OSwwMDAwMDAwMDc2MjVlOTQ1MWRlNzdkNTM2OTM4ODkyN2E3OWFiNzNk`
+Snapshot ID: `MTY0MjQ5MjIxOCwwMDAwMDAwMDc2MjVlOTQ1MWRlNzdkNTM2OTM4ODkyN2E3OWFiNzNk`

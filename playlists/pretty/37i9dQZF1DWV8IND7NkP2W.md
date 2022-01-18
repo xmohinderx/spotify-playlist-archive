@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 東京への旅のお供に、日本を代表するインスト楽曲の特集をどうぞ！！
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,515 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,567 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [1664](https://open.spotify.com/track/5gzGeAaYa6uTsJPpD4hFg9) | [Electricsheep42](https://open.spotify.com/artist/52VLqHXZjk0GtsvTkjFDr0) | [Nations](https://open.spotify.com/album/7FlNrwZl4kdRCN2RaXu9Ur) | 1:17 |
 | 100 | [INNER CHILD](https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [INNER CHILD](https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA) | 2:56 |
 
-Snapshot ID: `MTY0MjQ3ODg2NCwwMDAwMDAwMDg4MTVhODVjNDkyZjk5ZTkwZWZiZTNlMDEyNTAyZTJh`
+Snapshot ID: `MTY0MjQ5MTg0MCwwMDAwMDAwMDg4MTVhODVjNDkyZjk5ZTkwZWZiZTNlMDEyNTAyZTJh`

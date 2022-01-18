@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 
 > The biggest party hits of the 2010s\. Cover: Pitbull.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,251 likes - 150 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,355 likes - 150 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 | 149 | [So Am I \- Steve Void Dance Remix](https://open.spotify.com/track/3Hkv6ag5Yr1Z7nbxMPPj4B) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Steve Void](https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt) | [So Am I \(The Remixes\)](https://open.spotify.com/album/6KhCN8NyJwcg0FDSAJF4ja) | 3:07 |
 | 150 | [Cooler Than Me \- Single Mix](https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Gigamesh](https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle) | [31 Minutes to Takeoff](https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl) | 3:33 |
 
-Snapshot ID: `MTY0MjQ3ODkyNywwMDAwMDAwMDQxM2YxMzg5Y2YxMmQyNGY2NzYyZjdjNGNmNmEzNDJh`
+Snapshot ID: `MTY0MjQ5MTg4NSwwMDAwMDAwMDQxM2YxMzg5Y2YxMmQyNGY2NzYyZjdjNGNmNmEzNDJh`

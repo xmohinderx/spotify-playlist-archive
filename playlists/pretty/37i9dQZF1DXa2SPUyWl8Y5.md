@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,734 likes - 80 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,752 likes - 80 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Beyond](https://open.spotify.com/track/7mBP9fo0krV2spidfoWI8V) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5) | [Speicher 114](https://open.spotify.com/album/4A4ZhRVnKN29mfXWMxMrdE) | 9:08 |
 | 80 | [Macropsia](https://open.spotify.com/track/0fTd7ycFi894Z5SMfV7Dp0) | [Huminal](https://open.spotify.com/artist/0ifJHiwqO4YcVAd3vy8CEQ) | [Macropsia](https://open.spotify.com/album/6LZFKsEDU4PL832W0qGQoQ) | 7:56 |
 
-Snapshot ID: `MTY0MjQ3OTMzMSwwMDAwMDAwMGUzOGQwNGIwMjgyY2UzNWY2YmU3OWM2YTdlNTczMzZk`
+Snapshot ID: `MTY0MjQ5MjE5NiwwMDAwMDAwMGUzOGQwNGIwMjgyY2UzNWY2YmU3OWM2YTdlNTczMzZk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 
 > Jimmy Buffett, Kenny Chesney and all your favorite summer tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,033 likes - 61 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,036 likes - 61 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

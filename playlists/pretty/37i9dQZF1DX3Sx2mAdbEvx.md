@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Sx2mAdbEvx.md) - [plain]
 
 > Iconic artists and voices\. Cover: Ella Fitzgerald
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,275 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,287 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Sx2mAdbEvx.md) - [plain]
 | 48 | [Do Nothing 'Til You Hear From Me](https://open.spotify.com/track/31yWQ2e7dxRKtkDdMr1Rlo) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 2:16 |
 | 49 | [Summertime](https://open.spotify.com/track/2U8D3hTpsgAGZBnNLSoAZQ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Pure Ella](https://open.spotify.com/album/1sVP1k1tw1hd95xkgiMj72) | 5:00 |
 
-Snapshot ID: `MTY0MjQ3OTEzMywwMDAwMDAwMGJjZDAwODAzOGQyNTQxYzkxYWQ5ZWIwNjNmODRmNDY0`
+Snapshot ID: `MTY0MjQ5MjAzOSwwMDAwMDAwMGJjZDAwODAzOGQyNTQxYzkxYWQ5ZWIwNjNmODRmNDY0`

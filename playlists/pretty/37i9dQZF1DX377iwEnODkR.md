@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX377iwEnODkR.md) - [plain]
 
 > The new sound of jazz\. Cover: Brian Blade
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,787 likes - 150 songs - 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,794 likes - 150 songs - 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX377iwEnODkR.md) - [plain]
 | 149 | [Fuss](https://open.spotify.com/track/05VbUrfJFCb1aSeSzq0wM1) | [Human Feel](https://open.spotify.com/artist/2oAZvrX19EDpXKtl4aaJKB) | [Galore](https://open.spotify.com/album/5O7oKdTLGZB0JFQSeeR18q) | 3:47 |
 | 150 | [Two Jimmys](https://open.spotify.com/track/2885VcgZkAHG4Ocv6g1MTC) | [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU), [Ravi Coltrane](https://open.spotify.com/artist/7acdJJMSkYQly2X92K3u7u), [Matt Garrison](https://open.spotify.com/artist/5oYN8xrCuWmQR61KEQgCDy) | [In Movement](https://open.spotify.com/album/5yj8fr40OGYwODHZKsRJZY) | 8:14 |
 
-Snapshot ID: `MTY0MjQ3OTExOSwwMDAwMDAwMGU4ZmJlMzM1OTM2NGRkZGU3MmY4NzhjN2QzZDBjMWNl`
+Snapshot ID: `MTY0MjQ5MjAzMCwwMDAwMDAwMGU4ZmJlMzM1OTM2NGRkZGU3MmY4NzhjN2QzZDBjMWNl`

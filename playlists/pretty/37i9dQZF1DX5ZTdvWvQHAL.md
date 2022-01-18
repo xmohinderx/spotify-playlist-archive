@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZTdvWvQHAL.md) - [plain]
 
 > Soothing sounds of rain, birds, and waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,914 likes - 84 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,920 likes - 84 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,497 likes - 90 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,504 likes - 90 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKs4phBF9kX.md) - [plain]
 | 89 | [The Walk](https://open.spotify.com/track/3YjrW1eYPTtcDwfGyDwdtn) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/093amtf9s8VkIdUtvd2Tap) | 3:30 |
 | 90 | [Here with Me](https://open.spotify.com/track/60iNCdO3iDf3YcMb63yPck) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [The Hits](https://open.spotify.com/album/6qVtCTLXHnRF8gc8pubQPU) | 5:04 |
 
-Snapshot ID: `MTY0MjQ3OTM0MCwwMDAwMDAwMGVkZDZjMTc3Njk5NzMwOTEwYzJkNGYyMWFkNjM4M2Vi`
+Snapshot ID: `MTY0MjQ5MjIwMywwMDAwMDAwMGVkZDZjMTc3Njk5NzMwOTEwYzJkNGYyMWFkNjM4M2Vi`

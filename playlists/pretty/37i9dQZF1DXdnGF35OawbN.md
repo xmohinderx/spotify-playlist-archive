@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 
 > The best season of the year, wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,848,661 likes - 96 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,848,656 likes - 96 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnGF35OawbN.md) - [plain]
 | 95 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
 | 96 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 |
 
-Snapshot ID: `MTY0MjQ3OTQzOSwwMDAwMDAwMGM2ODk0MjUwN2E5Mzg5ODQ5M2I0ZTE0OTk3NDRmYTZh`
+Snapshot ID: `MTY0MjQ5MjI4MCwwMDAwMDAwMGM2ODk0MjUwN2E5Mzg5ODQ5M2I0ZTE0OTk3NDRmYTZh`

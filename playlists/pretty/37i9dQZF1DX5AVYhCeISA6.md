@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran\. Kickback and listen to these amazing women\. Cover: Maria Becerra, Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,060 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,067 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 79 | [Nada](https://open.spotify.com/track/79oKiAQpS92aJgIS5HvC2I) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Nada](https://open.spotify.com/album/2HVtwbx35kUdU82UEUPcdq) | 3:21 |
 | 80 | [Buena Para Nada](https://open.spotify.com/track/2XEqz2zxcbittKhCyPP42z) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:17 |
 
-Snapshot ID: `MTY0MjQ3OTE4OCwwMDAwMDAwMDU1NTIyNTcyYmUyYzk3MzgyMmUyNzhhZGNkYTlmOGIw`
+Snapshot ID: `MTY0MjQ5MjA4MSwwMDAwMDAwMDU1NTIyNTcyYmUyYzk3MzgyMmUyNzhhZGNkYTlmOGIw`

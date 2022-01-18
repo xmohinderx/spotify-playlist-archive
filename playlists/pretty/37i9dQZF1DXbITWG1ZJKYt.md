@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in jazz history\. Cover: Ella Fitzgerald
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,373,800 likes - 200 songs - 17 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,373,961 likes - 200 songs - 17 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 199 | [Take Five](https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 5:24 |
 | 200 | [Too Close For Comfort](https://open.spotify.com/track/7hvZ6vMAnO0cDkkKKJok4Y) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:52 |
 
-Snapshot ID: `MTY0MjQ3OTM2NywwMDAwMDAwMDMyZDEzOTJiNTk4MTcwM2ZmNGI0YjhmM2Q5NTZiM2Zi`
+Snapshot ID: `MTY0MjQ5MjIyNSwwMDAwMDAwMDMyZDEzOTJiNTk4MTcwM2ZmNGI0YjhmM2Q5NTZiM2Zi`

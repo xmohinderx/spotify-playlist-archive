@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Sfven
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,794 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,820 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [Jonah](https://open.spotify.com/track/740cFOON0lTS7vwP8wpXLz) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [Jonah](https://open.spotify.com/album/1GwoB5FkcuDTrODlxHxeV8) | 3:11 |
 | 100 | [Have you ever been in love?](https://open.spotify.com/track/5xYH0ERcMxCkzLORK18Tqi) | [Addict.](https://open.spotify.com/artist/33FWu1JTA73HpPE2tBiwNX), [Rewind](https://open.spotify.com/artist/1N8Y4kaIF0ktxmylgsvUiY) | [Have you ever been in love?](https://open.spotify.com/album/6ZK2QlepkQ6bUGBct9XgxQ) | 3:00 |
 
-Snapshot ID: `MTY0MjQ3OTAxNiwwMDAwMDAwMDM2ZTUxZWMyNDNhNzAwMDBhMzM3ZjlmNTRjYzE4M2Iy`
+Snapshot ID: `MTY0MjQ5MTk1MywwMDAwMDAwMDM2ZTUxZWMyNDNhNzAwMDBhMzM3ZjlmNTRjYzE4M2Iy`

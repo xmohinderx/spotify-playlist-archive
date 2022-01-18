@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=4mLu7AObRVe3gsSn4kDpjw"> A\-Reece </a>  and <a href="https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR?si=xVwLdOd2TTekWZ7e7xb9Gw"> Jay Jody </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,485 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,491 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Amigo](https://open.spotify.com/track/6UEW9NiyPzXxbhkjEiEHPe) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Amigo](https://open.spotify.com/album/6iysreppwtVyUjTK8VTgJe) | 2:35 |
 | 70 | [Link Up](https://open.spotify.com/track/0CKZ0eCTKaaJh1vQjO27fC) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [River](https://open.spotify.com/album/7ah9Tdf9Mmyiop59znBjKD) | 3:19 |
 
-Snapshot ID: `MTY0MjQ3OTQzOSwwMDAwMDAwMGZiODMxZjAxNjQ5YzU2ZGM2NGY2YjBjZjc0NjE3NzUy`
+Snapshot ID: `MTY0MjQ5MjI3OSwwMDAwMDAwMGZiODMxZjAxNjQ5YzU2ZGM2NGY2YjBjZjc0NjE3NzUy`

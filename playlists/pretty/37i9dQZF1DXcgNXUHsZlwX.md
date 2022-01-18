@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner ta journée\.  Photo: Patrick Watson
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,974 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,972 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [À l'aube de nous](https://open.spotify.com/track/6CzyUPXfxPfbb5fy078dhD) | [Amelie Mandeville](https://open.spotify.com/artist/4yvYNGWWLPkqEnP4d9gNk0) | [À l'aube de nous](https://open.spotify.com/album/2IRh7BduO3bjEehDT5g6jq) | 3:13 |
 | 100 | [Paysage](https://open.spotify.com/track/26HZllKgd2e7k9EIUbdgZ8) | [Olivier Bélisle](https://open.spotify.com/artist/5r7VNBLnEVQaEvhaJLkMpR) | [Broderie](https://open.spotify.com/album/0qF05npfcAreX5hsnmrlLU) | 2:48 |
 
-Snapshot ID: `MTY0MjQ3OTQwNiwwMDAwMDAwMDQyZTllYThmMmM2MmVjMDU1NzYyNWYxM2RkYjYwYTll`
+Snapshot ID: `MTY0MjQ5MjI1MywwMDAwMDAwMDQyZTllYThmMmM2MmVjMDU1NzYyNWYxM2RkYjYwYTll`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,894 likes - 35 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,910 likes - 35 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 |
 | 35 | [My Baby Just Cares For Me](https://open.spotify.com/track/409B7nrhzDZGm4vVpNkoNu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Baby Just Cares For Me](https://open.spotify.com/album/5fYri3Kh8tttIo9JQdZ4bc) | 3:58 |
 
-Snapshot ID: `MTY0MjQ3ODk1NCwwMDAwMDAwMGE1YWNkYTc0ZWI5ZjM0YWYxZjZlZTA3YjJjMzk2ZTQy`
+Snapshot ID: `MTY0MjQ5MTkwNiwwMDAwMDAwMGE1YWNkYTc0ZWI5ZjM0YWYxZjZlZTA3YjJjMzk2ZTQy`

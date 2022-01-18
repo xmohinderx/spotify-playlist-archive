@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 
 > Celebramos a las figuras legendarias del rock en nuestro idioma\. Foto: Los Bunkers
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,511 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,539 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeuoGxfO4e2.md) - [plain]
 | 99 | [Camarín](https://open.spotify.com/track/6I273Xd7yB2qRCoHTpvaAa) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 5:20 |
 | 100 | [Cuéntame Tu Vida](https://open.spotify.com/track/6P9iLOJ9FwBe6S9xrdp5jK) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Caifanes](https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr) | 4:23 |
 
-Snapshot ID: `MTY0MjQ3ODk5OSwwMDAwMDAwMGRiZmIwM2Y0YzNiMTA3NDUyZGYwMzZjMDQ3ZTBhMDAx`
+Snapshot ID: `MTY0MjQ5MTk0MCwwMDAwMDAwMGRiZmIwM2Y0YzNiMTA3NDUyZGYwMzZjMDQ3ZTBhMDAx`

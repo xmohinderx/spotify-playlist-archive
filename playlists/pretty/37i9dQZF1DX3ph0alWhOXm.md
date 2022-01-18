@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 
 > There's no such thing as "too much fun." Let these country songs keep the party going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,274 likes - 95 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,273 likes - 95 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 94 | [Any Ol' Barstool](https://open.spotify.com/track/7DEgL4rErTwjrsxLMlUVhf) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [They Don't Know](https://open.spotify.com/album/4zoJp3Lvtfx2BF3e1dC83K) | 3:23 |
 | 95 | [Save Water, Drink Beer](https://open.spotify.com/track/1mvl4McrgpDUwusRRrn7UU) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Neon](https://open.spotify.com/album/4yYep1aU3lXRaONTWu2X23) | 2:45 |
 
-Snapshot ID: `MTY0MjQ3OTE0MywwMDAwMDAwMGQ5NTkxN2ZiZjdiN2QzNTUwNGMxZDY0MzVjZDRmN2My`
+Snapshot ID: `MTY0MjQ5MjA0NywwMDAwMDAwMGQ5NTkxN2ZiZjdiN2QzNTUwNGMxZDY0MzVjZDRmN2My`

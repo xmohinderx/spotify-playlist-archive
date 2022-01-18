@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Ringnes\-Ronny & Hagle
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,209 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,216 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Berre i natt](https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Berre i natt](https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj) | 3:49 |
 | 70 | [Sova när vi dör](https://open.spotify.com/track/6Z0Hi1lWsMHFUbIYqzt4Zl) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Sova när vi dör](https://open.spotify.com/album/4em6rNBe95z9RM1JaWB6Eo) | 3:25 |
 
-Snapshot ID: `MTY0MjQ3OTMzMiwwMDAwMDAwMDU5ZGQ5NmE3OGU5ZWM1NTA0ODJmMWQ5ZjAzYzQ2OGYx`
+Snapshot ID: `MTY0MjQ5MjE5NywwMDAwMDAwMDU5ZGQ5NmE3OGU5ZWM1NTA0ODJmMWQ5ZjAzYzQ2OGYx`

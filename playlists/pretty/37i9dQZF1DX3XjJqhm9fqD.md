@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,842 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,850 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [The Stellar Ray Theory](https://open.spotify.com/track/51Rs7xpi3HxrqvN1bI0i5w) | [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk) | [Pray For Haiti](https://open.spotify.com/album/7doW9YWOtpmqHBqAUuBaKO) | 3:14 |
 | 100 | [Fly Away](https://open.spotify.com/track/720BsggIgWBMWS4JEtGQVs) | [Chris Felix](https://open.spotify.com/artist/1OYMC6OpPTgRXvoXwDmuxX) | [Fly Away](https://open.spotify.com/album/6SfrU0Bm24iN08IVReCrUB) | 2:38 |
 
-Snapshot ID: `MTY0MjQ3OTEzNiwwMDAwMDAwMDU0YTVkM2YzYzdhNTlmYjQ3MWE0YWJlOWFlZGFmMDNh`
+Snapshot ID: `MTY0MjQ5MjA0MiwwMDAwMDAwMDU0YTVkM2YzYzdhNTlmYjQ3MWE0YWJlOWFlZGFmMDNh`

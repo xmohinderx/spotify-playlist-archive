@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,515 likes - 150 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,685 likes - 150 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 | 149 | [Litty \(feat\. Tory Lanez\)](https://open.spotify.com/track/5J5PXmMdQ2nh1lZOal8KmK) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Sound M.O.B.](https://open.spotify.com/artist/4yLuE0l9rK7fqijTb7BPh9), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [DC4](https://open.spotify.com/album/6sNbRwX0lZREkdmUSDsVzo) | 4:40 |
 | 150 | [Tiimmy Turner](https://open.spotify.com/track/3NJG6vMH1ZsectZkocMEm0) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Tiimmy Turner](https://open.spotify.com/album/7zf9kyxc3ZhJv79HrjTRir) | 3:59 |
 
-Snapshot ID: `MTY0MjQ3OTAwMSwwMDAwMDAwMDg1ODhlZWJhNDcyZjU4ZThmNDRjYTY3OGJmN2M2MzVk`
+Snapshot ID: `MTY0MjQ5MTk0MiwwMDAwMDAwMDg1ODhlZWJhNDcyZjU4ZThmNDRjYTY3OGJmN2M2MzVk`

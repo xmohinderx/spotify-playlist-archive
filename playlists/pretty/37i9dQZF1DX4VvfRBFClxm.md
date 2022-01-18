@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Vance Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,442,893 likes - 110 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,442,919 likes - 110 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 109 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
 | 110 | [Passionfruit](https://open.spotify.com/track/12qeIqye3tBZN6xGJpq9q8) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [Passionfruit](https://open.spotify.com/album/2101GNSGE1NjBwGApOV64Q) | 3:32 |
 
-Snapshot ID: `MTY0MjQ3OTE2MywwMDAwMDAwMDE5NjMyMTU2NzZhZjUyMTJjN2Y1MjAzZTNlOThlY2Zm`
+Snapshot ID: `MTY0MjQ5MjA2MiwwMDAwMDAwMDE5NjMyMTU2NzZhZjUyMTJjN2Y1MjAzZTNlOThlY2Zm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > It's a vibe...Indie tunes to follow you throughout your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,373 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,375 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 79 | [Park Ave](https://open.spotify.com/track/3PwZAzJ9NiYojvVC2WyxMX) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Colour](https://open.spotify.com/album/1eximXgBemioPPvQAmIc18) | 3:14 |
 | 80 | [Incendio](https://open.spotify.com/track/0TJJXZHUu2qqwCCQzgRhHm) | [Surfeadores Rosa](https://open.spotify.com/artist/6BecaP398CIWCEHspNCxQh) | [Incendio](https://open.spotify.com/album/1GD7KnMcyOfA4Dk6OQDDWd) | 2:52 |
 
-Snapshot ID: `MTY0MjQ3OTMxOSwwMDAwMDAwMDMxNTdiZmNjMWJmMmU3MTJlNjYwYzg4Y2Y2OGMxZWI3`
+Snapshot ID: `MTY0MjQ5MjE4NywwMDAwMDAwMDMxNTdiZmNjMWJmMmU3MTJlNjYwYzg4Y2Y2OGMxZWI3`

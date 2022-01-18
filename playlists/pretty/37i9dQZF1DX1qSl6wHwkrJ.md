@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,158 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,157 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 49 | [Jingle Bell Rock](https://open.spotify.com/track/03gfPrsQEYnoGCT13oM2Ix) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Rockin' Little Christmas](https://open.spotify.com/album/1EyIl5Vk9kfyPqFGNsxnjM) | 2:09 |
 | 50 | [Winter Wonderland](https://open.spotify.com/track/1VN41eUF6GgeZdNIYSVj6b) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/2yxDpootj6nWBCPK0YwJ3e) | 3:08 |
 
-Snapshot ID: `MTY0MjQ3OTA3MiwwMDAwMDAwMGRhZGQ1YTk2YTkxODdlODg4YmE4M2I3MzNlOTM5NmUz`
+Snapshot ID: `MTY0MjQ5MTk5NSwwMDAwMDAwMGRhZGQ1YTk2YTkxODdlODg4YmE4M2I3MzNlOTM5NmUz`

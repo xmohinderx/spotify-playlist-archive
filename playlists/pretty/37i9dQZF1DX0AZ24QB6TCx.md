@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,100 likes - 70 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,110 likes - 70 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [I Am Still Here](https://open.spotify.com/track/3Ccmq7nxS8y44m8HKf3deW) | [Arutani](https://open.spotify.com/artist/7g48EWSZL2Zb40hnBcFd1K) | [I Am Still Here](https://open.spotify.com/album/587BdfJd7CAjF1jgxVv1vi) | 4:24 |
 | 70 | [I'm Fallin'](https://open.spotify.com/track/4MDkxQH2Dzwt4p4KOI4Cuk) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [I'm Fallin'](https://open.spotify.com/album/4W6NBbRRnv1Fj2l02L5twL) | 7:42 |
 
-Snapshot ID: `MTY0MjQ3OTAxNSwwMDAwMDAwMDIzNTE2NjZhMjNjOWI1MjYzOGExNTJkNTAwMzBmZWMz`
+Snapshot ID: `MTY0MjQ5MTk1MiwwMDAwMDAwMDIzNTE2NjZhMjNjOWI1MjYzOGExNTJkNTAwMzBmZWMz`

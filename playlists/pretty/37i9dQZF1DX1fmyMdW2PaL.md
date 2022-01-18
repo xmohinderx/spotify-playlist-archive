@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,180 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,198 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 99 | [Born Feet First](https://open.spotify.com/track/5dGvoYae98iRk2SpIUNFtm) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Valley of Death](https://open.spotify.com/album/35BSf1gx1zvFJpmPZDrgID) | 2:48 |
 | 100 | [Stale Smoke](https://open.spotify.com/track/29gFUkZNWBnVOV5BjoAf2j) | [Defeater](https://open.spotify.com/artist/1L3hqVCHSL1Ajy3m0z1bAT) | [Stale Smoke](https://open.spotify.com/album/12oxKH34P0S3cXNCVAwWR0) | 3:22 |
 
-Snapshot ID: `MTY0MjQ3OTA2NSwwMDAwMDAwMGJiZDFjNjExZGI2YmI2MzE4NjhkMDRiNDhlMDM2MjAw`
+Snapshot ID: `MTY0MjQ5MTk5MCwwMDAwMDAwMGJiZDFjNjExZGI2YmI2MzE4NjhkMDRiNDhlMDM2MjAw`

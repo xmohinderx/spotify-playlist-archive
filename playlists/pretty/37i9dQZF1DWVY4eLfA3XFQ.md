@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: SIDEPIECE
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,330 likes - 109 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,335 likes - 109 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 
 > When it's too good, you gotta run it back\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,559 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,564 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97h7ftpNSYT.md) - [plain]
 | 99 | [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 |
 | 100 | [JAPAN](https://open.spotify.com/track/5PTG6rrL6EPFD9E2QMI2pl) | [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W) | [Dex Meets Dexter](https://open.spotify.com/album/5wCuMMmsjXNZ9yU91sEjf7) | 2:22 |
 
-Snapshot ID: `MTY0MjQ3OTMwNiwwMDAwMDAwMDgxODk0ZDkxM2Q1ZTc0YjI5YWNhY2RkNWE4ODdkZjQy`
+Snapshot ID: `MTY0MjQ5MjE3NywwMDAwMDAwMDgxODk0ZDkxM2Q1ZTc0YjI5YWNhY2RkNWE4ODdkZjQy`

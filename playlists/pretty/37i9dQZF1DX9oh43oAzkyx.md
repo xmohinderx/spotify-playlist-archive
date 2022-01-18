@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,032,327 likes - 76 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,032,515 likes - 76 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [Tick Tock](https://open.spotify.com/track/3JXebpWufTcs8iegiRCBW7) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Tick Tock](https://open.spotify.com/album/7K0mSkUKYnyrOQ4ko2fl7N) | 2:39 |
 | 76 | [Move Ya Hips \(feat\. Nicki Minaj & MadeinTYO\)](https://open.spotify.com/track/13v5IXnvO2BccWwOx5rb4s) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Floor Seats II](https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV) | 2:24 |
 
-Snapshot ID: `MTY0MjQ3OTMyMywwMDAwMDAwMDNmZjY0MjMyNzcyNmU1MmRiNjY1OTQwMjJlN2IxN2Y2`
+Snapshot ID: `MTY0MjQ5MjE5MCwwMDAwMDAwMDNmZjY0MjMyNzcyNmU1MmRiNjY1OTQwMjJlN2IxN2Y2`

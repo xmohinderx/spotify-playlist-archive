@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 
 > Relive the good ol' days with these cheery 60s and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,854 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,868 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 49 | [Happy Days \(Theme from ''Happy Days''\)](https://open.spotify.com/track/1CCuMgDauGruOwxrSh9NSW) | [Pratt & McClain](https://open.spotify.com/artist/3vNHR4OsgOsktxndG612B7) | [Pratt & McClain featuring "Happy Days"](https://open.spotify.com/album/3L0FxSHAAHw75PvQJmAVh9) | 2:36 |
 | 50 | [I Want You Back](https://open.spotify.com/track/0PGwM5vdr5fMejx0IIAYXj) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [20th Century Masters: The Millennium Collection: Best Of The Jackson 5](https://open.spotify.com/album/2oJRp9GV4zpFzpnneGZqZH) | 3:00 |
 
-Snapshot ID: `MTY0MjQ3OTI3NSwwMDAwMDAwMDc0Yzk4ZWJmOGVlMzg4NmYxNjhlOWEyZjUyNjljM2Qz`
+Snapshot ID: `MTY0MjQ5MjE1MiwwMDAwMDAwMDc0Yzk4ZWJmOGVlMzg4NmYxNjhlOWEyZjUyNjljM2Qz`

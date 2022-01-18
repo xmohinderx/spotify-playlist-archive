@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,483 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,515 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 99 | [Landmarks](https://open.spotify.com/track/6VUVB3IDEGv3AlhVLlM4o8) | [All The Luck In The World](https://open.spotify.com/artist/60ewzuY3lVH0QElQbFagIS) | [A Blind Arcade](https://open.spotify.com/album/6F6H7R7YMnHkkQjZ5hohzP) | 4:07 |
 | 100 | [Society](https://open.spotify.com/track/1zUdanItcJ4ncvtona6K3a) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Orbit](https://open.spotify.com/album/4ieLwljBoO1svXM5K6UtzA) | 3:53 |
 
-Snapshot ID: `MTY0MjQ3OTI1MiwwMDAwMDAwMGY0ZWY1YWQ3ZDJkMjhhY2UzYTM4N2ZjYzIzNjZlNDZl`
+Snapshot ID: `MTY0MjQ5MjEzMiwwMDAwMDAwMGY0ZWY1YWQ3ZDJkMjhhY2UzYTM4N2ZjYzIzNjZlNDZl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,438 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,450 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 149 | [I Am the Moon](https://open.spotify.com/track/3orSucDgEQvX0i2elZ7Lhd) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Darkest Darks, Lightest Lights](https://open.spotify.com/album/1YoD4aJa5VdUHmZ0uSzvUv) | 3:18 |
 | 150 | [Dust to Dust](https://open.spotify.com/track/5P6ZBMWS66FVo6deJaDdHy) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 3:49 |
 
-Snapshot ID: `MTY0MjQ3OTAxMSwwMDAwMDAwMGJiZGQ4OGE3NjVjMTkxMjZiNWExNzUwZDFkZTg3MWVi`
+Snapshot ID: `MTY0MjQ5MTk1MCwwMDAwMDAwMGJiZGQ4OGE3NjVjMTkxMjZiNWExNzUwZDFkZTg3MWVi`

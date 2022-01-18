@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: TOMORROW X TOGETHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,385 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,411 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 69 | [Runaway](https://open.spotify.com/track/7JPzFzJLrzmINVguyqtMay) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Runaway](https://open.spotify.com/album/5drRznvTaLxrrdPgPLqHP5) | 2:33 |
 | 70 | [BIRTHDAY](https://open.spotify.com/track/3jsWXhE5NuPWQ4IHplv2zt) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/7GfqgsiW63VBNLRvIrhqLx) | 3:05 |
 
-Snapshot ID: `MTY0MjQ3OTQyNiwwMDAwMDAwMDcwNTZjZWNmZDdhZmJiZTFmZGM4ZmU0OGFlMDdiZGJm`
+Snapshot ID: `MTY0MjQ5MjI2OSwwMDAwMDAwMDcwNTZjZWNmZDdhZmJiZTFmZGM4ZmU0OGFlMDdiZGJm`

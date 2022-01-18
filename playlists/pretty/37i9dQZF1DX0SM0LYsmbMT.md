@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,989,954 likes - 300 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,990,006 likes - 300 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Night Jam](https://open.spotify.com/track/2pqksiiEz7QDEVMPm6AxH7) | [Floating Anarchy](https://open.spotify.com/artist/1NZghQLpDZ1eIeOl0Esd7d) | [Night Jam](https://open.spotify.com/album/4ytCfPUDPFw4YKV5Fg3Ksh) | 2:02 |
 | 300 | [Selene](https://open.spotify.com/track/36pPsBtuzVLQNRBVGlNmAD) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Selene](https://open.spotify.com/album/0zEo0cejZofPgrBVjTwNS0) | 2:07 |
 
-Snapshot ID: `MTY0MjQ3OTAyOCwwMDAwMDAwMDdkMDhmNTI3MmExNjVlYmYzMjJkN2M5YjgyZjAwYWQ5`
+Snapshot ID: `MTY0MjQ5MTk2MiwwMDAwMDAwMDdkMDhmNTI3MmExNjVlYmYzMjJkN2M5YjgyZjAwYWQ5`

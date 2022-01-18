@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,066 likes - 150 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,088 likes - 150 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 149 | [Wishing You Were Here \- 2002 Remaster](https://open.spotify.com/track/3apndFiT1MCYS9qSy4NJCP) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago VII \(Expanded & Remastered\)](https://open.spotify.com/album/4O8dmYS0wfxvY56LJdp280) | 4:35 |
 | 150 | [Arms Of A Woman](https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 4:11 |
 
-Snapshot ID: `MTY0MjQ3ODgzMiwwMDAwMDAwMDU5YzQ0NjNkMjJkYmM2YTk0YzY3MmVmN2U1NTdmYjg5`
+Snapshot ID: `MTY0MjQ5MTgxNywwMDAwMDAwMDU5YzQ0NjNkMjJkYmM2YTk0YzY3MmVmN2U1NTdmYjg5`

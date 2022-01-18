@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > Happy songs by alternative bands\. Any listener can connect with these indie jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530,962 likes - 120 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530,990 likes - 120 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 119 | [Amsterdam](https://open.spotify.com/track/0egSjRANLaacRqzguUnu5C) | [There's A Tuesday](https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5) | [Dance With Me Before We Cry](https://open.spotify.com/album/6xFhh5Yd7Pr7IwJNjxypoL) | 4:09 |
 | 120 | [Cellophane \(Brain\)](https://open.spotify.com/track/4dVAjdLba7P8K5gtAc2Slt) | [Middle Kids](https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW) | [Cellophane \(Brain\)](https://open.spotify.com/album/6s2KPuyqgG5sZvKrQenE8U) | 3:30 |
 
-Snapshot ID: `MTY0MjQ3OTExMCwwMDAwMDAwMDczOTcyMDIwYzYwOGYyZDE4ZjhlY2FjMzZhNWMyNWRj`
+Snapshot ID: `MTY0MjQ5MjAyMywwMDAwMDAwMDczOTcyMDIwYzYwOGYyZDE4ZjhlY2FjMzZhNWMyNWRj`

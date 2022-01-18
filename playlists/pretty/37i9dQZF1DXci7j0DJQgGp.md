@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,795,418 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,795,423 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 99 | [Only Time](https://open.spotify.com/track/47U42WYf8WrHGqCCPPGV34) | [Aaron Espe](https://open.spotify.com/artist/11nbBcaBk8uXBPQsc3Sq9p) | [Only Time](https://open.spotify.com/album/7byHokgx5Ew7zN0MF2vcGy) | 2:58 |
 | 100 | [Heliotrope](https://open.spotify.com/track/3o6sLYqZ6AH9yxsVpwVwju) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0) | [Heliotrope](https://open.spotify.com/album/4rDUMiofrIdnkOEQOszfqc) | 3:07 |
 
-Snapshot ID: `MTY0MjQ3OTQwOCwwMDAwMDAwMGFmOThkN2YzZTU1ZjkxNTRhYzg0MzYyM2VjNGI5YmIz`
+Snapshot ID: `MTY0MjQ5MjI1NSwwMDAwMDAwMGFmOThkN2YzZTU1ZjkxNTRhYzg0MzYyM2VjNGI5YmIz`

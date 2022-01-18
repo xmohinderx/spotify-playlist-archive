@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,843 likes - 250 songs - 16 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,890 likes - 250 songs - 16 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 249 | [Just One](https://open.spotify.com/track/2qF5tZolagQ0n9IVNly6zA) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:19 |
 | 250 | [The Resistance](https://open.spotify.com/track/5O9Dz0h08LuBi0aVvDcylh) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:52 |
 
-Snapshot ID: `MTY0MjQ3ODk5NCwwMDAwMDAwMDE3YzZjNDU0MTgyOGUyMDFjNzAwNTBmMDcxNjEwOWVh`
+Snapshot ID: `MTY0MjQ5MTkzNywwMDAwMDAwMDE3YzZjNDU0MTgyOGUyMDFjNzAwNTBmMDcxNjEwOWVh`

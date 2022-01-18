@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,169 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,176 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 99 | [Soon You’ll Get Better \(feat\. The Chicks\)](https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:21 |
 | 100 | [Du är en ängel](https://open.spotify.com/track/7fJ1lkpVv0DaukPoP9uUMq) | [Alex Shield](https://open.spotify.com/artist/0GjycNCtd0KpROrMYfpPjb), [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Du är en ängel](https://open.spotify.com/album/6mWZFW1QfOrQxxKaOeGZHX) | 4:20 |
 
-Snapshot ID: `MTY0MjQ3ODk2MCwwMDAwMDAwMGEzYjIwMDcwZWFlMDFmZWE5NzYxZTdiMGY3NzkxOGQ3`
+Snapshot ID: `MTY0MjQ5MTkxMSwwMDAwMDAwMGEzYjIwMDcwZWFlMDFmZWE5NzYxZTdiMGY3NzkxOGQ3`

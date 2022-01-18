@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,002 likes - 250 songs - 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,201 likes - 250 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [Lie](https://open.spotify.com/track/2s1AhFYnZAtSU5rk4lvwB7) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Souls](https://open.spotify.com/album/4byzvWM79mkf6sd4vwXXJ9) | 3:35 |
 | 250 | [I Can't Carry This Anymore](https://open.spotify.com/track/2vzWylXWogTG11HR0frews) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [I Can't Carry This Anymore](https://open.spotify.com/album/51FT0jxpcACduSG3w3NiFL) | 3:20 |
 
-Snapshot ID: `MTY0MjQ3OTA3NiwwMDAwMDAwMGQ1ZGYxODU1NjZjZmRkYWYyODI3NTU3MmE3Y2Q4ZTM2`
+Snapshot ID: `MTY0MjQ5MTk5OCwwMDAwMDAwMGQ1ZGYxODU1NjZjZmRkYWYyODI3NTU3MmE3Y2Q4ZTM2`

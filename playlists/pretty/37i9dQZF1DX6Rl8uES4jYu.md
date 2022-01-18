@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,260 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,271 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 79 | [Stay Up \- Pastel Remix](https://open.spotify.com/track/2jVQoTDSzfytDWnxl6e51X) | [Adeline](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Intérimixed](https://open.spotify.com/album/6ArXooRUOXEIUrbWNPlHKD) | 3:33 |
 | 80 | [Keepin' Me Under](https://open.spotify.com/track/4OvTmsRwU5YH9dRqC6rojB) | [Rayowa](https://open.spotify.com/artist/6awgjbEndbfu3IpwqKhIFo) | [Keepin' Me Under](https://open.spotify.com/album/4HnrcjFmT4V7MzB1YiscPt) | 3:58 |
 
-Snapshot ID: `MTY0MjQ3OTIzMywwMDAwMDAwMGQyNjc5ZDkzNjU3ZWFmMjg2ZTA0ZGM0NDQzYjg0NmYz`
+Snapshot ID: `MTY0MjQ5MjExNywwMDAwMDAwMGQyNjc5ZDkzNjU3ZWFmMjg2ZTA0ZGM0NDQzYjg0NmYz`

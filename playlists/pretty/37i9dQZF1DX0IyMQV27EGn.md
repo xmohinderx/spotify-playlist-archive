@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and dark, alluring siren songs\. Cover: Ashley Monroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,713 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,720 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Help Me Mama](https://open.spotify.com/track/59nCx5xYYfnAu0w4REbu3F) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Help Me Mama](https://open.spotify.com/album/7ux9KGTe3OdANfMcMNaK1H) | 3:05 |
 | 70 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/1IuiGzv0eSL11hUcqytCdP) | 3:02 |
 
-Snapshot ID: `MTY0MjQ3OTAyMiwwMDAwMDAwMGIxNjNkZTEwNGM3OWNlNzliMmVkMzQ1ZjY4Y2YyNzgy`
+Snapshot ID: `MTY0MjQ5MTk1OCwwMDAwMDAwMGIxNjNkZTEwNGM3OWNlNzliMmVkMzQ1ZjY4Y2YyNzgy`

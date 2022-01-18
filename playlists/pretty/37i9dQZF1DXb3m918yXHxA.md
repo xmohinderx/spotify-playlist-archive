@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,165,276 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,165,300 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 74 | [Tranquillo \(Melt My Heart\)](https://open.spotify.com/track/0i8s3YyZjFcJoV41GxZjhg) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Boys in the Trees](https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs) | 4:03 |
 | 75 | [Hold the Line](https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto](https://open.spotify.com/album/1mnu4hYvdwQgZXcNvtJ3D3) | 3:55 |
 
-Snapshot ID: `MTY0MjQ3OTM2MSwwMDAwMDAwMDdjNDdjMGM2NjcxZTU4ZDRiODZmZmNkNDQxYTA1ZmUy`
+Snapshot ID: `MTY0MjQ5MjIxOSwwMDAwMDAwMDdjNDdjMGM2NjcxZTU4ZDRiODZmZmNkNDQxYTA1ZmUy`

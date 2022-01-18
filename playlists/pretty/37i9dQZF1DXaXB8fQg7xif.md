@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > Bid 2021 farewell and <a href="spotify:genre:edm\_dance">move</a> your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,767,169 likes - 125 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,767,142 likes - 125 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 124 | [Pump the Brakes \- LP Giobbi Remix](https://open.spotify.com/track/0EjVfH9vZo9BjVLK698Mxl) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Pump the Brakes \(LP Giobbi Remix\)](https://open.spotify.com/album/79LkvaX65Uz1IWG0aar5ve) | 4:39 |
 | 125 | [Best Kinda Love](https://open.spotify.com/track/0F3dDjUap1EI7YtAFQ9UZu) | [Kim Kaey](https://open.spotify.com/artist/29c2vtSHCC1QvGh29zEfpy) | [Best Kinda Love](https://open.spotify.com/album/2lZKl9JsVInrCFnC8HbFRl) | 2:21 |
 
-Snapshot ID: `MTY0MjQ3OTM0NiwwMDAwMDAwMDBiZDM1MDI0ZDViOWE2ZTE3MDkyZDI0ZjQyZDc5Zjg1`
+Snapshot ID: `MTY0MjQ5MjIwNywwMDAwMDAwMDBiZDM1MDI0ZDViOWE2ZTE3MDkyZDI0ZjQyZDc5Zjg1`

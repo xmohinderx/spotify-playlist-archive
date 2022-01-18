@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,681,098 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,681,142 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 99 | [Sudden Love \(Acoustic\)](https://open.spotify.com/track/4j1qgmRVqhFANilbZ70bft) | [The Woodlands](https://open.spotify.com/artist/3uitNL8cJAFwhKlDO762Gx) | [Parallels, Vol\. II](https://open.spotify.com/album/2jA6chvv51t3YxdJWsgxzu) | 3:02 |
 | 100 | [Skinny Love](https://open.spotify.com/track/0zP8BJOamm7Q9aNMwCby55) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/3JKLAR3XV8VIFIHagNAR3Y) | 3:58 |
 
-Snapshot ID: `MTY0MjQ3ODc5NiwwMDAwMDAwMDFmOTU4ZWE3NmNiZjRmMDZjY2M4YzAwYTk1MzA5NDU4`
+Snapshot ID: `MTY0MjQ5MTc5MSwwMDAwMDAwMDFmOTU4ZWE3NmNiZjRmMDZjY2M4YzAwYTk1MzA5NDU4`

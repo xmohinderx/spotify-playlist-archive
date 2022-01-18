@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,558,049 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,558,098 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 59 | [Guns Of Brixton](https://open.spotify.com/track/5qmnNMX75aVplvqQdkgX9Y) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rebirth](https://open.spotify.com/album/6O9MuNShJuPIsm2MMlTB5M) | 3:38 |
 | 60 | [007 \(Shanty Town\)](https://open.spotify.com/track/4jUgVrUXUs4rSTAPJZUpEO) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [This Is Crucial Reggae \- Desmond Dekker](https://open.spotify.com/album/3GgZQFcYrGnJJb8MEV0qt9) | 2:33 |
 
-Snapshot ID: `MTY0MjQ3OTM3MiwwMDAwMDAwMDU4ZTcwYWRjNjg2MjM0MWZhOWJmMzQ4N2FlYjQyZmYx`
+Snapshot ID: `MTY0MjQ5MjIyOCwwMDAwMDAwMDU4ZTcwYWRjNjg2MjM0MWZhOWJmMzQ4N2FlYjQyZmYx`

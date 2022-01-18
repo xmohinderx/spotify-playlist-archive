@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Dua Lipa & Elton John.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,268,954 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,268,965 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [Enjoy Enjaami \- Spotify Singles \(with Dhee feat\. Arivu & Santhosh Narayanan\)](https://open.spotify.com/track/3z5ITnx50sxmTospLAcM03) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami \- Spotify Singles \(with Dhee feat\. Arivu & Santhosh Narayanan\)](https://open.spotify.com/album/340wvzkkhWbH7wllc3UDLM) | 2:47 |
 | 100 | [Marea \(We’ve Lost Dancing\) \- Diplo Remix](https://open.spotify.com/track/0Q4XNJtDI2jeBqGQ1udhdt) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Marea \(We’ve Lost Dancing\) \[Diplo Remix\]](https://open.spotify.com/album/434PrGHuvVcA0x17bwKKVg) | 4:43 |
 
-Snapshot ID: `MTY0MjQ3OTQwMiwwMDAwMDAwMGI3MTg3YmEyOGJkMzJjODhmODdlYjJjZTM5YzE2NTA3`
+Snapshot ID: `MTY0MjQ5MjI1MCwwMDAwMDAwMGI3MTg3YmEyOGJkMzJjODhmODdlYjJjZTM5YzE2NTA3`

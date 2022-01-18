@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 
 > Embrace those happy vibes with these feel\-good hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,564 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,574 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 | 79 | [Sixteen](https://open.spotify.com/track/4PkIDTPGedm0enzdvilLNd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Sixteen](https://open.spotify.com/album/5AXNN75OmMjFrwst6ExNPx) | 3:21 |
 | 80 | [Drown \(feat\. Clinton Kane\)](https://open.spotify.com/track/4RVtBlHFKj51Ipvpfv5ER4) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Drown \(feat\. Clinton Kane\)](https://open.spotify.com/album/7rU4vsRIhRRfMt3qy6ADND) | 2:54 |
 
-Snapshot ID: `MTY0MjQ3OTA1MiwwMDAwMDAwMGM5MzE5YTM4NzVjMmFiNDZkN2YyNzZlMDg4M2M5ZGI3`
+Snapshot ID: `MTY0MjQ5MTk4MCwwMDAwMDAwMGM5MzE5YTM4NzVjMmFiNDZkN2YyNzZlMDg4M2M5ZGI3`

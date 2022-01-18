@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,230 likes - 99 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,252 likes - 99 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 98 | [Go Off](https://open.spotify.com/track/1bAd9fX3dh6qtWaBC0Rw0u) | [Louder Space](https://open.spotify.com/artist/5qbZKHWNHuVAOwZPQtneCV), [DMN](https://open.spotify.com/artist/6sntDbmjDwLQBqaFhcDT7n) | [Go Off](https://open.spotify.com/album/4PQyYCE5lrvbrke8cyTVPM) | 4:14 |
 | 99 | [Stompi Boi](https://open.spotify.com/track/3uaRj0qQtOL6PauksKWhkD) | [FuntCase](https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D), [Dr\. Lobster](https://open.spotify.com/artist/6rAYLpYH7blCH8exP3DboL) | [FuntCase Presents: DPMO, Vol\. 4](https://open.spotify.com/album/6WVnsgbLJ2WkiA616PCdwu) | 5:42 |
 
-Snapshot ID: `MTY0MjQ3OTE5OSwwMDAwMDAwMGYzYWU4OTI2ODE3YTg1YTIxZDkwOTE4NDBjN2M0MDg0`
+Snapshot ID: `MTY0MjQ5MjA5MSwwMDAwMDAwMGYzYWU4OTI2ODE3YTg1YTIxZDkwOTE4NDBjN2M0MDg0`

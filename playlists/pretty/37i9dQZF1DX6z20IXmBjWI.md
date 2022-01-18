@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Hours of your favorite acoustic and roots music gems\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,137,563 likes - 160 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,137,567 likes - 160 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [Need You](https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Need You](https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ) | 3:09 |
 | 160 | [Elijah \- Acoustic Version](https://open.spotify.com/track/5USnlTd40L2fKioMeNMOBJ) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Elijah \(Acoustic Version\)](https://open.spotify.com/album/6a7554MOvC2xbJxA1P2LAz) | 4:39 |
 
-Snapshot ID: `MTY0MjQ3OTI0NiwwMDAwMDAwMDRiZDk1NDQwMWZjYjExZGYyZTFmMThlZWJhMGVlZTVj`
+Snapshot ID: `MTY0MjQ5MjEyOCwwMDAwMDAwMDRiZDk1NDQwMWZjYjExZGYyZTFmMThlZWJhMGVlZTVj`

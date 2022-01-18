@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLn7RQmT5Xv2.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,376 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,374 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

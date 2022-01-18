@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Maybelle Carter, Gene Autry, Merle Travis
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,557 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,569 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [You Are My Sunshine](https://open.spotify.com/track/3BRPsh9GaOw5MaZvy5k8bQ) | [Jimmie Davis](https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy) | [Top 100 Classics \- The Very Best of Jimmie Davis](https://open.spotify.com/album/3L0A6w2snQVbNPsbKMh5u4) | 2:48 |
 | 70 | [Slow Poke](https://open.spotify.com/track/0h45YvcNfRRpf5D34vVgOr) | [Pee Wee King & His Golden West Cowboys](https://open.spotify.com/artist/3iywlJzFl8iYgp3112qt31) | [Nippers 50's\-Vol.1](https://open.spotify.com/album/1qtqjUCRgbkkxWkbOKchJq) | 3:00 |
 
-Snapshot ID: `MTY0MjQ3OTA0MywwMDAwMDAwMGJkYjQ1YTFkYzM2NDZkOGJhZjRjZDRlYmFiMzM0MGUy`
+Snapshot ID: `MTY0MjQ5MTk3MywwMDAwMDAwMGJkYjQ1YTFkYzM2NDZkOGJhZjRjZDRlYmFiMzM0MGUy`

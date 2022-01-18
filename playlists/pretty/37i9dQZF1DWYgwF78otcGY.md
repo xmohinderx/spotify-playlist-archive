@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,609 likes - 52 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,608 likes - 52 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 51 | [Groupie](https://open.spotify.com/track/4ldXgqnQ9jJ1mYRTmg9O9B) | [Samir & Viktor](https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6) | [Groupie](https://open.spotify.com/album/2sdkmXEk3QaSdwafuG5VQ5) | 3:01 |
 | 52 | [Håll om mig](https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz) | [Nanne](https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi) | [Alltid på väg](https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy) | 3:02 |
 
-Snapshot ID: `MTY0MjQ3ODk3NCwwMDAwMDAwMGJmYzVlMzQxYzQyNDRmM2JhN2UxNTMwODUxMjlhZGVi`
+Snapshot ID: `MTY0MjQ5MTkyMiwwMDAwMDAwMGJmYzVlMzQxYzQyNDRmM2JhN2UxNTMwODUxMjlhZGVi`

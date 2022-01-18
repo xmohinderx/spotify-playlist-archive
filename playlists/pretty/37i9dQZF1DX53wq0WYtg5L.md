@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,404 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,413 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 69 | [Los machetes](https://open.spotify.com/track/5Vm7VaJGTSlPbfTwfi2UE3) | [Rubén Fuentes](https://open.spotify.com/artist/6q8g3vOMKyrhhRWLsOUC98), [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi from Mexico](https://open.spotify.com/album/2KYO6zfRdlOIp1OymWiedA) | 3:34 |
 | 70 | [El Jarabe Jalisciense](https://open.spotify.com/track/3UU2ya43dA5iRePqIs6ZMf) | [Estampas De Mexico](https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m) | [Estampas De Mexico: Traditional Music From Mexico](https://open.spotify.com/album/0NkD1XnjciR3tFRVXvlzVa) | 4:22 |
 
-Snapshot ID: `MTY0MjQ3OTE4MywwMDAwMDAwMDU1ZDYwZTQwMjlhNWIyMmI2ZTU1NmE4ZWFlZGM3Y2Jh`
+Snapshot ID: `MTY0MjQ5MjA3OCwwMDAwMDAwMDU1ZDYwZTQwMjlhNWIyMmI2ZTU1NmE4ZWFlZGM3Y2Jh`

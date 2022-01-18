@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Snail Mail
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,893 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,929 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 99 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 |
 | 100 | [Wonder](https://open.spotify.com/track/51kze9dPhittQFgS6kc2wb) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Wonder](https://open.spotify.com/album/4aOPrkSRPB7HmDYmgrvZAa) | 2:11 |
 
-Snapshot ID: `MTY0MjQ3OTA4OSwwMDAwMDAwMDlkNjQ5YjdmMTllM2ExY2IzODE3YzNkMjg1MGNlOTg1`
+Snapshot ID: `MTY0MjQ5MjAwOCwwMDAwMDAwMDlkNjQ5YjdmMTllM2ExY2IzODE3YzNkMjg1MGNlOTg1`

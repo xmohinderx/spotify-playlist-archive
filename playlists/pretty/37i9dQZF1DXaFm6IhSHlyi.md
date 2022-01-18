@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,110 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,122 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 149 | [Hilo Rojo](https://open.spotify.com/track/5c17sD5ibjougPh0bNnBTj) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Hilo Rojo](https://open.spotify.com/album/1LozXeHCsZN3rseluCVGfu) | 3:42 |
 | 150 | [Stay Alive](https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/17ibSQkQUrD4LQ0uZSyQ7H) | 3:01 |
 
-Snapshot ID: `MTY0MjQ3OTMzNiwwMDAwMDAwMDlmZTAwMDg2MDQ5ZWIwZjljMmMyZmI1OTI4NzRjODNm`
+Snapshot ID: `MTY0MjQ5MjIwMCwwMDAwMDAwMDlmZTAwMDg2MDQ5ZWIwZjljMmMyZmI1OTI4NzRjODNm`

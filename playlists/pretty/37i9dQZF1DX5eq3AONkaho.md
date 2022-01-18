@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,145 likes - 200 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,144 likes - 200 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 | 199 | [Erase](https://open.spotify.com/track/61wVRxT2l9NYgN2bbu8mzS) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Iron](https://open.spotify.com/artist/42dy8y24lMURTr4RjATpYS) | [Erase](https://open.spotify.com/album/2xlOv4KlRfJBbKtPjrJFgr) | 3:48 |
 | 200 | [Stay With Me](https://open.spotify.com/track/2YAoDoc9ZGTDubZvF9QQQh) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Rise Up](https://open.spotify.com/album/6KsaQ2qU53KdGFK8uWqUG2) | 3:40 |
 
-Snapshot ID: `MTY0MjQ3OTIwNiwwMDAwMDAwMGI5YTBlZWJlOWVhNWEwY2Y1Mjg1NzNjOGFjNWMxOWY3`
+Snapshot ID: `MTY0MjQ5MjA5NiwwMDAwMDAwMGI5YTBlZWJlOWVhNWEwY2Y1Mjg1NzNjOGFjNWMxOWY3`

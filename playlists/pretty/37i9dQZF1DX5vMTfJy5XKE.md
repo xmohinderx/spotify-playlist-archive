@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Elton John & Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,807 likes - 130 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,800 likes - 130 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 129 | [It's Christmas Time](https://open.spotify.com/track/6p8gI8j50Ke7Jf4jmNCk3r) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [It's Christmas Time](https://open.spotify.com/album/4AOvgUzxjWOG7S8s2pLZa6) | 3:10 |
 | 130 | [Christmas Feels Like Home](https://open.spotify.com/track/1VqBqC0hLpNGvX60Ykhh9i) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Christmas Feels Like Home](https://open.spotify.com/album/6Nz6wJjdo39R7VyPYlK9jv) | 3:28 |
 
-Snapshot ID: `MTY0MjQ3OTIxNSwwMDAwMDAwMDMzM2FmM2QwZTFjODUzMDhiMzIzNDEyOGE1YWRiMjZi`
+Snapshot ID: `MTY0MjQ5MjEwMywwMDAwMDAwMDMzM2FmM2QwZTFjODUzMDhiMzIzNDEyOGE1YWRiMjZi`

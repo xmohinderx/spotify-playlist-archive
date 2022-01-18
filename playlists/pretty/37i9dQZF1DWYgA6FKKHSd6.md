@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,268 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,274 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 99 | [Kiss and Tell](https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Shades](https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7) | 4:08 |
 | 100 | [Stone Groove](https://open.spotify.com/track/2yrXGvn1lnySUjrniThAWS) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Pure](https://open.spotify.com/album/2UBOcVHIGEXwaZgBMifGhK) | 4:45 |
 
-Snapshot ID: `MTY0MjQ3ODk3NCwwMDAwMDAwMDVlMTc1NTUwYzQyMmI1NjhlMmE4ZTc1MWJjYWEzODk4`
+Snapshot ID: `MTY0MjQ5MTkyMiwwMDAwMDAwMDVlMTc1NTUwYzQyMmI1NjhlMmE4ZTc1MWJjYWEzODk4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,490 likes - 75 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,511 likes - 75 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [Wing Pinger 01](https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Wing Pinger](https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha) | 8:31 |
 | 75 | [End of One Thing](https://open.spotify.com/track/6oTYXtsJWi30jH5dIPWTyQ) | [David Baron](https://open.spotify.com/artist/3ZZxsC7f0fufApo1cm117d) | [End of One Thing](https://open.spotify.com/album/17ELwWPid9JFCtW6Xkwa9w) | 4:31 |
 
-Snapshot ID: `MTY0MjQ3ODk3MCwwMDAwMDAwMGRhZTJhN2U5MWM1MDJkZGZmOWMxNTE2YmUyZWFiZTI1`
+Snapshot ID: `MTY0MjQ5MTkxOSwwMDAwMDAwMGRhZTJhN2U5MWM1MDJkZGZmOWMxNTE2YmUyZWFiZTI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,133,864 likes - 149 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,133,882 likes - 149 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 148 | [Paradise](https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [OMEM](https://open.spotify.com/artist/6PEbhxAoBVdvwWFGwDmfoN) | [Paradise](https://open.spotify.com/album/6TUnvAYhgmJs2G8MuoQ3eb) | 2:54 |
 | 149 | [Diamonds](https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Diamonds](https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc) | 3:25 |
 
-Snapshot ID: `MTY0MjQ3OTExNSwwMDAwMDAwMDk4MTgzNmM3NTlkNmRkZGY1NDUxYWRlNTNjZGQ2MTg4`
+Snapshot ID: `MTY0MjQ5MjAyNywwMDAwMDAwMDk4MTgzNmM3NTlkNmRkZGY1NDUxYWRlNTNjZGQ2MTg4`

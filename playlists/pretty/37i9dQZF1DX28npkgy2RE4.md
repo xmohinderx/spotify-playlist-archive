@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Aldous Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,069 likes - 150 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,079 likes - 150 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Summertime](https://open.spotify.com/track/5cdYcHw7CJDhgNa21MSTYF) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Summertime](https://open.spotify.com/album/4yPWRr124dmumSsCzIWDUs) | 3:35 |
 | 150 | [Canyonheart](https://open.spotify.com/track/3uqfzjOGrxagYcsQeWLgSx) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/4VJOOjvvZrL8QM21Bpz02d) | 3:52 |
 
-Snapshot ID: `MTY0MjQ3OTA4NSwwMDAwMDAwMDQ5NzQyZjNmNTlkOWM4YTg3MmY1OTMyMjBjZTYzZmRk`
+Snapshot ID: `MTY0MjQ5MjAwNSwwMDAwMDAwMDQ5NzQyZjNmNTlkOWM4YTg3MmY1OTMyMjBjZTYzZmRk`

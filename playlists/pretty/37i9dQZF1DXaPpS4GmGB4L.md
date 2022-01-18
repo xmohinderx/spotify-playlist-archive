@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,822 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,830 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 49 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
 | 50 | [My Baby Is a Good 'Un \- Cover](https://open.spotify.com/track/0lEpe4WQaHcdbH2QI45z42) | [Federico Verteramo](https://open.spotify.com/artist/7arbLF5KNH9SXNCuSYUsYx) | [Rush Hour \(Cover\)](https://open.spotify.com/album/4DyiaOUlcWhlxhgWfhMGNY) | 3:15 |
 
-Snapshot ID: `MTY0MjQ3OTM0MiwwMDAwMDAwMDY0YTJlMGFhNjYwODY5YzU1Zjk5NWYwZmUzYzdiOTAw`
+Snapshot ID: `MTY0MjQ5MjIwNCwwMDAwMDAwMDY0YTJlMGFhNjYwODY5YzU1Zjk5NWYwZmUzYzdiOTAw`

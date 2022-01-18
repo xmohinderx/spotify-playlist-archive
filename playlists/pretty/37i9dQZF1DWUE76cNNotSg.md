@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,275 likes - 80 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,306 likes - 80 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [Wolves Still Cry \- Classixx Remix](https://open.spotify.com/track/4FiJ9JT9nicjc8Oadnf2gA) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ) | [Wolves Still Cry \(Classixx Remix\)](https://open.spotify.com/album/2WOu7U8zwdvnxED5yGvCVA) | 5:14 |
 | 80 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
 
-Snapshot ID: `MTY0MjQ3ODg0MywwMDAwMDAwMDIzZTRjMDE5MWVjZjBkMTkyNzFiNzkzNjhhMzJhYzNk`
+Snapshot ID: `MTY0MjQ5MTgyNSwwMDAwMDAwMDIzZTRjMDE5MWVjZjBkMTkyNzFiNzkzNjhhMzJhYzNk`

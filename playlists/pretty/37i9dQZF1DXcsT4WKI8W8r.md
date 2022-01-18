@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 
 > A playlist to get you through your whole workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,282 likes - 145 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,286 likes - 145 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 | 144 | [Lost Someone](https://open.spotify.com/track/0QOKrp8ywseJVggfFMSRZG) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Lost Someone](https://open.spotify.com/album/3O3qa900oqZiJEqTEfbxXb) | 3:45 |
 | 145 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 |
 
-Snapshot ID: `MTY0MjQ3OTQxMCwwMDAwMDAwMDE4OWQ5NTQ5YjdmMDJiNTY2ZTJjMDY2NDg2MzE1Yjg1`
+Snapshot ID: `MTY0MjQ5MjI1NiwwMDAwMDAwMDE4OWQ5NTQ5YjdmMDJiNTY2ZTJjMDY2NDg2MzE1Yjg1`

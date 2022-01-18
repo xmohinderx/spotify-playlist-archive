@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Aretha Franklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,976 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,997 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 49 | [I've Got Love On My Mind](https://open.spotify.com/track/7cmvEuNhRpJT7xVN79hvPL) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [I've Got Love On My Mind](https://open.spotify.com/album/3oemKJbPNMyWwJEgOpnqu8) | 4:20 |
 | 50 | [I Wonder If I Take You Home](https://open.spotify.com/track/3sRCesHh424gmCji7Fz9Gm) | [Lisa Lisa & Cult Jam](https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT), [Full Force](https://open.spotify.com/artist/1iQS32l0NPcZeJKVrvayS2) | [Playlist: The Very Best Of Lisa Lisa & Cult Jam](https://open.spotify.com/album/69c909n13KcSJPXxi6kPhG) | 6:44 |
 
-Snapshot ID: `MTY0MjQ3OTA3OCwwMDAwMDAwMDhiMjRjZGZmNWU5ZGM3OGFmMGJhN2Q3MjllY2RiZTNi`
+Snapshot ID: `MTY0MjQ5MjAwMCwwMDAwMDAwMDhiMjRjZGZmNWU5ZGM3OGFmMGJhN2Q3MjllY2RiZTNi`

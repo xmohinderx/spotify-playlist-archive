@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > Chill\. The best indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,619 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,628 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 74 | [There Must Be a Song Like You](https://open.spotify.com/track/1rwzTr6y9yOPzNlO92AnUc) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [There Must Be a Song Like You](https://open.spotify.com/album/2ewZt2tyRkCtIU3vczO5ST) | 4:50 |
 | 75 | [Playground](https://open.spotify.com/track/4IroNECciKcq3M2QtSTus7) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:33 |
 
-Snapshot ID: `MTY0MjQ3OTMwOCwwMDAwMDAwMGU1ZWJlZjM0NzYxZjBmMjhjY2I1ZjJmNzQyMjMwYWYz`
+Snapshot ID: `MTY0MjQ5MjE3OCwwMDAwMDAwMGU1ZWJlZjM0NzYxZjBmMjhjY2I1ZjJmNzQyMjMwYWYz`

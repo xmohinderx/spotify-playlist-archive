@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women that like it loud & heavy\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,364 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,370 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [Never Die](https://open.spotify.com/track/5nFyBTvOprvEosMaZCGVU9) | [Allen/Olzon](https://open.spotify.com/artist/34W3MmEwZVbj136Xk3G2EK) | [Never Die](https://open.spotify.com/album/3ewJ6ftp5b87dcVoMYbmDI) | 5:47 |
 | 80 | [Your Patron Saints](https://open.spotify.com/track/4GncSgtCbKjLwF9NfBHaI1) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Your Patron Saints](https://open.spotify.com/album/3TnfQdBo7eimKEKwRIxzOA) | 3:24 |
 
-Snapshot ID: `MTY0MjQ3ODkzMywwMDAwMDAwMDI3Y2U1OWQ5ZWE3MDI4Yzg3OTAwYTFmZjk4MjBkZWUw`
+Snapshot ID: `MTY0MjQ5MTg4OSwwMDAwMDAwMDI3Y2U1OWQ5ZWE3MDI4Yzg3OTAwYTFmZjk4MjBkZWUw`

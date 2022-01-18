@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,507 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,580 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 74 | [Case of You](https://open.spotify.com/track/3b7g1DPRwUy1QRkYxoJYW1) | [I M U R](https://open.spotify.com/artist/3zJp99O5muOM6T31wat7FS) | [Case of You](https://open.spotify.com/album/0dZAUG94m19M3Aq4AX132W) | 3:47 |
 | 75 | [Beautiful Lies](https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:32 |
 
-Snapshot ID: `MTY0MjQ3OTM2NywwMDAwMDAwMDdiNThjMjhmMWVmNjJiMWYyMDhkYWM2MzJkZWZmNGUy`
+Snapshot ID: `MTY0MjQ5MjIyNCwwMDAwMDAwMDdiNThjMjhmMWVmNjJiMWYyMDhkYWM2MzJkZWZmNGUy`

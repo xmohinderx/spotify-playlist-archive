@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,004 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,011 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 99 | [Scene Damour](https://open.spotify.com/track/3EIbP49Tx5HhvbH8nRrEaR) | [Tom Stella](https://open.spotify.com/artist/4WRI9YH6mHZQTgQWcMbdqm) | [Cavatina](https://open.spotify.com/album/55rOgz4YitvuAejFjjJ2es) | 4:26 |
 | 100 | [Terme di Caracalla](https://open.spotify.com/track/04lDOxJeMbYjkTVx9TbJsb) | [Roma Atmosphere](https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8) | [Roma Atmosphere](https://open.spotify.com/album/5j8CZ8WMJoxRfwVAdFJai0) | 3:44 |
 
-Snapshot ID: `MTY0MjQ3OTQyMiwwMDAwMDAwMDUzNDdjYzUwMWZmNGFhZjUzYWNmOTIzYmI3YTg0M2Vj`
+Snapshot ID: `MTY0MjQ5MjI2NiwwMDAwMDAwMDUzNDdjYzUwMWZmNGFhZjUzYWNmOTIzYmI3YTg0M2Vj`

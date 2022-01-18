@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The pulse of the best music and sounds in Christian Hip Hop\.  Cover: Lecrae and 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,553 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,557 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 79 | [New Skies](https://open.spotify.com/track/7dhzAFqDTOTUNVnb7rkygk) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Kiddy Bizness](https://open.spotify.com/artist/4mbZEgNMKmtyxZlVjZacVV) | [Soul Therapy](https://open.spotify.com/album/0cegkmOz0rgVbpQYtmcETo) | 4:03 |
 | 80 | [Forever Grateful](https://open.spotify.com/track/2hz7YnCZKVbPdrDjXTQiDn) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Only U Forever](https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL) | 3:13 |
 
-Snapshot ID: `MTY0MjQ3OTM4OCwwMDAwMDAwMDYzMzk4MzQxMGZjZmRhODI3ZWEyZDA5YjYzYTgxM2Jh`
+Snapshot ID: `MTY0MjQ5MjIzOSwwMDAwMDAwMDYzMzk4MzQxMGZjZmRhODI3ZWEyZDA5YjYzYTgxM2Jh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > All of the classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,051 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,087 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 99 | [Tweedle Dee](https://open.spotify.com/track/2TRt55mhsEEC7tuwE5dQdd) | [Georgia Gibbs](https://open.spotify.com/artist/6E8uXyNsUKeGOgRqAOcgBa) | [The Best Of Georgia Gibbs: The Mercury Years](https://open.spotify.com/album/1aQLXLo5hr1l3l9h7EVJWM) | 2:30 |
 | 100 | [Vaya Con Dios](https://open.spotify.com/track/3qhxI5f7klTVfK0iWYmKdM) | [Les Paul](https://open.spotify.com/artist/2hkZGvBotqZ7uBBUnBwmLC), [Mary Ford](https://open.spotify.com/artist/0kI2sHLngm2GKwAZblx465) | [The Hit Makers](https://open.spotify.com/album/0piki0HMQMbLzV1I1QorCS) | 2:54 |
 
-Snapshot ID: `MTY0MjQ3OTE4NSwwMDAwMDAwMDgzOTljMjg3NTdmNzI0ZTkyODk5MzI2ZmJmNzQ2NDM0`
+Snapshot ID: `MTY0MjQ5MjA3OSwwMDAwMDAwMDgzOTljMjg3NTdmNzI0ZTkyODk5MzI2ZmJmNzQ2NDM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,895 likes - 147 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,918 likes - 147 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 146 | [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 |
 | 147 | [Limbo](https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Limbo/Lagune](https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ) | 3:10 |
 
-Snapshot ID: `MTY0MjQ3OTA4OCwwMDAwMDAwMDExNDk5ZDcwNjdjMDJiYTU0NDc2NDg2MDk0MjU2ZTM5`
+Snapshot ID: `MTY0MjQ5MjAwNywwMDAwMDAwMDExNDk5ZDcwNjdjMDJiYTU0NDc2NDg2MDk0MjU2ZTM5`

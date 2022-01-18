@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,354 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,351 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 99 | [Just A Breath Away \(Noel\) \- Radio Version](https://open.spotify.com/track/1UGK7thDiNRQA7P4rQVOrd) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Just A Breath Away \(Noel\) \[Radio Version\]](https://open.spotify.com/album/2BIt2v8Y5YJ3o1gzZy8i7B) | 3:10 |
 | 100 | [Mary Did You Know](https://open.spotify.com/track/6KLBLbycBR3gTKIJGYTVBN) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Christmas: God With Us](https://open.spotify.com/album/4lif7qdfFAsjGkyCL83gNU) | 4:04 |
 
-Snapshot ID: `MTY0MjQ3ODg4MSwwMDAwMDAwMGRiN2E1N2UxMzc1YTQzNjZjMmZhMTFmYjI3MjllOTkz`
+Snapshot ID: `MTY0MjQ5MTg1MiwwMDAwMDAwMGRiN2E1N2UxMzc1YTQzNjZjMmZhMTFmYjI3MjllOTkz`

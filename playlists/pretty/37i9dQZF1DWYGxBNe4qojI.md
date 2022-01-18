@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,624 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,641 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 49 | [I'll Be](https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 2:58 |
 | 50 | [Got Ur Self A Gun](https://open.spotify.com/track/09wQdd0JQbkp9yKfRfwhjG) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Stillmatic](https://open.spotify.com/album/0cLzuJG2UDa0axMQkF7JR6) | 3:48 |
 
-Snapshot ID: `MTY0MjQ3ODk2NCwwMDAwMDAwMGZiMDdlODFiNjc0MDllYzYxOGM2N2QwMTY1MjFhZThj`
+Snapshot ID: `MTY0MjQ5MTkxNCwwMDAwMDAwMGZiMDdlODFiNjc0MDllYzYxOGM2N2QwMTY1MjFhZThj`

@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/7516uBfjNbecLTG6tnzPU5)
 
-> With Sunglasses Kid, Ed Patrick, Caroline Polachek and more
+> With Sunglasses Kid, Handsome Ghost, Caroline Polachek and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

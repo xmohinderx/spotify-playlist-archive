@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers\. Cover: Josh Homme
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,844 likes - 100 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,867 likes - 100 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [Old Gods](https://open.spotify.com/track/4buxOh1uX0TNEtbFL8muft) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [Black Harvest](https://open.spotify.com/album/6EwCQb8IyVWHX1l2u4v1kY) | 3:58 |
 | 100 | [Elevated Man](https://open.spotify.com/track/1QgYmRR6LrjIE7tAGOwkbq) | [Goatsnake](https://open.spotify.com/artist/5Ij5H3Ck98GRZoWSeyu4vz) | [Black Age Blues](https://open.spotify.com/album/6gR8eifCDVQ8u73JeqSGkP) | 4:37 |
 
-Snapshot ID: `MTY0MjQ3OTQ0MCwwMDAwMDAwMDQyZjUyMWFkYjM0ZGZiOGNhOWUwOWJiNGZmMWQ1OTQ3`
+Snapshot ID: `MTY0MjQ5MjI4MCwwMDAwMDAwMDQyZjUyMWFkYjM0ZGZiOGNhOWUwOWJiNGZmMWQ1OTQ3`

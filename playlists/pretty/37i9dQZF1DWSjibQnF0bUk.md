@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,301 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,328 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 59 | [Kilofeshe](https://open.spotify.com/track/6vg6CHlcsjLXCDKZHYtzwd) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Chrome](https://open.spotify.com/album/7kISXLFPktG2yJEQPbYN0J) | 2:45 |
 | 60 | [Abalele](https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Abalele](https://open.spotify.com/album/59lFnkd1eVH8wl0cAXAPoz) | 6:56 |
 
-Snapshot ID: `MTY0MjQ3ODc5MiwwMDAwMDAwMDgwZjFjZDY1MTY0NDMzNTZhYmJkYjQ0MjA2NmI4N2U1`
+Snapshot ID: `MTY0MjQ5MTc4OSwwMDAwMDAwMDgwZjFjZDY1MTY0NDMzNTZhYmJkYjQ0MjA2NmI4N2U1`

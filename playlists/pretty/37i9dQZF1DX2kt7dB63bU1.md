@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Cécile McLorin Salvant
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,744 likes - 116 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,745 likes - 116 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 115 | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/track/01Emc4morqvAuCfHjMm6rZ) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Stu Mindeman](https://open.spotify.com/artist/00w3V92c8guQhfULQ139v0) | [A Happy Thought \(feat\. Stu Mindeman\)](https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28) | 3:46 |
 | 116 | [Spinning Round](https://open.spotify.com/track/7MQMlrJnYXM7zH7fbqTmPZ) | [Jesse Palter](https://open.spotify.com/artist/15niPHI5A8nGIJVP9XjXNX) | [Spinning Round](https://open.spotify.com/album/3ejPqGb6wDzkMcDAjZZEyG) | 3:02 |
 
-Snapshot ID: `MTY0MjQ3OTEwMywwMDAwMDAwMGJjYTQ5OTk4NTRkMWRjOWQzNGViY2ZlNmVmOWVjNGEw`
+Snapshot ID: `MTY0MjQ5MjAxOCwwMDAwMDAwMGJjYTQ5OTk4NTRkMWRjOWQzNGViY2ZlNmVmOWVjNGEw`

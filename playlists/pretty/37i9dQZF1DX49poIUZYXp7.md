@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\.  Cover: Tenille Arts
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,448 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,472 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 99 | [Friends Don't](https://open.spotify.com/track/5YxhnFlztmiOKDDDkxmyh1) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [The Way It Feels](https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE) | 3:08 |
 | 100 | [Growing Old Young](https://open.spotify.com/track/31gcyn6Mhb8JM26hcSyuk2) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:26 |
 
-Snapshot ID: `MTY0MjQ3OTE1MiwwMDAwMDAwMDE3ZjFhNWEzNDIxMDAwNjE1MWIxNTcxYjYwMDExNzY4`
+Snapshot ID: `MTY0MjQ5MjA1NCwwMDAwMDAwMDE3ZjFhNWEzNDIxMDAwNjE1MWIxNTcxYjYwMDExNzY4`

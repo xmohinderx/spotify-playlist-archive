@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,526 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,518 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [bury a friend](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:13 |
 | 60 | [Dracula \- Main Edit](https://open.spotify.com/track/3yKFb0tjiiyCbgqyQkUQvA) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Dracula](https://open.spotify.com/album/1rk6Xn8Kod7DQH1Q4wOfRg) | 4:07 |
 
-Snapshot ID: `MTY0MjQ3OTM1NSwwMDAwMDAwMDg0Mjc0YjMyNWFiMWZjNTRjZDcxZDc4Mjc4ZjYwOGIw`
+Snapshot ID: `MTY0MjQ5MjIxNSwwMDAwMDAwMDg0Mjc0YjMyNWFiMWZjNTRjZDcxZDc4Mjc4ZjYwOGIw`

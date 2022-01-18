@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > emo feels for the misunderstood\. remembering Juice WRLD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,165,544 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,165,642 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 99 | [stuck](https://open.spotify.com/track/63PBsYANeKAvmW6vMMus4Y) | [Numl6ck](https://open.spotify.com/artist/2anlj4dNUn9I1VxxmjRHRx) | [stuck](https://open.spotify.com/album/2MlZFREXdi9MdOtBfeO5nD) | 2:06 |
 | 100 | [in love](https://open.spotify.com/track/0jcDwzxkfzdRHLiVHiRQII) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [in love](https://open.spotify.com/album/09GS5ONXA0R6l8oPCTsyzl) | 2:32 |
 
-Snapshot ID: `MTY0MjQ3OTI0NiwwMDAwMDAwMGVhZjdiOTMwZmRiMmYwOWZjNTYxMzU0OWY5ZjE0YjYw`
+Snapshot ID: `MTY0MjQ5MjEyOCwwMDAwMDAwMGVhZjdiOTMwZmRiMmYwOWZjNTYxMzU0OWY5ZjE0YjYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Canciones tristes para uno de esos días\. Sad songs just 4 you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,486 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,499 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 99 | [Bailando Lentos](https://open.spotify.com/track/3wLoHa8a0G7oIYWq65GopE) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Bailando Lentos](https://open.spotify.com/album/1RVeEtcP2zZWNLEw6UQj8W) | 3:27 |
 | 100 | [April](https://open.spotify.com/track/23PbT6VELTygvO7lFgtT9D) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [April](https://open.spotify.com/album/49OECynjQMXt2NB4FbAZtr) | 3:40 |
 
-Snapshot ID: `MTY0MjQ3OTA1NywwMDAwMDAwMGRjOGJmODJkMDcwYzQxZTIzMzFmNjdlMTMwMDBiMGIy`
+Snapshot ID: `MTY0MjQ5MTk4NCwwMDAwMDAwMGRjOGJmODJkMDcwYzQxZTIzMzFmNjdlMTMwMDBiMGIy`

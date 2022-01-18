@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favorite punks\. Cover: jxdn
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,442 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,441 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Last Christmas \- Studio Version](https://open.spotify.com/track/4XktdsM5pn4QfzfIbQmbE2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Christmas EP](https://open.spotify.com/album/2doWCGfknSdgTc7pM1N6Rf) | 4:27 |
 | 75 | [Merry Christmas](https://open.spotify.com/track/5EcEAeUw7wiMUhiyvsXhDB) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [Merry Christmas](https://open.spotify.com/album/7gMcoHELaPG7uhvMVNOWIo) | 5:03 |
 
-Snapshot ID: `MTY0MjQ3OTEzMSwwMDAwMDAwMDQzNzQ5ODFhMWFkMjU2MjJhODMyOGZlM2RlOTRmMWI3`
+Snapshot ID: `MTY0MjQ5MjAzOCwwMDAwMDAwMDQzNzQ5ODFhMWFkMjU2MjJhODMyOGZlM2RlOTRmMWI3`

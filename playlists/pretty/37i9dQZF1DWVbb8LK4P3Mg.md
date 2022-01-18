@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,125 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,115 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [Christmas Train](https://open.spotify.com/track/4SCRho0YNe4F2s0UnTFfkB) | [Linus' Blanket](https://open.spotify.com/artist/2XFSeoCf8No50etmN8b4Sy) | [Semester](https://open.spotify.com/album/1AgAMb8GV2JGgdIIYx4zfy) | 3:39 |
 | 100 | [Christmas in July](https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Christmas in July](https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2) | 3:59 |
 
-Snapshot ID: `MTY0MjQ3ODg3NiwwMDAwMDAwMDk2MmUzNDMyYzA2ODZlZWE0NGI2ZDE3MjRiZDRlMDg3`
+Snapshot ID: `MTY0MjQ5MTg0OSwwMDAwMDAwMDk2MmUzNDMyYzA2ODZlZWE0NGI2ZDE3MjRiZDRlMDg3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,727 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,773 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [Fossils](https://open.spotify.com/track/1xw0CwUE6XgVGnTkNMjrFg) | [Loop Faction](https://open.spotify.com/artist/1f0dZqs2JpuHbHDtxaNdKq), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR) | [Fossils](https://open.spotify.com/album/5Tc9dB08xZSu8OpaF9iBLG) | 2:47 |
 | 100 | [Simple](https://open.spotify.com/track/0aHwWRN3Nd1ul6rxmHLhca) | [Vitami](https://open.spotify.com/artist/31UlQ2ue3AUFaSlAzo94Gv), [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Simple](https://open.spotify.com/album/0ctcjfhMTJboU0jen5mgA3) | 3:22 |
 
-Snapshot ID: `MTY0MjQ3OTI4MSwwMDAwMDAwMDg5YzZjNmMyMTVlMTA3Y2JjYTQzM2JmNzFkNTljNDU2`
+Snapshot ID: `MTY0MjQ5MjE1NywwMDAwMDAwMDg5YzZjNmMyMTVlMTA3Y2JjYTQzM2JmNzFkNTljNDU2`

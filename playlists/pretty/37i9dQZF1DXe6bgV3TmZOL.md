@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,364,383 likes - 120 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,364,459 likes - 120 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 119 | [Burn!](https://open.spotify.com/track/3PkosLobiLp6RymQ20mzq5) | [Kobra And The Lotus](https://open.spotify.com/artist/5hW7RukGK6ErG26zM3Sfzl) | [Evolution](https://open.spotify.com/album/5MwckFZZCUtZE51d10XXbg) | 2:44 |
 | 120 | [Agree to Disagree](https://open.spotify.com/track/58Eyr2rZWIYM19qhpals74) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:02 |
 
-Snapshot ID: `MTY0MjQ3OTQ0NSwwMDAwMDAwMDk0ZDUyMGYwYjBhMmNlYzQ0OTdlYTdkOWM5Y2ZmNWZh`
+Snapshot ID: `MTY0MjQ5MjI4NCwwMDAwMDAwMDk0ZDUyMGYwYjBhMmNlYzQ0OTdlYTdkOWM5Y2ZmNWZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,406 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,445 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [Here I Am](https://open.spotify.com/track/30QcBbuGx1K2B4OymiNWNa) | [The Explosion](https://open.spotify.com/artist/7n6XZV14NcegGvyBFBU62z) | [Black Tape](https://open.spotify.com/album/6fKI9LW1GQ3jXesSPb74yh) | 2:47 |
 | 100 | [Zero Wheels](https://open.spotify.com/track/2mIGHGmiFWJSFrQry6t63e) | [PEARS](https://open.spotify.com/artist/1shBZ1oJHJaZaxq1Y6jyzY) | [PEARS](https://open.spotify.com/album/6Kz9nN5nMe0z0hP8xfIe7o) | 1:24 |
 
-Snapshot ID: `MTY0MjQ3OTEzMCwwMDAwMDAwMGRlZTU1MDcxY2ViNWUwMTMyOGExYTY4NDcwNjVjZjM2`
+Snapshot ID: `MTY0MjQ5MjAzOCwwMDAwMDAwMGRlZTU1MDcxY2ViNWUwMTMyOGExYTY4NDcwNjVjZjM2`

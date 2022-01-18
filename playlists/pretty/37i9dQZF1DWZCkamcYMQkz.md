@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Uplifting jazz to get you in good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,553 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,570 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [It's All Right With Me \- Rudy Van Gelder Edition/Digital Remaster/2006](https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [Introducing](https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd) | 5:00 |
 | 100 | [Green Eyes](https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Light\-Foot](https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR) | 5:19 |
 
-Snapshot ID: `MTY0MjQ3ODk4NiwwMDAwMDAwMGU1YmM4Y2JhNmM4ZGI5Yjc0MGE3YTE3NDZmY2E5YjJk`
+Snapshot ID: `MTY0MjQ5MTkzMiwwMDAwMDAwMGU1YmM4Y2JhNmM4ZGI5Yjc0MGE3YTE3NDZmY2E5YjJk`

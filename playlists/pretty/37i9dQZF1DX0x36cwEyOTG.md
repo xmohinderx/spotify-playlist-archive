@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,238 likes - 110 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,256 likes - 110 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [\-Out](https://open.spotify.com/track/7aD3SBHCmZRnXxU2vYaEEQ) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Chance of Rain](https://open.spotify.com/album/0dlVirw96s48bOpC7LQDNI) | 1:29 |
 | 110 | [Caves](https://open.spotify.com/track/57pTcQBErlQjfe2kfzLffr) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/42rcRgzjouEjRA4Qhp9iqC) | 3:53 |
 
-Snapshot ID: `MTY0MjQ3OTA0MywwMDAwMDAwMDg3MGE3MjIwYWI0M2RmZGZiYzk1MzlkYTg2MDFkMjYx`
+Snapshot ID: `MTY0MjQ5MTk3MywwMDAwMDAwMDg3MGE3MjIwYWI0M2RmZGZiYzk1MzlkYTg2MDFkMjYx`

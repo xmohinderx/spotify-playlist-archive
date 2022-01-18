@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Jazz, hip\-hop and funk in one flavor\. Cover: Guru
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,591 likes - 90 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,626 likes - 90 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Pushin On](https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin On](https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3) | 3:19 |
 | 90 | [Web of Deception](https://open.spotify.com/track/4g2dDlVCL7KMBhN6c37RjY) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Culture of Fear](https://open.spotify.com/album/7FYZT6dAKPQyLl5mUAZ263) | 4:32 |
 
-Snapshot ID: `MTY0MjQ3ODkzMywwMDAwMDAwMDgyNWNmMWIzNzkyMzE1NjI5YTY4YTEwYmQwZmNhMDdk`
+Snapshot ID: `MTY0MjQ5MTg5MCwwMDAwMDAwMDgyNWNmMWIzNzkyMzE1NjI5YTY4YTEwYmQwZmNhMDdk`

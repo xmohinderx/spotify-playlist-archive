@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > The great masterpieces of the genre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,219,741 likes - 150 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,219,870 likes - 150 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 149 | [One Of Us](https://open.spotify.com/track/7g5gZWKWTuS8N3OnM2g95g) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Relish](https://open.spotify.com/album/6WhOSilzSg4wFCRU11SKtr) | 5:21 |
 | 150 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
 
-Snapshot ID: `MTY0MjQ3OTI0NiwwMDAwMDAwMDNjMzJjZTljMjQ0ZTg2NjUzMmFiMjg1NDMzNWE0OTM0`
+Snapshot ID: `MTY0MjQ5MjEyNywwMDAwMDAwMDNjMzJjZTljMjQ0ZTg2NjUzMmFiMjg1NDMzNWE0OTM0`

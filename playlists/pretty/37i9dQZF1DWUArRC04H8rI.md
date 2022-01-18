@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 
 > A new generation making their own rules\. Cover: SIMONA
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,017 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,022 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 | 59 | [Anillo al dedo](https://open.spotify.com/track/0uaJS9jWxVe3VAYDOCBS4g) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Anillo al dedo](https://open.spotify.com/album/1GDnI83EYCQAn7SCCKE2pB) | 2:21 |
 | 60 | [Where Does The Love Go?](https://open.spotify.com/track/6AvpB3EobBINZu3NuA4fh1) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5), [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:56 |
 
-Snapshot ID: `MTY0MjQ3ODg0MiwwMDAwMDAwMDM3NjhiMWYwOWU1NGFlMjlhMWE0MjUxYzBlMjc0MDdi`
+Snapshot ID: `MTY0MjQ5MTgyNSwwMDAwMDAwMDM3NjhiMWYwOWU1NGFlMjlhMWE0MjUxYzBlMjc0MDdi`

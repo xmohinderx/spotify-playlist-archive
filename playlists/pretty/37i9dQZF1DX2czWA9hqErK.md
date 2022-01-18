@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,913 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,915 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 79 | [Alone \- Alternative Mix](https://open.spotify.com/track/1hIiWgqEAKLXyYAwWtGzZA) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Alone \(Alternative Mix\)](https://open.spotify.com/album/7mxXHwogbzZOyNvuK06HmB) | 3:39 |
 | 80 | [Forever Goodbye](https://open.spotify.com/track/29SnhlskgH4sAXFCVDUgNG) | [Billie Flynn](https://open.spotify.com/artist/5RmO3E0D98IDGfClRU7ICf) | [Hey Stranger](https://open.spotify.com/album/2HD4QAxpfB16O7SUt4EyMU) | 4:27 |
 
-Snapshot ID: `MTY0MjQ3OTEwMSwwMDAwMDAwMDMwNDUwMTUwMWNiZmIxZjM3MzI0YmU2MzE2MmE1ZWZm`
+Snapshot ID: `MTY0MjQ5MjAxNywwMDAwMDAwMDMwNDUwMTUwMWNiZmIxZjM3MzI0YmU2MzE2MmE1ZWZm`

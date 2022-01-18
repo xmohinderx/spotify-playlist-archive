@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > The perfect Latin tunes to get in the Christmas spirit\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,559 likes - 98 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,554 likes - 98 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 97 | [Christmas in California \(Latin Version\)](https://open.spotify.com/track/61UqDZ19KPdYj60nbVG7br) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Raff Pylon](https://open.spotify.com/artist/6XuPqTcx9G6F1Y5q0n9oB1), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Christmas in California \(Latin Version\)](https://open.spotify.com/album/73h5RtUWFdShegRwqZgTJJ) | 3:52 |
 | 98 | [Te Regalo](https://open.spotify.com/track/2h8ifm4ZdUjRMAMVjYYcQk) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Te Regalo](https://open.spotify.com/album/6WG0yEtxedxIVbpakcqKSl) | 3:01 |
 
-Snapshot ID: `MTY0MjQ3OTI5OCwwMDAwMDAwMGNhMjM5NmQzYmQyYjhiZWFkMjIzOGJiZWIwMGExMmM3`
+Snapshot ID: `MTY0MjQ5MjE3MCwwMDAwMDAwMGNhMjM5NmQzYmQyYjhiZWFkMjIzOGJiZWIwMGExMmM3`

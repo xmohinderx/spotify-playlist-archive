@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 
 > Vintage soul gems from the archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,095 likes - 131 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,108 likes - 131 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 130 | [Yellow Sunshine](https://open.spotify.com/track/2qmmw7HDfGNVFr3e9s26Cc) | [Yellow Sunshine](https://open.spotify.com/artist/7m64pEAzGkLbAlbX2g0Mmj) | [Conquer The World: The Lost Soul Of Philadelphia International Records](https://open.spotify.com/album/36EyfRc4KIyWtqdIZw1xSX) | 3:23 |
 | 131 | [You Got Your Hooks in Me](https://open.spotify.com/track/6Hv6rGm9aboHovFv49pKiT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 5:33 |
 
-Snapshot ID: `MTY0MjQ3OTM5MSwwMDAwMDAwMGU2MTk0YzNiOGEzYTFlN2M2ZDZhOTUyYjc3MDA3ZGVj`
+Snapshot ID: `MTY0MjQ5MjI0MiwwMDAwMDAwMGU2MTk0YzNiOGEzYTFlN2M2ZDZhOTUyYjc3MDA3ZGVj`

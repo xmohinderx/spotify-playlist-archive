@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,830 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,829 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Come By](https://open.spotify.com/track/6eIfJp81gBOZml7f0Z3H6v) | [Atso](https://open.spotify.com/artist/0bAwfxwkc4LppKT8SwLgbN) | [Come By](https://open.spotify.com/album/7ANw8XxxAtWEton5SsAnuG) | 3:19 |
 | 50 | [Leva igen](https://open.spotify.com/track/16UFJVqJUCLCBLvnjQkLtm) | [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u), [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f) | [Högre standard, vol\. 3 & 4](https://open.spotify.com/album/6zpHmFKGG8BOLwDpfgHnIY) | 3:04 |
 
-Snapshot ID: `MTY0MjQ3OTE1OCwwMDAwMDAwMDAwYThiOGM1YTA0ZGRhYTMyZmQ4MzFiZTAxOGRiMDNi`
+Snapshot ID: `MTY0MjQ5MjA1OCwwMDAwMDAwMDAwYThiOGM1YTA0ZGRhYTMyZmQ4MzFiZTAxOGRiMDNi`

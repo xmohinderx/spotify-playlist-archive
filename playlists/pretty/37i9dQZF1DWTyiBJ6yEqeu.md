@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 
 > 30 new tracks curated by <a href="spotify:user:fazeclan">FaZe Clan</a> featuring various friends of FaZe and other songs/artists we like at the moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,120,720 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,120,642 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 | 99 | [Own Brand Freestyle](https://open.spotify.com/track/6Jzdxguk63s6CVVXHIrQ0x) | [FelixThe1st](https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg), [Dreya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP), [Finch Fetti](https://open.spotify.com/artist/5lup4fypQIoHxiE67ue1yi) | [Own Brand Freestyle](https://open.spotify.com/album/7lR5tiB0EL8xr8HodoIXg7) | 2:33 |
 | 100 | [Way Out \(feat\. Big Sean\)](https://open.spotify.com/track/6rLi6PyWXu1rPlShuIZpj6) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Way Out \(feat\. Big Sean\)](https://open.spotify.com/album/4TEJbgC8t4vVyIhDyxA6DU) | 2:48 |
 
-Snapshot ID: `MTY0MjQ3ODgzNSwwMDAwMDAwMDgxYzkxNTViNjZiM2FiMDM5OWFlNzFiM2M3NmM3MmI0`
+Snapshot ID: `MTY0MjQ5MTgxOSwwMDAwMDAwMDgxYzkxNTViNjZiM2FiMDM5OWFlNzFiM2M3NmM3MmI0`

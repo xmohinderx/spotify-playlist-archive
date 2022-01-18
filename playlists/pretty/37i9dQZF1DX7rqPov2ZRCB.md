@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,306 likes - 51 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,309 likes - 51 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [Popurry de Alex Bueno](https://open.spotify.com/track/2dRarqm3hRlcHwlOecDX4R) | [Banda Real](https://open.spotify.com/artist/45QUD9oZxg3rGkSDEFI0i6) | [Two Strong Live \(Summer Latino, Vol.2\)](https://open.spotify.com/album/1McWsUpoxjfln3hhXWq5d6) | 6:35 |
 | 51 | [El Guayubín](https://open.spotify.com/track/0bn4KWIMPARoSpm9AGcGGX) | [Cuarteto Hernández](https://open.spotify.com/artist/3RR6bgZIgDYpY7wqQItU7w) | [El Mero Merengue \- Lo Mejor del Perico Ripiao](https://open.spotify.com/album/36lyiyuuOJJ4rZ0PHMAo2F) | 5:33 |
 
-Snapshot ID: `MTY0MjQ3OTI3MCwwMDAwMDAwMGQ1OGIyNWFmNDAyMzIxODIzYzJlY2UzMTZhOTE5OTk3`
+Snapshot ID: `MTY0MjQ5MjE0NywwMDAwMDAwMGQ1OGIyNWFmNDAyMzIxODIzYzJlY2UzMTZhOTE5OTk3`

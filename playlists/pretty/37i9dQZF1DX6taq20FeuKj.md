@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 
 > Get your gaming session going with this epic rap mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,922,998 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,923,041 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6taq20FeuKj.md) - [plain]
 | 99 | [Sleepy Hollow](https://open.spotify.com/track/3v84EI4rMdsqJ95MxwIjQa) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sleepy Hollow](https://open.spotify.com/album/6okrLJSnDYORkEkFRnvj9D) | 1:41 |
 | 100 | [Voice of the Heroes](https://open.spotify.com/track/76TdbFXIck9C5IjDy2J2ia) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Voice of the Heroes](https://open.spotify.com/album/3lbQu3PhDhu1BkKxfP3MhF) | 3:29 |
 
-Snapshot ID: `MTY0MjQ3OTI0NCwwMDAwMDAwMDQxNGUxNTEzMTA5NzZlODI1Mjk3N2RjMmI5YTI4M2M2`
+Snapshot ID: `MTY0MjQ5MjEyNiwwMDAwMDAwMDQxNGUxNTEzMTA5NzZlODI1Mjk3N2RjMmI5YTI4M2M2`

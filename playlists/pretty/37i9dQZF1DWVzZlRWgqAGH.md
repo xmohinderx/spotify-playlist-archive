@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Smooth joints\. Cover: Terrace Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,775 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,810 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 99 | [Not Easy Love \(feat\. Demae\)](https://open.spotify.com/track/33Of2CworbU1G1G08eMtdA) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Not Easy Love \(feat\. Demae\)](https://open.spotify.com/album/3WtpXMzF2W52quvJO7mMMN) | 2:57 |
 | 100 | [Am I Crazy](https://open.spotify.com/track/5HgiyNUErXASIDgq0rSdi6) | [Mathieu Boogaerts](https://open.spotify.com/artist/0LlWS1VC17Bpd2RUd6enaQ) | [Am I Crazy](https://open.spotify.com/album/7F3TbbnE1MkLtraAPoYoeT) | 2:18 |
 
-Snapshot ID: `MTY0MjQ3ODg5MywwMDAwMDAwMGY1NmVmOGI4OTM3NWE1ODRiMDExMzBlN2JmNDUwNGVk`
+Snapshot ID: `MTY0MjQ5MTg2MCwwMDAwMDAwMGY1NmVmOGI4OTM3NWE1ODRiMDExMzBlN2JmNDUwNGVk`

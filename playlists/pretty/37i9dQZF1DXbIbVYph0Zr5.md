@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 
 > The perfect soundtrack recipe for a backyard barbecue!
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,805 likes - 120 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,827 likes - 120 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIbVYph0Zr5.md) - [plain]
 | 119 | [Rich](https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:28 |
 | 120 | [Good Time](https://open.spotify.com/track/6lyKOW0FNW6aAZdKVgoM8m) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Good Time](https://open.spotify.com/album/3HfbZ0TmLbCesnG7tjf6Lh) | 5:06 |
 
-Snapshot ID: `MTY0MjQ3OTM2OCwwMDAwMDAwMGI1NGRkMDA2ZGRmNWUzNTA0NWIyMjYzYmM4ZTg0ZDY2`
+Snapshot ID: `MTY0MjQ5MjIyNSwwMDAwMDAwMGI1NGRkMDA2ZGRmNWUzNTA0NWIyMjYzYmM4ZTg0ZDY2`

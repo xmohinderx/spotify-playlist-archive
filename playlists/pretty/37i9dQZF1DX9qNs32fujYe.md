@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Judas Priest
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,685 likes - 140 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,705 likes - 140 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 139 | [For No Reason](https://open.spotify.com/track/03vyanFcfUmZAwsZC5Ni1S) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [For No Reason](https://open.spotify.com/album/6a2JPdIQjb9egT8EI492OO) | 4:44 |
 | 140 | [Along Came the Devil](https://open.spotify.com/track/0g7Wb6Dbe2sfwdntWnkv1W) | [Primal Fear](https://open.spotify.com/artist/1yfiDL3YUEJlQCgb5Pun6g) | [Along Came the Devil](https://open.spotify.com/album/17XgA2THnPbYLArrBahaIW) | 4:21 |
 
-Snapshot ID: `MTY0MjQ3OTMyNCwwMDAwMDAwMDhhOWM1MWExMzFiYjRkMDFkYjJhZDU1YWE2MWVlZWYy`
+Snapshot ID: `MTY0MjQ5MjE5MSwwMDAwMDAwMDhhOWM1MWExMzFiYjRkMDFkYjJhZDU1YWE2MWVlZWYy`

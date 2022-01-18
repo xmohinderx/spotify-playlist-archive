@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 
 > Deja que el sentimiento de los boleros te enamore a la antigua.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,079 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,092 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vgSlPsXGnX.md) - [plain]
 | 74 | [Mil Cosas](https://open.spotify.com/track/7lkHrnZwb0VfZClTTezQRc) | [Alberto Beltran](https://open.spotify.com/artist/1UY72czIEtc3qM7iddiS8R) | [Alberto Beltran \- Boleros De Siempre](https://open.spotify.com/album/7mcLkzB84Y9Nr5ihIfdPdm) | 2:51 |
 | 75 | [Yo Tengo un Amor](https://open.spotify.com/track/6pZk7OJ56206gZX6Vx1M1Z) | [Virginia Lopez](https://open.spotify.com/artist/3vEgzbeKwiwMKhpjdJ4xpS) | [Los Grandes Éxitos de Virginia López](https://open.spotify.com/album/01htIudLlW1wIt7D8xDmHD) | 1:58 |
 
-Snapshot ID: `MTY0MjQ3OTMyOCwwMDAwMDAwMDYzZjRlYTEzMWM0ZDI1OTA4N2MzOGQxZDdhZThiMThi`
+Snapshot ID: `MTY0MjQ5MjE5MywwMDAwMDAwMDYzZjRlYTEzMWM0ZDI1OTA4N2MzOGQxZDdhZThiMThi`

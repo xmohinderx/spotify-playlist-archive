@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,370 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,376 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Supaflow](https://open.spotify.com/track/2wX74JRMdBZBv6YVfCLK7n) | [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R) | [Supaflow](https://open.spotify.com/album/1xNZMcyngkhyiADLYbzVL0) | 2:02 |
 | 80 | [Fuck This Place Up \(feat\. Famous Dex\)](https://open.spotify.com/track/7FCea5NIPJMVCocWrN2uIw) | [HAYES](https://open.spotify.com/artist/60Vo6QqGGmDzr6ZiwqNxxP), [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi), [Famous Dex](https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W) | [Fuck This Place Up \(feat\. Famous Dex\)](https://open.spotify.com/album/6l2ayHTTAOQ7OI5fncyDFi) | 2:17 |
 
-Snapshot ID: `MTY0MjQ3OTI1MywwMDAwMDAwMGNmZDE2ODQ1M2NmOTI0Y2UyYjQzMGUxOGFjODBhZTNj`
+Snapshot ID: `MTY0MjQ5MjEzNCwwMDAwMDAwMGNmZDE2ODQ1M2NmOTI0Y2UyYjQzMGUxOGFjODBhZTNj`

@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/3X9pREhPT1sgh0QMNyY8S7)
 
-> With John Mayer, Blake Rose, Penny and Sparrow, Lake Street Dive and more
+> With John Mayer, Penny and Sparrow, Matt Nathanson, A R I Z O N A and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

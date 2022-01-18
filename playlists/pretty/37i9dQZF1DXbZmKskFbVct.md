@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 48 | [Identifying the Different Fantasy Coins](https://open.spotify.com/track/6Y53WoHgjy7RwHh7AXiROE) | [Moonlight Cottage ASMR](https://open.spotify.com/artist/7HTOAi6IQXsE54wqgwYdFn) | [Sorting Fantasy & Medieval Coins \| ASMR Cozy Basics](https://open.spotify.com/album/53mRZ0RNRh0pMAkFMrhLV8) | 5:03 |
 | 49 | [Anticipatory Ear to Ear Whispers Pt.1](https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT) | [Slight Sounds ASMR](https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts) | [Anticipatory Ear to Ear Whisepers](https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL) | 5:22 |
 
-Snapshot ID: `MTY0MjQ3OTM3NCwwMDAwMDAwMDY0MzA3Mjk4ZjBiOWU4NGJiY2EzMDFlMDIzZTQzNTdi`
+Snapshot ID: `MTY0MjQ5MjIzMCwwMDAwMDAwMDY0MzA3Mjk4ZjBiOWU4NGJiY2EzMDFlMDIzZTQzNTdi`

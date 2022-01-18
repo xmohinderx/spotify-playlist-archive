@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Cover: El General Villamil
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,560 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,561 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [No Pasara](https://open.spotify.com/track/4EB5HtpOZ71vrl6WvjeiBt) | [Quatro](https://open.spotify.com/artist/0buT7bfmLPu4wKFXqPAHuJ), [Sir Marquis](https://open.spotify.com/artist/2PYFblg9jHNvhZaKMmz5mv) | [No Pasara](https://open.spotify.com/album/1Eo4lCHBoXkL7FHwdgMckY) | 3:38 |
 | 50 | [Loco y salvaje](https://open.spotify.com/track/5DMHo6ndpVf6AscYGMv1gg) | [Falvi](https://open.spotify.com/artist/15yMlPVeiG7OuZOKODccFB) | [Loco y salvaje](https://open.spotify.com/album/5ZCRwFQCjzrFx1lrSTjYeg) | 4:31 |
 
-Snapshot ID: `MTY0MjQ3OTM1MSwwMDAwMDAwMDY2NGMzYjhjZGNkNjJjMjVjODAyODJjNmEyZWU3YjBl`
+Snapshot ID: `MTY0MjQ5MjIxMSwwMDAwMDAwMDY2NGMzYjhjZGNkNjJjMjVjODAyODJjNmEyZWU3YjBl`

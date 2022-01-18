@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,302 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,304 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Sad boy](https://open.spotify.com/track/4PkP9bwUUDOy616Ve9qEid) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Sad boy](https://open.spotify.com/album/1zo36S5mDeSWKWF47P7a8U) | 2:41 |
 | 100 | [Oh Baby](https://open.spotify.com/track/5KeJHKaYCrj7zlCmUQFJgM) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [FELIPE](https://open.spotify.com/album/50rSkiR15M7T5u517w92F2) | 2:45 |
 
-Snapshot ID: `MTY0MjQ3OTAzNiwwMDAwMDAwMGJiYjQ3MzU4NzE2N2FlNWE1YzhjMWQ1MTBkOGY2N2E3`
+Snapshot ID: `MTY0MjQ5MTk2OCwwMDAwMDAwMGJiYjQ3MzU4NzE2N2FlNWE1YzhjMWQ1MTBkOGY2N2E3`

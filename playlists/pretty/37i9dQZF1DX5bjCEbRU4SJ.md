@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,949 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,947 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 69 | [Dear God \(Sincerely M.O.F.\)](https://open.spotify.com/track/3HrSMLKhDn6mpvc68YuY5W) | [Monsters Of Folk](https://open.spotify.com/artist/7wcYEfyBTrH0iT6J4PgSTj) | [Monsters Of Folk](https://open.spotify.com/album/0S0PP3XHUjfCQwnBnTYOLL) | 5:07 |
 | 70 | [Summer Song](https://open.spotify.com/track/0BnmlQwwBhffGlPtN0dNuT) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw) | [The Year Of The Leopard](https://open.spotify.com/album/4yeY5ZJS5I8NA4L9Q9p6Xx) | 4:25 |
 
-Snapshot ID: `MTY0MjQ3OTIwNSwwMDAwMDAwMGEwNjAyNDk0ODFiMTg4MGJlMzc0NTQ0YjYyNzJiNjU3`
+Snapshot ID: `MTY0MjQ5MjA5NSwwMDAwMDAwMGEwNjAyNDk0ODFiMTg4MGJlMzc0NTQ0YjYyNzJiNjU3`

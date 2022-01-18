@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 814,023 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 814,076 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 59 | [Fractal Forms](https://open.spotify.com/track/63ad26ATXX70Ra2GxCPvvx) | [Earmake](https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC), [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Unusual Cosmic Process](https://open.spotify.com/artist/37oPFegoFXsfDNMdVOASlT) | [Fractal Forms](https://open.spotify.com/album/7yhSFo6FnhnmWjjJc98do6) | 3:55 |
 | 60 | [Transmission](https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Transmission](https://open.spotify.com/album/5OcuXU4YAlttA7FZtxMUrw) | 3:06 |
 
-Snapshot ID: `MTY0MjQ3OTQyMywwMDAwMDAwMGZkMTdmMTEyZDM0OTQ1NDFmMTM4OWNmNjUwZTBjMjM5`
+Snapshot ID: `MTY0MjQ5MjI2NiwwMDAwMDAwMGZkMTdmMTEyZDM0OTQ1NDFmMTM4OWNmNjUwZTBjMjM5`

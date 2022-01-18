@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,234 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,246 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 99 | [Aloha](https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aloha](https://open.spotify.com/album/23T1akaF3cPN6Pp27JQ8vi) | 3:07 |
 | 100 | [Ola Adiós](https://open.spotify.com/track/4Ko9JaLUvf54PmluMaDCqm) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Ola Adiós](https://open.spotify.com/album/2u4DIClRI7TDUbRY4mDZyr) | 3:03 |
 
-Snapshot ID: `MTY0MjQ3OTE0MSwwMDAwMDAwMDZiYjIyN2M5ZGFlYzAxMGU5NWU1NWYyNTdmY2E3Y2Ez`
+Snapshot ID: `MTY0MjQ5MjA0NSwwMDAwMDAwMDZiYjIyN2M5ZGFlYzAxMGU5NWU1NWYyNTdmY2E3Y2Ez`

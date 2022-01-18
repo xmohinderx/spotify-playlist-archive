@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,668 likes - 200 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,705 likes - 200 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 199 | [Psycho \- Yours Truly: 2018](https://open.spotify.com/track/4G856Y3xiqpJAg0B1XJNAw) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Psycho \(Yours Truly: 2018\)](https://open.spotify.com/album/6r3iKCgag1XfEarozWc59e) | 3:30 |
 | 200 | [High Horse](https://open.spotify.com/track/3gOkRSnm9jzoAQvLPvlvhB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [High Horse](https://open.spotify.com/album/36obb93i3SdFfsWbcbTkqf) | 3:26 |
 
-Snapshot ID: `MTY0MjQ3OTEwMiwwMDAwMDAwMDdjZWIyY2RhOTQyZGUzNjYyZmU5NDg1YjNmMDIzZmUx`
+Snapshot ID: `MTY0MjQ5MjAxOCwwMDAwMDAwMDdjZWIyY2RhOTQyZGUzNjYyZmU5NDg1YjNmMDIzZmUx`

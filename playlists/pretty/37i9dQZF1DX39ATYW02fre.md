@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,997 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,002 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 49 | [Promise](https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9) | 3:29 |
 | 50 | [Nightcrawler](https://open.spotify.com/track/18SLJP3bbntdyiMuRTonc2) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/7MFGMQ53RAZbsOR9K0JQId) | 3:45 |
 
-Snapshot ID: `MTY0MjQ3OTEyMSwwMDAwMDAwMDBmODg3Y2VkODA5N2FjMGVlMzRiZjFhNmNjOTkwMjU4`
+Snapshot ID: `MTY0MjQ5MjAzMiwwMDAwMDAwMDBmODg3Y2VkODA5N2FjMGVlMzRiZjFhNmNjOTkwMjU4`

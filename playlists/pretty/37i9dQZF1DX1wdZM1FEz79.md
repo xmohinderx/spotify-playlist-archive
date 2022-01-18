@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: PERC%NT\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,230 likes - 52 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,232 likes - 52 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [Night Sky](https://open.spotify.com/track/2s1GJh3L6PXeEm5SgHALZT) | [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu), [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [Night Sky](https://open.spotify.com/album/0D9TASJi9ZEpwQFtfZWiDt) | 1:58 |
 | 52 | [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 |
 
-Snapshot ID: `MTY0MjQ3OTA3OSwwMDAwMDAwMDdiYmJjYjg5NGMyOTc4ZTlkMWYyMGZmYTU0MjRlMTEw`
+Snapshot ID: `MTY0MjQ5MjAwMCwwMDAwMDAwMDdiYmJjYjg5NGMyOTc4ZTlkMWYyMGZmYTU0MjRlMTEw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Gå loss till Spotifys fetaste festlåtar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,283 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,287 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 79 | [You Know](https://open.spotify.com/track/0upmhqjGvyv5E3kmcFls4q) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [You Know](https://open.spotify.com/album/7aZeFisQStqBCwBxcOlI11) | 2:06 |
 | 80 | [Sway](https://open.spotify.com/track/6lB3F3JJGPsYvJ2ePgIjzx) | [Andrelli](https://open.spotify.com/artist/5M2y5A6d5QZjw9JeKClagC), [Shirin](https://open.spotify.com/artist/79JTEMLzQSqwCjtoxjTy8D) | [Sway](https://open.spotify.com/album/1yKxNNpJ5nMZs3fhQfctdw) | 2:57 |
 
-Snapshot ID: `MTY0MjQ3OTA0MSwwMDAwMDAwMDMyZjk3MzUwYmUyYTk5ZmFkZDhkMzE4MDM0YzEyNjk0`
+Snapshot ID: `MTY0MjQ5MTk3MiwwMDAwMDAwMDMyZjk3MzUwYmUyYTk5ZmFkZDhkMzE4MDM0YzEyNjk0`

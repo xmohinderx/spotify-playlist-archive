@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 > All your indie favorites\. Cover: Mac DeMarco
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,374 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,430 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 99 | [Lemon Glow](https://open.spotify.com/track/7pD6katrwWH7H3Xt8cIZS9) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/4qftBBO7pnYlek3mRENIvM) | 4:04 |
 | 100 | [All My Happiness is Gone](https://open.spotify.com/track/3NEeKJm8LcdaDG98oZwSZx) | [Purple Mountains](https://open.spotify.com/artist/1ll45mCZIveI9KHNZx2DdS) | [Purple Mountains](https://open.spotify.com/album/5NCdiiTgky5PbjmCtcgwtn) | 4:20 |
 
-Snapshot ID: `MTY0MjQ3OTA4NCwwMDAwMDAwMGNiZTNiOTQ0YTMwYmNhZmFkZGM5MDcxNzMyZmEwMThi`
+Snapshot ID: `MTY0MjQ5MjAwNCwwMDAwMDAwMGNiZTNiOTQ0YTMwYmNhZmFkZGM5MDcxNzMyZmEwMThi`

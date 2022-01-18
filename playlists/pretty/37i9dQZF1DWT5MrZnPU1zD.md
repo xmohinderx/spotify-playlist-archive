@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,560,641 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,560,696 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Big Homie \(feat\. 2 Chainz\)](https://open.spotify.com/track/0tpFIosXHWmkKKONpRXCeO) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Big Homie \(feat\. 2 Chainz\)](https://open.spotify.com/album/4L7n3BuiolmqWznU4IRco4) | 3:23 |
 | 100 | [SUPERSTAR](https://open.spotify.com/track/2iJjs5CPZCgsAY368q23OA) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [F\*CK YOUR FEELINGS](https://open.spotify.com/album/1A5FrlktD43P50z8quqGPS) | 1:42 |
 
-Snapshot ID: `MTY0MjQ3ODgwNSwwMDAwMDAwMDcxMjI4NjUwZTZmZDkxMTFiNmZhOGRlMzg2YTVmNWQ4`
+Snapshot ID: `MTY0MjQ5MTc5OCwwMDAwMDAwMDcxMjI4NjUwZTZmZDkxMTFiNmZhOGRlMzg2YTVmNWQ4`

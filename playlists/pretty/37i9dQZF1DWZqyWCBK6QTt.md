@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 
 > The songs you love, in ways you’ve never heard before\.  Cover: Zoe Wees, YUNGBLUD, and FLETCHER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,265 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,267 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqyWCBK6QTt.md) - [plain]
 | 149 | [Take Me Home, Country Road \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0iAJ5J7hGRnaY3zWXACbws) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Spotify Singles](https://open.spotify.com/album/3ZDrKkU07CxXL2WxxXyoxH) | 4:22 |
 | 150 | [Let Me Love You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:41 |
 
-Snapshot ID: `MTY0MjQ3OTAwNSwwMDAwMDAwMDYxMWQwZDVlYzNiYzgzNmFmZTRhNmJiMGMzY2EyYmEx`
+Snapshot ID: `MTY0MjQ5MTk0NSwwMDAwMDAwMDYxMWQwZDVlYzNiYzgzNmFmZTRhNmJiMGMzY2EyYmEx`

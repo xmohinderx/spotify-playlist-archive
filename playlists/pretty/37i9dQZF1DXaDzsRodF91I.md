@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,708 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,727 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [Beat It](https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:49 |
 | 100 | [White Woman’s Instagram](https://open.spotify.com/track/7rZWDPaEop6YlaCreDNb2T) | [Cat Damage](https://open.spotify.com/artist/3CCkBT8fjj6VcrgZrmY1cX), [Nathan LeVang](https://open.spotify.com/artist/5obZT7XOtMcNPZZvuFUzmr) | [White Woman’s Instagram](https://open.spotify.com/album/2ZMWKVOxZlFsY4gPTFU3Vr) | 4:27 |
 
-Snapshot ID: `MTY0MjQ3OTMzNiwwMDAwMDAwMDQxMzNiM2Y3OGNjM2U1ZWMwM2EzM2VlNTA0NmZkNWRh`
+Snapshot ID: `MTY0MjQ5MjE5OSwwMDAwMDAwMDQxMzNiM2Y3OGNjM2U1ZWMwM2EzM2VlNTA0NmZkNWRh`

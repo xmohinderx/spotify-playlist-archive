@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 
 > Some of the most influential and innovative voices in hip\-hop—yesterday, today, tomorrow\. Cover: Saweetie & Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,796 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,804 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5l9rcXWdrth.md) - [plain]
 | 49 | [End Like That](https://open.spotify.com/track/7m60tOsgFlWoLTk1Y8zAHJ) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Young HeartThrob](https://open.spotify.com/album/7lmS1zDxOuTlJrJ8C1NHEW) | 3:39 |
 | 50 | [Straight To It](https://open.spotify.com/track/6r9zoV35UeEAh12sGS8gek) | [Young Devyn](https://open.spotify.com/artist/5JPJZcr0m2OkOEA1pagpSb) | [Straight To It](https://open.spotify.com/album/6EsPEoQqFEqSrUbLqAxAMP) | 1:52 |
 
-Snapshot ID: `MTY0MjQ3OTIxMCwwMDAwMDAwMDY4MTM4YzA0MTE3YThhYTUxOTk3NjI5YjMxMTE2NDAy`
+Snapshot ID: `MTY0MjQ5MjEwMCwwMDAwMDAwMDY4MTM4YzA0MTE3YThhYTUxOTk3NjI5YjMxMTE2NDAy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover: Canon
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,905 likes - 80 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,908 likes - 80 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 79 | [Keeping On](https://open.spotify.com/track/70d7mKdWHKtw1YL6BZXOrL) | [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [No, I'm Not Ok](https://open.spotify.com/album/3u4r7PPpeLlX274Ks1wGQp) | 3:11 |
 | 80 | [Scam Likely](https://open.spotify.com/track/3it9fpQ311Eq6LBZITUQDM) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Scam Likely](https://open.spotify.com/album/68iFUTHigpOwePrMZkwWaG) | 2:35 |
 
-Snapshot ID: `MTY0MjQ3OTI1MywwMDAwMDAwMDgyNTk3ZDg1YjJlZWE4MTU0ZWQ0ODg0NWJjOWQ4ZTQ5`
+Snapshot ID: `MTY0MjQ5MjEzMywwMDAwMDAwMDgyNTk3ZDg1YjJlZWE4MTU0ZWQ0ODg0NWJjOWQ4ZTQ5`

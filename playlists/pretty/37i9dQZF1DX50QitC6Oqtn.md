@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,433,761 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,433,844 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 99 | [Big Plans](https://open.spotify.com/track/6Yx181fZzA0YE2EkUsYruq) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Big Plans](https://open.spotify.com/album/4XSRrYHawXjGuQ6qEk3Kk5) | 2:59 |
 | 100 | [this is what falling in love feels like](https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) | 2:00 |
 
-Snapshot ID: `MTY0MjQ3OTE4MiwwMDAwMDAwMGNkYTZlMzJjOTRlNzg2NDYwN2RlZWZlODVkOTNlMmJi`
+Snapshot ID: `MTY0MjQ5MjA3NywwMDAwMDAwMGNkYTZlMzJjOTRlNzg2NDYwN2RlZWZlODVkOTNlMmJi`

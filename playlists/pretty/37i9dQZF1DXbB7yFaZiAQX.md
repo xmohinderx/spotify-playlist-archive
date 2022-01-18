@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,616 likes - 150 songs - 10 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,668 likes - 150 songs - 10 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbB7yFaZiAQX.md) - [plain]
 | 149 | [On my Radio](https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD) | [The Selecter](https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF) | [The Very Best of The Selecter](https://open.spotify.com/album/1Sk2mljWUTXFEtZpoT0fPg) | 3:05 |
 | 150 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/42l1eOB0qSkTxHdEZEhqem) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/5CoUCJmVlRuGJUKjx8Zh4T) | 4:04 |
 
-Snapshot ID: `MTY0MjQ3OTM2NSwwMDAwMDAwMDZmZTM5ZGYxZWZjYWFjNjUyYmFjMzUyNzViM2RhNTJl`
+Snapshot ID: `MTY0MjQ5MjIyMywwMDAwMDAwMDZmZTM5ZGYxZWZjYWFjNjUyYmFjMzUyNzViM2RhNTJl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,783 likes - 66 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,780 likes - 66 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 65 | [Regalo de Reyes](https://open.spotify.com/track/5uWlCqWGU5hyFXoi1secps) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Regalo de Reyes](https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo) | 2:49 |
 | 66 | [Así Es La Navidad](https://open.spotify.com/track/5ecgiP07SpndBqocVToBmi) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Así Es La Navidad](https://open.spotify.com/album/4To1OVLzcKn6hCnNTRZQvf) | 3:09 |
 
-Snapshot ID: `MTY0MjQ3OTE1MywwMDAwMDAwMDgwYWFmOTdiMTlkYmU0OGQ0N2ZhZGVkNTY1MTFmOTBj`
+Snapshot ID: `MTY0MjQ5MjA1NCwwMDAwMDAwMDgwYWFmOTdiMTlkYmU0OGQ0N2ZhZGVkNTY1MTFmOTBj`

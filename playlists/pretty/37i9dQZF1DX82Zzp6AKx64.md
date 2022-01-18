@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > A collection of rock's best power ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,476 likes - 100 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,485 likes - 100 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 99 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 |
 | 100 | [Oh! Darling \- 2019 Mix](https://open.spotify.com/track/0vCuYbvaN9wd8dA0LZ40i7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Oh! Darling](https://open.spotify.com/album/3mzeYrRmSSnOjEvJaaZVR9) | 3:27 |
 
-Snapshot ID: `MTY0MjQ3OTI3NCwwMDAwMDAwMGY3MmQ1YTMzNGQ5MjEyM2NmNmNkOWY1NWMwOWQwMDMw`
+Snapshot ID: `MTY0MjQ5MjE1MCwwMDAwMDAwMGY3MmQ1YTMzNGQ5MjEyM2NmNmNkOWY1NWMwOWQwMDMw`

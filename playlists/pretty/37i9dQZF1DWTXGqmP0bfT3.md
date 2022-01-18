@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,315 likes - 150 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,341 likes - 150 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 149 | [One Man Army](https://open.spotify.com/track/0abHvyyQu4s82Vzq4z5vLI) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [One Man Army](https://open.spotify.com/album/5Gifsqd4VLBFcV8E4RoJHl) | 4:25 |
 | 150 | [Still Echoes](https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:22 |
 
-Snapshot ID: `MTY0MjQ3ODgyNCwwMDAwMDAwMDg0M2Q1Mjk4YWI5YjMxYzQ2YjU0YmNkMGE1MTc2ZjU2`
+Snapshot ID: `MTY0MjQ5MTgxMywwMDAwMDAwMDg0M2Q1Mjk4YWI5YjMxYzQ2YjU0YmNkMGE1MTc2ZjU2`

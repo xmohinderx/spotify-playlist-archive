@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,228 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,231 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Eu Te Amo Demais](https://open.spotify.com/track/3irykMj55KGyq0Y0ESPsnz) | [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Rodrigo Carazo](https://open.spotify.com/artist/0zuCB4mpzbAyPiU4PzuTYv) | [Eu Te Amo Demais](https://open.spotify.com/album/2RwxaLaJ4mHbjrFc2zoskp) | 2:20 |
 | 60 | [A Volta Que o Mundo Deu](https://open.spotify.com/track/5KqDsz2SIUvzOCUAFdvqUE) | [Paulo Nazareth](https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40), [Nic Medeiros](https://open.spotify.com/artist/7z4f7gF5I8R1ZQVPao5Tts) | [A Volta Que o Mundo Deu](https://open.spotify.com/album/0eFZN0pBuyzoBxSASujUwq) | 3:16 |
 
-Snapshot ID: `MTY0MjQ3OTI1MywwMDAwMDAwMGViN2NiYWExYmI5OWNlNGFkYjY0YmYwY2QwYzEwZTVl`
+Snapshot ID: `MTY0MjQ5MjEzMywwMDAwMDAwMGViN2NiYWExYmI5OWNlNGFkYjY0YmYwY2QwYzEwZTVl`

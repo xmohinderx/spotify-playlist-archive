@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 
 > every main character needs their soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,275 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,526 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OzrY981I1W.md) - [plain]
 | 74 | [You Want Everyone To Love You](https://open.spotify.com/track/1OMpWqQCH6GGmHtHJ1xeZk) | [Bestfriend](https://open.spotify.com/artist/31U6NSHBgz425cHygspVPZ) | [places i’ve lived](https://open.spotify.com/album/5upABJYpPbI6bGWI4UlaEM) | 4:04 |
 | 75 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 |
 
-Snapshot ID: `MTY0MjQ3OTE1OCwwMDAwMDAwMDJiNGM1YTFlOThmOTA5MDYzZDFhZTUxYmM1N2Q4ZTk2`
+Snapshot ID: `MTY0MjQ5MjA1OCwwMDAwMDAwMDJiNGM1YTFlOThmOTA5MDYzZDFhZTUxYmM1N2Q4ZTk2`

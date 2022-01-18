@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,630 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,636 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb83YJL7gTWj.md) - [plain]
 | 99 | [Homesick](https://open.spotify.com/track/5WyB2G0ecrM2qK3FJCkoUD) | [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Homesick](https://open.spotify.com/album/5Rr8zvYPZpdrSoPxNH3q2h) | 3:02 |
 | 100 | [Ready](https://open.spotify.com/track/7jHyTYH7XLjMHgHudSeRpX) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Homework](https://open.spotify.com/album/5ZiLDZl6yc7QV2pQTpR1BG) | 2:41 |
 
-Snapshot ID: `MTY0MjQ3OTM2MiwwMDAwMDAwMDk3NDRkYzliNTFiNmI2OTFiMTU5YjUzOWI2OGZjNDMy`
+Snapshot ID: `MTY0MjQ5MjIyMCwwMDAwMDAwMDk3NDRkYzliNTFiNmI2OTFiMTU5YjUzOWI2OGZjNDMy`

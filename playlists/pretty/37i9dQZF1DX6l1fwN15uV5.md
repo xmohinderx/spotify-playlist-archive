@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 
 > Take it easy with these laid back tracks from the eighties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,474 likes - 80 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,499 likes - 80 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 79 | [Is This Love? \- 2009 Remastered](https://open.spotify.com/track/4EY7mLPnM7PlpPRHAyNRyR) | [Alison Moyet](https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4) | [Raindancing \(Deluxe Version\)](https://open.spotify.com/album/3Nd7hLMDdgniuc4o8XRXwU) | 3:58 |
 | 80 | [Alone](https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 3:38 |
 
-Snapshot ID: `MTY0MjQ3OTI0MCwwMDAwMDAwMGVhMTMwMWMwZjRmMDM2YTY5NGRmOTE5NWVlMjM3NTdi`
+Snapshot ID: `MTY0MjQ5MjEyMywwMDAwMDAwMGVhMTMwMWMwZjRmMDM2YTY5NGRmOTE5NWVlMjM3NTdi`

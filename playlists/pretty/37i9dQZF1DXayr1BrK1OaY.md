@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,224 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,253 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 74 | [Missing U](https://open.spotify.com/track/5jhaaWjYuXOOjdcf8GePey) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Missing U](https://open.spotify.com/album/3fZzOuBn4cCQPF3li8Dcs7) | 3:20 |
 | 75 | [The Daisy](https://open.spotify.com/track/4QNMkhd49G4xJVQCrbrhst) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The Daisy](https://open.spotify.com/album/7ck1aKE3FRQGWstxQcbttZ) | 5:38 |
 
-Snapshot ID: `MTY0MjQ3OTM1OCwwMDAwMDAwMGE3MGU0YTIwOGRlNDkwZmRkMzgwMjFjOWUxNjE5ZWQy`
+Snapshot ID: `MTY0MjQ5MjIxNywwMDAwMDAwMGE3MGU0YTIwOGRlNDkwZmRkMzgwMjFjOWUxNjE5ZWQy`

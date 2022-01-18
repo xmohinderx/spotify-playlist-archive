@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > A little psychedelic, a little groovy, and very rootsy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,947 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,957 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 59 | [All In My Head](https://open.spotify.com/track/1Q55tboRIfofEepjqB8n8P) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/3l12R0s3By5uisnybE2Cbk) | 3:21 |
 | 60 | [Roulette \(feat\. Ruby Amanfu\)](https://open.spotify.com/track/6l8joEnsFzO05Uy7LVT3HD) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco), [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Roulette \(feat\. Ruby Amanfu\)](https://open.spotify.com/album/4wccD7Vpkx9Grut1VFTTUm) | 4:31 |
 
-Snapshot ID: `MTY0MjQ3OTA4OCwwMDAwMDAwMDBjZDdkNGY4YmM0YmNjYzUxZGMyM2I1NzQwZWE2NDU3`
+Snapshot ID: `MTY0MjQ5MjAwNywwMDAwMDAwMDBjZDdkNGY4YmM0YmNjYzUxZGMyM2I1NzQwZWE2NDU3`

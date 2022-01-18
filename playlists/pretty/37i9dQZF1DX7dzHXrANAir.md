@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,933 likes - 80 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,948 likes - 80 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Owls](https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO) | [Samuel Powell](https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG) | [Owls](https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI) | 4:02 |
 | 80 | [Pièces froides: II\. Danses de travers, 2\. Passer \- TWO LANES Rework \(FRAGMENTS / Erik Satie\)](https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Pièces froides: II\. Danses de travers, 2\. Passer \[TWO LANES Rework \(FRAGMENTS / Erik Satie\)\]](https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh) | 5:35 |
 
-Snapshot ID: `MTY0MjQ3OTI2NiwwMDAwMDAwMDRlMzdhY2JkOGEzNTk1MTE3NGJhN2QwZWRiYTEyOWU2`
+Snapshot ID: `MTY0MjQ5MjE0NSwwMDAwMDAwMDRlMzdhY2JkOGEzNTk1MTE3NGJhN2QwZWRiYTEyOWU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,501 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,494 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [Somebody to Love](https://open.spotify.com/track/4tL8PWUGzqtUbPROYVcAqg) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Nokyo](https://open.spotify.com/artist/6TybXZyaM3v3cepnTzgAWM) | [Somebody to Love](https://open.spotify.com/album/2lPQ5sMGnQlZn4I7Ncz77t) | 2:03 |
 | 60 | [Heartbeats](https://open.spotify.com/track/7soMS7pyMKrEsfpOFyuYL9) | [KYDS](https://open.spotify.com/artist/7qZUlT9qGTM05VsbBkBuWi) | [Heartbeats](https://open.spotify.com/album/6qezpDuS7jCwJTl19a6gv8) | 2:36 |
 
-Snapshot ID: `MTY0MjQ3OTAxMSwwMDAwMDAwMDZkOWQ3NzU0OWM1ZTczNjRkYjRiM2I5NDhiNzZmMTc5`
+Snapshot ID: `MTY0MjQ5MTk0OSwwMDAwMDAwMDZkOWQ3NzU0OWM1ZTczNjRkYjRiM2I5NDhiNzZmMTc5`

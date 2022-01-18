@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > ALT the Good Vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,647 likes - 120 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,671 likes - 120 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 119 | [Nothing Can Kill Us](https://open.spotify.com/track/6r3x9CWcHQ0ZJFJYB1GXD9) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Outside Voices](https://open.spotify.com/album/5tqZLKfkECxhy2LJKoviuD) | 2:50 |
 | 120 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 |
 
-Snapshot ID: `MTY0MjQ3OTA5NiwwMDAwMDAwMDdiNTI2MTE2ZDUwYTQyN2E2MmJjOGNhZDc3NmE0NjUy`
+Snapshot ID: `MTY0MjQ5MjAxMywwMDAwMDAwMDdiNTI2MTE2ZDUwYTQyN2E2MmJjOGNhZDc3NmE0NjUy`

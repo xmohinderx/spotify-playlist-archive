@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,745 likes - 115 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,764 likes - 115 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Girl](https://open.spotify.com/track/3vo0AKUum4US3CoH3fjNEn) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Girl](https://open.spotify.com/album/5uToqdsQXa0200HXDFZE9l) | 3:34 |
 | 115 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 |
 
-Snapshot ID: `MTY0MjQ3OTM4MCwwMDAwMDAwMGY3MWRhODMyOGQxN2U5MjVlOGZjMDU1MmJkYzZhZmEz`
+Snapshot ID: `MTY0MjQ5MjIzNCwwMDAwMDAwMGY3MWRhODMyOGQxN2U5MjVlOGZjMDU1MmJkYzZhZmEz`

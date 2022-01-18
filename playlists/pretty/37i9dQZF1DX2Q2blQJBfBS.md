@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 
 > Step into the sound made or inspired by hip\-hop's greatest era
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,870 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,999 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2blQJBfBS.md) - [plain]
 | 99 | [Shattered Dreams](https://open.spotify.com/track/2LQb3iYBzoxbxct2IexjBc) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Some Rap Songs](https://open.spotify.com/album/66at85wgO2pu5CccvqUF6i) | 2:21 |
 | 100 | [Paris, Tokyo](https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's The Cool](https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy) | 4:30 |
 
-Snapshot ID: `MTY0MjQ3OTA5MywwMDAwMDAwMDg3Nzk4YTQ0ODlhNzMzNmVmZmUwYTAyNTljNzM3NmI5`
+Snapshot ID: `MTY0MjQ5MjAxMSwwMDAwMDAwMDg3Nzk4YTQ0ODlhNzMzNmVmZmUwYTAyNTljNzM3NmI5`

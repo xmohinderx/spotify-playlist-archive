@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,502 likes - 80 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,530 likes - 80 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Hiding](https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Hiding](https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH) | 7:11 |
 | 80 | [Novella](https://open.spotify.com/track/5e39g1T0asZ7IsEFZcMqpC) | [Odette](https://open.spotify.com/artist/7mKPKcRmTkm2yODrmr7K1s) | [Novella EP](https://open.spotify.com/album/4beeUsxhIEEp0PmphMv8zS) | 6:27 |
 
-Snapshot ID: `MTY0MjQ3OTIxNiwwMDAwMDAwMDAxYmM2YWQ0NGYyOWI2MDMyYzI2YmM4NTc1NzNiMmFm`
+Snapshot ID: `MTY0MjQ5MjEwNCwwMDAwMDAwMDAxYmM2YWQ0NGYyOWI2MDMyYzI2YmM4NTc1NzNiMmFm`

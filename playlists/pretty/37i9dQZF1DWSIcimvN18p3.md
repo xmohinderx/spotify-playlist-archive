@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the history of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie folk favorites\. Cover: The Staves
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,164 likes - 200 songs - 12 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,172 likes - 200 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 199 | [April Fool](https://open.spotify.com/track/74iJ7SgaoBX3ROnttgiS4Y) | [Mya Byrne](https://open.spotify.com/artist/0dcndkmyjWKrGJfOb0APAi) | [As I Am](https://open.spotify.com/album/7xuXH92fhY4HXUnCxuoX9t) | 4:17 |
 | 200 | [Cover Me](https://open.spotify.com/track/4LNsvVkpWhiJf382uD5cuQ) | [Kim Taylor](https://open.spotify.com/artist/3yF0qqHNkEaE4xc4r1b5bP) | [Songs of Instruction](https://open.spotify.com/album/2a6YqHKrHMJ8TmdsnexFzf) | 4:43 |
 
-Snapshot ID: `MTY0MjQ3ODc3OCwwMDAwMDAwMDkwNjg4NTc5MjViYjIyMThiZTJjYzNmNjhiMWM3ODA0`
+Snapshot ID: `MTY0MjQ5MTc3OCwwMDAwMDAwMDkwNjg4NTc5MjViYjIyMThiZTJjYzNmNjhiMWM3ODA0`

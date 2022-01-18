@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the new tunes in the Thrash world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,384 likes - 120 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,395 likes - 120 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Strike Fast Strike Hard](https://open.spotify.com/track/5mo4VR1zQNyBZrlmUmPmLM) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Generation Antichrist \(Japan Edition\)](https://open.spotify.com/album/5yU62Qq0DLgL490IugUO9q) | 4:38 |
 | 120 | [Brace for Impact](https://open.spotify.com/track/6nqhwI9sRHsGAtMYUkGo0j) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Brace for Impact](https://open.spotify.com/album/60F8SQR15qRIpJV24q0gX1) | 4:33 |
 
-Snapshot ID: `MTY0MjQ3ODk5OCwwMDAwMDAwMDhkOGQzZGE5ZjcwYjUwMDQwYWVjYzk3M2RiMWQ3ZTFh`
+Snapshot ID: `MTY0MjQ5MTkzOSwwMDAwMDAwMDhkOGQzZGE5ZjcwYjUwMDQwYWVjYzk3M2RiMWQ3ZTFh`

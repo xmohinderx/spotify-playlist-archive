@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 
 > me gustas mucho\. <3 I've got a crush on you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,302 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,373 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lVtkHKv2NU.md) - [plain]
 | 99 | [DÁKITI – Spotify Singles](https://open.spotify.com/track/2y9xyQNtut1KeOHSSkuzik) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:37 |
 | 100 | [Calls](https://open.spotify.com/track/2Ri2W09zyguFSi3phv3abx) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Calls](https://open.spotify.com/album/22NQeEuMELMm1FdigSabxS) | 2:51 |
 
-Snapshot ID: `MTY0MjQ3OTEwNCwwMDAwMDAwMDYzZWRiNDliMmFiNGYxOTRiMDRkYzQ3OTdlMzdjMGY3`
+Snapshot ID: `MTY0MjQ5MjAxOSwwMDAwMDAwMDYzZWRiNDliMmFiNGYxOTRiMDRkYzQ3OTdlMzdjMGY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,968,146 likes - 110 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,968,163 likes - 110 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Mount Zion Medley \(ft\. Capleton, Jah Cure, LMS, Ras Shiloh, Bushman\)](https://open.spotify.com/track/1NaBa0dIa7Nb031z5dMPDD) | [Morgan Heritage](https://open.spotify.com/artist/3VV18HyGcfLTqNjSjbROA1), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [LMS](https://open.spotify.com/artist/76wIvnnXZ9iAF8XTSmllZF), [Ras Shiloh](https://open.spotify.com/artist/6kiEmNG2akSox9EPxiX36I), [Bushman](https://open.spotify.com/artist/7LodktwOen0OBkVv3DyxMX) | [Morgan Heritage Family & Friends Volume \. 1](https://open.spotify.com/album/3IEBtojsY5zVjSX6zrFdmR) | 5:57 |
 | 110 | [Tell Me What a Gwan](https://open.spotify.com/track/5l7O8Wh0hHlX6QxgJWJGiX) | [Hughie Izachaar](https://open.spotify.com/artist/4XOqxT7b046CkozVCAFV2F) | [Lee "Scratch" Perry & Friends: Back to the Ark](https://open.spotify.com/album/3BXCIHCs8N3yuKa4VHqSCV) | 4:39 |
 
-Snapshot ID: `MTY0MjQ3ODc5MiwwMDAwMDAwMGViYzQ1Yjg5MDVkZTA5NWQyZmYzOTIzZTBkYjlhMjFl`
+Snapshot ID: `MTY0MjQ5MTc4OSwwMDAwMDAwMGViYzQ1Yjg5MDVkZTA5NWQyZmYzOTIzZTBkYjlhMjFl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Dr\. Lonnie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,525 likes - 80 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,555 likes - 80 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 79 | [Under The Radar](https://open.spotify.com/track/6Q21dXNtqc0rbBzW49S6eH) | [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk), [The Peterson Brothers](https://open.spotify.com/artist/4FRlJ8CPdj301G5XaVhxSX) | [Under the Radar](https://open.spotify.com/album/1ZL5SoYCOIhqtaNtb1MGUK) | 5:04 |
 | 80 | [Sweet Power of Your Embrace](https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M) | [James Mason](https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ) | [Rhythm Of Life](https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1) | 5:26 |
 
-Snapshot ID: `MTY0MjQ3ODg1MywwMDAwMDAwMGJiMGQyNjVhMDBmMTRiZGY5MzRlZGRhZThjMzMzMmU2`
+Snapshot ID: `MTY0MjQ5MTgzMiwwMDAwMDAwMGJiMGQyNjVhMDBmMTRiZGY5MzRlZGRhZThjMzMzMmU2`

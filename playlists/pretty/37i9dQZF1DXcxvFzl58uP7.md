@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy jams from the best bedroom producers\. Cover: SALES
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,679 likes - 115 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 934,751 likes - 115 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 114 | [Bends](https://open.spotify.com/track/31hlhFQVLQS4VADMTPl59i) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Bends](https://open.spotify.com/album/3LIYf4uhGMwW4ccnXLWPpQ) | 2:35 |
 | 115 | [Loretta](https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loretta](https://open.spotify.com/album/6JK3NfcRSyRnrIdBiZtQGM) | 3:10 |
 
-Snapshot ID: `MTY0MjQ3OTQxMywwMDAwMDAwMDVmMWM1YmNiNGY3NjY4M2NjMTQ4ZDcxZWQxYTE3MGNl`
+Snapshot ID: `MTY0MjQ5MjI1OCwwMDAwMDAwMDVmMWM1YmNiNGY3NjY4M2NjMTQ4ZDcxZWQxYTE3MGNl`

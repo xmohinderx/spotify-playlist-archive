@@ -2,7 +2,7 @@
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/5wwUkYS2OcCkau5CdCfyc6)
 
-> With Galantis, Lorde, Kesha and more
+> With Kacey Musgraves, Mark Ronson, Demi Lovato and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,077 likes - 180 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,084 likes - 180 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 179 | [We Can \(feat\. Tory Lanez\)](https://open.spotify.com/track/7LRJmZ6G5qHQEG2CGeTCji) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [We Can \(feat\. Tory Lanez\)](https://open.spotify.com/album/6MhwOilsUaISxb4VnIuxpl) | 3:14 |
 | 180 | [See You Again](https://open.spotify.com/track/1fiXFwKNKcTRFBeR9wlKhB) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2021](https://open.spotify.com/album/47ngDCKILaUidvXeest7sz) | 2:45 |
 
-Snapshot ID: `MTY0MjQ3ODg2OSwwMDAwMDAwMGI4OGU0MThjOWM4MTViYTVhOTRmMjY2ZjYyNjAxYjUx`
+Snapshot ID: `MTY0MjQ5MTg0NCwwMDAwMDAwMGI4OGU0MThjOWM4MTViYTVhOTRmMjY2ZjYyNjAxYjUx`

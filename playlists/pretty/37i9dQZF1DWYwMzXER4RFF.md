@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Enola Gay
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,290 likes - 55 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,300 likes - 55 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Courtesy Call](https://open.spotify.com/track/3abS9KDClZlCFY7n1g5HEZ) | [Omni](https://open.spotify.com/artist/4wBhllC5Nto10UefzXVMt9) | [Courtesy Call](https://open.spotify.com/album/5EnrSfbcIbpgpgeQAgnQ4Y) | 3:46 |
 | 55 | [Nite Expo](https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Orc](https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd) | 2:57 |
 
-Snapshot ID: `MTY0MjQ3ODk4MiwwMDAwMDAwMDc5NzExMGE4OGZkMThlMDVmZTM3NjY2MDBkYTg3NDQ0`
+Snapshot ID: `MTY0MjQ5MTkyOCwwMDAwMDAwMDc5NzExMGE4OGZkMThlMDVmZTM3NjY2MDBkYTg3NDQ0`

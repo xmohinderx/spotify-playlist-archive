@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > Classic alternative\. These early pioneers brought the underground to the foreground\. Cover: Lou Reed
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,152 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,229 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Oscillations](https://open.spotify.com/track/1r5Sio50UmqBG42gt2EKYx) | [Silver Apples](https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4) | [Silver Apples](https://open.spotify.com/album/1N8ULL9Xd4zapZMgxIT98U) | 2:47 |
 | 75 | [Creep](https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/6400dnyeDyD2mIFHfkwHXN) | 3:58 |
 
-Snapshot ID: `MTY0MjQ3OTQyNywwMDAwMDAwMDQxZTg0MzdlOTBjNmJiOTliNDA3OGZlMmQ2MzlmNWY1`
+Snapshot ID: `MTY0MjQ5MjI3MCwwMDAwMDAwMDQxZTg0MzdlOTBjNmJiOTliNDA3OGZlMmQ2MzlmNWY1`

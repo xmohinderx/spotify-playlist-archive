@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,336 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,408 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Renegade](https://open.spotify.com/track/0O4VpHZ2xeqwerV5lWbvif) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Flowers](https://open.spotify.com/album/4IgOdmQIePsO2r4BcbiQ74) | 3:35 |
 | 50 | [U Never Know](https://open.spotify.com/track/6ngfBeWnkydrBRrhqvxiXu) | [isle&fever](https://open.spotify.com/artist/6R4zlGQMWytAfkCpYdumKh) | [U Never Know](https://open.spotify.com/album/4FGT6kv2JmZS4ZU5SHgJ9P) | 4:10 |
 
-Snapshot ID: `MTY0MjQ3ODk2NiwwMDAwMDAwMGUzNmZlYzU0NzQzZTU5Y2ViZmY1N2ZmYzY5YWFmMmE1`
+Snapshot ID: `MTY0MjQ5MTkxNSwwMDAwMDAwMGUzNmZlYzU0NzQzZTU5Y2ViZmY1N2ZmYzY5YWFmMmE1`

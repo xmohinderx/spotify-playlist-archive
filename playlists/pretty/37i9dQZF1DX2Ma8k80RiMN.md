@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,322,873 likes - 40 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,322,885 likes - 40 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 39 | [Stay on Your Mind](https://open.spotify.com/track/7M2Y6k2KSpH28HUAFamMg5) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Vulnerable](https://open.spotify.com/album/3c8AcVx9AezodLAvrNSouu) | 3:37 |
 | 40 | [What You Won't Do for Love](https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:02 |
 
-Snapshot ID: `MTY0MjQ3OTA5MSwwMDAwMDAwMGQxMzRkMDMwYjYwMjQ2NzdiNzJlYTQzMjQ5ODc0MzIy`
+Snapshot ID: `MTY0MjQ5MjAxMCwwMDAwMDAwMGQxMzRkMDMwYjYwMjQ2NzdiNzJlYTQzMjQ5ODc0MzIy`

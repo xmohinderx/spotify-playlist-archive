@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > This is the perfect playlist for those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,481 likes - 114 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,567 likes - 114 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 113 | [Eyes on You](https://open.spotify.com/track/6Txx3Uj0rRXPixi9V1DZek) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Eyes on You](https://open.spotify.com/album/1iLPhaq2JCR9dDnh9omdRE) | 2:48 |
 | 114 | [The World's Smiling Now](https://open.spotify.com/track/0uih5xFdBDFIUrqqLbMbXh) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Eternally Even](https://open.spotify.com/album/36C2aKoHatN8ZQRmyW5z3z) | 4:53 |
 
-Snapshot ID: `MTY0MjQ3OTM1NywwMDAwMDAwMDU3NzJhMjhjOTRlZmNkMGQxMDA3OTYzNzMzMjM1Yjgx`
+Snapshot ID: `MTY0MjQ5MjIxNiwwMDAwMDAwMDU3NzJhMjhjOTRlZmNkMGQxMDA3OTYzNzMzMjM1Yjgx`

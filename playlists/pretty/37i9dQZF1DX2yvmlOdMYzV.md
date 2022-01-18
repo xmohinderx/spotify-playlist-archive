@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > it's just chill vibes, respectfully
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,387 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 693,456 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [Fireball](https://open.spotify.com/track/324ZWqJ5IPqemHwIq0w87Y) | [Kennyflowers](https://open.spotify.com/artist/7eC8Ihn4DtTy9tFK0S3Gdp), [Amare Symon​é](https://open.spotify.com/artist/5I2gIfxjl45cGxCZ8SwWw7), [Saint Lewis](https://open.spotify.com/artist/3qhlxMX0i4a9oVOx79NC9Y) | [Fireball](https://open.spotify.com/album/07Vdp0EpPAgcaQHLQogcmH) | 2:44 |
 | 100 | [ALIENS!](https://open.spotify.com/track/4oLAQkv6ZvXUc4cQpv5uT7) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [ALIENS!](https://open.spotify.com/album/6Cku9aqsY8j70iK7iuoeOj) | 4:18 |
 
-Snapshot ID: `MTY0MjQ3OTExMywwMDAwMDAwMGY2ZDk4ZTk4NDJiODgyM2QwMWU4Y2JhMTMwOWVlNDY2`
+Snapshot ID: `MTY0MjQ5MjAyNiwwMDAwMDAwMGY2ZDk4ZTk4NDJiODgyM2QwMWU4Y2JhMTMwOWVlNDY2`

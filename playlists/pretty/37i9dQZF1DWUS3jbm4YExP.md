@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,956 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,976 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Theme From Beverly Hills Cop \(Axel F\) \- Live at Jam PDM](https://open.spotify.com/track/6L2p6X0gxm7VOpnnmbNFGf) | [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [Theme From Beverly Hills Cop \(Axel F\) \[Live at Jam PDM\]](https://open.spotify.com/album/4m0r8ycnc54Ns6EyRR6DuS) | 3:37 |
 | 100 | [Hymne à la vie](https://open.spotify.com/track/7JPcKTrV5SJWzs0nFX67KR) | [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj), [Le Super Mojo](https://open.spotify.com/artist/5gS8DfFU8NYsqLiuZ96bHd) | [Hymne à la vie](https://open.spotify.com/album/2a4R962oV50JOO5l91C52L) | 4:05 |
 
-Snapshot ID: `MTY0MjQ3ODg1MSwwMDAwMDAwMDhlOWJkODhlMDQ5NWMzOGViNGM5ZjY1Y2Q2NWVlYzFk`
+Snapshot ID: `MTY0MjQ5MTgzMCwwMDAwMDAwMDhlOWJkODhlMDQ5NWMzOGViNGM5ZjY1Y2Q2NWVlYzFk`

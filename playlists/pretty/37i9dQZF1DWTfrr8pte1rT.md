@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop  Cover: Grabbitz \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,802 likes - 125 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,834 likes - 125 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 124 | [Somebody's Idiot](https://open.spotify.com/track/4QinVyD0wdHBxyszMR9Ryn) | [Stash Konig](https://open.spotify.com/artist/2BhSSiFfl7HHN969F0uEa6), [Manickin](https://open.spotify.com/artist/3aNqySgEKWTf3VdQ1XeS04) | [Somebody's Idiot](https://open.spotify.com/album/7hleomcmKTPzfc6VZxejfG) | 2:54 |
 | 125 | [Rise Up](https://open.spotify.com/track/11s8gbi7pqmvuREruilbJP) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [IV](https://open.spotify.com/album/6osgmserT0Gtg7VjkoVxEQ) | 3:01 |
 
-Snapshot ID: `MTY0MjQ3ODgyNywwMDAwMDAwMDAxMWUwM2FlMjQ5ZGI2NzhjZjNkYzUzMmVmYzczMjBk`
+Snapshot ID: `MTY0MjQ5MTgxNSwwMDAwMDAwMDAxMWUwM2FlMjQ5ZGI2NzhjZjNkYzUzMmVmYzczMjBk`

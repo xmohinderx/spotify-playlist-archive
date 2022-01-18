@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Snuggle jams to keep you cozy under the covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,753 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,773 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 74 | [Honest Man](https://open.spotify.com/track/6yPfoOEeB6F7lvmzkV5oTK) | [Fat Night](https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi) | [Honest Man](https://open.spotify.com/album/5pyIhOwfpDSUUMA26NDdNt) | 5:25 |
 | 75 | [When the Night is Over](https://open.spotify.com/track/7GN6EEENu7xnl2lEipjN4X) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Vide Noir](https://open.spotify.com/album/1QBpyjJ4y0Yp0Aj8mOji5o) | 5:11 |
 
-Snapshot ID: `MTY0MjQ3OTI0NCwwMDAwMDAwMGU1OTg5OTg1YmI1ODk4YTFlNmU2MDAwMzI4MGI3NGRi`
+Snapshot ID: `MTY0MjQ5MjEyNiwwMDAwMDAwMGU1OTg5OTg1YmI1ODk4YTFlNmU2MDAwMzI4MGI3NGRi`

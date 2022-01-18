@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,582 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,586 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 79 | [Supercut](https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:37 |
 | 80 | [Sad Forever](https://open.spotify.com/track/4a5zacCsHLtMC2mcxkqWwn) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Sad Forever](https://open.spotify.com/album/1kYth2YmXOBSfLKvWIbr12) | 3:23 |
 
-Snapshot ID: `MTY0MjQ3ODk5MiwwMDAwMDAwMDZjOTAyMDhjZDhmY2MxMTYyMDY2YWI4MzM3OTg4Yzk2`
+Snapshot ID: `MTY0MjQ5MTkzNiwwMDAwMDAwMDZjOTAyMDhjZDhmY2MxMTYyMDY2YWI4MzM3OTg4Yzk2`

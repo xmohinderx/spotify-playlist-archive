@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: JEON SOMI\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,182 likes - 64 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,253 likes - 64 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 63 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 |
 | 64 | [올해 제일 잘한 일 The Best Thing I Ever Did](https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [The year of "YES"](https://open.spotify.com/album/7fk1Ss3LO6U2LYHb82z9zf) | 3:30 |
 
-Snapshot ID: `MTY0MjQ3OTIyMywwMDAwMDAwMGY3ZGFhNGNlM2I5MDc3NDdiZjg3MDUyOTJkY2QzMTVh`
+Snapshot ID: `MTY0MjQ5MjExMCwwMDAwMDAwMGY3ZGFhNGNlM2I5MDc3NDdiZjg3MDUyOTJkY2QzMTVh`

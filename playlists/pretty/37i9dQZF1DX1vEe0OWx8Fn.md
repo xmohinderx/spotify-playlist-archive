@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 
 > it was never just a phase
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,651 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,662 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1vEe0OWx8Fn.md) - [plain]
 | 49 | [idk why i try](https://open.spotify.com/track/3wNJ2XMvz1DznBf5CVZbsj) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [fell in love with a lie](https://open.spotify.com/album/7m9wfRDxzEXAsQugb5xd93) | 3:07 |
 | 50 | [Party At The Cemetery](https://open.spotify.com/track/4O3hlqw3P2SA0SvsyKuYCu) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [Party At The Cemetery](https://open.spotify.com/album/6gahMNZ8ggD6FCxOwQ4rIK) | 2:06 |
 
-Snapshot ID: `MTY0MjQ3OTA3OCwwMDAwMDAwMDA2ZjYwNGYzZmIwNGMzYzk1ZThiMTA0MDY3NWJiZDMw`
+Snapshot ID: `MTY0MjQ5MjAwMCwwMDAwMDAwMDA2ZjYwNGYzZmIwNGMzYzk1ZThiMTA0MDY3NWJiZDMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Ice Nine Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,430 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,447 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Unseen](https://open.spotify.com/track/4TgpMwyBwhJvQlcMu9Nkyc) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Unseen](https://open.spotify.com/album/48nQ4ZTi7TUtrY2TbCmSGw) | 3:31 |
 | 100 | [Love is War](https://open.spotify.com/track/1jG8barnM7s5bKFp86920v) | [Madina Lake](https://open.spotify.com/artist/43QrUqvhiL71U9A9gJtAfA) | [Love is War](https://open.spotify.com/album/56cmXy0uY6SO7wJo4JVZ2q) | 3:17 |
 
-Snapshot ID: `MTY0MjQ3OTEzNywwMDAwMDAwMDljMGU1ZmZiYzIzNTYyZDNmZmYwZjhmZWMyNzg2OTM0`
+Snapshot ID: `MTY0MjQ5MjA0MywwMDAwMDAwMDljMGU1ZmZiYzIzNTYyZDNmZmYwZjhmZWMyNzg2OTM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG7FCdM1HiA.md) - [plain]
 
 > The unhurried and fundamentally cool side of jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,560 likes - 100 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,561 likes - 100 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG7FCdM1HiA.md) - [plain]
 | 99 | [Almost Like Being In Love](https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO) | [Konitz Meets Mulligan](https://open.spotify.com/album/7yXH6IIoz1egpOdG62fiMh) | 2:58 |
 | 100 | [Easy Living](https://open.spotify.com/track/3QHeOALQbMukSiCWQrP2b0) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Blue Moods](https://open.spotify.com/album/6QNUsyQxf8merg8Sv696aI) | 5:03 |
 
-Snapshot ID: `MTY0MjQ3ODgxMSwwMDAwMDAwMDRhNzhjMDU5MTkwM2VhZDM1NzQ0NzFkOTJiNGY2MGFm`
+Snapshot ID: `MTY0MjQ5MTgwMywwMDAwMDAwMDRhNzhjMDU5MTkwM2VhZDM1NzQ0NzFkOTJiNGY2MGFm`

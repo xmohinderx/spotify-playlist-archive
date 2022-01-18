@@ -102,6 +102,28 @@
     },
     {
       "album": {
+        "name": "Chabbi",
+        "url": "https://open.spotify.com/album/2dkekukYqNwp0OM1UjVcjt"
+      },
+      "artists": [
+        {
+          "name": "Rico",
+          "url": "https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG"
+        },
+        {
+          "name": "Hiba Nawab",
+          "url": "https://open.spotify.com/artist/3wLLlwlj3xeFBHnGG8QV2k"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271464,
+      "name": "Chabbi",
+      "url": "https://open.spotify.com/track/5LMWRn5OfcH7F02Wu3oBaN"
+    },
+    {
+      "album": {
         "name": "Chan Vekhya",
         "url": "https://open.spotify.com/album/7c8AsG2LEvK2smAbiuO2o2"
       },
@@ -409,6 +431,28 @@
       "duration_ms": 206060,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2"
+    },
+    {
+      "album": {
+        "name": "Jaanu",
+        "url": "https://open.spotify.com/album/5hvXACaNTVp8WxDE7zhfc1"
+      },
+      "artists": [
+        {
+          "name": "Hardeep Grewal",
+          "url": "https://open.spotify.com/artist/43H2bU3Tpcw29Ndd0J5P7B"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199783,
+      "name": "Jaanu",
+      "url": "https://open.spotify.com/track/00sshcz4IzgggX2r8bAZ89"
     },
     {
       "album": {

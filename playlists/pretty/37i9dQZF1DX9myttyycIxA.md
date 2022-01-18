@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Hana Vu
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,446 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,467 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [At It Again \(Again\)](https://open.spotify.com/track/7bT3Js9ilUU5RRck7KiXvp) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [At It Again \(Again\)](https://open.spotify.com/album/48Zx2V3JhmOsJ0zA5EKDGN) | 2:09 |
 | 100 | [Alone But Not Lonely](https://open.spotify.com/track/45b6AZg2JJFKqOgYL1Rne4) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Alone But Not Lonely](https://open.spotify.com/album/2IORnkfSCkRnHGIKsN0r4w) | 1:46 |
 
-Snapshot ID: `MTY0MjQ3OTMyMiwwMDAwMDAwMGZmOTlmNWIwMDU3YjhjMDgyNmFlOGI5ODM5MDcxZjQ3`
+Snapshot ID: `MTY0MjQ5MjE4OSwwMDAwMDAwMGZmOTlmNWIwMDU3YjhjMDgyNmFlOGI5ODM5MDcxZjQ3`

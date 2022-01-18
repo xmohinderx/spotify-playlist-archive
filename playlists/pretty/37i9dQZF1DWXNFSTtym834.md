@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,483 likes - 60 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,574 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 59 | [Amaranth](https://open.spotify.com/track/1sXdW94CrEIrYdbfON4Sxt) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 3:51 |
 | 60 | [Redneck Stomp](https://open.spotify.com/track/3wiT4tcjKk4jAqrfDahS6W) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Frozen In Time \[Special Edition\]](https://open.spotify.com/album/4s0rS2NQQMr3F4ld83DHSA) | 3:32 |
 
-Snapshot ID: `MTY0MjQ3ODkzOCwwMDAwMDAwMGZiNTJiNTU2M2RmNzg0MWY4ZWVlZDgyNDc3NjY2N2I3`
+Snapshot ID: `MTY0MjQ5MTg5NCwwMDAwMDAwMGZiNTJiNTU2M2RmNzg0MWY4ZWVlZDgyNDc3NjY2N2I3`

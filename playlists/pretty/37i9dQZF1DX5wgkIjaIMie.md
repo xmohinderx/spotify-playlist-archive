@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 10s
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,349 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,353 likes - 70 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 | 69 | [Die Young](https://open.spotify.com/track/6mnjcTmK8TewHfyOp3fC9C) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Deluxe Version\)](https://open.spotify.com/album/0gT5HL6RnvHBxJ2gY7lidR) | 3:31 |
 | 70 | [Toto](https://open.spotify.com/track/5JH1NuPiHEB0Wl03rLHNq7) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [NOON](https://open.spotify.com/album/6wHH35NKu2WuLWfmm1MHm7) | 3:08 |
 
-Snapshot ID: `MTY0MjQ3OTIxNSwwMDAwMDAwMDhhMjNjYmM4Y2QzYjFmNGE2NWQwNzRjODU2MDBmYjY4`
+Snapshot ID: `MTY0MjQ5MjEwNCwwMDAwMDAwMDhhMjNjYmM4Y2QzYjFmNGE2NWQwNzRjODU2MDBmYjY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 
 > Set the mood of your day with these awesome, happy songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,315,502 likes - 150 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,315,534 likes - 150 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 | 149 | [Clearly](https://open.spotify.com/track/5XBqGcLYOZi8CEW83Ug7Fs) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Clearly](https://open.spotify.com/album/5gj1ycP3tNhanHFThpVGYj) | 4:11 |
 | 150 | [Back Together](https://open.spotify.com/track/3VKDOXkmTHt4Xa78U4dbDp) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Back Together](https://open.spotify.com/album/4NwBWom1WMTNFHa2G7NaHm) | 3:03 |
 
-Snapshot ID: `MTY0MjQ3OTAyOSwwMDAwMDAwMDc5OWQ0MDlhYzRmNjVmNDNhMGVjYTUyYzkzMmIwYTM1`
+Snapshot ID: `MTY0MjQ5MTk2MywwMDAwMDAwMDc5OWQ0MDlhYzRmNjVmNDNhMGVjYTUyYzkzMmIwYTM1`

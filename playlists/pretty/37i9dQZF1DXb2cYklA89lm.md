@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,674 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,685 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Enjoy The Silence](https://open.spotify.com/track/2E8iFawFugRpE4VkKtTgID) | [The Brains](https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH) | [Zombie Nation](https://open.spotify.com/album/0OsmMp8K4RMY6BEWpJ9UZB) | 2:07 |
 | 50 | [Head in a Jar](https://open.spotify.com/track/6G6A9ehdsV7YGiIlcAvtrY) | [Bullet Machine](https://open.spotify.com/artist/1ewnFY8WPCfT6glpGLYWfG) | [Knuckle Supper](https://open.spotify.com/album/0unukVwXqOcKkKr7K3u3wQ) | 2:25 |
 
-Snapshot ID: `MTY0MjQ3OTM2MCwwMDAwMDAwMGExNmEwMGU4YzM3ZmY2MjY2YTcxN2U1YTAzNDMyMTkw`
+Snapshot ID: `MTY0MjQ5MjIxOCwwMDAwMDAwMGExNmEwMGU4YzM3ZmY2MjY2YTcxN2U1YTAzNDMyMTkw`

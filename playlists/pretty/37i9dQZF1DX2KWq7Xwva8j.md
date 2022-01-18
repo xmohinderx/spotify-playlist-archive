@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Belén Aguilera
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,616 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,620 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [Bali](https://open.spotify.com/track/5AhfgQqtXnSQhtYAQ9SLDl) | [Aiman JR](https://open.spotify.com/artist/4BwfloY1F2zHUPcYlYnDnz) | [Bali](https://open.spotify.com/album/0ZiQztdWTlJ0ka8jHN5Qmw) | 3:02 |
 | 50 | [No Limit](https://open.spotify.com/track/0z6ojlCxcIJViynVpq7MUg) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki), [ThePoing](https://open.spotify.com/artist/25GeI9XfoQKewss8IzQyyO) | [No Limit](https://open.spotify.com/album/6bZBGnZnq8j512ROPGMxZ9) | 3:00 |
 
-Snapshot ID: `MTY0MjQ3OTA5MCwwMDAwMDAwMGYyYjk2MjdhNzAxMWRjYTc3OWQyMmJjOWQwYTRjZThk`
+Snapshot ID: `MTY0MjQ5MjAwOSwwMDAwMDAwMGYyYjk2MjdhNzAxMWRjYTc3OWQyMmJjOWQwYTRjZThk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,568 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,601 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Steak Um \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/2pSIjhJFBuWK8sNBO3F1jv) | [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Streams of Thought, Vol\. 3: Cane & Able](https://open.spotify.com/album/2LEEg9PQsJqQuhBU0poSrd) | 3:28 |
 | 50 | [God's Bathroom Floor](https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN) | [Atmosphere](https://open.spotify.com/artist/1GAS0rb4L8VTPvizAx2O9J) | [God's Bathroom Floor](https://open.spotify.com/album/64Z4NTJZWPJFh2PzeDuwsL) | 3:58 |
 
-Snapshot ID: `MTY0MjQ3ODc4NSwwMDAwMDAwMDAxOWIyNDg5YjQ4YmEwOWQzNjZhZDQ3ODU5OTU2ZjMw`
+Snapshot ID: `MTY0MjQ5MTc4NCwwMDAwMDAwMDAxOWIyNDg5YjQ4YmEwOWQzNjZhZDQ3ODU5OTU2ZjMw`

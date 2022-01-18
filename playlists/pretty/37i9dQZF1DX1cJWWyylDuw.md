@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Paleface
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,461 likes - 120 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,494 likes - 120 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 119 | [Voices](https://open.spotify.com/track/51ZlzotGF0D9VyeOLK8Ps9) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [Voices](https://open.spotify.com/album/4gD7pbQGAtNiMTeWunAQe1) | 4:15 |
 | 120 | [Judgement](https://open.spotify.com/track/0xWgX8mKChrkydJMbyE6sX) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd), [Niik Script](https://open.spotify.com/artist/6t2NcKJ5YvwEuXYoYdSsNH) | [Judgement](https://open.spotify.com/album/4svaNpsBQELqodlHnkZ9zj) | 3:44 |
 
-Snapshot ID: `MTY0MjQ3OTA2NCwwMDAwMDAwMDE5NTI4ZDMxMjU1NWY1ZDQ2NGNiMjQ0MmIyNzVlMWM1`
+Snapshot ID: `MTY0MjQ5MTk4OSwwMDAwMDAwMDE5NTI4ZDMxMjU1NWY1ZDQ2NGNiMjQ0MmIyNzVlMWM1`

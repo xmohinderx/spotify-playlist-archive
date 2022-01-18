@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,572 likes - 250 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,607 likes - 250 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 249 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 250 | [Coastline](https://open.spotify.com/track/0Ma3HnDcmCSbjv3uu3aIPO) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Coastline](https://open.spotify.com/album/0jMZ5F6yR0Vdg7GGFLg8GS) | 3:53 |
 
-Snapshot ID: `MTY0MjQ3OTQwNiwwMDAwMDAwMDVlMmY5NmZkZjAzMjAyNTE5Y2EwMDAyNTk1NGVlMTZk`
+Snapshot ID: `MTY0MjQ5MjI1MywwMDAwMDAwMDVlMmY5NmZkZjAzMjAyNTE5Y2EwMDAyNTk1NGVlMTZk`

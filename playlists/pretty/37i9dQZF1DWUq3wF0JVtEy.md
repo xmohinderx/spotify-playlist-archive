@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out\. Cover: Tchami
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,042 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,070 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Tell Me](https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [Tell Me \(feat\. Hero Baldwin\)](https://open.spotify.com/album/2zVu8oMOxheVKRKvRqaque) | 3:23 |
 | 100 | [shit i like](https://open.spotify.com/track/7iBx3dJNTfXWf5vOJ9Vqg0) | [Gwyn Love](https://open.spotify.com/artist/4o5ZquVPYCsS90FQYPkGzN), [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [shit i like](https://open.spotify.com/album/26tPz3DGl0Hno8muVnjfx3) | 3:50 |
 
-Snapshot ID: `MTY0MjQ3ODg1NywwMDAwMDAwMGU1MzUzYTI1ZDhhMTY2ODRmOGUyMTU3ZWYzOGMyN2Y1`
+Snapshot ID: `MTY0MjQ5MTgzNSwwMDAwMDAwMGU1MzUzYTI1ZDhhMTY2ODRmOGUyMTU3ZWYzOGMyN2Y1`

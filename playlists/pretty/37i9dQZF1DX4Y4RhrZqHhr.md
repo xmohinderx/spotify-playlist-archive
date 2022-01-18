@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,257 likes - 211 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,251 likes - 211 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -220,4 +220,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 210 | [C O O L \- Radio Edit](https://open.spotify.com/track/4L0HMiE70JyFSfOsnoHGbj) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [C O O L](https://open.spotify.com/album/1rOch2rJkCzdRUdGql31Hv) | 3:34 |
 | 211 | [Groove Jet](https://open.spotify.com/track/1DvuJEIGbhC0TJhztPC1Oy) | [Spiller](https://open.spotify.com/artist/4bmymFwDu9zLCiTRUmrewb) | [Años 2000 Vol.6](https://open.spotify.com/album/57tyQzDleaw7vCmWvxEzv5) | 3:44 |
 
-Snapshot ID: `MTY0MjQ3OTE2NSwwMDAwMDAwMDhiMTE4MjYyMGIyZTk1YTNlYzY3YmU3ZTM0ZDE3YjMw`
+Snapshot ID: `MTY0MjQ5MjA2MywwMDAwMDAwMDhiMTE4MjYyMGIyZTk1YTNlYzY3YmU3ZTM0ZDE3YjMw`

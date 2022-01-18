@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 770,380 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,431 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [So Much Love \- Acoustic](https://open.spotify.com/track/4cnO0iec95UnL8IGSwgaQZ) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [Never Not Together \(Deluxe Edition\)](https://open.spotify.com/album/5uTC0wBuYcSJMpwYsZymHH) | 3:40 |
 | 50 | [I Will Follow You into the Dark](https://open.spotify.com/track/60D6xokLERFpsLMW6RwIKy) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [I Will Follow You into the Dark](https://open.spotify.com/album/51YRSuzr45Jue0ycibDLwa) | 3:08 |
 
-Snapshot ID: `MTY0MjQ3OTA0MCwwMDAwMDAwMGU1OTU3YjI0NmZhZThjZDRkZjQ1NTVlYzc4OGVjZTkz`
+Snapshot ID: `MTY0MjQ5MTk3MSwwMDAwMDAwMGU1OTU3YjI0NmZhZThjZDRkZjQ1NTVlYzc4OGVjZTkz`

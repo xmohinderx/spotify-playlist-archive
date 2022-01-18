@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Ben Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,590,571 likes - 90 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,590,607 likes - 90 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8NOEUWPn9W.md) - [plain]
 | 89 | [Better Things](https://open.spotify.com/track/54C72WBiGX5leus7p8y418) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt), [QG](https://open.spotify.com/artist/2MtpoQ7X39CySVKyTPcTde) | [Better Things](https://open.spotify.com/album/1LYnqAYDUa6vsj8IwraI9J) | 2:45 |
 | 90 | [Never Gonna Tell You](https://open.spotify.com/track/58RXFvoX6t0JNYDls2ANh2) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI) | [Never Gonna Tell You](https://open.spotify.com/album/3PoGEJfiQvaSNECV3yDjzj) | 3:23 |
 
-Snapshot ID: `MTY0MjQ3OTMzMywwMDAwMDAwMGQ5YTQyN2E5ZWQyOWRjYzY3YmE2Nzc4NDQ2NDhkZjI1`
+Snapshot ID: `MTY0MjQ5MjE5OCwwMDAwMDAwMGQ5YTQyN2E5ZWQyOWRjYzY3YmE2Nzc4NDQ2NDhkZjI1`

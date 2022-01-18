@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/18KhvyGVGWgFiASCWVYL67)
 
-> With James K, Tennis, Magdalena Bay and more
+> With Slayyyter, Toro y Moi, Caroline Polachek and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

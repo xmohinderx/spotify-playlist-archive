@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,885 likes - 70 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,902 likes - 70 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 69 | [Go Slow](https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ) | [Laura Benanti](https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V) | [Laura Benanti](https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81) | 4:24 |
 | 70 | [Let's Make The Most Of A Beautiful Thing](https://open.spotify.com/track/7zrgXzhF8eSA1O9TvYippG) | [Erin Boheme](https://open.spotify.com/artist/2YtGyXqMVXz8kqhU9DRfGw) | [What Love Is](https://open.spotify.com/album/7mNaZiHXdEWQV9CJ2ha63o) | 4:39 |
 
-Snapshot ID: `MTY0MjQ3ODgyNiwwMDAwMDAwMDU5MDlmNzkzYjA0NGMwMjkzNjBkYTE0ZGE2NTNhOTkz`
+Snapshot ID: `MTY0MjQ5MTgxNCwwMDAwMDAwMDU5MDlmNzkzYjA0NGMwMjkzNjBkYTE0ZGE2NTNhOTkz`

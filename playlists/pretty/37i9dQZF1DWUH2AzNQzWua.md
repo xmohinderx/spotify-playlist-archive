@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 
 > Instant classics from yesteryear to now in one sweet mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,658,429 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,658,502 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 | 49 | [Shake It Out \- MTV Unplugged, 2012](https://open.spotify.com/track/5cboXDVjQ26ajNceiv8i45) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [MTV Presents Unplugged: Florence + The Machine](https://open.spotify.com/album/4N2zZysR0BWTLT4uU21PmV) | 4:40 |
 | 50 | [Take Me to Church](https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:01 |
 
-Snapshot ID: `MTY0MjQ3ODg0NiwwMDAwMDAwMGRmMjc0NGZmMWI2YTJhZGRlMmY3OThiMDRjNmEwYjVh`
+Snapshot ID: `MTY0MjQ5MTgyNywwMDAwMDAwMGRmMjc0NGZmMWI2YTJhZGRlMmY3OThiMDRjNmEwYjVh`

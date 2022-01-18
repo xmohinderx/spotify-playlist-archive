@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: Kim Nayeon \(김나연\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,295 likes - 58 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,311 likes - 58 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 57 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 |
 | 58 | [My Regards](https://open.spotify.com/track/0L1mzb0pEAemX4QpAvDSa5) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [My Regards](https://open.spotify.com/album/4dQNU5BC5veIyH0nRFE51s) | 2:56 |
 
-Snapshot ID: `MTY0MjQ3OTI5MywwMDAwMDAwMGZiZTgxMzgzOGJjOTJmYjI5ZDcyZDA0ZTM5NDM1OTFl`
+Snapshot ID: `MTY0MjQ5MjE2NiwwMDAwMDAwMGZiZTgxMzgzOGJjOTJmYjI5ZDcyZDA0ZTM5NDM1OTFl`

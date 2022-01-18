@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 
 > Vocals and keys, front and center\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,443 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,398,533 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 74 | [Bad Dreams \- Stripped](https://open.spotify.com/track/4II6CiYRsyuERn0KvUJoTG) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Bad Dreams \(Stripped\)](https://open.spotify.com/album/6KyX7ORexJ6oabGpNVEM9P) | 2:51 |
 | 75 | [Lost Without You](https://open.spotify.com/track/3QlF2ExmrRP0RM7ffv7y0Q) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/0GNvEDf1HoEeYk6RBXxpn7) | 3:45 |
 
-Snapshot ID: `MTY0MjQ3ODg2OSwwMDAwMDAwMDBjNWE4M2FmYjUwZDFhMGViMmZlNjZlZDI5MzFkZDU0`
+Snapshot ID: `MTY0MjQ5MTg0NCwwMDAwMDAwMDBjNWE4M2FmYjUwZDFhMGViMmZlNjZlZDI5MzFkZDU0`

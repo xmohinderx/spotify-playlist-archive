@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Dream your way through the day to these blissful indie tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,549 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,575 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [Lylz](https://open.spotify.com/track/1C9t8whBQcIDcI3mwmmFhp) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Lylz](https://open.spotify.com/album/5fMUdHAcRZ3IHPd4yvg1ct) | 3:03 |
 | 80 | [Sospeche](https://open.spotify.com/track/3mGzpu1cjU1QAeZdfmKaZ5) | [Maura Rosa](https://open.spotify.com/artist/4Xc3WZX50yTkyXr7ic7Rb1) | [Sospeche](https://open.spotify.com/album/4QZCtPpwh1zbhgz76v2VvI) | 3:52 |
 
-Snapshot ID: `MTY0MjQ3OTI0NSwwMDAwMDAwMDA1MjlmNjBmYTU5MTJkOGZjZjVkMTUxYzVmNzZjZGVm`
+Snapshot ID: `MTY0MjQ5MjEyNiwwMDAwMDAwMDA1MjlmNjBmYTU5MTJkOGZjZjVkMTUxYzVmNzZjZGVm`

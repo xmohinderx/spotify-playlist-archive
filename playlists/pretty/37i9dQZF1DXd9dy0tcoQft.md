@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,249 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,250 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 64 | [Ontario](https://open.spotify.com/track/2FpB6kC0HTFwuCuD9vljrL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ontario](https://open.spotify.com/album/05Dd8KTyk27wOOSYrd5c8W) | 3:03 |
 | 65 | [In the Air](https://open.spotify.com/track/5v7h5vQgCJKZT5vB3I9s3o) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B III](https://open.spotify.com/album/5FkhVnR6DLz7ARqioHUwpc) | 4:12 |
 
-Snapshot ID: `MTY0MjQ3OTQxNywwMDAwMDAwMDAwMDU2NzdjYTNkNTUyZmY0ZjVkOTYyODgzMTg1OGJk`
+Snapshot ID: `MTY0MjQ5MjI2MiwwMDAwMDAwMDAwMDU2NzdjYTNkNTUyZmY0ZjVkOTYyODgzMTg1OGJk`

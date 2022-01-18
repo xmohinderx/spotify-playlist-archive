@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,096,322 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,096,497 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 99 | [Roots](https://open.spotify.com/track/23FHa9lYnG6Dr8OzombPkS) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Roots](https://open.spotify.com/album/4p0nrJ3SXAtZVaCnY0C0kM) | 3:04 |
 | 100 | [100 Degrees \(with Séb Mont\)](https://open.spotify.com/track/6KZmW3m8H69be0JSMj6762) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Calmani & Grey](https://open.spotify.com/artist/1mhqV3TKErQZb0mZDaR0Xo), [Séb Mont](https://open.spotify.com/artist/4lFWNwqQbywI4qCQ9PeL7V) | [CONTROVERSIA by Alok Vol\. 001](https://open.spotify.com/album/3q2KUJa8PNaSpO4Ma0lHW7) | 2:25 |
 
-Snapshot ID: `MTY0MjQ3OTQ0MywwMDAwMDAwMGM3ZGJkNGQ5NjZmYzU5M2Q1NjY5MjM3ZmI0MjBjM2Qw`
+Snapshot ID: `MTY0MjQ5MjI4MywwMDAwMDAwMGM3ZGJkNGQ5NjZmYzU5M2Q1NjY5MjM3ZmI0MjBjM2Qw`

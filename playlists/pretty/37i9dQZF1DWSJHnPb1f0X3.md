@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,424,198 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,424,273 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [Freedom](https://open.spotify.com/track/2nx0EIlIKMnMgWnj40O0HQ) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:18 |
 | 100 | [No Chill \(feat\. Lil Xxel\)](https://open.spotify.com/track/5oh6lXsQ3mhw5PvcsJqvXg) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [No Chill \(feat\. Lil Xxel\)](https://open.spotify.com/album/0Y0TSSqz4YbWKRbVC2r39e) | 2:47 |
 
-Snapshot ID: `MTY0MjQ3ODc3OCwwMDAwMDAwMGEzMDE1YzFkYjU2NWNlZGZjNDc3YTEzOTUyNDI2MTA2`
+Snapshot ID: `MTY0MjQ5MTc3OSwwMDAwMDAwMGEzMDE1YzFkYjU2NWNlZGZjNDc3YTEzOTUyNDI2MTA2`

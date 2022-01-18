@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,559 likes - 120 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,579 likes - 120 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 119 | [Easy Way Out](https://open.spotify.com/track/2V6DAmBQMKUkXFw5rcbRF2) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Cautionary Tale](https://open.spotify.com/album/7iXMplFdSUSWPl5ALrREZT) | 4:39 |
 | 120 | [Carry](https://open.spotify.com/track/1aJsXPeKKQsTlKhff3uKo5) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light: Second Phase](https://open.spotify.com/album/2o3PqYyPUnFHmay1PtvBuI) | 3:35 |
 
-Snapshot ID: `MTY0MjQ3ODg4MywwMDAwMDAwMDIxZmU0ODAxNzJmMzg2ZGE0YzgyY2EwMGM2YmM1MjFj`
+Snapshot ID: `MTY0MjQ5MTg1MywwMDAwMDAwMDIxZmU0ODAxNzJmMzg2ZGE0YzgyY2EwMGM2YmM1MjFj`

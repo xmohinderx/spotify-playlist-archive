@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 
 > Like the old school sound of metal? Then you'll love this playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,128,047 likes - 125 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,128,107 likes - 125 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 124 | [Let Them Eat Metal](https://open.spotify.com/track/3uZFSiCurXd9Jm3OIfxmAb) | [The Rods](https://open.spotify.com/artist/3W6mkWRUQjmny6bSsEcJf3) | [Let Them Eat Metal](https://open.spotify.com/album/1wbX59VoMx72e3N9P3NhLZ) | 3:57 |
 | 125 | [Bedside Radio](https://open.spotify.com/track/7dp39ThK3DGKVneJERWhHe) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Metal Rendez\-Vous](https://open.spotify.com/album/45tNUIvPmtfo4w44e1Tpgw) | 3:19 |
 
-Snapshot ID: `MTY0MjQ3OTA5MSwwMDAwMDAwMDMzNTM5ZGRjMDEzYThjNTU5YjQ5MzAwMTFiOTc4M2Fk`
+Snapshot ID: `MTY0MjQ5MjAwOSwwMDAwMDAwMDMzNTM5ZGRjMDEzYThjNTU5YjQ5MzAwMTFiOTc4M2Fk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Goldfinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,380 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,391 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Beatdown Generation](https://open.spotify.com/track/4XLgiO2wHzSahRD1LMWcvc) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Beatdown Generation](https://open.spotify.com/album/00mGLtTXb6AxQjwGTec0Ud) | 3:14 |
 | 100 | [Livin' the Apocalypse](https://open.spotify.com/track/78OHoxC6DGg05MVo5ly1wh) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Livin' the Apocalypse](https://open.spotify.com/album/0AEFI2FG7gwGNJ2Kl8KbKC) | 2:23 |
 
-Snapshot ID: `MTY0MjQ3OTI2MywwMDAwMDAwMDBmNTIxM2E3MzQ4NDQzNjExYjViMWQyYmJmNmFjNTE0`
+Snapshot ID: `MTY0MjQ5MjE0MSwwMDAwMDAwMDBmNTIxM2E3MzQ4NDQzNjExYjViMWQyYmJmNmFjNTE0`

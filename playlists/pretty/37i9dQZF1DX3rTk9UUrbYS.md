@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,803 likes - 50 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,804 likes - 50 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 49 | [Puzzle](https://open.spotify.com/track/6AfsQO3JDAW1Gc8se9lJ4N) | [Abbey Rader](https://open.spotify.com/artist/0qOItf2jhJgVM1Dzbd2t0Q), [John Mcminn](https://open.spotify.com/artist/2iTriZI6FAZpS5qY53JCcE) | [Phenobarbital Sessions](https://open.spotify.com/album/1Tv3Q5NVv0wLntosUmUffA) | 5:53 |
 | 50 | [Love](https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy) | 5:12 |
 
-Snapshot ID: `MTY0MjQ3OTE0NCwwMDAwMDAwMGUxN2I0ZWE2YzFhOTY2ZTliMzhhNjJjYTMxNzBjYzQy`
+Snapshot ID: `MTY0MjQ5MjA0OCwwMDAwMDAwMGUxN2I0ZWE2YzFhOTY2ZTliMzhhNjJjYTMxNzBjYzQy`

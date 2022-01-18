@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Gondwana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,550 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,563 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Mi Niña](https://open.spotify.com/track/15ebddPrc4HYVk9qM3trIi) | [Cañaman](https://open.spotify.com/artist/04igWRFWpM5duyi0r95fUn) | [Fronteras](https://open.spotify.com/album/1QrRY5KwBMVGpxW3zak2zk) | 6:24 |
 | 100 | [Mira Bien](https://open.spotify.com/track/55QuN0qYc4pnb001Ns8ZsK) | [Cestar](https://open.spotify.com/artist/1p5MGlN01vwR008ce7818d), [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Mira Bien](https://open.spotify.com/album/1dGNnwFx3AGB9cl38NQjf3) | 3:19 |
 
-Snapshot ID: `MTY0MjQ3ODg3NSwwMDAwMDAwMGNiN2E2NmEyOTE5MTAzYTAzZjNkM2NlNDYyYWJlMjNh`
+Snapshot ID: `MTY0MjQ5MTg0OCwwMDAwMDAwMGNiN2E2NmEyOTE5MTAzYTAzZjNkM2NlNDYyYWJlMjNh`

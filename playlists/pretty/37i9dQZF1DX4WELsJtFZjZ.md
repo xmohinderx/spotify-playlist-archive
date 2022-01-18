@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,511 likes - 150 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,585 likes - 150 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [Fragile](https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 3:56 |
 | 150 | [Under The Boardwalk](https://open.spotify.com/track/6a4mvE1CdiRMPyAvG8ByLN) | [Bruce Willis](https://open.spotify.com/artist/6UpHyjBIGRSHpna0GQ68bH) | [The Return Of Bruno](https://open.spotify.com/album/56jScJ8N9n8B4ZNu52KeHk) | 3:03 |
 
-Snapshot ID: `MTY0MjQ3OTE2MywwMDAwMDAwMDQ4NjM1MjAxMzRkNTdiNzE4MzQ3YWY4OTM2N2ZjODg3`
+Snapshot ID: `MTY0MjQ5MjA2MiwwMDAwMDAwMDQ4NjM1MjAxMzRkNTdiNzE4MzQ3YWY4OTM2N2ZjODg3`

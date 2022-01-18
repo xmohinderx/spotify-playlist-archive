@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 00s
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,467 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,486 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 | 69 | [I Don't Feel Like Dancin'](https://open.spotify.com/track/7MAXOaoJrqK8dwFhlUw18N) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta Dah](https://open.spotify.com/album/3pWeAnP5ZOXXB6DkNG0tYX) | 4:48 |
 | 70 | [She Moves In Her Own Way](https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 2:49 |
 
-Snapshot ID: `MTY0MjQ3OTA4MiwwMDAwMDAwMDNkYjIyOTNjOGNlZGVhYzljMWI5MjEyMzk1YzIwZTYz`
+Snapshot ID: `MTY0MjQ5MjAwMywwMDAwMDAwMDNkYjIyOTNjOGNlZGVhYzljMWI5MjEyMzk1YzIwZTYz`

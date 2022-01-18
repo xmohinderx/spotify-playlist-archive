@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64nnRPoKA6J.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 90s
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,802 likes - 70 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,816 likes - 70 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64nnRPoKA6J.md) - [plain]
 | 69 | [On a Night like This](https://open.spotify.com/track/68YkiTIRWcXN3q11ED70iN) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Light Years](https://open.spotify.com/album/6vaZSsroXnO5rMcpr74QOA) | 3:33 |
 | 70 | [Give It Up](https://open.spotify.com/track/1Hh5gDiXZGhtKfHzJYYhSJ) | [Cut 'N' Move](https://open.spotify.com/artist/2OQkm6IvTu9MeHkGQQ4cSK) | [Peace, Love & Harmony](https://open.spotify.com/album/6Dvs8Sy0kCLhx0yDWvIhym) | 4:25 |
 
-Snapshot ID: `MTY0MjQ3OTIxOCwwMDAwMDAwMDkwMGNhMzljNmIwYmM0M2EyNzViZDlkNmIxYzA2Y2Ew`
+Snapshot ID: `MTY0MjQ5MjEwNiwwMDAwMDAwMDkwMGNhMzljNmIwYmM0M2EyNzViZDlkNmIxYzA2Y2Ew`

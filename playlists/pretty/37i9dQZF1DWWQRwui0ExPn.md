@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > A new year ahead with beats to relax, study, and focus...
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,457,749 likes - 811 songs - 1 day 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,457,983 likes - 811 songs - 1 day 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -820,4 +820,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 810 | [Offshore](https://open.spotify.com/track/4IuYRyssUbY389q4bkdLE4) | [Bitter Blossom](https://open.spotify.com/artist/5d66sWR2eYa7f627BC2t6Q), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Sun Petal](https://open.spotify.com/album/3svqGDuyAbxuTfgP2TX6Qc) | 3:14 |
 | 811 | [Collection](https://open.spotify.com/track/7wOGFhYnKOIMdUxQRtg273) | [mvnitou](https://open.spotify.com/artist/1u5Lht40OtsxS78hPb3wr9) | [Collection](https://open.spotify.com/album/7tnhTs8ZEHYBJ6XtAHemLs) | 3:01 |
 
-Snapshot ID: `MTY0MjQ3ODkwNiwwMDAwMDAwMDFmNzNiOTc0MGJjZmY0NDNkZTMwMjQwNDdmZGEzYzFi`
+Snapshot ID: `MTY0MjQ5MTg3MCwwMDAwMDAwMDFmNzNiOTc0MGJjZmY0NDNkZTMwMjQwNDdmZGEzYzFi`

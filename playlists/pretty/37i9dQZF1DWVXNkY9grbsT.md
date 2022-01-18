@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic music\. Cover: Amon Tobin
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,737 likes - 99 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,747 likes - 99 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 98 | [Gold](https://open.spotify.com/track/56FPk0JIcUiBbebj6UZ1mF) | [Grand River](https://open.spotify.com/artist/7HtrqYEdzfxQcGct9YBxAO) | [Blink a Few Times to Clear Your Eyes](https://open.spotify.com/album/20J24viKPjsgpj2a1Edob2) | 2:13 |
 | 99 | [Tokyo Exorcist](https://open.spotify.com/track/2J2dJS1mRWalZmnlYg7KE2) | [Prurient](https://open.spotify.com/artist/00NwpiTtYKYzE6yEhSbFIk) | [Chain Reaction at Dusk](https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP) | 7:58 |
 
-Snapshot ID: `MTY0MjQ3ODg3NCwwMDAwMDAwMGE3NzYxMmQ0MzViNzNiNTEyYmZkNTRkZmY1YjkzMmI2`
+Snapshot ID: `MTY0MjQ5MTg0NywwMDAwMDAwMGE3NzYxMmQ0MzViNzNiNTEyYmZkNTRkZmY1YjkzMmI2`

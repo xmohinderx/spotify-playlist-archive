@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,756 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,785 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Rareza de siglo](https://open.spotify.com/track/20GpkyaDZAit5Ty7zP2vqz) | [Cucurucho Valdes](https://open.spotify.com/artist/32brnIExDRCeGX0spDmRdc) | [Rareza de Siglo \(En Vivo\)](https://open.spotify.com/album/0PaJvLUbDjC72tmSXkxzQm) | 8:38 |
 | 100 | [Ciudadano](https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4) | [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [Issac Delgado](https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK) | [Acertijos](https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF) | 4:31 |
 
-Snapshot ID: `MTY0MjQ3OTIxOSwwMDAwMDAwMDFiYjYxMzUwY2Y0OTI2Y2NjMDI4MzJkYTk0YTY0NzZj`
+Snapshot ID: `MTY0MjQ5MjEwNywwMDAwMDAwMDFiYjYxMzUwY2Y0OTI2Y2NjMDI4MzJkYTk0YTY0NzZj`

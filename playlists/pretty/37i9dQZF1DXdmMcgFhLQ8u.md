@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,266 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,279 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 74 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
 | 75 | [You'll Think Of Me \- Single Version](https://open.spotify.com/track/0lZxd99ZIjA0zUdQAY3FXr) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:51 |
 
-Snapshot ID: `MTY0MjQ3OTQzOSwwMDAwMDAwMGQ0YWY3ZTdlZWI3MjMxMDkzNWViNGExNjlkZWEyYjk1`
+Snapshot ID: `MTY0MjQ5MjI3OSwwMDAwMDAwMGQ0YWY3ZTdlZWI3MjMxMDkzNWViNGExNjlkZWEyYjk1`

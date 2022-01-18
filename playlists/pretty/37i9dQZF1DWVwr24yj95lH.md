@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Seether
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,664 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,706 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 74 | [Real World](https://open.spotify.com/track/70fe354BpVKEvMY0de78YO) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:51 |
 | 75 | [Bulletproof Skin](https://open.spotify.com/track/6JJ8dMD8ZHo9RQbZfKUTyK) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/39NUMGNHvB1k3VWzujcCPv) | 4:25 |
 
-Snapshot ID: `MTY0MjQ3ODg5MSwwMDAwMDAwMDg0ZDQxZTdjY2ViZGFjMjBjNTBmNmViZGE4N2FjMjRh`
+Snapshot ID: `MTY0MjQ5MTg1OSwwMDAwMDAwMDg0ZDQxZTdjY2ViZGFjMjBjNTBmNmViZGE4N2FjMjRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,677 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,678 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Got Me Like That](https://open.spotify.com/track/11yRVW3pbV4MXw3LbACIWr) | [Hallman](https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5) | [Got Me Like That](https://open.spotify.com/album/25RYR2Let6LoeKeOvoe5Ax) | 3:09 |
 | 80 | [All the Time](https://open.spotify.com/track/3OTSBoYKO7HzGVj8Bu2OH9) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [All the Time](https://open.spotify.com/album/4x79GTZCS7XsmxK9qxxMmV) | 3:48 |
 
-Snapshot ID: `MTY0MjQ3ODc4MCwwMDAwMDAwMDk1MTIwNzE4MDBhM2ZhMGI4MGY0YzdhZDAzNmJmZTcz`
+Snapshot ID: `MTY0MjQ5MTc4MCwwMDAwMDAwMDk1MTIwNzE4MDBhM2ZhMGI4MGY0YzdhZDAzNmJmZTcz`

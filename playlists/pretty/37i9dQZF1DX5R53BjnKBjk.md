@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 
 > As novidades dos artistas independentes que você precisa conhecer\. Foto: Terra Preta\. Arte: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,648 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,649 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5R53BjnKBjk.md) - [plain]
 | 79 | [Toda Rabadinha](https://open.spotify.com/track/0F6IvU6dxaEf8Z9PSVljSl) | [Trio Shaloshinho](https://open.spotify.com/artist/3BWciZxTZvZG6pWpoVFwU3) | [Toda Rabadinha](https://open.spotify.com/album/3g7UnIxeGOJr0PGkRuhXRb) | 2:52 |
 | 80 | [NA CIDADE](https://open.spotify.com/track/48SRrE5cEEHH0DASXzOnKv) | [felino](https://open.spotify.com/artist/2uGXjH16PSBfrZ56uoKdNq), [Mariana Ramos](https://open.spotify.com/artist/7dbcgDHRj6hl6VMSrIyHCM) | [NA CIDADE](https://open.spotify.com/album/1mfz9gaY8BNO6biqJ3NyUC) | 2:36 |
 
-Snapshot ID: `MTY0MjQ3OTIwMCwwMDAwMDAwMDJmMGEwMGFjNzBjNTQ4NDQxYzU0NWNjMWYwMGMwMjUw`
+Snapshot ID: `MTY0MjQ5MjA5MSwwMDAwMDAwMDJmMGEwMGFjNzBjNTQ4NDQxYzU0NWNjMWYwMGMwMjUw`

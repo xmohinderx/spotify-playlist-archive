@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jordan Stephens & Miraa May
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,919 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,942 likes - 70 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [For You & I](https://open.spotify.com/track/5Vj7O3T5u0wHuFD99x2Rv1) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Alex Tierney](https://open.spotify.com/artist/7apJyJbhzj9WS3m6EQAyjx) | [For You & I](https://open.spotify.com/album/5S3BeEXXJk52SJWwUtbBiT) | 3:14 |
 | 70 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 |
 
-Snapshot ID: `MTY0MjQ3OTQzMywwMDAwMDAwMDFkZmExNDFlMWFlMTBiM2Q3ZTVmOTNlODExMjljYTcx`
+Snapshot ID: `MTY0MjQ5MjI3NSwwMDAwMDAwMDFkZmExNDFlMWFlMTBiM2Q3ZTVmOTNlODExMjljYTcx`

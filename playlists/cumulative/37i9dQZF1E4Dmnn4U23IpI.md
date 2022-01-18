@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/2T4bEFEfvvK4qvB1iHmD1n)
 
-> With Timecop1983, Gunship, Mitch Murder and more
+> With Timecop1983, Miami Nights 1984, Kalax and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,595 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,610 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Concerto for 2 Harpsichords, Strings & Continuo in C Major, BWV 1061: 1\. \[No Tempo Indication\] \(performed on two pianos\)](https://open.spotify.com/track/6XRjvKXktFulH9foC7teqH) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lucas Jussen](https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI), [Arthur Jussen](https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars), [Amsterdam Sinfonietta](https://open.spotify.com/artist/2qx7K1T3gw9J0JTQnaGnBD), [Candida Thompson](https://open.spotify.com/artist/53dqNaesiJ52bYl36DZuxM) | [Bach](https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M) | 7:33 |
 | 60 | [Schubert: Ave Maria, D\. 839](https://open.spotify.com/track/5UIPsKm1mv0TlLO8jkUIzD) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Light Classical Piano](https://open.spotify.com/album/0M39aVT31sizzQuMQPIiRC) | 2:50 |
 
-Snapshot ID: `MTY0MjQ3ODkxOSwwMDAwMDAwMGJiZjE0MzcxZGEyZTgwMWU4NmFkMzczNjU5Y2UyY2Iz`
+Snapshot ID: `MTY0MjQ5MTg3OSwwMDAwMDAwMGJiZjE0MzcxZGEyZTgwMWU4NmFkMzczNjU5Y2UyY2Iz`

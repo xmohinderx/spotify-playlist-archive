@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRL7xbcDl7X.md) - [plain]
 
 > a new wave of indie born on the internet\. Cover: Lovejoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,653 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,644 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRL7xbcDl7X.md) - [plain]
 | 99 | [Feeling Lonely](https://open.spotify.com/track/5uIRujGRZv5t4fGKkUTv4n) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Soy Pablo](https://open.spotify.com/album/1lESM5Y1VAvrCLEgLmyfOw) | 3:17 |
 | 100 | [Two Moons](https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Fever Dreams](https://open.spotify.com/album/0NzheutoSuzfMlENTnHTQl) | 3:44 |
 
-Snapshot ID: `MTY0MjQ3OTM0MywwMDAwMDAwMDZmZjVkZDVkY2JiMTI0ZjBiMzhjYTQzM2VmMmExYWZk`
+Snapshot ID: `MTY0MjQ5MjIwNSwwMDAwMDAwMDZmZjVkZDVkY2JiMTI0ZjBiMzhjYTQzM2VmMmExYWZk`

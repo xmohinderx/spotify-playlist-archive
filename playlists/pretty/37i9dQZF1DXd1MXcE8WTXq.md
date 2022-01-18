@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1MXcE8WTXq.md) - [plain]
 
 > The biggest summer hits of all time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,623 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,622 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd1MXcE8WTXq.md) - [plain]
 | 79 | [TiK ToK](https://open.spotify.com/track/5OMwQFBcte0aWFJFqrr5oj) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal](https://open.spotify.com/album/4Fts9DL8sj5UQ0TkN4SvMK) | 3:19 |
 | 80 | [Summer Nights \- From “Grease” Soundtrack](https://open.spotify.com/track/39OKbfmScJ6dVMyqLScPJy) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(Limited Edition\)](https://open.spotify.com/album/00Rp3j7mKM3qZXkvF9iWcy) | 3:36 |
 
-Snapshot ID: `MTY0MjQ3OTQxNCwwMDAwMDAwMGNjZDVkYzc0OWU1YzBlMzUwODUwNjdjZDhjNjI1ZWUy`
+Snapshot ID: `MTY0MjQ5MjI2MCwwMDAwMDAwMGNjZDVkYzc0OWU1YzBlMzUwODUwNjdjZDhjNjI1ZWUy`

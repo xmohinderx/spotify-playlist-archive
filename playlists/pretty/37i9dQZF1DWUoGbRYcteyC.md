@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > ¡Que viva el amor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,908,119 likes - 130 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,908,155 likes - 130 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 129 | [Luz](https://open.spotify.com/track/4KhurM0GuFNioRgsBTpXos) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Luz](https://open.spotify.com/album/6WkYBEqDxKFJGXEG3Gossr) | 2:54 |
 | 130 | [Mejores Amigos](https://open.spotify.com/track/7tQ24skemknA6PPh6gwFi1) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Mejores Amigos](https://open.spotify.com/album/4JFLZE2lAjETtE7uvms4Fo) | 3:25 |
 
-Snapshot ID: `MTY0MjQ3ODg1NiwwMDAwMDAwMDdkMTk0Mzg4ZGFmMzBkOTM2MGY1ZjgzOTZmODYyMGZi`
+Snapshot ID: `MTY0MjQ5MTgzNCwwMDAwMDAwMDdkMTk0Mzg4ZGFmMzBkOTM2MGY1ZjgzOTZmODYyMGZi`

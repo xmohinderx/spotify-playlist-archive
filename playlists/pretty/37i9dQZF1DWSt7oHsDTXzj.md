@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,233 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,232 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 49 | [Some Hearts \(at Christmas Time\)](https://open.spotify.com/track/6w7zGvsdr63FhRpgKpBNsa) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Some Hearts \(at Christmas Time\)](https://open.spotify.com/album/1gh73HIn5I5zosdUhUalaX) | 3:22 |
 | 50 | [Christmas](https://open.spotify.com/track/6k6uI1K7EWK0UsSpqtHpoX) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Christmas](https://open.spotify.com/album/2h5X4I201MIi7pv4lNCezO) | 2:29 |
 
-Snapshot ID: `MTY0MjQ3ODc5OSwwMDAwMDAwMDdhMWJmYzQ3YWJkODEwZjJkYTU3YmVlNzJmOGUwMWUx`
+Snapshot ID: `MTY0MjQ5MTc5NCwwMDAwMDAwMDdhMWJmYzQ3YWJkODEwZjJkYTU3YmVlNzJmOGUwMWUx`

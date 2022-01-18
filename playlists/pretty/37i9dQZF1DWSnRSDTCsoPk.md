@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,761 likes - 99 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,818 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 98 | [Sexy, Free & Single](https://open.spotify.com/track/2gVUU6cUYgsExc7X70FrTo) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Sexy, Free & Single](https://open.spotify.com/album/2JuQjHZ6ssTtwCrPgqc0Br) | 3:44 |
 | 99 | [Crayon](https://open.spotify.com/track/1HMbjnCFGOWd8Sqou4maxM) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [One of a Kind](https://open.spotify.com/album/4EitCfNTOlnqtRrmBBuwGQ) | 3:16 |
 
-Snapshot ID: `MTY0MjQ3ODc5NiwwMDAwMDAwMGNmMGQ4YzI2ZGEzNGZlNDBlZWM4NzgwMTJmNGFlMmY3`
+Snapshot ID: `MTY0MjQ5MTc5MiwwMDAwMDAwMGNmMGQ4YzI2ZGEzNGZlNDBlZWM4NzgwMTJmNGFlMmY3`

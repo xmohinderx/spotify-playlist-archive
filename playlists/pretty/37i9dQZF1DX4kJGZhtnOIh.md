@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 
 > Have a nice relaxed dinner with some chill indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,687 likes - 78 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,690 likes - 78 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 77 | [Terror In The Canyons \(The Wounded Master\)](https://open.spotify.com/track/7C9qM17pJCJi1hiFERWjm6) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/2he3CA9Gg1XLCsBiMAaXiz) | 4:05 |
 | 78 | [In the Stream](https://open.spotify.com/track/02iZJRlOZ7VRbzO8uVdOva) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [All We Grow](https://open.spotify.com/album/7hoiuRyh1XBh4YUOB0ZeGx) | 5:10 |
 
-Snapshot ID: `MTY0MjQ3OTE3MywwMDAwMDAwMDM1OWIxYzhiODM5Yjg2ZTU5Y2U2MzQ0YjQ1MjQ1MTE3`
+Snapshot ID: `MTY0MjQ5MjA3MCwwMDAwMDAwMDM1OWIxYzhiODM5Yjg2ZTU5Y2U2MzQ0YjQ1MjQ1MTE3`

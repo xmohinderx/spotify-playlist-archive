@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 
 > Get in mood for dinner with some cooking jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,827 likes - 75 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,835 likes - 75 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 | 74 | [Juicy Lucy \- Rudy Van Gelder Edition / Remastered](https://open.spotify.com/track/0czS4nRJjvQnlwWusRbUdW) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Finger Poppin' \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on) | 5:46 |
 | 75 | [Young Bean](https://open.spotify.com/track/0jLNrHoBVaOm8V37QRRXEf) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster and Associates](https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR) | 6:03 |
 
-Snapshot ID: `MTY0MjQ3OTM2MCwwMDAwMDAwMGViMGY0N2EwMDViYjNhMWZmOWQ1ODJlNmQ4NDMyNzEw`
+Snapshot ID: `MTY0MjQ5MjIxOCwwMDAwMDAwMGViMGY0N2EwMDViYjNhMWZmOWQ1ODJlNmQ4NDMyNzEw`

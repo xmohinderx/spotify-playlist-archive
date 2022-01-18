@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 
 > Top Arabic hits are right here\. Cover: Mohamed Ramadan, RedOne, Nouamane Belaiachi
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,038 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,056 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cO1uP1XC1g.md) - [plain]
 | 99 | [Bahr Shar](https://open.spotify.com/track/1AZjgKOrI1MVwoDKYlZIdF) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [Houda Bondok](https://open.spotify.com/artist/3h9whENZphIzFOkg0brmgK) | [Bahr Shar](https://open.spotify.com/album/60jBCD1LI5FDHxPQV3mef5) | 2:51 |
 | 100 | [Ahla Ebdaa](https://open.spotify.com/track/2QFNbSv9IVYnDSWfhy1lnD) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Ahla Ebdaa](https://open.spotify.com/album/1oHFjJwAwl0ycWm3NcIOXs) | 3:43 |
 
-Snapshot ID: `MTY0MjQ3OTIwNiwwMDAwMDAwMDQ4YjMzZDA0NWM2NjNjN2JkYTY0OTIzNzJmZmQ3N2M5`
+Snapshot ID: `MTY0MjQ5MjA5NiwwMDAwMDAwMDQ4YjMzZDA0NWM2NjNjN2JkYTY0OTIzNzJmZmQ3N2M5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,818 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,834 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvzw24ukZEU.md) - [plain]
 | 49 | [Que Quieres De Mi](https://open.spotify.com/track/3fByHPIAukwNO6eWKVYXrb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Pop Para Dormir Profundamente](https://open.spotify.com/album/5iYMTGDFdQGxRupYBj9Vjg) | 4:33 |
 | 50 | [Ya Me Enteré \(feat\. Nicky Jam\) \- Urban Version](https://open.spotify.com/track/2SSYqDX8KTgy01NlqtUo0F) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:39 |
 
-Snapshot ID: `MTY0MjQ3OTM4NSwwMDAwMDAwMGI3N2IzNzdmMjI5ZDBmZWQ5ODAwN2FhNTE4NWU5YjUx`
+Snapshot ID: `MTY0MjQ5MjIzNywwMDAwMDAwMGI3N2IzNzdmMjI5ZDBmZWQ5ODAwN2FhNTE4NWU5YjUx`

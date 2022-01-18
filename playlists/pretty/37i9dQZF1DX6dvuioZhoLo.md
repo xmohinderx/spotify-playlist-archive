@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > Old makes new\. Cover: Charley Crockett
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,229 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,262 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [Ice Cream and Liquor](https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO) | [The Reckless Electric](https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM) | [Comeback](https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb) | 3:26 |
 | 100 | [Jackson](https://open.spotify.com/track/7GhTnpAKMLPNCeiY7ylEw3) | [Annalisa Tornfelt](https://open.spotify.com/artist/4Eo2U9v17haXp8fW3g47Za) | [Search Zero](https://open.spotify.com/album/7tnfdJ91P5koAd3B3veyDU) | 3:17 |
 
-Snapshot ID: `MTY0MjQ3OTIzOCwwMDAwMDAwMDUwNWI0YjZhMmI3NDIzNGQwOWNmMTJkYzM3NDdhMTY2`
+Snapshot ID: `MTY0MjQ5MjEyMSwwMDAwMDAwMDUwNWI0YjZhMmI3NDIzNGQwOWNmMTJkYzM3NDdhMTY2`

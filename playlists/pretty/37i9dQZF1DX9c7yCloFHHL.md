@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The home of today’s cutting edge Ambient, Atmospheric and Neo Classical music\. Burial on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,468 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,481 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Coming Into Being and Passing Away](https://open.spotify.com/track/5K4N0rKkwS1WjMEgGVacQn) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Coming Into Being and Passing Away](https://open.spotify.com/album/5Pxv17JVeKQSnrCyYs8s7T) | 6:16 |
 | 100 | [Rhapsodie](https://open.spotify.com/track/6bGQ2ne2Ja1e5NDPb0AFxc) | [Schlindwein](https://open.spotify.com/artist/2anZ4I2UXxOT5LBGahKWv6) | [Piano Tales](https://open.spotify.com/album/0iSISkeqmEnPGe7CzjnD6K) | 3:05 |
 
-Snapshot ID: `MTY0MjQ3OTMxOSwwMDAwMDAwMDFlYjJlMzI5NGFiNjY4M2JhNTRiMmI2YjYzNmQ4ZTBl`
+Snapshot ID: `MTY0MjQ5MjE4NiwwMDAwMDAwMDFlYjJlMzI5NGFiNjY4M2JhNTRiMmI2YjYzNmQ4ZTBl`

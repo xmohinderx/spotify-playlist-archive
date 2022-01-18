@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release The Bats! Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,280 likes - 80 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,337 likes - 80 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [Atmosphere](https://open.spotify.com/track/0NBgmP6Yg5xZYsnIZ0pGdo) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [The Best Of](https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe) | 4:10 |
 | 80 | [The Hunt \- 2005 Remaster](https://open.spotify.com/track/4yDqmEnm98SIAvWG9qkzUP) | [New Model Army](https://open.spotify.com/artist/7n1EM42Fseebd9H2p8eWWS) | [The Ghost Of Cain \(Bonus Content\)](https://open.spotify.com/album/3c7VsK9Ah0eX7kDWOWtjV1) | 4:12 |
 
-Snapshot ID: `MTY0MjQ3OTAyNiwwMDAwMDAwMGIzMDI2OTAzNjhiNGI3ZTY2ZmQ5ZjgyYjM5OTdlYWM1`
+Snapshot ID: `MTY0MjQ5MTk2MCwwMDAwMDAwMGIzMDI2OTAzNjhiNGI3ZTY2ZmQ5ZjgyYjM5OTdlYWM1`

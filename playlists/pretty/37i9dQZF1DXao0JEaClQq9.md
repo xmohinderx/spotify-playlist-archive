@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > dedicated to experimentalism with strong elements of pop and universal beauty, ft yeule
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,142 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,314 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 124 | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:15 |
 | 125 | [Morning Dew](https://open.spotify.com/track/4IU9uyvBToh2mtFEyiAdGk) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Morning Dew](https://open.spotify.com/album/5kCdO1hqtUSmO1LFFw3izp) | 4:34 |
 
-Snapshot ID: `MTY0MjQ3OTM1MywwMDAwMDAwMGFlZGE5YjFhYTQ1ZDFkYTQ3NTYxZTg4MDI2YzI3OWIx`
+Snapshot ID: `MTY0MjQ5MjIxMywwMDAwMDAwMGFlZGE5YjFhYTQ1ZDFkYTQ3NTYxZTg4MDI2YzI3OWIx`

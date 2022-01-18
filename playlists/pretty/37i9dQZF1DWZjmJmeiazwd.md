@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game, this is 10+ hours of the best in Rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,899 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,903 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 149 | [Red Hot Lights](https://open.spotify.com/track/6q4h8vUTZcpr51dxAZ4Ws9) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Daybreaker](https://open.spotify.com/album/5TDZM4RBN95C4QnoAcfkIh) | 3:30 |
 | 150 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 |
 
-Snapshot ID: `MTY0MjQ3OTAwMiwwMDAwMDAwMDBlZGFhN2JiY2MwMDRhOGUyNjkwN2JiZjhlNzE4OGJm`
+Snapshot ID: `MTY0MjQ5MTk0MiwwMDAwMDAwMDBlZGFhN2JiY2MwMDRhOGUyNjkwN2JiZjhlNzE4OGJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > A collection of the biggest Metal classics of the 90s\. Cover : Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,068 likes - 145 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,114 likes - 145 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 144 | [I Am The Black Wizards](https://open.spotify.com/track/2956v4MaiU78SkPpeTXxhq) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU) | 6:00 |
 | 145 | [Dixie Whiskey \- remastered 2007](https://open.spotify.com/track/73F6UKFA7ivQA51lhZTqjR) | [Eyehategod](https://open.spotify.com/artist/3BRjxpDVT56Y2G5dS3xYZS) | [Dopesick \(remastered Re\-issue + Bonus\)](https://open.spotify.com/album/6hQfZWwzteEX6o7M5DdKB6) | 2:55 |
 
-Snapshot ID: `MTY0MjQ3OTAxMiwwMDAwMDAwMDEzNzk2N2MyODRmZmNiMTEwOWYwYjY0MmE3ZDhkYzBm`
+Snapshot ID: `MTY0MjQ5MTk1MSwwMDAwMDAwMDEzNzk2N2MyODRmZmNiMTEwOWYwYjY0MmE3ZDhkYzBm`

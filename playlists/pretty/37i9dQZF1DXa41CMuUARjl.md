@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Shermanology.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,530 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,542 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 99 | [Ghorba](https://open.spotify.com/track/2qEevE8eTAeR1kfWzqkEPw) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Mr Casablanca](https://open.spotify.com/artist/2iIBdi49pjdh580ovditIY) | [Ghorba](https://open.spotify.com/album/1cMWUUCkcxavvahY9LdMLc) | 4:04 |
 | 100 | [insecure](https://open.spotify.com/track/45kycPq8eq0O4KDpxzxoQj) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [insecure](https://open.spotify.com/album/4wC9uXVAFz5m6dgC2dUJjp) | 3:06 |
 
-Snapshot ID: `MTY0MjQ3OTMzMiwwMDAwMDAwMDBkMzcwMDM5N2RjMjIzYWExMGQ5MjdkZDA0N2MwZjgz`
+Snapshot ID: `MTY0MjQ5MjE5NywwMDAwMDAwMDBkMzcwMDM5N2RjMjIzYWExMGQ5MjdkZDA0N2MwZjgz`

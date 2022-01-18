@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,562,215 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,562,251 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Unfamiliar](https://open.spotify.com/track/5N4zbU92aLx9Wrn16isoo8) | [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Alliance](https://open.spotify.com/album/6xEnoM0Mx27MTb4O5GF3V1) | 4:22 |
 | 100 | [Dust](https://open.spotify.com/track/79srzZz9HB7l9MJjWlHPvD) | [Sync Zephyr](https://open.spotify.com/artist/3uRZcnN1Xxvxn4J4gq0Z7G) | [Dust](https://open.spotify.com/album/6RurZxObPerofRLmbWeb1o) | 3:32 |
 
-Snapshot ID: `MTY0MjQ3ODkzNywwMDAwMDAwMGExZmIyNGNiZWMyNzNjZTcxMWUwMDJhNzZkNTRkMzgx`
+Snapshot ID: `MTY0MjQ5MTg5MiwwMDAwMDAwMGExZmIyNGNiZWMyNzNjZTcxMWUwMDJhNzZkNTRkMzgx`

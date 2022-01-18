@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Forest Fires](https://open.spotify.com/track/4BoKK8Q976nYHey08e7Ni7) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/4jrb1eVykCEyNTfA3bAgG6) | 3:30 |
 | 60 | [The Ghost In Your Smile](https://open.spotify.com/track/3HYG7nGHhpcMJjMF9W8AAe) | [Jarle Skavhellen](https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td) | [The Ghost In Your Smile // Seventeen](https://open.spotify.com/album/17hQBX397LLMjSIi4qzQ0T) | 3:47 |
 
-Snapshot ID: `MTY0MjQ3OTE3MiwwMDAwMDAwMDYzNGI4NDkyNmE5YTVlYzMyZWI2MTVjZTYxY2I2MmQ5`
+Snapshot ID: `MTY0MjQ5MjA2OSwwMDAwMDAwMDYzNGI4NDkyNmE5YTVlYzMyZWI2MTVjZTYxY2I2MmQ5`

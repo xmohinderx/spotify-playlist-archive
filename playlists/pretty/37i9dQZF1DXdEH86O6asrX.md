@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 
 > ¡Los más cálidos soundtracks navideños para este temporada!
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,895 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,892 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 49 | [We Wish You a Merry Christmas / End Title \- Voice](https://open.spotify.com/track/7FOJKfiyl1tegmYRqs7AuZ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Home Alone \(Original Motion Picture Soundtrack\) \[Anniversary Edition\]](https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY) | 4:14 |
 | 50 | [Put A Little Love In Your Heart](https://open.spotify.com/track/0Zy1yjB9wMfm76pcEF2egT) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Testify: The Best Of The A&M Years](https://open.spotify.com/album/5Lv1rpF90q8cq8jcEmehRk) | 3:49 |
 
-Snapshot ID: `MTY0MjQ3OTQxOSwwMDAwMDAwMDkwMzhmNDVmYzhmOTg1NjhlMjg1NDlhNDhmNjAxZDcz`
+Snapshot ID: `MTY0MjQ5MjI2NCwwMDAwMDAwMDkwMzhmNDVmYzhmOTg1NjhlMjg1NDlhNDhmNjAxZDcz`

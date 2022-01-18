@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrdml94k1Rt.md) - [plain]
 
 > Digging deep into the history of 00s Metal\. Maybe rediscover old favorites?
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,844 likes - 150 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,865 likes - 150 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrdml94k1Rt.md) - [plain]
 | 149 | [Stupid Girl](https://open.spotify.com/track/4GPTqTFAkOXNGd5Cy6sTvx) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/2AHTc1fPhvsiGtXtquK5DO) | 3:09 |
 | 150 | [Alcohaulin' Ass](https://open.spotify.com/track/1OXzwmEPLq7cR6J6sbcLto) | [HELLYEAH](https://open.spotify.com/artist/4hxDvVq5t8ebPYPdBl1F9f) | [HELLYEAH](https://open.spotify.com/album/2aUYb3rhe78BvvUdyJuIh8) | 3:54 |
 
-Snapshot ID: `MTY0MjQ3ODg1OSwwMDAwMDAwMDQwNDBiMGM2ZmRhOWIzYzNkZmMzMzhiNGU5MjM1N2Nl`
+Snapshot ID: `MTY0MjQ5MTgzNiwwMDAwMDAwMDQwNDBiMGM2ZmRhOWIzYzNkZmMzMzhiNGU5MjM1N2Nl`

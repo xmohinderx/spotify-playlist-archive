@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 74 | [Bottomless Mimosas](https://open.spotify.com/track/1iUrILDOtKAunjb2cWjUFl) | [Sam Outlaw](https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r) | [Bottomless Mimosas](https://open.spotify.com/album/15c9x5IQtj60N8MQl70HFB) | 3:46 |
 | 75 | [Rye Whiskey](https://open.spotify.com/track/0gVTOC191ScBI2Frj9NQQX) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [Antifogmatic](https://open.spotify.com/album/2C37EWVmuBXjXqxhGwJM5c) | 3:29 |
 
-Snapshot ID: `MTY0MjQ3OTMyNCwwMDAwMDAwMGY5Zjk1ZWJmZTA5NzIwY2NiN2FmZGFlMGU3YjI3ZWE5`
+Snapshot ID: `MTY0MjQ5MjE5MCwwMDAwMDAwMGY5Zjk1ZWJmZTA5NzIwY2NiN2FmZGFlMGU3YjI3ZWE5`

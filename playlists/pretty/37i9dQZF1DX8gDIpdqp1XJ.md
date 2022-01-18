@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psych\. Cover: St\. Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,369 likes - 150 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,443 likes - 150 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 149 | [Nobody Taught Me](https://open.spotify.com/track/5bVZ4C7MFM1tgsb8VjvLb3) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [Nobody Taught Me](https://open.spotify.com/album/5Wjjrn5PxAzqwHDSSFfjtY) | 3:49 |
 | 150 | [Space Camel](https://open.spotify.com/track/432hUaMgylN4s4aqwn9KY5) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Space Camel](https://open.spotify.com/album/6LrxA6OjDfJt7sGXvtyaFB) | 6:37 |
 
-Snapshot ID: `MTY0MjQ3OTI5NCwwMDAwMDAwMGRhNjdmOTFkNjRhOGU1YjM5ZjU3MDE4MjUxYmI3OGY0`
+Snapshot ID: `MTY0MjQ5MjE2NywwMDAwMDAwMGRhNjdmOTFkNjRhOGU1YjM5ZjU3MDE4MjUxYmI3OGY0`

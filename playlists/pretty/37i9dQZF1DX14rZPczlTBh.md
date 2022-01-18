@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > The perfect uptempo tracks for the function.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,055 likes - 65 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,056 likes - 65 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 64 | [Ratthaalu](https://open.spotify.com/track/49bXxI5G1fTOuVRr56s5fr) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Khaidi No 150](https://open.spotify.com/album/5vVzgxWC3S6eiQ1a5rYvo0) | 4:22 |
 | 65 | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/track/3qhq4cn3We0CXDIi44ckHa) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Lavita Lobo](https://open.spotify.com/artist/2RBQVSVinw1X1iRQQ4iqJv), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Daang Daang \(From "Sarileru Neekevvaru"\)](https://open.spotify.com/album/6h0Uxuwt5XJlVIl45FwaBh) | 4:14 |
 
-Snapshot ID: `MTY0MjQ3OTA0OSwwMDAwMDAwMDkwYzhmMjMxZjU4NWYyZmQxY2E5NzE0ZjFhOGRjMDY5`
+Snapshot ID: `MTY0MjQ5MTk3NywwMDAwMDAwMDkwYzhmMjMxZjU4NWYyZmQxY2E5NzE0ZjFhOGRjMDY5`

@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/1BhMYZPvWoqkovqn1vMjMs)
 
-> With Bruno Mars, Frankie J, Justin Bieber, Nicki Minaj and more
+> With Bruno Mars, Frankie J, Daft Punk, BLVK JVCK and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

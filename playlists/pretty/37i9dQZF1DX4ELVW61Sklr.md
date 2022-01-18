@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,223 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,221 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 49 | [I Saw Mommy Kissing Santa Claus \- Live At Union Chapel / BBC Radio 2](https://open.spotify.com/track/4lcOoKiLjBddCcg9FkeIJL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [I Saw Mommy Kissing Santa Claus \(Live At Union Chapel / BBC Radio 2\)](https://open.spotify.com/album/6dqlzQqdAogeEjI8ORSXAj) | 2:12 |
 | 50 | [Messiah Has Come](https://open.spotify.com/track/5DJLdWMSCRWSwzpzBlO5T7) | [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [One Family](https://open.spotify.com/album/5Vt6f0rFqEPxym3Y06hGTd) | 4:33 |
 
-Snapshot ID: `MTY0MjQ3OTE1NCwwMDAwMDAwMDZiNzBmMGJiNDg5MjExMWQ5ZDdhMmE4MTBiYjE2YmI4`
+Snapshot ID: `MTY0MjQ5MjA1NSwwMDAwMDAwMDZiNzBmMGJiNDg5MjExMWQ5ZDdhMmE4MTBiYjE2YmI4`

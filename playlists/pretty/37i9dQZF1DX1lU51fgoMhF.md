@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: Hyolyn x Dasom\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,418 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,417 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 69 | [Forever Young](https://open.spotify.com/track/56bHclo7YNvpujMveLElQn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/2zwfcNqJe7IT1RwgVyv1ug) | 3:57 |
 | 70 | [La Vie en Rose](https://open.spotify.com/track/1fRaznZsAB2i63TtmYv2Hc) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/7tggzWGzVusg9SEKqbJYpt) | 3:38 |
 
-Snapshot ID: `MTY0MjQ3OTA2OSwwMDAwMDAwMDg5OWNmMGE0N2ZhNDZkOTJhZjJhZmM3MWE1MTRkZWEy`
+Snapshot ID: `MTY0MjQ5MTk5MywwMDAwMDAwMDg5OWNmMGE0N2ZhNDZkOTJhZjJhZmM3MWE1MTRkZWEy`

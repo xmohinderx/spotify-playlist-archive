@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Sael.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,436 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,434 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 39 | [No Es Así](https://open.spotify.com/track/6SryqFcrWrgjgKrUeZQ6NE) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:31 |
 | 40 | [Buska](https://open.spotify.com/track/4zlFO8LSYmzttjwm8K5TOi) | [Urbanse](https://open.spotify.com/artist/66X3l109SsMthurq0pHk3g), [Veeyam](https://open.spotify.com/artist/0mUKZR7k8cOSewS6faryVf) | [Buska](https://open.spotify.com/album/5mlk2pOB2lzcUvOOHa2RDm) | 3:01 |
 
-Snapshot ID: `MTY0MjQ3OTI0MSwwMDAwMDAwMGU3OTVlMjI5ZjEwZGU2OGM0ZDI5YTJlYjQyOWE5NDE4`
+Snapshot ID: `MTY0MjQ5MjEyMywwMDAwMDAwMGU3OTVlMjI5ZjEwZGU2OGM0ZDI5YTJlYjQyOWE5NDE4`

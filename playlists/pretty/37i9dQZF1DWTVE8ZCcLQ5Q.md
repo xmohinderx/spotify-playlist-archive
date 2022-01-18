@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra novos talentos brasileiros no horizonte\. Celebrando a classe de 2021! Foto: Teto
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,177 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,180 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 79 | [Eu Não Sei Te Amar](https://open.spotify.com/track/7xgps6ZioyyH3AqjYjyFu6) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [Eu Não Sei Te Amar](https://open.spotify.com/album/1Yhcy9dq0MAIcU00PnHMzM) | 3:12 |
 | 80 | [Não, Não Vou](https://open.spotify.com/track/0xBQvhJAm6f7J142ympKOn) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Piseiro Sofrência](https://open.spotify.com/album/5rNhX35Cmsq568dSUTDPO5) | 2:53 |
 
-Snapshot ID: `MTY0MjQ3ODgyMiwwMDAwMDAwMGRmODM3NTQxNTJhYzEwNmJhZTliMDliMGFmMTEzNTEy`
+Snapshot ID: `MTY0MjQ5MTgxMSwwMDAwMDAwMGRmODM3NTQxNTJhYzEwNmJhZTliMDliMGFmMTEzNTEy`

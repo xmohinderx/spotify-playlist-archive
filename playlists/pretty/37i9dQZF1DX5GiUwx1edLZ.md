@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,895 likes - 99 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,892 likes - 99 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 98 | [Apollo \- Acoustic Version](https://open.spotify.com/track/4z4T6CL0ByjV5sEmwjtT6T) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [I Am Hardwell \(Original Soundtrack\)](https://open.spotify.com/album/2llLG37S5O56zsKAe8Lavo) | 3:58 |
 | 99 | [Satellite / Stealing Time](https://open.spotify.com/track/7fBKJ3CxmG1LQHexTIY7g7) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Acoustic](https://open.spotify.com/album/6eIqvDgrIwurKXnPP6WGKp) | 5:04 |
 
-Snapshot ID: `MTY0MjQ3OTE5MiwwMDAwMDAwMDYzNjVhNjQwM2U5MzQ2NDkxNzM5MGYwZWJmOTkyMjZk`
+Snapshot ID: `MTY0MjQ5MjA4NSwwMDAwMDAwMDYzNjVhNjQwM2U5MzQ2NDkxNzM5MGYwZWJmOTkyMjZk`

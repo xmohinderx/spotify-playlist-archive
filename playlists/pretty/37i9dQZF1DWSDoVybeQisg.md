@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: Jim Morrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,159 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,285 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 74 | [Sit With The Guru](https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Wake Up...It's Tomorrow](https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm) | 3:02 |
 | 75 | [I Can See For Miles](https://open.spotify.com/track/3fZZ46U5REAzFQkqz0aWu8) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Greatest Hits](https://open.spotify.com/album/23W2qtQDqASXPMsBXYpTY0) | 4:07 |
 
-Snapshot ID: `MTY0MjQ3ODc3NSwwMDAwMDAwMDc1NmE2ZGVhYTNmMzA2MDlkY2Y2Mjk0Yjg4OWU2NTEy`
+Snapshot ID: `MTY0MjQ5MTc3NywwMDAwMDAwMDc1NmE2ZGVhYTNmMzA2MDlkY2Y2Mjk0Yjg4OWU2NTEy`

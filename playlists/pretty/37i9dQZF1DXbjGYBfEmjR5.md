@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Dance yourself back in time with these 80s sampled futuristic rhythms\. Welcome to the future of funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,154 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,213 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 98 | [City Nightlife \- Original Mix](https://open.spotify.com/track/4X7DNtQrK71hShiyeognoq) | [architecture in tokyo](https://open.spotify.com/artist/6hQx28f86hT8QSpaKammmZ), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Royal Club, Vol\. 3](https://open.spotify.com/album/6QY51ifImoOIngncUguYlp) | 3:36 |
 | 99 | [Frame Trap](https://open.spotify.com/track/76zRP3MrZZi3oLlwRoNHsD) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [High Roller](https://open.spotify.com/album/4b8haSNizz3sbdzDOUFD9m) | 3:46 |
 
-Snapshot ID: `MTY0MjQ3OTM3OCwwMDAwMDAwMGEwM2NlNzlkYTU3M2E2MTZhNDgwM2RmZmJkMjI5M2Vk`
+Snapshot ID: `MTY0MjQ5MjIzMywwMDAwMDAwMGEwM2NlNzlkYTU3M2E2MTZhNDgwM2RmZmJkMjI5M2Vk`

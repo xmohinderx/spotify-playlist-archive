@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Hand Habits
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,672 likes - 150 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,693 likes - 150 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2taNm7KfjOX.md) - [plain]
 | 149 | [Angelina](https://open.spotify.com/track/4F30FT7ic362rA5sUujirY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [When The World Stopped Moving: The Live EP](https://open.spotify.com/album/0pgkOdDG05h5bexgIRz9ul) | 3:45 |
 | 150 | [Market and Black \(feat\. Tennis\)](https://open.spotify.com/track/7bSOlKTFSgS1zTRfPNaOZw) | [Griffith James](https://open.spotify.com/artist/0lSfUP83siewf0pciB2iXP), [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Market and Black \(feat\. Tennis\)](https://open.spotify.com/album/0JmmdX61PmOXLKt6sU0hQ3) | 3:28 |
 
-Snapshot ID: `MTY0MjQ3OTExMSwwMDAwMDAwMDUyMjQ5ZWIyMzcwYzk1N2RjN2U3ZWQxYWJkOWVmNGFl`
+Snapshot ID: `MTY0MjQ5MjAyNCwwMDAwMDAwMDUyMjQ5ZWIyMzcwYzk1N2RjN2U3ZWQxYWJkOWVmNGFl`

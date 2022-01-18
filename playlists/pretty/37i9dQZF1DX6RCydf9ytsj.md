@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,907 likes - 150 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,933 likes - 150 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [Perfect](https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1) | [Fairground Attraction](https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa) | [The First Of A Million Kisses](https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi) | 3:36 |
 | 150 | [Lady](https://open.spotify.com/track/1K0D6h6dONn8PYlF1pphQy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Country Classics](https://open.spotify.com/album/1DZy6ZKfdYtrr7Al9eoo1R) | 3:55 |
 
-Snapshot ID: `MTY0MjQ3OTIzMiwwMDAwMDAwMGE0NmFlYjBkZDBhMWQ5Zjc5NDBkNGNkYzZiMjkxYWI0`
+Snapshot ID: `MTY0MjQ5MjExNywwMDAwMDAwMGE0NmFlYjBkZDBhMWQ5Zjc5NDBkNGNkYzZiMjkxYWI0`

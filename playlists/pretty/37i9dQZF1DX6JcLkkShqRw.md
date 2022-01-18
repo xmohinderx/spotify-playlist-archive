@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > La nueva es del Sur, y suena así...Foto: Harry Nach & Ñejo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,007 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,010 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 | 99 | [Black And Yellow](https://open.spotify.com/track/1H6LQd0PWTj3661VnUhu7t) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [7Malva](https://open.spotify.com/artist/6FBjQiVLU10fXf8Ds3KDOb), [Eney](https://open.spotify.com/artist/0k5fct6YYlVUwSHkuxKvre) | [Black And Yellow](https://open.spotify.com/album/1QPysz91d0XXxRoiXT24Um) | 3:34 |
 | 100 | [Pégate](https://open.spotify.com/track/3PamY0H2inC67zfay7cT4O) | [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7), [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Pégate](https://open.spotify.com/album/1i9OiKZS9GBPDRznkmTCR2) | 2:32 |
 
-Snapshot ID: `MTY0MjQ3OTIyOCwwMDAwMDAwMGRjYzkyNWU0NzgzM2MzOTI3OTYzNmEwOTMyNmUyMzdh`
+Snapshot ID: `MTY0MjQ5MjExNCwwMDAwMDAwMGRjYzkyNWU0NzgzM2MzOTI3OTYzNmEwOTMyNmUyMzdh`

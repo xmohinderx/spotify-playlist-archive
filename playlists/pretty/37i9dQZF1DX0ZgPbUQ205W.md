@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Relaxing sounds of modern jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,976 likes - 100 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,981 likes - 100 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 99 | [Two Poets](https://open.spotify.com/track/6txdEwJYDmPKLijFTPTSlI) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535) | [My Foolish Heart](https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ) | 2:04 |
 | 100 | [Wait Till You See Her](https://open.spotify.com/track/56mnki16Lqui7LYs5OEcQF) | [John Abercrombie Quartet](https://open.spotify.com/artist/1bpaoXG09rnpj5OsHvHs2z) | [Wait Till You See Her](https://open.spotify.com/album/2dm29TGcN40O3pPfNt3uNi) | 5:40 |
 
-Snapshot ID: `MTY0MjQ3OTAzMywwMDAwMDAwMDI2OTBjMzNjNDdmNzE4OWJmMzUxYzI5Mjk4ODNkOGQ5`
+Snapshot ID: `MTY0MjQ5MTk2NSwwMDAwMDAwMDI2OTBjMzNjNDdmNzE4OWJmMzUxYzI5Mjk4ODNkOGQ5`

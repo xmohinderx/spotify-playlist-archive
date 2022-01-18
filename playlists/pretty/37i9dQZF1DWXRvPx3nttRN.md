@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,133 likes - 232 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,147 likes - 232 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,4 +241,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 231 | [Get Lucky \(Daft Punk feat\. Pharrell Williams Cover\)](https://open.spotify.com/track/0I4fIKwHpZBYIlhZWjdX2U) | [GMPresents & Jocelyn Scofield](https://open.spotify.com/artist/0O8Q5C7YcMWghyISchsJsy) | [Were Up All Night To Get Lucky \(Daft Punk feat\. Pharell Pharrell Williams, Glee Cast Cover We're\)](https://open.spotify.com/album/4jD3mHTyPCahfjE46KAO8x) | 3:28 |
 | 232 | [You Don't Know Me \- Acoustic Version](https://open.spotify.com/track/3LUBsjAuvdCcPVHvwQhVOJ) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me \(Acoustic Version\)](https://open.spotify.com/album/74DlSwELqP1vuk3ynNVvMk) | 3:44 |
 
-Snapshot ID: `MTY0MjQ3ODkzOSwwMDAwMDAwMGJlNWE4Njg5ZGY2NjU4MDAzZTNhZWI2ODljYTkxYWMz`
+Snapshot ID: `MTY0MjQ5MTg5NCwwMDAwMDAwMGJlNWE4Njg5ZGY2NjU4MDAzZTNhZWI2ODljYTkxYWMz`

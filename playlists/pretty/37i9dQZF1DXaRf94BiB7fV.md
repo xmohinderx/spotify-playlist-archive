@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Jaden Maskie, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,346 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,363 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Lay Your Head Down](https://open.spotify.com/track/657uaCgAx8D6ZYBjRoxsJS) | [KAVYA](https://open.spotify.com/artist/0GBYfJU5PsKSfo17UaPpC2) | [Lay Your Head Down](https://open.spotify.com/album/4COku6DVXbtTcqc7E7Nfvp) | 3:20 |
 | 50 | [Perfect World](https://open.spotify.com/track/3meBFy64QMATfZgIa9loka) | [Dot](https://open.spotify.com/artist/722IxdTOv0LDhowW0lT69r) | [Perfect World](https://open.spotify.com/album/0KIQ41yFqNUSu0klsEGl9g) | 4:34 |
 
-Snapshot ID: `MTY0MjQ3OTM0MywwMDAwMDAwMDY3ZTQ3ZWNhMzZhYTI0NWM0YzE5YWIxNDM2ZGIwZWE1`
+Snapshot ID: `MTY0MjQ5MjIwNSwwMDAwMDAwMDY3ZTQ3ZWNhMzZhYTI0NWM0YzE5YWIxNDM2ZGIwZWE1`

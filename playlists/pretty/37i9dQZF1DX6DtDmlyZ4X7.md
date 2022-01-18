@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,813 likes - 400 songs - 17 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,814 likes - 400 songs - 17 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 399 | [Eunoia](https://open.spotify.com/track/2wUWi9sqWy1gKsCkxGYKVT) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Eunoia](https://open.spotify.com/album/33zpGuDjZW6Yw8xColjJ35) | 2:21 |
 | 400 | [Fils Du Soleil](https://open.spotify.com/track/67np71K50CRwUfpXqlsXJV) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Dreamweaver](https://open.spotify.com/album/6dSfSgGrlFwRU7Rcjnvsrf) | 4:19 |
 
-Snapshot ID: `MTY0MjQ3OTIyNCwwMDAwMDAwMDljMDljMjA1ZTIzMzU5YzExMjU5ZmRmZmM0NWM2Yjdm`
+Snapshot ID: `MTY0MjQ5MjExMCwwMDAwMDAwMDljMDljMjA1ZTIzMzU5YzExMjU5ZmRmZmM0NWM2Yjdm`

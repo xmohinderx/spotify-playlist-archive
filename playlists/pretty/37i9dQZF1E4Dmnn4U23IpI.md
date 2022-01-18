@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Timecop1983, Gunship, Mitch Murder and more
+> With Timecop1983, Miami Nights 1984, Kalax and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 10,099 likes - 50 songs - 3 hr 55 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Beyond Memory](https://open.spotify.com/track/7zmbtfKgZMTQ1GlqBno5T5) | [NINA](https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG) | [Beyond Memory](https://open.spotify.com/album/0KGWOAde97ZeOypR6kcLad) | 3:35 |
 | 50 | [Divine Virus](https://open.spotify.com/track/5iTda1icTNQH81m8nASF8t) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE) | [Divine Virus](https://open.spotify.com/album/7qFTo5lCmtl6y2V9Q0xKib) | 3:21 |
 
-Snapshot ID: `MTY0MjQ3OTQ2MCwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`
+Snapshot ID: `MTY0MjQ5MjI5NiwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`

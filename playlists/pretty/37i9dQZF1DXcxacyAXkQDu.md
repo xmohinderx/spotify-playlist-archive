@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 
 > Enjoy a break with some relaxing soft songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,523 likes - 250 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,590 likes - 250 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxacyAXkQDu.md) - [plain]
 | 249 | [Cut Me](https://open.spotify.com/track/1wtrJ0dcTjqP8PMRTczdSi) | [Chris Medina](https://open.spotify.com/artist/2uCmngYSlTEELzZXl1z1dV) | [Cut Me](https://open.spotify.com/album/1FWXfOdSVUrPPCXymMMiCK) | 3:05 |
 | 250 | [Sorrow](https://open.spotify.com/track/5kmh9DtV95RXDUoNCeTkXW) | [Jacob Lee](https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2) | [Sorrow](https://open.spotify.com/album/35qC0lWF8T5voFiiLE0o4v) | 4:17 |
 
-Snapshot ID: `MTY0MjQ3OTQxMiwwMDAwMDAwMGIyNTY5ODRkYWY1NzRjY2Y3YzRjYWY0MTA4M2I1MzI0`
+Snapshot ID: `MTY0MjQ5MjI1OCwwMDAwMDAwMGIyNTY5ODRkYWY1NzRjY2Y3YzRjYWY0MTA4M2I1MzI0`

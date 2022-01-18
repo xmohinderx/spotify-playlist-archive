@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\.  Cover:  Trisha Yearwood and Garth Brooks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,368 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,385 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 99 | [I’m Movin’ On](https://open.spotify.com/track/51WjLctyJeBXjLQNF7D0nu) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 3:11 |
 | 100 | [Because Of You](https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Reba Duets](https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL) | 3:43 |
 
-Snapshot ID: `MTY0MjQ3OTA1MywwMDAwMDAwMGMyYjZiM2Y4Y2ViM2VmYzRmMDZiNTg3NzA2MzFlZDE2`
+Snapshot ID: `MTY0MjQ5MTk4MSwwMDAwMDAwMGMyYjZiM2Y4Y2ViM2VmYzRmMDZiNTg3NzA2MzFlZDE2`

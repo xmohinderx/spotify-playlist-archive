@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaitacWUJMPH.md) - [plain]
 
 > 24 songs dedicated to the Mamba & Mambacita\. R.I.P\. Kobe & Gianna Bryant.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,689 likes - 24 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,738 likes - 24 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaitacWUJMPH.md) - [plain]
 | 23 | [Views](https://open.spotify.com/track/7MjSipTto9QljYzZnloXOn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 5:11 |
 | 24 | [Kobe \(feat\. Snoop Dogg & Derrick Milano\)](https://open.spotify.com/track/6KNkwW52dda5lTGf10KLXn) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Derrick Milano](https://open.spotify.com/artist/2TFvGou97I97bbwyIatWg4) | [Kobe \(feat\. Snoop Dogg & Derrick Milano\)](https://open.spotify.com/album/1Eb1GATWiV0eSX3kBjvJZ3) | 2:51 |
 
-Snapshot ID: `MTY0MjQ3OTM1MiwwMDAwMDAwMGNkMDJlNDVmMWJkYzczNjg2NGJhMTgwNmI4NWY1NzEx`
+Snapshot ID: `MTY0MjQ5MjIxMiwwMDAwMDAwMGNkMDJlNDVmMWJkYzczNjg2NGJhMTgwNmI4NWY1NzEx`

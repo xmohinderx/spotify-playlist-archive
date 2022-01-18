@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 
 > Tap your feet to the K\-Pop beats on your way through the driving moments\. \(시원한 국내음악들과 드라이빙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,026 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,029 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCx6B9EAOr.md) - [plain]
 | 49 | [Pool Party \(Feat\. E\-CHAN of DKB\)](https://open.spotify.com/track/2avJo0RwtC1zWiOx4CaGWG) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB), [E\-CHAN](https://open.spotify.com/artist/4h44hjwoLSVhQynEnkrbt5) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:12 |
 | 50 | [Horizon Line](https://open.spotify.com/track/7dhQjsIOr6HUveB4OmZm5m) | [Jvde Milez](https://open.spotify.com/artist/1E6STyrjkcxB8wdMtBkeEH), [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [Horizon Line](https://open.spotify.com/album/6ieatbRqlxNQxbW4tDtVpJ) | 2:41 |
 
-Snapshot ID: `MTY0MjQ3OTE0NSwwMDAwMDAwMDUzOTNlMDFkZGYwYTM4N2U3Y2U3MzNlYWJkZmI5NGY2`
+Snapshot ID: `MTY0MjQ5MjA0OSwwMDAwMDAwMDUzOTNlMDFkZGYwYTM4N2U3Y2U3MzNlYWJkZmI5NGY2`

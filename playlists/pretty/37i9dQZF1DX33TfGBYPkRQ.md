@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,581 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,585 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 99 | [Paris](https://open.spotify.com/track/4sS89nAQUy2fRZWbyJWDQV) | [Gordie Sampson](https://open.spotify.com/artist/4WkanTEimYpnh2LSd4OwtB) | [Sunburn](https://open.spotify.com/album/4L37foSVW19mDcCTotjQ0X) | 4:59 |
 | 100 | [Dependable People and Things That I'm Sure Of](https://open.spotify.com/track/4mGsec7zvqP23XGIh91AJX) | [Slow Club](https://open.spotify.com/artist/75Kh0eqgzo9f43Dan1JzSV) | [Complete Surrender](https://open.spotify.com/album/5VKfS5xelWpc76avtJ7UvC) | 3:43 |
 
-Snapshot ID: `MTY0MjQ3OTExNiwwMDAwMDAwMDEwMDc4ODk2NzQ5YTdmNmIyMjJkMWYyOTc1YjI5OTIy`
+Snapshot ID: `MTY0MjQ5MjAyOCwwMDAwMDAwMDEwMDc4ODk2NzQ5YTdmNmIyMjJkMWYyOTc1YjI5OTIy`

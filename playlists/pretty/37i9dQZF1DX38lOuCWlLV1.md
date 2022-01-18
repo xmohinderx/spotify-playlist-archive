@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 
 > Eclectic indie love songs from throughout the years\. Delicate lyrics that say it best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,232 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,287 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 74 | [Boy](https://open.spotify.com/track/53DuVyvEs8NrbybD0zbEf1) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Vs Head Vs Heart](https://open.spotify.com/album/3Q1tU7Fo8sgNSPgNYmr1jY) | 4:31 |
 | 75 | [Til Kingdom Come](https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:10 |
 
-Snapshot ID: `MTY0MjQ3OTEyMCwwMDAwMDAwMDEyOTNhNjRhNGE2ZTRmNTM4ZTVmZjhlNzkxNmU5Mzg0`
+Snapshot ID: `MTY0MjQ5MjAzMSwwMDAwMDAwMDEyOTNhNjRhNGE2ZTRmNTM4ZTVmZjhlNzkxNmU5Mzg0`

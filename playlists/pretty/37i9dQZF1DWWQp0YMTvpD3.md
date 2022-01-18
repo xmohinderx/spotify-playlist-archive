@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 
 > Let's slow down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,937 likes - 113 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,943 likes - 113 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQp0YMTvpD3.md) - [plain]
 | 112 | [HONEST ENOUGH](https://open.spotify.com/track/4AYTCusq44mkt5Vzbm1YBO) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [HONEST ENOUGH](https://open.spotify.com/album/3lsv1KP0pNAdNqXRenFQVu) | 2:56 |
 | 113 | [Low Life](https://open.spotify.com/track/28BEwylPqT4eAmVYbhC3iL) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Low Life](https://open.spotify.com/album/1BctYb6UkgBUGhEKAJ5JyD) | 2:59 |
 
-Snapshot ID: `MTY0MjQ3ODkwOCwwMDAwMDAwMDAxMDg0MGRjMTFhOTdhYzM5YmQ2NTVmOTgwN2ExNWFl`
+Snapshot ID: `MTY0MjQ5MTg3MiwwMDAwMDAwMDAxMDg0MGRjMTFhOTdhYzM5YmQ2NTVmOTgwN2ExNWFl`

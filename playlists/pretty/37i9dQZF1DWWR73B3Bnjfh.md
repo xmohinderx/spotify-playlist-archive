@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,057 likes - 75 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,079 likes - 75 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 74 | [Dam That Dream](https://open.spotify.com/track/1BBIJBrOV8Lzl48C9GZ4rX) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Poppin'](https://open.spotify.com/album/0fGG4NXcCWzTcpYGrcyCtc) | 6:10 |
 | 75 | [Don't Take Your Love From Me](https://open.spotify.com/track/3M00YjxlMIPveCXrVuLb4c) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Standard Coltrane \(RVG Remaster\)](https://open.spotify.com/album/7qJBNBKFbCzFgSkddj03nQ) | 9:14 |
 
-Snapshot ID: `MTY0MjQ3ODkwOSwwMDAwMDAwMGE3NTZkZTY0MThkODAwM2QwNjlhY2UyOTZiYWVjOWRj`
+Snapshot ID: `MTY0MjQ5MTg3MiwwMDAwMDAwMGE3NTZkZTY0MThkODAwM2QwNjlhY2UyOTZiYWVjOWRj`

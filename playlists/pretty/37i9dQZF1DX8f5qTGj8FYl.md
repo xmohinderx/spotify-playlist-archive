@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,934 likes - 80 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,947 likes - 80 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [N.E.G.U](https://open.spotify.com/track/5vKuE21kmH89BH5w5yWume) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O) | [S3NS](https://open.spotify.com/album/1XWCws077Z4B9SwwUzOAfo) | 5:57 |
 | 80 | [Tripped Out Slim](https://open.spotify.com/track/7b3ceiH1Cy03cR0GtlqgHV) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Parking Lot Symphony](https://open.spotify.com/album/37KlzjSTrsjai1w1hfzsdV) | 2:19 |
 
-Snapshot ID: `MTY0MjQ3OTI5MywwMDAwMDAwMGEzZWI3YTBiZThhMjc4ZWI5Yjk0OGNiNjg4ZWY5NGUx`
+Snapshot ID: `MTY0MjQ5MjE2NiwwMDAwMDAwMGEzZWI3YTBiZThhMjc4ZWI5Yjk0OGNiNjg4ZWY5NGUx`

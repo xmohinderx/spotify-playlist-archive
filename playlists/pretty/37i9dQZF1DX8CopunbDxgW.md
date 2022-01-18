@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The essential indie dance, featuring BAYNK
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,072 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,099 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Mindless](https://open.spotify.com/track/63JuomZqCbDTgZ4lect9T2) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Under The Weather](https://open.spotify.com/album/5qwVn38pLMvOFSki8dbRrp) | 2:49 |
 | 100 | [Together \- il:lo Remix](https://open.spotify.com/track/0BPH5XY2injvJu0oD0B4S8) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Together](https://open.spotify.com/album/2tNxlMTegirWUXk9atpoZg) | 4:54 |
 
-Snapshot ID: `MTY0MjQ3OTI3OSwwMDAwMDAwMGQwNDM2NTFmMDFhNmRmZDUyNjVlMjk5YjExNjUzMWYy`
+Snapshot ID: `MTY0MjQ5MjE1NSwwMDAwMDAwMGQwNDM2NTFmMDFhNmRmZDUyNjVlMjk5YjExNjUzMWYy`

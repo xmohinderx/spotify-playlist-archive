@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: Lucius
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,731 likes - 111 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,751 likes - 111 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

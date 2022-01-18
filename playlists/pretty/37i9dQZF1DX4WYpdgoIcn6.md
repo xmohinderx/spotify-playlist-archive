@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 
 > Kick back to the best new and recent chill tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,964,360 likes - 130 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,964,630 likes - 130 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 | 129 | [The Way I Am](https://open.spotify.com/track/38ovefcipRlByRd5UF9PWp) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [The Way I Am](https://open.spotify.com/album/2hCSV9TpwHN3fzv2hjSFYO) | 2:58 |
 | 130 | [What Am I](https://open.spotify.com/track/1HimGOB6BjOaCQYMIF1xtU) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [What Am I](https://open.spotify.com/album/6IEEEv0mmFYPjhATWKYZRE) | 3:04 |
 
-Snapshot ID: `MTY0MjQ3OTE2NCwwMDAwMDAwMGJmMDUxNTM2MDBhYTQwODk3MmE5ZWM1NzJkMjU0NWQy`
+Snapshot ID: `MTY0MjQ5MjA2MywwMDAwMDAwMGJmMDUxNTM2MDBhYTQwODk3MmE5ZWM1NzJkMjU0NWQy`

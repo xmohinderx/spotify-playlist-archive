@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Happy and swinging jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,873 likes - 75 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,879 likes - 75 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 74 | [Lion's Den \- Rudy Van Gelder Edition/2007 Remaster](https://open.spotify.com/track/5Q9XLLVex1yZ0Heo2SVhMI) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Undercurrent \(Rudy Van Gelder Edition/2007 Remaster\)](https://open.spotify.com/album/3dLsZ0Gv8OjgUyES2imXIK) | 4:53 |
 | 75 | [Move](https://open.spotify.com/track/2wo3fkK3ZtUZrm9MvElyhv) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 5:53 |
 
-Snapshot ID: `MTY0MjQ3OTIwNCwwMDAwMDAwMDZmMmFlNzI3N2M4MDI0NWM2YzQzZTYxMzlkMzU5ZWJj`
+Snapshot ID: `MTY0MjQ5MjA5NSwwMDAwMDAwMDZmMmFlNzI3N2M4MDI0NWM2YzQzZTYxMzlkMzU5ZWJj`

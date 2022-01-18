@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental jazz songs\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,099 likes - 125 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,123 likes - 125 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 124 | [Better Things](https://open.spotify.com/track/5PJcygObRXafSPuYnND4kM) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Robertson](https://open.spotify.com/artist/5Oc8E5NEXYp98fctQhH1po), [Danny Fischer](https://open.spotify.com/artist/2yzTBNWC2oYud1uy2PJRni) | [Better Things](https://open.spotify.com/album/3VsxrCk2crY6hf8gnMBGm1) | 4:16 |
 | 125 | [Someone To Watch Over Me](https://open.spotify.com/track/22rhSVshqqrJVpVONUGRjQ) | [Helen Forrest](https://open.spotify.com/artist/5SguMzNsojVk03s64Ggzad) | [Helen Forrest: The Complete World Transcriptions](https://open.spotify.com/album/3vTbzq3jHCEXLC5PbniHbK) | 2:09 |
 
-Snapshot ID: `MTY0MjQ3OTE4MywwMDAwMDAwMGY2ZGIwYjBhMTlhZTE3NWI2OTMxNDQ4Y2YxZmVhNzIy`
+Snapshot ID: `MTY0MjQ5MjA3OCwwMDAwMDAwMGY2ZGIwYjBhMTlhZTE3NWI2OTMxNDQ4Y2YxZmVhNzIy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Ha Hyunsang\(하현상\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,487 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,534 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Fallin'](https://open.spotify.com/track/1HshcipCZ4rEiNfKckNShW) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [Modern, Mild](https://open.spotify.com/album/2pEKX0SvaeJ289AtEEieL9) | 3:11 |
 | 50 | [99](https://open.spotify.com/track/0NVc9dRJa7IqBbOPvuDqwq) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [99](https://open.spotify.com/album/1RLCUlVVaSoATwOUI6CihR) | 3:32 |
 
-Snapshot ID: `MTY0MjQ3OTQyOSwwMDAwMDAwMDBlMjlmMGUwNzU1ZTY2NDY2YWFiZDM5YTZkOWQ0Y2Vj`
+Snapshot ID: `MTY0MjQ5MjI3MiwwMDAwMDAwMDBlMjlmMGUwNzU1ZTY2NDY2YWFiZDM5YTZkOWQ0Y2Vj`

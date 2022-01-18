@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz music to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,720 likes - 75 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,762 likes - 75 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 74 | [Expansions](https://open.spotify.com/track/4kXTfxvuCkyV2f0IyCwCFP) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [The 22archestra](https://open.spotify.com/artist/63xFYka61G7NOSJwU1hHhG) | [The Shakedown](https://open.spotify.com/album/7MreUClNVIul1cGQNPipYU) | 6:54 |
 | 75 | [Sometimes I Cry](https://open.spotify.com/track/6gA0ps6IzjBj7azFvWjWME) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Layers](https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm) | 5:22 |
 
-Snapshot ID: `MTY0MjQ3OTI0OCwwMDAwMDAwMDgwYmUwMjdmMWEwMjU3MjY5NDk0NTEwNjc0MzNhNmI2`
+Snapshot ID: `MTY0MjQ5MjEzMCwwMDAwMDAwMDgwYmUwMjdmMWEwMjU3MjY5NDk0NTEwNjc0MzNhNmI2`

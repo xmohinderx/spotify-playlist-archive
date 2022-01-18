@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 
 > Classic songs like you've never heard before\. Cover: Omar Apollo, Brandi Carlile, and Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,733 likes - 115 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,731 likes - 115 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 | 114 | [What's Going On \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Singles](https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij) | 3:35 |
 | 115 | [Strangers \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2OODSSTxWK2i6LQvQJD557) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Spotify Singles](https://open.spotify.com/album/2LRvMxrP2MbJATWGkCJ3Y2) | 3:32 |
 
-Snapshot ID: `MTY0MjQ3OTE3NSwwMDAwMDAwMGQ4Njg1OWY3YWNlY2JlYjZkYzE2YzcwNTY0M2MyOGMx`
+Snapshot ID: `MTY0MjQ5MjA3MSwwMDAwMDAwMGQ4Njg1OWY3YWNlY2JlYjZkYzE2YzcwNTY0M2MyOGMx`

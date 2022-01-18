@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\.   Just like being there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,580 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,593 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [The One I Loved Back Then \(The Corvette Song\) \- Live](https://open.spotify.com/track/1iO3uRjq988Q9y2KmB9r7i) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Setlist: The Very Best of George Jones LIVE](https://open.spotify.com/album/7xuyP7IIKdeVnBFnUqrkxK) | 3:18 |
 | 150 | [Little Ways \- Live](https://open.spotify.com/track/5B1ZGb4VnmLpGlrede5FOG) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [Dwight Live](https://open.spotify.com/album/0MGkyfLKh6k0D0uAa59QXy) | 3:25 |
 
-Snapshot ID: `MTY0MjQ3ODk0NywwMDAwMDAwMDJhZmM5NmViZWQ4NmU1NjZjNWI4MmUwODM4YTYwMmY5`
+Snapshot ID: `MTY0MjQ5MTkwMSwwMDAwMDAwMDJhZmM5NmViZWQ4NmU1NjZjNWI4MmUwODM4YTYwMmY5`

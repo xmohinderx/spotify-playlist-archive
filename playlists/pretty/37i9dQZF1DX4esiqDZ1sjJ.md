@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 
 > Release your inner jock with these badass jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,170 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,188 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 74 | [I'm Shipping Up To Boston](https://open.spotify.com/track/2kf767S4oj5KKVLZKEG4gw) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/64QRcbdwSnTl82g1LvBHoO) | 2:33 |
 | 75 | [O.P.P](https://open.spotify.com/track/2XKNIzuVL2aOlzGUiPkctF) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Naughty By Nature](https://open.spotify.com/album/2H7Jaj9pImVL0joBznLZTO) | 4:31 |
 
-Snapshot ID: `MTY0MjQ3OTE2OSwwMDAwMDAwMDIzMTkxNjMzMGViYmIwNjMxYzUyYmE0ZDI0YTg2YmRh`
+Snapshot ID: `MTY0MjQ5MjA2NywwMDAwMDAwMDIzMTkxNjMzMGViYmIwNjMxYzUyYmE0ZDI0YTg2YmRh`

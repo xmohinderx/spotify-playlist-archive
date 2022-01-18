@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > For the Sad Cuhs and anyone in their feelings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,575 likes - 120 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,626 likes - 120 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 119 | [Hablemos](https://open.spotify.com/track/049wfFS3kAsdmGOH8ktYJ3) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:04 |
 | 120 | [No Andes Con Nadie](https://open.spotify.com/track/14j1mxNRiiJzzwWXqz2Qst) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [No Andes Con Nadie](https://open.spotify.com/album/4zo12WAdQ1Q7wmnPxzVKlC) | 3:14 |
 
-Snapshot ID: `MTY0MjQ3OTQxNSwwMDAwMDAwMDc3MDUwMmE5NzVjNzY2YWY2OTgxNTliYWQxMjJjNzY4`
+Snapshot ID: `MTY0MjQ5MjI2MSwwMDAwMDAwMDc3MDUwMmE5NzVjNzY2YWY2OTgxNTliYWQxMjJjNzY4`

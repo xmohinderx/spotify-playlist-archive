@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,134 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,138 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [ABrandNewDay](https://open.spotify.com/track/6zJH70ln2n4JgSm4WApXHO) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [カプコンアーケードスタジアム ミニアルバム](https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI) | 3:24 |
 | 50 | [エンドレスアンコール \(ロックマン2メドレー\)](https://open.spotify.com/track/3TML1tC6NkDOeaQq3XycaO) | [ベイシスケイプ](https://open.spotify.com/artist/6tdfd7LYozgWFIw9ijvlm5) | [ロックマン ユートピア](https://open.spotify.com/album/1tEipaGsZZ16UsutVOsFLx) | 4:25 |
 
-Snapshot ID: `MTY0MjQ3OTIyMywwMDAwMDAwMDFiZmM0MGJlNDExYzA5OGE4ZDZlYWZlMWQ0NjE2NGVh`
+Snapshot ID: `MTY0MjQ5MjExMCwwMDAwMDAwMDFiZmM0MGJlNDExYzA5OGE4ZDZlYWZlMWQ0NjE2NGVh`

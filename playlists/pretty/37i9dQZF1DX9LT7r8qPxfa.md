@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,735 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,755 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [The Impossible Task of Feeling Complete](https://open.spotify.com/track/1JAEWJdVG3qweQL0iAKWn6) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [The Impossible Task of Feeling Complete](https://open.spotify.com/album/4pBntXkGotiZR8g4t8cugt) | 3:07 |
 | 100 | [Something American](https://open.spotify.com/track/2a1V9QpXiVGHkb6m0vabRU) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/6IX7qWEVCJ6gzbu18jIDon) | 3:03 |
 
-Snapshot ID: `MTY0MjQ3OTMxMywwMDAwMDAwMGJiZGEzYmFjNGQ5NjkyNWNkM2NjZDU3N2M1YjMwMmQ1`
+Snapshot ID: `MTY0MjQ5MjE4MiwwMDAwMDAwMGJiZGEzYmFjNGQ5NjkyNWNkM2NjZDU3N2M1YjMwMmQ1`

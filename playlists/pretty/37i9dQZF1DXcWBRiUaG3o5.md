@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,594 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,597 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 99 | [Blanket](https://open.spotify.com/track/25CXUUZD2FDegmlHePvXvw) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Nordic Mellow](https://open.spotify.com/album/4pejz8zu3H1IwCIRAaAAOD) | 3:05 |
 | 100 | [Trainsong](https://open.spotify.com/track/4pxW6L91xBeUrWygGcSHOe) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Another Day](https://open.spotify.com/album/258Ga4COQ6km03ibSwrTIF) | 2:38 |
 
-Snapshot ID: `MTY0MjQ3OTM5OSwwMDAwMDAwMGY3Y2JjODIxMzU0Y2IzMWUxN2NmYWUwNGQxYjY4NDQ1`
+Snapshot ID: `MTY0MjQ5MjI0OSwwMDAwMDAwMGY3Y2JjODIxMzU0Y2IzMWUxN2NmYWUwNGQxYjY4NDQ1`

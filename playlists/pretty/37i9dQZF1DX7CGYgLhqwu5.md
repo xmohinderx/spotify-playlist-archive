@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,890 likes - 102 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,897 likes - 102 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 101 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 |
 | 102 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
 
-Snapshot ID: `MTY0MjQ3OTI1MywwMDAwMDAwMDUxOTgxMjMxMzEzNzg5YzVjMTMxMGNiZmFhYzBhODlm`
+Snapshot ID: `MTY0MjQ5MjEzNCwwMDAwMDAwMDUxOTgxMjMxMzEzNzg5YzVjMTMxMGNiZmFhYzBhODlm`

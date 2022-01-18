@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Ben Rector
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,222 likes - 150 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,231 likes - 150 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 149 | [I Still Believe in You](https://open.spotify.com/track/0i2UyVsm0XZJNZl2q9yrA8) | [Sean McConnell](https://open.spotify.com/artist/42N7nSYb8pRmVpBpkLSHVC) | [A Horrible Beautiful Dream](https://open.spotify.com/album/4n7eKMhBd6yezgg46xeosc) | 3:31 |
 | 150 | [Let Love Heal \- Live Deluxe](https://open.spotify.com/track/5oVb4u7s4QLh0hHzHkOXBz) | [Matt Costa](https://open.spotify.com/artist/0EghvcisxKybq4CVO7rB5t) | [Let Love Heal \(Live Deluxe\)](https://open.spotify.com/album/4ZzQw85IV7oCDZIbJHrpED) | 3:19 |
 
-Snapshot ID: `MTY0MjQ3ODgzNiwwMDAwMDAwMDdjOGQ5MGM5MWMwYzg2MDUyMDg3M2NiMGE5YjI1Nzhl`
+Snapshot ID: `MTY0MjQ5MTgyMCwwMDAwMDAwMDdjOGQ5MGM5MWMwYzg2MDUyMDg3M2NiMGE5YjI1Nzhl`

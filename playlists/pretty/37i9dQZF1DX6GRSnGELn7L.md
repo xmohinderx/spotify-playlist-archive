@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 
 > Whether you call it technical, progressive or math metal, it all djents\. Cover: Animals As Leaders
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,084 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,102 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GRSnGELn7L.md) - [plain]
 | 99 | [Physical Education](https://open.spotify.com/track/0JGuSgtmWyfuxLGBs2wX0C) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Joy of Motion](https://open.spotify.com/album/3BfAgyF1AdYKaOO7EBoDw4) | 4:40 |
 | 100 | [Empires Erased](https://open.spotify.com/track/6mbVph0fNVnBDCAmtJ19ju) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [The Eternal Reign](https://open.spotify.com/album/6I9rxohdKInov3F52qTlV2) | 3:25 |
 
-Snapshot ID: `MTY0MjQ3OTIyNiwwMDAwMDAwMGFhMTY5NjQyMzcyNmNhMGUyMmMzYmIyMWRjYjE1OGMz`
+Snapshot ID: `MTY0MjQ5MjExMiwwMDAwMDAwMGFhMTY5NjQyMzcyNmNhMGUyMmMzYmIyMWRjYjE1OGMz`

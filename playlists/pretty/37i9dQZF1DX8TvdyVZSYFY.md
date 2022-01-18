@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,984,847 likes - 300 songs - 17 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,984,885 likes - 300 songs - 17 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Human \- Jim Eno Sessions](https://open.spotify.com/track/1f2uDfQy0SvstwYms24MDm) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Spotify Singles](https://open.spotify.com/album/7nlLF1Csqtfu6ymxACH3WM) | 3:39 |
 | 300 | [Swan Song \- Acoustic](https://open.spotify.com/track/5vj7xvilPeCv3DQgpy9auU) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Swan Song \(From the Motion Picture "Alita: Battle Angel"\) \[Acoustic\]](https://open.spotify.com/album/541dE9Y2ryqmu0e95NBOOV) | 3:09 |
 
-Snapshot ID: `MTY0MjQ3OTI4OCwwMDAwMDAwMDExNTI5NDEzMzdmMTRkZGJmNmRiZjhkMmZhMWYzN2Iz`
+Snapshot ID: `MTY0MjQ5MjE2MiwwMDAwMDAwMDExNTI5NDEzMzdmMTRkZGJmNmRiZjhkMmZhMWYzN2Iz`

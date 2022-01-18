@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,191 likes - 60 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,193 likes - 60 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [Let The Good Times Roll \- Live](https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Live at the Greek Theatre](https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH) | 5:45 |
 | 60 | [Down For Love \- Live](https://open.spotify.com/track/6OQ3GvlaMOJTCPNi1mYKwQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/2SQiZ96Kv4cTmd7jNjmmxU) | 4:29 |
 
-Snapshot ID: `MTY0MjQ3ODgwMiwwMDAwMDAwMDkyZGEyNWIwNzNiM2IzNzEyYTA2YjIzY2QxYWJiOTE2`
+Snapshot ID: `MTY0MjQ5MTc5NiwwMDAwMDAwMDkyZGEyNWIwNzNiM2IzNzEyYTA2YjIzY2QxYWJiOTE2`

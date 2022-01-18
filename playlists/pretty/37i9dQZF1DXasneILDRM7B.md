@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,910 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,993 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [Piece Of Your Heart](https://open.spotify.com/track/2ZMHNMMft1Yp6nLPjR4zM9) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sunnyland](https://open.spotify.com/album/55sUM2N9C0vUHeqc1C6xEZ) | 3:39 |
 | 100 | [Something's Gotta Give](https://open.spotify.com/track/0BMGyqvrjuJExY6jcVAtX2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Something's Gotta Give](https://open.spotify.com/album/14UoZuxU0v9sNOK7THtNY8) | 3:09 |
 
-Snapshot ID: `MTY0MjQ3OTM1NiwwMDAwMDAwMDAzZWRlZGViZTFjNjg4YmRmYzY0ZmEwNDFmNjQxODM2`
+Snapshot ID: `MTY0MjQ5MjIxNSwwMDAwMDAwMDAzZWRlZGViZTFjNjg4YmRmYzY0ZmEwNDFmNjQxODM2`

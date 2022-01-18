@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,883 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,896 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [Isolation \- 2007 Remaster](https://open.spotify.com/track/3KN1A4XVt5lYudW7M6gD9T) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer](https://open.spotify.com/album/4kT3ewGWBRAOlocyVp03bm) | 2:55 |
 | 80 | [Pull Up To The Bumper](https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [20th Century Masters: The Millennium Collection: Best Of Grace Jones](https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e) | 4:42 |
 
-Snapshot ID: `MTY0MjQ3ODgxOSwwMDAwMDAwMDI3NzAxMGQyZGRjMjFkZWNmNjYwYWI5Mjk5OWI1YjIy`
+Snapshot ID: `MTY0MjQ5MTgwOSwwMDAwMDAwMDI3NzAxMGQyZGRjMjFkZWNmNjYwYWI5Mjk5OWI1YjIy`

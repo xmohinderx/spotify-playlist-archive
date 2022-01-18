@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jmeFyIwFPhhxgjAAJJIrU">Leland</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558 likes - 132 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 559 likes - 132 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 131 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 132 | [I'm a Rapper](https://open.spotify.com/track/39arWo9zxXCiby4Pa8z24G) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Make It Pop, Vol\. 1](https://open.spotify.com/album/2FPfVPuZix126DmJ8OdZXA) | 2:55 |
 
-Snapshot ID: `MjczNzQ2NTQsMDAwMDAwMDBhZjNjYzBhOGZhNGMzYzBlNzM1M2U0ZThiMjY5ZjU4OQ==`
+Snapshot ID: `MjczNzQ4MzQsMDAwMDAwMDA3YjdiMDM2ZGQ1ODkyZTk5MzgyNzlhYTFhMjAwMDdlZg==`

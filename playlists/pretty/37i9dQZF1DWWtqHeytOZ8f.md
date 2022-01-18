@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,100 likes - 200 songs - 17 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,170 likes - 200 songs - 17 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 199 | [Almost Beautiful](https://open.spotify.com/track/7CUuHHMNjZiGfWvzNkXRMy) | [Anna Homler](https://open.spotify.com/artist/7y0aWNamQursS9ZHS6kxkh), [The Pylon King](https://open.spotify.com/artist/4jlViWmR6heNu4pyY7JAlY), [Voices Of Kwahn](https://open.spotify.com/artist/4RiT4SIuqeCUEuBoj9yB0k) | [Deliquium in C](https://open.spotify.com/album/4HteZzCTXLPZ7Yh4NQ18rU) | 4:09 |
 | 200 | [I've Got What I Need](https://open.spotify.com/track/5X7DeZgp2mRSkwc5tHrCNY) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [SUNDAYS](https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K) | 4:54 |
 
-Snapshot ID: `MTY0MjQ3ODkyMywwMDAwMDAwMGFhN2I5MGI4OWQwZDgzN2RjNzJjMGYzMGIyZDg3YmJk`
+Snapshot ID: `MTY0MjQ5MTg4MiwwMDAwMDAwMGFhN2I5MGI4OWQwZDgzN2RjNzJjMGYzMGIyZDg3YmJk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 
 > Latin tunes to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,345 likes - 115 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,382 likes - 115 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 114 | [Bandolero](https://open.spotify.com/track/4CJwK0Wdy5FVwhr3tBvseE) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [LVV the Real Rondon](https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR) | 3:58 |
 | 115 | [Temporal](https://open.spotify.com/track/4k40DjgzGdOCk4s6dleAF1) | [Dglo73](https://open.spotify.com/artist/5oN16nxjhWp5SNJoo5lraf) | [Magic](https://open.spotify.com/album/6KrFrHat4saT2DBNqtuPSo) | 2:57 |
 
-Snapshot ID: `MTY0MjQ3OTQzNCwwMDAwMDAwMDJiZmU0MDIzYTQyMmQ4MGRhZWI3ZDZjZDkyODgyNWI2`
+Snapshot ID: `MTY0MjQ5MjI3NSwwMDAwMDAwMDJiZmU0MDIzYTQyMmQ4MGRhZWI3ZDZjZDkyODgyNWI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,432 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,465 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 74 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 |
 | 75 | [Killed by Death](https://open.spotify.com/track/4W2CRPuOl8wN3aR7QmOmQE) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [No Remorse \(Deluxe Edition\)](https://open.spotify.com/album/7J23uT5PzXYpSawvwQNCbp) | 4:38 |
 
-Snapshot ID: `MTY0MjQ3OTQyMCwwMDAwMDAwMGFmMmQyYzAzNDFkZjg4ZTkzY2NmY2VjNGRiNTkxYjdh`
+Snapshot ID: `MTY0MjQ5MjI2NCwwMDAwMDAwMGFmMmQyYzAzNDFkZjg4ZTkzY2NmY2VjNGRiNTkxYjdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 
 > Classic tracks with roots in post\-punk, garage rock, and new wave\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,407 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,461 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 | 89 | [Flux](https://open.spotify.com/track/3V4LTMmu764I724y0ToD2d) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 3:35 |
 | 90 | [How Deep Is Your Love?](https://open.spotify.com/track/58ZxxTUnEHvhdNNZAkcZTN) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [In the Grace of Your Love](https://open.spotify.com/album/6ZiAGfJbLftvLMAFoEvoYK) | 6:27 |
 
-Snapshot ID: `MTY0MjQ3OTM3MCwwMDAwMDAwMDA0ZGJiNjA4ZGFkMDE3ZWEyNDdjNmM1OTVhZmFiMmUz`
+Snapshot ID: `MTY0MjQ5MjIyNiwwMDAwMDAwMDA0ZGJiNjA4ZGFkMDE3ZWEyNDdjNmM1OTVhZmFiMmUz`

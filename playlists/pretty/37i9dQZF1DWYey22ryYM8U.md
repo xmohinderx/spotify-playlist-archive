@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Éxitos con sabor\. Cover: Olga Tañon
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,455 likes - 120 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,454 likes - 120 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 119 | [Paula C.](https://open.spotify.com/track/7FZ5WSbcZxfq6ij4PZgzja) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/2BRXfbwZl8Rqv4Spi8kB8u) | [SALSWING!](https://open.spotify.com/album/32x8zlcKcIvDyZMNI104Kf) | 5:36 |
 | 120 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/40vpI6DtJU1EwFpnCrpWcb) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tañón Pal' Combo Es Lo Que Hay](https://open.spotify.com/album/0VSHWr0Nz2qMRIOFQ2qwHa) | 3:10 |
 
-Snapshot ID: `MTY0MjQ3ODk3MywwMDAwMDAwMDEyZDNkMTEwODFhZDcyYmE4YzA3ZDE4YmRjN2ZhMjhl`
+Snapshot ID: `MTY0MjQ5MTkyMSwwMDAwMDAwMDEyZDNkMTEwODFhZDcyYmE4YzA3ZDE4YmRjN2ZhMjhl`

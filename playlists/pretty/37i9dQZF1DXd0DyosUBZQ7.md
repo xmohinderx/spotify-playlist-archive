@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 
 > The most beautiful love songs of the 2000s
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,132 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,155 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 69 | [Leave Right Now](https://open.spotify.com/track/04eBItNb4WohCQ6x1ccA80) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Keep On](https://open.spotify.com/album/0yvfheLTvk91zegOmw3CvA) | 3:34 |
 | 70 | [In My Place](https://open.spotify.com/track/2nvC4i2aMo4CzRjRflysah) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:46 |
 
-Snapshot ID: `MTY0MjQ3OTQxMywwMDAwMDAwMDE3ZTcwY2ZmMzZkNzdlNDNlMGYzMmViNjMwNTJmZDdk`
+Snapshot ID: `MTY0MjQ5MjI1OSwwMDAwMDAwMDE3ZTcwY2ZmMzZkNzdlNDNlMGYzMmViNjMwNTJmZDdk`

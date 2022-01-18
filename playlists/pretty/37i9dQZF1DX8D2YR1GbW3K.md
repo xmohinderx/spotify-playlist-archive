@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,605 likes - 125 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,627 likes - 125 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Running Out](https://open.spotify.com/track/4tvnMCFnbjJngcYJB1kzPs) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1) | [Running Out](https://open.spotify.com/album/74E19vt4CK4rHhIzw1hBAC) | 7:31 |
 | 125 | [Wake Me Up](https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/1s9tU91VJt4sU5owi29GD3) | 4:07 |
 
-Snapshot ID: `MTY0MjQ3OTI4MCwwMDAwMDAwMDMwY2VkYzRiZTdhZjVkNTk0NWZiMGZhOTdhMWRhMDlh`
+Snapshot ID: `MTY0MjQ5MjE1NSwwMDAwMDAwMDMwY2VkYzRiZTdhZjVkNTk0NWZiMGZhOTdhMWRhMDlh`

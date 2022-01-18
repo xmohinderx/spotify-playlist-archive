@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: King Princess
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,455 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,462 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 74 | [Weirdo](https://open.spotify.com/track/3GEcWJB535LBfwF1lyWGAD) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Weirdo](https://open.spotify.com/album/1R0W4HzWUdAMy9TuDH8x1Z) | 3:45 |
 | 75 | [Hello Hello](https://open.spotify.com/track/09DfLZY6TLOwzweoudTq4T) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Hello Hello](https://open.spotify.com/album/0wUsJHjksLdpxBE1CNxuP9) | 2:36 |
 
-Snapshot ID: `MTY0MjQ3OTEzMCwwMDAwMDAwMDJhZmZhYTc4MTYyNDQ2Y2MwNDIyNzJjMzlhYWJjNjQx`
+Snapshot ID: `MTY0MjQ5MjAzNywwMDAwMDAwMDJhZmZhYTc4MTYyNDQ2Y2MwNDIyNzJjMzlhYWJjNjQx`

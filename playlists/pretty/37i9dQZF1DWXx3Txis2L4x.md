@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > Keep your run going with these upbeat rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,970 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,007 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 39 | [My God Is The Sun](https://open.spotify.com/track/1Pc3gTtQG4Cq1x81NcXtCN) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq) | 3:55 |
 | 40 | [Figure Eight](https://open.spotify.com/track/4JbNlNqFMVs1vBOFAutXcK) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/0eU9qAlZt7kIEZnonBtixO) | 3:21 |
 
-Snapshot ID: `MTY0MjQ3ODk1MiwwMDAwMDAwMGI2NjY2YWUwOWI4ZDc5YTM0ZGNhOTNkY2MyOTEyY2Zh`
+Snapshot ID: `MTY0MjQ5MTkwNSwwMDAwMDAwMGI2NjY2YWUwOWI4ZDc5YTM0ZGNhOTNkY2MyOTEyY2Zh`

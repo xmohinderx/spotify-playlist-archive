@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 
 > Hip Hop pra fazer os corres da vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,502 likes - 120 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,505 likes - 120 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb8e91bM8R51.md) - [plain]
 | 119 | [Run This Town](https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:27 |
 | 120 | [Writing on the Wall \(feat\. Post Malone & Cardi B\)](https://open.spotify.com/track/7x9nXsowok1JszkVztI5NI) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Writing on the Wall \(feat\. Post Malone & Cardi B\)](https://open.spotify.com/album/2ZoLcA4NMOjJGFKeANgNpF) | 3:21 |
 
-Snapshot ID: `MTY0MjQ3OTM2NCwwMDAwMDAwMDk4NDUwNmJhYzE2MDVhMGQxNTIzZDYyZTk4NTViYjZh`
+Snapshot ID: `MTY0MjQ5MjIyMSwwMDAwMDAwMDk4NDUwNmJhYzE2MDVhMGQxNTIzZDYyZTk4NTViYjZh`

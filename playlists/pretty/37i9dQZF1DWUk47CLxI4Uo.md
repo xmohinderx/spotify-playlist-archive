@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 
 > Instrumental only\. For the maniacs out there\. Cover: pg.lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,115 likes - 130 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,131 likes - 130 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 | 129 | [Our Most Desperate Hour](https://open.spotify.com/track/3rn10LIBzhmCvCD1rz58Cs) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf) | [Our Most Desperate Hour](https://open.spotify.com/album/4zsokdFBZag8hnt4BLNL8A) | 4:04 |
 | 130 | [Heavy Feather \- Instrumental](https://open.spotify.com/track/76x5nwldCeYU31phA3LkUB) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Epicenter \(Instrumental\)](https://open.spotify.com/album/0TJAjBZ7U52aZvfeyPMl4W) | 4:31 |
 
-Snapshot ID: `MTY0MjQ3ODg1NSwwMDAwMDAwMDk1NjMxN2EwNzhlYjE3ZDgwNGE4YWEzNjE0NTJmNDk5`
+Snapshot ID: `MTY0MjQ5MTgzMywwMDAwMDAwMDk1NjMxN2EwNzhlYjE3ZDgwNGE4YWEzNjE0NTJmNDk5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest Alternative Rock songs through the decades\. Cover: The Killers
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,152 likes - 225 songs - 14 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,184 likes - 225 songs - 14 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 224 | [Heavy Cross](https://open.spotify.com/track/428Dl0NOBojmUS98R2pDHr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Music For Men](https://open.spotify.com/album/1GB8gZTSdbiup5FzxNknRo) | 4:02 |
 | 225 | [The Funeral](https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Everything All The Time](https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C) | 5:22 |
 
-Snapshot ID: `MTY0MjQ3OTMxMCwwMDAwMDAwMDRlNGU4ZmUyY2M0NmJlOWQxMWVjMTJhYTk2ZWFkOGMz`
+Snapshot ID: `MTY0MjQ5MjE4MCwwMDAwMDAwMDRlNGU4ZmUyY2M0NmJlOWQxMWVjMTJhYTk2ZWFkOGMz`

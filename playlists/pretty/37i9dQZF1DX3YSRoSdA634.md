@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Does school, your love life or work suck? Or are you just having a bad day?
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,277,848 likes - 200 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,277,977 likes - 200 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [I'm Not The Only One](https://open.spotify.com/track/1VbhR6D6zUoSTBzvnRonXO) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Deluxe Edition\)](https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp) | 3:59 |
 | 200 | [Are You Alright?](https://open.spotify.com/track/5Gi9PNrnsQHCnI5EYelkIG) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Are You Alright?](https://open.spotify.com/album/04rSsCRN4eCnOy8IUyeIoV) | 4:40 |
 
-Snapshot ID: `MTY0MjQ3OTEzNywwMDAwMDAwMDRjYzZiNzQ1NTU2ZGI1NmM4YWU2OWU4ZmExNmUwZjJi`
+Snapshot ID: `MTY0MjQ5MjA0MywwMDAwMDAwMDRjYzZiNzQ1NTU2ZGI1NmM4YWU2OWU4ZmExNmUwZjJi`

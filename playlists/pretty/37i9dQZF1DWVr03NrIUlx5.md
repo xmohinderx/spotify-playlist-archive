@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > Big music hits in tiny 8\-bit versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,763 likes - 145 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,769 likes - 145 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 144 | [Hymn for the Weekend](https://open.spotify.com/track/45S0auZgfisuHjQkZgCBl5) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Coldplay](https://open.spotify.com/album/0cmwnoLmkKQVqVVCyNdgqo) | 3:44 |
 | 145 | [Scar Tissue](https://open.spotify.com/track/52hBMM0tR4S2kuDNj72PAk) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Red Hot Chili Peppers](https://open.spotify.com/album/57UTpB82tkVuFfDi4jK93f) | 3:38 |
 
-Snapshot ID: `MTY0MjQ3ODg4NywwMDAwMDAwMDJkNWU2NTQ1YTMzMzFmMTQ1NWFjMjAwMTlkNzg2NTJh`
+Snapshot ID: `MTY0MjQ5MTg1NywwMDAwMDAwMDJkNWU2NTQ1YTMzMzFmMTQ1NWFjMjAwMTlkNzg2NTJh`

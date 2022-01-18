@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,755,885 likes - 150 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,755,937 likes - 150 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 149 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/6iEDVsbUBGckKhuSBD3Eqf) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe) | 4:10 |
 | 150 | [No One](https://open.spotify.com/track/0JEqGkvUiMTQmFY6sgL9kg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am](https://open.spotify.com/album/0neqylYFL6s6Ikdf3UFmUo) | 4:13 |
 
-Snapshot ID: `MTY0MjQ3ODk2NiwwMDAwMDAwMDZhMzY2M2E5YjBhY2IyMGYzNWMzYWI3OWQ3Y2Y1MWQx`
+Snapshot ID: `MTY0MjQ5MTkxNiwwMDAwMDAwMDZhMzY2M2E5YjBhY2IyMGYzNWMzYWI3OWQ3Y2Y1MWQx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,221 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,236 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 79 | [Somebody](https://open.spotify.com/track/6iMoJ3UdrO2ZjzzcaN8Eom) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:58 |
 | 80 | [Like It Is](https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Like It Is](https://open.spotify.com/album/0lWWqdcdtFgSd1j06F9JZC) | 3:03 |
 
-Snapshot ID: `MTY0MjQ3OTMwOCwwMDAwMDAwMDQwM2NlZTNkYzJhZjRlNDFmMTYyNjZkMjM0ZGYyZDcz`
+Snapshot ID: `MTY0MjQ5MjE3OSwwMDAwMDAwMDQwM2NlZTNkYzJhZjRlNDFmMTYyNjZkMjM0ZGYyZDcz`

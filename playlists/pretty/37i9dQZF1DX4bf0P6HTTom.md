@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,610 likes - 49 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,620 likes - 49 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 48 | [Circle Song](https://open.spotify.com/track/0A1Mc9xBNpbOV5JPWVSxzd) | [Roger McGuinn](https://open.spotify.com/artist/3ExrAwcOqgGjt9kFRwdM76) | [Roger McGuinn & Band \(Bonus Track Version\)](https://open.spotify.com/album/4B18e2isBj5VRpU4kEhDpc) | 3:03 |
 | 49 | [Prisoner in Disguise](https://open.spotify.com/track/5Ms8PC4YEHInOWrhj2QLw0) | [The Souther\-Hillman\-Furay Band](https://open.spotify.com/artist/7hbzXJ5K6AqdPnbUcCL1hL) | [Trouble In Paradise](https://open.spotify.com/album/2B7aFxei2UhSAHbPWLXJRr) | 4:51 |
 
-Snapshot ID: `MTY0MjQ3OTE2OCwwMDAwMDAwMGQyZWM3NjBjZGY4OTYyMDUxM2ZiMWEzYTg1NDYxNTdl`
+Snapshot ID: `MTY0MjQ5MjA2NiwwMDAwMDAwMGQyZWM3NjBjZGY4OTYyMDUxM2ZiMWEzYTg1NDYxNTdl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,261 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,272 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Tengo Sed De Ti](https://open.spotify.com/track/40cVQj7FN9WmRCcNGcetZn) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 7:27 |
 | 100 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/5RDTDeDzKwjzZKqStxDvcG) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/3ZmuTmdXygRP7fQB9KUNNb) | 5:33 |
 
-Snapshot ID: `MTY0MjQ3OTMyNywwMDAwMDAwMGJhYWM3NzEzYzc5YTUzODk2MDc4OTA4MDJhZDJhMjAw`
+Snapshot ID: `MTY0MjQ5MjE5MywwMDAwMDAwMGJhYWM3NzEzYzc5YTUzODk2MDc4OTA4MDJhZDJhMjAw`

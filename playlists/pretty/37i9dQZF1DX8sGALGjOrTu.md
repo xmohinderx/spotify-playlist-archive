@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > When emo and hardcore fell hard for each other.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,841 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,905 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 99 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
 | 100 | [Failure On My Lips](https://open.spotify.com/track/7olQs21wmZmKQBuo9liALF) | [Beloved](https://open.spotify.com/artist/5obGZrR6g66J9jjZ0V84ca) | [Failure On](https://open.spotify.com/album/3GhoCt8KzZ3enAZwrOEito) | 4:36 |
 
-Snapshot ID: `MTY0MjQ3OTI5OSwwMDAwMDAwMDFkODgzMDNjNGEzODA4MGFmNmVkNjUzNjRhNDBkOTI3`
+Snapshot ID: `MTY0MjQ5MjE3MSwwMDAwMDAwMDFkODgzMDNjNGEzODA4MGFmNmVkNjUzNjRhNDBkOTI3`

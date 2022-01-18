@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,921,630 likes - 100 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,921,689 likes - 100 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 99 | [This Is Not About You](https://open.spotify.com/track/50Y1OxU4NlKYjR2v9RxBpK) | [Johan Lindvall Trio](https://open.spotify.com/artist/10s1rJ9RW1wkVbAFZ2PjfI) | [This is Not About You](https://open.spotify.com/album/4OEcMFccYgzpTpi3wcpTmI) | 3:50 |
 | 100 | [Shady Side](https://open.spotify.com/track/5j85Y5lPqHqvww4Q2H3pY1) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 7:04 |
 
-Snapshot ID: `MTY0MjQ3OTE4MCwwMDAwMDAwMDQ2MzM2OWU5ZWFiNTdlZmZhNTNlMzQ0OTBhYWI4ZDZi`
+Snapshot ID: `MTY0MjQ5MjA3NSwwMDAwMDAwMDQ2MzM2OWU5ZWFiNTdlZmZhNTNlMzQ0OTBhYWI4ZDZi`

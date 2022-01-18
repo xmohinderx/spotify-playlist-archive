@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With James K, Tennis, Magdalena Bay and more
+> With Slayyyter, Toro y Moi, Caroline Polachek and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,163 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,164 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
 | 50 | [Clouds](https://open.spotify.com/track/5VQJSlO979CuYLiu8zyHtT) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Troubled Paradise](https://open.spotify.com/album/7xCaejeRwZ0h10RSfXuBeK) | 3:10 |
 
-Snapshot ID: `MTY0MjQ3OTQ2MSwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj`
+Snapshot ID: `MTY0MjQ5MjI5NywwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj`

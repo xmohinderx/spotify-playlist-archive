@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: María Cristina Plata
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,335 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,351 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Aparato](https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Aparato](https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP) | 3:32 |
 | 100 | [Aitormena](https://open.spotify.com/track/0Tei9Df9ToODKMjoDQ26cP) | [Iseo](https://open.spotify.com/artist/49kvPYQ1LKNY9PsDa3kau7) | [Aitormena](https://open.spotify.com/album/102DUYMhYmzYN11gsOszXg) | 2:50 |
 
-Snapshot ID: `MTY0MjQ3OTQwMCwwMDAwMDAwMGU5OTVmZDc5MjcyYjJjNGE1OWVkNzQyN2Y0YzRlMjc0`
+Snapshot ID: `MTY0MjQ5MjI0OSwwMDAwMDAwMGU5OTVmZDc5MjcyYjJjNGE1OWVkNzQyN2Y0YzRlMjc0`

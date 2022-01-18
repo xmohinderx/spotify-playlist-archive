@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 
 > The biggest songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,157,069 likes - 150 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,157,321 likes - 150 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 | 149 | [Give It Up](https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [All In a Night's Work \(Expanded Version\)](https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2) | 4:14 |
 | 150 | [Kayleigh \- 2017 Remaster](https://open.spotify.com/track/0r5Ju8WyodpXBHmg3f4zYf) | [Marillion](https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28) | [Misplaced Childhood \(2017 Remaster\)](https://open.spotify.com/album/3ExyKxlUkqD41I8tQumMDF) | 4:03 |
 
-Snapshot ID: `MTY0MjQ3OTE2MiwwMDAwMDAwMGM2YzVkOWE3Y2EyMDBkNTk4ODQ2MmE4OGQ3MTBiODc3`
+Snapshot ID: `MTY0MjQ5MjA2MSwwMDAwMDAwMGM2YzVkOWE3Y2EyMDBkNTk4ODQ2MmE4OGQ3MTBiODc3`

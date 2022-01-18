@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > Ride the vaporwave and lose your soul in the <br/>  a e s t h e t i c .
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,785 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,829 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [O Piano \(2020 Remaster\)](https://open.spotify.com/track/3ESqaYfqxpAFBaSY8DRPpg) | [XWaves](https://open.spotify.com/artist/03kLm4ZLzEgtQxTC3OKaHQ) | [Vaporwave for China \(2020 Remaster\)](https://open.spotify.com/album/1c6Rxz4kmp2XukLDzVDjzE) | 4:19 |
 | 100 | [Icaru](https://open.spotify.com/track/3rYl7iIaj2C14HkiUem1LX) | [Sonavision Deluxe](https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff) | [Icaru](https://open.spotify.com/album/0AdFzWHCpi8IOeVbOMJ9GY) | 2:55 |
 
-Snapshot ID: `MTY0MjQ3ODgzOSwwMDAwMDAwMDg5MzM2NmI2N2RiMDc5MGIxYTgyNGYwNmI0NDdmZWE2`
+Snapshot ID: `MTY0MjQ5MTgyMiwwMDAwMDAwMDg5MzM2NmI2N2RiMDc5MGIxYTgyNGYwNmI0NDdmZWE2`

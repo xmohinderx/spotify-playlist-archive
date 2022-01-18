@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,717 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,732 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Slow Motion Town](https://open.spotify.com/track/4WrfSd93hzq8KPvklVk2D0) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Ovall](https://open.spotify.com/album/39LUARqc9kTewrotoWGHId) | 3:25 |
 | 60 | [Poetry \(feat\. love\-sadKiD\)](https://open.spotify.com/track/6V1K9SNXWMkMnP1ITn7O8c) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT), [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s) | [Canvas](https://open.spotify.com/album/59dHUABz6phP7gCSjqhP8T) | 3:24 |
 
-Snapshot ID: `MTY0MjQ3OTI3MiwwMDAwMDAwMGIzZDZlMmQ2NjY1YjUzMDUwMGRkMGE2YTZkOGExMmNl`
+Snapshot ID: `MTY0MjQ5MjE0OSwwMDAwMDAwMGIzZDZlMmQ2NjY1YjUzMDUwMGRkMGE2YTZkOGExMmNl`

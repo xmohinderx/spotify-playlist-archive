@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,244 likes - 80 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,263 likes - 80 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Raspberry Beret \- Extended 12" Version](https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Raspberry Beret](https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx) | 6:40 |
 | 80 | [Take Me Home \- Extended Remix](https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [12"ers](https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5) | 8:06 |
 
-Snapshot ID: `MTY0MjQ3OTM3MCwwMDAwMDAwMDg4N2E3NGY1MTNjNGFhNTcyMWNlNzQzN2VhMjVhZDk2`
+Snapshot ID: `MTY0MjQ5MjIyNywwMDAwMDAwMDg4N2E3NGY1MTNjNGFhNTcyMWNlNzQzN2VhMjVhZDk2`

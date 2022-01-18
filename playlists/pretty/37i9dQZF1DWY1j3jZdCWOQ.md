@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > spain without the s 🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,773 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,855 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 49 | [forget me too \(feat\. Halsey\)](https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:51 |
 | 50 | [PLAYBOY'S DAUGHTER](https://open.spotify.com/track/0AyL36pKclslGTByo1YYIZ) | [Girl Wilde](https://open.spotify.com/artist/3mXtJbEuxKBrOFSKIP16t2) | [PLAYBOY'S DAUGHTER](https://open.spotify.com/album/00bHrZcg7IJ2Vb8NbEUIvD) | 2:37 |
 
-Snapshot ID: `MTY0MjQ3ODk1NSwwMDAwMDAwMDUxMzZiMzg4ZWM0Yjg2MmFlZTc2MmQzMWIyNjc2YTlj`
+Snapshot ID: `MTY0MjQ5MTkwNywwMDAwMDAwMDUxMzZiMzg4ZWM0Yjg2MmFlZTc2MmQzMWIyNjc2YTlj`

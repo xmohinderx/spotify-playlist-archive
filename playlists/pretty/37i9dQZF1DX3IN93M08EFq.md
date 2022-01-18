@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 
 > Din egen indieklubb! Garanterad dans, dans, dans\. \#spelashoreline
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,913 likes - 45 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,915 likes - 45 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IN93M08EFq.md) - [plain]
 | 44 | [Koka\-Kola Veins](https://open.spotify.com/track/75ap5Fce8d9LXSwuBgVC0s) | [The Tough Alliance](https://open.spotify.com/artist/4ps52NgTUPV9accMr5TMBw) | [The New School](https://open.spotify.com/album/2bZ46L0o0qtL3Z48D2egWX) | 4:03 |
 | 45 | [The Opposite of Hallelujah](https://open.spotify.com/track/5uUByQFYLh4RINJ7q3J0SJ) | [Jens Lekman](https://open.spotify.com/artist/7tzI4rSFTHafjF18ZrNZWx) | [Night Falls Over Kortedala](https://open.spotify.com/album/6QqjrZ0sr41lagzmSMzeZU) | 4:21 |
 
-Snapshot ID: `MTY0MjQ3OTEyOCwwMDAwMDAwMDllMGZjNDA4MzkzN2UwYmQyZjVmNTYzYTAwMTJhYTY4`
+Snapshot ID: `MTY0MjQ5MjAzNiwwMDAwMDAwMDllMGZjNDA4MzkzN2UwYmQyZjVmNTYzYTAwMTJhYTY4`

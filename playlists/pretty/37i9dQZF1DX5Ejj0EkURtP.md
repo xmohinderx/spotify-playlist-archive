@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ejj0EkURtP.md) - [plain]
 
 > The biggest songs of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,254,651 likes - 150 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,254,906 likes - 150 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ejj0EkURtP.md) - [plain]
 | 149 | [Cold Water \(feat\. Justin Bieber & MØ\)](https://open.spotify.com/track/6DNtNfH8hXkqOX1sjqmI7p) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Cold Water \(feat\. Justin Bieber & MØ\)](https://open.spotify.com/album/3o99825qhG7K7D07naRs4F) | 3:05 |
 | 150 | [Mama](https://open.spotify.com/track/47OVNnZJzIkrsEiZ4n187p) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama](https://open.spotify.com/album/1PJTxJTsQxGT7KTY8gBfR7) | 3:04 |
 
-Snapshot ID: `MTY0MjQ3OTE5MCwwMDAwMDAwMGNjYTE4NzNmMDQ5MGU5OGZiMjA5ZWFkMWQ0YjhmN2Uz`
+Snapshot ID: `MTY0MjQ5MjA4NCwwMDAwMDAwMGNjYTE4NzNmMDQ5MGU5OGZiMjA5ZWFkMWQ0YjhmN2Uz`

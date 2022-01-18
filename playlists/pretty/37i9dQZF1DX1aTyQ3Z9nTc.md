@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,372 likes - 150 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,382 likes - 150 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 149 | [Sad Face Emojis \(feat\. Jessie Reyez\)](https://open.spotify.com/track/3qxpBIh54FCi2uGbYZ4ZMB) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 3:26 |
 | 150 | [Who Says](https://open.spotify.com/track/3izM4DrwTNpHZeD902DtRc) | [Schwey](https://open.spotify.com/artist/1HjpNX0zNXYbHe38hMgDgZ) | [Who Says](https://open.spotify.com/album/5S6LZZgXNNReelP7eODUBQ) | 2:25 |
 
-Snapshot ID: `MTY0MjQ3OTA2MywwMDAwMDAwMGYxODlhMGMxNzQ4MzhhNDFjYTM1MGVhZmNlZjQzNWQx`
+Snapshot ID: `MTY0MjQ5MTk4OCwwMDAwMDAwMGYxODlhMGMxNzQ4MzhhNDFjYTM1MGVhZmNlZjQzNWQx`

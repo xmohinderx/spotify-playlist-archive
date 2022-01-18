@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Mahmundi, Rubel
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,428 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,430 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 89 | [Por Aí](https://open.spotify.com/track/70nku2OHeoNghoWKf8juXj) | [Luis Kiari](https://open.spotify.com/artist/7JsyzZsFjaF86UX1CAAFio), [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Por Aí](https://open.spotify.com/album/1Wqm9upgdr7zhSYyGyQqaD) | 3:28 |
 | 90 | [Impossível](https://open.spotify.com/track/5FQNsFXu161A9edkOIMWXs) | [Henrique Portugal](https://open.spotify.com/artist/3vI8Ld2y1zCY8vvkZ8VFq5) | [Impossível](https://open.spotify.com/album/53qqZw8g96hyvJxQU3jgAQ) | 3:17 |
 
-Snapshot ID: `MTY0MjQ3ODgyNCwwMDAwMDAwMDhmZTY1ZjRhMzhmOTBkYzMyMmRjNDk3YjY4ZGE3YWNj`
+Snapshot ID: `MTY0MjQ5MTgxMiwwMDAwMDAwMDhmZTY1ZjRhMzhmOTBkYzMyMmRjNDk3YjY4ZGE3YWNj`

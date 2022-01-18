@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,518 likes - 60 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,550 likes - 60 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 59 | [El Viento](https://open.spotify.com/track/2JqDN350J5Ldv08Coi31Z3) | [Israel Vich](https://open.spotify.com/artist/6gWRPpUuV4FoXcRFIu3OAA), [Yong Jai Kim](https://open.spotify.com/artist/6EmHBMBurb9mY1dWqW3qrD) | [Eta](https://open.spotify.com/album/6LJI7ED8PSSVJmcC5k7x4L) | 6:09 |
 | 60 | [Terra](https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM) | [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH) | [Ritmo](https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB) | 1:55 |
 
-Snapshot ID: `MTY0MjQ3OTEwOCwwMDAwMDAwMDAzNDBiM2IyNWNiZjU0YWJhOWUwNDc0OGMzOGEyODdm`
+Snapshot ID: `MTY0MjQ5MjAyMiwwMDAwMDAwMDAzNDBiM2IyNWNiZjU0YWJhOWUwNDc0OGMzOGEyODdm`

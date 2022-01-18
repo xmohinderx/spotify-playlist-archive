@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > Punk rock from the 90s and 00s that you need in your life\. Cover: Rancid
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,113 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,166 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 49 | [Skate Or Die](https://open.spotify.com/track/174t68Pnn9wb1UgM7fCRmY) | [Teenage Bottlerocket](https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W) | [They Came from the Shadows](https://open.spotify.com/album/21hHTrVvbzGDVynkfFvxtm) | 1:50 |
 | 50 | [City Of Angels](https://open.spotify.com/track/4D7sweC53ikn2HrABdrvdm) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Sing Sing Death House](https://open.spotify.com/album/0MQhAuIfU4XA2ujWwcYJqh) | 3:29 |
 
-Snapshot ID: `MTY0MjQ3OTQxNiwwMDAwMDAwMGU0YmI1MmM3MGM5MWEzNjg2NjdjNTAwODExYTUzNTcw`
+Snapshot ID: `MTY0MjQ5MjI2MSwwMDAwMDAwMGU0YmI1MmM3MGM5MWEzNjg2NjdjNTAwODExYTUzNTcw`

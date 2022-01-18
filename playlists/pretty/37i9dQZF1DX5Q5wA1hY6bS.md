@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > Because the best things in life are wild and free...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,477,094 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,477,093 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 99 | [Canyon](https://open.spotify.com/track/5ZmzCsLLu605RHTFqeKmop) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [I'm Alone, No You're Not](https://open.spotify.com/album/7yLup1hOE1TLRGyUdW07TW) | 2:55 |
 | 100 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
 
-Snapshot ID: `MTY0MjQ3OTIwMCwwMDAwMDAwMDBlNTFlNzU0YjQxYTVhOTA0MWNlYmQ1N2U5ODY3M2Zh`
+Snapshot ID: `MTY0MjQ5MjA5MSwwMDAwMDAwMDBlNTFlNzU0YjQxYTVhOTA0MWNlYmQ1N2U5ODY3M2Zh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 
 > A collection of the hottest soul tracks from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182,884 likes - 85 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182,948 likes - 85 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 84 | [Enjoy Yourself](https://open.spotify.com/track/4OdhWe5GZTkwAuNXLQZImM) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Jacksons](https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF) | 3:24 |
 | 85 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3oI95Uihdvu7uCiirC1DQA) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now \(Featuring Teddy Pendergrass\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/4FyAsercGqajQeEdk2Isj6) | 3:25 |
 
-Snapshot ID: `MTY0MjQ3ODg0NywwMDAwMDAwMDYzY2VkYzAwYTAyZDk0NDcyZjEwNjRjYTM2MjVlNDM4`
+Snapshot ID: `MTY0MjQ5MTgyOCwwMDAwMDAwMDYzY2VkYzAwYTAyZDk0NDcyZjEwNjRjYTM2MjVlNDM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,313 likes - 100 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,331 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 99 | [Elephant Kiosk](https://open.spotify.com/track/59KTmXF4YBZnwLOJ1iFZ2u) | [Icarus](https://open.spotify.com/artist/0PDSR92MSuuyre6j9ngj7z) | [Misfits](https://open.spotify.com/album/0Nb2RaaxjnCY3uDViyaIky) | 6:10 |
 | 100 | [Clouds](https://open.spotify.com/track/6VipQibtXdo7Dy3uuW981g) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Ones](https://open.spotify.com/album/6lo52TlixgAYR8gX6vescb) | 4:05 |
 
-Snapshot ID: `MTY0MjQ3ODg1OCwwMDAwMDAwMDYyYWM5ZmViM2Q1NjA3ZTVlZWFhZjhmMzliNDE5NzQy`
+Snapshot ID: `MTY0MjQ5MTgzNiwwMDAwMDAwMDYyYWM5ZmViM2Q1NjA3ZTVlZWFhZjhmMzliNDE5NzQy`

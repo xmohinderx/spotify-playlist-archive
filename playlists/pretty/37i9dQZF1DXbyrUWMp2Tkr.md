@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyrUWMp2Tkr.md) - [plain]
 
 > A selection of the greatest Thrash Metal tunes\. Cover: Slayer
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,070 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,092 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyrUWMp2Tkr.md) - [plain]
 | 49 | [Slaves of Pain](https://open.spotify.com/track/7lD9KnYOyQyoYIBHOWKrdz) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beneath the Remains](https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z) | 4:04 |
 | 50 | [Practice What You Preach](https://open.spotify.com/track/1KmX2Q8IwwLY2AMIMOmYlw) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Practice What You Preach](https://open.spotify.com/album/7lNeBg16EP03ifo5Wutq52) | 4:57 |
 
-Snapshot ID: `MTY0MjQ3OTM4NSwwMDAwMDAwMGY5MGExOGEwMGZkYTJjN2NhYjcwMDAzNDA4NzM4ZTRk`
+Snapshot ID: `MTY0MjQ5MjIzOCwwMDAwMDAwMGY5MGExOGEwMGZkYTJjN2NhYjcwMDAzNDA4NzM4ZTRk`

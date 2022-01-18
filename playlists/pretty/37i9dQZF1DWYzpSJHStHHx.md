@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Sunny tracks from Mac DeMarco, The Beach Boys, and everyone in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,601 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,630 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 79 | [Windows](https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo) | [Sugar Candy Mountain](https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3) | [666](https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe) | 3:12 |
 | 80 | [Life's So Good \(feat\. Cherry Surf\)](https://open.spotify.com/track/6wpYutp0e5dtaV2kCDv12O) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb), [Cherry Surf](https://open.spotify.com/artist/35j9UeFevD5ajbybRznTPx) | [Life's So Good \(feat\. Cherry Surf\)](https://open.spotify.com/album/6jJDDnkqqtxbWIqap2SNxL) | 3:36 |
 
-Snapshot ID: `MTY0MjQ3ODk4NCwwMDAwMDAwMDgxNzBjOTI0NmJkNTZiYjA5YzlkMDA2YWRkZWIwYjU4`
+Snapshot ID: `MTY0MjQ5MTkyOSwwMDAwMDAwMDgxNzBjOTI0NmJkNTZiYjA5YzlkMDA2YWRkZWIwYjU4`

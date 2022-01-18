@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: State Champs
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,959 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,963 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Deadlocked \- Acoustic](https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves Acoustic E.P.](https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY) | 3:24 |
 | 75 | [Tiny Vessels](https://open.spotify.com/track/0lwXjccCJAvS0GGLEky85h) | [Another One Down!](https://open.spotify.com/artist/28qiA0MBepHKX8M6ROsQZL) | [Disconsolation](https://open.spotify.com/album/4KKOF28KsHPcHzGGUPvv2T) | 4:15 |
 
-Snapshot ID: `MTY0MjQ3OTM5MywwMDAwMDAwMGE0YzdiZjMxZjU0ZWM1MWViNDExZTI5M2Q0YjBlMmUx`
+Snapshot ID: `MTY0MjQ5MjI0MywwMDAwMDAwMGE0YzdiZjMxZjU0ZWM1MWViNDExZTI5M2Q0YjBlMmUx`

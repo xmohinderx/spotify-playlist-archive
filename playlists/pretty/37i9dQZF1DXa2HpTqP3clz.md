@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Punch Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,488 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,492 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [And the Rain Came Down](https://open.spotify.com/track/0tzt9h2RzV245KqT94mDlJ) | [Fireside Collective](https://open.spotify.com/artist/5pTVgcphr57bYahGLO4bSC) | [And the Rain Came Down](https://open.spotify.com/album/04Onp1WH86DyNy1lfVxYss) | 3:56 |
 | 100 | [1901: A Canyon Odyssey](https://open.spotify.com/track/56xBiRC5zcb1Hvhnek8m1u) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Laws Of Gravity](https://open.spotify.com/album/0yXaxoA7bBeXc31NQxiv93) | 4:35 |
 
-Snapshot ID: `MTY0MjQ3OTMzMCwwMDAwMDAwMDFlNmQ2YmM2OWZkMDg0Y2QwY2Y2ZDNiMmZlNjRkYTdj`
+Snapshot ID: `MTY0MjQ5MjE5NSwwMDAwMDAwMDFlNmQ2YmM2OWZkMDg0Y2QwY2Y2ZDNiMmZlNjRkYTdj`

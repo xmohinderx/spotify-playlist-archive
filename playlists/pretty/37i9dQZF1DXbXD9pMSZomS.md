@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,725 likes - 60 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,744 likes - 60 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [Signals](https://open.spotify.com/track/733FlhpmdWPp9YRbGkqvrq) | [Loz Goddard](https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j) | [Signals EP](https://open.spotify.com/album/1BDRViteUf8jflNGqrW08c) | 5:24 |
 | 60 | [Never Go Back](https://open.spotify.com/track/3fT7kJQQHAeNBlVlSQgDNo) | [Tilman](https://open.spotify.com/artist/7aFxKbiPGJHNrcrGuKW5X9) | [Back To New Pt\. 2](https://open.spotify.com/album/3Vp8THgUHUsYgoXSfqS2Y2) | 6:08 |
 
-Snapshot ID: `MTY0MjQ3OTM3MywwMDAwMDAwMGNiZDRiNGJiNWJlNDgyM2QzZjExYWM3MGU4YWEyMjgx`
+Snapshot ID: `MTY0MjQ5MjIyOSwwMDAwMDAwMGNiZDRiNGJiNWJlNDgyM2QzZjExYWM3MGU4YWEyMjgx`

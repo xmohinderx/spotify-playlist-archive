@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,953,184 likes - 150 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,953,336 likes - 150 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 149 | [When I Let Go](https://open.spotify.com/track/1knbAQeG852S5ebxsfYIao) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Borders](https://open.spotify.com/album/3Rv5ZcZTfEIRKqvWBhrYmv) | 3:55 |
 | 150 | [The Only](https://open.spotify.com/track/4VrUT6GeeSRz6MB8tWJSHM) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [The Only](https://open.spotify.com/album/2oMZSDIcBFvhqoVsByTfvb) | 3:37 |
 
-Snapshot ID: `MTY0MjQ3ODkzMSwwMDAwMDAwMGMzYWM2MDlkZTM1YmNkZTU3MzFjZmQyZTY3ZjlhNzE2`
+Snapshot ID: `MTY0MjQ5MTg4OCwwMDAwMDAwMGMzYWM2MDlkZTM1YmNkZTU3MzFjZmQyZTY3ZjlhNzE2`

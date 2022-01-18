@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgdl6IRdIlO.md) - [plain]
 
 > Слушай российских исполнительниц на полной громкости\. На обложке: Manizha
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,346 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,348 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgdl6IRdIlO.md) - [plain]
 | 49 | [Пальцы веером](https://open.spotify.com/track/6ItSery2B0bmqxj978GAb0) | [Родимая](https://open.spotify.com/artist/0JaaXyial0LiuBMa3ZM5mW) | [Пальцы веером](https://open.spotify.com/album/73oxoY1zSF3TaZdBPSbcUA) | 2:28 |
 | 50 | [Нам пора домой](https://open.spotify.com/track/21FSa82Oe8RTyyc2y42HKO) | [NAiTA](https://open.spotify.com/artist/2TKNq5yBBjhAPBL3cQl5Lk) | [Нам пора домой](https://open.spotify.com/album/2XiBOkcnukHSUZ806SGwPl) | 3:39 |
 
-Snapshot ID: `MTY0MjQ3ODkxNiwwMDAwMDAwMDYxZGFkZTYwYmM0ZTBkODlkNTEzZTA1OGExOWNiZTU2`
+Snapshot ID: `MTY0MjQ5MTg3NywwMDAwMDAwMDYxZGFkZTYwYmM0ZTBkODlkNTEzZTA1OGExOWNiZTU2`

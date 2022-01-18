@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,242 likes - 50 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,248 likes - 50 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Kittiwakes In Gusts](https://open.spotify.com/track/1MhVC3xbue4U1YOZR7stow) | [Hedvig Mollestad](https://open.spotify.com/artist/7LO6x1uZjAWL1y1kqmadm8) | [Tempest Revisited](https://open.spotify.com/album/19G1RgWBIVSW453nq3wqRR) | 6:39 |
 | 50 | [Stadium Jazz](https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Casting for Gravity \(feat\. Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki) | 7:17 |
 
-Snapshot ID: `MTY0MjQ3OTMxNCwwMDAwMDAwMGI3OThiMTBlODllMTBhZWM3ZTA2YWVjYTAyMDZkNjY2`
+Snapshot ID: `MTY0MjQ5MjE4MywwMDAwMDAwMGI3OThiMTBlODllMTBhZWM3ZTA2YWVjYTAyMDZkNjY2`
