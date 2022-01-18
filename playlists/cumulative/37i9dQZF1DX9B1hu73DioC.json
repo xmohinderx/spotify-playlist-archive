@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 200597,
       "name": "2.",
       "url": "https://open.spotify.com/track/3ahMoKvNOADvZ8zD0MNLLC"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 203186,
       "name": "BLEACH - Beshken Remix",
       "url": "https://open.spotify.com/track/1hv6wWgnbqlTqEQivmdtvJ"
@@ -2559,9 +2559,9 @@
           "url": "https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR"
         }
       ],
-      "date_added": "2021-07-13",
+      "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-04",
+      "date_removed": null,
       "duration_ms": 89436,
       "name": "GARDEN 2 - Spencer. Remix",
       "url": "https://open.spotify.com/track/4PTVeseRKeHsJyw3VuOKGS"
@@ -3099,7 +3099,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 210853,
       "name": "High Beams",
       "url": "https://open.spotify.com/track/33aO3exOKzz0EtN1Web9oN"
@@ -3385,7 +3385,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 200000,
       "name": "I Won!",
       "url": "https://open.spotify.com/track/3KQDLIK3HZkPJg7HS0d7jx"
@@ -4151,7 +4151,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 218935,
       "name": "Maybe You're the Reason",
       "url": "https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o"
@@ -4833,7 +4833,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 167175,
       "name": "On Ice",
       "url": "https://open.spotify.com/track/4GgIUzrjuTFQ00C2jGKIRr"
@@ -4909,7 +4909,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 217298,
       "name": "Ordinary Guy (feat. The Mattson 2)",
       "url": "https://open.spotify.com/track/3NXLWgZATF6TFYP70dEfcA"
@@ -4949,6 +4949,24 @@
       "duration_ms": 211354,
       "name": "Outside Sublime",
       "url": "https://open.spotify.com/track/1N4JlfiTYPcC3b1SoVs3qs"
+    },
+    {
+      "album": {
+        "name": "Pack a Punch",
+        "url": "https://open.spotify.com/album/4Anv5S75ByF5yZlbh6Lgc8"
+      },
+      "artists": [
+        {
+          "name": "Luke Wild",
+          "url": "https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222489,
+      "name": "Pack a Punch",
+      "url": "https://open.spotify.com/track/2YmHg6zdtaGNYI31CkjN5p"
     },
     {
       "album": {
@@ -6099,7 +6117,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 290106,
       "name": "There Must Be a Song Like You",
       "url": "https://open.spotify.com/track/1rwzTr6y9yOPzNlO92AnUc"
@@ -6207,7 +6225,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 155680,
       "name": "Tiptoeing",
       "url": "https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9"
@@ -6477,7 +6495,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 236000,
       "name": "U-Turn",
       "url": "https://open.spotify.com/track/3wXCGcQVwmvVaIp4aqEA5v"

@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
   "name": "Dreamy Vibes",
-  "num_followers": 645945,
+  "num_followers": 645961,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ1NzgxOCwwMDAwMDAwMDI5OGMzYmFiMDI4YmMxNmFlNmM5OTlkYzc5ZGQyMzg0",
+  "snapshot_id": "MTY0MjQ2NjQ1NiwwMDAwMDAwMGMwNzNhYTVhZDk3NDU0YjQ2MGNhMGZlMzkxYTZhZmQ2",
   "tracks": [
     {
       "added_at": "2022-01-12 17:06:11",
@@ -43,18 +43,18 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82"
+        "name": "Healing Waves",
+        "url": "https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD"
       },
       "artists": [
         {
-          "name": "SUND",
-          "url": "https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL"
+          "name": "Pax Soloman",
+          "url": "https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg"
         }
       ],
-      "duration_ms": 166161,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE"
+      "duration_ms": 161454,
+      "name": "Healing Waves",
+      "url": "https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -75,18 +75,18 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Healing Waves",
-        "url": "https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD"
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82"
       },
       "artists": [
         {
-          "name": "Pax Soloman",
-          "url": "https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg"
+          "name": "SUND",
+          "url": "https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL"
         }
       ],
-      "duration_ms": 161454,
-      "name": "Healing Waves",
-      "url": "https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ"
+      "duration_ms": 166161,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -103,6 +103,22 @@
       "duration_ms": 259200,
       "name": "Tallkrona",
       "url": "https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Pace tua",
+        "url": "https://open.spotify.com/album/3fsbprvyxIqOJeWX1QWiEA"
+      },
+      "artists": [
+        {
+          "name": "Celeste Soma",
+          "url": "https://open.spotify.com/artist/1b7j7QRse9XXdbZxK3wILz"
+        }
+      ],
+      "duration_ms": 144305,
+      "name": "Pace Tua",
+      "url": "https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -139,22 +155,6 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Pace tua",
-        "url": "https://open.spotify.com/album/3fsbprvyxIqOJeWX1QWiEA"
-      },
-      "artists": [
-        {
-          "name": "Celeste Soma",
-          "url": "https://open.spotify.com/artist/1b7j7QRse9XXdbZxK3wILz"
-        }
-      ],
-      "duration_ms": 144305,
-      "name": "Pace Tua",
-      "url": "https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
         "name": "Traveling Windows",
         "url": "https://open.spotify.com/album/4C9ugRx6etBU29t5694z7m"
       },
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Apesanteur",
-        "url": "https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39"
-      },
-      "artists": [
-        {
-          "name": "Elodie Acy",
-          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Apesanteur",
-      "url": "https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
         "name": "Muer",
         "url": "https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 213250,
       "name": "Muer",
       "url": "https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Apesanteur",
+        "url": "https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39"
+      },
+      "artists": [
+        {
+          "name": "Elodie Acy",
+          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
+        }
+      ],
+      "duration_ms": 158882,
+      "name": "Apesanteur",
+      "url": "https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Aphelion",
-        "url": "https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW"
-      },
-      "artists": [
-        {
-          "name": "Golden Slumber",
-          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
-        }
-      ],
-      "duration_ms": 200555,
-      "name": "Aphelion",
-      "url": "https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
         "name": "Two Jewels",
         "url": "https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 157333,
       "name": "Deep Sleep",
       "url": "https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Aphelion",
+        "url": "https://open.spotify.com/album/15riorqGikS5bvTNsvYWIW"
+      },
+      "artists": [
+        {
+          "name": "Golden Slumber",
+          "url": "https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj"
+        }
+      ],
+      "duration_ms": 200555,
+      "name": "Aphelion",
+      "url": "https://open.spotify.com/track/0rczzvfB6QouQM8h6LCdI5"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -315,54 +315,6 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Peripateo",
-        "url": "https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz"
-      },
-      "artists": [
-        {
-          "name": "For The Lost",
-          "url": "https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ"
-        }
-      ],
-      "duration_ms": 193162,
-      "name": "Peripateo",
-      "url": "https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Kissing the Ambience",
-        "url": "https://open.spotify.com/album/5POHqBiKAdGSvvLtIE8AZP"
-      },
-      "artists": [
-        {
-          "name": "Mind Explorer",
-          "url": "https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8"
-        }
-      ],
-      "duration_ms": 186276,
-      "name": "Kissing the Ambience",
-      "url": "https://open.spotify.com/track/3ge3sVwiK7csDa3QKb9Xqm"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Phaedra",
-        "url": "https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp"
-      },
-      "artists": [
-        {
-          "name": "Arlette Leduc",
-          "url": "https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Phaedra",
-      "url": "https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
         "name": "Sol III",
         "url": "https://open.spotify.com/album/5iuAYld49EAB0vZqXBFt4m"
       },
@@ -379,34 +331,34 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Eternalis",
-        "url": "https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx"
+        "name": "Peripateo",
+        "url": "https://open.spotify.com/album/0IQFwbUk5gJin6nQGMJPWz"
       },
       "artists": [
         {
-          "name": "Arctic Pulse",
-          "url": "https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi"
+          "name": "For The Lost",
+          "url": "https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ"
         }
       ],
-      "duration_ms": 192038,
-      "name": "Arriving",
-      "url": "https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR"
+      "duration_ms": 193162,
+      "name": "Peripateo",
+      "url": "https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp"
     },
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Amulet",
-        "url": "https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl"
+        "name": "Yana",
+        "url": "https://open.spotify.com/album/2ieSB12RwegevPF1BAqjnx"
       },
       "artists": [
         {
-          "name": "Kazuhiro Hotaru",
-          "url": "https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W"
+          "name": "LOVIS",
+          "url": "https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE"
         }
       ],
-      "duration_ms": 185780,
-      "name": "Source of Wind",
-      "url": "https://open.spotify.com/track/0T07s204fGJju5AXG66q9T"
+      "duration_ms": 194500,
+      "name": "Yana",
+      "url": "https://open.spotify.com/track/6pv7Z1c7FQcLSxUIGgQrg3"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -427,34 +379,50 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Silk Under Rain",
-        "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
+        "name": "Amulet",
+        "url": "https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl"
       },
       "artists": [
         {
-          "name": "Mari Cafferty",
-          "url": "https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU"
+          "name": "Kazuhiro Hotaru",
+          "url": "https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Lively Bluebottle",
-      "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
+      "duration_ms": 185780,
+      "name": "Source of Wind",
+      "url": "https://open.spotify.com/track/0T07s204fGJju5AXG66q9T"
     },
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Yana",
-        "url": "https://open.spotify.com/album/2ieSB12RwegevPF1BAqjnx"
+        "name": "Kissing the Ambience",
+        "url": "https://open.spotify.com/album/5POHqBiKAdGSvvLtIE8AZP"
       },
       "artists": [
         {
-          "name": "LOVIS",
-          "url": "https://open.spotify.com/artist/5BH5JQNu5i1vwN5bX4iDGE"
+          "name": "Mind Explorer",
+          "url": "https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8"
         }
       ],
-      "duration_ms": 194500,
-      "name": "Yana",
-      "url": "https://open.spotify.com/track/6pv7Z1c7FQcLSxUIGgQrg3"
+      "duration_ms": 186276,
+      "name": "Kissing the Ambience",
+      "url": "https://open.spotify.com/track/3ge3sVwiK7csDa3QKb9Xqm"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Eternalis",
+        "url": "https://open.spotify.com/album/3qZMZFTUJyvi0fOJuo31sx"
+      },
+      "artists": [
+        {
+          "name": "Arctic Pulse",
+          "url": "https://open.spotify.com/artist/3KFpB0Bu4nUJ4zkJ1JoPVi"
+        }
+      ],
+      "duration_ms": 192038,
+      "name": "Arriving",
+      "url": "https://open.spotify.com/track/730JGpAFz7uj2i53ySidzR"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -491,18 +459,34 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Dreaming Away",
-        "url": "https://open.spotify.com/album/1JpH3mFTaO2658hvhdTRXS"
+        "name": "Phaedra",
+        "url": "https://open.spotify.com/album/2N8X9XdiZrkxLRX7snQcpp"
       },
       "artists": [
         {
-          "name": "Greyling",
-          "url": "https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz"
+          "name": "Arlette Leduc",
+          "url": "https://open.spotify.com/artist/3LyPSzNbQ3R4cgHZDUP06T"
         }
       ],
-      "duration_ms": 117600,
-      "name": "Dreaming Away",
-      "url": "https://open.spotify.com/track/0ZEUMCMGtMqSHXRHQ2nnsR"
+      "duration_ms": 196000,
+      "name": "Phaedra",
+      "url": "https://open.spotify.com/track/6GEYh8JguL5MIh5Uz5h0zL"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Silk Under Rain",
+        "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
+      },
+      "artists": [
+        {
+          "name": "Mari Cafferty",
+          "url": "https://open.spotify.com/artist/66CQACp5epB3rPvytNEoVU"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lively Bluebottle",
+      "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -523,18 +507,18 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Heinamaa",
-        "url": "https://open.spotify.com/album/3tTOPXQxFjqPabpMgjl86q"
+        "name": "Dreaming Away",
+        "url": "https://open.spotify.com/album/1JpH3mFTaO2658hvhdTRXS"
       },
       "artists": [
         {
-          "name": "Eyla Calmes",
-          "url": "https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X"
+          "name": "Greyling",
+          "url": "https://open.spotify.com/artist/48urdq4J33JKnATnJNT1Xz"
         }
       ],
-      "duration_ms": 152200,
-      "name": "Heinamaa",
-      "url": "https://open.spotify.com/track/7lpaVjDPjT72Afi7LqXBIx"
+      "duration_ms": 117600,
+      "name": "Dreaming Away",
+      "url": "https://open.spotify.com/track/0ZEUMCMGtMqSHXRHQ2nnsR"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -555,6 +539,22 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
+        "name": "Heinamaa",
+        "url": "https://open.spotify.com/album/3tTOPXQxFjqPabpMgjl86q"
+      },
+      "artists": [
+        {
+          "name": "Eyla Calmes",
+          "url": "https://open.spotify.com/artist/3CAe04TEaKSxEMemLZqw3X"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Heinamaa",
+      "url": "https://open.spotify.com/track/7lpaVjDPjT72Afi7LqXBIx"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
         "name": "Distant Memories Of You",
         "url": "https://open.spotify.com/album/49AtpvtKhANqidVRLFIgTK"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 144000,
       "name": "Silent Whispers",
       "url": "https://open.spotify.com/track/4zXfPzjyYjS59WBpaBJSbs"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP"
+      },
+      "artists": [
+        {
+          "name": "The Destination",
+          "url": "https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w"
+        }
+      ],
+      "duration_ms": 185769,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -599,22 +615,6 @@
       "duration_ms": 206000,
       "name": "Binaural Emotions",
       "url": "https://open.spotify.com/track/03BMugsFnLx9uV5BKZA1WP"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/4Sgl6em7yRdXxbnn3AVhOP"
-      },
-      "artists": [
-        {
-          "name": "The Destination",
-          "url": "https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w"
-        }
-      ],
-      "duration_ms": 185769,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Profound",
-        "url": "https://open.spotify.com/album/3Ff5RYjDp8Z87NtfxW3ght"
+        "name": "Hollow Shells",
+        "url": "https://open.spotify.com/album/2vyTb5WXM7Yv7UiggjtxgR"
       },
       "artists": [
         {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+          "name": "Ocean Island",
+          "url": "https://open.spotify.com/artist/0f9HBAQocERwVLxEshZ1dO"
         }
       ],
-      "duration_ms": 193411,
-      "name": "Profound",
-      "url": "https://open.spotify.com/track/7bFOBsfgorHeX0rGBSwP84"
+      "duration_ms": 255000,
+      "name": "Hollow Shells",
+      "url": "https://open.spotify.com/track/1EgWZkH5xIMi6YOjRUHO08"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -715,34 +715,18 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Caring",
-        "url": "https://open.spotify.com/album/2lfMq9oDRUDgd8BE5VoiNk"
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/721QaQS4R4vBzRX2gEAMyd"
       },
       "artists": [
         {
-          "name": "Bonnie Mathis",
-          "url": "https://open.spotify.com/artist/1lyM0WTssQ6UictS7BOoOr"
+          "name": "Solene Edgar",
+          "url": "https://open.spotify.com/artist/0fgYGY8NcvoPXNv21CLlul"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Caring",
-      "url": "https://open.spotify.com/track/1MaL94GiYXnWEExO4tPo3w"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Hollow Shells",
-        "url": "https://open.spotify.com/album/2vyTb5WXM7Yv7UiggjtxgR"
-      },
-      "artists": [
-        {
-          "name": "Ocean Island",
-          "url": "https://open.spotify.com/artist/0f9HBAQocERwVLxEshZ1dO"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Hollow Shells",
-      "url": "https://open.spotify.com/track/1EgWZkH5xIMi6YOjRUHO08"
+      "duration_ms": 173500,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -779,18 +763,18 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Martins Ferry",
-        "url": "https://open.spotify.com/album/4woPQADbvUu5TZH67X7PRj"
+        "name": "Profound",
+        "url": "https://open.spotify.com/album/3Ff5RYjDp8Z87NtfxW3ght"
       },
       "artists": [
         {
-          "name": "Henry Woods",
-          "url": "https://open.spotify.com/artist/0btvZJesR8KpaOFkkfqvxz"
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Martins Ferry",
-      "url": "https://open.spotify.com/track/21CILaPoqh4xyFRgQpqWxu"
+      "duration_ms": 193411,
+      "name": "Profound",
+      "url": "https://open.spotify.com/track/7bFOBsfgorHeX0rGBSwP84"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -807,6 +791,22 @@
       "duration_ms": 173750,
       "name": "Miho no Matsubara",
       "url": "https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Caring",
+        "url": "https://open.spotify.com/album/2lfMq9oDRUDgd8BE5VoiNk"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Mathis",
+          "url": "https://open.spotify.com/artist/1lyM0WTssQ6UictS7BOoOr"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Caring",
+      "url": "https://open.spotify.com/track/1MaL94GiYXnWEExO4tPo3w"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -843,18 +843,34 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Journey Within (432hz",
-        "url": "https://open.spotify.com/album/3lsDUHFJ3EYkVmj2v3e8j4"
+        "name": "Martins Ferry",
+        "url": "https://open.spotify.com/album/4woPQADbvUu5TZH67X7PRj"
       },
       "artists": [
         {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+          "name": "Henry Woods",
+          "url": "https://open.spotify.com/artist/0btvZJesR8KpaOFkkfqvxz"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Journey Within (432hz) - Without Ambience",
-      "url": "https://open.spotify.com/track/4Y3z3qQRb6cwQouwqD8UoM"
+      "duration_ms": 196000,
+      "name": "Martins Ferry",
+      "url": "https://open.spotify.com/track/21CILaPoqh4xyFRgQpqWxu"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/2S1iykMBAeHcNcazqzDmRo"
+      },
+      "artists": [
+        {
+          "name": "David Payne",
+          "url": "https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0"
+        }
+      ],
+      "duration_ms": 126013,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/2prKpK6HwKDDJJ1g892W1f"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -891,34 +907,18 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/721QaQS4R4vBzRX2gEAMyd"
+        "name": "Shapeless",
+        "url": "https://open.spotify.com/album/4rXz811jiNhlyTQKJRi5kE"
       },
       "artists": [
         {
-          "name": "Solene Edgar",
-          "url": "https://open.spotify.com/artist/0fgYGY8NcvoPXNv21CLlul"
+          "name": "Delawares",
+          "url": "https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1"
         }
       ],
-      "duration_ms": 173500,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/2S1iykMBAeHcNcazqzDmRo"
-      },
-      "artists": [
-        {
-          "name": "David Payne",
-          "url": "https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0"
-        }
-      ],
-      "duration_ms": 126013,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/2prKpK6HwKDDJJ1g892W1f"
+      "duration_ms": 163005,
+      "name": "Shapeless",
+      "url": "https://open.spotify.com/track/4vJz9yMS7APKcXLtTVEJDE"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -935,6 +935,22 @@
       "duration_ms": 252000,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/09m5o0FIa430LyBfvraj6h"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd"
+      },
+      "artists": [
+        {
+          "name": "JOMALU",
+          "url": "https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Silent Motion",
+      "url": "https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -971,50 +987,34 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Shapeless",
-        "url": "https://open.spotify.com/album/4rXz811jiNhlyTQKJRi5kE"
+        "name": "Descanso",
+        "url": "https://open.spotify.com/album/1u7CqT3V9mFsVkujPEOpJy"
       },
       "artists": [
         {
-          "name": "Delawares",
-          "url": "https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1"
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
         }
       ],
-      "duration_ms": 163005,
-      "name": "Shapeless",
-      "url": "https://open.spotify.com/track/4vJz9yMS7APKcXLtTVEJDE"
+      "duration_ms": 227315,
+      "name": "Descanso",
+      "url": "https://open.spotify.com/track/7l5zGxgpsEbhKtL8t13LAM"
     },
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Through it All",
-        "url": "https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt"
+        "name": "Journey Within (432hz",
+        "url": "https://open.spotify.com/album/3lsDUHFJ3EYkVmj2v3e8j4"
       },
       "artists": [
         {
-          "name": "Iselinn",
-          "url": "https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV"
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
         }
       ],
-      "duration_ms": 186559,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Brise Apaisante",
-        "url": "https://open.spotify.com/album/1rkE0SC2fJkBwNzEbPLPUp"
-      },
-      "artists": [
-        {
-          "name": "Cornlie Sourd",
-          "url": "https://open.spotify.com/artist/2OqQqarMSRGZCavcgkQVrY"
-        }
-      ],
-      "duration_ms": 201219,
-      "name": "Brise Apaisante",
-      "url": "https://open.spotify.com/track/3rgjUiX4rTOeAR2yNyIUjo"
+      "duration_ms": 240000,
+      "name": "Journey Within (432hz) - Without Ambience",
+      "url": "https://open.spotify.com/track/4Y3z3qQRb6cwQouwqD8UoM"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -1035,18 +1035,34 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Bertrand of the Ringing",
-        "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
+        "name": "Brise Apaisante",
+        "url": "https://open.spotify.com/album/1rkE0SC2fJkBwNzEbPLPUp"
       },
       "artists": [
         {
-          "name": "Star Patterns",
-          "url": "https://open.spotify.com/artist/5D9j0TXcqap4voqjCRUv7d"
+          "name": "Cornlie Sourd",
+          "url": "https://open.spotify.com/artist/2OqQqarMSRGZCavcgkQVrY"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Ceremonial Stone",
-      "url": "https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji"
+      "duration_ms": 201219,
+      "name": "Brise Apaisante",
+      "url": "https://open.spotify.com/track/3rgjUiX4rTOeAR2yNyIUjo"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Through it All",
+        "url": "https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt"
+      },
+      "artists": [
+        {
+          "name": "Iselinn",
+          "url": "https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV"
+        }
+      ],
+      "duration_ms": 186559,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -1083,18 +1099,34 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd"
+        "name": "Slumber",
+        "url": "https://open.spotify.com/album/7uuEvVQ919w5vDNPCIiPfz"
       },
       "artists": [
         {
-          "name": "JOMALU",
-          "url": "https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC"
+          "name": "Pierre Delongpre",
+          "url": "https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Silent Motion",
-      "url": "https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF"
+      "duration_ms": 188108,
+      "name": "Slumber",
+      "url": "https://open.spotify.com/track/2kLz6daV1GOseCfsNcpRWV"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Into Your Hands",
+        "url": "https://open.spotify.com/album/7E9kkPd8SwH4aLlcsWLgHN"
+      },
+      "artists": [
+        {
+          "name": "We Dream of Eden",
+          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Over Oceans",
+      "url": "https://open.spotify.com/track/70sv8NcAIJoPsBStnKe61w"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -1115,18 +1147,34 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Descanso",
-        "url": "https://open.spotify.com/album/1u7CqT3V9mFsVkujPEOpJy"
+        "name": "Vincible",
+        "url": "https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD"
       },
       "artists": [
         {
-          "name": "Josep Alba",
-          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+          "name": "Tech Guru",
+          "url": "https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q"
         }
       ],
-      "duration_ms": 227315,
-      "name": "Descanso",
-      "url": "https://open.spotify.com/track/7l5zGxgpsEbhKtL8t13LAM"
+      "duration_ms": 212000,
+      "name": "Vincible",
+      "url": "https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Bertrand of the Ringing",
+        "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
+      },
+      "artists": [
+        {
+          "name": "Star Patterns",
+          "url": "https://open.spotify.com/artist/5D9j0TXcqap4voqjCRUv7d"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Ceremonial Stone",
+      "url": "https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -1163,22 +1211,6 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Into Your Hands",
-        "url": "https://open.spotify.com/album/7E9kkPd8SwH4aLlcsWLgHN"
-      },
-      "artists": [
-        {
-          "name": "We Dream of Eden",
-          "url": "https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Over Oceans",
-      "url": "https://open.spotify.com/track/70sv8NcAIJoPsBStnKe61w"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
         "name": "Majestic",
         "url": "https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG"
       },
@@ -1191,102 +1223,6 @@
       "duration_ms": 231000,
       "name": "Majestic",
       "url": "https://open.spotify.com/track/12ooNhX345euVylX3PLe8f"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Slumber",
-        "url": "https://open.spotify.com/album/7uuEvVQ919w5vDNPCIiPfz"
-      },
-      "artists": [
-        {
-          "name": "Pierre Delongpre",
-          "url": "https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9"
-        }
-      ],
-      "duration_ms": 188108,
-      "name": "Slumber",
-      "url": "https://open.spotify.com/track/2kLz6daV1GOseCfsNcpRWV"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Vincible",
-        "url": "https://open.spotify.com/album/2gElzA8obHtMwl3FlYLBQD"
-      },
-      "artists": [
-        {
-          "name": "Tech Guru",
-          "url": "https://open.spotify.com/artist/6HWoxr5odNX04juRVTyw1q"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Vincible",
-      "url": "https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Oblac\u030cno",
-        "url": "https://open.spotify.com/album/5TvXotn7BPEyVbHcT4n5uT"
-      },
-      "artists": [
-        {
-          "name": "Lois Haas",
-          "url": "https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Oblac\u030cno",
-      "url": "https://open.spotify.com/track/4njX5u1fq7kcrpki88zDMq"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Alie",
-        "url": "https://open.spotify.com/album/5Nv5TTeUU0SDZu3rn1nhwY"
-      },
-      "artists": [
-        {
-          "name": "Haruhisa Tanaka",
-          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
-        }
-      ],
-      "duration_ms": 195640,
-      "name": "Alie 5.2",
-      "url": "https://open.spotify.com/track/0fpGpTKzSEJZUGngNo4XpF"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Close To Sleep",
-        "url": "https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK"
-      },
-      "artists": [
-        {
-          "name": "Still Dreams",
-          "url": "https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR"
-        }
-      ],
-      "duration_ms": 201750,
-      "name": "Drifting Away",
-      "url": "https://open.spotify.com/track/1vt8Zy7zSCCDYwF2s622Tv"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Journey Within (432hz",
-        "url": "https://open.spotify.com/album/3lsDUHFJ3EYkVmj2v3e8j4"
-      },
-      "artists": [
-        {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Journey Within (432hz)",
-      "url": "https://open.spotify.com/track/7KdB7kgzKuPpgEKVagZcwE"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -1307,130 +1243,34 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Maja's Miracle",
-        "url": "https://open.spotify.com/album/2rwHW5rHNhGIEPokFQCrHk"
+        "name": "Oblac\u030cno",
+        "url": "https://open.spotify.com/album/5TvXotn7BPEyVbHcT4n5uT"
       },
       "artists": [
         {
-          "name": "Claira Mikkelsen",
-          "url": "https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE"
+          "name": "Lois Haas",
+          "url": "https://open.spotify.com/artist/5PsdrzXdwCvCN2Hz6uc5K5"
         }
       ],
-      "duration_ms": 123437,
-      "name": "Maja's Miracle",
-      "url": "https://open.spotify.com/track/357UXnSLfG3RTRrRMc7YiU"
+      "duration_ms": 226000,
+      "name": "Oblac\u030cno",
+      "url": "https://open.spotify.com/track/4njX5u1fq7kcrpki88zDMq"
     },
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "New Wings",
-        "url": "https://open.spotify.com/album/0tcXLgBa6sgwaOk9SHnHQl"
+        "name": "Close To Sleep",
+        "url": "https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK"
       },
       "artists": [
         {
-          "name": "Isac Hadland",
-          "url": "https://open.spotify.com/artist/0B9vzGBy9HZjDXCyD8Vd3n"
+          "name": "Still Dreams",
+          "url": "https://open.spotify.com/artist/0a1kKmsMURyIFWhuCgOsqR"
         }
       ],
-      "duration_ms": 209000,
-      "name": "New Wings",
-      "url": "https://open.spotify.com/track/2rawFRlajMpLMK1kD6Uvu0"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Everything is Different",
-        "url": "https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX"
-      },
-      "artists": [
-        {
-          "name": "Nadia Pugh",
-          "url": "https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Everything is Different",
-      "url": "https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/2DeTdg5j8vYfMQuAoE98Lu"
-      },
-      "artists": [
-        {
-          "name": "Jaime Jacobs",
-          "url": "https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Continuum",
-      "url": "https://open.spotify.com/track/47SCFkfGQMmdewkOywWxqC"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Partly Cloudy",
-        "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
-      },
-      "artists": [
-        {
-          "name": "Gazebo Clouds",
-          "url": "https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "Stars Above",
-      "url": "https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Prana",
-        "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
-      },
-      "artists": [
-        {
-          "name": "Najia",
-          "url": "https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1"
-        }
-      ],
-      "duration_ms": 157724,
-      "name": "Ocean Breath",
-      "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Resonatic",
-        "url": "https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy"
-      },
-      "artists": [
-        {
-          "name": "Inverse Gradient",
-          "url": "https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl"
-        }
-      ],
-      "duration_ms": 160695,
-      "name": "Resonatic",
-      "url": "https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Repouso",
-        "url": "https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c"
-      },
-      "artists": [
-        {
-          "name": "Polysomni",
-          "url": "https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "Repouso",
-      "url": "https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2"
+      "duration_ms": 201750,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/1vt8Zy7zSCCDYwF2s622Tv"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -1451,50 +1291,34 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Brillo En El Mar",
-        "url": "https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP"
+        "name": "Alie",
+        "url": "https://open.spotify.com/album/5Nv5TTeUU0SDZu3rn1nhwY"
       },
       "artists": [
         {
-          "name": "Amaia Besc\u00f3s",
-          "url": "https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx"
+          "name": "Haruhisa Tanaka",
+          "url": "https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw"
         }
       ],
-      "duration_ms": 174698,
-      "name": "Brillo En El Mar",
-      "url": "https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ"
+      "duration_ms": 195640,
+      "name": "Alie 5.2",
+      "url": "https://open.spotify.com/track/0fpGpTKzSEJZUGngNo4XpF"
     },
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Determination",
-        "url": "https://open.spotify.com/album/1cB2QlGYVGTHeqNuibnlHt"
+        "name": "Maja's Miracle",
+        "url": "https://open.spotify.com/album/2rwHW5rHNhGIEPokFQCrHk"
       },
       "artists": [
         {
-          "name": "JNUARY",
-          "url": "https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak"
+          "name": "Claira Mikkelsen",
+          "url": "https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE"
         }
       ],
-      "duration_ms": 112000,
-      "name": "Determination",
-      "url": "https://open.spotify.com/track/20pBeapTd5bksxa4QZqvcR"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33"
-      },
-      "artists": [
-        {
-          "name": "Nairuz",
-          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
-        }
-      ],
-      "duration_ms": 219642,
-      "name": "Echoes - Stripped",
-      "url": "https://open.spotify.com/track/0NaLeSHFWST2SVryqm1Gqn"
+      "duration_ms": 123437,
+      "name": "Maja's Miracle",
+      "url": "https://open.spotify.com/track/357UXnSLfG3RTRrRMc7YiU"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -1515,18 +1339,82 @@
     {
       "added_at": "2022-01-12 17:06:11",
       "album": {
-        "name": "Austafjord / Lake Huron",
-        "url": "https://open.spotify.com/album/3tM3nkQu2Wb5qlNg5ZB1Fa"
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/2DeTdg5j8vYfMQuAoE98Lu"
       },
       "artists": [
         {
-          "name": "DEX 1200",
-          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+          "name": "Jaime Jacobs",
+          "url": "https://open.spotify.com/artist/0V7UyntvztxPiZ1GrxMsUx"
         }
       ],
-      "duration_ms": 195312,
-      "name": "Lake Huron",
-      "url": "https://open.spotify.com/track/2ozO03f0aVld5piFvRTN9i"
+      "duration_ms": 165000,
+      "name": "Continuum",
+      "url": "https://open.spotify.com/track/47SCFkfGQMmdewkOywWxqC"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Resonatic",
+        "url": "https://open.spotify.com/album/5pzHBFtPkW4tutzOLn5mGy"
+      },
+      "artists": [
+        {
+          "name": "Inverse Gradient",
+          "url": "https://open.spotify.com/artist/3DMGcwt4nmTJ3vmCgyvtFl"
+        }
+      ],
+      "duration_ms": 160695,
+      "name": "Resonatic",
+      "url": "https://open.spotify.com/track/4dBLdbunzf7DmpKpH4Yokj"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Everything is Different",
+        "url": "https://open.spotify.com/album/4mPGHru1buIU18RXBhJbzX"
+      },
+      "artists": [
+        {
+          "name": "Nadia Pugh",
+          "url": "https://open.spotify.com/artist/6FPNWbIpDzyIeOMFdAQXL6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Everything is Different",
+      "url": "https://open.spotify.com/track/2ELGnSdAgGJ39GcymZPUdO"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33"
+      },
+      "artists": [
+        {
+          "name": "Nairuz",
+          "url": "https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y"
+        }
+      ],
+      "duration_ms": 219642,
+      "name": "Echoes - Stripped",
+      "url": "https://open.spotify.com/track/0NaLeSHFWST2SVryqm1Gqn"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Repouso",
+        "url": "https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c"
+      },
+      "artists": [
+        {
+          "name": "Polysomni",
+          "url": "https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "Repouso",
+      "url": "https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -1543,6 +1431,134 @@
       "duration_ms": 212000,
       "name": "Noraezean",
       "url": "https://open.spotify.com/track/2vQ4scL1dp9w3jKBv99GVm"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Journey Within (432hz",
+        "url": "https://open.spotify.com/album/3lsDUHFJ3EYkVmj2v3e8j4"
+      },
+      "artists": [
+        {
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Journey Within (432hz)",
+      "url": "https://open.spotify.com/track/7KdB7kgzKuPpgEKVagZcwE"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Prana",
+        "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
+      },
+      "artists": [
+        {
+          "name": "Najia",
+          "url": "https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1"
+        }
+      ],
+      "duration_ms": 157724,
+      "name": "Ocean Breath",
+      "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Austafjord / Lake Huron",
+        "url": "https://open.spotify.com/album/3tM3nkQu2Wb5qlNg5ZB1Fa"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "duration_ms": 195312,
+      "name": "Lake Huron",
+      "url": "https://open.spotify.com/track/2ozO03f0aVld5piFvRTN9i"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Partly Cloudy",
+        "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
+      },
+      "artists": [
+        {
+          "name": "Gazebo Clouds",
+          "url": "https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "Stars Above",
+      "url": "https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Determination",
+        "url": "https://open.spotify.com/album/1cB2QlGYVGTHeqNuibnlHt"
+      },
+      "artists": [
+        {
+          "name": "JNUARY",
+          "url": "https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Determination",
+      "url": "https://open.spotify.com/track/20pBeapTd5bksxa4QZqvcR"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Brillo En El Mar",
+        "url": "https://open.spotify.com/album/4CIb579jqNPow80P5S2AGP"
+      },
+      "artists": [
+        {
+          "name": "Amaia Besc\u00f3s",
+          "url": "https://open.spotify.com/artist/0h9O8A9Z4u2sSj79DxyjKx"
+        }
+      ],
+      "duration_ms": 174698,
+      "name": "Brillo En El Mar",
+      "url": "https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "New Wings",
+        "url": "https://open.spotify.com/album/0tcXLgBa6sgwaOk9SHnHQl"
+      },
+      "artists": [
+        {
+          "name": "Isac Hadland",
+          "url": "https://open.spotify.com/artist/0B9vzGBy9HZjDXCyD8Vd3n"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "New Wings",
+      "url": "https://open.spotify.com/track/2rawFRlajMpLMK1kD6Uvu0"
+    },
+    {
+      "added_at": "2022-01-12 17:06:11",
+      "album": {
+        "name": "Remembering",
+        "url": "https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT"
+      },
+      "artists": [
+        {
+          "name": "Koby Laver",
+          "url": "https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr"
     },
     {
       "added_at": "2022-01-12 17:06:11",
@@ -1575,22 +1591,6 @@
       "duration_ms": 194655,
       "name": "You've Sent Me Peace",
       "url": "https://open.spotify.com/track/7hcd0ME4AKAS230Yv1Xa1X"
-    },
-    {
-      "added_at": "2022-01-12 17:06:11",
-      "album": {
-        "name": "The Power of Now (Alpha Binaural Beats)",
-        "url": "https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk"
-      },
-      "artists": [
-        {
-          "name": "Leerseite",
-          "url": "https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Overcome (Alpha Waves)",
-      "url": "https://open.spotify.com/track/66tcVcibuPYWs182LeINwu"
     },
     {
       "added_at": "2022-01-12 17:06:11",

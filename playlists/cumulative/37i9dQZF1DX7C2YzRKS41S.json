@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 232000,
       "name": "Alma \u00c1gua",
       "url": "https://open.spotify.com/track/1Zq9WeWtDFFlvZk4oDDeTK"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 159720,
       "name": "amores de ver\u00e3o",
       "url": "https://open.spotify.com/track/2DQmQrqo19ZG0fRdOqI9Hr"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 194066,
       "name": "Brigadeiro",
       "url": "https://open.spotify.com/track/7gyyV6gDCX2ORt8jCcTlvi"
@@ -696,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Chega Perto N\u00e3o",
+        "url": "https://open.spotify.com/album/5xzHKXLiEDK1dSAbfzY5o7"
+      },
+      "artists": [
+        {
+          "name": "VENVS",
+          "url": "https://open.spotify.com/artist/2ocUyV60vAnpvfuqszD3XG"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159754,
+      "name": "Chega Perto N\u00e3o",
+      "url": "https://open.spotify.com/track/6VzZTOA70oSUQaebn68Fus"
+    },
+    {
+      "album": {
         "name": "Cheiro de Filho",
         "url": "https://open.spotify.com/album/6Dd5l22ypthxlfnivU7lHj"
       },
@@ -729,7 +747,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 182647,
       "name": "Cidade Cinza",
       "url": "https://open.spotify.com/track/7zuVJ5AeM9EtjFVzCmwEh8"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 149250,
       "name": "Colo",
       "url": "https://open.spotify.com/track/71pbjjT9sbi25URXzV6YiV"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 234099,
       "name": "Entre",
       "url": "https://open.spotify.com/track/1OtVYzbyHjpPcVW5v20xTF"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 199552,
       "name": "Era amor",
       "url": "https://open.spotify.com/track/5Gy1BzwlIVSjRIsAUkALZn"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 177665,
       "name": "Eu Sou Sentimental",
       "url": "https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 140493,
       "name": "Eu Te Amo Demais",
       "url": "https://open.spotify.com/track/3irykMj55KGyq0Y0ESPsnz"
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 217243,
       "name": "Mais uma Vez",
       "url": "https://open.spotify.com/track/0VCfqWbvivWE0fnBY6joCF"
@@ -1633,7 +1651,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 202520,
       "name": "Medo de Amar",
       "url": "https://open.spotify.com/track/3cPclQoSPNYPijnxuMd52l"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 167900,
       "name": "Nossa Bagun\u00e7a",
       "url": "https://open.spotify.com/track/1xdNhvGDPAv7IzUweczZ9y"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 189565,
       "name": "Nossa Dan\u00e7a",
       "url": "https://open.spotify.com/track/6OpsskOwFTW8S2j0di6bRX"
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 204988,
       "name": "Nunca Fui Desse Lugar (feat. Lagum)",
       "url": "https://open.spotify.com/track/7mp85jFaa7DBmRcyUZ4YPc"
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 184752,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/0Y4XHz6eHG8uYf1xgZvfxN"
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 145131,
       "name": "O Que Eu Devia Ter Vivido",
       "url": "https://open.spotify.com/track/5GDuBHmH6qmLgcjRqMMoWE"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 243223,
       "name": "Old Ghosts, New Skin",
       "url": "https://open.spotify.com/track/3c0OLEDXoUsv2dZdfJ7K2X"
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 151428,
       "name": "Poeta Eu, Poema Ela",
       "url": "https://open.spotify.com/track/6p9C1JwOdFsdb1sAv76wQ5"
@@ -2389,7 +2407,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 201583,
       "name": "Qualquer Lugar",
       "url": "https://open.spotify.com/track/0chOJa6EheSEbjy3miQn2A"
@@ -2461,7 +2479,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 154280,
       "name": "Quanto Tempo",
       "url": "https://open.spotify.com/track/4f2MvdVt8mhv91klmGlXFQ"
@@ -2587,7 +2605,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 192698,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/7FEbkkKqbYhzRwi4OeaQcH"
@@ -2683,7 +2701,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 204470,
       "name": "Sem Sa\u00edda",
       "url": "https://open.spotify.com/track/0W554ieU8DDLRlO2nO3brz"
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 178092,
       "name": "Simples Assim",
       "url": "https://open.spotify.com/track/4MCbvDv7oVtzPPlI5VSLSy"
@@ -2813,6 +2831,28 @@
       "duration_ms": 256440,
       "name": "Space & Time",
       "url": "https://open.spotify.com/track/0UF2tfwzIgYT1nw8EEoPkd"
+    },
+    {
+      "album": {
+        "name": "S\u00f3",
+        "url": "https://open.spotify.com/album/703I4PI5I6thxB7Td6Wbg9"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Coelho",
+          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
+        },
+        {
+          "name": "Erick Roza",
+          "url": "https://open.spotify.com/artist/47JFoPclff1d4gHsR7lQG3"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200682,
+      "name": "S\u00f3",
+      "url": "https://open.spotify.com/track/2V73RYtUrq30bnlJbN9NA8"
     },
     {
       "album": {
@@ -2979,7 +3019,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 180319,
       "name": "Trem-Bala",
       "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
@@ -3019,7 +3059,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 181966,
       "name": "Um Pouco Mais",
       "url": "https://open.spotify.com/track/0E1ZqVJQeRembqvvniCS7E"
@@ -3073,7 +3113,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 233919,
       "name": "Vapor",
       "url": "https://open.spotify.com/track/0kteOf15gjOAWtyOwLFBL8"
@@ -3203,7 +3243,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 227039,
       "name": "Zo",
       "url": "https://open.spotify.com/track/79vygpoQcNQCp0NjZ4IPzl"
@@ -3239,7 +3279,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 217783,
       "name": "\u00c9ramos N\u00f3s",
       "url": "https://open.spotify.com/track/73YSZS3cTpaa3PwD01vmdA"

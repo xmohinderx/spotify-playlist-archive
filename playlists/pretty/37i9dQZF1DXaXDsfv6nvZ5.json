@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
   "name": "Soul Coffee",
-  "num_followers": 679199,
+  "num_followers": 679221,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ1ODMxMSwwMDAwMDAwMGNkMjZlYWJiZDg1N2I2YjJiYjViNzE4NDY5ZmQ3ZTlk",
+  "snapshot_id": "MTY0MjQ2NjkxNywwMDAwMDAwMGFlNDI2ZTE3ZDRlN2E3NDRhOTZkMmJkM2RjZWRjNjVl",
   "tracks": [
     {
       "added_at": "2021-12-03 20:18:46",
@@ -43,6 +43,34 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
+        "name": "Bring it on Home to Me (feat. Charlie Bereal)",
+        "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
+      },
+      "artists": [
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Charlie Bereal",
+          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Bring it on Home to Me (feat. Charlie Bereal)",
+      "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
         "name": "See Me",
         "url": "https://open.spotify.com/album/1fQgwNgiENNE3XDpTjDFXd"
       },
@@ -55,26 +83,6 @@
       "duration_ms": 210373,
       "name": "See Me",
       "url": "https://open.spotify.com/track/0vtDLpnv8weWM33Wn29rXo"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
-        "name": "The Piano Album",
-        "url": "https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 244620,
-      "name": "How Deep Is Your Love - Acoustic Version",
-      "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
     },
     {
       "added_at": "2021-12-03 20:18:46",
@@ -111,18 +119,22 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "Never My Love: The Anthology",
-        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
+        "name": "The Piano Album",
+        "url": "https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW"
       },
       "artists": [
         {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 204055,
-      "name": "Love, Love, Love",
-      "url": "https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub"
+      "duration_ms": 244620,
+      "name": "How Deep Is Your Love - Acoustic Version",
+      "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
     },
     {
       "added_at": "2021-12-03 20:18:46",
@@ -147,30 +159,18 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "Bring it on Home to Me (feat. Charlie Bereal)",
-        "url": "https://open.spotify.com/album/54tJsoenzgUlUokisFrWVA"
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ"
       },
       "artists": [
         {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        },
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "Charlie Bereal",
-          "url": "https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Bring it on Home to Me (feat. Charlie Bereal)",
-      "url": "https://open.spotify.com/track/578ziqCj8ieyz7NLrZ31km"
+      "duration_ms": 180523,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
     },
     {
       "added_at": "2021-12-03 20:18:46",
@@ -191,18 +191,34 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "Grow",
-        "url": "https://open.spotify.com/album/3wzVULwHGvLkwiDdTMGQMZ"
+        "name": "Never My Love: The Anthology",
+        "url": "https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO"
       },
       "artists": [
         {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 180523,
-      "name": "Grow",
-      "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
+      "duration_ms": 204055,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
+        "name": "Same Girl",
+        "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
+      },
+      "artists": [
+        {
+          "name": "Tess Henley",
+          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
+        }
+      ],
+      "duration_ms": 182751,
+      "name": "Same Girl",
+      "url": "https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn"
     },
     {
       "added_at": "2021-12-03 20:18:46",
@@ -251,22 +267,6 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "Same Girl",
-        "url": "https://open.spotify.com/album/10OwB6QTpEQdFOQZyFeLvr"
-      },
-      "artists": [
-        {
-          "name": "Tess Henley",
-          "url": "https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv"
-        }
-      ],
-      "duration_ms": 182751,
-      "name": "Same Girl",
-      "url": "https://open.spotify.com/track/7oKmQiRPMWLrhp1vhlmTRn"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
         "name": "Can We Be Friends?",
         "url": "https://open.spotify.com/album/5HqBHeAw3CNbWqu4U3aw6o"
       },
@@ -299,22 +299,22 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "Ledisi Sings Nina",
-        "url": "https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc"
+        "name": "Take Me Away (feat. EARTHGANG)",
+        "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
         },
         {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 219436,
-      "name": "My Baby Just Cares for Me",
-      "url": "https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA"
+      "duration_ms": 172493,
+      "name": "Take Me Away (feat. EARTHGANG)",
+      "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
     },
     {
       "added_at": "2021-12-03 20:18:46",
@@ -367,50 +367,6 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
-        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        }
-      ],
-      "duration_ms": 299366,
-      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
-      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
-        "name": "Take Me Away (feat. EARTHGANG)",
-        "url": "https://open.spotify.com/album/7uArP6gpDdQXQrkfdFOpvA"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Take Me Away (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/0jdit0IB5OJbDmPRqadZbs"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
         "name": "Love Is The New Black",
         "url": "https://open.spotify.com/album/1CHYpX14nBeQ17oNSF9n5h"
       },
@@ -431,34 +387,22 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "Anything For You",
-        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
+        "name": "Ledisi Sings Nina",
+        "url": "https://open.spotify.com/album/0uRNGjcdUeOG9aekGr1cvc"
       },
       "artists": [
         {
           "name": "Ledisi",
           "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 256542,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
+        },
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
         }
       ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+      "duration_ms": 219436,
+      "name": "My Baby Just Cares for Me",
+      "url": "https://open.spotify.com/track/63GvtdKbAbi2feQxp0DBpA"
     },
     {
       "added_at": "2021-12-03 20:18:46",
@@ -495,6 +439,46 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
+        "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+        "url": "https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 299366,
+      "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
+      "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/3rdIkWOlV1MfsZ5qmQ7Us5"
       },
@@ -507,6 +491,38 @@
       "duration_ms": 194072,
       "name": "Only You",
       "url": "https://open.spotify.com/track/4AvOXTQ2semU5FAmtl8vtk"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 256542,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
+        "name": "Wake Up Everybody (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
+        "url": "https://open.spotify.com/album/7tOdvzx7uCAsjdrKvkEZZL"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "Wake Up Everybody - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
+      "url": "https://open.spotify.com/track/0SXc07eEULCarnpq6pSrPD"
     },
     {
       "added_at": "2021-12-03 20:18:46",
@@ -547,102 +563,6 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "Footsteps in the Dark Pts. 1 & 2",
-        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 317992,
-      "name": "Footsteps in the Dark Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
-        "name": "Wake Up Everybody (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
-        "url": "https://open.spotify.com/album/7tOdvzx7uCAsjdrKvkEZZL"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Wake Up Everybody - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
-      "url": "https://open.spotify.com/track/0SXc07eEULCarnpq6pSrPD"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
-        "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-        "url": "https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 215852,
-      "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-      "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
-        "name": "DON'T PLAY WITH MY HEART",
-        "url": "https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I"
-      },
-      "artists": [
-        {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
-        }
-      ],
-      "duration_ms": 219351,
-      "name": "DON'T PLAY WITH MY HEART",
-      "url": "https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/1rPv254umKfCuZwyWUoFBl"
-      },
-      "artists": [
-        {
-          "name": "Bea Anderson",
-          "url": "https://open.spotify.com/artist/2FVCMrYrSKRNPXoWw2VozG"
-        }
-      ],
-      "duration_ms": 210546,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4k6eg0pf9IeopgOREVkj5T"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
         "name": "Louie Bag (feat. Smino)",
         "url": "https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ"
       },
@@ -663,18 +583,98 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "Addicted (Acoustic)",
-        "url": "https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh"
+        "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+        "url": "https://open.spotify.com/album/7rhO7zOEFdz8v5tdSC6JZA"
       },
       "artists": [
         {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
         }
       ],
-      "duration_ms": 185129,
-      "name": "Addicted (Acoustic)",
-      "url": "https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY"
+      "duration_ms": 215852,
+      "name": "All of Me (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+      "url": "https://open.spotify.com/track/4vYc0t7Ymz1LQoN7X3okfX"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
+        "name": "Footsteps in the Dark Pts. 1 & 2",
+        "url": "https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld"
+      },
+      "artists": [
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 317992,
+      "name": "Footsteps in the Dark Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
+        "name": "DON'T PLAY WITH MY HEART",
+        "url": "https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I"
+      },
+      "artists": [
+        {
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+        }
+      ],
+      "duration_ms": 219351,
+      "name": "DON'T PLAY WITH MY HEART",
+      "url": "https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/7iJOysKUXYwx78G17DT3sh"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 236640,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/03Qlgtvz9ux6lmzlv40BEZ"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
+        "name": "The Best Things",
+        "url": "https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t"
+      },
+      "artists": [
+        {
+          "name": "Kindred The Family Soul",
+          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
+        }
+      ],
+      "duration_ms": 196608,
+      "name": "The Best Things",
+      "url": "https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI"
     },
     {
       "added_at": "2021-12-03 20:18:46",
@@ -691,6 +691,38 @@
       "duration_ms": 238033,
       "name": "Like You'll Never See Me Again",
       "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
+        "name": "then, now & again",
+        "url": "https://open.spotify.com/album/5CitFeZFJGYkgdH8EhIHta"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "duration_ms": 252786,
+      "name": "Break Me",
+      "url": "https://open.spotify.com/track/03XDjkWj7ME04UpDyAjg8Q"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
+        "name": "Addicted (Acoustic)",
+        "url": "https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 185129,
+      "name": "Addicted (Acoustic)",
+      "url": "https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY"
     },
     {
       "added_at": "2021-12-03 20:18:46",
@@ -731,34 +763,50 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/7iJOysKUXYwx78G17DT3sh"
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Emanuel",
+          "url": "https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7"
         }
       ],
-      "duration_ms": 236640,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/03Qlgtvz9ux6lmzlv40BEZ"
+      "duration_ms": 255109,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS"
     },
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "The Best Things",
-        "url": "https://open.spotify.com/album/1RIxAcFlv6TwaBoCkq0Z0t"
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/7pkzpOwaF7sgUQqbeneNnJ"
       },
       "artists": [
         {
-          "name": "Kindred The Family Soul",
-          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
+          "name": "D.Folks",
+          "url": "https://open.spotify.com/artist/4tQP0JjpxmNplCt2HFzZmI"
         }
       ],
-      "duration_ms": 196608,
-      "name": "The Best Things",
-      "url": "https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI"
+      "duration_ms": 199789,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/0BvetzkxZsWj6hgSaHtTRd"
+    },
+    {
+      "added_at": "2021-12-03 20:18:46",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1rPv254umKfCuZwyWUoFBl"
+      },
+      "artists": [
+        {
+          "name": "Bea Anderson",
+          "url": "https://open.spotify.com/artist/2FVCMrYrSKRNPXoWw2VozG"
+        }
+      ],
+      "duration_ms": 210546,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4k6eg0pf9IeopgOREVkj5T"
     },
     {
       "added_at": "2021-12-03 20:18:46",
@@ -783,22 +831,6 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/6VIkLtDoLRSIJ9ytyAgphV"
-      },
-      "artists": [
-        {
-          "name": "Emanuel",
-          "url": "https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7"
-        }
-      ],
-      "duration_ms": 255109,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/34i3j7m0YtGOWPrpiTMzOS"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
         "name": "Don't You Forget",
         "url": "https://open.spotify.com/album/7pY34q52m9JmtddVGL8UZx"
       },
@@ -811,22 +843,6 @@
       "duration_ms": 318666,
       "name": "Don't You Forget",
       "url": "https://open.spotify.com/track/6QafQW90SRQSC3ZTFg4pGt"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/7pkzpOwaF7sgUQqbeneNnJ"
-      },
-      "artists": [
-        {
-          "name": "D.Folks",
-          "url": "https://open.spotify.com/artist/4tQP0JjpxmNplCt2HFzZmI"
-        }
-      ],
-      "duration_ms": 199789,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/0BvetzkxZsWj6hgSaHtTRd"
     },
     {
       "added_at": "2021-12-03 20:18:46",
@@ -847,38 +863,18 @@
     {
       "added_at": "2021-12-03 20:18:46",
       "album": {
-        "name": "then, now & again",
-        "url": "https://open.spotify.com/album/5CitFeZFJGYkgdH8EhIHta"
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
       },
       "artists": [
         {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
         }
       ],
-      "duration_ms": 252786,
-      "name": "Break Me",
-      "url": "https://open.spotify.com/track/03XDjkWj7ME04UpDyAjg8Q"
-    },
-    {
-      "added_at": "2021-12-03 20:18:46",
-      "album": {
-        "name": "Comin' Outta The Rain",
-        "url": "https://open.spotify.com/album/2mPK46ebGz3WqCx3YaNYcr"
-      },
-      "artists": [
-        {
-          "name": "Salaam Remi",
-          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
-        },
-        {
-          "name": "Bilal",
-          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
-        }
-      ],
-      "duration_ms": 189700,
-      "name": "Comin' Outta The Rain",
-      "url": "https://open.spotify.com/track/6ywHoZIp9DheKskjpDEiSa"
+      "duration_ms": 185198,
+      "name": "Bitch Don't Be Mad",
+      "url": "https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaXDsfv6nvZ5"

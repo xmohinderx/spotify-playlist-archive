@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 258855,
       "name": "366days",
       "url": "https://open.spotify.com/track/0b0P9gzrkJDJMEWg2GnmNX"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 224640,
       "name": "A Fairy Tale",
       "url": "https://open.spotify.com/track/6wiZ4T7wd5HtvMCjsZ9w4S"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 237226,
       "name": "A Rainy Night",
       "url": "https://open.spotify.com/track/63BbqOZ8mWl9PAkpy7yzcf"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 228613,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/6Vu3V0oWSppc8Z6BJPNjGk"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 243133,
       "name": "Distant Fate",
       "url": "https://open.spotify.com/track/6cwog2cadHETvgU9wJWAs3"
@@ -676,6 +676,24 @@
     },
     {
       "album": {
+        "name": "Emergency Room (2021)",
+        "url": "https://open.spotify.com/album/2ysDz3rcISkxRnuLjM8gaW"
+      },
+      "artists": [
+        {
+          "name": "Hwang In Wook",
+          "url": "https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243986,
+      "name": "Emergency Room - 2021",
+      "url": "https://open.spotify.com/track/3USmrwVK08XzzrIQdYtY1m"
+    },
+    {
+      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
@@ -753,7 +771,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 255520,
       "name": "Female Friend",
       "url": "https://open.spotify.com/track/4SShzO5689WsWgCe0Y8oKz"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 236146,
       "name": "First Loss",
       "url": "https://open.spotify.com/track/4cOxx9vS7Zda7m0RzAsGMG"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 263640,
       "name": "Fixed On You",
       "url": "https://open.spotify.com/track/4ySfsrGG2VLMEllTC1QYfI"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 239122,
       "name": "Flower Way",
       "url": "https://open.spotify.com/track/6Jstg15yIAoAP7rAgFrYYH"
@@ -879,7 +897,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 298173,
       "name": "Forever (\uc57d\uc18d)",
       "url": "https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds"
@@ -933,7 +951,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 259413,
       "name": "Good Night MY LOVE",
       "url": "https://open.spotify.com/track/08JrdECBp67G9IwipvxuBO"
@@ -951,7 +969,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Hangover",
       "url": "https://open.spotify.com/track/0vMg57uWWcnv4T3qjoXP68"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 234840,
       "name": "Here I Am Again",
       "url": "https://open.spotify.com/track/5CDq3Ekm0E0c23S0mbEELV"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 244451,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/7MjaIOqmlq83z04h7kdhdq"
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 238640,
       "name": "I want to be happy",
       "url": "https://open.spotify.com/track/7228vjb4e06cqzLv8Fqffi"
@@ -1703,7 +1721,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 220929,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 153720,
       "name": "Rose",
       "url": "https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l"
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 241080,
       "name": "Slowly Fall",
       "url": "https://open.spotify.com/track/20iKxZ9WfxHgTB2GVXpQMk"
@@ -2187,7 +2205,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 273680,
       "name": "Space",
       "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
@@ -2339,7 +2357,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 250693,
       "name": "The day I loved you",
       "url": "https://open.spotify.com/track/6nj36TQtFifSg77vb9jAgP"
@@ -2375,7 +2393,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 236190,
       "name": "The first love [From \"Anonymous, I Know You!\" (Original Soundtrack) Pt. 3]",
       "url": "https://open.spotify.com/track/6DRQvyJXF7st78fCAn9bT7"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 242292,
       "name": "The Truth Untold",
       "url": "https://open.spotify.com/track/48XfojJC87VKLlUotYV0Gm"
@@ -2473,7 +2491,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 201832,
       "name": "Things We Took For Granted",
       "url": "https://open.spotify.com/track/0AWL2pfPLApKBhV8p6XezU"
@@ -2545,7 +2563,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 213226,
       "name": "Two Letters",
       "url": "https://open.spotify.com/track/1WWHM83WMlkceHY1XqnaNs"
@@ -2707,7 +2725,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 254893,
       "name": "When We Were In Love",
       "url": "https://open.spotify.com/track/613Ixm4sbcHRZGKmGtLX9v"

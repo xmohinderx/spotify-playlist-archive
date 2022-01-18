@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 188386,
       "name": "Accidentally In Love",
       "url": "https://open.spotify.com/track/4FXdIM78OBdw7KIY2jeM8D"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 200426,
       "name": "Against All Odds (Take A Look at Me Now) (feat. Westlife)",
       "url": "https://open.spotify.com/track/0Ac0Ge47UpkVceZyPin7IP"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 239986,
       "name": "Amazed",
       "url": "https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 196226,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 310000,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA"
@@ -1313,7 +1313,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 268746,
       "name": "Pure Shores",
       "url": "https://open.spotify.com/track/4mjLAbsWBCuqSOqMvaPkXd"
@@ -1428,6 +1428,28 @@
     },
     {
       "album": {
+        "name": "Swing When You're Winning",
+        "url": "https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Nicole Kidman",
+          "url": "https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl"
+    },
+    {
+      "album": {
         "name": "Hopes and Fears (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5QqVXRTiGpLgmo1YNoz9Bk"
       },
@@ -1457,7 +1479,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 250106,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/2gjVAoahTI3FH9IhCsOZ5p"
@@ -1677,7 +1699,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 216360,
       "name": "These Words",
       "url": "https://open.spotify.com/track/6QLU1GKy2Zh2mOh2uoJ0TV"
@@ -1803,7 +1825,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 106714,
       "name": "What If - Film Version",
       "url": "https://open.spotify.com/track/7vuP6E0zTrcAWueKLO7I33"
@@ -1839,7 +1861,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 272533,
       "name": "Where Is The Love?",
       "url": "https://open.spotify.com/track/7oPnZNl1acGA7ELxsNirrR"

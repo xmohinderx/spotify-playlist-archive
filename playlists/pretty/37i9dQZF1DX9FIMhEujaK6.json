@@ -6,23 +6,23 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ1ODI3OCwwMDAwMDAwMDA2NGQ1NjM2YTczNjc4MzU5NThmOWNiZmNhMzZhMzY5",
+  "snapshot_id": "MTY0MjQ2Njg4NiwwMDAwMDAwMGNiMjI3ZGU3ZTAzNDBlMDYwMGQxNDBlMmE2NjY1OTFk",
   "tracks": [
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "Found In The Wild",
-        "url": "https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS"
+        "name": "Fortress",
+        "url": "https://open.spotify.com/album/5rrJPeL31coMGhFgo0bj1B"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Kipunji",
+          "url": "https://open.spotify.com/artist/4QwUuTuiNYfwdCDOlAq7um"
         }
       ],
-      "duration_ms": 205233,
-      "name": "Fire To Fire",
-      "url": "https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6"
+      "duration_ms": 286919,
+      "name": "Fortress",
+      "url": "https://open.spotify.com/track/2wxAWvCqm44W3JH54TLYCJ"
     },
     {
       "added_at": "2021-10-15 14:13:03",
@@ -183,18 +183,18 @@
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "Lone Raver",
-        "url": "https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe"
+        "name": "Found In The Wild",
+        "url": "https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 257299,
-      "name": "Lone Raver",
-      "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
+      "duration_ms": 205233,
+      "name": "Fire To Fire",
+      "url": "https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6"
     },
     {
       "added_at": "2021-10-15 14:13:03",
@@ -211,6 +211,22 @@
       "duration_ms": 220623,
       "name": "GLY",
       "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
+        "name": "Lone Raver",
+        "url": "https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 257299,
+      "name": "Lone Raver",
+      "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
     },
     {
       "added_at": "2021-10-15 14:13:03",
@@ -247,18 +263,18 @@
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "Fortress",
-        "url": "https://open.spotify.com/album/5rrJPeL31coMGhFgo0bj1B"
+        "name": "Second Story Sunlight",
+        "url": "https://open.spotify.com/album/3PhyRzz7sT2tqp05ebeoK6"
       },
       "artists": [
         {
-          "name": "Kipunji",
-          "url": "https://open.spotify.com/artist/4QwUuTuiNYfwdCDOlAq7um"
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
         }
       ],
-      "duration_ms": 286919,
-      "name": "Fortress",
-      "url": "https://open.spotify.com/track/2wxAWvCqm44W3JH54TLYCJ"
+      "duration_ms": 239677,
+      "name": "Second Story Sunlight",
+      "url": "https://open.spotify.com/track/0Eo3XP7EprBsturqNahuJ7"
     },
     {
       "added_at": "2021-10-15 14:13:03",
@@ -275,22 +291,6 @@
       "duration_ms": 204361,
       "name": "Wild Skies",
       "url": "https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "El Layali",
-      "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
     },
     {
       "added_at": "2021-10-15 14:13:03",
@@ -343,18 +343,18 @@
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "Second Story Sunlight",
-        "url": "https://open.spotify.com/album/3PhyRzz7sT2tqp05ebeoK6"
+        "name": "All Visible Objects",
+        "url": "https://open.spotify.com/album/7lYli0df1ql7AZCWNnUJuM"
       },
       "artists": [
         {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 239677,
-      "name": "Second Story Sunlight",
-      "url": "https://open.spotify.com/track/0Eo3XP7EprBsturqNahuJ7"
+      "duration_ms": 333653,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/3Rxehh3XVSFaKtLscJd3SM"
     },
     {
       "added_at": "2021-10-15 14:13:03",
@@ -371,6 +371,70 @@
       "duration_ms": 192899,
       "name": "The Path",
       "url": "https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "El Layali",
+      "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
+        "name": "Psssh 002",
+        "url": "https://open.spotify.com/album/2ci7ASUgwOYWAZZbzfjuHC"
+      },
+      "artists": [
+        {
+          "name": "Dauwd",
+          "url": "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
+        }
+      ],
+      "duration_ms": 291846,
+      "name": "La Nota",
+      "url": "https://open.spotify.com/track/2LDbHa87vrruqNVfN5Qkdp"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
+        "name": "Ming",
+        "url": "https://open.spotify.com/album/4QYeoPGYXIjAc7Cw4hdKWf"
+      },
+      "artists": [
+        {
+          "name": "Slowly",
+          "url": "https://open.spotify.com/artist/59TjqfUSxPMLqPbhwsD6Kw"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Nimble",
+      "url": "https://open.spotify.com/track/5tIVj1hi1EeqOitKdC4GPf"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
+        "name": "Dahlia",
+        "url": "https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV"
+      },
+      "artists": [
+        {
+          "name": "Etherwood",
+          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
+        }
+      ],
+      "duration_ms": 306678,
+      "name": "Dahlia",
+      "url": "https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz"
     },
     {
       "added_at": "2021-10-15 14:13:03",
@@ -395,86 +459,22 @@
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "Psssh 002",
-        "url": "https://open.spotify.com/album/2ci7ASUgwOYWAZZbzfjuHC"
+        "name": "London. Paris. Berlin.",
+        "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
       },
       "artists": [
         {
-          "name": "Dauwd",
-          "url": "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
-        }
-      ],
-      "duration_ms": 291846,
-      "name": "La Nota",
-      "url": "https://open.spotify.com/track/2LDbHa87vrruqNVfN5Qkdp"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "All Visible Objects",
-        "url": "https://open.spotify.com/album/7lYli0df1ql7AZCWNnUJuM"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        }
-      ],
-      "duration_ms": 333653,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/3Rxehh3XVSFaKtLscJd3SM"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "Dahlia",
-        "url": "https://open.spotify.com/album/3gvw724Y4YB3HMLrVSgCOV"
-      },
-      "artists": [
-        {
-          "name": "Etherwood",
-          "url": "https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX"
-        }
-      ],
-      "duration_ms": 306678,
-      "name": "Dahlia",
-      "url": "https://open.spotify.com/track/1DCYNMKp5yziQ48dh4t0Hz"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "Ming",
-        "url": "https://open.spotify.com/album/4QYeoPGYXIjAc7Cw4hdKWf"
-      },
-      "artists": [
-        {
-          "name": "Slowly",
-          "url": "https://open.spotify.com/artist/59TjqfUSxPMLqPbhwsD6Kw"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Nimble",
-      "url": "https://open.spotify.com/track/5tIVj1hi1EeqOitKdC4GPf"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/2jtCQJ5O8eQZWFrdOOjFVk"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+          "name": "Shire T",
+          "url": "https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe"
         },
         {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
         }
       ],
-      "duration_ms": 228493,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb"
+      "duration_ms": 245200,
+      "name": "London. Paris. Berlin.",
+      "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
     },
     {
       "added_at": "2021-10-15 14:13:03",
@@ -499,54 +499,70 @@
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "Pink Bloom!",
-        "url": "https://open.spotify.com/album/4Zto4AuUoDr5PFEMINg2Dc"
+        "name": "Rainchecks In Montreal",
+        "url": "https://open.spotify.com/album/7kk2hdtBBbAuaFxdiCk243"
       },
       "artists": [
         {
-          "name": "Pavlov",
-          "url": "https://open.spotify.com/artist/1CaKIOAgM8I69kpfHrAUGu"
+          "name": "Guy Gerber",
+          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
         }
       ],
-      "duration_ms": 506423,
-      "name": "Bloom!",
-      "url": "https://open.spotify.com/track/4kA6XkDyMdMJ3e9hxmbHP3"
+      "duration_ms": 390796,
+      "name": "Rainchecks In Montreal",
+      "url": "https://open.spotify.com/track/0KkLtsiQKvJs1Sz7uka72J"
     },
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "London. Paris. Berlin.",
-        "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp"
       },
       "artists": [
         {
-          "name": "Shire T",
-          "url": "https://open.spotify.com/artist/0AIim12jO78DuyyUYbHfAe"
+          "name": "Iorie",
+          "url": "https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH"
         },
         {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+          "name": "Cesar B.",
+          "url": "https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2"
         }
       ],
-      "duration_ms": 245200,
-      "name": "London. Paris. Berlin.",
-      "url": "https://open.spotify.com/track/5mxQ1JcGnb3sTu5zO08ZTK"
+      "duration_ms": 470896,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a"
     },
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/1gqekghNnOZ3uzJDJOAYba"
+        "name": "Idle",
+        "url": "https://open.spotify.com/album/2jY7LdWedFXFppeqDTfGoq"
       },
       "artists": [
         {
-          "name": "Duke Boara",
-          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
+          "name": "Figgis",
+          "url": "https://open.spotify.com/artist/5gPb5bWKSpRkBhLdlTZpiz"
         }
       ],
-      "duration_ms": 274591,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/1wk4sL0DMj0A46MktCZIW5"
+      "duration_ms": 299534,
+      "name": "Idle",
+      "url": "https://open.spotify.com/track/4nV7NfTgDupppPZf5ARmLY"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
+        "name": "Nocturnal Lady",
+        "url": "https://open.spotify.com/album/6Itkkv2vYKEZLJ4XBXPwLe"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Solange",
+          "url": "https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6"
+        }
+      ],
+      "duration_ms": 304660,
+      "name": "Nocturnal Lady",
+      "url": "https://open.spotify.com/track/0Hdzza1KQrGEzwVPtipMOq"
     },
     {
       "added_at": "2021-10-15 14:13:03",
@@ -619,138 +635,38 @@
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "Cusp",
-        "url": "https://open.spotify.com/album/4sHkEDlPbGpFrRlVXldxwS"
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/1gqekghNnOZ3uzJDJOAYba"
       },
       "artists": [
         {
-          "name": "Frameworks",
-          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+          "name": "Duke Boara",
+          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
+        }
+      ],
+      "duration_ms": 274591,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/1wk4sL0DMj0A46MktCZIW5"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/2jtCQJ5O8eQZWFrdOOjFVk"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
         },
         {
-          "name": "Murge",
-          "url": "https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W"
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
         }
       ],
-      "duration_ms": 249080,
-      "name": "Cusp - Edit",
-      "url": "https://open.spotify.com/track/36MWyP1g6jAAosExPkzIqu"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "Rainchecks In Montreal",
-        "url": "https://open.spotify.com/album/7kk2hdtBBbAuaFxdiCk243"
-      },
-      "artists": [
-        {
-          "name": "Guy Gerber",
-          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
-        }
-      ],
-      "duration_ms": 390796,
-      "name": "Rainchecks In Montreal",
-      "url": "https://open.spotify.com/track/0KkLtsiQKvJs1Sz7uka72J"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "Something More",
-        "url": "https://open.spotify.com/album/2bodaZ8TwVH6MLqCE8X0OK"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        }
-      ],
-      "duration_ms": 240727,
-      "name": "Something More - Edit",
-      "url": "https://open.spotify.com/track/2Pq87UGextV8ChmTw6SQyY"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "Idle",
-        "url": "https://open.spotify.com/album/2jY7LdWedFXFppeqDTfGoq"
-      },
-      "artists": [
-        {
-          "name": "Figgis",
-          "url": "https://open.spotify.com/artist/5gPb5bWKSpRkBhLdlTZpiz"
-        }
-      ],
-      "duration_ms": 299534,
-      "name": "Idle",
-      "url": "https://open.spotify.com/track/4nV7NfTgDupppPZf5ARmLY"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "Retina / Stay",
-        "url": "https://open.spotify.com/album/0fvdyiNRkHyE8OhCLvfB9s"
-      },
-      "artists": [
-        {
-          "name": "Joe Turner",
-          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
-        }
-      ],
-      "duration_ms": 234838,
-      "name": "Retina",
-      "url": "https://open.spotify.com/track/4Dlf0expNuCNzBEL7yytZN"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "Your Good Times Will Come",
-        "url": "https://open.spotify.com/album/3K3Me5y9K2L75oHfafObFq"
-      },
-      "artists": [
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 292938,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/0FNJznaqfphSfnyJc5rtTu"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "Summer",
-        "url": "https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp"
-      },
-      "artists": [
-        {
-          "name": "Iorie",
-          "url": "https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH"
-        },
-        {
-          "name": "Cesar B.",
-          "url": "https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2"
-        }
-      ],
-      "duration_ms": 470896,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 250430,
-      "name": "Tom's Bar",
-      "url": "https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9"
+      "duration_ms": 228493,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb"
     },
     {
       "added_at": "2021-10-15 14:13:03",
@@ -775,18 +691,18 @@
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "Nocturnal Lady",
-        "url": "https://open.spotify.com/album/6Itkkv2vYKEZLJ4XBXPwLe"
+        "name": "Retina / Stay",
+        "url": "https://open.spotify.com/album/0fvdyiNRkHyE8OhCLvfB9s"
       },
       "artists": [
         {
-          "name": "No\u00e9 Solange",
-          "url": "https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6"
+          "name": "Joe Turner",
+          "url": "https://open.spotify.com/artist/6mWRj2iXabH0pqlYnqYMup"
         }
       ],
-      "duration_ms": 304660,
-      "name": "Nocturnal Lady",
-      "url": "https://open.spotify.com/track/0Hdzza1KQrGEzwVPtipMOq"
+      "duration_ms": 234838,
+      "name": "Retina",
+      "url": "https://open.spotify.com/track/4Dlf0expNuCNzBEL7yytZN"
     },
     {
       "added_at": "2021-10-15 14:13:03",
@@ -807,50 +723,38 @@
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "Plunge",
-        "url": "https://open.spotify.com/album/2h11IZVnNBKTeFrofHvqeZ"
+        "name": "Something More",
+        "url": "https://open.spotify.com/album/2bodaZ8TwVH6MLqCE8X0OK"
       },
       "artists": [
         {
-          "name": "Verdance",
-          "url": "https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi"
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
         }
       ],
-      "duration_ms": 252803,
-      "name": "Pithy",
-      "url": "https://open.spotify.com/track/7uPiExBiGuH8ocfFezmWuM"
+      "duration_ms": 240727,
+      "name": "Something More - Edit",
+      "url": "https://open.spotify.com/track/2Pq87UGextV8ChmTw6SQyY"
     },
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "Spring in a Small Town",
-        "url": "https://open.spotify.com/album/66yTz70ZvQSi0aWQLJnGvF"
+        "name": "Unearth",
+        "url": "https://open.spotify.com/album/4ibg33M3ACiEIxGl0gWCWJ"
       },
       "artists": [
         {
-          "name": "Spring In A Small Town",
-          "url": "https://open.spotify.com/artist/6VpUobaDr3krJGaceN1unG"
-        }
-      ],
-      "duration_ms": 277503,
-      "name": "Memoria",
-      "url": "https://open.spotify.com/track/71aAjtAtvLgTdmLOt5syln"
-    },
-    {
-      "added_at": "2021-10-15 14:13:03",
-      "album": {
-        "name": "Breathing Deep",
-        "url": "https://open.spotify.com/album/5JIzRvwrrr0gQjEQrDFfnr"
-      },
-      "artists": [
+          "name": "Aarigod",
+          "url": "https://open.spotify.com/artist/3PcDrMW2mUYxuKB5Ue3c86"
+        },
         {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
+          "name": "Harry Kosminski",
+          "url": "https://open.spotify.com/artist/7bCMn3cDvGs8Ua8f2JICZa"
         }
       ],
-      "duration_ms": 276160,
-      "name": "Tiamo",
-      "url": "https://open.spotify.com/track/0PG2StR39pAGiSQDJ2CcYF"
+      "duration_ms": 177534,
+      "name": "Unearth",
+      "url": "https://open.spotify.com/track/1WOT5mxOjnf2HBKQN4Zmop"
     },
     {
       "added_at": "2021-10-15 14:13:03",
@@ -871,6 +775,22 @@
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
+        "name": "Feels Like This / Made It Here",
+        "url": "https://open.spotify.com/album/69IByzwppsAwHrBHZ5DeM6"
+      },
+      "artists": [
+        {
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
+        }
+      ],
+      "duration_ms": 276506,
+      "name": "Feels Like This",
+      "url": "https://open.spotify.com/track/35Tg9pIOjlr5P5ze87COLT"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
         "name": "Current Blues",
         "url": "https://open.spotify.com/album/6leO7OdN8iBvw6sRyU8zLO"
       },
@@ -887,18 +807,110 @@
     {
       "added_at": "2021-10-15 14:13:03",
       "album": {
-        "name": "All Visible Objects",
-        "url": "https://open.spotify.com/album/7lYli0df1ql7AZCWNnUJuM"
+        "name": "Cusp",
+        "url": "https://open.spotify.com/album/4sHkEDlPbGpFrRlVXldxwS"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Frameworks",
+          "url": "https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP"
+        },
+        {
+          "name": "Murge",
+          "url": "https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W"
         }
       ],
-      "duration_ms": 586573,
-      "name": "Too Much Change",
-      "url": "https://open.spotify.com/track/4TFtYsNd37rqc3rtYHM267"
+      "duration_ms": 249080,
+      "name": "Cusp - Edit",
+      "url": "https://open.spotify.com/track/36MWyP1g6jAAosExPkzIqu"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
+        "name": "Everything Will Grow Again",
+        "url": "https://open.spotify.com/album/5PL3bssLg2p941ZdKHohsO"
+      },
+      "artists": [
+        {
+          "name": "Fakear",
+          "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
+        }
+      ],
+      "duration_ms": 351080,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0fMK1HCL3szYzYyIpIfn9E"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
+        "name": "Plunge",
+        "url": "https://open.spotify.com/album/2h11IZVnNBKTeFrofHvqeZ"
+      },
+      "artists": [
+        {
+          "name": "Verdance",
+          "url": "https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi"
+        }
+      ],
+      "duration_ms": 252803,
+      "name": "Pithy",
+      "url": "https://open.spotify.com/track/7uPiExBiGuH8ocfFezmWuM"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
+        "name": "Kingdoms In Colour Remixed",
+        "url": "https://open.spotify.com/album/4KBMoononZPCM80QtfOzXd"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        },
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        }
+      ],
+      "duration_ms": 389178,
+      "name": "Nervous Tics (feat. Holly Walker) - DJ Tennis Remix",
+      "url": "https://open.spotify.com/track/6FEDMxhIewYQdzxFuB5640"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
+        "name": "3D Reworks 001",
+        "url": "https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
+      "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
+    },
+    {
+      "added_at": "2021-10-15 14:13:03",
+      "album": {
+        "name": "Pink Bloom!",
+        "url": "https://open.spotify.com/album/4Zto4AuUoDr5PFEMINg2Dc"
+      },
+      "artists": [
+        {
+          "name": "Pavlov",
+          "url": "https://open.spotify.com/artist/1CaKIOAgM8I69kpfHrAUGu"
+        }
+      ],
+      "duration_ms": 506423,
+      "name": "Bloom!",
+      "url": "https://open.spotify.com/track/4kA6XkDyMdMJ3e9hxmbHP3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9FIMhEujaK6"

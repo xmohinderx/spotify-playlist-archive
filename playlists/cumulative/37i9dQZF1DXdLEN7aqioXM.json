@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 164000,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/0kDaCo0U2UcaM3SgZ1Ji7X"
@@ -111,6 +111,24 @@
       "duration_ms": 231192,
       "name": "Automaton",
       "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
+    },
+    {
+      "album": {
+        "name": "Avengers After Dark",
+        "url": "https://open.spotify.com/album/1fnYuEIp9Vk5nbgDKcRfsi"
+      },
+      "artists": [
+        {
+          "name": "Fury Weekend",
+          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Black To The Future",
+      "url": "https://open.spotify.com/track/3RZZ8KnNq63Isfqo67KI4W"
     },
     {
       "album": {
@@ -222,6 +240,42 @@
     },
     {
       "album": {
+        "name": "Dark Prince",
+        "url": "https://open.spotify.com/album/7F5QqidQ5gDSIWBIY8Khy4"
+      },
+      "artists": [
+        {
+          "name": "Atrey",
+          "url": "https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228028,
+      "name": "Dark Prince, Pt. 3",
+      "url": "https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL"
+    },
+    {
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702"
+      },
+      "artists": [
+        {
+          "name": "Daniel Deluxe",
+          "url": "https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257490,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ"
+    },
+    {
+      "album": {
         "name": "Delusive Bunker (Live Version)",
         "url": "https://open.spotify.com/album/6Aqfd6vOumuBEXGCmr96j0"
       },
@@ -291,7 +345,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 111111,
       "name": "Droid Rage",
       "url": "https://open.spotify.com/track/6BzXcsB6HhmO7yQ7qBjK48"
@@ -367,7 +421,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 234015,
       "name": "Exclusive Coup\u00e9",
       "url": "https://open.spotify.com/track/3ycik5LYlbCnXeW8EKVmvC"
@@ -462,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Homebound",
+        "url": "https://open.spotify.com/album/6Mcfma2p4CnEQhCICR81iq"
+      },
+      "artists": [
+        {
+          "name": "Caspro",
+          "url": "https://open.spotify.com/artist/2jtjyIKx9XY1wuIc5UKwSp"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299913,
+      "name": "Homebound",
+      "url": "https://open.spotify.com/track/1M7tv8CnuKzTVK4otfr355"
+    },
+    {
+      "album": {
         "name": "Weltschmerz",
         "url": "https://open.spotify.com/album/2DSBwFmg0fIlgsDaf6eufG"
       },
@@ -473,7 +545,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 159939,
       "name": "Homo Deus",
       "url": "https://open.spotify.com/track/3l5bTYYEBEteJpi1MsA5qR"
@@ -539,6 +611,24 @@
       "duration_ms": 256800,
       "name": "Lightyears",
       "url": "https://open.spotify.com/track/02rds5Tq11O8DvnL5nVRU2"
+    },
+    {
+      "album": {
+        "name": "EP II",
+        "url": "https://open.spotify.com/album/4qXB40wtbBbetffvic299O"
+      },
+      "artists": [
+        {
+          "name": "Carpenter Brut",
+          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257614,
+      "name": "Looking for Tracy Tzu",
+      "url": "https://open.spotify.com/track/546WYUcLvrd9YifNgEaGsi"
     },
     {
       "album": {
@@ -695,6 +785,32 @@
       "duration_ms": 257142,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/7nwMY3U4zhXQLQsjX8gwzf"
+    },
+    {
+      "album": {
+        "name": "Nightdrive (1984 Mix)",
+        "url": "https://open.spotify.com/album/3biVfNmeV3XvENxqUf8A1g"
+      },
+      "artists": [
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        },
+        {
+          "name": "Zen Freeman",
+          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
+        },
+        {
+          "name": "Ampersounds",
+          "url": "https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290690,
+      "name": "Nightdrive (1984 Mix)",
+      "url": "https://open.spotify.com/track/59RQNWwH7eQ7PKwHvAbEN7"
     },
     {
       "album": {
@@ -875,7 +991,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 254814,
       "name": "Paradise Warfare",
       "url": "https://open.spotify.com/track/7MwjanOxjvV2ILQPfOKIIm"
@@ -1095,7 +1211,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 324049,
       "name": "Ultimo",
       "url": "https://open.spotify.com/track/0jtagVogty503eUAY7psju"

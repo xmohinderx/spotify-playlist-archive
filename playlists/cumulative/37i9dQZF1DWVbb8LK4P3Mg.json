@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "A Very Special Christmas 25th Anniversary",
+        "url": "https://open.spotify.com/album/2eMfhq6WQXRARD6wvjWgBw"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236946,
+      "name": "Best Christmas Ever",
+      "url": "https://open.spotify.com/track/2Ma3UUb4b1c7Y0fLyLpHfo"
+    },
+    {
+      "album": {
         "name": "BRANDNEW YEAR 2020: BRANDNEW UP",
         "url": "https://open.spotify.com/album/51McPKBbRxnG8Uu1243Xl9"
       },
@@ -333,7 +351,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 239653,
       "name": "Christmas in July",
       "url": "https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow"
@@ -439,7 +457,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 259339,
       "name": "Christmas without You",
       "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
@@ -475,7 +493,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 238287,
       "name": "Dear Santa",
       "url": "https://open.spotify.com/track/7Do5qY5GCZr0T2wk3eKzmi"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 144008,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/1WRADVh0iHT1zrpJcAbuot"
@@ -773,7 +791,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 204336,
       "name": "Hi, Merry Christmas",
       "url": "https://open.spotify.com/track/0oUYIuuFDzbyDcQpsRV6bd"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 197500,
       "name": "Jingle All Night",
       "url": "https://open.spotify.com/track/2dFKs3VdqnQijyWjw02YbJ"
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 200929,
       "name": "let it snow (feat. BUMKEY)",
       "url": "https://open.spotify.com/track/6uQTOMyEhJtwKMpyRZEZUM"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 223916,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/2SJd63Mwyi9WKnHYtZ5ZOr"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 216776,
       "name": "My Winter Wonderland",
       "url": "https://open.spotify.com/track/078ruO4bb8PNlWo5BAwTZv"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 216565,
       "name": "Our Christmas",
       "url": "https://open.spotify.com/track/2WDVWdP70Qnns3npkhFifx"
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 197480,
       "name": "Santa For You",
       "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 230173,
       "name": "Self Happy Christmas & New Year",
       "url": "https://open.spotify.com/track/0DPi1XJk7aipx8pmpTiQAI"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 185354,
       "name": "Snowman (Special Ver.)",
       "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 228508,
       "name": "Special Christmas",
       "url": "https://open.spotify.com/track/4qQ9W8npEcg3uHyzxc8wRm"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 310833,
       "name": "THE CHRISTMAS SONG",
       "url": "https://open.spotify.com/track/5K7s4e0uakvrNmBxclGhDZ"
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 207036,
       "name": "The First Noel + Oh Holy Night",
       "url": "https://open.spotify.com/track/5dy4boImHwApBOQQxdO5QJ"
@@ -1809,7 +1827,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 232653,
       "name": "The First Snow \uccab\ub208",
       "url": "https://open.spotify.com/track/6kK5mwDeNf2VjcXVKri2qI"
@@ -1983,7 +2001,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 185240,
       "name": "When It Snows mmm (feat. Wheein)",
       "url": "https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV"
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 193670,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/2fn95gdp0R3lYFCqRBAXVv"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 239777,
       "name": "Winter Land",
       "url": "https://open.spotify.com/track/4UUNhwWMIicEF3mizXRBah"
@@ -2135,7 +2153,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 199708,
       "name": "Winter Wind",
       "url": "https://open.spotify.com/track/7LO6Xn1lEEWAcMAFyJL0Jw"

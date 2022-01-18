@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNBz9cRCSFkY.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,089,305 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,089,339 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -24,6 +24,28 @@
     },
     {
       "album": {
+        "name": "Momoko Kikuchi - Night Tempo presents The Showa Groove",
+        "url": "https://open.spotify.com/album/7LKgqFOh93jMEVCNv6xLc6"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Momoko Kikuchi",
+          "url": "https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239264,
+      "name": "Alfa Flight (Night Tempo Showa Groove Mix)",
+      "url": "https://open.spotify.com/track/1iKxfpIJrMOjfAwTj689VA"
+    },
+    {
+      "album": {
         "name": "Amalfi",
         "url": "https://open.spotify.com/album/6IlgF36ta0IJmwocVfMGjm"
       },
@@ -129,7 +151,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 218947,
       "name": "Bbrown",
       "url": "https://open.spotify.com/track/21JcSs9Zkdc2kuNzoLBcbz"
@@ -147,7 +169,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 197287,
       "name": "Big City Night",
       "url": "https://open.spotify.com/track/3NyDGOFV2nI5PzYvNVC8Ga"
@@ -205,6 +227,28 @@
       "duration_ms": 149028,
       "name": "CHERRY BLOSSOMS",
       "url": "https://open.spotify.com/track/2285HoE4Z0o7Zrhd7VSU8r"
+    },
+    {
+      "album": {
+        "name": "Royal Club, Vol. 3",
+        "url": "https://open.spotify.com/album/6QY51ifImoOIngncUguYlp"
+      },
+      "artists": [
+        {
+          "name": "architecture in tokyo",
+          "url": "https://open.spotify.com/artist/6hQx28f86hT8QSpaKammmZ"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "City Nightlife - Original Mix",
+      "url": "https://open.spotify.com/track/4X7DNtQrK71hShiyeognoq"
     },
     {
       "album": {
@@ -421,7 +465,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 220750,
       "name": "Fantango (2020 Remaster)",
       "url": "https://open.spotify.com/track/41bzXacOb6NKECrfXddHH3"
@@ -446,6 +490,24 @@
     },
     {
       "album": {
+        "name": "High Roller",
+        "url": "https://open.spotify.com/album/4b8haSNizz3sbdzDOUFD9m"
+      },
+      "artists": [
+        {
+          "name": "Remlarr",
+          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226254,
+      "name": "Frame Trap",
+      "url": "https://open.spotify.com/track/76zRP3MrZZi3oLlwRoNHsD"
+    },
+    {
+      "album": {
         "name": "Frosh EP",
         "url": "https://open.spotify.com/album/4TTKAf84T2fvtKK4Oek7l5"
       },
@@ -457,7 +519,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 123809,
       "name": "Frosh - Radio Edit",
       "url": "https://open.spotify.com/track/5svLv321alnV0RvIddsAay"
@@ -569,7 +631,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 215125,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
@@ -764,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Yacht World",
+        "url": "https://open.spotify.com/album/4OKxxZwVeESgtIvH8UoPAV"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173232,
+      "name": "Lovin' Is Everywhere",
+      "url": "https://open.spotify.com/track/7G8mB3zvqlOR7xDKz9BaHS"
+    },
+    {
+      "album": {
         "name": "Lovin' You",
         "url": "https://open.spotify.com/album/6T8BwmOGcZAuanxBGtgZHk"
       },
@@ -783,6 +863,24 @@
       "duration_ms": 228571,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/6nuGskQk0ug4IS8IDF8zgd"
+    },
+    {
+      "album": {
+        "name": "Luna / Portal",
+        "url": "https://open.spotify.com/album/0kmt7WH49v3UMDTqQvOTCY"
+      },
+      "artists": [
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242330,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3zK7BGIJDtrAXYVC6OpWz1"
     },
     {
       "album": {
@@ -815,7 +913,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 217370,
       "name": "Magic City",
       "url": "https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh"
@@ -833,7 +931,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 160000,
       "name": "Marquesa Sunrise",
       "url": "https://open.spotify.com/track/2l95GgTrFwitXAE8Jazxwq"
@@ -855,6 +953,24 @@
       "duration_ms": 189579,
       "name": "Marvelous",
       "url": "https://open.spotify.com/track/5iwipsbFSaYD7du18qxgwQ"
+    },
+    {
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/4okK3iIv9iO4QdsnKtfPWN"
+      },
+      "artists": [
+        {
+          "name": "Rhodes Rodosu",
+          "url": "https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246260,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/2M60hZ2tohD2Kb5q82avva"
     },
     {
       "album": {
@@ -1134,6 +1250,28 @@
     },
     {
       "album": {
+        "name": "\u674f\u91cc - Night Tempo presents \u30b6\u30fb\u662d\u548c\u30b0\u30eb\u30fc\u30f4",
+        "url": "https://open.spotify.com/album/77kXckOL5mwaVEeWTExyvz"
+      },
+      "artists": [
+        {
+          "name": "Night Tempo",
+          "url": "https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF"
+        },
+        {
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Remember Summer Days (Night Tempo Showa Groove Mix)",
+      "url": "https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE"
+    },
+    {
+      "album": {
         "name": "J-Funk City : Vantage's Edits Collection",
         "url": "https://open.spotify.com/album/0T40glEIKM60U4VP9x5Lqf"
       },
@@ -1149,6 +1287,28 @@
       "duration_ms": 209529,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC"
+    },
+    {
+      "album": {
+        "name": "Slowed Midnight",
+        "url": "https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP"
+      },
+      "artists": [
+        {
+          "name": "Cape Coral",
+          "url": "https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6"
+        },
+        {
+          "name": "Android Apartment",
+          "url": "https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155750,
+      "name": "Ritmo.",
+      "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
     },
     {
       "album": {
@@ -1181,7 +1341,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 248890,
       "name": "Rush On Me",
       "url": "https://open.spotify.com/track/4RGIVVTf7irHT1W2mTk9rk"
@@ -1254,6 +1414,24 @@
     },
     {
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6DmxMwMs19UtWdxXwCnYr5"
+      },
+      "artists": [
+        {
+          "name": "Shiruetto",
+          "url": "https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/7LoZEGOrU0h8nY6YK4fywE"
+    },
+    {
+      "album": {
         "name": "EMAIL",
         "url": "https://open.spotify.com/album/6WDrx0SJVfuDoJrLwG9Hye"
       },
@@ -1265,7 +1443,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 176269,
       "name": "SOULLL",
       "url": "https://open.spotify.com/track/3kEfPE27bw75A4IXlr7szx"
@@ -1395,7 +1573,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 251254,
       "name": "Strawby Strawby Beat",
       "url": "https://open.spotify.com/track/1yXm6iZUu6ZHcwmpUbYgba"
@@ -1413,7 +1591,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 156097,
       "name": "Summer Cruise",
       "url": "https://open.spotify.com/track/6Bijp8wdLHU6bbShrQoZiT"
@@ -1496,6 +1674,24 @@
     },
     {
       "album": {
+        "name": "THANK YOU",
+        "url": "https://open.spotify.com/album/1nEOQ7qyR62hlyJqtRkUa8"
+      },
+      "artists": [
+        {
+          "name": "Ajotabeats",
+          "url": "https://open.spotify.com/artist/4DnUC3By63oj4pjO4EosP6"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140692,
+      "name": "THANK YOU",
+      "url": "https://open.spotify.com/track/5xkt8vnh8OBCrnzeL9dxGs"
+    },
+    {
+      "album": {
         "name": "The Only One / Don't Stop Me",
         "url": "https://open.spotify.com/album/75uUCyYbznFfTUbVKrUZ95"
       },
@@ -1529,10 +1725,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 149508,
       "name": "The Way U Make Me Feel",
       "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
+    },
+    {
+      "album": {
+        "name": "This is Future Funk",
+        "url": "https://open.spotify.com/album/3g3EWH7CgRnOjfOErBwYbA"
+      },
+      "artists": [
+        {
+          "name": "That's Matt",
+          "url": "https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213423,
+      "name": "This is Future Funk",
+      "url": "https://open.spotify.com/track/0WdGwHFGmVHkXwdKVceNJL"
     },
     {
       "album": {
@@ -1583,7 +1797,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 208000,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/6a9LRx9D3CsZ0HDP0YI3A1"
@@ -1746,6 +1960,24 @@
     },
     {
       "album": {
+        "name": "Yatsuro Tamashita",
+        "url": "https://open.spotify.com/album/2oJSUDZcpLi8mKWuHsEdbP"
+      },
+      "artists": [
+        {
+          "name": "Desired",
+          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Yatsuro Tamashita",
+      "url": "https://open.spotify.com/track/2nSIEWaJDpYhZEMciiIKUR"
+    },
+    {
+      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/1sqx5UvKMHdaDtKFv8sAJi"
       },
@@ -1841,6 +2073,28 @@
       "duration_ms": 240666,
       "name": "\u307f\u305a\u3044\u308d\u306e\u96e8 - Night Tempo Showa Groove Mix",
       "url": "https://open.spotify.com/track/0NiqOau8wSmdeuOXbsdSyv"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u5c11\u5973\u6642\u4ee3",
+        "url": "https://open.spotify.com/album/5ztplMUYXwzrs5hUEIu7Mn"
+      },
+      "artists": [
+        {
+          "name": "yuugen",
+          "url": "https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J"
+        },
+        {
+          "name": "Brayan Rojitas",
+          "url": "https://open.spotify.com/artist/5sslm1HcMsBXOetapPkm7S"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259855,
+      "name": "\u30d0\u30a4\u5c11\u5973\u6642\u4ee3",
+      "url": "https://open.spotify.com/track/3XfKumvamwW49nvWeOAYex"
     },
     {
       "album": {

@@ -602,6 +602,24 @@
     },
     {
       "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Flaws",
+      "url": "https://open.spotify.com/track/14qPtxNN9MBdqKpP6l5q6G"
+    },
+    {
+      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
       },
@@ -617,6 +635,24 @@
       "duration_ms": 274704,
       "name": "Fool for Love",
       "url": "https://open.spotify.com/track/34pj71vgxTPZxpqXOLYL1I"
+    },
+    {
+      "album": {
+        "name": "Young Chasers (Deluxe)",
+        "url": "https://open.spotify.com/album/6lE7PexxLr5OZtAwqBkyFJ"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "Fossils",
+      "url": "https://open.spotify.com/track/2l3Kmm1C8x7rXXouzNW1MO"
     },
     {
       "album": {
@@ -1081,7 +1117,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 233639,
       "name": "Money",
       "url": "https://open.spotify.com/track/3VIJBrMpvimHEw5wtPh2wB"
@@ -1099,7 +1135,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 244293,
       "name": "Mountain at My Gates",
       "url": "https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E"
@@ -1279,7 +1315,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 232226,
       "name": "Our Own House",
       "url": "https://open.spotify.com/track/5ufmXqULgMsDIDSkSaXw1E"
@@ -1423,7 +1459,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 201799,
       "name": "Quarter Past Midnight",
       "url": "https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt"
@@ -1729,7 +1765,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 233686,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3cV7urlavfJPXy4GXs7iTJ"
@@ -1909,7 +1945,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 291636,
       "name": "The John Wayne",
       "url": "https://open.spotify.com/track/3oGxLwyJ7oU2kepx0z5S18"

@@ -1,45 +1,13 @@
 {
   "description": "Lay back. Chill out.",
   "name": "Floating",
-  "num_followers": 34270,
+  "num_followers": 34295,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ1ODM3NywwMDAwMDAwMGQ5YmIxM2U1N2UwNmUzNTZlNDM3Y2E1NjA4ODlkMzMw",
+  "snapshot_id": "MTY0MjQ2Njk3OCwwMDAwMDAwMGYxOGY1M2FmNjU4NWI4YTg1OTE4ZWM2MWQ4YjE3Yjdk",
   "tracks": [
-    {
-      "added_at": "2021-08-18 19:45:58",
-      "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
-    },
-    {
-      "added_at": "2021-08-18 19:45:58",
-      "album": {
-        "name": "Bravebird",
-        "url": "https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw"
-      },
-      "artists": [
-        {
-          "name": "Amel Larrieux",
-          "url": "https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "For Real",
-      "url": "https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O"
-    },
     {
       "added_at": "2021-08-18 19:45:58",
       "album": {
@@ -63,18 +31,18 @@
     {
       "added_at": "2021-08-18 19:45:58",
       "album": {
-        "name": "Even Closer",
-        "url": "https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw"
+        "name": "Bravebird",
+        "url": "https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw"
       },
       "artists": [
         {
-          "name": "Goapele",
-          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
+          "name": "Amel Larrieux",
+          "url": "https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR"
         }
       ],
-      "duration_ms": 229693,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7"
+      "duration_ms": 226333,
+      "name": "For Real",
+      "url": "https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -91,6 +59,38 @@
       "duration_ms": 335310,
       "name": "When I'm in Your Arms",
       "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
+    },
+    {
+      "added_at": "2021-08-18 19:45:58",
+      "album": {
+        "name": "Even Closer",
+        "url": "https://open.spotify.com/album/7KgzSaFHNmywgJTxBcY3zw"
+      },
+      "artists": [
+        {
+          "name": "Goapele",
+          "url": "https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq"
+        }
+      ],
+      "duration_ms": 229693,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2UXEwIOtNGUUgGdXnds8V7"
+    },
+    {
+      "added_at": "2021-08-18 19:45:58",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -143,18 +143,18 @@
     {
       "added_at": "2021-08-18 19:45:58",
       "album": {
-        "name": "Coastin\u2019",
-        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 175319,
-      "name": "Coastin\u2019",
-      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
+      "duration_ms": 199179,
+      "name": "Whoa",
+      "url": "https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -175,18 +175,18 @@
     {
       "added_at": "2021-08-18 19:45:58",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
+        "name": "Coastin\u2019",
+        "url": "https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 199179,
-      "name": "Whoa",
-      "url": "https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0"
+      "duration_ms": 175319,
+      "name": "Coastin\u2019",
+      "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -245,20 +245,20 @@
       "url": "https://open.spotify.com/track/0sKfhhj6hYyJIXnTiZV9vf"
     },
     {
-      "added_at": "2021-09-07 18:19:44",
+      "added_at": "2021-08-18 19:45:58",
       "album": {
-        "name": "How Could I Forget You",
-        "url": "https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy"
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
       },
       "artists": [
         {
-          "name": "Etta Bond",
-          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
         }
       ],
-      "duration_ms": 214054,
-      "name": "How Could I Forget You",
-      "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
+      "duration_ms": 288453,
+      "name": "Read My Mind",
+      "url": "https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -279,18 +279,18 @@
     {
       "added_at": "2021-08-18 19:45:58",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV"
+        "name": "SULA (Paperback)",
+        "url": "https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 288453,
-      "name": "Read My Mind",
-      "url": "https://open.spotify.com/track/18yYhT8fTVjFK9IBPiows6"
+      "duration_ms": 255906,
+      "name": "SULA (Paperback)",
+      "url": "https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -309,20 +309,20 @@
       "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
     },
     {
-      "added_at": "2021-08-18 19:45:58",
+      "added_at": "2021-09-07 18:19:44",
       "album": {
-        "name": "DON'T PLAY WITH MY HEART",
-        "url": "https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I"
+        "name": "How Could I Forget You",
+        "url": "https://open.spotify.com/album/7nTOGhNV5Eqr4Gb9Ygmmsy"
       },
       "artists": [
         {
-          "name": "India Shawn",
-          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
+          "name": "Etta Bond",
+          "url": "https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA"
         }
       ],
-      "duration_ms": 219351,
-      "name": "DON'T PLAY WITH MY HEART",
-      "url": "https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem"
+      "duration_ms": 214054,
+      "name": "How Could I Forget You",
+      "url": "https://open.spotify.com/track/6lPEIRTaQOeoO7ac5q2YEi"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -341,20 +341,20 @@
       "url": "https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO"
     },
     {
-      "added_at": "2021-08-18 19:45:58",
+      "added_at": "2021-09-07 18:19:44",
       "album": {
-        "name": "SULA (Paperback)",
-        "url": "https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
       "artists": [
         {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 255906,
-      "name": "SULA (Paperback)",
-      "url": "https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi"
+      "duration_ms": 262960,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -375,18 +375,18 @@
     {
       "added_at": "2021-08-18 19:45:58",
       "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+        "name": "Lianne La Havas",
+        "url": "https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy"
       },
       "artists": [
         {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+      "duration_ms": 292506,
+      "name": "Bittersweet - Full Length",
+      "url": "https://open.spotify.com/track/1xYk9EZpuwvuAvuLF4k9x3"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -407,18 +407,18 @@
     {
       "added_at": "2021-08-18 19:45:58",
       "album": {
-        "name": "Lianne La Havas",
-        "url": "https://open.spotify.com/album/6JwtB0zzNYy4qANDrJtrJy"
+        "name": "DON'T PLAY WITH MY HEART",
+        "url": "https://open.spotify.com/album/4ObdfMfycjd0NIuX6IcO5I"
       },
       "artists": [
         {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+          "name": "India Shawn",
+          "url": "https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL"
         }
       ],
-      "duration_ms": 292506,
-      "name": "Bittersweet - Full Length",
-      "url": "https://open.spotify.com/track/1xYk9EZpuwvuAvuLF4k9x3"
+      "duration_ms": 219351,
+      "name": "DON'T PLAY WITH MY HEART",
+      "url": "https://open.spotify.com/track/6pJhTkXKlGR3WZI7Mqbeem"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -435,6 +435,38 @@
       "duration_ms": 277666,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv"
+    },
+    {
+      "added_at": "2021-08-18 19:45:58",
+      "album": {
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
+    },
+    {
+      "added_at": "2021-08-18 19:45:58",
+      "album": {
+        "name": "Mahogany Soul",
+        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+      },
+      "artists": [
+        {
+          "name": "Angie Stone",
+          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+        }
+      ],
+      "duration_ms": 270893,
+      "name": "Wish I Didn't Miss You",
+      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -459,18 +491,18 @@
     {
       "added_at": "2021-08-18 19:45:58",
       "album": {
-        "name": "Mahogany Soul",
-        "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
+        "name": "Bitter",
+        "url": "https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR"
       },
       "artists": [
         {
-          "name": "Angie Stone",
-          "url": "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
         }
       ],
-      "duration_ms": 270893,
-      "name": "Wish I Didn't Miss You",
-      "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
+      "duration_ms": 212640,
+      "name": "Fool of Me",
+      "url": "https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -489,36 +521,28 @@
       "url": "https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex"
     },
     {
-      "added_at": "2021-08-18 19:45:58",
+      "added_at": "2021-11-19 05:00:00",
       "album": {
-        "name": "Bitter",
-        "url": "https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR"
+        "name": "Still Wonder",
+        "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
       },
       "artists": [
         {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Fool of Me",
-      "url": "https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3"
-    },
-    {
-      "added_at": "2021-09-07 18:19:44",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         }
       ],
-      "duration_ms": 262960,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
+      "duration_ms": 238153,
+      "name": "Still Wonder",
+      "url": "https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -551,30 +575,6 @@
       "duration_ms": 247792,
       "name": "Chocolate Pomegranate",
       "url": "https://open.spotify.com/track/67M0ONQYZV4MmD7QyhNvz3"
-    },
-    {
-      "added_at": "2021-11-19 05:00:00",
-      "album": {
-        "name": "Still Wonder",
-        "url": "https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        }
-      ],
-      "duration_ms": 238153,
-      "name": "Still Wonder",
-      "url": "https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -615,6 +615,22 @@
     {
       "added_at": "2021-08-18 19:45:58",
       "album": {
+        "name": "We Are KING",
+        "url": "https://open.spotify.com/album/3FYKiMNG19UUdbs8xhpZc7"
+      },
+      "artists": [
+        {
+          "name": "We Are KING",
+          "url": "https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O"
+        }
+      ],
+      "duration_ms": 233097,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1P39kOSyYA4o2kyn2uxxWf"
+    },
+    {
+      "added_at": "2021-08-18 19:45:58",
+      "album": {
         "name": "The Interlude",
         "url": "https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX"
       },
@@ -631,18 +647,18 @@
     {
       "added_at": "2021-08-18 19:45:58",
       "album": {
-        "name": "Int\u00e9rimes",
-        "url": "https://open.spotify.com/album/1nmpHf4NsFpH4N1rscRD2e"
+        "name": "Untitled (Black Is)",
+        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
       },
       "artists": [
         {
-          "name": "Adeline",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 209281,
-      "name": "Stay Up",
-      "url": "https://open.spotify.com/track/6ia0rnYi7DEJGxDUbHtfiL"
+      "duration_ms": 206947,
+      "name": "Wildfires",
+      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
     },
     {
       "added_at": "2021-08-18 19:45:58",
@@ -679,38 +695,6 @@
     {
       "added_at": "2021-08-18 19:45:58",
       "album": {
-        "name": "We Are KING",
-        "url": "https://open.spotify.com/album/3FYKiMNG19UUdbs8xhpZc7"
-      },
-      "artists": [
-        {
-          "name": "We Are KING",
-          "url": "https://open.spotify.com/artist/0FPWyyf6MD4QZTj3aypD3O"
-        }
-      ],
-      "duration_ms": 233097,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/1P39kOSyYA4o2kyn2uxxWf"
-    },
-    {
-      "added_at": "2021-08-18 19:45:58",
-      "album": {
-        "name": "Untitled (Black Is)",
-        "url": "https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 206947,
-      "name": "Wildfires",
-      "url": "https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX"
-    },
-    {
-      "added_at": "2021-08-18 19:45:58",
-      "album": {
         "name": "Something to Feel",
         "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 267450,
       "name": "Get to You Again",
       "url": "https://open.spotify.com/track/5pNiAcguRrBdYf5V0QXdir"
+    },
+    {
+      "added_at": "2021-08-18 19:45:58",
+      "album": {
+        "name": "Int\u00e9rimes",
+        "url": "https://open.spotify.com/album/1nmpHf4NsFpH4N1rscRD2e"
+      },
+      "artists": [
+        {
+          "name": "Adeline",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 209281,
+      "name": "Stay Up",
+      "url": "https://open.spotify.com/track/6ia0rnYi7DEJGxDUbHtfiL"
     },
     {
       "added_at": "2021-08-18 19:45:58",

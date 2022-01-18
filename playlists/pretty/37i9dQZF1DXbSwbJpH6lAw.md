@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSwbJpH6lAw.md) - [plain]
 
 > The most exciting new Latin artists and tracks, handpicked by our curators featuring Ivan Cornejo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,586 likes - 29 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,585 likes - 29 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

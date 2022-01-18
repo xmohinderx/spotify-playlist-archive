@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 425586,
       "name": ">>>>The Catalyst",
       "url": "https://open.spotify.com/track/2idujid77DAY4y92JuUjZd"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 399000,
       "name": "April",
       "url": "https://open.spotify.com/track/75iEaKMPTVWHMgpSOiU1p1"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 436933,
       "name": "Beat Street",
       "url": "https://open.spotify.com/track/12Q6JVKygj2YDSoq59BGXW"
@@ -399,6 +399,32 @@
       "duration_ms": 386240,
       "name": "Calvados",
       "url": "https://open.spotify.com/track/7y243aw9gj5ThHaF8Ck3Ym"
+    },
+    {
+      "album": {
+        "name": "Children of the Light",
+        "url": "https://open.spotify.com/album/17k34KBK9RZyuCZvtC5nLj"
+      },
+      "artists": [
+        {
+          "name": "Danilo Perez",
+          "url": "https://open.spotify.com/artist/6nPiCm3jwXHrOsMbTDoc4E"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414653,
+      "name": "Children of the Light",
+      "url": "https://open.spotify.com/track/4OiRFkXbhD9o0U6wDQl9kv"
     },
     {
       "album": {
@@ -1043,7 +1069,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 239013,
       "name": "Five Four One",
       "url": "https://open.spotify.com/track/0gKNdKkLMsQckXWZ1RSwJB"
@@ -1171,7 +1197,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 362480,
       "name": "Giorgiantics",
       "url": "https://open.spotify.com/track/3oa8Rh3JGkQBxntQq92Gc5"
@@ -1561,7 +1587,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 251613,
       "name": "Is It Love That Inspires You?",
       "url": "https://open.spotify.com/track/429Z3l2QMGo2J47T7HWUSD"
@@ -1809,7 +1835,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 317386,
       "name": "Liquid Sky",
       "url": "https://open.spotify.com/track/5zMMhv9b0RRIA4chuJlFIc"
@@ -2499,7 +2525,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 499783,
       "name": "Pathmaker",
       "url": "https://open.spotify.com/track/48B6om9G4wTxDRsNZjuiKO"
@@ -2543,7 +2569,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 388360,
       "name": "Pedra d'Aigua",
       "url": "https://open.spotify.com/track/5f4eU2ja48rs0cnB1tfJcA"
@@ -2619,7 +2645,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 414173,
       "name": "Prantz",
       "url": "https://open.spotify.com/track/5ljRJ8p8Uji5zEn9XMGpis"
@@ -3085,7 +3111,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 207920,
       "name": "Small Little Things",
       "url": "https://open.spotify.com/track/4fNVG9jVOCkeWuSCpRFDsd"
@@ -3573,7 +3599,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 214493,
       "name": "The Shining One",
       "url": "https://open.spotify.com/track/5egpzsnbOBzZPFaqbHyzh9"
@@ -3921,7 +3947,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 352448,
       "name": "Walk a Little Quicker",
       "url": "https://open.spotify.com/track/3hiRVKiwZN6UvpNmoneUlI"

@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 172878,
       "name": "Brum Brum",
       "url": "https://open.spotify.com/track/7J2W6n9CZDPmSVRjvEqkCQ"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 196746,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/1CFICGHfnZH6tXVKIYtYJp"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 181208,
       "name": "Co\u00f1o (with Puri & El Bloonel)",
       "url": "https://open.spotify.com/track/6Af0ZwUZt9ghj5Nw99XroS"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 225725,
       "name": "Dinero Facil (Remix) [feat. El Mayor Clasico]",
       "url": "https://open.spotify.com/track/5EGsJuaDzEFfSCgNylUFQz"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 232216,
       "name": "El Gagayor",
       "url": "https://open.spotify.com/track/0yc93K8GZlCCL77cVMV3GF"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 180040,
       "name": "El Teke Teke",
       "url": "https://open.spotify.com/track/6Ah5uf9j6dnFJrjcv9pYNH"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 202005,
       "name": "Ella Quiere Cualto",
       "url": "https://open.spotify.com/track/2AeF0eeCalgQegE4zydJn4"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 162362,
       "name": "Ella Tato",
       "url": "https://open.spotify.com/track/3NPypQCx1TbOgTnAnIYwf5"
@@ -1305,7 +1305,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 221880,
       "name": "Embute Tuyo",
       "url": "https://open.spotify.com/track/4iz4TeiYvipnR0Uxm40w3f"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 120215,
       "name": "Hablo",
       "url": "https://open.spotify.com/track/0yoWG7P5ViDLDcT5RjfEFR"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 195596,
       "name": "Knock Out",
       "url": "https://open.spotify.com/track/6YRH8zh2KMbltmbSf4Qe1d"
@@ -1651,7 +1651,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 163346,
       "name": "La Gomita",
       "url": "https://open.spotify.com/track/0QQbO11ji2wf2VitEQpCZL"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 219820,
       "name": "La Lata",
       "url": "https://open.spotify.com/track/7Irs3xFqYdiNobk4WoXQUz"
@@ -1694,6 +1694,24 @@
     },
     {
       "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/2SCHDspHJRRd8lCHupTRnn"
+      },
+      "artists": [
+        {
+          "name": "Aksel",
+          "url": "https://open.spotify.com/artist/0Jg9xzxEkESRPLoYvnntLG"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204573,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/4OV2WlOUKdnjMGFzc5P9zc"
+    },
+    {
+      "album": {
         "name": "Madurez",
         "url": "https://open.spotify.com/album/5GSmAcqB8kB7M01XvXlkXZ"
       },
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 157431,
       "name": "La Malondra (Bella Ciao)",
       "url": "https://open.spotify.com/track/2Du0czDUGHDzOUQdgmGtnL"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 274840,
       "name": "La Nota Se Me Encampana - Remix",
       "url": "https://open.spotify.com/track/2hagtttYZkjQA3h5bB4WOe"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 157096,
       "name": "La Pegajosa",
       "url": "https://open.spotify.com/track/5moP23NFBjLaJbfYxJswVI"
@@ -1963,7 +1981,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 183266,
       "name": "Los Nin\u0303os Malos",
       "url": "https://open.spotify.com/track/4ZOyLgTrJUGiDC9833bm34"
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 164164,
       "name": "Los Pomposo",
       "url": "https://open.spotify.com/track/6VrOzFtjAylmaRV5OsCFeo"
@@ -2003,7 +2021,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 176976,
       "name": "Maniqui",
       "url": "https://open.spotify.com/track/0yrvDuVVhnk51mlPVoxxcY"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 177632,
       "name": "Maniqui",
       "url": "https://open.spotify.com/track/1SKZ2kmLyRZUkIw9zq9RLL"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 294005,
       "name": "Menor - Official Remix",
       "url": "https://open.spotify.com/track/72I3Gk6PAetI8jzvOvDLkV"
@@ -2253,7 +2271,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 154960,
       "name": "Mi Noche",
       "url": "https://open.spotify.com/track/5T5O1yUHzLM1pt6onMgsl6"
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 148140,
       "name": "NO TE INVITO PA MI BARRIO",
       "url": "https://open.spotify.com/track/6bjVmW97SELrS7rEMNXnmE"
@@ -2419,7 +2437,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 198974,
       "name": "Pa Jamaica",
       "url": "https://open.spotify.com/track/2mJrQM845TqwABVy6WDmIF"
@@ -2459,7 +2477,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 181577,
       "name": "Pa Que Aguante Eta",
       "url": "https://open.spotify.com/track/1zdPE06w06CYsHFO4S4FnX"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 202360,
       "name": "Ponte Tu Chaleco",
       "url": "https://open.spotify.com/track/3Cy0m9vGIZ1OEUL6fAT0RD"
@@ -2993,7 +3011,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 211515,
       "name": "Suave",
       "url": "https://open.spotify.com/track/6NtlO37F4rjD1Z11jnV1rJ"
@@ -3365,7 +3383,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 217600,
       "name": "Teachan",
       "url": "https://open.spotify.com/track/4phP7BK5Pkgkhxk2Ipfjaz"
@@ -3387,7 +3405,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 228655,
       "name": "Tecnobow (feat. Diplo)",
       "url": "https://open.spotify.com/track/1roaN9AUTbYfiSDcpxdjr9"
@@ -3427,7 +3445,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 196030,
       "name": "Tembeleke",
       "url": "https://open.spotify.com/track/3xULsKQSIkr16oORbAnKxu"
@@ -3471,7 +3489,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 209760,
       "name": "Tirando Paquetico",
       "url": "https://open.spotify.com/track/0ooZuYAlfScKXknRfYHeTP"
@@ -3621,7 +3639,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 184826,
       "name": "Tu Maldita Madre (Tiradera a El L\u00e1piz Conciente)",
       "url": "https://open.spotify.com/track/7214sQpmw7nAgTfE4D3vQt"
@@ -3897,7 +3915,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 188893,
       "name": "Yo Lo Cojo",
       "url": "https://open.spotify.com/track/15f7OgSGn8g36CHvQSToza"

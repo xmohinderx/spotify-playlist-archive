@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 191074,
       "name": "2gether",
       "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 273994,
       "name": "A Dream I Have",
       "url": "https://open.spotify.com/track/04IEe7T9LrB5tnrydpSHFg"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 226620,
       "name": "Everything Is Going To Be Alright",
       "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 174157,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/3j81JGhjUAXrfuAbvTpE3b"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 211306,
       "name": "Fine Little Rhythm",
       "url": "https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA"
@@ -1196,6 +1196,28 @@
     },
     {
       "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/6MEueTIlNbBmgwD1UHGSpR"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211139,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/0WAOLXpWWl3oescKBLC37q"
+    },
+    {
+      "album": {
         "name": "GLY (Hot Chip Remix)",
         "url": "https://open.spotify.com/album/0YJ3NBowWAqOZ6qTEl0AQA"
       },
@@ -1269,7 +1291,7 @@
       ],
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 230089,
       "name": "Good 2 Yourself",
       "url": "https://open.spotify.com/track/14BJVFg03Ep2iytTOSCEy1"
@@ -1309,7 +1331,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 192581,
       "name": "Gullible",
       "url": "https://open.spotify.com/track/44PsdY8x0Z2LpsS4duJrS7"
@@ -1583,7 +1605,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 169986,
       "name": "I Contact",
       "url": "https://open.spotify.com/track/40xsqjpfNcWhlAV9x9keoW"
@@ -1645,7 +1667,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "I Go - Edit",
       "url": "https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4"
@@ -1761,7 +1783,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 305800,
       "name": "If We Only Had",
       "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
@@ -1779,7 +1801,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 225400,
       "name": "In My Arms - Edit",
       "url": "https://open.spotify.com/track/2S9ho4Tw8T7oyEPSVYEL2x"
@@ -1841,7 +1863,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 244525,
       "name": "Inner Light - Barry Can\u2019t Swim Remix",
       "url": "https://open.spotify.com/track/0luVePRe2Z1wnYxULh5LGh"
@@ -1935,7 +1957,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 216440,
       "name": "Iron",
       "url": "https://open.spotify.com/track/2oVI4RJpbUIHU61q6Gf4pw"
@@ -2165,7 +2187,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 191537,
       "name": "Lights Up (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/2AilPQNd3s6oxFstz2ZZ4n"
@@ -2183,7 +2205,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 120000,
       "name": "Like When We Were Kids",
       "url": "https://open.spotify.com/track/7kbX93erh3pjxXufIRPAsw"
@@ -2281,7 +2303,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 143946,
       "name": "Lost In Space (feat. SG Lewis)",
       "url": "https://open.spotify.com/track/142MW1OLW8GobITMDIhMCD"
@@ -2317,7 +2339,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 254156,
       "name": "Love Signs",
       "url": "https://open.spotify.com/track/6RaevDdXDLwoHtacMeCz8Q"
@@ -2393,7 +2415,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 152500,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7JoZ4wyCNjwCTB5GUqlz36"
@@ -2657,7 +2679,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 270145,
       "name": "Must Be Love (feat. Electric Fields)",
       "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
@@ -2741,7 +2763,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 205833,
       "name": "No One",
       "url": "https://open.spotify.com/track/0I7G7fSWdS9iugsedj7Ns1"
@@ -2821,7 +2843,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 285985,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/21QJJMA4SjQ7qXfTVE7wlw"
@@ -2873,7 +2895,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 255772,
       "name": "Only Love (with Brijean)",
       "url": "https://open.spotify.com/track/2ZwTxsb7hV27jVELUYHBoL"
@@ -2913,7 +2935,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 207133,
       "name": "Paint California",
       "url": "https://open.spotify.com/track/2ZlgqiomIrjvkuWFDSVOLY"
@@ -2957,7 +2979,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 275478,
       "name": "Play Pretend - Devault Remix",
       "url": "https://open.spotify.com/track/1lT8Dix63KR8lJqPBBd7Sa"
@@ -3005,7 +3027,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 190500,
       "name": "Process",
       "url": "https://open.spotify.com/track/4qWAsBlrbaNEelKQ8rfzzs"
@@ -3023,7 +3045,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 329462,
       "name": "Pup Slushy",
       "url": "https://open.spotify.com/track/1DPZj1aBYDjY3245z0Ri8K"
@@ -3187,7 +3209,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 205514,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/7b2FRWT62YHpuX6LFhLeN8"
@@ -3227,7 +3249,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 210448,
       "name": "River (feat. Parson James)",
       "url": "https://open.spotify.com/track/6OOkLUhFFnaj6l9LcPHzHN"
@@ -3267,7 +3289,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 181437,
       "name": "Ron Burgundy",
       "url": "https://open.spotify.com/track/5M7gQQt5kVfCzzxzlXT4Ny"
@@ -3537,7 +3559,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 242969,
       "name": "Simulation (feat. Swamp Dogg, Justin Vernon) [Noah Breakfast remix]",
       "url": "https://open.spotify.com/track/5100O76PP6LoRKvPbT5AoQ"
@@ -3563,7 +3585,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 238714,
       "name": "So Fine (Franc Moody Remix)",
       "url": "https://open.spotify.com/track/2w8jk4NAkqURAJ7WvTI98W"
@@ -3643,7 +3665,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 193556,
       "name": "Spell",
       "url": "https://open.spotify.com/track/2UqQXvudBolM4qRpMYBrLS"
@@ -3907,7 +3929,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 205166,
       "name": "summer on the inside",
       "url": "https://open.spotify.com/track/21ksz0flcMgWIbERkkpRND"
@@ -4125,7 +4147,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 379428,
       "name": "The Other Lover - Little Dragon Vocal Celebration Mix",
       "url": "https://open.spotify.com/track/45659OEpkUJgWppTLASMg4"
@@ -4253,7 +4275,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
@@ -4455,7 +4477,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 310573,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
@@ -4477,7 +4499,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 252693,
       "name": "U Already Know",
       "url": "https://open.spotify.com/track/5AyANSMqfkoI2HtZQ5ikPL"
@@ -4583,7 +4605,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 184280,
       "name": "Visions Of You",
       "url": "https://open.spotify.com/track/2YdnGBKR2qzSBrr52OP5tz"
@@ -4729,7 +4751,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 192801,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/58e40p8zCiVLRwFF6oX9iY"

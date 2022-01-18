@@ -1,44 +1,28 @@
 {
   "description": "When someone you love becomes a memory... find solace in these songs.",
   "name": "Coping With Loss",
-  "num_followers": 132342,
+  "num_followers": 132344,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ1NzkwMywwMDAwMDAwMDViZmY0OWRiYjM4YTc2OWIxZDQ0MjllNWI4NjhlODMz",
+  "snapshot_id": "MTY0MjQ2NjUzNywwMDAwMDAwMGUxOTY1ZjNmZDVjMGNmYTk2ODBmODk1MDNjN2MwMmI5",
   "tracks": [
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/6UpXdAtNFYwMy00Ytd7aOh"
+        "name": "Rock a Little",
+        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
       "artists": [
         {
-          "name": "Zach Sobiech",
-          "url": "https://open.spotify.com/artist/1gPo4GYra6HG4nBHD1D3c5"
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 179513,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/1ihKr614f14PoXrw8sekg5"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 199493,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+      "duration_ms": 279413,
+      "name": "Has Anyone Ever Written Anything for You",
+      "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
     },
     {
       "added_at": "2018-12-10 14:53:26",
@@ -75,22 +59,6 @@
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "Little Wonders",
-        "url": "https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN"
-      },
-      "artists": [
-        {
-          "name": "Rob Thomas",
-          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Little Wonders",
-      "url": "https://open.spotify.com/track/6j6bTAiW0oEfLlAjmRNcbb"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
         "name": "The Lion The Beast The Beat (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2JcoZUEwztDoEKUiqd7Yk9"
       },
@@ -103,6 +71,38 @@
       "duration_ms": 215933,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6s7sq2Quh4TxHRfdk6eFxk"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/6UpXdAtNFYwMy00Ytd7aOh"
+      },
+      "artists": [
+        {
+          "name": "Zach Sobiech",
+          "url": "https://open.spotify.com/artist/1gPo4GYra6HG4nBHD1D3c5"
+        }
+      ],
+      "duration_ms": 179513,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/1ihKr614f14PoXrw8sekg5"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
       "added_at": "2018-12-10 14:53:26",
@@ -123,18 +123,34 @@
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "Rock a Little",
-        "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
+        "name": "Little Wonders",
+        "url": "https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN"
       },
       "artists": [
         {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
         }
       ],
-      "duration_ms": 279413,
-      "name": "Has Anyone Ever Written Anything for You",
-      "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
+      "duration_ms": 224720,
+      "name": "Little Wonders",
+      "url": "https://open.spotify.com/track/6j6bTAiW0oEfLlAjmRNcbb"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Rhino Hi-Five: James Taylor",
+        "url": "https://open.spotify.com/album/7dv7ZbDs30Q5CkbKjNp5yf"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 202399,
+      "name": "Fire And Rain",
+      "url": "https://open.spotify.com/track/2fFukMZncs29A8kuekOzqO"
     },
     {
       "added_at": "2018-12-10 14:53:26",
@@ -155,38 +171,18 @@
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "Wreck of the Day",
-        "url": "https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9"
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/7fvl3dOnDrv9rq5IBmLbAa"
       },
       "artists": [
         {
-          "name": "Anna Nalick",
-          "url": "https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR"
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 279826,
-      "name": "Breathe (2 AM)",
-      "url": "https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "An American Tail",
-        "url": "https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Somewhere Out There - From \"An American Tail\" Soundtrack",
-      "url": "https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy"
+      "duration_ms": 220840,
+      "name": "There You'll Be - 2007 Remaster",
+      "url": "https://open.spotify.com/track/1s2khOWzC99udpUaPICLJI"
     },
     {
       "added_at": "2018-12-10 14:53:26",
@@ -223,70 +219,6 @@
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "My Private Nation",
-        "url": "https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "When I Look to the Sky",
-      "url": "https://open.spotify.com/track/3h0NvxPV2wiENW2ieih9DL"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "Rhino Hi-Five: James Taylor",
-        "url": "https://open.spotify.com/album/7dv7ZbDs30Q5CkbKjNp5yf"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 202399,
-      "name": "Fire And Rain",
-      "url": "https://open.spotify.com/track/2fFukMZncs29A8kuekOzqO"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "The Hits",
-        "url": "https://open.spotify.com/album/7fvl3dOnDrv9rq5IBmLbAa"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 220840,
-      "name": "There You'll Be - 2007 Remaster",
-      "url": "https://open.spotify.com/track/1s2khOWzC99udpUaPICLJI"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "The Road And The Radio",
-        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
-      },
-      "artists": [
-        {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
-        }
-      ],
-      "duration_ms": 254573,
-      "name": "Who You'd Be Today",
-      "url": "https://open.spotify.com/track/5Vkdh8GfdXmwyJjzPewMWM"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
         "name": "Bleed American",
         "url": "https://open.spotify.com/album/1VbyDS3tGhe4iHfIJ7AMtr"
       },
@@ -319,82 +251,70 @@
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "His And Hers",
-        "url": "https://open.spotify.com/album/15gaHMxK5LeJxQ9IfdHkjg"
+        "name": "Caitlin & Will - EP",
+        "url": "https://open.spotify.com/album/3zdXdIhLUApfI5RLYemWJg"
       },
       "artists": [
         {
-          "name": "Joey + Rory",
-          "url": "https://open.spotify.com/artist/31Esw1yHgJZBPcRa4nUyTP"
+          "name": "Caitlin & Will",
+          "url": "https://open.spotify.com/artist/28DnGfYVa3y8N6PhN2pNDH"
         }
       ],
-      "duration_ms": 234280,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/54SEsuLm43yxTeFTkSAnk5"
+      "duration_ms": 268666,
+      "name": "Address In The Stars",
+      "url": "https://open.spotify.com/track/38xPWth17mRx6oIYzfRx4P"
     },
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/5jGtAoTDBe7gUWR7xbBKVP"
+        "name": "An American Tail",
+        "url": "https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9"
       },
       "artists": [
         {
-          "name": "Anna Pancaldi",
-          "url": "https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI"
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
         }
       ],
-      "duration_ms": 298078,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/5rgCZ4FOMcs4X9GVNW99WB"
+      "duration_ms": 238173,
+      "name": "Somewhere Out There - From \"An American Tail\" Soundtrack",
+      "url": "https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy"
     },
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/09lZwjsn0t2T62XaGUqfwP"
+        "name": "Wreck of the Day",
+        "url": "https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9"
       },
       "artists": [
         {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+          "name": "Anna Nalick",
+          "url": "https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR"
         }
       ],
-      "duration_ms": 216040,
-      "name": "One More Day",
-      "url": "https://open.spotify.com/track/5mcWdITson4DJcYtH5xo0f"
+      "duration_ms": 279826,
+      "name": "Breathe (2 AM)",
+      "url": "https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56"
     },
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "...Hits",
-        "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
+        "name": "My Private Nation",
+        "url": "https://open.spotify.com/album/3gQ2rh7TxfCgpfj40Eo8D1"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Against All Odds (Take A Look At Me Now)",
-      "url": "https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "Final Straw (Non-EU Version)",
-        "url": "https://open.spotify.com/album/1t6v2wPeIEvmUmBxVCQRt5"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 356666,
-      "name": "Run - Revised Album Version",
-      "url": "https://open.spotify.com/track/4jrqkTSKcIUA7RN8SVa04W"
+      "duration_ms": 244640,
+      "name": "When I Look to the Sky",
+      "url": "https://open.spotify.com/track/3h0NvxPV2wiENW2ieih9DL"
     },
     {
       "added_at": "2018-12-10 14:53:26",
@@ -419,22 +339,6 @@
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "Cheap Seats",
-        "url": "https://open.spotify.com/album/6Fni93NDS4tJcpK9khTdkK"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 247786,
-      "name": "Angels Among Us",
-      "url": "https://open.spotify.com/track/1SfVovWx4f5U5eYKjGxSGR"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
         "name": "The Joshua Tree (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ"
       },
@@ -447,6 +351,102 @@
       "duration_ms": 322373,
       "name": "One Tree Hill - Remastered 2007",
       "url": "https://open.spotify.com/track/4bGwp1Mp3sQczkwkmBEFZp"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "His And Hers",
+        "url": "https://open.spotify.com/album/15gaHMxK5LeJxQ9IfdHkjg"
+      },
+      "artists": [
+        {
+          "name": "Joey + Rory",
+          "url": "https://open.spotify.com/artist/31Esw1yHgJZBPcRa4nUyTP"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/54SEsuLm43yxTeFTkSAnk5"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "The Essential Celine Dion",
+        "url": "https://open.spotify.com/album/4Weiw9hd6IyxyjRyeDp3dF"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 275426,
+      "name": "Dance With My Father",
+      "url": "https://open.spotify.com/track/3qNL0uhj87WEB7z13T7oSh"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Hospital Hymns",
+        "url": "https://open.spotify.com/album/1gULFYjDeEsMRAXwz04qZe"
+      },
+      "artists": [
+        {
+          "name": "Corey Kilgannon",
+          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
+        }
+      ],
+      "duration_ms": 312840,
+      "name": "Hospital Hymns",
+      "url": "https://open.spotify.com/track/5o4yJPLDYjZki6Ozv72WBY"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "To Venus And Back",
+        "url": "https://open.spotify.com/album/3S2keg0fnqntc1PDzSqfuB"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 259026,
+      "name": "1000 Oceans - 2008 Version",
+      "url": "https://open.spotify.com/track/4fWfl4RH8kBCuNKpiTQjrH"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Alix's Song",
+        "url": "https://open.spotify.com/album/0lqADxxH96Eet7u7vUQTGM"
+      },
+      "artists": [
+        {
+          "name": "Michelle Limanni",
+          "url": "https://open.spotify.com/artist/33D9P1nYcZPWTFb4nQFoEf"
+        }
+      ],
+      "duration_ms": 271729,
+      "name": "Alix's Song",
+      "url": "https://open.spotify.com/track/4mWBvP6cR0OG6nsZ9tJgik"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/5jGtAoTDBe7gUWR7xbBKVP"
+      },
+      "artists": [
+        {
+          "name": "Anna Pancaldi",
+          "url": "https://open.spotify.com/artist/6om1oTl0iSZGBRs52bJEqI"
+        }
+      ],
+      "duration_ms": 298078,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/5rgCZ4FOMcs4X9GVNW99WB"
     },
     {
       "added_at": "2018-12-10 14:53:26",
@@ -495,38 +495,6 @@
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "Four The Record (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/119X9tkbPTqambSALCUNdW"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 253373,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/4hIqZEgvWw9Pn3kucNtq2T"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "Alix's Song",
-        "url": "https://open.spotify.com/album/0lqADxxH96Eet7u7vUQTGM"
-      },
-      "artists": [
-        {
-          "name": "Michelle Limanni",
-          "url": "https://open.spotify.com/artist/33D9P1nYcZPWTFb4nQFoEf"
-        }
-      ],
-      "duration_ms": 271729,
-      "name": "Alix's Song",
-      "url": "https://open.spotify.com/track/4mWBvP6cR0OG6nsZ9tJgik"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
         "name": "Elton John's Greatest Hits",
         "url": "https://open.spotify.com/album/6T9u7scKy8yDe6V1QmXpoJ"
       },
@@ -539,150 +507,6 @@
       "duration_ms": 228000,
       "name": "Candle In The Wind",
       "url": "https://open.spotify.com/track/1ZvS1DmW1cF0oknYGCVNK7"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "Hilary Duff",
-        "url": "https://open.spotify.com/album/5Nqi3q9QlLL75JTNcN1xu0"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 251226,
-      "name": "Someone's Watching Over Me",
-      "url": "https://open.spotify.com/track/5GjSpnToDJhBx76Vy2tnJT"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "Hospital Hymns",
-        "url": "https://open.spotify.com/album/1gULFYjDeEsMRAXwz04qZe"
-      },
-      "artists": [
-        {
-          "name": "Corey Kilgannon",
-          "url": "https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk"
-        }
-      ],
-      "duration_ms": 312840,
-      "name": "Hospital Hymns",
-      "url": "https://open.spotify.com/track/5o4yJPLDYjZki6Ozv72WBY"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "Swimming Alone",
-        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
-      },
-      "artists": [
-        {
-          "name": "Liz Rose",
-          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
-        }
-      ],
-      "duration_ms": 199339,
-      "name": "Yellow Room",
-      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "Caitlin & Will - EP",
-        "url": "https://open.spotify.com/album/3zdXdIhLUApfI5RLYemWJg"
-      },
-      "artists": [
-        {
-          "name": "Caitlin & Will",
-          "url": "https://open.spotify.com/artist/28DnGfYVa3y8N6PhN2pNDH"
-        }
-      ],
-      "duration_ms": 268666,
-      "name": "Address In The Stars",
-      "url": "https://open.spotify.com/track/38xPWth17mRx6oIYzfRx4P"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "Essential - Soul Love",
-        "url": "https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 242786,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/3pgbjAecMTs1XDa7ccFlCC"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 219546,
-      "name": "If You Could See Me Now",
-      "url": "https://open.spotify.com/track/6EzSy7WxNCazx3csu7lxdV"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "To Venus And Back",
-        "url": "https://open.spotify.com/album/3S2keg0fnqntc1PDzSqfuB"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 259026,
-      "name": "1000 Oceans - 2008 Version",
-      "url": "https://open.spotify.com/track/4fWfl4RH8kBCuNKpiTQjrH"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "Clapton Chronicles: The Best of Eric Clapton",
-        "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 271760,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "The Essential Celine Dion",
-        "url": "https://open.spotify.com/album/4Weiw9hd6IyxyjRyeDp3dF"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 275426,
-      "name": "Dance With My Father",
-      "url": "https://open.spotify.com/track/3qNL0uhj87WEB7z13T7oSh"
     },
     {
       "added_at": "2018-12-10 14:53:26",
@@ -703,34 +527,258 @@
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/0Y9myxNx1cBmABtbZEYUfV"
+        "name": "...Hits",
+        "url": "https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf"
       },
       "artists": [
         {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 340106,
-      "name": "In Loving Memory",
-      "url": "https://open.spotify.com/track/04NcQ27eqxzypjY2Mnv6xO"
+      "duration_ms": 204600,
+      "name": "Against All Odds (Take A Look At Me Now)",
+      "url": "https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1"
     },
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "Light Up The Sky",
-        "url": "https://open.spotify.com/album/0AZUAZASaKOVyLM3DxW5lJ"
+        "name": "Essential - Soul Love",
+        "url": "https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6"
       },
       "artists": [
         {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 219026,
-      "name": "Light Up The Sky",
-      "url": "https://open.spotify.com/track/3bDGTEU1NeVnQdeQoR4hwh"
+      "duration_ms": 242786,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/3pgbjAecMTs1XDa7ccFlCC"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Day & Age",
+        "url": "https://open.spotify.com/album/7FuhgOwoael0fsg9zjZxog"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 411373,
+      "name": "Goodnight, Travel Well",
+      "url": "https://open.spotify.com/track/0HfMp4RGDgjvrWX3j0VZnJ"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/09lZwjsn0t2T62XaGUqfwP"
+      },
+      "artists": [
+        {
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "One More Day",
+      "url": "https://open.spotify.com/track/5mcWdITson4DJcYtH5xo0f"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Hilary Duff",
+        "url": "https://open.spotify.com/album/5Nqi3q9QlLL75JTNcN1xu0"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 251226,
+      "name": "Someone's Watching Over Me",
+      "url": "https://open.spotify.com/track/5GjSpnToDJhBx76Vy2tnJT"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Cheap Seats",
+        "url": "https://open.spotify.com/album/6Fni93NDS4tJcpK9khTdkK"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 247786,
+      "name": "Angels Among Us",
+      "url": "https://open.spotify.com/track/1SfVovWx4f5U5eYKjGxSGR"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Final Straw (Non-EU Version)",
+        "url": "https://open.spotify.com/album/1t6v2wPeIEvmUmBxVCQRt5"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 356666,
+      "name": "Run - Revised Album Version",
+      "url": "https://open.spotify.com/track/4jrqkTSKcIUA7RN8SVa04W"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Four The Record (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/119X9tkbPTqambSALCUNdW"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 253373,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/4hIqZEgvWw9Pn3kucNtq2T"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Invisible Empire // Crescent Moon (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1WJEnJaRRrWbTAjm4hh48W"
+      },
+      "artists": [
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "duration_ms": 251314,
+      "name": "Made Of Glass",
+      "url": "https://open.spotify.com/track/4hwmi0rww2nhVCZCCCepC4"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Clapton Chronicles: The Best of Eric Clapton",
+        "url": "https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 271760,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/7utRJ4BeYx85khzP3lKoBX"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "The Road And The Radio",
+        "url": "https://open.spotify.com/album/5uMLCobPh02IG3fyH0Dzec"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "duration_ms": 254573,
+      "name": "Who You'd Be Today",
+      "url": "https://open.spotify.com/track/5Vkdh8GfdXmwyJjzPewMWM"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Swimming Alone",
+        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
+      },
+      "artists": [
+        {
+          "name": "Liz Rose",
+          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
+        }
+      ],
+      "duration_ms": 199339,
+      "name": "Yellow Room",
+      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "An Acoustic Performance Of Reach For The Sun",
+        "url": "https://open.spotify.com/album/04nbWibWwy1KYViwM7iy6r"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 165944,
+      "name": "The Permanent Rain - Acoustic Version",
+      "url": "https://open.spotify.com/track/3lfJVjr8qaFZ9IBHaPjPjn"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Almost There",
+        "url": "https://open.spotify.com/album/4BDftZAnppbkKAA4O4APzn"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 248253,
+      "name": "I Can Only Imagine",
+      "url": "https://open.spotify.com/track/0lVYRIVjK77Z6uG2GgM8Kl"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "Ringo 5.1",
+        "url": "https://open.spotify.com/album/7ocjnpmGFaFLlzaMdbY5PY"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 323853,
+      "name": "Never Without You",
+      "url": "https://open.spotify.com/track/41ZnzVlD0Kxmv1mT9mYvfT"
+    },
+    {
+      "added_at": "2018-12-10 14:53:26",
+      "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 219546,
+      "name": "If You Could See Me Now",
+      "url": "https://open.spotify.com/track/6EzSy7WxNCazx3csu7lxdV"
     },
     {
       "added_at": "2018-12-10 14:53:26",
@@ -755,82 +803,34 @@
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "Ringo 5.1",
-        "url": "https://open.spotify.com/album/7ocjnpmGFaFLlzaMdbY5PY"
+        "name": "Axis Mundi",
+        "url": "https://open.spotify.com/album/1Br1pBqY2XH6L3cQpNUFLY"
       },
       "artists": [
         {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+          "name": "Brown Bird",
+          "url": "https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP"
         }
       ],
-      "duration_ms": 323853,
-      "name": "Never Without You",
-      "url": "https://open.spotify.com/track/41ZnzVlD0Kxmv1mT9mYvfT"
+      "duration_ms": 261413,
+      "name": "Tortured Boy",
+      "url": "https://open.spotify.com/track/4zKjdHoYHj0CEooWORisWQ"
     },
     {
       "added_at": "2018-12-10 14:53:26",
       "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/00ZcKI8FsAB47BfFFNwEYx"
+        "name": "Everything Changes (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2ECn6CKh3Lv2WkZNooU2vi"
       },
       "artists": [
         {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+          "name": "Julian Lennon",
+          "url": "https://open.spotify.com/artist/4Tvos0a5rRrBu4Oodu5f79"
         }
       ],
-      "duration_ms": 249706,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/49bTh2iHZzelNeuhniLnYJ"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "The All Time Greatest Movie Songs",
-        "url": "https://open.spotify.com/album/2utmprJOfjPVxqT6CV85wk"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
-      "url": "https://open.spotify.com/track/3oedBzag96zA0Tx1Kokwlj"
-    },
-    {
-      "added_at": "2018-12-10 14:53:26",
-      "album": {
-        "name": "Away From The Sun",
-        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
+      "duration_ms": 288639,
+      "name": "Beautiful - Acoustic Version",
+      "url": "https://open.spotify.com/track/6eRZNKHALXRajSpFozeO6J"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVxpHBekDUXK"

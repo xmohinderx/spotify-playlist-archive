@@ -407,7 +407,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "Basement",
       "url": "https://open.spotify.com/track/0qAGuRY2EQLbK5TM8ydzrn"
@@ -1645,7 +1645,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 253240,
       "name": "Erase",
       "url": "https://open.spotify.com/track/1BbXlbs8pWeYI2yGpGhuzA"
@@ -2519,7 +2519,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 288238,
       "name": "Insomnia 2021 - Epic Edit",
       "url": "https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE"
@@ -2939,7 +2939,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 230495,
       "name": "Let's Go Dancing",
       "url": "https://open.spotify.com/track/6FMphYgkefCrVXG5Wd8Xep"
@@ -3111,6 +3111,24 @@
       "duration_ms": 253440,
       "name": "Like My Way",
       "url": "https://open.spotify.com/track/4iELCZDu8BTCgP0MWNLQ9u"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm"
+      },
+      "artists": [
+        {
+          "name": "Seamus D",
+          "url": "https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180719,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
     },
     {
       "album": {
@@ -3715,7 +3733,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 203482,
       "name": "Never Gonna Tell You",
       "url": "https://open.spotify.com/track/58RXFvoX6t0JNYDls2ANh2"
@@ -4443,7 +4461,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 154680,
       "name": "Set U Free",
       "url": "https://open.spotify.com/track/0m69QNuZVZDXhGHBGK1mQA"
@@ -4737,7 +4755,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 181012,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/1CX73iXs4CVUKESOG8BpwT"
@@ -4983,7 +5001,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 186774,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/7FuOr01j61l7nBgENXfOIX"
@@ -5189,7 +5207,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 234312,
       "name": "Tighter (feat. Jalja) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO"
@@ -5291,7 +5309,7 @@
       ],
       "date_added": "2021-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 161973,
       "name": "Up All Night",
       "url": "https://open.spotify.com/track/5s7nFwGLm6V2PUVhX45Sbi"
@@ -5555,7 +5573,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 164878,
       "name": "White Rabbit - Moxy Club Mix",
       "url": "https://open.spotify.com/track/2Zp0oCiV6xQZjLHUzrTJxv"

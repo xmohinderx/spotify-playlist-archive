@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbNxXF4SkHj9F.md) - [plain]
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,313 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,322 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

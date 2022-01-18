@@ -45,7 +45,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 255800,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/0TcBdP8MSugpUPhm0xzGHe"
@@ -101,7 +101,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 245454,
       "name": "A Solas",
       "url": "https://open.spotify.com/track/3mvI9cYkpQ2v3cKdGqQuLl"
@@ -123,7 +123,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 212613,
       "name": "Ah\u00ed Les Va",
       "url": "https://open.spotify.com/track/54xhs6kMBcCKBRJ6KBE2c0"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 201290,
       "name": "Bando Boyz Free 2",
       "url": "https://open.spotify.com/track/4D3fwZeOechinXHc72oCir"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 141320,
       "name": "Chucky73: Bzrp Music Sessions, Vol. 43",
       "url": "https://open.spotify.com/track/4xTd8fz0mZFK5b9IYdGKNd"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 165199,
       "name": "EL MUNDO ES M\u00cdO",
       "url": "https://open.spotify.com/track/36DHxTW2xdr9GG15T9oK9L"
@@ -1327,7 +1327,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 172213,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/04DlbpJxmhV7yYkqqOcgAq"
@@ -1506,6 +1506,44 @@
     },
     {
       "album": {
+        "name": "Lambo (Remix)",
+        "url": "https://open.spotify.com/album/3GXikZX8EISv22KFluFDBx"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Chucky73",
+          "url": "https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE"
+        },
+        {
+          "name": "Nake",
+          "url": "https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG"
+        },
+        {
+          "name": "WE$T DUBAI",
+          "url": "https://open.spotify.com/artist/0ThxHJx0ElqLD8h2Compyq"
+        },
+        {
+          "name": "Moonkey",
+          "url": "https://open.spotify.com/artist/3qiQUUvazYmo7tBgQeb2rf"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251473,
+      "name": "Lambo - Remix",
+      "url": "https://open.spotify.com/track/6TcRhfejpeeSSGlh433wcD"
+    },
+    {
+      "album": {
         "name": "Retumban2",
         "url": "https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy"
       },
@@ -1547,7 +1585,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 160443,
       "name": "Lejos del 2",
       "url": "https://open.spotify.com/track/48o727mFrVfLqaB8ugnCy7"
@@ -1781,7 +1819,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 277500,
       "name": "Nunca Sabr\u00e1s Cuanto",
       "url": "https://open.spotify.com/track/0oBQZIiLTU4moUsA2HN2DM"
@@ -1989,7 +2027,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 217285,
       "name": "Qu\u00e9date Un Ratito M\u00e1s",
       "url": "https://open.spotify.com/track/4MbjSazMBRQlnurwr2qLuH"
@@ -2055,7 +2093,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 156521,
       "name": "Roca N' Ron",
       "url": "https://open.spotify.com/track/17tWQcqeNO4Hh0RF9gJcvO"
@@ -2077,7 +2115,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Sangre De Mi Sangre",
       "url": "https://open.spotify.com/track/5JVrEEGdlpNj82dDrV12PB"
@@ -2335,7 +2373,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 264385,
       "name": "TATA - Remix",
       "url": "https://open.spotify.com/track/1hfufCKTZ0wIQwoW9tXoDR"

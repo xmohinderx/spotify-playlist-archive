@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [30 Horas](https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ) | [Cuarta Pared](https://open.spotify.com/artist/2hNk3m3EelZ8vnecBGhOqX) | [30 Horas](https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8) | 3:39 | 2021-12-09 | 2022-01-17 |
+| [30 Horas](https://open.spotify.com/track/0v1fyQIaCG4e3TwCO3F0VZ) | [Cuarta Pared](https://open.spotify.com/artist/2hNk3m3EelZ8vnecBGhOqX) | [30 Horas](https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8) | 3:39 | 2021-12-09 |  |
 | [Ai Mi Morena \- Chocolate Restyle](https://open.spotify.com/track/5V1gtLx7ftEsGCceWxq3be) | [Mo' Horizons](https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP) | [Brazilution Special Stereo Deluxe Online Edition](https://open.spotify.com/album/3jHzW7vbLiQJ3tLhZnQOcz) | 5:30 | 2021-12-09 |  |
 | [Algo Contigo \(with Our Latin Thing\)](https://open.spotify.com/track/66JW6e9yEE8A0Y3pLpW6iD) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ), [Our Latin Thing](https://open.spotify.com/artist/7D4bz5J1TI5CohcDFQD6tn) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:09 | 2021-12-09 | 2022-01-15 |
 | [Around the World \- Intro](https://open.spotify.com/track/3ZQ9xmsi4CQ8cFc4sj19yd) | [Señor Coconut](https://open.spotify.com/artist/6rATWMhuTXfhBqtB3IQRWd) | [Around The World With Señor Coconut And His Orchestra](https://open.spotify.com/album/4HrIQaNtuCgpmafURJzpef) | 2:46 | 2021-12-09 |  |
@@ -50,7 +50,7 @@
 | [El rincón \(Chachachá\)](https://open.spotify.com/track/53FTMNsJZWS3rnJzHoaugG) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Las Olas](https://open.spotify.com/album/0QIv2shOFaPcLZpzydG3k0) | 3:51 | 2021-12-09 |  |
 | [Electric Boogaloo](https://open.spotify.com/track/4duwdgGjNHJc1uel4SZPya) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/6iXN0n421mEm5R1tpznHkx) | 4:00 | 2021-12-09 |  |
 | [Electric Soul](https://open.spotify.com/track/2DlDgDM7wNOjfJhN90rWmv) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Mettavolution](https://open.spotify.com/album/11PnTDfjNGEbfpGSfvGKwt) | 3:58 | 2021-12-09 |  |
-| [Eléctrico](https://open.spotify.com/track/0Gckfc7dNN6ZvBzIaUMYFf) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Conquistador](https://open.spotify.com/album/7yIFStyskuDlvS7jm74uiy) | 3:37 | 2021-12-09 |  |
+| [Eléctrico](https://open.spotify.com/track/0Gckfc7dNN6ZvBzIaUMYFf) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Conquistador](https://open.spotify.com/album/7yIFStyskuDlvS7jm74uiy) | 3:37 | 2021-12-09 | 2022-01-18 |
 | [En Medio Del Jardín](https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [En Medio Del Jardín](https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY) | 3:41 | 2021-12-09 |  |
 | [Enter Sandman](https://open.spotify.com/track/1waCD1063ls5iPDXqXKkwb) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Enter Sandman](https://open.spotify.com/album/7crDffUhpcHEhd8J11RRpx) | 4:53 | 2021-12-09 |  |
 | [Esperando Verte](https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Esperando Verte](https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT) | 3:52 | 2021-12-09 | 2022-01-17 |

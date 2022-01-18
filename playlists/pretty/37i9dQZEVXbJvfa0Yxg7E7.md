@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJvfa0Yxg7E7.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Norway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,294 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,300 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

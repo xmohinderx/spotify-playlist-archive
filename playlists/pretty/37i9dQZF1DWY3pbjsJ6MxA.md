@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3pbjsJ6MxA.md) - [plain]
 
 > Celebrate legendary DJ/BBC Radio 1 host John Peel's legacy in this collection of highlights from 5 decades of <a href="https://en.wikipedia.org/wiki/List\_of\_Peel\_sessions">Peel Sessions</a>\. Hear Pavement covering <a href="spotify:user:spotify:playlist:37i9dQZF1DX7mMRxgkst0Y">The Fall</a>, acoustic Morrissey, Nirvana before Nevermind, Bowie debuting Hunky Dory outtake, and many more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,231 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,239 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -158,6 +158,42 @@
     },
     {
       "album": {
+        "name": "Caution",
+        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155758,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
+    },
+    {
+      "album": {
+        "name": "Clear (feat. Mothica) - EP",
+        "url": "https://open.spotify.com/album/6oCsp4ctsspRKZW6O3e0Jd"
+      },
+      "artists": [
+        {
+          "name": "Pusher",
+          "url": "https://open.spotify.com/artist/2exudSjTjUksRJhnF5JZYn"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175265,
+      "name": "Clear - Shawn Wasabi Remix",
+      "url": "https://open.spotify.com/track/4wigqUPahl2Inid0B3IxKq"
+    },
+    {
+      "album": {
         "name": "Close Eyes",
         "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
       },
@@ -481,7 +517,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 115352,
       "name": "I'd Rather Sleep",
       "url": "https://open.spotify.com/track/56JcHvg7W4cCs6fQEOz2gW"
@@ -673,7 +709,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 196213,
       "name": "More Than A Woman - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE"
@@ -717,7 +753,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
@@ -757,10 +793,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 183000,
       "name": "NO WAY",
       "url": "https://open.spotify.com/track/2vjH6qrmEcwrvEQ5WGipUM"
+    },
+    {
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1JrGKRGG626YiCc6qR18dW"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189268,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5hmcw6bW5V24CvJqsz87We"
     },
     {
       "album": {
@@ -885,6 +943,24 @@
       "duration_ms": 327813,
       "name": "Swimming Pool",
       "url": "https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC"
+    },
+    {
+      "album": {
+        "name": "The Killer Is Escaping",
+        "url": "https://open.spotify.com/album/0Y8b1noI1vAAZBKwrCoBlf"
+      },
+      "artists": [
+        {
+          "name": "Sleepsleep",
+          "url": "https://open.spotify.com/artist/4CFMk5S0u6xWTtoLoaEJ6O"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "The Killer Is Escaping",
+      "url": "https://open.spotify.com/track/1nkTfBMSwfNouFGp7mpkfl"
     },
     {
       "album": {

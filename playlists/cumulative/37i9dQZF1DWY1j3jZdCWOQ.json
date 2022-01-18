@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "Bigger Than Me",
+        "url": "https://open.spotify.com/album/5xhkBNtePm018aeEKTiLLt"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Beyond My Control",
+      "url": "https://open.spotify.com/track/54Ogbi59xTBQkxTmcX392p"
+    },
+    {
+      "album": {
         "name": "Bite Me",
         "url": "https://open.spotify.com/album/6DgueXg1ArV74AlVJArLSv"
       },
@@ -253,7 +271,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 159636,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g"
@@ -405,7 +423,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 171620,
       "name": "forget me too (feat. Halsey)",
       "url": "https://open.spotify.com/track/1VSuFS7PahCN3SWbOcQ98m"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 161062,
       "name": "i'm gonna tell my therapist on you",
       "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 215644,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/1cIi1x8ANjMO97wH5OfYO1"
@@ -747,7 +765,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 176280,
       "name": "Monday",
       "url": "https://open.spotify.com/track/0dZr5sBxsXdi2PgdtchNnJ"

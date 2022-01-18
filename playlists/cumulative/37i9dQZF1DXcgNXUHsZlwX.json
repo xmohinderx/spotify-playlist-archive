@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 217560,
       "name": "1, 2, 3, 4",
       "url": "https://open.spotify.com/track/4vJGPuwAEtR9xmRZHdWOqm"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "Aussi loin",
       "url": "https://open.spotify.com/track/0v6ThdUvh2GFVyoyXW9b0z"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 257948,
       "name": "Dahlia",
       "url": "https://open.spotify.com/track/6Pc9fVvfIQBGX5JjzWbptz"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 153860,
       "name": "Dormance",
       "url": "https://open.spotify.com/track/0ah1tf7hgCCPoj78OSZB9E"
@@ -1561,7 +1561,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 140251,
       "name": "J'm'en sors pas",
       "url": "https://open.spotify.com/track/5qNV1GAcGCPfUJfDkUNF5E"
@@ -1579,7 +1579,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 206386,
       "name": "J'trouve \u00e7a beau",
       "url": "https://open.spotify.com/track/33gIRI0EOFISryPJtSVCqJ"
@@ -1735,7 +1735,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 84080,
       "name": "Kenny U-Pull",
       "url": "https://open.spotify.com/track/0n7Zu9yVuPqMYz4oJU25z1"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 232893,
       "name": "Les longues migrations",
       "url": "https://open.spotify.com/track/6NB5YYtXAzfZOu2vTflAHA"
@@ -3007,7 +3007,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 191108,
       "name": "Merci de rien",
       "url": "https://open.spotify.com/track/1HULX1oWsUEA39EGptA3fh"
@@ -3151,7 +3151,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 170219,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/3lmVvm0lBpxirgDHfLCLRR"
@@ -3537,7 +3537,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 233213,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/1ynGfPDC0MP63LWQPUtPVS"
@@ -3609,7 +3609,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 224312,
       "name": "Partir en mer",
       "url": "https://open.spotify.com/track/5YKJV6k3PKiXGYW0mda6X0"
@@ -3627,7 +3627,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 231346,
       "name": "Passagers",
       "url": "https://open.spotify.com/track/0Rli17YJQI1D7qraciHcKA"
@@ -3663,7 +3663,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 168403,
       "name": "Paysage",
       "url": "https://open.spotify.com/track/26HZllKgd2e7k9EIUbdgZ8"
@@ -4173,7 +4173,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 244214,
       "name": "Sagesse",
       "url": "https://open.spotify.com/track/6Lg74NbMBkG8mezUTNomyq"
@@ -4339,7 +4339,7 @@
       ],
       "date_added": "2021-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 453431,
       "name": "T'aimer est si beau",
       "url": "https://open.spotify.com/track/2QKsAweW504Pv4KgayaKRD"

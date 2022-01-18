@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 223451,
       "name": "11:11",
       "url": "https://open.spotify.com/track/093PI3mdUvOSlvMYDwnV1e"
@@ -138,6 +138,28 @@
     },
     {
       "album": {
+        "name": "look",
+        "url": "https://open.spotify.com/album/0i1vQkPkubyuGSdSGH3zdV"
+      },
+      "artists": [
+        {
+          "name": "JUNGKEY",
+          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
+        },
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254386,
+      "name": "Alone (Feat. GSoul)",
+      "url": "https://open.spotify.com/track/0TXGMVMHbmV8oHgayKayHs"
+    },
+    {
+      "album": {
         "name": "RETRO",
         "url": "https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N"
       },
@@ -193,7 +215,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 238066,
       "name": "Autumn Memories (with Lee Seok Hoon)",
       "url": "https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ"
@@ -265,7 +287,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 218680,
       "name": "Boy in time - HUI Solo",
       "url": "https://open.spotify.com/track/6RQ7IDXf8kKcSYYugGoJZf"
@@ -449,7 +471,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 254458,
       "name": "Dreaming me",
       "url": "https://open.spotify.com/track/48yWAEKHXC7HZumnUvoqoc"
@@ -619,7 +641,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
@@ -783,7 +805,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 220653,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/7bcfyB9jvnfkgLpIjZjL4Q"
@@ -867,7 +889,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 169448,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
@@ -1319,7 +1341,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 144960,
       "name": "Natural",
       "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
@@ -1413,7 +1435,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 272573,
       "name": "On A Starry Night",
       "url": "https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h"
@@ -1453,7 +1475,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 249723,
       "name": "One Sided Love",
       "url": "https://open.spotify.com/track/0d4VN98EgAtxFcKfjc5Kdw"
@@ -1662,6 +1684,28 @@
     },
     {
       "album": {
+        "name": "PLAYBACK #4 'Scattered Days'",
+        "url": "https://open.spotify.com/album/6JwxEhmxoie8ldjW6PBE7m"
+      },
+      "artists": [
+        {
+          "name": "Hanseul",
+          "url": "https://open.spotify.com/artist/1mXzPR6FH3CMZYu4VQ6ghD"
+        },
+        {
+          "name": "In the City",
+          "url": "https://open.spotify.com/artist/31Gze6obVZxuBeqEXJYNo8"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Scattered Days",
+      "url": "https://open.spotify.com/track/27HoEXjsTVnwmvsSMQEDKb"
+    },
+    {
+      "album": {
         "name": "Ballad 21 F/W",
         "url": "https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq"
       },
@@ -1695,7 +1739,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 216146,
       "name": "Solo Christmas",
       "url": "https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC"
@@ -1731,7 +1775,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 211292,
       "name": "sorry",
       "url": "https://open.spotify.com/track/5rKfG3LYDmGGmLj5A9xNZG"
@@ -1803,7 +1847,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 205440,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
@@ -1969,7 +2013,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 212608,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"

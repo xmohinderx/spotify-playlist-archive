@@ -1,12 +1,12 @@
 {
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Mos Def & Talib Kweli",
   "name": "I Love My Underground Classics",
-  "num_followers": 232419,
+  "num_followers": 232460,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ1ODM4NiwwMDAwMDAwMDgxYWU0ZTNkNDczNDgxNjllMTJmY2NiNDUwMDEzYTU1",
+  "snapshot_id": "MTY0MjQ2Njk4NywwMDAwMDAwMDMzMTI1NmUzZGY5OWYzMGVhYjFlMzExMzEzYTZlMWY4",
   "tracks": [
     {
       "added_at": "2021-07-29 22:51:03",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/4MbV8zrWudQflnbiIzp29t"
     },
     {
+      "added_at": "2021-01-11 18:08:05",
+      "album": {
+        "name": "The Shining",
+        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Won't Do",
+      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
+    },
+    {
       "added_at": "2020-09-25 04:39:22",
       "album": {
         "name": "Fantastic, Vol. 2.10",
@@ -75,22 +91,6 @@
       "duration_ms": 235212,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/2KBo6O5rkNdtYT3wYjkEkq"
-    },
-    {
-      "added_at": "2021-03-26 15:50:36",
-      "album": {
-        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
-        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
-      },
-      "artists": [
-        {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        }
-      ],
-      "duration_ms": 253068,
-      "name": "2000 Seasons",
-      "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
     },
     {
       "added_at": "2021-03-26 15:50:36",
@@ -129,20 +129,24 @@
       "url": "https://open.spotify.com/track/6RBMpENxbx74lTdR5SBcaF"
     },
     {
-      "added_at": "2021-02-01 17:08:11",
+      "added_at": "2021-07-29 22:51:03",
       "album": {
-        "name": "Donuts",
-        "url": "https://open.spotify.com/album/7xJ7jHNu3JNfdnao9xwMho"
+        "name": "Mos Def & Talib Kweli Are Black Star",
+        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
       },
       "artists": [
         {
-          "name": "J Dilla",
-          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+          "name": "Black Star",
+          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         }
       ],
-      "duration_ms": 119386,
-      "name": "Don't Cry",
-      "url": "https://open.spotify.com/track/4jVqbLx0MvlIaj3h2D872X"
+      "duration_ms": 365333,
+      "name": "Respiration",
+      "url": "https://open.spotify.com/track/5mxVKAuunOKqcBfR5ivbRf"
     },
     {
       "added_at": "2021-03-26 15:50:36",
@@ -171,26 +175,6 @@
       "duration_ms": 241394,
       "name": "Reality Check",
       "url": "https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU"
-    },
-    {
-      "added_at": "2021-07-29 22:51:03",
-      "album": {
-        "name": "Mos Def & Talib Kweli Are Black Star",
-        "url": "https://open.spotify.com/album/6GRzmk9UGL7odxprOPop1Q"
-      },
-      "artists": [
-        {
-          "name": "Black Star",
-          "url": "https://open.spotify.com/artist/67ei8ib6PLT1w3OkhIb4fB"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 365333,
-      "name": "Respiration",
-      "url": "https://open.spotify.com/track/5mxVKAuunOKqcBfR5ivbRf"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -233,6 +217,22 @@
       "url": "https://open.spotify.com/track/5jAvbp8kEnRPToi4Bzcvzt"
     },
     {
+      "added_at": "2021-03-26 15:50:36",
+      "album": {
+        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
+        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        }
+      ],
+      "duration_ms": 253068,
+      "name": "2000 Seasons",
+      "url": "https://open.spotify.com/track/5fAacciZPmLLFrr8RZ5fvn"
+    },
+    {
       "added_at": "2021-02-01 17:08:11",
       "album": {
         "name": "Donuts",
@@ -247,38 +247,6 @@
       "duration_ms": 177120,
       "name": "Workinonit",
       "url": "https://open.spotify.com/track/6qK7s9JlNBfYLWPb1nwQAG"
-    },
-    {
-      "added_at": "2021-08-13 21:56:13",
-      "album": {
-        "name": "Fan-Tas-Tic, Vol. 2",
-        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 211132,
-      "name": "Get Dis Money",
-      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "The LP",
-        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
-      },
-      "artists": [
-        {
-          "name": "Large Professor",
-          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "I Juswanna Chill",
-      "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
     },
     {
       "added_at": "2021-03-26 14:56:41",
@@ -297,28 +265,80 @@
       "url": "https://open.spotify.com/track/6piDHcH0vdPWzIg2uU2q3K"
     },
     {
-      "added_at": "2021-01-11 18:08:05",
+      "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
-        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
       },
       "artists": [
         {
-          "name": "Talib Kweli",
-          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
-        },
-        {
-          "name": "Yasiin Bey",
-          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
-        },
-        {
-          "name": "Mr Man",
-          "url": "https://open.spotify.com/artist/0g0fNhGsKbfFuNlaHK9e43"
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
         }
       ],
-      "duration_ms": 311040,
-      "name": "Fortfied Live",
-      "url": "https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL"
+      "duration_ms": 208866,
+      "name": "I Juswanna Chill",
+      "url": "https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw"
+    },
+    {
+      "added_at": "2021-01-06 03:25:12",
+      "album": {
+        "name": "Madvillainy",
+        "url": "https://open.spotify.com/album/01FCoGEQ3NFWF4fHJzdiax"
+      },
+      "artists": [
+        {
+          "name": "Madvillain",
+          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ],
+      "duration_ms": 131866,
+      "name": "Meat Grinder",
+      "url": "https://open.spotify.com/track/60PZUWKsJC52uXaPlPcEVf"
+    },
+    {
+      "added_at": "2021-08-13 21:56:13",
+      "album": {
+        "name": "Fan-Tas-Tic, Vol. 2",
+        "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        }
+      ],
+      "duration_ms": 211132,
+      "name": "Get Dis Money",
+      "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
+    },
+    {
+      "added_at": "2021-07-29 22:51:03",
+      "album": {
+        "name": "The Grind Date",
+        "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        },
+        {
+          "name": "Yummy",
+          "url": "https://open.spotify.com/artist/3EPDUft8JXlRTIsrNqfFDS"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Much More (feat. Yummy)",
+      "url": "https://open.spotify.com/track/5zEP0MRnDe5qwL361xBz0B"
     },
     {
       "added_at": "2020-09-25 14:36:39",
@@ -361,78 +381,30 @@
       "url": "https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij"
     },
     {
-      "added_at": "2021-07-29 22:51:03",
+      "added_at": "2021-08-13 21:56:13",
       "album": {
-        "name": "The Grind Date",
-        "url": "https://open.spotify.com/album/1RmcAYmGiRHFBjhgkrg3AA"
+        "name": "Train Of Thought",
+        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
       },
       "artists": [
         {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        },
-        {
-          "name": "Yummy",
-          "url": "https://open.spotify.com/artist/3EPDUft8JXlRTIsrNqfFDS"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Much More (feat. Yummy)",
-      "url": "https://open.spotify.com/track/5zEP0MRnDe5qwL361xBz0B"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Hi-Teknology",
-        "url": "https://open.spotify.com/album/0VWDxRqfRmC5O6rW6Fq3ND"
-      },
-      "artists": [
-        {
-          "name": "Hi-Tek",
-          "url": "https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg"
-        },
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+          "name": "Reflection Eternal",
+          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
         },
         {
           "name": "Vinia Mojica",
           "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
         }
       ],
-      "duration_ms": 274826,
-      "name": "The Sun God",
-      "url": "https://open.spotify.com/track/2IUCmiYLRuQohsIyiE3RaG"
+      "duration_ms": 187026,
+      "name": "Blast",
+      "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
     },
     {
-      "added_at": "2021-01-06 03:25:12",
+      "added_at": "2021-02-01 17:08:11",
       "album": {
-        "name": "Madvillainy",
-        "url": "https://open.spotify.com/album/01FCoGEQ3NFWF4fHJzdiax"
-      },
-      "artists": [
-        {
-          "name": "Madvillain",
-          "url": "https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        },
-        {
-          "name": "MF DOOM",
-          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
-        }
-      ],
-      "duration_ms": 131866,
-      "name": "Meat Grinder",
-      "url": "https://open.spotify.com/track/60PZUWKsJC52uXaPlPcEVf"
-    },
-    {
-      "added_at": "2021-01-11 18:08:05",
-      "album": {
-        "name": "The Shining",
-        "url": "https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5"
+        "name": "Donuts",
+        "url": "https://open.spotify.com/album/7xJ7jHNu3JNfdnao9xwMho"
       },
       "artists": [
         {
@@ -440,9 +412,49 @@
           "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Won't Do",
-      "url": "https://open.spotify.com/track/5IYzq28hEwrCRFDvQRFFpM"
+      "duration_ms": 119386,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/4jVqbLx0MvlIaj3h2D872X"
+    },
+    {
+      "added_at": "2021-01-11 18:08:05",
+      "album": {
+        "name": "Train of Thought: Lost Lyrics, Rare Releases & Beautiful B-Sides, Vol. 1",
+        "url": "https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo"
+      },
+      "artists": [
+        {
+          "name": "Talib Kweli",
+          "url": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        {
+          "name": "Yasiin Bey",
+          "url": "https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH"
+        },
+        {
+          "name": "Mr Man",
+          "url": "https://open.spotify.com/artist/0g0fNhGsKbfFuNlaHK9e43"
+        }
+      ],
+      "duration_ms": 311040,
+      "name": "Fortfied Live",
+      "url": "https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "The Way You Do It/The Get Up",
+        "url": "https://open.spotify.com/album/1FoizIaKBYPv4c0RbKf7mm"
+      },
+      "artists": [
+        {
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+        }
+      ],
+      "duration_ms": 236400,
+      "name": "The Way You Do It",
+      "url": "https://open.spotify.com/track/0G3uLnfuwt3PLxw6QgDIZr"
     },
     {
       "added_at": "2021-07-29 22:51:03",
@@ -461,36 +473,48 @@
       "url": "https://open.spotify.com/track/3gTTDjDha02XJ4xuS2KF0e"
     },
     {
-      "added_at": "2021-06-10 04:28:06",
+      "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Kollage",
-        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+        "name": "Won",
+        "url": "https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH"
       },
       "artists": [
         {
-          "name": "Bahamadia",
-          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+          "name": "Pacewon",
+          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
         }
       ],
-      "duration_ms": 214866,
-      "name": "Uknowhowwedu",
-      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
+      "duration_ms": 157426,
+      "name": "I Declare War",
+      "url": "https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V"
     },
     {
       "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "The Way You Do It/The Get Up",
-        "url": "https://open.spotify.com/album/1FoizIaKBYPv4c0RbKf7mm"
+        "name": "Deltron 3030",
+        "url": "https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye"
       },
       "artists": [
         {
-          "name": "Little Brother",
-          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+          "name": "Deltron 3030",
+          "url": "https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ"
+        },
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        },
+        {
+          "name": "Dan The Automator",
+          "url": "https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01"
+        },
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
         }
       ],
-      "duration_ms": 236400,
-      "name": "The Way You Do It",
-      "url": "https://open.spotify.com/track/0G3uLnfuwt3PLxw6QgDIZr"
+      "duration_ms": 214306,
+      "name": "Mastermind",
+      "url": "https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -525,68 +549,44 @@
       "url": "https://open.spotify.com/track/5WHsa2d0VhV4Dog4vhIYUH"
     },
     {
-      "added_at": "2020-09-25 04:39:22",
+      "added_at": "2021-06-10 04:28:06",
       "album": {
-        "name": "Won",
-        "url": "https://open.spotify.com/album/34fhxFsx0fd56F7qwfJUYH"
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
       },
       "artists": [
         {
-          "name": "Pacewon",
-          "url": "https://open.spotify.com/artist/4xlnKEcLzFYoxRmAuxI2Yt"
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
         }
       ],
-      "duration_ms": 157426,
-      "name": "I Declare War",
-      "url": "https://open.spotify.com/track/3x9oD1pM3gTgNBBOazMq1V"
+      "duration_ms": 214866,
+      "name": "Uknowhowwedu",
+      "url": "https://open.spotify.com/track/5KapB9KJnRsZrprzIAXycW"
     },
     {
-      "added_at": "2021-08-13 21:56:13",
+      "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Train Of Thought",
-        "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
+        "name": "Hi-Teknology",
+        "url": "https://open.spotify.com/album/0VWDxRqfRmC5O6rW6Fq3ND"
       },
       "artists": [
         {
-          "name": "Reflection Eternal",
-          "url": "https://open.spotify.com/artist/6vwJ3e6KaQAhLEpBPxCMBC"
+          "name": "Hi-Tek",
+          "url": "https://open.spotify.com/artist/2S3kEShbYaNGvSyJdd7sJg"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
         },
         {
           "name": "Vinia Mojica",
           "url": "https://open.spotify.com/artist/1vsWTWAvfdqNeFmXq72SlC"
         }
       ],
-      "duration_ms": 187026,
-      "name": "Blast",
-      "url": "https://open.spotify.com/track/1l7xvA5XajmKQDo1h8Vc3K"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Deltron 3030",
-        "url": "https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye"
-      },
-      "artists": [
-        {
-          "name": "Deltron 3030",
-          "url": "https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ"
-        },
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
-        },
-        {
-          "name": "Dan The Automator",
-          "url": "https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01"
-        },
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 214306,
-      "name": "Mastermind",
-      "url": "https://open.spotify.com/track/0uMn8WKu3qtQLaUyal1bsz"
+      "duration_ms": 274826,
+      "name": "The Sun God",
+      "url": "https://open.spotify.com/track/2IUCmiYLRuQohsIyiE3RaG"
     },
     {
       "added_at": "2021-03-26 15:50:36",
@@ -627,34 +627,18 @@
     {
       "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Nia",
-        "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
       },
       "artists": [
         {
-          "name": "Blackalicious",
-          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
         }
       ],
-      "duration_ms": 311760,
-      "name": "Deception",
-      "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Extra, Extra!!",
-        "url": "https://open.spotify.com/album/4rt0clhNxkbiDENypsPwh3"
-      },
-      "artists": [
-        {
-          "name": "Paula Perry",
-          "url": "https://open.spotify.com/artist/1DsdaqNe4oqDiq0zA0EjwD"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "Extra, Extra!! - Radio Edit",
-      "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -679,82 +663,18 @@
     {
       "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Body Of The Life Force",
-        "url": "https://open.spotify.com/album/6HB0hHlIIn3jngBqILTA96"
+        "name": "Nia",
+        "url": "https://open.spotify.com/album/3p6jhqOzFLzlC50KKv629I"
       },
       "artists": [
         {
-          "name": "Afu-Ra",
-          "url": "https://open.spotify.com/artist/6SWohEYYTym0RIBxvoh6wt"
+          "name": "Blackalicious",
+          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
         }
       ],
-      "duration_ms": 239413,
-      "name": "Whirlwind Thru Cities",
-      "url": "https://open.spotify.com/track/7EZOcCGTHCXTLFtax2VUsU"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Queendom",
-        "url": "https://open.spotify.com/album/0N2SnzGzq7fGetnFqc08Os"
-      },
-      "artists": [
-        {
-          "name": "Apani B Fly",
-          "url": "https://open.spotify.com/artist/1vwi3xNqy219xk39J92xtK"
-        }
-      ],
-      "duration_ms": 290173,
-      "name": "Right the Wrongs",
-      "url": "https://open.spotify.com/track/1cxMLrNOldSm0gbwIoWEuH"
-    },
-    {
-      "added_at": "2021-03-26 15:50:36",
-      "album": {
-        "name": "Whatever You Say/Light It Up",
-        "url": "https://open.spotify.com/album/6JKktb5GjcSe56mKh7XyOi"
-      },
-      "artists": [
-        {
-          "name": "Little Brother",
-          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
-        }
-      ],
-      "duration_ms": 239546,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/2VnSbFSjK3c0fZIUH7SJej"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "J 5 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Ajq0fVuPxZ8igxZfvad7f"
-      },
-      "artists": [
-        {
-          "name": "Jurassic 5",
-          "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B"
-        }
-      ],
-      "duration_ms": 321293,
-      "name": "Concrete Schoolyard",
-      "url": "https://open.spotify.com/track/0dtVSZDRv6PorrnX0cbFT7"
+      "duration_ms": 311760,
+      "name": "Deception",
+      "url": "https://open.spotify.com/track/2R0MySb9tgrWIv2mttYAYR"
     },
     {
       "added_at": "2021-03-26 15:50:36",
@@ -781,84 +701,20 @@
       "url": "https://open.spotify.com/track/5JUEfEsVmgEGI6SMbFH3gq"
     },
     {
-      "added_at": "2021-08-13 21:56:13",
-      "album": {
-        "name": "Expansion Team",
-        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
-      },
-      "artists": [
-        {
-          "name": "Dilated Peoples",
-          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Worst Comes To Worst - Edited",
-      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
-    },
-    {
       "added_at": "2020-09-25 04:39:22",
       "album": {
-        "name": "Hip Hop",
-        "url": "https://open.spotify.com/album/6hZXDOin1UHV5lzNO87sBO"
+        "name": "Body Of The Life Force",
+        "url": "https://open.spotify.com/album/6HB0hHlIIn3jngBqILTA96"
       },
       "artists": [
         {
-          "name": "Lone Catalysts Featuring Talib Kweli And Rubix",
-          "url": "https://open.spotify.com/artist/3rxSIgM6cEj77bIuwYX2Jo"
+          "name": "Afu-Ra",
+          "url": "https://open.spotify.com/artist/6SWohEYYTym0RIBxvoh6wt"
         }
       ],
-      "duration_ms": 313106,
-      "name": "Due Process",
-      "url": "https://open.spotify.com/track/5KiDI9YhptlZWNABPuSmnL"
-    },
-    {
-      "added_at": "2021-07-29 22:51:03",
-      "album": {
-        "name": "A Long Hot Summer",
-        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Good Ol Love",
-      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
-    },
-    {
-      "added_at": "2021-03-26 15:50:36",
-      "album": {
-        "name": "Dangerous Connection",
-        "url": "https://open.spotify.com/album/1WW8vRSnseIom1EzPkiNjW"
-      },
-      "artists": [
-        {
-          "name": "7L & Esoteric",
-          "url": "https://open.spotify.com/artist/4EhgA7Pf9pRCNJMgqgul8K"
-        }
-      ],
-      "duration_ms": 234013,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/7htuNpZWosnto4wXMkKYZk"
-    },
-    {
-      "added_at": "2020-09-25 04:39:22",
-      "album": {
-        "name": "Dirty Harriet",
-        "url": "https://open.spotify.com/album/6OUIOBJjnQvKB3e22hAQEm"
-      },
-      "artists": [
-        {
-          "name": "Rah Digga",
-          "url": "https://open.spotify.com/artist/1uT0jnwsq3AifrLorG4UDt"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "What They Call Me",
-      "url": "https://open.spotify.com/track/79qSLBw54yfALjCp41cTkn"
+      "duration_ms": 239413,
+      "name": "Whirlwind Thru Cities",
+      "url": "https://open.spotify.com/track/7EZOcCGTHCXTLFtax2VUsU"
     },
     {
       "added_at": "2020-09-25 04:39:22",
@@ -889,6 +745,118 @@
       "url": "https://open.spotify.com/track/7ImXlOjKprb3ADIeSTqHmg"
     },
     {
+      "added_at": "2021-03-26 15:50:36",
+      "album": {
+        "name": "Whatever You Say/Light It Up",
+        "url": "https://open.spotify.com/album/6JKktb5GjcSe56mKh7XyOi"
+      },
+      "artists": [
+        {
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/2VnSbFSjK3c0fZIUH7SJej"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "Industry Shakedown",
+        "url": "https://open.spotify.com/album/3qZlSLYLw9k9Dqux3LXzoM"
+      },
+      "artists": [
+        {
+          "name": "Bumpy Knuckles",
+          "url": "https://open.spotify.com/artist/7pqZVedlsryCmpMGf9L9zV"
+        }
+      ],
+      "duration_ms": 243330,
+      "name": "Bumpy Knuckles Baby",
+      "url": "https://open.spotify.com/track/5PU1UsxI8wuLsXWMt3t7Fy"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "J 5 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Ajq0fVuPxZ8igxZfvad7f"
+      },
+      "artists": [
+        {
+          "name": "Jurassic 5",
+          "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B"
+        }
+      ],
+      "duration_ms": 321293,
+      "name": "Concrete Schoolyard",
+      "url": "https://open.spotify.com/track/0dtVSZDRv6PorrnX0cbFT7"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "The Slim Shady LP",
+        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Just Don't Give A Fuck",
+      "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "Extra, Extra!!",
+        "url": "https://open.spotify.com/album/4rt0clhNxkbiDENypsPwh3"
+      },
+      "artists": [
+        {
+          "name": "Paula Perry",
+          "url": "https://open.spotify.com/artist/1DsdaqNe4oqDiq0zA0EjwD"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "Extra, Extra!! - Radio Edit",
+      "url": "https://open.spotify.com/track/2mN33GCazOi21eBFneNFlO"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "Queendom",
+        "url": "https://open.spotify.com/album/0N2SnzGzq7fGetnFqc08Os"
+      },
+      "artists": [
+        {
+          "name": "Apani B Fly",
+          "url": "https://open.spotify.com/artist/1vwi3xNqy219xk39J92xtK"
+        }
+      ],
+      "duration_ms": 290173,
+      "name": "Right the Wrongs",
+      "url": "https://open.spotify.com/track/1cxMLrNOldSm0gbwIoWEuH"
+    },
+    {
+      "added_at": "2021-08-13 21:56:13",
+      "album": {
+        "name": "Expansion Team",
+        "url": "https://open.spotify.com/album/2cjb94ReCIDfak2sqzEcoB"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Worst Comes To Worst - Edited",
+      "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"
+    },
+    {
       "added_at": "2020-09-25 04:39:22",
       "album": {
         "name": "Rock City",
@@ -905,20 +873,52 @@
       "url": "https://open.spotify.com/track/1G8jOp5DjW83kJdz00acel"
     },
     {
-      "added_at": "2020-09-25 04:39:22",
+      "added_at": "2021-07-29 22:51:03",
       "album": {
-        "name": "Krumbsnatcha Classics",
-        "url": "https://open.spotify.com/album/5Wez6YN8Xw1mPptxfFlZhx"
+        "name": "A Long Hot Summer",
+        "url": "https://open.spotify.com/album/7qvw3MPdulHThAPqaM9ynF"
       },
       "artists": [
         {
-          "name": "Krumbsnatcha",
-          "url": "https://open.spotify.com/artist/4StWnbDC5LLdf3socfu0gx"
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         }
       ],
-      "duration_ms": 276960,
-      "name": "Gettin' Closer to God",
-      "url": "https://open.spotify.com/track/0sdgkO6TP624IIDEbiajsx"
+      "duration_ms": 226866,
+      "name": "Good Ol Love",
+      "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
+    },
+    {
+      "added_at": "2021-06-10 04:28:06",
+      "album": {
+        "name": "Kollage",
+        "url": "https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA"
+      },
+      "artists": [
+        {
+          "name": "Bahamadia",
+          "url": "https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO"
+        }
+      ],
+      "duration_ms": 221640,
+      "name": "True Honey Buns (Dat Freak Shit)",
+      "url": "https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT"
+    },
+    {
+      "added_at": "2020-09-25 04:39:22",
+      "album": {
+        "name": "Hip Hop",
+        "url": "https://open.spotify.com/album/6hZXDOin1UHV5lzNO87sBO"
+      },
+      "artists": [
+        {
+          "name": "Lone Catalysts Featuring Talib Kweli And Rubix",
+          "url": "https://open.spotify.com/artist/3rxSIgM6cEj77bIuwYX2Jo"
+        }
+      ],
+      "duration_ms": 313106,
+      "name": "Due Process",
+      "url": "https://open.spotify.com/track/5KiDI9YhptlZWNABPuSmnL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu"

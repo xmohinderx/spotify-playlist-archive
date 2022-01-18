@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 233133,
       "name": "Carry Me (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 189266,
       "name": "Ghost - Lost Kings Remix",
       "url": "https://open.spotify.com/track/4ehErMHPM40f92dks3vb2p"
@@ -2416,6 +2416,24 @@
     },
     {
       "album": {
+        "name": "Never Gonna Give You Up",
+        "url": "https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8"
+      },
+      "artists": [
+        {
+          "name": "Mac Beez",
+          "url": "https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212910,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
+    },
+    {
+      "album": {
         "name": "Never Look Back",
         "url": "https://open.spotify.com/album/3vi3LAPmbEj09Or0SpUVk3"
       },
@@ -2992,6 +3010,28 @@
     },
     {
       "album": {
+        "name": "Riptide (Remixes)",
+        "url": "https://open.spotify.com/album/7qFH1sf9b1H2voaOgOHn3a"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        },
+        {
+          "name": "FlicFlac",
+          "url": "https://open.spotify.com/artist/118tMA379KP9TjxmsQsLKY"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339310,
+      "name": "Riptide - FlicFlac Remix",
+      "url": "https://open.spotify.com/track/5K9AcgSi8DK4lZKM2LpFu8"
+    },
+    {
+      "album": {
         "name": "Riverbank",
         "url": "https://open.spotify.com/album/49ENk9rxOv3y9Ec8BHHjJG"
       },
@@ -3285,7 +3325,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 368316,
       "name": "Sexual Healing - Kygo Remix",
       "url": "https://open.spotify.com/track/7s1upm7yr7ZjrzXMwHawtG"
@@ -3439,6 +3479,28 @@
       "duration_ms": 168863,
       "name": "Sober",
       "url": "https://open.spotify.com/track/7AaaVPT66ppeUh2dhhbUz0"
+    },
+    {
+      "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/4Nrw8ETybU3f1SFV2aEhfB"
+      },
+      "artists": [
+        {
+          "name": "Zonoma",
+          "url": "https://open.spotify.com/artist/5UrrQCLgSkyFRo0I59nXWH"
+        },
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200590,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/6UW9S0skvWZ9PUvLti7aZP"
     },
     {
       "album": {

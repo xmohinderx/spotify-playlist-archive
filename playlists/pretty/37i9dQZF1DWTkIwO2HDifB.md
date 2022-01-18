@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Set dos Casados e os funks mais 🔑 do Brasil\. Foto: Mc Davi, MC Marks, MC Ryan SP, Mc Kevin, Mc Don Juan, MC Hariel, MC G15, Mc Phe Cachorrera, Gaab, MC Menor da VG, MC Kapela, Perera DJ, Veiga no Beat
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,451,502 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,451,627 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

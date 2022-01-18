@@ -110,6 +110,24 @@
     },
     {
       "album": {
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn"
+      },
+      "artists": [
+        {
+          "name": "Arno Carstens",
+          "url": "https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE"
+        }
+      ],
+      "date_added": "2019-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214960,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
+    },
+    {
+      "album": {
         "name": "The Best of Johnny Clegg - Juluka & Savuka",
         "url": "https://open.spotify.com/album/5LhbwhBfshZF4MaTCx5kyr"
       },
@@ -143,7 +161,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 309013,
       "name": "Bantu Biko Street (Orchestra & Vocals)",
       "url": "https://open.spotify.com/track/5aLrfHXuUkpvlWU1fXqR5R"
@@ -255,7 +273,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 294200,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/38AtqB4TsqKPnE8yl9xnVh"
@@ -349,7 +367,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 231839,
       "name": "Doc Shebeleza",
       "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
@@ -511,7 +529,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 359461,
       "name": "Hossanna",
       "url": "https://open.spotify.com/track/2a1jKvDS7F0TRhgVjUYhXJ"
@@ -583,7 +601,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 320226,
       "name": "Is Vokol Is Niks",
       "url": "https://open.spotify.com/track/4DrKHhSnbT9k9Efpmw4B8W"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 436960,
       "name": "Lengoma",
       "url": "https://open.spotify.com/track/3fsQv2sCRg2IQTf6fLy5dH"
@@ -735,7 +753,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 304373,
       "name": "Lesson Number 1",
       "url": "https://open.spotify.com/track/2y60u3gCpFC2XrTla172Mb"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 317200,
       "name": "Live My Life",
       "url": "https://open.spotify.com/track/0Gns4jfIHrtpxTn9RGK0mM"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 269720,
       "name": "Magesh",
       "url": "https://open.spotify.com/track/0lfi2bjtJdYWiaxjjCryuY"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 275000,
       "name": "Magic",
       "url": "https://open.spotify.com/track/12dgNfCf41xfNFefmI0Vu2"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 371360,
       "name": "Manenberg Revisited",
       "url": "https://open.spotify.com/track/7oJpfT2cGrOwxwuFRunY9i"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 287560,
       "name": "Ndawo Yami",
       "url": "https://open.spotify.com/track/0syt5xfbxS2n888ZPib8ES"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 283826,
       "name": "Nomvula (After the Rain)",
       "url": "https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 245866,
       "name": "Picture Perfect",
       "url": "https://open.spotify.com/track/0hlIkI7YTpYJFMAGZKKbFW"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 251920,
       "name": "Pot Belly",
       "url": "https://open.spotify.com/track/3mYsWA2ClF84ZLroBpreo1"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 346400,
       "name": "Show Dem",
       "url": "https://open.spotify.com/track/5fhLSsoi49BDmIH4rBJFqq"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2019-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 315813,
       "name": "Sibongile",
       "url": "https://open.spotify.com/track/6Km1obLAyapxOYbAqeRE0Q"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 336666,
       "name": "Siya Jola (Ok'Salayo)",
       "url": "https://open.spotify.com/track/3Oy1hjxJLfUyaUsgxojzA7"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 291560,
       "name": "The Bushman",
       "url": "https://open.spotify.com/track/1VHXWDDkc2VOo8Iocjxg5i"
@@ -1541,7 +1559,7 @@
       ],
       "date_added": "2019-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 349480,
       "name": "Township Funk",
       "url": "https://open.spotify.com/track/32bk6u6Pbe2cotvyKJgrP0"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2018-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 229066,
       "name": "Waar Was Jy (Radio Mix)",
       "url": "https://open.spotify.com/track/5XcPtJcbB0jguZOYltyDrW"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 292226,
       "name": "Weeping",
       "url": "https://open.spotify.com/track/0gDYE1XVoRj4GXa1ab1VjI"
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 229746,
       "name": "World in Union",
       "url": "https://open.spotify.com/track/5wJDPbRPw9IR8bEDl6717a"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2019-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 325133,
       "name": "Yehlisan'umoya Ma Africa",
       "url": "https://open.spotify.com/track/0axBrl3OJbqYoYBMBQ1ZIp"
@@ -1867,7 +1885,7 @@
       ],
       "date_added": "2019-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 407973,
       "name": "Zabalaza",
       "url": "https://open.spotify.com/track/0pKIVNpVSFRxGF7TJ6vubs"

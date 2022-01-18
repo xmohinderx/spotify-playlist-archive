@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 450020,
       "name": "Bedside",
       "url": "https://open.spotify.com/track/5d9OZu7Px4mitpFamQiV7l"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 286451,
       "name": "Equals",
       "url": "https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 210545,
       "name": "Found",
       "url": "https://open.spotify.com/track/509uuSR2IGBjF8QdEl8QyF"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 373666,
       "name": "God Knows We Tried",
       "url": "https://open.spotify.com/track/4u4kVqtHSNULrl0esijmbK"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 280895,
       "name": "Laamore",
       "url": "https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 252493,
       "name": "Little Girl",
       "url": "https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls"
@@ -1263,7 +1263,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 201749,
       "name": "Love Spirit - Yu Su Remix",
       "url": "https://open.spotify.com/track/1ksLjsHA4AptdyIQc4DY3e"
@@ -1399,7 +1399,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 185751,
       "name": "Moving Up",
       "url": "https://open.spotify.com/track/4fVc3sWHB984OYDaPQotTa"
@@ -1457,7 +1457,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 164572,
       "name": "No Borders",
       "url": "https://open.spotify.com/track/3Ru6v1CcBAUbIuNVKcQW4v"
@@ -1497,7 +1497,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 278007,
       "name": "No Road Without a Turn",
       "url": "https://open.spotify.com/track/62RG9MmOva4JHnk7g7m4Vq"
@@ -1663,7 +1663,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 272573,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/69aJGjfpWk9mrw6amJM6jC"
@@ -1724,6 +1724,24 @@
     },
     {
       "album": {
+        "name": "Put Your Head Above The Parakeets",
+        "url": "https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301153,
+      "name": "Rotating In Unison",
+      "url": "https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1"
+    },
+    {
+      "album": {
         "name": "Sapphire Eyes",
         "url": "https://open.spotify.com/album/2a2q6D23vvfGtq76vcQV5K"
       },
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 353684,
       "name": "Save My Day - DJ Python \u2018Nice\u2019 Remix",
       "url": "https://open.spotify.com/track/38aH0p1D6IbK3w3g3LTrVz"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 238072,
       "name": "Should Have Seen It Coming",
       "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 376000,
       "name": "Sun_3hd",
       "url": "https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0"
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 331624,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3kE3j0x9BMdyFExd2ZOq5z"

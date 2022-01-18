@@ -194,6 +194,46 @@
     },
     {
       "album": {
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/2V4TIJGlGcHUu6keOzvolk"
+      },
+      "artists": [
+        {
+          "name": "T3NZU",
+          "url": "https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/51jH04mYptcRL48ckvuHRW"
+    },
+    {
+      "album": {
+        "name": "Barking",
+        "url": "https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6we",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+        },
+        {
+          "name": "WISEKIDS",
+          "url": "https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Barking",
+      "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
+    },
+    {
+      "album": {
         "name": "Blacklight",
         "url": "https://open.spotify.com/album/0D4aBXLQwDFegX56OhxLzP"
       },
@@ -217,6 +257,28 @@
       "duration_ms": 166500,
       "name": "Blacklight",
       "url": "https://open.spotify.com/track/04k9VAadkf8nVcofogwUSj"
+    },
+    {
+      "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/2TMMSOhG0eydMUUhrFspPT"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "Ekko",
+          "url": "https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152459,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/5mG9iopQWcGtc3SnrV3dA5"
     },
     {
       "album": {
@@ -297,7 +359,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 130125,
       "name": "Downtown (with Kelvin Jones)",
       "url": "https://open.spotify.com/track/3d7SAAfRMZzuYNqfJhR3bI"
@@ -389,7 +451,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 161280,
       "name": "Fall",
       "url": "https://open.spotify.com/track/00cSOUQOAsFheNuCPCJiuG"
@@ -407,7 +469,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 189753,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/2iF2elQI7NVjsQSUK4C6jE"
@@ -429,7 +491,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 173313,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
@@ -553,7 +615,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-18",
       "duration_ms": 150764,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/07PSGQ8vwLkuvxkWX6QVxY"
@@ -689,6 +751,28 @@
       "duration_ms": 139322,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/0BFpkLojqCwHXr6TjdtLIF"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/62XVCmYN6BjQwks4Orkjzf"
+      },
+      "artists": [
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/5HCab6cbYS5oQo29wc2dLq"
     },
     {
       "album": {
@@ -873,6 +957,28 @@
       "duration_ms": 140887,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/7d0DnTugSgbAiYtcEkZqWN"
+    },
+    {
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/7cY3QF9Ws7XPVZ0VKxol3L"
+      },
+      "artists": [
+        {
+          "name": "Bodybangers",
+          "url": "https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA"
+        },
+        {
+          "name": "Lotus",
+          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146718,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/07sokZVoIS2rdW0JYBOJYN"
     },
     {
       "album": {

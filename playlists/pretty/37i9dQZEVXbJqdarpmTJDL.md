@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqdarpmTJDL.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Greece.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,585 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,589 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "it was never just a phase ",
   "name": "dear diary",
-  "num_followers": 35622,
+  "num_followers": 35633,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ1ODA2NywwMDAwMDAwMDVmMTJlMjZmMWYzY2Q1NDkwZDY4OGEzYWUzYzJhM2Yy",
+  "snapshot_id": "MTY0MjQ2NjY5MSwwMDAwMDAwMGZkMDY1MTg3YjA1OTliYzJhNDkzMDZlMDljY2IyYzQz",
   "tracks": [
     {
       "added_at": "2021-11-19 00:00:00",
@@ -43,6 +43,22 @@
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
+        "name": "i hope ur miserable until ur dead",
+        "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 177582,
+      "name": "i hope ur miserable until ur dead",
+      "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -63,22 +79,6 @@
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
-        "name": "Happier Than Ever (Edit)",
-        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 151444,
-      "name": "Happier Than Ever - Edit",
-      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
         "name": "The Black Parade",
         "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
@@ -95,18 +95,34 @@
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
-        "name": "i hope ur miserable until ur dead",
-        "url": "https://open.spotify.com/album/3dv1xXXFHlv3WNSNsSZ93d"
+        "name": "Knife Under My Pillow",
+        "url": "https://open.spotify.com/album/5jZhlWwNB1ySnmHxvbXcoP"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
         }
       ],
-      "duration_ms": 177582,
-      "name": "i hope ur miserable until ur dead",
-      "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
+      "duration_ms": 122998,
+      "name": "Knife Under My Pillow",
+      "url": "https://open.spotify.com/track/2yRxBRlE7bdXNuuc6zyWLe"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "Happier Than Ever (Edit)",
+        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 151444,
+      "name": "Happier Than Ever - Edit",
+      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
     },
     {
       "added_at": "2021-11-19 00:00:00",
@@ -143,22 +159,6 @@
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
-        "name": "DiE4u",
-        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 207141,
-      "name": "DiE4u",
-      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
         "name": "Sempiternal (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4dhfdOEUI4tfqwdgouFTQA"
       },
@@ -175,38 +175,18 @@
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
-        "name": "i think you're really cool (with Ray Toro)",
-        "url": "https://open.spotify.com/album/4fAO2IRYS6dtYPNW05CCkk"
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/1MDN5NQ57OPN6xlpBCS1Ej"
       },
       "artists": [
         {
-          "name": "guardin",
-          "url": "https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7"
-        },
-        {
-          "name": "Ray Toro",
-          "url": "https://open.spotify.com/artist/7vtO3glDQwyFDY5cTymz4E"
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
         }
       ],
-      "duration_ms": 174964,
-      "name": "i think you're really cool (with Ray Toro)",
-      "url": "https://open.spotify.com/track/6YC8qD1PrVvQI7BzdX6URM"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "Knife Under My Pillow",
-        "url": "https://open.spotify.com/album/5jZhlWwNB1ySnmHxvbXcoP"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 122998,
-      "name": "Knife Under My Pillow",
-      "url": "https://open.spotify.com/track/2yRxBRlE7bdXNuuc6zyWLe"
+      "duration_ms": 165301,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/1CvxFREecMxuwaFIhSaaaL"
     },
     {
       "added_at": "2021-11-19 00:00:00",
@@ -247,18 +227,18 @@
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
-        "name": "4AM",
-        "url": "https://open.spotify.com/album/1MDN5NQ57OPN6xlpBCS1Ej"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 165301,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/1CvxFREecMxuwaFIhSaaaL"
+      "duration_ms": 143746,
+      "name": "brutal",
+      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
     },
     {
       "added_at": "2021-11-19 00:00:00",
@@ -279,170 +259,18 @@
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "DiE4u",
+        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 143746,
-      "name": "brutal",
-      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "off saint dominique EP",
-        "url": "https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD"
-      },
-      "artists": [
-        {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        },
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 156225,
-      "name": "fall apart (with glaive)",
-      "url": "https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "I Think I Hate Myself",
-        "url": "https://open.spotify.com/album/2A0YKQkITRxL6Mujv5bcWA"
-      },
-      "artists": [
-        {
-          "name": "Hot Milk",
-          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
-        }
-      ],
-      "duration_ms": 214359,
-      "name": "I Think I Hate Myself",
-      "url": "https://open.spotify.com/track/6QKApSR7XgRR4EjuAoGBcv"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "I'd Rather Die",
-        "url": "https://open.spotify.com/album/5UUVtZ1eiN1aXTWNk2sJOW"
-      },
-      "artists": [
-        {
-          "name": "TRAMP STAMPS",
-          "url": "https://open.spotify.com/artist/27dC1hPiY4d4MVVFyBSC9W"
-        }
-      ],
-      "duration_ms": 132946,
-      "name": "I'd Rather Die",
-      "url": "https://open.spotify.com/track/3SGh7q0XBepaclCgzlC97M"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "Tickets To My Downfall",
-        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
-      },
-      "artists": [
-        {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 138097,
-      "name": "kiss kiss",
-      "url": "https://open.spotify.com/track/69LvvkHnFFnX3d5eNObtMo"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "die sometime, it's good for u",
-        "url": "https://open.spotify.com/album/04JMztBf0vX3JfxKIaifGa"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 168653,
-      "name": "problems",
-      "url": "https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "The Breakfast Club (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2"
-      },
-      "artists": [
-        {
-          "name": "POORSTACY",
-          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 129339,
-      "name": "Choose Life",
-      "url": "https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "Pieces of You",
-        "url": "https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 182568,
-      "name": "Pieces of You",
-      "url": "https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "My Chemical Romance",
-        "url": "https://open.spotify.com/album/4yLrnVfCQMliyjkQpvQOMk"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8RY",
-          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
-        }
-      ],
-      "duration_ms": 174472,
-      "name": "My Chemical Romance",
-      "url": "https://open.spotify.com/track/1FnKqa450Xr7HXkHV1ILem"
+      "duration_ms": 207141,
+      "name": "DiE4u",
+      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
     },
     {
       "added_at": "2021-11-19 00:00:00",
@@ -463,6 +291,90 @@
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
+        "name": "Lie Out Loud",
+        "url": "https://open.spotify.com/album/27noYHynQ7OS7CdLB6I1k9"
+      },
+      "artists": [
+        {
+          "name": "BLOXX",
+          "url": "https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw"
+        }
+      ],
+      "duration_ms": 163291,
+      "name": "Give Me The Keys",
+      "url": "https://open.spotify.com/track/2rU3D4TRUu58q95Ib3jjYy"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "i think you're really cool (with Ray Toro)",
+        "url": "https://open.spotify.com/album/4fAO2IRYS6dtYPNW05CCkk"
+      },
+      "artists": [
+        {
+          "name": "guardin",
+          "url": "https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7"
+        },
+        {
+          "name": "Ray Toro",
+          "url": "https://open.spotify.com/artist/7vtO3glDQwyFDY5cTymz4E"
+        }
+      ],
+      "duration_ms": 174964,
+      "name": "i think you're really cool (with Ray Toro)",
+      "url": "https://open.spotify.com/track/6YC8qD1PrVvQI7BzdX6URM"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/0UY4FvG4f9JI6kBR1BlWrZ"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "teacher",
+        "url": "https://open.spotify.com/album/3LwrRF5h5EVNKtLQrRv1fr"
+      },
+      "artists": [
+        {
+          "name": "diveliner",
+          "url": "https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "teacher",
+      "url": "https://open.spotify.com/track/00AKsPzB2WUbIbu8KNFUqQ"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "Tickets To My Downfall",
+        "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 138097,
+      "name": "kiss kiss",
+      "url": "https://open.spotify.com/track/69LvvkHnFFnX3d5eNObtMo"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
         "name": "These Days R Mine",
         "url": "https://open.spotify.com/album/2vkVLUruMBiiwHNv9bATTB"
       },
@@ -475,6 +387,98 @@
       "duration_ms": 208695,
       "name": "These Days R Mine",
       "url": "https://open.spotify.com/track/42WeNaMfqmoMW5BZR43v1z"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "I Think I Hate Myself",
+        "url": "https://open.spotify.com/album/2A0YKQkITRxL6Mujv5bcWA"
+      },
+      "artists": [
+        {
+          "name": "Hot Milk",
+          "url": "https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK"
+        }
+      ],
+      "duration_ms": 214359,
+      "name": "I Think I Hate Myself",
+      "url": "https://open.spotify.com/track/6QKApSR7XgRR4EjuAoGBcv"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "Don't Freak Out (feat. iann dior, Tyson Ritter & Travis Barker)",
+        "url": "https://open.spotify.com/album/6tZI7NswQRx6ufyTpkzu5c"
+      },
+      "artists": [
+        {
+          "name": "LILHUDDY",
+          "url": "https://open.spotify.com/artist/5nDdaia3PDYD0x4zBEHGtg"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Tyson Ritter",
+          "url": "https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Don't Freak Out (feat. iann dior, Tyson Ritter & Travis Barker)",
+      "url": "https://open.spotify.com/track/6Tb41xQxfkhpuJOkaWNTMV"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "please put me in a medically induced coma",
+        "url": "https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 186902,
+      "name": "please put me in a medically induced coma",
+      "url": "https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "Pieces of You",
+        "url": "https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 182568,
+      "name": "Pieces of You",
+      "url": "https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "Pink Elephant",
+        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Hate Me (Sometimes)",
+      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
     },
     {
       "added_at": "2021-11-19 00:00:00",
@@ -511,126 +515,22 @@
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
-        "name": "Party At The Cemetery",
-        "url": "https://open.spotify.com/album/6gahMNZ8ggD6FCxOwQ4rIK"
+        "name": "The Breakfast Club (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TdlMuVGZfRMgPvB467tu2"
       },
       "artists": [
         {
           "name": "POORSTACY",
           "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
-        }
-      ],
-      "duration_ms": 126033,
-      "name": "Party At The Cemetery",
-      "url": "https://open.spotify.com/track/4O3hlqw3P2SA0SvsyKuYCu"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 205723,
-      "name": "NO VANITY",
-      "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "girlfriends",
-        "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
-      },
-      "artists": [
-        {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
-        }
-      ],
-      "duration_ms": 181240,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/7fGyaY3X9InPnl9nqQXHgi"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "Creep",
-        "url": "https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj"
-      },
-      "artists": [
-        {
-          "name": "carolesdaughter",
-          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "monday",
-        "url": "https://open.spotify.com/album/21HVZDrPonqu8iCIN5ntHj"
-      },
-      "artists": [
-        {
-          "name": "LAYNE",
-          "url": "https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV"
-        }
-      ],
-      "duration_ms": 171429,
-      "name": "monday",
-      "url": "https://open.spotify.com/track/0sAHHpXdFBarjfTsntW1ZP"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "Don't Freak Out (feat. iann dior, Tyson Ritter & Travis Barker)",
-        "url": "https://open.spotify.com/album/6tZI7NswQRx6ufyTpkzu5c"
-      },
-      "artists": [
-        {
-          "name": "LILHUDDY",
-          "url": "https://open.spotify.com/artist/5nDdaia3PDYD0x4zBEHGtg"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        },
-        {
-          "name": "Tyson Ritter",
-          "url": "https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x"
         },
         {
           "name": "Travis Barker",
           "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Don't Freak Out (feat. iann dior, Tyson Ritter & Travis Barker)",
-      "url": "https://open.spotify.com/track/6Tb41xQxfkhpuJOkaWNTMV"
+      "duration_ms": 129339,
+      "name": "Choose Life",
+      "url": "https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV"
     },
     {
       "added_at": "2021-11-19 00:00:00",
@@ -651,154 +551,34 @@
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
-        "name": "Green Squirrel in Pretty Bad Shape",
-        "url": "https://open.spotify.com/album/2062Jn4uaZQ67IhVqiviBj"
+        "name": "DIE.",
+        "url": "https://open.spotify.com/album/4iSdfXtUE3ur5UHJqjI4FB"
       },
       "artists": [
         {
-          "name": "Super American",
-          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
-        },
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
         }
       ],
-      "duration_ms": 160471,
-      "name": "Green Squirrel in Pretty Bad Shape",
-      "url": "https://open.spotify.com/track/33r1jonOpYUyWrk30ZeKHj"
+      "duration_ms": 170000,
+      "name": "DIE.",
+      "url": "https://open.spotify.com/track/2eG73ReC02zztM4ll0EFqi"
     },
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
-        "name": "teacher",
-        "url": "https://open.spotify.com/album/3LwrRF5h5EVNKtLQrRv1fr"
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
       },
       "artists": [
         {
-          "name": "diveliner",
-          "url": "https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 163764,
-      "name": "teacher",
-      "url": "https://open.spotify.com/track/00AKsPzB2WUbIbu8KNFUqQ"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "please put me in a medically induced coma",
-        "url": "https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL"
-      },
-      "artists": [
-        {
-          "name": "carolesdaughter",
-          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
-        }
-      ],
-      "duration_ms": 186902,
-      "name": "please put me in a medically induced coma",
-      "url": "https://open.spotify.com/track/4MY8pe89WnW7xVOxUN4hmg"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "The Rift",
-        "url": "https://open.spotify.com/album/7zDuEI2gGYXabIHsI4ZjAZ"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 228852,
-      "name": "The Rift",
-      "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "Play Pretend (feat. Travis Barker)",
-        "url": "https://open.spotify.com/album/0pePhzWZn37dt3aEcu1WSe"
-      },
-      "artists": [
-        {
-          "name": "Caspr",
-          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 162559,
-      "name": "Play Pretend (feat. Travis Barker)",
-      "url": "https://open.spotify.com/track/2Dn2KgWEzKdmQEyDsOS1GU"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "Who Am I?",
-        "url": "https://open.spotify.com/album/5FLKDb9bvbMu0yTahZtgHO"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 186386,
-      "name": "I Just Needed You",
-      "url": "https://open.spotify.com/track/3lqm790H1ZQlMid2mvChDn"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "BWBB",
-        "url": "https://open.spotify.com/album/0hM0Y3rcMNL57znId5EISZ"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 166509,
-      "name": "BWBB",
-      "url": "https://open.spotify.com/track/1t9TGGopVWBYQX8Jfecrae"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 240206,
-      "name": "love song",
-      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
-    },
-    {
-      "added_at": "2021-11-19 00:00:00",
-      "album": {
-        "name": "Imprint",
-        "url": "https://open.spotify.com/album/3VFtRcwhLRnRKYaRAq3DQc"
-      },
-      "artists": [
-        {
-          "name": "dying in designer",
-          "url": "https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT"
-        }
-      ],
-      "duration_ms": 190239,
-      "name": "Imprint",
-      "url": "https://open.spotify.com/track/1qlUw3ZejypRGcpdQcX3ix"
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "added_at": "2021-11-19 00:00:00",
@@ -823,34 +603,250 @@
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/7uXrBLU63hlBn4LS13mMf8"
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
       "artists": [
         {
-          "name": "Blonder",
-          "url": "https://open.spotify.com/artist/0AhjcWvgOYE0lPpuTMh1i9"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 185117,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/0vl7pdzy0g0mHpgK9LDbVA"
+      "duration_ms": 240206,
+      "name": "love song",
+      "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
     },
     {
       "added_at": "2021-11-19 00:00:00",
       "album": {
-        "name": "Pink Elephant",
-        "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
+        "name": "Green Squirrel in Pretty Bad Shape",
+        "url": "https://open.spotify.com/album/2062Jn4uaZQ67IhVqiviBj"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Super American",
+          "url": "https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2"
+        },
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
         }
       ],
-      "duration_ms": 233453,
-      "name": "Hate Me (Sometimes)",
-      "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
+      "duration_ms": 160471,
+      "name": "Green Squirrel in Pretty Bad Shape",
+      "url": "https://open.spotify.com/track/33r1jonOpYUyWrk30ZeKHj"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "Play Pretend (feat. Travis Barker)",
+        "url": "https://open.spotify.com/album/0pePhzWZn37dt3aEcu1WSe"
+      },
+      "artists": [
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 162559,
+      "name": "Play Pretend (feat. Travis Barker)",
+      "url": "https://open.spotify.com/track/2Dn2KgWEzKdmQEyDsOS1GU"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "Creep",
+        "url": "https://open.spotify.com/album/4C9Io2lIQJdBo9RH1XK8Gj"
+      },
+      "artists": [
+        {
+          "name": "carolesdaughter",
+          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/5nC2VyPxefp5EXVViTcz7S"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "BWBB",
+        "url": "https://open.spotify.com/album/0hM0Y3rcMNL57znId5EISZ"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 166509,
+      "name": "BWBB",
+      "url": "https://open.spotify.com/track/1t9TGGopVWBYQX8Jfecrae"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "Children of The Dark",
+        "url": "https://open.spotify.com/album/78MIA5qaj5wiJgE9pTA9py"
+      },
+      "artists": [
+        {
+          "name": "POORSTACY",
+          "url": "https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38"
+        }
+      ],
+      "duration_ms": 152389,
+      "name": "Children of The Dark",
+      "url": "https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "off saint dominique EP",
+        "url": "https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        },
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 156225,
+      "name": "fall apart (with glaive)",
+      "url": "https://open.spotify.com/track/6vOY0h3OyLLSXouDtP6FkN"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "I'd Rather Die",
+        "url": "https://open.spotify.com/album/5UUVtZ1eiN1aXTWNk2sJOW"
+      },
+      "artists": [
+        {
+          "name": "TRAMP STAMPS",
+          "url": "https://open.spotify.com/artist/27dC1hPiY4d4MVVFyBSC9W"
+        }
+      ],
+      "duration_ms": 132946,
+      "name": "I'd Rather Die",
+      "url": "https://open.spotify.com/track/3SGh7q0XBepaclCgzlC97M"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "Stained",
+        "url": "https://open.spotify.com/album/4HLLeKI7DK3PXDT9OSCzgy"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "duration_ms": 216422,
+      "name": "Stained",
+      "url": "https://open.spotify.com/track/28Fhh3sLYSeqXij1PM9wHW"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "SURVIVORS GUILT: THE MIXTAPE//",
+        "url": "https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "duration_ms": 166320,
+      "name": "9-5 (love me)//",
+      "url": "https://open.spotify.com/track/6uoJn76oWv1aJVj4473zyY"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "i luv that u hate me",
+        "url": "https://open.spotify.com/album/0ry0pZr2APTC3hwSZuOk65"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 221573,
+      "name": "i luv that u hate me",
+      "url": "https://open.spotify.com/track/4yqasUJVWKsy3sUr3fDFzx"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "My Chemical Romance",
+        "url": "https://open.spotify.com/album/4yLrnVfCQMliyjkQpvQOMk"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "duration_ms": 174472,
+      "name": "My Chemical Romance",
+      "url": "https://open.spotify.com/track/1FnKqa450Xr7HXkHV1ILem"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "SALT (feat. Oli Sykes)",
+        "url": "https://open.spotify.com/album/7ByUUXiK8wox0Z76Ggj4Mz"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        }
+      ],
+      "duration_ms": 222375,
+      "name": "SALT (feat. Oli Sykes)",
+      "url": "https://open.spotify.com/track/0cZ32X4hK23v585O8Wz6Yr"
+    },
+    {
+      "added_at": "2021-11-19 00:00:00",
+      "album": {
+        "name": "Imprint",
+        "url": "https://open.spotify.com/album/3VFtRcwhLRnRKYaRAq3DQc"
+      },
+      "artists": [
+        {
+          "name": "dying in designer",
+          "url": "https://open.spotify.com/artist/3QZxOYl5zlZtfigtXOZsfT"
+        }
+      ],
+      "duration_ms": 190239,
+      "name": "Imprint",
+      "url": "https://open.spotify.com/track/1qlUw3ZejypRGcpdQcX3ix"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1vEe0OWx8Fn"

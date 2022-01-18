@@ -1,45 +1,13 @@
 {
   "description": "Equal parts nostalgic synthwave sounds and modern production.",
   "name": "RetroWave / Outrun",
-  "num_followers": 813943,
+  "num_followers": 813983,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjQ1ODM3OSwwMDAwMDAwMGQ0NzM0YWY5ZTY3YWY2ZDIwMzc0ZGRjYTIyNTNiZGY3",
+  "snapshot_id": "MTY0MjQ2Njk4MSwwMDAwMDAwMGU1MjkxNGVkMWRhYTQyNzRhYjY1MGNhOWQ3YjFkMWJi",
   "tracks": [
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "2020 AD",
-        "url": "https://open.spotify.com/album/10CEe5Hjg0iHasl8Z2DbSa"
-      },
-      "artists": [
-        {
-          "name": "ALEX",
-          "url": "https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/7BaoPkMMPX5LwdyyUSByKe"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "Orbit Love",
-        "url": "https://open.spotify.com/album/59uVepuwdR3cM7KdLt0LoY"
-      },
-      "artists": [
-        {
-          "name": "Virtual Mage",
-          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "Orbit Love",
-      "url": "https://open.spotify.com/track/5xhWjK9OOzPyzBlAEQm3yn"
-    },
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
@@ -67,18 +35,18 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Neon Medusa",
-        "url": "https://open.spotify.com/album/33L3Re3mh0BdCV6vlSMPzf"
+        "name": "Orbit Love",
+        "url": "https://open.spotify.com/album/59uVepuwdR3cM7KdLt0LoY"
       },
       "artists": [
         {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+          "name": "Virtual Mage",
+          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
         }
       ],
-      "duration_ms": 253220,
-      "name": "Neon Medusa - Edit",
-      "url": "https://open.spotify.com/track/7y1WaVLlJHSpkn3Libyq7r"
+      "duration_ms": 251500,
+      "name": "Orbit Love",
+      "url": "https://open.spotify.com/track/5xhWjK9OOzPyzBlAEQm3yn"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -99,122 +67,34 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/7t5QcSntmnSv8wSI8KgJ9U"
+        "name": "2020 AD",
+        "url": "https://open.spotify.com/album/10CEe5Hjg0iHasl8Z2DbSa"
       },
       "artists": [
         {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        },
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+          "name": "ALEX",
+          "url": "https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO"
         }
       ],
-      "duration_ms": 275454,
-      "name": "Lunar",
-      "url": "https://open.spotify.com/track/0bsmxR1mIR9k6jvZMWfAK0"
+      "duration_ms": 222222,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/7BaoPkMMPX5LwdyyUSByKe"
     },
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/6KqNzVNnKYzhkHYVnFxirn"
+        "name": "Neon Medusa",
+        "url": "https://open.spotify.com/album/33L3Re3mh0BdCV6vlSMPzf"
       },
       "artists": [
         {
-          "name": "DEADLIFE",
-          "url": "https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX"
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
         }
       ],
-      "duration_ms": 307000,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/5FqMFN6enobvl6ojiTt98J"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "Nighttime (Polyark Remix)",
-        "url": "https://open.spotify.com/album/6xEygXC7wbX2GBdIogoCyh"
-      },
-      "artists": [
-        {
-          "name": "Scandroid",
-          "url": "https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ"
-        },
-        {
-          "name": "Polyark",
-          "url": "https://open.spotify.com/artist/4tNPuwPvY7Yi29m9enFmIP"
-        }
-      ],
-      "duration_ms": 237104,
-      "name": "Nighttime - Polyark Remix",
-      "url": "https://open.spotify.com/track/1HKNHY7DVQmNuD0J0mTHCt"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "CRT Days",
-        "url": "https://open.spotify.com/album/2Jj0uMFVjXFf3qfrfFpLDk"
-      },
-      "artists": [
-        {
-          "name": "Waveshaper",
-          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "CRT Days",
-      "url": "https://open.spotify.com/track/4Svx0pOTJg9VVwkp8qX6Tr"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "Delusive Bunker (Live Version)",
-        "url": "https://open.spotify.com/album/6Aqfd6vOumuBEXGCmr96j0"
-      },
-      "artists": [
-        {
-          "name": "LudoWic",
-          "url": "https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND"
-        }
-      ],
-      "duration_ms": 371750,
-      "name": "Delusive Bunker - Live Version",
-      "url": "https://open.spotify.com/track/7gszCJRsbb0baUr58th2Qt"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "77",
-        "url": "https://open.spotify.com/album/6Ow6ZKzYPjeTCR2HcqJi3v"
-      },
-      "artists": [
-        {
-          "name": "admo",
-          "url": "https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG"
-        }
-      ],
-      "duration_ms": 140968,
-      "name": "Aftershock",
-      "url": "https://open.spotify.com/track/6gniSmkKkkwdjqBbUH3ebT"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe"
-      },
-      "artists": [
-        {
-          "name": "Virtual Mage",
-          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Aether",
-      "url": "https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF"
+      "duration_ms": 253220,
+      "name": "Neon Medusa - Edit",
+      "url": "https://open.spotify.com/track/7y1WaVLlJHSpkn3Libyq7r"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -243,6 +123,42 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
+        "name": "Nighttime (Polyark Remix)",
+        "url": "https://open.spotify.com/album/6xEygXC7wbX2GBdIogoCyh"
+      },
+      "artists": [
+        {
+          "name": "Scandroid",
+          "url": "https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ"
+        },
+        {
+          "name": "Polyark",
+          "url": "https://open.spotify.com/artist/4tNPuwPvY7Yi29m9enFmIP"
+        }
+      ],
+      "duration_ms": 237104,
+      "name": "Nighttime - Polyark Remix",
+      "url": "https://open.spotify.com/track/1HKNHY7DVQmNuD0J0mTHCt"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "Oort",
+        "url": "https://open.spotify.com/album/1UInbuJAszfSseJQzp9uyP"
+      },
+      "artists": [
+        {
+          "name": "Downtown Binary",
+          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Oort",
+      "url": "https://open.spotify.com/track/28uuISsg3eTxJsa4yFP5Mm"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
         "name": "Lightyears",
         "url": "https://open.spotify.com/album/4oRu4hmwqqWRCqLAsnhET6"
       },
@@ -255,6 +171,106 @@
       "duration_ms": 256800,
       "name": "Lightyears",
       "url": "https://open.spotify.com/track/02rds5Tq11O8DvnL5nVRU2"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "Space Amplitude",
+        "url": "https://open.spotify.com/album/0wel2m8VmYeR7ZnZZEZzu8"
+      },
+      "artists": [
+        {
+          "name": "IcoS",
+          "url": "https://open.spotify.com/artist/41GQStG7yqyPqbOKvouab8"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Space Amplitude",
+      "url": "https://open.spotify.com/track/1i1SfCWBq5xqNG4m5WtQKv"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/6KqNzVNnKYzhkHYVnFxirn"
+      },
+      "artists": [
+        {
+          "name": "DEADLIFE",
+          "url": "https://open.spotify.com/artist/6YAOorJSNGWyH8m9N7cDeX"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/5FqMFN6enobvl6ojiTt98J"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/1wI6LtwwxH0RU5eX2agIxe"
+      },
+      "artists": [
+        {
+          "name": "Virtual Mage",
+          "url": "https://open.spotify.com/artist/1gEHdJ4DIEL2JuyRnNfMkt"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Aether",
+      "url": "https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "CRT Days",
+        "url": "https://open.spotify.com/album/2Jj0uMFVjXFf3qfrfFpLDk"
+      },
+      "artists": [
+        {
+          "name": "Waveshaper",
+          "url": "https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "CRT Days",
+      "url": "https://open.spotify.com/track/4Svx0pOTJg9VVwkp8qX6Tr"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "77",
+        "url": "https://open.spotify.com/album/6Ow6ZKzYPjeTCR2HcqJi3v"
+      },
+      "artists": [
+        {
+          "name": "admo",
+          "url": "https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG"
+        }
+      ],
+      "duration_ms": 140968,
+      "name": "Aftershock",
+      "url": "https://open.spotify.com/track/6gniSmkKkkwdjqBbUH3ebT"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/7t5QcSntmnSv8wSI8KgJ9U"
+      },
+      "artists": [
+        {
+          "name": "Hotel Pools",
+          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
+        },
+        {
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+        }
+      ],
+      "duration_ms": 275454,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/0bsmxR1mIR9k6jvZMWfAK0"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -275,6 +291,22 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
+        "name": "Delusive Bunker (Live Version)",
+        "url": "https://open.spotify.com/album/6Aqfd6vOumuBEXGCmr96j0"
+      },
+      "artists": [
+        {
+          "name": "LudoWic",
+          "url": "https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND"
+        }
+      ],
+      "duration_ms": 371750,
+      "name": "Delusive Bunker - Live Version",
+      "url": "https://open.spotify.com/track/7gszCJRsbb0baUr58th2Qt"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
         "name": "Escape From Earth",
         "url": "https://open.spotify.com/album/1M1CnN0sw2QUdhjNhBQMIP"
       },
@@ -291,18 +323,34 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Oort",
-        "url": "https://open.spotify.com/album/1UInbuJAszfSseJQzp9uyP"
+        "name": "Corruptor",
+        "url": "https://open.spotify.com/album/3p6hvxfVtP5u9jnp9Izqyh"
       },
       "artists": [
         {
-          "name": "Downtown Binary",
-          "url": "https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv"
+          "name": "Daniel Deluxe",
+          "url": "https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b"
         }
       ],
-      "duration_ms": 253714,
-      "name": "Oort",
-      "url": "https://open.spotify.com/track/28uuISsg3eTxJsa4yFP5Mm"
+      "duration_ms": 214874,
+      "name": "Blood Magic",
+      "url": "https://open.spotify.com/track/37GD7jrPe7DubPim1i5kJI"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/7K3KhtyrxHyaMXO5YlB6in"
+      },
+      "artists": [
+        {
+          "name": "Coastal",
+          "url": "https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1wdLaeNn73zbpYVqw8mlYz"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -327,78 +375,6 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Emerald",
-        "url": "https://open.spotify.com/album/2daD1BDrdh6yK9evj3jm8q"
-      },
-      "artists": [
-        {
-          "name": "System96",
-          "url": "https://open.spotify.com/artist/5NgUA4FZtrzQPgSdbAkoXn"
-        },
-        {
-          "name": "Lucy In Disguise",
-          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
-        }
-      ],
-      "duration_ms": 181824,
-      "name": "Emerald",
-      "url": "https://open.spotify.com/track/3j0R8oOFx3tW8owV1ezt0s"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "Exorcism (Gunship Remix)",
-        "url": "https://open.spotify.com/album/3X8wRWkU5R8uXBEkif56dz"
-      },
-      "artists": [
-        {
-          "name": "Kat Von D",
-          "url": "https://open.spotify.com/artist/0eLQCmRxdnxAK9rchhAFlU"
-        },
-        {
-          "name": "Gunship",
-          "url": "https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS"
-        }
-      ],
-      "duration_ms": 219518,
-      "name": "Exorcism - Gunship Remix",
-      "url": "https://open.spotify.com/track/0Cr3lE50SW6ly71A5Wczvg"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "Rivage",
-        "url": "https://open.spotify.com/album/59FX4d5jTvq06npU90Umbk"
-      },
-      "artists": [
-        {
-          "name": "Krosia",
-          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
-        }
-      ],
-      "duration_ms": 244744,
-      "name": "Rivage",
-      "url": "https://open.spotify.com/track/4HjiB1iZpyPmKkK9vdbfOX"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "Space Amplitude",
-        "url": "https://open.spotify.com/album/0wel2m8VmYeR7ZnZZEZzu8"
-      },
-      "artists": [
-        {
-          "name": "IcoS",
-          "url": "https://open.spotify.com/artist/41GQStG7yqyPqbOKvouab8"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Space Amplitude",
-      "url": "https://open.spotify.com/track/1i1SfCWBq5xqNG4m5WtQKv"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/1akun3X9ysTZ8ZNI19MZfS"
       },
@@ -419,50 +395,18 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Crystal Waves (From \"Wave Break\")",
-        "url": "https://open.spotify.com/album/54hp6mvPDPZgVUFbWOK3N5"
+        "name": "Triads",
+        "url": "https://open.spotify.com/album/3K48lplYXbQSc87pfuJ0Pa"
       },
       "artists": [
         {
-          "name": "Kalax",
-          "url": "https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY"
+          "name": "Code Elektro",
+          "url": "https://open.spotify.com/artist/3FIZFOkx25ESPENGx6st5w"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Crystal Waves (From \"Wave Break\")",
-      "url": "https://open.spotify.com/track/4MxlFlAqGSnNMYYXne6Fer"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "Corruptor",
-        "url": "https://open.spotify.com/album/3p6hvxfVtP5u9jnp9Izqyh"
-      },
-      "artists": [
-        {
-          "name": "Daniel Deluxe",
-          "url": "https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b"
-        }
-      ],
-      "duration_ms": 214874,
-      "name": "Blood Magic",
-      "url": "https://open.spotify.com/track/37GD7jrPe7DubPim1i5kJI"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "Outlines",
-        "url": "https://open.spotify.com/album/41KhQM76qYhJgvVzz64FsU"
-      },
-      "artists": [
-        {
-          "name": "Forhill",
-          "url": "https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Outlines",
-      "url": "https://open.spotify.com/track/5WadbKBeWzWAICRVRkYMtJ"
+      "duration_ms": 257142,
+      "name": "Night Train",
+      "url": "https://open.spotify.com/track/7nwMY3U4zhXQLQsjX8gwzf"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -499,38 +443,6 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Parallel: S",
-        "url": "https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw"
-      },
-      "artists": [
-        {
-          "name": "1788-L",
-          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
-        }
-      ],
-      "duration_ms": 231192,
-      "name": "Automaton",
-      "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "Solai",
-        "url": "https://open.spotify.com/album/1bYzU5vcNDHjnsJIpBtPvf"
-      },
-      "artists": [
-        {
-          "name": "PYLOT",
-          "url": "https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "Enigma",
-      "url": "https://open.spotify.com/track/1i3F8GA8NrSkvUi7LSkacK"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
         "name": "Neon Escapism (Edit)",
         "url": "https://open.spotify.com/album/6jmwxY4XJLKcKnHJKOjK6A"
       },
@@ -547,18 +459,54 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Sorcery",
-        "url": "https://open.spotify.com/album/4IYbrkAnrVG6gtK4vDJvIn"
+        "name": "Rivage",
+        "url": "https://open.spotify.com/album/59FX4d5jTvq06npU90Umbk"
       },
       "artists": [
         {
-          "name": "The Toxic Avenger",
-          "url": "https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s"
+          "name": "Krosia",
+          "url": "https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb"
         }
       ],
-      "duration_ms": 318918,
-      "name": "Sorcery",
-      "url": "https://open.spotify.com/track/4HWC8Ymr2TlkTo97ttMiIq"
+      "duration_ms": 244744,
+      "name": "Rivage",
+      "url": "https://open.spotify.com/track/4HjiB1iZpyPmKkK9vdbfOX"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "Parallel: S",
+        "url": "https://open.spotify.com/album/59h7GpKrIO5bFUDE2ZoPfw"
+      },
+      "artists": [
+        {
+          "name": "1788-L",
+          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+        }
+      ],
+      "duration_ms": 231192,
+      "name": "Automaton",
+      "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "Exorcism (Gunship Remix)",
+        "url": "https://open.spotify.com/album/3X8wRWkU5R8uXBEkif56dz"
+      },
+      "artists": [
+        {
+          "name": "Kat Von D",
+          "url": "https://open.spotify.com/artist/0eLQCmRxdnxAK9rchhAFlU"
+        },
+        {
+          "name": "Gunship",
+          "url": "https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS"
+        }
+      ],
+      "duration_ms": 219518,
+      "name": "Exorcism - Gunship Remix",
+      "url": "https://open.spotify.com/track/0Cr3lE50SW6ly71A5Wczvg"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -599,34 +547,18 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/7K3KhtyrxHyaMXO5YlB6in"
+        "name": "Nightride (Revisited)",
+        "url": "https://open.spotify.com/album/4KgD1C3DcKXewelKAuZ1xs"
       },
       "artists": [
         {
-          "name": "Coastal",
-          "url": "https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj"
+          "name": "A.L.I.S.O.N",
+          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
         }
       ],
-      "duration_ms": 228196,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/1wdLaeNn73zbpYVqw8mlYz"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "Songs About People Including Myself (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6fobonORNgQ7qPTGdCOkEC"
-      },
-      "artists": [
-        {
-          "name": "The Bad Dreamers",
-          "url": "https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY"
-        }
-      ],
-      "duration_ms": 217683,
-      "name": "Part Time God",
-      "url": "https://open.spotify.com/track/14juitXdt9JqvBQAQP3i5L"
+      "duration_ms": 252121,
+      "name": "Nightride (Revisited)",
+      "url": "https://open.spotify.com/track/52xsz9WmVwCXiRFOvMh5yQ"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -651,34 +583,18 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Lost Tracks Katana Zero",
-        "url": "https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB"
+        "name": "Outlines",
+        "url": "https://open.spotify.com/album/41KhQM76qYhJgvVzz64FsU"
       },
       "artists": [
         {
-          "name": "LudoWic",
-          "url": "https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND"
+          "name": "Forhill",
+          "url": "https://open.spotify.com/artist/4qpWUfUAeI34HzvCORn1ze"
         }
       ],
-      "duration_ms": 134666,
-      "name": "The Mansion",
-      "url": "https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD"
-    },
-    {
-      "added_at": "2021-10-15 17:21:05",
-      "album": {
-        "name": "Arpyness",
-        "url": "https://open.spotify.com/album/7nnjXgeQJyLc3SvIdiBGy0"
-      },
-      "artists": [
-        {
-          "name": "Tainsus",
-          "url": "https://open.spotify.com/artist/26xZG1fqaCKjvOIkMS31BT"
-        }
-      ],
-      "duration_ms": 151227,
-      "name": "Arpyness",
-      "url": "https://open.spotify.com/track/3RBqODwZkvWdLmyd7d9sh1"
+      "duration_ms": 206400,
+      "name": "Outlines",
+      "url": "https://open.spotify.com/track/5WadbKBeWzWAICRVRkYMtJ"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -699,18 +615,18 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "District 970",
-        "url": "https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd"
+        "name": "Lost Tracks Katana Zero",
+        "url": "https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB"
       },
       "artists": [
         {
-          "name": "Sami Matar",
-          "url": "https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1"
+          "name": "LudoWic",
+          "url": "https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND"
         }
       ],
-      "duration_ms": 222851,
-      "name": "Fringe Society",
-      "url": "https://open.spotify.com/track/6HXVNP9mGsbTKG6ovKLzcH"
+      "duration_ms": 134666,
+      "name": "The Mansion",
+      "url": "https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -731,66 +647,122 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Triads",
-        "url": "https://open.spotify.com/album/3K48lplYXbQSc87pfuJ0Pa"
+        "name": "Particles",
+        "url": "https://open.spotify.com/album/3RxVWDJQBliYc65AFr9IIq"
       },
       "artists": [
         {
-          "name": "Code Elektro",
-          "url": "https://open.spotify.com/artist/3FIZFOkx25ESPENGx6st5w"
+          "name": "M|O|O|N",
+          "url": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
         }
       ],
-      "duration_ms": 257142,
-      "name": "Night Train",
-      "url": "https://open.spotify.com/track/7nwMY3U4zhXQLQsjX8gwzf"
+      "duration_ms": 302400,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/5UFXAE1QXIGnmALcrQ4DgZ"
     },
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/1kVhyFeQHgsFEkFjNvN7Mb"
+        "name": "Sorcery",
+        "url": "https://open.spotify.com/album/4IYbrkAnrVG6gtK4vDJvIn"
       },
       "artists": [
         {
-          "name": "Anna Yvette",
-          "url": "https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z"
+          "name": "The Toxic Avenger",
+          "url": "https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s"
         }
       ],
-      "duration_ms": 238288,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3j6XM4Fo5a6ZYhqalcb9xA"
+      "duration_ms": 318918,
+      "name": "Sorcery",
+      "url": "https://open.spotify.com/track/4HWC8Ymr2TlkTo97ttMiIq"
     },
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Nightride (Revisited)",
-        "url": "https://open.spotify.com/album/4KgD1C3DcKXewelKAuZ1xs"
+        "name": "District 970",
+        "url": "https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd"
       },
       "artists": [
         {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
+          "name": "Sami Matar",
+          "url": "https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1"
         }
       ],
-      "duration_ms": 252121,
-      "name": "Nightride (Revisited)",
-      "url": "https://open.spotify.com/track/52xsz9WmVwCXiRFOvMh5yQ"
+      "duration_ms": 222851,
+      "name": "Fringe Society",
+      "url": "https://open.spotify.com/track/6HXVNP9mGsbTKG6ovKLzcH"
     },
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Speedboat Night Sweat",
-        "url": "https://open.spotify.com/album/0Jd5r7NN4zeP20n1BXrs0r"
+        "name": "Songs About People Including Myself (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6fobonORNgQ7qPTGdCOkEC"
       },
       "artists": [
         {
-          "name": "Swimware",
-          "url": "https://open.spotify.com/artist/4aoqU9IlofUpiw9CWk9siH"
+          "name": "The Bad Dreamers",
+          "url": "https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY"
         }
       ],
-      "duration_ms": 231401,
-      "name": "Speedboat Night Sweat",
-      "url": "https://open.spotify.com/track/3sgFYGElABoVcyPHNCKyki"
+      "duration_ms": 217683,
+      "name": "Part Time God",
+      "url": "https://open.spotify.com/track/14juitXdt9JqvBQAQP3i5L"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "Action & Romance (Remastered)",
+        "url": "https://open.spotify.com/album/0xpMKiD0WGBHBGQfYRPubw"
+      },
+      "artists": [
+        {
+          "name": "LeBrock",
+          "url": "https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ"
+        }
+      ],
+      "duration_ms": 242142,
+      "name": "Dangerous Dreams",
+      "url": "https://open.spotify.com/track/1hFQfBk8Nl8YnfD6a2xGfB"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "Nightdrive (1984 Mix)",
+        "url": "https://open.spotify.com/album/3biVfNmeV3XvENxqUf8A1g"
+      },
+      "artists": [
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        },
+        {
+          "name": "Zen Freeman",
+          "url": "https://open.spotify.com/artist/6WIXrNpbpGraLXs5vhEYJG"
+        },
+        {
+          "name": "Ampersounds",
+          "url": "https://open.spotify.com/artist/37kgO7O0OonRq0zQ7WcWWl"
+        }
+      ],
+      "duration_ms": 290690,
+      "name": "Nightdrive (1984 Mix)",
+      "url": "https://open.spotify.com/track/59RQNWwH7eQ7PKwHvAbEN7"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "Crystal Waves (From \"Wave Break\")",
+        "url": "https://open.spotify.com/album/54hp6mvPDPZgVUFbWOK3N5"
+      },
+      "artists": [
+        {
+          "name": "Kalax",
+          "url": "https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Crystal Waves (From \"Wave Break\")",
+      "url": "https://open.spotify.com/track/4MxlFlAqGSnNMYYXne6Fer"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -811,50 +783,50 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Drift Stage Main Theme / Exclusive Coup\u00e9",
-        "url": "https://open.spotify.com/album/0x61SIpBPcnlrdqbG3y8Yg"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/1kVhyFeQHgsFEkFjNvN7Mb"
       },
       "artists": [
         {
-          "name": "Myrone",
-          "url": "https://open.spotify.com/artist/36pSrxZllYXcKEeyUqnXTX"
+          "name": "Anna Yvette",
+          "url": "https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z"
         }
       ],
-      "duration_ms": 234015,
-      "name": "Exclusive Coup\u00e9",
-      "url": "https://open.spotify.com/track/3ycik5LYlbCnXeW8EKVmvC"
+      "duration_ms": 238288,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3j6XM4Fo5a6ZYhqalcb9xA"
     },
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Particles",
-        "url": "https://open.spotify.com/album/3RxVWDJQBliYc65AFr9IIq"
+        "name": "Speedboat Night Sweat",
+        "url": "https://open.spotify.com/album/0Jd5r7NN4zeP20n1BXrs0r"
       },
       "artists": [
         {
-          "name": "M|O|O|N",
-          "url": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
+          "name": "Swimware",
+          "url": "https://open.spotify.com/artist/4aoqU9IlofUpiw9CWk9siH"
         }
       ],
-      "duration_ms": 302400,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/5UFXAE1QXIGnmALcrQ4DgZ"
+      "duration_ms": 231401,
+      "name": "Speedboat Night Sweat",
+      "url": "https://open.spotify.com/track/3sgFYGElABoVcyPHNCKyki"
     },
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "195",
-        "url": "https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC"
+        "name": "Arpyness",
+        "url": "https://open.spotify.com/album/7nnjXgeQJyLc3SvIdiBGy0"
       },
       "artists": [
         {
-          "name": "OGRE Sound",
-          "url": "https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj"
+          "name": "Tainsus",
+          "url": "https://open.spotify.com/artist/26xZG1fqaCKjvOIkMS31BT"
         }
       ],
-      "duration_ms": 111111,
-      "name": "Droid Rage",
-      "url": "https://open.spotify.com/track/6BzXcsB6HhmO7yQ7qBjK48"
+      "duration_ms": 151227,
+      "name": "Arpyness",
+      "url": "https://open.spotify.com/track/3RBqODwZkvWdLmyd7d9sh1"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -875,18 +847,22 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Then Again",
-        "url": "https://open.spotify.com/album/48u42pkXw9wIIp3LZyfjk3"
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/2daD1BDrdh6yK9evj3jm8q"
       },
       "artists": [
         {
-          "name": "Mitch Murder",
-          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
+          "name": "System96",
+          "url": "https://open.spotify.com/artist/5NgUA4FZtrzQPgSdbAkoXn"
+        },
+        {
+          "name": "Lucy In Disguise",
+          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
         }
       ],
-      "duration_ms": 193267,
-      "name": "Ocean Parkway",
-      "url": "https://open.spotify.com/track/1uloqdf6spYzacVShYYsMU"
+      "duration_ms": 181824,
+      "name": "Emerald",
+      "url": "https://open.spotify.com/track/3j0R8oOFx3tW8owV1ezt0s"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -911,50 +887,50 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Action & Romance (Remastered)",
-        "url": "https://open.spotify.com/album/0xpMKiD0WGBHBGQfYRPubw"
+        "name": "Solai",
+        "url": "https://open.spotify.com/album/1bYzU5vcNDHjnsJIpBtPvf"
       },
       "artists": [
         {
-          "name": "LeBrock",
-          "url": "https://open.spotify.com/artist/461TaZqofVfcQo2wtMwnQJ"
+          "name": "PYLOT",
+          "url": "https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0"
         }
       ],
-      "duration_ms": 242142,
-      "name": "Dangerous Dreams",
-      "url": "https://open.spotify.com/track/1hFQfBk8Nl8YnfD6a2xGfB"
+      "duration_ms": 198545,
+      "name": "Enigma",
+      "url": "https://open.spotify.com/track/1i3F8GA8NrSkvUi7LSkacK"
     },
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Forgotten Neons",
-        "url": "https://open.spotify.com/album/4tYoCKB747FuIqJCrLho7o"
+        "name": "Laugh Away",
+        "url": "https://open.spotify.com/album/6SSX0knQ6kawHeYhyecKFh"
       },
       "artists": [
         {
-          "name": "Sound Remedy",
-          "url": "https://open.spotify.com/artist/1UtzKaSQyctQO8GN8EyzOn"
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/0kDaCo0U2UcaM3SgZ1Ji7X"
+      "duration_ms": 171034,
+      "name": "Laugh Away",
+      "url": "https://open.spotify.com/track/4qSG7uX4AGz0rBxDQoFxH9"
     },
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Celeste",
-        "url": "https://open.spotify.com/album/2AkabzuOF5cIiED2GcgCKp"
+        "name": "Dark Prince",
+        "url": "https://open.spotify.com/album/7F5QqidQ5gDSIWBIY8Khy4"
       },
       "artists": [
         {
-          "name": "Barretso",
-          "url": "https://open.spotify.com/artist/0G0B56LpavF77LhE2IGtgB"
+          "name": "Atrey",
+          "url": "https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw"
         }
       ],
-      "duration_ms": 324049,
-      "name": "Ultimo",
-      "url": "https://open.spotify.com/track/0jtagVogty503eUAY7psju"
+      "duration_ms": 228028,
+      "name": "Dark Prince, Pt. 3",
+      "url": "https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL"
     },
     {
       "added_at": "2021-10-15 17:21:05",
@@ -975,24 +951,56 @@
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Weltschmerz",
-        "url": "https://open.spotify.com/album/2DSBwFmg0fIlgsDaf6eufG"
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702"
       },
       "artists": [
         {
-          "name": "Felsmann + Tiley",
-          "url": "https://open.spotify.com/artist/01OXxPlQj4h9zfK5qjU96P"
+          "name": "Daniel Deluxe",
+          "url": "https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b"
         }
       ],
-      "duration_ms": 159939,
-      "name": "Homo Deus",
-      "url": "https://open.spotify.com/track/3l5bTYYEBEteJpi1MsA5qR"
+      "duration_ms": 257490,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ"
     },
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "TRILOGY",
-        "url": "https://open.spotify.com/album/0io5pe55YRCTVqEjwlOBdN"
+        "name": "Then Again",
+        "url": "https://open.spotify.com/album/48u42pkXw9wIIp3LZyfjk3"
+      },
+      "artists": [
+        {
+          "name": "Mitch Murder",
+          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
+        }
+      ],
+      "duration_ms": 193267,
+      "name": "Ocean Parkway",
+      "url": "https://open.spotify.com/track/1uloqdf6spYzacVShYYsMU"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "Homebound",
+        "url": "https://open.spotify.com/album/6Mcfma2p4CnEQhCICR81iq"
+      },
+      "artists": [
+        {
+          "name": "Caspro",
+          "url": "https://open.spotify.com/artist/2jtjyIKx9XY1wuIc5UKwSp"
+        }
+      ],
+      "duration_ms": 299913,
+      "name": "Homebound",
+      "url": "https://open.spotify.com/track/1M7tv8CnuKzTVK4otfr355"
+    },
+    {
+      "added_at": "2021-10-15 17:21:05",
+      "album": {
+        "name": "EP II",
+        "url": "https://open.spotify.com/album/4qXB40wtbBbetffvic299O"
       },
       "artists": [
         {
@@ -1000,25 +1008,25 @@
           "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
         }
       ],
-      "duration_ms": 254814,
-      "name": "Paradise Warfare",
-      "url": "https://open.spotify.com/track/7MwjanOxjvV2ILQPfOKIIm"
+      "duration_ms": 257614,
+      "name": "Looking for Tracy Tzu",
+      "url": "https://open.spotify.com/track/546WYUcLvrd9YifNgEaGsi"
     },
     {
       "added_at": "2021-10-15 17:21:05",
       "album": {
-        "name": "Laugh Away",
-        "url": "https://open.spotify.com/album/6SSX0knQ6kawHeYhyecKFh"
+        "name": "Avengers After Dark",
+        "url": "https://open.spotify.com/album/1fnYuEIp9Vk5nbgDKcRfsi"
       },
       "artists": [
         {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+          "name": "Fury Weekend",
+          "url": "https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH"
         }
       ],
-      "duration_ms": 171034,
-      "name": "Laugh Away",
-      "url": "https://open.spotify.com/track/4qSG7uX4AGz0rBxDQoFxH9"
+      "duration_ms": 292000,
+      "name": "Black To The Future",
+      "url": "https://open.spotify.com/track/3RZZ8KnNq63Isfqo67KI4W"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM"
