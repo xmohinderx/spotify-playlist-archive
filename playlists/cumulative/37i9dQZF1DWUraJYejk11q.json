@@ -538,6 +538,24 @@
     },
     {
       "album": {
+        "name": "Nihiloxica",
+        "url": "https://open.spotify.com/album/5bJXJrJ6lJcdhXrdphNYhe"
+      },
+      "artists": [
+        {
+          "name": "Nihiloxica",
+          "url": "https://open.spotify.com/artist/5jh8Bu4TjUGzixND0q0mGL"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385173,
+      "name": "Endongo",
+      "url": "https://open.spotify.com/track/4HJZxDr6ZL2qtYtrTD6V0M"
+    },
+    {
+      "album": {
         "name": "Laika's Revenge",
         "url": "https://open.spotify.com/album/5C1ZuUWPiIohp86npG2tMD"
       },
@@ -1285,7 +1303,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 241509,
       "name": "onesix-four",
       "url": "https://open.spotify.com/track/71eqYnqbepL5GssxWZjXK2"

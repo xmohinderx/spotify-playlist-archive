@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,787 likes - 118 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,959 likes - 118 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L0MDB1OhZy.md) - [plain]
 
 > Love Books? Free your reading from the tyranny of page and screen with this collection of audiobooks\. Follow for frequent additions!
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,919 likes - 122 songs - 2 day 20 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,935 likes - 122 songs - 2 day 20 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

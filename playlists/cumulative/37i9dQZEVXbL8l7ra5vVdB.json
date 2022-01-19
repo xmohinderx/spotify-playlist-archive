@@ -2479,7 +2479,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 100780,
       "name": "Internal",
       "url": "https://open.spotify.com/track/5VIR1O2q6JhcugcuOeYpO8"
@@ -7857,7 +7857,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 133984,
       "name": "\u0414\u043e\u0440\u0430\u0434\u0443\u0440\u0430",
       "url": "https://open.spotify.com/track/4mTPviBGRgjPxeaQFnBDW3"
@@ -10777,7 +10777,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 112682,
       "name": "\u041f\u043e\u0433\u043e\u0434\u0438",
       "url": "https://open.spotify.com/track/5sJt5rmSaKTQyAymKx6e1W"
@@ -13251,6 +13251,24 @@
       "duration_ms": 140209,
       "name": "\u042f \u0432 \u043c\u043e\u043c\u0435\u043d\u0442\u0435 2",
       "url": "https://open.spotify.com/track/4bfdekEbj35xKzEkJGpPMm"
+    },
+    {
+      "album": {
+        "name": "BACKGROUND",
+        "url": "https://open.spotify.com/album/2JoaHoCGIfFErAD74QjsOT"
+      },
+      "artists": [
+        {
+          "name": "ZAPOMNI",
+          "url": "https://open.spotify.com/artist/4V8bQXsHrlkgPwjTLSmgYU"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133388,
+      "name": "\u042f \u0432\u0441\u0451 \u0440\u0435\u0448\u0443 (Intro)",
+      "url": "https://open.spotify.com/track/3sRsr0TzQ1gMEEzJfWf9cW"
     },
     {
       "album": {

@@ -1064,6 +1064,36 @@
     },
     {
       "album": {
+        "name": "O Re Jiya",
+        "url": "https://open.spotify.com/album/4ar6dYD5PW028N2OsOh5Tn"
+      },
+      "artists": [
+        {
+          "name": "Maati Baani",
+          "url": "https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn"
+        },
+        {
+          "name": "Shankar Tucker",
+          "url": "https://open.spotify.com/artist/1UUufrixCdzil1guLNM5JR"
+        },
+        {
+          "name": "SIRI",
+          "url": "https://open.spotify.com/artist/41wifu6xToBViv1DGicbJj"
+        },
+        {
+          "name": "Konnakkol Somashekhar Jois",
+          "url": "https://open.spotify.com/artist/12unLZAnBWkSY2W2Z0DDfx"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "O Re Jiya",
+      "url": "https://open.spotify.com/track/2CJ20GYw7NJLd4PMABIIEL"
+    },
+    {
+      "album": {
         "name": "Paheli",
         "url": "https://open.spotify.com/album/7MWI2JOWQ0imHeZdxnJv8W"
       },

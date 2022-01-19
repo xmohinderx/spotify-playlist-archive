@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 204761,
       "name": "ABrandNewDay",
       "url": "https://open.spotify.com/track/6zJH70ln2n4JgSm4WApXHO"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 140693,
       "name": "BOOMER KUWANGER STAGE",
       "url": "https://open.spotify.com/track/0rKHHCxSIyIMUCRSSAABdT"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 120973,
       "name": "FIRE FIELD",
       "url": "https://open.spotify.com/track/3kXaNzhwlGurylzMT7it2I"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 154293,
       "name": "Free From Fear",
       "url": "https://open.spotify.com/track/1IZRDWWDyVmfmpenjaLzLB"
@@ -708,6 +708,24 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 \u30ea\u30d9\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0JlP84Pd4ryi8pbka1hllA"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233053,
+      "name": "Revelations - Full Ver.",
+      "url": "https://open.spotify.com/track/0jSh6C7iWAkdB3ldXDh9Qf"
+    },
+    {
+      "album": {
         "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
       },
@@ -907,7 +925,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 298106,
       "name": "Shall Never Surrender (\u30b9\u30bf\u30c3\u30d5\u30ed\u30fc\u30eb)",
       "url": "https://open.spotify.com/track/28V8E51oYwpyocyUsqr63y"
@@ -979,7 +997,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 113906,
       "name": "SPARK MANDRILLER STAGE",
       "url": "https://open.spotify.com/track/4vGhjzXArH20zAY3FcpSFj"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 242083,
       "name": "\u30ab\u30e0\u30e9\u7953\u3048\u6b4c",
       "url": "https://open.spotify.com/track/1UjOE6ihgAsc5LxzxRFVxE"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 189760,
       "name": "\u751f\u547d\u3042\u308b\u8005\u3078",
       "url": "https://open.spotify.com/track/2ehyCjO5IImPIAzyunddFn"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 243880,
       "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9",
       "url": "https://open.spotify.com/track/77XwlP0iitUzb7fxWg2Fq0"

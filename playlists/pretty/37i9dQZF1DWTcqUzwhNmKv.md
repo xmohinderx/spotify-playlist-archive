@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Korn on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,639 likes - 59 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238,880 likes - 59 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 58 | [Under Your Skin](https://open.spotify.com/track/4A0lu7ZxNwGFia8AzY8ZXy) | [Shaman's Harvest](https://open.spotify.com/artist/3pigXV2QUatr3szcb3MacR) | [Under Your Skin](https://open.spotify.com/album/5yh12susUWiXc4kRRfKH5o) | 3:23 |
 | 59 | [Monster Truck](https://open.spotify.com/track/5FH2JoAe00DL628PTwKPH9) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [Monster Truck](https://open.spotify.com/album/0v4RSjqKmZn6lorB7HymsC) | 2:55 |
 
-Snapshot ID: `MTY0MjQ0MzIyNywwMDAwMDRjMjAwMDAwMTdlNjkzZWMxNTgwMDAwMDE3ZTY5M2U2Yzc4`
+Snapshot ID: `MTY0MjUxMzYxNCwwMDAwMDRjMzAwMDAwMTdlNmQ3MGM1MmIwMDAwMDE3ZTZkNzBhZDE1`

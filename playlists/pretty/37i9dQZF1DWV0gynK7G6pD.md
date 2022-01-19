@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Roger Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,337 likes - 68 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,524 likes - 68 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 13 | [Play Your Cards \- from "Munich \- The Edge of War" Soundtrack](https://open.spotify.com/track/382fwlvtAMdqfj1egfE9Ef) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [Play Your Cards \(from "Munich \- The Edge of War" Soundtrack\)](https://open.spotify.com/album/1dmLhfDRfR0AqdznnIvN8T) | 2:02 |
 | 14 | [12 Songs, Op\. 21: V\. Lilacs \(Transcr\. Rachmaninoff for solo piano\)](https://open.spotify.com/track/0aOwMU2T5aaijqQuCs1jxb) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Daria van den Bercken](https://open.spotify.com/artist/3Go8ibBvGVTcWQfLcjnyU9) | [12 Songs, Op\. 21: V\. Lilacs \(Transcr\. Rachmaninoff for solo piano\)](https://open.spotify.com/album/4io8jUVvQSENjp67p39LkP) | 2:51 |
 | 15 | [Bloch: Schelomo "Rhapsodie hébraïque for Cello and Orchestra": I\. Lento moderato](https://open.spotify.com/track/0WKYL6pLrJHRTzQ0xLhaZb) | [Ernest Bloch](https://open.spotify.com/artist/4s7qI7HT1XDzotj6IYNEuJ), [Edgar Moreau](https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0), [Michael Sanderling](https://open.spotify.com/artist/1kLhJK7xiowRJJwf28NKhZ), [Luzerner Sinfonieorchester](https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD) | [Transmission](https://open.spotify.com/album/0gWpSa53wO0OReOfmj0Jtt) | 8:56 |
-| 16 | [Nowhere](https://open.spotify.com/track/3Q1wh0DxsauTGfKKy3LMzU) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [tide](https://open.spotify.com/album/5cJeyYSYfVbnnOsRaqkD1G) | 3:04 |
+| 16 | [Nowhere](https://open.spotify.com/track/3Q1wh0DxsauTGfKKy3LMzU) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Tide](https://open.spotify.com/album/5cJeyYSYfVbnnOsRaqkD1G) | 3:04 |
 | 17 | [Lights Of Home](https://open.spotify.com/track/2MxCWl0Z2ACsHTsV9eVaYI) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Lights Of Home](https://open.spotify.com/album/4TjtuD1U0yCvp9Zb2lWGA3) | 2:36 |
 | 18 | [Raining Days and Mondays](https://open.spotify.com/track/5PDlvpswL1Roamld5QtKmC) | [Richard Carpenter](https://open.spotify.com/artist/7slnlqXyKCLVEirP005Q2n) | [Richard Carpenter’s Piano Songbook](https://open.spotify.com/album/60uP27kxNpoEbInJAvYxwG) | 2:03 |
 | 19 | [13 Preludes, Op\. 32: No\. 5 in G Major\. Moderato](https://open.spotify.com/track/6eoBLqNa5w9x6W7N644CAN) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Ruth Slenczynska](https://open.spotify.com/artist/6Z5dtyrb9Z0LgAkwjqMyY1) | [Rachmaninoff: 13 Preludes, Op\. 32: No\. 5 in G Major\. Moderato](https://open.spotify.com/album/32iOg90EHakXa4LfvZmUPo) | 3:29 |

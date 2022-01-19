@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6?si=sLI4n7mHSAiv4ET\_PvrWYA">Exray Taniua</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,526 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,535 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 8 | [Chingri](https://open.spotify.com/track/695iTP0Wk2V9gBHRKiplZb) | [Ongwen](https://open.spotify.com/artist/684Qot9eoFeYpHUolypT6E), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp), [Zzero Sufuri](https://open.spotify.com/artist/46LcXz6xUVZWnQILSNgLT7) | [Chingri](https://open.spotify.com/album/1AiSsGlNTqmeUuSMAiMXCD) | 4:00 |
 | 9 | [Kajanja \- Official](https://open.spotify.com/track/1g6ZelaQU0nu4hIwxLpwhN) | [Mastar Vk](https://open.spotify.com/artist/7dVjLO6kMF0Fci2JTKZpfB), [Iano Ranking](https://open.spotify.com/artist/09iTULFuj81QbYSC73ebg4), [Shagwah](https://open.spotify.com/artist/72LIkIUc7FItCueQeOahOT), [Hitman Kaht](https://open.spotify.com/artist/1jgOTjEFAogfS8VDFbsO16), [Kappy](https://open.spotify.com/artist/3PIoXwvrGzymznU310leDR) | [Kajanja \(Official\)](https://open.spotify.com/album/2OB91REOYQS8sReai2Cjuh) | 3:38 |
 | 10 | [Tupewe Pombe](https://open.spotify.com/track/7JpBD6OU5gJklnGdGgNIY3) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [The African Experience](https://open.spotify.com/album/1o2iNe8YcjPfpKpmyb3vrz) | 2:56 |
-| 11 | [Mchecheto](https://open.spotify.com/track/6fg4Pocuv72QdwLN1g16T0) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Krg the Don](https://open.spotify.com/artist/79RMbH8Wrk1ixnNu96uVbU) | [Mchecheto](https://open.spotify.com/album/1zTtyny7EJecmJh66YISAe) | 3:44 |
+| 11 | [Mchecheto](https://open.spotify.com/track/6fg4Pocuv72QdwLN1g16T0) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Krg The Don](https://open.spotify.com/artist/1EbpkFPrOPWVYq2UL8llHA) | [Mchecheto](https://open.spotify.com/album/1zTtyny7EJecmJh66YISAe) | 3:44 |
 | 12 | [Pesa Pombe Wanawake](https://open.spotify.com/track/4saDzv3zkl9h4BsB7q74n1) | [Mavo On The Beat](https://open.spotify.com/artist/18FRsej0uytxeNbIbAMkGc), [Dj Kalonje](https://open.spotify.com/artist/6QT6qUbTqnAqefTcuqD7GX), [Teslah](https://open.spotify.com/artist/5jCuBflSoAHTasCXzqUkSJ) | [Pesa Pombe Wanawake](https://open.spotify.com/album/0iz0oLyJKEDN07rJ08a4bv) | 3:41 |
 | 13 | [Mapema](https://open.spotify.com/track/14TYFA5QiKRuBZ3fzGhwES) | [Swat Matire](https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV), [Rekless](https://open.spotify.com/artist/6sPwK0WfruZsrWiPwJek2B), [Harry Craze](https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp) | [Mapema](https://open.spotify.com/album/3XyNXEsz75dMn8LD8qxP3m) | 3:36 |
 | 14 | [Diliti](https://open.spotify.com/track/2vpACJiwXcHpAMTdPSmwGT) | [Ochungulo Family](https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Diliti](https://open.spotify.com/album/4IafXNk3DaD75qq5a6bOsB) | 4:22 |

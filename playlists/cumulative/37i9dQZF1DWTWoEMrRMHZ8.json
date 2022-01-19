@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 205295,
       "name": "Assume Que Gosta",
       "url": "https://open.spotify.com/track/6MT2wDh8TrBKPgREBwHWRg"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 183274,
       "name": "Fotografia",
       "url": "https://open.spotify.com/track/3is1regCaCuboIwrIqfFWa"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 197802,
       "name": "Imposs\u00edvel",
       "url": "https://open.spotify.com/track/5FQNsFXu161A9edkOIMWXs"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 224693,
       "name": "Juventude Transviada",
       "url": "https://open.spotify.com/track/2tbfaB6mHxcD4LVhII9DpW"
@@ -1278,6 +1278,108 @@
     },
     {
       "album": {
+        "name": "Pro Teu Bem (O se\u00fcn Olorun mi)",
+        "url": "https://open.spotify.com/album/0Jw2oXAzq5wowD55Tj7v6T"
+      },
+      "artists": [
+        {
+          "name": "Rico Ayade",
+          "url": "https://open.spotify.com/artist/5A0Pp47ofdvsy8FCi7kGsJ"
+        },
+        {
+          "name": "Estev\u00e3o Queiroga",
+          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
+        },
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        },
+        {
+          "name": "anaju",
+          "url": "https://open.spotify.com/artist/2dnx2zp2G1iSOnq3Ewj1a6"
+        },
+        {
+          "name": "Barroso Eus",
+          "url": "https://open.spotify.com/artist/4S5rWJgp85aHLS5M5WsDyi"
+        },
+        {
+          "name": "Bhez\u00e3o",
+          "url": "https://open.spotify.com/artist/51I2y3J9N63WQnJtecE5rf"
+        },
+        {
+          "name": "Eddu Porto",
+          "url": "https://open.spotify.com/artist/4xhNk733xHMSzzfhwoEvEr"
+        },
+        {
+          "name": "Felipe C\u00e2mara",
+          "url": "https://open.spotify.com/artist/7nMcdHn8XjZDOzCn1x83f0"
+        },
+        {
+          "name": "Fernando Malt",
+          "url": "https://open.spotify.com/artist/0ZhfmUcUfcffJGAcqZ5Xra"
+        },
+        {
+          "name": "Gon",
+          "url": "https://open.spotify.com/artist/2mm347guNQFA74YHLTj1uc"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        },
+        {
+          "name": "Hid",
+          "url": "https://open.spotify.com/artist/3QTmDcqAXTWHcnC74Y940D"
+        },
+        {
+          "name": "Hugo Branquinho",
+          "url": "https://open.spotify.com/artist/1G7RC4anhU2mNCDNV0l8rs"
+        },
+        {
+          "name": "Jeft\u00e9",
+          "url": "https://open.spotify.com/artist/3MH0scuxfnwX02f6EHSfWj"
+        },
+        {
+          "name": "Jo\u00e3o Gabriel",
+          "url": "https://open.spotify.com/artist/0OuRCAdXZTqMZD8WfMYUXB"
+        },
+        {
+          "name": "Julie Ramos",
+          "url": "https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV"
+        },
+        {
+          "name": "Larissa Muniz",
+          "url": "https://open.spotify.com/artist/6zNuu1Kz0XNjWoEksVAVx0"
+        },
+        {
+          "name": "Mal\u00fa Lomando",
+          "url": "https://open.spotify.com/artist/6u5Wnrt6qAc1hQekBvcLXm"
+        },
+        {
+          "name": "N\u00f4 Stopa",
+          "url": "https://open.spotify.com/artist/1tvJkKNKt5zYCbbyR36fZa"
+        },
+        {
+          "name": "Rabi",
+          "url": "https://open.spotify.com/artist/4K185ga7jC0zh6rNktPJFk"
+        },
+        {
+          "name": "Selma Fernands",
+          "url": "https://open.spotify.com/artist/4SIXnbIXZbWp94vEISxqTm"
+        },
+        {
+          "name": "Thom\u00e1s Meira",
+          "url": "https://open.spotify.com/artist/1WNkCi49xmVOudxLMNFOkh"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263783,
+      "name": "Pro Teu Bem - O se\u00fcn Olorun mi",
+      "url": "https://open.spotify.com/track/0gW6gimglTgNZFUGkZYAec"
+    },
+    {
+      "album": {
         "name": "Noturno",
         "url": "https://open.spotify.com/album/3Q6KR2k01ltWu8OtqOmm3E"
       },
@@ -1539,7 +1641,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 194056,
       "name": "Sentido da Vida",
       "url": "https://open.spotify.com/track/1VF3ZTiGL6J6glNn04R0WE"
@@ -1666,6 +1768,32 @@
     },
     {
       "album": {
+        "name": "Tocando Em Frente",
+        "url": "https://open.spotify.com/album/4LjOAlMvo0ubUMx6Tq01X9"
+      },
+      "artists": [
+        {
+          "name": "Renato Teixeira",
+          "url": "https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI"
+        },
+        {
+          "name": "Raimundo Fagner",
+          "url": "https://open.spotify.com/artist/0Vj9wPtWQGXzTh9kVP0XR2"
+        },
+        {
+          "name": "Almir Sater",
+          "url": "https://open.spotify.com/artist/2JnNhPT0sQvhKOyLqDKRuP"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243764,
+      "name": "Tocando Em Frente",
+      "url": "https://open.spotify.com/track/5Lel1cBF8VBfulFbxiFMuU"
+    },
+    {
+      "album": {
         "name": "Toda Manh\u00e3",
         "url": "https://open.spotify.com/album/71bzvUqB464u17RWMKkPOu"
       },
@@ -1725,6 +1853,24 @@
       "duration_ms": 188415,
       "name": "Um P\u00f4r do Sol Na Praia",
       "url": "https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh"
+    },
+    {
+      "album": {
+        "name": "Valente",
+        "url": "https://open.spotify.com/album/0Na74mLtHpPONrk9MJmsPX"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nogueira",
+          "url": "https://open.spotify.com/artist/0Kaxu0W1DHP5OQ4FDWMjh4"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212264,
+      "name": "Valente",
+      "url": "https://open.spotify.com/track/3AUAfawYAvwLaL3SlZWgQD"
     },
     {
       "album": {

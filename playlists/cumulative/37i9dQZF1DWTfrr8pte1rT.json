@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 293274,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/3NGouqhbWEjkKJFqNTFBhM"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 141195,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/3h7nvdG9vOZPfMX0P7oKeZ"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 171428,
       "name": "Crusade",
       "url": "https://open.spotify.com/track/29Dvkvp7Wgd1VJdDvVJlvf"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 239873,
       "name": "Dynamo",
       "url": "https://open.spotify.com/track/7A0T48jL3L6IjqUDku4QWc"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 189479,
       "name": "England Screams",
       "url": "https://open.spotify.com/track/21XAGAUNCh1INwlr98XjBu"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 129408,
       "name": "Hurting on Purpose (feat. K.Flay)",
       "url": "https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P"
@@ -1689,7 +1689,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "MAKE BELIEVE",
       "url": "https://open.spotify.com/track/2E1K4gYnfHGsZLldIQzucF"
@@ -1931,7 +1931,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 217714,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/5TjFxHpoDtVtLxIRezZhbR"
@@ -1997,6 +1997,28 @@
       "duration_ms": 175500,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/7isayXQEPtwsmuAqq7tZoM"
+    },
+    {
+      "album": {
+        "name": "Onyx",
+        "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259401,
+      "name": "Our Fire",
+      "url": "https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW"
     },
     {
       "album": {
@@ -2123,7 +2145,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 229327,
       "name": "Radium Girls",
       "url": "https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v"
@@ -2597,7 +2619,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 174000,
       "name": "Somebody's Idiot",
       "url": "https://open.spotify.com/track/4QinVyD0wdHBxyszMR9Ryn"
@@ -2813,7 +2835,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 198400,
       "name": "The Bottom (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/1s2xUbLU0bcNRWKK04X9NO"
@@ -2861,7 +2883,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 268000,
       "name": "The Change (feat. DMA'S) [Ekko & Sidetrack Remix]",
       "url": "https://open.spotify.com/track/7mXsoAXspKX5Ql93l2q8Wa"
@@ -2909,6 +2931,28 @@
       "duration_ms": 279452,
       "name": "The Same (feat. neverwaves)",
       "url": "https://open.spotify.com/track/6YHoMGskZLBjLYDRqCJCGX"
+    },
+    {
+      "album": {
+        "name": "The Sickness",
+        "url": "https://open.spotify.com/album/05FU57RYm1lzR9TKEDGQ05"
+      },
+      "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "The Sickness",
+      "url": "https://open.spotify.com/track/0ydJxPQlsSTaABAQuYn3q9"
     },
     {
       "album": {
@@ -3077,7 +3121,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 208062,
       "name": "Up In Flames (feat. Alex Gaskarth of All Time Low)",
       "url": "https://open.spotify.com/track/7hgE1K6lm7V4ULzlxMWPiF"
@@ -3195,7 +3239,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 339310,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1XP0VR8KMArstV37bfzkt8"

@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 245720,
       "name": "Amame",
       "url": "https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO"
@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "No Hay Cielo",
+        "url": "https://open.spotify.com/album/3MNyovabzwapPKpE09eL71"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219376,
+      "name": "Como Apartarte de Mi",
+      "url": "https://open.spotify.com/track/1RbygCuuJwccy4zjQ6xukA"
+    },
+    {
+      "album": {
         "name": "Mil Y Una Historias",
         "url": "https://open.spotify.com/album/0SgP2tsCpMloeZ0WHiuozm"
       },
@@ -361,7 +379,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 267280,
       "name": "Cosas Del Amor",
       "url": "https://open.spotify.com/track/139SxHqKl7YOmuC1RAnmpJ"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 251666,
       "name": "Es Demasiado Tarde - Remasterizado",
       "url": "https://open.spotify.com/track/5g4HXOoT2kQTDtVuJhBgBV"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 218080,
       "name": "Es Mejor As\u00ed (feat. Reik) - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/3hK9u5GThJt0pIm1Q6rZAt"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 275280,
       "name": "Esta Ausencia",
       "url": "https://open.spotify.com/track/0phL00aOVS9nHhvd5Vodei"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 225680,
       "name": "Inv\u00e9ntame - Live",
       "url": "https://open.spotify.com/track/0LYBDxw09hDPwdybZvm8FI"
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 317626,
       "name": "Labios Compartidos",
       "url": "https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 232282,
       "name": "Lo Que Son las Cosas",
       "url": "https://open.spotify.com/track/6TanzeHh5Ffh5EP2AJnGD3"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 271226,
       "name": "Luna",
       "url": "https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA"
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 219853,
       "name": "Mi Sue\u00f1o",
       "url": "https://open.spotify.com/track/7r6N3v65Oq4lkViGiCWcB7"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 266653,
       "name": "Porque Es Tan Cruel El Amor",
       "url": "https://open.spotify.com/track/14Osyrs4kYXhH928UVP0ku"
@@ -1499,6 +1517,24 @@
       "duration_ms": 224826,
       "name": "Primera Vez",
       "url": "https://open.spotify.com/track/7oX0AwQcXeBZPjG9IwyCO3"
+    },
+    {
+      "album": {
+        "name": "Alma M\u00eda",
+        "url": "https://open.spotify.com/album/1fAPm6GyqLRPgUBZvNT7I9"
+      },
+      "artists": [
+        {
+          "name": "Wason",
+          "url": "https://open.spotify.com/artist/4XedoXsFfkyPWmHxG40kIH"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223173,
+      "name": "Que vida?",
+      "url": "https://open.spotify.com/track/0F7v7jr22v47PNgl6x9Sa5"
     },
     {
       "album": {
@@ -1607,7 +1643,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 299626,
       "name": "Ser\u00e1 Mejor Que Te Vayas",
       "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
@@ -1865,7 +1901,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 195710,
       "name": "Te Confieso",
       "url": "https://open.spotify.com/track/7AIy2SEjip6FKhlSNMoMac"
@@ -2117,7 +2153,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 278400,
       "name": "Y Todo Queda en Nada",
       "url": "https://open.spotify.com/track/44PcqZldHvLphouCGnH7i0"

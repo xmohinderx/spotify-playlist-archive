@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrSeoLHavML.md) - [plain]
 
 > Explore the rich string quartet repertoire in this collection of 101 sublime pieces from 101 composers, performed by 101 outstanding ensembles\. From baroque works that paved the way for the genre, classical and romantic era masterpieces, to many splendid 20/21st century compositions, from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,686 likes - 101 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,691 likes - 101 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Kristal Kit Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,810 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,815 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 19 | [Sevgin Öldürüyor](https://open.spotify.com/track/3f7sPtcFxe6bruJIrqx9mD) | [Yelda Altunal](https://open.spotify.com/artist/3A4CXrp41JSgYT3bAxEOYU) | [Sevgin Öldürüyor](https://open.spotify.com/album/2Fs2bQci7mqXelZj6BumvS) | 3:22 |
 | 20 | [Aylak Gündönümü](https://open.spotify.com/track/6jGqXRzCtncoLSTH5UgVxJ) | [Doğuş Kökarttı](https://open.spotify.com/artist/0b2XQh9oiCduFUb4N6Tv21) | [Aylak Gündönümü](https://open.spotify.com/album/0CUmmQBSjZDzcsACmZW4fk) | 4:21 |
 | 21 | [Bu Nasıl Bir Oyun](https://open.spotify.com/track/5t97nVzWY1dtby3yme66Ol) | [Berk Uçar](https://open.spotify.com/artist/1ZbJNjbClrxLy2nayQOIj1) | [Bu Nasıl Bir Oyun](https://open.spotify.com/album/1TeNs7aXybLel1sx93RQvk) | 4:19 |
-| 22 | [Ehtiyacımsan](https://open.spotify.com/track/6SUqUEVmq47VQUp5wJxEQS) | [Tunzale](https://open.spotify.com/artist/4Jw4TQGSm48c7YDaKoc33t) | [Ehtiyacımsan](https://open.spotify.com/album/2OM6up4ZgsTYfLNoyhEeZB) | 3:20 |
+| 22 | [Ehtiyacımsan](https://open.spotify.com/track/6SUqUEVmq47VQUp5wJxEQS) | [Tünzalə](https://open.spotify.com/artist/4Jw4TQGSm48c7YDaKoc33t) | [Ehtiyacımsan](https://open.spotify.com/album/2OM6up4ZgsTYfLNoyhEeZB) | 3:20 |
 | 23 | [Halime Gülüyorum](https://open.spotify.com/track/1iTR5IyKMwKVfy8cUO16e8) | [Berk Baysal](https://open.spotify.com/artist/54R13HT0PZ7sa6xMm9YpDS) | [Olmuyor Böyle](https://open.spotify.com/album/0UKC1bSDFuCunQZudf6jnt) | 3:47 |
 | 24 | [Sarhoşun Mektubu](https://open.spotify.com/track/1u1RxsYzNWcFoTIvKYeDyk) | [Sapkın](https://open.spotify.com/artist/4SQox9qNrhklyAKFcg5kTP) | [Sarhoşun Mektubu](https://open.spotify.com/album/72FB44rBjH6OZTNsl71CT4) | 3:00 |
 | 25 | [döner adımlar evine](https://open.spotify.com/track/68QmVhDbq9Q6RWpHtYbK6G) | [Deriler](https://open.spotify.com/artist/6HD5xPwier7GYZ19RMeckb) | [döner adımlar evine](https://open.spotify.com/album/1Et2vc4HH1uBqghuUnnTGB) | 2:47 |

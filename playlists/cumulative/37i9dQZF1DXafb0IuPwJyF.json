@@ -1154,6 +1154,24 @@
     },
     {
       "album": {
+        "name": "BAD\u30e2\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257953,
+      "name": "\u541b\u306b\u5922\u4e2d",
+      "url": "https://open.spotify.com/track/0oxWaHk4e669g5VHbQCflA"
+    },
+    {
+      "album": {
         "name": "\u541b\u306b\u5922\u4e2d",
         "url": "https://open.spotify.com/album/1FcGt8wyGckJfp7PlLPNdA"
       },
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 257953,
       "name": "\u541b\u306b\u5922\u4e2d",
       "url": "https://open.spotify.com/track/3mRNkUTu4ItqQ6GXy7L7KF"

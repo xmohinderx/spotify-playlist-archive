@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 159301,
       "name": "Be Better",
       "url": "https://open.spotify.com/track/6Z1lZYniJVYG8el7HgFEAQ"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 295120,
       "name": "Black Mirror",
       "url": "https://open.spotify.com/track/23rvx8Jjqkg2FsrF5tLsNK"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 237720,
       "name": "Bucktown",
       "url": "https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 252186,
       "name": "C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)",
       "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 333328,
       "name": "End Of Daze (with EARTHGANG & JID feat. Jurdan Bryant, Mereba & Hollywood JB)",
       "url": "https://open.spotify.com/track/7KwGV5HUzjLIk1yFCYAfMn"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 176946,
       "name": "Gassed up (feat. Fly Anakin)",
       "url": "https://open.spotify.com/track/4iHx0Sf8bjOSYZJ5M41NQn"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 329000,
       "name": "His Pain",
       "url": "https://open.spotify.com/track/2uujJLrRplaQMkEx8CybZ8"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 251666,
       "name": "Jazzy Belle",
       "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89"
@@ -1169,10 +1169,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 168000,
       "name": "LABOU",
       "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
+    },
+    {
+      "album": {
+        "name": "Last Last Fall",
+        "url": "https://open.spotify.com/album/70oR8O1FqeO4qtzeQ2WZvu"
+      },
+      "artists": [
+        {
+          "name": "Jonwayne",
+          "url": "https://open.spotify.com/artist/3i7IUsb5VsiJAKqX2Md9Fc"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284444,
+      "name": "Last Last Fall",
+      "url": "https://open.spotify.com/track/12vOCYp0ZyjaRRWyMWP3g8"
     },
     {
       "album": {
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 308866,
       "name": "Lookout!",
       "url": "https://open.spotify.com/track/1TB9ufPyRklqlQRdXPhD6F"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 152041,
       "name": "Love Is Only a Feeling",
       "url": "https://open.spotify.com/track/7umZiitjVsEjMQ6HNddpUI"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 142706,
       "name": "LUDACRIS",
       "url": "https://open.spotify.com/track/3UTkM1zyqITgFks8CkMpLT"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 308733,
       "name": "Mind Playing Tricks on Me",
       "url": "https://open.spotify.com/track/63BokRfXSQhEU6Qi2dSJpZ"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 293973,
       "name": "N.Y. State of Mind",
       "url": "https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe"
@@ -1611,6 +1629,32 @@
       "duration_ms": 322066,
       "name": "Nappy Heads - Remix",
       "url": "https://open.spotify.com/track/0hKr166QnNZ0a37G4UO0VY"
+    },
+    {
+      "album": {
+        "name": "New Skeezer (Hot Sauce)",
+        "url": "https://open.spotify.com/album/4dkVAygzDgZzW1sunAkfzi"
+      },
+      "artists": [
+        {
+          "name": "Bane Capital",
+          "url": "https://open.spotify.com/artist/31bDSGSOB0Lgc1FIDWFmeL"
+        },
+        {
+          "name": "MED",
+          "url": "https://open.spotify.com/artist/36zSkwftotDHslP3KUQpew"
+        },
+        {
+          "name": "Koncept Jack$on",
+          "url": "https://open.spotify.com/artist/2SHO0IPq0mfwPxwquNx8Qa"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138866,
+      "name": "New Skeezer (Hot Sauce)",
+      "url": "https://open.spotify.com/track/7qH6PM08d2IrufZvULWpwl"
     },
     {
       "album": {
@@ -1655,7 +1699,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 229320,
       "name": "Next Levels",
       "url": "https://open.spotify.com/track/58MeeOMk6PMQxXWY9YCNPD"
@@ -1717,7 +1761,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 152281,
       "name": "Not a Lot to Fear",
       "url": "https://open.spotify.com/track/4lKmBs5dS81vXwJ2FsMbWE"
@@ -1743,6 +1787,28 @@
       "duration_ms": 197260,
       "name": "Numerology",
       "url": "https://open.spotify.com/track/3iauRFQNLw1TFzIwuFlOFx"
+    },
+    {
+      "album": {
+        "name": "Bah Wounds",
+        "url": "https://open.spotify.com/album/0eQBeRwtNY5baBkPU1dfFA"
+      },
+      "artists": [
+        {
+          "name": "Vic Spencer",
+          "url": "https://open.spotify.com/artist/55UEjjjLkvSklEtxbOrF7N"
+        },
+        {
+          "name": "D. Brash",
+          "url": "https://open.spotify.com/artist/2EbxPvhgWJDJ8leuXCkIRO"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164889,
+      "name": "Old Polaroids",
+      "url": "https://open.spotify.com/track/1L4dV02RaRFMsPHjleQukW"
     },
     {
       "album": {
@@ -1823,7 +1889,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 270653,
       "name": "Paris, Tokyo",
       "url": "https://open.spotify.com/track/2dXME00xUY1CRcMZsM3Y4q"
@@ -2225,7 +2291,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 141000,
       "name": "Shattered Dreams",
       "url": "https://open.spotify.com/track/2LQb3iYBzoxbxct2IexjBc"
@@ -2291,7 +2357,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 165983,
       "name": "Sour Soul",
       "url": "https://open.spotify.com/track/48mJsuV6IsDVrjkhqR2mHG"
@@ -2371,7 +2437,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 176551,
       "name": "Teriyaki",
       "url": "https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew"
@@ -2415,7 +2481,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 251906,
       "name": "The Good, The Bad, The Ugly (feat. Kanye West) - Explicit Album Version",
       "url": "https://open.spotify.com/track/52uU5uNt9lOstGCc6C7QEJ"
@@ -2469,7 +2535,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 290573,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC"
@@ -2805,7 +2871,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 142046,
       "name": "Whoop T",
       "url": "https://open.spotify.com/track/4rCdZNTAi41YRzc9dB4QcS"

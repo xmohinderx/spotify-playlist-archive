@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 155401,
       "name": "All That I Said",
       "url": "https://open.spotify.com/track/2HuCVtmbXGPjWrCbnhElDf"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 249211,
       "name": "ALL THESE INSTRUMENTS",
       "url": "https://open.spotify.com/track/0KdWKPgZ0pleOpV2xOd8D0"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 289396,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/1wyc9pjAAtIaBceqts184d"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 171125,
       "name": "Common Places, Common Faces",
       "url": "https://open.spotify.com/track/418eTc9b78KdTeF8g3IDXP"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 260399,
       "name": "Cul De Sac",
       "url": "https://open.spotify.com/track/0LPhD0LxOeR5O6LIwFrQqd"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 196000,
       "name": "Don't Care",
       "url": "https://open.spotify.com/track/6TZUGi7lAOGfUyGKaIGJ4N"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 214148,
       "name": "Est\u00e1 Da\u00f1ada",
       "url": "https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 216573,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/3wuVrvfmeiRx9kxXnGc95b"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 134500,
       "name": "Girasol",
       "url": "https://open.spotify.com/track/0BizsPV9e8BDWoKS3hPk3M"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 200000,
       "name": "happy in a haze / butterfly to ya",
       "url": "https://open.spotify.com/track/7F8dQNzJENUAysbOtKrKvl"
@@ -720,6 +720,28 @@
     },
     {
       "album": {
+        "name": "Ilegales / Black Boy",
+        "url": "https://open.spotify.com/album/6LiIqc3bay9fFSBD3rWxni"
+      },
+      "artists": [
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149002,
+      "name": "Ilegales",
+      "url": "https://open.spotify.com/track/5LyO5Yt71VgMYdzxsLNJin"
+    },
+    {
+      "album": {
         "name": "DUALITY",
         "url": "https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4"
       },
@@ -749,7 +771,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 208954,
       "name": "In the Abstract",
       "url": "https://open.spotify.com/track/5v2yWi4mmtY8GZn1M6hUke"
@@ -807,7 +829,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 232056,
       "name": "Junto a Ti",
       "url": "https://open.spotify.com/track/7aF0TCs1HeKfu56uN8aqIo"
@@ -829,7 +851,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 269640,
       "name": "La Ciudad",
       "url": "https://open.spotify.com/track/2YAhz9BUgMniYM1WNfLpkL"
@@ -873,7 +895,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 222466,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/0g9lp41XLg8wgSaZlXtt6G"
@@ -895,7 +917,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 222466,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/2xWTpdIasfP9dRNY4Wi1lK"
@@ -993,7 +1015,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 164523,
       "name": "Locura",
       "url": "https://open.spotify.com/track/2xukDcihOVcK9cBvpR25we"
@@ -1033,7 +1055,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4ICpTkGZ8khDEgk1edstz0"
@@ -1077,7 +1099,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 128999,
       "name": "Luv on Me",
       "url": "https://open.spotify.com/track/65qsnnINZZZYdPNxlXaQey"
@@ -1153,7 +1175,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 217840,
       "name": "Moment of Joy",
       "url": "https://open.spotify.com/track/3GLGwjylUfM2quQzK07EY5"
@@ -1233,7 +1255,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 234493,
       "name": "Nostalgic Vibrations",
       "url": "https://open.spotify.com/track/7s0enDMJqctv0FNPo655ib"
@@ -1305,7 +1327,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 146585,
       "name": "Para Nada",
       "url": "https://open.spotify.com/track/0f4PXAx8MCRSYl5A4RzNla"
@@ -1381,7 +1403,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 194976,
       "name": "Park Ave",
       "url": "https://open.spotify.com/track/3PwZAzJ9NiYojvVC2WyxMX"
@@ -1471,7 +1493,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 183253,
       "name": "Polyhymnia",
       "url": "https://open.spotify.com/track/7grLgKJ2Og4CS6o6ky26U8"
@@ -1529,7 +1551,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 144511,
       "name": "Really Rong",
       "url": "https://open.spotify.com/track/60vsS2ZyzU8gVHEyG35g57"
@@ -1569,7 +1591,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 205440,
       "name": "Sad Lullaby",
       "url": "https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY"
@@ -1645,7 +1667,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 178166,
       "name": "Space Parade",
       "url": "https://open.spotify.com/track/5XHZv1rBmLCGzGiAHV5m6G"
@@ -1663,7 +1685,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 166666,
       "name": "Suerte",
       "url": "https://open.spotify.com/track/4oBFRsX8QASmBHVrxYS5OU"
@@ -1703,7 +1725,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 298250,
       "name": "te alejas",
       "url": "https://open.spotify.com/track/3ZUNkZgE697qrnRCBZZOBz"
@@ -1757,7 +1779,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 142921,
       "name": "tus ojos",
       "url": "https://open.spotify.com/track/3VWpfOSxv0h8W98iyHbc8E"

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "12x3",
+        "url": "https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+    },
+    {
+      "album": {
         "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
       },
@@ -75,7 +93,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -151,6 +169,28 @@
       "duration_ms": 189613,
       "name": "AMOR DE MI VIDA",
       "url": "https://open.spotify.com/track/2C6eINAA8cO6e5a8PjnWsK"
+    },
+    {
+      "album": {
+        "name": "Caf\u00e9 con Aroma de Mujer",
+        "url": "https://open.spotify.com/album/3g8nlPP7P4rVsIbAEfrUVc"
+      },
+      "artists": [
+        {
+          "name": "Canal RCN",
+          "url": "https://open.spotify.com/artist/1H4lcG48Xmqp5SmFwgwuYL"
+        },
+        {
+          "name": "Laura Londo\u00f1o",
+          "url": "https://open.spotify.com/artist/72q5DnGwwFkPA0gfmy0IPa"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259245,
+      "name": "Amor Qu\u00e9 Me Hiciste",
+      "url": "https://open.spotify.com/track/7t9nTOyLgrsmRe5jjqwUQx"
     },
     {
       "album": {
@@ -249,7 +289,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 216263,
       "name": "Conv\u00e9ncete",
       "url": "https://open.spotify.com/track/5UyH584f99c7qErZifyaHy"
@@ -565,7 +605,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 181356,
       "name": "I Still Haven\u2019t Found What I\u2019m Looking For (with Bono)",
       "url": "https://open.spotify.com/track/2dsADtLSSLcfsSDn7sCdak"
@@ -605,7 +645,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 224650,
       "name": "Karma",
       "url": "https://open.spotify.com/track/27t8d92gQw59mrjg0IlP26"
@@ -770,6 +810,24 @@
     },
     {
       "album": {
+        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
+      },
+      "artists": [
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208694,
+      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
+      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
+    },
+    {
+      "album": {
         "name": "Monastery",
         "url": "https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC"
       },
@@ -785,7 +843,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 189333,
       "name": "Monastery",
       "url": "https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok"
@@ -915,10 +973,44 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 232560,
       "name": "No Te Deseo el Mal",
       "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
+    },
+    {
+      "album": {
+        "name": "OTRA VEZ",
+        "url": "https://open.spotify.com/album/7ieVSW0ouHc1fOmSUe93XC"
+      },
+      "artists": [
+        {
+          "name": "Rodezel",
+          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
+        },
+        {
+          "name": "Barca",
+          "url": "https://open.spotify.com/artist/12IZViXpvORhdyo63pg94w"
+        },
+        {
+          "name": "JCBG",
+          "url": "https://open.spotify.com/artist/5Q5S9waHdyyZEViAkEwr0S"
+        },
+        {
+          "name": "Jaime",
+          "url": "https://open.spotify.com/artist/4zc8iuaFO5S0oBJxsofSbR"
+        },
+        {
+          "name": "Hasvik",
+          "url": "https://open.spotify.com/artist/3lWBAUVAcldKXWRknUiv3W"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "OTRA VEZ",
+      "url": "https://open.spotify.com/track/6NvGRkX25DJ8fJsX3wSo6i"
     },
     {
       "album": {
@@ -949,6 +1041,28 @@
       "duration_ms": 224510,
       "name": "Pens\u00e1ndote - Remix",
       "url": "https://open.spotify.com/track/3WOwm6kginUb9Ee7AoZvt8"
+    },
+    {
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0"
     },
     {
       "album": {
@@ -989,6 +1103,58 @@
       "duration_ms": 244123,
       "name": "Que Bella",
       "url": "https://open.spotify.com/track/3J19LpIaBLaF5bS6mkFInB"
+    },
+    {
+      "album": {
+        "name": "REZAS",
+        "url": "https://open.spotify.com/album/0cFHZfT43EQHck5pa9s1A1"
+      },
+      "artists": [
+        {
+          "name": "Siho Villalobos",
+          "url": "https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso"
+        },
+        {
+          "name": "DEEIKEL",
+          "url": "https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi"
+        },
+        {
+          "name": "Adrian Arrieta",
+          "url": "https://open.spotify.com/artist/41UotWTumhzKbnYtUMu7kA"
+        },
+        {
+          "name": "Christopher Alfaro",
+          "url": "https://open.spotify.com/artist/1kSAPUJA6Nn53ahFUNYqND"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185581,
+      "name": "REZAS",
+      "url": "https://open.spotify.com/track/1Vj0a0Ox501tSjxMFq7FtO"
+    },
+    {
+      "album": {
+        "name": "Si Pepe (Remix)",
+        "url": "https://open.spotify.com/album/7M8cfii3oLWzTsRsPnQYIH"
+      },
+      "artists": [
+        {
+          "name": "Soy Jhayco",
+          "url": "https://open.spotify.com/artist/5M9QGwKWSK6jR7NyFVP6Ji"
+        },
+        {
+          "name": "Filtradios",
+          "url": "https://open.spotify.com/artist/0oUAJiJvp5FdmlsQbUJfuA"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487384,
+      "name": "Si Pepe - Remix",
+      "url": "https://open.spotify.com/track/0GP5ncFFh4nC0fsBGzkO4M"
     },
     {
       "album": {
@@ -1143,7 +1309,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 194423,
       "name": "The Perfect Girl",
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
@@ -1319,10 +1485,44 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 486840,
       "name": "Weightless Part 1",
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"
+    },
+    {
+      "album": {
+        "name": "2021 Winter SMTOWN : SMCU EXPRESS",
+        "url": "https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        },
+        {
+          "name": "JENO",
+          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
+        },
+        {
+          "name": "HENDERY",
+          "url": "https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs"
+        },
+        {
+          "name": "YANGYANG",
+          "url": "https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L"
+        },
+        {
+          "name": "GISELLE",
+          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177413,
+      "name": "ZOO",
+      "url": "https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF"
     },
     {
       "album": {

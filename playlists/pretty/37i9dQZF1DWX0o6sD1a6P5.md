@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover:  Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,363 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,811 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 42 | [Ananas](https://open.spotify.com/track/0AFpDvHPQm45QkHf0u0TXk) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [Ananas](https://open.spotify.com/album/0y1P8LcQjHdFvzyDdH4B25) | 3:00 |
 | 43 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 |
 | 44 | [Appelement Jeter](https://open.spotify.com/track/1mpAwnhNe837FCWXS0PpiD) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Mosty](https://open.spotify.com/artist/64idDFucLXetV5ccSBycS0) | [Appelement Jeter](https://open.spotify.com/album/2IzqMzgc7qRT9tmc6pLssv) | 3:37 |
-| 45 | [Jolene](https://open.spotify.com/track/6B1si3DuUOmVaWQ53GijZh) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [Jolene](https://open.spotify.com/album/3S8m8x31vQLl4I4R4gqA88) | 3:15 |
+| 45 | [Jolene](https://open.spotify.com/track/6B1si3DuUOmVaWQ53GijZh) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [Jolene](https://open.spotify.com/album/3S8m8x31vQLl4I4R4gqA88) | 3:15 |
 | 46 | [Dose](https://open.spotify.com/track/2mIfMDTR6pNa3iWne56HGe) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Dose](https://open.spotify.com/album/30D9fiPKJuwgm8HViRHEC5) | 2:44 |
 | 47 | [Anoti](https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:01 |
 | 48 | [Tapé Poto](https://open.spotify.com/track/06lE7fleMxHKOSXAscjo9K) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Tapé Poto](https://open.spotify.com/album/4rhV8AszF8xWebe5W9nMP9) | 4:10 |

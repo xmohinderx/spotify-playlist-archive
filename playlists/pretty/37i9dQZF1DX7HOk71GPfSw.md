@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > hyperpop is a simulation\. Cover: midwxst
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,754 likes - 156 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,441 likes - 156 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 301843,
       "name": "26 Basslines",
       "url": "https://open.spotify.com/track/1oyc8GS43HQ0SDunBMn9Bd"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 282857,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/5qRe3KNf0uXJpt1RKEAEwI"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 336079,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/4KyRFye8Zqh7RAYakwtt65"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 266973,
       "name": "Hold On - Sub Focus Remix",
       "url": "https://open.spotify.com/track/1p3pNDVO8n9UyNpnNY0qyx"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 267800,
       "name": "Hold On - Sub Focus Remix",
       "url": "https://open.spotify.com/track/2u6tZMWwhgnRggKHvRWINP"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 224040,
       "name": "Intensive Snare feat. Skepta - Original Mix",
       "url": "https://open.spotify.com/track/5iNvnrGvOV6J17eUUc0skt"
@@ -604,6 +604,24 @@
     },
     {
       "album": {
+        "name": "Skream! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1nWIYpBIbSn759fhDYPvrx"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239806,
+      "name": "Midnight Request Line",
+      "url": "https://open.spotify.com/track/6saiu3uHwIpzPl8GKtRRNR"
+    },
+    {
+      "album": {
         "name": "Brothers Grim",
         "url": "https://open.spotify.com/album/1eQe1ZREHHjReOWgiI6SN6"
       },
@@ -619,7 +637,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 246955,
       "name": "Mmmmm",
       "url": "https://open.spotify.com/track/1Zr3VqpOdIWkesC8eHuGTi"
@@ -637,7 +655,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 306891,
       "name": "Music in Me",
       "url": "https://open.spotify.com/track/3sSwdKGqxmpycfrRHY61Mf"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 238984,
       "name": "Organ Donor",
       "url": "https://open.spotify.com/track/7kZ7HsK9XD6X6e9Yb5zBTn"
@@ -749,7 +767,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 184615,
       "name": "Sepia",
       "url": "https://open.spotify.com/track/4vpvkDPQfCVPDS64hBtUbl"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 248706,
       "name": "Woo Boost",
       "url": "https://open.spotify.com/track/7INs3UHgJ7VCv4IHt2afvG"

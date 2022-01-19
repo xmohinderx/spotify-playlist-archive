@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians. Cover: SIDEPIECE",
-  "num_followers": 536335,
+  "num_followers": 536388,
   "original_name": "Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1OTI2MCwwMDAwMDBmNTAwMDAwMTdlNTg1MWMxY2EwMDAwMDE3ZTU0NWVlYzBl",
+  "snapshot_id": "MTY0MjUyOTc5MCwwMDAwMDBmNzAwMDAwMTdlNmU2Nzk5ODUwMDAwMDE3ZTU0NWVlYzBl",
   "tracks": [
     {
       "added_at": "2022-01-14 11:21:00",
@@ -135,6 +135,26 @@
     {
       "added_at": "2022-01-07 15:54:05",
       "album": {
+        "name": "TALKIN",
+        "url": "https://open.spotify.com/album/6ouZexiJDA9fkh9pEvqX9V"
+      },
+      "artists": [
+        {
+          "name": "Cloverdale",
+          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
+        },
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        }
+      ],
+      "duration_ms": 230078,
+      "name": "TALKIN",
+      "url": "https://open.spotify.com/track/1F38GFyEHT0M7S5pl8IZ5U"
+    },
+    {
+      "added_at": "2022-01-07 15:54:05",
+      "album": {
         "name": "Play By My Rules",
         "url": "https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p"
       },
@@ -147,6 +167,42 @@
       "duration_ms": 217142,
       "name": "Play By My Rules",
       "url": "https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd"
+    },
+    {
+      "added_at": "2022-01-18 18:16:30",
+      "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/0wAZLCTqTYCREJ9nxnrBLV"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/3XXUatyIgWbC9KSN1FUHIR"
+    },
+    {
+      "added_at": "2022-01-07 15:54:05",
+      "album": {
+        "name": "No Diggity",
+        "url": "https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "BEYGE",
+          "url": "https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/74svMcorgPABViSTZka4yw"
     },
     {
       "added_at": "2022-01-07 15:54:05",
@@ -163,6 +219,22 @@
       "duration_ms": 126720,
       "name": "Shake That Ass",
       "url": "https://open.spotify.com/track/1QZpBJPl53VZwsykILZltr"
+    },
+    {
+      "added_at": "2022-01-14 11:21:00",
+      "album": {
+        "name": "Hot In Here",
+        "url": "https://open.spotify.com/album/2MrCpTiC2GIarhN5FrTGHV"
+      },
+      "artists": [
+        {
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+        }
+      ],
+      "duration_ms": 151681,
+      "name": "Hot In Here",
+      "url": "https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP"
     },
     {
       "added_at": "2021-12-10 19:01:14",
@@ -223,26 +295,6 @@
       "duration_ms": 318414,
       "name": "Infrared",
       "url": "https://open.spotify.com/track/3yHiLDeERi7k1q3InysVYI"
-    },
-    {
-      "added_at": "2022-01-07 15:54:05",
-      "album": {
-        "name": "No Diggity",
-        "url": "https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "BEYGE",
-          "url": "https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/74svMcorgPABViSTZka4yw"
     },
     {
       "added_at": "2021-12-17 15:36:01",
@@ -307,22 +359,6 @@
       "duration_ms": 208153,
       "name": "Love Hotline",
       "url": "https://open.spotify.com/track/1VbUMlLn9RdOHZHpFnOWP3"
-    },
-    {
-      "added_at": "2022-01-14 11:21:00",
-      "album": {
-        "name": "Hot In Here",
-        "url": "https://open.spotify.com/album/2MrCpTiC2GIarhN5FrTGHV"
-      },
-      "artists": [
-        {
-          "name": "Steff da Campo",
-          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
-        }
-      ],
-      "duration_ms": 151681,
-      "name": "Hot In Here",
-      "url": "https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP"
     },
     {
       "added_at": "2022-01-05 15:42:52",
@@ -499,26 +535,6 @@
       "duration_ms": 151181,
       "name": "My Dimension",
       "url": "https://open.spotify.com/track/7vp6sra1FqF2VK6hRUPJRo"
-    },
-    {
-      "added_at": "2022-01-07 15:54:05",
-      "album": {
-        "name": "TALKIN",
-        "url": "https://open.spotify.com/album/6ouZexiJDA9fkh9pEvqX9V"
-      },
-      "artists": [
-        {
-          "name": "Cloverdale",
-          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
-        },
-        {
-          "name": "DJ Susan",
-          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
-        }
-      ],
-      "duration_ms": 230078,
-      "name": "TALKIN",
-      "url": "https://open.spotify.com/track/1F38GFyEHT0M7S5pl8IZ5U"
     },
     {
       "added_at": "2021-12-10 19:01:14",

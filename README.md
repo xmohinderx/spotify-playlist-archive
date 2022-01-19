@@ -1658,7 +1658,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Road Trip To Tokyo](/playlists/pretty/37i9dQZF1DWV8IND7NkP2W.md)
 - [Rock & Roll Party](/playlists/pretty/37i9dQZF1DWYE5MI4mMuii.md)
 - [Rock & Roots](/playlists/pretty/7pD7pMFxcq8agMXqLQCggM.md)
-- [Rock 'n' Run 150\-180 BPM](/playlists/pretty/37i9dQZF1DWXx3Txis2L4x.md)
+- [Rock 'n' Run](/playlists/pretty/37i9dQZF1DWXx3Txis2L4x.md)
 - [Rock Ballads](/playlists/pretty/37i9dQZF1DWXs1L3AC0Xio.md)
 - [Rock Christmas](/playlists/pretty/37i9dQZF1DXaf9K2UnDhgp.md)
 - [Rock Classics](/playlists/pretty/37i9dQZF1DWXRqgorJj26U.md)

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: DECO\*27
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,478 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,503 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 3 | [syrup](https://open.spotify.com/track/3QOeO8MvFYRcGy4o0WOwPY) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [syrup](https://open.spotify.com/album/0CznyyMqd97JWTU1QWUevn) | 4:03 |
 | 4 | [Upgrade me](https://open.spotify.com/track/4fZb0bPLwKg4spzzJnWl7I) | [kolme](https://open.spotify.com/artist/6XkazkLIatYdxRlOdOp5Et) | [Upgrade me](https://open.spotify.com/album/1TRVwfED8Yezr9mxvcGYf4) | 4:12 |
 | 5 | [MONSTER](https://open.spotify.com/track/5nZsvLx6bhkYP6booHDK2K) | [シロクロミーアキャット](https://open.spotify.com/artist/1Df09q3nInMTxbmnre927z) | [MONSTER](https://open.spotify.com/album/4g1ZAHwOawY3XdQBlbu6BN) | 3:30 |
-| 6 | [KISS YOU](https://open.spotify.com/track/7ajPQM23sOxTVQBA9IgK5y) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK ORIGINAL SINGLES 1984\-1999](https://open.spotify.com/album/0rX5wPdQoQwEebpufenM11) | 4:55 |
-| 7 | [なにやってもうまくいかない feat.asmi](https://open.spotify.com/track/6QLMizE79f7VfKKnuMYxez) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [100回嘔吐](https://open.spotify.com/artist/7dH8GwbARXVbB3wuwUiX08) | [なにやってもうまくいかない feat.asmi](https://open.spotify.com/album/0spGhgCjnIuHwohs1QVuDO) | 2:28 |
+| 6 | [Still Dreamin’](https://open.spotify.com/track/3kS5u2QrXPiX15KNBwc1zk) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Still Dreamin'](https://open.spotify.com/album/4FnSdO9Au9DBEYoVTKcQrY) | 4:02 |
+| 7 | [KISS YOU](https://open.spotify.com/track/7ajPQM23sOxTVQBA9IgK5y) | [TM NETWORK](https://open.spotify.com/artist/6aXIcqTy3R1dqSml9HQZUB) | [TM NETWORK ORIGINAL SINGLES 1984\-1999](https://open.spotify.com/album/0rX5wPdQoQwEebpufenM11) | 4:55 |
 | 8 | [ヨワネハキ \(Snowdrop mix\)](https://open.spotify.com/track/7j9vcr2echorG1nljjUrXV) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [Taro Ishida](https://open.spotify.com/artist/1jVrBYrSw1JPKrbGFPCOrX) | [ヨワネハキ \(Snowdrop mix\)](https://open.spotify.com/album/0oA6aIlW15gKlmAh0IimqE) | 2:44 |
-| 9 | [アルコールは魔法だね](https://open.spotify.com/track/1gfcNLB3n3XWgp8Qm41drK) | [酒村ゆっけ、](https://open.spotify.com/artist/2SGuHqDP89A07od42Nld0g) | [アルコールは魔法だね](https://open.spotify.com/album/3lxHS4G86cPZuDdef0zdZ8) | 3:40 |
-| 10 | [ラブみ](https://open.spotify.com/track/1A0BmhezDUMXhAXNun8LFj) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ラブみ](https://open.spotify.com/album/7sRy81ykjjz90MkybXiKDN) | 3:34 |
-| 11 | [エコー](https://open.spotify.com/track/46LGU9GYAEitV9RS9byUqH) | [mzsrz](https://open.spotify.com/artist/6RaKDCLMev1GH8xYSEDPr6) | [エコー](https://open.spotify.com/album/3biMF2aJgx1sQF6HMyRjK5) | 2:56 |
-| 12 | [バースデイ](https://open.spotify.com/track/5IRprhxcGL5CnuXwL59GLF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [バースデイ](https://open.spotify.com/album/3g6Blr9Hl8hJNNx9ayS49O) | 2:23 |
-| 13 | [勝手な彼女](https://open.spotify.com/track/4AzOzqmDC5sKMmuJXnfc99) | [秋山璃月](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [DREAM DROPPER](https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh) | 3:43 |
-| 14 | [進め!そっちだ!](https://open.spotify.com/track/1VIXmzlTN3HSIbwCQQaCl8) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [進め!そっちだ!](https://open.spotify.com/album/1KVIhGzMdFp0V2z255vbgG) | 3:14 |
-| 15 | [Pegasus](https://open.spotify.com/track/7lznRLEtVE8RmGp2Jxzo7d) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Pegasus](https://open.spotify.com/album/6jiFwgmqovcHKTXqqwTmSk) | 5:00 |
+| 9 | [なにやってもうまくいかない feat.asmi](https://open.spotify.com/track/6QLMizE79f7VfKKnuMYxez) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [100回嘔吐](https://open.spotify.com/artist/7dH8GwbARXVbB3wuwUiX08) | [なにやってもうまくいかない feat.asmi](https://open.spotify.com/album/0spGhgCjnIuHwohs1QVuDO) | 2:28 |
+| 10 | [アルコールは魔法だね](https://open.spotify.com/track/1gfcNLB3n3XWgp8Qm41drK) | [酒村ゆっけ、](https://open.spotify.com/artist/2SGuHqDP89A07od42Nld0g) | [アルコールは魔法だね](https://open.spotify.com/album/3lxHS4G86cPZuDdef0zdZ8) | 3:40 |
+| 11 | [ラブみ](https://open.spotify.com/track/1A0BmhezDUMXhAXNun8LFj) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ラブみ](https://open.spotify.com/album/7sRy81ykjjz90MkybXiKDN) | 3:34 |
+| 12 | [エコー](https://open.spotify.com/track/46LGU9GYAEitV9RS9byUqH) | [mzsrz](https://open.spotify.com/artist/6RaKDCLMev1GH8xYSEDPr6) | [エコー](https://open.spotify.com/album/3biMF2aJgx1sQF6HMyRjK5) | 2:56 |
+| 13 | [バースデイ](https://open.spotify.com/track/5IRprhxcGL5CnuXwL59GLF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [バースデイ](https://open.spotify.com/album/3g6Blr9Hl8hJNNx9ayS49O) | 2:23 |
+| 14 | [勝手な彼女](https://open.spotify.com/track/4AzOzqmDC5sKMmuJXnfc99) | [秋山璃月](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [DREAM DROPPER](https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh) | 3:43 |
+| 15 | [進め!そっちだ!](https://open.spotify.com/track/1VIXmzlTN3HSIbwCQQaCl8) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [進め!そっちだ!](https://open.spotify.com/album/1KVIhGzMdFp0V2z255vbgG) | 3:14 |
 | 16 | [Voyage](https://open.spotify.com/track/50ldd3QhSLjASqE54AwPPg) | [okkaaa](https://open.spotify.com/artist/0XKKphL5aa8LY6Fn5hXjCF) | [Voyage](https://open.spotify.com/album/1ggAOiMf4An0TRoWEM7QW7) | 3:55 |
 | 17 | [17](https://open.spotify.com/track/6uUyM60OLM4SBFDaFSsYCs) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [17](https://open.spotify.com/album/7GxgN9cQi71UYKjHGsu4oV) | 3:48 |
 | 18 | [IN THIS WORLD \- feat\. 坂本龍一 \[Vocal : 満島ひかり\]](https://open.spotify.com/track/5FMRUnWOXZXXtTjaxpMxl3) | [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG) | [BIG WORLD](https://open.spotify.com/album/1n0hYqLgR7wHK8AKi3SaCx) | 4:41 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Fanciful](https://open.spotify.com/track/4dk0H6rdhS4i3bAYa52zd5) | [Misaki Hinata](https://open.spotify.com/artist/1FFTz8GoGaLTkpmvQQnXkR) | [Fanciful](https://open.spotify.com/album/3mDDyEVx26pZHzjXxFMa7X) | 2:41 |
 | 80 | [Tell me how to be loved](https://open.spotify.com/track/2RK1FwA4xqLhbzoOAnZAyQ) | [BEATEDDY](https://open.spotify.com/artist/34okkfMqjJDaAd7X6W8hlu) | [NOT THAT KIND OF GIRL](https://open.spotify.com/album/2DIykzuBmfwW1wV3gdFWAb) | 3:51 |
 
-Snapshot ID: `MTY0MjQzMTYwMCwwMDAwMDEzNzAwMDAwMTdlNjg4ZDU1ZGYwMDAwMDE3ZTY2MzM4MDlj`
+Snapshot ID: `MTY0MjUxODAwMCwwMDAwMDEzODAwMDAwMTdlNmRiM2IyNzUwMDAwMDE3ZTY2MzM4MDlj`

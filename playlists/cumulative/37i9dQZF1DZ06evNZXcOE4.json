@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 219533,
       "name": "Broken People",
       "url": "https://open.spotify.com/track/5N5o5FArQjWJdZhy00qmUK"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 163773,
       "name": "Chip Away",
       "url": "https://open.spotify.com/track/7mlv1xHxHHv3PBcapEiJp7"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 269490,
       "name": "Curiosity Kills",
       "url": "https://open.spotify.com/track/0J95CJJXbOJ1ez5l6WXBFN"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 223920,
       "name": "L.A. Medley: L.A. Woman / Nausea / Lexicon Devil - Live, 1989",
       "url": "https://open.spotify.com/track/1emWNMyi5qMpp2zD7uYB6P"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 259666,
       "name": "Ocean Size",
       "url": "https://open.spotify.com/track/5lCjgHTEE7tbmzDVaCloGC"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 376480,
       "name": "Summertime Rolls",
       "url": "https://open.spotify.com/track/2ziWygUNToqsrm3yNOD6SZ"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-19",
       "duration_ms": 344333,
       "name": "The Riches",
       "url": "https://open.spotify.com/track/0Cx7Zf4Aqlxd4lmHIRF7eL"
@@ -811,10 +811,28 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 244666,
       "name": "Whores",
       "url": "https://open.spotify.com/track/381qntd8NgIOAu1GswB0bZ"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272360,
+      "name": "Wrong Girl",
+      "url": "https://open.spotify.com/track/4xAv0JDzl3NmWjVzbVmW3T"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evNZXcOE4"

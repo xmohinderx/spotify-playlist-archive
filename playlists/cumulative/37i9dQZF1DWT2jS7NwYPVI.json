@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Backstep",
+        "url": "https://open.spotify.com/album/4QlvXHr4MvO9RA3LZ19jsK"
+      },
+      "artists": [
+        {
+          "name": "Jetski",
+          "url": "https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185986,
+      "name": "Backstep",
+      "url": "https://open.spotify.com/track/4rc3QOo2uz1Nf4Uu1qsB6u"
+    },
+    {
+      "album": {
         "name": "Behind Closed Doors",
         "url": "https://open.spotify.com/album/1U8ck3ysyU4iwNaagT7MCJ"
       },

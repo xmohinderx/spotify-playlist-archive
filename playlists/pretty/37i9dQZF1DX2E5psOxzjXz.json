@@ -1,15 +1,199 @@
 {
-  "description": "Explore Pakistan's thriving independent scene. Cover: RFB",
-  "num_followers": 12139,
+  "description": "Explore Pakistan's thriving independent scene. Cover: Towers",
+  "num_followers": 12153,
   "original_name": "Pakistani Indie 101",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODc5Mjk3NiwwMDAwMDAyNzAwMDAwMTdkOGZhYzU5ZjEwMDAwMDE3ZDhmYWJkMmFh",
+  "snapshot_id": "MTY0MjQ5NDQyNSwwMDAwMDAyODAwMDAwMTdlNmM0YmY4NDEwMDAwMDE3ZTZjNGJiZjFk",
   "tracks": [
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
+      "album": {
+        "name": "Shola",
+        "url": "https://open.spotify.com/album/4UA8orPLg78snykTx9Sn1N"
+      },
+      "artists": [
+        {
+          "name": "Towers",
+          "url": "https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO"
+        }
+      ],
+      "duration_ms": 153977,
+      "name": "Shola",
+      "url": "https://open.spotify.com/track/2wMF8mtqMtQbROrsyCca7p"
+    },
+    {
+      "added_at": "2022-01-18 08:27:05",
+      "album": {
+        "name": "Sun Le Na",
+        "url": "https://open.spotify.com/album/1Mltm1wPVWUcp7tg7FnJCk"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Abdullah Kasumbi",
+          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
+        }
+      ],
+      "duration_ms": 209285,
+      "name": "Sun Le Na",
+      "url": "https://open.spotify.com/track/0tyK2eyMatZvNCVtbdNlmt"
+    },
+    {
+      "added_at": "2022-01-18 08:27:05",
+      "album": {
+        "name": "SHAAM",
+        "url": "https://open.spotify.com/album/77mickx6ctnKNGiANxDpZR"
+      },
+      "artists": [
+        {
+          "name": "Talal Qureshi",
+          "url": "https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS"
+        },
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Towers",
+          "url": "https://open.spotify.com/artist/3RtQy4G1wwfnhyegf4czBO"
+        },
+        {
+          "name": "Mujju",
+          "url": "https://open.spotify.com/artist/2SfEGrMv3AQ7D6WhY62BIm"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "SHAAM",
+      "url": "https://open.spotify.com/track/1OuwL8fpUKV1TIVaA6hbJh"
+    },
+    {
+      "added_at": "2022-01-18 08:27:05",
+      "album": {
+        "name": "Theek Hai",
+        "url": "https://open.spotify.com/album/1ODNQyAJumdOCreKdrC183"
+      },
+      "artists": [
+        {
+          "name": "Salor",
+          "url": "https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        }
+      ],
+      "duration_ms": 142933,
+      "name": "Theek Hai",
+      "url": "https://open.spotify.com/track/1Eo6rcjB5ktjM9n24mwudc"
+    },
+    {
+      "added_at": "2022-01-18 08:27:05",
+      "album": {
+        "name": "Chad Gayi",
+        "url": "https://open.spotify.com/album/7J3VIh1bQTiYvM8yO72l8Z"
+      },
+      "artists": [
+        {
+          "name": "Danny Zee",
+          "url": "https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP"
+        },
+        {
+          "name": "Alistair Alvin",
+          "url": "https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "Chad Gayi",
+      "url": "https://open.spotify.com/track/4YLD5sgxNXXhDrb0Jltp01"
+    },
+    {
+      "added_at": "2022-01-18 08:27:05",
+      "album": {
+        "name": "Oh My Love",
+        "url": "https://open.spotify.com/album/5xDBGGzvhjfhMLHvKW6bGD"
+      },
+      "artists": [
+        {
+          "name": "Kumail Jaffery",
+          "url": "https://open.spotify.com/artist/5Wo2MMvWR5cQCwnYcSkrO3"
+        }
+      ],
+      "duration_ms": 173052,
+      "name": "Oh My Love",
+      "url": "https://open.spotify.com/track/6CxlOmar3RFw3hAy1XVzcd"
+    },
+    {
+      "added_at": "2022-01-18 08:27:05",
+      "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/7mCUKPoOkeiT2F1REIVjYG"
+      },
+      "artists": [
+        {
+          "name": "ChillBazaar",
+          "url": "https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ"
+        },
+        {
+          "name": "Marshall Ahmad",
+          "url": "https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP"
+        },
+        {
+          "name": "Izzchughtai",
+          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
+        }
+      ],
+      "duration_ms": 195375,
+      "name": "Cheese",
+      "url": "https://open.spotify.com/track/2BvnZRo7CyFo0JcMhmnBUA"
+    },
+    {
+      "added_at": "2022-01-18 08:27:05",
+      "album": {
+        "name": "Pretty Lies",
+        "url": "https://open.spotify.com/album/76TgmgMlZzqrMOckjo5eFV"
+      },
+      "artists": [
+        {
+          "name": "Annural Khalid",
+          "url": "https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW"
+        },
+        {
+          "name": "Rovalio",
+          "url": "https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C"
+        }
+      ],
+      "duration_ms": 163300,
+      "name": "Pretty Lies",
+      "url": "https://open.spotify.com/track/0pvlhF2kQRKGxKqsiUMJwI"
+    },
+    {
+      "added_at": "2022-01-18 08:27:05",
+      "album": {
+        "name": "Sar Phira",
+        "url": "https://open.spotify.com/album/3gyzk3cLjoaILBDhofgxp9"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Abdullah Kasumbi",
+          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Sar Phira",
+      "url": "https://open.spotify.com/track/1uI4sS3pweJnEVZDA1Ujgh"
+    },
+    {
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Khushbu",
         "url": "https://open.spotify.com/album/23PwR2OGh9FecmW32AVmOa"
@@ -25,7 +209,7 @@
       "url": "https://open.spotify.com/track/3vKIFR23DPK4lyzqxZOa01"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Dil Kay Isharay",
         "url": "https://open.spotify.com/album/4jhyxjNho3zN1Irog1WpMv"
@@ -41,7 +225,7 @@
       "url": "https://open.spotify.com/track/2JgSxQenl3eRwewgBUWyKU"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Soul Jamming",
         "url": "https://open.spotify.com/album/3SyF9HHdvEm2jYgk2KvljG"
@@ -57,7 +241,7 @@
       "url": "https://open.spotify.com/track/3EiKsRlYzkI3IbnojcXeca"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "close 2 u",
         "url": "https://open.spotify.com/album/0rc55F1xkNGEwL3tMO1EjW"
@@ -77,7 +261,7 @@
       "url": "https://open.spotify.com/track/2vMH3V1qhsoIHVsKlDw4iC"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Ghuroor",
         "url": "https://open.spotify.com/album/4XcK8cuV6rHuppTwoJrEiG"
@@ -97,7 +281,7 @@
       "url": "https://open.spotify.com/track/7jMjMcyt3qxEkbC0s8LJQf"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Chasing Blessings",
         "url": "https://open.spotify.com/album/2SkT1iTVd83rgDkcilL9h6"
@@ -113,7 +297,7 @@
       "url": "https://open.spotify.com/track/3lhlSM1iVog6l9g5NxqVkE"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Yaqeen",
         "url": "https://open.spotify.com/album/3r5cMfjMehfJPCVRdrlwmt"
@@ -129,7 +313,7 @@
       "url": "https://open.spotify.com/track/4hgBwvVJqdCDxgULc926qf"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Woh Hai Kahaan",
         "url": "https://open.spotify.com/album/02T1FufJa9tsuQy8MAxpKB"
@@ -157,7 +341,7 @@
       "url": "https://open.spotify.com/track/4GutOo3yby1CgYARF8WkVK"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Ek Shaam Tum",
         "url": "https://open.spotify.com/album/1Fga2sLlKhSNU8h3LFN9PH"
@@ -177,7 +361,7 @@
       "url": "https://open.spotify.com/track/6d06y9vzzldN2wE5AowgQh"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/3QjCpoKzDOJzbLHcFOuIj8"
@@ -193,7 +377,7 @@
       "url": "https://open.spotify.com/track/2wJuY2M6gzTXkX2wWGSckW"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "kidhar?",
         "url": "https://open.spotify.com/album/5cKwWoAZweUuAzlYQjPm46"
@@ -217,7 +401,7 @@
       "url": "https://open.spotify.com/track/4T4zLKjpso1xQAq0osYzV3"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Scars & Screws",
         "url": "https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc"
@@ -237,7 +421,7 @@
       "url": "https://open.spotify.com/track/5Y3OxkwWPuFZc5rRoJE45A"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "surface",
         "url": "https://open.spotify.com/album/014RAFqcrT4Si2Umd68yZy"
@@ -257,7 +441,7 @@
       "url": "https://open.spotify.com/track/47N7k0N1sw26qkG96czqwK"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/21Yinw1VwU6Ych11YSruxC"
@@ -277,7 +461,7 @@
       "url": "https://open.spotify.com/track/0R6PVr0THSFcyEqlNTJ9Bp"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Ziyarat",
         "url": "https://open.spotify.com/album/7AIBheaMkc5hGOs2QH4xd5"
@@ -293,7 +477,7 @@
       "url": "https://open.spotify.com/track/4RDU0E4aXriTRGXYZFiRAJ"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Jo Tu Chahay",
         "url": "https://open.spotify.com/album/732ZY5OgnrJ3MDBApSHTXS"
@@ -313,7 +497,7 @@
       "url": "https://open.spotify.com/track/4SaTP95BkR4m1NkunRCDiK"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "SIKANDER FREESTYLE",
         "url": "https://open.spotify.com/album/2BsBakiv92RyPZV3IyzfBQ"
@@ -329,7 +513,7 @@
       "url": "https://open.spotify.com/track/3a5MnoE5o1CrMLbI9MR69c"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Beware",
         "url": "https://open.spotify.com/album/6YBFth7Mtul3V9hDV7HkGF"
@@ -345,7 +529,7 @@
       "url": "https://open.spotify.com/track/6d7ql8wBys4QN9BnIFPNwH"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Bezaar Nahi",
         "url": "https://open.spotify.com/album/4z23FFAXCBYUb9RDhO2CXF"
@@ -365,7 +549,7 @@
       "url": "https://open.spotify.com/track/5LojDGdQJ21H1dJXgAJuXX"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Take Your Turn",
         "url": "https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN"
@@ -385,7 +569,7 @@
       "url": "https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7LVamrPcjzGNIYOAgC4pWq"
@@ -401,7 +585,7 @@
       "url": "https://open.spotify.com/track/0uork4GhvL9OIsdpL7kMe1"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Mein Hoon",
         "url": "https://open.spotify.com/album/2e7VmVvCxZhBCHIQVGeO6B"
@@ -421,7 +605,7 @@
       "url": "https://open.spotify.com/track/2gU0WQqw8sN39k58r9l3cX"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Billo",
         "url": "https://open.spotify.com/album/2twDMb2SXFNQVCg6Fwjlus"
@@ -437,7 +621,7 @@
       "url": "https://open.spotify.com/track/2gOBjTTYEXbf0yR688Hyf0"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "tu.",
         "url": "https://open.spotify.com/album/2OHu5h0VR4HG61oyGmW4ri"
@@ -453,7 +637,7 @@
       "url": "https://open.spotify.com/track/1qfSMBorwvTksLLUoB6CT7"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Tera Suna",
         "url": "https://open.spotify.com/album/30h8wa7E6VJkfaaBNfX9ri"
@@ -469,7 +653,7 @@
       "url": "https://open.spotify.com/track/38mne9HRPU9JxWVYEf6YXg"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Mera Dost Pareshan Hai",
         "url": "https://open.spotify.com/album/1JoS8znRKb3Oaxxzr033V8"
@@ -497,7 +681,7 @@
       "url": "https://open.spotify.com/track/3wWJNHYxr2UBSWxMYsASa5"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Andhere Mein",
         "url": "https://open.spotify.com/album/2HtdxEULBFqcHLKGTnMjZJ"
@@ -513,7 +697,7 @@
       "url": "https://open.spotify.com/track/134oyq7shwFhszVjvhN8XY"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Risky",
         "url": "https://open.spotify.com/album/0RkRTVDy2rPJlvcRkllfvu"
@@ -533,7 +717,7 @@
       "url": "https://open.spotify.com/track/17ZXHiyOwcSBpzqK6w1yYP"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/47Sdi35I8VIvGb1pCldY87"
@@ -553,7 +737,7 @@
       "url": "https://open.spotify.com/track/2X60hQz6bswS3DAvBhtckg"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "SWEETU",
         "url": "https://open.spotify.com/album/0LZoenSRLZreaObBEOpQo7"
@@ -577,7 +761,7 @@
       "url": "https://open.spotify.com/track/7HwkCWwndPqQXozRbGCKYd"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Aarzu",
         "url": "https://open.spotify.com/album/6mUBgaTJAZ1sI6kteotAgh"
@@ -593,7 +777,7 @@
       "url": "https://open.spotify.com/track/5pBRSczAiFZEtrIwH1LqAo"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "lost",
         "url": "https://open.spotify.com/album/2HWfMyHEtgfQ0Aug0qFq5g"
@@ -613,7 +797,7 @@
       "url": "https://open.spotify.com/track/0R7rIsxEpTq1V0vqniFXzr"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Dur Nahi",
         "url": "https://open.spotify.com/album/5xo216GInwuzHZjns0x9yv"
@@ -629,7 +813,7 @@
       "url": "https://open.spotify.com/track/3hYsIM29iqaooKXdtzgfIt"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Faryaad",
         "url": "https://open.spotify.com/album/5qgIy9CK7C2dxyk8Flnn3Z"
@@ -645,7 +829,7 @@
       "url": "https://open.spotify.com/track/1nWZOrc3xYIybxhSyDO6ga"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "No Roses",
         "url": "https://open.spotify.com/album/2rjTrNWnpYGVchCRKmoMF5"
@@ -665,7 +849,7 @@
       "url": "https://open.spotify.com/track/5IGUQ0DfmXTp3kVJJxST5I"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Kuch Kehna Chahta Huun",
         "url": "https://open.spotify.com/album/706SFuEEkihlYZjUzjBh0s"
@@ -681,7 +865,7 @@
       "url": "https://open.spotify.com/track/1R1nOl9ebAMtbKbdsYwXP4"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "HICO",
         "url": "https://open.spotify.com/album/1VM1CsYQjbmrVUNjqqkY2U"
@@ -701,7 +885,7 @@
       "url": "https://open.spotify.com/track/62ImsjOLrem5iMw29NvaSr"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Seedhi Baat",
         "url": "https://open.spotify.com/album/26tqdGSrtD82GKizR8Snbk"
@@ -721,7 +905,7 @@
       "url": "https://open.spotify.com/track/5iGw9yznWCrWeFQi0xpTm6"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Iltija",
         "url": "https://open.spotify.com/album/5HElAOajKG6Tw39pANxWFi"
@@ -737,7 +921,7 @@
       "url": "https://open.spotify.com/track/2gDJV55SsEtTp1apEe8k0r"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "5 AM",
         "url": "https://open.spotify.com/album/3l1NHRIzFXaWLhzwZyAtik"
@@ -757,7 +941,7 @@
       "url": "https://open.spotify.com/track/0ZQigPrHtr8CkwDTZUU4mB"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Choro",
         "url": "https://open.spotify.com/album/47LlbY7qhYsG5aPXflzG69"
@@ -773,7 +957,7 @@
       "url": "https://open.spotify.com/track/13GkX2Jop4q9FxtGvwb3MH"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "LIGHTSPEED",
         "url": "https://open.spotify.com/album/67qPextXnvkGy0kjEq14Uo"
@@ -789,7 +973,7 @@
       "url": "https://open.spotify.com/track/7acZeCG01zFILBoZkpwUAg"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "What a Man",
         "url": "https://open.spotify.com/album/7kh5DqndbncrTfaoIeBmdk"
@@ -805,7 +989,7 @@
       "url": "https://open.spotify.com/track/5ChrWAc3mGRrRcKP3wBIPz"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Filhaal",
         "url": "https://open.spotify.com/album/7ClbtfOcCG9bzO30ZTRgI2"
@@ -821,7 +1005,7 @@
       "url": "https://open.spotify.com/track/0PNU96DGl5PRswbstQgbtv"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Prelude to Murder",
         "url": "https://open.spotify.com/album/5CDZZg7cy75Ws3dGhWxsFU"
@@ -841,7 +1025,7 @@
       "url": "https://open.spotify.com/track/2waewKqweTeOpm7XBqZFhB"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Dou Pal",
         "url": "https://open.spotify.com/album/5RpDf2hdASOFcyz88kVUZS"
@@ -861,7 +1045,7 @@
       "url": "https://open.spotify.com/track/59hkyI30Y03Zei8ITME2mz"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Khwaab",
         "url": "https://open.spotify.com/album/5JqeFHuEs0NapdjBs9cqTn"
@@ -881,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5l1TyIIMmF9dl9xKqTwZjr"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "MM005",
         "url": "https://open.spotify.com/album/5k5Pm7PhTPmxOY6RfYMUxF"
@@ -909,7 +1093,7 @@
       "url": "https://open.spotify.com/track/34MruoNGQNNy5OZJ9czg0x"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Anjani Waja",
         "url": "https://open.spotify.com/album/6MGoq918TPAjWdSGTedPYV"
@@ -925,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4mP0j0Lg4SKGUgrFNGvGTQ"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Qadar",
         "url": "https://open.spotify.com/album/29C7RDkMTtZt8HyxSWZjj1"
@@ -945,7 +1129,7 @@
       "url": "https://open.spotify.com/track/67TCZHztrcsuaF6dgEtpcv"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Dou Pal",
         "url": "https://open.spotify.com/album/5Bz4oRhbUqr6KKz7F0kB17"
@@ -961,7 +1145,7 @@
       "url": "https://open.spotify.com/track/5eXUQcNGq59fWe26B9KGDm"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Khwaab",
         "url": "https://open.spotify.com/album/653VDLcUT6H1wGtxdEd8Bl"
@@ -977,7 +1161,7 @@
       "url": "https://open.spotify.com/track/2gVuB5FLzYU46N3CPmBRyN"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Aisay Kaisay",
         "url": "https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb"
@@ -997,7 +1181,7 @@
       "url": "https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Come Thru",
         "url": "https://open.spotify.com/album/39Do9l9MM7Mc8jQloaDc9k"
@@ -1017,7 +1201,7 @@
       "url": "https://open.spotify.com/track/2pwxbPemtKC6kddQVI5dJZ"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Dil Na Laga",
         "url": "https://open.spotify.com/album/46kgRIEn4XVEFMhzrgS8tg"
@@ -1033,7 +1217,7 @@
       "url": "https://open.spotify.com/track/0FhLjyxZVhlZ4ukqeIFWFc"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Patang",
         "url": "https://open.spotify.com/album/2dtBK0Vkm1vrkucjfaqR3I"
@@ -1049,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3WBsWNtL054HCFz7UUGK9e"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "4 Saal",
         "url": "https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q"
@@ -1065,7 +1249,7 @@
       "url": "https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Runway",
         "url": "https://open.spotify.com/album/2aDTEntkuIzNx5TAjiLfKb"
@@ -1081,7 +1265,7 @@
       "url": "https://open.spotify.com/track/2NLcqznWuHrzuifJlGI0Ca"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/1JtpXFR4FHt5L93LNv0F1Z"
@@ -1097,7 +1281,7 @@
       "url": "https://open.spotify.com/track/4hQshoxfKBJlGeYTqnv3U2"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Bachi Patakhi",
         "url": "https://open.spotify.com/album/6yuIow8n4wJBOsgLYAuH1w"
@@ -1113,7 +1297,7 @@
       "url": "https://open.spotify.com/track/7h0YOhIsuPAf3SPh6n1N3Z"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Juice",
         "url": "https://open.spotify.com/album/1QdyFfjSQ891yMVk1GMNQw"
@@ -1129,7 +1313,7 @@
       "url": "https://open.spotify.com/track/5qlsGohL4JSjYFYnCsljHM"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Laapata",
         "url": "https://open.spotify.com/album/2DUgK8zAl9l0mpiEUyJkkp"
@@ -1145,7 +1329,7 @@
       "url": "https://open.spotify.com/track/1IDTcdNMVERhnQdlhJOteE"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Daira-e-ufuq",
         "url": "https://open.spotify.com/album/6lLII5humCm7pY38qhd7RC"
@@ -1169,7 +1353,7 @@
       "url": "https://open.spotify.com/track/0gveIug9rm2W8D9b2g3TPj"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Tum Kaafi Ho",
         "url": "https://open.spotify.com/album/3RSad5lC4GUToepucxTIca"
@@ -1185,7 +1369,7 @@
       "url": "https://open.spotify.com/track/05JZF9BFosGhj1VEOwBQPX"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Sitaray",
         "url": "https://open.spotify.com/album/6oKbXl7UHflAtpihshkLAZ"
@@ -1201,7 +1385,7 @@
       "url": "https://open.spotify.com/track/2zBfj9yvNbb6dA2sellNgs"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Down",
         "url": "https://open.spotify.com/album/60BgpEaXzIBL91LhxeMgud"
@@ -1217,7 +1401,7 @@
       "url": "https://open.spotify.com/track/1IJ5jZq2Qge2ZjBvw9ewiS"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Preacher",
         "url": "https://open.spotify.com/album/503g4DFFEgdkPgW0O9RUon"
@@ -1233,7 +1417,7 @@
       "url": "https://open.spotify.com/track/2H3Uj8S1v8doc5xKmzBSNQ"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/6vo4H24QWt2XyqhqnZbArD"
@@ -1253,7 +1437,7 @@
       "url": "https://open.spotify.com/track/7EsRRR13vJUBY4w3melVOe"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Saqi-E-Bawafa",
         "url": "https://open.spotify.com/album/2nCo0KIubcXbDZAp1GiI0c"
@@ -1269,7 +1453,7 @@
       "url": "https://open.spotify.com/track/02HGPSotKHvGNgHKSG75zw"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Old Money",
         "url": "https://open.spotify.com/album/1D00gmVqD6Uoj6m4gDaDhv"
@@ -1285,7 +1469,7 @@
       "url": "https://open.spotify.com/track/6tlbPyku9OaRFwrhg1HRCb"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Baadal",
         "url": "https://open.spotify.com/album/6pV7SixHdbbMZiDhoV6fA8"
@@ -1305,7 +1489,7 @@
       "url": "https://open.spotify.com/track/76z5E8tOiy1U6JfJJxfEzC"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Tar",
         "url": "https://open.spotify.com/album/4HEA1y0YM2G74eNsF780sT"
@@ -1321,7 +1505,7 @@
       "url": "https://open.spotify.com/track/1bUp7N1YaBxIcZAk1VmQ0N"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Sab Acha Hai",
         "url": "https://open.spotify.com/album/4ijewIuA0Nmopy5l88oeyn"
@@ -1337,7 +1521,7 @@
       "url": "https://open.spotify.com/track/0p5xSLSblGV9sS2QV3JKGu"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Fitoor",
         "url": "https://open.spotify.com/album/5tutMtSpFgrJeVy7wlJM92"
@@ -1357,7 +1541,7 @@
       "url": "https://open.spotify.com/track/59JAyLDknHxl9PPWwdXFqM"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/1mLlCvxN1VRoBt3GRB5uMP"
@@ -1373,7 +1557,7 @@
       "url": "https://open.spotify.com/track/1VziWLNDb8KaYjJeb1F3HI"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Bum Twirl",
         "url": "https://open.spotify.com/album/1PKJPVYQ4LFz6L6xuKvbLc"
@@ -1393,7 +1577,7 @@
       "url": "https://open.spotify.com/track/1B559YkhUtsMNWXlFsDuFJ"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Bubbleboi",
         "url": "https://open.spotify.com/album/5JyuRZ3x0de7HOgWTqVGRu"
@@ -1409,7 +1593,7 @@
       "url": "https://open.spotify.com/track/1plhMT0F6Lqz8whTq1t7zB"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Saazish",
         "url": "https://open.spotify.com/album/1xZxe1HTPiMJlKZ5NJATpc"
@@ -1425,7 +1609,7 @@
       "url": "https://open.spotify.com/track/3vCWWOxmJHHl25fjf38znc"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Zooted",
         "url": "https://open.spotify.com/album/4yL8vNrO9vE7i59jK28Xhi"
@@ -1441,7 +1625,7 @@
       "url": "https://open.spotify.com/track/62PH2BRDOFw0AHZYar3zfD"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Contra",
         "url": "https://open.spotify.com/album/7m26jzqvgjXTdDJFyzwthW"
@@ -1457,7 +1641,7 @@
       "url": "https://open.spotify.com/track/5ZTxwfWEeeMK4Nq7XKajPk"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Sab Theek Ho Jaye Ga",
         "url": "https://open.spotify.com/album/5UUAnC69c8DbUuU0nmPRRi"
@@ -1473,7 +1657,7 @@
       "url": "https://open.spotify.com/track/1eFgdsMjnVZV23vakr5One"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Bench (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3Sx7jAkfJsvtAnLTjEEGQP"
@@ -1493,7 +1677,7 @@
       "url": "https://open.spotify.com/track/7Gb2D6V5xP5LAO5h5D9yQZ"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Bachpan",
         "url": "https://open.spotify.com/album/3aqdbJB0cwbGzxuYvwoc4U"
@@ -1509,7 +1693,7 @@
       "url": "https://open.spotify.com/track/1FWjCuVn0NslGCQdFXqCyH"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Laapata (Original Soundtrack)",
         "url": "https://open.spotify.com/album/405NorynkVpd9emhYHBf20"
@@ -1533,7 +1717,7 @@
       "url": "https://open.spotify.com/track/4ItcLqYlyYMwZ1KfR8hwba"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/2N9Mjygl1Va2746JAslIqL"
@@ -1549,7 +1733,7 @@
       "url": "https://open.spotify.com/track/6M9vyiF3atXtfdYLHCYmx4"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Mahi Ve",
         "url": "https://open.spotify.com/album/34aSTfoU0Y48pSE51JjpWQ"
@@ -1565,7 +1749,7 @@
       "url": "https://open.spotify.com/track/2gpa7p45wwh0QDNOQsorgL"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Chalein Hum",
         "url": "https://open.spotify.com/album/5eHd9Uy6En0mwaSP0LroTc"
@@ -1585,7 +1769,7 @@
       "url": "https://open.spotify.com/track/7HzQwSosjSaKWdF3qze5ds"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Saat Rangon Mein",
         "url": "https://open.spotify.com/album/12RBh7BI8WXDTAsjXc1Vkd"
@@ -1601,7 +1785,7 @@
       "url": "https://open.spotify.com/track/6QmlG0NP7hU2Aq6asXx0oj"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Lovesick",
         "url": "https://open.spotify.com/album/3GVx36db2WQ05MTg2eh8Q0"
@@ -1617,7 +1801,7 @@
       "url": "https://open.spotify.com/track/3Xvnh8wxRtnQUB9vGYhmUQ"
     },
     {
-      "added_at": "2021-12-06 12:16:16",
+      "added_at": "2022-01-18 08:27:05",
       "album": {
         "name": "Gumm",
         "url": "https://open.spotify.com/album/4HoeJSANDO9zCueiAHI0QY"
