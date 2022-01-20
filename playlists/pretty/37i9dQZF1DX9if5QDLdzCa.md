@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > Relax to the sound of the ocean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,091 likes - 190 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,140 likes - 190 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 51 | [Ocean Storm](https://open.spotify.com/track/4a01QN0YoqkjmfGJuQKdjE) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Forest and Ocean Sounds](https://open.spotify.com/album/2dmWE60Sa5659UxfxDth4M) | 1:58 |
 | 52 | [The Relaxing Waves](https://open.spotify.com/track/2BxtM2sfnbMeybXiaOCXZJ) | [Wavezze](https://open.spotify.com/artist/3o5UfxtSucVNHzD7L4uyRT) | [The Relaxing Waves](https://open.spotify.com/album/3bWHpzKQHZJPVmjIVEGiao) | 2:39 |
 | 53 | [Waves in Westhampton Beach](https://open.spotify.com/track/4m2KTXAbTXZXC6Bb3WKJop) | [Ocean in HD](https://open.spotify.com/artist/2SveYJjEGhckzCzGg3J9Xq) | [Ocean Waves](https://open.spotify.com/album/1g4CXHJpJywHXFeX9CVqLE) | 2:19 |
-| 54 | [Water Therapy](https://open.spotify.com/track/3U8pnujJEF6qfAsx40MTwS) | [Memminger](https://open.spotify.com/artist/18C09r0LhahZlz3yOqzkME) | [Water Relaxation](https://open.spotify.com/album/0uBBG6n88gPf97I8BwJu5n) | 2:39 |
+| 54 | [Water Relaxation](https://open.spotify.com/track/3U8pnujJEF6qfAsx40MTwS) | [Memminger](https://open.spotify.com/artist/18C09r0LhahZlz3yOqzkME) | [Water Relaxation](https://open.spotify.com/album/0uBBG6n88gPf97I8BwJu5n) | 2:39 |
 | 55 | [オーシャンウェーブ](https://open.spotify.com/track/4iWk0xghJ3A4RGqqv7GDKH) | [自然の波](https://open.spotify.com/artist/1rKyBPdiPncHwvT1pcOlT4) | [純粋な波](https://open.spotify.com/album/4wDxJB3R9SAL4jNWdLNDOo) | 2:39 |
 | 56 | [Morning Tide](https://open.spotify.com/track/0e75LMLqDz7IhEGjswPMfJ) | [Wildlife Sound Recordings](https://open.spotify.com/artist/6vNQJeVv5muFsw3FdX0Dmp) | [Atlantic Waves](https://open.spotify.com/album/5rr8RwRQEx9gKhnWE0CMfJ) | 3:04 |
 | 57 | [Cascais Waves](https://open.spotify.com/track/4V7MFNHQpBdzuQ6p8gALsl) | [Dreams of Dreams](https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA) | [Dreams of Dreams](https://open.spotify.com/album/0ashscEG1vOb5Er6vqjSMG) | 1:15 |

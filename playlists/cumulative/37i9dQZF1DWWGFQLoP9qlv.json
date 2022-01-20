@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 424000,
       "name": "Brothers In Arms",
       "url": "https://open.spotify.com/track/7EmSPZ9f1AiLR9eVHNSI62"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 266666,
       "name": "Fisherman's Blues - 2006 Remaster",
       "url": "https://open.spotify.com/track/0i0yTnhVQV2J44vrLVU3dD"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 156800,
       "name": "Gloria - Stereo Version",
       "url": "https://open.spotify.com/track/6aMg17mRAbKDayw8pRRADw"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 157160,
       "name": "In the Midnight Hour",
       "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 313800,
       "name": "Lust For Life",
       "url": "https://open.spotify.com/track/3IRvvlj2KpYoH76mLacnsp"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 229826,
       "name": "Maybe I\u2019m Amazed - Remastered 2011",
       "url": "https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 510933,
       "name": "Money For Nothing",
       "url": "https://open.spotify.com/track/4WfGrAJVC3A5xhUTja0gUG"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 191500,
       "name": "Roxanne - Remastered 2003",
       "url": "https://open.spotify.com/track/3FmAUR4SPWa3P1KyDf21Fu"
@@ -1428,6 +1428,24 @@
     },
     {
       "album": {
+        "name": "Sixties",
+        "url": "https://open.spotify.com/album/5McYcCiBlQAN0TG456mxVk"
+      },
+      "artists": [
+        {
+          "name": "Thunderclap Newman",
+          "url": "https://open.spotify.com/artist/1USHlPahTZrCeJXS2v5pkF"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232893,
+      "name": "Something In The Air",
+      "url": "https://open.spotify.com/track/3ZpGpLHPf7BlZrvC9rsZtA"
+    },
+    {
+      "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
       },
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 279360,
       "name": "Stay with Me",
       "url": "https://open.spotify.com/track/7fLTytvnvxy653VWxflTRf"

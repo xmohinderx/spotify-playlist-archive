@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116 likes - 144 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120 likes - 144 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 36 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 |
 | 37 | [Changes](https://open.spotify.com/track/7cDpMO5wuWgvv3j4INRBeB) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:40 |
 | 38 | [Anti\-Everything](https://open.spotify.com/track/5d1fRO6RYAtbPPgbpSHnlA) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Loren Gray](https://open.spotify.com/artist/3MbrazQE12UdSdFunXcft1) | [Paper Crowns \(Deluxe\)](https://open.spotify.com/album/6Z0dLHgtpQBXnnQJ0Ykott) | 3:03 |
-| 39 | [Back to Life \- from "Bumblebee"](https://open.spotify.com/track/16geeCnXrbiomV1IZ8Kudc) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Back to Life \(from "Bumblebee"\)](https://open.spotify.com/album/3sSEnG2RZGnZlTFwJwxPy4) | 3:53 |
-| 40 | [Deserve You](https://open.spotify.com/track/5NU40QTlXrDUJzDBdv79bg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:07 |
+| 39 | [Deserve You](https://open.spotify.com/track/5NU40QTlXrDUJzDBdv79bg) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:07 |
+| 40 | [Back to Life \- from "Bumblebee"](https://open.spotify.com/track/16geeCnXrbiomV1IZ8Kudc) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Back to Life \(from "Bumblebee"\)](https://open.spotify.com/album/3sSEnG2RZGnZlTFwJwxPy4) | 3:53 |
 | 41 | [Wildcard \(feat\. Sidnie Tipton\)](https://open.spotify.com/track/4d3UnYs8dRDDd93MVaoj74) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Sidnie Tipton](https://open.spotify.com/artist/1q4zUzqEWKe8YvpI9OxKqL) | [Wildcard \(feat\. Sidnie Tipton\)](https://open.spotify.com/album/35VgpLWPMuKuPnklBgpK1N) | 3:09 |
 | 42 | [Nostalgic](https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:02 |
 | 43 | [Love Like That](https://open.spotify.com/track/23tJmuwvUOa2kTsOlNMWCS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~ \(the extras\)](https://open.spotify.com/album/1J2s2YBN58niYSzgkvCIM7) | 3:04 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 79 | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/track/7jnHuJ0HDcAYt7Anv77h4X) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/album/40lf12fnzCVNE6t6MV2dvA) | 3:07 |
 | 80 | [Believed](https://open.spotify.com/track/6gEC3iDuOlcHatGCCcvpO6) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 2:49 |
 | 81 | [Don't Mind](https://open.spotify.com/track/5vYQLmvEV74DLLqUmOyiFh) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Here For Now](https://open.spotify.com/album/4aBLjtEUUg1424XB5WQgKP) | 2:54 |
-| 82 | [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 |
-| 83 | [Try Again \(feat\. Lauv\)](https://open.spotify.com/track/0DHh3p0g7qmNNfNdRNwL6N) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Try Again \(feat\. Lauv\)](https://open.spotify.com/album/19CXVGNF0uSHVc5f4zCmi4) | 3:09 |
+| 82 | [Try Again \(feat\. Lauv\)](https://open.spotify.com/track/0DHh3p0g7qmNNfNdRNwL6N) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Try Again \(feat\. Lauv\)](https://open.spotify.com/album/19CXVGNF0uSHVc5f4zCmi4) | 3:09 |
+| 83 | [Teary Eyes](https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:02 |
 | 84 | [Jewel \(feat\. Nikki Vianna\)](https://open.spotify.com/track/1YL4frxSZ1NeSLafqIwmWZ) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Nikki Vianna](https://open.spotify.com/artist/5YyGLejM00snCF1RJKlocJ) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 2:58 |
 | 85 | [Coming To My Senses](https://open.spotify.com/track/0wNenHPLy8qwMfxHTqScoR) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [The Color Of You](https://open.spotify.com/album/6R8UeugxGTPvPwFkLVqUqs) | 3:06 |
 | 86 | [My Girlfriends Are My Boyfriend \(feat\. Saweetie\)](https://open.spotify.com/track/2Z2u68PwXoDvaLLrv7EkFQ) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:07 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 143 | [Echo \[Bonus Track\]](https://open.spotify.com/track/30iwAxqJOdYxXSHG5Be8sS) | [Baker](https://open.spotify.com/artist/4FgEdko7AZQos5YRsfGtXE) | [The Baker EP](https://open.spotify.com/album/0sngk6p8hOPmvDKvuE8iK2) | 3:42 |
 | 144 | [Alone](https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy) | [rnjmb](https://open.spotify.com/artist/0Hr6HyWdKgPN3P2VoZcy9v) | [Ends Meet](https://open.spotify.com/album/0R01Z4n7hg0M2zfMi08hbo) | 1:20 |
 
-Snapshot ID: `MjczNzU4NjcsMDAwMDAwMDA3NTgyYjkxYzdiMDEzOTY3Y2ZmMTk1MDM2MTY3NjhmNw==`
+Snapshot ID: `MjczNzczMDAsMDAwMDAwMDBjY2U3MmQ0MmIxNjY0NzhjZmQxM2ZkMDFmNzFhOTZiMw==`

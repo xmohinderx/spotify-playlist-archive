@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Pitty, Drik Barbosa, WEKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,828 likes - 74 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,825 likes - 74 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

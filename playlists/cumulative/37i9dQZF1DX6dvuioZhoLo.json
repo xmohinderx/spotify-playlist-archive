@@ -91,10 +91,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 274333,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/6dben05JiKn09x31h1JgOW"
+    },
+    {
+      "album": {
+        "name": "Better to My Baby",
+        "url": "https://open.spotify.com/album/62VwM9Z6qTwE1kkoGm2Z53"
+      },
+      "artists": [
+        {
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "Better to My Baby",
+      "url": "https://open.spotify.com/track/5s18OgMbxObkcqjLYKmA9z"
     },
     {
       "album": {
@@ -455,7 +473,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 170813,
       "name": "Flat Top Guitar",
       "url": "https://open.spotify.com/track/5XMZFXDY5DQOSFLsW1ykDy"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 247760,
       "name": "Heartbreak Blues",
       "url": "https://open.spotify.com/track/1dNAFligPl5TPPXxQ1EBgd"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 289978,
       "name": "High Rise",
       "url": "https://open.spotify.com/track/26r7ckzM27o17eV3soHYWN"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 139733,
       "name": "Honky Tonks and Taverns",
       "url": "https://open.spotify.com/track/7A57mX7GPbD0uycT0gl1W2"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 180674,
       "name": "I Left My One Spot (Back at the 5 Spot)",
       "url": "https://open.spotify.com/track/2TLkwZyAWcKJI9LT0ZXVKx"
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 206729,
       "name": "Ice Cream and Liquor",
       "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 235677,
       "name": "Make Way for Love",
       "url": "https://open.spotify.com/track/5JYPThr0ZJ50DuTXFf1uC1"
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 226784,
       "name": "Marriage Ain't the End of Being Lonely",
       "url": "https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN"
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 199991,
       "name": "Nothing Wrong with Texas",
       "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 351920,
       "name": "Out To Sea",
       "url": "https://open.spotify.com/track/1JRVodzHiHJmuDRa83QO20"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 153548,
       "name": "Party Boy",
       "url": "https://open.spotify.com/track/2P9jli0qvqELOihPbVN9Og"
@@ -2047,7 +2065,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 227135,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/6OB6oN7g6BbcrTFoP6l7sl"
@@ -2101,7 +2119,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 154026,
       "name": "Walkin' After Midnight",
       "url": "https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm"
@@ -2155,7 +2173,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 199923,
       "name": "Weed Instead of Roses",
       "url": "https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA"
@@ -2245,7 +2263,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 186160,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/7F5xXhW0lwu3sl95M5dh03"

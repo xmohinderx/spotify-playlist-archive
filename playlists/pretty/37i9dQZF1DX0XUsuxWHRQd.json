@@ -1,12 +1,12 @@
 {
   "description": "New music from Cordae, Gunna and NLE Choppa.",
-  "num_followers": 14292799,
+  "num_followers": 14294698,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUzODAyNiwwMDAwMDYxYzAwMDAwMTdlNmVlNTQ0NzEwMDAwMDE3ZTUwYjYxNjYz",
+  "snapshot_id": "MTY0MjYxNjAxOSwwMDAwMDYxZTAwMDAwMTdlNzM4YjU5YTYwMDAwMDE3ZTUwYjYxNjYz",
   "tracks": [
     {
       "added_at": "2022-01-07 05:00:00",
@@ -221,10 +221,10 @@
       "url": "https://open.spotify.com/track/3XLbDUB5BX2WqL2qoAsvtb"
     },
     {
-      "added_at": "2021-11-30 00:26:10",
+      "added_at": "2022-01-19 02:15:53",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/2RrZgDND03MLu6pRJdTkz5"
+        "name": "Cold December",
+        "url": "https://open.spotify.com/album/6PHg4EsRdFC1eG24NJPk2K"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 194050,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/2AaJeBEq3WLcfFW1y8svDf"
+      "duration_ms": 192021,
+      "name": "Cold December",
+      "url": "https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9"
     },
     {
       "added_at": "2021-12-17 05:08:41",
@@ -309,6 +309,22 @@
       "url": "https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef"
     },
     {
+      "added_at": "2021-11-30 00:26:10",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/2RrZgDND03MLu6pRJdTkz5"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 194050,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/2AaJeBEq3WLcfFW1y8svDf"
+    },
+    {
       "added_at": "2021-12-17 05:08:41",
       "album": {
         "name": "LIVE LIFE FAST",
@@ -361,6 +377,26 @@
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
     },
     {
+      "added_at": "2022-01-19 18:13:39",
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/5JI0YNKgpiE5OvNaqj6s4J"
+      },
+      "artists": [
+        {
+          "name": "Paper Route EMPIRE",
+          "url": "https://open.spotify.com/artist/65smG2lgnRmrDB8g7z1hG0"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/6yOM87h9akcg1iYT5p66Av"
+    },
+    {
       "added_at": "2021-11-05 04:00:00",
       "album": {
         "name": "ESCAPE PLAN / MAFIA",
@@ -395,34 +431,6 @@
       "duration_ms": 192756,
       "name": "Anti-Hero (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/5HZ5NjyJVMaboBgG6uQMpK"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
-        "url": "https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 279853,
-      "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
-      "url": "https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH"
     },
     {
       "added_at": "2022-01-07 06:58:35",
@@ -667,22 +675,6 @@
       "duration_ms": 216357,
       "name": "Too Hot (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Ambition For Cash",
-        "url": "https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "Ambition For Cash",
-      "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
     },
     {
       "added_at": "2021-10-22 04:00:00",

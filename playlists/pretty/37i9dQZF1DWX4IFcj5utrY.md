@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU?si=2tDiqWw7RJKBDTODRPffZQ">Echo Deep</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,662 likes - 82 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,683 likes - 82 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

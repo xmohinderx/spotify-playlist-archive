@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Suena en el barrio, suena ac\u00e1 {Perro Primo & La Joaqui}",
+  "description": "Suena en el barrio, suena ac\u00e1 {L-Gante & Bizarrap}",
   "name": "Cumbia 420",
   "published_playlist_ids": [
     "08wPNXaQ2kxk28fUrtfLBd"
@@ -718,6 +718,58 @@
     },
     {
       "album": {
+        "name": "PICA",
+        "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
+      },
+      "artists": [
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Al Records",
+          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164531,
+      "name": "PICA",
+      "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
+    },
+    {
+      "album": {
+        "name": "Pinta",
+        "url": "https://open.spotify.com/album/3NuIVDa1eiDxLTciy5J4Ha"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Pablo Lescano",
+          "url": "https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177950,
+      "name": "Pinta",
+      "url": "https://open.spotify.com/track/7nXutPtu8epp2VJ300iN2A"
+    },
+    {
+      "album": {
         "name": "Pistola Remix",
         "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
       },
@@ -1265,6 +1317,40 @@
       "duration_ms": 195903,
       "name": "Uno Mas Uno - Original",
       "url": "https://open.spotify.com/track/7ovzcvuVMPeVFdOW9K48rS"
+    },
+    {
+      "album": {
+        "name": "Yendo No, Llegando",
+        "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
+      },
+      "artists": [
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        },
+        {
+          "name": "DJ Plaga",
+          "url": "https://open.spotify.com/artist/08u4ziTkV9VIYmKqRcbdFK"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Yendo No, Llegando",
+      "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSLzWG0oani3"

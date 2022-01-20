@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 199148,
       "name": "BLISTER (feat. Franco126)",
       "url": "https://open.spotify.com/track/2QDYjH6jUYG61QlEfMyzdL"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 206379,
       "name": "Blu Celeste",
       "url": "https://open.spotify.com/track/0BeXxjO6mgLDzg4xA6UheO"
@@ -4922,6 +4922,24 @@
     },
     {
       "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "album": {
         "name": "Inuyasha",
         "url": "https://open.spotify.com/album/7J5bzyK4pKpIarxnwj3VYB"
       },
@@ -7057,7 +7075,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-06",
+      "date_removed": null,
       "duration_ms": 210953,
       "name": "Mi Fider\u00f2 (feat. Madame)",
       "url": "https://open.spotify.com/track/2V8AxW9KS5i60ccy7tXCP6"
@@ -10185,7 +10203,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 155294,
       "name": "SPINE (feat. Coez)",
       "url": "https://open.spotify.com/track/6WeWS6o2LddqgPKgmW7AVa"
@@ -11715,7 +11733,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 203544,
       "name": "WELCOME BACK (feat. Raekwon)",
       "url": "https://open.spotify.com/track/5E0PcREYdAn70xQPylf76v"

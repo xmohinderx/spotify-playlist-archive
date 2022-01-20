@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music and Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,119 likes - 95 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,133 likes - 95 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 7 | [How Great \(Single Mix\)](https://open.spotify.com/track/0tpIBH9ycxYugBonIfWu1b) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Worship EP](https://open.spotify.com/album/77ccastPsMW1B90lFVV4vZ) | 3:41 |
 | 8 | [Sons and Daughters](https://open.spotify.com/track/3U2vadNjmZQ7KXvqZCagyD) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Kyle Howard](https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo) | [My Hope Has Come](https://open.spotify.com/album/3qKpm6dTek64O98xFgY38R) | 6:47 |
 | 9 | [Breathe Miracles](https://open.spotify.com/track/4TqSIHtOTP42idKVyAm3aZ) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Things of Heaven](https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU) | 4:26 |
-| 10 | [Fresh Wind \- Studio](https://open.spotify.com/track/5bCBMKuaHNpRCuPPVKtzlk) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Fresh Wind \(Studio\)](https://open.spotify.com/album/03UDrSsFdOPtQsmvyfjaDW) | 4:33 |
+| 10 | [Fresh Wind \- Studio](https://open.spotify.com/track/5bCBMKuaHNpRCuPPVKtzlk) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [David Ware](https://open.spotify.com/artist/0hta3inDwefmP7JjYEY33c) | [Fresh Wind \(Studio\)](https://open.spotify.com/album/03UDrSsFdOPtQsmvyfjaDW) | 4:33 |
 | 11 | [Living Breath Of Heaven](https://open.spotify.com/track/6HKUnmCnpjG2ql1FSuv2Of) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [All That Remains](https://open.spotify.com/album/2CXuD2PLxaz2WrhtOHKyEk) | 5:46 |
 | 12 | [Goodness of God](https://open.spotify.com/track/4v4NiTCwgjwJixy0doOsCP) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Cristabel Clack](https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y) | [Feels Like Home, Vol\. 2](https://open.spotify.com/album/0lK9s3Mt3B2iDuUBmSl7EE) | 5:12 |
 | 13 | [Wonder \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 4:03 |

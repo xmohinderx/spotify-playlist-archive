@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now! Cover: <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=5Z7nU1NlSleLiz1BSOb7Dw"> Fireboy DML </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,699 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,309 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

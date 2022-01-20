@@ -3533,7 +3533,7 @@
       ],
       "date_added": "2021-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 190000,
       "name": "Lover",
       "url": "https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG"
@@ -4211,7 +4211,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Na Ja",
       "url": "https://open.spotify.com/track/32LKwbmh6yVsWoRRF8DIvf"
@@ -4545,7 +4545,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 223271,
       "name": "Oo Solriya Oo Oo Solriya",
       "url": "https://open.spotify.com/track/28fPIWqAfqoEEGSb0rA4LZ"
@@ -5065,6 +5065,28 @@
       "duration_ms": 223961,
       "name": "Saami Saami",
       "url": "https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC"
+    },
+    {
+      "album": {
+        "name": "Saami Saami (From \"Pushpa The Rise Part - 01\")",
+        "url": "https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227160,
+      "name": "Saami Saami (From \"Pushpa The Rise Part - 01\")",
+      "url": "https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF"
     },
     {
       "album": {
@@ -6057,7 +6079,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 250287,
       "name": "Tip Tip (From \"Sooryavanshi\")",
       "url": "https://open.spotify.com/track/5zfRl79umXWvKoA7p4KEPa"
@@ -6453,6 +6475,32 @@
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "album": {
+        "name": "Ykwim",
+        "url": "https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Mehar Vaani",
+          "url": "https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194857,
+      "name": "Ykwim",
+      "url": "https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ"
     },
     {
       "album": {

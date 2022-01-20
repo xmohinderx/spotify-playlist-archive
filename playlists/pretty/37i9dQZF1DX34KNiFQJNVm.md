@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Leo Santana com LUDMILLA, Simone & Simaria com Zé Felipe e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,711,522 likes - 97 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,711,716 likes - 97 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 88 | [Age of Phase](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:42 |
 | 89 | [Lye](https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 1:52 |
 | 90 | [Chama Grana](https://open.spotify.com/track/6z5ShAbGvJjDMUPksnZh1i) | [Terra Preta](https://open.spotify.com/artist/5ngE7XJPqw9CoOq3agu5FP), [Cabal](https://open.spotify.com/artist/1NaCje3joxxJ1jduJoV5Xt) | [POR SUA CAUSA](https://open.spotify.com/album/670ZOn9MBhuXQzuRoDXW0p) | 3:29 |
-| 91 | [Incomoda](https://open.spotify.com/track/0mTDBK99JvYzpixgLRsjd4) | [Haitam](https://open.spotify.com/artist/3J0t4JNgTyjwqRaXo5pNlW), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Incomoda](https://open.spotify.com/album/0aUskMFuteLOk3RyVt70Bu) | 2:47 |
+| 91 | [Incomoda](https://open.spotify.com/track/0mTDBK99JvYzpixgLRsjd4) | [Haitam](https://open.spotify.com/artist/3J0t4JNgTyjwqRaXo5pNlW), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Incomoda](https://open.spotify.com/album/0aUskMFuteLOk3RyVt70Bu) | 2:40 |
 | 92 | [Need You Tonight](https://open.spotify.com/track/4HLuopIC1sQIgTAcDwkkqR) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Need You Tonight](https://open.spotify.com/album/2vVY1FESWAdXJLyF7vd7w8) | 3:18 |
 | 93 | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/7imJEoNqRJL4n8OQEChzWG) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2) | 2:40 |
 | 94 | [This Car Drives All by Itself](https://open.spotify.com/track/3kgUL6z42w6qC6Tp5FrZrU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 4:45 |

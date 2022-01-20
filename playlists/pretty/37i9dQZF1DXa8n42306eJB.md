@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,970 likes - 69 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,032 likes - 69 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 51 | [Duduke](https://open.spotify.com/track/2rcH25kgOyS0cQbtiMkhQw) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/0GxxbvuvH78qHtiAWz7P4R) | 2:52 |
 | 52 | [My Everything](https://open.spotify.com/track/5H7vRoyMgI4VcuPBLnElAI) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9) | [My Everything](https://open.spotify.com/album/2SrbC71vZRVuFYPkMoIfOK) | 4:12 |
 | 53 | [Show Me](https://open.spotify.com/track/0ERGzuyTquZmQwOmeZLZpr) | [Nesian N.I.N.E.](https://open.spotify.com/artist/7DUqqw1aXnOYoiB7ebj4ra) | [Press Play](https://open.spotify.com/album/2EOopSh7XEMhVLrUlwHv6I) | 4:22 |
-| 54 | [Girl Let Me Love You](https://open.spotify.com/track/6kc0DPZtfLf5283diEIOwi) | [Hiiata](https://open.spotify.com/artist/2pLgcorx08Sm04s4bnGiBW) | [Girl Let Me Love You](https://open.spotify.com/album/5BPG6zlS7nyG8ULbWbrBmm) | 3:17 |
+| 54 | [Girl Let Me Love You](https://open.spotify.com/track/6kc0DPZtfLf5283diEIOwi) | [HEETZ](https://open.spotify.com/artist/2pLgcorx08Sm04s4bnGiBW) | [Girl Let Me Love You](https://open.spotify.com/album/5BPG6zlS7nyG8ULbWbrBmm) | 3:17 |
 | 55 | [Take It Away](https://open.spotify.com/track/28LwcC8Qjw6fzjTpUDEgXF) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [One](https://open.spotify.com/album/27wSk2zFJ5MKA2ow1hvrLG) | 3:34 |
 | 56 | [Keep On Going](https://open.spotify.com/track/7xqZdTUOHGOy0brFTCIDoA) | [JR Kenna](https://open.spotify.com/artist/2ZwZZINTWJqycmO64P77kN), [Hussla D](https://open.spotify.com/artist/5fsptY9U01KKG6YbjrSnaf), [Maikal X](https://open.spotify.com/artist/4tTonvkbofY3aKwUKiUwGA) | [Keep On Going](https://open.spotify.com/album/49G044qCj857V1GK5M8jhn) | 3:09 |
 | 57 | [Here to Stay](https://open.spotify.com/track/0qxTym0LJ6HMV4g87FYIdR) | [General Fiyah](https://open.spotify.com/artist/4dnsfuI3oozEl16wEcsPc8), [Three Houses Down](https://open.spotify.com/artist/0qWNlZpLfAYDbEVEHAAllv) | [Here to Stay](https://open.spotify.com/album/6OqOtbJGxwzrTzNtfDtQh4) | 4:17 |

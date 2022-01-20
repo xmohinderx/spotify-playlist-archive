@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 297786,
       "name": "'Till I Collapse",
       "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 270120,
       "name": "About the Money (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1hzJQIkgXwZevaKsc7iA6D"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 212653,
       "name": "Backseat Freestyle",
       "url": "https://open.spotify.com/track/1BR5vhAlaoUiijQ28p6jlN"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 265185,
       "name": "Bring The Hook",
       "url": "https://open.spotify.com/track/1giI9yVIG71xY8lPwSDzWY"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 208733,
       "name": "ELEMENT.",
       "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
@@ -1181,7 +1181,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 217520,
       "name": "Go Get It",
       "url": "https://open.spotify.com/track/2gPl93XdGnfKUykwxVHUYt"
@@ -1557,10 +1557,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 254093,
       "name": "Hustlin'",
       "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
+    },
+    {
+      "album": {
+        "name": "Luca Brasi 2: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "August Alsina",
+          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209707,
+      "name": "I Don't Get Tired (#IDGT) (feat. August Alsina)",
+      "url": "https://open.spotify.com/track/6HMHgBHdLBQ0QYIaOp2gse"
     },
     {
       "album": {
@@ -1875,7 +1897,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 126345,
       "name": "Look At Me!",
       "url": "https://open.spotify.com/track/7floNISpH8VF4z4459Qo18"
@@ -2031,7 +2053,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 183527,
       "name": "Money",
       "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
@@ -2273,7 +2295,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 201600,
       "name": "No Mediocre (feat. Iggy Azalea)",
       "url": "https://open.spotify.com/track/38aECKrbMv2F5FsYYCewCQ"
@@ -2339,7 +2361,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 201960,
       "name": "Old English",
       "url": "https://open.spotify.com/track/56X1fzloIoGKKOgpLLIGoe"
@@ -2537,7 +2559,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 332300,
       "name": "Powerglide (feat. Juicy J) - From SR3MM",
       "url": "https://open.spotify.com/track/1BuZAIO8WZpavWVbbq3Lci"
@@ -3191,7 +3213,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 318360,
       "name": "That's All She Wrote",
       "url": "https://open.spotify.com/track/6XAA7T9VHcqKQSzjmXAJ8o"
@@ -3315,7 +3337,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 196336,
       "name": "Too Many Years",
       "url": "https://open.spotify.com/track/7KyTq7H5f3Oavmuo9TX6QK"
@@ -3381,6 +3403,28 @@
       "duration_ms": 222093,
       "name": "Trap Queen",
       "url": "https://open.spotify.com/track/5iNRPN7oYQvdB9AmeSW6d3"
+    },
+    {
+      "album": {
+        "name": "Rise Of An Empire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
+      },
+      "artists": [
+        {
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188320,
+      "name": "Trophies",
+      "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
     },
     {
       "album": {
@@ -3669,7 +3713,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 201270,
       "name": "Writing on the Wall (feat. Post Malone, Cardi B & Rvssian)",
       "url": "https://open.spotify.com/track/7ntUbTIwmwOD6ygCMRZT6e"
@@ -3739,7 +3783,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 194231,
       "name": "You Should've Known",
       "url": "https://open.spotify.com/track/6FV7RivrHzOwu6SkLRRYmY"

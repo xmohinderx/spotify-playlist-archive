@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Ralph Alvern, Karena Yeo, Vessail\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,018 likes - 74 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,016 likes - 74 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

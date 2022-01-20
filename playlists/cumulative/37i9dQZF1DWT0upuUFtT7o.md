@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT0upuUFtT7o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT0upuUFtT7o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT0upuUFtT7o)
 
-### [Fresh Finds: Indie](https://open.spotify.com/playlist/09T6gzUrcxx1peoaHPdLTG)
+### [Fresh Finds Indie](https://open.spotify.com/playlist/09T6gzUrcxx1peoaHPdLTG)
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Delaney Bailey Artwork: Robin Clifford Ellis
 

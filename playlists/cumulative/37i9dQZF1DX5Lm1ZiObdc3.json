@@ -126,6 +126,32 @@
     },
     {
       "album": {
+        "name": "Schubert: Arpeggione, Sonatina & Lieder Transcriptions",
+        "url": "https://open.spotify.com/album/1fnJDydxi4AjEBIm4SlhV9"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Anne Gastinel",
+          "url": "https://open.spotify.com/artist/5MODxzUZOCkd6YRLMH5RVC"
+        },
+        {
+          "name": "Claire D\u00e9sert",
+          "url": "https://open.spotify.com/artist/0ekU4rxJFrjDFLfOawba94"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126053,
+      "name": "An die Musik, D. 547 - Arr. for Arpeggione and Piano",
+      "url": "https://open.spotify.com/track/1UTNZ9xdanKM24spfy2Fhb"
+    },
+    {
+      "album": {
         "name": "Respighi: Piano Music",
         "url": "https://open.spotify.com/album/3Ngfu4aUsVUBJXHYNr8Wo3"
       },

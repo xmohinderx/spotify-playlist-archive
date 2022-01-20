@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSIvbYYt1Dvi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSIvbYYt1Dvi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSIvbYYt1Dvi)
 
-### AULAS
+### [AULAS](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
 
 > reunião de pais e mestres com L7NNON e MD Chefe: Hermés é AULAS
 
@@ -17,7 +17,7 @@
 | [Corte Americano](https://open.spotify.com/track/68qqVn5kHBv4zc45SDGLnh) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:19 | 2022-01-14 |  |
 | [Cotidiano](https://open.spotify.com/track/1mrmRAy3IGhh9yr0ZQ04xN) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Cotidiano](https://open.spotify.com/album/1gQDiIfLzhvOlnRLDTENpi) | 2:52 | 2022-01-14 |  |
 | [Cruzeiro da Revoada](https://open.spotify.com/track/2TkyXnE0OB6Yo9zuzv9B4e) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Universo Particular](https://open.spotify.com/album/0Wg1HsbVatKcEZznPZ62Ev) | 3:42 | 2022-01-14 |  |
-| [De 90 pra Cá](https://open.spotify.com/track/4u47lJWoqhJi8zWkZ13l7L) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Dexter](https://open.spotify.com/artist/3Gm6GYrQQJty7yYb4cE0Db), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [De 90 pra Cá](https://open.spotify.com/album/4QIlQ87A4GYI2NUz62oK0J) | 3:37 | 2022-01-14 |  |
+| [De 90 pra Cá](https://open.spotify.com/track/4u47lJWoqhJi8zWkZ13l7L) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [De 90 pra Cá](https://open.spotify.com/album/4QIlQ87A4GYI2NUz62oK0J) | 3:37 | 2022-01-14 |  |
 | [Easy Money](https://open.spotify.com/track/29MtvMn1yovT22Gxq2XvYV) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Easy Money](https://open.spotify.com/album/0WNkmxjBFXAuVFJpfdFLow) | 3:11 | 2022-01-14 |  |
 | [Eu Fiz o Jogo Virar](https://open.spotify.com/track/53BkPZwlaLbW77uV9BnJkl) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Eu Fiz o Jogo Virar](https://open.spotify.com/album/78d91UtLEOTAllTmgDh7n5) | 2:25 | 2022-01-14 |  |
 | [Eu Precisava Voltar Com a Folhinha](https://open.spotify.com/track/3lv0Gjj2oP6sDjI5yv9Ebg) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w) | [Eu Precisava Voltar Com a Folhinha](https://open.spotify.com/album/3jtT6gy6wjOFnpGtb8RrZb) | 4:11 | 2022-01-14 |  |

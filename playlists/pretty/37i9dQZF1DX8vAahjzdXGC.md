@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Stephanie Poetri
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,290 likes - 134 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,316 likes - 134 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 25 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 |
 | 26 | [Last Birthday](https://open.spotify.com/track/697MdxMbVWn1Ajbw8iaPv5) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The After Party](https://open.spotify.com/album/3RJi4CGEm5KVAdPxl2fWWa) | 3:57 |
 | 27 | [Need You Tonight](https://open.spotify.com/track/4HLuopIC1sQIgTAcDwkkqR) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy), [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Need You Tonight](https://open.spotify.com/album/2vVY1FESWAdXJLyF7vd7w8) | 3:18 |
-| 28 | [Purple Raincoat](https://open.spotify.com/track/2bs8aUahdeuuDKLtBLSMlu) | [Reza Darmawangsa](https://open.spotify.com/artist/4FyrXdj7oNgjX7mfYzFziO), [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Purple Raincoat](https://open.spotify.com/album/3szkcbwfYZduR4n4luEFvZ) | 3:00 |
+| 28 | [Purple Raincoat](https://open.spotify.com/track/2bs8aUahdeuuDKLtBLSMlu) | [RZD](https://open.spotify.com/artist/2twrmSpO47pHS0qpioMtgs), [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Purple Raincoat](https://open.spotify.com/album/3szkcbwfYZduR4n4luEFvZ) | 3:00 |
 | 29 | [Hanya Dalam Mimpi](https://open.spotify.com/track/7DfTfnISMV21mbyBIct9h2) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q) | [Hanya Dalam Mimpi](https://open.spotify.com/album/4lK119XFiE5CZGUUITJBzC) | 4:22 |
 | 30 | [Bila Kemarin](https://open.spotify.com/track/50CsVpRhz7dhFPUWZs4rhS) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR) | [Bila Kemarin](https://open.spotify.com/album/31Hr5swnJx4Lr5Ppu2vObe) | 3:03 |
 | 31 | [Unwrap Your Skin](https://open.spotify.com/track/4nYb1PsoFBmS8vsYCulWCG) | [Tanayu](https://open.spotify.com/artist/32mJinuGJRIppgtdgxUXE5) | [Unwrap Your Skin](https://open.spotify.com/album/3xgQ5vD3SMvYOhpaXSld2E) | 3:07 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 59 | [DESSERT](https://open.spotify.com/track/6uL0aCgluLb9Jv9TzpJtNs) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Illusion](https://open.spotify.com/album/05ayO3bflWVKghdPEhBD0q) | 3:25 |
 | 60 | [skinz](https://open.spotify.com/track/6muszfo0tVE3bzEN5s0xXk) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [Instinct, Pt\. 2](https://open.spotify.com/album/6s6wvFDZuowpwGclVzbXDv) | 3:23 |
 | 61 | [Marvelous](https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Marvelous \- MIRAE 3rd Mini Album](https://open.spotify.com/album/75m8JyqF8ZgDCk01v0QVoR) | 3:09 |
-| 62 | [idea](https://open.spotify.com/track/15ExzLZnfCGvje3LdquI77) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [Viann](https://open.spotify.com/artist/7yRs5f61v5AwXwVlUQ7bNE) | [idea](https://open.spotify.com/album/7hMd0LuKs19KRH86r5MZSm) | 4:00 |
+| 62 | [idea](https://open.spotify.com/track/15ExzLZnfCGvje3LdquI77) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [으네 \(UNE\)](https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW), [비앙\(Viann\)](https://open.spotify.com/artist/42w0Nidlj4H3q4H1Q0LqRG) | [idea](https://open.spotify.com/album/7hMd0LuKs19KRH86r5MZSm) | 4:00 |
 | 63 | [王嘉爾](https://open.spotify.com/track/380m8wx1X9cSSSF5If2D9X) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [王嘉爾](https://open.spotify.com/album/1F4k2mAISGJFSKRvDUt1f1) | 4:33 |
 | 64 | [LOUD](https://open.spotify.com/track/1DiDwTApBRcmxV1Cw2JBc0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [LOUD](https://open.spotify.com/album/5WsYjwaDitv4Yqsr8fqhGj) | 3:32 |
 | 65 | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/7imJEoNqRJL4n8OQEChzWG) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2) | 2:40 |

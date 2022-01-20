@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 256346,
       "name": "Calling You Out",
       "url": "https://open.spotify.com/track/0RaWPCQLbjDWPVaL7KY8RA"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 386146,
       "name": "Damn It All",
       "url": "https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 237122,
       "name": "Dark Child - Single Edit",
       "url": "https://open.spotify.com/track/4puHB4a2PUyJViWnJcJEv0"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 207720,
       "name": "Each Coming Night",
       "url": "https://open.spotify.com/track/0mh7eTsBmQj29bkgpQKoPj"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 210924,
       "name": "Forest Fires",
       "url": "https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 254173,
       "name": "Heavy Weather",
       "url": "https://open.spotify.com/track/6cDfjpzbfreA0Tv97t2Xll"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 174255,
       "name": "Quiet, Heavy Dreams",
       "url": "https://open.spotify.com/track/3JGqdP88wrRe9QEVCDHQv9"
@@ -1055,10 +1055,32 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 322680,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4JUYaHt43h8SZQ4lYGsGJP"
+    },
+    {
+      "album": {
+        "name": "One True Thing",
+        "url": "https://open.spotify.com/album/2uJMLYLdpbVvKjhCfsdvmQ"
+      },
+      "artists": [
+        {
+          "name": "Jesse Harper",
+          "url": "https://open.spotify.com/artist/64vZp5Px5HDpn0UUMxIwX9"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273013,
+      "name": "Strangers (feat. Aoife O'donovan)",
+      "url": "https://open.spotify.com/track/3OKUJgs3GpNp6MTLuv5PCh"
     },
     {
       "album": {
@@ -1253,7 +1275,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 201085,
       "name": "Visions Of China",
       "url": "https://open.spotify.com/track/7lkmvTlnEs0JfKIFg9NmcL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: TAEYEON
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,782 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,124 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 49 | [Yours](https://open.spotify.com/track/5NLIIwf9UPaT04xU9aaZyr) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [智異山 オリジナル・サウンドトラック Part.4](https://open.spotify.com/album/0qK9PxAMNAwc4fPqsCyxwj) | 4:24 |
 | 50 | [Last Breath](https://open.spotify.com/track/3oBrXFR59oxbYVBJZ6lHG2) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Last Breath](https://open.spotify.com/album/1j6ugJWxbjmxT2nukjUIQj) | 2:41 |
 
-Snapshot ID: `MTY0MjU1MjcxMiwwMDAwMDAwMGJmNjZlMmVkMmIyMTA0MjIxNjEyYzNhYmJkNzFmMDM2`
+Snapshot ID: `MTY0MjYzOTUzMiwwMDAwMDAwMGJmNjZlMmVkMmIyMTA0MjIxNjEyYzNhYmJkNzFmMDM2`

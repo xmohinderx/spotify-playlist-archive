@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: ZUSTRA, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Batbait, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 163357,
       "name": "5th Element",
       "url": "https://open.spotify.com/track/3QJoCZDbhl9VdQfZq3RqT6"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 271983,
       "name": "Baby",
       "url": "https://open.spotify.com/track/37dpyJsBy1bIGJNrztzr6S"
@@ -117,6 +117,24 @@
       "duration_ms": 394000,
       "name": "Baghira",
       "url": "https://open.spotify.com/track/4QuoelVf8l7Q9xMiu2f6SG"
+    },
+    {
+      "album": {
+        "name": "Bird's Life",
+        "url": "https://open.spotify.com/album/2vpSULG9uMwpHsQ2KXHbuR"
+      },
+      "artists": [
+        {
+          "name": "Albertine Sarges",
+          "url": "https://open.spotify.com/artist/1bo2PjIgDEptAlEzxyOIuX"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249190,
+      "name": "Bird's Life",
+      "url": "https://open.spotify.com/track/3MLnJNgMdhx5chY6OSDEXY"
     },
     {
       "album": {
@@ -171,7 +189,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 158117,
       "name": "Blue Butterflies",
       "url": "https://open.spotify.com/track/3u0WrXUaRq88ala7J9zpjL"
@@ -189,7 +207,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 170326,
       "name": "Boy Boredom",
       "url": "https://open.spotify.com/track/5xOt4bg05lgJaMUkhLKsPk"
@@ -542,6 +560,24 @@
     },
     {
       "album": {
+        "name": "Fear Of Failing",
+        "url": "https://open.spotify.com/album/3nTUlXG8vbU4CSefdXpjsG"
+      },
+      "artists": [
+        {
+          "name": "Minoa",
+          "url": "https://open.spotify.com/artist/65NZk6IZ0jdkHO7L0laAvG"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362680,
+      "name": "Fear Of Failing",
+      "url": "https://open.spotify.com/track/7qTPFUNyS7BOIXbkHfQQz4"
+    },
+    {
+      "album": {
         "name": "Fragezeichen",
         "url": "https://open.spotify.com/album/2uEQBXHaEMdDhjrpl934QD"
       },
@@ -557,7 +593,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 130500,
       "name": "Fragezeichen",
       "url": "https://open.spotify.com/track/5ueoF7svy2l7pmhJOI6jSh"
@@ -637,6 +673,24 @@
       "duration_ms": 159071,
       "name": "Gun to My Head",
       "url": "https://open.spotify.com/track/4qcabnkx8E5JBU6sJqgoP5"
+    },
+    {
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/417BSRQhMWdIbC3X3QfRon"
+      },
+      "artists": [
+        {
+          "name": "LLUCID",
+          "url": "https://open.spotify.com/artist/5BqTGVZWyKbcvweUqJj3wg"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188632,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/20eceaGK0pq37HXKgJHd8s"
     },
     {
       "album": {
@@ -741,10 +795,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 227253,
       "name": "Hope To Come",
       "url": "https://open.spotify.com/track/1XvfechfNIOBX6xouFCyrR"
+    },
+    {
+      "album": {
+        "name": "How Come No One Told Me",
+        "url": "https://open.spotify.com/album/3n2k0rrZpvO1UYCWyWow8Y"
+      },
+      "artists": [
+        {
+          "name": "Grimson",
+          "url": "https://open.spotify.com/artist/1zEnV2mAzgJiOMccJN11yu"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238437,
+      "name": "How Come No One Told Me",
+      "url": "https://open.spotify.com/track/1tyV88FBoHbldJ74ZLB4Yv"
     },
     {
       "album": {
@@ -820,6 +892,24 @@
     },
     {
       "album": {
+        "name": "Imaginary Boy",
+        "url": "https://open.spotify.com/album/78S21P3LAQ4vbU3Vh9QKqc"
+      },
+      "artists": [
+        {
+          "name": "Nicole Faux Naiv",
+          "url": "https://open.spotify.com/artist/49rxT73SJX2ORygUaXKLeD"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190013,
+      "name": "Imaginary Boy",
+      "url": "https://open.spotify.com/track/470qFnD2xdsZqOvXEubpj9"
+    },
+    {
+      "album": {
         "name": "IMMER IM RAUCH",
         "url": "https://open.spotify.com/album/7qRxYf4OfCjwb8cTZGEfxS"
       },
@@ -849,10 +939,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 198289,
       "name": "In Love With Your Friend",
       "url": "https://open.spotify.com/track/540w7i1hPMw3UG6doNcRpk"
+    },
+    {
+      "album": {
+        "name": "In My SUV",
+        "url": "https://open.spotify.com/album/17vB3tGLNprtVtZQtan1yY"
+      },
+      "artists": [
+        {
+          "name": "Dobre",
+          "url": "https://open.spotify.com/artist/7JR1psib3h439APCdifvyM"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225665,
+      "name": "In My SUV",
+      "url": "https://open.spotify.com/track/2qf0e2wbDSF3sYxPH3OsVj"
     },
     {
       "album": {
@@ -1033,10 +1141,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 142000,
       "name": "Laura",
       "url": "https://open.spotify.com/track/20THYUWiTFveytALH4pyUD"
+    },
+    {
+      "album": {
+        "name": "Levitation",
+        "url": "https://open.spotify.com/album/4kylgjMemfIkxrf7vEP5Gc"
+      },
+      "artists": [
+        {
+          "name": "Ouhana",
+          "url": "https://open.spotify.com/artist/3tVHTq8WIDFyayynQFPKo1"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376377,
+      "name": "Levitation",
+      "url": "https://open.spotify.com/track/1UyuCWXxvSOe3mFvYNVIUT"
     },
     {
       "album": {
@@ -1087,7 +1213,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 321693,
       "name": "Magic Man",
       "url": "https://open.spotify.com/track/18H0rgW6T6Y9X21CgZKhfi"
@@ -1188,6 +1314,24 @@
     },
     {
       "album": {
+        "name": "move to paris",
+        "url": "https://open.spotify.com/album/3nnEQLZooQUV5VgvdC0PeP"
+      },
+      "artists": [
+        {
+          "name": "ilayda",
+          "url": "https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162656,
+      "name": "move to paris",
+      "url": "https://open.spotify.com/track/4gmXbQ2CLqBT2W0EVYG3Zf"
+    },
+    {
+      "album": {
         "name": "No Other Drug",
         "url": "https://open.spotify.com/album/6sW7HhDicwFqcBAXllA4Hu"
       },
@@ -1199,7 +1343,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 175907,
       "name": "No Other Drug",
       "url": "https://open.spotify.com/track/0X69l5Og97O0tGc9SfZiqD"
@@ -1275,6 +1419,24 @@
       "duration_ms": 528866,
       "name": "Que Trajo",
       "url": "https://open.spotify.com/track/7hy0i8SMrtmAL9Vvyudl98"
+    },
+    {
+      "album": {
+        "name": "Softness, Pt. 1",
+        "url": "https://open.spotify.com/album/3q64uO82lMEzX09QfFTlzl"
+      },
+      "artists": [
+        {
+          "name": "Batbait",
+          "url": "https://open.spotify.com/artist/1PGFrlFMjm2RIi2ndQ0lHG"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Quiet Smile",
+      "url": "https://open.spotify.com/track/3ePAcsEO3jJxyHpiJSo9OA"
     },
     {
       "album": {
@@ -1386,6 +1548,24 @@
     },
     {
       "album": {
+        "name": "Silent Talk",
+        "url": "https://open.spotify.com/album/56SDoKAALX5X1o5heS3RX3"
+      },
+      "artists": [
+        {
+          "name": "Catastrophe Waitress",
+          "url": "https://open.spotify.com/artist/6rZskrH9xTAkv5BwgKU4uJ"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "Silent Talk",
+      "url": "https://open.spotify.com/track/5I77RxtGq8bEvizYJkZM0N"
+    },
+    {
+      "album": {
         "name": "somewhere we don't know",
         "url": "https://open.spotify.com/album/2qJLlsZp3szdQBbGN0O0Tc"
       },
@@ -1397,7 +1577,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 272858,
       "name": "somewhere we don't know",
       "url": "https://open.spotify.com/track/6E2fEoIq2lnX0d1clIOxq2"
@@ -1467,6 +1647,42 @@
       "duration_ms": 161098,
       "name": "Tell Me One Lie",
       "url": "https://open.spotify.com/track/5UVJybNgRKoIkegkEipqfQ"
+    },
+    {
+      "album": {
+        "name": "tennis",
+        "url": "https://open.spotify.com/album/1VJy5s99Xr8KwMHHr6pblJ"
+      },
+      "artists": [
+        {
+          "name": "EASY EASY",
+          "url": "https://open.spotify.com/artist/7EflARVegRjDm9gcQOSQjT"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142857,
+      "name": "tennis",
+      "url": "https://open.spotify.com/track/5OiPPYhFjCBlqWU3xEELVW"
+    },
+    {
+      "album": {
+        "name": "The Golden Age",
+        "url": "https://open.spotify.com/album/47hJI4xiQf5emwvfnW2n5M"
+      },
+      "artists": [
+        {
+          "name": "Joy Wellboy",
+          "url": "https://open.spotify.com/artist/61G7yQtFBGRRbJlohUvlPG"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269948,
+      "name": "The Golden Age",
+      "url": "https://open.spotify.com/track/1xgPK4mEiu0ej3K9OFWwJ8"
     },
     {
       "album": {
@@ -1589,7 +1805,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 156807,
       "name": "When I Was Born",
       "url": "https://open.spotify.com/track/0FRodw2mg6dJJ44fzhjJrn"

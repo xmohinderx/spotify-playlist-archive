@@ -1186,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "Forest Ambience",
+        "url": "https://open.spotify.com/album/3YGbhSRV9TwZQieBr5ChcC"
+      },
+      "artists": [
+        {
+          "name": "In Beautiful Nature",
+          "url": "https://open.spotify.com/artist/0e5VJVfj2bG88EWUdgv7Qk"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148947,
+      "name": "Morning Countryside with Birds",
+      "url": "https://open.spotify.com/track/4q0yUiKbX6wQpX403QfnDr"
+    },
+    {
+      "album": {
         "name": "Woodlands",
         "url": "https://open.spotify.com/album/47leOhbWO2zJzXJsV6b4Vq"
       },

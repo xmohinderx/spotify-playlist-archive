@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342 likes - 215 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 343 likes - 215 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 121 | [Beer Bad](https://open.spotify.com/track/2Ocx3XrE5G0okanv7VVEqO) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:28 |
 | 122 | [Earshot](https://open.spotify.com/track/7zNVhTRvhKLUzhkNLsUHOk) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 1:56 |
 | 123 | [Graduation Day, Pt\. 1](https://open.spotify.com/track/2HEojsJrldg6bYCFe92N6O) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 2:48 |
-| 124 | [King Size Bed](https://open.spotify.com/track/078pXymemqeV5DH00w6cBa) | [KIT](https://open.spotify.com/artist/41CNj1cWdeOjG7M5m8bTut) | [King Size Bed](https://open.spotify.com/album/0Dwo0yFwvBovZSJvQGGkbt) | 2:58 |
-| 125 | [The Prom](https://open.spotify.com/track/7fDI3J0JdSiE2STKsqDXXr) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 0:54 |
+| 124 | [The Prom](https://open.spotify.com/track/7fDI3J0JdSiE2STKsqDXXr) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Three](https://open.spotify.com/album/2CxpXm2MBLegKCUjpp0aPK) | 0:54 |
+| 125 | [King Size Bed](https://open.spotify.com/track/078pXymemqeV5DH00w6cBa) | [KIT](https://open.spotify.com/artist/41CNj1cWdeOjG7M5m8bTut) | [King Size Bed](https://open.spotify.com/album/0Dwo0yFwvBovZSJvQGGkbt) | 2:58 |
 | 126 | [Something Blue](https://open.spotify.com/track/59Sj8fjzniSWwvsosM1A7R) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:36 |
 | 127 | [This Year's Girl](https://open.spotify.com/track/7tTq3WMmOVVyjULjCbOoxA) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:31 |
 | 128 | [The Yoko Factor](https://open.spotify.com/track/6UNxSB3EF2qaymwB5nRjMh) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Songs from Season Four](https://open.spotify.com/album/68gV4nwLhzuKmxQuCFJTDA) | 3:10 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 214 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 215 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `MjczNzU4NDEsMDAwMDAwMDA2OTc4OTJlZGU1ODVkODk3MmI2OTI0MTlkMTM2NGNiOQ==`
+Snapshot ID: `MjczNzczMDIsMDAwMDAwMDBlZTU4ZTBhN2QwODY3ZDdhYTE1MDUxNWQ4YzAxZTUwZA==`

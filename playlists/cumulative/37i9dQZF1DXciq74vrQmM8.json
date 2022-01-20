@@ -736,6 +736,24 @@
     },
     {
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "album": {
         "name": "then i'll be happy",
         "url": "https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s"
       },
@@ -1061,6 +1079,14 @@
         {
           "name": "100 gecs",
           "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/3h5CubMAGNOoUHApboZYKc"
         }
       ],
       "date_added": "2021-12-27",

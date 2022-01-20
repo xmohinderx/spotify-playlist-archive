@@ -350,6 +350,32 @@
     },
     {
       "album": {
+        "name": "Quasi morendo",
+        "url": "https://open.spotify.com/album/5sIpmXofCvTrlT630ZaxjU"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Reto Bieri",
+          "url": "https://open.spotify.com/artist/7j4759FEeQRDFdget6XvVf"
+        },
+        {
+          "name": "Meta4",
+          "url": "https://open.spotify.com/artist/13yzeXd0EvtviKntQcFBq1"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 652800,
+      "name": "Clarinet Quintet in B Minor, Op. 115: 2. Adagio",
+      "url": "https://open.spotify.com/track/0hNImgNogXkHn4121ukfK9"
+    },
+    {
+      "album": {
         "name": "J.S. Bach: Concertos italiens",
         "url": "https://open.spotify.com/album/5evVqOt9b6mgDO6Cqfik0F"
       },
@@ -1238,6 +1264,28 @@
     },
     {
       "album": {
+        "name": "Scriabin: 24 Preludes - Sonatas 4 and 10",
+        "url": "https://open.spotify.com/album/2frAyNz56dJ9dgkEme3xba"
+      },
+      "artists": [
+        {
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107000,
+      "name": "Scriabin: 24 Preludes, Op. 11: No. 21 in B Flat Major",
+      "url": "https://open.spotify.com/track/7lFRAFQ2f2AmWOefaiV4wb"
+    },
+    {
+      "album": {
         "name": "Volodos Plays Brahms",
         "url": "https://open.spotify.com/album/1zWSdYsAlF38LhpcMEthzO"
       },
@@ -1481,6 +1529,24 @@
       "duration_ms": 120456,
       "name": "Walk With Us - For Black Lives Matter",
       "url": "https://open.spotify.com/track/6XmozAAnvBf2VtLL53AkX0"
+    },
+    {
+      "album": {
+        "name": "Luciano Berio - The Complete Works For Solo Piano",
+        "url": "https://open.spotify.com/album/2bYrUpinp9EtQYTsA5h2Wb"
+      },
+      "artists": [
+        {
+          "name": "David Arden",
+          "url": "https://open.spotify.com/artist/70xr7TopAcWrip0NJWDmOc"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122840,
+      "name": "Wasserklavier",
+      "url": "https://open.spotify.com/track/3LRYwBJECFeQGi16cPxEZY"
     },
     {
       "album": {

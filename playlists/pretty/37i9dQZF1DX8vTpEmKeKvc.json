@@ -1,12 +1,12 @@
 {
   "description": "Dale duro con los \u00e9xitos perreadores virales del momento.",
-  "num_followers": 147678,
+  "num_followers": 147913,
   "original_name": "Perreo Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzMDY5MCwwMDAwMDA3ZDAwMDAwMTdlNTY5ZGQwNzAwMDAwMDE3NTA0Y2FiYmQx",
+  "snapshot_id": "MTY0MjU2MTI0OSwwMDAwMDA3ZjAwMDAwMTdlNzA0NzlmMzEwMDAwMDE3NTA0Y2FiYmQx",
   "tracks": [
     {
       "added_at": "2022-01-04 17:25:35",
@@ -453,20 +453,20 @@
       "url": "https://open.spotify.com/track/1G7vCwBCxeTe8fB0EGMDdq"
     },
     {
-      "added_at": "2022-01-11 03:35:21",
+      "added_at": "2022-01-19 03:00:49",
       "album": {
-        "name": "Este Tema Maste",
-        "url": "https://open.spotify.com/album/6364lyBqR7QRoiLhUfjGUH"
+        "name": "Goldi Buena",
+        "url": "https://open.spotify.com/album/7mCziNGhAO2XFa0HwgZNSq"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "B.OG",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
         }
       ],
-      "duration_ms": 204827,
-      "name": "Este Tema Maste",
-      "url": "https://open.spotify.com/track/2GK3qCHRnRLs3wxdvKQ3Zr"
+      "duration_ms": 194680,
+      "name": "Goldi Buena",
+      "url": "https://open.spotify.com/track/0yKV1lGKbIOmWUDOoEu7PE"
     },
     {
       "added_at": "2022-01-04 17:25:35",
@@ -571,6 +571,34 @@
       "duration_ms": 178407,
       "name": "Singapur",
       "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"
+    },
+    {
+      "added_at": "2022-01-19 02:49:24",
+      "album": {
+        "name": "Lluvia De Micheladas",
+        "url": "https://open.spotify.com/album/03OMTESg6ZdhYChtszcfxw"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Riko Mix",
+          "url": "https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP"
+        }
+      ],
+      "duration_ms": 222275,
+      "name": "Lluvia De Micheladas",
+      "url": "https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1"
     },
     {
       "added_at": "2022-01-04 17:25:35",
@@ -719,22 +747,6 @@
       "duration_ms": 156110,
       "name": "Dracukeo",
       "url": "https://open.spotify.com/track/0oa9Tz96GruIbaL6borlXM"
-    },
-    {
-      "added_at": "2022-01-14 03:24:50",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2022-01-04 17:25:35",
@@ -989,6 +1001,22 @@
       "url": "https://open.spotify.com/track/0cGy3K7zTivPgk3iUC91nz"
     },
     {
+      "added_at": "2022-01-11 03:35:21",
+      "album": {
+        "name": "Este Tema Maste",
+        "url": "https://open.spotify.com/album/6364lyBqR7QRoiLhUfjGUH"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "Este Tema Maste",
+      "url": "https://open.spotify.com/track/2GK3qCHRnRLs3wxdvKQ3Zr"
+    },
+    {
       "added_at": "2022-01-04 17:25:35",
       "album": {
         "name": "Qu\u00e9 M\u00e1s Pues?",
@@ -1007,22 +1035,6 @@
       "duration_ms": 217773,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
-    },
-    {
-      "added_at": "2022-01-04 17:25:35",
-      "album": {
-        "name": "Nuevas Metas",
-        "url": "https://open.spotify.com/album/3jjhGPZjbKkW8b85zd7vfE"
-      },
-      "artists": [
-        {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
-        }
-      ],
-      "duration_ms": 208169,
-      "name": "Morir\u00e9",
-      "url": "https://open.spotify.com/track/0BesqvlvkbU9FZMiQHrIzA"
     },
     {
       "added_at": "2022-01-04 17:25:35",
@@ -1079,6 +1091,22 @@
       "duration_ms": 142523,
       "name": "Mamase Mamasa Mamasuelta - Remix",
       "url": "https://open.spotify.com/track/1AkRrt5fZ1w2Ljo0nhV14r"
+    },
+    {
+      "added_at": "2022-01-14 03:24:50",
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "added_at": "2022-01-04 17:25:35",
@@ -1491,22 +1519,6 @@
       "duration_ms": 162901,
       "name": "Ajena (with Myke Towers, Dylan Fuentes)",
       "url": "https://open.spotify.com/track/4KXtFUFmPObTROXShFLHZX"
-    },
-    {
-      "added_at": "2022-01-04 17:25:35",
-      "album": {
-        "name": "Toy Buenisimo",
-        "url": "https://open.spotify.com/album/61YowmovxqJ1RFzxcIupmh"
-      },
-      "artists": [
-        {
-          "name": "Jensi Jenno",
-          "url": "https://open.spotify.com/artist/3xYsfnJWFJG6Fmf3vWgK23"
-        }
-      ],
-      "duration_ms": 135288,
-      "name": "Toy Buenisimo",
-      "url": "https://open.spotify.com/track/341B11g1euMFUUI9eP0A7X"
     },
     {
       "added_at": "2022-01-04 17:25:35",

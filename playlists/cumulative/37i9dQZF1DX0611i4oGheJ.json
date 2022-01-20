@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 233320,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/6zmGtaJ5If4EXZOijSHnx0"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 229653,
       "name": "Dust to Dust",
       "url": "https://open.spotify.com/track/5P6ZBMWS66FVo6deJaDdHy"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 239480,
       "name": "Easier",
       "url": "https://open.spotify.com/track/51ly3W8LifaVReT1NAgaH2"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 229800,
       "name": "Easy Rider",
       "url": "https://open.spotify.com/track/12AZ6nSJdq3bYgVeza8nSE"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 408826,
       "name": "Evidence of Living",
       "url": "https://open.spotify.com/track/3vTw0hP6ksUfC6dQ9JnaG7"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 198226,
       "name": "I Am the Moon",
       "url": "https://open.spotify.com/track/3orSucDgEQvX0i2elZ7Lhd"
@@ -1785,7 +1785,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 194320,
       "name": "Mind on Fire",
       "url": "https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C"
@@ -1893,7 +1893,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
@@ -1995,7 +1995,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 166706,
       "name": "No Fooling Me",
       "url": "https://open.spotify.com/track/0GEdMvgn1eLGBQeoDeSyPs"
@@ -2291,7 +2291,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 255600,
       "name": "Pool Party",
       "url": "https://open.spotify.com/track/5xpm8e4mSOSUjmDzqJ182p"
@@ -2331,6 +2331,24 @@
       "duration_ms": 166138,
       "name": "Raining in June",
       "url": "https://open.spotify.com/track/7oHcx5tDMNr2YyyilaxsyG"
+    },
+    {
+      "album": {
+        "name": "Rare to Wake",
+        "url": "https://open.spotify.com/album/3WG1IzGLsFRejWfefknJtu"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278316,
+      "name": "Rare to Wake",
+      "url": "https://open.spotify.com/track/77xwqK3T1aPiuyhUUYubVs"
     },
     {
       "album": {
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 222859,
       "name": "Sausalito",
       "url": "https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf"
@@ -2633,7 +2651,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 212720,
       "name": "Strange Country",
       "url": "https://open.spotify.com/track/5FKe8dFIw1CAbFocbGpG7Y"
@@ -2705,7 +2723,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 239600,
       "name": "Table for One",
       "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
@@ -3047,7 +3065,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 228000,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/5olVelMkgNjLzUVxNREP2i"
@@ -3181,7 +3199,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 225666,
       "name": "Took You Up - Acoustic",
       "url": "https://open.spotify.com/track/7iDz4xuwt0E7lIxwhBsZAI"
@@ -3401,7 +3419,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 287417,
       "name": "Wayfaring Stranger (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/6fVWRVu15YqA9yhd5hy9Bj"
@@ -3419,7 +3437,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 250986,
       "name": "We Lay Roses",
       "url": "https://open.spotify.com/track/6slcFzKcqM7xBBLLAqyMrS"
@@ -3455,7 +3473,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 235579,
       "name": "What I Am - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1b5Cgfs0La5peeZ7Sw7y6y"
@@ -3617,7 +3635,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 225866,
       "name": "Won't Be Long",
       "url": "https://open.spotify.com/track/2VGMMVCzLU6ff980myVsdr"
@@ -3639,6 +3657,24 @@
       "duration_ms": 198186,
       "name": "Wreck You",
       "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
+    },
+    {
+      "album": {
+        "name": "Dori Freeman",
+        "url": "https://open.spotify.com/album/1fNeNleD7ljfyW9IDnymut"
+      },
+      "artists": [
+        {
+          "name": "Dori Freeman",
+          "url": "https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174018,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/2Rd6MWkSlWiZdmdBYAOQgP"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0611i4oGheJ"

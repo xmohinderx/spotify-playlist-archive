@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 202266,
       "name": "After We Ride",
       "url": "https://open.spotify.com/track/5AqI13o6VzztZEPhFR4mhv"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 198165,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3YwRisfTPmDXtZ1Lnz6Fpr"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 212613,
       "name": "ATHLETIC GIRL",
       "url": "https://open.spotify.com/track/0qu54GVbhmBFjpsgiG32PL"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 221369,
       "name": "BETTER (with MINO)",
       "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 187428,
       "name": "COME OVER (feat. Jmarlone)",
       "url": "https://open.spotify.com/track/48BpFIEtIBZfBzKfZNKKvl"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 220320,
       "name": "Count 1, 2",
       "url": "https://open.spotify.com/track/7xcAVSOiUW7DMKVN5PB6nr"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 209355,
       "name": "DDU-DU DDU-DU",
       "url": "https://open.spotify.com/track/7b8YOVV5quZcSKEijDgyWB"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 188240,
       "name": "DO or NOT",
       "url": "https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 212280,
       "name": "FIRST",
       "url": "https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 161718,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/7jpNB6fhbZBtWrisjpo1qt"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 225720,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/2hJS7BdEaH9Jo8MeJujsHT"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 210986,
       "name": "I NEED U",
       "url": "https://open.spotify.com/track/2ySKRXKN58cbIlY1cxd80y"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 193263,
       "name": "I Wanna Be",
       "url": "https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i"
@@ -1339,7 +1339,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 202253,
       "name": "It Wasn't Me (feat. CHOI YOOJUNG (Weki Meki))",
       "url": "https://open.spotify.com/track/1dbpOaHN2Jkrl98BqqKMBs"
@@ -1473,6 +1473,24 @@
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "album": {
+        "name": "OUTRO",
+        "url": "https://open.spotify.com/album/6GcK8UwZU9cNBlG5pIWwjS"
+      },
+      "artists": [
+        {
+          "name": "Highlight",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198985,
+      "name": "Leave Me Alone",
+      "url": "https://open.spotify.com/track/5Bxnbwc8ZdiaCCfebehdpn"
     },
     {
       "album": {
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 193978,
       "name": "MOON WALKER",
       "url": "https://open.spotify.com/track/3DkILE5HlGOviYKUuX4Snl"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 195004,
       "name": "Oh My!",
       "url": "https://open.spotify.com/track/4JViGq60SvqtQXI3WK0OLS"
@@ -2039,7 +2057,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 190328,
       "name": "One of Those Nights",
       "url": "https://open.spotify.com/track/2OsH4MtKPVeI8w9sFBLEvZ"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 204800,
       "name": "Popping",
       "url": "https://open.spotify.com/track/4QZKSPPgyfNLR9UkMx0158"
@@ -2393,7 +2411,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 191139,
       "name": "Red Flavor",
       "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
@@ -2765,7 +2783,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 210346,
       "name": "Strawberry Gum",
       "url": "https://open.spotify.com/track/2QUwkd0f6XcqwOuYpNUuBD"
@@ -2845,7 +2863,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 155333,
       "name": "Swan",
       "url": "https://open.spotify.com/track/2BhHpVlqUoUOmo0Ph0G18X"
@@ -3020,6 +3038,24 @@
     },
     {
       "album": {
+        "name": "FACE - The 1st Album",
+        "url": "https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG"
+      },
+      "artists": [
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "This Life",
+      "url": "https://open.spotify.com/track/4m5I2NZgDAQYF5qnH5iU6c"
+    },
+    {
+      "album": {
         "name": "THE BOYZ 6TH MINI ALBUM [THRILL-ING]",
         "url": "https://open.spotify.com/album/0lh0pZ8GjZGrAhzIG4Jn0E"
       },
@@ -3031,7 +3067,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 196333,
       "name": "THRILL RIDE",
       "url": "https://open.spotify.com/track/3wEYYVD6uC3A3LhVhqARZv"
@@ -3247,7 +3283,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 203933,
       "name": "Wave",
       "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
@@ -3265,7 +3301,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 199946,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f"

@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 178952,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/0gdWSthwNMJ4TPVya8b0bh"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2019-07-30",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 169756,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/7GdGBGwFMg21mY9kNpNKXI"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 190960,
       "name": "As a Child",
       "url": "https://open.spotify.com/track/2EX5zYrsrFWFPukAxfQ8Iv"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 194634,
       "name": "Avery",
       "url": "https://open.spotify.com/track/3d93pRHHPjkrDE5Jn4G7Yl"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 237398,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Gm7k2jwz8bKr4xjmr9IG3"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 173600,
       "name": "Bugbear",
       "url": "https://open.spotify.com/track/7Ichlrj4l5uV549sD6I4tN"
@@ -1779,7 +1779,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 209266,
       "name": "Change Shapes (feat. Jesse)",
       "url": "https://open.spotify.com/track/0pFx0KHtJVFzfjrQQB1FoR"
@@ -1985,7 +1985,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 222893,
       "name": "Coffee's on Me",
       "url": "https://open.spotify.com/track/5UeYwxG6CXk8uMC7aGcRsn"
@@ -2497,7 +2497,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 219173,
       "name": "daytime",
       "url": "https://open.spotify.com/track/4FpqxunRt0nwV5mBesjZ2H"
@@ -3419,7 +3419,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 188143,
       "name": "FEEL LIKE",
       "url": "https://open.spotify.com/track/0jJGplHmOPpams1xAV2vhg"
@@ -3769,7 +3769,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 174622,
       "name": "Forevermore",
       "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
@@ -4401,7 +4401,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 139480,
       "name": "Halloween",
       "url": "https://open.spotify.com/track/6EPOKdXGMGI0Clx2P7afnC"
@@ -4611,7 +4611,7 @@
       ],
       "date_added": "2019-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 135016,
       "name": "Hello?",
       "url": "https://open.spotify.com/track/7qwt4xUIqQWCu1DJf96g2k"
@@ -4795,7 +4795,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 180181,
       "name": "honey",
       "url": "https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt"
@@ -4995,9 +4995,9 @@
           "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
         }
       ],
-      "date_added": "2021-06-09",
+      "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-19",
+      "date_removed": null,
       "duration_ms": 162819,
       "name": "i can't sleep",
       "url": "https://open.spotify.com/track/3y3wEiN8vcWl2DxaxL7gNC"
@@ -5087,7 +5087,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 162866,
       "name": "I Eat Boys",
       "url": "https://open.spotify.com/track/2DdBoqYiuaGWIHwSkiY3VR"
@@ -5585,7 +5585,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 239343,
       "name": "Into",
       "url": "https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ"
@@ -6173,7 +6173,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 190153,
       "name": "Loretta",
       "url": "https://open.spotify.com/track/3eZqBNHlNA4lUsbAB6UmvD"
@@ -6455,7 +6455,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 143893,
       "name": "LUV",
       "url": "https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz"
@@ -6705,7 +6705,7 @@
       ],
       "date_added": "2021-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 240782,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/7lLtAjBc4Fkaw0FkBQWlSX"
@@ -7477,7 +7477,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 160840,
       "name": "ok",
       "url": "https://open.spotify.com/track/5ILHXmaeyzwt87dLAdPFo4"
@@ -7661,7 +7661,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 225848,
       "name": "Our Past Lives",
       "url": "https://open.spotify.com/track/25WP1r39qdLD9RQjlxgwDr"
@@ -8985,7 +8985,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 193287,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/28TYBszFL1DOaQ4nJymNAz"
@@ -9003,7 +9003,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 207352,
       "name": "Smoke Break",
       "url": "https://open.spotify.com/track/1V0KZwcXiqtkbVnALn4MWw"
@@ -9245,7 +9245,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 153000,
       "name": "Sometimes (Backwood)",
       "url": "https://open.spotify.com/track/5ysFFsqJFcsX8Rez67j2tv"
@@ -9581,7 +9581,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 168384,
       "name": "SUMMER GIRL",
       "url": "https://open.spotify.com/track/7Ivlg6WEcmRLCqO32ZhfGd"
@@ -10363,7 +10363,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 313663,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY"

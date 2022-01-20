@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Cordae, Youngboy Never Broke Again, NLE Choppa, and more\. Cover: Ye & The Game
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,990 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,378 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 20 | [Crunk Muzik](https://open.spotify.com/track/0am3GdTDO0aboRv8CHZfMi) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Ditta](https://open.spotify.com/artist/6lw0FZVLsqX9J67YD4yuQ8) | [Gangsta Grillz: We Set the Trends](https://open.spotify.com/album/1iIiRb8lGx4sWT6cBkwRes) | 3:42 |
 | 21 | [mop \(feat\. Young Thug\)](https://open.spotify.com/track/2ZGEjmwyeZ3rpEezkZwqOP) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 3:05 |
 | 22 | [Back 2 Basics](https://open.spotify.com/track/2a8W8GMf5AuMaAYpSB8f65) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [ALIVE \(Deluxe\)](https://open.spotify.com/album/1ThGGXmoSFxHIQLhE4vy7M) | 3:51 |
-| 23 | [Area 51 \(Remix\)](https://open.spotify.com/track/6hxpwRJr4mfxVeH02F99LF) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Area 51 \(Remix\)](https://open.spotify.com/album/0Lkn98cNVQJumP1a0VsaX1) | 2:32 |
+| 23 | [Area 51 \(Remix\) \[feat\. Big Yavo\]](https://open.spotify.com/track/6hxpwRJr4mfxVeH02F99LF) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Area 51 \(Remix\) \[feat\. Big Yavo\]](https://open.spotify.com/album/0Lkn98cNVQJumP1a0VsaX1) | 2:32 |
 | 24 | [The Best](https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [The Best](https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj) | 2:32 |
 | 25 | [Payback \(feat\. Knucks\)](https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Payback \(feat\. Knucks\)](https://open.spotify.com/album/7FQ4z8g9MPaIKsTdMXo0zA) | 2:44 |
 | 26 | [Lame](https://open.spotify.com/track/5d7a42T3MG01WPMvnyb4bq) | [StarBoi3](https://open.spotify.com/artist/2WgfkM8S11vg4kxLgDY3F5) | [Lame](https://open.spotify.com/album/5Iwk74Oa4emMMR7bG9OZF1) | 1:44 |
 | 27 | [Dead Wrong](https://open.spotify.com/track/24V53X2W3A9LKpC0UxpFEp) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Dead Wrong](https://open.spotify.com/album/2rMKt5fIxHNbD333uL9Yos) | 1:48 |
-| 28 | [Counterfeit](https://open.spotify.com/track/1kStCQyHDhSAvrZrk1U3MM) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Counterfeit](https://open.spotify.com/album/6LDLXXO4ll36sQ7B1kgpEW) | 2:25 |
+| 28 | [Counterfeit \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/1kStCQyHDhSAvrZrk1U3MM) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Counterfeit \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/6LDLXXO4ll36sQ7B1kgpEW) | 2:25 |
 | 29 | [HEAVY](https://open.spotify.com/track/5cjZBEFgmz42sT8cprY2FK) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [HEAVY](https://open.spotify.com/album/1Vle7VrwSF8t6gAi3EISrW) | 2:05 |
 | 30 | [Back It Up](https://open.spotify.com/track/4ooLeGJxmJ89FwaqojgI0D) | [Popp Hunna](https://open.spotify.com/artist/3fyhhXHbGVLuSHFk2SYx4I) | [Back It Up](https://open.spotify.com/album/1lIkzEoKntwg8tmg16xLXL) | 2:38 |
 | 31 | [Personal](https://open.spotify.com/track/3reh5PVIiMCsIAy3RNJpFq) | [Derek King](https://open.spotify.com/artist/0hF1ENHHpEGZxdRdqwMr6E), [Shaun Sloan](https://open.spotify.com/artist/4bbKZi7t8CaAYqrpe37asy) | [Personal](https://open.spotify.com/album/2NQWkiIPcvCG9ykCPuTdc7) | 3:20 |

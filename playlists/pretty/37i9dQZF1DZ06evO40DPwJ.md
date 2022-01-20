@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,693 likes - 46 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,698 likes - 46 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 22 | [Time For You](https://open.spotify.com/track/5INdME9pj1dzHgHaQDIuwY) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Wonder Stereo](https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn) | [Time For You](https://open.spotify.com/album/72J1dmhoEB2IFkRLMP5ZAR) | 3:19 |
 | 23 | [Dynamite \- Stonebridge Remix Radio Edit](https://open.spotify.com/track/3woqA7BkmDe9ROuGkqo7WT) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [StoneBridge](https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A) | [Dynamite \(The Remixes\)](https://open.spotify.com/album/1QIRKG66PdTq9PKf7ooDQA) | 3:35 |
 | 24 | [Take Me Back \- 2010 Remix](https://open.spotify.com/track/0ZnimFEb14Ciz5dvQJAQ3k) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:26 |
-| 25 | [No Other One \- Remastered](https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm) | 3:37 |
-| 26 | [Shotcaller](https://open.spotify.com/track/0lDKFNICklCakXQibsADpK) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:24 |
+| 25 | [Shotcaller](https://open.spotify.com/track/0lDKFNICklCakXQibsADpK) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:24 |
+| 26 | [No Other One \- Remastered](https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm) | 3:37 |
 | 27 | [Moving On](https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:51 |
 | 28 | [Come On Girl](https://open.spotify.com/track/5Ej3OcVHAwIMVwiLo0broE) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:32 |
 | 29 | [2020](https://open.spotify.com/track/0u39yW18Oo0pURg5XrtSOv) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Wonder Stereo](https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn) | [2020](https://open.spotify.com/album/1ZlOVBJe134G0mm1N9eIf9) | 2:25 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 36 | [Take Me Back Remix \- feat\. Sway & Chipmunk](https://open.spotify.com/track/4MqsdeW1195zZVaMDSWbvj) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Take Me Back](https://open.spotify.com/album/0AGt9wI36usQYCNSTd0aQK) | 4:17 |
 | 37 | [Tattoo](https://open.spotify.com/track/6n1kUdwc699rJD3A7sBKqb) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:12 |
 | 38 | [Second Chance](https://open.spotify.com/track/0vsKn0USf81XicoIV9XZ0P) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Third Strike](https://open.spotify.com/album/2FpLsBqaonzdN5GrpQIZmJ) | 3:28 |
-| 39 | [Cryin Over You \- Cahill Radio Edit](https://open.spotify.com/track/0i3P2LfQQSY3mlPwfWoUUQ) | [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Cryin' Over You](https://open.spotify.com/album/2rLPwr80ovNo3pYh0hNY0h) | 3:26 |
-| 40 | [Dynamate](https://open.spotify.com/track/3ie62ykCa9eFGM3LBK8gDS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [DJ SNYPAYUSH](https://open.spotify.com/artist/4fR7R8Wats33udr7iae2Xr) | [Party Attitude](https://open.spotify.com/album/6tJ0Cy3DitXaUQh6TB1Y9w) | 4:05 |
+| 39 | [Dynamate](https://open.spotify.com/track/3ie62ykCa9eFGM3LBK8gDS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [DJ SNYPAYUSH](https://open.spotify.com/artist/4fR7R8Wats33udr7iae2Xr) | [Party Attitude](https://open.spotify.com/album/6tJ0Cy3DitXaUQh6TB1Y9w) | 4:05 |
+| 40 | [Cryin Over You \- Cahill Radio Edit](https://open.spotify.com/track/0i3P2LfQQSY3mlPwfWoUUQ) | [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Cryin' Over You](https://open.spotify.com/album/2rLPwr80ovNo3pYh0hNY0h) | 3:26 |
 | 41 | [Everybody's Changing](https://open.spotify.com/track/6bRHHbM9mxFakL8gcDUUmG) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Ultimate R&B 2009 \(International Version\)](https://open.spotify.com/album/4meVJvSnundOZ4jYKl2aYm) | 3:32 |
 | 42 | [Little Lion Man \- BBC Live version](https://open.spotify.com/track/4VyOgFuAwUhYLFcRWWfZ7W) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Higher \(International\)](https://open.spotify.com/album/5yUpgiR2rtjl8mLBamdDyY) | 2:48 |
 | 43 | [Dynamite \- David May Rmx Edit](https://open.spotify.com/track/6akJJXxULYRHdtiaOOOIxe) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [David May](https://open.spotify.com/artist/5d0rLXoTGxF0XzX88MTKeK) | [The Annual Compilation 2012 \(Deluxe Edition\)](https://open.spotify.com/album/2SV2xl020G040bP0DVM4y3) | 4:40 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 45 | [Imagine \- Big Brothers Big Sisters Charity Single](https://open.spotify.com/track/1YPrvXgBooolvvFZG8Mk7p) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Imagine](https://open.spotify.com/album/0eGpcYy98DaVtXiJh44tdj) | 3:00 |
 | 46 | [Knock Me Off My Feet](https://open.spotify.com/track/4tQ6lDCuP8wSL4Kmp60e3q) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:18 |
 
-Snapshot ID: `MjczNzUyMDMsMDAwMDAwMDBkMTM0ODUzNWE1NDcxODFkNzVmMGQyYzdmZTM4YTgwYQ==`
+Snapshot ID: `MjczNzY2NDksMDAwMDAwMDAwYTViZDllOTA5NTk0MTVjNGI1NjYwNmU5OGRhYTRmNw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzR2GKEiHgT.md) - [plain]
 
 > Slip into slumber with soothing water sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,001 likes - 195 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,003 likes - 195 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzR2GKEiHgT.md) - [plain]
 | 33 | [Wavy Days](https://open.spotify.com/track/0pKPUn3hxt2MHxSR2T2YWj) | [Daichi](https://open.spotify.com/artist/7zzSVeglgyoJFOhuqJCWCg) | [Water Land](https://open.spotify.com/album/1XfCX6NBURid7fA4FT8M6f) | 2:38 |
 | 34 | [Waves from the South](https://open.spotify.com/track/3zQ2nhWajBddajUQXYSXDz) | [Nature 101](https://open.spotify.com/artist/6eu6iTsysW1wIPR23xq8BB) | [Deep Ocean](https://open.spotify.com/album/22Ceilw9Kxk2xMVbqpqkWt) | 2:45 |
 | 35 | [Sailing](https://open.spotify.com/track/1v6QpNfnrbVmJqPGZ1TsaV) | [Deep Sleep FX](https://open.spotify.com/artist/52ZkV6bSNDshzq9BGTudae) | [Deep Sleep FX](https://open.spotify.com/album/1y3kDuu8NrB0O3wM9ge5uj) | 3:05 |
-| 36 | [Water Therapy](https://open.spotify.com/track/3U8pnujJEF6qfAsx40MTwS) | [Memminger](https://open.spotify.com/artist/18C09r0LhahZlz3yOqzkME) | [Water Relaxation](https://open.spotify.com/album/0uBBG6n88gPf97I8BwJu5n) | 2:39 |
+| 36 | [Water Relaxation](https://open.spotify.com/track/3U8pnujJEF6qfAsx40MTwS) | [Memminger](https://open.spotify.com/artist/18C09r0LhahZlz3yOqzkME) | [Water Relaxation](https://open.spotify.com/album/0uBBG6n88gPf97I8BwJu5n) | 2:39 |
 | 37 | [Dans L'eau](https://open.spotify.com/track/3qFcOIM8GAz1XDuMvNKXyj) | [Verser L'océan](https://open.spotify.com/artist/4nutD76Lc9y2SnhnvCKwpv) | [Qu'il y Ait Des Vagues](https://open.spotify.com/album/0OttF9JysaBodtfNJ5fG9i) | 2:25 |
 | 38 | [Talking Ocean](https://open.spotify.com/track/6zYUEZSdMQwKXXdQyXaPz4) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:30 |
 | 39 | [Morning Waves](https://open.spotify.com/track/5INDVNIG8V2KNJxqVqhEPy) | [Noise Recordings](https://open.spotify.com/artist/7EpGwOsih4h9r58T2FnGWQ) | [Morning Waves](https://open.spotify.com/album/1dnyX6de5FxDDkQOdvK0Hj) | 1:49 |

@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
@@ -960,6 +960,42 @@
     },
     {
       "album": {
+        "name": "Trente",
+        "url": "https://open.spotify.com/album/4ls5o11NKnimimVUk7CJDC"
+      },
+      "artists": [
+        {
+          "name": "Karim Ouellet",
+          "url": "https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191893,
+      "name": "Karim et le loup",
+      "url": "https://open.spotify.com/track/456b8Q3b6Q4fOsONT7TvZ9"
+    },
+    {
+      "album": {
+        "name": "Fox",
+        "url": "https://open.spotify.com/album/3tUeSK5t7rNO72g02B1oK4"
+      },
+      "artists": [
+        {
+          "name": "Karim Ouellet",
+          "url": "https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206320,
+      "name": "L'amour",
+      "url": "https://open.spotify.com/track/1LUPxouIVwKIbs31i9WA5s"
+    },
+    {
+      "album": {
         "name": "La Espada",
         "url": "https://open.spotify.com/album/4p60CDGIu3z1Bim1nrtu5R"
       },
@@ -1011,6 +1047,24 @@
       "duration_ms": 215303,
       "name": "Man in the Mirror",
       "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
+    },
+    {
+      "album": {
+        "name": "Fox",
+        "url": "https://open.spotify.com/album/3tUeSK5t7rNO72g02B1oK4"
+      },
+      "artists": [
+        {
+          "name": "Karim Ouellet",
+          "url": "https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228253,
+      "name": "Marie-Jo",
+      "url": "https://open.spotify.com/track/6EfqNS9MvKTLKxnYRGWsLw"
     },
     {
       "album": {
@@ -1314,6 +1368,24 @@
     },
     {
       "album": {
+        "name": "Rien ne sert de courir",
+        "url": "https://open.spotify.com/album/3JeC0ECxHeJprWxUCUPHS0"
+      },
+      "artists": [
+        {
+          "name": "Karim Ouellet",
+          "url": "https://open.spotify.com/artist/2hhrhr69afMzZohdvlofit"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204573,
+      "name": "Rien ne sert de courir",
+      "url": "https://open.spotify.com/track/6Bio5mtatpNWTnQCPUiJy7"
+    },
+    {
+      "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
       },
@@ -1593,7 +1665,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 293727,
       "name": "Tahanan",
       "url": "https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc"
@@ -1713,7 +1785,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 161840,
       "name": "Waiting On A Miracle",
       "url": "https://open.spotify.com/track/3oRW9ZGPRbLRMneQ5lwflt"
@@ -1791,7 +1863,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 486840,
       "name": "Weightless Part 1",
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"

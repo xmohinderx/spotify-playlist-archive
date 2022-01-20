@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain](/playlists/plain/37i9dQZF1DWT0upuUFtT7o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT0upuUFtT7o)
 
-### [Fresh Finds: Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
+### [Fresh Finds Indie](https://open.spotify.com/playlist/37i9dQZF1DWT0upuUFtT7o)
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Delaney Bailey Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,310 likes - 57 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,935 likes - 57 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 56 | [Go For The Moon](https://open.spotify.com/track/5dUOc1tZIYiBfknXkinhIH) | [Kid Pesto](https://open.spotify.com/artist/1cf1f5LmgY4C8bqMhjryaD) | [Go For The Moon](https://open.spotify.com/album/3RgnoFaXyIj8nLzCWJ31w8) | 2:38 |
 | 57 | [No Lies Girl](https://open.spotify.com/track/6AyAJVL294O6wEZlVm0Ndy) | [The Vice Owl](https://open.spotify.com/artist/0C8bofVstcSCYG6D0c6cdB) | [No Lies Girl](https://open.spotify.com/album/4TIlrQSpN1sSesKJk5F1k4) | 3:57 |
 
-Snapshot ID: `MTY0MjU1MjMwNCwwMDAwMDBjMzAwMDAwMTdlNmZiZjIyZjgwMDAwMDE3ZTRlZjMyODg3`
+Snapshot ID: `MTY0MjYxNjc3OSwwMDAwMDBjNDAwMDAwMTdlNzM5NmYxZjMwMDAwMDE3ZTRlZjMyODg3`

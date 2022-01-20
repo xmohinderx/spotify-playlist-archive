@@ -1096,6 +1096,24 @@
     },
     {
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/6gFHzsqCH6ZJvGxHHnFeRL"
+      },
+      "artists": [
+        {
+          "name": "Miles Henley",
+          "url": "https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303750,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf"
+    },
+    {
+      "album": {
         "name": "Stella By Starlight",
         "url": "https://open.spotify.com/album/1ndveuGRfyhEbcfxiA97G7"
       },

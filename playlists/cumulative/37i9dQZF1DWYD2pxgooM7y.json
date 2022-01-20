@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 164441,
       "name": "Butter",
       "url": "https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq"
@@ -375,6 +375,28 @@
       "duration_ms": 200181,
       "name": "Carnival (feat. syd hartha)",
       "url": "https://open.spotify.com/track/7B1tUB9m3fWkJpyIAxZlCw"
+    },
+    {
+      "album": {
+        "name": "cash out feat. brb.",
+        "url": "https://open.spotify.com/album/0c0tObDxFMJSfURASLNPlT"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138274,
+      "name": "cash out feat. brb.",
+      "url": "https://open.spotify.com/track/3w2vtKX5bxFILM0YCseqxd"
     },
     {
       "album": {
@@ -627,7 +649,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 146147,
       "name": "everybody's fine but me",
       "url": "https://open.spotify.com/track/0r9vj3shKehGiJqlmkZSnR"
@@ -689,7 +711,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 193821,
       "name": "For Tonight",
       "url": "https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y"
@@ -773,7 +795,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -867,7 +889,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -903,7 +925,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 170913,
       "name": "Home",
       "url": "https://open.spotify.com/track/21xCXsuI6easPmJ9e25nkl"
@@ -975,7 +997,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 108373,
       "name": "I must apologise",
       "url": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
@@ -1001,6 +1023,24 @@
       "duration_ms": 171200,
       "name": "I Quit Drinking",
       "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
+    },
+    {
+      "album": {
+        "name": "vaultboy EP",
+        "url": "https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196481,
+      "name": "i think i wanna text u",
+      "url": "https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3"
     },
     {
       "album": {
@@ -1063,7 +1103,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 195692,
       "name": "juice",
       "url": "https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x"
@@ -1103,7 +1143,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -1391,7 +1431,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 187317,
       "name": "Nothing's gonna hurt us",
       "url": "https://open.spotify.com/track/1QhcAeny9lvKxVYIv6htoq"
@@ -1463,7 +1503,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 182961,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/3gyfxe6NhOXKe6YTQ57xkw"
@@ -1521,7 +1561,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 194716,
       "name": "POOLSIDE",
       "url": "https://open.spotify.com/track/1ubSos49xfiG7wXjJdSmJR"
@@ -1633,7 +1673,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 181622,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
@@ -1677,7 +1717,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 249000,
       "name": "Same Blue Sky",
       "url": "https://open.spotify.com/track/1XqZ4xJ49New05avVfzwiY"
@@ -1785,7 +1825,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 274097,
       "name": "Spring Day",
       "url": "https://open.spotify.com/track/0WNGsQ1oAuHzNTk8jivBKW"
@@ -1891,10 +1931,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 199026,
       "name": "Summer or Summer",
       "url": "https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa"
+    },
+    {
+      "album": {
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201786,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1"
     },
     {
       "album": {
@@ -1931,7 +1989,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 232506,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/26Pf1AnjT8j25QsGNVQmuE"
@@ -1953,7 +2011,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 158117,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6oFFjz1MwyU3qtaXnyqQ8X"
@@ -1971,7 +2029,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 168275,
       "name": "SUN GOES DOWN",
       "url": "https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h"
@@ -2069,7 +2127,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 222284,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC"
@@ -2247,7 +2305,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 176372,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/3VVLOvm3AV7quKn7gN9szx"
@@ -2283,7 +2341,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 213842,
       "name": "Wave of You",
       "url": "https://open.spotify.com/track/0KfNomDfIkM7suIHb105Oi"
@@ -2305,10 +2363,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 144538,
       "name": "What Are We Doing? (with lewloh)",
       "url": "https://open.spotify.com/track/5asna33aDIbUCIYLPoLfm5"
+    },
+    {
+      "album": {
+        "name": "Goodbye Lullaby (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220706,
+      "name": "What the Hell",
+      "url": "https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo"
     },
     {
       "album": {
@@ -2363,7 +2439,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 157440,
       "name": "yoga (feat. Rebecca Black)",
       "url": "https://open.spotify.com/track/584h0fUq9maZhErREt79EA"

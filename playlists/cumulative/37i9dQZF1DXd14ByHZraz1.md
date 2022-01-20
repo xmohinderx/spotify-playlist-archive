@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd14ByHZraz1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd14ByHZraz1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd14ByHZraz1)
 
-### mint brasil
+### [mint brasil](https://open.spotify.com/playlist/560Dq1N8XlhiCMoPDbEiON)
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Devochka, REDÜKT
 

@@ -213,7 +213,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 212480,
       "name": "Aqu\u00ed Est\u00e1 Tu Caldo",
       "url": "https://open.spotify.com/track/4euqcj46E0OZBiz0NjR4mO"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 170853,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/3iRMZq3iIaIBW5bH4VgWtM"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 305280,
       "name": "Bandoleros",
       "url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 204280,
       "name": "Chica Ven Pa' Aca",
       "url": "https://open.spotify.com/track/5mmh6YyxJeS34vAe4M447R"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 275360,
       "name": "Chulin Culin Chunfly (feat. Residente Calle 13)",
       "url": "https://open.spotify.com/track/46DW3fyWuL4VZfEwnyWjXg"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 250093,
       "name": "Dejale Caer To Peso",
       "url": "https://open.spotify.com/track/1b4QQFr0kifiSkzHb5kni4"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 199693,
       "name": "DUELE EL CORAZON (feat. Wisin)",
       "url": "https://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 248406,
       "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
       "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 212533,
       "name": "Esta Noche de Travesuras (feat. H\u00e9ctor \"El Father\")",
       "url": "https://open.spotify.com/track/2QNRG78xcJZpLyXYX4JmhD"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 224693,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
@@ -1261,7 +1261,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 195680,
       "name": "Llam\u00e9 Pa' Verte",
       "url": "https://open.spotify.com/track/7oYouEGAQJpU75CAWFEMi2"
@@ -1279,10 +1279,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 197213,
       "name": "Llam\u00e9 Pa' Verte (Bailando Sexy)",
       "url": "https://open.spotify.com/track/5D2iVy2CGtBwBijupavbHl"
+    },
+    {
+      "album": {
+        "name": "Cuentos de la Cripta 3",
+        "url": "https://open.spotify.com/album/6y07fZcNzVsvLgACeUuBli"
+      },
+      "artists": [
+        {
+          "name": "El Chombo",
+          "url": "https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147304,
+      "name": "Lleg\u00f3 la Cripta",
+      "url": "https://open.spotify.com/track/7Eo3fkg16MzIgv9SxxSonH"
     },
     {
       "album": {
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 269558,
       "name": "los Disicipulos",
       "url": "https://open.spotify.com/track/2vWWy37CDlDlfPipzb4iIX"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 228560,
       "name": "Mi Fanatica",
       "url": "https://open.spotify.com/track/7rbtNjuh56l71xV7Uowf50"
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 212733,
       "name": "Noche de Travesura",
       "url": "https://open.spotify.com/track/6ODIW5KyJKtXY2rOuXv9WW"
@@ -2157,7 +2175,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 158800,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
@@ -2197,7 +2215,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 188626,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
@@ -2317,7 +2335,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 184906,
       "name": "Saoco",
       "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
@@ -2353,7 +2371,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 246080,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
@@ -2389,7 +2407,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 238890,
       "name": "Si No Cuidas Tu Mujer",
       "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
@@ -2477,7 +2495,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 224706,
       "name": "Soy Igual Que T\u00fa (feat. Toby Love)",
       "url": "https://open.spotify.com/track/4Zil8ro7fhQGVYXl2YYkO2"
@@ -2513,7 +2531,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 209786,
       "name": "S\u00edgueme Y Te Sigo",
       "url": "https://open.spotify.com/track/1ClQpnPU9M6mQpXGvhGPvQ"
@@ -2549,7 +2567,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 183196,
       "name": "Te Ir\u00e9 a Buscar",
       "url": "https://open.spotify.com/track/4UPeS038Mxup1H4bl0PsS8"
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 211888,
       "name": "Voy a Beber",
       "url": "https://open.spotify.com/track/25GRgMoXezppQjLjSDLKf5"
@@ -2773,7 +2791,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 169400,
       "name": "Wiki Wiki",
       "url": "https://open.spotify.com/track/5GGecqjnP2hvrhhfFAl4VO"
@@ -2831,7 +2849,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 220853,
       "name": "Yo Te Lo Dije",
       "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"

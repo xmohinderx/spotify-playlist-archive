@@ -2,7 +2,7 @@
 
 ### [hyperpop](https://open.spotify.com/playlist/1O3emUAuENWQMR0opz2aWD)
 
-> hyperpop is a simulation\. Cover: midwxst
+> hyperpop is a simulation\. Cover: Laura Les
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [A380!](https://open.spotify.com/track/53G4AL0a9hoCgUynDmOL0H) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw) | [A380!](https://open.spotify.com/album/3vKz7sFj5va4xn0P801PxN) | 2:52 | 2021-11-16 |  |
 | [acetone](https://open.spotify.com/track/148hxuEJsmKnmztsPj0NgE) | [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [eel](https://open.spotify.com/album/1fkJ9Yao0dni5qrMiZdsDN) | 2:14 | 2021-06-05 | 2022-01-13 |
 | [acid](https://open.spotify.com/track/7yTNwNfgCZTsuDX3v0RlCi) | [mol$](https://open.spotify.com/artist/6qCI616skih6JquKXZpfr8) | [misoland](https://open.spotify.com/album/5adDQWfp2S0fqhVKCAOItY) | 4:13 | 2022-01-14 |  |
-| [AFK](https://open.spotify.com/track/0TvQN6KVwWjFs99be7qi0b) | [Ö](https://open.spotify.com/artist/4lo7GFYA2R4TlDmYF0nhdT), [Nömak](https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [AFK](https://open.spotify.com/album/6rhFzWWEh7obQrrvUJLzOn) | 4:27 | 2022-01-14 |  |
+| [AFK](https://open.spotify.com/track/0TvQN6KVwWjFs99be7qi0b) | [Ö](https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y), [Nömak](https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [AFK](https://open.spotify.com/album/6rhFzWWEh7obQrrvUJLzOn) | 4:27 | 2022-01-14 |  |
 | [again](https://open.spotify.com/track/2uLHWyq0XpGFCO4TQ3gb91) | [twikipedia](https://open.spotify.com/artist/2V8aJ7qCArKAmHAX7u81Sj) | [again](https://open.spotify.com/album/6xSNEmkvaJBYcUc49w49Hn) | 3:09 | 2021-07-24 | 2022-01-13 |
 | [agony](https://open.spotify.com/track/7dVq1qwYChl5q0VDuyL8jt) | [grandee](https://open.spotify.com/artist/3y55m0N1avYIR8xavgoztD) | [agony](https://open.spotify.com/album/3wGuOZiFXDZlwD3gMYI0rt) | 2:48 | 2021-01-08 | 2021-09-24 |
 | [Aiming](https://open.spotify.com/track/4oO81MAvWw9bW4UKkgpFhH) | [Pitfall](https://open.spotify.com/artist/0bonINZ3DoCiYoXtLWwQTG) | [Aiming](https://open.spotify.com/album/0B0xo3zyUlKVTqN1RqbooM) | 1:53 | 2021-01-23 | 2021-09-24 |
@@ -593,7 +593,7 @@
 | [maybe im overreacting](https://open.spotify.com/track/5L4UlkVVSO97UYiAlgzf35) | [slushh](https://open.spotify.com/artist/5sVGOfWrbGir0YlxROKdnP) | [MAKING FACES](https://open.spotify.com/album/33WtlKCBBr2tYcT1YJa5Mi) | 2:36 | 2021-05-08 | 2021-05-15 |
 | [Mazeltov Autopilot](https://open.spotify.com/track/6E4pTeJmOXemgvxrAYb4He) | [Yung Skrrt](https://open.spotify.com/artist/1OrSb6vu3ybhKsSY50R5HU) | [Blind Vision](https://open.spotify.com/album/5SkcBAmwWVLfLzWJPiCkjJ) | 2:08 | 2021-10-29 |  |
 | [me](https://open.spotify.com/track/40oPD16ORkPwFA0SwiTTQj) | [dltzk](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [me](https://open.spotify.com/album/1J5iYJIcdNMC0hZiZUBScG) | 3:10 | 2020-11-21 | 2020-12-11 |
-| [mememe](https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [mememe](https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36) | 2:46 | 2021-11-19 |  |
+| [mememe](https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/3h5CubMAGNOoUHApboZYKc) | [mememe](https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36) | 2:46 | 2021-11-19 |  |
 | [MEMORIES](https://open.spotify.com/track/0HXaVqLJS4Kxbim4r19Jhc) | [27CLUB](https://open.spotify.com/artist/75FDYkuEWuVAYlrghPNi4z) | [MEMORIES](https://open.spotify.com/album/38UoLAoSYYJAb3OjDROtdd) | 2:00 | 2021-03-26 | 2021-05-23 |
 | [memories](https://open.spotify.com/track/6qOBko3HYaZHqapTHlGKHZ) | [miraie](https://open.spotify.com/artist/3U2oWd07HPgl60o8RBMG4P), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [memories](https://open.spotify.com/album/1rPqNggPs1WfckkaorMOXT) | 2:30 | 2021-04-03 | 2021-09-21 |
 | [MEMORIES!!!](https://open.spotify.com/track/2LXZzGiaZ5vYxGXEQmsOy3) | [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR) | [HARDCORE HEAVEN](https://open.spotify.com/album/2SmLSzKyZ5c133Dp76Vzw3) | 2:27 | 2021-11-05 |  |

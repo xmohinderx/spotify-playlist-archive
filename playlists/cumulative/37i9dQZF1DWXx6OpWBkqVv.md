@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXx6OpWBkqVv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXx6OpWBkqVv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXx6OpWBkqVv)
 
-### Indiespensável
+### [Indiespensável](https://open.spotify.com/playlist/5BZNLwTZIGRCxnMJoptCxS)
 
 > Uma coleção de clássicos da música indie/alternativa para ouvir sem parar! Foto: Phoenix
 

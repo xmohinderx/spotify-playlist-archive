@@ -1160,6 +1160,24 @@
     },
     {
       "album": {
+        "name": "Solicitude",
+        "url": "https://open.spotify.com/album/5AL5PvIfsmtidTXS3Lk8Dy"
+      },
+      "artists": [
+        {
+          "name": "Muted Reality",
+          "url": "https://open.spotify.com/artist/61XqCx4Ltxr3vCCquzaj7D"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216005,
+      "name": "Gentle Soul",
+      "url": "https://open.spotify.com/track/6yn3OXDVIbX3nT1rBZgOjM"
+    },
+    {
+      "album": {
         "name": "Jupiter Sunrise",
         "url": "https://open.spotify.com/album/0HkECsNONkYufTgr4dnBJv"
       },
@@ -2471,6 +2489,24 @@
       "duration_ms": 213995,
       "name": "Rest Repair",
       "url": "https://open.spotify.com/track/1XBRmzrGn8tZxPYmGb2CXa"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/1GgB6wCGMjv9eIWbysYO4x"
+      },
+      "artists": [
+        {
+          "name": "Zion Llama",
+          "url": "https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175792,
+      "name": "Restfulness",
+      "url": "https://open.spotify.com/track/1eWEJ1JVoyt0nozyAoUPZW"
     },
     {
       "album": {

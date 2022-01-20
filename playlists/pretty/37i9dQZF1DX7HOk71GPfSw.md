@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 ### [hyperpop](https://open.spotify.com/playlist/37i9dQZF1DX7HOk71GPfSw)
 
-> hyperpop is a simulation\. Cover: midwxst
+> hyperpop is a simulation\. Cover: Laura Les
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,441 likes - 156 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,073 likes - 156 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 13 | [acid](https://open.spotify.com/track/7yTNwNfgCZTsuDX3v0RlCi) | [mol$](https://open.spotify.com/artist/6qCI616skih6JquKXZpfr8) | [misoland](https://open.spotify.com/album/5adDQWfp2S0fqhVKCAOItY) | 4:13 |
 | 14 | [bad luck](https://open.spotify.com/track/36vsIkYZOTxHxKPPFoE65Y) | [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [bad luck](https://open.spotify.com/album/0WSPPKm1jrkvYVCDbe5qub) | 2:49 |
 | 15 | [over u \- Himera Remix](https://open.spotify.com/track/0p2AvPSoGhHdDnmY9Ed8Y2) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8), [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g) | [over u \(Himera Remix\)](https://open.spotify.com/album/1ldVfDm2sMgezx2OxPrfeX) | 4:14 |
-| 16 | [mememe](https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [mememe](https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36) | 2:46 |
-| 17 | [AFK](https://open.spotify.com/track/0TvQN6KVwWjFs99be7qi0b) | [Ö](https://open.spotify.com/artist/4lo7GFYA2R4TlDmYF0nhdT), [Nömak](https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [AFK](https://open.spotify.com/album/6rhFzWWEh7obQrrvUJLzOn) | 4:27 |
+| 16 | [mememe](https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/3h5CubMAGNOoUHApboZYKc) | [mememe](https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36) | 2:46 |
+| 17 | [AFK](https://open.spotify.com/track/0TvQN6KVwWjFs99be7qi0b) | [Ö](https://open.spotify.com/artist/2f1BFOhuLHw7mXfquuG85y), [Nömak](https://open.spotify.com/artist/6rbVD4QiFbfXuqHaZ6DxEY), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [AFK](https://open.spotify.com/album/6rhFzWWEh7obQrrvUJLzOn) | 4:27 |
 | 18 | [go crazy](https://open.spotify.com/track/4wLYecT7RTTt0834qrqNqL) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [go crazy](https://open.spotify.com/album/1P1wNKHNwQyMvVZWB3gylx) | 2:02 |
 | 19 | [WEIRDO](https://open.spotify.com/track/5ZUskZBh1yXhibGgBaiTTG) | [Hearteyes](https://open.spotify.com/artist/1YCiY4ncBoIUPTpeKTCuzu), [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5), [cookii](https://open.spotify.com/artist/7hVZCBzCfynvqYZ5iNnEjx) | [WEIRDO](https://open.spotify.com/album/1EoJNsyVgJGnBsmPjxlRAd) | 2:59 |
 | 20 | [SONGS ONLINE](https://open.spotify.com/track/22TZopmNyCqGVVikA49JME) | [Eichlers](https://open.spotify.com/artist/4BbaA8tRBEZ81exJ8Ll2Fo) | [SONGS ONLINE](https://open.spotify.com/album/3tBKt7nLYR2c6XfPKtp8fM) | 1:35 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 155 | [Chandeliers, Bullets and Guns](https://open.spotify.com/track/6jX7oIyuu6wVT5nzdyeAra) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Chandeliers, Bullets and Guns](https://open.spotify.com/album/008Bi2In642wqnuTjEee7Y) | 2:48 |
 | 156 | [Watching Me](https://open.spotify.com/track/6W7YA3l991G0bQWAjfHacr) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY) | [Comedown](https://open.spotify.com/album/4lljkzrRgp46X68STKmJbj) | 1:58 |
 
-Snapshot ID: `MTY0MjE4Mzc2OSwwMDAwMDExNjAwMDAwMTdlNTljN2JkYzYwMDAwMDE3ZGEwYTk4YmYz`
+Snapshot ID: `MTY0MjYzNjI0MSwwMDAwMDExNzAwMDAwMTdlNzRiZmViMWIwMDAwMDE3ZTc0YmZhZDQy`

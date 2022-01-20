@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ian Noe
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,153 likes - 155 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,382 likes - 155 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

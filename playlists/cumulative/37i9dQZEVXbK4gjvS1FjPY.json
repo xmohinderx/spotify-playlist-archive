@@ -1038,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Can't Control Myself",
+        "url": "https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Can't Control Myself",
+      "url": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh"
+    },
+    {
+      "album": {
         "name": "Celebrity",
         "url": "https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g"
       },
@@ -3377,7 +3395,7 @@
       ],
       "date_added": "2021-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
@@ -5523,7 +5541,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b"
@@ -7115,6 +7133,40 @@
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
+    },
+    {
+      "album": {
+        "name": "2021 Winter SMTOWN : SMCU EXPRESS",
+        "url": "https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        },
+        {
+          "name": "JENO",
+          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
+        },
+        {
+          "name": "HENDERY",
+          "url": "https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs"
+        },
+        {
+          "name": "YANGYANG",
+          "url": "https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L"
+        },
+        {
+          "name": "GISELLE",
+          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177413,
+      "name": "ZOO",
+      "url": "https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF"
     },
     {
       "album": {

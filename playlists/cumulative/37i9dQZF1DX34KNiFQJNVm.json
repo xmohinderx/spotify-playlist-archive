@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-18",
   "description": "Os lan\u00e7amentos dessa semana incluem Leo Santana com LUDMILLA, Simone & Simaria com Z\u00e9 Felipe e mais!",
   "name": "Novidades da Semana",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4DU3FtwcihH5GqPs3OLyVO"
+  ],
   "tracks": [
     {
       "album": {
@@ -794,7 +796,7 @@
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 167469,
+      "duration_ms": 160615,
       "name": "Incomoda",
       "url": "https://open.spotify.com/track/0mTDBK99JvYzpixgLRsjd4"
     },

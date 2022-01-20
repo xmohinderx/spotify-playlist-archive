@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Cover: Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,153 likes - 99 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,171 likes - 99 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

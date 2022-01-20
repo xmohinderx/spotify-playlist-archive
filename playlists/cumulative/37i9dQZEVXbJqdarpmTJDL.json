@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 213417,
       "name": "808",
       "url": "https://open.spotify.com/track/0FUqLoLJRwgjIIqzalT9qW"
@@ -669,6 +669,24 @@
       "duration_ms": 167619,
       "name": "ALYX",
       "url": "https://open.spotify.com/track/00x2d2mKSaUrCNTNxH7CYN"
+    },
+    {
+      "album": {
+        "name": "Amarties",
+        "url": "https://open.spotify.com/album/0NkYD3ByHYn3i0iTMPzHHu"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "Amarties",
+      "url": "https://open.spotify.com/track/7AaxFtkinG6n5fw6ZUuxHE"
     },
     {
       "album": {
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2021-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 164877,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/1DPth0VduH2nAlWKdy3kSI"
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2021-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Checks",
       "url": "https://open.spotify.com/track/4x4io9GDTPPetji4i06L6c"
@@ -3331,7 +3349,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
@@ -3907,7 +3925,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 183441,
       "name": "Gagarin",
       "url": "https://open.spotify.com/track/5gz9B1DrDGgwrU8PKn4NoX"
@@ -5545,7 +5563,7 @@
       ],
       "date_added": "2021-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 150918,
       "name": "Kokaina",
       "url": "https://open.spotify.com/track/0mBpzm8OfmBouihZ54biML"
@@ -7207,7 +7225,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
@@ -7649,7 +7667,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 180000,
       "name": "O Zontanos Nekros",
       "url": "https://open.spotify.com/track/6N7EuKl26BUiRiO00JM3PH"
@@ -8041,7 +8059,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 124736,
       "name": "Parasita",
       "url": "https://open.spotify.com/track/4CG5uMTddn64cipTlDrPJc"
@@ -9061,7 +9079,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 181554,
       "name": "Saranta Tria",
       "url": "https://open.spotify.com/track/2AeMD95huOTQHaRgqAiUyI"
@@ -10187,7 +10205,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 142377,
       "name": "To Paidi Tou Dromou 2",
       "url": "https://open.spotify.com/track/4eSnlxc0KLl6l9xmIKqoMv"
@@ -10569,7 +10587,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 131823,
       "name": "Varna",
       "url": "https://open.spotify.com/track/2NGnSx5tpHiedOGGHhY2SJ"
@@ -11017,7 +11035,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 247200,
       "name": "XILIOMETRA",
       "url": "https://open.spotify.com/track/0Az2D1ByNU09je0ZtzDcHm"

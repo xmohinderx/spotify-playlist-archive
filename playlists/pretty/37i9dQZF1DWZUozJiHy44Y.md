@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUozJiHy44Y.md) - [plain]
 
 > 30 has landed, alongside all her biggest hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,540,104 likes - 39 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,541,183 likes - 39 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
-| 2 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 |
+| 1 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 |
+| 2 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 3 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 |
 | 4 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 |
 | 5 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUozJiHy44Y.md) - [plain]
 | 38 | [Many Shades of Black](https://open.spotify.com/track/1nX4VLG50VzERLthNEXWtY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY), [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [19](https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ) | 4:28 |
 | 39 | [Hometown Glory \(High Contrast Remix\)](https://open.spotify.com/track/7pfObKU7pvD5ZQPNNNsl62) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Hometown Glory](https://open.spotify.com/album/0waVqJjsfINWbs3aMK9y4s) | 6:36 |
 
-Snapshot ID: `MTYzODE4NDk4NiwwMDAwMDAyODAwMDAwMTdkNmI2ZjI1YzAwMDAwMDE3YzdlM2ZkMmNi`
+Snapshot ID: `MTY0MjU4MDgzNSwwMDAwMDAyOTAwMDAwMTdlNzE3MjdjYmMwMDAwMDE3YzdlM2ZkMmNi`

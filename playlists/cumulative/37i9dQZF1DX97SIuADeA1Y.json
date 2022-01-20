@@ -31,7 +31,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 145740,
       "name": "100 Degrees (with S\u00e9b Mont)",
       "url": "https://open.spotify.com/track/6KZmW3m8H69be0JSMj6762"
@@ -61,6 +61,36 @@
       "duration_ms": 141652,
       "name": "123 (Dolly Song) (feat. Karma Child)",
       "url": "https://open.spotify.com/track/2h4tjVVBuvdwpuNnBq9gt0"
+    },
+    {
+      "album": {
+        "name": "Against the Wall (feat. Jon Paul)",
+        "url": "https://open.spotify.com/album/3I3vVLi0siLxu0YH3AvXK8"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "Fabian Farell",
+          "url": "https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY"
+        },
+        {
+          "name": "Jon Paul",
+          "url": "https://open.spotify.com/artist/7KxTSiCDnkZfTVKEWzONc9"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131953,
+      "name": "Against the Wall (feat. Jon Paul)",
+      "url": "https://open.spotify.com/track/3NutS4MdOpsmPLJdRSg8WK"
     },
     {
       "album": {
@@ -167,7 +197,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 179628,
       "name": "Bad Bees (feat. Harrison First)",
       "url": "https://open.spotify.com/track/2GvYPnGRiF9MdJSSeS30tY"
@@ -229,7 +259,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 139500,
       "name": "Barking",
       "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
@@ -259,6 +289,32 @@
       "duration_ms": 166500,
       "name": "Blacklight",
       "url": "https://open.spotify.com/track/04k9VAadkf8nVcofogwUSj"
+    },
+    {
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/4fOJVLmUNqkQKD7Wkuxv1p"
+      },
+      "artists": [
+        {
+          "name": "NALYRO",
+          "url": "https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf"
+        },
+        {
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+        },
+        {
+          "name": "Dammak",
+          "url": "https://open.spotify.com/artist/4XdPUDuuXYWpE56nmKLUac"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151848,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/7JSXDanOpcFoeCtolRUtT6"
     },
     {
       "album": {
@@ -386,6 +442,24 @@
     },
     {
       "album": {
+        "name": "EAT MY BRAIN",
+        "url": "https://open.spotify.com/album/37UKJuQpCGgqtYMdM61TaA"
+      },
+      "artists": [
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176478,
+      "name": "EAT MY BRAIN",
+      "url": "https://open.spotify.com/track/6uN2YTWoQjzuRcVaaSrlXp"
+    },
+    {
+      "album": {
         "name": "Enough Of You",
         "url": "https://open.spotify.com/album/3VTbSW7HLWr6WCwEHphVCZ"
       },
@@ -397,7 +471,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 146693,
       "name": "Enough Of You",
       "url": "https://open.spotify.com/track/0mDINHqydpdNSyPKPCxB7z"
@@ -419,10 +493,32 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 170662,
       "name": "Everybody Cries",
       "url": "https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8"
+    },
+    {
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167380,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
     },
     {
       "album": {
@@ -518,6 +614,24 @@
     },
     {
       "album": {
+        "name": "Feel That Way",
+        "url": "https://open.spotify.com/album/2f3lBubcewLD2qLxovxcXW"
+      },
+      "artists": [
+        {
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161005,
+      "name": "Feel That Way",
+      "url": "https://open.spotify.com/track/3TJ7LDaw0PTgd4n6ESvNGu"
+    },
+    {
+      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/6vbvzdOPXxHDhAF4tbkvrF"
       },
@@ -577,7 +691,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 139354,
       "name": "Game",
       "url": "https://open.spotify.com/track/1282qgDXqqQiA6n3u1h32q"
@@ -599,6 +713,24 @@
       "duration_ms": 158571,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/114y6mYBzuec5xUBUZ56lg"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2Sq4g7jSvEehV6sYwt2ndK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4dNa85ITSSRo5KNsIeQZpS"
     },
     {
       "album": {
@@ -789,10 +921,32 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/5HCab6cbYS5oQo29wc2dLq"
+    },
+    {
+      "album": {
+        "name": "Ma Ma Ma",
+        "url": "https://open.spotify.com/album/21CWQWVO5FpEiQiY6sSosa"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "MIA BOYKA",
+          "url": "https://open.spotify.com/artist/7lC9GiVHVMSIGt7yCQS0U5"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "Ma Ma Ma",
+      "url": "https://open.spotify.com/track/19c7r2qm1FD7runvg0VzQa"
     },
     {
       "album": {
@@ -881,7 +1035,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 150368,
       "name": "Oh La La (feat. Mougleta)",
       "url": "https://open.spotify.com/track/46Dxwh73hkHgPg2NCTCzmt"
@@ -903,7 +1057,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 171780,
       "name": "On And On",
       "url": "https://open.spotify.com/track/70n69mBQ7kaNPHpky7UEpF"
@@ -1157,7 +1311,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 150867,
       "name": "Somebody (feat. indiigo)",
       "url": "https://open.spotify.com/track/1wu7r2CNIhJ7IvvF4JlRQz"
@@ -1197,7 +1351,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 176640,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
@@ -1425,7 +1579,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 140000,
       "name": "T\u00f3xica",
       "url": "https://open.spotify.com/track/2xXgN2GQLSQcZ4Bzad0NaM"
@@ -1473,7 +1627,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 145447,
       "name": "What Goes Around",
       "url": "https://open.spotify.com/track/2jiaQsa5E84U1WER1skDDv"
@@ -1561,7 +1715,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 160000,
       "name": "Won't Run Away",
       "url": "https://open.spotify.com/track/4cBTymbUfM3Tle5Sk4P8lt"
@@ -1605,7 +1759,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 176744,
       "name": "You Spin Me Round (Like A Record) - Radio Edit",
       "url": "https://open.spotify.com/track/5zdbSrKdmK9qDTkqzidcN7"

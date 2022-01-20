@@ -704,6 +704,24 @@
     },
     {
       "album": {
+        "name": "Infant Eyes",
+        "url": "https://open.spotify.com/album/6O9lAPhLztpO0LNKzFbOXO"
+      },
+      "artists": [
+        {
+          "name": "Yorkville",
+          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232753,
+      "name": "Infant Eyes",
+      "url": "https://open.spotify.com/track/0Cgg4UFV8Du0Kg0wLHUa1k"
+    },
+    {
+      "album": {
         "name": "A Ghost Of A Chance",
         "url": "https://open.spotify.com/album/1qOEWsWmbdB8U2EmcPLwFG"
       },
@@ -1219,7 +1237,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 240960,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/29nK4itJtykZEtsVE8dt4R"

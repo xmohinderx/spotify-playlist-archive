@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 
 > Look up, dream on\. Ambient tunes to keep you cloud gazing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,380 likes - 46 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,542 likes - 46 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

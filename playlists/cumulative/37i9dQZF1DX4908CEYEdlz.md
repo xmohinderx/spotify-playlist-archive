@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4908CEYEdlz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4908CEYEdlz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4908CEYEdlz)
 
-### Volume Máximo
+### [Volume Máximo](https://open.spotify.com/playlist/7obgySRmTZymfPOzhJ5T39)
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Muse
 

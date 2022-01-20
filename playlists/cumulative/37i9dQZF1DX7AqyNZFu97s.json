@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Cooza",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Channell + 2b.Frank",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -117,6 +117,24 @@
       "duration_ms": 207000,
       "name": "all my friends are taking drugs l",
       "url": "https://open.spotify.com/track/1V1haaV1wXjZuZvS8nrmod"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/3NW0j2YQJlmmicgexJETWN"
+      },
+      "artists": [
+        {
+          "name": "BluePrint",
+          "url": "https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209045,
+      "name": "Alone - Edit",
+      "url": "https://open.spotify.com/track/2FBin20nrPK6TCU4LCnKlA"
     },
     {
       "album": {
@@ -247,10 +265,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 179400,
       "name": "Blood Pact",
       "url": "https://open.spotify.com/track/65ySk1hwNkFRawlG0suzzd"
+    },
+    {
+      "album": {
+        "name": "Boundaries",
+        "url": "https://open.spotify.com/album/6XrLOCO3orVn38879fnKUg"
+      },
+      "artists": [
+        {
+          "name": "jena keating",
+          "url": "https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262060,
+      "name": "Boundaries",
+      "url": "https://open.spotify.com/track/7u10OCkahQHTXmYwqMC25w"
     },
     {
       "album": {
@@ -362,6 +398,24 @@
     },
     {
       "album": {
+        "name": "Easy Come Easy Go",
+        "url": "https://open.spotify.com/album/5CQjLyXaqP5LPtcqOaAgNM"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gaffney",
+          "url": "https://open.spotify.com/artist/1dWfI2kDIBAxs8OxI5GUVQ"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "Easy Come Easy Go",
+      "url": "https://open.spotify.com/track/2LgkM7cuxKyW9KIZ9wZHiH"
+    },
+    {
+      "album": {
         "name": "Eating",
         "url": "https://open.spotify.com/album/7Mh1MvLa9QJDU7LNkWyUjE"
       },
@@ -452,6 +506,24 @@
     },
     {
       "album": {
+        "name": "For Friends",
+        "url": "https://open.spotify.com/album/2R2pvXZmY7YFfASEXBmvpS"
+      },
+      "artists": [
+        {
+          "name": "SHEE",
+          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396875,
+      "name": "For Friends",
+      "url": "https://open.spotify.com/track/7KJTx0xHTJwA6kqyLV19E2"
+    },
+    {
+      "album": {
         "name": "For Good",
         "url": "https://open.spotify.com/album/2KimldDD1VuIayQTZV6svQ"
       },
@@ -510,6 +582,28 @@
     },
     {
       "album": {
+        "name": "Go Back in Time",
+        "url": "https://open.spotify.com/album/4ACBzGxI6ykzsMnFMQSQD3"
+      },
+      "artists": [
+        {
+          "name": "Kirk Spencer",
+          "url": "https://open.spotify.com/artist/3ej0mRP8GFP0h3MXdWKjKh"
+        },
+        {
+          "name": "Louis Scott",
+          "url": "https://open.spotify.com/artist/11Kul5U27fFSKN9vVQnpCk"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206603,
+      "name": "Go Back in Time",
+      "url": "https://open.spotify.com/track/7atthTzVajQ4UuQiwZkj2o"
+    },
+    {
+      "album": {
         "name": "Go Slow (Radio Edit)",
         "url": "https://open.spotify.com/album/5619uh8sb0C3lqzkDZQIzE"
       },
@@ -525,7 +619,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 178064,
       "name": "Go Slow (Radio Edit)",
       "url": "https://open.spotify.com/track/01NMbasrQZCSb14fVNcyqT"
@@ -619,7 +713,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 189468,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/5YGUxFRCpX2QMDeSNlurRh"
@@ -655,7 +749,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 187475,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/5lyA4FFfyi3c9bUhfFlLWe"
@@ -695,6 +789,24 @@
       "duration_ms": 129185,
       "name": "i don't like u",
       "url": "https://open.spotify.com/track/5UMHVt7jQ0LfoWGO01fywI"
+    },
+    {
+      "album": {
+        "name": "I hate myself in <3",
+        "url": "https://open.spotify.com/album/4Bq7ZqDJBsWZGsENcioZjX"
+      },
+      "artists": [
+        {
+          "name": "MaZz",
+          "url": "https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236669,
+      "name": "I hate myself in <3",
+      "url": "https://open.spotify.com/track/0yweXXrfN9PGizKifL7A78"
     },
     {
       "album": {
@@ -767,7 +879,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 246500,
       "name": "Is This It",
       "url": "https://open.spotify.com/track/5TPaa2NdR5Mx36DhjeuAGu"
@@ -825,6 +937,24 @@
       "duration_ms": 201072,
       "name": "June from the Endz",
       "url": "https://open.spotify.com/track/6wWlSedPEGz4HTCKnAevMW"
+    },
+    {
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/3Hjw4hTQa3wN4dyiZMEms0"
+      },
+      "artists": [
+        {
+          "name": "Sophia Alexa",
+          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129975,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/2eEDSiImAlmr8403EChK0R"
     },
     {
       "album": {
@@ -905,7 +1035,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 161118,
       "name": "LONDON",
       "url": "https://open.spotify.com/track/2zpb7bOv9Y6wmaxuqXDpUI"
@@ -949,6 +1079,24 @@
       "duration_ms": 102634,
       "name": "Lou's Tune",
       "url": "https://open.spotify.com/track/1ec1i3ISsplGY8DTGTaohs"
+    },
+    {
+      "album": {
+        "name": "Love Me No One Else",
+        "url": "https://open.spotify.com/album/2iafwBACPywY6IkjqJ7O4k"
+      },
+      "artists": [
+        {
+          "name": "NEL",
+          "url": "https://open.spotify.com/artist/37Lfj8dsuyCiHcXj9SyVy9"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151185,
+      "name": "Love Me No One Else",
+      "url": "https://open.spotify.com/track/1Ii2Axxjdjn73lvLuqND0t"
     },
     {
       "album": {
@@ -1029,6 +1177,24 @@
       "duration_ms": 158620,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/5Z2dOXjVByx4J0yzMB2oPB"
+    },
+    {
+      "album": {
+        "name": "Mixed Signals",
+        "url": "https://open.spotify.com/album/6vew8xtpSQxsZWLqeZBw4X"
+      },
+      "artists": [
+        {
+          "name": "Robyn Perren",
+          "url": "https://open.spotify.com/artist/5F7bWFpKefaDDnMvyKFfD8"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226874,
+      "name": "Mixed Signals",
+      "url": "https://open.spotify.com/track/58dsUAdLsJ3LLXuFFFwgh0"
     },
     {
       "album": {
@@ -1151,10 +1317,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 216778,
       "name": "No Matter What the People Say",
       "url": "https://open.spotify.com/track/1SKoTA4NbJoIUT67EQshR4"
+    },
+    {
+      "album": {
+        "name": "No Sleep.",
+        "url": "https://open.spotify.com/album/46UBRzXRfzpaSNeFSHpSoD"
+      },
+      "artists": [
+        {
+          "name": "Hyphen",
+          "url": "https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179277,
+      "name": "No Sleep.",
+      "url": "https://open.spotify.com/track/5OQKxn1x3NsafzId9kOtkE"
     },
     {
       "album": {
@@ -1205,7 +1389,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 169480,
       "name": "Perfect Guy",
       "url": "https://open.spotify.com/track/6psMkG5avIzbw9FeTDrEDG"
@@ -1321,6 +1505,24 @@
       "duration_ms": 155520,
       "name": "Rice And Peas",
       "url": "https://open.spotify.com/track/6UgAx9ilu2DbqTi8650kz5"
+    },
+    {
+      "album": {
+        "name": "She Gives U",
+        "url": "https://open.spotify.com/album/0QYsPD9bqPwoIvQ5KdpFRf"
+      },
+      "artists": [
+        {
+          "name": "Cortese",
+          "url": "https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331957,
+      "name": "She Gives U",
+      "url": "https://open.spotify.com/track/4O0ZhoIxA7xovHZ9RSbI9E"
     },
     {
       "album": {
@@ -1509,7 +1711,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 230012,
       "name": "Sugartown Parade",
       "url": "https://open.spotify.com/track/1k3YqdfPzul6VcbfkxiKgJ"
@@ -1607,7 +1809,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 218426,
       "name": "trees.",
       "url": "https://open.spotify.com/track/5JBCRCmsqcLdIhbB6bO9s0"
@@ -1625,7 +1827,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 283373,
       "name": "True",
       "url": "https://open.spotify.com/track/5W9agjZMdYy8nlZoYYj0XU"
@@ -1719,10 +1921,36 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 142624,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/3thVzm1lX13dhZ4qOl7dQL"
+    },
+    {
+      "album": {
+        "name": "Wonderin' EP",
+        "url": "https://open.spotify.com/album/0nx1BXto7ljFknTEKnBbOR"
+      },
+      "artists": [
+        {
+          "name": "Channell",
+          "url": "https://open.spotify.com/artist/0USu267KXIgx4OKwhU9n5D"
+        },
+        {
+          "name": "2b.Frank",
+          "url": "https://open.spotify.com/artist/3CGeuME9z3whBbGdMNn2hS"
+        },
+        {
+          "name": "Lyds",
+          "url": "https://open.spotify.com/artist/1ct2JemDGZm6FdyArw8YcI"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279656,
+      "name": "Wonderin'",
+      "url": "https://open.spotify.com/track/3HenGKQ9HhXxhb8bH03DbD"
     },
     {
       "album": {

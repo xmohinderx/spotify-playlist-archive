@@ -2980,6 +2980,24 @@
     },
     {
       "album": {
+        "name": "In Every Heartbeat",
+        "url": "https://open.spotify.com/album/3tcB4ANe71Utx6e1hsPdjb"
+      },
+      "artists": [
+        {
+          "name": "Axione",
+          "url": "https://open.spotify.com/artist/29wsDWZgbwNUfV26q33dmC"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162665,
+      "name": "In Every Heartbeat",
+      "url": "https://open.spotify.com/track/5OqkQteQRQBSZeQXBbY7a6"
+    },
+    {
+      "album": {
         "name": "Departure Lounge",
         "url": "https://open.spotify.com/album/1L14xBM4jEKPRItVqzj0ok"
       },
@@ -6849,6 +6867,24 @@
       "duration_ms": 163875,
       "name": "Understudy",
       "url": "https://open.spotify.com/track/0Y41ZfnVaNRQp9dQiagwbC"
+    },
+    {
+      "album": {
+        "name": "Undiscovered",
+        "url": "https://open.spotify.com/album/5mjXT9jnJ8sBEH0hBGGywT"
+      },
+      "artists": [
+        {
+          "name": "Elementaries",
+          "url": "https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218947,
+      "name": "Undiscovered",
+      "url": "https://open.spotify.com/track/6sZ06jEfwg6DjssHZeZhwe"
     },
     {
       "album": {

@@ -293,7 +293,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 221053,
       "name": "Brilliant Mind",
       "url": "https://open.spotify.com/track/6lN2rz6C3XTq6RauOl8J3a"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 403573,
       "name": "Cat People (Putting Out Fire)",
       "url": "https://open.spotify.com/track/72OWnDDKTtw3x7tevXHlno"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 173173,
       "name": "Debaser",
       "url": "https://open.spotify.com/track/3FzKPS0oVknVlCW3PhxIHl"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 210746,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/493NNPBvpP6cj5r0VBqcL4"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 244506,
       "name": "Generals And Majors - 2001 Remaster",
       "url": "https://open.spotify.com/track/3jJm28Q9MEhnRbxk2LdfkK"
@@ -934,6 +934,24 @@
     },
     {
       "album": {
+        "name": "Heartache Avenue: The Very Best Of The Maisonettes",
+        "url": "https://open.spotify.com/album/7vv4BG0YlgBcmzeyoWWnPV"
+      },
+      "artists": [
+        {
+          "name": "The Maisonettes",
+          "url": "https://open.spotify.com/artist/4oPf8z5ISQIxTGI6gAgfvH"
+        }
+      ],
+      "date_added": "2019-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176693,
+      "name": "Heartache Avenue",
+      "url": "https://open.spotify.com/track/4sUsKsKD56QEixq7wyeMHN"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/4m9XbflfyP66irnWo3hwZs"
       },
@@ -971,7 +989,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 275840,
       "name": "Homosapien",
       "url": "https://open.spotify.com/track/36XJWjuNKBax6KqdzpH7Wb"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 126440,
       "name": "I Can't Stand Up For Falling Down",
       "url": "https://open.spotify.com/track/5h0CMhpV8wmPfcmL3xXRkz"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 288733,
       "name": "Infected",
       "url": "https://open.spotify.com/track/7mqRfGV4RarfX8Pgl5BIqT"
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 212573,
       "name": "Love Plus One",
       "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
@@ -1505,6 +1523,24 @@
       "duration_ms": 389666,
       "name": "Madam Butterfly (Un Bel Di Vedremo)",
       "url": "https://open.spotify.com/track/75SqjGbzUnlQzytV5UzKER"
+    },
+    {
+      "album": {
+        "name": "Major Tom [Voellig Losgeloest]",
+        "url": "https://open.spotify.com/album/1qLcqJlAWG6z7JV65EUFS6"
+      },
+      "artists": [
+        {
+          "name": "Peter Schilling",
+          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
+        }
+      ],
+      "date_added": "2021-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273746,
+      "name": "Major Tom (V\u00f6llig Losgel\u00f6st)",
+      "url": "https://open.spotify.com/track/2qZQtey4lTwvvABVMrO4h8"
     },
     {
       "album": {
@@ -1609,7 +1645,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 503109,
       "name": "More",
       "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
@@ -1627,7 +1663,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 241693,
       "name": "My Spine Is The Bassline",
       "url": "https://open.spotify.com/track/3VxFd7SnACXpFR2LBROrsR"
@@ -1699,7 +1735,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 408293,
       "name": "Nightporter",
       "url": "https://open.spotify.com/track/2KMu1C3jtaTQ8z4CC5ucUK"
@@ -1753,7 +1789,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 185199,
       "name": "On my Radio",
       "url": "https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD"
@@ -1861,7 +1897,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 314400,
       "name": "Party Fears Two",
       "url": "https://open.spotify.com/track/56SwjvVv45XLJhScKC8IcB"
@@ -2214,6 +2250,24 @@
     },
     {
       "album": {
+        "name": "Essential - Popclassics",
+        "url": "https://open.spotify.com/album/4ivuG29exX1Wuhp8dgizxG"
+      },
+      "artists": [
+        {
+          "name": "In Tua Nua",
+          "url": "https://open.spotify.com/artist/2trPBzjIxkW4PBCoJ9EMff"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230333,
+      "name": "Seven Into The Sea",
+      "url": "https://open.spotify.com/track/2QS2qdVaLXOfokeTlJo5AV"
+    },
+    {
+      "album": {
         "name": "Ocean Rain",
         "url": "https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7"
       },
@@ -2495,7 +2549,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 232746,
       "name": "The Cutter",
       "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
@@ -2549,7 +2603,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 304906,
       "name": "The Lebanon",
       "url": "https://open.spotify.com/track/5d4ZCmvSLvjMOSdIKkCyQ5"
@@ -2909,7 +2963,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 204906,
       "name": "Walk out to Winter",
       "url": "https://open.spotify.com/track/6Z2TIb43jnjHcmMGSkxJcI"
@@ -3039,7 +3093,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 158106,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/6QG0wcgoCsa9pqFyTg0rRO"
@@ -3093,7 +3147,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 247973,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/7w76loirJapdVKMf6sFrJo"
@@ -3155,7 +3209,7 @@
       ],
       "date_added": "2020-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 268240,
       "name": "Would I Lie to You? - Remastered Version",
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"
@@ -3209,7 +3263,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 188133,
       "name": "Younger Days",
       "url": "https://open.spotify.com/track/1hEeRFUwynarsuHUzWXXzG"

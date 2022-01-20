@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 
 > All confirmed artists at the Bråvalla Festival 2017! June 28th \- July 1st, Norrköping, Sweden\. <a href="http://www.bravallafestival.se/">www.bravallafestival.se</a>
 
-[Bråvalla Festival](https://open.spotify.com/user/br%C3%A5valla.festival) - 8,293 likes - 159 songs - 10 hr 4 min
+[Bråvalla Festival](https://open.spotify.com/user/br%C3%A5valla.festival) - 8,291 likes - 159 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/5sk53m6HgZorO1RDUkaiIZ.md) - [plain]
 | 27 | [Signatur \- från "Bamse \- världens starkaste björn"](https://open.spotify.com/track/6uhIL0PAovizquifzGH0lk) | [Bamse](https://open.spotify.com/artist/1V95p8oWGxXlpcFRYqXV3w) | [Bamse \- världens starkaste björn](https://open.spotify.com/album/7J4mWRMb0BY6LVUGKLhtzg) | 0:33 |
 | 28 | [March to the Sea](https://open.spotify.com/track/0qV5H8ttAXxb1An0rmG2bw) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Yellow & Green](https://open.spotify.com/album/4mSoz87AFyUIcZlCmwbI8s) | 3:11 |
 | 29 | [Shock Me](https://open.spotify.com/track/5n5K6czwgPvZQpMTJVZ03O) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Purple](https://open.spotify.com/album/7bzSRJuSLfCTWRzrOni6X7) | 4:17 |
-| 30 | [Derp \- Original Mix](https://open.spotify.com/track/4nrK0G6pOEuhMxn3hAaava) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Derp](https://open.spotify.com/album/4xmhpkYILmNpI483HP3wxl) | 4:39 |
+| 30 | [Derp](https://open.spotify.com/track/4nrK0G6pOEuhMxn3hAaava) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C) | [Derp](https://open.spotify.com/album/4xmhpkYILmNpI483HP3wxl) | 4:39 |
 | 31 | [Can't Take It](https://open.spotify.com/track/5IiDjZUj8S6oLAxcsQjfTI) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Can't Take It](https://open.spotify.com/album/36EjQsH9PBdS4bKUX1dDJr) | 3:05 |
 | 32 | [Berlin](https://open.spotify.com/track/68XQwuLFhzaV0ThuDv2I54) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Berlin](https://open.spotify.com/album/4yQ3lsX2CZRbukZ6QHs1eX) | 4:29 |
 | 33 | [Sophie](https://open.spotify.com/track/57hHKmri1XEjbcVx5ktxPr) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/62JForSPxT4heXyGCr4qwi) | 5:05 |

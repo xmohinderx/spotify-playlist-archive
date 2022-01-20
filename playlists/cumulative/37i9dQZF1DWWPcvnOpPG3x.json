@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 196040,
       "name": "Famous",
       "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 263466,
       "name": "Have It Your Way",
       "url": "https://open.spotify.com/track/5Gis3rbXy28VG5WG8hmtZI"
@@ -704,6 +704,24 @@
     },
     {
       "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v"
+    },
+    {
+      "album": {
         "name": "EVERYTHING IS LOVE",
         "url": "https://open.spotify.com/album/7jbdod8XNRfe2nIhppht46"
       },
@@ -715,7 +733,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 229026,
       "name": "LOVEHAPPY",
       "url": "https://open.spotify.com/track/7CJQUfl628ppAuH2MnTptQ"
@@ -763,7 +781,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 216933,
       "name": "My Chick Bad",
       "url": "https://open.spotify.com/track/3bMNprrp2JDKZsGbiXpsJl"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 300173,
       "name": "On Top Of The World",
       "url": "https://open.spotify.com/track/1Yp5r5ZtEBk0zPYok8yDHh"
@@ -956,6 +974,28 @@
     },
     {
       "album": {
+        "name": "The Rising Tied",
+        "url": "https://open.spotify.com/album/1YIAli70SqLNnmSJZjlVpr"
+      },
+      "artists": [
+        {
+          "name": "Fort Minor",
+          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
+        },
+        {
+          "name": "Styles Of Beyond",
+          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230493,
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "url": "https://open.spotify.com/track/6ljbkNIzfmFrGyYUTUAleN"
+    },
+    {
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/6sUoihv7EBflLLP4VriHUe"
       },
@@ -985,7 +1025,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 312820,
       "name": "SICKO MODE",
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
@@ -1037,7 +1077,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 289520,
       "name": "Start It Up",
       "url": "https://open.spotify.com/track/37qcaCXw7TlBsDD5BgDoCf"
@@ -1143,7 +1183,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 310666,
       "name": "The Devil Is A Lie",
       "url": "https://open.spotify.com/track/1FfxSgLHUkNCCLdZ7wrCTY"
@@ -1215,7 +1255,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 156944,
       "name": "Up",
       "url": "https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi"
@@ -1233,7 +1273,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 156944,
       "name": "Up",
       "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
@@ -1281,7 +1321,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 201973,
       "name": "We In This 1.5 (feat. Drake and Future)",
       "url": "https://open.spotify.com/track/4U5ZMiy7JRhgfh2AC2UX3h"
@@ -1299,7 +1339,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 247080,
       "name": "Welcome Back",
       "url": "https://open.spotify.com/track/14kevJV2wz3niMSxiQNPrZ"
@@ -1353,7 +1393,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 321986,
       "name": "Wobble",
       "url": "https://open.spotify.com/track/6JLcz9UGiVxAmEZXlCucn5"

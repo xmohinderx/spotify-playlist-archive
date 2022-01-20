@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 304333,
       "name": "Api\u00e1date de Mi",
       "url": "https://open.spotify.com/track/4ZVgDysve5dcNK6TX84t8e"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 321706,
       "name": "Caricias Prohibidas",
       "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 333226,
       "name": "Conciencia",
       "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
@@ -347,6 +347,24 @@
       "duration_ms": 265480,
       "name": "De Punta a Punta",
       "url": "https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH"
+    },
+    {
+      "album": {
+        "name": "Exitos Romaticos De Salsa",
+        "url": "https://open.spotify.com/album/5fdL0838EsULjyNWfG9goE"
+      },
+      "artists": [
+        {
+          "name": "Hildemaro",
+          "url": "https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242648,
+      "name": "Desde El Fondo De Mi Corazon",
+      "url": "https://open.spotify.com/track/3cUl46uaUN1pBqVtlMmsUb"
     },
     {
       "album": {
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 212138,
       "name": "Dime Qu\u00e9 Paso",
       "url": "https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 330960,
       "name": "El Jardin Prohibido",
       "url": "https://open.spotify.com/track/1YjAt7R7nD1galaCxYAlGC"
@@ -602,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj"
+      },
+      "artists": [
+        {
+          "name": "Nino Segarra",
+          "url": "https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262079,
+      "name": "Entre La Espada y La Pared",
+      "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
+    },
+    {
+      "album": {
         "name": "No Me Olvidaras",
         "url": "https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD"
       },
@@ -613,7 +649,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 211586,
       "name": "Ese",
       "url": "https://open.spotify.com/track/23gGTtWSjeTx4HEnAfdCgW"
@@ -631,7 +667,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 305053,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
@@ -685,7 +721,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 354973,
       "name": "Gotas De Lluvia",
       "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
@@ -793,7 +829,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 284200,
       "name": "La Magia De Tus Besos",
       "url": "https://open.spotify.com/track/3nBQUOFwVZumOzzSV3h2sw"
@@ -945,6 +981,24 @@
       "duration_ms": 283129,
       "name": "Me Tengo Que Ir",
       "url": "https://open.spotify.com/track/6bum69IXoiGcZCb83ZtfGA"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo T\u00fa",
+        "url": "https://open.spotify.com/album/0WrM9OH9RrcpNxAzK7SLUk"
+      },
+      "artists": [
+        {
+          "name": "Octava Dimensi\u00f3n",
+          "url": "https://open.spotify.com/artist/4JUDKDD17O3mcDHAGuMgOr"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345792,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/7JPgcXRqmugdQ3ur9ob6b8"
     },
     {
       "album": {
@@ -1121,7 +1175,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 307200,
       "name": "Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
@@ -1197,7 +1251,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 287459,
       "name": "Por Retenerte",
       "url": "https://open.spotify.com/track/6ADkHioGKvBpqDkXVhMZKr"
@@ -1251,7 +1305,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 272666,
       "name": "Procura",
       "url": "https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8"
@@ -1327,7 +1381,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 303800,
       "name": "Quien Entiende Este Amor",
       "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
@@ -1363,7 +1417,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 377160,
       "name": "Quiero Morir En Tu Piel",
       "url": "https://open.spotify.com/track/3t3jGDeU3t1ro51C3x2pPR"
@@ -1417,7 +1471,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 242964,
       "name": "Se Acabo El Amor",
       "url": "https://open.spotify.com/track/6vYGqxYCAcj4gfyrGcqN3i"
@@ -1507,7 +1561,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 311800,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
@@ -1561,7 +1615,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 293893,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
@@ -1687,7 +1741,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 284666,
       "name": "Tu Amigo o Tu Amante",
       "url": "https://open.spotify.com/track/3XCqINkynQfUcB75MrihyK"
@@ -1723,7 +1777,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 251253,
       "name": "Tu Cari\u00f1ito",
       "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
@@ -1741,7 +1795,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 303306,
       "name": "Tu Con El",
       "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
@@ -1885,7 +1939,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 316093,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
@@ -1921,7 +1975,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 311333,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/67rzFE76TKbmK4j1BkdQry"
@@ -1957,7 +2011,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 388360,
       "name": "Y Hubo Alguien",
       "url": "https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj"
@@ -1975,7 +2029,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 303178,
       "name": "Y Que Me Pasa",
       "url": "https://open.spotify.com/track/3ygYBj0eUkIN560nuhTMb9"
@@ -1993,7 +2047,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 303306,
       "name": "Y Que Me Pasa - Salsa",
       "url": "https://open.spotify.com/track/3OXeVpFbzJVZpOtXItrTyN"

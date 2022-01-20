@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 227666,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 263733,
       "name": "Are You OK?",
       "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 281906,
       "name": "Attempt",
       "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
@@ -278,6 +278,28 @@
     },
     {
       "album": {
+        "name": "Call Me When You Land",
+        "url": "https://open.spotify.com/album/30CoHXRDdptOwXzGvct7Cp"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        },
+        {
+          "name": "Luke Sital-Singh",
+          "url": "https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287623,
+      "name": "Call Me When You Land",
+      "url": "https://open.spotify.com/track/4oRgpwXGPigjcEkp0mPgad"
+    },
+    {
+      "album": {
         "name": "Caviar",
         "url": "https://open.spotify.com/album/5VyfBBQi8Y8B20VTiS5ubz"
       },
@@ -325,7 +347,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 207786,
       "name": "Circles In The Firing Line - Edit",
       "url": "https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P"
@@ -361,7 +383,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
@@ -379,7 +401,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 190200,
       "name": "Craziest Things",
       "url": "https://open.spotify.com/track/2BYBbUyjC4yZ4L2IKIVAgf"
@@ -415,7 +437,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 163120,
       "name": "Deep Down Way Out",
       "url": "https://open.spotify.com/track/5UPXitLeEHQyL5TZRy47uN"
@@ -521,7 +543,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 188260,
       "name": "Don't Make a Scene",
       "url": "https://open.spotify.com/track/0uOnoknp6Oq5mOpkAegGmU"
@@ -557,7 +579,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 254978,
       "name": "Dreaming Of",
       "url": "https://open.spotify.com/track/48WIvbuYEhz3xeXif08Dh0"
@@ -647,7 +669,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 267308,
       "name": "Fade",
       "url": "https://open.spotify.com/track/56u1PvRafzzWzljABNR1bn"
@@ -889,7 +911,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 206233,
       "name": "Guts",
       "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
@@ -997,7 +1019,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 196640,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A"
@@ -1167,7 +1189,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 124760,
       "name": "Isn\u2019t It",
       "url": "https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst"
@@ -1257,7 +1279,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 191493,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/6h0u2pSqMV0JPvzsnA8hwg"
@@ -1347,7 +1369,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 173000,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/6WrZ8rFuvTsWkFjC3US38h"
@@ -1437,7 +1459,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 213886,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/2JU0uzd2D1JxsvYsfEwZEe"
@@ -1599,7 +1621,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 215556,
       "name": "On & On",
       "url": "https://open.spotify.com/track/65yBRgxgY5mHNkNPyjpqPu"
@@ -1863,7 +1885,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 207133,
       "name": "Show Me More",
       "url": "https://open.spotify.com/track/0cKmAiOd52XSO3Ecoen1QU"
@@ -1957,7 +1979,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 234159,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/3I377EfBKxfH93eexEoAaT"
@@ -1975,7 +1997,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 177387,
       "name": "Song for Nick Drake",
       "url": "https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1"
@@ -2123,7 +2145,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 186573,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/6RRlA5SD0HgVVFtzaEIu7k"
@@ -2231,7 +2253,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 256048,
       "name": "the sum of the in-between",
       "url": "https://open.spotify.com/track/73jIdwmiQRQOGUE2pWMrDp"
@@ -2375,7 +2397,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 214387,
       "name": "Victoria Falls",
       "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"

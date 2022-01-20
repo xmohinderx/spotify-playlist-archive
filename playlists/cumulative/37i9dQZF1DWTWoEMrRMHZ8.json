@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-18",
   "description": "As belas novidades da MPB. Foto: Mahmundi, Rubel",
   "name": "Divina MPB",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "01cf54AteUmLGb18bFZOzr"
+  ],
   "tracks": [
     {
       "album": {
@@ -475,7 +477,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 209645,
       "name": "Elo",
       "url": "https://open.spotify.com/track/0ieQVijx2su3EexZRxoriA"
@@ -693,7 +695,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 183274,
       "name": "Fotografia",
       "url": "https://open.spotify.com/track/3is1regCaCuboIwrIqfFWa"
@@ -1017,6 +1019,28 @@
       "duration_ms": 110000,
       "name": "No Teu Pescoc\u0327o",
       "url": "https://open.spotify.com/track/4W7ubSJOtQulG9tCd4o859"
+    },
+    {
+      "album": {
+        "name": "Nosso Amor Vadio",
+        "url": "https://open.spotify.com/album/281dcyHF02OR0L2siu1aT3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Grossi",
+          "url": "https://open.spotify.com/artist/4HNRaNTXCLtwCaTv5Qo5fc"
+        },
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Nosso Amor Vadio",
+      "url": "https://open.spotify.com/track/7BMUlkxHRaxeHUhzLDN3az"
     },
     {
       "album": {
@@ -1551,7 +1575,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 109528,
       "name": "Se Chico Soubesse - Ao Vivo",
       "url": "https://open.spotify.com/track/2Jye4P8bq0kKVrbhBlSq4f"
@@ -1569,7 +1593,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 268201,
       "name": "Se Voc\u00ea Tem Amor",
       "url": "https://open.spotify.com/track/4n0Cl3xaeWmMaD3di8aKEo"
@@ -1867,7 +1891,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 212264,
       "name": "Valente",
       "url": "https://open.spotify.com/track/3AUAfawYAvwLaL3SlZWgQD"

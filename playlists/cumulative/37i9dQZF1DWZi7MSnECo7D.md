@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZi7MSnECo7D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZi7MSnECo7D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZi7MSnECo7D)
 
-### Indie Brasil
+### [Indie Brasil](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
 > Novidades e destaques do indie nacional\. Foto: bule
 

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-18",
   "description": "Classic party anthems from the club to your ears!",
   "name": "Warehouse Party",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7uqJ66jF1VtnDKSvWC7k8R"
+  ],
   "tracks": [
     {
       "album": {
@@ -181,7 +183,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 394124,
       "name": "Bigger Than Prince - Hot Since 82 Remix",
       "url": "https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f"
@@ -225,10 +227,28 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 275806,
       "name": "Buggin' - Edit",
       "url": "https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA"
+    },
+    {
+      "album": {
+        "name": "Burns (Edit)",
+        "url": "https://open.spotify.com/album/1R4DzksK2cx84kO7B4SEoa"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190750,
+      "name": "Burns - Edit",
+      "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
     },
     {
       "album": {
@@ -801,10 +821,46 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 218639,
       "name": "Nothing Better",
       "url": "https://open.spotify.com/track/1oqniN5rzgvhAWoq4HgY2W"
+    },
+    {
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/6zwUPGMAnjh2PLxfVDTdnf"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359297,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/5VS7aJFWhrm5U4gO7wHbVB"
+    },
+    {
+      "album": {
+        "name": "On Hold (Jamie xx Remix)",
+        "url": "https://open.spotify.com/album/01W0uSuNffDSC2RT8Cjha3"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371533,
+      "name": "On Hold - Jamie xx Remix",
+      "url": "https://open.spotify.com/track/0iALOYqXaVoluUIsSyDAny"
     },
     {
       "album": {
@@ -1053,7 +1109,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 210546,
       "name": "Turn off the Lights (feat. Alexis Roberts)",
       "url": "https://open.spotify.com/track/29vo9RUjxgZWXWGTpD8f4m"
@@ -1133,7 +1189,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 356129,
       "name": "Woman of the Ghetto - Catz 'n Dogz Remix",
       "url": "https://open.spotify.com/track/7vPeeVHtpJIJwy6PsONjvb"

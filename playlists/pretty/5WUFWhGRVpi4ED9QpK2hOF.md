@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/5WUFWhGRVpi4ED9QpK2hOF.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tie a Yellow Ribbon Round the Ole Oak Tree \(feat\. Tony Orlando\) \- Digitally Remastered 1998](https://open.spotify.com/track/12UzVR0M7asW2MHAZRJk0I) | [Dawn](https://open.spotify.com/artist/1vjeJ712UQutRhn6WJI4sF), [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Tuneweaving](https://open.spotify.com/album/3mrqSIFeycc3CccoaHR0Tq) | 3:26 |
+| 1 | [Tie a Yellow Ribbon Round the Ole Oak Tree \(feat\. Tony Orlando\) \- 1998 Remastered](https://open.spotify.com/track/12UzVR0M7asW2MHAZRJk0I) | [Dawn](https://open.spotify.com/artist/1vjeJ712UQutRhn6WJI4sF), [Tony Orlando](https://open.spotify.com/artist/6PNZ6ZfwWLiUA2BrranFl3) | [Tuneweaving](https://open.spotify.com/album/3mrqSIFeycc3CccoaHR0Tq) | 3:26 |
 | 2 | [Bad, Bad Leroy Brown](https://open.spotify.com/track/14nBn3kUcfhDnGyKRUrVHr) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life And Times](https://open.spotify.com/album/1W8lksoNXJHs8RjWsDEdpk) | 3:01 |
 | 3 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 |
 | 4 | [Let's Get It On \- Single Version](https://open.spotify.com/track/1fERICe3lzYniqwfyAZsCJ) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Chronicles](https://open.spotify.com/album/6H6mg1bffpFW8ShTTtE2SB) | 4:02 |

@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 393826,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/1ciy5CRswf24uRe815Wnve"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 394133,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/6eBK3edMW7bEzecF1eCezc"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 349466,
       "name": "End Of The Road",
       "url": "https://open.spotify.com/track/6ITPK0Iw3OfdqSEWimISst"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 266973,
       "name": "How Do I Live",
       "url": "https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 228066,
       "name": "I Do (Cherish You)",
       "url": "https://open.spotify.com/track/6BoueSxgJU2heOvYVDTBuk"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 213306,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 333995,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/4npgZHPUKjWn6ipv6wl66Q"
@@ -1041,6 +1041,24 @@
       "duration_ms": 274093,
       "name": "The Hardest Thing",
       "url": "https://open.spotify.com/track/7EEdDKopE2INq8y1sOZuhU"
+    },
+    {
+      "album": {
+        "name": "All The Way... A Decade Of Song",
+        "url": "https://open.spotify.com/album/05HEjdd9s8Egs5aa3r0YIF"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2020-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286560,
+      "name": "The Power of Love - Radio Edit",
+      "url": "https://open.spotify.com/track/5D2LOMq1icc8fjH3seI4qa"
     },
     {
       "album": {

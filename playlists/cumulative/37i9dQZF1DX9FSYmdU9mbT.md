@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9FSYmdU9mbT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9FSYmdU9mbT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9FSYmdU9mbT)
 
-### O Melhor da MPB
+### [O Melhor da MPB](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
 
 > Fique de bem com a vida com grandes artistas da MPB\. Foto: Roberto Carlos
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: ENHYPEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,430 likes - 94 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,426 likes - 94 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 52 | [DESSERT](https://open.spotify.com/track/6uL0aCgluLb9Jv9TzpJtNs) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Illusion](https://open.spotify.com/album/05ayO3bflWVKghdPEhBD0q) | 3:25 |
 | 53 | [skinz](https://open.spotify.com/track/6muszfo0tVE3bzEN5s0xXk) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [Instinct, Pt\. 2](https://open.spotify.com/album/6s6wvFDZuowpwGclVzbXDv) | 3:23 |
 | 54 | [Marvelous](https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Marvelous \- MIRAE 3rd Mini Album](https://open.spotify.com/album/75m8JyqF8ZgDCk01v0QVoR) | 3:09 |
-| 55 | [idea](https://open.spotify.com/track/15ExzLZnfCGvje3LdquI77) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [Viann](https://open.spotify.com/artist/7yRs5f61v5AwXwVlUQ7bNE) | [idea](https://open.spotify.com/album/7hMd0LuKs19KRH86r5MZSm) | 4:00 |
+| 55 | [idea](https://open.spotify.com/track/15ExzLZnfCGvje3LdquI77) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [으네 \(UNE\)](https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW), [비앙\(Viann\)](https://open.spotify.com/artist/42w0Nidlj4H3q4H1Q0LqRG) | [idea](https://open.spotify.com/album/7hMd0LuKs19KRH86r5MZSm) | 4:00 |
 | 56 | [LOUD](https://open.spotify.com/track/1DiDwTApBRcmxV1Cw2JBc0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [LOUD](https://open.spotify.com/album/5WsYjwaDitv4Yqsr8fqhGj) | 3:32 |
 | 57 | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/7imJEoNqRJL4n8OQEChzWG) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2) | 2:40 |
 | 58 | [i think i wanna text u](https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [vaultboy EP](https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L) | 3:16 |

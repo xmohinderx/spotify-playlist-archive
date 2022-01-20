@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX34KNiFQJNVm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX34KNiFQJNVm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX34KNiFQJNVm)
 
-### Novidades da Semana
+### [Novidades da Semana](https://open.spotify.com/playlist/4DU3FtwcihH5GqPs3OLyVO)
 
 > Os lançamentos dessa semana incluem Leo Santana com LUDMILLA, Simone & Simaria com Zé Felipe e mais!
 
@@ -40,7 +40,7 @@
 | [Golden Hour](https://open.spotify.com/track/0MN9HwjKtDaZknMXrT2ZXL) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB) | [Golden Hour](https://open.spotify.com/album/3Wsd3UcQyE2VWQc2VJroTr) | 2:48 | 2022-01-14 |  |
 | [Iffy](https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Iffy](https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR) | 2:53 | 2022-01-14 |  |
 | [In The Stars](https://open.spotify.com/track/50yFqoTXLnFKpgpXU94dTn) | [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [PRINSH](https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4), [D.I.B](https://open.spotify.com/artist/62abaeWx0GbxRdd8GdjQj9), [Goz Asai](https://open.spotify.com/artist/3SHxtacFn1s9bYmf2ebCOn) | [In The Stars](https://open.spotify.com/album/6jjqxXsvaOt0Gt6ReEZkDW) | 3:15 | 2022-01-14 |  |
-| [Incomoda](https://open.spotify.com/track/0mTDBK99JvYzpixgLRsjd4) | [Haitam](https://open.spotify.com/artist/3J0t4JNgTyjwqRaXo5pNlW), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Incomoda](https://open.spotify.com/album/0aUskMFuteLOk3RyVt70Bu) | 2:47 | 2022-01-14 |  |
+| [Incomoda](https://open.spotify.com/track/0mTDBK99JvYzpixgLRsjd4) | [Haitam](https://open.spotify.com/artist/3J0t4JNgTyjwqRaXo5pNlW), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Incomoda](https://open.spotify.com/album/0aUskMFuteLOk3RyVt70Bu) | 2:40 | 2022-01-14 |  |
 | [Indomável](https://open.spotify.com/track/1WUug54diI8RYJP0UoKdw5) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [Gu$t](https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p) | [Indomável](https://open.spotify.com/album/4vS8bptdH3tsUaqhaXas1Z) | 3:25 | 2022-01-14 |  |
 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 | 2022-01-14 |  |
 | [La Tóxica](https://open.spotify.com/track/5lwNIm2sP8ixUpCkeoO9G9) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [La Tóxica](https://open.spotify.com/album/6Wb4ju59AnNwUgPwKgwyqI) | 2:51 | 2022-01-14 |  |

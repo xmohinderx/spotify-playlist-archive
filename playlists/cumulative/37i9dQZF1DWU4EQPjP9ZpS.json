@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 167250,
       "name": "56 Kbit/s Magic",
       "url": "https://open.spotify.com/track/6LWn1jGSA3XB5eJvvdaNKT"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 153866,
       "name": "A Soaring Bird (Title Screen)",
       "url": "https://open.spotify.com/track/1IPsDEeUWOkUgeQrIys8OQ"
@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Dreamlapse",
+        "url": "https://open.spotify.com/album/6ENImuNz3irkSPfg5Avmmv"
+      },
+      "artists": [
+        {
+          "name": "Liars Club 88",
+          "url": "https://open.spotify.com/artist/1AnZycFby3I4T5gPZEcCJE"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163494,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/4IWOEuEFA50Y5ueruyzxyL"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2PvVCVpRlhobpqHWICq92c"
       },
@@ -319,6 +337,24 @@
       "duration_ms": 250750,
       "name": "Burswood",
       "url": "https://open.spotify.com/track/5YuxryY7j1fhjZprXTnNIk"
+    },
+    {
+      "album": {
+        "name": "Live from Japan",
+        "url": "https://open.spotify.com/album/72W7TzrmjvTkUtk7Cmv0ag"
+      },
+      "artists": [
+        {
+          "name": "death's dynamic shroud",
+          "url": "https://open.spotify.com/artist/1F31FB7Y6ic4844PbqMf7c"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230798,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/0FCVoK7HRBqnFcgvf1As5M"
     },
     {
       "album": {
@@ -430,6 +466,42 @@
     },
     {
       "album": {
+        "name": "The Invisible Hand",
+        "url": "https://open.spotify.com/album/5a1WVKY58WtVCsCCtnL9k6"
+      },
+      "artists": [
+        {
+          "name": "Space Chimney",
+          "url": "https://open.spotify.com/artist/2l6xjhbFL2l36xOfyJh3oF"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170886,
+      "name": "Decent Wizards",
+      "url": "https://open.spotify.com/track/4ekN5yYAqfbpgfO8zP19iy"
+    },
+    {
+      "album": {
+        "name": "Touched By an Angle, Vol. 2",
+        "url": "https://open.spotify.com/album/4zGSJQ8cPjwHbmeDtHrkfO"
+      },
+      "artists": [
+        {
+          "name": "Deadmalls",
+          "url": "https://open.spotify.com/artist/2qFdnNDKLAb4RDfijF9gKt"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Dillards",
+      "url": "https://open.spotify.com/track/3jcJiuBKrGKQmdW4xdDiuW"
+    },
+    {
+      "album": {
         "name": "Distant",
         "url": "https://open.spotify.com/album/1Yd4ngp73J71e7byk9c2gN"
       },
@@ -441,7 +513,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 240000,
       "name": "Distant",
       "url": "https://open.spotify.com/track/6mCWFMkBQE8wwfL7Jr5KQd"
@@ -565,7 +637,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 208831,
       "name": "Epilogue (See You In My Dreams)",
       "url": "https://open.spotify.com/track/3LeiUqAE7RPjX3xoFphw6R"
@@ -645,7 +717,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 197500,
       "name": "Fire Magic",
       "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
@@ -689,10 +761,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 164400,
       "name": "Floppy Disk Prism",
       "url": "https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5"
+    },
+    {
+      "album": {
+        "name": "Fortune's Mist",
+        "url": "https://open.spotify.com/album/0S7Ujzebm3gvBMLMRxvGFx"
+      },
+      "artists": [
+        {
+          "name": "Sonavision Deluxe",
+          "url": "https://open.spotify.com/artist/1A5KhSFYk9BtgfnsuF3rff"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194409,
+      "name": "Fortune's Mist",
+      "url": "https://open.spotify.com/track/2IMVBfuEXhWrihAGW4huK3"
     },
     {
       "album": {
@@ -725,7 +815,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 222958,
       "name": "Gallery",
       "url": "https://open.spotify.com/track/7d48ebXAXOgmjqluwB0NnL"
@@ -765,7 +855,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 324800,
       "name": "GottasaythatIneedyou",
       "url": "https://open.spotify.com/track/1qupE9NJIRdNoWIrCowaBF"
@@ -823,7 +913,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 176848,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4pM8IKc8qGOnKyloJyKU0T"
@@ -859,7 +949,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 144155,
       "name": "Heathrow",
       "url": "https://open.spotify.com/track/2rdh7qYQmaUQSOyjpsQpZy"
@@ -895,7 +985,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Home Workout VHS",
       "url": "https://open.spotify.com/track/4Uea245Q37jKLFs4i8rMO6"
@@ -989,7 +1079,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 284016,
       "name": "Jazz Mind \u30b8\u30e3\u30ba",
       "url": "https://open.spotify.com/track/3Jk8O0NBb5QrZN8Al15P7I"
@@ -1011,6 +1101,32 @@
       "duration_ms": 392727,
       "name": "Joy Of Soul Contact",
       "url": "https://open.spotify.com/track/4acvVFXP4d1j3m4WDGN1Ha"
+    },
+    {
+      "album": {
+        "name": "Laser Island",
+        "url": "https://open.spotify.com/album/4n24Qg24hmkqFSogWB0jNd"
+      },
+      "artists": [
+        {
+          "name": "Stux.Io",
+          "url": "https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68"
+        },
+        {
+          "name": "Gogi 93",
+          "url": "https://open.spotify.com/artist/3eOwKRgznUp7QxbWDDG4fZ"
+        },
+        {
+          "name": "Vaporwavez",
+          "url": "https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253312,
+      "name": "Laser Island",
+      "url": "https://open.spotify.com/track/2qJNF9zh4NSXeTNri1WKrK"
     },
     {
       "album": {
@@ -1184,6 +1300,24 @@
     },
     {
       "album": {
+        "name": "neon tsunami",
+        "url": "https://open.spotify.com/album/4dFj3BW33Cv7OLLHbOrLSD"
+      },
+      "artists": [
+        {
+          "name": "Designer Jeans",
+          "url": "https://open.spotify.com/artist/53EUvvVtuxGwO2SvyTLz8y"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101052,
+      "name": "neon tsunami",
+      "url": "https://open.spotify.com/track/4NselBX6dh3jocOoS0jHuw"
+    },
+    {
+      "album": {
         "name": "New Wares New Heirs New Game Plus (Remix)",
         "url": "https://open.spotify.com/album/0n5L2gvBD4ySFDlhvpmPqN"
       },
@@ -1235,7 +1369,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 235051,
       "name": "Night Patrol",
       "url": "https://open.spotify.com/track/1RWdqz1IQM8cBKAtSFaNfj"
@@ -1253,7 +1387,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 59560,
       "name": "Noodle Shop Cats",
       "url": "https://open.spotify.com/track/0W1FekyLAR8MjSJh7Hgpg9"
@@ -1325,7 +1459,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 233704,
       "name": "Only With You",
       "url": "https://open.spotify.com/track/62kPP0WriNYSFtM58bp53M"
@@ -1437,7 +1571,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 263333,
       "name": "pink worlds",
       "url": "https://open.spotify.com/track/7Ee0Fx1cs3GVaFC07oSe7o"
@@ -1535,10 +1669,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 192013,
       "name": "Private Cloud",
       "url": "https://open.spotify.com/track/4DHXqKnDwZ96UqpPoK6SWB"
+    },
+    {
+      "album": {
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
+      },
+      "artists": [
+        {
+          "name": "luxury elite",
+          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "Psychology of Desire",
+      "url": "https://open.spotify.com/track/0ZvvQvDIQUKj30b1CwA6lP"
     },
     {
       "album": {
@@ -1707,7 +1859,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 194884,
       "name": "Skysail",
       "url": "https://open.spotify.com/track/5sUjlq1Xj0ecYUEObo0SdF"
@@ -1725,7 +1877,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 187050,
       "name": "SNAKE WAY",
       "url": "https://open.spotify.com/track/7IZJ2wCNkvhwhsLgrMpuZn"
@@ -1743,7 +1895,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 256096,
       "name": "Sonic in the Holobeach",
       "url": "https://open.spotify.com/track/0D572l8DUok2WQpKMA5MEg"
@@ -1920,6 +2072,24 @@
     },
     {
       "album": {
+        "name": "Sunset Highway (w channel select)",
+        "url": "https://open.spotify.com/album/5JQw0ulLNXwDxSwF0exjap"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Cycler",
+          "url": "https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258954,
+      "name": "Sunset Highway (w channel select)",
+      "url": "https://open.spotify.com/track/0XDUlFhcH8XGNP2iGbIIur"
+    },
+    {
+      "album": {
         "name": "Surfer Girl",
         "url": "https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj"
       },
@@ -1949,7 +2119,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 182418,
       "name": "TAKE ME TO SUMMER SIDE",
       "url": "https://open.spotify.com/track/0CCOUNCp9zVJLgD7GodBCy"
@@ -1967,7 +2137,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 217404,
       "name": "Talk to me, \u4f1a\u3044\u305f\u3044\u3042\u3044\u305f\u3044",
       "url": "https://open.spotify.com/track/4cuq9VBVDfW7oUQkQ0lptF"
@@ -2061,7 +2231,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 150418,
       "name": "The Good Times of 1998",
       "url": "https://open.spotify.com/track/0srIHPpBTDG3vcdc0Wdt7q"
@@ -2115,7 +2285,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 196374,
       "name": "Thickedge",
       "url": "https://open.spotify.com/track/0uf3gYJLcx4pbu7Pva8N4I"
@@ -2151,7 +2321,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 201769,
       "name": "This Will Pass",
       "url": "https://open.spotify.com/track/2lIznpONVW6XaK7z0wX7qs"
@@ -2275,7 +2445,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 247030,
       "name": "Veil",
       "url": "https://open.spotify.com/track/7tHsbwpAHGabjXjJkfi8Df"
@@ -2427,7 +2597,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 267692,
       "name": "You are godlike",
       "url": "https://open.spotify.com/track/5WQrLjQJS2snymeZyVQ9MN"
@@ -2467,7 +2637,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 227462,
       "name": "\u5929\u4f7f",
       "url": "https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs"
@@ -2485,7 +2655,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 320462,
       "name": "\u5e7d\u970a",
       "url": "https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 231920,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 224866,
       "name": "American Honey",
       "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 246760,
       "name": "Any Man Of Mine",
       "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 213693,
       "name": "Blame It on Your Heart",
       "url": "https://open.spotify.com/track/1mICUTQCbRkAvGmO0cwoAz"
@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Coal Miner's Daughter",
+        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2021-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
+    },
+    {
+      "album": {
         "name": "Coat Of Many Colors",
         "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 140440,
       "name": "Daddy Sang Bass",
       "url": "https://open.spotify.com/track/15TITugVC8RrpLctHXOqT8"
@@ -523,7 +541,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 171840,
       "name": "Dumas Walker",
       "url": "https://open.spotify.com/track/30WzaYR4gc3U7wv1VWFP5y"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 259293,
       "name": "Gone Country",
       "url": "https://open.spotify.com/track/0MMTYholdf61c07jdCJi2I"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 195333,
       "name": "He Stopped Loving Her Today",
       "url": "https://open.spotify.com/track/6qMgx8ys4MNNxypaIvbG0i"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 229093,
       "name": "Help Pour Out the Rain (Lacey's Song)",
       "url": "https://open.spotify.com/track/4xWIqUIlfrusaaygS9RQsR"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 152333,
       "name": "Here's a Quarter (Call Someone Who Cares)",
       "url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 259266,
       "name": "Humble And Kind",
       "url": "https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 209853,
       "name": "I Cross My Heart",
       "url": "https://open.spotify.com/track/0nzAL0VNodLMlIh0Yl3eSN"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 276266,
       "name": "Life Is A Highway - 2008 Remaster",
       "url": "https://open.spotify.com/track/0CfZA0NJEvCffgmdvlTlkl"
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 208693,
       "name": "Mr. Mom",
       "url": "https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 156693,
       "name": "My Baby Loves Me",
       "url": "https://open.spotify.com/track/4yST9Z8QHK3hsMJaUkbmgx"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 223573,
       "name": "My Front Porch Looking In",
       "url": "https://open.spotify.com/track/2CVJECHIdpe8otFH0XFI4F"
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 248280,
       "name": "My Wish",
       "url": "https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 156893,
       "name": "Nothin' To Lose",
       "url": "https://open.spotify.com/track/7oiCqfE8Wjk8wf0pFTgL2H"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 241813,
       "name": "One Piece at a Time",
       "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 216200,
       "name": "Pickup Man",
       "url": "https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 195586,
       "name": "Play Something Country",
       "url": "https://open.spotify.com/track/7MevrbPAGEaw1IgkaBmv82"
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 221333,
       "name": "Redneck Woman",
       "url": "https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 230373,
       "name": "Redneck Yacht Club",
       "url": "https://open.spotify.com/track/4etE2X6t7GmyiuYLIdI8H5"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 160026,
       "name": "Rocky Top",
       "url": "https://open.spotify.com/track/5QSiHPOYNCmpbwwMQyOGA6"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 248066,
       "name": "She Thinks My Tractor's Sexy",
       "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
@@ -1881,7 +1899,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 148973,
       "name": "Tall, Tall Trees",
       "url": "https://open.spotify.com/track/5JkGBzxQ6qqf6MSzuLnjV2"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 214866,
       "name": "The Devil Went Down to Georgia",
       "url": "https://open.spotify.com/track/383Xl5QTigwj3QiA3Qc6S7"
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 214880,
       "name": "The Gambler",
       "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
@@ -2367,7 +2385,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 182280,
       "name": "You've Got to Stand for Something",
       "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"

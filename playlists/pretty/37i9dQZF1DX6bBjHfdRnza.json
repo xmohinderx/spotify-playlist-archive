@@ -1,13 +1,45 @@
 {
-  "description": "The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: TIBASKO, Artwork: Rewina Beshue.",
-  "num_followers": 116203,
-  "original_name": "Fresh Finds: Dance",
+  "description": "The best new dance & electronic music by independent artists and labels. Updates every Wednesday. Cover: Ben Miller (Aus), Artwork: Rewina Beshue.",
+  "num_followers": 116450,
+  "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjAwNzQzMCwwMDAwMDZlZDAwMDAwMTdlNGY0NTA2Y2EwMDAwMDE3ZTRiZjVkZDM1",
+  "snapshot_id": "MTY0MjYxODM4MiwwMDAwMDZlZjAwMDAwMTdlNzNhZjY4NjkwMDAwMDE3ZTczYTc0MDBk",
   "tracks": [
+    {
+      "added_at": "2022-01-12 17:00:00",
+      "album": {
+        "name": "All I Do",
+        "url": "https://open.spotify.com/album/33Eb0Zl7WwsHAC6sZmNt88"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller (Aus)",
+          "url": "https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/1iKkDpq64zlW1Cv3zdrOaX"
+    },
+    {
+      "added_at": "2022-01-19 18:52:29",
+      "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/0wAZLCTqTYCREJ9nxnrBLV"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/3XXUatyIgWbC9KSN1FUHIR"
+    },
     {
       "added_at": "2022-01-12 17:00:00",
       "album": {
@@ -57,22 +89,6 @@
       "url": "https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo"
     },
     {
-      "added_at": "2022-01-12 17:00:00",
-      "album": {
-        "name": "Call Me Your Hope",
-        "url": "https://open.spotify.com/album/123sa4JxBBfMjnHqnrm1Kp"
-      },
-      "artists": [
-        {
-          "name": "Tobias Dray",
-          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
-        }
-      ],
-      "duration_ms": 116770,
-      "name": "Call Me Your Hope",
-      "url": "https://open.spotify.com/track/12MinAwnBD9uFK2amDeXty"
-    },
-    {
       "added_at": "2021-10-20 18:04:29",
       "album": {
         "name": "Forbidden Feelingz",
@@ -103,6 +119,30 @@
       "duration_ms": 237929,
       "name": "ALREADY",
       "url": "https://open.spotify.com/track/6Va3LYz5xrQWbqqbbUaPSu"
+    },
+    {
+      "added_at": "2022-01-19 18:52:29",
+      "album": {
+        "name": "infina ad nausea: the remixes [international disco pack]",
+        "url": "https://open.spotify.com/album/29zLq7TmFob5OLJh9xhK22"
+      },
+      "artists": [
+        {
+          "name": "QRTR",
+          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
+        },
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        },
+        {
+          "name": "Sasha Rome",
+          "url": "https://open.spotify.com/artist/7KGmg4NzIcv4InBOaenfJu"
+        }
+      ],
+      "duration_ms": 208935,
+      "name": "Blame Me - Supertaste & Sasha Rome Remix",
+      "url": "https://open.spotify.com/track/5pMOG0qF9a9jwSNwdqpHGN"
     },
     {
       "added_at": "2021-10-27 17:33:17",
@@ -157,20 +197,40 @@
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
     },
     {
-      "added_at": "2022-01-12 17:00:00",
+      "added_at": "2022-01-19 18:52:29",
       "album": {
-        "name": "All I Do",
-        "url": "https://open.spotify.com/album/33Eb0Zl7WwsHAC6sZmNt88"
+        "name": "Where's My Phone? (feat. Sailor Jane)",
+        "url": "https://open.spotify.com/album/4TJHuJSMafpzgL3a69GIpM"
       },
       "artists": [
         {
-          "name": "Ben Miller (Aus)",
-          "url": "https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J"
+          "name": "R.E.A.D",
+          "url": "https://open.spotify.com/artist/0PdsKkjp0TGjzPVY8Q4dAR"
+        },
+        {
+          "name": "Sailor Jane",
+          "url": "https://open.spotify.com/artist/3v5UQCcGELwMLnkpbSf4WE"
         }
       ],
-      "duration_ms": 267840,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/1iKkDpq64zlW1Cv3zdrOaX"
+      "duration_ms": 189395,
+      "name": "Where's My Phone? (feat. Sailor Jane)",
+      "url": "https://open.spotify.com/track/4yhTNs3Gi1SgI9Wuep7Vnj"
+    },
+    {
+      "added_at": "2022-01-19 18:52:29",
+      "album": {
+        "name": "Googoo Lagoon",
+        "url": "https://open.spotify.com/album/26lzqyZj9NtAe1JG1lejca"
+      },
+      "artists": [
+        {
+          "name": "DR. GABBA",
+          "url": "https://open.spotify.com/artist/0PBXAVipMP5B7A554hJX0R"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "Googoo Lagoon",
+      "url": "https://open.spotify.com/track/2WDhakxpi1P3Kzp6JT30ll"
     },
     {
       "added_at": "2021-09-01 18:20:04",
@@ -189,6 +249,22 @@
       "url": "https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt"
     },
     {
+      "added_at": "2022-01-19 18:52:29",
+      "album": {
+        "name": "Holy Spirit",
+        "url": "https://open.spotify.com/album/7KXjpzpZod87pVvoGeFWYi"
+      },
+      "artists": [
+        {
+          "name": "Prozak",
+          "url": "https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/3nySLEiNcyTh6FOtinj8r8"
+    },
+    {
       "added_at": "2021-12-01 08:10:00",
       "album": {
         "name": "Every Day the Sun Comes Up",
@@ -203,6 +279,38 @@
       "duration_ms": 316194,
       "name": "Every Day the Sun Comes Up",
       "url": "https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo"
+    },
+    {
+      "added_at": "2022-01-19 18:52:29",
+      "album": {
+        "name": "Water EP",
+        "url": "https://open.spotify.com/album/28dTlknoqpGzz3mcCRQCcv"
+      },
+      "artists": [
+        {
+          "name": "Tagavaka",
+          "url": "https://open.spotify.com/artist/6r9d7O0TN4AZoM5AK4CmRy"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Gray",
+      "url": "https://open.spotify.com/track/3YECmp4K34X57TQKlDTDFJ"
+    },
+    {
+      "added_at": "2022-01-19 18:52:29",
+      "album": {
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/0HOFCFgeQfEIc6qjZcGpOw"
+      },
+      "artists": [
+        {
+          "name": "BASSALIKA",
+          "url": "https://open.spotify.com/artist/0fYVPyjSA1z53Vt1gGP6kv"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/57VHmDczK9GuiShhnlup3e"
     },
     {
       "added_at": "2022-01-12 17:00:00",
@@ -221,20 +329,20 @@
       "url": "https://open.spotify.com/track/2iA8xytD9YOCHLwb0Gyjl7"
     },
     {
-      "added_at": "2022-01-12 17:00:00",
+      "added_at": "2022-01-19 18:52:29",
       "album": {
-        "name": "Wishing You Well",
-        "url": "https://open.spotify.com/album/55ntFfC45EacYBLio8pIn0"
+        "name": "Leap of Faith",
+        "url": "https://open.spotify.com/album/4HB23TWzsukMvuhlarWlgP"
       },
       "artists": [
         {
-          "name": "Pocket",
-          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+          "name": "To the Tide",
+          "url": "https://open.spotify.com/artist/1ocRS6ry12CvfrXgV9DWVs"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Wishing You Well",
-      "url": "https://open.spotify.com/track/3AMuesulUPLaZQWYS8AC2C"
+      "duration_ms": 204444,
+      "name": "Leap of Faith",
+      "url": "https://open.spotify.com/track/1lATqb3NH4gqeNnFO1s7qw"
     },
     {
       "added_at": "2021-12-01 08:10:00",
@@ -251,6 +359,54 @@
       "duration_ms": 224004,
       "name": "It\u2019s Not You, It\u2019s Me - Club Mix",
       "url": "https://open.spotify.com/track/2CKrEKGMFoPzagBkhocFKW"
+    },
+    {
+      "added_at": "2022-01-12 17:00:00",
+      "album": {
+        "name": "Wishing You Well",
+        "url": "https://open.spotify.com/album/55ntFfC45EacYBLio8pIn0"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Wishing You Well",
+      "url": "https://open.spotify.com/track/3AMuesulUPLaZQWYS8AC2C"
+    },
+    {
+      "added_at": "2022-01-12 17:00:00",
+      "album": {
+        "name": "Call Me Your Hope",
+        "url": "https://open.spotify.com/album/123sa4JxBBfMjnHqnrm1Kp"
+      },
+      "artists": [
+        {
+          "name": "Tobias Dray",
+          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
+        }
+      ],
+      "duration_ms": 116770,
+      "name": "Call Me Your Hope",
+      "url": "https://open.spotify.com/track/12MinAwnBD9uFK2amDeXty"
+    },
+    {
+      "added_at": "2022-01-19 18:52:29",
+      "album": {
+        "name": "We Love Acid, Pt. 1",
+        "url": "https://open.spotify.com/album/4TS7nRrgp4NWS1j4McVCep"
+      },
+      "artists": [
+        {
+          "name": "Spinline",
+          "url": "https://open.spotify.com/artist/709HOalkmfCteyfj7JXJRY"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Return",
+      "url": "https://open.spotify.com/track/2XyzfSa9JzebrJqOBuUScl"
     },
     {
       "added_at": "2021-12-01 08:10:00",
@@ -383,6 +539,22 @@
       "duration_ms": 241386,
       "name": "And Werk",
       "url": "https://open.spotify.com/track/5IjTDv7iStn75m0bq4diRk"
+    },
+    {
+      "added_at": "2022-01-19 18:52:29",
+      "album": {
+        "name": "Virtual Resistance EP",
+        "url": "https://open.spotify.com/album/70OcboZF1QOgC1FTL6g1EA"
+      },
+      "artists": [
+        {
+          "name": "Ed Hodge",
+          "url": "https://open.spotify.com/artist/3ZhNhH1ZI8Ao8J5k1HAb81"
+        }
+      ],
+      "duration_ms": 365769,
+      "name": "Hot Point",
+      "url": "https://open.spotify.com/track/4pGaOdCzcsEdHP8rf2oBh3"
     },
     {
       "added_at": "2022-01-12 17:00:00",
@@ -1411,22 +1583,6 @@
     {
       "added_at": "2021-12-01 08:10:00",
       "album": {
-        "name": "In Due Time",
-        "url": "https://open.spotify.com/album/3NYI64K5L8vhrqaC9tVv6g"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9pe",
-          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
-        }
-      ],
-      "duration_ms": 425136,
-      "name": "In Due Time",
-      "url": "https://open.spotify.com/track/5cLrX8NtzEHWgc04A0za6z"
-    },
-    {
-      "added_at": "2021-12-01 08:10:00",
-      "album": {
         "name": "Surrender Yourself",
         "url": "https://open.spotify.com/album/1bRFR71dDq9KA6tjnKJo6u"
       },
@@ -1471,42 +1627,6 @@
       "duration_ms": 216793,
       "name": "Be Patient",
       "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
-    },
-    {
-      "added_at": "2021-12-01 08:10:00",
-      "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/1ahaRCSQ9j7hLHPgoiEdz7"
-      },
-      "artists": [
-        {
-          "name": "DJ Kuroneko",
-          "url": "https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/7KfdPC5dRTW5zpXM2tNGq0"
-    },
-    {
-      "added_at": "2021-12-01 08:10:00",
-      "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje"
-      },
-      "artists": [
-        {
-          "name": "Facta",
-          "url": "https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn"
-        },
-        {
-          "name": "Parris",
-          "url": "https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt"
-        }
-      ],
-      "duration_ms": 329280,
-      "name": "Diving Birds",
-      "url": "https://open.spotify.com/track/6b5Y2qdzMU6X9sK11UXouC"
     },
     {
       "added_at": "2022-01-12 17:00:00",
@@ -1571,40 +1691,8 @@
       "duration_ms": 208896,
       "name": "hold on",
       "url": "https://open.spotify.com/track/40o7MmYto4JMsbRzVl514p"
-    },
-    {
-      "added_at": "2021-12-01 08:10:00",
-      "album": {
-        "name": "Harmonic Frequencies",
-        "url": "https://open.spotify.com/album/4KI8PM8G8iT5tc2yAz3PBl"
-      },
-      "artists": [
-        {
-          "name": "Elkka",
-          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
-        }
-      ],
-      "duration_ms": 250993,
-      "name": "Harmonic Frequencies",
-      "url": "https://open.spotify.com/track/2U2dlU4ELCrmUOnojBsMcT"
-    },
-    {
-      "added_at": "2021-12-01 08:10:00",
-      "album": {
-        "name": "160 DOWN THE A406",
-        "url": "https://open.spotify.com/album/5Wu97Q2WeXdwFk6kXmF6mS"
-      },
-      "artists": [
-        {
-          "name": "SHERELLE",
-          "url": "https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO"
-        }
-      ],
-      "duration_ms": 362845,
-      "name": "160 DOWN THE A406",
-      "url": "https://open.spotify.com/track/1uFinqBJvAhyupYVcrUaAl"
     }
   ],
-  "unique_name": "Fresh Finds: Dance",
+  "unique_name": "Fresh Finds Dance",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza"
 }

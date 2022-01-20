@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 164594,
       "name": "10von10",
       "url": "https://open.spotify.com/track/1sa59Q9urE82MD3ELi44HN"
@@ -685,12 +685,12 @@
           "url": "https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h"
         },
         {
-          "name": "KALIM",
-          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
-        },
-        {
           "name": "Bausa",
           "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
         }
       ],
       "date_added": "2022-01-15",
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 104613,
       "name": "Belgisches Viertel",
       "url": "https://open.spotify.com/track/1h3d2lvISrSIV6fS89U51S"
@@ -4677,7 +4677,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 116132,
       "name": "Free Gzuz (Intro)",
       "url": "https://open.spotify.com/track/6evBGLuvKMxuhXzQKFwnVg"
@@ -7361,7 +7361,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 146710,
       "name": "Kein Plan",
       "url": "https://open.spotify.com/track/3TnEixPO5y9qO6SBSb7Ljw"

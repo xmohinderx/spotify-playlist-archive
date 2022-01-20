@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVLcZxJO5zyf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVLcZxJO5zyf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVLcZxJO5zyf)
 
-### Pop Brasil
+### [Pop Brasil](https://open.spotify.com/playlist/2iwi9LnnLi5RXjdilr4cmw)
 
 > Ouça os hits do momento da música pop brasileira\. Foto: Pabllo Vittar, Dilsinho
 

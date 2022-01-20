@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > reunião de pais e mestres com L7NNON e MD Chefe: Hermés é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,121,686 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,122,239 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 36 | [Favela No Topo](https://open.spotify.com/track/5KtC1UhvyfLH5yCLTTfXwm) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS) | [Universo Particular](https://open.spotify.com/album/0Wg1HsbVatKcEZznPZ62Ev) | 4:22 |
 | 37 | [Parabellum](https://open.spotify.com/track/3CPWSSuZpNlvIrQ4uFiBld) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH) | [Parabellum](https://open.spotify.com/album/1shheX7krP1YOK6KiMLcZe) | 2:13 |
 | 38 | [777\-666](https://open.spotify.com/track/3sGcETRMuAgcPgjDpIkgMn) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 2:44 |
-| 39 | [De 90 pra Cá](https://open.spotify.com/track/4u47lJWoqhJi8zWkZ13l7L) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Dexter](https://open.spotify.com/artist/3Gm6GYrQQJty7yYb4cE0Db), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [De 90 pra Cá](https://open.spotify.com/album/4QIlQ87A4GYI2NUz62oK0J) | 3:37 |
+| 39 | [De 90 pra Cá](https://open.spotify.com/track/4u47lJWoqhJi8zWkZ13l7L) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x), [Elenko Music](https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL) | [De 90 pra Cá](https://open.spotify.com/album/4QIlQ87A4GYI2NUz62oK0J) | 3:37 |
 | 40 | [Resiliência](https://open.spotify.com/track/4553asTWEDAk3NUAT4d0RR) | [Tribo da Periferia](https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG) | [Híbrido](https://open.spotify.com/album/5Jbiw69yGe9uAJ7ElPfPep) | 3:30 |
 | 41 | [Se Essa Bunda](https://open.spotify.com/track/7gMWTBRgB5CZdNDSuweCyr) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Se Essa Bunda](https://open.spotify.com/album/6hKe3QG6yPJ3fs1f7RB1UX) | 4:09 |
 | 42 | [Saturno](https://open.spotify.com/track/68cPbG7hJnwDW9nPX1uQcX) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Saturno](https://open.spotify.com/album/54lVKhg9g9xAzZjMU46ay7) | 3:06 |

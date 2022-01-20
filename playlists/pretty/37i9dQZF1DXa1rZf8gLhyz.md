@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 
 > Let these jazz tracks lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,350 likes - 115 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,633 likes - 115 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1rZf8gLhyz.md) - [plain]
 | 25 | [Time for Eiroa](https://open.spotify.com/track/71CxH5ixNJzdh4XNLLgIkq) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Small Hours](https://open.spotify.com/album/4S4F8NWyDMw2yYSAfRT2qh) | 3:25 |
 | 26 | [Everything Happens To Me](https://open.spotify.com/track/0ElOE6iF6PcHKGafYHkr2T) | [Greg Paterson](https://open.spotify.com/artist/5MAX4Nf5YdknFZPqZ7ucVt) | [Everything Happens To Me](https://open.spotify.com/album/74XVN1rhFaVY7khDoALBNI) | 4:40 |
 | 27 | [some other time](https://open.spotify.com/track/4LgRqskD0OohOTxfZRqV8E) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:14 |
-| 28 | [I Left My Heart In San Fransisco](https://open.spotify.com/track/0qMhdJjFV0VVu7atzy3VXd) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Left My Heart In San Fransisco](https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY) | 4:33 |
+| 28 | [I Left My Heart In San Francisco](https://open.spotify.com/track/0qMhdJjFV0VVu7atzy3VXd) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Left My Heart In San Francisco](https://open.spotify.com/album/7Cti2pokVA6FYhZmYBzBZY) | 4:33 |
 | 29 | [Sangfroid](https://open.spotify.com/track/68fAT62Ccoh6KdjV3gnM8z) | [Infinity Ripple](https://open.spotify.com/artist/43BCjiV6q327zly4HaH8QL) | [Wax Figures](https://open.spotify.com/album/34Xfn5YawRW1BmaVzgrtFt) | 2:57 |
 | 30 | [Moon River](https://open.spotify.com/track/3qBUFn6AgcHTI3tkg99lDD) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Moon River](https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx) | 3:31 |
 | 31 | [Why try to change me now](https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Why try to change me now](https://open.spotify.com/album/5uCLR0oUrQISjDJpZyqvpi) | 5:19 |

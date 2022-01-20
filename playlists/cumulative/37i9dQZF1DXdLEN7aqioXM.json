@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "9.30pm",
       "url": "https://open.spotify.com/track/7sVySvSTq1w7jg8RxJ8FYU"
@@ -41,6 +41,24 @@
       "duration_ms": 206000,
       "name": "Aether",
       "url": "https://open.spotify.com/track/4OnuNLwvIgroDdTXX2k5dF"
+    },
+    {
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/1EBKGI7RyqrGScoPmqxzc1"
+      },
+      "artists": [
+        {
+          "name": "Mitch Murder",
+          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220714,
+      "name": "After Hours Run",
+      "url": "https://open.spotify.com/track/2PZrXkW8QNsJwYdG9lgTmB"
     },
     {
       "album": {
@@ -127,7 +145,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 170511,
       "name": "Bad Night at Black's Beach",
       "url": "https://open.spotify.com/track/2vgL4j2cyWWBul8FWQ3GQO"
@@ -167,7 +185,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 214736,
       "name": "Blink of an Eye",
       "url": "https://open.spotify.com/track/3kgtLhFbasJILGIK952ww0"
@@ -203,10 +221,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 228196,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1wdLaeNn73zbpYVqw8mlYz"
+    },
+    {
+      "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/5hP9xADhbxHD4TtnCKTt2W"
+      },
+      "artists": [
+        {
+          "name": "Fred Falke",
+          "url": "https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280240,
+      "name": "Crepuscule",
+      "url": "https://open.spotify.com/track/4R892ve3lkQWo6mKxsVbZN"
     },
     {
       "album": {
@@ -503,7 +539,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 272173,
       "name": "Failed Star",
       "url": "https://open.spotify.com/track/39wuQ4m4GBzrGfivIjjL22"
@@ -613,7 +649,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 299913,
       "name": "Homebound",
       "url": "https://open.spotify.com/track/1M7tv8CnuKzTVK4otfr355"
@@ -653,6 +689,24 @@
       "duration_ms": 247146,
       "name": "Hypnic",
       "url": "https://open.spotify.com/track/2H55QFDo3vexV4gu85WUTl"
+    },
+    {
+      "album": {
+        "name": "Last Path",
+        "url": "https://open.spotify.com/album/2Kk03vlxFYQwv3xH5k3wNC"
+      },
+      "artists": [
+        {
+          "name": "VIQ",
+          "url": "https://open.spotify.com/artist/6XpN8mRlhuOXuvEyva4yjZ"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242842,
+      "name": "Last Path",
+      "url": "https://open.spotify.com/track/6g8EEkAjIuJ56RLKKgHpKT"
     },
     {
       "album": {
@@ -700,6 +754,24 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/45fOiBfPzjuymF8Pgu2s89"
+      },
+      "artists": [
+        {
+          "name": "CHVRN",
+          "url": "https://open.spotify.com/artist/7rSykIe3Og1NMbIV6LOeVx"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/20IXNFE419YM3vu7mEuM6M"
+    },
+    {
+      "album": {
         "name": "Retrowave",
         "url": "https://open.spotify.com/album/3zKj0Uhic2uNL84tPvmIXu"
       },
@@ -711,7 +783,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 256406,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/5E2MwDLWs222toDOFmO09j"
@@ -827,7 +899,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 231533,
       "name": "Maximum Performance",
       "url": "https://open.spotify.com/track/0VpFKLQP6Deh6sHETGCzrp"
@@ -867,7 +939,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 319250,
       "name": "Neo-Tokyo - Chromatique Remix",
       "url": "https://open.spotify.com/track/4994qi4UjoPStjsbUB8AAF"
@@ -921,7 +993,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 257142,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/7nwMY3U4zhXQLQsjX8gwzf"
@@ -939,7 +1011,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 248202,
       "name": "Nightdrive",
       "url": "https://open.spotify.com/track/0nsXChOHmBEH7QOul9VVBT"
@@ -983,7 +1055,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 252121,
       "name": "Nightride (Revisited)",
       "url": "https://open.spotify.com/track/52xsz9WmVwCXiRFOvMh5yQ"
@@ -1005,7 +1077,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 237104,
       "name": "Nighttime - Polyark Remix",
       "url": "https://open.spotify.com/track/1HKNHY7DVQmNuD0J0mTHCt"
@@ -1189,7 +1261,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 250285,
       "name": "Past Present",
       "url": "https://open.spotify.com/track/6NWqbfviq3zwoGqIlSnzuR"
@@ -1359,10 +1431,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 360874,
       "name": "Synthesizer Hearts - W.H. Lung Remix",
       "url": "https://open.spotify.com/track/2a42N7b4XOl42OsL2EZvQt"
+    },
+    {
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/0tZlHRx038Eph8Gmoflzh4"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229014,
+      "name": "The Equaliser (Not Alone)",
+      "url": "https://open.spotify.com/track/3cQ0w1P9IUuwwkBG9g9JpO"
     },
     {
       "album": {
@@ -1413,7 +1503,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 199752,
       "name": "Through This Night",
       "url": "https://open.spotify.com/track/4yRsZmx9UTbCGA6fy957ur"
@@ -1431,7 +1521,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 186947,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg"
@@ -1492,6 +1582,24 @@
     },
     {
       "album": {
+        "name": "Near Dark",
+        "url": "https://open.spotify.com/album/1PbK3fDq8nVbImjOSHqnHD"
+      },
+      "artists": [
+        {
+          "name": "Dance With the Dead",
+          "url": "https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270720,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/4QnTtQJnAxK61zOibTJpYT"
+    },
+    {
+      "album": {
         "name": "When We Touch",
         "url": "https://open.spotify.com/album/1x8Pv29DecQEtVm2Y7bLen"
       },
@@ -1503,7 +1611,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 193628,
       "name": "When We Touch",
       "url": "https://open.spotify.com/track/4L9JfSWGhatpxfPPvEf46b"

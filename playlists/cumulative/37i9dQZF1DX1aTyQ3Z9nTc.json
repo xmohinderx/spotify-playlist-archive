@@ -159,7 +159,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 183870,
       "name": "According To You",
       "url": "https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 190619,
       "name": "belladonna",
       "url": "https://open.spotify.com/track/6qYC4QgcI1IBeq2yNh1sA9"
@@ -779,6 +779,28 @@
       "duration_ms": 170086,
       "name": "Cuvry",
       "url": "https://open.spotify.com/track/7jXmv6vwti8iu0aJh6lNOp"
+    },
+    {
+      "album": {
+        "name": "CYNICAL",
+        "url": "https://open.spotify.com/album/26uvkNDrhstsv0ULMVKnYv"
+      },
+      "artists": [
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "Joe Bills",
+          "url": "https://open.spotify.com/artist/1W0jgt0r6ladSy83zw9Ik4"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209801,
+      "name": "CYNICAL",
+      "url": "https://open.spotify.com/track/4Ykzt5EPr1Urpq07BT7w5U"
     },
     {
       "album": {
@@ -1695,7 +1717,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 169030,
       "name": "Just a Phase",
       "url": "https://open.spotify.com/track/7sgB139lmZEczNLRKDJf1I"
@@ -1731,7 +1753,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 165481,
       "name": "LAGOON",
       "url": "https://open.spotify.com/track/2CmXykYlFNlXQTdFR0Uruw"
@@ -2025,7 +2047,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 203756,
       "name": "Nacho's",
       "url": "https://open.spotify.com/track/6WOeZyGX9TpWbUnzFX7k8e"
@@ -2281,7 +2303,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 194083,
       "name": "Onward",
       "url": "https://open.spotify.com/track/5b2P9Daw2N0ta2F0y7c4DD"
@@ -2559,7 +2581,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 210972,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/2weQXKgUMh3OKNvrQJijyz"
@@ -2581,7 +2603,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 155000,
       "name": "Retro",
       "url": "https://open.spotify.com/track/0wi4gkHVHSARtzyqnMZNno"
@@ -2599,7 +2621,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 160000,
       "name": "RIDE",
       "url": "https://open.spotify.com/track/1ufJxWpoWSy7qh6gBIubKX"
@@ -2741,7 +2763,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 221415,
       "name": "Slow Kisses",
       "url": "https://open.spotify.com/track/501PUoceKvqu71KVl3c7z6"
@@ -2817,7 +2839,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 236733,
       "name": "Stand Up (Edit)",
       "url": "https://open.spotify.com/track/68C8fxu1EXWo0pSRWebRyk"
@@ -2909,7 +2931,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 188805,
       "name": "Stickin' (feat. Masego & VanJess)",
       "url": "https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP"
@@ -3033,7 +3055,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 163509,
       "name": "Sweet Sensation",
       "url": "https://open.spotify.com/track/0JvAFT6V106SHfkyVwhf4J"
@@ -3073,7 +3095,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 169440,
       "name": "Team Rocket",
       "url": "https://open.spotify.com/track/10xhG0HqLnytkORw4UqWp8"
@@ -3179,7 +3201,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 200115,
       "name": "The Wheel",
       "url": "https://open.spotify.com/track/6Mm7nCTVVduH0uehfNfITB"
@@ -3201,7 +3223,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 200115,
       "name": "The Wheel (feat. Reva DeVito)",
       "url": "https://open.spotify.com/track/24lQFc4lt65TynrdW72E2x"
@@ -3599,7 +3621,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 214486,
       "name": "Where You From",
       "url": "https://open.spotify.com/track/6XmWbYiKGFh0jUAGc9SvwB"

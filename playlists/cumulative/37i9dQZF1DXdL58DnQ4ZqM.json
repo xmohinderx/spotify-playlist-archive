@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 343103,
       "name": "Above The Clouds",
       "url": "https://open.spotify.com/track/3wvGcypk0Ne1TrQS8vImd4"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "Balihai Baby",
       "url": "https://open.spotify.com/track/65rWh7Lc5MwCv0LsUozsSf"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 192000,
       "name": "B\u00f3 m\u00f9",
       "url": "https://open.spotify.com/track/4UVPRsqHVlIebCbifU26V6"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 289979,
       "name": "Deep Feelings",
       "url": "https://open.spotify.com/track/56LZ3dKKaV3HQwesiQ0WDq"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 256000,
       "name": "Deep Inside - Chill Mix",
       "url": "https://open.spotify.com/track/0r03AkMlxFV0UhQyzlzTwj"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 246900,
       "name": "I've Changed Now",
       "url": "https://open.spotify.com/track/1lcSo7PYNPlk8oPEXX7NW1"
@@ -1197,7 +1197,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 283793,
       "name": "Magnetic Metafor",
       "url": "https://open.spotify.com/track/1O33UTG2hy1iIrKvkh5NcA"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 353333,
       "name": "Midnight Mood",
       "url": "https://open.spotify.com/track/2Ja6olyQK3JtLf1pvcgM8z"
@@ -1586,6 +1586,24 @@
     },
     {
       "album": {
+        "name": "Nocturne No 20 (Chill with me mix)",
+        "url": "https://open.spotify.com/album/2YWGI9WpJz6VbHp8rLCE4y"
+      },
+      "artists": [
+        {
+          "name": "The Upstairs",
+          "url": "https://open.spotify.com/artist/0bqFiEQI5oNIuvdk4l6PYC"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241379,
+      "name": "Prelude No 1 - Spa Mix",
+      "url": "https://open.spotify.com/track/4dMkjto178UJ2na0dUsGW3"
+    },
+    {
+      "album": {
         "name": "Purple Heart",
         "url": "https://open.spotify.com/album/3eQzl4B4D6gS5gCkaEU4vL"
       },
@@ -1597,7 +1615,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 218333,
       "name": "Purple Heart",
       "url": "https://open.spotify.com/track/41hfLPgLlHIBPaiPw2q8tV"
@@ -2015,7 +2033,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 224615,
       "name": "Terme di Caracalla",
       "url": "https://open.spotify.com/track/04lDOxJeMbYjkTVx9TbJsb"
@@ -2123,7 +2141,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 297413,
       "name": "Time-Lapse",
       "url": "https://open.spotify.com/track/5GowdwInXfSd4aTIM52Gmo"
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 167237,
       "name": "Trois Fois",
       "url": "https://open.spotify.com/track/0bekzPhna4CgcyKvW7VRDR"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 336000,
       "name": "Walking On the Sand",
       "url": "https://open.spotify.com/track/6WE6BnufTYe0ztSuzw22ga"

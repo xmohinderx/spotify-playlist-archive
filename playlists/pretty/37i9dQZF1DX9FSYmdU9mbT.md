@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Fique de bem com a vida com grandes artistas da MPB\. Foto: Roberto Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201,354 likes - 90 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,201,393 likes - 90 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 284933,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/4aDtCVcQCkR7zYa8jwLciP"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 252693,
       "name": "Arrullo De Estrellas",
       "url": "https://open.spotify.com/track/1p4rYrxjVkj6v2eMzRhLfA"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 294333,
       "name": "Aun",
       "url": "https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 267826,
       "name": "Bailando Solo",
       "url": "https://open.spotify.com/track/1TxWtt0lIi4yMSxuLujqze"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 232120,
       "name": "Como T\u00fa (Magic Music Box)",
       "url": "https://open.spotify.com/track/0E8qIw6KblOtDQYzzHQrxL"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 238360,
       "name": "Detras De Los Cerros",
       "url": "https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 189466,
       "name": "Dormir So\u00f1ando",
       "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 224085,
       "name": "Dulce Soledad",
       "url": "https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 243560,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/7j7qS7NIvezns7Z5fLUAuT"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 233393,
       "name": "Ella Estrella",
       "url": "https://open.spotify.com/track/1rpOMdGC7PmKsNzOU8Xzfn"
@@ -989,6 +989,24 @@
       "duration_ms": 206373,
       "name": "Esa noche",
       "url": "https://open.spotify.com/track/2jggaUpOvn2G6Pv2HCEU6m"
+    },
+    {
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z"
     },
     {
       "album": {
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 250293,
       "name": "Gimme Tha Power",
       "url": "https://open.spotify.com/track/7bN2XAxC3SN8Ie16xP6lpm"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 266826,
       "name": "Guitarras Blancas",
       "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 190893,
       "name": "Hay Amores Que Matan",
       "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 248986,
       "name": "H\u00e9roe de leyenda",
       "url": "https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 257440,
       "name": "La Vida Gacha",
       "url": "https://open.spotify.com/track/2YUv7bKZMxCIESQkaPH67Z"
@@ -1785,7 +1803,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 280419,
       "name": "Luna",
       "url": "https://open.spotify.com/track/6YHAExoi0JVSknKbFiT6Kr"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 253186,
       "name": "Maldito duende",
       "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 237346,
       "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
       "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 222346,
       "name": "Mariposa tecknicolor",
       "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
@@ -2081,7 +2099,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 260439,
       "name": "Nada",
       "url": "https://open.spotify.com/track/1lpGX4TZPVgEKGGBDc3n9j"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 307631,
       "name": "Parecemos tontos",
       "url": "https://open.spotify.com/track/5KsZGdaJugVnu1Faccq22D"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 282120,
       "name": "Pobre de Ti",
       "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
@@ -2279,7 +2297,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 273800,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 225706,
       "name": "Putita",
       "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 235560,
       "name": "Te quiero igual",
       "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
@@ -2571,7 +2589,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 224320,
       "name": "Tornasol (Vuelves a Ser)",
       "url": "https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN"
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 336933,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/6W1BLmVBxkqZwFQcORQLnv"
@@ -2679,7 +2697,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 225173,
       "name": "Vendedora de Caricias",
       "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
@@ -2733,7 +2751,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 236333,
       "name": "Viento",
       "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"

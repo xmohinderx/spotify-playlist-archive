@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "A Little Less Bored",
+        "url": "https://open.spotify.com/album/4YbZzBoYBVEZeEceOu85iP"
+      },
+      "artists": [
+        {
+          "name": "Sir Simon",
+          "url": "https://open.spotify.com/artist/66s4j0fEi6h0xeQfbh54FP"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "A Little Less Bored",
+      "url": "https://open.spotify.com/track/7Mf4X2WRdXV3GCCkc6dlk0"
+    },
+    {
+      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy"
       },
@@ -167,7 +185,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 226848,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/6V8IY1khSjXlgvG6mbIyXQ"
@@ -189,6 +207,24 @@
       "duration_ms": 220754,
       "name": "Beach Coma - Spotify Singles",
       "url": "https://open.spotify.com/track/38xxi0A7cpJIGzbCT2fXlm"
+    },
+    {
+      "album": {
+        "name": "Big One",
+        "url": "https://open.spotify.com/album/03uvIKV9Varm3DtF7JUrFD"
+      },
+      "artists": [
+        {
+          "name": "Dan Croll",
+          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170150,
+      "name": "Big One",
+      "url": "https://open.spotify.com/track/6kcL3CIWLQ6RpvfRL5hoqH"
     },
     {
       "album": {
@@ -423,7 +459,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 233239,
       "name": "cold water",
       "url": "https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA"
@@ -639,7 +675,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 180026,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/1ObhrhgjhDENcTAWbo91vS"
@@ -693,7 +729,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 218840,
       "name": "Good Lord (you\u2019ve Come so Far)",
       "url": "https://open.spotify.com/track/2dK9XKB0cdGUKYwqy0riR5"
@@ -873,7 +909,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 164000,
       "name": "I Found Out When the Day Had Come",
       "url": "https://open.spotify.com/track/6WOqkXgBwL2pwyFlFlTDz4"
@@ -999,7 +1035,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/3qGXA1STZ4yUVIJjxAT6we"
@@ -1093,7 +1129,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 227293,
       "name": "Let There Be Light Again",
       "url": "https://open.spotify.com/track/0YCz0CKKxSx1Ezk0HsYnHI"
@@ -1201,7 +1237,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 182681,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT"
@@ -1277,7 +1313,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 265107,
       "name": "Out the Neighbourhood",
       "url": "https://open.spotify.com/track/6eApoyaNF3DBw1cZhnBBp6"
@@ -1321,7 +1357,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 204109,
       "name": "Powerlines",
       "url": "https://open.spotify.com/track/7MKHEwNOziXwWCtmd4QVRO"
@@ -1383,6 +1419,24 @@
       "duration_ms": 209840,
       "name": "Red Light Heaven",
       "url": "https://open.spotify.com/track/1Z7bC4OTpjgT8kAvzYcpi6"
+    },
+    {
+      "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "Retail Lord",
+      "url": "https://open.spotify.com/track/0nLQNxCdGHJowCap24JRtP"
     },
     {
       "album": {
@@ -1603,10 +1657,32 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 186746,
       "name": "The Ballad Of Joyce Vincent",
       "url": "https://open.spotify.com/track/77qOxCnfWeY1jKrYqMdvZd"
+    },
+    {
+      "album": {
+        "name": "The Desperate Kingdom of Love",
+        "url": "https://open.spotify.com/album/4ceCAZwfAsyMJcveuXTa9Z"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        },
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172568,
+      "name": "The Desperate Kingdom of Love",
+      "url": "https://open.spotify.com/track/7ulI3Txmmm5YwuxVhvT7b5"
     },
     {
       "album": {
@@ -1621,7 +1697,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 202760,
       "name": "Think It Over",
       "url": "https://open.spotify.com/track/7cqtdA99r352k31wNTRIZM"
@@ -1639,10 +1715,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 266170,
       "name": "Travel Guide",
       "url": "https://open.spotify.com/track/039p0GQyajLB9u6ursHKp7"
+    },
+    {
+      "album": {
+        "name": "True Stereo",
+        "url": "https://open.spotify.com/album/1lq4OEhkznYUvduD4dNsZF"
+      },
+      "artists": [
+        {
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212020,
+      "name": "True Stereo",
+      "url": "https://open.spotify.com/track/7l2NAnYz0KJxQ3t28pfFTz"
     },
     {
       "album": {

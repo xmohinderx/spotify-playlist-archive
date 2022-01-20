@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > All new, all rock\. Cover: Muse
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,010 likes - 52 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,269 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,16 +49,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 39 | [Levitate](https://open.spotify.com/track/4DCGjvuX1VMmbVDifmv7ZO) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51), [Blush Response](https://open.spotify.com/artist/04EzrrhYAQ81Go4FJ0prtu) | [REVENGE](https://open.spotify.com/album/0zm3crxBzuAmMMuLLkGH4c) | 4:51 |
 | 40 | [Dying Plant](https://open.spotify.com/track/6M5Pc0b2PgClInEH0ZxXeq) | [Early Eyes](https://open.spotify.com/artist/5Vd6nIpBPLzJDQDcvILQu4) | [Dying Plant](https://open.spotify.com/album/3XcHOlRbZjC4s9lE64nJ7x) | 3:06 |
 | 41 | [The Boy Named If](https://open.spotify.com/track/1orUxXlzRhWpIRZj1XcY6Q) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [The Imposters](https://open.spotify.com/artist/0mtzATzl6kfYHMWZskqH21) | [The Boy Named If](https://open.spotify.com/album/5UvNnPzKxLMYz6bYi8NpoS) | 4:24 |
-| 42 | [When You Go Home I Withdrawal](https://open.spotify.com/track/74Dqqy2wHjLluhgOwJVrn5) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG) | [Suffer Summer](https://open.spotify.com/album/0bQNLzwiW9RBH77MkGNp6k) | 3:22 |
-| 43 | [Wasting Time](https://open.spotify.com/track/1c0tC8B9rBBdyIa7YauLr4) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU) | [In One Breath](https://open.spotify.com/album/6pONqaFOacBdamei7Rrvaj) | 3:46 |
-| 44 | [Headstone](https://open.spotify.com/track/5PbNsH6E4cKPKqSTIx6sQb) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Headstone](https://open.spotify.com/album/1qBvU9jzoyXf2FnF83MvvQ) | 3:50 |
-| 45 | [Closer](https://open.spotify.com/track/5TUn5aeSBFYKiQFLO3fE5N) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Closer](https://open.spotify.com/album/1at11cxee5blIgarVbwuY0) | 5:15 |
-| 46 | [Rabbit Hole](https://open.spotify.com/track/3KX5GDVzAly6OoH24OMKwU) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Rabbit Hole](https://open.spotify.com/album/3ZxC9jh02Nrvpo49frhUMR) | 4:28 |
-| 47 | [Bludsuckers](https://open.spotify.com/track/0FpDYwureWPtagDvxmJ8kj) | [Lady Bird](https://open.spotify.com/artist/42QHDuNZVv5k4MtjjfmSWY) | [Bludsuckers](https://open.spotify.com/album/0xbXW4bnuBvD3TbKdxq3Au) | 2:20 |
-| 48 | [Nuns, Guns & Cowboys](https://open.spotify.com/track/0HUdKAx0FIjdCtDFUhEt0I) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Nuns, Guns & Cowboys](https://open.spotify.com/album/38TzuUfiMcBRQMPE83ZNlk) | 2:57 |
-| 49 | [Center](https://open.spotify.com/track/7KKLJ8OHLHaUWFjUSzMuYK) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Center](https://open.spotify.com/album/0tvQT9SCiGfZjHf7cf56j8) | 4:02 |
-| 50 | [I've Got A Five](https://open.spotify.com/track/3prpecfUlt84RtF192cIva) | [A Will Away](https://open.spotify.com/artist/3E5tLMdfD5wjBXI0hV6L2E) | [I've Got A Five](https://open.spotify.com/album/3OsEzi6AgwBUcEpwVGxI8E) | 3:03 |
-| 51 | [the porch](https://open.spotify.com/track/33arAGN57qccO1N76QXN1d) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [the porch](https://open.spotify.com/album/2VoUvcGz5o1JVk9T75leaX) | 2:24 |
-| 52 | [Not Enough](https://open.spotify.com/track/71JxAAy4BMfrrrj6I8VL6l) | [Just a Ride](https://open.spotify.com/artist/2XC4Nga7sPqaO7dB1jRlnu) | [Not Enough](https://open.spotify.com/album/6l2dJDFdtkczUx19odoasT) | 3:34 |
+| 42 | [Wasting Time](https://open.spotify.com/track/1c0tC8B9rBBdyIa7YauLr4) | [Caleb Hyles](https://open.spotify.com/artist/6jDwZUFYUH1dC4xWzOd8QU) | [In One Breath](https://open.spotify.com/album/6pONqaFOacBdamei7Rrvaj) | 3:46 |
+| 43 | [Headstone](https://open.spotify.com/track/5PbNsH6E4cKPKqSTIx6sQb) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Headstone](https://open.spotify.com/album/1qBvU9jzoyXf2FnF83MvvQ) | 3:50 |
+| 44 | [Closer](https://open.spotify.com/track/5TUn5aeSBFYKiQFLO3fE5N) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Closer](https://open.spotify.com/album/1at11cxee5blIgarVbwuY0) | 5:15 |
+| 45 | [Rabbit Hole](https://open.spotify.com/track/3KX5GDVzAly6OoH24OMKwU) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Rabbit Hole](https://open.spotify.com/album/3ZxC9jh02Nrvpo49frhUMR) | 4:28 |
+| 46 | [Bludsuckers](https://open.spotify.com/track/0FpDYwureWPtagDvxmJ8kj) | [Lady Bird](https://open.spotify.com/artist/42QHDuNZVv5k4MtjjfmSWY) | [Bludsuckers](https://open.spotify.com/album/0xbXW4bnuBvD3TbKdxq3Au) | 2:20 |
+| 47 | [Nuns, Guns & Cowboys](https://open.spotify.com/track/0HUdKAx0FIjdCtDFUhEt0I) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [Nuns, Guns & Cowboys](https://open.spotify.com/album/38TzuUfiMcBRQMPE83ZNlk) | 2:57 |
+| 48 | [Center](https://open.spotify.com/track/7KKLJ8OHLHaUWFjUSzMuYK) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [Center](https://open.spotify.com/album/0tvQT9SCiGfZjHf7cf56j8) | 4:02 |
+| 49 | [I've Got A Five](https://open.spotify.com/track/3prpecfUlt84RtF192cIva) | [A Will Away](https://open.spotify.com/artist/3E5tLMdfD5wjBXI0hV6L2E) | [I've Got A Five](https://open.spotify.com/album/3OsEzi6AgwBUcEpwVGxI8E) | 3:03 |
+| 50 | [the porch](https://open.spotify.com/track/33arAGN57qccO1N76QXN1d) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [the porch](https://open.spotify.com/album/2VoUvcGz5o1JVk9T75leaX) | 2:24 |
+| 51 | [Not Enough](https://open.spotify.com/track/71JxAAy4BMfrrrj6I8VL6l) | [Just a Ride](https://open.spotify.com/artist/2XC4Nga7sPqaO7dB1jRlnu) | [Not Enough](https://open.spotify.com/album/6l2dJDFdtkczUx19odoasT) | 3:34 |
 
-Snapshot ID: `MTY0MjQwNTI0NSwwMDAwMDJmOTAwMDAwMTdlNjZmYjM0MTEwMDAwMDE3ZTM1MjQzNzBi`
+Snapshot ID: `MTY0MjU5NzMxOSwwMDAwMDJmYTAwMDAwMTdlNzI2ZTAxYTEwMDAwMDE3ZTM1MjQzNzBi`

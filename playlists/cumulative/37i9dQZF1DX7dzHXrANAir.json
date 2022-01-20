@@ -27,7 +27,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 454774,
       "name": "(flake)",
       "url": "https://open.spotify.com/track/2B6fPIjcfa0Ddf06dPHE3T"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 428453,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 240085,
       "name": "Change Ringing",
       "url": "https://open.spotify.com/track/5GuiFlzQaTd2HLmJFUx907"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 200000,
       "name": "Dear Salinger",
       "url": "https://open.spotify.com/track/5PRotvfru7UiJNkMKyXsNy"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 215820,
       "name": "Etne",
       "url": "https://open.spotify.com/track/0XmfdHTrbFUZgJjFnb1LqZ"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 236893,
       "name": "Gl\u00fchw\u00fcrmchen",
       "url": "https://open.spotify.com/track/477kAeGQunBZ16ayZmTWJT"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 173120,
       "name": "mercy seat \u2013 winterreise: Sweetheart Come (Arr. Tobias Schwencke)",
       "url": "https://open.spotify.com/track/147TW4WAGJuvTj5TG6n6Wi"
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 167920,
       "name": "Moon Window",
       "url": "https://open.spotify.com/track/4PTSiJw3k6IYIofogD0uuI"
@@ -1348,6 +1348,24 @@
     },
     {
       "album": {
+        "name": "WE ARE (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/24bfr8pz2nOP8X4WioInsy"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121285,
+      "name": "MOVEMENT 11\u2019",
+      "url": "https://open.spotify.com/track/5GZT1Ab2O07khq5NBnd4sJ"
+    },
+    {
+      "album": {
         "name": "Palimpsest",
         "url": "https://open.spotify.com/album/0JtuX3szPRxKQE7IaQGpDy"
       },
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 278096,
       "name": "Moving Pictures",
       "url": "https://open.spotify.com/track/5Q1k4g2pDLySYHLX8fmv29"
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 261560,
       "name": "Newborn",
       "url": "https://open.spotify.com/track/3EB0OXYpu65N019rD3hLh7"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 242880,
       "name": "Owls",
       "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
@@ -1653,7 +1671,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 249813,
       "name": "Phosphenes",
       "url": "https://open.spotify.com/track/4WXLubmHAMIwvdIShNLWd4"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 335149,
       "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
@@ -1733,7 +1751,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 180062,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/49ZOkiemgtMXCePLHIrccO"
@@ -1799,7 +1817,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 187000,
       "name": "Satori by the Sea",
       "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 218538,
       "name": "Think Of Home - Kelly Moran Rework",
       "url": "https://open.spotify.com/track/6H8tvKj4JkpYAiDhUaZjd6"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 388748,
       "name": "Vale",
       "url": "https://open.spotify.com/track/3PkvGNZ44JmojQBv5DbVIr"
@@ -2285,7 +2303,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 324160,
       "name": "\u00e6vi",
       "url": "https://open.spotify.com/track/1u1jonznjouksyPiaZlTmt"

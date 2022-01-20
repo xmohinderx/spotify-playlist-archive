@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-01-18",
   "description": "Your daily update of the most viral tracks right now - Brazil.",
   "name": "Viral 50 - Brazil",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0xv3bctlBNT4vjfpPN47e4"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Mais",
+        "url": "https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271266,
+      "name": "17 de janeiro",
+      "url": "https://open.spotify.com/track/6JhK1r09ZViJy723xux4Ty"
+    },
     {
       "album": {
         "name": "abcdefu",
@@ -155,7 +175,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 168689,
       "name": "Bloqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/6nkoWsFZeFt5dUdNmlIceh"
@@ -419,6 +439,24 @@
       "duration_ms": 185831,
       "name": "Formosa",
       "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
+    },
+    {
+      "album": {
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204316,
+      "name": "Hrs and Hrs",
+      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
     },
     {
       "album": {
@@ -1055,7 +1093,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 327813,
       "name": "Swimming Pool",
       "url": "https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC"
@@ -1113,7 +1151,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 146774,
       "name": "Tantos Planos",
       "url": "https://open.spotify.com/track/1uyFfj0TJLQTFxqtrt7ArV"
@@ -1179,7 +1217,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 206811,
       "name": "Voltei pra Cachorrada",
       "url": "https://open.spotify.com/track/3bJ4nTkTXMYpYgM7zoUqPY"

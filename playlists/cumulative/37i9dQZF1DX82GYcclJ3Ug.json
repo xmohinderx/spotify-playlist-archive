@@ -600,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161592,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
+    },
+    {
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },

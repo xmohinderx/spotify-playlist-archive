@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 343813,
+  "num_followers": 343819,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk1ODIyNjc5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk1OTA5MTgyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
+      "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Rebelde la Serie (Official Soundtrack)",
         "url": "https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS"
@@ -33,23 +49,7 @@
       "url": "https://open.spotify.com/track/5c3Pi6KEjdicvnJzoQyLzH"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
-      "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
-    },
-    {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
         "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Encanto (Trilha Sonora Original em Portugu\u00eas)",
         "url": "https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/4zUUkbANxHqIGNAtaQf0Qg"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Olhei Pra Ela Deu Match",
         "url": "https://open.spotify.com/album/27t9Zjk68kHZjiB0NUgVFb"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/0GESebPufL91nmnOYTGzWQ"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Comedor De Cu",
         "url": "https://open.spotify.com/album/5YRxZ7f4vqVNJ4m720ZKbe"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/5mfRAnHqNwxPyefOhrcxu1"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Se Joga Novinha",
         "url": "https://open.spotify.com/album/5KU8MBz1vAAbWxB8GHsFfR"
@@ -193,7 +193,23 @@
       "url": "https://open.spotify.com/track/5x42g1S83XeLCfuuPHnq62"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
+      "album": {
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 204316,
+      "name": "Hrs and Hrs",
+      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+    },
+    {
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Malvad\u00e3o 3",
         "url": "https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl"
@@ -217,23 +233,7 @@
       "url": "https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
-      "album": {
-        "name": "All The Mountains Are High",
-        "url": "https://open.spotify.com/album/7zdQmkFuR9mgtiHo2CVf6H"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 da Timba e Z\u00e9 Latinha",
-          "url": "https://open.spotify.com/artist/4eTHZRzyotLEIU3GbyonDI"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "All The Mountains Are High",
-      "url": "https://open.spotify.com/track/0Nk21PfD8qsheZOk14wZrV"
-    },
-    {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "TO THE MOON",
         "url": "https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt"
@@ -249,7 +249,87 @@
       "url": "https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
+      "album": {
+        "name": "All The Mountains Are High",
+        "url": "https://open.spotify.com/album/7zdQmkFuR9mgtiHo2CVf6H"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 da Timba e Z\u00e9 Latinha",
+          "url": "https://open.spotify.com/artist/4eTHZRzyotLEIU3GbyonDI"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "All The Mountains Are High",
+      "url": "https://open.spotify.com/track/0Nk21PfD8qsheZOk14wZrV"
+    },
+    {
+      "added_at": "2022-01-19 12:06:22",
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Jessica Darrow",
+          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
+    },
+    {
+      "added_at": "2022-01-19 12:06:22",
+      "album": {
+        "name": "Encanto (Trilha Sonora Original em Portugu\u00eas)",
+        "url": "https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe"
+      },
+      "artists": [
+        {
+          "name": "Lara Suleiman",
+          "url": "https://open.spotify.com/artist/7H7eEvuNoXAokBLPmzYEZO"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Estou Nervosa",
+      "url": "https://open.spotify.com/track/4i8MoaTD2oqeviqAgMf0oD"
+    },
+    {
+      "added_at": "2022-01-19 12:06:22",
+      "album": {
+        "name": "INVEJOSO",
+        "url": "https://open.spotify.com/album/3EiBO5SSeSlDGKxLNqBCVy"
+      },
+      "artists": [
+        {
+          "name": "Distrito 23",
+          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Chefin Oficial",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Jhowzin",
+          "url": "https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "INVEJOSO",
+      "url": "https://open.spotify.com/track/1yecpnQJ3PL2BtOt8Eon6O"
+    },
+    {
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Rebelde la Serie (Official Soundtrack)",
         "url": "https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS"
@@ -297,71 +377,7 @@
       "url": "https://open.spotify.com/track/2LtvLpviK7cVGgC5Q5gikJ"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Jessica Darrow",
-          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Surface Pressure",
-      "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
-    },
-    {
-      "added_at": "2022-01-18 12:04:39",
-      "album": {
-        "name": "Encanto (Trilha Sonora Original em Portugu\u00eas)",
-        "url": "https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe"
-      },
-      "artists": [
-        {
-          "name": "Lara Suleiman",
-          "url": "https://open.spotify.com/artist/7H7eEvuNoXAokBLPmzYEZO"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Estou Nervosa",
-      "url": "https://open.spotify.com/track/4i8MoaTD2oqeviqAgMf0oD"
-    },
-    {
-      "added_at": "2022-01-18 12:04:39",
-      "album": {
-        "name": "INVEJOSO",
-        "url": "https://open.spotify.com/album/3EiBO5SSeSlDGKxLNqBCVy"
-      },
-      "artists": [
-        {
-          "name": "Distrito 23",
-          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
-        },
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        },
-        {
-          "name": "Chefin Oficial",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Jhowzin",
-          "url": "https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "INVEJOSO",
-      "url": "https://open.spotify.com/track/1yecpnQJ3PL2BtOt8Eon6O"
-    },
-    {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Pra Causar, Vol. 1",
         "url": "https://open.spotify.com/album/2PIXNGrgExpvW4CFaBq1j6"
@@ -381,7 +397,23 @@
       "url": "https://open.spotify.com/track/24NagNNYz5OrAdbVAiaZtU"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
+      "album": {
+        "name": "PIRATA",
+        "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
+    },
+    {
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "ESSE \u00c9 LADR\u00c3O",
         "url": "https://open.spotify.com/album/5RVAa6VkF8XRN9N6DLTtTF"
@@ -401,23 +433,7 @@
       "url": "https://open.spotify.com/track/5rz7ZQkMpQHGDXC62P2Axw"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
-      "album": {
-        "name": "PIRATA",
-        "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
-    },
-    {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "ONDA DO BERIMBAU",
         "url": "https://open.spotify.com/album/5SEGtDxPUrAIbegNhKHljb"
@@ -437,7 +453,27 @@
       "url": "https://open.spotify.com/track/7ypX1KnSLOXVykk0PnlUfV"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
+      "album": {
+        "name": "Troubadour",
+        "url": "https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo"
+      },
+      "artists": [
+        {
+          "name": "K'NAAN",
+          "url": "https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/61YzdCCBPM5Pc7lIiD5i8C"
+    },
+    {
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
@@ -465,27 +501,7 @@
       "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
-      "album": {
-        "name": "Troubadour",
-        "url": "https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo"
-      },
-      "artists": [
-        {
-          "name": "K'NAAN",
-          "url": "https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/61YzdCCBPM5Pc7lIiD5i8C"
-    },
-    {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Baby Relaxa Encaixa Na Vibe",
         "url": "https://open.spotify.com/album/4JVA8MCLqv98rDdkyYWJJE"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/1GEs0MIyXWiSfadbDyTmDz"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Assalto Perigoso",
         "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Encanto (Trilha Sonora Original em Portugu\u00eas)",
         "url": "https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/0NVIjgyvh7loDe284lxQDr"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Sahara",
         "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
@@ -569,27 +585,7 @@
       "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
-      "album": {
-        "name": "Formosa",
-        "url": "https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI"
-      },
-      "artists": [
-        {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
-        },
-        {
-          "name": "MC CJ",
-          "url": "https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp"
-        }
-      ],
-      "duration_ms": 185831,
-      "name": "Formosa",
-      "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
-    },
-    {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Novinha Malada do Insta",
         "url": "https://open.spotify.com/album/0PysEJ0X0U5sP1uG4fxFVj"
@@ -605,7 +601,27 @@
       "url": "https://open.spotify.com/track/0VF2XFdgeID7448iU2Vyg9"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
+      "album": {
+        "name": "S\u00f3 N\u00e3o Marca N\u00f3is (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6M7oyyHfG75p3Yitpd4Rru"
+      },
+      "artists": [
+        {
+          "name": "Luccas Fernandes",
+          "url": "https://open.spotify.com/artist/4iFHEbdGaV010QjbSCeFk7"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "duration_ms": 154347,
+      "name": "S\u00f3 N\u00e3o Marca N\u00f3is - Ao Vivo",
+      "url": "https://open.spotify.com/track/70EIpK1oJi8a2JWTgmkdMf"
+    },
+    {
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Encanto (Trilha Sonora Original em Portugu\u00eas)",
         "url": "https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe"
@@ -629,63 +645,27 @@
       "url": "https://open.spotify.com/track/2GLRMpPuTiPXUQY40PfXTg"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
-        "name": "S\u00f3 N\u00e3o Marca N\u00f3is (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6M7oyyHfG75p3Yitpd4Rru"
+        "name": "Formosa",
+        "url": "https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI"
       },
       "artists": [
         {
-          "name": "Luccas Fernandes",
-          "url": "https://open.spotify.com/artist/4iFHEbdGaV010QjbSCeFk7"
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
         },
         {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+          "name": "MC CJ",
+          "url": "https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp"
         }
       ],
-      "duration_ms": 154347,
-      "name": "S\u00f3 N\u00e3o Marca N\u00f3is - Ao Vivo",
-      "url": "https://open.spotify.com/track/70EIpK1oJi8a2JWTgmkdMf"
+      "duration_ms": 185831,
+      "name": "Formosa",
+      "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
-      "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
-    },
-    {
-      "added_at": "2022-01-18 12:04:39",
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 183100,
-      "name": "ANACONDA *o* ~~~",
-      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
-    },
-    {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Imagina A Sentada (Ao Vivo)",
         "url": "https://open.spotify.com/album/0SAMg0b9QbopaOj0ClEwiq"
@@ -701,7 +681,7 @@
       "url": "https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
@@ -733,23 +713,43 @@
       "url": "https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
-        "name": "Dreams Come True - SM STATION",
-        "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
+        "name": "ELEVEN",
+        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 204933,
-      "name": "Dreams Come True",
-      "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
+      "duration_ms": 178453,
+      "name": "ELEVEN",
+      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 183100,
+      "name": "ANACONDA *o* ~~~",
+      "url": "https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V"
+    },
+    {
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
@@ -765,7 +765,23 @@
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
+      "album": {
+        "name": "Dreams Come True - SM STATION",
+        "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Dreams Come True",
+      "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
+    },
+    {
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Vai L\u00e1 Em Casa Hoje",
         "url": "https://open.spotify.com/album/2ULXBNAz2pgBQmwc3qODUz"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Fa\u00e7a Dinheiro, Se Mantenha Vivo",
         "url": "https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4"
@@ -805,23 +821,23 @@
       "url": "https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
-        "name": "How to: Friend, Love, Freefall",
-        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
+        "name": "The Wolf of Grape Street",
+        "url": "https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
         }
       ],
-      "duration_ms": 152293,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
+      "duration_ms": 219834,
+      "name": "Substance",
+      "url": "https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "MALDITA PERIGOSA",
         "url": "https://open.spotify.com/album/3i4p8zlN5C2TQaJBkFfTT4"
@@ -841,7 +857,7 @@
       "url": "https://open.spotify.com/track/7MJiZazhXeWZoFZlBzC7sf"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Encanto (Trilha Sonora Original em Portugu\u00eas)",
         "url": "https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe"
@@ -857,7 +873,7 @@
       "url": "https://open.spotify.com/track/0Fru0rnYtRxps5po1eMsif"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Se a Saudade Bater",
         "url": "https://open.spotify.com/album/51uHuAo732iQYayjGwXWj5"
@@ -873,7 +889,7 @@
       "url": "https://open.spotify.com/track/5WVsfMt8jKVuSGOr4iBFDu"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Black Lan\u00e7a (Catucando Gostosinho)",
         "url": "https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv"
@@ -893,23 +909,23 @@
       "url": "https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
-        "name": "The Wolf of Grape Street",
-        "url": "https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml"
+        "name": "Mais",
+        "url": "https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y"
       },
       "artists": [
         {
-          "name": "03 Greedo",
-          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
         }
       ],
-      "duration_ms": 219834,
-      "name": "Substance",
-      "url": "https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol"
+      "duration_ms": 271266,
+      "name": "17 de janeiro",
+      "url": "https://open.spotify.com/track/6JhK1r09ZViJy723xux4Ty"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "Maresia",
         "url": "https://open.spotify.com/album/0LeTsEVvfdJ86Hi7uE7CxK"
@@ -937,55 +953,23 @@
       "url": "https://open.spotify.com/track/14MmpI6ZOB9QaetEIPSzqB"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+        "name": "How to: Friend, Love, Freefall",
+        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Dos Oruguitas",
-      "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
+      "duration_ms": 152293,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
-      "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/0kXCkjZCgFYZWTZug9ryw4"
-      },
-      "artists": [
-        {
-          "name": "Brocasito",
-          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
-        }
-      ],
-      "duration_ms": 146774,
-      "name": "Tantos Planos",
-      "url": "https://open.spotify.com/track/1uyFfj0TJLQTFxqtrt7ArV"
-    },
-    {
-      "added_at": "2022-01-18 12:04:39",
-      "album": {
-        "name": "Buteco in Boston (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 168689,
-      "name": "Bloqueado - Ao Vivo",
-      "url": "https://open.spotify.com/track/6nkoWsFZeFt5dUdNmlIceh"
-    },
-    {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
@@ -1001,20 +985,44 @@
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
-      "added_at": "2022-01-18 12:04:39",
+      "added_at": "2022-01-19 12:06:22",
       "album": {
-        "name": "Swimming Pool - EP",
-        "url": "https://open.spotify.com/album/2fzPtlFd8OSlCaIXVYrdls"
+        "name": "Voltei pra Cachorrada",
+        "url": "https://open.spotify.com/album/0tNsjTh1mnsApOzQe9CBEc"
       },
       "artists": [
         {
-          "name": "Marie Madeleine",
-          "url": "https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC"
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "MC Meno Dani",
+          "url": "https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI"
+        },
+        {
+          "name": "DJ Cyclone",
+          "url": "https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi"
         }
       ],
-      "duration_ms": 327813,
-      "name": "Swimming Pool",
-      "url": "https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC"
+      "duration_ms": 206811,
+      "name": "Voltei pra Cachorrada",
+      "url": "https://open.spotify.com/track/3bJ4nTkTXMYpYgM7zoUqPY"
+    },
+    {
+      "added_at": "2022-01-19 12:06:22",
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Dos Oruguitas",
+      "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

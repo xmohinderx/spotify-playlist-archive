@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTQxMywyNWI2YTFjODI0NDVjYzUwMDM4NmE3ZjFkMjA4MThiYjdmM2FiOWMy",
+  "snapshot_id": "NTQxOSw2NGY2ZmM2ZDlhZDMxMTc5ZTdiZmE2YWQzM2NhZDZjOTgzYmNmYWIx",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -1237,6 +1237,46 @@
       "url": "https://open.spotify.com/track/1kw2sCJZt7J6LPv595g6ZQ"
     },
     {
+      "added_at": "2018-02-28 02:40:55",
+      "album": {
+        "name": "Vocal Music (Cantigas De Amigo - 13Th Century Galician-Portuguese Songs and Dances of Love, Longing and Devotion)",
+        "url": "https://open.spotify.com/album/704mPQXLp57bDAL1OaOnKX"
+      },
+      "artists": [
+        {
+          "name": "Alfonso X El Sabio",
+          "url": "https://open.spotify.com/artist/0QU55IdOPz8w9ZKjvCKyxH"
+        },
+        {
+          "name": "Shira Kammen",
+          "url": "https://open.spotify.com/artist/3nYdFPiV7xlEurHIvwMKGd"
+        },
+        {
+          "name": "Cheryl Ann Fulton",
+          "url": "https://open.spotify.com/artist/4WZQjddfkBTqhMxJ3LJM8K"
+        },
+        {
+          "name": "Kit Higginson",
+          "url": "https://open.spotify.com/artist/0ieWxLNopL9vpgVWCsXKzm"
+        },
+        {
+          "name": "Peter Maund",
+          "url": "https://open.spotify.com/artist/0gNCzey9ojj750MPFYd11h"
+        },
+        {
+          "name": "Ensemble Alcatraz",
+          "url": "https://open.spotify.com/artist/3Vm4XHiNO6gtRJauBB3U3I"
+        },
+        {
+          "name": "Angelorum",
+          "url": "https://open.spotify.com/artist/3Z4zSBT0bg274SotzgBkD5"
+        }
+      ],
+      "duration_ms": 515000,
+      "name": "Cantiga de Santa Maria 11, \"Macar ome per folia\" (arr. C.A. Fulton, K. Higginson, S. Kammen and P. Maund)",
+      "url": "https://open.spotify.com/track/15VrEEwDkGdEqKj4YNzCq2"
+    },
+    {
       "added_at": "2020-10-16 12:02:22",
       "album": {
         "name": "IOCULATORES - Lieder und T\u00e4nze des Mittelalters",
@@ -1279,46 +1319,6 @@
       "duration_ms": 180466,
       "name": "\ufeffVirelai C\u0384est la fins",
       "url": "https://open.spotify.com/track/0F7angnYBTaynfYAWVy1q1"
-    },
-    {
-      "added_at": "2018-02-28 02:40:55",
-      "album": {
-        "name": "Vocal Music (Cantigas De Amigo - 13Th Century Galician-Portuguese Songs and Dances of Love, Longing and Devotion)",
-        "url": "https://open.spotify.com/album/704mPQXLp57bDAL1OaOnKX"
-      },
-      "artists": [
-        {
-          "name": "Alfonso X El Sabio",
-          "url": "https://open.spotify.com/artist/0QU55IdOPz8w9ZKjvCKyxH"
-        },
-        {
-          "name": "Shira Kammen",
-          "url": "https://open.spotify.com/artist/3nYdFPiV7xlEurHIvwMKGd"
-        },
-        {
-          "name": "Cheryl Ann Fulton",
-          "url": "https://open.spotify.com/artist/4WZQjddfkBTqhMxJ3LJM8K"
-        },
-        {
-          "name": "Kit Higginson",
-          "url": "https://open.spotify.com/artist/0ieWxLNopL9vpgVWCsXKzm"
-        },
-        {
-          "name": "Peter Maund",
-          "url": "https://open.spotify.com/artist/0gNCzey9ojj750MPFYd11h"
-        },
-        {
-          "name": "Ensemble Alcatraz",
-          "url": "https://open.spotify.com/artist/3Vm4XHiNO6gtRJauBB3U3I"
-        },
-        {
-          "name": "Angelorum",
-          "url": "https://open.spotify.com/artist/3Z4zSBT0bg274SotzgBkD5"
-        }
-      ],
-      "duration_ms": 515000,
-      "name": "Cantiga de Santa Maria 11, \"Macar ome per folia\" (arr. C.A. Fulton, K. Higginson, S. Kammen and P. Maund)",
-      "url": "https://open.spotify.com/track/15VrEEwDkGdEqKj4YNzCq2"
     },
     {
       "added_at": "2021-10-15 12:57:39",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2018-02-09 19:10:59",
       "album": {
+        "name": "Alfonso X: Cantigas De Santa Maria",
+        "url": "https://open.spotify.com/album/277USNLZd6nmHzyryVVwqC"
+      },
+      "artists": [
+        {
+          "name": "Alfonso X El Sabio",
+          "url": "https://open.spotify.com/artist/0QU55IdOPz8w9ZKjvCKyxH"
+        },
+        {
+          "name": "Unicorn Ensemble",
+          "url": "https://open.spotify.com/artist/27HUTDcqSdkdXMOoOI70B4"
+        }
+      ],
+      "duration_ms": 445000,
+      "name": "Cantiga No. 10, \"Rosa das rosas\": Por nos de dulta tirar (CSM 18)",
+      "url": "https://open.spotify.com/track/6F0n0xELxkqXaaeKM9jfkn"
+    },
+    {
+      "added_at": "2018-02-09 19:10:59",
+      "album": {
         "name": "Dante & Troubadours",
         "url": "https://open.spotify.com/album/1sd7qeCDtPPy28UyFchlAU"
       },
@@ -1433,26 +1453,6 @@
       "url": "https://open.spotify.com/track/1WOWuUEsCcBdpOy1LTWMV9"
     },
     {
-      "added_at": "2018-02-09 19:10:59",
-      "album": {
-        "name": "Alfonso X: Cantigas De Santa Maria",
-        "url": "https://open.spotify.com/album/277USNLZd6nmHzyryVVwqC"
-      },
-      "artists": [
-        {
-          "name": "Alfonso X El Sabio",
-          "url": "https://open.spotify.com/artist/0QU55IdOPz8w9ZKjvCKyxH"
-        },
-        {
-          "name": "Unicorn Ensemble",
-          "url": "https://open.spotify.com/artist/27HUTDcqSdkdXMOoOI70B4"
-        }
-      ],
-      "duration_ms": 445000,
-      "name": "Cantiga No. 10, \"Rosa das rosas\": Por nos de dulta tirar (CSM 18)",
-      "url": "https://open.spotify.com/track/6F0n0xELxkqXaaeKM9jfkn"
-    },
-    {
       "added_at": "2021-08-06 13:10:05",
       "album": {
         "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
@@ -1475,30 +1475,6 @@
       "duration_ms": 251960,
       "name": "La harpe de m\u00e9lodie",
       "url": "https://open.spotify.com/track/5RvRlsuHfQufIgQ1LUIpgQ"
-    },
-    {
-      "added_at": "2021-08-06 13:10:05",
-      "album": {
-        "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
-        "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Ferrara Ensemble",
-          "url": "https://open.spotify.com/artist/7bgHwkBbX48cB9Zn2eJyeI"
-        },
-        {
-          "name": "Crawford Young",
-          "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Adieu vous di, tres doulce compaynie",
-      "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
     },
     {
       "added_at": "2021-09-24 14:23:14",
@@ -1527,6 +1503,30 @@
       "duration_ms": 194573,
       "name": "La plus jolie",
       "url": "https://open.spotify.com/track/6B9v1vflKg2rosKL08S0GP"
+    },
+    {
+      "added_at": "2021-08-06 13:10:05",
+      "album": {
+        "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
+        "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Ferrara Ensemble",
+          "url": "https://open.spotify.com/artist/7bgHwkBbX48cB9Zn2eJyeI"
+        },
+        {
+          "name": "Crawford Young",
+          "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Adieu vous di, tres doulce compaynie",
+      "url": "https://open.spotify.com/track/0dJ8KicyZoW5sZWnsQ8FOb"
     },
     {
       "added_at": "2018-02-28 02:04:46",
@@ -1613,30 +1613,6 @@
       "url": "https://open.spotify.com/track/4aUhHjaW2S0eBrPRWNY5N7"
     },
     {
-      "added_at": "2018-05-04 15:13:13",
-      "album": {
-        "name": "Terpsichore: Renaissance and Early Baroque Dance Music",
-        "url": "https://open.spotify.com/album/5DxAUWcZGA4kfqWbqmTeWy"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Ulsamer Collegium",
-          "url": "https://open.spotify.com/artist/7MjZhc7l5zZ6lw7C1BZXMV"
-        },
-        {
-          "name": "Josef Ulsamer",
-          "url": "https://open.spotify.com/artist/6BlEVZB1pj83A7UjfUL7xj"
-        }
-      ],
-      "duration_ms": 207186,
-      "name": "Lamento di Tristano - La rotta",
-      "url": "https://open.spotify.com/track/4vJmOFoty97iQhScVeK5OP"
-    },
-    {
       "added_at": "2021-06-04 12:47:12",
       "album": {
         "name": "Dowland in Dublin",
@@ -1659,6 +1635,30 @@
       "duration_ms": 209040,
       "name": "Kemp's Jig - Mistress Winter's Jump - My Lady Hunsdon's Puffe (arr. S. Bergeron)",
       "url": "https://open.spotify.com/track/3EWemJKqmoFjKEizVyZir1"
+    },
+    {
+      "added_at": "2018-05-04 15:13:13",
+      "album": {
+        "name": "Terpsichore: Renaissance and Early Baroque Dance Music",
+        "url": "https://open.spotify.com/album/5DxAUWcZGA4kfqWbqmTeWy"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Ulsamer Collegium",
+          "url": "https://open.spotify.com/artist/7MjZhc7l5zZ6lw7C1BZXMV"
+        },
+        {
+          "name": "Josef Ulsamer",
+          "url": "https://open.spotify.com/artist/6BlEVZB1pj83A7UjfUL7xj"
+        }
+      ],
+      "duration_ms": 207186,
+      "name": "Lamento di Tristano - La rotta",
+      "url": "https://open.spotify.com/track/4vJmOFoty97iQhScVeK5OP"
     },
     {
       "added_at": "2019-10-22 14:48:10",
@@ -1749,30 +1749,6 @@
       "url": "https://open.spotify.com/track/0iJdJY43C0Ey3QsOL4S8gp"
     },
     {
-      "added_at": "2019-08-07 20:33:09",
-      "album": {
-        "name": "Jacopo da Bologna: Italian Madrigals of the 14th Century",
-        "url": "https://open.spotify.com/album/42bRnBFzIcYwy5q6fkdKqb"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Jacopo da Bologna",
-          "url": "https://open.spotify.com/artist/2eQllDA6iS34VpRZ6SteiP"
-        },
-        {
-          "name": "Ensemble Project Ars Nova",
-          "url": "https://open.spotify.com/artist/5UAxsbn0kXp8IMM1kHuvzw"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "Aquila altera - Creatura gentile - Uccel di Dio",
-      "url": "https://open.spotify.com/track/1I58Oqx2r9bFw4zYnR4vW1"
-    },
-    {
       "added_at": "2021-10-01 14:46:10",
       "album": {
         "name": "The Flowering of Renaissance Choral Music",
@@ -1803,6 +1779,30 @@
       "duration_ms": 355000,
       "name": "Motets: Veni Sancte Spiritus",
       "url": "https://open.spotify.com/track/5zYJ9nS0bSPsxMIjgNcVTS"
+    },
+    {
+      "added_at": "2019-08-07 20:33:09",
+      "album": {
+        "name": "Jacopo da Bologna: Italian Madrigals of the 14th Century",
+        "url": "https://open.spotify.com/album/42bRnBFzIcYwy5q6fkdKqb"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Jacopo da Bologna",
+          "url": "https://open.spotify.com/artist/2eQllDA6iS34VpRZ6SteiP"
+        },
+        {
+          "name": "Ensemble Project Ars Nova",
+          "url": "https://open.spotify.com/artist/5UAxsbn0kXp8IMM1kHuvzw"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "Aquila altera - Creatura gentile - Uccel di Dio",
+      "url": "https://open.spotify.com/track/1I58Oqx2r9bFw4zYnR4vW1"
     },
     {
       "added_at": "2020-07-24 11:51:06",
@@ -1865,26 +1865,6 @@
       "url": "https://open.spotify.com/track/2eMXjdTZyOsjZW6sLRZlJ8"
     },
     {
-      "added_at": "2021-11-19 12:29:54",
-      "album": {
-        "name": "Danze Strumentali Medievali Italiane, Vol. 1",
-        "url": "https://open.spotify.com/album/5x4JOm3YZnFW9UbjMRH0ag"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Anima Mundi Consort",
-          "url": "https://open.spotify.com/artist/7pcAqEqH5yIAFtEqv62PlF"
-        }
-      ],
-      "duration_ms": 461333,
-      "name": "Bel fiore danca",
-      "url": "https://open.spotify.com/track/0aeApNfTM4P03vP7CWw8i7"
-    },
-    {
       "added_at": "2021-06-11 12:46:55",
       "album": {
         "name": "Nuits occitanes: Troubadours' Songs",
@@ -1911,6 +1891,26 @@
       "duration_ms": 469240,
       "name": "Lo clar temps vei brunezir",
       "url": "https://open.spotify.com/track/36xDYf88zslnCP1vmU9zuK"
+    },
+    {
+      "added_at": "2021-11-19 12:29:54",
+      "album": {
+        "name": "Danze Strumentali Medievali Italiane, Vol. 1",
+        "url": "https://open.spotify.com/album/5x4JOm3YZnFW9UbjMRH0ag"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Anima Mundi Consort",
+          "url": "https://open.spotify.com/artist/7pcAqEqH5yIAFtEqv62PlF"
+        }
+      ],
+      "duration_ms": 461333,
+      "name": "Bel fiore danca",
+      "url": "https://open.spotify.com/track/0aeApNfTM4P03vP7CWw8i7"
     },
     {
       "added_at": "2021-09-17 14:08:49",
@@ -2381,24 +2381,24 @@
       "url": "https://open.spotify.com/track/4n4vvBQIBnDY4TM3M4E0Ht"
     },
     {
-      "added_at": "2020-10-16 12:02:22",
+      "added_at": "2021-12-31 12:26:32",
       "album": {
-        "name": "Troubadours & trouv\u00e8res",
-        "url": "https://open.spotify.com/album/4lJqokqbHflqKRe0Oy0ClQ"
+        "name": "Boethius: Songs of Consolation",
+        "url": "https://open.spotify.com/album/4KEW5satTIwmKBTtuH3Xvn"
       },
       "artists": [
         {
-          "name": "Etienne de Meaux",
-          "url": "https://open.spotify.com/artist/7stLB0nwV7m0YVs0B9pOoP"
+          "name": "Anicius Manlius Severinus Boethius",
+          "url": "https://open.spotify.com/artist/3W5rAL2GY92Kd7ucM5AoXy"
         },
         {
-          "name": "Thomas Binkley",
-          "url": "https://open.spotify.com/artist/4UX4twmKz2tGEpKLOjdPcm"
+          "name": "Sequentia",
+          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
         }
       ],
-      "duration_ms": 288959,
-      "name": "\u00c9tienne de Meaux: Trop est mes maris jalos",
-      "url": "https://open.spotify.com/track/6jPkdYIckdsdgU9i0r4nD7"
+      "duration_ms": 419373,
+      "name": "Carmina qui quondam",
+      "url": "https://open.spotify.com/track/4R1VEypKnSxy12z396Trur"
     },
     {
       "added_at": "2018-02-09 19:10:59",
@@ -2425,24 +2425,24 @@
       "url": "https://open.spotify.com/track/1gB7qtssuV9OCnlUnqhoYh"
     },
     {
-      "added_at": "2021-12-31 12:26:32",
+      "added_at": "2020-10-16 12:02:22",
       "album": {
-        "name": "Boethius: Songs of Consolation",
-        "url": "https://open.spotify.com/album/4KEW5satTIwmKBTtuH3Xvn"
+        "name": "Troubadours & trouv\u00e8res",
+        "url": "https://open.spotify.com/album/4lJqokqbHflqKRe0Oy0ClQ"
       },
       "artists": [
         {
-          "name": "Anicius Manlius Severinus Boethius",
-          "url": "https://open.spotify.com/artist/3W5rAL2GY92Kd7ucM5AoXy"
+          "name": "Etienne de Meaux",
+          "url": "https://open.spotify.com/artist/7stLB0nwV7m0YVs0B9pOoP"
         },
         {
-          "name": "Sequentia",
-          "url": "https://open.spotify.com/artist/4s4tJIkBOaNEuXvPPkyk7k"
+          "name": "Thomas Binkley",
+          "url": "https://open.spotify.com/artist/4UX4twmKz2tGEpKLOjdPcm"
         }
       ],
-      "duration_ms": 419373,
-      "name": "Carmina qui quondam",
-      "url": "https://open.spotify.com/track/4R1VEypKnSxy12z396Trur"
+      "duration_ms": 288959,
+      "name": "\u00c9tienne de Meaux: Trop est mes maris jalos",
+      "url": "https://open.spotify.com/track/6jPkdYIckdsdgU9i0r4nD7"
     },
     {
       "added_at": "2020-09-04 11:13:08",
@@ -3693,6 +3693,34 @@
       "url": "https://open.spotify.com/track/67krtsz94ZMu4J5He9qA4R"
     },
     {
+      "added_at": "2020-05-04 14:21:21",
+      "album": {
+        "name": "Vocal Music (Cantigas De Amigo - 13Th Century Galician-Portuguese Songs and Dances of Love, Longing and Devotion)",
+        "url": "https://open.spotify.com/album/704mPQXLp57bDAL1OaOnKX"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Kit Higginson",
+          "url": "https://open.spotify.com/artist/0ieWxLNopL9vpgVWCsXKzm"
+        },
+        {
+          "name": "Ensemble Alcatraz",
+          "url": "https://open.spotify.com/artist/3Vm4XHiNO6gtRJauBB3U3I"
+        },
+        {
+          "name": "Angelorum",
+          "url": "https://open.spotify.com/artist/3Z4zSBT0bg274SotzgBkD5"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Alvorada",
+      "url": "https://open.spotify.com/track/7ixLqeMJgnBKQFzVwqwWBg"
+    },
+    {
       "added_at": "2020-10-16 12:02:22",
       "album": {
         "name": "Touz Esforciez : Trouv\u00e8res en Lorraine",
@@ -3735,34 +3763,6 @@
       "duration_ms": 208973,
       "name": "Danza",
       "url": "https://open.spotify.com/track/09mWljow5vqkh4iUKnIWGN"
-    },
-    {
-      "added_at": "2020-05-04 14:21:21",
-      "album": {
-        "name": "Vocal Music (Cantigas De Amigo - 13Th Century Galician-Portuguese Songs and Dances of Love, Longing and Devotion)",
-        "url": "https://open.spotify.com/album/704mPQXLp57bDAL1OaOnKX"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Kit Higginson",
-          "url": "https://open.spotify.com/artist/0ieWxLNopL9vpgVWCsXKzm"
-        },
-        {
-          "name": "Ensemble Alcatraz",
-          "url": "https://open.spotify.com/artist/3Vm4XHiNO6gtRJauBB3U3I"
-        },
-        {
-          "name": "Angelorum",
-          "url": "https://open.spotify.com/artist/3Z4zSBT0bg274SotzgBkD5"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Alvorada",
-      "url": "https://open.spotify.com/track/7ixLqeMJgnBKQFzVwqwWBg"
     },
     {
       "added_at": "2021-11-19 12:29:54",
@@ -3889,30 +3889,6 @@
       "url": "https://open.spotify.com/track/3KxSoPE5cbIKFVbVDLhEZe"
     },
     {
-      "added_at": "2022-01-18 18:16:09",
-      "album": {
-        "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
-        "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
-      },
-      "artists": [
-        {
-          "name": "Trebor",
-          "url": "https://open.spotify.com/artist/4PZoWmd11sAwUqyS25mhYx"
-        },
-        {
-          "name": "Ferrara Ensemble",
-          "url": "https://open.spotify.com/artist/7bgHwkBbX48cB9Zn2eJyeI"
-        },
-        {
-          "name": "Crawford Young",
-          "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
-        }
-      ],
-      "duration_ms": 365226,
-      "name": "Helas piti\u00e9 envers moy dort si fort",
-      "url": "https://open.spotify.com/track/10wxPwzGtW6G35gMgY9TWi"
-    },
-    {
       "added_at": "2020-06-26 11:01:08",
       "album": {
         "name": "Triste plaisir (Guillaume Du Fay and Burgundian Music)",
@@ -3939,6 +3915,30 @@
       "duration_ms": 223213,
       "name": "La plus belle et doulce figure",
       "url": "https://open.spotify.com/track/4L87NkwEcQXsVhGIBcJlDb"
+    },
+    {
+      "added_at": "2022-01-18 18:16:09",
+      "album": {
+        "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
+        "url": "https://open.spotify.com/album/7Ev23SmehYYaeeyMahyBO4"
+      },
+      "artists": [
+        {
+          "name": "Trebor",
+          "url": "https://open.spotify.com/artist/4PZoWmd11sAwUqyS25mhYx"
+        },
+        {
+          "name": "Ferrara Ensemble",
+          "url": "https://open.spotify.com/artist/7bgHwkBbX48cB9Zn2eJyeI"
+        },
+        {
+          "name": "Crawford Young",
+          "url": "https://open.spotify.com/artist/5vP8XjjQhcCd2sS5eJfnPt"
+        }
+      ],
+      "duration_ms": 365226,
+      "name": "Helas piti\u00e9 envers moy dort si fort",
+      "url": "https://open.spotify.com/track/10wxPwzGtW6G35gMgY9TWi"
     },
     {
       "added_at": "2020-08-21 11:53:23",

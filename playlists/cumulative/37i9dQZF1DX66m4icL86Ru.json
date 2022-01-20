@@ -302,6 +302,24 @@
     },
     {
       "album": {
+        "name": "CLONES",
+        "url": "https://open.spotify.com/album/2WdbAWRuaVLIT1BvcVP0sR"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171392,
+      "name": "CLONES",
+      "url": "https://open.spotify.com/track/6zlBoRMKQv2UyrafMVoQlq"
+    },
+    {
+      "album": {
         "name": "Coconuts",
         "url": "https://open.spotify.com/album/7y44knAD5qeji4WbavIQxC"
       },
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-20",
       "duration_ms": 168986,
       "name": "Self Made",
       "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2nd8BSnFnzT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2nd8BSnFnzT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2nd8BSnFnzT)
 
-### Pátria Rock
+### [Pátria Rock](https://open.spotify.com/playlist/0QCUPVPm5DzTYPmApO8yZ5)
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Pitty, Drik Barbosa, WEKS
 
