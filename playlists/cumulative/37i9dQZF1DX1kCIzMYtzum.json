@@ -26,6 +26,32 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        },
+        {
+          "name": "Jared Lee",
+          "url": "https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221428,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
+    },
+    {
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/703aZZCaGU2kRGjo0pGzDL"
       },
@@ -96,6 +122,24 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/7MrYNkRMcNYUenCfCBH3AT"
+      },
+      "artists": [
+        {
+          "name": "Omnia",
+          "url": "https://open.spotify.com/artist/0XZkeCAlpiO5qcIlAJzZaA"
+        }
+      ],
+      "date_added": "2021-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206074,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2WtnjG1E5UlADYOiiKwj5A"
+    },
+    {
+      "album": {
         "name": "Best Is Yet To Come (with Kyle Reynolds)",
         "url": "https://open.spotify.com/album/2YNA1Y8T91S15TPTzMCaFx"
       },
@@ -133,7 +177,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 182115,
       "name": "Big Love (with Wrabel)",
       "url": "https://open.spotify.com/track/0PGpWcKIlayTwPdz6Qstol"
@@ -217,7 +261,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 200624,
       "name": "Brighter Side",
       "url": "https://open.spotify.com/track/2cXlDeF2sUoZRQgYQZ2nb0"
@@ -243,7 +287,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 190400,
       "name": "Close to You (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/4gEC7He07d6cuzkQ7MSobQ"
@@ -261,7 +305,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 280527,
       "name": "Closer",
       "url": "https://open.spotify.com/track/43ePlsl5FZc8p9lGTnHmdZ"
@@ -383,7 +427,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 132597,
       "name": "Don't You Hold Me Down",
       "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
@@ -409,7 +453,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
@@ -519,7 +563,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 171208,
       "name": "Flame",
       "url": "https://open.spotify.com/track/46BhtWkz8zKHdABv0yzxV7"
@@ -795,7 +839,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 188437,
       "name": "Impossible (feat. John Martin)",
       "url": "https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y"
@@ -1089,7 +1133,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 198203,
       "name": "Miles To Go",
       "url": "https://open.spotify.com/track/0d2F9wcykuZ1QzDMcI0Mf0"
@@ -1243,7 +1287,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
@@ -1351,7 +1395,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
@@ -1417,7 +1461,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 144391,
       "name": "Pressure (feat. Tove Lo)",
       "url": "https://open.spotify.com/track/4ga4WvRNhMsIL38pkBbnIN"
@@ -1509,7 +1553,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
@@ -1587,7 +1631,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 171796,
       "name": "Save Me (feat. Violet Days) - Tungevaag Remix",
       "url": "https://open.spotify.com/track/45srzqej6QL7I5CQtorj0d"
@@ -1631,7 +1675,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 170000,
       "name": "Scared",
       "url": "https://open.spotify.com/track/2ktaGvlb0uE3tUQXy2oXoo"
@@ -1657,7 +1701,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 263200,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/4pXG8Q82L8WvypAm5Wo86y"
@@ -2051,7 +2095,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 174720,
       "name": "Use Your Love (feat. Goldford)",
       "url": "https://open.spotify.com/track/5W05N4aETUauCVzddI8L66"
@@ -2217,7 +2261,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 174720,
       "name": "You Used To",
       "url": "https://open.spotify.com/track/0NMhB5jf4SJhzqnx6pBHNh"

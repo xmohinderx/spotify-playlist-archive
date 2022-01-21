@@ -1,33 +1,13 @@
 {
   "description": "Just some of the many highlights from the <a href=\"spotify:artist:3PhoLpVuITZKcymswpck5b\">Rocket Man</a>'s career.",
-  "num_followers": 1043985,
+  "num_followers": 1044319,
   "original_name": "This Is Elton John",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjYzOTcwNywwMDAwMDAwMDFlYTU2NTBjMzdlN2YzZGQxYWI0NDEwZGYzYTFkOTQ4",
+  "snapshot_id": "MTY0MjcyNTcyMiwwMDAwMDAwMDlhNTc5YWQ1YjRkODVlMTU4YjliZTE2ZmZjNWZlMTg5",
   "tracks": [
-    {
-      "added_at": "2021-12-03 11:48:14",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Merry Christmas",
-      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
-    },
     {
       "added_at": "2021-12-03 11:48:14",
       "album": {
@@ -891,6 +871,26 @@
       "duration_ms": 213840,
       "name": "Breaking Hearts (Ain't What It Used To Be)",
       "url": "https://open.spotify.com/track/3w7ALluoTA0KCX0m4DBa7V"
+    },
+    {
+      "added_at": "2021-12-03 11:48:14",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
     }
   ],
   "unique_name": "This Is Elton John",

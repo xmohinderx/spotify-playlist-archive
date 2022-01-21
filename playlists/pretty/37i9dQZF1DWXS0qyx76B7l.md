@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 
 > Celebrate the spirit of an iconic city.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,036 likes - 68 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,994 likes - 68 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXS0qyx76B7l.md) - [plain]
 | 67 | [Positively 4th Street](https://open.spotify.com/track/3laR7U9SoYE9C6227MlX78) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Essential Bob Dylan](https://open.spotify.com/album/2FfFQlRgh841SHCLikuZsC) | 3:52 |
 | 68 | [An Open Letter To NYC](https://open.spotify.com/track/5vwudDPhjnuA1KrNsFjAHK) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [To The 5 Boroughs](https://open.spotify.com/album/4nnQZQWLibK1VIhCGDFjk3) | 4:18 |
 
-Snapshot ID: `MTU4OTM5Nzk5NiwwMDAwMDAyYzAwMDAwMTcyMGY4MGM1OTgwMDAwMDE3MWQyNzI5MDQ3`
+Snapshot ID: `MTY0MjcxNDQ4MSwwMDAwMDAzMzAwMDAwMTdlNzk2OWM0MGIwMDAwMDE3MWQyNzI5MDQ3`

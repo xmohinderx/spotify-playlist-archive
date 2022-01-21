@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 
 > it's a lifestyle / Cover: Jack Kays & Travis Barker
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,669 likes - 149 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,881 likes - 149 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

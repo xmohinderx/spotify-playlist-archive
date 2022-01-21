@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z\">Ti\u00ebsto</a>'s best songs, remixes and compilations.",
-  "num_followers": 314509,
+  "num_followers": 314672,
   "original_name": "This Is Ti\u00ebsto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTk1NTIwMCwwMDAwMDE5NjAwMDAwMTdjZTY4NzUwNzUwMDAwMDE3MGM0YmU0OTBk",
+  "snapshot_id": "MTY0MjY4ODE2NywwMDAwMDE5ODAwMDAwMTdlNzdkODNmNTkwMDAwMDE3ZTc3ZDdiMjhm",
   "tracks": [
     {
       "added_at": "2021-11-03 16:00:00",
@@ -27,26 +27,6 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2021-11-03 16:00:00",
-      "album": {
-        "name": "Oohla Oohla",
-        "url": "https://open.spotify.com/album/5Oibr2iQxlF15CXazabggs"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 143280,
-      "name": "Oohla Oohla",
-      "url": "https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn"
     },
     {
       "added_at": "2021-11-03 16:00:00",
@@ -91,6 +71,26 @@
       "duration_ms": 124778,
       "name": "Head & Heart (feat. MNEK) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1ohLQfIwj9NUN7e5UKeDl9"
+    },
+    {
+      "added_at": "2021-11-03 16:00:00",
+      "album": {
+        "name": "Oohla Oohla",
+        "url": "https://open.spotify.com/album/5Oibr2iQxlF15CXazabggs"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 143280,
+      "name": "Oohla Oohla",
+      "url": "https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn"
     },
     {
       "added_at": "2021-11-03 16:00:00",

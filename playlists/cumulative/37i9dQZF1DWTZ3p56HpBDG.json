@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 203213,
       "name": "Absolute",
       "url": "https://open.spotify.com/track/6q023Qd7l69MSdZRG7Gy2W"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 196000,
       "name": "Alright With Me",
       "url": "https://open.spotify.com/track/5HbtMh180suZ6aN63T1X7I"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 176500,
       "name": "Buy The Water",
       "url": "https://open.spotify.com/track/5949k1CknzZivTbpT2pinW"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 126010,
       "name": "Down",
       "url": "https://open.spotify.com/track/1IJ5jZq2Qge2ZjBvw9ewiS"
@@ -663,7 +663,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 133200,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1FpyIuBKyNKG2O06ZawDlo"
@@ -783,10 +783,32 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 241223,
       "name": "Island Gyal",
       "url": "https://open.spotify.com/track/45yRXr2HPVeQP4H3NjzhLZ"
+    },
+    {
+      "album": {
+        "name": "Imperfections",
+        "url": "https://open.spotify.com/album/6uZrz0tikWjubCdYntvyPI"
+      },
+      "artists": [
+        {
+          "name": "Mandrazo",
+          "url": "https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0"
+        },
+        {
+          "name": "Duava",
+          "url": "https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174445,
+      "name": "It Was Worth It",
+      "url": "https://open.spotify.com/track/6uddHfjORmRNs0Ua9pzyOr"
     },
     {
       "album": {
@@ -1083,7 +1105,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 76595,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/03AbZgjtzQaHFmp4UveeyX"
@@ -1403,7 +1425,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 216698,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/15tmP0QsT9Vv8eQBbj7ZZi"
@@ -1468,6 +1490,24 @@
     },
     {
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/5av4U0VxSmBxClxmEtqiKi"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185426,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4jvwn9ZXk0UKLBsC19uUVP"
+    },
+    {
+      "album": {
         "name": "ShiShi",
         "url": "https://open.spotify.com/album/4H6l9ZquV8v7PQmQj8tZzT"
       },
@@ -1491,7 +1531,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 235200,
       "name": "Shanti",
       "url": "https://open.spotify.com/track/2H2hgzXQkrrvU7TRmqxhhp"
@@ -1916,6 +1956,24 @@
     },
     {
       "album": {
+        "name": "You Want It Back",
+        "url": "https://open.spotify.com/album/3tXZz83YVEH1d0mvSns0XO"
+      },
+      "artists": [
+        {
+          "name": "Duava",
+          "url": "https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185217,
+      "name": "You Want It Back",
+      "url": "https://open.spotify.com/track/44avslxBkMhSkrS6rywMw7"
+    },
+    {
+      "album": {
         "name": "You're a Star",
         "url": "https://open.spotify.com/album/5Mkl8Rg7mkDjwD6CWUXCm4"
       },
@@ -1927,7 +1985,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 151359,
       "name": "You're a Star",
       "url": "https://open.spotify.com/track/0O209p2rNsYwDCcwwh3plk"

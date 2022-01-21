@@ -1,12 +1,12 @@
 {
   "description": "Get your bassface on with these classic Dubstep tracks.",
-  "num_followers": 108221,
+  "num_followers": 108390,
   "original_name": "Dubstep Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjYzOTYyNSwwMDAwMDAwMDJiNGZlMWM2YzVjOTYxNjkwNWE2MGNkMjFjYzQ2NTcw",
+  "snapshot_id": "MTY0MjcyNTYzNiwwMDAwMDAwMDgxZWRhYTM4OThiYzYzMzJjYTg1NGI2ZTMyMzk4Mzgy",
   "tracks": [
     {
       "added_at": "2020-10-03 10:26:51",
@@ -43,42 +43,6 @@
     {
       "added_at": "2020-10-03 10:26:51",
       "album": {
-        "name": "Everyday/Lick The Lizard",
-        "url": "https://open.spotify.com/album/3JhkJ5yR4Oh6xljqo58qMY"
-      },
-      "artists": [
-        {
-          "name": "Rusko",
-          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
-        },
-        {
-          "name": "Netsky",
-          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
-        }
-      ],
-      "duration_ms": 251669,
-      "name": "Everyday - Netsky Remix",
-      "url": "https://open.spotify.com/track/7vYutw14Ch1Ee1ZmU7gLQ7"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Lines in Wax",
-        "url": "https://open.spotify.com/album/4nr0xtBBSdHcnaq3iSqEIr"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 303911,
-      "name": "I Can't Stop",
-      "url": "https://open.spotify.com/track/03EuhmMsEHVFI9ytainStU"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/78FzmtmPS5byGfw6tsz8QM"
       },
@@ -99,6 +63,26 @@
     {
       "added_at": "2020-10-03 10:26:51",
       "album": {
+        "name": "Everyday/Lick The Lizard",
+        "url": "https://open.spotify.com/album/3JhkJ5yR4Oh6xljqo58qMY"
+      },
+      "artists": [
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        },
+        {
+          "name": "Netsky",
+          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
+        }
+      ],
+      "duration_ms": 251669,
+      "name": "Everyday - Netsky Remix",
+      "url": "https://open.spotify.com/track/7vYutw14Ch1Ee1ZmU7gLQ7"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
         "name": "Welcome Reality",
         "url": "https://open.spotify.com/album/6GazPcWYAUnvB83tXIbs97"
       },
@@ -115,38 +99,18 @@
     {
       "added_at": "2020-10-03 10:26:51",
       "album": {
-        "name": "Levels (Remixes)",
-        "url": "https://open.spotify.com/album/42z0CzDpHpFYXLmKIk6NuC"
+        "name": "Lines in Wax",
+        "url": "https://open.spotify.com/album/4nr0xtBBSdHcnaq3iSqEIr"
       },
       "artists": [
         {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         }
       ],
-      "duration_ms": 281146,
-      "name": "Levels - Skrillex Remix",
-      "url": "https://open.spotify.com/track/5f6igUw1asUL4AGXSvgTW8"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Time Lapse",
-        "url": "https://open.spotify.com/album/3Ttv6LO7YJrpYJA1PVPKFb"
-      },
-      "artists": [
-        {
-          "name": "Boofy",
-          "url": "https://open.spotify.com/artist/1w2QxapVigswBn0iFFmhAm"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Time Lapse",
-      "url": "https://open.spotify.com/track/79Ir3HCbMRSNhvnowWwJFk"
+      "duration_ms": 303911,
+      "name": "I Can't Stop",
+      "url": "https://open.spotify.com/track/03EuhmMsEHVFI9ytainStU"
     },
     {
       "added_at": "2020-10-03 10:26:51",
@@ -191,6 +155,38 @@
     {
       "added_at": "2020-10-03 10:26:51",
       "album": {
+        "name": "Rage Valley",
+        "url": "https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X"
+      },
+      "artists": [
+        {
+          "name": "Knife Party",
+          "url": "https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH"
+        }
+      ],
+      "duration_ms": 246770,
+      "name": "Centipede",
+      "url": "https://open.spotify.com/track/0u2AIKDVafHwCFQ9LDnqxH"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Welcome Reality",
+        "url": "https://open.spotify.com/album/6GazPcWYAUnvB83tXIbs97"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        }
+      ],
+      "duration_ms": 257386,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4UZifG6wVTl3dFIeHKLi8y"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
         "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
         "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
       },
@@ -215,18 +211,106 @@
     {
       "added_at": "2020-10-03 10:26:51",
       "album": {
-        "name": "Rage Valley",
-        "url": "https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X"
+        "name": "Bread Get Bun",
+        "url": "https://open.spotify.com/album/5RDkEtarAMajDedu2qLlxY"
       },
       "artists": [
         {
-          "name": "Knife Party",
-          "url": "https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH"
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        },
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
         }
       ],
-      "duration_ms": 272077,
-      "name": "Bonfire",
-      "url": "https://open.spotify.com/track/0QIYINh2AwmOmdu8CRYvlw"
+      "duration_ms": 228261,
+      "name": "Bread Get Bun",
+      "url": "https://open.spotify.com/track/2wFyiHvfeciZ3Y16hMBDNW"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Levels (Remixes)",
+        "url": "https://open.spotify.com/album/42z0CzDpHpFYXLmKIk6NuC"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 281146,
+      "name": "Levels - Skrillex Remix",
+      "url": "https://open.spotify.com/track/5f6igUw1asUL4AGXSvgTW8"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Dark Matter / HP Sauce",
+        "url": "https://open.spotify.com/album/38JjEHK0Q9MW0FYqjeWr4m"
+      },
+      "artists": [
+        {
+          "name": "N-Type",
+          "url": "https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY"
+        }
+      ],
+      "duration_ms": 420346,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/0kmABryX13FCanpYXjoYdo"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "My Demons",
+        "url": "https://open.spotify.com/album/0OunwPdyQkPtategY8yonA"
+      },
+      "artists": [
+        {
+          "name": "Distance",
+          "url": "https://open.spotify.com/artist/1FvQZpPhaVvSoQnpslxnvb"
+        }
+      ],
+      "duration_ms": 369360,
+      "name": "Night Vision",
+      "url": "https://open.spotify.com/track/3q9d18SYJ0JDfvFCZAtBow"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Welcome Reality",
+        "url": "https://open.spotify.com/album/6GazPcWYAUnvB83tXIbs97"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        }
+      ],
+      "duration_ms": 308173,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/5ABDsQEkVZ1ECGPGQl6Yfr"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Bass Cannon",
+        "url": "https://open.spotify.com/album/6byw7VMDEduQESVKJ8tbWA"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        }
+      ],
+      "duration_ms": 310410,
+      "name": "Bass Cannon",
+      "url": "https://open.spotify.com/track/1fc12F23NDBAN1Y75GEc1v"
     },
     {
       "added_at": "2020-10-03 10:26:51",
@@ -251,94 +335,6 @@
     {
       "added_at": "2020-10-03 10:26:51",
       "album": {
-        "name": "Welcome Reality",
-        "url": "https://open.spotify.com/album/6GazPcWYAUnvB83tXIbs97"
-      },
-      "artists": [
-        {
-          "name": "NERO",
-          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
-        }
-      ],
-      "duration_ms": 257386,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/4UZifG6wVTl3dFIeHKLi8y"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Bass Cannon",
-        "url": "https://open.spotify.com/album/6byw7VMDEduQESVKJ8tbWA"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        }
-      ],
-      "duration_ms": 310410,
-      "name": "Bass Cannon",
-      "url": "https://open.spotify.com/track/1fc12F23NDBAN1Y75GEc1v"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Bread Get Bun",
-        "url": "https://open.spotify.com/album/5RDkEtarAMajDedu2qLlxY"
-      },
-      "artists": [
-        {
-          "name": "Caspa",
-          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
-        },
-        {
-          "name": "Rusko",
-          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
-        }
-      ],
-      "duration_ms": 228261,
-      "name": "Bread Get Bun",
-      "url": "https://open.spotify.com/track/2wFyiHvfeciZ3Y16hMBDNW"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Beg To Differ",
-        "url": "https://open.spotify.com/album/1c6CUNYkv0uxnnJdZneWBT"
-      },
-      "artists": [
-        {
-          "name": "Plastician",
-          "url": "https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 224040,
-      "name": "Intensive Snare feat. Skepta - Original Mix",
-      "url": "https://open.spotify.com/track/5iNvnrGvOV6J17eUUc0skt"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
-        "url": "https://open.spotify.com/album/6HbNEBza64W10MQxUFq6QL"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 243852,
-      "name": "Scary Monsters and Nice Sprites",
-      "url": "https://open.spotify.com/track/5q8oybjZelukF4h0CzSUN9"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
         "name": "Rage Valley",
         "url": "https://open.spotify.com/album/2KZKR8bLDZPUxOE6JhTh4X"
       },
@@ -348,209 +344,9 @@
           "url": "https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH"
         }
       ],
-      "duration_ms": 246770,
-      "name": "Centipede",
-      "url": "https://open.spotify.com/track/0u2AIKDVafHwCFQ9LDnqxH"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Lone Wolf",
-        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Lone Wolf",
-      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "This Is Dubstep Anthems",
-        "url": "https://open.spotify.com/album/5BfMfSQCXkjMZ8G95NblDK"
-      },
-      "artists": [
-        {
-          "name": "NERO",
-          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
-        }
-      ],
-      "duration_ms": 339428,
-      "name": "Act Like You Know - Dubstep Mix",
-      "url": "https://open.spotify.com/track/7wNtcpvxS7xU1apfK46bSD"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Jewel Thief / Flyer Manz",
-        "url": "https://open.spotify.com/album/20MYCWgSmViL29IMMpcYhn"
-      },
-      "artists": [
-        {
-          "name": "Sukh Knight",
-          "url": "https://open.spotify.com/artist/2NskCY8L26IYipQhRWousM"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "Jewel Thief",
-      "url": "https://open.spotify.com/track/69YIX9DowU7LSMj09T0EA1"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Eyes On Fire (Zed Dead Remix)",
-        "url": "https://open.spotify.com/album/5wFQEk3sV9Zjo3xnGZLS42"
-      },
-      "artists": [
-        {
-          "name": "Blue Foundation",
-          "url": "https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr"
-        },
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Eyes on Fire - Zeds Dead Remix",
-      "url": "https://open.spotify.com/track/3Oiauiojgokw9vWQvFmEoI"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "My Demons",
-        "url": "https://open.spotify.com/album/0OunwPdyQkPtategY8yonA"
-      },
-      "artists": [
-        {
-          "name": "Distance",
-          "url": "https://open.spotify.com/artist/1FvQZpPhaVvSoQnpslxnvb"
-        }
-      ],
-      "duration_ms": 369360,
-      "name": "Night Vision",
-      "url": "https://open.spotify.com/track/3q9d18SYJ0JDfvFCZAtBow"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Me Want Cookie",
-        "url": "https://open.spotify.com/album/6oLAMVK3lpLvqWFqqy07Ax"
-      },
-      "artists": [
-        {
-          "name": "Cookie Monsta",
-          "url": "https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "You Can Do It",
-      "url": "https://open.spotify.com/track/0kmD6lsVNLzU6dpWxjYxLd"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "The Harder They Fall EP",
-        "url": "https://open.spotify.com/album/5s7KcxWTWcGbGehe52aga6"
-      },
-      "artists": [
-        {
-          "name": "Foreign Beggars",
-          "url": "https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 240011,
-      "name": "Still Getting It",
-      "url": "https://open.spotify.com/track/0LeGeKymBOKaofgQOZXeSo"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "100% No Modern Talking",
-        "url": "https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB"
-      },
-      "artists": [
-        {
-          "name": "Knife Party",
-          "url": "https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH"
-        }
-      ],
-      "duration_ms": 301122,
-      "name": "Internet Friends",
-      "url": "https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Welcome Reality",
-        "url": "https://open.spotify.com/album/6GazPcWYAUnvB83tXIbs97"
-      },
-      "artists": [
-        {
-          "name": "NERO",
-          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
-        }
-      ],
-      "duration_ms": 308173,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/5ABDsQEkVZ1ECGPGQl6Yfr"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Overkill / Hold Me",
-        "url": "https://open.spotify.com/album/7bKAVmV4Df9cAcyk5BsInf"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        }
-      ],
-      "duration_ms": 336079,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4KyRFye8Zqh7RAYakwtt65"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Dark Matter / HP Sauce",
-        "url": "https://open.spotify.com/album/38JjEHK0Q9MW0FYqjeWr4m"
-      },
-      "artists": [
-        {
-          "name": "N-Type",
-          "url": "https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY"
-        }
-      ],
-      "duration_ms": 420346,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/0kmABryX13FCanpYXjoYdo"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Where's My Money (Caspa Remix) / Tron",
-        "url": "https://open.spotify.com/album/3D7wSZmRQlAvSKViok4gLO"
-      },
-      "artists": [
-        {
-          "name": "TC",
-          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
-        }
-      ],
-      "duration_ms": 298285,
-      "name": "Where's My Money (Caspa Remix)",
-      "url": "https://open.spotify.com/track/2wXtemuU48ra2V6esXbLyd"
+      "duration_ms": 272077,
+      "name": "Bonfire",
+      "url": "https://open.spotify.com/track/0QIYINh2AwmOmdu8CRYvlw"
     },
     {
       "added_at": "2020-10-03 10:26:51",
@@ -575,22 +371,70 @@
     {
       "added_at": "2020-10-03 10:26:51",
       "album": {
-        "name": "Bangarang EP",
-        "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
+        "name": "Eyes On Fire (Zed Dead Remix)",
+        "url": "https://open.spotify.com/album/5wFQEk3sV9Zjo3xnGZLS42"
+      },
+      "artists": [
+        {
+          "name": "Blue Foundation",
+          "url": "https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr"
+        },
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Eyes on Fire - Zeds Dead Remix",
+      "url": "https://open.spotify.com/track/3Oiauiojgokw9vWQvFmEoI"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Lone Wolf",
+        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Scary Monsters and Nice Sprites (Deluxe Tour Edition)",
+        "url": "https://open.spotify.com/album/6HbNEBza64W10MQxUFq6QL"
       },
       "artists": [
         {
           "name": "Skrillex",
           "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Sirah",
-          "url": "https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38"
         }
       ],
-      "duration_ms": 215253,
-      "name": "Bangarang (feat. Sirah)",
-      "url": "https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ"
+      "duration_ms": 243852,
+      "name": "Scary Monsters and Nice Sprites",
+      "url": "https://open.spotify.com/track/5q8oybjZelukF4h0CzSUN9"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "This Is Dubstep Anthems",
+        "url": "https://open.spotify.com/album/5BfMfSQCXkjMZ8G95NblDK"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        }
+      ],
+      "duration_ms": 339428,
+      "name": "Act Like You Know - Dubstep Mix",
+      "url": "https://open.spotify.com/track/7wNtcpvxS7xU1apfK46bSD"
     },
     {
       "added_at": "2020-10-03 10:26:51",
@@ -611,90 +455,34 @@
     {
       "added_at": "2020-10-03 10:26:51",
       "album": {
-        "name": "Ginger Pubes / Blurgh!",
-        "url": "https://open.spotify.com/album/4n7w7SRIJxV6oKySEmaAlK"
+        "name": "Where's My Money (Caspa Remix) / Tron",
+        "url": "https://open.spotify.com/album/3D7wSZmRQlAvSKViok4gLO"
       },
       "artists": [
         {
-          "name": "Cookie Monsta",
-          "url": "https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP"
+          "name": "TC",
+          "url": "https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61"
         }
       ],
-      "duration_ms": 270917,
-      "name": "Blurgh!",
-      "url": "https://open.spotify.com/track/2A7PvmTcv2L9c7TlJp9a9e"
+      "duration_ms": 298285,
+      "name": "Where's My Money (Caspa Remix)",
+      "url": "https://open.spotify.com/track/2wXtemuU48ra2V6esXbLyd"
     },
     {
       "added_at": "2020-10-03 10:26:51",
       "album": {
-        "name": "UKF Dubstep 2011",
-        "url": "https://open.spotify.com/album/3IKzKR31XJ3fuQVeeJEbaH"
+        "name": "100% No Modern Talking",
+        "url": "https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB"
       },
       "artists": [
         {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+          "name": "Knife Party",
+          "url": "https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH"
         }
       ],
-      "duration_ms": 238984,
-      "name": "Organ Donor",
-      "url": "https://open.spotify.com/track/7kZ7HsK9XD6X6e9Yb5zBTn"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Generation Dubstep",
-        "url": "https://open.spotify.com/album/7oOdk7kXghCgkLaSbh1SwH"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "James Jacob",
-          "url": "https://open.spotify.com/artist/6zREiaEjYXtcirqnoxXs71"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "Starry Eyed - Jakwob Remix",
-      "url": "https://open.spotify.com/track/055TcMyKhz8NV8XzTTeKGu"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "J:Kenzo",
-        "url": "https://open.spotify.com/album/4RWMR22mHQEbhOfjNO7GFv"
-      },
-      "artists": [
-        {
-          "name": "J:Kenzo",
-          "url": "https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz"
-        },
-        {
-          "name": "Rod Azlan",
-          "url": "https://open.spotify.com/artist/5ifCekzNY9aSB2RExCeDTW"
-        }
-      ],
-      "duration_ms": 333173,
-      "name": "Ruffhouse (feat. Rod Azlan)",
-      "url": "https://open.spotify.com/track/7CrJEJxN8IX52KgHYxVsP4"
-    },
-    {
-      "added_at": "2020-10-03 10:26:51",
-      "album": {
-        "name": "Skream! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1nWIYpBIbSn759fhDYPvrx"
-      },
-      "artists": [
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        }
-      ],
-      "duration_ms": 391866,
-      "name": "Rutten",
-      "url": "https://open.spotify.com/track/28T5MOMLbQ1MMmJAbrrxWr"
+      "duration_ms": 301122,
+      "name": "Internet Friends",
+      "url": "https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ"
     },
     {
       "added_at": "2020-10-03 10:26:51",
@@ -711,6 +499,214 @@
       "duration_ms": 306891,
       "name": "Music in Me",
       "url": "https://open.spotify.com/track/3sSwdKGqxmpycfrRHY61Mf"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Me Want Cookie",
+        "url": "https://open.spotify.com/album/6oLAMVK3lpLvqWFqqy07Ax"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monsta",
+          "url": "https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "You Can Do It",
+      "url": "https://open.spotify.com/track/0kmD6lsVNLzU6dpWxjYxLd"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Time Lapse",
+        "url": "https://open.spotify.com/album/3Ttv6LO7YJrpYJA1PVPKFb"
+      },
+      "artists": [
+        {
+          "name": "Boofy",
+          "url": "https://open.spotify.com/artist/1w2QxapVigswBn0iFFmhAm"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "Time Lapse",
+      "url": "https://open.spotify.com/track/79Ir3HCbMRSNhvnowWwJFk"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Overkill / Hold Me",
+        "url": "https://open.spotify.com/album/7bKAVmV4Df9cAcyk5BsInf"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "duration_ms": 336079,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4KyRFye8Zqh7RAYakwtt65"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Bangarang EP",
+        "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Sirah",
+          "url": "https://open.spotify.com/artist/3oAazIwC0nAYkOKVQPUC38"
+        }
+      ],
+      "duration_ms": 215253,
+      "name": "Bangarang (feat. Sirah)",
+      "url": "https://open.spotify.com/track/6VRhkROS2SZHGlp0pxndbJ"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Beg To Differ",
+        "url": "https://open.spotify.com/album/1c6CUNYkv0uxnnJdZneWBT"
+      },
+      "artists": [
+        {
+          "name": "Plastician",
+          "url": "https://open.spotify.com/artist/6p41GgJajkf3W2YXAzL8xC"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 224040,
+      "name": "Intensive Snare feat. Skepta - Original Mix",
+      "url": "https://open.spotify.com/track/5iNvnrGvOV6J17eUUc0skt"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Me Want Cookie",
+        "url": "https://open.spotify.com/album/6oLAMVK3lpLvqWFqqy07Ax"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monsta",
+          "url": "https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP"
+        }
+      ],
+      "duration_ms": 219860,
+      "name": "Me Want Cookie",
+      "url": "https://open.spotify.com/track/32DHNTwLq8wX9boBM7Kye7"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "The Harder They Fall EP",
+        "url": "https://open.spotify.com/album/5s7KcxWTWcGbGehe52aga6"
+      },
+      "artists": [
+        {
+          "name": "Foreign Beggars",
+          "url": "https://open.spotify.com/artist/0sQ1wgSdRpoysgsa1VnI4G"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 240011,
+      "name": "Still Getting It",
+      "url": "https://open.spotify.com/track/0LeGeKymBOKaofgQOZXeSo"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/5dtvxjLA5KuYhzzbKj4AeX"
+      },
+      "artists": [
+        {
+          "name": "Commodo",
+          "url": "https://open.spotify.com/artist/2ZUJPPIpRK31hReRC22ZmT"
+        }
+      ],
+      "duration_ms": 300948,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/085brB3n3gpv5v035Emc2X"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Jewel Thief / Flyer Manz",
+        "url": "https://open.spotify.com/album/20MYCWgSmViL29IMMpcYhn"
+      },
+      "artists": [
+        {
+          "name": "Sukh Knight",
+          "url": "https://open.spotify.com/artist/2NskCY8L26IYipQhRWousM"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "Jewel Thief",
+      "url": "https://open.spotify.com/track/69YIX9DowU7LSMj09T0EA1"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "On A Mission",
+        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Katy on a Mission",
+      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/5hwtvGZkoGZa3zwB7zM3eB"
+      },
+      "artists": [
+        {
+          "name": "Von D",
+          "url": "https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD"
+        },
+        {
+          "name": "Phephe",
+          "url": "https://open.spotify.com/artist/6hbDRl5YS14dPDgukOomDc"
+        }
+      ],
+      "duration_ms": 282857,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/5qRe3KNf0uXJpt1RKEAEwI"
+    },
+    {
+      "added_at": "2020-10-03 10:26:51",
+      "album": {
+        "name": "Evolution Theory (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1qO419UppdxI82xDAy73Bj"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        }
+      ],
+      "duration_ms": 250880,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/6WZ5EMzMDchO374npQHpp5"
     }
   ],
   "unique_name": "Dubstep Classics",

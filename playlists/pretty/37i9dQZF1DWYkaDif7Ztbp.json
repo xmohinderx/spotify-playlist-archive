@@ -1,12 +1,12 @@
 {
   "description": "The tracks heating up the continent right now! Cover: <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=5Z7nU1NlSleLiz1BSOb7Dw\"> Fireboy DML </a>  ",
-  "num_followers": 879309,
+  "num_followers": 879864,
   "original_name": "African Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjExNDgwMCwwMDAwMDIyNTAwMDAwMTdlNTVhYjVhMmMwMDAwMDE3ZGUxYWU2NWI5",
+  "snapshot_id": "MTY0MjcxOTYwMCwwMDAwMDIyNjAwMDAwMTdlNzliN2RlNTMwMDAwMDE3ZGUxYWU2NWI5",
   "tracks": [
     {
       "added_at": "2021-12-23 23:00:00",
@@ -27,6 +27,22 @@
       "duration_ms": 187111,
       "name": "Peru",
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
+    {
+      "added_at": "2022-01-20 23:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 167499,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b"
     },
     {
       "added_at": "2021-11-18 23:01:00",
@@ -883,26 +899,6 @@
       "duration_ms": 276009,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/1JatNOHjkqO8omLaTCNTSU"
-    },
-    {
-      "added_at": "2021-10-22 00:00:00",
-      "album": {
-        "name": "Kunjani",
-        "url": "https://open.spotify.com/album/5A75lUyWtHmQy8u1qym21S"
-      },
-      "artists": [
-        {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
-        },
-        {
-          "name": "Sho Madjozi",
-          "url": "https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo"
-        }
-      ],
-      "duration_ms": 261896,
-      "name": "Kunjani",
-      "url": "https://open.spotify.com/track/1eAoxRoicPL7yEBe2yUXg9"
     },
     {
       "added_at": "2021-10-22 00:00:00",

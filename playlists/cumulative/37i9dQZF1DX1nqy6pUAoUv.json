@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 256560,
       "name": "At the Purchaser's Option",
       "url": "https://open.spotify.com/track/1TEZxIrbnjr7fCZWoXSFap"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 253821,
       "name": "BAD DESIRE",
       "url": "https://open.spotify.com/track/3rVixRSQvA9IGV3gopxdUc"
@@ -200,6 +200,24 @@
     },
     {
       "album": {
+        "name": "Ruminations",
+        "url": "https://open.spotify.com/album/67hzZ19BcqT086ahgI9DIB"
+      },
+      "artists": [
+        {
+          "name": "Conor Oberst",
+          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252373,
+      "name": "Barbary Coast (Later)",
+      "url": "https://open.spotify.com/track/6bgjcVqaUmnalHy0C8txLv"
+    },
+    {
+      "album": {
         "name": "Ash & Stone",
         "url": "https://open.spotify.com/album/7ffFxuWnm5TAnLyG6RPOZJ"
       },
@@ -211,7 +229,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 171786,
       "name": "Behind the Light",
       "url": "https://open.spotify.com/track/58jpPPHU4CuFlL8lAYIOPx"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 293093,
       "name": "Debtors' Prison",
       "url": "https://open.spotify.com/track/5dyQtYRxhnBUs9rwuGCcGi"
@@ -785,7 +803,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 187240,
       "name": "Filled With Wonder Once Again",
       "url": "https://open.spotify.com/track/0sK5rMYKs8CZUyZDCak2Rk"
@@ -879,7 +897,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 170456,
       "name": "Georgia Drumbeat",
       "url": "https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 217816,
       "name": "Give a Little Love (feat. Sufjan Stevens)",
       "url": "https://open.spotify.com/track/0FfcviVA8x0FaVIwwZVUJE"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 253137,
       "name": "Good Trouble",
       "url": "https://open.spotify.com/track/5uFfNUgECDKqEO0RtyXvOs"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 249213,
       "name": "Heart to Ride",
       "url": "https://open.spotify.com/track/3ksOjny1fxhYeRAMunOLcv"
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 189626,
       "name": "I Could've Been Your Lover Too",
       "url": "https://open.spotify.com/track/28o9xWhJmUWFO9VVg4bpvE"
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 462500,
       "name": "Mohabbat",
       "url": "https://open.spotify.com/track/5PY0OvDT2tnAykdiUQayF8"
@@ -2099,7 +2117,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 276576,
       "name": "Queen Jane Approximately",
       "url": "https://open.spotify.com/track/6x8GZhkP0rOLQJSkhWR27Y"
@@ -2135,7 +2153,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 274742,
       "name": "River Floor",
       "url": "https://open.spotify.com/track/1IFfxA7q1t1Pd06KFYrwQK"
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 249886,
       "name": "The Fray (feat. The Milk Carton Kids)",
       "url": "https://open.spotify.com/track/2a4Et8Q8QUBnmgjO4FDMS6"
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 235893,
       "name": "The Queen of Hearts",
       "url": "https://open.spotify.com/track/3hZSjTEvT5ftkQvLEMuUZz"
@@ -2569,7 +2587,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 195529,
       "name": "The Woman Who Planted Trees",
       "url": "https://open.spotify.com/track/3jaEz5rDU8pYZCPPY51rDm"
@@ -2587,7 +2605,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 210842,
       "name": "Thistles",
       "url": "https://open.spotify.com/track/3csixj0ocYHbVJz8S1sEGR"
@@ -2641,7 +2659,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 211786,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/3vuhk4DMMf4bQePny04bhs"
@@ -2847,7 +2865,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 236533,
       "name": "Where Did You Sleep Last Night",
       "url": "https://open.spotify.com/track/1vCmZCVNwCKw51Q5S8177Z"
@@ -2883,7 +2901,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 180977,
       "name": "Wildflowers in the Graveyard",
       "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 198026,
       "name": "Will You",
       "url": "https://open.spotify.com/track/0LFhh32OmXCD8ShloH3j22"
@@ -2923,7 +2941,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 216259,
       "name": "Workin's Too Hard",
       "url": "https://open.spotify.com/track/6Xsh0TEobnRSRkt2UAbAxc"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 205133,
       "name": "Ac\u00e9rcate M\u00e1s",
       "url": "https://open.spotify.com/track/14P2fqBD8GW7zSWFvDOPfx"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 189506,
       "name": "Entre Tu Amor Y Mi Amor",
       "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 205480,
       "name": "Flor de Azalea",
       "url": "https://open.spotify.com/track/0TU7x7BKZSg71PuAzIFtzW"
@@ -860,6 +860,24 @@
     },
     {
       "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168493,
+      "name": "Limosna",
+      "url": "https://open.spotify.com/track/5YanWbCEInTpLLXX9oUvDw"
+    },
+    {
+      "album": {
         "name": "Loca Pasi\u00f3n",
         "url": "https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh"
       },
@@ -871,7 +889,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 171720,
       "name": "Loca Pasi\u00f3n",
       "url": "https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ"
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 178677,
       "name": "Noche No Te Vayas",
       "url": "https://open.spotify.com/track/5PG0KLm66uabwKFWSGNe5U"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 204200,
       "name": "Solamente Una Vez",
       "url": "https://open.spotify.com/track/2J4hetQLI8G66r3SfWllLc"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 118306,
       "name": "Yo Tengo un Amor",
       "url": "https://open.spotify.com/track/6pZk7OJ56206gZX6Vx1M1Z"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 
 > <a href="spotify:genre:0JQ5IMCbQBLzTital6q4J3">Click here to explore more rapid changes, complex progressions and improvisation\.  </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,435 likes - 45 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,516 likes - 45 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KyCRJzZneq.md) - [plain]
 | 11 | [Un Poco Loco \- Rudy Van Gelder Edition / Remastered 1998](https://open.spotify.com/track/5SocjOFFwNyWGLwAzPfLFh) | [Bud Powell](https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6) | [The Amazing Bud Powell: Vol\. 1 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/4JZpydaQoCZY03mYcPgsaS) | 4:46 |
 | 12 | [I Got Rhythm](https://open.spotify.com/track/6nI0kXzMMj6bB6NML8vTc8) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Verve Jazz Masters 50](https://open.spotify.com/album/2BCgmQbzBIxnXBadb5iPGX) | 3:09 |
 | 13 | [I´ll Remember April](https://open.spotify.com/track/7Ml3xKl9Uj5Lkw6KKKFqO9) | [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Original Sessions and Collaborations 1953 / Reunion 1957](https://open.spotify.com/album/3CM7xLz98E6txL6cIRaGym) | 4:15 |
-| 14 | [The Chase](https://open.spotify.com/track/3YBfGF2pPZu3FXM5D2mzyd) | [Tadd Dameron Sextet](https://open.spotify.com/artist/7kJFzwZwq2B88RzIY3rfJe) | [The Fabulous Fats Navarro](https://open.spotify.com/album/3zTHq5cj2KLev9c7eFJ7CI) | 2:46 |
+| 14 | [The Chase](https://open.spotify.com/track/3YBfGF2pPZu3FXM5D2mzyd) | [Tadd Dameron Sextet](https://open.spotify.com/artist/7kJFzwZwq2B88RzIY3rfJe) | [The Complete Blue Note and Capitol Recordings](https://open.spotify.com/album/3zTHq5cj2KLev9c7eFJ7CI) | 2:46 |
 | 15 | [Cookin' At The Continental](https://open.spotify.com/track/1U1vBvFOfGJP2MLwj1OmOH) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Best Of Horace Silver](https://open.spotify.com/album/3G0Y7RBOXTJ7HOtW2Umcmh) | 4:54 |
 | 16 | [Super Jet](https://open.spotify.com/track/0n9toZOivQbcwGuwNsPywM) | [Tadd Dameron](https://open.spotify.com/artist/4w8eKJO83kKgKRLbMKM2zB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Mating Call \[RVG Remaster\]](https://open.spotify.com/album/10UhtK2nSh8AZRt1Iaf8nA) | 5:53 |
 | 17 | [Dewey Square](https://open.spotify.com/track/3mI0pKRyB7uP1voc5Fyt4Y) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [The Complete Blue Note Lou Donaldson Sessions 1957\-60](https://open.spotify.com/album/1HpdiW5yOFkgR18E9AL7VR) | 7:17 |

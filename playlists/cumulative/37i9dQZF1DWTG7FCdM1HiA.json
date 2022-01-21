@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 340146,
       "name": "Bags' Groove",
       "url": "https://open.spotify.com/track/3c3n63RBhfDNbzji0eAxmI"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 403693,
       "name": "Blue Rondo \u00e0 la Turk",
       "url": "https://open.spotify.com/track/3cYHFvUYDVY9loQQ0LalJc"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 211840,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/1LQnx5pOrPcpUYJxpiDukK"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 275333,
       "name": "Django",
       "url": "https://open.spotify.com/track/1wHKgpL6wb7V922tOJCIl3"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 221961,
       "name": "Easy Livin",
       "url": "https://open.spotify.com/track/2Wlfta7vocbOW32AH3wRe3"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 401973,
       "name": "Feeling the Blues",
       "url": "https://open.spotify.com/track/5QcFAk9QfdkBUnjTqVDj5H"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 155173,
       "name": "Gotta Dance",
       "url": "https://open.spotify.com/track/4GJ5AOmZfOqNlBhnYC8JFI"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 250472,
       "name": "Laura",
       "url": "https://open.spotify.com/track/0pdajpmRwVX10gYQgZUYbO"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 209240,
       "name": "Makin' Whoopee",
       "url": "https://open.spotify.com/track/7gevuNejcmzUYlAoAE5d6N"
@@ -1509,7 +1509,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 441960,
       "name": "Nuzzolese Blues",
       "url": "https://open.spotify.com/track/61AUCGpbG40nrZ8XWdG6Iw"
@@ -1603,7 +1603,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 698360,
       "name": "Sarah - Instrumental",
       "url": "https://open.spotify.com/track/1RbFkdnut0gI6iS40t529I"
@@ -1984,6 +1984,24 @@
     },
     {
       "album": {
+        "name": "Gerry Mulligan Quartet Vol.1 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Quartet",
+          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173440,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/3WesEfSzBJYLkVepDWMzZg"
+    },
+    {
+      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -2093,7 +2111,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 193133,
       "name": "Walkin' Shoes",
       "url": "https://open.spotify.com/track/6BavxfUuSOBIhMaEJ6rjNs"
@@ -2183,7 +2201,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 202400,
       "name": "Wow",
       "url": "https://open.spotify.com/track/29yGSQtgC3W9WAHm45S5Oc"

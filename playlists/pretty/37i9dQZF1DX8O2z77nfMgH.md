@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados, con Wisin y Camilo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,344 likes - 56 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,464 likes - 56 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 21 | [Ayúdame a Imaginar](https://open.spotify.com/track/0wzC02iW7IaqAASCgDR2Qs) | [Soto Asa](https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Ayúdame a Imaginar](https://open.spotify.com/album/0m02rziBAevF5FDUEcZuCq) | 4:25 |
 | 22 | [No Creyeron](https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [No Creyeron](https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25) | 2:30 |
 | 23 | [No](https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [No](https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK) | 3:07 |
-| 24 | [Te Voy A Conquistar](https://open.spotify.com/track/6OyXy9MzQmHelQ06faSjMU) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [NZO](https://open.spotify.com/artist/5MtkaSTt4quiREe3IL69q7) | [Te Voy A Conquistar](https://open.spotify.com/album/1sDXcM414HAxpoB36OLB1I) | 3:46 |
+| 24 | [Te Voy A Conquistar](https://open.spotify.com/track/6OyXy9MzQmHelQ06faSjMU) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [NZO](https://open.spotify.com/artist/6SWdWsEfebEsNwD1dYKj2d) | [Te Voy A Conquistar](https://open.spotify.com/album/1sDXcM414HAxpoB36OLB1I) | 3:46 |
 | 25 | [Qué Bello \- Versión Salsa](https://open.spotify.com/track/3yeIWitSXgDRkBBuQWDbQZ) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ) | [Qué Bello \(Versión Salsa\)](https://open.spotify.com/album/6HuzvoO0eHtOKWz92XuBRf) | 3:56 |
 | 26 | [Dime Que Sí](https://open.spotify.com/track/6BqRzKHibZ9HhBHmbsCoez) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Dime Que Sí](https://open.spotify.com/album/3MzH50WWwdkZTcKp27T1p2) | 2:35 |
 | 27 | [Hasta Que Regreses](https://open.spotify.com/track/113DePdXtrX328UFntdtyP) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Hasta Que Regreses](https://open.spotify.com/album/1OxCRM4wBdZ6XASmHhP6jw) | 3:05 |

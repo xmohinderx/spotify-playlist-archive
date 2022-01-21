@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest in South African Hip Hop & R&B. Cover: <a href=\"https://open.spotify.com/artist/3kv1Edgn5HlEWCuEKr1Y9x?si=JfkadQmQQ7G3AxN_GlnieA\">Yugen Blakrok</a> ",
+  "description": "Only the hottest in South African Hip Hop & R&B. Cover: <a href=\"https://open.spotify.com/artist/6P3y4aW1ODoascqxL48u7Y?si=YkvtIkePT1eVzOCFNAER-w\">Patty Monroe</a> ",
   "name": "Aux",
   "published_playlist_ids": [
     "0xTC98cyXGkNifzFqwccaX"
@@ -148,6 +148,32 @@
     },
     {
       "album": {
+        "name": "NOTBENJAMIN & FRIENDS",
+        "url": "https://open.spotify.com/album/0vJNtb9Mqk5Irn4Hzo8SFj"
+      },
+      "artists": [
+        {
+          "name": "NOTBENJAMIN",
+          "url": "https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN"
+        },
+        {
+          "name": "Kashcpt",
+          "url": "https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs"
+        },
+        {
+          "name": "Indigo Stella",
+          "url": "https://open.spotify.com/artist/3GXgxaSpm0hNom0dS4414e"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "BENZ (feat. Kashcpt & Indigo Stella)",
+      "url": "https://open.spotify.com/track/4NcucizDcjgza0JesuliyZ"
+    },
+    {
+      "album": {
         "name": "Best I Ever Had",
         "url": "https://open.spotify.com/album/7IZ4yJSu3YiGNcQlw1mIBs"
       },
@@ -232,6 +258,42 @@
     },
     {
       "album": {
+        "name": "Demon Talk",
+        "url": "https://open.spotify.com/album/0oc0hN0Kep4tVHnea5GHBA"
+      },
+      "artists": [
+        {
+          "name": "KVSE",
+          "url": "https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185113,
+      "name": "Demon Talk",
+      "url": "https://open.spotify.com/track/3kngVCvdhznk5R1zQpqpUQ"
+    },
+    {
+      "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/5AtFRiXhghMTRCc1OzdNvL"
+      },
+      "artists": [
+        {
+          "name": "Nanette",
+          "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233550,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/5dH4VQKpBTtuq4JZL4joP4"
+    },
+    {
+      "album": {
         "name": "Dwn2Ply (Do U Feel The $Ame)",
         "url": "https://open.spotify.com/album/3slO9nS2WtLwuOnaqYmb6o"
       },
@@ -243,10 +305,44 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 256000,
       "name": "Dwn2Ply (Do U Feel The $Ame)",
       "url": "https://open.spotify.com/track/16oMmjmnha0GHHI0Ewd3OA"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/3oU6BLBFicWlnWui9KbEFG"
+      },
+      "artists": [
+        {
+          "name": "Kalliseni",
+          "url": "https://open.spotify.com/artist/4IM0HLc9LGwxLKcXbEUZKx"
+        },
+        {
+          "name": "Don Q",
+          "url": "https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee"
+        },
+        {
+          "name": "Chris Travis",
+          "url": "https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5"
+        },
+        {
+          "name": "Eddy Baker",
+          "url": "https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6"
+        },
+        {
+          "name": "Yung Simmie",
+          "url": "https://open.spotify.com/artist/44mzV1KxYq8i2S4LHZxQAp"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99418,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5qBQ8jRa1NL9lQXa7o59at"
     },
     {
       "album": {
@@ -269,6 +365,32 @@
       "duration_ms": 180000,
       "name": "Forever",
       "url": "https://open.spotify.com/track/507mYoKvzQIhmmFH1gq9I0"
+    },
+    {
+      "album": {
+        "name": "NOTBENJAMIN & FRIENDS",
+        "url": "https://open.spotify.com/album/0vJNtb9Mqk5Irn4Hzo8SFj"
+      },
+      "artists": [
+        {
+          "name": "NOTBENJAMIN",
+          "url": "https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN"
+        },
+        {
+          "name": "BELO SALO",
+          "url": "https://open.spotify.com/artist/2up6sbDDhWGQN8lZqjTQdu"
+        },
+        {
+          "name": "Jordan Baker",
+          "url": "https://open.spotify.com/artist/6zLFl5QcMyd9wp2LKPdXFH"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "FROZE (feat. BELO SALO & Jordan Baker)",
+      "url": "https://open.spotify.com/track/5K1m4XswH44TsiN5fkoxqf"
     },
     {
       "album": {
@@ -313,6 +435,28 @@
       "duration_ms": 167860,
       "name": "Godbody",
       "url": "https://open.spotify.com/track/47mab0NNKdxWd7cJWbFW7J"
+    },
+    {
+      "album": {
+        "name": "Usiba",
+        "url": "https://open.spotify.com/album/4r6bz6cbQgJDPomZMAmjW7"
+      },
+      "artists": [
+        {
+          "name": "Halo Yagami",
+          "url": "https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143504,
+      "name": "Gologo",
+      "url": "https://open.spotify.com/track/58pGL8BYqBz68RImoEhtRS"
     },
     {
       "album": {
@@ -378,6 +522,42 @@
     },
     {
       "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/5nCr0uVuT8whS1wrM8QNo7"
+      },
+      "artists": [
+        {
+          "name": "Patty Monroe",
+          "url": "https://open.spotify.com/artist/6P3y4aW1ODoascqxL48u7Y"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264742,
+      "name": "Know Love",
+      "url": "https://open.spotify.com/track/2BtmsgVBsO7NlfFzNJJVIb"
+    },
+    {
+      "album": {
+        "name": "KUMBAYA",
+        "url": "https://open.spotify.com/album/1aqOupCxQrGP5oOmt8pTt9"
+      },
+      "artists": [
+        {
+          "name": "YoungT",
+          "url": "https://open.spotify.com/artist/4C43Ce0K8CdTNpizXxe7vv"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247197,
+      "name": "KUMBAYA",
+      "url": "https://open.spotify.com/track/44JKlW14QaUbXtWNWPZ2en"
+    },
+    {
+      "album": {
         "name": "Banana Island",
         "url": "https://open.spotify.com/album/3sXDZY0TEc3jJKCHSbG4LG"
       },
@@ -429,7 +609,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 107964,
       "name": "Lifespan",
       "url": "https://open.spotify.com/track/3TZtaOPcjABHxsuXLG1nBq"
@@ -603,6 +783,24 @@
       "duration_ms": 154285,
       "name": "Mud",
       "url": "https://open.spotify.com/track/5GWqKTUOOFf7jH0T8GOsfP"
+    },
+    {
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/76eLmNJarvxCL81Yn89ZIM"
+      },
+      "artists": [
+        {
+          "name": "Stino Le Thwenny",
+          "url": "https://open.spotify.com/artist/5kicxKGLnJF6uG0pgb0F3m"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258377,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5vegFpEdlaIO3PYvAvIQnk"
     },
     {
       "album": {
@@ -816,6 +1014,24 @@
     },
     {
       "album": {
+        "name": "Say Wit Yoh Chest Out",
+        "url": "https://open.spotify.com/album/01Wgbssjmj73g3FOmxKeBv"
+      },
+      "artists": [
+        {
+          "name": "Sireece",
+          "url": "https://open.spotify.com/artist/6Qpp3BxsDyTKjNPgJp95ae"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147804,
+      "name": "Say Wit Yoh Chest Out",
+      "url": "https://open.spotify.com/track/0hC0L6QozvxstZZ6qVSKjM"
+    },
+    {
+      "album": {
         "name": "Serious (Street Remix)",
         "url": "https://open.spotify.com/album/4rAKZhjVY8leXYaOV47ctZ"
       },
@@ -1018,6 +1234,24 @@
     },
     {
       "album": {
+        "name": "Tautona",
+        "url": "https://open.spotify.com/album/2fbwPZQSgnmsep1FCYgPHx"
+      },
+      "artists": [
+        {
+          "name": "'Mperuh Morepha",
+          "url": "https://open.spotify.com/artist/05iuRFYsGIBKT9ijKhZMJ6"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271200,
+      "name": "Tautona",
+      "url": "https://open.spotify.com/track/1c98qTqBrJPLlWPT2zsZo6"
+    },
+    {
+      "album": {
         "name": "Tears Run Dry",
         "url": "https://open.spotify.com/album/60PRu1PZZgFhLT8IofSElP"
       },
@@ -1029,7 +1263,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 223739,
       "name": "Tears Run Dry",
       "url": "https://open.spotify.com/track/6sv1xopcChSaymHKrChXGv"
@@ -1094,6 +1328,64 @@
     },
     {
       "album": {
+        "name": "TONIHGT?",
+        "url": "https://open.spotify.com/album/1vbd5URwPFh1T1NwegQEUT"
+      },
+      "artists": [
+        {
+          "name": "KHONAN?",
+          "url": "https://open.spotify.com/artist/0JTpu3sx41Mq3XUsG1Pow9"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "TONIHGT?",
+      "url": "https://open.spotify.com/track/5m86raNj7xD23GjOMQMoLU"
+    },
+    {
+      "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/5nCr0uVuT8whS1wrM8QNo7"
+      },
+      "artists": [
+        {
+          "name": "Patty Monroe",
+          "url": "https://open.spotify.com/artist/6P3y4aW1ODoascqxL48u7Y"
+        },
+        {
+          "name": "DeWun Music",
+          "url": "https://open.spotify.com/artist/37vzk140rT50jJ6iF4QGoC"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144474,
+      "name": "Trapped",
+      "url": "https://open.spotify.com/track/46KraCJv5TmDU6ukXxJPFT"
+    },
+    {
+      "album": {
+        "name": "The Backstory EP",
+        "url": "https://open.spotify.com/album/1m2hkbaBvGBG0WmWL4W9S4"
+      },
+      "artists": [
+        {
+          "name": "Bugzito",
+          "url": "https://open.spotify.com/artist/2v7qhEvWpiZpKIBPl2rI2t"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "Wa Jaja Mos",
+      "url": "https://open.spotify.com/track/2dYgMwFd6TSqwGDu51mhBD"
+    },
+    {
+      "album": {
         "name": "1965",
         "url": "https://open.spotify.com/album/0sX8CrmdvNxTuRxzXptXq8"
       },
@@ -1113,7 +1405,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 189235,
       "name": "What's Happening",
       "url": "https://open.spotify.com/track/0VgEeSCvVIA481UsO1vOAf"
@@ -1131,7 +1423,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 155619,
       "name": "Who Will Love Me",
       "url": "https://open.spotify.com/track/1xJdAVYAFIfbLWvlQkjAw1"

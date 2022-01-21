@@ -160,6 +160,28 @@
     },
     {
       "album": {
+        "name": "Live on Tour 2021",
+        "url": "https://open.spotify.com/album/4675BHgjXPBAvMi1VtY2oA"
+      },
+      "artists": [
+        {
+          "name": "The Darshan Doshi Trio",
+          "url": "https://open.spotify.com/artist/4cw437ehAoUfzyWoeSYzn7"
+        },
+        {
+          "name": "Varijashree Venugopal",
+          "url": "https://open.spotify.com/artist/59GUnH7f4NlLkxSxtNNt0i"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319253,
+      "name": "Bandish Blues (Live)",
+      "url": "https://open.spotify.com/track/3UAPWTHJrFE3WH5yGqiK9d"
+    },
+    {
+      "album": {
         "name": "Mrigya",
         "url": "https://open.spotify.com/album/3mkbK0NtIxKaWqU6xcJhKE"
       },

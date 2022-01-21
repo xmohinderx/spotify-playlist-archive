@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > Featured Artist, Pritty, just dropped two new singles with us and has more new music coming this month\.  Listen to Poison &amp; John Cena here + a mix of songs everyone at Moving Castle are listening to lately
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,523 likes - 35 songs - 2 hr 5 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,522 likes - 36 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,5 +43,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 33 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 |
 | 34 | [Burning](https://open.spotify.com/track/3igWrJSeQD4HGqmyoYRnNP) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Burning](https://open.spotify.com/album/2tOVEx5H7eELyXIKs8Eweo) | 2:59 |
 | 35 | [Crazy \(feat\. Casey Cook\) \- Orchestral](https://open.spotify.com/track/4WPMI2Ndmj8pLMWkiqSfMf) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Crazy \(feat\. Casey Cook\) \[Orchestral\]](https://open.spotify.com/album/7HLFXEXCGBWMmdNreBq7WE) | 3:30 |
+| 36 | [Explore](https://open.spotify.com/track/62wmupzYp1sdfhKM9cNiYC) | [Prblm Chld](https://open.spotify.com/artist/6ZgKMPtqbeSTMuQ6FQlxKh), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Explore](https://open.spotify.com/album/5Se8Q4Kues4cWqDlSTSLa0) | 2:57 |
 
-Snapshot ID: `OTMxNiw0ODJmMDk1YTUyN2Q1NjExYTcwYzRmYmU0YjQ5Y2U0ZTA1MWI4NzZj`
+Snapshot ID: `OTMxNyxjMDRkNjlkYjU4MzI4ZWQ0NTMwYjZkZjQwNGMzZDM4Mjk4ZGJiMGM1`

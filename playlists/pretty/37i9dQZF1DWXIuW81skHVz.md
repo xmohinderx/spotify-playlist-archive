@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIuW81skHVz.md) - [plain]
 
 > The shape of jazz today\. Cover: Immanuel Wilkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,061 likes - 78 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,068 likes - 78 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

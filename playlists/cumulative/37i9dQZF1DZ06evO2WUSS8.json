@@ -103,7 +103,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 278040,
       "name": "Ami Oh! (feat. Ang\u00e9lique Kidjo & Papa Wemba)",
       "url": "https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 229626,
       "name": "Born Under Punches",
       "url": "https://open.spotify.com/track/2lhaHl8ZY8JcHdyKpgkF5x"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 173640,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/7bNc9SJKRyxkYbY0YRiMZS"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 348840,
       "name": "Idje Idje",
       "url": "https://open.spotify.com/track/0DghtnUvSyAB0oLPu2rcYt"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 232400,
       "name": "Logozo",
       "url": "https://open.spotify.com/track/0sVLGPd6FxdNyCOURUtiDn"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 228640,
       "name": "Mycelium",
       "url": "https://open.spotify.com/track/6maTtCz6fwZGY6QTBXXsvv"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 199240,
       "name": "One Africa (Ind\u00e9pendance Cha-Cha)",
       "url": "https://open.spotify.com/track/5puDqgLkZPggQNQ5sti2RK"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 184146,
       "name": "Seen and Not Seen",
       "url": "https://open.spotify.com/track/0Em0MuPM6LdELHk9FXgg93"
@@ -1218,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Jazz Loves Disney 2 - A Kind Of Magic",
+        "url": "https://open.spotify.com/album/7eMvIgsmcohS24bmJ5rckU"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "Try Everything",
+      "url": "https://open.spotify.com/track/6EoOCVMcsU0Lt0TssHR7CY"
+    },
+    {
+      "album": {
         "name": "Oremi",
         "url": "https://open.spotify.com/album/5qmp5Q8tcg2VIJ5mVctnAC"
       },
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 222626,
       "name": "Yaki Yaki",
       "url": "https://open.spotify.com/track/5TJIFSsCxzigJUqomAfd4B"

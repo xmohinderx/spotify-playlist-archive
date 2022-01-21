@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 
 > Relive last night's fun with jigs and reels out of Ireland – alongside trad tracks inspired and influenced by Celtic traditions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,618 likes - 86 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,710 likes - 86 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HwI3Crikcm.md) - [plain]
 | 65 | [Accordion Solo \- Slow Air/Reel: An Paistin Fionn \(The Fair\-Haired Boy\) / The Flowers of Munster](https://open.spotify.com/track/4cqW1rCeO5sfWZXGkvMMkq) | [Chulrua](https://open.spotify.com/artist/5aXL2PUYsj6iaVB6dWG7ex) | [Barefoot on the Altar](https://open.spotify.com/album/7p8zCA7guYrRuhBnEtk5mj) | 4:53 |
 | 66 | [Air: An Páistín Fionn](https://open.spotify.com/track/03KG6RhbSVTuuUy8tModjE) | [Willie Clancy](https://open.spotify.com/artist/4KK08Oc4Xupje3eUyq8SJS) | [Willie Clancy The Gold Ring](https://open.spotify.com/album/0O7PGfK03BeWdIz37Y694X) | 2:52 |
 | 67 | [The Green Hills of Tyrol / The Fermoy Lassies / The Pinch of Snuff \[Reels\]](https://open.spotify.com/track/12bh7TbqCq2rhQrJUjuDar) | [Eileen Ivers](https://open.spotify.com/artist/3vmYFRcOyIX8AcH3fy1anH), [Semus Egan](https://open.spotify.com/artist/2gA1psPXyxyQpwCppQW8Y0), [John Doyle](https://open.spotify.com/artist/3a1QidCLKC1IuMfGKY58kC) | [Absolutely Irish](https://open.spotify.com/album/46s9Nwc14v8jn9qw1xK3dB) | 6:00 |
-| 68 | [Poll Halfpenny](https://open.spotify.com/track/7cvqwSOqtiyVCaIEa6eM6P) | [Matt & Shannon Heaton](https://open.spotify.com/artist/1OTFAVOGCIOly2qrmIWnJ6) | [Lovers' Well](https://open.spotify.com/album/3ijjb97quq6ChN3qDkYulD) | 3:17 |
+| 68 | [Poll Halfpenny](https://open.spotify.com/track/7cvqwSOqtiyVCaIEa6eM6P) | [Matt & Shannon Heaton](https://open.spotify.com/artist/5HltPdDdwLjFmkMuQI9oOm) | [Lovers' Well](https://open.spotify.com/album/3ijjb97quq6ChN3qDkYulD) | 3:17 |
 | 69 | [Last Night's Fun / The Congress Reel](https://open.spotify.com/track/6luBtfDZxmuJanW9sLbG1u) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Dubliners](https://open.spotify.com/album/2JaU7begujrJQaORvAnVwD) | 2:25 |
 | 70 | [Farewell to Connaught / Cooley Crossing the Shannon / The Ash Plant](https://open.spotify.com/track/6oImqrLqhMgIkFk9h2inh0) | [Paul Bradley](https://open.spotify.com/artist/770uRtQf5TXfMaUu5Q6KTy) | [Atlantic Roar](https://open.spotify.com/album/49K4RvJDKAU6gB23ulU9F0) | 5:53 |
 | 71 | [The Black Rogue / Morrisons](https://open.spotify.com/track/2W5OYrO4pf1jf0lFttbfUJ) | [Sean Maguire](https://open.spotify.com/artist/7dP7qNfHowP143GPBag31y) | [A Man Apart](https://open.spotify.com/album/186A9RaZ3hlaeWVBWIFgsn) | 2:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment.Photo : Stefflon Don
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,170 likes - 40 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,219 likes - 40 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 34 | [Romanée\-Conti](https://open.spotify.com/track/7uEZPVcmsp8IorKznZGH8w) | [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE) | [40 Degrés](https://open.spotify.com/album/1ArULogB9AudyVxXTLvFRq) | 3:08 |
 | 35 | [10 / 10](https://open.spotify.com/track/2YB3aHdfTB6SZpYp1iBCfI) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [10 / 10](https://open.spotify.com/album/4YUT7LYDMFCxtE9v1q93EQ) | 2:53 |
 | 36 | [Clicli](https://open.spotify.com/track/4Ybp2JxZFhAAZSwrMTWuiG) | [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4) | [Clicli](https://open.spotify.com/album/3LpYLnk2KFLdJNw2A09TK4) | 2:54 |
-| 37 | [Wah Gwaan Mad Head](https://open.spotify.com/track/5bgkyfJDDw6QkoKLerBJIs) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Wah Gwaan Mad Head](https://open.spotify.com/album/6YiVNooz0FNFpF6WLsTqv0) | 2:40 |
+| 37 | [Wah Gwaan Mad Head](https://open.spotify.com/track/5bgkyfJDDw6QkoKLerBJIs) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Crawba Genius](https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf) | [Wah Gwaan Mad Head](https://open.spotify.com/album/6YiVNooz0FNFpF6WLsTqv0) | 2:40 |
 | 38 | [Sa Fini](https://open.spotify.com/track/6gcYsMHdjVZCjMdwTb49BX) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351) | [Sa Fini](https://open.spotify.com/album/4ilXuF3Rn1UoUJmb0BiiW8) | 2:57 |
 | 39 | [Gyal](https://open.spotify.com/track/2odt4OCv36oktmC8wknahJ) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Chris Marshall](https://open.spotify.com/artist/1Jt3lGxY5pqiWrh3cyIgwy) | [Gyal](https://open.spotify.com/album/5RqvSKNJU3VK8UXHyBrHT7) | 3:26 |
 | 40 | [Fè to choix](https://open.spotify.com/track/4uTUPgwlmnXJ25m5aJjMLh) | [Ken Vybz](https://open.spotify.com/artist/0eomtAhpoAMBnsns4DwGCp) | [G\-Side: The Way I Do It](https://open.spotify.com/album/0JJ9srPt1oHSwQrfMDWFCe) | 2:34 |

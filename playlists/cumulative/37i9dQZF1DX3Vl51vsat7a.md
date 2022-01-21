@@ -2,7 +2,7 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Wilhelmine
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Joplyn
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [All We Are](https://open.spotify.com/track/0RuQVn5JcxuDBSNxo1sxau) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:38 | 2021-12-16 |  |
 | [Another year like that and we'd all be dead](https://open.spotify.com/track/7ytFo4I2OsaiGRhYdFGoQW) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ROMANIAC](https://open.spotify.com/album/6DqP8rOL3mQrK1av1L3AbT) | 4:36 | 2021-12-16 |  |
 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 | 2022-01-13 |  |
-| [Boomerang](https://open.spotify.com/track/1DilMm613lCaBlin10YfGM) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Aylo Technology](https://open.spotify.com/album/0AbFBBT1NiSS7x9IDghT2T) | 2:11 | 2021-12-16 |  |
+| [Boomerang](https://open.spotify.com/track/1DilMm613lCaBlin10YfGM) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Aylo Technology](https://open.spotify.com/album/0AbFBBT1NiSS7x9IDghT2T) | 2:11 | 2021-12-16 | 2022-01-21 |
 | [Boys Will Be Girls](https://open.spotify.com/track/01ZPfziRi0YPBbqciOKBsv) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Boys Will Be Girls](https://open.spotify.com/album/7sSLzWKQYO44GfnqQF6PRX) | 3:16 | 2021-12-16 |  |
 | [Build Me A Bridge](https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Our Beautiful Mess](https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3) | 2:42 | 2021-12-16 |  |
 | [Can't Take This Silence](https://open.spotify.com/track/1IihN2MXusofF69y5OCDNP) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Rose](https://open.spotify.com/album/51EEO2MvJmchRb0b4V9Ii7) | 4:08 | 2021-12-16 |  |
@@ -31,6 +31,7 @@
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2021-12-16 |  |
 | [Hope](https://open.spotify.com/track/2QRGdW5I7M74y0URMgkfqn) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [The Pictures](https://open.spotify.com/album/1gd2DBDRgwMmrwvUC8sOX1) | 7:28 | 2021-12-16 |  |
 | [Hotel](https://open.spotify.com/track/3Ldae7O6YMFE7vxlTNocdQ) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Hotel](https://open.spotify.com/album/1naWv2unZPzXPa3UdQIdAb) | 2:43 | 2021-12-16 |  |
+| [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 | 2022-01-20 |  |
 | [I'M A LITTLE](https://open.spotify.com/track/36lARxuQqwXnvALPNeVjtK) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [I'M A LITTLE](https://open.spotify.com/album/5zCcIO7yJLAznBPxohaZzb) | 2:38 | 2021-12-16 |  |
 | [I'm Boring](https://open.spotify.com/track/40Xc96R5OS3s0zacs6wPte) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [I'm Boring](https://open.spotify.com/album/2UPFVcOuNlf2Yl3C6LDxpO) | 3:20 | 2021-12-16 |  |
 | [Ich wünschte, du wärst verloren](https://open.spotify.com/track/40eThGfQt1VehllIdIsQdr) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Ich wünschte, du wärst verloren](https://open.spotify.com/album/79H3xVO9RldV3NOFMHR3ui) | 2:40 | 2021-12-16 |  |

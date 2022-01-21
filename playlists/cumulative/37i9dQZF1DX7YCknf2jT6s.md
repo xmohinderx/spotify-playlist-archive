@@ -2,7 +2,7 @@
 
 ### [State of Jazz](https://open.spotify.com/playlist/5R2nAaHgZSXgVDUHN6bx38)
 
-> New jazz for open minds\. Cover: Petter Eldh
+> New jazz for open minds\. Cover: Little North
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [I Remember](https://open.spotify.com/track/7dGVRBCxIMOMvnhixowGd3) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi) | [I Remember](https://open.spotify.com/album/3TnNmtpxTW4hXON2v2G24k) | 6:09 | 2021-12-23 |  |
 | [Icebreaker](https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR) | [loophole](https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE) | [Royal Sessions](https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6) | 5:15 | 2021-12-23 |  |
 | [Interi Ora](https://open.spotify.com/track/53wAULtuelcWs25MIVcF8Q) | [Bo!led](https://open.spotify.com/artist/0K3YAo5FxYuA2ZW2L3Hdzs) | [Different, Us](https://open.spotify.com/album/4wPFAEDNvZIxYT7DzUsaPw) | 4:40 | 2021-12-23 |  |
-| [Jagdish](https://open.spotify.com/track/39xTN7WxxA2KkrPS9y53M6) | [Mark Lockheart](https://open.spotify.com/artist/4VulWjL9yvdpHbTIZhjgic) | [Jagdish](https://open.spotify.com/album/3Wj5jDwhQmyzt7rjUJzKST) | 2:27 | 2021-12-23 |  |
+| [Jagdish](https://open.spotify.com/track/39xTN7WxxA2KkrPS9y53M6) | [Mark Lockheart](https://open.spotify.com/artist/4VulWjL9yvdpHbTIZhjgic) | [Jagdish](https://open.spotify.com/album/3Wj5jDwhQmyzt7rjUJzKST) | 2:27 | 2021-12-23 | 2022-01-21 |
 | [Koma Kaprifol](https://open.spotify.com/track/0hDZkmYKe6JJHnXPeAkEmM) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Sofia Jernberg](https://open.spotify.com/artist/0KzOF8uIL7271V6GgkwI3F), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Jonas Kullhammar](https://open.spotify.com/artist/3hHc4tqyPsRJOzzqaxkadB), [Mikko Innanen](https://open.spotify.com/artist/4HWtSGcRzJwM9qj21ODsIj), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26) | [Koma Kaprifol](https://open.spotify.com/album/2K6NzSo1DWgQsAenWfryBM) | 3:30 | 2021-12-23 |  |
 | [Love Proceeding](https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Talk Memory](https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY) | 5:25 | 2021-12-23 |  |
 | [Lullaby for Runaways \(feat\. Mathias Eick\)](https://open.spotify.com/track/7dxAft0pcjm1Pxnrjp5zQy) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Lullaby for Runaways \(feat\. Mathias Eick\)](https://open.spotify.com/album/7otJHwuj8sP3P5otyMtEoV) | 6:50 | 2022-01-13 |  |
@@ -47,9 +47,11 @@
 | [Not for Now](https://open.spotify.com/track/0VoDYNXHen64ORyizt6Ct5) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Not for Now](https://open.spotify.com/album/3OJfzhNvtZA1yjYDhEE51R) | 5:24 | 2021-12-23 |  |
 | [O Fogo](https://open.spotify.com/track/6oJPC4vEqke3ViUuMhz49u) | [Black Flower](https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz) | [O Fogo](https://open.spotify.com/album/0z5MO6rLjBmgjFMqFe21EQ) | 4:46 | 2021-12-23 |  |
 | [Pathways](https://open.spotify.com/track/3XDxGpFtNeZiqbdNZatMqJ) | [Alexander Flood](https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Pathways](https://open.spotify.com/album/6WQpxKjGFJQFnc2ODSG3y1) | 4:30 | 2021-12-23 |  |
-| [Prayer](https://open.spotify.com/track/2ola3HPvnB9VVIzqEIrniD) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [SHOOK UP](https://open.spotify.com/album/6POEzNWEtxycJMcwQF0MeW) | 5:24 | 2021-12-23 |  |
+| [Portrommet](https://open.spotify.com/track/29SjQRP3L3VhsYd8CKT0Lx) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ) | [Portrommet](https://open.spotify.com/album/0dIX5Fo56YwWzuyWv6vucl) | 4:43 | 2022-01-20 |  |
+| [Prayer](https://open.spotify.com/track/2ola3HPvnB9VVIzqEIrniD) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [SHOOK UP](https://open.spotify.com/album/6POEzNWEtxycJMcwQF0MeW) | 5:24 | 2021-12-23 | 2022-01-21 |
 | [Promises Kept \(feat\. Dominic Miller\)](https://open.spotify.com/track/6A0z33khgfQ8kVsTJcsbEJ) | [Jacob Karlzon](https://open.spotify.com/artist/3R4vdaqhh9jn2fOCned9nM), [Dominic Miller](https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL) | [Promises Kept \(feat\. Dominic Miller\)](https://open.spotify.com/album/0Sd7qYxkJdJjTVn9vKgxqH) | 5:32 | 2021-12-23 |  |
 | [Pulse](https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt) | [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N), [Matt Zara](https://open.spotify.com/artist/7esr72Ko5ghnnhZZSAxqHL) | [Pulse](https://open.spotify.com/album/47fhitalFxOfp647SOyW6y) | 3:32 | 2021-12-23 |  |
+| [Push](https://open.spotify.com/track/1AqbCzDfgIsB8iF9rBUy0A) | [Little North](https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J) | [Familiar Places](https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS) | 7:17 | 2022-01-20 |  |
 | [Refractions](https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Refractions](https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe) | 3:37 | 2021-12-23 | 2022-01-14 |
 | [roads](https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK), [Håkon Kornstad](https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2) | [roads](https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92) | 4:46 | 2021-12-23 |  |
 | [Sais \(Egypt\)](https://open.spotify.com/track/1PXneJ9X3C8Pv35J85OBEq) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Sais \(Egypt\)](https://open.spotify.com/album/7BgYo9YPlQ6sk3BVX9K2Ys) | 7:42 | 2021-12-23 |  |

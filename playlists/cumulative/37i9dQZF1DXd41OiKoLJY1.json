@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Fresh releases from your future favorite artists. Cover: BADJII, Artwork: Isu Kim\n",
+  "description": "Fresh releases from your future favorite artists. Cover: Lilfina, Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
   "published_playlist_ids": [
     "19D7ttJ9yoRDUaIqZ2rt1y"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 243112,
       "name": "alien",
       "url": "https://open.spotify.com/track/0260wMf41bV3EM1xXLcDWg"
@@ -81,10 +81,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 237866,
       "name": "Ang Kulit Ng Pag-ibig - From \"Viral Scandal\"",
       "url": "https://open.spotify.com/track/6yw1qxgUWJoOwHPduH4Jrv"
+    },
+    {
+      "album": {
+        "name": "Bawal Ang Malisya",
+        "url": "https://open.spotify.com/album/6k3BBW0gIbLeMYbwGQK9vl"
+      },
+      "artists": [
+        {
+          "name": "Celine Laroza",
+          "url": "https://open.spotify.com/artist/0qzPP9jEPlte12vBbIK02n"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186966,
+      "name": "Bawal Ang Malisya",
+      "url": "https://open.spotify.com/track/31Ox4uUKvZ6UthsV2tpkNi"
     },
     {
       "album": {
@@ -157,6 +175,24 @@
       "duration_ms": 265380,
       "name": "Didya (Dito)",
       "url": "https://open.spotify.com/track/7J01KSeyaeW69UkI8Y3YFR"
+    },
+    {
+      "album": {
+        "name": "Down Bad",
+        "url": "https://open.spotify.com/album/2xi8UFgxGWsIsjV9CfCCiG"
+      },
+      "artists": [
+        {
+          "name": "Lilfina",
+          "url": "https://open.spotify.com/artist/0tnC36MXlHHOQo2JnDmnTN"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181745,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/1yZIGahHoOdOvNBuANqS2S"
     },
     {
       "album": {
@@ -306,6 +342,24 @@
     },
     {
       "album": {
+        "name": "GUMAMELA",
+        "url": "https://open.spotify.com/album/7gG0CWP8BUHxtp1cXqaQ2W"
+      },
+      "artists": [
+        {
+          "name": "MC Zian",
+          "url": "https://open.spotify.com/artist/4RMFtxlrRFSMioHzpryG2G"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222189,
+      "name": "GUMAMELA",
+      "url": "https://open.spotify.com/track/4aP7XQNl9iVVRpEXpV280U"
+    },
+    {
+      "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/1eOYJndqb0yVPCnZmgtlXE"
       },
@@ -317,10 +371,64 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 194899,
       "name": "Gusto",
       "url": "https://open.spotify.com/track/3qVdxOallW8CCUskmK3IIt"
+    },
+    {
+      "album": {
+        "name": "Hiling",
+        "url": "https://open.spotify.com/album/4pYT6TUXeYz7iil5VSZaSi"
+      },
+      "artists": [
+        {
+          "name": "IJ Fernandez",
+          "url": "https://open.spotify.com/artist/1JWKOBKRa2Vk89s8QaV49e"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257319,
+      "name": "Hiling",
+      "url": "https://open.spotify.com/track/2LN7eedWXqnu4zpYB2c6uY"
+    },
+    {
+      "album": {
+        "name": "Himig Natin",
+        "url": "https://open.spotify.com/album/3mzEfFoMW1S57HxQF6ciUq"
+      },
+      "artists": [
+        {
+          "name": "Queenie Smith",
+          "url": "https://open.spotify.com/artist/6OlSnv1wCbqaGh7RXzjLS8"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287555,
+      "name": "Himig Natin",
+      "url": "https://open.spotify.com/track/5w42u0d33uap7enuIQUhRB"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1ormfIF0klHI5RDIxBqBiR"
+      },
+      "artists": [
+        {
+          "name": "Rees Gonzales",
+          "url": "https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181748,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7twwca7JaphyTpxxove78a"
     },
     {
       "album": {
@@ -339,6 +447,24 @@
       "duration_ms": 226963,
       "name": "I Just Wanna Be Alright",
       "url": "https://open.spotify.com/track/4M0XbikasZcceSnMs3YQT7"
+    },
+    {
+      "album": {
+        "name": "i would live another life just to be with you",
+        "url": "https://open.spotify.com/album/37RChP1p22z8CeO6ImOxKM"
+      },
+      "artists": [
+        {
+          "name": "Mico Angeles",
+          "url": "https://open.spotify.com/artist/5YJV7cBxSMIt3HpqXzxYD5"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255015,
+      "name": "i would live another life just to be with you",
+      "url": "https://open.spotify.com/track/2wQTraf1EQtlzVs7x9Siz2"
     },
     {
       "album": {
@@ -378,6 +504,24 @@
     },
     {
       "album": {
+        "name": "Ito Lang",
+        "url": "https://open.spotify.com/album/1XluBNt9H8CNu76dKvSi5F"
+      },
+      "artists": [
+        {
+          "name": "Aidon Panlaqui",
+          "url": "https://open.spotify.com/artist/0ejmq5vo6rqWWWpdPjp31u"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150281,
+      "name": "Ito Lang",
+      "url": "https://open.spotify.com/track/70XKo2DmRpsWjyj5TyNibp"
+    },
+    {
+      "album": {
         "name": "Ang Buwan Na May Liwanag Sa Gabi, Ang Oras Na Walang Pagsisisi.",
         "url": "https://open.spotify.com/album/0IcK8GvnXRU0PZYhyqzOIx"
       },
@@ -396,6 +540,46 @@
     },
     {
       "album": {
+        "name": "Like the",
+        "url": "https://open.spotify.com/album/0mZAtUaOp7H6I2iYjFuoJk"
+      },
+      "artists": [
+        {
+          "name": "Fees",
+          "url": "https://open.spotify.com/artist/4wyqratVfNe2M4iayQIDvk"
+        },
+        {
+          "name": "Kay Lidasan",
+          "url": "https://open.spotify.com/artist/1cTpBAEdluZvSaTSgkt1hX"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261147,
+      "name": "Like the",
+      "url": "https://open.spotify.com/track/6knWUYSymKNuQNpPob2GHg"
+    },
+    {
+      "album": {
+        "name": "maneho",
+        "url": "https://open.spotify.com/album/4MsXRAoJj5sK3x6snU6zd7"
+      },
+      "artists": [
+        {
+          "name": "Job Luzon",
+          "url": "https://open.spotify.com/artist/1UIHclbKmNeb37Ibf8FkLW"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192576,
+      "name": "maneho",
+      "url": "https://open.spotify.com/track/4dJ6hd9dT4gqMipv1WGWam"
+    },
+    {
+      "album": {
         "name": "MATTER OF TIME",
         "url": "https://open.spotify.com/album/5h1hl0C2r5SDYmFmwOAaXQ"
       },
@@ -411,6 +595,78 @@
       "duration_ms": 164362,
       "name": "MATTER OF TIME",
       "url": "https://open.spotify.com/track/5VDvv1yDvM9cS4DTu7NlkF"
+    },
+    {
+      "album": {
+        "name": "Moments",
+        "url": "https://open.spotify.com/album/0kAWEAnlFjphpTls7rPrON"
+      },
+      "artists": [
+        {
+          "name": "Social Climb",
+          "url": "https://open.spotify.com/artist/0qJyDXaczsO0G4qsssWXxL"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227300,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/1yPJQTblcMJsbgkS94VnPe"
+    },
+    {
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/7IR9jaKXplsIn9BDk0B5Hs"
+      },
+      "artists": [
+        {
+          "name": "franki",
+          "url": "https://open.spotify.com/artist/02yti3oQP7nggaUs2Wqoa9"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182625,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/60npTP91s65FauHJQojAs1"
+    },
+    {
+      "album": {
+        "name": "Move With Me",
+        "url": "https://open.spotify.com/album/0bzZlGLm9xnMfZxyjsNxhP"
+      },
+      "artists": [
+        {
+          "name": "Noy Cajilig",
+          "url": "https://open.spotify.com/artist/7hZlzZiPRDfVE6iR2LPngo"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178993,
+      "name": "Move With Me",
+      "url": "https://open.spotify.com/track/5jJetLGNFoBeyLOFFmhzFS"
+    },
+    {
+      "album": {
+        "name": "Nandiyan Ka Lang Pala",
+        "url": "https://open.spotify.com/album/1WMTxBKlbd0QdYRc2kOYts"
+      },
+      "artists": [
+        {
+          "name": "PAR",
+          "url": "https://open.spotify.com/artist/3l2GBxwi2iS1hhYNMx1cRW"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235728,
+      "name": "Nandiyan Ka Lang Pala",
+      "url": "https://open.spotify.com/track/3HmCBj3fty1IyXiTiKr4mg"
     },
     {
       "album": {
@@ -447,6 +703,24 @@
       "duration_ms": 270000,
       "name": "Nights With You",
       "url": "https://open.spotify.com/track/6Cl3R8YOQo2gSXIPMBsdAs"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/2DB7LuLyz8f8Gl0BtHeI1v"
+      },
+      "artists": [
+        {
+          "name": "J. Auste",
+          "url": "https://open.spotify.com/artist/0jp35QSUB7nbth0BGvLIYi"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168942,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/70jTWy5Ji0gZOFGesZ6ruH"
     },
     {
       "album": {
@@ -508,6 +782,32 @@
     },
     {
       "album": {
+        "name": "Spoken Dollar",
+        "url": "https://open.spotify.com/album/3AzPcrVGJsaI8zrxSDXTzS"
+      },
+      "artists": [
+        {
+          "name": "Buhay Cali",
+          "url": "https://open.spotify.com/artist/0PQSNKPMeRPp06IzUS2za4"
+        },
+        {
+          "name": "Ge Oh",
+          "url": "https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q"
+        },
+        {
+          "name": "Q-York",
+          "url": "https://open.spotify.com/artist/20Ie9HMVso2gxLRtggWE0G"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150046,
+      "name": "Puso Ko",
+      "url": "https://open.spotify.com/track/5Z4TjyGzoq1RgiBK25C8Rr"
+    },
+    {
+      "album": {
         "name": "Sa Aking Place",
         "url": "https://open.spotify.com/album/0etnXPNVtIRhvPwsNcb5Yl"
       },
@@ -519,7 +819,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 131902,
       "name": "Sa Aking Place",
       "url": "https://open.spotify.com/track/10ZJRFbAWrUDyC83HZJQPs"
@@ -592,6 +892,24 @@
     },
     {
       "album": {
+        "name": "Sta. Clara",
+        "url": "https://open.spotify.com/album/1rgjpeeBBVH4b64bPOgr5C"
+      },
+      "artists": [
+        {
+          "name": "Guerrero Valderama",
+          "url": "https://open.spotify.com/artist/7hfoBRRBKvOnwurt20FjV3"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352769,
+      "name": "Sta. Clara",
+      "url": "https://open.spotify.com/track/5h2lrA7NMKNhxQXXZDwMm4"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/4mUHdFY8fuPNxZky9hqFIT"
       },
@@ -603,10 +921,50 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 201577,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/1S2hRQnqaCVKQQ5XXQkgQT"
+    },
+    {
+      "album": {
+        "name": "Tabla",
+        "url": "https://open.spotify.com/album/0DhZM5CIY9BH1eX2swbl2K"
+      },
+      "artists": [
+        {
+          "name": "Polo Pi",
+          "url": "https://open.spotify.com/artist/54tGnrGjbD4MBrAnBlx2f3"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177490,
+      "name": "Tabla",
+      "url": "https://open.spotify.com/track/23kC7WYHyKwh1BrvCvy9ld"
+    },
+    {
+      "album": {
+        "name": "Tanging Ikaw",
+        "url": "https://open.spotify.com/album/62sBvZDSLkc7dgtYpJ8pcQ"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/6MhlikvuEsNsYJEKUK4QOg"
+        },
+        {
+          "name": "JBryle",
+          "url": "https://open.spotify.com/artist/4od3iaR0GxrNwlOGyH4sV1"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226784,
+      "name": "Tanging Ikaw",
+      "url": "https://open.spotify.com/track/0hTzKx2QWfyVMSyUevmULK"
     },
     {
       "album": {
@@ -625,7 +983,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 239997,
       "name": "Tawag",
       "url": "https://open.spotify.com/track/7wJPmNScI8Qbd8YbxetOQO"
@@ -687,7 +1045,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 210198,
       "name": "tell me to stay",
       "url": "https://open.spotify.com/track/49xTqSLKyoyyS5JgzoSzdd"
@@ -705,10 +1063,50 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 205322,
       "name": "The Beast",
       "url": "https://open.spotify.com/track/40e9mNIqd4wLE3EiwPC3UL"
+    },
+    {
+      "album": {
+        "name": "The Rest",
+        "url": "https://open.spotify.com/album/4hMVtwIl2leWCzgWAoOzE3"
+      },
+      "artists": [
+        {
+          "name": "Xyclone",
+          "url": "https://open.spotify.com/artist/0DH9ow6OUibpQYvne1Y0P5"
+        },
+        {
+          "name": "Space Reject",
+          "url": "https://open.spotify.com/artist/1tFf05Q7sp8qP8KctWQw7i"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232522,
+      "name": "The Rest",
+      "url": "https://open.spotify.com/track/5SpFHyIhWgjvEQV81AfPRD"
+    },
+    {
+      "album": {
+        "name": "Time Heals",
+        "url": "https://open.spotify.com/album/6XxVMZ7MrpLUbvdEbJDnXe"
+      },
+      "artists": [
+        {
+          "name": "Yca Chu",
+          "url": "https://open.spotify.com/artist/1mBAgoI3FV1AJresmbyNnK"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206376,
+      "name": "Time Heals",
+      "url": "https://open.spotify.com/track/5VQEhp2WjKotdPL1vL1omg"
     },
     {
       "album": {
@@ -730,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "Ulap",
+        "url": "https://open.spotify.com/album/4mbJ1TEBGsIY7D5HvvZrgp"
+      },
+      "artists": [
+        {
+          "name": "Kenth",
+          "url": "https://open.spotify.com/artist/3eWxr6ZEESWeShshNmQ14C"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240414,
+      "name": "Ulap",
+      "url": "https://open.spotify.com/track/1x4YeEL3afmIVjcSKl3osA"
+    },
+    {
+      "album": {
         "name": "Umasa Pa",
         "url": "https://open.spotify.com/album/3UP5uKZyjF5M2OZXMr1RSd"
       },
@@ -745,6 +1161,46 @@
       "duration_ms": 271666,
       "name": "Umasa Pa",
       "url": "https://open.spotify.com/track/5WVZgtrZYW13ldnMpB5k7v"
+    },
+    {
+      "album": {
+        "name": "Waste No Time",
+        "url": "https://open.spotify.com/album/7fX2rMy6DfR5QsXoGsRqQP"
+      },
+      "artists": [
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY"
+        },
+        {
+          "name": "Lance A",
+          "url": "https://open.spotify.com/artist/0fdCjtR1V4tSbkShNAXeNq"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230795,
+      "name": "Waste No Time",
+      "url": "https://open.spotify.com/track/5sPXkyzV6D3KSE1OFgpiGV"
+    },
+    {
+      "album": {
+        "name": "When You Call",
+        "url": "https://open.spotify.com/album/44i44PJrD89rnJWdY1zupH"
+      },
+      "artists": [
+        {
+          "name": "corazon",
+          "url": "https://open.spotify.com/artist/0I8hb4wojjiRmXHUqAyRFo"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224050,
+      "name": "When You Call",
+      "url": "https://open.spotify.com/track/7nwRjorqY5iLfflv5qrYV4"
     },
     {
       "album": {

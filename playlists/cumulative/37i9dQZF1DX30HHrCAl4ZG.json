@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "We Come In Pieces",
+        "url": "https://open.spotify.com/album/5LE4OPOtsxFB5jvXSCf2Yn"
+      },
+      "artists": [
+        {
+          "name": "Nathan Day",
+          "url": "https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194062,
+      "name": "809",
+      "url": "https://open.spotify.com/track/131EOtvTL1sy5OA8L9pr75"
+    },
+    {
+      "album": {
         "name": "Ada",
         "url": "https://open.spotify.com/album/6ZnjyMbIWQmCiQMVMRf4tF"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 209014,
       "name": "Ain't Over You",
       "url": "https://open.spotify.com/track/2hHh28T8hwiKqLeQ6P8xx1"
@@ -221,7 +239,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 192601,
       "name": "Are You Happy?",
       "url": "https://open.spotify.com/track/4kLdC0g4IzdTL1sUlIpnh4"
@@ -257,7 +275,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 211600,
       "name": "Aubade",
       "url": "https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 157746,
       "name": "Best of Me",
       "url": "https://open.spotify.com/track/1sDovYD581U1a5hk1QLBcs"
@@ -517,7 +535,7 @@
       ],
       "date_added": "2021-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 194526,
       "name": "BOYFRIEND KILLER",
       "url": "https://open.spotify.com/track/6rqot498PSzyAq1tEn4BFD"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 174623,
       "name": "Breaking the Waves",
       "url": "https://open.spotify.com/track/5XDf4vtvaNe0vyu8i447Ew"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 209266,
       "name": "Change Shapes (feat. Jesse)",
       "url": "https://open.spotify.com/track/0pFx0KHtJVFzfjrQQB1FoR"
@@ -849,7 +867,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 277142,
       "name": "concussion",
       "url": "https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 257000,
       "name": "Down That Road",
       "url": "https://open.spotify.com/track/6fGeA9cNR5CYDTSHtsCfgC"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 196520,
       "name": "Dreaming Of U",
       "url": "https://open.spotify.com/track/6Pgsct6yXxEMctSyDIOsFj"
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 209971,
       "name": "Drunk Voicemail",
       "url": "https://open.spotify.com/track/5PB2m7lhY2d2OC8Ce7dXdp"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 180026,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/1ObhrhgjhDENcTAWbo91vS"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 241861,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0o9aEkfuFqYgcVqXSNSxjL"
@@ -1775,7 +1793,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 179852,
       "name": "Hey Michael",
       "url": "https://open.spotify.com/track/7sUTbNjYpJkUhICiLEoYdf"
@@ -1797,7 +1815,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 227117,
       "name": "Hold On For Dear Life",
       "url": "https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 162946,
       "name": "Holly Holly",
       "url": "https://open.spotify.com/track/609PjstZKFBH2ryWbJFzev"
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 157173,
       "name": "How It Feels",
       "url": "https://open.spotify.com/track/01oxWSLxPWbyTEjPJVb6wO"
@@ -2103,7 +2121,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 188662,
       "name": "if u want to !",
       "url": "https://open.spotify.com/track/10Y0QtOre8oJFwnPiHrxfy"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 180028,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz"
@@ -2571,7 +2589,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 229173,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL"
@@ -2643,7 +2661,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 196512,
       "name": "Minimum Wage",
       "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"
@@ -2769,7 +2787,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 186984,
       "name": "My Funny Girl",
       "url": "https://open.spotify.com/track/6snceZX3TN1slREbnO5w5q"
@@ -2787,7 +2805,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 104749,
       "name": "New Miss America",
       "url": "https://open.spotify.com/track/0NLYcYQzBNZF6FEEOT9HPh"
@@ -2841,7 +2859,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 218604,
       "name": "nrvs again",
       "url": "https://open.spotify.com/track/4WugVoKEajXnwN3JjqmUdC"
@@ -2967,7 +2985,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 186146,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3OSgKpb2c1VbFqDOqiz8tZ"
@@ -3198,6 +3216,24 @@
     },
     {
       "album": {
+        "name": "rom com 2004",
+        "url": "https://open.spotify.com/album/3q1oMpbkdldxAeiuNc74lq"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2021-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173966,
+      "name": "rom com 2004",
+      "url": "https://open.spotify.com/track/3q49241UYPoz4kfG2czJno"
+    },
+    {
+      "album": {
         "name": "Romeo & Juliet",
         "url": "https://open.spotify.com/album/6DHGanNz3f10orVwx5NhW3"
       },
@@ -3361,7 +3397,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 201053,
       "name": "Show Up",
       "url": "https://open.spotify.com/track/6ouWFK1glsWeCC5C0uw2KR"
@@ -3455,7 +3491,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 153312,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/4E6Dxj76ostVEmeefzlDP8"
@@ -3473,7 +3509,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 242801,
       "name": "Sorry I Am",
       "url": "https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y"
@@ -3545,7 +3581,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 190813,
       "name": "Sprite",
       "url": "https://open.spotify.com/track/7fL7ZuSeJOSAzWsl9lAhCI"
@@ -3635,7 +3671,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 155390,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/6X8AAASfTGuODSiZ63vGpL"
@@ -3747,7 +3783,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 168571,
       "name": "TEMPLE OF THE DRAGON",
       "url": "https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8"
@@ -4033,7 +4069,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 180020,
       "name": "Westside",
       "url": "https://open.spotify.com/track/5K1is8joaUpZJHuNkEoSfC"
@@ -4051,7 +4087,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 156004,
       "name": "What A Damn Shame",
       "url": "https://open.spotify.com/track/64aZu0DufRHVyNpr1x0qOf"
@@ -4199,6 +4235,24 @@
       "duration_ms": 212750,
       "name": "YKWIM?",
       "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH"
+    },
+    {
+      "album": {
+        "name": "You Lose!",
+        "url": "https://open.spotify.com/album/2G1sZOFy7ReEHTLgpY5wzh"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204391,
+      "name": "You Lose!",
+      "url": "https://open.spotify.com/track/6b39rpIiepKunZyFHwugZQ"
     },
     {
       "album": {

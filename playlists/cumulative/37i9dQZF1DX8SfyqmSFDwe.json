@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo los cl\u00e1sicos. The movement\u2019s roots. Cover: Daddy Yankee",
+  "description": "The movement\u2019s roots. Celebrating 5 years of \"Fenix\" with Nicky Jam.",
   "name": "Reggaeton Classics",
   "published_playlist_ids": [
     "5IpFUHnh5qMyd0m1fdV3hG"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 212480,
       "name": "Aqu\u00ed Est\u00e1 Tu Caldo",
       "url": "https://open.spotify.com/track/4euqcj46E0OZBiz0NjR4mO"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 192000,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 264212,
       "name": "Chica Virtual (feat. Arcangel)",
       "url": "https://open.spotify.com/track/2fxmV4oZNFCZGXgJ8tN9Jf"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 275360,
       "name": "Chulin Culin Chunfly (feat. Residente Calle 13)",
       "url": "https://open.spotify.com/track/46DW3fyWuL4VZfEwnyWjXg"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 250093,
       "name": "Dejale Caer To Peso",
       "url": "https://open.spotify.com/track/1b4QQFr0kifiSkzHb5kni4"
@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219506,
+      "name": "El Amante",
+      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
+    },
+    {
+      "album": {
         "name": "Sentenciados - Platinum Edition",
         "url": "https://open.spotify.com/album/4IjDrXGevb0bbtdlgGhJkx"
       },
@@ -977,10 +995,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 212533,
       "name": "Esta Noche de Travesuras (feat. H\u00e9ctor \"El Father\")",
       "url": "https://open.spotify.com/track/2QNRG78xcJZpLyXYX4JmhD"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/4S2JBCs9FfFEJPLEf8YiE7"
     },
     {
       "album": {
@@ -1079,7 +1115,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 198706,
       "name": "Hasta el Amanecer",
       "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
@@ -1297,7 +1333,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 147304,
       "name": "Lleg\u00f3 la Cripta",
       "url": "https://open.spotify.com/track/7Eo3fkg16MzIgv9SxxSonH"
@@ -1463,7 +1499,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 304746,
       "name": "Mayor Que Yo 3",
       "url": "https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe"
@@ -1525,6 +1561,24 @@
       "duration_ms": 228560,
       "name": "Mi Fanatica",
       "url": "https://open.spotify.com/track/7rbtNjuh56l71xV7Uowf50"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208346,
+      "name": "Mil L\u00e1grimas",
+      "url": "https://open.spotify.com/track/5EFAloMY9VlEKrjllKoXjL"
     },
     {
       "album": {
@@ -1749,7 +1803,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 212733,
       "name": "Noche de Travesura",
       "url": "https://open.spotify.com/track/6ODIW5KyJKtXY2rOuXv9WW"
@@ -2335,7 +2389,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 184906,
       "name": "Saoco",
       "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
@@ -2371,7 +2425,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 246080,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
@@ -2407,7 +2461,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 238890,
       "name": "Si No Cuidas Tu Mujer",
       "url": "https://open.spotify.com/track/40AGTob7V8pCDvvXERrCu3"
@@ -2429,6 +2483,28 @@
       "duration_ms": 220133,
       "name": "Si No Le Contesto",
       "url": "https://open.spotify.com/track/6YyPA4dxemw23eGon3CjFX"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221026,
+      "name": "Si T\u00fa La Ves (feat. Wisin)",
+      "url": "https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE"
     },
     {
       "album": {
@@ -2495,7 +2571,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 224706,
       "name": "Soy Igual Que T\u00fa (feat. Toby Love)",
       "url": "https://open.spotify.com/track/4Zil8ro7fhQGVYXl2YYkO2"
@@ -2567,7 +2643,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 183196,
       "name": "Te Ir\u00e9 a Buscar",
       "url": "https://open.spotify.com/track/4UPeS038Mxup1H4bl0PsS8"
@@ -2697,7 +2773,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 245426,
       "name": "Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/4EoDcHQ7lOj4RGgRibFLXh"
@@ -2755,7 +2831,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 211888,
       "name": "Voy a Beber",
       "url": "https://open.spotify.com/track/25GRgMoXezppQjLjSDLKf5"
@@ -2791,7 +2867,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 169400,
       "name": "Wiki Wiki",
       "url": "https://open.spotify.com/track/5GGecqjnP2hvrhhfFAl4VO"
@@ -2831,7 +2907,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 199367,
       "name": "Yo No Soy Tu Marido",
       "url": "https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq"
@@ -2849,7 +2925,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 220853,
       "name": "Yo Te Lo Dije",
       "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"

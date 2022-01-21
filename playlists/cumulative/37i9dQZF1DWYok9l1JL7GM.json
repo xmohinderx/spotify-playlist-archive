@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 230693,
       "name": "ATLiens",
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 232466,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/79lmvU7Qmc8QpXilbSk37z"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 250026,
       "name": "Independent (feat. Lil' Boosie and Lil' Phat)",
       "url": "https://open.spotify.com/track/65D95SmygxGCQGiI64eaZf"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 286973,
       "name": "John",
       "url": "https://open.spotify.com/track/7HaggpJGAfEgH8wyMLOIPl"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 217426,
       "name": "Left, Right, Left",
       "url": "https://open.spotify.com/track/0vk5b6kj3QISHg4fpRPi6n"
@@ -729,6 +729,24 @@
       "duration_ms": 258746,
       "name": "Make tha Trap Say Aye (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/5fst2COuMGJQ7PzSRYGVj5"
+    },
+    {
+      "album": {
+        "name": "We Can't Be Stopped",
+        "url": "https://open.spotify.com/album/2MJEvcUvsLPjsvVgqn8xa4"
+      },
+      "artists": [
+        {
+          "name": "Geto Boys",
+          "url": "https://open.spotify.com/artist/3f5fB1YUbkUnW7cf7I0R48"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308733,
+      "name": "Mind Playing Tricks on Me",
+      "url": "https://open.spotify.com/track/63BokRfXSQhEU6Qi2dSJpZ"
     },
     {
       "album": {
@@ -835,7 +853,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 324173,
       "name": "One Day",
       "url": "https://open.spotify.com/track/2GHp47AE8HTBF9xpG7FIoz"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 300693,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6wvfISRCQBOEpIvhX6UsDj"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "So What",
       "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 283454,
       "name": "Some Cut",
       "url": "https://open.spotify.com/track/3VXDc9f8J96uBnAAeFrrmw"

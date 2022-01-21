@@ -1,12 +1,12 @@
 {
   "description": "Cool vibes from the African continent.",
-  "num_followers": 12559,
+  "num_followers": 12560,
   "original_name": "Afrocentric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1NjgxMSwwMDAwMDE3NzAwMDAwMTdlNTgyYzY0MDUwMDAwMDE3MGFmNDI4ZGU4",
+  "snapshot_id": "MTY0MjcxOTYwMCwwMDAwMDE3ODAwMDAwMTdlNzliN2RlMTgwMDAwMDE3MGFmNDI4ZGU4",
   "tracks": [
     {
       "added_at": "2021-12-16 23:01:00",
@@ -179,6 +179,22 @@
       "duration_ms": 198333,
       "name": "She Knows",
       "url": "https://open.spotify.com/track/2BhfY4dhveCwOkr4pUbSvo"
+    },
+    {
+      "added_at": "2022-01-20 23:00:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "duration_ms": 197498,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj"
     },
     {
       "added_at": "2021-11-11 23:00:00",

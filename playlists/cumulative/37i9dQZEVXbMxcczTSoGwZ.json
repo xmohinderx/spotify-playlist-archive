@@ -773,7 +773,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2847,7 +2847,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 120157,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX"
@@ -6678,6 +6678,24 @@
     },
     {
       "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "album": {
         "name": "Mikan faijan BMW (feat. Pyhimys) [Vain el\u00e4m\u00e4\u00e4 kausi 12]",
         "url": "https://open.spotify.com/album/6UbibJVBMQaxHLyJQ6nNpM"
       },
@@ -10454,6 +10472,24 @@
     },
     {
       "album": {
+        "name": "Thank God I'm an Atheist",
+        "url": "https://open.spotify.com/album/4m5HJ4je4cWMs4iOO48gZ8"
+      },
+      "artists": [
+        {
+          "name": "Olivera",
+          "url": "https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183412,
+      "name": "Thank God I'm an Atheist",
+      "url": "https://open.spotify.com/track/0XiuulxoUSD0e0uCGNIYZW"
+    },
+    {
+      "album": {
         "name": "The Works (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/61foK8xa76FEOk36uOxoc9"
       },
@@ -11469,7 +11505,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 186420,
       "name": "Vastaaja (feat. Ege Zulu & Pessa)",
       "url": "https://open.spotify.com/track/2LGHc5OI7tWamZd7JoOfll"

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "3ian",
+        "url": "https://open.spotify.com/album/7kzXCUdoekQE4zfFycSa8Z"
+      },
+      "artists": [
+        {
+          "name": "Wael Jassar",
+          "url": "https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "3ian",
+      "url": "https://open.spotify.com/track/75s0cYrICLds4ADWnnmfS5"
+    },
+    {
+      "album": {
         "name": "Abia El Donia",
         "url": "https://open.spotify.com/album/3UlzoBKkSpdbdOopu4NtJb"
       },
@@ -189,7 +207,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 213999,
       "name": "Batasif Ala Al Taakhir",
       "url": "https://open.spotify.com/track/6UdCrARuFgY9HOujIpKp7v"
@@ -457,7 +475,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 229454,
       "name": "Gaw El Banat",
       "url": "https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH"
@@ -608,6 +626,24 @@
     },
     {
       "album": {
+        "name": "Khaleny Fe Hodnak",
+        "url": "https://open.spotify.com/album/0Vl0OtSiNJysAHGVrRVlCd"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196650,
+      "name": "Khaleny Fe Hodnak",
+      "url": "https://open.spotify.com/track/64bw7oItH3tbiWmfhKq4Vg"
+    },
+    {
+      "album": {
         "name": "Kol Elly Fi Alby",
         "url": "https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0"
       },
@@ -619,7 +655,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 193654,
       "name": "Kol Elly Fi Alby",
       "url": "https://open.spotify.com/track/0eCQyp0QixPbUn6yn0GIDg"
@@ -659,6 +695,28 @@
       "duration_ms": 219485,
       "name": "La Ay Ay",
       "url": "https://open.spotify.com/track/2IszeNhqqD0vLT4hPtMGI0"
+    },
+    {
+      "album": {
+        "name": "La Lay Lay La",
+        "url": "https://open.spotify.com/album/2ntsTRVQ3nJhhVhHoNHB44"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Kammah",
+          "url": "https://open.spotify.com/artist/15TITDp3RoYMiYhnE3ccmM"
+        },
+        {
+          "name": "Mahmoud ElShemy",
+          "url": "https://open.spotify.com/artist/59SiYTnxeuYJ3eukvx0P8X"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193541,
+      "name": "La Lay Lay La",
+      "url": "https://open.spotify.com/track/5LH9gY7Tz78O5fxKtCczVX"
     },
     {
       "album": {
@@ -727,7 +785,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 206733,
       "name": "Law Faker - \u0644\u0648 \u0641\u0627\u0643\u0631",
       "url": "https://open.spotify.com/track/0YvgaPYmXbdYd0brGlZEkI"
@@ -806,6 +864,50 @@
     },
     {
       "album": {
+        "name": "Ma Kan Ala Baly",
+        "url": "https://open.spotify.com/album/1tgXPdVUYVgPvb8vuXDvTZ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Mounir",
+          "url": "https://open.spotify.com/artist/5j87IbPLinOmiegvVuuDAA"
+        },
+        {
+          "name": "Hana Ghoneim",
+          "url": "https://open.spotify.com/artist/6Ob3o641XhD90mvYqSU4Uk"
+        },
+        {
+          "name": "Ahmed Nihad",
+          "url": "https://open.spotify.com/artist/2nRvsNbmm4kJSHmM3rel9r"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223996,
+      "name": "Ma Kan Ala Baly",
+      "url": "https://open.spotify.com/track/1055RLG3kqVGBfOusIH8wg"
+    },
+    {
+      "album": {
+        "name": "Cigara",
+        "url": "https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240038,
+      "name": "Malak",
+      "url": "https://open.spotify.com/track/6Ghgn3JIGwJq3H9SuTCikZ"
+    },
+    {
+      "album": {
         "name": "Maleket El Helwen",
         "url": "https://open.spotify.com/album/34e97XGQaJKS80MfqFS1y7"
       },
@@ -817,7 +919,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 218709,
       "name": "Maleket El Helwen",
       "url": "https://open.spotify.com/track/4y00bqXve4lCihGkIhXd20"
@@ -896,6 +998,24 @@
     },
     {
       "album": {
+        "name": "Men Wara Albi",
+        "url": "https://open.spotify.com/album/5iv1nz7NCOvTkVfbaIKkvQ"
+      },
+      "artists": [
+        {
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209997,
+      "name": "Men Wara Albi",
+      "url": "https://open.spotify.com/track/48FJYiS6TNaowp08T8Q5fr"
+    },
+    {
+      "album": {
         "name": "Mesh Nadman",
         "url": "https://open.spotify.com/album/5UzHxBDzrASY4c8xUXBbzy"
       },
@@ -947,7 +1067,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 96000,
       "name": "Mlook Alfarhah",
       "url": "https://open.spotify.com/track/4pcAKurw42eSHSWfmHpr6p"
@@ -1023,7 +1143,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 215500,
       "name": "Saheb Elgmal",
       "url": "https://open.spotify.com/track/7mVS4YxLT7IT2Ao4K7iIEo"
@@ -1045,6 +1165,24 @@
       "duration_ms": 240396,
       "name": "Salam",
       "url": "https://open.spotify.com/track/3FqMnmjsk4KDSdDC279tUS"
+    },
+    {
+      "album": {
+        "name": "Senara",
+        "url": "https://open.spotify.com/album/5oaz2190CAIz2DLMOWt1ka"
+      },
+      "artists": [
+        {
+          "name": "Mousa",
+          "url": "https://open.spotify.com/artist/474tE69oXkn2YGBJhK81Kh"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188108,
+      "name": "Senara",
+      "url": "https://open.spotify.com/track/0nYNOK8uum8GicinHF1jfw"
     },
     {
       "album": {
@@ -1221,10 +1359,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 222976,
       "name": "\u0627\u0633\u062a\u0646\u0649 \u0644\u064a\u0647 \u0628\u0642\u0649",
       "url": "https://open.spotify.com/track/5aePWn3QLCKxKq5HLViDEi"
+    },
+    {
+      "album": {
+        "name": "\u0628\u062d\u0628\u0643",
+        "url": "https://open.spotify.com/album/4NNJ14KEMD3pvCSdzdxdUV"
+      },
+      "artists": [
+        {
+          "name": "Omar Kamal",
+          "url": "https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264998,
+      "name": "\u0628\u062d\u0628\u0643",
+      "url": "https://open.spotify.com/track/3OFYEo6WT1inEKsEneGtZI"
     },
     {
       "album": {

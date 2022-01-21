@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: Aluna, Diplo & Durante",
+  "description": "The UK's biggest dance playlist! Cover: Belters Only & Jazzy",
   "name": "Massive Dance Hits",
   "published_playlist_ids": [
     "5fVCEeL6B4wf7pLEe8QzL4"
@@ -125,6 +125,24 @@
       "duration_ms": 231724,
       "name": "Blame You (feat. Dylan)",
       "url": "https://open.spotify.com/track/1OO7bKqN3XRDb0W6B3wM6i"
+    },
+    {
+      "album": {
+        "name": "BMW",
+        "url": "https://open.spotify.com/album/3U3FSuGS2CXktQD4fU78gM"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213880,
+      "name": "BMW",
+      "url": "https://open.spotify.com/track/0DeCgH8St1bnHVry9gecMp"
     },
     {
       "album": {
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 200550,
       "name": "Lauren",
       "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
@@ -1041,6 +1059,36 @@
       "duration_ms": 180719,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7"
+    },
+    {
+      "album": {
+        "name": "Lonely (feat. Sananda Maitreya)",
+        "url": "https://open.spotify.com/album/154V38RtyuJFnlK8WsLtT5"
+      },
+      "artists": [
+        {
+          "name": "Love Regenerator",
+          "url": "https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sananda Maitreya",
+          "url": "https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170325,
+      "name": "Lonely (feat. Sananda Maitreya)",
+      "url": "https://open.spotify.com/track/2tZaIi32T3Fwn6GqD8Jcii"
     },
     {
       "album": {
@@ -1260,6 +1308,24 @@
     },
     {
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "album": {
         "name": "Mesmerised",
         "url": "https://open.spotify.com/album/130KpuQV0nYnvmqcJupUIu"
       },
@@ -1289,7 +1355,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 269986,
       "name": "Messages",
       "url": "https://open.spotify.com/track/5la9oIkNWEk3IEYHAd3cdw"
@@ -1741,7 +1807,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 160667,
       "name": "Sweet Vibrations",
       "url": "https://open.spotify.com/track/5S1gAbJcWZy6ICn68Lsx2e"
@@ -1949,7 +2015,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 215000,
       "name": "Wait A Minute",
       "url": "https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c"
@@ -2139,7 +2205,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 168201,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw"

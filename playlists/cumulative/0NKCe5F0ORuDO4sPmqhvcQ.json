@@ -460,6 +460,28 @@
     },
     {
       "album": {
+        "name": "Explore",
+        "url": "https://open.spotify.com/album/5Se8Q4Kues4cWqDlSTSLa0"
+      },
+      "artists": [
+        {
+          "name": "Prblm Chld",
+          "url": "https://open.spotify.com/artist/6ZgKMPtqbeSTMuQ6FQlxKh"
+        },
+        {
+          "name": "Skyler Cocco",
+          "url": "https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177239,
+      "name": "Explore",
+      "url": "https://open.spotify.com/track/62wmupzYp1sdfhKM9cNiYC"
+    },
+    {
+      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE"
       },

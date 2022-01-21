@@ -1,13 +1,57 @@
 {
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU?si=2tDiqWw7RJKBDTODRPffZQ\">Echo Deep</a>",
-  "num_followers": 46683,
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC?si=DOZkChnsSZecVGYMsr4Tqg\">THEMBA</a>",
+  "num_followers": 46693,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjExMTU3OSwwMDAwMDMyZDAwMDAwMTdlNTU3YTM1Y2YwMDAwMDE3ZTU1NzkxMzc1",
+  "snapshot_id": "MTY0MjcxNTk0MCwwMDAwMDMyZTAwMDAwMTdlNzk4MDA1MDkwMDAwMDE3ZTc4NzQ0OWFk",
   "tracks": [
+    {
+      "added_at": "2022-01-20 21:59:00",
+      "album": {
+        "name": "Modern Africa, Part I - Ekhaya (Deluxe)",
+        "url": "https://open.spotify.com/album/3jC7ucrvKNqs2psuvEG8R0"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "Thoko (SA)",
+          "url": "https://open.spotify.com/artist/7lR5jbhtBvxbwuV4OX7Hmk"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 221352,
+      "name": "Reflections - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/490NwSQImdylBzpjMWYF5w"
+    },
+    {
+      "added_at": "2022-01-20 21:59:00",
+      "album": {
+        "name": "Africa Gets Physical, Vol. 4",
+        "url": "https://open.spotify.com/album/3dAuIqHo6q9ObSes44dB4V"
+      },
+      "artists": [
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Kitty Amor",
+          "url": "https://open.spotify.com/artist/2QPZQNMwLfU7kJRzeLLHsA"
+        }
+      ],
+      "duration_ms": 263878,
+      "name": "Khoisan",
+      "url": "https://open.spotify.com/track/4GxlpHNFEyzzdNJre3r2Tw"
+    },
     {
       "added_at": "2021-12-29 15:21:38",
       "album": {
@@ -23,6 +67,46 @@
       "duration_ms": 452418,
       "name": "Do What You Love",
       "url": "https://open.spotify.com/track/2muTRl2whyxtWuJERhwtrs"
+    },
+    {
+      "added_at": "2022-01-20 21:59:00",
+      "album": {
+        "name": "Agolo (Shimza Remix)",
+        "url": "https://open.spotify.com/album/630OKkty5BNUedtiQIAra5"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 343167,
+      "name": "Agolo - Shimza Remix",
+      "url": "https://open.spotify.com/track/4A0PF9HheeAoVHlAqEQVaV"
+    },
+    {
+      "added_at": "2021-12-09 21:59:00",
+      "album": {
+        "name": "Dtjoh (feat. Jessica LM)",
+        "url": "https://open.spotify.com/album/1YHiMNg0TdZ9n2BwdfIVXH"
+      },
+      "artists": [
+        {
+          "name": "Citizen Deep",
+          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
+        },
+        {
+          "name": "Jessica LM",
+          "url": "https://open.spotify.com/artist/3Q259wuL2vRuisWyvYcebg"
+        }
+      ],
+      "duration_ms": 367785,
+      "name": "Dtjoh (feat. Jessica LM)",
+      "url": "https://open.spotify.com/track/5xMvII7rTQXy5npCqrhLEM"
     },
     {
       "added_at": "2022-01-06 21:59:00",
@@ -47,26 +131,6 @@
       "duration_ms": 361526,
       "name": "Isibani",
       "url": "https://open.spotify.com/track/5AM1JybeEtluAK5mpM3l6u"
-    },
-    {
-      "added_at": "2021-12-23 21:59:00",
-      "album": {
-        "name": "Agolo (Da Capo's Touch)",
-        "url": "https://open.spotify.com/album/0PMhkcozXB0evBnUoZIgrY"
-      },
-      "artists": [
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Da Capo",
-          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
-        }
-      ],
-      "duration_ms": 370600,
-      "name": "Agolo - Da Capo\u2019s Touch",
-      "url": "https://open.spotify.com/track/47oYm6GkEl2dAgrxNXSxOj"
     },
     {
       "added_at": "2022-01-13 22:06:19",
@@ -137,24 +201,40 @@
       "url": "https://open.spotify.com/track/3e3OBVdl94N5BB7nC7FN0G"
     },
     {
-      "added_at": "2021-12-09 21:59:00",
+      "added_at": "2021-12-29 15:21:38",
       "album": {
-        "name": "Dtjoh (feat. Jessica LM)",
-        "url": "https://open.spotify.com/album/1YHiMNg0TdZ9n2BwdfIVXH"
+        "name": "Spaceline Suburbian",
+        "url": "https://open.spotify.com/album/5a021HAlmb18hLZbwHpgbs"
       },
       "artists": [
         {
-          "name": "Citizen Deep",
-          "url": "https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM"
-        },
-        {
-          "name": "Jessica LM",
-          "url": "https://open.spotify.com/artist/3Q259wuL2vRuisWyvYcebg"
+          "name": "Lucid Deep",
+          "url": "https://open.spotify.com/artist/0YhuvmUbwLACBPyC7wqgti"
         }
       ],
-      "duration_ms": 367785,
-      "name": "Dtjoh (feat. Jessica LM)",
-      "url": "https://open.spotify.com/track/5xMvII7rTQXy5npCqrhLEM"
+      "duration_ms": 383825,
+      "name": "Teenage Fantasy",
+      "url": "https://open.spotify.com/track/4jFCETcf8uaR2NjywOXx11"
+    },
+    {
+      "added_at": "2021-12-23 21:59:00",
+      "album": {
+        "name": "Agolo (Da Capo's Touch)",
+        "url": "https://open.spotify.com/album/0PMhkcozXB0evBnUoZIgrY"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        }
+      ],
+      "duration_ms": 370600,
+      "name": "Agolo - Da Capo\u2019s Touch",
+      "url": "https://open.spotify.com/track/47oYm6GkEl2dAgrxNXSxOj"
     },
     {
       "added_at": "2021-09-17 05:32:34",
@@ -177,20 +257,20 @@
       "url": "https://open.spotify.com/track/0rmFBhKvt0KZI10t2coIYK"
     },
     {
-      "added_at": "2021-12-29 15:21:38",
+      "added_at": "2022-01-20 21:59:00",
       "album": {
-        "name": "Spaceline Suburbian",
-        "url": "https://open.spotify.com/album/5a021HAlmb18hLZbwHpgbs"
+        "name": "Bush Doctor Ep",
+        "url": "https://open.spotify.com/album/0qI7ugsoLIIMh8QGUpJsbx"
       },
       "artists": [
         {
-          "name": "Lucid Deep",
-          "url": "https://open.spotify.com/artist/0YhuvmUbwLACBPyC7wqgti"
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
         }
       ],
-      "duration_ms": 383825,
-      "name": "Teenage Fantasy",
-      "url": "https://open.spotify.com/track/4jFCETcf8uaR2NjywOXx11"
+      "duration_ms": 445312,
+      "name": "Bush Doctor",
+      "url": "https://open.spotify.com/track/279N45NJ5dAwk7wzhNeUpE"
     },
     {
       "added_at": "2021-12-23 21:59:00",
@@ -223,22 +303,6 @@
       "duration_ms": 399317,
       "name": "Doppler Effect",
       "url": "https://open.spotify.com/track/5oqz9LM5EOhUEoPG9V9Yoq"
-    },
-    {
-      "added_at": "2021-12-09 21:59:00",
-      "album": {
-        "name": "La Fleur",
-        "url": "https://open.spotify.com/album/4sFISECWnefsXQWAUbG2M7"
-      },
-      "artists": [
-        {
-          "name": "KVRVBO",
-          "url": "https://open.spotify.com/artist/6O8YH1s38BFvHKMg6vZjOB"
-        }
-      ],
-      "duration_ms": 399305,
-      "name": "Black Orchid",
-      "url": "https://open.spotify.com/track/1oj1JbhuEz5TDPWq8PZHwi"
     },
     {
       "added_at": "2021-12-02 22:00:52",
@@ -281,6 +345,22 @@
       "url": "https://open.spotify.com/track/6AWG94PiLOenHLjrBcctqE"
     },
     {
+      "added_at": "2022-01-20 21:59:00",
+      "album": {
+        "name": "Sebete",
+        "url": "https://open.spotify.com/album/5nzqxQVj55VWDinruPXKnn"
+      },
+      "artists": [
+        {
+          "name": "Mark Valsecchi",
+          "url": "https://open.spotify.com/artist/1KkQpGzIc1ExuivTY4efGQ"
+        }
+      ],
+      "duration_ms": 399678,
+      "name": "Sebete",
+      "url": "https://open.spotify.com/track/2ooGMDRwH5tqUpMAxuvmui"
+    },
+    {
       "added_at": "2022-01-06 21:59:00",
       "album": {
         "name": "Burns All Day",
@@ -321,6 +401,22 @@
       "url": "https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq"
     },
     {
+      "added_at": "2022-01-20 21:59:00",
+      "album": {
+        "name": "C'mon (Main HT)",
+        "url": "https://open.spotify.com/album/4dSJexV2ZVjOunTjpvlT5r"
+      },
+      "artists": [
+        {
+          "name": "HyperSOUL-X",
+          "url": "https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os"
+        }
+      ],
+      "duration_ms": 327468,
+      "name": "C'mon - Main HT",
+      "url": "https://open.spotify.com/track/50gzIrPluIjBKHPUjp7pXU"
+    },
+    {
       "added_at": "2021-12-23 21:59:00",
       "album": {
         "name": "Whole (Fynn's 9ct Gold Remix)",
@@ -339,6 +435,22 @@
       "duration_ms": 407796,
       "name": "Whole (Fynn's 9ct Gold Remix)",
       "url": "https://open.spotify.com/track/3hYp6fEdo8v0oxbbu1PGWF"
+    },
+    {
+      "added_at": "2022-01-20 21:59:00",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/3bgHqELSaff0cSkqznKdET"
+      },
+      "artists": [
+        {
+          "name": "Audio J",
+          "url": "https://open.spotify.com/artist/06FxdIJd8WOrZLKZgj6zc3"
+        }
+      ],
+      "duration_ms": 366101,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4z1cVR36mIcu3k68cYllqR"
     },
     {
       "added_at": "2021-12-02 22:00:52",
@@ -413,46 +525,6 @@
       "url": "https://open.spotify.com/track/0j5BwHH947W9bRWhqZHz4w"
     },
     {
-      "added_at": "2021-12-29 15:21:38",
-      "album": {
-        "name": "Acid Green",
-        "url": "https://open.spotify.com/album/7yfb3uTVuaqCR4sWZ8bmcH"
-      },
-      "artists": [
-        {
-          "name": "Ivory Child",
-          "url": "https://open.spotify.com/artist/4jsTcZXYvEJt2Gshh6cIPk"
-        }
-      ],
-      "duration_ms": 503606,
-      "name": "Acid Green",
-      "url": "https://open.spotify.com/track/2LyZRiWU2C7DlO4N9WKa9b"
-    },
-    {
-      "added_at": "2022-01-06 21:59:00",
-      "album": {
-        "name": "Howling Moon (Denis Horvat Remix)",
-        "url": "https://open.spotify.com/album/6ePz8JgYQDlfJ8RHV85k2j"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        },
-        {
-          "name": "Kieran Fowkes",
-          "url": "https://open.spotify.com/artist/2V01K4FD01MOv7eLqQMitQ"
-        },
-        {
-          "name": "Denis Horvat",
-          "url": "https://open.spotify.com/artist/5eJJoSS6weFQeI9AtNFLee"
-        }
-      ],
-      "duration_ms": 481062,
-      "name": "Howling Moon - Denis Horvat Remix",
-      "url": "https://open.spotify.com/track/5i1jjNPFf3df6x6STxqyU3"
-    },
-    {
       "added_at": "2021-12-23 21:59:00",
       "album": {
         "name": "The Warrior's Prayer",
@@ -495,6 +567,22 @@
     {
       "added_at": "2022-01-06 21:59:00",
       "album": {
+        "name": "Abalam'Bam",
+        "url": "https://open.spotify.com/album/0lt9JjcMpjupNX32cNWRQy"
+      },
+      "artists": [
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "duration_ms": 260075,
+      "name": "Abalam'Bam",
+      "url": "https://open.spotify.com/track/6MBdH59YQvezyoJ5u9zmaD"
+    },
+    {
+      "added_at": "2022-01-06 21:59:00",
+      "album": {
         "name": "Mitodzi",
         "url": "https://open.spotify.com/album/5oIivAX832qo0kPrB3hYFP"
       },
@@ -513,28 +601,24 @@
       "url": "https://open.spotify.com/track/7yr0Gg4Q1yNRM0NmVWgtVX"
     },
     {
-      "added_at": "2021-12-23 21:59:00",
+      "added_at": "2022-01-20 21:59:00",
       "album": {
-        "name": "Shakin' In My Shoes (Shona SA Remix)",
-        "url": "https://open.spotify.com/album/2KVXQcPEcpFYbHqt9dqQm5"
+        "name": "Sikelela",
+        "url": "https://open.spotify.com/album/04SpeI20k9GnhCGM9mq2qM"
       },
       "artists": [
         {
-          "name": "Matt Davies",
-          "url": "https://open.spotify.com/artist/7rV4Ll81hwDGB3629I53NV"
+          "name": "Un_Nown",
+          "url": "https://open.spotify.com/artist/1Dy9GVG7tRNdacsACCPWFL"
         },
         {
-          "name": "Tim Lewis",
-          "url": "https://open.spotify.com/artist/3JEFursGA74y8fu9WA8U0X"
-        },
-        {
-          "name": "Shona SA",
-          "url": "https://open.spotify.com/artist/2JrL1KzeVKLTNLSzxBtfvk"
+          "name": "Zikhona",
+          "url": "https://open.spotify.com/artist/009CRdhmFYn8IdxNRsemvV"
         }
       ],
-      "duration_ms": 381026,
-      "name": "Shakin' In My Shoes - Shona SA Remix",
-      "url": "https://open.spotify.com/track/0OMlDi0nX7UMA8m9VG3Us2"
+      "duration_ms": 457505,
+      "name": "Sikelela",
+      "url": "https://open.spotify.com/track/4EpkW3Hj2H7U8MawYhsse1"
     },
     {
       "added_at": "2022-01-06 21:59:00",
@@ -557,36 +641,28 @@
       "url": "https://open.spotify.com/track/4gABG2YD6kdLxYq5frIhOK"
     },
     {
-      "added_at": "2022-01-06 21:59:00",
+      "added_at": "2022-01-20 21:59:00",
       "album": {
-        "name": "Abalam'Bam",
-        "url": "https://open.spotify.com/album/0lt9JjcMpjupNX32cNWRQy"
+        "name": "Queen of Ice (Nora En Pure Remix)",
+        "url": "https://open.spotify.com/album/6o5REIm1HCnvCQXG8gqC6P"
       },
       "artists": [
         {
-          "name": "Lizwi",
-          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
-        }
-      ],
-      "duration_ms": 260075,
-      "name": "Abalam'Bam",
-      "url": "https://open.spotify.com/track/6MBdH59YQvezyoJ5u9zmaD"
-    },
-    {
-      "added_at": "2021-12-29 15:21:38",
-      "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/5tj5P6BuJ4LyYNyPD4n6G7"
-      },
-      "artists": [
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        },
         {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
+        },
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 278442,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/5nYMLSYNPq1NtmWauaxMJw"
+      "duration_ms": 255121,
+      "name": "Queen of Ice - Nora En Pure Club Mix",
+      "url": "https://open.spotify.com/track/5VyVQuqtPkKZt1jaXKuQkR"
     },
     {
       "added_at": "2021-12-23 21:59:00",
@@ -613,44 +689,44 @@
       "url": "https://open.spotify.com/track/3fpoN7kl6ZtOqqbk0enwpq"
     },
     {
-      "added_at": "2021-12-23 21:59:00",
+      "added_at": "2022-01-20 21:59:00",
       "album": {
-        "name": "Iris (Atmos Blaq Remix)",
-        "url": "https://open.spotify.com/album/3WDRhbZt5A3wZKYHuKZO1E"
+        "name": "Africa Gets Physical, Vol. 4",
+        "url": "https://open.spotify.com/album/3dAuIqHo6q9ObSes44dB4V"
       },
       "artists": [
         {
-          "name": "Thandi Draai",
-          "url": "https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG"
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
         },
         {
-          "name": "Atmos Blaq",
-          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+          "name": "Deep Narratives",
+          "url": "https://open.spotify.com/artist/0H929hRKMr7lbGcVOx4Q4c"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
         }
       ],
-      "duration_ms": 455788,
-      "name": "Iris - Atmos Blaq Remix",
-      "url": "https://open.spotify.com/track/1eAZwmJYmqgT6nXP0ljUHN"
+      "duration_ms": 448394,
+      "name": "Ngenani",
+      "url": "https://open.spotify.com/track/3V0Ds5i1LV3aZ3Yx886P2X"
     },
     {
-      "added_at": "2021-12-29 15:21:38",
+      "added_at": "2022-01-20 21:59:00",
       "album": {
-        "name": "High Ibiza",
-        "url": "https://open.spotify.com/album/3cyhCDZcIm0ow00iYYpnlp"
+        "name": "Bush Doctor Ep",
+        "url": "https://open.spotify.com/album/0qI7ugsoLIIMh8QGUpJsbx"
       },
       "artists": [
         {
-          "name": "Dimension Tribe",
-          "url": "https://open.spotify.com/artist/34CkXsjlBDBdIYThETJHhK"
-        },
-        {
-          "name": "Lord",
-          "url": "https://open.spotify.com/artist/46Br1jGl5tGhHOJWXUaFA8"
+          "name": "Buddynice",
+          "url": "https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp"
         }
       ],
-      "duration_ms": 345782,
-      "name": "High Ibiza",
-      "url": "https://open.spotify.com/track/6JSOoZd2M8DJ0aF6UecIVp"
+      "duration_ms": 413391,
+      "name": "Akasia",
+      "url": "https://open.spotify.com/track/5stxU5ORmYHHVAuPm6EHhJ"
     },
     {
       "added_at": "2021-12-02 22:00:52",
@@ -671,46 +747,6 @@
       "duration_ms": 495700,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/0Fv98w83b3DRRdcDXbxHFt"
-    },
-    {
-      "added_at": "2021-12-23 21:59:00",
-      "album": {
-        "name": "Mozambican All Stars",
-        "url": "https://open.spotify.com/album/3CNda3xsZW3f0D8fz6DBZD"
-      },
-      "artists": [
-        {
-          "name": "Double Drop",
-          "url": "https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr"
-        },
-        {
-          "name": "Navaa",
-          "url": "https://open.spotify.com/artist/36iOQ3tgRyh18V2ljwvk7i"
-        },
-        {
-          "name": "Arisis",
-          "url": "https://open.spotify.com/artist/6EeVa1XY9YUJkBOXhggqGM"
-        }
-      ],
-      "duration_ms": 472195,
-      "name": "Nothing to Say",
-      "url": "https://open.spotify.com/track/3MUCJAkvXkifvqzbrJgdYh"
-    },
-    {
-      "added_at": "2021-12-29 15:21:38",
-      "album": {
-        "name": "I realy loved you",
-        "url": "https://open.spotify.com/album/5GrvQpWQtHenxerenONY1O"
-      },
-      "artists": [
-        {
-          "name": "Pando G",
-          "url": "https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg"
-        }
-      ],
-      "duration_ms": 251406,
-      "name": "I realy loved you",
-      "url": "https://open.spotify.com/track/3iH0xwLMQXekhFNo2Ztooi"
     },
     {
       "added_at": "2022-01-06 21:59:00",
@@ -757,20 +793,20 @@
       "url": "https://open.spotify.com/track/7ITYhLCwizzy88TAvQijES"
     },
     {
-      "added_at": "2021-12-09 21:59:00",
+      "added_at": "2022-01-20 21:59:00",
       "album": {
-        "name": "Sign of the Times",
-        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
+        "name": "Good Ending",
+        "url": "https://open.spotify.com/album/6IdeKA4XmFoCFSwokQShMc"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Ottis Blake",
+          "url": "https://open.spotify.com/artist/2s9eHFCeuaSwc8dsHwGn02"
         }
       ],
-      "duration_ms": 193403,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
+      "duration_ms": 249756,
+      "name": "Good Ending - Original Mix",
+      "url": "https://open.spotify.com/track/0lbl2Rs58LYQ0VfXxshXKc"
     },
     {
       "added_at": "2022-01-10 14:27:57",
@@ -787,6 +823,34 @@
       "duration_ms": 375048,
       "name": "Afro Brotherz (Gezi Man)",
       "url": "https://open.spotify.com/track/6F3wFKPhuTKYBsR4UOh8NW"
+    },
+    {
+      "added_at": "2022-01-20 21:59:00",
+      "album": {
+        "name": "Let You Go (Notre Dame Remix)",
+        "url": "https://open.spotify.com/album/7y9bBTWfYm7LYdlKtW4PQa"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Euphonik",
+          "url": "https://open.spotify.com/artist/0UdSjb6EeZYK8LGxHcgkkP"
+        },
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        },
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 413114,
+      "name": "Let You Go - Notre Dame Remix",
+      "url": "https://open.spotify.com/track/4hyIeyW7cd8kQZU4UIlTOA"
     },
     {
       "added_at": "2021-10-28 21:59:00",
@@ -881,6 +945,26 @@
       "url": "https://open.spotify.com/track/1xy5ORYMtrSarPZysNN7j3"
     },
     {
+      "added_at": "2022-01-20 21:59:00",
+      "album": {
+        "name": "Mind, Body",
+        "url": "https://open.spotify.com/album/1ZihYDrPmCQYy0kuaxizKU"
+      },
+      "artists": [
+        {
+          "name": "UPZ",
+          "url": "https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE"
+        },
+        {
+          "name": "Bobby Saint",
+          "url": "https://open.spotify.com/artist/6L6VjBcf06AK6boIxqIEit"
+        }
+      ],
+      "duration_ms": 232813,
+      "name": "Mind, Body",
+      "url": "https://open.spotify.com/track/3mqIkgBgZFewsG7rEr3WEv"
+    },
+    {
       "added_at": "2021-11-25 21:59:00",
       "album": {
         "name": "The Couza - EP (Radio Edits)",
@@ -899,26 +983,6 @@
       "duration_ms": 433019,
       "name": "Usana Lwam - Edit",
       "url": "https://open.spotify.com/track/5qbGs2K5CAQefg5cNC50PN"
-    },
-    {
-      "added_at": "2021-12-29 15:21:38",
-      "album": {
-        "name": "Jungle Friends",
-        "url": "https://open.spotify.com/album/1Awwc7DyVStZvjAyc0mTfv"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        },
-        {
-          "name": "Sega SA",
-          "url": "https://open.spotify.com/artist/6G85Sco2sF1MauFHJY4r4V"
-        }
-      ],
-      "duration_ms": 494614,
-      "name": "Jungle Friends",
-      "url": "https://open.spotify.com/track/6qMV3JtBkDK0hCcHpcUCf2"
     },
     {
       "added_at": "2022-01-10 14:27:57",
@@ -973,20 +1037,28 @@
       "url": "https://open.spotify.com/track/1r76Z7nQMeJ0mtsDQJvAcd"
     },
     {
-      "added_at": "2021-12-29 15:21:38",
+      "added_at": "2022-01-20 21:59:00",
       "album": {
-        "name": "The Border Lands",
-        "url": "https://open.spotify.com/album/53fLCJiZxbwAV9WYfEYXZZ"
+        "name": "Offering",
+        "url": "https://open.spotify.com/album/4ciu7fuk7v1v1TlFOyNCAp"
       },
       "artists": [
         {
-          "name": "Tswex Malabola",
-          "url": "https://open.spotify.com/artist/6cTBXiyGb4MACMv1WjgLKs"
+          "name": "TechTonic'Tay",
+          "url": "https://open.spotify.com/artist/6wvM9076FiIz7tQFv6ue1q"
+        },
+        {
+          "name": "Ed-Ward",
+          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
+        },
+        {
+          "name": "Bongani Mehlomakhulu",
+          "url": "https://open.spotify.com/artist/4JIN8w64k8PlsABOq6JKbL"
         }
       ],
-      "duration_ms": 400039,
-      "name": "Mabele",
-      "url": "https://open.spotify.com/track/4YupfisjrO7n5pz2mk55pS"
+      "duration_ms": 246622,
+      "name": "Bambelela (feat. Bongani Mehlomakhulu)",
+      "url": "https://open.spotify.com/track/0mbxy2BP2oEMatXHXxDWtR"
     },
     {
       "added_at": "2022-01-06 21:59:00",
@@ -1069,6 +1141,22 @@
       "url": "https://open.spotify.com/track/0DOtmC7j40TKOu8V7VaCkN"
     },
     {
+      "added_at": "2022-01-20 21:59:00",
+      "album": {
+        "name": "Vaudzeyi Vanamate",
+        "url": "https://open.spotify.com/album/27Zl6RHfLP9hDmzpEkZUVN"
+      },
+      "artists": [
+        {
+          "name": "Dr Feel",
+          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
+        }
+      ],
+      "duration_ms": 452535,
+      "name": "Vaudzeyi Vanamate",
+      "url": "https://open.spotify.com/track/3CJyboSxQkJgIp0ptUnpgi"
+    },
+    {
       "added_at": "2022-01-06 21:59:00",
       "album": {
         "name": "Changes In Life",
@@ -1107,6 +1195,30 @@
       "duration_ms": 262908,
       "name": "Sbindi Uyabulala",
       "url": "https://open.spotify.com/track/6ZmAyjPb2R318kKMdSm2yy"
+    },
+    {
+      "added_at": "2022-01-20 21:59:00",
+      "album": {
+        "name": "Lutar",
+        "url": "https://open.spotify.com/album/5bKM4dE8NKTYCg6bvWTYAl"
+      },
+      "artists": [
+        {
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        },
+        {
+          "name": "Offkey",
+          "url": "https://open.spotify.com/artist/6ufQp4V8xUqJphvbke0j97"
+        }
+      ],
+      "duration_ms": 442760,
+      "name": "Lutar - Chronical Deep Clap Back",
+      "url": "https://open.spotify.com/track/3O1VFIfue3HJskTTPUou7g"
     },
     {
       "added_at": "2021-12-09 21:59:00",
@@ -1193,26 +1305,6 @@
       "url": "https://open.spotify.com/track/4M8hLrsz72XpbMqibVNF5o"
     },
     {
-      "added_at": "2021-09-10 04:33:16",
-      "album": {
-        "name": "Osama",
-        "url": "https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T"
-      },
-      "artists": [
-        {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
-        }
-      ],
-      "duration_ms": 409180,
-      "name": "Osama",
-      "url": "https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq"
-    },
-    {
       "added_at": "2022-01-06 21:59:00",
       "album": {
         "name": "London",
@@ -1233,24 +1325,20 @@
       "url": "https://open.spotify.com/track/44ecHrBS4f2PFllGXYr8fJ"
     },
     {
-      "added_at": "2021-12-02 22:00:52",
+      "added_at": "2022-01-20 21:59:00",
       "album": {
-        "name": "Ghetto King",
-        "url": "https://open.spotify.com/album/3q8v4F3zabaHlG5IVECT6r"
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/7Lkva8WHRLErzS0xAPAOhQ"
       },
       "artists": [
         {
-          "name": "Zakes Bantwini",
-          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
-        },
-        {
-          "name": "Mthunzi",
-          "url": "https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D"
+          "name": "Ryan Hill",
+          "url": "https://open.spotify.com/artist/1zohDHB4DCMcNq2KNAJ2Gn"
         }
       ],
-      "duration_ms": 433300,
-      "name": "Kumnyama",
-      "url": "https://open.spotify.com/track/2NwACjNHdSjtUkZEPc43kS"
+      "duration_ms": 414883,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/34AplTlUXLWmrUWHW4awkK"
     },
     {
       "added_at": "2021-12-02 22:00:52",
@@ -1281,6 +1369,22 @@
       "url": "https://open.spotify.com/track/5ILQd8soax1ekqFfv9Psrj"
     },
     {
+      "added_at": "2022-01-20 21:59:00",
+      "album": {
+        "name": "FarJen",
+        "url": "https://open.spotify.com/album/4LSndFvIF2Yz4IvdPrzBYg"
+      },
+      "artists": [
+        {
+          "name": "Afro Carrib",
+          "url": "https://open.spotify.com/artist/3SbrfODvyTbfh5XBOB380J"
+        }
+      ],
+      "duration_ms": 350322,
+      "name": "FarJen",
+      "url": "https://open.spotify.com/track/5yU6Bn60UZwbe1l70bm6y9"
+    },
+    {
       "added_at": "2022-01-06 21:59:00",
       "album": {
         "name": "Forever",
@@ -1301,24 +1405,20 @@
       "url": "https://open.spotify.com/track/0PNKOWPZVXkJEmUcTrTmHv"
     },
     {
-      "added_at": "2021-11-18 21:59:00",
+      "added_at": "2022-01-20 21:59:00",
       "album": {
-        "name": "Platinumb Heart Beating",
-        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+        "name": "Oud Oryx EP",
+        "url": "https://open.spotify.com/album/0Zrs2EnAcJFdc2wNiv9p8a"
       },
       "artists": [
         {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        },
-        {
-          "name": "Black Motion",
-          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+          "name": "Thulane Da Producer",
+          "url": "https://open.spotify.com/artist/6ZOIuQq39MDRQA40gYEKA6"
         }
       ],
-      "duration_ms": 419500,
-      "name": "Boy from Soshanguve",
-      "url": "https://open.spotify.com/track/4B5w6ajZbqhz9wNd1xSSLj"
+      "duration_ms": 548044,
+      "name": "Code 4 - Da Producer's Mix",
+      "url": "https://open.spotify.com/track/6zRoe6RkxFphLERX8vmfyA"
     },
     {
       "added_at": "2021-12-02 22:00:52",
@@ -1409,22 +1509,6 @@
       "url": "https://open.spotify.com/track/2eRYnzb3ySxgmzFlJKV0Re"
     },
     {
-      "added_at": "2021-09-02 21:59:00",
-      "album": {
-        "name": "Closer / Ma Vie Celeste",
-        "url": "https://open.spotify.com/album/3mRuix6vGc5tDkZCao3LiJ"
-      },
-      "artists": [
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
-        }
-      ],
-      "duration_ms": 392067,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7G4v7DqAAJTOu8PBtE1qsS"
-    },
-    {
       "added_at": "2022-01-10 14:27:57",
       "album": {
         "name": "Aluku Records Various Compilation SA Edition, Pt. 3",
@@ -1439,22 +1523,6 @@
       "duration_ms": 402494,
       "name": "Zulu",
       "url": "https://open.spotify.com/track/1H77Pvcnlk1KzJKzbX0geM"
-    },
-    {
-      "added_at": "2021-11-11 21:59:00",
-      "album": {
-        "name": "uNomjubane",
-        "url": "https://open.spotify.com/album/5OlyT9XXUvFzVwc1lasoPP"
-      },
-      "artists": [
-        {
-          "name": "Dr Feel",
-          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
-        }
-      ],
-      "duration_ms": 465494,
-      "name": "uNomjubane",
-      "url": "https://open.spotify.com/track/2YGELdILY913UgGw3pNlzJ"
     },
     {
       "added_at": "2022-01-06 21:59:00",
@@ -1485,86 +1553,6 @@
       "url": "https://open.spotify.com/track/31x43QOPhrtieoJt1FgKQS"
     },
     {
-      "added_at": "2021-11-18 21:59:00",
-      "album": {
-        "name": "When House Was House",
-        "url": "https://open.spotify.com/album/7cnm0aGp0FTbaXFd9JBAr7"
-      },
-      "artists": [
-        {
-          "name": "Mobi Dixon",
-          "url": "https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW"
-        },
-        {
-          "name": "Phelo Bala",
-          "url": "https://open.spotify.com/artist/7LJ0fa8LyKOjMobFCSFvt3"
-        }
-      ],
-      "duration_ms": 359500,
-      "name": "Nqonqoza",
-      "url": "https://open.spotify.com/track/1wUwAWGICTkkZyOmFzTugX"
-    },
-    {
-      "added_at": "2022-01-06 21:59:00",
-      "album": {
-        "name": "Bozzo",
-        "url": "https://open.spotify.com/album/79NV6Hi8fOnDjkAmsl6B5C"
-      },
-      "artists": [
-        {
-          "name": "Shizzo",
-          "url": "https://open.spotify.com/artist/13Q2E2jhDrNtQRvN0MiSea"
-        },
-        {
-          "name": "Shona SA",
-          "url": "https://open.spotify.com/artist/2JrL1KzeVKLTNLSzxBtfvk"
-        }
-      ],
-      "duration_ms": 389187,
-      "name": "Bozzo",
-      "url": "https://open.spotify.com/track/4d7WKzOJGJWVoxu10qCyyz"
-    },
-    {
-      "added_at": "2021-12-02 22:00:52",
-      "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/7pAqAONGCGownZVqQ4N7IT"
-      },
-      "artists": [
-        {
-          "name": "Kenza",
-          "url": "https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi"
-        },
-        {
-          "name": "Sun-El Musician",
-          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
-        }
-      ],
-      "duration_ms": 437124,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/0dAMik8RRJHMKkwnWpgnJ5"
-    },
-    {
-      "added_at": "2021-11-04 21:59:00",
-      "album": {
-        "name": "Imbizo (Da Capo's Touch)",
-        "url": "https://open.spotify.com/album/1xAMmT8k2qH01j29Yyfstz"
-      },
-      "artists": [
-        {
-          "name": "Phuzekhemisi",
-          "url": "https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP"
-        },
-        {
-          "name": "Da Capo",
-          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "Imbizo - Da Capo's Touch",
-      "url": "https://open.spotify.com/track/2sJUzx4utOjz2tPFtZ18yt"
-    },
-    {
       "added_at": "2022-01-10 14:27:57",
       "album": {
         "name": "The Adrenaline EP",
@@ -1587,30 +1575,6 @@
       "duration_ms": 344737,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/5sq9AVT10zwS3qeosRUtLK"
-    },
-    {
-      "added_at": "2021-11-18 21:59:00",
-      "album": {
-        "name": "When House Was House",
-        "url": "https://open.spotify.com/album/7cnm0aGp0FTbaXFd9JBAr7"
-      },
-      "artists": [
-        {
-          "name": "Mobi Dixon",
-          "url": "https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW"
-        },
-        {
-          "name": "Mariechan",
-          "url": "https://open.spotify.com/artist/6uUSNroJE7n5EvrPre1VCI"
-        },
-        {
-          "name": "Jnr SA",
-          "url": "https://open.spotify.com/artist/4z55shVorhhVNDP21Zojku"
-        }
-      ],
-      "duration_ms": 368500,
-      "name": "When House Was House",
-      "url": "https://open.spotify.com/track/4VJTcyQ46B0qSX6oF2IFLW"
     },
     {
       "added_at": "2022-01-10 14:27:57",

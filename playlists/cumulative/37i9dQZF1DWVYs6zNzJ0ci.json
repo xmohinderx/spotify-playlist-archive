@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 238717,
       "name": "Algo Mejor",
       "url": "https://open.spotify.com/track/68gpEjXas61xmdZin01DcQ"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 235326,
       "name": "Apagar La Luz",
       "url": "https://open.spotify.com/track/3eR9XcBDfh0OptPk1FQkk6"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 216421,
       "name": "Buenos Dias Beb\u00e9",
       "url": "https://open.spotify.com/track/2Ge5hEIr8Q45XXyFY5X3pp"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 306866,
       "name": "Carnival (feat. Solis & Randy Valentine)",
       "url": "https://open.spotify.com/track/3FEN1Usl4Z4IceFbBZ1rmI"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 195156,
       "name": "Cocomango",
       "url": "https://open.spotify.com/track/1v1WSCFVUyCYQe0g9zdBlY"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 280653,
       "name": "Colores",
       "url": "https://open.spotify.com/track/4I8gb9fya6GgNCh5Bdm2pA"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 212533,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 141334,
       "name": "Cuando Calienta el Sol",
       "url": "https://open.spotify.com/track/0B6i8rjZIiScILFxfA638l"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 208596,
       "name": "Cuanto Heredamos",
       "url": "https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp"
@@ -936,6 +936,28 @@
     },
     {
       "album": {
+        "name": "Album Verde: Tributo Reggae a The Beatles, Vol. I",
+        "url": "https://open.spotify.com/album/4FXB6zm3mGfAZWj6WHPVBV"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        },
+        {
+          "name": "Movimiento Urbano",
+          "url": "https://open.spotify.com/artist/7AhRasytpaObz7f4dEUVqH"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167440,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/4PSDabaxKaVRjvm812i1B6"
+    },
+    {
+      "album": {
         "name": "15 Aniversario en el Luna Park",
         "url": "https://open.spotify.com/album/5L7x7Is0vVDYFKp3vsLR8d"
       },
@@ -973,7 +995,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 351573,
       "name": "Jah Live",
       "url": "https://open.spotify.com/track/15gJmbM0pjL1yjIASTyW0x"
@@ -1133,7 +1155,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 232342,
       "name": "Laba Laba Craven",
       "url": "https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz"
@@ -1155,7 +1177,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 233000,
       "name": "Las Ganas de Vivir",
       "url": "https://open.spotify.com/track/5JKsY1CEoZhfg5KAqu7eML"
@@ -1311,7 +1333,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 485426,
       "name": "Los Ni\u00f1os del Jah",
       "url": "https://open.spotify.com/track/5HLejuMi8DNmFU8Brh9mf2"
@@ -1467,7 +1489,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 384733,
       "name": "Mi Ni\u00f1a",
       "url": "https://open.spotify.com/track/15ebddPrc4HYVk9qM3trIi"
@@ -1699,7 +1721,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 309213,
       "name": "Por Cultivar Marihuana",
       "url": "https://open.spotify.com/track/3hcGo9ePUX6CFqB1NpZE9L"
@@ -1867,7 +1889,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 309240,
       "name": "Resistencia indigena",
       "url": "https://open.spotify.com/track/1dIhVyOcHzgL07hSO7IOex"
@@ -1885,7 +1907,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 198826,
       "name": "Reverdeciendo",
       "url": "https://open.spotify.com/track/1x5xeLTf0SAzXVCQ4ymqrV"
@@ -2021,7 +2043,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 188816,
       "name": "Sentimiento Colectivo",
       "url": "https://open.spotify.com/track/5Mt39ZADBRZMNeKG4DxDJP"
@@ -2075,7 +2097,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 264707,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/7d42VpwmsJhlBcfOJ5XQu0"
@@ -2485,7 +2507,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 249986,
       "name": "Vocabulario B\u00e1sico",
       "url": "https://open.spotify.com/track/1bFbEZctiGZItamYIBlRAL"
@@ -2669,7 +2691,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 246857,
       "name": "\u00c1ngel Del Pasado",
       "url": "https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q"

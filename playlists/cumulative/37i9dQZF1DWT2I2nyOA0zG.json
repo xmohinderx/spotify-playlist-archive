@@ -78,6 +78,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197498,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj"
+    },
+    {
+      "album": {
         "name": "Anybody",
         "url": "https://open.spotify.com/album/5DPMC3g3iWqpWFzg7NoIG4"
       },

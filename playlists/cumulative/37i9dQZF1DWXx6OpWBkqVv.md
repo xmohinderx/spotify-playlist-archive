@@ -2,7 +2,7 @@
 
 ### [Indiespensável](https://open.spotify.com/playlist/5BZNLwTZIGRCxnMJoptCxS)
 
-> Uma coleção de clássicos da música indie/alternativa para ouvir sem parar! Foto: Phoenix
+> Você já dançou muito essas músicas num inferninho insalubre\. Foto: The Strokes
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

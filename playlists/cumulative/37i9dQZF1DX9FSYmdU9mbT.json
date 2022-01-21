@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Fique de bem com a vida com grandes artistas da MPB. Foto: Roberto Carlos",
+  "description": "Os grandes artistas da MPB. Foto: Elza Soares",
   "name": "O Melhor da MPB",
   "published_playlist_ids": [
     "0KkIdIP6N50yyjIcbunsdH"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 193202,
       "name": "Copo Vazio",
       "url": "https://open.spotify.com/track/7Ln4YB6fKXHq6GhP2H6BF0"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 156617,
       "name": "Cora\u00e7\u00e3o Vagabundo",
       "url": "https://open.spotify.com/track/20vPQfpYA6qfYGblGAWSvS"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 170266,
       "name": "De Volta Ao Come\u00e7o",
       "url": "https://open.spotify.com/track/3gKVp2pfgNXXoENC4UXbIo"
@@ -844,6 +844,28 @@
     },
     {
       "album": {
+        "name": "Do C\u00f3ccix At\u00e9 o Pesco\u00e7o",
+        "url": "https://open.spotify.com/album/1jPumMqSdJBEfhZyRUrDfR"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        },
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353346,
+      "name": "Fa\u00e7amos (Vamos Amar)",
+      "url": "https://open.spotify.com/track/7y6vnVnkRzcxUZMdoCaksh"
+    },
+    {
+      "album": {
         "name": "Miltons",
         "url": "https://open.spotify.com/album/7qrmWwDm6WEBdJH9rtCIeV"
       },
@@ -953,6 +975,24 @@
       "duration_ms": 244650,
       "name": "L\u00e1bios Que Beijei",
       "url": "https://open.spotify.com/track/4eCxHYt3VfiffuRSkydhgN"
+    },
+    {
+      "album": {
+        "name": "Li\u00e7\u00e3o de Vida",
+        "url": "https://open.spotify.com/album/6kiq9bXzRbrqefDZS2llhA"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191053,
+      "name": "Malandro",
+      "url": "https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU"
     },
     {
       "album": {
@@ -1461,6 +1501,28 @@
       "duration_ms": 246492,
       "name": "Relic\u00e1rio - Ao Vivo",
       "url": "https://open.spotify.com/track/6HhXiy5XZ81Pyv3yCZMtj1"
+    },
+    {
+      "album": {
+        "name": "Romaria",
+        "url": "https://open.spotify.com/album/5EHQLnxvoHKMdra4rttorN"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Roca",
+          "url": "https://open.spotify.com/artist/4yaPaG3Cs2A86d8p9mOARL"
+        },
+        {
+          "name": "Renato Teixeira",
+          "url": "https://open.spotify.com/artist/0FIgaYFg1Vp5TSLm2xwtLI"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282575,
+      "name": "Romaria",
+      "url": "https://open.spotify.com/track/5fzIFX2eZb1rWpVZtNqaoH"
     },
     {
       "album": {

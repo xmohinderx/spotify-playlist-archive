@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Petter Eldh",
+  "description": "New jazz for open minds. Cover: Little North",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 147573,
       "name": "Jagdish",
       "url": "https://open.spotify.com/track/39xTN7WxxA2KkrPS9y53M6"
@@ -890,6 +890,24 @@
     },
     {
       "album": {
+        "name": "Portrommet",
+        "url": "https://open.spotify.com/album/0dIX5Fo56YwWzuyWv6vucl"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283880,
+      "name": "Portrommet",
+      "url": "https://open.spotify.com/track/29SjQRP3L3VhsYd8CKT0Lx"
+    },
+    {
+      "album": {
         "name": "SHOOK UP",
         "url": "https://open.spotify.com/album/6POEzNWEtxycJMcwQF0MeW"
       },
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 324383,
       "name": "Prayer",
       "url": "https://open.spotify.com/track/2ola3HPvnB9VVIzqEIrniD"
@@ -949,6 +967,24 @@
       "duration_ms": 212000,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt"
+    },
+    {
+      "album": {
+        "name": "Familiar Places",
+        "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
+      },
+      "artists": [
+        {
+          "name": "Little North",
+          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437700,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/1AqbCzDfgIsB8iF9rBUy0A"
     },
     {
       "album": {

@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 186774,
       "name": "Alternations",
       "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
@@ -545,10 +545,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 271293,
       "name": "End of One Thing",
       "url": "https://open.spotify.com/track/6oTYXtsJWi30jH5dIPWTyQ"
+    },
+    {
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/0qBy084Hayhv3cXrz2sJ6b"
+      },
+      "artists": [
+        {
+          "name": "Bostro Pesopeo",
+          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289642,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI"
     },
     {
       "album": {
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 220000,
       "name": "First Frost",
       "url": "https://open.spotify.com/track/2zJzDb6WVwDmfp0GN7FOOF"
@@ -581,7 +599,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 173883,
       "name": "Garlands",
       "url": "https://open.spotify.com/track/2OU3aFpcNqVEZ7tvZ0013P"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 225054,
       "name": "My Birthday Suit",
       "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 288685,
       "name": "Slow Tide",
       "url": "https://open.spotify.com/track/41O6rwSFgVZJc1XKdK1b02"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 367500,
       "name": "The Dead Past",
       "url": "https://open.spotify.com/track/0qNP9yrsqGmiMyBpLRRCcA"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 145000,
       "name": "The Station Is Alive Again",
       "url": "https://open.spotify.com/track/0ZarJjfxdlt6ppX7ZAT0Za"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 308000,
       "name": "Tides I",
       "url": "https://open.spotify.com/track/7E7NGJaerM9PyGI7RLrDvV"

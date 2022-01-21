@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209253,
+      "name": "1 Billion Views",
+      "url": "https://open.spotify.com/track/4gGZc6MMYavM5KFS2zwOVL"
+    },
+    {
+      "album": {
         "name": "COMPLETE WITH YOU",
         "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
       },
@@ -73,7 +95,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 213666,
       "name": "90's Love",
       "url": "https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN"
@@ -95,6 +117,24 @@
       "duration_ms": 213293,
       "name": "A Song Written Easily",
       "url": "https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0"
+    },
+    {
+      "album": {
+        "name": "SWITCH ON",
+        "url": "https://open.spotify.com/album/20UJy1ziViNvfJCzjGn5xr"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190798,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/35ylkTvU4CWnQVrYqsp2VQ"
     },
     {
       "album": {
@@ -307,7 +347,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 196666,
       "name": "BOY",
       "url": "https://open.spotify.com/track/6SqOpxXMMS8axhJoqz8Nel"
@@ -347,7 +387,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 217823,
       "name": "BREATHE",
       "url": "https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs"
@@ -383,7 +423,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 201445,
       "name": "Can't You See Me?",
       "url": "https://open.spotify.com/track/2qI0Uchpdc2RkzuhbRnnZ8"
@@ -401,7 +441,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 192133,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/45WEkgFSP5Af8Huepaj4P1"
@@ -437,7 +477,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 230706,
       "name": "CROWN",
       "url": "https://open.spotify.com/track/32h6yQGn4oAhZ0HRsTMX26"
@@ -491,7 +531,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 190967,
       "name": "Dive",
       "url": "https://open.spotify.com/track/1QRgdZiZAj2EfRMLBVu9af"
@@ -563,7 +603,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 176546,
       "name": "Don't fight the feeling",
       "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
@@ -711,7 +751,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 215586,
       "name": "Favorite (Vampire)",
       "url": "https://open.spotify.com/track/3rR9kTA6mD9LbmsCE0QWEY"
@@ -729,7 +769,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 175213,
       "name": "Fear",
       "url": "https://open.spotify.com/track/0fToFBFypPz5XMyAdAm7Ay"
@@ -783,7 +823,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 209574,
       "name": "Fireworks (I'm The One)",
       "url": "https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v"
@@ -891,7 +931,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 193358,
       "name": "Good Guy",
       "url": "https://open.spotify.com/track/52Ympobu59UXxyhdCUww1y"
@@ -981,7 +1021,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 176351,
       "name": "Hold",
       "url": "https://open.spotify.com/track/2XD5I0ZeUVwM4LFSEKmKst"
@@ -1017,7 +1057,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 184426,
       "name": "HOME;RUN",
       "url": "https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv"
@@ -1053,7 +1093,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 181618,
       "name": "I LOVE YOU",
       "url": "https://open.spotify.com/track/4zazrdH47Bkgunb3riXVlJ"
@@ -1179,7 +1219,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 195656,
       "name": "Levanter",
       "url": "https://open.spotify.com/track/4mtPGvoOvfqskC9M3tNZrV"
@@ -1269,7 +1309,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 209648,
       "name": "LOVE SCENARIO",
       "url": "https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k"
@@ -1395,7 +1435,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 226321,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/6KUE0HSSudAp9AOycaF6SH"
@@ -1413,7 +1453,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 208266,
       "name": "Maniac (Sung by DOYOUNG, HAECHAN) (Prod. RYAN JHUN)",
       "url": "https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4"
@@ -1467,7 +1507,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 236829,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF"
@@ -1521,7 +1561,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 207814,
       "name": "Mixtape : On Track",
       "url": "https://open.spotify.com/track/3diZHzXj5LNxztVwBjnebn"
@@ -1669,7 +1709,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 204701,
       "name": "NOT BY THE MOON",
       "url": "https://open.spotify.com/track/1pmfd0ohjfh1qXPWvjaC1o"
@@ -1795,7 +1835,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 201773,
       "name": "Ridin'",
       "url": "https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL"
@@ -2029,7 +2069,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 209186,
       "name": "Tiger Inside",
       "url": "https://open.spotify.com/track/2TENPSXQkWNgEFxmi4PRWE"
@@ -2101,7 +2141,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 203933,
       "name": "Wave",
       "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
@@ -2155,7 +2195,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 206856,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd"
@@ -2191,7 +2231,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 194707,
       "name": "You Calling My Name",
       "url": "https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ"
@@ -2227,7 +2267,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 235068,
       "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
       "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"

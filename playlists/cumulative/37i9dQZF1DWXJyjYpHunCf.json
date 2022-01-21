@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 224120,
       "name": "All the Time in the World",
       "url": "https://open.spotify.com/track/480SRGJA3IAzyoamrpnkOX"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 191693,
       "name": "Burning Earth",
       "url": "https://open.spotify.com/track/3Tx2cWkwWRbQdnf45a2YLm"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 229426,
       "name": "Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7s8slcfStICYWbPUwf983B"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 216666,
       "name": "Diamonds in the Rough",
       "url": "https://open.spotify.com/track/3gqiWsG6pJ2aJyoMFfezdS"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 213453,
       "name": "Do Right",
       "url": "https://open.spotify.com/track/5PeW97MvpM487CWIfFK3jK"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 189026,
       "name": "Greatest Enemy",
       "url": "https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 189213,
       "name": "I Got You on My Mind",
       "url": "https://open.spotify.com/track/2yDmtELC2x3qNbJRfnFmga"
@@ -1353,7 +1353,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 191986,
       "name": "Kick Out the Windows - Radio Edit",
       "url": "https://open.spotify.com/track/6Q04NQKyB5x3Ge5TRyfZT1"
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 225466,
       "name": "Lost",
       "url": "https://open.spotify.com/track/37GoX99NfDFMNcbmXTe40O"
@@ -1827,7 +1827,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 243776,
       "name": "River",
       "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 144506,
       "name": "Searching",
       "url": "https://open.spotify.com/track/0lRbYbXj2mknfl7DXfpZX5"
@@ -2117,7 +2117,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 202110,
       "name": "The Hunt",
       "url": "https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 171800,
       "name": "The Worth Of The Wait",
       "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
@@ -2308,6 +2308,24 @@
     },
     {
       "album": {
+        "name": "Wait No More",
+        "url": "https://open.spotify.com/album/73xDo3fQAsSLNTCpTlBedN"
+      },
+      "artists": [
+        {
+          "name": "The End of America",
+          "url": "https://open.spotify.com/artist/1lyJ8ddC52ERd8XppvRbzq"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147878,
+      "name": "Wait No More",
+      "url": "https://open.spotify.com/track/4clWpztIoh70RqmZGPvnJz"
+    },
+    {
+      "album": {
         "name": "War In Your Arms",
         "url": "https://open.spotify.com/album/7h6f4SBKM7yosSAHR7eZf3"
       },
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 204683,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/7jvbxB4On47Hl33C0qA88B"

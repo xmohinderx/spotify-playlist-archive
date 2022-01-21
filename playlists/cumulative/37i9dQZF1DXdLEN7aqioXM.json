@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 292000,
       "name": "Black To The Future",
       "url": "https://open.spotify.com/track/3RZZ8KnNq63Isfqo67KI4W"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 214736,
       "name": "Blink of an Eye",
       "url": "https://open.spotify.com/track/3kgtLhFbasJILGIK952ww0"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 228028,
       "name": "Dark Prince, Pt. 3",
       "url": "https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 257490,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 302400,
       "name": "Dust",
       "url": "https://open.spotify.com/track/5UFXAE1QXIGnmALcrQ4DgZ"
@@ -638,6 +638,24 @@
     },
     {
       "album": {
+        "name": "Gaussian Blur",
+        "url": "https://open.spotify.com/album/2YhAbRRlngJsY9tcNxItka"
+      },
+      "artists": [
+        {
+          "name": "Coolgirl",
+          "url": "https://open.spotify.com/artist/2dWhAx6AzKU1Pn83BG1VCg"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Gaussian Blur",
+      "url": "https://open.spotify.com/track/4g9v7XneDFBqxo2TIjb6iM"
+    },
+    {
+      "album": {
         "name": "Homebound",
         "url": "https://open.spotify.com/album/6Mcfma2p4CnEQhCICR81iq"
       },
@@ -667,7 +685,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 159939,
       "name": "Homo Deus",
       "url": "https://open.spotify.com/track/3l5bTYYEBEteJpi1MsA5qR"
@@ -692,6 +710,24 @@
     },
     {
       "album": {
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/1l7syt0vWShqSgBROokbCt"
+      },
+      "artists": [
+        {
+          "name": "Makeup And Vanity Set",
+          "url": "https://open.spotify.com/artist/5iJnzz8Lfh1U3XQpBw95J3"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257175,
+      "name": "Implant",
+      "url": "https://open.spotify.com/track/3xG8Xcrke8F1gfYjzQE1Le"
+    },
+    {
+      "album": {
         "name": "Last Path",
         "url": "https://open.spotify.com/album/2Kk03vlxFYQwv3xH5k3wNC"
       },
@@ -703,7 +739,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 242842,
       "name": "Last Path",
       "url": "https://open.spotify.com/track/6g8EEkAjIuJ56RLKKgHpKT"
@@ -721,7 +757,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 171034,
       "name": "Laugh Away",
       "url": "https://open.spotify.com/track/4qSG7uX4AGz0rBxDQoFxH9"
@@ -859,7 +895,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 327289,
       "name": "Luminance",
       "url": "https://open.spotify.com/track/0BxJspnDFiFfaOgOf0mSlw"
@@ -939,7 +975,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 319250,
       "name": "Neo-Tokyo - Chromatique Remix",
       "url": "https://open.spotify.com/track/4994qi4UjoPStjsbUB8AAF"
@@ -1084,6 +1120,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/7zLBSYwoQk1UerLgwVzaDY"
+      },
+      "artists": [
+        {
+          "name": "Section303",
+          "url": "https://open.spotify.com/artist/6xLf7EVilWyWRunM3VQQWh"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448790,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6yeIdMq9nowvqdhWZoor9i"
+    },
+    {
+      "album": {
         "name": "Then Again",
         "url": "https://open.spotify.com/album/48u42pkXw9wIIp3LZyfjk3"
       },
@@ -1131,7 +1185,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 257816,
       "name": "Odyssey Point",
       "url": "https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L"
@@ -1398,6 +1452,24 @@
     },
     {
       "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/6qZrS55kZSo6pIvxv4ElIF"
+      },
+      "artists": [
+        {
+          "name": "Aliciana",
+          "url": "https://open.spotify.com/artist/6wQeEO3ng0djPuPAnrw6Jv"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "Streetlights",
+      "url": "https://open.spotify.com/track/2WincdoOjqG634OcRGqWPA"
+    },
+    {
+      "album": {
         "name": "Streetwalker",
         "url": "https://open.spotify.com/album/0jlkbUkGsmy37ncfhxlP68"
       },
@@ -1449,7 +1521,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 229014,
       "name": "The Equaliser (Not Alone)",
       "url": "https://open.spotify.com/track/3cQ0w1P9IUuwwkBG9g9JpO"
@@ -1467,7 +1539,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 134666,
       "name": "The Mansion",
       "url": "https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD"
@@ -1521,7 +1593,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 186947,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg"
@@ -1539,7 +1611,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 324049,
       "name": "Ultimo",
       "url": "https://open.spotify.com/track/0jtagVogty503eUAY7psju"
@@ -1593,7 +1665,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 270720,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4QnTtQJnAxK61zOibTJpYT"

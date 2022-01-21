@@ -1716,6 +1716,24 @@
     },
     {
       "album": {
+        "name": "Sunrise Tells The Story (Acoustic)",
+        "url": "https://open.spotify.com/album/5jrgfI0K2Z8jllFP84V40z"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205280,
+      "name": "Sunrise Tells The Story - Acoustic",
+      "url": "https://open.spotify.com/track/4IXILY7BOCehZjc5axsn1C"
+    },
+    {
+      "album": {
         "name": "The I\u2019m Not Always Put Together EP",
         "url": "https://open.spotify.com/album/4cCjYpkMsvEVpw5kLBlugQ"
       },

@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 195172,
       "name": "Catch & Release (Deepend remix)",
       "url": "https://open.spotify.com/track/4FqrgfKej2jv450UFW6PP8"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 399013,
       "name": "Cut Your Teeth - Kygo Remix",
       "url": "https://open.spotify.com/track/1y4Kln6VEjQMpmHW7j9GeY"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 394045,
       "name": "Dancer (Kygo Remix)",
       "url": "https://open.spotify.com/track/7ctdCk91bL7jjDx3hmbB5z"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 189266,
       "name": "Ghost - Lost Kings Remix",
       "url": "https://open.spotify.com/track/4ehErMHPM40f92dks3vb2p"
@@ -2028,6 +2028,28 @@
     },
     {
       "album": {
+        "name": "Land Down Under",
+        "url": "https://open.spotify.com/album/0XywQVB10g0VwSZi9FXLp9"
+      },
+      "artists": [
+        {
+          "name": "Chachi",
+          "url": "https://open.spotify.com/artist/0mpFXzm8CkqkhvN4PLCYkV"
+        },
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/30Pq3e28wKKtHVI28o2oY5"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213707,
+      "name": "Land Down Under",
+      "url": "https://open.spotify.com/track/5bAkVFcWMvxfgJ03rBn38s"
+    },
+    {
+      "album": {
         "name": "Leave The World Behind (feat. Kaleena Zanders)",
         "url": "https://open.spotify.com/album/3LbYJzbKz4UPZXdagFonuu"
       },
@@ -2087,7 +2109,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 217015,
       "name": "Losing U (feat. Daylight)",
       "url": "https://open.spotify.com/track/1rsn0LRt5IpGp9a2KC5bTW"
@@ -2491,7 +2513,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 212910,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
@@ -2963,7 +2985,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 203000,
       "name": "Ragga - Radio Edit",
       "url": "https://open.spotify.com/track/6JKSgnPypPIs08k1SGOhXD"
@@ -3003,7 +3025,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 186062,
       "name": "Recognise",
       "url": "https://open.spotify.com/track/3YwyAnL9NlqAK9V833qiGz"
@@ -3129,7 +3151,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 339310,
       "name": "Riptide - FlicFlac Remix",
       "url": "https://open.spotify.com/track/5K9AcgSi8DK4lZKM2LpFu8"
@@ -3291,7 +3313,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "Safe and Sound - Radio Edit",
       "url": "https://open.spotify.com/track/340sV0G2e1h5jWsMyDRmc9"
@@ -3821,7 +3843,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 199322,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/5jUgFofZJCuSQjcYao0VMv"

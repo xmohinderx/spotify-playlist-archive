@@ -1060,6 +1060,28 @@
     },
     {
       "album": {
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237480,
+      "name": "Nice (feat. Blxst)",
+      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
+    },
+    {
+      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/4Yhq0S6Z2smedvfFSK0aUB"
       },
@@ -1179,7 +1201,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 206942,
       "name": "Party",
       "url": "https://open.spotify.com/track/5jNnYkyRMfnc6n9IuCBn3M"
@@ -1427,7 +1449,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 189579,
       "name": "Scrrr Up Riddim",
       "url": "https://open.spotify.com/track/4TI3zvC6Yc8SU2jDa4PUaU"
@@ -1771,6 +1793,36 @@
       "duration_ms": 181550,
       "name": "System (feat. WizKid)",
       "url": "https://open.spotify.com/track/5laAdwuT8EEvkIXrmrhRSB"
+    },
+    {
+      "album": {
+        "name": "ALPHA (Deluxe)",
+        "url": "https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214015,
+      "name": "Take Care of You (feat. King Princess, Amaarae & Meshell Ndegeocello) - Remix",
+      "url": "https://open.spotify.com/track/4lQX77YOzLJKXJu0CNRz3T"
     },
     {
       "album": {

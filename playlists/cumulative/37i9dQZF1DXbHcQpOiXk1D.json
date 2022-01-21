@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 255239,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5rcGQIrv6eUIyCBfWga363"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 277125,
       "name": "Call It Rain",
       "url": "https://open.spotify.com/track/5o8LS7rhCBlSemwsveSbva"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 286209,
       "name": "Dat It",
       "url": "https://open.spotify.com/track/76qzY2EfLVngIMfdI7PYIf"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 325500,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/1RYvG5NlbR0tXBZvdLLDDS"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 242834,
       "name": "Early Hours",
       "url": "https://open.spotify.com/track/0t7NNWc2iaPJInAaKYCx4K"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 210439,
       "name": "Forget",
       "url": "https://open.spotify.com/track/4P02fYUDA6IzpVKElRnAcq"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 369160,
       "name": "If I Know",
       "url": "https://open.spotify.com/track/7EKgrGZqebKLFiNaLbvb7X"
@@ -1033,6 +1033,24 @@
       "duration_ms": 258863,
       "name": "India",
       "url": "https://open.spotify.com/track/3v9EdwOJoKeMQsqiQpb8pH"
+    },
+    {
+      "album": {
+        "name": "It Blooms / Then Nothing",
+        "url": "https://open.spotify.com/album/00pgxsTWMoNY5BLEfDcZUO"
+      },
+      "artists": [
+        {
+          "name": "Kinkajous",
+          "url": "https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310591,
+      "name": "It Blooms / Then Nothing",
+      "url": "https://open.spotify.com/track/3Xt8LOUh3TNmEas40OiDEI"
     },
     {
       "album": {
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 193357,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/210QQ9PIeYxjcHaMNNdzbJ"
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 351933,
       "name": "Montara",
       "url": "https://open.spotify.com/track/2Wj7zgUsolPMaSokDuZMFT"
@@ -1325,7 +1343,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 206250,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/1MoWsRjtJVoOHEVKRuyGHu"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 259247,
       "name": "Motherland Journey",
       "url": "https://open.spotify.com/track/5Rd4IgnXeREcqfv71DZ5tf"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 206095,
       "name": "Never Stopped for the Sun 'till Now",
       "url": "https://open.spotify.com/track/20afoEqLRHin6E8mm4o4Lq"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 217268,
       "name": "No Be Today - Yeye Be Dem Policy",
       "url": "https://open.spotify.com/track/1or6YdEd7OVm9bo72rYBOe"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 472733,
       "name": "Pace",
       "url": "https://open.spotify.com/track/6bfUKVbNibJV0sjzNNjgSM"
@@ -1751,7 +1769,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 291374,
       "name": "Pray - Edit",
       "url": "https://open.spotify.com/track/1BZqxYM0Q365Q62FlvigIq"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 427121,
       "name": "Safe, Pt. 1",
       "url": "https://open.spotify.com/track/0t1GpwQNOhyngRVjO4vbt1"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 299653,
       "name": "Speak No Evil (Night Dreamer)",
       "url": "https://open.spotify.com/track/4DTdxOytdNr6zQBBtfBWbg"
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 200200,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5hJexxZWaa2L7gqTha7nts"
@@ -2519,7 +2537,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 269573,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/7nlR2dYMSBaVNz259BQwFU"
@@ -2639,7 +2657,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 312333,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/1CdFAAgq4NisqVRDfyD8YV"
@@ -2661,7 +2679,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 176373,
       "name": "Undecided (with Marie Dahlstrom)",
       "url": "https://open.spotify.com/track/3iQFtE9AzKN95tOk58L3e7"
@@ -2709,7 +2727,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 496546,
       "name": "Warm Data",
       "url": "https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc"
@@ -2847,7 +2865,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 444573,
       "name": "Yum Yum",
       "url": "https://open.spotify.com/track/4BMRqrtLPZBxueZUVvAQZt"

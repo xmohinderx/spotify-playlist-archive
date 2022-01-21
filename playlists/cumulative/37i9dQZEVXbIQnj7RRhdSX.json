@@ -2735,7 +2735,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 159095,
       "name": "DOPE BOY",
       "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
@@ -5363,7 +5363,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 237613,
       "name": "LA CANZONE NOSTRA \u27c1 \ufe0e(con BLANCO & SALMO)",
       "url": "https://open.spotify.com/track/1uXJYnCsXy2v50y0fDEEiV"
@@ -9011,7 +9011,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 180342,
       "name": "Quanto ti vorrei",
       "url": "https://open.spotify.com/track/2KdcUxAJWAARnGTWmSWxwu"
@@ -9671,6 +9671,24 @@
       "duration_ms": 232106,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+    },
+    {
+      "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "album": {
@@ -11373,7 +11391,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 258665,
       "name": "VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)",
       "url": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6"
@@ -11443,7 +11461,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 150833,
       "name": "VIRUS",
       "url": "https://open.spotify.com/track/21PGTyPShWqLrBaTUd3k20"

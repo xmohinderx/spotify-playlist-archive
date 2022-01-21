@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Melissa Aldana
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,141 likes - 48 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,195 likes - 48 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 23 | [Blue For You](https://open.spotify.com/track/2NE3hVkSulF5bTKa1uhJjV) | [Charlie Peacock](https://open.spotify.com/artist/4Dld5cUTz6eVReIWx9Dtyl), [Eric Harland](https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Marcus Printup](https://open.spotify.com/artist/5q38comXVCcw1tvCuJOeWf) | [Blue For You](https://open.spotify.com/album/0ate7tfSz0ilY0OEq8vKu9) | 7:30 |
 | 24 | [Summer Love](https://open.spotify.com/track/39xDQVNRgPf4tiV87VfbM8) | [Claudio Chiara](https://open.spotify.com/artist/4iPKMm0rxAbqEUrbYgbVgw), [Luigi Tessarollo](https://open.spotify.com/artist/3rdD464m3HU0Fmp7ZbbEyT), [Alessandro Maiorino](https://open.spotify.com/artist/2xmzNSs1IcnKChKZpsgwG8) | [Summer Love \(feat\. Luigi Tessarollo, Alessandro Maiorino\)](https://open.spotify.com/album/50FD4AD8NHieD2InKbvuyh) | 4:22 |
 | 25 | [La Notte](https://open.spotify.com/track/438IPEVsTVc87O8xn1FnLC) | [Battista Lena](https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO), [Marco Fratini](https://open.spotify.com/artist/1eKijoAFquBuMfQ2uK5AgX), [Giovanni Paolo Liguori](https://open.spotify.com/artist/41C1QkN1baxWRNppaBt9CH) | [La Notte](https://open.spotify.com/album/24AzeBy7FDxjqoreEbJZSh) | 6:34 |
-| 26 | [Black Love](https://open.spotify.com/track/3DjBdnEfgcz1KXAbFKVIxZ) | [Al Strong](https://open.spotify.com/artist/0aQhDKlAjebXJgbtfRoDlC) | [Black Love](https://open.spotify.com/album/09zPnDA9eSyFqWxuNWErZA) | 5:46 |
+| 26 | [Black Love](https://open.spotify.com/track/3DjBdnEfgcz1KXAbFKVIxZ) | [Al Strong](https://open.spotify.com/artist/0aQhDKlAjebXJgbtfRoDlC), [Mark Whitfield](https://open.spotify.com/artist/3nB93s4nQKqqk8EWxOerDW) | [Black Love](https://open.spotify.com/album/09zPnDA9eSyFqWxuNWErZA) | 5:46 |
 | 27 | [Like 4 Likes](https://open.spotify.com/track/4iprwIo6rz2Cu80KktdfYy) | [Maximilian Hering](https://open.spotify.com/artist/3z5iCgV4SWmjpcsesBgO62), [Félix Rossy](https://open.spotify.com/artist/5dKDiVpXecRSo7EObbchsS), [Edu Cabello](https://open.spotify.com/artist/0THtNsDRswHw7gbFaPrVU9), [David Muñoz](https://open.spotify.com/artist/70z9AJ6GaQwhy4imKiDnBD) | [Nostalgia](https://open.spotify.com/album/0R3XQU2g1FpHNCrcEU7qnU) | 5:47 |
 | 28 | [Andrew](https://open.spotify.com/track/6bcW2UIWP67jOoXPD9zPHQ) | [Lara Rosseel](https://open.spotify.com/artist/42u3vSYiwwVQVuGf5dwZ8G) | [Andrew](https://open.spotify.com/album/71FGBP3IfFNdmoWJpELJYw) | 4:25 |
 | 29 | [As I Dream](https://open.spotify.com/track/4snmoaQI6wYbE01lDkdidW) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [Saxually Active, Vol\. 1](https://open.spotify.com/album/4rDWFDIgnoGNM8dtdaj911) | 3:28 |

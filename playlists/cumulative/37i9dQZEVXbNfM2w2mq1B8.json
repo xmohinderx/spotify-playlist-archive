@@ -2521,7 +2521,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
@@ -3745,7 +3745,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 214214,
       "name": "How Do I Make You Love Me?",
       "url": "https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ"
@@ -5971,7 +5971,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 255400,
       "name": "My Only Wish (This Year)",
       "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
@@ -8789,7 +8789,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 168020,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
@@ -10053,7 +10053,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 217333,
       "name": "\u0414\u0430 \u0441\u0438 \u0442\u0443\u043a",
       "url": "https://open.spotify.com/track/4a0oV0MjoURyHnW1gz8qcg"
@@ -10761,6 +10761,28 @@
       "duration_ms": 217411,
       "name": "\u0422\u0438 \u043d\u0435 \u0441\u0438 \u0437\u0430 \u043c\u0435\u043d",
       "url": "https://open.spotify.com/track/2gTyfm5jrmTx4IH9K0CJk3"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0438 \u0441\u0438 \u043c\u0438 \u0436\u0438\u0432\u043e\u0442\u0430",
+        "url": "https://open.spotify.com/album/0j41J0O0UXdk6eNsVCNi3Q"
+      },
+      "artists": [
+        {
+          "name": "Alisia",
+          "url": "https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6"
+        },
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/6m4gYsiRGzG3z1ae3VZg52"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237692,
+      "name": "\u0422\u0438 \u0441\u0438 \u043c\u0438 \u0436\u0438\u0432\u043e\u0442\u0430",
+      "url": "https://open.spotify.com/track/0LFA5mrgC8ni2CGoDr8WDm"
     },
     {
       "album": {

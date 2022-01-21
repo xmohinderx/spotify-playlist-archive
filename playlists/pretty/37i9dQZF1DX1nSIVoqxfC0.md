@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nSIVoqxfC0.md) - [plain]
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,509 likes - 192 songs - 13 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,672 likes - 192 songs - 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 |
-| 2 | [Oohla Oohla](https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Oohla Oohla](https://open.spotify.com/album/5Oibr2iQxlF15CXazabggs) | 2:23 |
-| 3 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
-| 4 | [Head & Heart \(feat\. MNEK\) \- Tiësto Remix](https://open.spotify.com/track/1ohLQfIwj9NUN7e5UKeDl9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Head & Heart \(feat\. MNEK\) \[Tiësto Remix\]](https://open.spotify.com/album/1UK3zb3VPzjcTT9MBN9mAa) | 2:04 |
+| 2 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 |
+| 3 | [Head & Heart \(feat\. MNEK\) \- Tiësto Remix](https://open.spotify.com/track/1ohLQfIwj9NUN7e5UKeDl9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Head & Heart \(feat\. MNEK\) \[Tiësto Remix\]](https://open.spotify.com/album/1UK3zb3VPzjcTT9MBN9mAa) | 2:04 |
+| 4 | [Oohla Oohla](https://open.spotify.com/track/3g36KmRGI8hmnCcTFak4Wn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Oohla Oohla](https://open.spotify.com/album/5Oibr2iQxlF15CXazabggs) | 2:23 |
 | 5 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 |
 | 6 | [Dancing In The Moonlight \(feat\. NEIMY\) \- Tiësto Remix](https://open.spotify.com/track/3dgVBgrgHLzbhAYepa1V1V) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Dancing In The Moonlight \(feat\. NEIMY\) \[Tiësto Remix\]](https://open.spotify.com/album/01V4ONsXyDVNeiCT2k0PIM) | 2:27 |
 | 7 | [WOW](https://open.spotify.com/track/4gxukDJiwApNEgVIh4pHgT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [WOW](https://open.spotify.com/album/4I2qcrUxk37AoJOMjiOCvu) | 2:28 |
@@ -201,4 +201,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nSIVoqxfC0.md) - [plain]
 | 191 | [Sky High \- Tiësto Edit](https://open.spotify.com/track/7aCurqZaPTpyfjZl4NcsrE) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 2:14 |
 | 192 | [The House Of Now \- Tiësto Edit](https://open.spotify.com/track/2wKEQFKicVzKc77wskAtkB) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 2:07 |
 
-Snapshot ID: `MTYzNTk1NTIwMCwwMDAwMDE5NjAwMDAwMTdjZTY4NzUwNzUwMDAwMDE3MGM0YmU0OTBk`
+Snapshot ID: `MTY0MjY4ODE2NywwMDAwMDE5ODAwMDAwMTdlNzdkODNmNTkwMDAwMDE3ZTc3ZDdiMjhm`

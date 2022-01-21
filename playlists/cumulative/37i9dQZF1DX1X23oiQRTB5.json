@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Ninho au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Vald au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "published_playlist_ids": [
     "4EHhRKwzSbzJAtj2VPo7Qd"
@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Anunnaki",
+        "url": "https://open.spotify.com/album/3sBYDqg8lIbOOC3WQTXk8d"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202746,
+      "name": "Anunnaki",
+      "url": "https://open.spotify.com/track/5dfgX2GxEMQsGycPvjxhdP"
+    },
+    {
+      "album": {
         "name": "Big Meech",
         "url": "https://open.spotify.com/album/04XeEmlFNHjXX2UU9s9RHz"
       },
@@ -103,6 +121,24 @@
       "duration_ms": 187560,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/57QiLC5coJ0WDt0oY7fXqz"
+    },
+    {
+      "album": {
+        "name": "ARR\u00caTEZ-LE ! (Vol.2)",
+        "url": "https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy"
+      },
+      "artists": [
+        {
+          "name": "1PLIK\u00c9140",
+          "url": "https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179386,
+      "name": "CANADA",
+      "url": "https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk"
     },
     {
       "album": {
@@ -205,7 +241,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 207120,
       "name": "Du mal \u00e0 te dire",
       "url": "https://open.spotify.com/track/6krr1QQpT7nN8fjLjdWXIC"
@@ -455,7 +491,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 171066,
       "name": "La 14",
       "url": "https://open.spotify.com/track/3wWrlpzyqUjE47DkR39O7l"
@@ -607,6 +643,24 @@
       "duration_ms": 240373,
       "name": "MAUVAIS 2X (feat. Ninho)",
       "url": "https://open.spotify.com/track/6UlSVbJrj3wsyxjGM4KPAv"
+    },
+    {
+      "album": {
+        "name": "MAUVAIS PAYEUR",
+        "url": "https://open.spotify.com/album/0fpEA74mmopuM5pJfnYBpT"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "MAUVAIS PAYEUR",
+      "url": "https://open.spotify.com/track/2IGabiC03QhYoz6lcAmxXk"
     },
     {
       "album": {
@@ -789,7 +843,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 188320,
       "name": "T\u00e9l\u00e9phone - Extrait de CRCLR MVT SAISON II",
       "url": "https://open.spotify.com/track/0FLegMOg3yN9e2zF5p9Vxb"

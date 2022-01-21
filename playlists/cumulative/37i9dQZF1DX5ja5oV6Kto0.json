@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 245131,
       "name": "Balance",
       "url": "https://open.spotify.com/track/3Kt5hNbXHXF4i9Uv2lE9t3"
@@ -1186,6 +1186,50 @@
     },
     {
       "album": {
+        "name": "Old School Love",
+        "url": "https://open.spotify.com/album/6f2DZKdpDMpENF1n0dFnIF"
+      },
+      "artists": [
+        {
+          "name": "DJ Boat",
+          "url": "https://open.spotify.com/artist/0Btky5ia7ihAQE8UEXPmbQ"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171070,
+      "name": "Old School Love",
+      "url": "https://open.spotify.com/track/3efQODwjIfMi9NAl3p7lTI"
+    },
+    {
+      "album": {
+        "name": "Party Rider",
+        "url": "https://open.spotify.com/album/7N2GQlAimFSXCuKq5lhCE6"
+      },
+      "artists": [
+        {
+          "name": "SuperSmashBroz",
+          "url": "https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Party Rider",
+      "url": "https://open.spotify.com/track/3IxdNMA8CAdhUqzsKLVa0c"
+    },
+    {
+      "album": {
         "name": "PEAKING",
         "url": "https://open.spotify.com/album/5MVJpvyBltzWLE7YY28N3u"
       },
@@ -1463,7 +1507,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 235950,
       "name": "SOHO",
       "url": "https://open.spotify.com/track/1zOmNW1oXzasCZSoaVDFiv"
@@ -1506,6 +1550,28 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/6Z7JQHZoly8IVJIIsHmu2M"
+      },
+      "artists": [
+        {
+          "name": "Qaido",
+          "url": "https://open.spotify.com/artist/2FGrbqxqWqP3NsWM7CwYrz"
+        },
+        {
+          "name": "Marince Omario",
+          "url": "https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151048,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/62G1Tpiz88Ucu3vz0PYDRt"
+    },
+    {
+      "album": {
         "name": "SUPERSOMA",
         "url": "https://open.spotify.com/album/1cPTRUcMrR1jAww0uW8D8Y"
       },
@@ -1543,7 +1609,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 239265,
       "name": "SuperSonic",
       "url": "https://open.spotify.com/track/0tLIjCdtDDyyUeDGZ8iuwM"

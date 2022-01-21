@@ -23,7 +23,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 289066,
       "name": "(I've Had) The Time of My Life - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 402173,
       "name": "Belfast Child - Remastered 2002",
       "url": "https://open.spotify.com/track/3fKDSSIgOngs8YYzFJO6eD"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 223733,
       "name": "Big Love - 2017 Remaster",
       "url": "https://open.spotify.com/track/0hOA8SoraNo2ZP1amtVYnY"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 304506,
       "name": "Easy Lover",
       "url": "https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 266960,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/0k9un4VZY52tvtxNhg6XLo"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 197400,
       "name": "First Time",
       "url": "https://open.spotify.com/track/1hC742BlJVdDwl31JUGAqW"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
@@ -650,6 +650,24 @@
     },
     {
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246933,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa"
+    },
+    {
+      "album": {
         "name": "Music Of The Year - 1986/Compilation",
         "url": "https://open.spotify.com/album/7pb6V5cRrsPzgeLQRaUA8U"
       },
@@ -661,7 +679,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 243920,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/4OZbWCJ3xPqWiIzxeNltq6"
@@ -799,7 +817,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 293466,
       "name": "I Saved the World Today",
       "url": "https://open.spotify.com/track/5B7LhS5QS3KvttcR165Dgv"
@@ -907,7 +925,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 232000,
       "name": "I've Never Been to Me - Rerecorded",
       "url": "https://open.spotify.com/track/313YEBGwW9UyaU8OGPiwD1"
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 270573,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/2Hw5F4S5TFmrpBoWXc2Awx"
@@ -1364,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/4vd8VmCWdEB7PCVeQ3iS8T"
+      },
+      "artists": [
+        {
+          "name": "Brenda Russell",
+          "url": "https://open.spotify.com/artist/2O8VlquQPITO4tT3SWs95W"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320466,
+      "name": "Piano In The Dark",
+      "url": "https://open.spotify.com/track/6AjZHVEYSc0pDQzwlnnjwI"
+    },
+    {
+      "album": {
         "name": "Around the World in a Day",
         "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
       },
@@ -1411,7 +1447,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 305760,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0yhDca7Z4TOiEejtAx6R3g"
@@ -1451,7 +1487,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 276533,
       "name": "Sign Your Name",
       "url": "https://open.spotify.com/track/3lIpkjFnRxJ6Uvm8DgtgfV"
@@ -1819,7 +1855,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 329146,
       "name": "True - Single Edit",
       "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
@@ -1895,7 +1931,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 296013,
       "name": "Victims - 2002 Mix",
       "url": "https://open.spotify.com/track/7Fvd99niN50w4auw0MOTqK"
@@ -2025,7 +2061,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 393000,
       "name": "Woman In Chains",
       "url": "https://open.spotify.com/track/5N4eBWsckD3AgTQFGLQEeU"

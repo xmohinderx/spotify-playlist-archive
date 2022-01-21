@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Don Omar
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,619 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,738 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 6 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 |
 | 7 | [Party, Humo y Alcohol](https://open.spotify.com/track/4PsWkgvetxEeApf3RBHDbV) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Party, Humo y Alcohol](https://open.spotify.com/album/21rWMBXCHKtTwBKG8NlTzc) | 3:36 |
 | 8 | [Perdón Que Llamé \(3am\) \(Feat\. RVFV, Hozwal\)](https://open.spotify.com/track/11snCOklYrBkHyzl4a75Z9) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [Perdón Que Llamé \(3am\) \(Feat\. RVFV, Hozwal\)](https://open.spotify.com/album/0oqDmO81XkcW374IdhB52R) | 3:31 |
-| 9 | [Te Voy A Conquistar](https://open.spotify.com/track/6OyXy9MzQmHelQ06faSjMU) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [NZO](https://open.spotify.com/artist/5MtkaSTt4quiREe3IL69q7) | [Te Voy A Conquistar](https://open.spotify.com/album/1sDXcM414HAxpoB36OLB1I) | 3:46 |
+| 9 | [Te Voy A Conquistar](https://open.spotify.com/track/6OyXy9MzQmHelQ06faSjMU) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [NZO](https://open.spotify.com/artist/6SWdWsEfebEsNwD1dYKj2d) | [Te Voy A Conquistar](https://open.spotify.com/album/1sDXcM414HAxpoB36OLB1I) | 3:46 |
 | 10 | [Castillos de arena](https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Castillos de arena](https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq) | 4:12 |
 | 11 | [Sicaria](https://open.spotify.com/track/54LJrBDBnR0ey6ggMFQycr) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Sicaria](https://open.spotify.com/album/4n0UgGMEt3tP7YsiQ9y6t4) | 4:19 |
 | 12 | [Toco, Toco](https://open.spotify.com/track/33Qqt2fM7kMbcwEssRDCEl) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Toco, Toco](https://open.spotify.com/album/1FSSJjPeXidlnsOJl9rKOd) | 3:06 |

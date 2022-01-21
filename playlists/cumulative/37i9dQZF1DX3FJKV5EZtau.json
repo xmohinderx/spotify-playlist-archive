@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 172631,
       "name": "A Cyber's World",
       "url": "https://open.spotify.com/track/2p2E7hPrV1k3pGESHHP75E"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 195200,
       "name": "Airway",
       "url": "https://open.spotify.com/track/7H0Fn4Rf76dMg6hNzyOlef"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 161800,
       "name": "Away With Me",
       "url": "https://open.spotify.com/track/5N0KyNZkYbA3wCgs09cVMm"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 233566,
       "name": "Charisma",
       "url": "https://open.spotify.com/track/1pAbqGUiV6lQwofu1m31b3"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 164571,
       "name": "Chocolate Parfait",
       "url": "https://open.spotify.com/track/5p5pPuUueY58wD20cMxGge"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 185600,
       "name": "Disclosure",
       "url": "https://open.spotify.com/track/2vcJAITdwdlaZzOfOQeBYN"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 214930,
       "name": "do-re-mi-fa-so-la-ti-do",
       "url": "https://open.spotify.com/track/6MDBkIEBEodrBPG5CPb8IG"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 259049,
       "name": "Dracodraco",
       "url": "https://open.spotify.com/track/1989YquYFYsPa4PutqJunf"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 205935,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/3Tz5z68t6Ii4rf6bTMJHyo"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 205500,
       "name": "E\u0301toiles (feat. Metaroom)",
       "url": "https://open.spotify.com/track/6qXTdes7Qnh62CsxVCZNIV"
@@ -870,6 +870,24 @@
     },
     {
       "album": {
+        "name": "Forever Till The End Of Time",
+        "url": "https://open.spotify.com/album/3Q5dfZXifl3WoG4irg5wqj"
+      },
+      "artists": [
+        {
+          "name": "Bby Eco",
+          "url": "https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154758,
+      "name": "Forever Till The End Of Time",
+      "url": "https://open.spotify.com/track/4ZzKw1gXBYEhG65jKayPbC"
+    },
+    {
+      "album": {
         "name": "Fork in the Road (unlucksi Remix)",
         "url": "https://open.spotify.com/album/2Svnqp18pkhUPwIEHxb3nc"
       },
@@ -925,7 +943,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 217600,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/74wHiizV0lG0YBHq2Cxn0j"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 259764,
       "name": "High Radiance",
       "url": "https://open.spotify.com/track/68nWPqrEiU7OhmGpyGzh8Q"
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 220800,
       "name": "I have something to tell you",
       "url": "https://open.spotify.com/track/3w0Hy2IxxClVnhcmAwX7Ej"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 237600,
       "name": "Killer Robots",
       "url": "https://open.spotify.com/track/2pzujCwroe8FXGywwzDcjg"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 229600,
       "name": "Miss Ya",
       "url": "https://open.spotify.com/track/625S4t7RE31ZlTkY7AzMsD"
@@ -1717,7 +1735,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 187428,
       "name": "Never Give Up (Arknights Soundtrack)",
       "url": "https://open.spotify.com/track/2K93b71bQC0y8wTkR7Dz9w"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 142451,
       "name": "New Game",
       "url": "https://open.spotify.com/track/6OgI1DGU5UW5e1C1yIA7a4"
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 264285,
       "name": "No Regrets - Myon Return to 85 Mix",
       "url": "https://open.spotify.com/track/6Yeu8MPFcEA2DdyrQ7v9m5"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 268000,
       "name": "Overthinker",
       "url": "https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg"
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3cjkMygwyaBdZgNlddgY4B"
@@ -1961,7 +1979,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 202403,
       "name": "Parallel Heartbreak",
       "url": "https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx"
@@ -2075,7 +2093,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/0XkXMAna7lk1tTJmIMxT6O"
@@ -2177,7 +2195,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 235862,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/6KGdBk6B5wqMdzjBsxsk33"
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 234857,
       "name": "Ryu's Theme - The Moe\u2019s Pizzeria Steve Aoki Remix",
       "url": "https://open.spotify.com/track/0IT73kNAnWd3UUsVToD79B"
@@ -2479,7 +2497,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 246177,
       "name": "Someone Else\u2019s Dream (CASTLE. Edit)",
       "url": "https://open.spotify.com/track/56oC5buLanioZDYpK2q94t"
@@ -2519,7 +2537,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 185605,
       "name": "Stardust Adventure",
       "url": "https://open.spotify.com/track/7mvEJwPYeTKTNGjAa3z1wp"
@@ -2595,7 +2613,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 182322,
       "name": "Sugar Trip",
       "url": "https://open.spotify.com/track/7p6PJdqPyJLc9NeG5RcDk9"
@@ -2689,7 +2707,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 185066,
       "name": "Take My Heart Away",
       "url": "https://open.spotify.com/track/0McxF8eId0vNfcOig2RoZ6"
@@ -2809,7 +2827,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 181714,
       "name": "Traffic - Pocket Remix",
       "url": "https://open.spotify.com/track/7flM0HXN6R0L2W4iQGeIxF"
@@ -2996,6 +3014,28 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/6y9gaB61IDgZYbfGtt6U0B"
+      },
+      "artists": [
+        {
+          "name": "Zack Martino",
+          "url": "https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu"
+        },
+        {
+          "name": "Luma",
+          "url": "https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140967,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/2hGRadiwY5G6HhI25AzZrq"
+    },
+    {
+      "album": {
         "name": "COLOR BLIND",
         "url": "https://open.spotify.com/album/6eNQ3KPfctSXB2jO0pfmKi"
       },
@@ -3015,6 +3055,32 @@
       "duration_ms": 190400,
       "name": "where u been",
       "url": "https://open.spotify.com/track/3rnIWluqxgrUezYZ0I7SGu"
+    },
+    {
+      "album": {
+        "name": "Whirlwind (Woebn edit)",
+        "url": "https://open.spotify.com/album/7FXi7a8FRMD9SjC8xUACIl"
+      },
+      "artists": [
+        {
+          "name": "Woebn",
+          "url": "https://open.spotify.com/artist/3yfMqqxSYQjufPDxqyLiNX"
+        },
+        {
+          "name": "S3RL",
+          "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
+        },
+        {
+          "name": "Krystal",
+          "url": "https://open.spotify.com/artist/0y6I0Y8NUO3qUe2NRqT5rH"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184138,
+      "name": "Whirlwind - Woebn edit",
+      "url": "https://open.spotify.com/track/09DsSWNAzsSDwfYVT9im2u"
     },
     {
       "album": {

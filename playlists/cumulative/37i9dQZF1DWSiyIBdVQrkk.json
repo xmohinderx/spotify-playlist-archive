@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 183409,
       "name": "Allow Me to Live",
       "url": "https://open.spotify.com/track/2ocgbHELlfQPXMFwQhIblw"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 233216,
       "name": "Bit Too Shy",
       "url": "https://open.spotify.com/track/74Yf1fyltgX7ahvxMx0ElN"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 237133,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 236712,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/3qiAxasIFurgBRkOfaALAU"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 303882,
       "name": "Energia",
       "url": "https://open.spotify.com/track/0BJrflKy7GZcpFSjhEABzW"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 253866,
       "name": "Firehouse Rock",
       "url": "https://open.spotify.com/track/2aEo5sPcclxVbA2vXFBi9M"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 321373,
       "name": "Handsworth Revolution",
       "url": "https://open.spotify.com/track/3VA9Eb9i8fAQAWhgtxIo4J"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 220426,
       "name": "Heaven (Ready Fi Di Feeling)",
       "url": "https://open.spotify.com/track/6Rrr4Rpc4VTp7DclxeqjOf"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 203400,
       "name": "Ice Cream Love",
       "url": "https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/1N33JzVusZ8awiZo6kcldO"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 258841,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/1TtUMxanwZwX0Z3pIZ3Ei6"
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 221077,
       "name": "La famille",
       "url": "https://open.spotify.com/track/7x5vP5y7h9Rwzcm5s6ZcZ5"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 288561,
       "name": "Lions in the Jungle",
       "url": "https://open.spotify.com/track/6pZIvGYmPmC17jNDlUQv0e"
@@ -1452,6 +1452,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Ziggy Marley & The Melody Makers",
+        "url": "https://open.spotify.com/album/5qPo9GTYNkMFfe40oUL7VZ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley & The Melody Makers",
+          "url": "https://open.spotify.com/artist/3Z2jmNAP2UaGa8lPpi54wD"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298266,
+      "name": "Look Who's Dancing",
+      "url": "https://open.spotify.com/track/01qt1C3CQlfjCgGPMWmPfW"
+    },
+    {
+      "album": {
         "name": "Reggae Gold 2007",
         "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
       },
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 212961,
       "name": "Ma'at (Each Man)",
       "url": "https://open.spotify.com/track/1QqhHG1fdZUG5slcMT4CNm"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 276439,
       "name": "Mama Lives",
       "url": "https://open.spotify.com/track/27TAB4E9Rdzyjht5TLh5h6"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 191322,
       "name": "Morning Is Coming (with Shaggy)",
       "url": "https://open.spotify.com/track/1vUBGvWcEiEFGeg94zl1Co"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 208146,
       "name": "Mr. Global (with Kabaka Pyramid)",
       "url": "https://open.spotify.com/track/45wzZ9CfGX8dDw1qbJTvEp"
@@ -1697,7 +1715,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 254965,
       "name": "My Kinda Girl",
       "url": "https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG"
@@ -1937,7 +1955,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 244412,
       "name": "Note To Self (Okay) [feat. Chronixx]",
       "url": "https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA"
@@ -1995,7 +2013,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 265626,
       "name": "One Draw",
       "url": "https://open.spotify.com/track/5X13b4CYce5Y6NYPfmYsXr"
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 231773,
       "name": "One Drop",
       "url": "https://open.spotify.com/track/0lzOFW7ELjXom0Jua03stq"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 231773,
       "name": "One Drop",
       "url": "https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 207341,
       "name": "One Love (in support of UNICEF)",
       "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 212304,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3b2IVvQUr7cIBGReeV9MYW"
@@ -2417,7 +2435,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 340972,
       "name": "Ready To Play (feat. Tarrus Riley)",
       "url": "https://open.spotify.com/track/3FFmkoRR4SEn8XrqmtjL0q"
@@ -2599,7 +2617,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 338379,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/7Gx5mMJZR7r5GqmR1XbqHz"
@@ -2639,7 +2657,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 219533,
       "name": "Shark Attack (feat. Alborosie)",
       "url": "https://open.spotify.com/track/4N3EyZKvB1xJ8xMIlM7CS3"
@@ -2657,7 +2675,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 251026,
       "name": "She's Royal",
       "url": "https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY"
@@ -2693,7 +2711,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 181394,
       "name": "Sky Larking",
       "url": "https://open.spotify.com/track/5xMGVCPC8fptCrhBGqeFxa"
@@ -2711,7 +2729,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 173266,
       "name": "Slave Driver - Jamaican Version",
       "url": "https://open.spotify.com/track/3f6Rdsc0t4mufxpACj4Gzi"
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 222068,
       "name": "Slow Down (Remix) [feat. H.E.R. & Wale]",
       "url": "https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo"
@@ -2853,7 +2871,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 266453,
       "name": "Solid As A Rock",
       "url": "https://open.spotify.com/track/0QXWfOuW9Nlk1DHuriQ47d"
@@ -3053,7 +3071,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 279382,
       "name": "Tell Me What a Gwan",
       "url": "https://open.spotify.com/track/5l7O8Wh0hHlX6QxgJWJGiX"
@@ -3089,7 +3107,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 246453,
       "name": "That Day Will Come",
       "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
@@ -3151,7 +3169,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 200960,
       "name": "The International Herb",
       "url": "https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te"
@@ -3225,7 +3243,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 246363,
       "name": "The Voices Of Sweet Jamaica - All Star Remix",
       "url": "https://open.spotify.com/track/6ueDnmAamC2RcxY9izQQia"
@@ -3435,7 +3453,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 192295,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4sCpwo7HL96gN54haNWGvv"

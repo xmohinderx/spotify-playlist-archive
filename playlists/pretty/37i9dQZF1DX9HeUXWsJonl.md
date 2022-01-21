@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > The sweet sounds of Tunisia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,733 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,765 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chkoun F'eddar](https://open.spotify.com/track/5koKnPTZc5Cb2mKckBV9nF) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Chkoun F'eddar](https://open.spotify.com/album/0OKERQHLeD3og47pdZrcWi) | 3:22 |
-| 2 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 |
-| 3 | [Je m'endors mal luné](https://open.spotify.com/track/51ZzvOw40MCYh6DnvL57mL) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:21 |
-| 4 | [Echkek](https://open.spotify.com/track/3diqgJlL2lIJyopupiWSy8) | [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [Echkek](https://open.spotify.com/album/6LmpxuN1ZqwGvoWrhNuaTd) | 2:53 |
-| 5 | [Ma Nabni](https://open.spotify.com/track/09L0R9oOyNyC6X8c2aKLtW) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Ma Nabni](https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO) | 3:35 |
+| 1 | [Ena](https://open.spotify.com/track/2EgLc1ac8D2PRIoOc0MWhA) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ena](https://open.spotify.com/album/6ikbd0GPRfPckuN7rLDSit) | 5:12 |
+| 2 | [Je m'endors mal luné](https://open.spotify.com/track/51ZzvOw40MCYh6DnvL57mL) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 2:21 |
+| 3 | [Ma Nabni](https://open.spotify.com/track/09L0R9oOyNyC6X8c2aKLtW) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Ma Nabni](https://open.spotify.com/album/0TlqqkCP5JzdgFHCJzuXwO) | 3:35 |
+| 4 | [Ghareeb Alay](https://open.spotify.com/track/7gJqw9Ogef35nMOzHY8E3v) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ghareeb Alay](https://open.spotify.com/album/5c7qiyYcpJO6niBfAyjZYl) | 2:55 |
+| 5 | [Chkoun F'eddar](https://open.spotify.com/track/5koKnPTZc5Cb2mKckBV9nF) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Chkoun F'eddar](https://open.spotify.com/album/0OKERQHLeD3og47pdZrcWi) | 3:22 |
 | 6 | [Wakti Yejri](https://open.spotify.com/track/2rdBSVBD6xMJOmCNrGniSr) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wakti Yejri](https://open.spotify.com/album/7smElBnJjgj4vptmJx5OXo) | 3:08 |
 | 7 | [Rabi M3ak](https://open.spotify.com/track/1uxdCqmbqzC2SdjxElnx4A) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Rabi M3ak](https://open.spotify.com/album/34gcB07Z9ydYO7bfVMKKsN) | 3:36 |
 | 8 | [Cheda W Tzoul](https://open.spotify.com/track/0gSIsNOlouCajRSw0yK6Kj) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Cheda W Tzoul](https://open.spotify.com/album/125HbmJXycVBvnQdxCUNEr) | 3:26 |
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 12 | [Ech Mazel \- Khrafa](https://open.spotify.com/track/1XiL9Lp1p9WfIAzuNR1uWD) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Ech Mazel \(Khrafa\)](https://open.spotify.com/album/33phU9MxhOINJYSGYHyEpK) | 4:41 |
 | 13 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 |
 | 14 | [Beli Wassit](https://open.spotify.com/track/0KwaYXajEWxN9KLVqpwAyK) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Beli Wassit](https://open.spotify.com/album/4oOglonQ8avYy0LeJDKcUi) | 4:05 |
-| 15 | [Ma Nebrach](https://open.spotify.com/track/5KjZ8cJusT3Y1NKbT0QtMA) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia), [G.G.A.](https://open.spotify.com/artist/7pvvxlzqdqSuBFOq5urhx5) | [Ma Nebrach](https://open.spotify.com/album/5PPzwGXpRP7UPCRLRW7Mb3) | 3:28 |
-| 16 | [Netfakarna Sghar \- From Grow Up Album](https://open.spotify.com/track/70TSRrLk6BQmII9Er1EFTB) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Netfakarna Sghar](https://open.spotify.com/album/0Ts679QMb1TVqilC2gMmAl) | 4:00 |
+| 15 | [Netfakarna Sghar \- From Grow Up Album](https://open.spotify.com/track/70TSRrLk6BQmII9Er1EFTB) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Netfakarna Sghar](https://open.spotify.com/album/0Ts679QMb1TVqilC2gMmAl) | 4:00 |
+| 16 | [Echkek](https://open.spotify.com/track/3diqgJlL2lIJyopupiWSy8) | [Kemo](https://open.spotify.com/artist/2xfujkJKqTg2T4b1vbLKdY), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox) | [Echkek](https://open.spotify.com/album/6LmpxuN1ZqwGvoWrhNuaTd) | 2:53 |
 | 17 | [Ahla Snin \- أحلى سنين](https://open.spotify.com/track/5ir8hEkSEKRDSjkCqxus04) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Jimmy H.](https://open.spotify.com/artist/6MHcMsdioNgN4XXoXk9J4e) | [Ahla Snin \(أحلى سنين\)](https://open.spotify.com/album/7eWYBxxxai1vRBcY5qW8ne) | 3:50 |
 | 18 | [يامالي عليا](https://open.spotify.com/track/7DP29ns5AsjtWC12ld2IiC) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [يامالي عليا](https://open.spotify.com/album/4K6RK8yyrTiwFglvCHFt1p) | 3:44 |
 | 19 | [Mani Wlidek](https://open.spotify.com/track/3sWOuPS3srcCShuoYjd6hG) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Mani Wlidek](https://open.spotify.com/album/7cRWMRusoJ6juDguMnq7pI) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Wliya](https://open.spotify.com/track/6sdYbJwPST9x0XZwQo76VU) | [Maya](https://open.spotify.com/artist/6O72cUuzCnRB78cBCAHmBa) | [Wliya](https://open.spotify.com/album/5d67N7Fi1C0G4SrsZBY8P8) | 3:20 |
 | 50 | [Sabeba](https://open.spotify.com/track/6RTBd80nLFY1Nft7mJpFKx) | [Cheb Bachir](https://open.spotify.com/artist/52tue7QYDGQeyJM4e5U6KZ) | [Sabeba](https://open.spotify.com/album/4EiDJaH5SidMjAfhnErZse) | 3:14 |
 
-Snapshot ID: `MTY0MjE2NjY3OCwwMDAwMDA5NTAwMDAwMTdlNThjMmYyOGQwMDAwMDE3MGFmNGIyOWM4`
+Snapshot ID: `MTY0MjcyMDA0MywwMDAwMDA5NzAwMDAwMTdlNzliZWEwZWQwMDAwMDE3MGFmNGIyOWM4`

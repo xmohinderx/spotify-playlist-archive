@@ -832,6 +832,24 @@
     },
     {
       "album": {
+        "name": "Real Work",
+        "url": "https://open.spotify.com/album/2DcLeZKJ7cgsIVrGFT5tJi"
+      },
+      "artists": [
+        {
+          "name": "Payroll Giovanni",
+          "url": "https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167079,
+      "name": "Real Work",
+      "url": "https://open.spotify.com/track/07faiDjhqfzZPI9PXqvjEm"
+    },
+    {
+      "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },

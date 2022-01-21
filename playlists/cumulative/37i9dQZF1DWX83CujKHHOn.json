@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 261213,
       "name": "arms",
       "url": "https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 196280,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 203289,
       "name": "Burning",
       "url": "https://open.spotify.com/track/2mb6YdoavL6db22p7XKJQZ"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 239453,
       "name": "Keep Holding On",
       "url": "https://open.spotify.com/track/58Mmq9tDlN7jiUqmvugggD"
@@ -1633,7 +1633,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 198048,
       "name": "Misunderstood",
       "url": "https://open.spotify.com/track/1wiw9ZdiSm3PZfdZqCzb0A"
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 189230,
       "name": "No Matter",
       "url": "https://open.spotify.com/track/5Q1m46EdcNAkg0Ht0f3YgC"
@@ -1835,7 +1835,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 211006,
       "name": "OK",
       "url": "https://open.spotify.com/track/07W2d2U9GilTDQIkp73MIm"
@@ -2333,7 +2333,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 199647,
       "name": "Someone to Break Your Heart",
       "url": "https://open.spotify.com/track/1j1eVY0fZLQH5W0UMNz5hd"
@@ -2377,6 +2377,24 @@
       "duration_ms": 162272,
       "name": "Someone You Loved - Acoustic",
       "url": "https://open.spotify.com/track/7iSool3PmS50F5St2bhmTU"
+    },
+    {
+      "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/1SxSO9LF7WTqaXYOyw12mC"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255205,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6MXJdqTuSDXkG21JHWiGko"
     },
     {
       "album": {
@@ -2597,7 +2615,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 242990,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/0hjANar01OL1RWox3nYT7k"
@@ -2669,7 +2687,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 309600,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
@@ -3059,7 +3077,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 196036,
       "name": "You Don't Get To - Stripped",
       "url": "https://open.spotify.com/track/6FtOjCh88PmVmDynhicvkc"

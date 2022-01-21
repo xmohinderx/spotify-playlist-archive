@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Owlle",
+  "description": "The best French indie tracks right now. Cover: Melody's Echo Chamber",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -23,6 +23,24 @@
       "duration_ms": 185720,
       "name": "Allo r\u00e9seau - Edit",
       "url": "https://open.spotify.com/track/4lU7TGb5BTgUFe3xGBN9ej"
+    },
+    {
+      "album": {
+        "name": "Arrivera",
+        "url": "https://open.spotify.com/album/2mJxHIrImmrJOi9tYvTuku"
+      },
+      "artists": [
+        {
+          "name": "Jacques",
+          "url": "https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "Arrivera",
+      "url": "https://open.spotify.com/track/29htxu76IzvAi8n4HY0fMG"
     },
     {
       "album": {
@@ -254,6 +272,24 @@
     },
     {
       "album": {
+        "name": "Flashdance",
+        "url": "https://open.spotify.com/album/2EVsAOPUeB6o1SNJVH3bQg"
+      },
+      "artists": [
+        {
+          "name": "Antonin Appaix",
+          "url": "https://open.spotify.com/artist/2Pcy7ggRL3s3gI8YBiMNPj"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186893,
+      "name": "Flashdance",
+      "url": "https://open.spotify.com/track/1TOpTNqzED5PB8rTKufluy"
+    },
+    {
+      "album": {
         "name": "Get to Me",
         "url": "https://open.spotify.com/album/2RHAob0QwrdOaEw0ZVGHdp"
       },
@@ -269,10 +305,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 188635,
       "name": "Get to Me",
       "url": "https://open.spotify.com/track/7GsKP7AgvqfNNJw74MhSLF"
+    },
+    {
+      "album": {
+        "name": "Hell of a Woman",
+        "url": "https://open.spotify.com/album/0UxnbJFl2xtXdItxKUNcCL"
+      },
+      "artists": [
+        {
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216413,
+      "name": "Hell of a Woman",
+      "url": "https://open.spotify.com/track/3eLWqBJTgxWCmxrtxZdTzf"
     },
     {
       "album": {
@@ -305,7 +359,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 247120,
       "name": "Honey",
       "url": "https://open.spotify.com/track/1BOv46ISdg4Xuv5Ou7M1cG"
@@ -359,7 +413,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 213706,
       "name": "It Might Be Something",
       "url": "https://open.spotify.com/track/3MkCJcOcLK0PaYy4QgKpWk"
@@ -500,6 +554,42 @@
     },
     {
       "album": {
+        "name": "Le coeur en panne",
+        "url": "https://open.spotify.com/album/5e5eWVnGzi798swulTYPd2"
+      },
+      "artists": [
+        {
+          "name": "Toboggan",
+          "url": "https://open.spotify.com/artist/2OSWGDW8nA4BvPZSw9K7tG"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204328,
+      "name": "Le coeur en panne",
+      "url": "https://open.spotify.com/track/2dEd1mQEtgmzQRLM982Obg"
+    },
+    {
+      "album": {
+        "name": "le moment pr\u00e9sent",
+        "url": "https://open.spotify.com/album/5sjPwPZ68bK6CBrh1hIWT4"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lodie Lauret",
+          "url": "https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169226,
+      "name": "le moment pr\u00e9sent",
+      "url": "https://open.spotify.com/track/6kxkOZuhy1MhEG6OA0cwvR"
+    },
+    {
+      "album": {
         "name": "Les bonnes mani\u00e8res",
         "url": "https://open.spotify.com/album/3x9CnMbpz96ggiCQATfLQ4"
       },
@@ -536,6 +626,24 @@
     },
     {
       "album": {
+        "name": "Looking Backward",
+        "url": "https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201720,
+      "name": "Looking Backward",
+      "url": "https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr"
+    },
+    {
+      "album": {
         "name": "Masque d'or",
         "url": "https://open.spotify.com/album/0sVy9SnT2H5X73D3MwvTvt"
       },
@@ -565,7 +673,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 223026,
       "name": "Mauvaise Id\u00e9e",
       "url": "https://open.spotify.com/track/1yYLMVMSM2u7t1yfzAivy1"
@@ -695,7 +803,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 221000,
       "name": "None of This Matters Now",
       "url": "https://open.spotify.com/track/5thKTyn54nRudRpBsZBa4t"
@@ -983,7 +1091,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 228440,
       "name": "United",
       "url": "https://open.spotify.com/track/7mYRC0kv4oI7ipqoPT8aXM"

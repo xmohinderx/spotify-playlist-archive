@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring " Satinder Sartaaj".
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,347 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,371 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 18 | [Management Wali](https://open.spotify.com/track/4NzKxq8OSVhCKvLNG16ebb) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Hakeem](https://open.spotify.com/artist/5DEHzdtoptgfgV6iri6zgl) | [Management Wali](https://open.spotify.com/album/201sb40iZpGDvRQtOq8NGi) | 3:36 |
 | 19 | [Gaani](https://open.spotify.com/track/4q1ESZkZKH3D4K89G6Kjfm) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Gaani](https://open.spotify.com/album/772wLGKJbEF0WeClAQ4g40) | 1:00 |
 | 20 | [Your Smile](https://open.spotify.com/track/7oFAuczMTH37F3mYTEXcOh) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Your Smile](https://open.spotify.com/album/1H86338CdPmXfkWtXieGMY) | 3:16 |
-| 21 | [Moon](https://open.spotify.com/track/2DeCzK7tEThBtTSzoCtzkm) | [Mauji](https://open.spotify.com/artist/2HdSfvPp2Q6XCpK5AWEcV5), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Moon](https://open.spotify.com/album/5z9iVEDVimEJ3zheVJjQyS) | 3:35 |
+| 21 | [Moon](https://open.spotify.com/track/2DeCzK7tEThBtTSzoCtzkm) | [Mauji](https://open.spotify.com/artist/2HdSfvPp2Q6XCpK5AWEcV5), [Devilo](https://open.spotify.com/artist/7r3uOUXVYbcSb85Ijr7CKf) | [Moon](https://open.spotify.com/album/5z9iVEDVimEJ3zheVJjQyS) | 3:35 |
 | 22 | [Ik Kahani](https://open.spotify.com/track/5QJnZIV6OuW6vgIQXgpOX9) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Ik Kahani \- Kaka](https://open.spotify.com/album/0UauqdFbTkrPPZZZvzDSbe) | 2:50 |
 | 23 | [Kill Kure](https://open.spotify.com/track/5Y6pohDxlWqRH69bDv5er4) | [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [Kill Kure](https://open.spotify.com/album/0PHp8FjClTq3VQNPbUpAXo) | 4:34 |
 | 24 | [Jhalleya Dila](https://open.spotify.com/track/1hLZbQnKl3ElI3hS3gW21X) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Jhalleya Dila](https://open.spotify.com/album/2xn8lvOvu7wUIYqp1OIiQa) | 3:21 |

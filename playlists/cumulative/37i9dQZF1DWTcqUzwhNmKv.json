@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Korn on top of the biggest Metal playlist!",
+  "description": "Ghost on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 195000,
       "name": "ARTIFICIAL SUICIDE",
       "url": "https://open.spotify.com/track/65pi8lRBcEEyFCEa74rLug"
@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Call Me Little Sunshine",
+        "url": "https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284266,
+      "name": "Call Me Little Sunshine",
+      "url": "https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl"
+    },
+    {
+      "album": {
         "name": "Calling You",
         "url": "https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz"
       },
@@ -171,6 +189,24 @@
       "duration_ms": 227026,
       "name": "Changes",
       "url": "https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT"
+    },
+    {
+      "album": {
+        "name": "Church Burns",
+        "url": "https://open.spotify.com/album/6Ox5BbUgNycErk1kekWaMB"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183773,
+      "name": "Church Burns",
+      "url": "https://open.spotify.com/track/5a6VEGwYR8xM6daWuhml9j"
     },
     {
       "album": {
@@ -363,6 +399,24 @@
       "duration_ms": 266338,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg"
+    },
+    {
+      "album": {
+        "name": "Feel What I Believe",
+        "url": "https://open.spotify.com/album/5iEKR8ZWRqcVXlQ5qgLWHr"
+      },
+      "artists": [
+        {
+          "name": "The Halo Effect",
+          "url": "https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240591,
+      "name": "Feel What I Believe",
+      "url": "https://open.spotify.com/track/1a1c2RbKhs6ozVLdrlWXJQ"
     },
     {
       "album": {
@@ -687,7 +741,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 299676,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/4tKL65lg6TSVBoMCRePoC6"
@@ -709,6 +763,42 @@
       "duration_ms": 185772,
       "name": "Left For Dead",
       "url": "https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx"
+    },
+    {
+      "album": {
+        "name": "Lights & Fire",
+        "url": "https://open.spotify.com/album/2M1MruXHvS7YndZJ2jgDUD"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210525,
+      "name": "Lights & Fire",
+      "url": "https://open.spotify.com/track/1SlOs4l9WvJ4bITuyZXHqc"
+    },
+    {
+      "album": {
+        "name": "Like A Villain",
+        "url": "https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210685,
+      "name": "Like A Villain",
+      "url": "https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq"
     },
     {
       "album": {
@@ -741,7 +831,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 265297,
       "name": "Lowborn",
       "url": "https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr"
@@ -763,6 +853,46 @@
       "duration_ms": 175533,
       "name": "Monster Truck",
       "url": "https://open.spotify.com/track/5FH2JoAe00DL628PTwKPH9"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Learn EP",
+        "url": "https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214724,
+      "name": "New Devil (feat. Maria Brink of In This Moment)",
+      "url": "https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP"
+    },
+    {
+      "album": {
+        "name": "Nigh to Silence",
+        "url": "https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304750,
+      "name": "Nigh to Silence",
+      "url": "https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi"
     },
     {
       "album": {
@@ -813,7 +943,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 280701,
       "name": "Orphan",
       "url": "https://open.spotify.com/track/0P9Qos8So9CvtFPjgQq3Ns"
@@ -921,7 +1051,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 233297,
       "name": "Shadowminds",
       "url": "https://open.spotify.com/track/47qV9FAvLMUi5Ui6aTtyNT"
@@ -939,7 +1069,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 377695,
       "name": "Sickle and Peace",
       "url": "https://open.spotify.com/track/05eJpA9YX6C25tnJEOgEpH"
@@ -1011,7 +1141,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 208053,
       "name": "Start The Healing",
       "url": "https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG"
@@ -1033,6 +1163,24 @@
       "duration_ms": 221114,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5"
+    },
+    {
+      "album": {
+        "name": "Tamashii No Houkai",
+        "url": "https://open.spotify.com/album/3ZBHu5UnXwrQrEeepL6X4B"
+      },
+      "artists": [
+        {
+          "name": "Ibaraki",
+          "url": "https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358880,
+      "name": "Tamashii No Houkai",
+      "url": "https://open.spotify.com/track/6x6UnL6dWt3r8nQMlSMmAx"
     },
     {
       "album": {

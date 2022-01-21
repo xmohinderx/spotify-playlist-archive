@@ -148,6 +148,24 @@
     },
     {
       "album": {
+        "name": "Chetu",
+        "url": "https://open.spotify.com/album/5Be8LuvZZ3PrdshDBBHo37"
+      },
+      "artists": [
+        {
+          "name": "Bill Nass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189466,
+      "name": "Chetu",
+      "url": "https://open.spotify.com/track/13fP1icHklBUjnuOojaHbg"
+    },
+    {
+      "album": {
         "name": "Chochea",
         "url": "https://open.spotify.com/album/0x5yL8jchQm4ijPnkia1ih"
       },
@@ -163,7 +181,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 211408,
       "name": "Chochea",
       "url": "https://open.spotify.com/track/2oHY0E1ew4snvK6ys5to63"
@@ -308,6 +326,24 @@
     },
     {
       "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/5JSP0Znmydeo5t7fXQtR3h"
+      },
+      "artists": [
+        {
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180812,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/2Bu813f6x8IRpYVshM2emk"
+    },
+    {
+      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/7zalzZ5eh15ebMjkrtQz2i"
       },
@@ -327,6 +363,28 @@
       "duration_ms": 207908,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/0b0Si2XZJ5ZY27ASJu1qbq"
+    },
+    {
+      "album": {
+        "name": "I Miss You (feat. Zuchu)",
+        "url": "https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248041,
+      "name": "I Miss You (feat. Zuchu)",
+      "url": "https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw"
     },
     {
       "album": {
@@ -819,7 +877,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 197727,
       "name": "Mapenzi",
       "url": "https://open.spotify.com/track/3mZvb0NR0xI1OsD0U8yeQx"
@@ -1469,7 +1527,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 152607,
       "name": "Tetema",
       "url": "https://open.spotify.com/track/48jhgnw6aKXv2FimBhpcv8"

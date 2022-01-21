@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 274946,
       "name": "Bossy Featuring Too $hort (feat. Too $hort)",
       "url": "https://open.spotify.com/track/0Eu5SrReZzaJX0NLKI8tQS"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 247866,
       "name": "Every Other Time - Radio Edit & Album Version",
       "url": "https://open.spotify.com/track/3uD4aRM8QoEAAhwpOke7QU"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 192533,
       "name": "Get the Party Started",
       "url": "https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 198333,
       "name": "I'm Just a Kid",
       "url": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 210400,
       "name": "Liquid Dreams",
       "url": "https://open.spotify.com/track/2Pxzfzd1jaZT2F2uqLkZUr"
@@ -1791,6 +1791,24 @@
       "duration_ms": 238920,
       "name": "SOS",
       "url": "https://open.spotify.com/track/30cSNer6TV8x2utjULVeQ5"
+    },
+    {
+      "album": {
+        "name": "Jump5",
+        "url": "https://open.spotify.com/album/7Lzw36VPLQEYl0b5zhhTKo"
+      },
+      "artists": [
+        {
+          "name": "Jump5",
+          "url": "https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219226,
+      "name": "Spinnin' Around",
+      "url": "https://open.spotify.com/track/6pGMA1Rp61dPmC7OWcEBnn"
     },
     {
       "album": {

@@ -75,5 +75,6 @@
 | [Tropical Rainbirds](https://open.spotify.com/track/18TcUAVl6zWF81ns2ObwdJ) | [Eskil Hermes](https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby) | [Fresh Forest](https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm) | 2:05 | 2021-11-12 |  |
 | [Under a Waterfall \(Relaxing Sounds\)](https://open.spotify.com/track/4NlsctTVxrTknjeiOKAdsr) | [Sleep Sounds of Nature](https://open.spotify.com/artist/59FRAcMcsHQupc8lupy5uH) | [Sleep Sounds of Nature \(Sound Healing from Nature Music: How to Deal with Stress, How to Meditate: Help Yourself with Musik\)](https://open.spotify.com/album/1hnITnE98zsV3NUBb9umhi) | 3:57 | 2021-11-12 |  |
 | [Waterfall Constant Roar of a Mountain Waterfall to Reduce Stress\. Nature Sounds Relaxing](https://open.spotify.com/track/0A71OLE9BN4ImZ3XTCOHP7) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Green Escape \- Water Sound, Natural Sounds and Relaxing Sounds of Nature](https://open.spotify.com/album/1te6990GFMS4RRg7gJzPUF) | 13:16 | 2021-11-12 |  |
+| [自然な鳥の音](https://open.spotify.com/track/3bTzPkzN8x2FnuQq7VvibA) | [Yamanishi Sawako](https://open.spotify.com/artist/7igpb5B2AqDrJi8QvPVKo1) | [自然な鳥の音](https://open.spotify.com/album/0IAQGKpBF9TsNNI6WL4Cmk) | 1:46 | 2022-01-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

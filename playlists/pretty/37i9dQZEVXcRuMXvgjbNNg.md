@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Love Like Mine](https://open.spotify.com/track/4R9omgqjDe7PAvWMOwgrVK) | [The Chase](https://open.spotify.com/artist/7H0Xu2MYJxHCRNGLfZkvAY) | [Love Like Mine](https://open.spotify.com/album/11MFvud6qxxIbpBPclylhg) | 4:45 |
 | 30 | [House on a Hill](https://open.spotify.com/track/6Jp3Z3rrb2sfZjVmDhD2Jq) | [Amanda Lindsey Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [House on a Hill](https://open.spotify.com/album/1knRBteR8rH7zMm6vL7hma) | 6:04 |
 
-Snapshot ID: `MCwwMDAwMDAwMDU4OGQzNjZkZGM4NWY0YTViZmY3NDc3NmY0OGI2NTU0`
+Snapshot ID: `MCwwMDAwMDAwMGM4OWI5N2YyMzNhZGE0MDExMjk5ZGE1MjNiYTcxYWM5`

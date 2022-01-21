@@ -220,6 +220,24 @@
     },
     {
       "album": {
+        "name": "Dream Girl",
+        "url": "https://open.spotify.com/album/5AtFRiXhghMTRCc1OzdNvL"
+      },
+      "artists": [
+        {
+          "name": "Nanette",
+          "url": "https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233550,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/5dH4VQKpBTtuq4JZL4joP4"
+    },
+    {
+      "album": {
         "name": "Dzena Mo",
         "url": "https://open.spotify.com/album/3fqdBLUIhUu2SYASEKpOj9"
       },
@@ -253,10 +271,36 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 215706,
       "name": "ekuphileni, (feat. J'Something)",
       "url": "https://open.spotify.com/track/6Ynwhp39hofsG13VYr1qDj"
+    },
+    {
+      "album": {
+        "name": "Emakhaya (feat. Kwesta & Sino Msolo)",
+        "url": "https://open.spotify.com/album/7lJGDMNearMbGZ680QLAlz"
+      },
+      "artists": [
+        {
+          "name": "DJ Ganyani",
+          "url": "https://open.spotify.com/artist/3D168M3LLSF7IPPU7HUZGa"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244374,
+      "name": "Emakhaya (feat. Kwesta & Sino Msolo)",
+      "url": "https://open.spotify.com/track/2Z78OHuELgILPW1k97rlsi"
     },
     {
       "album": {
@@ -337,7 +381,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 221201,
       "name": "Hold Me Down (feat. Msaki)",
       "url": "https://open.spotify.com/track/6J1TVC5SoFzRdrW0qLXeMA"
@@ -363,6 +407,24 @@
       "duration_ms": 225238,
       "name": "Ilanga",
       "url": "https://open.spotify.com/track/2HmBIq2pmNSjCmNNeZMJjM"
+    },
+    {
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/4iTsTEEU7KTVk2eUZ3hArx"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180428,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/7b4Doq0i5Qqy9UDHvZFuOG"
     },
     {
       "album": {
@@ -705,7 +767,7 @@
       ],
       "date_added": "2021-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 224516,
       "name": "Ngimtholile",
       "url": "https://open.spotify.com/track/767RWorzGOLj084gbi4fs9"

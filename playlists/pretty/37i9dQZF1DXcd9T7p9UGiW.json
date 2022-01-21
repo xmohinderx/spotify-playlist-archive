@@ -1,12 +1,12 @@
 {
   "description": "Catching flights and going global. Cover: <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=H3sjdL1LSbONuAz5j6s78A\"> Fireboy DML</a> and <a href=\"https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V?si=JWZclHrdR2y-4b5qS2idxg\"> Ed Sheeran </a>",
-  "num_followers": 1935,
+  "num_followers": 1945,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjExNDg2MCwwMDAwMDAwYjAwMDAwMTdlNTVhYzQ0NzkwMDAwMDE3ZTUzMWI4NDcz",
+  "snapshot_id": "MTY0MjcxOTYwMCwwMDAwMDAwYzAwMDAwMTdlNzliN2RlNjMwMDAwMDE3ZTUzMWI4NDcz",
   "tracks": [
     {
       "added_at": "2022-01-13 23:01:00",
@@ -29,28 +29,64 @@
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
     },
     {
-      "added_at": "2021-12-02 23:01:00",
+      "added_at": "2022-01-13 23:01:00",
       "album": {
-        "name": "Shisha",
-        "url": "https://open.spotify.com/album/1gaXCy5twILjDFnGthCwUZ"
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
       "artists": [
         {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
         },
         {
-          "name": "Niniola",
-          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
-        },
-        {
-          "name": "Busiswa",
-          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 222034,
-      "name": "Shisha",
-      "url": "https://open.spotify.com/track/2kOmK3ajnOnQamXem4FeXG"
+      "duration_ms": 159666,
+      "name": "jealousy (feat. rema)",
+      "url": "https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg"
+    },
+    {
+      "added_at": "2022-01-20 23:00:00",
+      "album": {
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 237480,
+      "name": "Nice (feat. Blxst)",
+      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "Energy (Stay Far Away)",
+        "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 199521,
+      "name": "Energy (Stay Far Away)",
+      "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -97,26 +133,6 @@
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
     },
     {
-      "added_at": "2022-01-13 23:01:00",
-      "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "jealousy (feat. rema)",
-      "url": "https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg"
-    },
-    {
       "added_at": "2021-10-08 09:53:07",
       "album": {
         "name": "Essence (feat. Justin Bieber & Tems)",
@@ -139,6 +155,26 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
+      },
+      "artists": [
+        {
+          "name": "DaVido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
     },
     {
       "added_at": "2021-10-28 23:00:00",
@@ -213,6 +249,26 @@
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
     },
     {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 159250,
+      "name": "Loved By You (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
+    },
+    {
       "added_at": "2022-01-13 23:01:00",
       "album": {
         "name": "Payback (feat. Knucks)",
@@ -231,6 +287,34 @@
       "duration_ms": 164560,
       "name": "Payback (feat. Knucks)",
       "url": "https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU"
+    },
+    {
+      "added_at": "2022-01-20 23:00:00",
+      "album": {
+        "name": "ALPHA (Deluxe)",
+        "url": "https://open.spotify.com/album/06xkAXs3CjdSofoAQbRVhL"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        }
+      ],
+      "duration_ms": 214015,
+      "name": "Take Care of You (feat. King Princess, Amaarae & Meshell Ndegeocello) - Remix",
+      "url": "https://open.spotify.com/track/4lQX77YOzLJKXJu0CNRz3T"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -307,6 +391,26 @@
     {
       "added_at": "2021-10-08 09:53:07",
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/7dXvVVC6xytbsU8tQWGvko"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "DaVido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 247153,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/0Z3WgEI6TL0cBa8t4lKvho"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
         "name": "Be My Guest",
         "url": "https://open.spotify.com/album/1RB15GJ8izqSFg1r0Qsykm"
       },
@@ -343,6 +447,26 @@
       "duration_ms": 218130,
       "name": "Somebody\u2019s Son (Ft Brandy)",
       "url": "https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys"
+    },
+    {
+      "added_at": "2021-10-08 09:53:07",
+      "album": {
+        "name": "My Oasis (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 179916,
+      "name": "My Oasis (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk"
     },
     {
       "added_at": "2021-10-28 23:00:00",
@@ -673,30 +797,6 @@
       "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
-      "added_at": "2021-11-18 23:01:00",
-      "album": {
-        "name": "Scrrr Up Riddim",
-        "url": "https://open.spotify.com/album/2EFASg2b57SCtbo3YtiG7m"
-      },
-      "artists": [
-        {
-          "name": "4Rain",
-          "url": "https://open.spotify.com/artist/7mgeWKf0QP5WtjDreBuNME"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "KLY",
-          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
-        }
-      ],
-      "duration_ms": 189579,
-      "name": "Scrrr Up Riddim",
-      "url": "https://open.spotify.com/track/4TI3zvC6Yc8SU2jDa4PUaU"
-    },
-    {
       "added_at": "2021-10-08 09:53:07",
       "album": {
         "name": "Simmer (feat. Burna Boy)",
@@ -759,6 +859,30 @@
       "duration_ms": 201636,
       "name": "JUMPING SHIP",
       "url": "https://open.spotify.com/track/5qaUDvqjsI6lnrtEhQqMle"
+    },
+    {
+      "added_at": "2021-12-02 23:01:00",
+      "album": {
+        "name": "Shisha",
+        "url": "https://open.spotify.com/album/1gaXCy5twILjDFnGthCwUZ"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        }
+      ],
+      "duration_ms": 222034,
+      "name": "Shisha",
+      "url": "https://open.spotify.com/track/2kOmK3ajnOnQamXem4FeXG"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -847,26 +971,6 @@
     {
       "added_at": "2021-10-08 09:53:07",
       "album": {
-        "name": "My Oasis (feat. Burna Boy)",
-        "url": "https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 179916,
-      "name": "My Oasis (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
         "name": "Celia",
         "url": "https://open.spotify.com/album/0v0pKqegGprcnGYUGitYvO"
       },
@@ -883,46 +987,6 @@
       "duration_ms": 168244,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/31EkvbGV7cdXZgUt4gbtlK"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Blow My Mind",
-        "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
-      },
-      "artists": [
-        {
-          "name": "DaVido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Energy (Stay Far Away)",
-        "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        },
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 199521,
-      "name": "Energy (Stay Far Away)",
-      "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -1543,26 +1607,6 @@
     {
       "added_at": "2021-10-08 09:53:07",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 159250,
-      "name": "Loved By You (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
         "name": "Made In Lagos",
         "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
       },
@@ -1687,30 +1731,6 @@
     {
       "added_at": "2021-10-08 09:53:07",
       "album": {
-        "name": "TOO LATE TOO LIT (EP)",
-        "url": "https://open.spotify.com/album/5ostKI8pEKByvelgrNG1Rd"
-      },
-      "artists": [
-        {
-          "name": "KDDO",
-          "url": "https://open.spotify.com/artist/7zNK87FEWbBWd4ecCEq5rR"
-        },
-        {
-          "name": "Jidenna",
-          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
-        },
-        {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        }
-      ],
-      "duration_ms": 206942,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5jNnYkyRMfnc6n9IuCBn3M"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/1feowOWUDhzbupNl4Fz78O"
       },
@@ -1751,26 +1771,6 @@
       "duration_ms": 170000,
       "name": "So Crazy (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/5h9n5J7SRLzqBx4PyzhAFs"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/7dXvVVC6xytbsU8tQWGvko"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
-        {
-          "name": "DaVido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 247153,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/0Z3WgEI6TL0cBa8t4lKvho"
     }
   ],
   "unique_name": "Gone Abroad ",

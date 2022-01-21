@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 229066,
       "name": "be",
       "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 230148,
       "name": "BEST FRIEND",
       "url": "https://open.spotify.com/track/5GB0hU37rKZNVsHMu7FOM9"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 210535,
       "name": "CHERRY",
       "url": "https://open.spotify.com/track/5UCTT2liT61iPL2cCV9Gto"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 189000,
       "name": "Daisy",
       "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 199986,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/7zYbBJmAgeaBoG9zMOml7j"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 206868,
       "name": "Feel Special",
       "url": "https://open.spotify.com/track/14rWuS6yllHOdfZ8sZsZUj"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 205859,
       "name": "Hard to Start",
       "url": "https://open.spotify.com/track/2MxlULOEyapHB4RBRd344M"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 220920,
       "name": "Hello Future",
       "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 234177,
       "name": "HOME",
       "url": "https://open.spotify.com/track/7lthOBXNue2IvedLRfkod8"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 172358,
       "name": "In the morning",
       "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 257631,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 208040,
       "name": "Jam & Butterfly",
       "url": "https://open.spotify.com/track/5rZkRaL4AjykFgw49KULyo"
@@ -1201,6 +1201,24 @@
       "duration_ms": 156818,
       "name": "Just Good",
       "url": "https://open.spotify.com/track/1Q7BxZ0eWJ0nY08idRET5r"
+    },
+    {
+      "album": {
+        "name": "kickkick \ud0a5\ud0a5",
+        "url": "https://open.spotify.com/album/31CDbMhsOM6WrODufPFTpA"
+      },
+      "artists": [
+        {
+          "name": "DAYBREAK",
+          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229306,
+      "name": "kickkick \ud0a5\ud0a5",
+      "url": "https://open.spotify.com/track/0hAcqZNqVR5AyTypgFn7v5"
     },
     {
       "album": {
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 159749,
       "name": "Magic",
       "url": "https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 172258,
       "name": "Monday \uc6d4\uc694\uc77c",
       "url": "https://open.spotify.com/track/3fe9nxKo2Mnv3ArleWImn9"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 195982,
       "name": "MY TREASURE",
       "url": "https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 181196,
       "name": "Not For Sale",
       "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 163026,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/7xTDCxibzHpmUUQeso8Sg7"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 206616,
       "name": "pporappippam \ubcf4\ub77c\ube5b \ubc24",
       "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 238143,
       "name": "Savage",
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
@@ -2007,7 +2025,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 201746,
       "name": "The View",
       "url": "https://open.spotify.com/track/78k3g85Ud3Xo5NeX6VimHD"
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 198266,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/5Hvi3XSS00txHgZB6UZhFl"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 145360,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
@@ -2097,7 +2115,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 199586,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/2wj2Mh7Zmp036eH1aY6nAW"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 235386,
       "name": "Winter Falls",
       "url": "https://open.spotify.com/track/0uQIb3EOcrw5tnRLXIAqbD"
@@ -2375,7 +2393,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 210450,
       "name": "\uc62c\ud574 \uc81c\uc77c \uc798\ud55c \uc77c The Best Thing I Ever Did",
       "url": "https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF"

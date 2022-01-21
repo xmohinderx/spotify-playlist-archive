@@ -31,7 +31,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 145740,
       "name": "100 Degrees (with S\u00e9b Mont)",
       "url": "https://open.spotify.com/track/6KZmW3m8H69be0JSMj6762"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 157560,
       "name": "Alone Again (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/1xqbdoQipgmgFnGpCAtfrz"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 179628,
       "name": "Bad Bees (feat. Harrison First)",
       "url": "https://open.spotify.com/track/2GvYPnGRiF9MdJSSeS30tY"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 151848,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/7JSXDanOpcFoeCtolRUtT6"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 176478,
       "name": "EAT MY BRAIN",
       "url": "https://open.spotify.com/track/6uN2YTWoQjzuRcVaaSrlXp"
@@ -592,6 +592,36 @@
     },
     {
       "album": {
+        "name": "Far Away (feat. Ramori)",
+        "url": "https://open.spotify.com/album/0ICntG6sOCF5RzluiFCz90"
+      },
+      "artists": [
+        {
+          "name": "Charming Horses",
+          "url": "https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3"
+        },
+        {
+          "name": "AKA AKA",
+          "url": "https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72"
+        },
+        {
+          "name": "Gianni Petrarca",
+          "url": "https://open.spotify.com/artist/4s02k4zKgPjUkVmF92a4xg"
+        },
+        {
+          "name": "Ramori",
+          "url": "https://open.spotify.com/artist/7sm76akhJ3Z0Za1iNZtqpo"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135238,
+      "name": "Far Away (feat. Ramori)",
+      "url": "https://open.spotify.com/track/5oJHGvC4gv9FCewvhxGvLp"
+    },
+    {
+      "album": {
         "name": "Feel Good Inc.",
         "url": "https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb"
       },
@@ -607,7 +637,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 173313,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw"
@@ -625,7 +655,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 161005,
       "name": "Feel That Way",
       "url": "https://open.spotify.com/track/3TJ7LDaw0PTgd4n6ESvNGu"
@@ -654,6 +684,24 @@
     },
     {
       "album": {
+        "name": "Find U (Ready Or Not)",
+        "url": "https://open.spotify.com/album/519IjT6psFBPMdjMePkkbK"
+      },
+      "artists": [
+        {
+          "name": "YOU",
+          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137525,
+      "name": "Find U (Ready Or Not)",
+      "url": "https://open.spotify.com/track/2MAoL7dgDHVwQTZ5eRhazJ"
+    },
+    {
+      "album": {
         "name": "Fire To Smoke",
         "url": "https://open.spotify.com/album/5DZveTrXrFJSbYk2xSaADW"
       },
@@ -669,7 +717,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 163209,
       "name": "Fire To Smoke",
       "url": "https://open.spotify.com/track/0wpEtERZ78hweuJCWD9eAE"
@@ -691,7 +739,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 139354,
       "name": "Game",
       "url": "https://open.spotify.com/track/1282qgDXqqQiA6n3u1h32q"
@@ -727,7 +775,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 144000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4dNa85ITSSRo5KNsIeQZpS"
@@ -921,7 +969,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 172500,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/5HCab6cbYS5oQo29wc2dLq"
@@ -943,7 +991,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 197760,
       "name": "Ma Ma Ma",
       "url": "https://open.spotify.com/track/19c7r2qm1FD7runvg0VzQa"
@@ -1035,7 +1083,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 150368,
       "name": "Oh La La (feat. Mougleta)",
       "url": "https://open.spotify.com/track/46Dxwh73hkHgPg2NCTCzmt"
@@ -1175,6 +1223,28 @@
       "duration_ms": 146250,
       "name": "Pop Off (feat. Lost Boy)",
       "url": "https://open.spotify.com/track/1TEOk7DJAMfE3uadgJgTZ8"
+    },
+    {
+      "album": {
+        "name": "Pretty Lies",
+        "url": "https://open.spotify.com/album/0SgcUbQdeDpPN3VfH0w7m3"
+      },
+      "artists": [
+        {
+          "name": "VNNA",
+          "url": "https://open.spotify.com/artist/7JgrBTyBmZlOTXjKO3FbI2"
+        },
+        {
+          "name": "Kush Kush",
+          "url": "https://open.spotify.com/artist/5P4P6G0pubLi65R3zRnSCf"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Pretty Lies",
+      "url": "https://open.spotify.com/track/1xzH7KpEovrxJKhAGqid42"
     },
     {
       "album": {
@@ -1329,7 +1399,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 141170,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ"
@@ -1351,7 +1421,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 176640,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
@@ -1395,7 +1465,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 192755,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/1kwJP2mZ7NSFvtuAxqtCED"
@@ -1425,6 +1495,28 @@
       "duration_ms": 131478,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/3SteozIweMB1gbHdCRc4zS"
+    },
+    {
+      "album": {
+        "name": "Sushi",
+        "url": "https://open.spotify.com/album/7LUvu9YDD8yIom5z4yeSdt"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137708,
+      "name": "Sushi",
+      "url": "https://open.spotify.com/track/2kMSfE03xa0kyksSNIfufy"
     },
     {
       "album": {
@@ -1499,6 +1591,36 @@
       "duration_ms": 159617,
       "name": "Tension",
       "url": "https://open.spotify.com/track/2mozbqXyO5NOmpOZc9O5s9"
+    },
+    {
+      "album": {
+        "name": "The Lion (feat. Sara Sangfelt)",
+        "url": "https://open.spotify.com/album/2T5DP35UoY07MHOIQ7YFws"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Hard Lights",
+          "url": "https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy"
+        },
+        {
+          "name": "Sara Sangfelt",
+          "url": "https://open.spotify.com/artist/0j0pG4N3F9hf9dC9gZnOTC"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156394,
+      "name": "The Lion (feat. Sara Sangfelt)",
+      "url": "https://open.spotify.com/track/4dilhWGYoBY6UJqAIyKMqm"
     },
     {
       "album": {
@@ -1579,7 +1701,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "T\u00f3xica",
       "url": "https://open.spotify.com/track/2xXgN2GQLSQcZ4Bzad0NaM"
@@ -1675,7 +1797,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 140156,
       "name": "Whistle (feat. Bertie Scott)",
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
@@ -1697,7 +1819,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 130619,
       "name": "Wind Me Up",
       "url": "https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe"
@@ -1759,7 +1881,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 176744,
       "name": "You Spin Me Round (Like A Record) - Radio Edit",
       "url": "https://open.spotify.com/track/5zdbSrKdmK9qDTkqzidcN7"
@@ -1793,7 +1915,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 160000,
       "name": "Zombie (Zombic & Felix Schorn Remix)",
       "url": "https://open.spotify.com/track/3p07oZZpSNdVtN93M5yIY5"

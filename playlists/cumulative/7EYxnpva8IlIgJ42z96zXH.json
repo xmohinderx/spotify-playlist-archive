@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 173251,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2CNQXaZCnqxYXehrSUzHTa"
@@ -2697,7 +2697,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 169299,
       "name": "Hold On To Your Love - Carneyval Remix",
       "url": "https://open.spotify.com/track/461cLFx6Ba0pJ5eRRCes1p"
@@ -3484,6 +3484,36 @@
     },
     {
       "album": {
+        "name": "Lonely (feat. Sananda Maitreya)",
+        "url": "https://open.spotify.com/album/154V38RtyuJFnlK8WsLtT5"
+      },
+      "artists": [
+        {
+          "name": "Love Regenerator",
+          "url": "https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Sananda Maitreya",
+          "url": "https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170325,
+      "name": "Lonely (feat. Sananda Maitreya)",
+      "url": "https://open.spotify.com/track/2tZaIi32T3Fwn6GqD8Jcii"
+    },
+    {
+      "album": {
         "name": "Look Into My Eyes",
         "url": "https://open.spotify.com/album/7DnfkpW8qZvwrd5juFewce"
       },
@@ -3913,6 +3943,24 @@
       "duration_ms": 145333,
       "name": "Medicine - R3HAB Remix",
       "url": "https://open.spotify.com/track/6bAcuSKKxTWY4sNawTxUpf"
+    },
+    {
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Wilhelmine",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Joplyn",
   "name": "RADAR GSA",
   "published_playlist_ids": [
     "7r16QFa0iXKPXTVCB31T4J"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 131920,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/1DilMm613lCaBlin10YfGM"
@@ -475,6 +475,24 @@
       "duration_ms": 163649,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/3Ldae7O6YMFE7vxlTNocdQ"
+    },
+    {
+      "album": {
+        "name": "I WON'T STAY",
+        "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
+      },
+      "artists": [
+        {
+          "name": "Joplyn",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286423,
+      "name": "I WON'T STAY",
+      "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
     },
     {
       "album": {

@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 281906,
       "name": "Attempt",
       "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 270600,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/3MlA3b8KVJuratU2qdW4Yb"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 195376,
       "name": "Blouse",
       "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 287623,
       "name": "Call Me When You Land",
       "url": "https://open.spotify.com/track/4oRgpwXGPigjcEkp0mPgad"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 163120,
       "name": "Deep Down Way Out",
       "url": "https://open.spotify.com/track/5UPXitLeEHQyL5TZRy47uN"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 186153,
       "name": "Electric Blue",
       "url": "https://open.spotify.com/track/4HNuzjFoJ46jGvtfhQeBzu"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 210804,
       "name": "God Melodies - Single Version",
       "url": "https://open.spotify.com/track/4PFjhC6s3GV1d6roZsj1Fm"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 206233,
       "name": "Guts",
       "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 223573,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/1ppEEYAE2NnM3xk7rC7EQL"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 191493,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/6h0u2pSqMV0JPvzsnA8hwg"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 250794,
       "name": "Lover (Don't Let Me Down)",
       "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
@@ -1885,10 +1885,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 207133,
       "name": "Show Me More",
       "url": "https://open.spotify.com/track/0cKmAiOd52XSO3Ecoen1QU"
+    },
+    {
+      "album": {
+        "name": "How It Feels",
+        "url": "https://open.spotify.com/album/49fsS2odS0bn5gu3UFxqK0"
+      },
+      "artists": [
+        {
+          "name": "Zuzu",
+          "url": "https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210186,
+      "name": "Skin And Bone",
+      "url": "https://open.spotify.com/track/0cihUuV8xMJHVv2vKIxl5I"
     },
     {
       "album": {
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 331664,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/1wgouwqKDYxxZUj9jHZCBu"
@@ -2015,7 +2033,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 248973,
       "name": "Sorry Kid - Edit",
       "url": "https://open.spotify.com/track/3vovrmRCW1gk3LX0LIYcbi"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 188173,
       "name": "Spinning",
       "url": "https://open.spotify.com/track/0R6pHybIu4aJA6gJEJgRbc"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 221682,
       "name": "The Sky Is Painted Gray Today",
       "url": "https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA"
@@ -2491,7 +2509,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 271160,
       "name": "When U Love Somebody",
       "url": "https://open.spotify.com/track/2Vy7B6YpJHfqSzMmheUfvy"

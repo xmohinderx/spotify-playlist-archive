@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 296400,
       "name": "Butta Love",
       "url": "https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 300906,
       "name": "Cry For You",
       "url": "https://open.spotify.com/track/3RNvMhYFEwpCgPnDGKR5MB"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/0UH3m8uxVdQDCtG61CKMXE"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 264933,
       "name": "It's All About Me",
       "url": "https://open.spotify.com/track/4Wtk0YYWUcx1JYicaq5Jd0"
@@ -897,10 +897,28 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 271333,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+      "album": {
+        "name": "Ralph Tresvant",
+        "url": "https://open.spotify.com/album/59xCSAdPeDW21sCrkE6B6c"
+      },
+      "artists": [
+        {
+          "name": "Ralph Tresvant",
+          "url": "https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281333,
+      "name": "Sensitivity",
+      "url": "https://open.spotify.com/track/3lRgzwd3g1TewI4zjgbh9V"
     },
     {
       "album": {
@@ -915,7 +933,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 276573,
       "name": "She's Playing Hard To Get",
       "url": "https://open.spotify.com/track/3xRbymJj98leHL7K8Y94WS"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 265106,
       "name": "That's The Way Love Goes",
       "url": "https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 293600,
       "name": "What About Your Friends",
       "url": "https://open.spotify.com/track/63PIgPkDf3rswlU4ZWCYAM"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-21",
       "duration_ms": 219120,
       "name": "You Make Me Wanna...",
       "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"
