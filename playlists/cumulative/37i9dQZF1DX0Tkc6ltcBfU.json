@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 176341,
       "name": "Abandoned",
       "url": "https://open.spotify.com/track/5C0x9o6J37xbQgCWRvfHM7"
@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193986,
+      "name": "alotta cake",
+      "url": "https://open.spotify.com/track/2iCDO8ePNuCvMiMFc0FQdA"
+    },
+    {
+      "album": {
         "name": "American Horror Story",
         "url": "https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 309570,
       "name": "American Horror Story",
       "url": "https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj"
@@ -207,7 +225,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 265185,
       "name": "Bring The Hook",
       "url": "https://open.spotify.com/track/1giI9yVIG71xY8lPwSDzWY"
@@ -283,10 +301,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 288000,
       "name": "Closure",
       "url": "https://open.spotify.com/track/0X5lj4BaAPT5TZPp9Qd5DB"
+    },
+    {
+      "album": {
+        "name": "Cold December",
+        "url": "https://open.spotify.com/album/6PHg4EsRdFC1eG24NJPk2K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192021,
+      "name": "Cold December",
+      "url": "https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9"
     },
     {
       "album": {
@@ -323,7 +359,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 137142,
       "name": "Day Day N Craig (with Tay Keith)",
       "url": "https://open.spotify.com/track/5hgDSQNG4R8NsC4KqsAVxq"
@@ -455,10 +491,54 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 194000,
       "name": "Feeling Down (feat. NoCap)",
       "url": "https://open.spotify.com/track/4BKN3EPTN0HVte4s59dj68"
+    },
+    {
+      "album": {
+        "name": "Flights",
+        "url": "https://open.spotify.com/album/1Fa22nkjCibBCB6PDNzojd"
+      },
+      "artists": [
+        {
+          "name": "BandoPop",
+          "url": "https://open.spotify.com/artist/3OMeFBBc6FX5Q55CxKVFjW"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206837,
+      "name": "Flights",
+      "url": "https://open.spotify.com/track/4ZbK9nc9EOYDCPtGhOCYQc"
+    },
+    {
+      "album": {
+        "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
     },
     {
       "album": {
@@ -473,7 +553,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 150324,
       "name": "Fool for Love",
       "url": "https://open.spotify.com/track/2fKgq4eJuQcXuzGDjFm5Vw"
@@ -498,6 +578,46 @@
     },
     {
       "album": {
+        "name": "HIT",
+        "url": "https://open.spotify.com/album/03ckoZhTfbWybngUkIHqWv"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125498,
+      "name": "HIT",
+      "url": "https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ"
+    },
+    {
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/2PkeFYM57aVrVXKqKy0BWa"
+      },
+      "artists": [
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Home Alone",
+      "url": "https://open.spotify.com/track/1AOFIqezViAzT4EahxhRAd"
+    },
+    {
+      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/1RapYeJvvR8PmD4VCpFhIb"
       },
@@ -509,7 +629,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 134950,
       "name": "I Guess",
       "url": "https://open.spotify.com/track/1eGkDjR41Cc4kXsC7Nzlfu"
@@ -586,6 +706,24 @@
     },
     {
       "album": {
+        "name": "Know Like I Know",
+        "url": "https://open.spotify.com/album/5igqmh1p51bXG9i9cuCTC9"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232336,
+      "name": "Know Like I Know",
+      "url": "https://open.spotify.com/track/227x8PRNRDZUl2yAISuS2k"
+    },
+    {
+      "album": {
         "name": "Lamborghini Geeski",
         "url": "https://open.spotify.com/album/1VLwpYslYyCkYprCaPJyEU"
       },
@@ -655,7 +793,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 156115,
       "name": "LEVELS (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/2UMWdssGd4rlT9oSeHUZh0"
@@ -834,6 +972,28 @@
     },
     {
       "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/7cd4kzNVpOjsOCValmZX7w"
+      },
+      "artists": [
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/10QdSJJJflPZ0k6izpUEYG"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
       },
@@ -849,7 +1009,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 185213,
       "name": "mop (feat. Young Thug)",
       "url": "https://open.spotify.com/track/2ZGEjmwyeZ3rpEezkZwqOP"
@@ -875,6 +1035,24 @@
       "duration_ms": 200800,
       "name": "Never Fail (with Benny The Butcher)",
       "url": "https://open.spotify.com/track/0myEYpzyBetSo4tgKs7oUx"
+    },
+    {
+      "album": {
+        "name": "NO TRENDS",
+        "url": "https://open.spotify.com/album/5ESucdNFBDxfVPHprdjfA7"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151285,
+      "name": "NO TRENDS",
+      "url": "https://open.spotify.com/track/3ItezvVKyAyy0nxf6yJpcx"
     },
     {
       "album": {
@@ -919,10 +1097,36 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 192114,
       "name": "off the leash! (feat. yvngxchris and Luisss)",
       "url": "https://open.spotify.com/track/5HSsOCyML8FFIviP9ByHCF"
+    },
+    {
+      "album": {
+        "name": "off the leash!",
+        "url": "https://open.spotify.com/album/2udAdxSFdILUt3vK12F48I"
+      },
+      "artists": [
+        {
+          "name": "BabySantana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        },
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        },
+        {
+          "name": "Luisss",
+          "url": "https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192114,
+      "name": "off the leash! (feat. yvngxchris and Luisss)",
+      "url": "https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv"
     },
     {
       "album": {
@@ -941,7 +1145,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 162504,
       "name": "On A Tee (feat. Icewear Vezzo)",
       "url": "https://open.spotify.com/track/4LL7QIFRd2k7qGnHZsoDe2"
@@ -996,6 +1200,32 @@
     },
     {
       "album": {
+        "name": "Pop Music",
+        "url": "https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BeatKing",
+          "url": "https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125373,
+      "name": "Pop Music (feat. Moneybagg Yo & Beatking)",
+      "url": "https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour"
+    },
+    {
+      "album": {
         "name": "Pop That Trunk",
         "url": "https://open.spotify.com/album/6rS5hgwbOe6tRMic70hiaE"
       },
@@ -1015,6 +1245,28 @@
       "duration_ms": 192353,
       "name": "Pop That Trunk",
       "url": "https://open.spotify.com/track/1uB8XTI9vgWZQQRC7xlw0X"
+    },
+    {
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/5JI0YNKgpiE5OvNaqj6s4J"
+      },
+      "artists": [
+        {
+          "name": "Paper Route EMPIRE",
+          "url": "https://open.spotify.com/artist/65smG2lgnRmrDB8g7z1hG0"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184040,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/6yOM87h9akcg1iYT5p66Av"
     },
     {
       "album": {
@@ -1041,6 +1293,24 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv"
+    },
+    {
+      "album": {
+        "name": "Scarred \u2013 EP",
+        "url": "https://open.spotify.com/album/4pSEsbhUcN1HZnxt2tqQLu"
+      },
+      "artists": [
+        {
+          "name": "JayDaYoungan",
+          "url": "https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114319,
+      "name": "Ready For It",
+      "url": "https://open.spotify.com/track/2pC66xqZv1tKwEyUcRIdXj"
     },
     {
       "album": {
@@ -1175,7 +1445,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 120058,
       "name": "Stick Baby",
       "url": "https://open.spotify.com/track/3q6ko6Otby0KfQVHhaKisM"
@@ -1245,6 +1515,24 @@
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T"
+    },
+    {
+      "album": {
+        "name": "Talk My Shit",
+        "url": "https://open.spotify.com/album/2iQMcX4Rm7wNAuAR7ArUxS"
+      },
+      "artists": [
+        {
+          "name": "Yella Beezy",
+          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149903,
+      "name": "Talk My Shit",
+      "url": "https://open.spotify.com/track/3dRO3kKkuYX80XTzvnIhHN"
     },
     {
       "album": {
@@ -1401,7 +1689,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 102116,
       "name": "YAE ENERGY",
       "url": "https://open.spotify.com/track/6og219WwSl2pU7oXyXfRMe"

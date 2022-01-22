@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 189560,
       "name": "AA",
       "url": "https://open.spotify.com/track/77oKig47u34qCCFWKMfu1e"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 193159,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/5agWi0xnqABWE51rrBz9oz"
@@ -3908,6 +3908,24 @@
     },
     {
       "album": {
+        "name": "Crazy One More Time (Revisited)",
+        "url": "https://open.spotify.com/album/4qoFgtGcRTrdlfrIXcrwF9"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231133,
+      "name": "Crazy One More Time - Revisited",
+      "url": "https://open.spotify.com/track/0jy7nb2V8Twnk6aGz3hqCE"
+    },
+    {
+      "album": {
         "name": "Crazyland",
         "url": "https://open.spotify.com/album/6RahP0x9wQIh7igKdkn5JF"
       },
@@ -4181,6 +4199,24 @@
       "duration_ms": 175680,
       "name": "Delight",
       "url": "https://open.spotify.com/track/3SP70PEiC4j2RbZpeHoZ4R"
+    },
+    {
+      "album": {
+        "name": "Country Stuff The Album",
+        "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159160,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/4K6KyAOSkhGKgLO0SalQET"
     },
     {
       "album": {
@@ -4631,7 +4667,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 180731,
       "name": "Don't Hate the Idea",
       "url": "https://open.spotify.com/track/6rXJzWMwP9VDEb8zuI2bou"
@@ -6057,6 +6093,28 @@
       "duration_ms": 210229,
       "name": "Five Beers",
       "url": "https://open.spotify.com/track/3nUZ2NlZt69ktGiWvBcoq8"
+    },
+    {
+      "album": {
+        "name": "Flower Shops (feat. Morgan Wallen)",
+        "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214405,
+      "name": "Flower Shops (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
     },
     {
       "album": {
@@ -7972,6 +8030,24 @@
     },
     {
       "album": {
+        "name": "Skeletons (Deluxe)",
+        "url": "https://open.spotify.com/album/2xXJINeBLHwdFzQECIJuUM"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284560,
+      "name": "Headstone",
+      "url": "https://open.spotify.com/track/21ZQamVjLP7lLrJ2wUshfu"
+    },
+    {
+      "album": {
         "name": "Heart On Fire",
         "url": "https://open.spotify.com/album/1H9u7ERxyFbgEYxzScoXbb"
       },
@@ -7987,6 +8063,24 @@
       "duration_ms": 258805,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/0RshiY6XKLbdsnFNEQoHFH"
+    },
+    {
+      "album": {
+        "name": "Heart on My Glass",
+        "url": "https://open.spotify.com/album/5wn3rXI7ahFosQJmt14ZJ2"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190146,
+      "name": "Heart on My Glass",
+      "url": "https://open.spotify.com/track/5z5u8Kp8bDkc3QSNhn7wpv"
     },
     {
       "album": {
@@ -9613,7 +9707,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 204560,
       "name": "I Love You More",
       "url": "https://open.spotify.com/track/31KrrOzf8FgoTJa7djzdol"
@@ -12788,6 +12882,24 @@
     },
     {
       "album": {
+        "name": "My Bar",
+        "url": "https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193053,
+      "name": "My Bar",
+      "url": "https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN"
+    },
+    {
+      "album": {
         "name": "My Best Thinkin'",
         "url": "https://open.spotify.com/album/4GlmMTG3yOqqJ2YwEba04m"
       },
@@ -14518,6 +14630,24 @@
     },
     {
       "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "Out in the Middle",
+      "url": "https://open.spotify.com/track/2Dacmfq3VLY1miVcU2SMIt"
+    },
+    {
+      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
@@ -16181,7 +16311,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 163311,
       "name": "She Likes It (feat. Jake Scott)",
       "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
@@ -18341,6 +18471,24 @@
       "duration_ms": 207163,
       "name": "Takin' It As It Comes",
       "url": "https://open.spotify.com/track/69h6GEHzeNjpGOjm50Q1cj"
+    },
+    {
+      "album": {
+        "name": "Talk About",
+        "url": "https://open.spotify.com/album/7IBeNpSb9G6TU19iPMzxAD"
+      },
+      "artists": [
+        {
+          "name": "Hannah May Allison",
+          "url": "https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Talk About",
+      "url": "https://open.spotify.com/track/5eruZy4m1S2YGaE1oKhI60"
     },
     {
       "album": {
@@ -21147,7 +21295,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 200062,
       "name": "Whiskey & Wine",
       "url": "https://open.spotify.com/track/4MWDqWnFSES2RPYcatepUR"

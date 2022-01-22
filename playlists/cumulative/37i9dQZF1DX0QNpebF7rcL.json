@@ -854,6 +854,24 @@
     },
     {
       "album": {
+        "name": "If Only We Could",
+        "url": "https://open.spotify.com/album/1UxYLNy0YaYcEEiDAoC8tL"
+      },
+      "artists": [
+        {
+          "name": "Clarence Spady",
+          "url": "https://open.spotify.com/artist/4S7wCzdA9VML3k2K8O4BhU"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188411,
+      "name": "If Only We Could",
+      "url": "https://open.spotify.com/track/38xkRjaeOtGNaDikoQFlsc"
+    },
+    {
+      "album": {
         "name": "In The Water",
         "url": "https://open.spotify.com/album/6Ef6vJ6k500tGlu0zDp8dK"
       },
@@ -975,7 +993,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 295946,
       "name": "Lonely Avenue",
       "url": "https://open.spotify.com/track/5jRgIkHMRIMlBs2lACAW3X"
@@ -1425,6 +1443,24 @@
       "duration_ms": 214493,
       "name": "Retro Mofo",
       "url": "https://open.spotify.com/track/0sMkyYpcC6iK45huSrLBDS"
+    },
+    {
+      "album": {
+        "name": "Devil May Care",
+        "url": "https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299946,
+      "name": "Right Down The Drain",
+      "url": "https://open.spotify.com/track/7uFtKBQLQFwkuS6BxzW1lQ"
     },
     {
       "album": {
@@ -2363,6 +2399,24 @@
       "duration_ms": 183386,
       "name": "You've Been Cheatin'",
       "url": "https://open.spotify.com/track/52oE03gZSG2HSl6pOXWGaA"
+    },
+    {
+      "album": {
+        "name": "Good To Be...",
+        "url": "https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208173,
+      "name": "\u201962 Chevy",
+      "url": "https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL"

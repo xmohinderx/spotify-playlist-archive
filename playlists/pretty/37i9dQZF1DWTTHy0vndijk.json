@@ -1,12 +1,12 @@
 {
   "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: YENA(\ucd5c\uc608\ub098)) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 430493,
+  "num_followers": 430801,
   "original_name": "Satang Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjcyNTM0NSwwMDAwMDAwMDZhNDdlNmEyNjUxNGZkNmYwMDQyYWQ3M2ViZTdjYzhl",
+  "snapshot_id": "MTY0MjgxMTc2NiwwMDAwMDAwMDVlYmY5OTMyNjcwZjhiZTJhM2UzOWRhOTliNjg5NTEz",
   "tracks": [
     {
       "added_at": "2022-01-17 09:07:09",
@@ -111,8 +111,24 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "DUMB DUMB",
+        "url": "https://open.spotify.com/album/5CIz2DHjAyFhPYNjWdCs1T"
       },
       "artists": [
         {
@@ -120,9 +136,9 @@
           "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
         }
       ],
-      "duration_ms": 197701,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE"
+      "duration_ms": 149213,
+      "name": "DUMB DUMB",
+      "url": "https://open.spotify.com/track/6dG2zPUOWXk3eMC7Hb3wh3"
     },
     {
       "added_at": "2022-01-17 09:07:09",
@@ -143,22 +159,6 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy"
       },
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "One-reeler / Act IV",
-        "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
         "name": "Hello - Special Album",
         "url": "https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 218880,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "One-reeler / Act IV",
+        "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
     },
     {
       "added_at": "2022-01-17 09:07:09",
@@ -239,50 +239,18 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "DUMB DUMB",
-        "url": "https://open.spotify.com/album/5CIz2DHjAyFhPYNjWdCs1T"
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/5DHseF14USVgIZ6AzsX9bi"
       },
       "artists": [
         {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
         }
       ],
-      "duration_ms": 149213,
-      "name": "DUMB DUMB",
-      "url": "https://open.spotify.com/track/6dG2zPUOWXk3eMC7Hb3wh3"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "Russian Roulette - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 211243,
-      "name": "\ub7ec\uc2dc\uc548 \ub8f0\ub81b Russian Roulette",
-      "url": "https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "MORE & MORE",
-        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 199653,
-      "name": "MORE & MORE",
-      "url": "https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g"
+      "duration_ms": 217066,
+      "name": "BUTTERFLY",
+      "url": "https://open.spotify.com/track/33PStuI2gJCeZcYQIOHXAU"
     },
     {
       "added_at": "2022-01-17 09:07:09",
@@ -303,34 +271,18 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "BLOOM*IZ",
-        "url": "https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw"
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
       },
       "artists": [
         {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
         }
       ],
-      "duration_ms": 217760,
-      "name": "FIESTA",
-      "url": "https://open.spotify.com/track/71vPAjlG1x606483GTJNhY"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "OPEN",
-        "url": "https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t"
-      },
-      "artists": [
-        {
-          "name": "KWON EUN BI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        }
-      ],
-      "duration_ms": 199533,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK"
+      "duration_ms": 197701,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE"
     },
     {
       "added_at": "2022-01-17 09:07:09",
@@ -351,22 +303,6 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "[12:00]",
-        "url": "https://open.spotify.com/album/0AfLJ1yEWYlFPabxu1kmht"
-      },
-      "artists": [
-        {
-          "name": "LOONA",
-          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
-        }
-      ],
-      "duration_ms": 205520,
-      "name": "Why Not?",
-      "url": "https://open.spotify.com/track/227y7s5IZ5TWN17Pkte5tc"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
         "name": "What is Love?",
         "url": "https://open.spotify.com/album/5NObA8Cx4Ri5cATR1DLTjj"
       },
@@ -383,34 +319,18 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "Lovelyz 2nd Album Repackage (Now, We)",
-        "url": "https://open.spotify.com/album/78NxvXVrMKH7s3CZqSQOcK"
+        "name": "BLOOM*IZ",
+        "url": "https://open.spotify.com/album/4yAAAWwN4WaxefmncjDsMw"
       },
       "artists": [
         {
-          "name": "Lovelyz",
-          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
         }
       ],
-      "duration_ms": 196372,
-      "name": "Now, We",
-      "url": "https://open.spotify.com/track/6OwHKARRC2QrDllpextLMN"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "NINETEEN",
-        "url": "https://open.spotify.com/album/6XnFMmVnbFEDnFjc6xRw2g"
-      },
-      "artists": [
-        {
-          "name": "NATTY",
-          "url": "https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "NINETEEN",
-      "url": "https://open.spotify.com/track/3mVzC9U8eyAmDNWnPniCIN"
+      "duration_ms": 217760,
+      "name": "FIESTA",
+      "url": "https://open.spotify.com/track/71vPAjlG1x606483GTJNhY"
     },
     {
       "added_at": "2022-01-17 09:07:09",
@@ -431,34 +351,34 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "COLOR*IZ",
-        "url": "https://open.spotify.com/album/7tggzWGzVusg9SEKqbJYpt"
+        "name": "Russian Roulette - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3"
       },
       "artists": [
         {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 218993,
-      "name": "La Vie en Rose",
-      "url": "https://open.spotify.com/track/1fRaznZsAB2i63TtmYv2Hc"
+      "duration_ms": 211243,
+      "name": "\ub7ec\uc2dc\uc548 \ub8f0\ub81b Russian Roulette",
+      "url": "https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT"
     },
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "SUMMER DREAM",
-        "url": "https://open.spotify.com/album/2HLeKfrHYquFIoM6VArIzJ"
+        "name": "Jessica & Krystal - US Road Trip (Original Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/5dlu2im51A1k7XbiuR8Xki"
       },
       "artists": [
         {
-          "name": "ELRIS",
-          "url": "https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5"
+          "name": "Jessica",
+          "url": "https://open.spotify.com/artist/1htfe3DR9bbdOq0NeCIE2W"
         }
       ],
-      "duration_ms": 189017,
-      "name": "Summer Dream",
-      "url": "https://open.spotify.com/track/598m79JEjWwQkh4eCdV8Nx"
+      "duration_ms": 190250,
+      "name": "SNAPSHOT",
+      "url": "https://open.spotify.com/track/4KLaauSZqxvJdakttvM0zQ"
     },
     {
       "added_at": "2022-01-17 09:07:09",
@@ -479,274 +399,18 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "Fromis_9 PRE-DEBUT Single",
-        "url": "https://open.spotify.com/album/3tm1tbyC1FgCrtMraqJXBr"
+        "name": "WEEK END LOL",
+        "url": "https://open.spotify.com/album/07YKMxo9FsEqVsIauzIVXC"
       },
       "artists": [
         {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
         }
       ],
-      "duration_ms": 191378,
-      "name": "Glass Shoes",
-      "url": "https://open.spotify.com/track/1VNuUzsWTp1WGf3mMeItvp"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "Lovelyz 4th Mini Album Heal",
-        "url": "https://open.spotify.com/album/2bEKOTFTxk07CU3O2sk9BX"
-      },
-      "artists": [
-        {
-          "name": "Lovelyz",
-          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
-        }
-      ],
-      "duration_ms": 194576,
-      "name": "That day",
-      "url": "https://open.spotify.com/track/7FO1P6TNaex2MfGFf5fRT0"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "THE STORY BEGINS",
-        "url": "https://open.spotify.com/album/3uLLMZwXdtGAD3BAB12jUM"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 215091,
-      "name": "OOH-AHH\ud558\uac8c Like OOH-AHH",
-      "url": "https://open.spotify.com/track/41r0BLWVIdo7CaKowcUDgM"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "Pink LUV + Blossom",
-        "url": "https://open.spotify.com/album/2EHA3up6S0LpzQLZ7XlRsb"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 214750,
-      "name": "Mr. Chu",
-      "url": "https://open.spotify.com/track/61NMqZzdUmRHw1KdS1honh"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "WE, first",
-        "url": "https://open.spotify.com/album/21dgcZBV7sIgFLS2ASogQ4"
-      },
-      "artists": [
-        {
-          "name": "ELRIS",
-          "url": "https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5"
-        }
-      ],
-      "duration_ms": 202330,
-      "name": "We, First",
-      "url": "https://open.spotify.com/track/0y1LIecRU2h6RcMIQ4P5vt"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "line",
-        "url": "https://open.spotify.com/album/0JTo1wOJtMlFnDaa1SZozo"
-      },
-      "artists": [
-        {
-          "name": "UNI.T",
-          "url": "https://open.spotify.com/artist/3iui2F01zrPbNx91td4LJZ"
-        }
-      ],
-      "duration_ms": 199060,
-      "name": "You&I",
-      "url": "https://open.spotify.com/track/2QiWUA1Jk1QZ2aYH87dfrC"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "YOLO",
-        "url": "https://open.spotify.com/album/0pk8DIavA3eNBCZXCpPpv5"
-      },
-      "artists": [
-        {
-          "name": "DIA",
-          "url": "https://open.spotify.com/artist/5Pcx98OUnL52aGZRRQx5v8"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Will you go out with me",
-      "url": "https://open.spotify.com/track/3CxFmlsOtbFuv7w4YE2OND"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "To. Day",
-        "url": "https://open.spotify.com/album/09r6g4aYjC6WqIxmTNHaZx"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 213377,
-      "name": "THINK OF YOU",
-      "url": "https://open.spotify.com/track/3WRc86I66w62pnfUpP9NHu"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "FANCY YOU",
-        "url": "https://open.spotify.com/album/759BaVI4pjAh6l16xqm56V"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 213885,
-      "name": "FANCY",
-      "url": "https://open.spotify.com/track/60zxdAqWtdDu0vYsbXViA7"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "Lovelyz 7th Mini Album [Unforgettable]",
-        "url": "https://open.spotify.com/album/5M1EFepUUqZig7XzN6qtB8"
-      },
-      "artists": [
-        {
-          "name": "Lovelyz",
-          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "Obliviate",
-      "url": "https://open.spotify.com/track/4cyVnu1W88UuIdNusX8D1A"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "GFRIEND The 6th Mini Album 'Time for the moon night'",
-        "url": "https://open.spotify.com/album/4YkF0cmnD2nmzdpLk1ZUUP"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 222451,
-      "name": "Love Bug",
-      "url": "https://open.spotify.com/track/5KnXbmxjbmXiuSmMclGOIi"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "Sweet-Tea",
-        "url": "https://open.spotify.com/album/7BFmhM7GcY5oeseQmyYlpZ"
-      },
-      "artists": [
-        {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
-        }
-      ],
-      "duration_ms": 200173,
-      "name": "ICE T",
-      "url": "https://open.spotify.com/track/6eNVf9UDzT0wrEFDEHnSus"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "SUMMER DREAM",
-        "url": "https://open.spotify.com/album/2HLeKfrHYquFIoM6VArIzJ"
-      },
-      "artists": [
-        {
-          "name": "ELRIS",
-          "url": "https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5"
-        }
-      ],
-      "duration_ms": 195101,
-      "name": "Will be mine",
-      "url": "https://open.spotify.com/track/1isnqhNclp3AhUOBPBOCDD"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "THE SECRET",
-        "url": "https://open.spotify.com/album/0usNbLkckzIo34wUPehZdh"
-      },
-      "artists": [
-        {
-          "name": "WJSN",
-          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
-        }
-      ],
-      "duration_ms": 198204,
-      "name": "BeBe",
-      "url": "https://open.spotify.com/track/3fRutnpPQkVTuDj9zOpoiB"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "YES or YES",
-        "url": "https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 237685,
-      "name": "YES or YES",
-      "url": "https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "Crazy in Love",
-        "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 207160,
-      "name": "LOVE is",
-      "url": "https://open.spotify.com/track/5ezx4XG58DNj74FtGLUaNU"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
-        "name": "DUMDi DUMDi",
-        "url": "https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "DUMDi DUMDi",
-      "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
+      "duration_ms": 179763,
+      "name": "Tiki-Taka(99%)",
+      "url": "https://open.spotify.com/track/2gLAfzOB7angHctZ0IQAtu"
     },
     {
       "added_at": "2022-01-17 09:07:09",
@@ -767,34 +431,198 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "Lovelyz Digital Single 'Wag-zak'",
-        "url": "https://open.spotify.com/album/1JvjesAVP9BlXCtU0HGrlA"
+        "name": "FANCY YOU",
+        "url": "https://open.spotify.com/album/759BaVI4pjAh6l16xqm56V"
       },
       "artists": [
         {
-          "name": "Lovelyz",
-          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 211156,
-      "name": "Wag-zak",
-      "url": "https://open.spotify.com/track/45UsiRzyeeAm1LlQZi66k2"
+      "duration_ms": 213885,
+      "name": "FANCY",
+      "url": "https://open.spotify.com/track/60zxdAqWtdDu0vYsbXViA7"
     },
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "Come to me",
-        "url": "https://open.spotify.com/album/2AdhqhSHycIJ7Jm0rPJwxI"
+        "name": "COLOR*IZ",
+        "url": "https://open.spotify.com/album/7tggzWGzVusg9SEKqbJYpt"
       },
       "artists": [
         {
-          "name": "Kyung dasom",
-          "url": "https://open.spotify.com/artist/6ye5C0aCtNApMSefJTzdj1"
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
         }
       ],
-      "duration_ms": 216720,
-      "name": "Come to me",
-      "url": "https://open.spotify.com/track/4CHmF2PI3RANWv15qkyKdB"
+      "duration_ms": 218993,
+      "name": "La Vie en Rose",
+      "url": "https://open.spotify.com/track/1fRaznZsAB2i63TtmYv2Hc"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "PRODUCE 101: 35 Girls 5 Concepts",
+        "url": "https://open.spotify.com/album/23WQRmPCr2qacsex7NWgkL"
+      },
+      "artists": [
+        {
+          "name": "GIRLS ON TOP",
+          "url": "https://open.spotify.com/artist/4s6Syi6HNugQf7LmbFoSdt"
+        }
+      ],
+      "duration_ms": 185720,
+      "name": "In the Same Place",
+      "url": "https://open.spotify.com/track/5Fkxps5UUaYg2jANR5SlOl"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "OPEN",
+        "url": "https://open.spotify.com/album/3sWCaTJS9BlBIlp2ECBh9t"
+      },
+      "artists": [
+        {
+          "name": "KWON EUN BI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 199533,
+      "name": "Door",
+      "url": "https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "SECRET GARDEN",
+        "url": "https://open.spotify.com/album/5QXcVUvEyh8kCCjF1aTNwN"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "duration_ms": 244022,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/1yXJ8tsOEXXEVWhYKVf191"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "I'm",
+        "url": "https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        }
+      ],
+      "duration_ms": 208773,
+      "name": "Warning (Feat. lIlBOI)",
+      "url": "https://open.spotify.com/track/1j795THd14Z0PmA3O18EwU"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "APRIL 5th Mini Album 'The Blue'",
+        "url": "https://open.spotify.com/album/6peri17gXJDs3LQeeD66ju"
+      },
+      "artists": [
+        {
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+        }
+      ],
+      "duration_ms": 195257,
+      "name": "The Blue Bird",
+      "url": "https://open.spotify.com/track/6emq7eKDjBS9PbxAPXwdDi"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "HAPPY MOMENT",
+        "url": "https://open.spotify.com/album/4nnyYQGOKRU090FK7sfunL"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 180756,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/1KFwBOa8gDqT7Avua2yxfe"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "YES or YES",
+        "url": "https://open.spotify.com/album/38QQgShZFuEAJJw1A6hz3x"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 237685,
+      "name": "YES or YES",
+      "url": "https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "GFRIEND Summer Mini Album 'Sunny Summer'",
+        "url": "https://open.spotify.com/album/65HAyK45TFC2MJSufJwzji"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 198536,
+      "name": "Sunny Summer",
+      "url": "https://open.spotify.com/track/7IE8eERSpTC9Jaw3arl99B"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "[12:00]",
+        "url": "https://open.spotify.com/album/0AfLJ1yEWYlFPabxu1kmht"
+      },
+      "artists": [
+        {
+          "name": "LOONA",
+          "url": "https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7"
+        }
+      ],
+      "duration_ms": 205520,
+      "name": "Why Not?",
+      "url": "https://open.spotify.com/track/227y7s5IZ5TWN17Pkte5tc"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "OH MY GIRL 6th Mini Album [REMEMBER ME]",
+        "url": "https://open.spotify.com/album/5cWzZxmpNNedvZLCXnFE3E"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "duration_ms": 212741,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4BQrEOiu5dLYNl7kpNRNvS"
     },
     {
       "added_at": "2022-01-17 09:07:09",
@@ -815,6 +643,166 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
+        "name": "Lovelyz8",
+        "url": "https://open.spotify.com/album/4WkapgTIqmLu5HUF75X6Y8"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "duration_ms": 218474,
+      "name": "Ah-Choo",
+      "url": "https://open.spotify.com/track/4Kl017IgdJxdlvgnvrpYlE"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/7Km2KH6vfW9WzG7OeXFZHo"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 180809,
+      "name": "Dance The Night Away",
+      "url": "https://open.spotify.com/track/5ilOXZ0vqTX69rjRubPivH"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "UNNATURAL",
+        "url": "https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "UNNATURAL",
+      "url": "https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "Spring",
+        "url": "https://open.spotify.com/album/2tvrADeSm5OAx5XW2lDWkF"
+      },
+      "artists": [
+        {
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+        }
+      ],
+      "duration_ms": 201183,
+      "name": "Tinker Bell",
+      "url": "https://open.spotify.com/track/7tjwRgsTfDDIxj1iIFNMkz"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "GFRIEND The 6th Mini Album 'Time for the moon night'",
+        "url": "https://open.spotify.com/album/4YkF0cmnD2nmzdpLk1ZUUP"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 222451,
+      "name": "Love Bug",
+      "url": "https://open.spotify.com/track/5KnXbmxjbmXiuSmMclGOIi"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "Lovelyz Digital Single 'Wag-zak'",
+        "url": "https://open.spotify.com/album/1JvjesAVP9BlXCtU0HGrlA"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "duration_ms": 211156,
+      "name": "Wag-zak",
+      "url": "https://open.spotify.com/track/45UsiRzyeeAm1LlQZi66k2"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "TWICEcoaster : LANE 2",
+        "url": "https://open.spotify.com/album/7CgL5c3BKZUnYgh8uWdeQQ"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 195753,
+      "name": "KNOCK KNOCK",
+      "url": "https://open.spotify.com/track/7kKvrBLjXFPFWtEAjT59CV"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/6Bdam86JkTBRhCz7Rohz1i"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/4KJ8wgT7D6ZsSmVlXjEptF"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "My Little Society",
+        "url": "https://open.spotify.com/album/6XPT0rwyyZnG4Z2lJAych2"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "Feel Good (SECRET CODE)",
+      "url": "https://open.spotify.com/track/2ZpL1wqiiQ3DUWEjo8CgFL"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "IDOL: The Coup (Original Television Soundtrack, Pt. 1)",
+        "url": "https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "duration_ms": 208223,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4IT5FuLhPEFlGfaApivmZi"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
         "name": "The Red Summer - Summer Mini Album",
         "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
       },
@@ -831,18 +819,18 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/77w56C1tECJwOgVEhNbI5x"
+        "name": "A New Trilogy",
+        "url": "https://open.spotify.com/album/1sgM8hFTIWtCjO7ap5O3US"
       },
       "artists": [
         {
-          "name": "LIGHTSUM",
-          "url": "https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t"
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
         }
       ],
-      "duration_ms": 204426,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/3MJtE5VkJHHTV74E6KIDIv"
+      "duration_ms": 213325,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/4SCRUC5lDUwbdZHQuGp2Z2"
     },
     {
       "added_at": "2022-01-17 09:07:09",
@@ -863,22 +851,6 @@
     {
       "added_at": "2022-01-17 09:07:09",
       "album": {
-        "name": "PAGE TWO",
-        "url": "https://open.spotify.com/album/1AHK0VYfnND7mAiZ5VneXG"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 208862,
-      "name": "CHEER UP",
-      "url": "https://open.spotify.com/track/1D7e4LrjdB4mKaI9XYrmPY"
-    },
-    {
-      "added_at": "2022-01-17 09:07:09",
-      "album": {
         "name": "IDOL: The Coup (Original Television Soundtrack, Pt. 2)",
         "url": "https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC"
       },
@@ -891,6 +863,38 @@
       "duration_ms": 195338,
       "name": "Honest",
       "url": "https://open.spotify.com/track/1A9GiSTO5a6katWKUJfV4t"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "GFRIEND The 5th Mini Album <PARALLEL>",
+        "url": "https://open.spotify.com/album/2cGPXPXZxEBr6LniuA3ewf"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 211972,
+      "name": "LOVE WHISPER",
+      "url": "https://open.spotify.com/track/1xwnvVY9gHdo69PuGQkG1U"
+    },
+    {
+      "added_at": "2022-01-17 09:07:09",
+      "album": {
+        "name": "MORE & MORE",
+        "url": "https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 199653,
+      "name": "MORE & MORE",
+      "url": "https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g"
     },
     {
       "added_at": "2022-01-17 09:07:09",

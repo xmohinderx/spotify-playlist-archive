@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 
 > Big riffs and pounding drums to help you strut the streets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,136,744 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,137,124 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tyCD9QhIWF.md) - [plain]
 | 54 | [too dead to save](https://open.spotify.com/track/24Q0VBv6Xfd8zRxY2jv1do) | [Macca Wiles](https://open.spotify.com/artist/7CkWoeaDeH2dRdiOxILlS3) | [too dead to save](https://open.spotify.com/album/53ScFiwnS1G1qt80X0yR4r) | 2:21 |
 | 55 | [Save Yourselves](https://open.spotify.com/track/30iYY7maOxnipdtsohgJlt) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Save Yourselves](https://open.spotify.com/album/2nEm2s5PWaB6x95wjaxUuU) | 3:27 |
 
-Snapshot ID: `MTY0MjQzNDAzNSwwMDAwMDA4NjAwMDAwMTdlNjhiMjdkZjkwMDAwMDE3MzE0YmNkYTQ1`
+Snapshot ID: `MTY0Mjc2NTM0OCwwMDAwMDA4NzAwMDAwMTdlN2M3MWVlYzkwMDAwMDE3MzE0YmNkYTQ1`

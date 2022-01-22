@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A collection of recent tracks from the world of black and dark metal. Cover: Dark Funeral",
+  "description": "A collection of recent tracks from the world of black and dark metal. Cover: Abbath",
   "name": "Black & Dark Metal",
   "published_playlist_ids": [
     "64Dcl2uRhYdNKoQxcWR2Lx"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 348005,
       "name": "br\u00e4nnm\u00e4rkt",
       "url": "https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2"
@@ -189,6 +189,24 @@
       "duration_ms": 324500,
       "name": "Calendula",
       "url": "https://open.spotify.com/track/2Xdk8F4L6TCaKCxOiZHOQw"
+    },
+    {
+      "album": {
+        "name": "Chapter I: Escape",
+        "url": "https://open.spotify.com/album/6RetrQBkhFn2SXftzZODXG"
+      },
+      "artists": [
+        {
+          "name": "Where's My Bible",
+          "url": "https://open.spotify.com/artist/77WF2Z7lgWaMOQSI8p8Fu7"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266635,
+      "name": "Chapter I: Escape",
+      "url": "https://open.spotify.com/track/50wNXncjCWM87QlNQ5bmKq"
     },
     {
       "album": {
@@ -657,7 +675,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 337994,
       "name": "Hide from the Sun",
       "url": "https://open.spotify.com/track/5sfu3mgxe0CAa1TSirTnPI"
@@ -787,10 +805,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 345250,
       "name": "I\u00f2 Pan!",
       "url": "https://open.spotify.com/track/1RSMkPnTZDK5OUEXYnV31Y"
+    },
+    {
+      "album": {
+        "name": "Jean Grenier",
+        "url": "https://open.spotify.com/album/6gWOWQh9y1PKFsiTgTXDkP"
+      },
+      "artists": [
+        {
+          "name": "Kuoleman Galleria",
+          "url": "https://open.spotify.com/artist/1qH06U3f3AMfIpmRuG2fT2"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292880,
+      "name": "Jean Grenier",
+      "url": "https://open.spotify.com/track/0qPVLDSC4mqL0oUDMwJEqu"
     },
     {
       "album": {
@@ -841,7 +877,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 399613,
       "name": "March of the Antichrist",
       "url": "https://open.spotify.com/track/6Dy0BJpWP1FqqffGVldz1u"
@@ -992,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "Of Beasts and Worms",
+        "url": "https://open.spotify.com/album/7JmOepwDqd8BEpq5sSsA4o"
+      },
+      "artists": [
+        {
+          "name": "Allegaeon",
+          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390670,
+      "name": "Of Beasts and Worms",
+      "url": "https://open.spotify.com/track/5Hg55hKLCsEKo4uNoQPSlN"
+    },
+    {
+      "album": {
         "name": "In Tenebris",
         "url": "https://open.spotify.com/album/4ep3HzckKB6SLCbJUhq49v"
       },
@@ -1010,6 +1064,24 @@
     },
     {
       "album": {
+        "name": "Neither Moth nor Rust",
+        "url": "https://open.spotify.com/album/1QVMTChYOhXsAyRC949Nkt"
+      },
+      "artists": [
+        {
+          "name": "Hanging Garden",
+          "url": "https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253979,
+      "name": "On the Shore of Eternity",
+      "url": "https://open.spotify.com/track/6a8iR9C7Mi5Gkww7yOyoJE"
+    },
+    {
+      "album": {
         "name": "Part of the End",
         "url": "https://open.spotify.com/album/0uEm2ITFYpqkflzwJz01kV"
       },
@@ -1025,6 +1097,24 @@
       "duration_ms": 346733,
       "name": "Part of the End",
       "url": "https://open.spotify.com/track/5GXsYrLmKbMrFXci8wSqn0"
+    },
+    {
+      "album": {
+        "name": "Reborn Paradise",
+        "url": "https://open.spotify.com/album/7i5AQIVHiZApzRnoZYmgsa"
+      },
+      "artists": [
+        {
+          "name": "Deserted Fear",
+          "url": "https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298773,
+      "name": "Reborn Paradise",
+      "url": "https://open.spotify.com/track/5jg1xRSLlxRQEjClsHnMb1"
     },
     {
       "album": {
@@ -1223,6 +1313,24 @@
       "duration_ms": 424470,
       "name": "Stone That Burns",
       "url": "https://open.spotify.com/track/5TX941hWLDj4ru5N2xbJti"
+    },
+    {
+      "album": {
+        "name": "Szex Witchery",
+        "url": "https://open.spotify.com/album/4POysr62d7E2iOCLDHe5sS"
+      },
+      "artists": [
+        {
+          "name": "Midnight",
+          "url": "https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239680,
+      "name": "Szex Witchery",
+      "url": "https://open.spotify.com/track/2rfMZCzlXaGsrCiSdllKcT"
     },
     {
       "album": {
@@ -1435,7 +1543,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 223333,
       "name": "Till Valhall - Svitjod Edition",
       "url": "https://open.spotify.com/track/0nn0RZJ2HIigg38UrRXka0"
@@ -1651,7 +1759,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 304305,
       "name": "Ymir",
       "url": "https://open.spotify.com/track/1FCOfEzh2LpfhSYMKY95Me"

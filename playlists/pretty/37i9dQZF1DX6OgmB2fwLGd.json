@@ -1,28 +1,64 @@
 {
-  "description": "The soundtrack to the Internet. Cover: Yeat",
-  "num_followers": 1042851,
+  "description": "The soundtrack to the Internet. Cover: Coco & Clair Clair",
+  "num_followers": 1043238,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI4MDQ3MSwwMDAwMDI5ZDAwMDAwMTdlNWY4YjRjYjYwMDAwMDE3ZTMxYTk2Mzc5",
+  "snapshot_id": "MTY0Mjc4NDEzMywwMDAwMDJhMzAwMDAwMTdlN2Q5MDkzNDYwMDAwMDE3ZTdkMWY2MWY3",
   "tracks": [
     {
-      "added_at": "2022-01-07 06:18:14",
+      "added_at": "2021-11-23 16:41:30",
       "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        },
+        {
+          "name": "Okthxbb",
+          "url": "https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6"
         }
       ],
-      "duration_ms": 160052,
-      "name": "Mon\u00eby so big",
-      "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
+      "duration_ms": 224349,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9"
+    },
+    {
+      "added_at": "2022-01-21 16:42:10",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 153999,
+      "name": "Ginseng Strip 2002",
+      "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
+    },
+    {
+      "added_at": "2022-01-04 18:47:15",
+      "album": {
+        "name": "I Feel Fantastic",
+        "url": "https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz"
+      },
+      "artists": [
+        {
+          "name": "Riovaz",
+          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "I Feel Fantastic",
+      "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
     },
     {
       "added_at": "2022-01-07 06:12:47",
@@ -49,6 +85,22 @@
       "url": "https://open.spotify.com/track/5HSsOCyML8FFIviP9ByHCF"
     },
     {
+      "added_at": "2022-01-21 16:42:10",
+      "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 155742,
+      "name": "Turban",
+      "url": "https://open.spotify.com/track/4aMxs74PXoQg2SLgjypcvb"
+    },
+    {
       "added_at": "2022-01-11 22:44:09",
       "album": {
         "name": "a liquid breakfast",
@@ -63,6 +115,22 @@
       "duration_ms": 164613,
       "name": "damn Right",
       "url": "https://open.spotify.com/track/01ukVTKa6DhejzNulpoG2t"
+    },
+    {
+      "added_at": "2022-01-21 14:52:14",
+      "album": {
+        "name": "Heaven Or Hell",
+        "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 154424,
+      "name": "No Idea",
+      "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
     },
     {
       "added_at": "2022-01-07 06:12:47",
@@ -81,20 +149,20 @@
       "url": "https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t"
     },
     {
-      "added_at": "2022-01-04 18:47:15",
+      "added_at": "2022-01-21 14:54:39",
       "album": {
-        "name": "I Feel Fantastic",
-        "url": "https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz"
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/0fPkcy88RYqvj2iHxQ4qZc"
       },
       "artists": [
         {
-          "name": "Riovaz",
-          "url": "https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8"
+          "name": "Flowerboy",
+          "url": "https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS"
         }
       ],
-      "duration_ms": 146938,
-      "name": "I Feel Fantastic",
-      "url": "https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH"
+      "duration_ms": 83571,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/1avlO8s4bCF7Sk5Sv5tXI7"
     },
     {
       "added_at": "2021-11-10 00:56:03",
@@ -111,6 +179,38 @@
       "duration_ms": 213884,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj"
+    },
+    {
+      "added_at": "2022-01-07 06:18:14",
+      "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Mon\u00eby so big",
+      "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
+    },
+    {
+      "added_at": "2022-01-21 16:55:33",
+      "album": {
+        "name": "Slo-Be Bryant 3",
+        "url": "https://open.spotify.com/album/1PAmNh4VorpJrt4QgfEaHS"
+      },
+      "artists": [
+        {
+          "name": "Young Slo-Be",
+          "url": "https://open.spotify.com/artist/1pWm8RcyiWZehSnb38i4fM"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/5yfMsbJda8sXVfnJHgm8Ke"
     },
     {
       "added_at": "2021-12-14 15:29:17",
@@ -149,6 +249,58 @@
       "url": "https://open.spotify.com/track/3Ps0JFaxBuamCoQTx6X8LT"
     },
     {
+      "added_at": "2022-01-21 14:54:39",
+      "album": {
+        "name": "You're A Jerk 2",
+        "url": "https://open.spotify.com/album/4LbJu3jDgQvb6C3zPP7r2T"
+      },
+      "artists": [
+        {
+          "name": "New Boyz",
+          "url": "https://open.spotify.com/artist/1ZKqrja0WvbSssYNFO3lzs"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "You're A Jerk 2",
+      "url": "https://open.spotify.com/track/5aXplC3gYU14i6HW5Fpaer"
+    },
+    {
+      "added_at": "2022-01-21 14:52:14",
+      "album": {
+        "name": "TBTF",
+        "url": "https://open.spotify.com/album/7AcCd36B5Fu0N1qQZVBqVg"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "duration_ms": 172330,
+      "name": "TBTF",
+      "url": "https://open.spotify.com/track/01Vormnc8QSPgBQYkvrQ7P"
+    },
+    {
+      "added_at": "2022-01-21 14:54:39",
+      "album": {
+        "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
+    },
+    {
       "added_at": "2022-01-04 15:20:47",
       "album": {
         "name": "Arc'teryx",
@@ -185,6 +337,38 @@
       "url": "https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0"
     },
     {
+      "added_at": "2021-12-10 06:54:21",
+      "album": {
+        "name": "RICH BOY",
+        "url": "https://open.spotify.com/album/05Mxsv56M4jUAVxu4z28pK"
+      },
+      "artists": [
+        {
+          "name": "payton",
+          "url": "https://open.spotify.com/artist/0wrbaNL900CWaR5DYERLze"
+        }
+      ],
+      "duration_ms": 111911,
+      "name": "RICH BOY",
+      "url": "https://open.spotify.com/track/56rLW4cKE1A6ckp48OPhQS"
+    },
+    {
+      "added_at": "2021-12-10 06:54:21",
+      "album": {
+        "name": "Imma Celebrity",
+        "url": "https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "duration_ms": 188965,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
+    },
+    {
       "added_at": "2022-01-14 05:00:00",
       "album": {
         "name": "Back It Up",
@@ -201,24 +385,20 @@
       "url": "https://open.spotify.com/track/4ooLeGJxmJ89FwaqojgI0D"
     },
     {
-      "added_at": "2021-11-23 16:41:30",
+      "added_at": "2022-01-21 14:54:39",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ"
+        "name": "I Need Bands",
+        "url": "https://open.spotify.com/album/4Cu7Dpsdv8JUgiegEQ9Bg7"
       },
       "artists": [
         {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
-        },
-        {
-          "name": "Okthxbb",
-          "url": "https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6"
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
         }
       ],
-      "duration_ms": 224349,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9"
+      "duration_ms": 169045,
+      "name": "I Need Bands",
+      "url": "https://open.spotify.com/track/4mU3dpFlrTUqp94wrQodYk"
     },
     {
       "added_at": "2021-12-09 19:12:40",
@@ -269,22 +449,6 @@
       "url": "https://open.spotify.com/track/1K6UrHkBFRaPTZl1AYPn7p"
     },
     {
-      "added_at": "2021-12-10 06:54:21",
-      "album": {
-        "name": "RICH BOY",
-        "url": "https://open.spotify.com/album/05Mxsv56M4jUAVxu4z28pK"
-      },
-      "artists": [
-        {
-          "name": "payton",
-          "url": "https://open.spotify.com/artist/0wrbaNL900CWaR5DYERLze"
-        }
-      ],
-      "duration_ms": 111911,
-      "name": "RICH BOY",
-      "url": "https://open.spotify.com/track/56rLW4cKE1A6ckp48OPhQS"
-    },
-    {
       "added_at": "2022-01-05 17:21:06",
       "album": {
         "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
@@ -329,38 +493,6 @@
       "url": "https://open.spotify.com/track/7elpLTR2QnjyL6gtsj2I7R"
     },
     {
-      "added_at": "2022-01-12 03:19:32",
-      "album": {
-        "name": "DS3",
-        "url": "https://open.spotify.com/album/6gSNazcfe8nTzklcO0NUUW"
-      },
-      "artists": [
-        {
-          "name": "Redda",
-          "url": "https://open.spotify.com/artist/2iX9KbdYoshOwrGXDVqurh"
-        }
-      ],
-      "duration_ms": 94693,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/21spcb4suSZ50YET9ydYbE"
-    },
-    {
-      "added_at": "2021-12-10 06:54:21",
-      "album": {
-        "name": "Imma Celebrity",
-        "url": "https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        }
-      ],
-      "duration_ms": 188965,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
-    },
-    {
       "added_at": "2021-11-16 21:46:29",
       "album": {
         "name": "The Melodic Blue",
@@ -375,22 +507,6 @@
       "duration_ms": 168758,
       "name": "first order of business",
       "url": "https://open.spotify.com/track/4d6z0mKVcnhE5x0YWvTexh"
-    },
-    {
-      "added_at": "2022-01-14 15:34:55",
-      "album": {
-        "name": "Buggin' Freestyle",
-        "url": "https://open.spotify.com/album/41cCjr0TBMm6GTXD36A6Tw"
-      },
-      "artists": [
-        {
-          "name": "Championxiii",
-          "url": "https://open.spotify.com/artist/0mYBT2Ek76Szd4MqbCgT5R"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Buggin' Freestyle",
-      "url": "https://open.spotify.com/track/4qqvFEtoAQvRdYWTecpbk7"
     },
     {
       "added_at": "2021-12-16 13:52:21",
@@ -469,22 +585,6 @@
       "url": "https://open.spotify.com/track/5TqAWu0AhiQ7rPne0JMhxq"
     },
     {
-      "added_at": "2022-01-06 04:10:47",
-      "album": {
-        "name": "What We Have",
-        "url": "https://open.spotify.com/album/6mNYZNJ4a0tzSS3nPVnkO2"
-      },
-      "artists": [
-        {
-          "name": "Summrs",
-          "url": "https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN"
-        }
-      ],
-      "duration_ms": 142716,
-      "name": "just cant",
-      "url": "https://open.spotify.com/track/4DCSx7XCBxYWuc71WL02j2"
-    },
-    {
       "added_at": "2021-10-22 04:00:00",
       "album": {
         "name": "bitch im joe biden",
@@ -499,30 +599,6 @@
       "duration_ms": 108441,
       "name": "bitch im joe biden",
       "url": "https://open.spotify.com/track/14hW7QNB7jEQYQVcdN79Xu"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Come Thru (feat. Shady Moon & Ciscaux)",
-        "url": "https://open.spotify.com/album/4gZDq5nTla6IdrJlC6ha4R"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        },
-        {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
-        },
-        {
-          "name": "Ciscaux",
-          "url": "https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW"
-        }
-      ],
-      "duration_ms": 148615,
-      "name": "Come Thru (feat. Shady Moon & Ciscaux)",
-      "url": "https://open.spotify.com/track/7zjO4Hy7TjwyGTJmOwaYJs"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -875,30 +951,6 @@
       "duration_ms": 192000,
       "name": "Shisha",
       "url": "https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js"
-    },
-    {
-      "added_at": "2021-12-10 06:54:21",
-      "album": {
-        "name": "FINDERS KEEPERS (feat. Scorey & Internet Money)",
-        "url": "https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ"
-      },
-      "artists": [
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        },
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        },
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        }
-      ],
-      "duration_ms": 127826,
-      "name": "FINDERS KEEPERS (feat. Scorey & Internet Money)",
-      "url": "https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG"
     },
     {
       "added_at": "2021-11-27 16:34:23",

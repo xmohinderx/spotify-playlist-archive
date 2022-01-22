@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Jamestown Revival\n",
+  "description": "A new shade of Country. Cover: Keb' Mo'",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 170206,
       "name": "Breaking Point",
       "url": "https://open.spotify.com/track/0oP1BhXWDnjhpLXoZmMkBU"
@@ -381,6 +381,28 @@
       "duration_ms": 192626,
       "name": "Cowpoke",
       "url": "https://open.spotify.com/track/3nuXMmXEJz8nRjDikhLryl"
+    },
+    {
+      "album": {
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232827,
+      "name": "Crooked Tree",
+      "url": "https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG"
     },
     {
       "album": {
@@ -601,7 +623,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 181493,
       "name": "Game For Guessing (feat. Robert Ellis)",
       "url": "https://open.spotify.com/track/4jqAbk5oP2vIWnqmMGWGBt"
@@ -790,6 +812,24 @@
     },
     {
       "album": {
+        "name": "Skeletons (Deluxe)",
+        "url": "https://open.spotify.com/album/2xXJINeBLHwdFzQECIJuUM"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284560,
+      "name": "Headstone",
+      "url": "https://open.spotify.com/track/21ZQamVjLP7lLrJ2wUshfu"
+    },
+    {
+      "album": {
         "name": "The Willie Nelson Family",
         "url": "https://open.spotify.com/album/2gSxAG6hqMBsvyBZ0ZnJwt"
       },
@@ -841,6 +881,24 @@
       "duration_ms": 261268,
       "name": "Highway",
       "url": "https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7"
+    },
+    {
+      "album": {
+        "name": "Highway 87",
+        "url": "https://open.spotify.com/album/3tn7XFpPkbf8z8bNjvXzi0"
+      },
+      "artists": [
+        {
+          "name": "Corb Lund",
+          "url": "https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200586,
+      "name": "Highway 87",
+      "url": "https://open.spotify.com/track/5gDmnDXs2Sjcn05lC0HvFV"
     },
     {
       "album": {
@@ -1149,7 +1207,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 232226,
       "name": "Leave Those Memories Alone",
       "url": "https://open.spotify.com/track/04K7wZAM3YVDyFJORi1yDg"
@@ -1916,6 +1974,28 @@
     },
     {
       "album": {
+        "name": "Good To Be...",
+        "url": "https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
+      "url": "https://open.spotify.com/track/0e0PhBW5VPfAn62bbupqy9"
+    },
+    {
+      "album": {
         "name": "The Medicine Man",
         "url": "https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii"
       },
@@ -1931,7 +2011,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 218360,
       "name": "The Medicine Man [Feat. Old Crow Medicine Show]",
       "url": "https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX"
@@ -2109,7 +2189,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 291702,
       "name": "Wasn't Her Own",
       "url": "https://open.spotify.com/track/35bixwNlqgab7vYz9ZEnAb"
@@ -2171,6 +2251,32 @@
       "duration_ms": 271825,
       "name": "Whiskey River",
       "url": "https://open.spotify.com/track/3lIaJQ9U0l6Bae86e1cZQs"
+    },
+    {
+      "album": {
+        "name": "White Dove",
+        "url": "https://open.spotify.com/album/0l9s01Apr4iWRPDBvNVjGK"
+      },
+      "artists": [
+        {
+          "name": "David Ferguson",
+          "url": "https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        },
+        {
+          "name": "Ronnie McCoury",
+          "url": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231749,
+      "name": "White Dove",
+      "url": "https://open.spotify.com/track/5SBpklyXHt6ledjUTz3TJ6"
     },
     {
       "album": {

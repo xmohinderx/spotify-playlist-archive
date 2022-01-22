@@ -27,7 +27,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 172794,
       "name": "+1 Minuto",
       "url": "https://open.spotify.com/track/1lrWEcbSH1cspHmGq80pQ6"
@@ -53,6 +53,24 @@
       "duration_ms": 251923,
       "name": "30 Dias",
       "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
+    },
+    {
+      "album": {
+        "name": "4G",
+        "url": "https://open.spotify.com/album/4xPBKbhYP0g7jm0axk5Mrj"
+      },
+      "artists": [
+        {
+          "name": "Max e Luan",
+          "url": "https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162624,
+      "name": "4G",
+      "url": "https://open.spotify.com/track/0Xyai3VqkT2sujXvF58zDQ"
     },
     {
       "album": {
@@ -125,7 +143,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 200890,
       "name": "Acaso",
       "url": "https://open.spotify.com/track/4Ls13Ag4SWnniiX4QLRltL"
@@ -151,7 +169,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 197116,
       "name": "Acenda a Luz",
       "url": "https://open.spotify.com/track/3Vhg88cJ59iBJwbXUGsdXq"
@@ -227,7 +245,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 171063,
       "name": "Alucina\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0UpR8p3lbdrjreHe1I8Z3c"
@@ -267,7 +285,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 127000,
       "name": "Amigos Que Se Beijam",
       "url": "https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm"
@@ -369,7 +387,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 174784,
       "name": "Apaixonei De Vez",
       "url": "https://open.spotify.com/track/0PZ4wwTCsQB3E7U92zKSDh"
@@ -405,7 +423,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 201085,
       "name": "Areia",
       "url": "https://open.spotify.com/track/58fdDGHrVbsWhPbrdPYmt8"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "Cafe\u00edna",
       "url": "https://open.spotify.com/track/0S3Q4nv7VBxWQmRBQ36RGp"
@@ -643,7 +661,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 175748,
       "name": "CAMISA 10",
       "url": "https://open.spotify.com/track/2lUTz5XBE6Ld1dcjBXTXjV"
@@ -661,7 +679,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 154923,
       "name": "Camisa 10",
       "url": "https://open.spotify.com/track/66m7H4PHOFGWWfpBwVfzQc"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 174314,
       "name": "Capa de Revista",
       "url": "https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Cheia de Dobras",
       "url": "https://open.spotify.com/track/0ELWsJBhMIdIUhjM0zzx39"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 232800,
       "name": "Cicatriz Lunar",
       "url": "https://open.spotify.com/track/2dmjLNuwjNd4uCtoGrUTez"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 135285,
       "name": "De Novo",
       "url": "https://open.spotify.com/track/2vVHmxPI3qgRnJykMMSKlp"
@@ -1059,7 +1077,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 242777,
       "name": "Deixa Eu Falar pra Voc\u00ea",
       "url": "https://open.spotify.com/track/0f1xsopmPwjGv5lJooglnD"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 210485,
       "name": "Desce A\u00ed (Flow Drake)",
       "url": "https://open.spotify.com/track/2oRqU8CVBhp8ZAwaikwoCW"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 218532,
       "name": "Desculpa o Exagero",
       "url": "https://open.spotify.com/track/6UlCJWjcObqoxgKnFMN5WD"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 122777,
       "name": "Desligado",
       "url": "https://open.spotify.com/track/2919vhmu3wuoNnUgcZBL6w"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 154331,
       "name": "Devagarin",
       "url": "https://open.spotify.com/track/4087oD5oCiAMLQjGmwSufu"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 170602,
       "name": "fico quietin",
       "url": "https://open.spotify.com/track/3DQPLuvUhEPPhCbPasYzad"
@@ -1527,7 +1545,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 173500,
       "name": "frequente(mente)",
       "url": "https://open.spotify.com/track/2Wr7dUhp537y5JzKtyqheq"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 203520,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/2wSiInqTeGr7wUqEkDFMkx"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 151680,
       "name": "Guardanapo",
       "url": "https://open.spotify.com/track/2E5k25zIQN8qfzRyqINXI8"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 174138,
       "name": "Irrespons\u00e1vel",
       "url": "https://open.spotify.com/track/3yP1TLkQlwcyf7wsBHvi9g"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 145308,
       "name": "Localiza A\u00ed BB",
       "url": "https://open.spotify.com/track/6fe5D0ivKnpXFMAnoSRjah"
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 184725,
       "name": "M de Mulher - Ao Vivo",
       "url": "https://open.spotify.com/track/0ZuyDpxvFs9cS1T7wFIg8N"
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 190612,
       "name": "Mais Que Uma Amizade",
       "url": "https://open.spotify.com/track/11W3VTyTfzhQaaZcDMhcLS"
@@ -1825,7 +1843,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 288383,
       "name": "Mais Uma Can\u00e7\u00e3o Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/5x9hKw3w0M2FuZ5yFKlaPy"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 235312,
       "name": "Me Abra\u00e7a",
       "url": "https://open.spotify.com/track/1qQpfxn2xSpZebnrvRNBxR"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 163426,
       "name": "Me Bloqueia - Ao Vivo",
       "url": "https://open.spotify.com/track/6OAkjynNErglemj4dzUOIP"
@@ -1945,7 +1963,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 173147,
       "name": "Meu Grande Amor",
       "url": "https://open.spotify.com/track/06leULDpUK6vlq3I29zdvr"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 139477,
       "name": "Mo\u00e7a",
       "url": "https://open.spotify.com/track/150lAFv2BIRzo76x3pSVcI"
@@ -2175,7 +2193,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 211445,
       "name": "Na Press\u00e3o / Cora\u00e7\u00e3o Na Porta",
       "url": "https://open.spotify.com/track/2HZwILqL7J4EhVNYlIBr5S"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 276417,
       "name": "nada vale o pre\u00e7o",
       "url": "https://open.spotify.com/track/7DUbJL6jtQBCoCPm0hyQQk"
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 182759,
       "name": "O Jeito \u00c9 Ir Embora",
       "url": "https://open.spotify.com/track/1avOlhgHGzH7rtlsAcdnpR"
@@ -2335,7 +2353,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 170068,
       "name": "Para Em Mim de Novo",
       "url": "https://open.spotify.com/track/7AgNxTWIZFIxp4531PYno4"
@@ -2361,6 +2379,24 @@
       "duration_ms": 179031,
       "name": "Parada Louca",
       "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
+    },
+    {
+      "album": {
+        "name": "De Primeira",
+        "url": "https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196188,
+      "name": "Pelejei",
+      "url": "https://open.spotify.com/track/4mFyni5z0DnQLvXvaA8yWm"
     },
     {
       "album": {
@@ -2563,7 +2599,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 195264,
       "name": "Princesinha - Ao Vivo",
       "url": "https://open.spotify.com/track/1NT60UCx5DulzPxw3OyXOb"
@@ -2709,7 +2745,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 180821,
       "name": "Reca\u00edda Sem Compromisso",
       "url": "https://open.spotify.com/track/29KuQ0h3UdcgetoGASw2qq"
@@ -2843,7 +2879,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 166900,
       "name": "Sambinha",
       "url": "https://open.spotify.com/track/4Dr5nJl73jOqFSl6xzjnEK"
@@ -3041,7 +3077,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 432000,
       "name": "Set Dj Br da Tijuca",
       "url": "https://open.spotify.com/track/3ezOMmQ3UYhyp6kRlDV5Gq"
@@ -3093,7 +3129,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 180500,
       "name": "Short Jeans - Ao Vivo",
       "url": "https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S"
@@ -3261,7 +3297,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 187726,
       "name": "S\u00f3 Que N\u00e3o",
       "url": "https://open.spotify.com/track/7EFR4kfHrCvY2ByCYpM1C9"
@@ -3323,7 +3359,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 164908,
       "name": "Te Deixo Crazy",
       "url": "https://open.spotify.com/track/7xyvvzTC0cG4wqJNIDuiNb"
@@ -3385,7 +3421,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 114143,
       "name": "Tipo Gringa",
       "url": "https://open.spotify.com/track/3oxk3UVbKJiPcPokw9h64D"
@@ -3469,7 +3505,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 176952,
       "name": "Vem Ki Vem",
       "url": "https://open.spotify.com/track/1Fs0lRT8Zpepzqq54Bs0cT"
@@ -3521,7 +3557,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 218256,
       "name": "Visceral",
       "url": "https://open.spotify.com/track/1mw8cDYgX68sr41Ju5TNry"

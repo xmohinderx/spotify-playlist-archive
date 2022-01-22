@@ -250,6 +250,32 @@
     },
     {
       "album": {
+        "name": "Brick Figures",
+        "url": "https://open.spotify.com/album/49dWT6BEhoLm7QIiNWxCIA"
+      },
+      "artists": [
+        {
+          "name": "TNGHT",
+          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Lunice",
+          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Brick Figures",
+      "url": "https://open.spotify.com/track/72eT0Fpa5QBbzvteNIK1aE"
+    },
+    {
+      "album": {
         "name": "BUD",
         "url": "https://open.spotify.com/album/62E3FuXeBjp5e8bfvRf4xT"
       },
@@ -261,7 +287,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 236625,
       "name": "BUD",
       "url": "https://open.spotify.com/track/61PfhJNup3uF1msSd1US69"
@@ -970,6 +996,24 @@
     },
     {
       "album": {
+        "name": "Jord\u00e3o",
+        "url": "https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi"
+      },
+      "artists": [
+        {
+          "name": "Niagara",
+          "url": "https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263800,
+      "name": "Jord\u00e3o",
+      "url": "https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l"
+    },
+    {
+      "album": {
         "name": "Joy Squad",
         "url": "https://open.spotify.com/album/31my8IdGlu4Sti63ivmuje"
       },
@@ -1083,6 +1127,24 @@
       "duration_ms": 356666,
       "name": "Kreuzung",
       "url": "https://open.spotify.com/track/7zJe81f6l3pHwpUGSQj3HY"
+    },
+    {
+      "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
     },
     {
       "album": {
@@ -1983,7 +2045,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 270002,
       "name": "The Sun Made For A Soft Landing",
       "url": "https://open.spotify.com/track/18Y9Nx6jzGCyO70IJMNIZU"
@@ -2199,7 +2261,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 176938,
       "name": "When",
       "url": "https://open.spotify.com/track/4TUYrm2JRTV5dCOjKFSz8f"

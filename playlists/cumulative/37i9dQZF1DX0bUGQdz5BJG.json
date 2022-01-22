@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Tenille Townes",
+  "description": "Music City must-hears. Cover: Hailey Whitters",
   "name": "Next From Nashville",
   "published_playlist_ids": [
     "6guBJqgtXaO0mvdeL4JtNk"
@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/6SRLvZFZUdLEtTUbY6cD6l"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179093,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/7LGC2U92dKTsum0xz2f8Z9"
+    },
+    {
+      "album": {
         "name": "Almost",
         "url": "https://open.spotify.com/album/69mte6hjisiETAAISQYSlU"
       },
@@ -113,6 +131,24 @@
       "duration_ms": 214040,
       "name": "Angels",
       "url": "https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv"
+    },
+    {
+      "album": {
+        "name": "As You Leave",
+        "url": "https://open.spotify.com/album/10mMsHExUCFJEcILYH3wZt"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126517,
+      "name": "As You Leave",
+      "url": "https://open.spotify.com/track/218NK60dJvyf7mIsowogA3"
     },
     {
       "album": {
@@ -271,7 +307,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 229600,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/232kkQ6vbOzY4kE2JkrBpp"
@@ -329,6 +365,42 @@
       "duration_ms": 201256,
       "name": "Break My Heart Again",
       "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
+    },
+    {
+      "album": {
+        "name": "Burn It Down (717 Tapes)",
+        "url": "https://open.spotify.com/album/40CsyVbSKJPVHgxfLDKhJN"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169853,
+      "name": "Burn It Down - 717 Tapes",
+      "url": "https://open.spotify.com/track/2QWEKEYag6vI7VfJehbd7v"
+    },
+    {
+      "album": {
+        "name": "Anything But Casual",
+        "url": "https://open.spotify.com/album/1OKK45Ysi9Iu5r3WhsEI8s"
+      },
+      "artists": [
+        {
+          "name": "Erin Grand",
+          "url": "https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207002,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/782ZzWLrCziHo3uVpgJ8qk"
     },
     {
       "album": {
@@ -401,7 +473,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 195760,
       "name": "Circles Around This Town",
       "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
@@ -516,6 +588,42 @@
     },
     {
       "album": {
+        "name": "Crazy One More Time (Revisited)",
+        "url": "https://open.spotify.com/album/4qoFgtGcRTrdlfrIXcrwF9"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231133,
+      "name": "Crazy One More Time - Revisited",
+      "url": "https://open.spotify.com/track/0jy7nb2V8Twnk6aGz3hqCE"
+    },
+    {
+      "album": {
+        "name": "Country Stuff The Album",
+        "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
+      },
+      "artists": [
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159160,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/4K6KyAOSkhGKgLO0SalQET"
+    },
+    {
+      "album": {
         "name": "Did It To Myself",
         "url": "https://open.spotify.com/album/4rMdm6bJ4Ud3aUMuUwsLY7"
       },
@@ -531,6 +639,24 @@
       "duration_ms": 167906,
       "name": "Did It To Myself",
       "url": "https://open.spotify.com/track/2iJnmQ9dB4CUqQSoeFlX57"
+    },
+    {
+      "album": {
+        "name": "Stack of Records",
+        "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187555,
+      "name": "Different Shade of Red",
+      "url": "https://open.spotify.com/track/5E9k0SJGw3ZUQEB8RIY4y5"
     },
     {
       "album": {
@@ -679,7 +805,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 192466,
       "name": "Fire Up The Night (feat. HARDY)",
       "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
@@ -701,7 +827,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 214405,
       "name": "Flower Shops (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
@@ -922,6 +1048,24 @@
     },
     {
       "album": {
+        "name": "Growing Old With You",
+        "url": "https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ"
+      },
+      "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196007,
+      "name": "Growing Old With You",
+      "url": "https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG"
+    },
+    {
+      "album": {
         "name": "INTERTWINED",
         "url": "https://open.spotify.com/album/23nMKl9EaTuOsQYX5ljJgs"
       },
@@ -1048,6 +1192,42 @@
     },
     {
       "album": {
+        "name": "Skeletons (Deluxe)",
+        "url": "https://open.spotify.com/album/2xXJINeBLHwdFzQECIJuUM"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284560,
+      "name": "Headstone",
+      "url": "https://open.spotify.com/track/21ZQamVjLP7lLrJ2wUshfu"
+    },
+    {
+      "album": {
+        "name": "Heart on My Glass",
+        "url": "https://open.spotify.com/album/5wn3rXI7ahFosQJmt14ZJ2"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190146,
+      "name": "Heart on My Glass",
+      "url": "https://open.spotify.com/track/5z5u8Kp8bDkc3QSNhn7wpv"
+    },
+    {
+      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/3d1huYxmyq3L3Uhe7eFPNk"
       },
@@ -1117,6 +1297,24 @@
       "duration_ms": 165253,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc"
+    },
+    {
+      "album": {
+        "name": "Higher Education",
+        "url": "https://open.spotify.com/album/5bELdsFWcbaW2fhAVf8TyL"
+      },
+      "artists": [
+        {
+          "name": "Michael Ray",
+          "url": "https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209720,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/3ZwNFFKEXCise2TMXFsyqT"
     },
     {
       "album": {
@@ -1232,6 +1430,24 @@
     },
     {
       "album": {
+        "name": "If I Were You",
+        "url": "https://open.spotify.com/album/3zaejvChNvupgWslMllVQi"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212530,
+      "name": "If I Were You",
+      "url": "https://open.spotify.com/track/2gN7hhl8x2jAig6t7ARole"
+    },
+    {
+      "album": {
         "name": "If You Have To",
         "url": "https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL"
       },
@@ -1297,7 +1513,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 129649,
       "name": "Last October",
       "url": "https://open.spotify.com/track/61SsbXaDhlbbL72PgZB4Nc"
@@ -1319,6 +1535,28 @@
       "duration_ms": 209684,
       "name": "Left Like That",
       "url": "https://open.spotify.com/track/6bLbScrsHZWVifYECkjBOl"
+    },
+    {
+      "album": {
+        "name": "Left Me (with YNW BSlime)",
+        "url": "https://open.spotify.com/album/4VP3UPCUDxDrD71ZJOQ03Q"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        },
+        {
+          "name": "YNW BSlime",
+          "url": "https://open.spotify.com/artist/2KCRLxlHd2OgZG6YAOAcSu"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161693,
+      "name": "Left Me (with YNW BSlime)",
+      "url": "https://open.spotify.com/track/2I3seK4Q5bLPtaTb9uGcxz"
     },
     {
       "album": {
@@ -1643,10 +1881,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 154026,
       "name": "Narcissist",
       "url": "https://open.spotify.com/track/3LLezpquftwn7QI1rYIovM"
+    },
+    {
+      "album": {
+        "name": "Need You to Not",
+        "url": "https://open.spotify.com/album/30mSy3n5vcDD1aozCEzrmK"
+      },
+      "artists": [
+        {
+          "name": "Payton Smith",
+          "url": "https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185146,
+      "name": "Need You to Not",
+      "url": "https://open.spotify.com/track/1OcwLTaGoXPSxqxJQK8XlP"
     },
     {
       "album": {
@@ -1776,6 +2032,24 @@
     },
     {
       "album": {
+        "name": "The Demos",
+        "url": "https://open.spotify.com/album/0u5178s4Tdo1FboVzXSQUl"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166935,
+      "name": "Nothin' I Don't Love About You",
+      "url": "https://open.spotify.com/track/3bpUoxpGoJkEQIHmMaUYPl"
+    },
+    {
+      "album": {
         "name": "NVM",
         "url": "https://open.spotify.com/album/6IYSNUWFltw0jPPDepSjwA"
       },
@@ -1848,6 +2122,24 @@
     },
     {
       "album": {
+        "name": "The Comeback",
+        "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "Out in the Middle",
+      "url": "https://open.spotify.com/track/2Dacmfq3VLY1miVcU2SMIt"
+    },
+    {
+      "album": {
         "name": "Paychecks And Longnecks",
         "url": "https://open.spotify.com/album/5z3ZZWb2zfR0wuP3NDLJoC"
       },
@@ -1881,6 +2173,24 @@
       "duration_ms": 159346,
       "name": "Peaked In High School",
       "url": "https://open.spotify.com/track/2iZ7QhJdX5jlkJFk636wuu"
+    },
+    {
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/0HFuOIg1YEfWUuL3retuGf"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175264,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/0jPfIZjJwNQ2kIJo9ud0c2"
     },
     {
       "album": {
@@ -2093,7 +2403,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 194794,
       "name": "She's Looking Like I'm Lonely",
       "url": "https://open.spotify.com/track/6E824xMP2vW21XBaV6EuI0"
@@ -2245,7 +2555,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 138818,
       "name": "Stop Coming Over",
       "url": "https://open.spotify.com/track/0aU4TRPwmyeIp9Au0mfdJi"
@@ -2555,7 +2865,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 201142,
       "name": "TURN",
       "url": "https://open.spotify.com/track/2ViLWun5UAU8md6uT2TnSS"
@@ -2609,7 +2919,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 193693,
       "name": "Want That Back",
       "url": "https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1"
@@ -2724,6 +3034,28 @@
     },
     {
       "album": {
+        "name": "Bad Case of the Good Ole Boy",
+        "url": "https://open.spotify.com/album/0Ns3824RcYOCJzq2VZdiVP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rowe",
+          "url": "https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji"
+        },
+        {
+          "name": "Ashland Craft",
+          "url": "https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189805,
+      "name": "Who Needs You",
+      "url": "https://open.spotify.com/track/5VZtydyQHAM8T2cXGa5tfp"
+    },
+    {
+      "album": {
         "name": "Why I Can't Leave",
         "url": "https://open.spotify.com/album/4nh8Tg0YwPJ0GZTTAAU7Ng"
       },
@@ -2753,10 +3085,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 167375,
       "name": "With A Woman You Love",
       "url": "https://open.spotify.com/track/20WKHeDTmtU0Zj4sNB8aoA"
+    },
+    {
+      "album": {
+        "name": "Wontcha Come Back Home",
+        "url": "https://open.spotify.com/album/49HsmL21YRTHZgvBy0C5vF"
+      },
+      "artists": [
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208722,
+      "name": "Wontcha Come Back Home",
+      "url": "https://open.spotify.com/track/0bajom7zVRKj2PbMuglb2k"
     },
     {
       "album": {

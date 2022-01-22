@@ -8,6 +8,50 @@
   "tracks": [
     {
       "album": {
+        "name": "776",
+        "url": "https://open.spotify.com/album/5vEzgYeS6UyCHKlXKNWho9"
+      },
+      "artists": [
+        {
+          "name": "Dack Janiels",
+          "url": "https://open.spotify.com/artist/4F8JGeO6bJO7Z309mxHlP0"
+        },
+        {
+          "name": "Gawm",
+          "url": "https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158896,
+      "name": "776",
+      "url": "https://open.spotify.com/track/6REKxS2cHlZxLgdGcxtwCv"
+    },
+    {
+      "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Mackenzie Sol",
+          "url": "https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178519,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq"
+    },
+    {
+      "album": {
         "name": "Alive (Remixes)",
         "url": "https://open.spotify.com/album/25zskbiZC3moKS4TkqN9yo"
       },
@@ -1281,6 +1325,24 @@
       "duration_ms": 226285,
       "name": "NOSEBLEED",
       "url": "https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os"
+    },
+    {
+      "album": {
+        "name": "Mechanized Mayhem Vol. 2",
+        "url": "https://open.spotify.com/album/5JZXWPiy5bwrkJng3gYJcr"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Oldskool",
+      "url": "https://open.spotify.com/track/3x34JXZdyZdkfEgkHT3eNC"
     },
     {
       "album": {

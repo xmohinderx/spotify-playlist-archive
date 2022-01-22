@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: TY:DEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,230 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,296 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 3 | [Winter is coming \(feat\. nobody likes you pat & Ashley Alisha\)](https://open.spotify.com/track/0KeoJV1wnDWzWzmG1ra2a5) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Frozen](https://open.spotify.com/album/2I5iN7GsalNRg4VeLVItc2) | 3:06 |
 | 4 | [2 late](https://open.spotify.com/track/0UbJlumqvzFPZJjEvDlXc3) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [2 late](https://open.spotify.com/album/2nHdxmdxwHvL17UzryM7fl) | 2:29 |
 | 5 | [Away With Me](https://open.spotify.com/track/5N0KyNZkYbA3wCgs09cVMm) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [raychel jay](https://open.spotify.com/artist/7zjhhasa5SAMXbDcbmhkoj) | [Away With Me](https://open.spotify.com/album/4IWjUSyoKFPiFgEPyFDmNi) | 2:41 |
-| 6 | [Summertime](https://open.spotify.com/track/4NpEJp3Iw0Wk0lsPYQZeEF) | [Roadtrip to Antarctica](https://open.spotify.com/artist/6Wr42eApWX8mSqh75AIFDg), [Vika](https://open.spotify.com/artist/7Ko8bgi21Nb49kQWUyI8Qz) | [Summertime](https://open.spotify.com/album/05UGuju67c2WSdq4WghOZy) | 3:15 |
-| 7 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
-| 8 | [run away](https://open.spotify.com/track/0HWEriyFnKofjQDYNQwiBo) | [GOTCHA !](https://open.spotify.com/artist/4EF3hQH5Jao0sf0ZpgRb9u) | [run away](https://open.spotify.com/album/38vueCDuspel1zTJFGT20w) | 3:01 |
-| 9 | [favorite boy](https://open.spotify.com/track/0lTZgDcJMz6rbQVoeFxLa2) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [favorite boy](https://open.spotify.com/album/0HEMAuxYl0G7AR5e97rcuW) | 3:31 |
-| 10 | [Ghost of You](https://open.spotify.com/track/3xXJoQsT3wH9dSPg0y2Md1) | [lilong](https://open.spotify.com/artist/4UZPdE9dtMICvMOO8vb492) | [Ghost of You](https://open.spotify.com/album/1m6tY0dv3DgARjYlq8ksmi) | 3:42 |
-| 11 | [pink cherry blossom](https://open.spotify.com/track/5ZlDaQqscrfIE9Aog1MFfL) | [FARIS](https://open.spotify.com/artist/4VnQPCXcDCyg6wp2hOhRFT) | [pink cherry blossom](https://open.spotify.com/album/3OUao0xdyFvS77KPzM19U1) | 4:15 |
-| 12 | [Jogging](https://open.spotify.com/track/0mOWr9wYa3oyJ8qodnXJlI) | [Wave And So](https://open.spotify.com/artist/7tGqjrytCoVKlwyqkkFE4f) | [Jogging](https://open.spotify.com/album/4TmNZlqZx7hv2uvneacAI4) | 3:16 |
-| 13 | [光るとき](https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [光るとき](https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop) | 5:51 |
-| 14 | [No Heartbreaks](https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [No Heartbreaks](https://open.spotify.com/album/6QzGa63zg83NsFzqZGznBz) | 2:33 |
+| 6 | [No Heartbreaks](https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [No Heartbreaks](https://open.spotify.com/album/6QzGa63zg83NsFzqZGznBz) | 2:33 |
+| 7 | [Summertime](https://open.spotify.com/track/4NpEJp3Iw0Wk0lsPYQZeEF) | [Roadtrip to Antarctica](https://open.spotify.com/artist/6Wr42eApWX8mSqh75AIFDg), [Vika](https://open.spotify.com/artist/7Ko8bgi21Nb49kQWUyI8Qz) | [Summertime](https://open.spotify.com/album/05UGuju67c2WSdq4WghOZy) | 3:15 |
+| 8 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
+| 9 | [run away](https://open.spotify.com/track/0HWEriyFnKofjQDYNQwiBo) | [GOTCHA !](https://open.spotify.com/artist/4EF3hQH5Jao0sf0ZpgRb9u) | [run away](https://open.spotify.com/album/38vueCDuspel1zTJFGT20w) | 3:01 |
+| 10 | [favorite boy](https://open.spotify.com/track/0lTZgDcJMz6rbQVoeFxLa2) | [nonas](https://open.spotify.com/artist/4sFiaUdDNFg0DhJjN6riEB) | [favorite boy](https://open.spotify.com/album/0HEMAuxYl0G7AR5e97rcuW) | 3:31 |
+| 11 | [Ghost of You](https://open.spotify.com/track/3xXJoQsT3wH9dSPg0y2Md1) | [lilong](https://open.spotify.com/artist/4UZPdE9dtMICvMOO8vb492) | [Ghost of You](https://open.spotify.com/album/1m6tY0dv3DgARjYlq8ksmi) | 3:42 |
+| 12 | [pink cherry blossom](https://open.spotify.com/track/5ZlDaQqscrfIE9Aog1MFfL) | [FARIS](https://open.spotify.com/artist/4VnQPCXcDCyg6wp2hOhRFT) | [pink cherry blossom](https://open.spotify.com/album/3OUao0xdyFvS77KPzM19U1) | 4:15 |
+| 13 | [Jogging](https://open.spotify.com/track/0mOWr9wYa3oyJ8qodnXJlI) | [Wave And So](https://open.spotify.com/artist/7tGqjrytCoVKlwyqkkFE4f) | [Jogging](https://open.spotify.com/album/4TmNZlqZx7hv2uvneacAI4) | 3:16 |
+| 14 | [光るとき](https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [光るとき](https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop) | 5:51 |
 | 15 | [Never Knew feat\. lewloh & Joie Tan](https://open.spotify.com/track/5rlWvz401LdGFhSBtsZbHj) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls), [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX), [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [Never Knew feat\. lewloh & Joie Tan](https://open.spotify.com/album/6gnsa07ZlU8pscDpf8jJ0Y) | 2:30 |
 | 16 | [When we](https://open.spotify.com/track/5YBU3nnLZ51qJgBunwu4b6) | [Mademoiselle](https://open.spotify.com/artist/5ehbiyqYPwIDaUY4AxrhVq) | [As beautiful as the night](https://open.spotify.com/album/5Yi13McmVSfhAGMN7EKPlL) | 3:21 |
 | 17 | [Glass Stained Eyes](https://open.spotify.com/track/5PTCcUbUgmRVRKQLuJS4G2) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Glass Stained Eyes](https://open.spotify.com/album/5G30IZQVh5eYJS5KrjwyHH) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Let There Be Light Again](https://open.spotify.com/track/0YCz0CKKxSx1Ezk0HsYnHI) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/2T9PfTuP5ovbfpM7wv6nez) | 3:47 |
 | 75 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 |
 
-Snapshot ID: `MTY0MjY5NjY5NywwMDAwMDE0ODAwMDAwMTdlNzg1YTY3M2IwMDAwMDE3ZTc4NTk4NjYw`
+Snapshot ID: `MTY0Mjc1MTIxMiwwMDAwMDE0OTAwMDAwMTdlN2I5YTM5ZWUwMDAwMDE3ZTc4NTk4NjYw`

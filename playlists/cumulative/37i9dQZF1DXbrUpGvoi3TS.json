@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 198483,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/1mqyxQ28ohNqEM8bXEeSwu"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 201008,
       "name": "blind spot",
       "url": "https://open.spotify.com/track/6rcunB73aRxovp9AiH5xv3"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 221200,
       "name": "Can You Hold Me",
       "url": "https://open.spotify.com/track/3w1dGSbR4VwfYvnPELox70"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 252320,
       "name": "Helium - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\"",
       "url": "https://open.spotify.com/track/5fc6rQgAKiLutfUYWQ6QnJ"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 229383,
       "name": "i don't think i love you anymore",
       "url": "https://open.spotify.com/track/1saZ5nnaCWBjOK09izEK9c"
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 170830,
       "name": "Lay By Me",
       "url": "https://open.spotify.com/track/4l6boTiX3Erh3HYpKOa0D6"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 215000,
       "name": "Let Him Go",
       "url": "https://open.spotify.com/track/53JYK65bbkGTKB9QBi1eWL"
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 266773,
       "name": "Look After You",
       "url": "https://open.spotify.com/track/5l6hpyTGBK0LAAxgPnqTQL"
@@ -1557,7 +1557,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 179320,
       "name": "Maybe It Was Me",
       "url": "https://open.spotify.com/track/0dlTFvu6sfzEenCh2IAPmu"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 270453,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/4wSV5rzG9GW7KIamDBYv1P"
@@ -1839,6 +1839,24 @@
       "duration_ms": 181408,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/0yc37FvbXRwwFaQxzpxbsd"
+    },
+    {
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285040,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB"
     },
     {
       "album": {
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 223043,
       "name": "Too Much To Ask",
       "url": "https://open.spotify.com/track/3hRZsdTF5uyGA2uhNqEuhm"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 199931,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/14JzyD6FlBD5z0wV5P07YI"
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 248332,
       "name": "Where's My Love",
       "url": "https://open.spotify.com/track/7q4Mxzem6AYv6zKSE2fMvK"

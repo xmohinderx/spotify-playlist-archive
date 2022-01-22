@@ -1,13 +1,29 @@
 {
-  "description": "shake it up and let it pop! cover: Bastille",
-  "num_followers": 186680,
+  "description": "shake it up and let it pop! cover: AJR",
+  "num_followers": 186728,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE5MzEwNCwwMDAwMDA4ZTAwMDAwMTdlNWE1NjJmN2YwMDAwMDE3ZTRlN2E2ODU3",
+  "snapshot_id": "MTY0Mjc0MTIwMCwwMDAwMDA4ZjAwMDAwMTdlN2IwMTc1NDYwMDAwMDE3ZTdhMmJhMDAy",
   "tracks": [
+    {
+      "added_at": "2022-01-14 20:45:04",
+      "album": {
+        "name": "The Click",
+        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 227267,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl"
+    },
     {
       "added_at": "2022-01-14 20:45:04",
       "album": {
@@ -25,20 +41,68 @@
       "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
     },
     {
-      "added_at": "2022-01-14 20:45:04",
+      "added_at": "2022-01-21 05:00:00",
       "album": {
-        "name": "The Click",
-        "url": "https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC"
+        "name": "plz don't waste my youth",
+        "url": "https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp"
       },
       "artists": [
         {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
         }
       ],
-      "duration_ms": 227267,
-      "name": "The Good Part",
-      "url": "https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl"
+      "duration_ms": 183730,
+      "name": "plz don't waste my youth",
+      "url": "https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/5NJxsb5bQl5s4JqWRc8uu9"
+      },
+      "artists": [
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6FXQ9ghvyzV2zYlUEie5BH"
+    },
+    {
+      "added_at": "2022-01-14 20:45:04",
+      "album": {
+        "name": "GROWING UP IS _____",
+        "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 233587,
+      "name": "GROWING UP IS _____",
+      "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Someone To You",
+        "url": "https://open.spotify.com/album/5EIHcxxy0gZCYOxjLVpWTP"
+      },
+      "artists": [
+        {
+          "name": "Great Good Fine Ok",
+          "url": "https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH"
+        }
+      ],
+      "duration_ms": 200111,
+      "name": "Someone To You",
+      "url": "https://open.spotify.com/track/0X48tmPQTHN2vtoyAnJK8M"
     },
     {
       "added_at": "2022-01-14 20:45:04",
@@ -81,6 +145,22 @@
       "url": "https://open.spotify.com/track/17KjW8iBczo8uF47vdsJQQ"
     },
     {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "How Do I Know?",
+        "url": "https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 198033,
+      "name": "How Do I Know?",
+      "url": "https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC"
+    },
+    {
       "added_at": "2022-01-14 20:45:04",
       "album": {
         "name": "The After Party",
@@ -95,6 +175,22 @@
       "duration_ms": 237230,
       "name": "Last Birthday",
       "url": "https://open.spotify.com/track/697MdxMbVWn1Ajbw8iaPv5"
+    },
+    {
+      "added_at": "2022-01-14 20:45:04",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
       "added_at": "2022-01-14 20:45:04",
@@ -131,22 +227,6 @@
       "duration_ms": 189969,
       "name": "Cowboys Don\u2019t Cry",
       "url": "https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "GROWING UP IS _____",
-        "url": "https://open.spotify.com/album/64Bbgt3PPLVVnsYN4GeTo6"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 233587,
-      "name": "GROWING UP IS _____",
-      "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
     },
     {
       "added_at": "2022-01-14 20:45:04",
@@ -217,6 +297,22 @@
       "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
     },
     {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Everything Forever",
+        "url": "https://open.spotify.com/album/1rSDikvb8bxqtexbALKt1W"
+      },
+      "artists": [
+        {
+          "name": "Wingtip",
+          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Leave Yourself Alone",
+      "url": "https://open.spotify.com/track/1ECRkneyoDC73Qy8QHj797"
+    },
+    {
       "added_at": "2022-01-14 20:45:04",
       "album": {
         "name": "Was It Something I Said?",
@@ -283,22 +379,6 @@
       "duration_ms": 158240,
       "name": "Dizzy (feat. Thomas Headon and Alfie Templeman)",
       "url": "https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
       "added_at": "2022-01-14 20:45:04",
@@ -411,6 +491,22 @@
       "duration_ms": 175374,
       "name": "Honey (I believe in us)",
       "url": "https://open.spotify.com/track/0mVN8iLSLo85x3dIeHWz7C"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Things In The Way",
+        "url": "https://open.spotify.com/album/3uZsMBgZ9xSJDHMmxPaTlJ"
+      },
+      "artists": [
+        {
+          "name": "Porsh Bet$",
+          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
+        }
+      ],
+      "duration_ms": 159980,
+      "name": "Things In The Way",
+      "url": "https://open.spotify.com/track/1IgXO5HhDA3Cnxo5Et9Da8"
     },
     {
       "added_at": "2022-01-14 20:45:04",
@@ -571,22 +667,6 @@
       "duration_ms": 127620,
       "name": "Die Right Here",
       "url": "https://open.spotify.com/track/7fXYFuCTmNrYRGwEUUf5iz"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "Strawberry Kisses",
-        "url": "https://open.spotify.com/album/4QQ5HRLZrSC7882WTmvZFH"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        }
-      ],
-      "duration_ms": 181798,
-      "name": "Strawberry Kisses",
-      "url": "https://open.spotify.com/track/4LXuSaMzY515ubvtGnCvBi"
     },
     {
       "added_at": "2022-01-14 20:45:04",
@@ -1099,106 +1179,6 @@
       "duration_ms": 169411,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/6WpmLYjucvN7nijrRJiiWZ"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "Repeat Caller",
-        "url": "https://open.spotify.com/album/4gmKqHoxwAaQw7meJMJ1Mz"
-      },
-      "artists": [
-        {
-          "name": "Max Leone",
-          "url": "https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE"
-        }
-      ],
-      "duration_ms": 141466,
-      "name": "Repeat Caller",
-      "url": "https://open.spotify.com/track/69zIlo9KqVoQjenSCh10Wb"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "The Guilty Pleasure Chest",
-        "url": "https://open.spotify.com/album/1m0GLsVORJPj9jeqvTWB3W"
-      },
-      "artists": [
-        {
-          "name": "Confetti",
-          "url": "https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM"
-        }
-      ],
-      "duration_ms": 161368,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/5UapJPoV8BX4xQYOIwjABo"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "Track Shoes",
-        "url": "https://open.spotify.com/album/5cEAJJI3lKivMvPwyn43k0"
-      },
-      "artists": [
-        {
-          "name": "Rence",
-          "url": "https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb"
-        }
-      ],
-      "duration_ms": 186035,
-      "name": "Track Shoes",
-      "url": "https://open.spotify.com/track/7hMUIwPmSkuGMHli2ZV1qQ"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "Song From Hell",
-        "url": "https://open.spotify.com/album/4Fwut2TN000rfci3Cyj7lL"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 183322,
-      "name": "Song From Hell",
-      "url": "https://open.spotify.com/track/4uBl38yXhlcQoko7Hlgqnf"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "only human.",
-        "url": "https://open.spotify.com/album/0IB5gkV5Te5PRuA2KKXqhQ"
-      },
-      "artists": [
-        {
-          "name": "Munn",
-          "url": "https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l"
-        },
-        {
-          "name": "Delanie Leclerc",
-          "url": "https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "only human",
-      "url": "https://open.spotify.com/track/1XLZcAceP6w4b7f6IdhYZ8"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "Looks Like Me",
-        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 190527,
-      "name": "Looks Like Me",
-      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
     },
     {
       "added_at": "2022-01-14 20:45:04",

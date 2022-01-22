@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 158093,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2001Dk1uUT2AtwV9GuvuAe"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 204480,
       "name": "Apocalyptic",
       "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 165245,
       "name": "Better Off (feat. Sara Diamond)",
       "url": "https://open.spotify.com/track/0axSINcrVVrNfHXMRTsTKF"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 206803,
       "name": "Collect Check (feat. EMIDA)",
       "url": "https://open.spotify.com/track/0vQukqQmHy0ZesKFssyvEW"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 191904,
       "name": "Cum Check This",
       "url": "https://open.spotify.com/track/7H5SIexFiXI5Li5qyV2TID"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 187894,
       "name": "Fake Fake Fake",
       "url": "https://open.spotify.com/track/7wf4U3ElL3a1KY9qSRViuP"
@@ -855,6 +855,24 @@
       "duration_ms": 248437,
       "name": "Fly With Us",
       "url": "https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep"
+    },
+    {
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/7srxSNnTWeirw0haBqUQey"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC"
     },
     {
       "album": {
@@ -967,7 +985,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 186239,
       "name": "Girls",
       "url": "https://open.spotify.com/track/3bT1QiVx8FcObFcDuBArth"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 142857,
       "name": "Good Again",
       "url": "https://open.spotify.com/track/6jbdxYkwM7pf1pVujcoWyQ"
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 143225,
       "name": "Got Me Feeling",
       "url": "https://open.spotify.com/track/4OehHyyY1vOOafiOEoiPFM"
@@ -1309,7 +1327,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 142000,
       "name": "I Know",
       "url": "https://open.spotify.com/track/3qloJH27eI7bk6QEf1SQLC"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 123692,
       "name": "LIKE IT LIKE THAT",
       "url": "https://open.spotify.com/track/30rKQFJZCiC2fN0ONdBH2s"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "Loca People",
       "url": "https://open.spotify.com/track/16Mkz5EQ6bPn3ZHDnEj1DP"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 151475,
       "name": "Loose",
       "url": "https://open.spotify.com/track/5c2KynltsWD6agVEbaHwof"
@@ -1663,7 +1681,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 178548,
       "name": "Lose Your Love (feat. Ghosts!)",
       "url": "https://open.spotify.com/track/6Md3dxN47Rrg7ZrIEZ5198"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 203520,
       "name": "Lost Cowboys",
       "url": "https://open.spotify.com/track/3W09VqxOJ4CcClolPt8kcQ"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 226666,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/1KOAr3G8LaibCpHeaWtL2u"
@@ -1839,10 +1857,32 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 147840,
       "name": "No Ass",
       "url": "https://open.spotify.com/track/7pmmkWdaBxJwYwmVwQeSYa"
+    },
+    {
+      "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/4iBP2MeLgpL50cizIVqgki"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130412,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/2yYb6Ru1cwcDUBS4txRYQL"
     },
     {
       "album": {
@@ -1931,7 +1971,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 146372,
       "name": "Nobody To Love (with Loren Gray)",
       "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
@@ -2019,7 +2059,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 158300,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/1Ti5Px7jctKkMuXbx4kTdA"
@@ -2111,7 +2151,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 147031,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/3TKYpVvhTKoKl5vIrX96AD"
@@ -2133,7 +2173,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 209280,
       "name": "Pump Up The Jam (with MOTi)",
       "url": "https://open.spotify.com/track/1uNKDCkSaGNqIsMtvfsr2O"
@@ -2361,7 +2401,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 185000,
       "name": "Say It (feat. LP Giobbi & Blush'ko)",
       "url": "https://open.spotify.com/track/60MsiXfuTpTTOQbnnu48Hy"
@@ -2523,7 +2563,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 215090,
       "name": "Something's about to go down",
       "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
@@ -2607,7 +2647,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 198571,
       "name": "stop",
       "url": "https://open.spotify.com/track/6BM9s0Pqmj5mvHsrDvLozu"
@@ -2713,7 +2753,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 169523,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/6QrS4daQd2HhJWLnq3bs1q"
@@ -3047,10 +3087,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 184285,
       "name": "You Are My Life",
       "url": "https://open.spotify.com/track/51ecx8vfBmfo9maBzKDBfa"
+    },
+    {
+      "album": {
+        "name": "You Should Already Know",
+        "url": "https://open.spotify.com/album/3j3wrTkB29l68Ebi2bDfTy"
+      },
+      "artists": [
+        {
+          "name": "Croatia Squad",
+          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "You Should Already Know",
+      "url": "https://open.spotify.com/track/6fBHOF46O8LUNI78ZtAK7S"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUq3wF0JVtEy"

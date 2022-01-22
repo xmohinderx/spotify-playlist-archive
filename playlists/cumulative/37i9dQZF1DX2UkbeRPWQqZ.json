@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Down By The Bay",
+        "url": "https://open.spotify.com/album/0rQcXS7jIJUTXMU4UEy3R2"
+      },
+      "artists": [
+        {
+          "name": "Lola Marsden",
+          "url": "https://open.spotify.com/artist/0kG0JFml9MMjY7m6cVD9vN"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118584,
+      "name": "All the Pretty Little Horses",
+      "url": "https://open.spotify.com/track/6wekof9ZkRjL0LtAMAsXCb"
+    },
+    {
+      "album": {
         "name": "Night Time",
         "url": "https://open.spotify.com/album/7DMOWlZ7L7rIpPuVbf5JGZ"
       },
@@ -379,7 +397,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 122560,
       "name": "Down by the Salley Gardens - Guitar Instrumental",
       "url": "https://open.spotify.com/track/4Snme5oNjpZp0IujKRtodX"
@@ -476,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Rainbow Connection",
+        "url": "https://open.spotify.com/album/3uelDCjTwNeEum7HfqKGPc"
+      },
+      "artists": [
+        {
+          "name": "My Little Guitar",
+          "url": "https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116259,
+      "name": "Girls And Boys Come Out To Play",
+      "url": "https://open.spotify.com/track/3TKouB59YNESVemXS5mUj8"
+    },
+    {
+      "album": {
         "name": "Golden Slumbers",
         "url": "https://open.spotify.com/album/5vYQUfJWTIbxYTxQ5Wezui"
       },
@@ -548,6 +584,42 @@
     },
     {
       "album": {
+        "name": "Hickory Dickory Dock",
+        "url": "https://open.spotify.com/album/3WbnWHxYO9nEhsLd2Y13cV"
+      },
+      "artists": [
+        {
+          "name": "The Magic Guitar",
+          "url": "https://open.spotify.com/artist/2lETErpujLR6ngyVsrSj2v"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155260,
+      "name": "Hot Cross Buns",
+      "url": "https://open.spotify.com/track/2ASy1nwrKUW7ABUwS7e5HF"
+    },
+    {
+      "album": {
+        "name": "Lavender's Blue",
+        "url": "https://open.spotify.com/album/7iNFN6AA89RPAG0Vrvwqkh"
+      },
+      "artists": [
+        {
+          "name": "Micci Rogers",
+          "url": "https://open.spotify.com/artist/5ne1I2oi3j1HJTWK2Luk9z"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136771,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/7uOmSCgwje1TQsMKDHx8ci"
+    },
+    {
+      "album": {
         "name": "Baby Lullabies Guitar Music",
         "url": "https://open.spotify.com/album/3ZRvviLe9ei9HbwtmXv7jZ"
       },
@@ -567,7 +639,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 52767,
       "name": "Humpty Dumpty - Guitar Version",
       "url": "https://open.spotify.com/track/1bw4NIIPZeNLPgP7zEPRJ3"
@@ -801,7 +873,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 118108,
       "name": "Lullabye and Goodnight",
       "url": "https://open.spotify.com/track/37c65lzhL7mlZanbzgo1eY"
@@ -1137,7 +1209,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 108773,
       "name": "Simple Gifts - Guitar Instrumental",
       "url": "https://open.spotify.com/track/0eG7qveAW9otB6SzWVh2ZA"

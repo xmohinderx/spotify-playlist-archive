@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtpM7d4h5Xa.md) - [plain]
 
 > 50 best examples of catchy pop tunes that borrowed their melodies from <a href="spotify:genre:classical">classical</a> music\. Each song is followed by its classical inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,545 likes - 100 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,633 likes - 100 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtpM7d4h5Xa.md) - [plain]
 | 99 | [Catch a Falling Star \(with Mitchell Ayres and His Orchestra & The Ray Charles Singers\)](https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5), [The Ray Charles Singers](https://open.spotify.com/artist/2FbG2PIAVFvzszwgz2QuOL) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 2:28 |
 | 100 | [Academic Festival Overture, Op\. 80](https://open.spotify.com/track/4nMLMpoAdcWJnCIHdtntC6) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Helsingborg Symphony Orchestra](https://open.spotify.com/artist/0K2m2TlgHkcp32NAZV6Omw), [Andrew Manze](https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr) | [Brahms: Complete Symphonies](https://open.spotify.com/album/4UpVoJ3qeGa6wGkKtp4CYf) | 10:16 |
 
-Snapshot ID: `MTU4Mzg0NzI2OCwwMDAwMDAwYTAwMDAwMTY5YzlhNjJhYTYwMDAwMDE3MGM0YTc2MTEz`
+Snapshot ID: `MTY0Mjc1ODEzMSwwMDAwMDAwYjAwMDAwMTdlN2MwM2NkNGIwMDAwMDE3MGM0YTc2MTEz`

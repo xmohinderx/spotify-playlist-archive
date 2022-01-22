@@ -2,7 +2,7 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
 
-> The pulse of R&B music today\.  Cover: Chris Brown
+> The pulse of R&B music today\.  Cover: Silk Sonic
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

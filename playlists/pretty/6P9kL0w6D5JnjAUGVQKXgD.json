@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki",
-  "num_followers": 48544,
+  "num_followers": 48542,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTA3OCxkNTIwZWRmNmEzYmM1YjYyNTBiYjhlZTk2MWIyYjM3MGEyNzY1ZjU5",
+  "snapshot_id": "MTA3OSxkNzExOWU3NmU2NDBmZTZkMjFjMDRhYjk4YTRkZDE3ODAyMDYxM2Ji",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -155,6 +155,26 @@
       "duration_ms": 155000,
       "name": "When It Falls On You",
       "url": "https://open.spotify.com/track/4Z2l7m2grCCto45r6KH5dr"
+    },
+    {
+      "added_at": "2022-01-21 15:45:02",
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/0htz0sabOn9QVC6RJHg1jz"
+      },
+      "artists": [
+        {
+          "name": "MN10",
+          "url": "https://open.spotify.com/artist/2p8da9ecVzNpQYSNYEFOyS"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "duration_ms": 167783,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/5951f1prlAlzunehkLCyAo"
     },
     {
       "added_at": "2021-11-19 15:46:04",
@@ -1731,26 +1751,6 @@
     {
       "added_at": "2022-01-18 15:45:02",
       "album": {
-        "name": "Pepas (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/5EWuidCGbZUq4ChxSZhXAw"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 280002,
-      "name": "Pepas - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/016HNYjPtqVo1XMMI68bVA"
-    },
-    {
-      "added_at": "2022-01-18 15:45:02",
-      "album": {
         "name": "Fake A Smile",
         "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
       },
@@ -1767,6 +1767,26 @@
       "duration_ms": 168118,
       "name": "Fake A Smile",
       "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
+    },
+    {
+      "added_at": "2022-01-18 15:45:02",
+      "album": {
+        "name": "Pepas (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/5EWuidCGbZUq4ChxSZhXAw"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 280002,
+      "name": "Pepas - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/016HNYjPtqVo1XMMI68bVA"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -1847,22 +1867,18 @@
     {
       "added_at": "2022-01-18 15:45:02",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/4ovjS3yvn1WNjtrUQWwlnd"
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "IS\u00c1K",
-          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o"
+      "duration_ms": 190487,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -1887,22 +1903,6 @@
     {
       "added_at": "2022-01-18 15:45:02",
       "album": {
-        "name": "Lovefool",
-        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
-    },
-    {
-      "added_at": "2022-01-18 15:45:02",
-      "album": {
         "name": "Ya Kidding",
         "url": "https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e"
       },
@@ -1915,6 +1915,26 @@
       "duration_ms": 238080,
       "name": "Ya Kidding",
       "url": "https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK"
+    },
+    {
+      "added_at": "2022-01-18 15:45:02",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/4ovjS3yvn1WNjtrUQWwlnd"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "IS\u00c1K",
+          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -2023,30 +2043,6 @@
       "duration_ms": 186046,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
-    },
-    {
-      "added_at": "2020-12-16 10:55:04",
-      "album": {
-        "name": "One (Your Name)",
-        "url": "https://open.spotify.com/album/1Emsjao7PidIrsaVr59F1l"
-      },
-      "artists": [
-        {
-          "name": "HUTS",
-          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
-        },
-        {
-          "name": "Jordan Jay",
-          "url": "https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY"
-        },
-        {
-          "name": "Idetto",
-          "url": "https://open.spotify.com/artist/1KfEELJWhaiw5NeP3jAztZ"
-        }
-      ],
-      "duration_ms": 157142,
-      "name": "One (Your Name)",
-      "url": "https://open.spotify.com/track/6liZV0Nrz90vVrxuNwKRI4"
     }
   ],
   "unique_name": "EDM Top 100",

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "\u00bfDonde Est\u00e1 el Sr. Sapo?",
+        "url": "https://open.spotify.com/album/4kXF33f9ZWq0WtSVJK3bnG"
+      },
+      "artists": [
+        {
+          "name": "Atenci\u00f3n Atenci\u00f3n",
+          "url": "https://open.spotify.com/artist/18xacmB7GVCrXxcPX9IILZ"
+        }
+      ],
+      "date_added": "2020-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123466,
+      "name": "A Dormir",
+      "url": "https://open.spotify.com/track/2Dts3z8MywnsW1DkHEkYMN"
+    },
+    {
+      "album": {
         "name": "Andrea Echeverri",
         "url": "https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip"
       },
@@ -109,7 +127,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 137300,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/2UPgdIT0hrEpZGYJjAI8ng"
@@ -233,7 +251,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 169240,
       "name": "Cinco Ranas Con Pequitas",
       "url": "https://open.spotify.com/track/1d1m1mRvPu6sMc1lwUnJya"
@@ -345,7 +363,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 128800,
       "name": "Duermete Negrito",
       "url": "https://open.spotify.com/track/52Q3EaDFDHVqKyYvza7pko"
@@ -447,6 +465,24 @@
       "duration_ms": 152013,
       "name": "El Piojo y la Pulga",
       "url": "https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA"
+    },
+    {
+      "album": {
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "date_added": "2020-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
     },
     {
       "album": {
@@ -667,7 +703,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 132707,
       "name": "La Canci\u00f3n de la Efe",
       "url": "https://open.spotify.com/track/1Iop545mi48sE8mNNbxEuy"
@@ -757,7 +793,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 129639,
       "name": "Mi ombliguito",
       "url": "https://open.spotify.com/track/06UARsqk7cufMtmErCDe8a"
@@ -854,6 +890,48 @@
     },
     {
       "album": {
+        "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
+      },
+      "artists": [
+        {
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+        },
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        },
+        {
+          "name": "Daniela Sierra",
+          "url": "https://open.spotify.com/artist/3nwgQnJvhaRxrpJ9o84t4f"
+        },
+        {
+          "name": "Juanse Diez",
+          "url": "https://open.spotify.com/artist/2tZy2DfvQ3d8AkmNUZbxoK"
+        },
+        {
+          "name": "Isabel Garc\u00e9s",
+          "url": "https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY"
+        },
+        {
+          "name": "Olga Luc\u00eda Vives",
+          "url": "https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22"
+        },
+        {
+          "name": "Elenco de Encanto",
+          "url": "https://open.spotify.com/artist/7yunuNilTB1HH7WnIXcCnY"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216120,
+      "name": "No se habla de Bruno",
+      "url": "https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv"
+    },
+    {
+      "album": {
         "name": "Bob Marley For Babies",
         "url": "https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr"
       },
@@ -934,6 +1012,24 @@
     },
     {
       "album": {
+        "name": "Facing Future",
+        "url": "https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9"
+      },
+      "artists": [
+        {
+          "name": "Israel Kamakawiwo'ole",
+          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
+        }
+      ],
+      "date_added": "2020-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308026,
+      "name": "Somewhere Over The Rainbow_What A Wonderful World",
+      "url": "https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF"
+    },
+    {
+      "album": {
         "name": "The Bath Song & More Kids Songs",
         "url": "https://open.spotify.com/album/5NCGJqs3KjGNEvSFwsfmYn"
       },
@@ -945,7 +1041,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 121321,
       "name": "The Bath Song",
       "url": "https://open.spotify.com/track/290sqGHEc7pIDzUPzSPYhQ"

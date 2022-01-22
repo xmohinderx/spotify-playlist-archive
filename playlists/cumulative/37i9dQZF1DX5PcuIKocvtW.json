@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "it's a lifestyle / Cover: Jack Kays & Travis Barker\n",
+  "description": "it's a lifestyle / Cover: Jeris Johnson",
   "name": "FORYOU",
   "published_playlist_ids": [
     "4NFhsSQp7eBmubCLYHTp9M"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "27 Club",
+        "url": "https://open.spotify.com/album/548YYAqvz0iL09oldWVENe"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162931,
+      "name": "27 Club",
+      "url": "https://open.spotify.com/track/5VzSiFJ4aIIk7CH8edrMMm"
+    },
     {
       "album": {
         "name": "5AM",
@@ -77,6 +95,24 @@
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "album": {
+        "name": "For All The Times I Fell On My Face",
+        "url": "https://open.spotify.com/album/4RmEZnvP72chP3nXMOG3bx"
+      },
+      "artists": [
+        {
+          "name": "Damien Styles",
+          "url": "https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166739,
+      "name": "American Paranoid Freak",
+      "url": "https://open.spotify.com/track/0FWRjeCE9Inf9NAVJpVYBJ"
     },
     {
       "album": {
@@ -163,7 +199,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 146720,
       "name": "BEST DAY OF MY LIFE",
       "url": "https://open.spotify.com/track/4BuI9GlNGJeFfEyTXWWVBp"
@@ -199,7 +235,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 170625,
       "name": "Black Leather",
       "url": "https://open.spotify.com/track/2e96RRtIrC2yBye5QwebHF"
@@ -811,6 +847,28 @@
       "duration_ms": 170000,
       "name": "Everyone's Pretentious & I'm Bored",
       "url": "https://open.spotify.com/track/306tU1sc97c6WZ6B4wOdug"
+    },
+    {
+      "album": {
+        "name": "F*ck Society (feat. Sueco)",
+        "url": "https://open.spotify.com/album/6Bj1BOECYspiKwKl1DbrlX"
+      },
+      "artists": [
+        {
+          "name": "SK8",
+          "url": "https://open.spotify.com/artist/4YqctGfuLnSvjjlFQvNish"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109309,
+      "name": "F*ck Society (feat. Sueco)",
+      "url": "https://open.spotify.com/track/3ZAYMiBXD8tume1BVtqPcQ"
     },
     {
       "album": {
@@ -1515,7 +1573,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 212000,
       "name": "It's Permanent",
       "url": "https://open.spotify.com/track/5ytqjKYVYjVcA03MTBArnY"
@@ -1645,7 +1703,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 161803,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
@@ -1889,7 +1947,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 136156,
       "name": "molotov [OK]",
       "url": "https://open.spotify.com/track/6m0vqKogDYkJwwwpvNjyJT"
@@ -2542,6 +2600,28 @@
     },
     {
       "album": {
+        "name": "MY FAVORITE NIGHTMARES",
+        "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124191,
+      "name": "SIDEWAYS (with Travis Barker)",
+      "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
+    },
+    {
+      "album": {
         "name": "silly putty",
         "url": "https://open.spotify.com/album/4HdrJc0K45gBQQSBIkOhx1"
       },
@@ -2892,6 +2972,32 @@
     },
     {
       "album": {
+        "name": "thought it was",
+        "url": "https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        },
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172600,
+      "name": "thought it was",
+      "url": "https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa"
+    },
+    {
+      "album": {
         "name": "Lady Jesus",
         "url": "https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu"
       },
@@ -2957,7 +3063,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 148897,
       "name": "u look stupid",
       "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
@@ -2979,6 +3085,24 @@
       "duration_ms": 149713,
       "name": "UNCOMPLICATED",
       "url": "https://open.spotify.com/track/2u1I5zNsB0FzoVhuzCCszK"
+    },
+    {
+      "album": {
+        "name": "ur just horny",
+        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178256,
+      "name": "ur just horny",
+      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
     },
     {
       "album": {
@@ -3127,6 +3251,32 @@
       "duration_ms": 203435,
       "name": "WORMS (In My Brain)",
       "url": "https://open.spotify.com/track/4XQKfDwyYw0p1p8WvC2e7j"
+    },
+    {
+      "album": {
+        "name": "WW3",
+        "url": "https://open.spotify.com/album/27Q8KrXPXir8nSlqZfMB7h"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        },
+        {
+          "name": "RIZ LA VIE",
+          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
+        },
+        {
+          "name": "GRANDMA",
+          "url": "https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152796,
+      "name": "WW3",
+      "url": "https://open.spotify.com/track/7cL0pp1OpgcAUQfS2CsQ23"
     },
     {
       "album": {

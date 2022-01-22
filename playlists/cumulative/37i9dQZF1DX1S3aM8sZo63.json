@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 163066,
       "name": "Creo Estar Sona\u00f1do",
       "url": "https://open.spotify.com/track/27PgKTLK5fZovvx4qR43MS"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 176403,
       "name": "El Lujo de Tenerte",
       "url": "https://open.spotify.com/track/3RS7iIReKd9yd2j7lfID5z"
@@ -1070,6 +1070,28 @@
     },
     {
       "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/4mzfuWUyHXmBPjmxVJogcx"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "date_added": "2021-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/0LTpgbOmtyCwWzyEfgHi0U"
+    },
+    {
+      "album": {
         "name": "Tucanes De Oro ... Secuestro De Amor",
         "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
       },
@@ -1385,6 +1407,32 @@
       "duration_ms": 143081,
       "name": "Voy a Amarte",
       "url": "https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx"
+    },
+    {
+      "album": {
+        "name": "Yo Te Prefiero a Ti (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/0eC8XatLfvAQ6awg5JUCi5"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "date_added": "2021-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227106,
+      "name": "Yo Te Prefiero a Ti - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/2kXmdHCcnnXyizXzZEL6up"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1S3aM8sZo63"

@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 114666,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 229466,
       "name": "Bulls On Parade",
       "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 200163,
       "name": "Facing Waves",
       "url": "https://open.spotify.com/track/0yEslRxBSjugHwyxiGxtUj"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 201556,
       "name": "Figure Eight",
       "url": "https://open.spotify.com/track/4JbNlNqFMVs1vBOFAutXcK"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 220910,
       "name": "Heart Mind Body & Soul",
       "url": "https://open.spotify.com/track/2FJtn12N5v2i4x3eEae32K"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 208974,
       "name": "Journey of the Prairie King",
       "url": "https://open.spotify.com/track/6tzuQuosgeRizkqLzfOXzr"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 235400,
       "name": "My God Is The Sun",
       "url": "https://open.spotify.com/track/1Pc3gTtQG4Cq1x81NcXtCN"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 205960,
       "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
       "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 260293,
       "name": "One Armed Scissor",
       "url": "https://open.spotify.com/track/3T1YjH72qs6L6tDscZFZL5"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 314573,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5BfbdJLRp9gUyyxeGJUECL"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 210893,
       "name": "Something Better",
       "url": "https://open.spotify.com/track/5KubAwSuCHu4EEd5Q4kUsZ"
@@ -912,6 +912,24 @@
     },
     {
       "album": {
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "The Artist In The Ambulance",
+      "url": "https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw"
+    },
+    {
+      "album": {
         "name": "The Haze",
         "url": "https://open.spotify.com/album/12sNQhAIKd2ymuGrIk4gnx"
       },
@@ -923,7 +941,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 194626,
       "name": "The Big What If",
       "url": "https://open.spotify.com/track/5S9nq3W1Vzw8L3mXl0L4G9"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 332413,
       "name": "The Borders",
       "url": "https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 195680,
       "name": "The River",
       "url": "https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 185610,
       "name": "White Onions",
       "url": "https://open.spotify.com/track/36GhBMw1CVJpsrazHYbXQy"

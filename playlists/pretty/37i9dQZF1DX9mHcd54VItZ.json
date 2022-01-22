@@ -1,13 +1,29 @@
 {
-  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9?si=ycViu-0TROu5mHvW9p2m3Q\">Sean Koch</a>",
-  "num_followers": 9670,
+  "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU?si=Xh_ZEAULQWeNrhQhjJb4PQ\">Dangerfields</a>",
+  "num_followers": 9677,
   "original_name": "SA Rock Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUwNjM0MCwwMDAwMDJhYzAwMDAwMTdlMzE2NmZjZmYwMDAwMDE3ZGU3NmJkNzQ4",
+  "snapshot_id": "MTY0Mjc1NzQ0MSwwMDAwMDJhZDAwMDAwMTdlN2JmOTQ5MjcwMDAwMDE3ZTdiZjg3ZTI0",
   "tracks": [
+    {
+      "added_at": "2022-01-21 09:30:41",
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/2PB4vdIz8aRwh3hhucvLCE"
+      },
+      "artists": [
+        {
+          "name": "Dangerfields",
+          "url": "https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU"
+        }
+      ],
+      "duration_ms": 304688,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/5DyMpoB5hqmjkwPBnTPxFw"
+    },
     {
       "added_at": "2021-12-09 21:59:00",
       "album": {
@@ -39,6 +55,26 @@
       "duration_ms": 221715,
       "name": "Silwer",
       "url": "https://open.spotify.com/track/4UFuCgW8yugNXB5SMn3MQs"
+    },
+    {
+      "added_at": "2022-01-21 09:30:41",
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/1f98ilxMIzaqHosQXwiZY3"
+      },
+      "artists": [
+        {
+          "name": "Kat",
+          "url": "https://open.spotify.com/artist/46IUVOnJEpX59hQc5SkfPp"
+        },
+        {
+          "name": "Mark Haze",
+          "url": "https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ"
     },
     {
       "added_at": "2022-01-06 21:59:00",
@@ -77,6 +113,22 @@
       "url": "https://open.spotify.com/track/22mVe2AVZRBmAnveENz9qn"
     },
     {
+      "added_at": "2022-01-21 09:30:41",
+      "album": {
+        "name": "Last Tear",
+        "url": "https://open.spotify.com/album/1GxkqKs4ZdP2mW42p1FpMS"
+      },
+      "artists": [
+        {
+          "name": "Nine",
+          "url": "https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me"
+        }
+      ],
+      "duration_ms": 241111,
+      "name": "Last Tear",
+      "url": "https://open.spotify.com/track/7KXty1ex5eJ9sMgJRdTDXf"
+    },
+    {
       "added_at": "2021-12-09 21:59:00",
       "album": {
         "name": "ohmygosh (Acoustic)",
@@ -107,6 +159,26 @@
       "duration_ms": 289320,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q"
+    },
+    {
+      "added_at": "2022-01-21 09:30:41",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/6E37QS4o6fWjdAQ6mHhaK8"
+      },
+      "artists": [
+        {
+          "name": "No Handshake",
+          "url": "https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk"
+        },
+        {
+          "name": "Bobby XX",
+          "url": "https://open.spotify.com/artist/7M22xUpObTRyRjHa5b3frp"
+        }
+      ],
+      "duration_ms": 125142,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/1ks9wTTBtoKDviVn0UzU0e"
     },
     {
       "added_at": "2021-11-25 21:59:00",
@@ -897,22 +969,6 @@
       "url": "https://open.spotify.com/track/5xtq7iINMAphuyAaimsut7"
     },
     {
-      "added_at": "2021-02-18 22:00:00",
-      "album": {
-        "name": "Street Fight Sonata",
-        "url": "https://open.spotify.com/album/5fnZOHN3JZLNQ208awZyNk"
-      },
-      "artists": [
-        {
-          "name": "De Wallen",
-          "url": "https://open.spotify.com/artist/3n6PF2KnptY1WuDGFguiXF"
-        }
-      ],
-      "duration_ms": 191364,
-      "name": "Loveless",
-      "url": "https://open.spotify.com/track/7iQui052V5iZA7cPzBJ98M"
-    },
-    {
       "added_at": "2021-06-10 21:59:00",
       "album": {
         "name": "For You",
@@ -927,26 +983,6 @@
       "duration_ms": 214520,
       "name": "For You",
       "url": "https://open.spotify.com/track/4MVv8yUbBY2ISaZnCXSp1c"
-    },
-    {
-      "added_at": "2021-05-28 04:38:02",
-      "album": {
-        "name": "Mayhem",
-        "url": "https://open.spotify.com/album/53wKblbUHvMxx3pUskWF74"
-      },
-      "artists": [
-        {
-          "name": "Alanna Joy",
-          "url": "https://open.spotify.com/artist/4EVOaWmv3mIsrqm4Oxyo9k"
-        },
-        {
-          "name": "Lost//Youth",
-          "url": "https://open.spotify.com/artist/4BdFQrwkW4xye28RMbrfOo"
-        }
-      ],
-      "duration_ms": 245197,
-      "name": "Mayhem",
-      "url": "https://open.spotify.com/track/1MDc7PDmDGCmogKJO2OkjC"
     },
     {
       "added_at": "2021-05-05 11:25:00",

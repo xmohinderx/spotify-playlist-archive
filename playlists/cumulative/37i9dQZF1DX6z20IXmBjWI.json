@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hours of your favorite acoustic and roots music gems. Cover: Madi Diaz",
+  "description": "<a href=\"https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa?si=shPe6K9qQaCABPthGiVsuQ\">Aoife O'Donovan</a> takes over this playlist full of acoustic and roots music gems in celebration of her new album, <a href=https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC?si=3fbeef5aa7ee4b20\">Age Of Apathy</a>. ",
   "name": "Infinite Acoustic",
   "published_playlist_ids": [
     "2lhdiCy6DWi2BRRHxhm4lv"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 178840,
       "name": "Angela (Single Version)",
       "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221842,
+      "name": "B61",
+      "url": "https://open.spotify.com/track/6KbnuJlqf7xp0QUClw8ben"
+    },
+    {
+      "album": {
         "name": "Back to Tennessee",
         "url": "https://open.spotify.com/album/6wXcYqIiXETdVMD0GwnI4G"
       },
@@ -243,7 +261,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 167164,
       "name": "Before You",
       "url": "https://open.spotify.com/track/60GSDg8mVq5lIwBdQ8Fdgv"
@@ -340,6 +358,24 @@
     },
     {
       "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216080,
+      "name": "Brandy Alexander",
+      "url": "https://open.spotify.com/track/7M8jtZQTPhPK6EgwcOgujM"
+    },
+    {
+      "album": {
         "name": "Shape & Destroy",
         "url": "https://open.spotify.com/album/0pILyYJr65rEAWnogtd8Xt"
       },
@@ -351,7 +387,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 193013,
       "name": "Brave",
       "url": "https://open.spotify.com/track/3MKTh8Awrh9roJe0PV9BaI"
@@ -511,7 +547,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 232066,
       "name": "Cherokee Rose",
       "url": "https://open.spotify.com/track/50FakcsMM8aCyRJuNu5PSW"
@@ -573,6 +609,24 @@
       "duration_ms": 199384,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/51ZW0OUvhcO0uyXR3E68bh"
+    },
+    {
+      "album": {
+        "name": "See You Around",
+        "url": "https://open.spotify.com/album/5CE2xIBgva5wYBhfMbluQW"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "Crescent City",
+      "url": "https://open.spotify.com/track/32lWsea1J8tfeqvmRAX1Av"
     },
     {
       "album": {
@@ -700,6 +754,42 @@
     },
     {
       "album": {
+        "name": "I'll Swing My Hammer With Both My Hands",
+        "url": "https://open.spotify.com/album/6ykVqJ5Cjp2EUxM31dHO4r"
+      },
+      "artists": [
+        {
+          "name": "Cahalen Morrison & Eli West",
+          "url": "https://open.spotify.com/artist/36q9hgg6HgeYXR4IyC4HNt"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276813,
+      "name": "Down in the Lonesome Draw",
+      "url": "https://open.spotify.com/track/4PVkyVnAow2Tg3j1FL1UYW"
+    },
+    {
+      "album": {
+        "name": "I Want To See The Bright Lights Tonight",
+        "url": "https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt"
+      },
+      "artists": [
+        {
+          "name": "Richard & Linda Thompson",
+          "url": "https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "Down Where The Drunkards Roll",
+      "url": "https://open.spotify.com/track/6UAeM4hpfyirF8DsNfPqdQ"
+    },
+    {
+      "album": {
         "name": "The Stray Birds",
         "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
@@ -729,7 +819,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 211688,
       "name": "Echo - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2d7lM2tUbVZbfOvmJFn4pw"
@@ -747,7 +837,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 279680,
       "name": "Elijah - Acoustic Version",
       "url": "https://open.spotify.com/track/5USnlTd40L2fKioMeNMOBJ"
@@ -765,7 +855,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 304226,
       "name": "Emmylou - Spotify Sessions",
       "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
@@ -808,6 +898,24 @@
     },
     {
       "album": {
+        "name": "Brother Sister",
+        "url": "https://open.spotify.com/album/27nsoapWtsOW9f1kRd41TL"
+      },
+      "artists": [
+        {
+          "name": "Watkins Family Hour",
+          "url": "https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183520,
+      "name": "Fake Badge, Real Gun",
+      "url": "https://open.spotify.com/track/3HBtfi7Zg2WZPtlLpI80fs"
+    },
+    {
+      "album": {
         "name": "Fall, Fall, Fall",
         "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
       },
@@ -837,7 +945,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 198586,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu"
@@ -1061,7 +1169,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 214564,
       "name": "Green Lights - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
@@ -1151,10 +1259,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 256006,
       "name": "Hello My Old Heart",
       "url": "https://open.spotify.com/track/2c62Xf5Po1YSa1N6LOjPHy"
+    },
+    {
+      "album": {
+        "name": "The Murphy Beds",
+        "url": "https://open.spotify.com/album/5XghajytiUZ0buWNnVoVFO"
+      },
+      "artists": [
+        {
+          "name": "Eamon O'leary",
+          "url": "https://open.spotify.com/artist/3zu3pj0EZ3OLEDnqO5FEtY"
+        },
+        {
+          "name": "Jefferson Hamer",
+          "url": "https://open.spotify.com/artist/3y6Xgu4ghSkuPM8HVHijCv"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283173,
+      "name": "Her Bright Smile Haunts Me Still",
+      "url": "https://open.spotify.com/track/1wv7r3QLlnqngYlMmDgRS3"
     },
     {
       "album": {
@@ -1173,6 +1303,24 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
+      "album": {
+        "name": "Failer",
+        "url": "https://open.spotify.com/album/3ZYobhZ7YRCG96p7P7BIek"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268133,
+      "name": "Hockey Skates",
+      "url": "https://open.spotify.com/track/1avuG0JHGZZB8HI69C0f4E"
     },
     {
       "album": {
@@ -1317,7 +1465,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 196640,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A"
@@ -1353,7 +1501,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 234194,
       "name": "Human",
       "url": "https://open.spotify.com/track/4uBiUTHSuuRT4CtEoZHz2f"
@@ -1567,7 +1715,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 206266,
       "name": "In Between",
       "url": "https://open.spotify.com/track/7jsdurLwZkppuDDhLPQ9IW"
@@ -1607,7 +1755,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 182805,
       "name": "It'll Work Itself Out",
       "url": "https://open.spotify.com/track/1WvRxjDesc8qkTwYQO55gI"
@@ -1643,7 +1791,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 163893,
       "name": "Keep 'Em on They Toes",
       "url": "https://open.spotify.com/track/5OXrQDOfnEp52MvMnAk7pp"
@@ -1759,7 +1907,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
@@ -1777,7 +1925,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 243733,
       "name": "More I See",
       "url": "https://open.spotify.com/track/3Bxo9PV2ye0DlIwSoUPzxZ"
@@ -1835,7 +1983,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
@@ -1907,7 +2055,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 152626,
       "name": "Naked As We Came",
       "url": "https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2"
@@ -1925,7 +2073,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 228626,
       "name": "Nebraska - Acoustic",
       "url": "https://open.spotify.com/track/0gEOycr5Mb2WJaqZwcIyjn"
@@ -2015,7 +2163,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 212471,
       "name": "Not a Number",
       "url": "https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs"
@@ -2296,6 +2444,24 @@
     },
     {
       "album": {
+        "name": "Orphan Annie",
+        "url": "https://open.spotify.com/album/4wS4JNpGOxJksJ4UEsdVpv"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300676,
+      "name": "Orphan Annie",
+      "url": "https://open.spotify.com/track/2LLvjxMWgwbgjJURPayTE5"
+    },
+    {
+      "album": {
         "name": "Pale November Dew",
         "url": "https://open.spotify.com/album/2ea78WFnPuZiXVietGV08T"
       },
@@ -2311,6 +2477,28 @@
       "duration_ms": 230626,
       "name": "Pale November Dew",
       "url": "https://open.spotify.com/track/1k0lOmYQWNyQnQYs0RepPV"
+    },
+    {
+      "album": {
+        "name": "Passengers",
+        "url": "https://open.spotify.com/album/5SosqlxeVmbp47asMuQlqi"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212255,
+      "name": "Passengers",
+      "url": "https://open.spotify.com/track/0j8tWZyD71TFLVBVLhvna5"
     },
     {
       "album": {
@@ -2343,7 +2531,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 195494,
       "name": "Paula Collins",
       "url": "https://open.spotify.com/track/6u6xrnKXzVVlInlfiHFZsP"
@@ -2404,6 +2592,42 @@
     },
     {
       "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210196,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/02kai5Mz2pi4Guw9Wg6Vpv"
+    },
+    {
+      "album": {
+        "name": "In The Magic Hour",
+        "url": "https://open.spotify.com/album/3ntBsLDs4YznKmxScj8K4f"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/3fUle3MRHVnEspDxGMrvNQ"
+    },
+    {
+      "album": {
         "name": "Portland",
         "url": "https://open.spotify.com/album/0F1lJ6QmJUMcIMiTE3fBZP"
       },
@@ -2419,6 +2643,28 @@
       "duration_ms": 228389,
       "name": "Portland",
       "url": "https://open.spotify.com/track/52EUFsBXu1FG5iTnTE9W2M"
+    },
+    {
+      "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222251,
+      "name": "Prodigal Daughter",
+      "url": "https://open.spotify.com/track/42vqHuyCCHkdckWSeCmMTV"
     },
     {
       "album": {
@@ -2584,6 +2830,24 @@
     },
     {
       "album": {
+        "name": "Bet On Love",
+        "url": "https://open.spotify.com/album/2sWycRzmxMPHQ8rVAv0wBr"
+      },
+      "artists": [
+        {
+          "name": "Pharis & Jason Romero",
+          "url": "https://open.spotify.com/artist/7d143d171ut6oHKSXv1ztS"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "Roll On My Friend",
+      "url": "https://open.spotify.com/track/7KHM6neYujtUbRj0yp3Dfl"
+    },
+    {
+      "album": {
         "name": "While I Was Asleep",
         "url": "https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc"
       },
@@ -2613,7 +2877,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 151172,
       "name": "Rust",
       "url": "https://open.spotify.com/track/4Ob6C4hbiVGVAmP0nP1i4U"
@@ -2725,7 +2989,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 211430,
       "name": "Seen a Ghost - Acoustic",
       "url": "https://open.spotify.com/track/5la2ozbor0IXdyxb1UlIdS"
@@ -2747,6 +3011,24 @@
       "duration_ms": 298880,
       "name": "Shrike",
       "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
+    },
+    {
+      "album": {
+        "name": "A Very Lonely Solstice",
+        "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222133,
+      "name": "Silver Dagger - Solstice Version",
+      "url": "https://open.spotify.com/track/7u3LJNd9Iv7KecnKmB3gxa"
     },
     {
       "album": {
@@ -2786,6 +3068,24 @@
     },
     {
       "album": {
+        "name": "Waltz Of The Chickadee",
+        "url": "https://open.spotify.com/album/5UGHnnIPnwyROihsgyMihU"
+      },
+      "artists": [
+        {
+          "name": "Mike + Ruthy",
+          "url": "https://open.spotify.com/artist/5chQHSHzfHEkPSuYweOYXp"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252853,
+      "name": "Slow Train",
+      "url": "https://open.spotify.com/track/6BQROtjISWKnkiLx1quAFL"
+    },
+    {
+      "album": {
         "name": "Smoke (Acoustic)",
         "url": "https://open.spotify.com/album/4T9aGWicnCbNrfPrFvHrWH"
       },
@@ -2797,7 +3097,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 152320,
       "name": "Smoke - Acoustic",
       "url": "https://open.spotify.com/track/4WkXg0OeMYPY7oM9ZRq6mm"
@@ -3017,7 +3317,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 264866,
       "name": "The Bear (Trio)",
       "url": "https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV"
@@ -3176,6 +3476,24 @@
     },
     {
       "album": {
+        "name": "Will You Find Me",
+        "url": "https://open.spotify.com/album/5j3oBgHkGvVoBplDlPaIVx"
+      },
+      "artists": [
+        {
+          "name": "Ida",
+          "url": "https://open.spotify.com/artist/59sabZEdH1o4BqCUzXGmd7"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216533,
+      "name": "This Water",
+      "url": "https://open.spotify.com/track/5Jc9D9gc8ZS86VJoTQg63o"
+    },
+    {
+      "album": {
         "name": "Thousand (acoustic)",
         "url": "https://open.spotify.com/album/2Xi1N0ITpSzirX15uhBFpI"
       },
@@ -3263,7 +3581,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 216415,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0"
@@ -3299,7 +3617,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 206360,
       "name": "Tractor",
       "url": "https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR"
@@ -3501,7 +3819,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 237866,
       "name": "Waterbound (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/6hm3iR9TjDa5FCfPhXrnXY"
@@ -3548,6 +3866,24 @@
     },
     {
       "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243242,
+      "name": "What Do You Want From Yourself?",
+      "url": "https://open.spotify.com/track/09oOCufbDX2MHXzOXCHgRF"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0J74kr54nlrBjodALQYuc7"
       },
@@ -3577,10 +3913,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 280827,
       "name": "When Doves Cry - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
+    },
+    {
+      "album": {
+        "name": "Where is the Heart of My Country",
+        "url": "https://open.spotify.com/album/2PIfdfMglh7KRBIzseJpd5"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313615,
+      "name": "Where is the Heart of My Country",
+      "url": "https://open.spotify.com/track/4VnrZj5hxHkKvY60VbpDLS"
     },
     {
       "album": {
@@ -3631,7 +3985,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 244520,
       "name": "Whisper In Her Ear",
       "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"

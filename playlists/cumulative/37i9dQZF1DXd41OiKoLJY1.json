@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "$low Burn",
+        "url": "https://open.spotify.com/album/1DBbSjNUqeyPWcr1LeQq0I"
+      },
+      "artists": [
+        {
+          "name": "prettyboymusic",
+          "url": "https://open.spotify.com/artist/20JBPDB7nAsicTpU1ArdC6"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135714,
+      "name": "$low Burn",
+      "url": "https://open.spotify.com/track/32WSgYvov1hhAWb0tHOvSN"
+    },
+    {
+      "album": {
         "name": "2Solid",
         "url": "https://open.spotify.com/album/2H5Il22VbMTpel1PrF5Ogq"
       },

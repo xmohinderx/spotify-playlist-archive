@@ -1,28 +1,80 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: Molly Tuttle",
-  "num_followers": 209384,
+  "num_followers": 209478,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUzMTkwMCwwMDAwMDAyOTAwMDAwMTdlMzJlZDAxODUwMDAwMDE3NDczYWM3MmNm",
+  "snapshot_id": "MTY0Mjc0MTg2MCwwMDAwMDAyYTAwMDAwMTdlN2IwYjg3MTIwMDAwMDE3NDczYWM3MmNm",
   "tracks": [
     {
       "added_at": "2021-08-20 20:33:56",
       "album": {
-        "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
-        "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN"
       },
       "artists": [
+        {
+          "name": "Branches",
+          "url": "https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "I Believe in a Thing Called Love",
+      "url": "https://open.spotify.com/track/6mEeutpoC30B6yALroRlFW"
+    },
+    {
+      "added_at": "2022-01-21 05:11:00",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 212157,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
+    },
+    {
+      "added_at": "2021-08-20 20:33:56",
+      "album": {
+        "name": "The Bluegrass Tribute to Guns N' Roses",
+        "url": "https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
         {
           "name": "Iron Horse",
           "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
         }
       ],
-      "duration_ms": 261413,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
+      "duration_ms": 241786,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE"
+    },
+    {
+      "added_at": "2021-08-20 20:33:56",
+      "album": {
+        "name": "Play One We All Know, Vol. II",
+        "url": "https://open.spotify.com/album/6NAr5nLxOClccDdjfJOcxS"
+      },
+      "artists": [
+        {
+          "name": "Graeme James",
+          "url": "https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "Bittersweet Symphony",
+      "url": "https://open.spotify.com/track/7o7LWBj18034zYmqRDWOff"
     },
     {
       "added_at": "2021-08-20 20:33:56",
@@ -39,6 +91,22 @@
       "duration_ms": 224773,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/6xAdFwLNed6786FezhUMVS"
+    },
+    {
+      "added_at": "2021-08-20 20:33:56",
+      "album": {
+        "name": "Rhythm and Moos",
+        "url": "https://open.spotify.com/album/7r3AaWzndFKa1PUYrck1RN"
+      },
+      "artists": [
+        {
+          "name": "The Beef Seeds",
+          "url": "https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/1lDPD85vlOjj4WmhSrpswH"
     },
     {
       "added_at": "2021-12-10 04:21:35",
@@ -71,42 +139,6 @@
       "duration_ms": 310853,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/4q7wdKi7TnNdx4zA9MVLP7"
-    },
-    {
-      "added_at": "2021-08-20 20:33:56",
-      "album": {
-        "name": "The Bluegrass Tribute to Guns N' Roses",
-        "url": "https://open.spotify.com/album/1H1Flaszhxw2xhynLotNCN"
-      },
-      "artists": [
-        {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
-        },
-        {
-          "name": "Iron Horse",
-          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
-        }
-      ],
-      "duration_ms": 241786,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/28LJVZ5PfkIboFoW0J4GgE"
-    },
-    {
-      "added_at": "2021-08-20 20:33:56",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2021-08-20 20:33:56",
@@ -159,22 +191,6 @@
     {
       "added_at": "2021-08-20 20:33:56",
       "album": {
-        "name": "Play One We All Know, Vol. II",
-        "url": "https://open.spotify.com/album/6NAr5nLxOClccDdjfJOcxS"
-      },
-      "artists": [
-        {
-          "name": "Graeme James",
-          "url": "https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Bittersweet Symphony",
-      "url": "https://open.spotify.com/track/7o7LWBj18034zYmqRDWOff"
-    },
-    {
-      "added_at": "2021-08-20 20:33:56",
-      "album": {
         "name": "Tommy: A Bluegrass Opry",
         "url": "https://open.spotify.com/album/30JWrDVhcL9nXRPEantke9"
       },
@@ -191,18 +207,18 @@
     {
       "added_at": "2021-08-20 20:33:56",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN"
+        "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
+        "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
       },
       "artists": [
         {
-          "name": "Branches",
-          "url": "https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2"
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
         }
       ],
-      "duration_ms": 184000,
-      "name": "I Believe in a Thing Called Love",
-      "url": "https://open.spotify.com/track/6mEeutpoC30B6yALroRlFW"
+      "duration_ms": 261413,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
     },
     {
       "added_at": "2021-08-20 20:33:56",
@@ -305,6 +321,30 @@
       "url": "https://open.spotify.com/track/2YcILFkmZHNi5qCqgP9F0R"
     },
     {
+      "added_at": "2022-01-21 05:11:00",
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/0aa0FrL0JlVE7MMgszjYvP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/5sqhKYHmQSGmGWzrgyL2nc"
+    },
+    {
       "added_at": "2021-08-20 20:33:56",
       "album": {
         "name": "Run",
@@ -351,22 +391,6 @@
       "duration_ms": 194000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/6JtxiSAgxUwo6VvkA7oLpd"
-    },
-    {
-      "added_at": "2021-08-20 20:33:56",
-      "album": {
-        "name": "Rhythm and Moos",
-        "url": "https://open.spotify.com/album/7r3AaWzndFKa1PUYrck1RN"
-      },
-      "artists": [
-        {
-          "name": "The Beef Seeds",
-          "url": "https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/1lDPD85vlOjj4WmhSrpswH"
     },
     {
       "added_at": "2021-08-20 20:33:56",
@@ -487,6 +511,22 @@
       "duration_ms": 225506,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/5nkAJwICnwnzsriZCcastc"
+    },
+    {
+      "added_at": "2021-08-20 20:33:56",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2021-08-20 20:33:56",
@@ -733,6 +773,22 @@
       "url": "https://open.spotify.com/track/3JZteSHBgqZ8T1SWNLr56x"
     },
     {
+      "added_at": "2022-01-21 05:11:00",
+      "album": {
+        "name": "Crossing Muddy Waters",
+        "url": "https://open.spotify.com/album/3T0SGvKN5MxhizyvTaj1rz"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 228320,
+      "name": "Crossing Muddy Waters",
+      "url": "https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F"
+    },
+    {
       "added_at": "2021-08-20 20:33:56",
       "album": {
         "name": "Pickin' on the Hits of 2013",
@@ -779,6 +835,22 @@
       "duration_ms": 256120,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/6EmwBRFDI25uukoQ9jCU6J"
+    },
+    {
+      "added_at": "2022-01-21 05:11:00",
+      "album": {
+        "name": "Broken Hearts & Dirty Windows: Songs of John Prine",
+        "url": "https://open.spotify.com/album/2L1Y2FRrjQ1jhGJ6d4MGnL"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 270080,
+      "name": "Angel from Montgomery",
+      "url": "https://open.spotify.com/track/2mKMIVcKPczPULJF13Ztvo"
     },
     {
       "added_at": "2021-08-20 20:33:56",
@@ -1111,38 +1183,6 @@
     {
       "added_at": "2021-08-20 20:33:56",
       "album": {
-        "name": "Yael Naim",
-        "url": "https://open.spotify.com/album/09Cvd1XS0KwCXfMXukpvSS"
-      },
-      "artists": [
-        {
-          "name": "Yael Naim",
-          "url": "https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w"
-        }
-      ],
-      "duration_ms": 267225,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/0EkB09i9ohIUnsw45jzEyf"
-    },
-    {
-      "added_at": "2021-08-20 20:33:56",
-      "album": {
-        "name": "Dry Town",
-        "url": "https://open.spotify.com/album/280oD2MWboQrvS4rmROjL6"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 162697,
-      "name": "Dry Town",
-      "url": "https://open.spotify.com/track/6QbkUhsl7YDaOq0ska3WlN"
-    },
-    {
-      "added_at": "2021-08-20 20:33:56",
-      "album": {
         "name": "Heroes & Heretics",
         "url": "https://open.spotify.com/album/3hqfZkAkGENyOubiN2wDJe"
       },
@@ -1303,22 +1343,6 @@
     {
       "added_at": "2021-08-20 20:33:56",
       "album": {
-        "name": "Mountain Love",
-        "url": "https://open.spotify.com/album/6V64FxexuvUbun8AnRKYKs"
-      },
-      "artists": [
-        {
-          "name": "Hayseed Dixie",
-          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/31iIGTRrL3X0RfOM6zv0Mk"
-    },
-    {
-      "added_at": "2021-08-20 20:33:56",
-      "album": {
         "name": "Now That I've Found You: A Collection",
         "url": "https://open.spotify.com/album/1yt29znD6KxC2ayfnT1Cqk"
       },
@@ -1431,22 +1455,6 @@
       "duration_ms": 205373,
       "name": "Love Is The Seventh Wave",
       "url": "https://open.spotify.com/track/40gDRdKSnvuYSESfYOTLyH"
-    },
-    {
-      "added_at": "2021-08-20 20:33:56",
-      "album": {
-        "name": "Keepin' it Beefy",
-        "url": "https://open.spotify.com/album/4IQn9XpweytNX2cUe2NBUH"
-      },
-      "artists": [
-        {
-          "name": "The Beef Seeds",
-          "url": "https://open.spotify.com/artist/2Lgu1zUJEcEB1A1tbhUSBR"
-        }
-      ],
-      "duration_ms": 218044,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/0jEaPBjFAWjQTMVouRwaHi"
     },
     {
       "added_at": "2021-08-20 20:33:56",

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6bBjHfdRnza.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6bBjHfdRnza) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6bBjHfdRnza)
 
-### [Fresh Finds Dance](https://open.spotify.com/playlist/31j54ZYAtwrRTh34kTQJkE)
+### [Fresh Finds Dance](https://open.spotify.com/playlist/4dKpDBG1y7h8bfA4dbtQPc)
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Ben Miller \(Aus\), Artwork: Rewina Beshue.
 

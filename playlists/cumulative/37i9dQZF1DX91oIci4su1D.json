@@ -541,6 +541,28 @@
     {
       "album": {
         "name": "Change The World",
+        "url": "https://open.spotify.com/album/1UudyzciU5nu3hvFSZJQOm"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        },
+        {
+          "name": "Sarah Russell",
+          "url": "https://open.spotify.com/artist/130O0cb6ht7pUyIJmpbQuP"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188695,
+      "name": "Change The World",
+      "url": "https://open.spotify.com/track/7DDWs7TCnDrQyZJQ6B7maV"
+    },
+    {
+      "album": {
+        "name": "Change The World",
         "url": "https://open.spotify.com/album/2vAdIgnJ7UZuQtgReo1EYY"
       },
       "artists": [
@@ -603,6 +625,28 @@
       "duration_ms": 223384,
       "name": "Colder",
       "url": "https://open.spotify.com/track/1bD4mJMfB4xNOyt6EaxFpg"
+    },
+    {
+      "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/6ptKD3K2JuwUhWD6kt3VRu"
+      },
+      "artists": [
+        {
+          "name": "Cold Blue",
+          "url": "https://open.spotify.com/artist/3mbjJqO86kx786znlhmTrF"
+        },
+        {
+          "name": "Nikolauss",
+          "url": "https://open.spotify.com/artist/1JIkYqcBd6oK502lNnLeid"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213428,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/5eAYZBLL3vOUrWrVRaBXtj"
     },
     {
       "album": {
@@ -741,6 +785,24 @@
       "duration_ms": 148613,
       "name": "Earthshine",
       "url": "https://open.spotify.com/track/13gzqa9L58ZszOIqON5ZZR"
+    },
+    {
+      "album": {
+        "name": "echo",
+        "url": "https://open.spotify.com/album/1sSrQfWnQj6171zCr8KGnt"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189390,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/3bwD03dsO2K2bB5lWoKL42"
     },
     {
       "album": {
@@ -1490,6 +1552,28 @@
     },
     {
       "album": {
+        "name": "In the Silence",
+        "url": "https://open.spotify.com/album/0JFPkGetAHxCIYPZz6sjnL"
+      },
+      "artists": [
+        {
+          "name": "Luminn",
+          "url": "https://open.spotify.com/artist/0VCNnHuSbecQJ7CnfPxtZQ"
+        },
+        {
+          "name": "Roxanne Emery",
+          "url": "https://open.spotify.com/artist/70bIIPbBQeaFzRrIfahMEM"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183111,
+      "name": "In the Silence",
+      "url": "https://open.spotify.com/track/4gNwkmK1BIXvVNkl2n2X4e"
+    },
+    {
+      "album": {
         "name": "Invaders",
         "url": "https://open.spotify.com/album/4njR9gO1pouK6VsZoe1GNy"
       },
@@ -2024,6 +2108,46 @@
     },
     {
       "album": {
+        "name": "Militia",
+        "url": "https://open.spotify.com/album/6vyYIItTUALUcBmCGreLRp"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Deem",
+          "url": "https://open.spotify.com/artist/22wrhNQAtwTj0CPoB9mWEF"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210250,
+      "name": "Militia",
+      "url": "https://open.spotify.com/track/5BPmf3wlUmDDQvsFMJaXby"
+    },
+    {
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/0H5L396lTc0JhHwZ3x3Vwe"
+      },
+      "artists": [
+        {
+          "name": "Talla 2XLC",
+          "url": "https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ"
+        },
+        {
+          "name": "Rinaly",
+          "url": "https://open.spotify.com/artist/17fstkJkaEYiI1tBX1N7RD"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239510,
+      "name": "Mirage (Original Mix)",
+      "url": "https://open.spotify.com/track/0emwsfGaEzF8czB33tYo8D"
+    },
+    {
+      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/0axXxvjQtWnKTvYfpwBFnX"
       },
@@ -2277,6 +2401,24 @@
       "duration_ms": 145039,
       "name": "Oblique",
       "url": "https://open.spotify.com/track/1LhO3e7X53MxSuYjUQ5ROt"
+    },
+    {
+      "album": {
+        "name": "Oceans",
+        "url": "https://open.spotify.com/album/1UMpW40rJcVPIbZI3lQ7Iu"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222072,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/6BxSem6OQcmyQf4hDd81Rt"
     },
     {
       "album": {
@@ -2537,6 +2679,32 @@
       "duration_ms": 185714,
       "name": "Radiant",
       "url": "https://open.spotify.com/track/1iyxxUxyptXWtEdRXRBeda"
+    },
+    {
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/6QxPadNVThUrA4u4UFJgYv"
+      },
+      "artists": [
+        {
+          "name": "Alexander Popov",
+          "url": "https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2"
+        },
+        {
+          "name": "Whiteout",
+          "url": "https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt"
+        },
+        {
+          "name": "Cari",
+          "url": "https://open.spotify.com/artist/6UAL6sAn9OZc6VQGOOp3re"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/4oOogqFgu0UdI654KYOy3g"
     },
     {
       "album": {
@@ -3258,6 +3426,24 @@
     },
     {
       "album": {
+        "name": "Text Me",
+        "url": "https://open.spotify.com/album/234yjteEry3Y6imN8wQl1Q"
+      },
+      "artists": [
+        {
+          "name": "Avao",
+          "url": "https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155606,
+      "name": "Text Me",
+      "url": "https://open.spotify.com/track/7cgYvANWUAZk2yuqtJro7w"
+    },
+    {
+      "album": {
         "name": "the darkness",
         "url": "https://open.spotify.com/album/0OzEsyvzn31Ew9RbmuWSNK"
       },
@@ -3353,6 +3539,24 @@
       "duration_ms": 228750,
       "name": "This Is Real",
       "url": "https://open.spotify.com/track/4YNkPVM9axWMaffM9Y3ovw"
+    },
+    {
+      "album": {
+        "name": "Tiger",
+        "url": "https://open.spotify.com/album/19ndH7HNa1DKyt18uyXikg"
+      },
+      "artists": [
+        {
+          "name": "DRYM",
+          "url": "https://open.spotify.com/artist/0kDuIuxZhlgE9XYRy6NVSq"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199687,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/4uUxMuipFKX8gq4me7pGty"
     },
     {
       "album": {

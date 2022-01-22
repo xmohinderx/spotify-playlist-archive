@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: bule",
+  "description": "Novidades e destaques do indie nacional. Foto: Terno Rei",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -352,6 +352,24 @@
     },
     {
       "album": {
+        "name": "Praeteritum",
+        "url": "https://open.spotify.com/album/4P2MUjqeLMgIeMLDDByLUO"
+      },
+      "artists": [
+        {
+          "name": "Sergiop\u00ed",
+          "url": "https://open.spotify.com/artist/1AJbMS0MpfiNzTu0Kf4fOF"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204428,
+      "name": "Coisas da Vida",
+      "url": "https://open.spotify.com/track/74YDFvn8exKF2sbrFJMoek"
+    },
+    {
+      "album": {
         "name": "Coisas t\u00e3o F\u00fateis",
         "url": "https://open.spotify.com/album/0rMR5dho37iLGGWrYiWUlL"
       },
@@ -443,10 +461,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 204000,
       "name": "Desagradar",
       "url": "https://open.spotify.com/track/7qhbm7QvRktr6ZwDZzWmG1"
+    },
+    {
+      "album": {
+        "name": "Dias da Juventude",
+        "url": "https://open.spotify.com/album/2Mw5D7bDq20kHVHawd2ovC"
+      },
+      "artists": [
+        {
+          "name": "Terno Rei",
+          "url": "https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Dias da Juventude",
+      "url": "https://open.spotify.com/track/64h7945jIYmp90J9OTNMHN"
     },
     {
       "album": {
@@ -461,7 +497,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 203897,
       "name": "enquanto isso...",
       "url": "https://open.spotify.com/track/6uPfQxEOJ7EKVO24C127NZ"
@@ -501,7 +537,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 163852,
       "name": "Eu J\u00e1 Fiz de Tudo que Tu Pode Imaginar",
       "url": "https://open.spotify.com/track/6Q3iLSJsGqfv8bCz6ngSkn"
@@ -519,7 +555,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 204812,
       "name": "Eu Tinha Raz\u00e3o",
       "url": "https://open.spotify.com/track/2dm9LENWpqgh4bhvySFJ1K"
@@ -545,7 +581,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 189894,
       "name": "Exausta",
       "url": "https://open.spotify.com/track/0IbcOCuSAOGSAiXMvvczc6"
@@ -589,6 +625,24 @@
       "duration_ms": 243280,
       "name": "Festa dos P\u00e1ssaros",
       "url": "https://open.spotify.com/track/3ga8WGrJaOtraqnPuNDRwv"
+    },
+    {
+      "album": {
+        "name": "festa estranha",
+        "url": "https://open.spotify.com/album/3ngy9z7zLwytb1QVECUTnz"
+      },
+      "artists": [
+        {
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171500,
+      "name": "festa estranha",
+      "url": "https://open.spotify.com/track/5Gj78z3zpdXoZzlpEIibOb"
     },
     {
       "album": {
@@ -673,7 +727,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 192833,
       "name": "If You Are Leaving",
       "url": "https://open.spotify.com/track/2la1fLxdl0jCv02ZpFXFSn"
@@ -713,6 +767,24 @@
       "duration_ms": 308977,
       "name": "Lia",
       "url": "https://open.spotify.com/track/02AfIrjEzN8REjSe5ypcXF"
+    },
+    {
+      "album": {
+        "name": "mais um lance",
+        "url": "https://open.spotify.com/album/78Xvu1T8qRtUvMgix18ypT"
+      },
+      "artists": [
+        {
+          "name": "Chico e o Mar",
+          "url": "https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181067,
+      "name": "mais um lance",
+      "url": "https://open.spotify.com/track/47eTiEGgeZwjdIrOiNgG8G"
     },
     {
       "album": {
@@ -775,6 +847,24 @@
       "duration_ms": 176213,
       "name": "Maquiada",
       "url": "https://open.spotify.com/track/6r4ow3Hjow2Tx07b12ejlP"
+    },
+    {
+      "album": {
+        "name": "Sussurros Que N\u00e3o Cessam",
+        "url": "https://open.spotify.com/album/2n9kV3pOP118yJ7J1LsfJC"
+      },
+      "artists": [
+        {
+          "name": "Marchioretto",
+          "url": "https://open.spotify.com/artist/6Pofo6Xaht29sV8Vkiitv3"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Maria Paula",
+      "url": "https://open.spotify.com/track/0po0yH3y2QlPVbmooVIGRd"
     },
     {
       "album": {
@@ -932,6 +1022,28 @@
     },
     {
       "album": {
+        "name": "Nada Mudou",
+        "url": "https://open.spotify.com/album/37u6sGGBnmRuCgF65iVgK0"
+      },
+      "artists": [
+        {
+          "name": "Rosa Ch\u00e1",
+          "url": "https://open.spotify.com/artist/39WSXNixu2Y7AUCGSyWI0x"
+        },
+        {
+          "name": "Casulo",
+          "url": "https://open.spotify.com/artist/0g7WzDKcyUqaVpmZDiQ4H2"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210500,
+      "name": "Nada Mudou",
+      "url": "https://open.spotify.com/track/56d5TRjEg3EhRCIGCQeVkw"
+    },
+    {
+      "album": {
         "name": "No Escuro",
         "url": "https://open.spotify.com/album/3SnTf4h0rOS9f6f31wr9P2"
       },
@@ -947,7 +1059,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 235128,
       "name": "No Escuro",
       "url": "https://open.spotify.com/track/2ZHxQrtMQF5goQyNUWG702"
@@ -983,7 +1095,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 175840,
       "name": "O Amor Se Acabou",
       "url": "https://open.spotify.com/track/30kvSA3nmIdNcEn7Qbz62V"
@@ -1448,6 +1560,28 @@
     },
     {
       "album": {
+        "name": "Teor\u00eda del Cuerpo Enamorado",
+        "url": "https://open.spotify.com/album/3bLd5ak4vQm8TWleuhVX4j"
+      },
+      "artists": [
+        {
+          "name": "Atalhos",
+          "url": "https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353653,
+      "name": "Teor\u00eda del Cuerpo Enamorado",
+      "url": "https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM"
+    },
+    {
+      "album": {
         "name": "Teu Corre",
         "url": "https://open.spotify.com/album/3nb2i3XcXxcHEPQFtekLVW"
       },
@@ -1564,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "Viver \u00c9 Urgente",
+        "url": "https://open.spotify.com/album/3hhCQrv2j5qGROGEFaP7Cf"
+      },
+      "artists": [
+        {
+          "name": "Victor de Albuquerque",
+          "url": "https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198022,
+      "name": "Viver \u00c9 Urgente",
+      "url": "https://open.spotify.com/track/7jSV6Rj6qwfpWp6217Pesb"
+    },
+    {
+      "album": {
         "name": "vou-me embora de mim",
         "url": "https://open.spotify.com/album/54ai34YMvhpux2FLnjWGsz"
       },
@@ -1579,6 +1731,24 @@
       "duration_ms": 186758,
       "name": "vou-me embora de mim",
       "url": "https://open.spotify.com/track/1f8ZogeEUhm1Nv84LsoJxQ"
+    },
+    {
+      "album": {
+        "name": "V\u00eanus",
+        "url": "https://open.spotify.com/album/2ZMVEWBLpT3Dc4fsHZmROs"
+      },
+      "artists": [
+        {
+          "name": "V\u00edtor Guima",
+          "url": "https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167914,
+      "name": "V\u00eanus",
+      "url": "https://open.spotify.com/track/15aq8H2UxtbVCr5MEY37YO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D"

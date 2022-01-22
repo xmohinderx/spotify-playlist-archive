@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "For All The Times I Fell On My Face",
+        "url": "https://open.spotify.com/album/4RmEZnvP72chP3nXMOG3bx"
+      },
+      "artists": [
+        {
+          "name": "Damien Styles",
+          "url": "https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166739,
+      "name": "American Paranoid Freak",
+      "url": "https://open.spotify.com/track/0FWRjeCE9Inf9NAVJpVYBJ"
+    },
+    {
+      "album": {
         "name": "Anxious (with MASN)",
         "url": "https://open.spotify.com/album/0R17ydJMHzORyy7wn8kga5"
       },
@@ -309,7 +327,7 @@
       ],
       "date_added": "2020-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 249333,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/1GJKgHn5KAAiyWvH7H0sRM"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 139713,
       "name": "FRIDAY (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/6IRtUdofXMANdsFYnJZ9WT"
@@ -1999,6 +2017,24 @@
       "duration_ms": 166389,
       "name": "Take Me Instead",
       "url": "https://open.spotify.com/track/6KKE7k07XtLb3xFRsB7Ns4"
+    },
+    {
+      "album": {
+        "name": "Teleport/Comedown",
+        "url": "https://open.spotify.com/album/0rdcXRAneYGHkuLRA3DL1I"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205840,
+      "name": "Teleport",
+      "url": "https://open.spotify.com/track/5uJaYw9o3w7VXMCNlXnT7K"
     },
     {
       "album": {

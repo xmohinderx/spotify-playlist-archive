@@ -452,6 +452,28 @@
     },
     {
       "album": {
+        "name": "La Cumbia del Ghetto",
+        "url": "https://open.spotify.com/album/4zeif416gnNMxpemUGzGUH"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159490,
+      "name": "La Cumbia del Ghetto",
+      "url": "https://open.spotify.com/track/26lxtV1EEIadCcwkk0Hvbw"
+    },
+    {
+      "album": {
         "name": "LA JOAQUI | DJ TAO Turreo Sessions #6",
         "url": "https://open.spotify.com/album/3dnobgnGVFjCIOIYGsuw9M"
       },

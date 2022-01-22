@@ -1,13 +1,33 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 262873,
+  "num_followers": 263057,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzI5ODEyMCwwMDAwMDA1ZDAwMDAwMTdkMzY5MmE1OTYwMDAwMDE3MjYxYTM2NDE2",
+  "snapshot_id": "MTY0Mjc0MTI2MCwwMDAwMDA1ZTAwMDAwMTdlN2IwMjVmNjYwMDAwMDE3MjYxYTM2NDE2",
   "tracks": [
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Candy Girl",
+        "url": "https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1"
+      },
+      "artists": [
+        {
+          "name": "Parov Stelar",
+          "url": "https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px"
+        },
+        {
+          "name": "Vallemarie",
+          "url": "https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g"
+        }
+      ],
+      "duration_ms": 162075,
+      "name": "Candy Girl",
+      "url": "https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72"
+    },
     {
       "added_at": "2021-11-19 05:02:00",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lw1wrxWyPu.md) - [plain]
 
 > For never were there stories of more woe...\. than those found in these masterful performances, adaptations, and readings of Shakespeare's Tragedies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,630 likes - 215 songs - 23 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,632 likes - 215 songs - 23 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

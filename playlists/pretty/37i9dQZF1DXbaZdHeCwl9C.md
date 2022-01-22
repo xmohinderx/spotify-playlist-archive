@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaZdHeCwl9C.md) - [plain]
 
 > 50 splendid recordings of historically informed performance, which uses both period instruments and performance practice, in order to present music works faithfully, in the style of the era when the piece was originally conceived.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,760 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,766 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaZdHeCwl9C.md) - [plain]
 | 49 | [Mozart: Piano Concerto No\. 9 in E\-Flat Major, K\. 271 "Jeunehomme": II\. Andantino](https://open.spotify.com/track/4x9veNuUADJF4mNet0uldD) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Andreas Staier](https://open.spotify.com/artist/3IOUX2zimWLnlS0kRyJQJq), [Concerto Köln](https://open.spotify.com/artist/6dxdut9Mhu7r7SM9HZB5Ob) | [Mozart : Piano Concertos Nos 9 & 17](https://open.spotify.com/album/7IVcryT5tN3m4ksRidkw96) | 11:02 |
 | 50 | [Images No\. 1 \- Lent \(Mélancolique et doux\)](https://open.spotify.com/track/3S3ARobwwUnXx3bONR7CSb) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jos Van Immerseel](https://open.spotify.com/artist/1FWDcayB8TeqDhiuP9A2o5) | [Debussy: Préludes et Images](https://open.spotify.com/album/0BUPlxtsdRoV6987SCJi22) | 3:37 |
 
-Snapshot ID: `MTU2ODAyMTAxOSwwMDAwMDAwODAwMDAwMTVlMTNkMmJlYWQwMDAwMDE2ZDE1NTVmYWNl`
+Snapshot ID: `MTY0Mjc3MzgxNiwwMDAwMDAwOTAwMDAwMTdlN2NmMzI2MjQwMDAwMDE2ZDE1NTVmYWNl`

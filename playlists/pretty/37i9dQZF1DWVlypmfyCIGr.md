@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: DECO\*27
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,567 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,592 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [サラマンダー \(feat\. 初音ミク\)](https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [サラマンダー](https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t) | 2:35 |
+| 1 | [サラマンダー](https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [サラマンダー](https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t) | 2:35 |
 | 2 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
 | 3 | [syrup](https://open.spotify.com/track/3QOeO8MvFYRcGy4o0WOwPY) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [syrup](https://open.spotify.com/album/0CznyyMqd97JWTU1QWUevn) | 4:03 |
 | 4 | [Upgrade me](https://open.spotify.com/track/4fZb0bPLwKg4spzzJnWl7I) | [kolme](https://open.spotify.com/artist/6XkazkLIatYdxRlOdOp5Et) | [Upgrade me](https://open.spotify.com/album/1TRVwfED8Yezr9mxvcGYf4) | 4:12 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 11 | [ラブみ](https://open.spotify.com/track/1A0BmhezDUMXhAXNun8LFj) | [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [ラブみ](https://open.spotify.com/album/7sRy81ykjjz90MkybXiKDN) | 3:34 |
 | 12 | [エコー](https://open.spotify.com/track/46LGU9GYAEitV9RS9byUqH) | [mzsrz](https://open.spotify.com/artist/6RaKDCLMev1GH8xYSEDPr6) | [エコー](https://open.spotify.com/album/3biMF2aJgx1sQF6HMyRjK5) | 2:56 |
 | 13 | [バースデイ](https://open.spotify.com/track/5IRprhxcGL5CnuXwL59GLF) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [バースデイ](https://open.spotify.com/album/3g6Blr9Hl8hJNNx9ayS49O) | 2:23 |
-| 14 | [勝手な彼女](https://open.spotify.com/track/4AzOzqmDC5sKMmuJXnfc99) | [秋山璃月](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [DREAM DROPPER](https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh) | 3:43 |
+| 14 | [勝手な彼女](https://open.spotify.com/track/4AzOzqmDC5sKMmuJXnfc99) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [DREAM DROPPER](https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh) | 3:43 |
 | 15 | [進め!そっちだ!](https://open.spotify.com/track/1VIXmzlTN3HSIbwCQQaCl8) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [進め!そっちだ!](https://open.spotify.com/album/1KVIhGzMdFp0V2z255vbgG) | 3:14 |
 | 16 | [Voyage](https://open.spotify.com/track/50ldd3QhSLjASqE54AwPPg) | [okkaaa](https://open.spotify.com/artist/0XKKphL5aa8LY6Fn5hXjCF) | [Voyage](https://open.spotify.com/album/1ggAOiMf4An0TRoWEM7QW7) | 3:55 |
 | 17 | [17](https://open.spotify.com/track/6uUyM60OLM4SBFDaFSsYCs) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [17](https://open.spotify.com/album/7GxgN9cQi71UYKjHGsu4oV) | 3:48 |

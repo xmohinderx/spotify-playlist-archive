@@ -668,6 +668,28 @@
     },
     {
       "album": {
+        "name": "Shimmering",
+        "url": "https://open.spotify.com/album/4xIyRTcQ1M3E4nbQIvZf05"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Ensemble LaCappella",
+          "url": "https://open.spotify.com/artist/4DaArcYtQ5y51HX41Qx9dk"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308773,
+      "name": "Shimmering \"Ave generosa\"",
+      "url": "https://open.spotify.com/track/3IvUo0t6f14nnRQW6YZA5T"
+    },
+    {
+      "album": {
         "name": "Catholic Classics, Vol. 11: Catholic Communion Classics",
         "url": "https://open.spotify.com/album/4WhG2ySCLtOWHj0Gz3tmHQ"
       },
@@ -805,6 +827,32 @@
       "duration_ms": 278720,
       "name": "Stetit Angelus",
       "url": "https://open.spotify.com/track/1jRKMn2vtjRRuo1p1yrwRn"
+    },
+    {
+      "album": {
+        "name": "Hole in the Sky",
+        "url": "https://open.spotify.com/album/5IWEyoaZsrskjtjEwD7MYE"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Westminster Williamson Voices",
+          "url": "https://open.spotify.com/artist/15lRUiqnNSQsU2oIawSYrr"
+        },
+        {
+          "name": "James Jordan",
+          "url": "https://open.spotify.com/artist/61UExWH2clZAUQFKTL6i26"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269200,
+      "name": "Sunrise Mass: Kyrie \"The Spheres\"",
+      "url": "https://open.spotify.com/track/2JKprlOn7EiSpFZPysLRBm"
     },
     {
       "album": {

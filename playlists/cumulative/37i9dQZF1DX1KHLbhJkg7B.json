@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 196400,
       "name": "(I Never Promised You A) Rose Garden",
       "url": "https://open.spotify.com/track/3UB02E0dG5TZwEwpeXboFa"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 222960,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/57IKN5kmhY7bUmiGgqNeLU"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/74iNoeAILH4cxEEHbVE8p5"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 251960,
       "name": "Bartender's Blues",
       "url": "https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 175063,
       "name": "Bless the Broken Road - Acoustic",
       "url": "https://open.spotify.com/track/3wNWGhHUXcfIAkofmN1A3a"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 281666,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/1jfsJ1YUHdb44epr4b0iLF"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 242022,
       "name": "Country State Of Mind",
       "url": "https://open.spotify.com/track/1vVbMOgQbT7kp3Ri0gI9KR"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 141478,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0X1kKB6ZWb8DzlPFKctcE9"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 197277,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/3nkxbitSWz9zZrE7WDvNzE"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 192818,
       "name": "Eighteen Wheels And A Dozen Roses",
       "url": "https://open.spotify.com/track/62q6KjbWuCZitSsWve9NNq"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 208440,
       "name": "Every Which Way but Loose - Friends and Heroes Session",
       "url": "https://open.spotify.com/track/2d94Il3qGrgAsv2m81S5u1"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 184240,
       "name": "Five O'Clock World",
       "url": "https://open.spotify.com/track/1zO50Yb6j9DaNiGQewJAq7"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 195720,
       "name": "God is a woman",
       "url": "https://open.spotify.com/track/1u5h8BV9ifg1YGQbNyTdrw"
@@ -1374,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "Fan Made Tapes",
+        "url": "https://open.spotify.com/album/4XE4IEB228NFiz8wjvEPWq"
+      },
+      "artists": [
+        {
+          "name": "Jake Hoot",
+          "url": "https://open.spotify.com/artist/5YhWPIcZ5eNSKxrdwJItS7"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204705,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/7csCw7vTJbBKTxjyeBE3of"
+    },
+    {
+      "album": {
         "name": "Copy That",
         "url": "https://open.spotify.com/album/2hWqaMLhAvTQRD85eNO10H"
       },
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 211964,
       "name": "If You Don't Know Me By Now",
       "url": "https://open.spotify.com/track/2XG6hHbJu8339ARntHGMUh"
@@ -1693,7 +1711,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 227453,
       "name": "Lips Of An Angel",
       "url": "https://open.spotify.com/track/2tcHsNBkF0GYQKyFI2y3gE"
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 232173,
       "name": "Not Over You (feat. Gavin DeGraw) (feat. Gavin DeGraw)",
       "url": "https://open.spotify.com/track/0IiB5z6d30qELn5yTe2wjM"
@@ -2041,7 +2059,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 198786,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 228753,
       "name": "Prop Me Up Beside The Jukebox (If I Die)",
       "url": "https://open.spotify.com/track/6h50iRRuK4fpjtOLkWOtAl"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 210013,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/5U2HfXfIm9li9FK6F38hTS"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 168213,
       "name": "Streets of Bakersfield",
       "url": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
@@ -2373,7 +2391,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 230938,
       "name": "Suspicious Minds",
       "url": "https://open.spotify.com/track/4GodBGiUwjcXkDB8i3OAMW"
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 176440,
       "name": "The Race Is On",
       "url": "https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn"
@@ -2655,7 +2673,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 145733,
       "name": "Uncle Pen",
       "url": "https://open.spotify.com/track/4cT14AH7Gmp97wUSxHwyZJ"
@@ -2673,7 +2691,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 267802,
       "name": "Versace On the Floor - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ"
@@ -2839,7 +2857,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 247693,
       "name": "Whenever I Call You \"Friend\" (feat. Phillip Sweet)",
       "url": "https://open.spotify.com/track/3hY1wEShrxHsKAwxLnFOU3"

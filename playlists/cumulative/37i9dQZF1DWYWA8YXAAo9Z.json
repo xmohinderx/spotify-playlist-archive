@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 412000,
       "name": "Antec\u00e1mara",
       "url": "https://open.spotify.com/track/42RLy3PPI7zlf18MP095BC"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 399141,
       "name": "Ardent Flux",
       "url": "https://open.spotify.com/track/4cGFQX45YRFCmucn1kjcJ9"
@@ -498,6 +498,24 @@
     },
     {
       "album": {
+        "name": "Journey To The Underworld EP",
+        "url": "https://open.spotify.com/album/4EJWa7yqX5QKTBMqxugtgB"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389000,
+      "name": "Dissolution",
+      "url": "https://open.spotify.com/track/2MivKHQd95CJN1jTl7KksN"
+    },
+    {
+      "album": {
         "name": "Future Rave Memory",
         "url": "https://open.spotify.com/album/6Rr3oofOKEl1fq5PSaGCrp"
       },
@@ -545,7 +563,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 271293,
       "name": "End of One Thing",
       "url": "https://open.spotify.com/track/6oTYXtsJWi30jH5dIPWTyQ"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI"
@@ -585,6 +603,24 @@
       "duration_ms": 220000,
       "name": "First Frost",
       "url": "https://open.spotify.com/track/2zJzDb6WVwDmfp0GN7FOOF"
+    },
+    {
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/2EOrv87xrfeA71o6Taoz18"
+      },
+      "artists": [
+        {
+          "name": "Today Again",
+          "url": "https://open.spotify.com/artist/6DwLz91sevSw7PI0ma8nL5"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188920,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/3TOQrOkWBUmeVYiiAClMNB"
     },
     {
       "album": {
@@ -1177,7 +1213,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 263142,
       "name": "Sleep to Dream",
       "url": "https://open.spotify.com/track/5KwymU2QG0VItvZCLk0Sg7"
@@ -1213,7 +1249,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 288685,
       "name": "Slow Tide",
       "url": "https://open.spotify.com/track/41O6rwSFgVZJc1XKdK1b02"
@@ -1403,7 +1439,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 367500,
       "name": "The Dead Past",
       "url": "https://open.spotify.com/track/0qNP9yrsqGmiMyBpLRRCcA"
@@ -1515,7 +1551,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 308000,
       "name": "Tides I",
       "url": "https://open.spotify.com/track/7E7NGJaerM9PyGI7RLrDvV"
@@ -1609,7 +1645,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
@@ -1645,7 +1681,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 330285,
       "name": "Woolspeak",
       "url": "https://open.spotify.com/track/7rO7EbiyeOy0yL0ROnBOKW"

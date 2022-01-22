@@ -1,66 +1,90 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2021% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10233,
+  "num_followers": 10243,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjE5NixhYjJiN2IxYjMyZGI2NGQ1MmU0MjhjODBjY2Q2ZmViYzgyZjJiN2U5",
+  "snapshot_id": "MjE5OCxkMTRhNjQxYzdmMWQ2MmYxNzA5ZWI4ZTBmZGI1MThkNDI3MTNlYzY3",
   "tracks": [
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "Over",
-        "url": "https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh"
+        "name": "In the Dark",
+        "url": "https://open.spotify.com/album/64d2NALUX5nTqpG1Vu3l7x"
       },
       "artists": [
         {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
         }
       ],
-      "duration_ms": 158723,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp"
+      "duration_ms": 185564,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7"
     },
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "Year of the Ex",
-        "url": "https://open.spotify.com/album/3zT0wDFGo5yeKwyGvEc41e"
+        "name": "plz don't waste my youth",
+        "url": "https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp"
       },
       "artists": [
         {
-          "name": "Call Me Loop",
-          "url": "https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE"
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
         }
       ],
-      "duration_ms": 184546,
-      "name": "Year of the Ex",
-      "url": "https://open.spotify.com/track/5m1Wm07bfb58sEWw7wosy7"
+      "duration_ms": 183730,
+      "name": "plz don't waste my youth",
+      "url": "https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X"
     },
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "Love Me More",
-        "url": "https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp"
+        "name": "Crying On The Inside",
+        "url": "https://open.spotify.com/album/6KOcqn3pos3Vf5HC5gtpDa"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "Little Boots",
+          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
         }
       ],
-      "duration_ms": 212660,
-      "name": "Love Me More",
-      "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
+      "duration_ms": 207765,
+      "name": "Crying On The Inside",
+      "url": "https://open.spotify.com/track/0gGL5rT5aBAugrveEJzKN1"
     },
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "Sooner Or Later",
-        "url": "https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt"
+        "name": "redruM",
+        "url": "https://open.spotify.com/album/3sIQjig3kXpArR2S0nJ77P"
+      },
+      "artists": [
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 172721,
+      "name": "redruM",
+      "url": "https://open.spotify.com/track/0pnG6sIThf9kp9ebTqn44L"
+    },
+    {
+      "added_at": "2022-01-21 09:32:10",
+      "album": {
+        "name": "Night Call (New Year's Edition)",
+        "url": "https://open.spotify.com/album/4ANoIvV1JMAne7lFSExMI0"
       },
       "artists": [
         {
@@ -68,265 +92,273 @@
           "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 200322,
-      "name": "Sooner Or Later",
-      "url": "https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1"
+      "duration_ms": 179095,
+      "name": "20 Minutes",
+      "url": "https://open.spotify.com/track/6HBgpseuFcM4dN61oixgt2"
     },
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/6ASQcWTLlp5BwUosCUZOoe"
+        "name": "The Gods We Can Touch",
+        "url": "https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY"
       },
       "artists": [
         {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 284146,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/4fUOjQBL6hCbwuxEdgJ2Oz"
+      "duration_ms": 203066,
+      "name": "A Temporary High",
+      "url": "https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH"
     },
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/4nKguZWie1WQuxFspIwHOY"
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/4AxQWjqAc5Up0cmHJEvztk"
       },
       "artists": [
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Blithe",
+          "url": "https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4"
         }
       ],
-      "duration_ms": 147410,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5JVA0t7r2Y7m9NaHmgaeiC"
+      "duration_ms": 173385,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/6jkSYBuGuGoMQeeamNqHYH"
     },
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "Too Dead Inside",
-        "url": "https://open.spotify.com/album/0zPUzIJvszvVPkiQ6wZXyA"
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE"
       },
       "artists": [
         {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 205774,
-      "name": "Too Dead Inside",
-      "url": "https://open.spotify.com/track/5fzFsmKy3ey9HHkUxrKYhW"
-    },
-    {
-      "added_at": "2022-01-14 09:13:12",
-      "album": {
-        "name": "All Night (feat. Trippie Redd)",
-        "url": "https://open.spotify.com/album/5GUgoPG9hrtOyix0u2tG37"
-      },
-      "artists": [
-        {
-          "name": "S-X",
-          "url": "https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "All Night (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/0RW7ykDvCSTMF5FT4lIFfL"
-    },
-    {
-      "added_at": "2022-01-14 09:13:12",
-      "album": {
-        "name": "Promiscuity",
-        "url": "https://open.spotify.com/album/5SwRmjD2miuJFP3lbO8gAR"
-      },
-      "artists": [
-        {
-          "name": "Josef Salvat",
-          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
-        }
-      ],
-      "duration_ms": 179467,
-      "name": "Promiscuity",
-      "url": "https://open.spotify.com/track/3n4pICeXA4EcHXgjI4uDnw"
-    },
-    {
-      "added_at": "2022-01-14 09:13:12",
-      "album": {
-        "name": "Forget About Me",
-        "url": "https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5"
-      },
-      "artists": [
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
         },
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 288348,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS"
+    },
+    {
+      "added_at": "2022-01-21 09:32:10",
+      "album": {
+        "name": "While Your Heart's Still Beating",
+        "url": "https://open.spotify.com/album/4E5XWEgTSxI8R529w38jOU"
+      },
+      "artists": [
+        {
+          "name": "Kyla La Grange",
+          "url": "https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp"
+        }
+      ],
+      "duration_ms": 295860,
+      "name": "Fury",
+      "url": "https://open.spotify.com/track/1pkMlilH7025AUe9TEUIcc"
+    },
+    {
+      "added_at": "2022-01-21 09:32:10",
+      "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/28TPdB72pb0vVJSc87N0OW"
+      },
+      "artists": [
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "duration_ms": 251999,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/6fEtxRskOuPleXkm8ETYHE"
+    },
+    {
+      "added_at": "2022-01-21 09:32:10",
+      "album": {
+        "name": "Head on Fire",
+        "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         },
         {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 188645,
+      "name": "Head on Fire",
+      "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
+    },
+    {
+      "added_at": "2022-01-21 09:32:10",
+      "album": {
+        "name": "The Half Moon Came Up In The Sky",
+        "url": "https://open.spotify.com/album/1TOFOyhbSUSuZDy52aPWoE"
+      },
+      "artists": [
+        {
+          "name": "Frankmusik",
+          "url": "https://open.spotify.com/artist/1Eqmku5RGosz51zTCZFgDi"
+        }
+      ],
+      "duration_ms": 246234,
+      "name": "The Half Moon Came Up In The Sky",
+      "url": "https://open.spotify.com/track/06F2Xymb8r6YdXBtC62sA1"
+    },
+    {
+      "added_at": "2022-01-21 09:32:10",
+      "album": {
+        "name": "Toxic Pony",
+        "url": "https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf"
+      },
+      "artists": [
+        {
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
         },
         {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        }
-      ],
-      "duration_ms": 177637,
-      "name": "Forget About Me",
-      "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
-    },
-    {
-      "added_at": "2022-01-14 09:13:12",
-      "album": {
-        "name": "CAPRISONGS",
-        "url": "https://open.spotify.com/album/5IubZbuFhSwJyCJrdRFgkJ"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         },
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
         }
       ],
-      "duration_ms": 159666,
-      "name": "jealousy (feat. rema)",
-      "url": "https://open.spotify.com/track/3V4mfh90OLdVEJQfo6decv"
+      "duration_ms": 198041,
+      "name": "Toxic Pony",
+      "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
     },
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/2ikZVKHUow5r1VdlVaFBnZ"
+        "name": "To All The Boys I\u2019ve Loved Before",
+        "url": "https://open.spotify.com/album/7iAKoyqsiG4Fdx0zp4KsB2"
       },
       "artists": [
         {
-          "name": "BUZZ",
-          "url": "https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR"
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
         }
       ],
-      "duration_ms": 158770,
-      "name": "Liberation",
-      "url": "https://open.spotify.com/track/63HeOmi0Cav15rLsktJq8W"
+      "duration_ms": 188864,
+      "name": "To All The Boys I\u2019ve Loved Before",
+      "url": "https://open.spotify.com/track/6WXvM7Ku5aM7SfdXym7DEN"
     },
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "Shut Off The Lights",
-        "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 187363,
-      "name": "Shut Off The Lights",
-      "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
+      "duration_ms": 234760,
+      "name": "London Is Lonely",
+      "url": "https://open.spotify.com/track/5dXiKFepHXZktud7z5635H"
     },
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "Little Bother (feat. Foushe\u00e9)",
-        "url": "https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2"
+        "name": "ur just horny",
+        "url": "https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A"
       },
       "artists": [
         {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 178256,
+      "name": "ur just horny",
+      "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
+    },
+    {
+      "added_at": "2022-01-21 09:32:10",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1RH0FXBVZ3ZWZVmpepvM31"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
         },
         {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+          "name": "DJ Rae",
+          "url": "https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa"
         }
       ],
-      "duration_ms": 160681,
-      "name": "Little Bother (feat. Foushe\u00e9)",
-      "url": "https://open.spotify.com/track/7imJEoNqRJL4n8OQEChzWG"
+      "duration_ms": 205517,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/3fcBDVrZhzexLFQdIWbycK"
     },
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/0YO2AdPUojNY422lWMsu2d"
+        "name": "Soft Satellite",
+        "url": "https://open.spotify.com/album/2Uyzlff7wjnQrZIo4wIFKq"
       },
       "artists": [
         {
-          "name": "Methyl Ethel",
-          "url": "https://open.spotify.com/artist/3I3Fz1DeUY0icXFvOjbXm7"
-        },
-        {
-          "name": "Stella Donnelly",
-          "url": "https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es"
+          "name": "Yenkee",
+          "url": "https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd"
         }
       ],
-      "duration_ms": 264160,
-      "name": "Proof",
-      "url": "https://open.spotify.com/track/4t9y553ZCwQBrp3ZzV9IRl"
+      "duration_ms": 232250,
+      "name": "Soft Satellite",
+      "url": "https://open.spotify.com/track/70441fN65yTSAwWdz3aZaj"
     },
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "The Internet",
-        "url": "https://open.spotify.com/album/6j0rSTAJaf7fsbbdD25jpB"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/4pwEIYXbZA4XuxDdEY8MVy"
       },
       "artists": [
         {
-          "name": "Violet Skies",
-          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
         }
       ],
-      "duration_ms": 182080,
-      "name": "The Internet",
-      "url": "https://open.spotify.com/track/5tMhG49fw3IPQNxU0r2PSC"
+      "duration_ms": 212419,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0zWnMErj14jTZwzRXevysn"
     },
     {
-      "added_at": "2022-01-14 09:13:12",
+      "added_at": "2022-01-21 09:32:10",
       "album": {
-        "name": "Hard Being Alive (feat. Chloe Moriondo)",
-        "url": "https://open.spotify.com/album/0fQy3GCuYkHg7FlSR8Akuq"
+        "name": "Strangers With Memories",
+        "url": "https://open.spotify.com/album/3U5CTSgIUq1iWoS1DGM0kI"
       },
       "artists": [
         {
-          "name": "Oscar Scheller",
-          "url": "https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq"
-        },
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+          "name": "Malen",
+          "url": "https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g"
         }
       ],
-      "duration_ms": 176253,
-      "name": "Hard Being Alive (feat. Chloe Moriondo)",
-      "url": "https://open.spotify.com/track/5DlYApPK4CTb6Bkyn68VQf"
-    },
-    {
-      "added_at": "2022-01-14 09:13:12",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/7C4MRV0cWA9g9GFhb6sOdI"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 246806,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/1QmZQRvNUOvRxtSH9VCPF4"
+      "duration_ms": 154956,
+      "name": "Strangers With Memories",
+      "url": "https://open.spotify.com/track/6kBpyIkIT7nqDNtb1F2Xw6"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

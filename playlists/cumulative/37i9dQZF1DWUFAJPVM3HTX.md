@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUFAJPVM3HTX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUFAJPVM3HTX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUFAJPVM3HTX)
 
-### [Fresh Finds R&B](https://open.spotify.com/playlist/6oVIRUJfDgTnx8HvFrRGWd)
+### [Fresh Finds R&B](https://open.spotify.com/playlist/1joOFBFfrfPA6SUyTqQm6o)
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Jex Nwalor, Artwork: Crystal Zapata
 

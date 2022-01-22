@@ -2,7 +2,7 @@
 
 ### [Slow Dancing in the Living Room](https://open.spotify.com/playlist/1yEsj7P9XfDpVu6i8GE8Qq)
 
-> Sway your way through the evening...
+> Sway your way through the evening.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Joy Of My Life](https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:34 | 2021-10-01 |  |
 | [Last Request](https://open.spotify.com/track/2UXO3rKTfsfPieGDQHgG6q) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets \(Deluxe\)](https://open.spotify.com/album/6jvaYzdcyKbh1B8ZWAfPix) | 3:40 | 2021-10-01 |  |
 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 | 2021-10-01 |  |
+| [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-01-21 |  |
 | [Letter To The Past](https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:40 | 2021-10-01 |  |
 | [Liquid Love](https://open.spotify.com/track/20f37PJbRwppnrX861JwDF) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:11 | 2021-10-01 |  |
 | [Little Things](https://open.spotify.com/track/74mU4zNiHJl990F6gqBG4p) | [Charlie Brennan](https://open.spotify.com/artist/3YzXK1DQ9EkWqwmUkk6yc8), [Madelyn Paquette](https://open.spotify.com/artist/4yL7BcVGrznuqkWFmNM19M) | [Little Things](https://open.spotify.com/album/7z7s43LmJPmOqe9Wrmlbjw) | 2:26 | 2021-10-01 |  |
@@ -83,6 +84,7 @@
 | [Lonely Together](https://open.spotify.com/track/53I947ZA36ggSE3DfnzEY7) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 4:09 | 2021-10-01 |  |
 | [Lost In The Light](https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd) | 3:56 | 2021-10-01 |  |
 | [Lover Come Back](https://open.spotify.com/track/1ZHwUSnja8I1WbM3GeDh31) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Lover Come Back](https://open.spotify.com/album/4Z0afD8P27fgIPXH2F9IE9) | 3:54 | 2021-10-01 |  |
+| [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Make It Out \(feat\. Maisie Peters\)](https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo) | 3:03 | 2022-01-21 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/6P7tTFzn6oNa0GL8w8oazE) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/1ydnyXPdmHrWXqXDgtQCPf) | 3:32 | 2021-10-01 |  |
 | [Michigan](https://open.spotify.com/track/4Ed35zE9r9eom4604lGgax) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Twin Solitude](https://open.spotify.com/album/1elpjZ21dUJz0MxUk5yWkV) | 4:47 | 2021-10-01 |  |
 | [Mirror](https://open.spotify.com/track/5G2Q4Vx9zwBAdQoEWgM8uX) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [Mirror](https://open.spotify.com/album/1JrRrStvJ9LpCYgYaMUOMH) | 3:14 | 2021-10-01 |  |
@@ -132,6 +134,7 @@
 | [Too Close](https://open.spotify.com/track/78mr61kO90CraleDN2kcDz) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Too Close](https://open.spotify.com/album/3w6oIUSAQAzDIFDN5KQig4) | 3:04 | 2021-10-01 |  |
 | [Turn Me On](https://open.spotify.com/track/7DjrC3oBl57gH13aZ7tCVo) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Deluxe Edition\)](https://open.spotify.com/album/6PguISnE2nz7CuhnIAWhQF) | 2:34 | 2021-10-01 |  |
 | [Unconditional](https://open.spotify.com/track/2SSwlNE1JKhLZAjtKjxg6O) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [For My Father](https://open.spotify.com/album/2hSfGDpXs6fs1Bj3VxCRhA) | 3:23 | 2021-10-01 |  |
+| [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-01-21 |  |
 | [Urs](https://open.spotify.com/track/72qasmVQdfSGUK7ixOyETU) | [John\-Robert](https://open.spotify.com/artist/5zlnl1lFTTaETmaKci4V6j) | [Urs](https://open.spotify.com/album/3MmZ3Lwb3uxdw4ayLiAVaB) | 3:10 | 2021-10-01 |  |
 | [Venom of Angels](https://open.spotify.com/track/6CZT7NYQ6dAHDtGWRf9dJz) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Venom of Angels](https://open.spotify.com/album/3xlrnbjsSvw1gaNkdP4Qey) | 3:42 | 2021-10-01 |  |
 | [Wasting Time](https://open.spotify.com/track/26bn9OCVa4MW826HIIGNfr) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/album/1uJRMyfjWu3255ihMnNuj4) | 3:44 | 2021-10-01 |  |

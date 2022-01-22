@@ -1,45 +1,13 @@
 {
   "description": "Up and down I-95. Cover: A Boogie Wit Da Hoodie",
-  "num_followers": 397756,
+  "num_followers": 397865,
   "original_name": "State of Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDRkNjAwMDAwMTdlNTZmNGYxNDEwMDAwMDE3ZTMxN2EzYWEw",
+  "snapshot_id": "MTY0Mjc0MTIwMCwwMDAwMDRkNzAwMDAwMTdlN2IwMTc1MzkwMDAwMDE3ZTMxN2EzYWEw",
   "tracks": [
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "THE REV3NGE",
-        "url": "https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 147213,
-      "name": "THE REV3NGE",
-      "url": "https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1"
-    },
-    {
-      "added_at": "2021-11-19 05:15:10",
-      "album": {
-        "name": "Table For One",
-        "url": "https://open.spotify.com/album/2D8w8m8eFaU92yI1iXlHiC"
-      },
-      "artists": [
-        {
-          "name": "Flipp Dinero",
-          "url": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp"
-        }
-      ],
-      "duration_ms": 229413,
-      "name": "No Option",
-      "url": "https://open.spotify.com/track/2LNiTlYDSFntPkU3qvUc6Y"
-    },
     {
       "added_at": "2021-11-12 05:00:00",
       "album": {
@@ -63,6 +31,86 @@
       "duration_ms": 234602,
       "name": "Brotherly Love (feat. Dougie B & B-Lovee)",
       "url": "https://open.spotify.com/track/34YnZOLkvAxH6K7ZXutHOo"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 215303,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "My Escape",
+        "url": "https://open.spotify.com/album/1OM4rOFBBHRbN588TxCrD3"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        }
+      ],
+      "duration_ms": 223030,
+      "name": "My Escape",
+      "url": "https://open.spotify.com/track/5joeIfncVcIwkrOqyXvKCx"
+    },
+    {
+      "added_at": "2021-11-19 05:15:10",
+      "album": {
+        "name": "Table For One",
+        "url": "https://open.spotify.com/album/2D8w8m8eFaU92yI1iXlHiC"
+      },
+      "artists": [
+        {
+          "name": "Flipp Dinero",
+          "url": "https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp"
+        }
+      ],
+      "duration_ms": 229413,
+      "name": "No Option",
+      "url": "https://open.spotify.com/track/2LNiTlYDSFntPkU3qvUc6Y"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Sucka Free",
+        "url": "https://open.spotify.com/album/2lLJMezQ0uAvmAlXwoghKl"
+      },
+      "artists": [
+        {
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Sucka Free",
+      "url": "https://open.spotify.com/track/4hB6fEzYSvamHVQtUQXNoK"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "THE REV3NGE",
+        "url": "https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 147213,
+      "name": "THE REV3NGE",
+      "url": "https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1"
     },
     {
       "added_at": "2021-12-26 16:58:38",
@@ -101,6 +149,38 @@
       "url": "https://open.spotify.com/track/2XR0Ou0pDaQ2bmVMsG90qe"
     },
     {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "it's a monday",
+        "url": "https://open.spotify.com/album/7nu8OEPa5DAowWJvgbUlKV"
+      },
+      "artists": [
+        {
+          "name": "Yung Kayo",
+          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
+        }
+      ],
+      "duration_ms": 142837,
+      "name": "it's a monday",
+      "url": "https://open.spotify.com/track/2oet8fj6MIOn8k1hc3G3Ob"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Rock Wit Proph",
+        "url": "https://open.spotify.com/album/2MzJhr9etdHt3IEGvCLZoN"
+      },
+      "artists": [
+        {
+          "name": "Prophet the Artist",
+          "url": "https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU"
+        }
+      ],
+      "duration_ms": 165485,
+      "name": "Rock Wit Proph",
+      "url": "https://open.spotify.com/track/6c6WMifL0O4QXMTQOhbB9M"
+    },
+    {
       "added_at": "2022-01-14 05:00:00",
       "album": {
         "name": "Back It Up",
@@ -115,38 +195,6 @@
       "duration_ms": 158896,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/4ooLeGJxmJ89FwaqojgI0D"
-    },
-    {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "B4 AVA",
-        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 215303,
-      "name": "Man in the Mirror",
-      "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "My Escape",
-        "url": "https://open.spotify.com/album/1OM4rOFBBHRbN588TxCrD3"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        }
-      ],
-      "duration_ms": 223030,
-      "name": "My Escape",
-      "url": "https://open.spotify.com/track/5joeIfncVcIwkrOqyXvKCx"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -195,6 +243,22 @@
       "duration_ms": 190261,
       "name": "Wave Gods",
       "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Dollar Menu",
+        "url": "https://open.spotify.com/album/3aQjgylGN3kd7rTPsi6gaK"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Maslow's Hammer",
+      "url": "https://open.spotify.com/track/15gPvZFGYcznrSDxyv7zjC"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -373,10 +437,10 @@
       "url": "https://open.spotify.com/track/2CQ4d1BuBN0ordQlCgJxT8"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
+      "added_at": "2022-01-21 05:00:00",
       "album": {
-        "name": "Robert Horry Freestyle",
-        "url": "https://open.spotify.com/album/1ZukfkXHBBLpQenz6MiWJC"
+        "name": "State of the Union, Pt. II",
+        "url": "https://open.spotify.com/album/6A8bA2pGj7CllljsVUZTHb"
       },
       "artists": [
         {
@@ -384,9 +448,9 @@
           "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
         }
       ],
-      "duration_ms": 91406,
-      "name": "Robert Horry Freestyle",
-      "url": "https://open.spotify.com/track/1YqWbETAgGG8sKS5yEFDHB"
+      "duration_ms": 310547,
+      "name": "State of the Union, Pt. II",
+      "url": "https://open.spotify.com/track/4Vg262UJVApIlI7d0xhkoc"
     },
     {
       "added_at": "2021-12-24 05:31:33",
@@ -741,62 +805,6 @@
       "url": "https://open.spotify.com/track/4vs8wFsbctZBuuzJxZnmPz"
     },
     {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "Green Juice (feat. Pharrell Williams)",
-        "url": "https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "The Neptunes",
-          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
-        }
-      ],
-      "duration_ms": 174136,
-      "name": "Green Juice (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "LIVE.LOVE.A$AP",
-        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Splash",
-        "url": "https://open.spotify.com/album/7hl3EAz28smU0peFwA4Lxp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Shmurda",
-          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
-        }
-      ],
-      "duration_ms": 118356,
-      "name": "Splash",
-      "url": "https://open.spotify.com/track/0RgClWZ50CVGxKCNRYooBD"
-    },
-    {
       "added_at": "2021-11-26 05:00:00",
       "album": {
         "name": "Bruised (Soundtrack From and Inspired by the Netflix Film)",
@@ -883,26 +891,6 @@
       "duration_ms": 163778,
       "name": "Lethal Weapon",
       "url": "https://open.spotify.com/track/7JEaNZxtjDN8CfYKv6zpHu"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "HYPERNOVA.",
-        "url": "https://open.spotify.com/album/7wzoQ122QjmvDaJbMtW8Og"
-      },
-      "artists": [
-        {
-          "name": "KA$HDAMI",
-          "url": "https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 136303,
-      "name": "Head$hot! (with Trippie Redd)",
-      "url": "https://open.spotify.com/track/6xLaQvMFknex88LVALSgYP"
     }
   ],
   "unique_name": "State of Mind",

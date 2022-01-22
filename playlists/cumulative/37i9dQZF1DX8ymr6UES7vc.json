@@ -1034,6 +1034,24 @@
     },
     {
       "album": {
+        "name": "Healing Rain",
+        "url": "https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Healing Rain",
+      "url": "https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5"
+    },
+    {
+      "album": {
         "name": "Rain Sounds Vol. 3",
         "url": "https://open.spotify.com/album/4Xnlm5GHBeoAGA6SUHrDFr"
       },
@@ -1877,6 +1895,24 @@
       "duration_ms": 192124,
       "name": "Rain All Year Round",
       "url": "https://open.spotify.com/track/4iwDUEEZHxq7ITcc7DqCCI"
+    },
+    {
+      "album": {
+        "name": "Rain Before Dawn",
+        "url": "https://open.spotify.com/album/4Dbx557skdXeYCIUBd4VHq"
+      },
+      "artists": [
+        {
+          "name": "cloudcity",
+          "url": "https://open.spotify.com/artist/3GLqH1P5kbxsIWqCwOwaB8"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Rain Before Dawn",
+      "url": "https://open.spotify.com/track/6sCFjcEP2wvMkTbs6Ey85b"
     },
     {
       "album": {

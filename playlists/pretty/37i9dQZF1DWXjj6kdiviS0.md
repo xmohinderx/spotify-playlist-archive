@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 
 > Classics from the Baroque era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,265 likes - 38 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,854 likes - 38 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 | 37 | [Sonata III: V\. Rondeau](https://open.spotify.com/track/2dhVYaegGwyXb03FOAK3ZN) | [Georg Muffat](https://open.spotify.com/artist/2qOmGTOq3DzslJlvx77kMR), [Lars Ulrik Mortensen](https://open.spotify.com/artist/60V1cu478C4wll4ctBKkY5), [Concerto Copenhagen](https://open.spotify.com/artist/3bAYWBSC170iRoa7KEJu5p) | [Muffat: Rondeau from Sonata III \(Armonico Tributo\)](https://open.spotify.com/album/7nhWxqqvlqwCJBd4wCRFd8) | 1:17 |
 | 38 | [Largo from Xerxes](https://open.spotify.com/track/5FNxBADhe8SM9Aejtw1AfR) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Handel: Greatest Hits](https://open.spotify.com/album/1riYSn3MpBFWUF8b7adRvO) | 5:50 |
 
-Snapshot ID: `MTY0MTUyODAwMCwwMDAwMDAyMTAwMDAwMTdlMzJiMTdlNzkwMDAwMDE3YTE0ZmMyOTZj`
+Snapshot ID: `MTY0Mjc3MzgxNiwwMDAwMDAyMjAwMDAwMTdlN2NmMzI2NWUwMDAwMDE3YTE0ZmMyOTZj`

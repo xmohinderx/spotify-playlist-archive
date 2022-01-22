@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Pitty, Drik Barbosa, WEKS",
+  "description": "Viva o rock nacional! Ou\u00e7a o melhor do rock brasileiro. Foto: Mundo Livre S/A",
   "name": "P\u00e1tria Rock",
   "published_playlist_ids": [
     "0QCUPVPm5DzTYPmApO8yZ5"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 167333,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/7AAuFdDAEhvCXmmebu9mDQ"
@@ -167,10 +167,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 168367,
       "name": "Baby Doll",
       "url": "https://open.spotify.com/track/7qt6r6TLB2UXT5T8yx0lcQ"
+    },
+    {
+      "album": {
+        "name": "Walking Dead Folia (Sorria Voc\u00ea Teve Alta!)",
+        "url": "https://open.spotify.com/album/2pWSnr9tNXJsdSmVGLGdRe"
+      },
+      "artists": [
+        {
+          "name": "Mundo Livre S/A",
+          "url": "https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "Blue Gin e os Seres (De Vidro)",
+      "url": "https://open.spotify.com/track/6vIK7qABdW4JhqWzrFcwG3"
     },
     {
       "album": {
@@ -233,6 +251,24 @@
       "duration_ms": 207040,
       "name": "Clareiras",
       "url": "https://open.spotify.com/track/3XHQg2a9HX7S7IKV6onG9A"
+    },
+    {
+      "album": {
+        "name": "Paix\u00e3o e outras drogas",
+        "url": "https://open.spotify.com/album/6UEIYf0li1qnvIqRBQzLWl"
+      },
+      "artists": [
+        {
+          "name": "Caian",
+          "url": "https://open.spotify.com/artist/7tuQ2Z48JrUw4wZthY8LO9"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178073,
+      "name": "Comigo",
+      "url": "https://open.spotify.com/track/7vK7TTDN4gQ4aQchzvqEPg"
     },
     {
       "album": {
@@ -360,6 +396,24 @@
     },
     {
       "album": {
+        "name": "Dias da Juventude",
+        "url": "https://open.spotify.com/album/2Mw5D7bDq20kHVHawd2ovC"
+      },
+      "artists": [
+        {
+          "name": "Terno Rei",
+          "url": "https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Dias da Juventude",
+      "url": "https://open.spotify.com/track/64h7945jIYmp90J9OTNMHN"
+    },
+    {
+      "album": {
         "name": "Do Nada Meu Tudo (Jazzy Remix)",
         "url": "https://open.spotify.com/album/797f5H1drLlLL7UJUG7DSD"
       },
@@ -375,7 +429,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 253214,
       "name": "Do Nada Meu Tudo (Jazzy Remix)",
       "url": "https://open.spotify.com/track/5NNfVECIso4FnM0UnTYL5l"
@@ -1215,7 +1269,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 185818,
       "name": "Saliva",
       "url": "https://open.spotify.com/track/4xwkJDaKGgaztPXhFyKIKM"
@@ -1295,6 +1349,32 @@
       "duration_ms": 225790,
       "name": "SUCKERPUNCH",
       "url": "https://open.spotify.com/track/2rQHFSh3RDxjgAPv5Iiv8M"
+    },
+    {
+      "album": {
+        "name": "Surreal Virou Normal",
+        "url": "https://open.spotify.com/album/0a00Z3Hsiiyth9m6DJ7K58"
+      },
+      "artists": [
+        {
+          "name": "Brothers Of Brazil",
+          "url": "https://open.spotify.com/artist/0QqgRMoOctM3qIx10yttX6"
+        },
+        {
+          "name": "Supla",
+          "url": "https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR"
+        },
+        {
+          "name": "Jo\u00e3o Suplicy",
+          "url": "https://open.spotify.com/artist/3JHPlT7Y0cMwVaEeaeZdiq"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155559,
+      "name": "Surreal Virou Normal",
+      "url": "https://open.spotify.com/track/6Gr9FShs2iESYZQYYmpaj4"
     },
     {
       "album": {
@@ -1385,6 +1465,24 @@
       "duration_ms": 210212,
       "name": "Um Tempo",
       "url": "https://open.spotify.com/track/4ILAax50Qp9kwcwBM0NBkO"
+    },
+    {
+      "album": {
+        "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
+        "url": "https://open.spotify.com/album/03SguNzZdoSYJwIwOGAlSk"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "vc \u00e9 msm t\u00e3o melhor que eu?",
+      "url": "https://open.spotify.com/track/2K24ijOSojf6F2q0HXgy6b"
     },
     {
       "album": {

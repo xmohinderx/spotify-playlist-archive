@@ -1,13 +1,33 @@
 {
   "description": "hyperpop is a simulation. Cover: Laura Les",
-  "num_followers": 270876,
+  "num_followers": 272455,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjY1NzEwMSwwMDAwMDExYTAwMDAwMTdlNzVmZTM2MjMwMDAwMDE3ZTc0YmZhZDQy",
+  "snapshot_id": "MTY0Mjc4MjAzNSwwMDAwMDExYzAwMDAwMTdlN2Q3MDhlNTMwMDAwMDE3ZTc0YmZhZDQy",
   "tracks": [
+    {
+      "added_at": "2022-01-21 05:05:00",
+      "album": {
+        "name": "Amygdala",
+        "url": "https://open.spotify.com/album/0mH4AehT1gftVuf8NBYIP6"
+      },
+      "artists": [
+        {
+          "name": "Ecco2k",
+          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 130026,
+      "name": "Amygdala",
+      "url": "https://open.spotify.com/track/46hnqCPtSB5Hz6P3Hh642v"
+    },
     {
       "added_at": "2022-01-14 18:09:29",
       "album": {
@@ -25,10 +45,150 @@
       "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
-      "added_at": "2022-01-07 07:56:00",
+      "added_at": "2022-01-21 05:05:00",
       "album": {
-        "name": "ed hardy",
-        "url": "https://open.spotify.com/album/7H8vAbI81ihxVdPEPPouMW"
+        "name": "heart2",
+        "url": "https://open.spotify.com/album/1sooeixhvZQifV1d0cvlel"
+      },
+      "artists": [
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        },
+        {
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        },
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        }
+      ],
+      "duration_ms": 203993,
+      "name": "heart2",
+      "url": "https://open.spotify.com/track/7wmK0PzL3OKD95k7EeEfof"
+    },
+    {
+      "added_at": "2022-01-21 05:05:00",
+      "album": {
+        "name": "One Whole Me",
+        "url": "https://open.spotify.com/album/2UmBt4tfUYbxQcfPBK5MsQ"
+      },
+      "artists": [
+        {
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "One Whole Me",
+      "url": "https://open.spotify.com/track/1Kwt1626crESGcKlQWCQBz"
+    },
+    {
+      "added_at": "2022-01-21 05:05:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7FlxoRFvZavjONp6SKqKuv"
+      },
+      "artists": [
+        {
+          "name": "Clonethekid",
+          "url": "https://open.spotify.com/artist/4PEDT3kx00oQFvezHOng8V"
+        }
+      ],
+      "duration_ms": 111500,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/5FDBgeJawQYrnnpkBa5aI6"
+    },
+    {
+      "added_at": "2022-01-21 05:05:00",
+      "album": {
+        "name": "tellmewhatuwant",
+        "url": "https://open.spotify.com/album/6VlPTrrwFR2Z6sEnT9YIMR"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 193216,
+      "name": "tellmewhatuwant",
+      "url": "https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt"
+    },
+    {
+      "added_at": "2022-01-21 05:05:00",
+      "album": {
+        "name": "club penguin",
+        "url": "https://open.spotify.com/album/2j5ZqojlACnh3bfbR35w3k"
+      },
+      "artists": [
+        {
+          "name": "NOT THE MAIN CHARACTERS",
+          "url": "https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "club penguin",
+      "url": "https://open.spotify.com/track/480S65bJS3g3CFe5zmpPcJ"
+    },
+    {
+      "added_at": "2022-01-21 05:05:00",
+      "album": {
+        "name": "Party By Myself",
+        "url": "https://open.spotify.com/album/2qsmn7KtsiGXSyaD9N7dCF"
+      },
+      "artists": [
+        {
+          "name": "She Loves Boon",
+          "url": "https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23"
+        },
+        {
+          "name": "funeral",
+          "url": "https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Party By Myself",
+      "url": "https://open.spotify.com/track/46EvxBNc7C13UsWJ9Nidx6"
+    },
+    {
+      "added_at": "2022-01-14 15:36:49",
+      "album": {
+        "name": "To My White Boy Princess... ...",
+        "url": "https://open.spotify.com/album/5RIfRNNfJdLSwVQnJHQNHU"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 178563,
+      "name": "To My White Boy Princess... ...",
+      "url": "https://open.spotify.com/track/4D4pGGCBU81ms2ioTYuVO2"
+    },
+    {
+      "added_at": "2022-01-21 05:05:00",
+      "album": {
+        "name": "cbd",
+        "url": "https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "cbd",
+      "url": "https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx"
+    },
+    {
+      "added_at": "2022-01-21 05:05:00",
+      "album": {
+        "name": "GORE",
+        "url": "https://open.spotify.com/album/5DiPPLnBUGMKZPq49wsYp1"
       },
       "artists": [
         {
@@ -40,9 +200,45 @@
           "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
         }
       ],
-      "duration_ms": 153375,
-      "name": "ed hardy",
-      "url": "https://open.spotify.com/track/5texEDBxbbPZA9sfc1Xj5j"
+      "duration_ms": 115753,
+      "name": "driving with my eyes closed",
+      "url": "https://open.spotify.com/track/1uS0m7JiGNi1ZwM5em7qiA"
+    },
+    {
+      "added_at": "2021-11-12 14:39:10",
+      "album": {
+        "name": "CUM",
+        "url": "https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "CUM",
+      "url": "https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt"
+    },
+    {
+      "added_at": "2022-01-21 05:05:00",
+      "album": {
+        "name": "NEW TONE",
+        "url": "https://open.spotify.com/album/67cIc5pcmsueyrX6AwgeTf"
+      },
+      "artists": [
+        {
+          "name": "Eichlers",
+          "url": "https://open.spotify.com/artist/4BbaA8tRBEZ81exJ8Ll2Fo"
+        },
+        {
+          "name": "Louser",
+          "url": "https://open.spotify.com/artist/1h6ogzeiIfZjngJRvKb0CV"
+        }
+      ],
+      "duration_ms": 108360,
+      "name": "ANTHEM FOR A NEW TONE",
+      "url": "https://open.spotify.com/track/6GUbYtPmNWdz1J2q0oaT4Y"
     },
     {
       "added_at": "2022-01-07 07:56:00",
@@ -79,22 +275,6 @@
       "duration_ms": 215727,
       "name": "bitter",
       "url": "https://open.spotify.com/track/1nO2Q6aTVKQ7x3yhdzZfMS"
-    },
-    {
-      "added_at": "2021-11-12 14:39:10",
-      "album": {
-        "name": "CUM",
-        "url": "https://open.spotify.com/album/1sCIGjznAsgu5kd7RpSrQx"
-      },
-      "artists": [
-        {
-          "name": "WHOKILLEDXIX",
-          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "CUM",
-      "url": "https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt"
     },
     {
       "added_at": "2021-12-17 08:26:00",
@@ -141,20 +321,72 @@
       "url": "https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl"
     },
     {
-      "added_at": "2022-01-14 15:36:49",
+      "added_at": "2022-01-21 16:20:35",
       "album": {
-        "name": "To My White Boy Princess... ...",
-        "url": "https://open.spotify.com/album/5RIfRNNfJdLSwVQnJHQNHU"
+        "name": "Filthy Cash Pig",
+        "url": "https://open.spotify.com/album/0GzEokvuq3OrZ7VtCM3QUt"
       },
       "artists": [
         {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+          "name": "DJ Re:Code",
+          "url": "https://open.spotify.com/artist/04r9MV32OBMdMv1eJ9I1CP"
+        },
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        },
+        {
+          "name": "Tobre",
+          "url": "https://open.spotify.com/artist/0hEWIcj8PNioNl8gwMo1gd"
         }
       ],
-      "duration_ms": 178563,
-      "name": "To My White Boy Princess... ...",
-      "url": "https://open.spotify.com/track/4D4pGGCBU81ms2ioTYuVO2"
+      "duration_ms": 129496,
+      "name": "Filthy Cash Pig",
+      "url": "https://open.spotify.com/track/0utgfCtfGEv3rsjO68i6YU"
+    },
+    {
+      "added_at": "2022-01-21 05:05:00",
+      "album": {
+        "name": "urgent",
+        "url": "https://open.spotify.com/album/7oy0y8oH0j6qanr1aIOREp"
+      },
+      "artists": [
+        {
+          "name": "Brendan Kush",
+          "url": "https://open.spotify.com/artist/5uuxFVRgOLR3lmiRDgNlQN"
+        },
+        {
+          "name": "Edacity",
+          "url": "https://open.spotify.com/artist/31Snnb2ekYZzWclciKTZDu"
+        },
+        {
+          "name": "AViT",
+          "url": "https://open.spotify.com/artist/4DLZI7QaVg7mKz0qyDi6Jp"
+        }
+      ],
+      "duration_ms": 136050,
+      "name": "urgent",
+      "url": "https://open.spotify.com/track/2PgYKZXLezQxPJmfPOuL9r"
+    },
+    {
+      "added_at": "2022-01-07 07:56:00",
+      "album": {
+        "name": "ed hardy",
+        "url": "https://open.spotify.com/album/7H8vAbI81ihxVdPEPPouMW"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        },
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+        }
+      ],
+      "duration_ms": 153375,
+      "name": "ed hardy",
+      "url": "https://open.spotify.com/track/5texEDBxbbPZA9sfc1Xj5j"
     },
     {
       "added_at": "2021-10-20 16:18:10",
@@ -249,6 +481,22 @@
       "url": "https://open.spotify.com/track/3kZLfFEvFmuRhpVM7Nyfq0"
     },
     {
+      "added_at": "2022-01-21 05:05:00",
+      "album": {
+        "name": "victim complex",
+        "url": "https://open.spotify.com/album/2lwJlPfeWw1CVl8Scyj1bU"
+      },
+      "artists": [
+        {
+          "name": "luvseat",
+          "url": "https://open.spotify.com/artist/7efjR9fsgGb2ZuhhEDYhqs"
+        }
+      ],
+      "duration_ms": 142706,
+      "name": "get out",
+      "url": "https://open.spotify.com/track/1E6f0RInsNBNLB1x8DdXma"
+    },
+    {
       "added_at": "2022-01-07 07:56:00",
       "album": {
         "name": "go crazy",
@@ -287,6 +535,22 @@
       "duration_ms": 166003,
       "name": "mememe",
       "url": "https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8"
+    },
+    {
+      "added_at": "2022-01-21 16:20:35",
+      "album": {
+        "name": "I'm the Best!!",
+        "url": "https://open.spotify.com/album/6w9oUGbZ82ofJcFUSM0fUA"
+      },
+      "artists": [
+        {
+          "name": "RYL0",
+          "url": "https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/1kVRE4eqtaG8kfc8mkcnbG"
     },
     {
       "added_at": "2022-01-07 07:56:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover:  Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,080 likes - 48 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,678 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 47 | [Appelement Jeter](https://open.spotify.com/track/1mpAwnhNe837FCWXS0PpiD) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Mosty](https://open.spotify.com/artist/64idDFucLXetV5ccSBycS0) | [Appelement Jeter](https://open.spotify.com/album/2IzqMzgc7qRT9tmc6pLssv) | 3:37 |
 | 48 | [Tapé Poto](https://open.spotify.com/track/06lE7fleMxHKOSXAscjo9K) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS), [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Tapé Poto](https://open.spotify.com/album/4rhV8AszF8xWebe5W9nMP9) | 4:10 |
 
-Snapshot ID: `MTY0MjcxOTcyMCwwMDAwMDEwYjAwMDAwMTdlNzliOWIyYWYwMDAwMDE3ZTY3MmVkZGJm`
+Snapshot ID: `MTY0Mjc2NjQ5MCwwMDAwMDEwYzAwMDAwMTdlN2M4MzVhOGMwMDAwMDE3ZTdjODEwNDJj`

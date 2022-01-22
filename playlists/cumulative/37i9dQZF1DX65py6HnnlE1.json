@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "Kings of Bachata",
+        "url": "https://open.spotify.com/album/6mAyYaAFbwIrw3sFy6MPwB"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302960,
+      "name": "Ay hombre",
+      "url": "https://open.spotify.com/track/5wsJ8UlGeXBKozC52hC2A4"
+    },
+    {
+      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
       },
@@ -350,6 +368,24 @@
     },
     {
       "album": {
+        "name": "I Love Bachata 2014 (100% Bachata Hits)",
+        "url": "https://open.spotify.com/album/0bmsRWkhRgsWWczSr3b2lt"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283946,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2ssrxcAv3AvQ7xWXkYmkuH"
+    },
+    {
+      "album": {
         "name": "Bachateando 2",
         "url": "https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr"
       },
@@ -397,7 +433,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 255280,
       "name": "Hasta El Fin",
       "url": "https://open.spotify.com/track/4p1Bggx2fygzjjepd0Eit0"
@@ -509,10 +545,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 260386,
       "name": "Llora Alma M\u00eda",
       "url": "https://open.spotify.com/track/05XwC0A5ZfyMJbwtO4yngG"
+    },
+    {
+      "album": {
+        "name": "Llora Alma Mia",
+        "url": "https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so"
+      },
+      "artists": [
+        {
+          "name": "Yoskar Sarante",
+          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261519,
+      "name": "Llora Alma M\u00eda",
+      "url": "https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb"
     },
     {
       "album": {
@@ -535,6 +589,24 @@
       "duration_ms": 263693,
       "name": "Me Puedo Matar - Remastered",
       "url": "https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx"
+    },
+    {
+      "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/6P0IgA0C3zPSB4h2puzZxS"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344893,
+      "name": "Me Voy De Ti",
+      "url": "https://open.spotify.com/track/14GdMa2E0pU7TG0ShI69mO"
     },
     {
       "album": {
@@ -607,7 +679,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 179680,
       "name": "No Le Pare",
       "url": "https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u"
@@ -629,6 +701,24 @@
       "duration_ms": 240720,
       "name": "No Tengo Suerte En El Amor",
       "url": "https://open.spotify.com/track/1dazXPzmgBB7sNxodglb1l"
+    },
+    {
+      "album": {
+        "name": "Pena por Ti",
+        "url": "https://open.spotify.com/album/1tPHPcNsAIv964pIckYABR"
+      },
+      "artists": [
+        {
+          "name": "Luis Segura",
+          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178600,
+      "name": "Pena por Ti",
+      "url": "https://open.spotify.com/track/1qFnIBb3QdDk4jGSCH1XuU"
     },
     {
       "album": {
@@ -679,7 +769,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 372733,
       "name": "P\u00e9game Tu Vicio",
       "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
@@ -733,7 +823,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 262586,
       "name": "Qui\u00e9n Eres Tu",
       "url": "https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF"

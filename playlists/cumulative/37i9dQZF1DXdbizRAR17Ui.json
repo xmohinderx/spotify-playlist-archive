@@ -103,7 +103,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 295386,
       "name": "Acheless - Edit",
       "url": "https://open.spotify.com/track/3uSS4gKyOg9m8V2Ds2ZKTr"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 241792,
       "name": "Alien Boy 96",
       "url": "https://open.spotify.com/track/00VW2IOOsFy7QgcbrfSVrE"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 238236,
       "name": "Amelie And Pedro (Everything Will Be Alright)",
       "url": "https://open.spotify.com/track/4WfxLKDmEop0H8FBYriBeg"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 379213,
       "name": "APOLOGY",
       "url": "https://open.spotify.com/track/0mZafSubGAMuhfZotQlSkw"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 220212,
       "name": "Aubades",
       "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 105333,
       "name": "Daft Puns",
       "url": "https://open.spotify.com/track/3UoLhFBp6qNY8jpSS1AO8F"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 496396,
       "name": "Dart",
       "url": "https://open.spotify.com/track/7x0Y7Ne5O0W2eqWPFqbSWt"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 213040,
       "name": "Ecce! Ego!",
       "url": "https://open.spotify.com/track/2YsDZTwLm6cswPh0zSQAF4"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 210545,
       "name": "Found",
       "url": "https://open.spotify.com/track/509uuSR2IGBjF8QdEl8QyF"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 216125,
       "name": "Granular",
       "url": "https://open.spotify.com/track/0sz4Oxa12dIuLgLzotuXH1"
@@ -742,6 +742,32 @@
     },
     {
       "album": {
+        "name": "Hates Me",
+        "url": "https://open.spotify.com/album/3hISp4YyeYVGRPvEM2j5E0"
+      },
+      "artists": [
+        {
+          "name": "OTHERLiiNE",
+          "url": "https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263041,
+      "name": "Hates Me",
+      "url": "https://open.spotify.com/track/65TQTuti8fOntyi7NzXLTQ"
+    },
+    {
+      "album": {
         "name": "Light Armour",
         "url": "https://open.spotify.com/album/7wggJ9vbSvQpGO517Gj4TG"
       },
@@ -753,7 +779,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 452519,
       "name": "Hawksworth Woods",
       "url": "https://open.spotify.com/track/0FNe7NgezZD4P0lkFcMrKQ"
@@ -829,7 +855,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 234500,
       "name": "I Used to Dream",
       "url": "https://open.spotify.com/track/4oQ7uDGXkWrDUHkw4SmhWh"
@@ -865,7 +891,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 240029,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/4Am86NV3PnZ5qZt4pzIzfq"
@@ -991,7 +1017,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 197748,
       "name": "Jessie (I Miss You)",
       "url": "https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ"
@@ -1031,7 +1057,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 263842,
       "name": "Keep Shimmering",
       "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
@@ -1067,7 +1093,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 280895,
       "name": "Laamore",
       "url": "https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb"
@@ -1143,7 +1169,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 200240,
       "name": "Lido",
       "url": "https://open.spotify.com/track/0HZtVLVL6oLU9WobKQxqGu"
@@ -1179,7 +1205,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 252493,
       "name": "Little Girl",
       "url": "https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls"
@@ -1237,7 +1263,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 278325,
       "name": "Love",
       "url": "https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX"
@@ -1457,7 +1483,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 304486,
       "name": "New Gods - Ron Basejam Remix",
       "url": "https://open.spotify.com/track/3Pckvky9FxWNjlmHa22QuB"
@@ -1515,7 +1541,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 278007,
       "name": "No Road Without a Turn",
       "url": "https://open.spotify.com/track/62RG9MmOva4JHnk7g7m4Vq"
@@ -1555,7 +1581,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 239880,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/1w0GcFTlCVg3tHL3QOcLyL"
@@ -1573,7 +1599,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 368531,
       "name": "Pastee",
       "url": "https://open.spotify.com/track/3YhQ6hZGj2mwQft8pMdpZY"
@@ -1949,7 +1975,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 385000,
       "name": "Soared Straight Through Me",
       "url": "https://open.spotify.com/track/25fJ3wk2D8UlmjgITbH6BT"
@@ -1989,7 +2015,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 279688,
       "name": "Something Else (feat. Ruby Wood)",
       "url": "https://open.spotify.com/track/3BKghOKZUX9SjpuYNmakoa"
@@ -2109,7 +2135,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/1RonSMfR2Ob1qzmbKG1GQV"
@@ -2127,7 +2153,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 290276,
       "name": "The Longest Night",
       "url": "https://open.spotify.com/track/6mnqGJKrRVJfyrzxnvoOeo"
@@ -2181,7 +2207,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 268000,
       "name": "The Psychedelic One",
       "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
@@ -2217,7 +2243,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 331624,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3kE3j0x9BMdyFExd2ZOq5z"
@@ -2289,7 +2315,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 223511,
       "name": "Ur <3",
       "url": "https://open.spotify.com/track/0hx4xTylyRQFNFFnVUJydy"
@@ -2311,7 +2337,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 328156,
       "name": "Vee - (Remix)",
       "url": "https://open.spotify.com/track/1xnaAMmxda3jtgt9ncspIi"
@@ -2365,7 +2391,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 512177,
       "name": "Wide Awake in an Open Space",
       "url": "https://open.spotify.com/track/5dOBFiuMwJJ3ID1dvGm5f9"

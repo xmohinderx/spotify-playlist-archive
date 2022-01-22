@@ -1,13 +1,113 @@
 {
-  "description": "100 highlight tracks from 100 great operas, including masterpieces of baroque era (Monteverdi, Rameau, Gluck) all the way to 20th century and contemporary classics (Ligeti, Saariaho, John Adams).",
-  "num_followers": 262901,
-  "original_name": "Opera 100: Spotify Picks",
+  "description": "Masterpieces of baroque era, all the way to 20th century and contemporary classics.",
+  "num_followers": 264999,
+  "original_name": "Opera Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU2NzUwNDk0MSwwMDAwMDAxYjAwMDAwMTVlNjBhM2RkOGYwMDAwMDE2Y2Y2OTMzZmQy",
+  "snapshot_id": "MTY0Mjc3NjM0MywwMDAwMDAxZDAwMDAwMTdlN2QxOWIzYjEwMDAwMDE3ZTdjMzZhZWVj",
   "tracks": [
+    {
+      "added_at": "2017-05-02 11:27:49",
+      "album": {
+        "name": "Handel: Serse",
+        "url": "https://open.spotify.com/album/6FY272Qml0eSe5h27jCBRp"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "William Christie",
+          "url": "https://open.spotify.com/artist/7mkcqdifmNkhfJ7XZ7WFFS"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Handel: Serse, HWV 40, Act 1 Scene 1: No. 2, Arioso, \"Ombra mai f\u00f9\" (Serse)",
+      "url": "https://open.spotify.com/track/4fBqGaGJfEqTQDX4d7Hcil"
+    },
+    {
+      "added_at": "2017-05-02 11:27:49",
+      "album": {
+        "name": "Puccini: Turandot",
+        "url": "https://open.spotify.com/album/28hZY8nX3wrBlK8x2VhYaI"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Tom Krause",
+          "url": "https://open.spotify.com/artist/0uRyoGMnJfoX8u1vDScXkk"
+        },
+        {
+          "name": "Pier Francesco Poli",
+          "url": "https://open.spotify.com/artist/3vpeRxIsXSOyTk0qagP7R8"
+        },
+        {
+          "name": "Piero de Palma",
+          "url": "https://open.spotify.com/artist/7gxxE0IbP9hFZeJVwdWCSc"
+        },
+        {
+          "name": "John Alldis Choir",
+          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        }
+      ],
+      "duration_ms": 402040,
+      "name": "Turandot / Act 3: Nessun dorma!",
+      "url": "https://open.spotify.com/track/2JKNdozl7hsO6sf9k5xMvK"
+    },
+    {
+      "added_at": "2017-05-02 11:27:49",
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/4oqJ13EemIRGsK7u5JIJef"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Ileana Cotrubas",
+          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Chor der Bayerischen Staatsoper M\u00fcnchen",
+          "url": "https://open.spotify.com/artist/2WQOMWyQxqfd96VyU943Tx"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "La Traviata / Act 1: \"Libiamo ne'lieti calici\"",
+      "url": "https://open.spotify.com/track/3jQa7pofP3CHRTt4Xnoyt6"
+    },
     {
       "added_at": "2017-05-02 11:27:49",
       "album": {
@@ -35,26 +135,6 @@
       "duration_ms": 300106,
       "name": "Il barbiere di Siviglia (The Barber of Seville), Act I: Cavatina: Largo al factotum della citta",
       "url": "https://open.spotify.com/track/5p4BRlcUzvRpApjjEFAtUq"
-    },
-    {
-      "added_at": "2017-05-02 11:27:49",
-      "album": {
-        "name": "Handel: Serse",
-        "url": "https://open.spotify.com/album/6FY272Qml0eSe5h27jCBRp"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "William Christie",
-          "url": "https://open.spotify.com/artist/7mkcqdifmNkhfJ7XZ7WFFS"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Handel: Serse, HWV 40, Act 1 Scene 1: No. 2, Arioso, \"Ombra mai f\u00f9\" (Serse)",
-      "url": "https://open.spotify.com/track/4fBqGaGJfEqTQDX4d7Hcil"
     },
     {
       "added_at": "2017-05-02 11:27:49",
@@ -151,86 +231,6 @@
       "duration_ms": 328160,
       "name": "Die tote Stadt (The Dead City), Op. 12: Act I Scene 5: Gluck, das mir verblieb (Marietta, Paul)",
       "url": "https://open.spotify.com/track/47xZ59XjNaGgnmWy2X1WUL"
-    },
-    {
-      "added_at": "2017-05-02 11:27:49",
-      "album": {
-        "name": "Puccini: Turandot",
-        "url": "https://open.spotify.com/album/28hZY8nX3wrBlK8x2VhYaI"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Luciano Pavarotti",
-          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
-        },
-        {
-          "name": "Tom Krause",
-          "url": "https://open.spotify.com/artist/0uRyoGMnJfoX8u1vDScXkk"
-        },
-        {
-          "name": "Pier Francesco Poli",
-          "url": "https://open.spotify.com/artist/3vpeRxIsXSOyTk0qagP7R8"
-        },
-        {
-          "name": "Piero de Palma",
-          "url": "https://open.spotify.com/artist/7gxxE0IbP9hFZeJVwdWCSc"
-        },
-        {
-          "name": "John Alldis Choir",
-          "url": "https://open.spotify.com/artist/1c0LUqvKTiWVsdrIn4LTZz"
-        },
-        {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Zubin Mehta",
-          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
-        }
-      ],
-      "duration_ms": 402040,
-      "name": "Turandot / Act 3: Nessun dorma!",
-      "url": "https://open.spotify.com/track/2JKNdozl7hsO6sf9k5xMvK"
-    },
-    {
-      "added_at": "2017-05-02 11:27:49",
-      "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/4oqJ13EemIRGsK7u5JIJef"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Ileana Cotrubas",
-          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
-        },
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Chor der Bayerischen Staatsoper M\u00fcnchen",
-          "url": "https://open.spotify.com/artist/2WQOMWyQxqfd96VyU943Tx"
-        },
-        {
-          "name": "Bavarian State Orchestra",
-          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
-        },
-        {
-          "name": "Carlos Kleiber",
-          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
-        }
-      ],
-      "duration_ms": 175506,
-      "name": "La Traviata / Act 1: \"Libiamo ne'lieti calici\"",
-      "url": "https://open.spotify.com/track/3jQa7pofP3CHRTt4Xnoyt6"
     },
     {
       "added_at": "2017-05-02 11:27:49",
@@ -3717,6 +3717,6 @@
       "url": "https://open.spotify.com/track/1P4KspWzI9n8LhhpOxqZju"
     }
   ],
-  "unique_name": "Opera 100: Spotify Picks",
+  "unique_name": "Opera Classics",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVfS4Cdd3PNf"
 }

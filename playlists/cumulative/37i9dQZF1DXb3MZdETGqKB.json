@@ -1154,6 +1154,42 @@
     },
     {
       "album": {
+        "name": "Everybody Knows My Name",
+        "url": "https://open.spotify.com/album/5FsMYB0f5tSktoA4QiP0uy"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Sullivin",
+          "url": "https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168181,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/1Om3Mz5IazKScLUqL88oCd"
+    },
+    {
+      "album": {
+        "name": "Shout Into The Noise",
+        "url": "https://open.spotify.com/album/4JN56UyhqvwmD9fQJuJlPo"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193535,
+      "name": "Shout Into The Noise",
+      "url": "https://open.spotify.com/track/6VmqR7BEVXqYWKCRsdSaDO"
+    },
+    {
+      "album": {
         "name": "Sit Down Baby",
         "url": "https://open.spotify.com/album/7GEM0fdAOYfOUMMF3BYB6M"
       },

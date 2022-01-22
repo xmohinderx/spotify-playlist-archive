@@ -470,6 +470,24 @@
     },
     {
       "album": {
+        "name": "Fast Like a Match",
+        "url": "https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161013,
+      "name": "Fast Like a Match",
+      "url": "https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc"
+    },
+    {
+      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5"
       },

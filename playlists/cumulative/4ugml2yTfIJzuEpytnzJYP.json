@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 397817,
       "name": "Fountain Of Life - Butane & Riko Forinson Final Form Remix",
       "url": "https://open.spotify.com/track/2gUMgm00Yeh2ZSmRkvFYWt"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 164000,
       "name": "How We Do",
       "url": "https://open.spotify.com/track/49mjlStzVFobTqAfBGfKYX"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 240000,
       "name": "I Ain't Home - Maddy O'Neal Remix",
       "url": "https://open.spotify.com/track/6vo6eCrfQM09D79URlLl9F"
@@ -686,6 +686,24 @@
     },
     {
       "album": {
+        "name": "Cycles In Flux",
+        "url": "https://open.spotify.com/album/3UXTCoH6FHAefHY03xApls"
+      },
+      "artists": [
+        {
+          "name": "ATYYA",
+          "url": "https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284571,
+      "name": "Revel",
+      "url": "https://open.spotify.com/track/31OzkljjiMk2xJzZBg23F8"
+    },
+    {
+      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/3C5RtRaPP3SGNPdtMwC6Mw"
       },
@@ -745,7 +763,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 213631,
       "name": "Take A Little Trip",
       "url": "https://open.spotify.com/track/1rd8UAxkowecbMjKaIuL5F"

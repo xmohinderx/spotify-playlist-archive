@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 447040,
       "name": "Amour m\u2019a le cuer mis (Ballade)",
       "url": "https://open.spotify.com/track/6THfQ2uSdqmUTOScQIpZ5B"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-11",
+      "date_removed": null,
       "duration_ms": 242226,
       "name": "Amour, tenson et bataille",
       "url": "https://open.spotify.com/track/5jFqkkOkTQFZmicM2RyS7G"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 319533,
       "name": "Borlet: Tr\u00e9s doulz amis / Ma dame / Cent mille fois",
       "url": "https://open.spotify.com/track/6iM2rNvrl3yvHB2xb4SxFQ"
@@ -2237,7 +2237,7 @@
       ],
       "date_added": "2019-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-11",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Can vei la lauzeta",
       "url": "https://open.spotify.com/track/1VQYzJ2YQagnROuKUj5Ej1"
@@ -2389,7 +2389,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 244186,
       "name": "Cantiga 35: O que a Santa Maria (arr. J. Ferrero)",
       "url": "https://open.spotify.com/track/5ESR3podbAtvj5uJCwwN6E"
@@ -2581,7 +2581,7 @@
       ],
       "date_added": "2019-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-18",
+      "date_removed": null,
       "duration_ms": 243493,
       "name": "Cantigas de Santa Maria, No. 384: A Que Por Muy Gran Fremosura",
       "url": "https://open.spotify.com/track/1wU8xVTS3CwIh9aehuBmXI"
@@ -4000,6 +4000,28 @@
     },
     {
       "album": {
+        "name": "Mirabilia Musica. Echoes From Late Medieval Cracow",
+        "url": "https://open.spotify.com/album/40VYvjpbqrKXaNfEaNEmwo"
+      },
+      "artists": [
+        {
+          "name": "Johannes Ciconia",
+          "url": "https://open.spotify.com/artist/6Yux5045CWzC4UqxDX74sQ"
+        },
+        {
+          "name": "La Morra",
+          "url": "https://open.spotify.com/artist/6DiL4QelSbjVZ72KE8GK4F"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261660,
+      "name": "Credo",
+      "url": "https://open.spotify.com/track/0hCb60xlrP9u5Wand9jZWV"
+    },
+    {
+      "album": {
         "name": "Medieval Music (The Cross of Red - Music of Love and War From the Time of the Crusades)(New Orleans Musica Da Camera)",
         "url": "https://open.spotify.com/album/6EegVugkPEUROWKfqzjq16"
       },
@@ -4115,7 +4137,7 @@
       ],
       "date_added": "2021-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 822226,
       "name": "Dame d\u2019onour (Ballade)",
       "url": "https://open.spotify.com/track/7aItXFxzu8Uc4DztLPkFCX"
@@ -6407,7 +6429,7 @@
       ],
       "date_added": "2020-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-27",
+      "date_removed": null,
       "duration_ms": 201733,
       "name": "I' vivo amando sempre",
       "url": "https://open.spotify.com/track/7KqNE1ms8Ld07Ok3CFyUu5"
@@ -8279,7 +8301,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 237840,
       "name": "Ligiadra donna",
       "url": "https://open.spotify.com/track/7nGxlV49gN1kpNc7rxjblI"
@@ -10677,7 +10699,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-28",
+      "date_removed": null,
       "duration_ms": 212693,
       "name": "Par maintes foys",
       "url": "https://open.spotify.com/track/6o6g5gccAlcKLkurf54d7P"
@@ -10851,7 +10873,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 275080,
       "name": "Per non far lietto",
       "url": "https://open.spotify.com/track/40DbyVZlf3q0juUKLUSaML"
@@ -11631,7 +11653,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 366813,
       "name": "Quand l'herba fresca",
       "url": "https://open.spotify.com/track/3CWQsGWF09wgPQipTLrAF5"
@@ -12023,7 +12045,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 561200,
       "name": "Rassa, tan creis e monta e poia",
       "url": "https://open.spotify.com/track/3oFsDahPVaxVhzkprzp0Hm"

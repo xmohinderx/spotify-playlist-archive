@@ -12016,6 +12016,24 @@
     },
     {
       "album": {
+        "name": "Mirror Mirror",
+        "url": "https://open.spotify.com/album/6ue0FsEtEA05DIjdaSCFs6"
+      },
+      "artists": [
+        {
+          "name": "Bea Anderson",
+          "url": "https://open.spotify.com/artist/2FVCMrYrSKRNPXoWw2VozG"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208362,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/2vISv6n3n1hdGrDF3Jslyg"
+    },
+    {
+      "album": {
         "name": "SPECTRA",
         "url": "https://open.spotify.com/album/67DQWctOBzNSctLIyGbPmQ"
       },

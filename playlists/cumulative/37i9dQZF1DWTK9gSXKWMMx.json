@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "Midnight Solo Sessions",
+        "url": "https://open.spotify.com/album/5G2e2LCTC6MFixt6amtciV"
+      },
+      "artists": [
+        {
+          "name": "Joshua Ware",
+          "url": "https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140874,
+      "name": "Goodbye Pork Pie Hat",
+      "url": "https://open.spotify.com/track/4pwfhJMOpGRd3hABNPd1n2"
+    },
+    {
+      "album": {
         "name": "Piano Major Blues (Playing Major Blues Scales & Songs on the Piano for Moderate Level Pianists)",
         "url": "https://open.spotify.com/album/6UhMk0Z2lwzbXpEnKmlPlh"
       },

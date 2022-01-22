@@ -6,6 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [$low Burn](https://open.spotify.com/track/32WSgYvov1hhAWb0tHOvSN) | [prettyboymusic](https://open.spotify.com/artist/20JBPDB7nAsicTpU1ArdC6) | [$low Burn](https://open.spotify.com/album/1DBbSjNUqeyPWcr1LeQq0I) | 2:15 | 2022-01-20 |  |
 | [2Solid](https://open.spotify.com/track/0aMelp4KVUCeSGsE0vypA5) | [Lucky Boondock$](https://open.spotify.com/artist/24vTQMK6jBbIZ0yWISNs8H), [Karl Mountain](https://open.spotify.com/artist/4EmkYEVZCVRHvYFZRm0dDb) | [2Solid](https://open.spotify.com/album/2H5Il22VbMTpel1PrF5Ogq) | 3:16 | 2022-01-07 |  |
 | [Aking Sinta](https://open.spotify.com/track/5OQWnquiRW11S8e1sng07f) | [Daniella Silab](https://open.spotify.com/artist/4psqJNcqOn0RtOzMbCXkV6) | [Aking Sinta](https://open.spotify.com/album/05hB3HHdCwjApDtfjtXw5f) | 4:12 | 2022-01-07 |  |
 | [alien](https://open.spotify.com/track/0260wMf41bV3EM1xXLcDWg) | [bubblybaby](https://open.spotify.com/artist/52aOQbuzcZD2HlBhlCsTGP) | [alien](https://open.spotify.com/album/4o5wUNCy1VYpXVxaLbMwMR) | 4:03 | 2022-01-07 | 2022-01-21 |

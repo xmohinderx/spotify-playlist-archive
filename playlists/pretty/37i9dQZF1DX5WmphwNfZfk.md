@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Idman
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,520 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,524 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 91 | [Some Nights](https://open.spotify.com/track/6V1m5RUBzMMZSAwLBCglw3) | [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Some Nights](https://open.spotify.com/album/2cACvSNcPHUDAEeyVMqsB4) | 2:52 |
 | 92 | [Final Form](https://open.spotify.com/track/54Ctpx4TOJxlr7F0NaeyJu) | [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Face Lift](https://open.spotify.com/album/4ISz0a8iUxgyiRiqmXudtL) | 2:00 |
 | 93 | [Go With It](https://open.spotify.com/track/6LYFnJ8KF1ZYlazdPr248h) | [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6), [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig) | [Go With It](https://open.spotify.com/album/0yOXNwQA96IgKNgUez2O1U) | 2:37 |
-| 94 | [Someone](https://open.spotify.com/track/5r0ixRffPjtVlj2VUbCTcm) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU), [Dallas Green](https://open.spotify.com/artist/2iGBGJIZq5lVdACOItB22q) | [Someone](https://open.spotify.com/album/6OG669baXFkVHumwTUqVfP) | 3:37 |
+| 94 | [Someone](https://open.spotify.com/track/5r0ixRffPjtVlj2VUbCTcm) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Someone](https://open.spotify.com/album/6OG669baXFkVHumwTUqVfP) | 3:37 |
 | 95 | [Big Leagues](https://open.spotify.com/track/34DA0kbPLmFKCIC5LPzPzs) | [Nyiam](https://open.spotify.com/artist/4POGSRllhjWtkhgBpWdYAx) | [Big Leagues](https://open.spotify.com/album/6tEHdL69i0LobfrvI9NxjL) | 0:50 |
 | 96 | [My Way](https://open.spotify.com/track/1MR8kVBgdEq9ipNCPEe6Pl) | [Tim North](https://open.spotify.com/artist/0aF4uopelh675gJDvtpCnU), [Sammy Adams](https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle) | [My Way](https://open.spotify.com/album/1uBr8w7utwCh5Z8fZVIiKc) | 2:13 |
 | 97 | [Must Be](https://open.spotify.com/track/7KpTMWKwHL4aX0bzUtyzXK) | [Tyleen](https://open.spotify.com/artist/2h8KSitN6L2gWv1pSMvE7m) | [Must Be](https://open.spotify.com/album/62YfeP2rYk9xIP3NsQsoat) | 2:13 |

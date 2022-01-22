@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrSeoLHavML.md) - [plain]
 
 > Explore the rich string quartet repertoire in this collection of 101 sublime pieces from 101 composers, performed by 101 outstanding ensembles\. From baroque works that paved the way for the genre, classical and romantic era masterpieces, to many splendid 20/21st century compositions, from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,705 likes - 101 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,718 likes - 101 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrSeoLHavML.md) - [plain]
 | 100 | [String Quartet No\. 1, Op\. 21, "Mors et vita"](https://open.spotify.com/track/4BeFKwzJagEKeDvHah90qS) | [Jón Leifs](https://open.spotify.com/artist/4AbbeRo7y2r9qnXXOwMArE), [The Yggdrasil Quartet](https://open.spotify.com/artist/4nzi5qLAdlhbhGMjdWJr7l) | [Leifs: String Quartets Nos\. I\-3](https://open.spotify.com/album/2jg2VnpWvBDNyOjAKAPRXp) | 17:32 |
 | 101 | [String Quartet No\. 12](https://open.spotify.com/track/2jw7mH4cC6DKuwmYTJnXh6) | [R\. Murray Schafer](https://open.spotify.com/artist/497I5Pj2wS3M5ynasw1Fmf), [Molinari Quartet](https://open.spotify.com/artist/5VHFI9N7eN51lqi48wFzwQ) | [R\. Murray Schafer: 12 String Quartets](https://open.spotify.com/album/5HFQiv11XZlLjoYyZxQ5LM) | 16:55 |
 
-Snapshot ID: `MTU4MzQ4NzQ3MCwwMDAwMDAwOTAwMDAwMTVmZDBlM2M4ZjAwMDAwMDE3MGFmMzU0ZDE5`
+Snapshot ID: `MTY0Mjc3MzI2OSwwMDAwMDAwYTAwMDAwMTdlN2NlYWNhNTYwMDAwMDE3MGFmMzU0ZDE5`

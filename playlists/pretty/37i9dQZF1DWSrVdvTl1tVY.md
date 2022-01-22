@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Jaded
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,163 likes - 79 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,244 likes - 79 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

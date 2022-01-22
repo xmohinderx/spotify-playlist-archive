@@ -1,13 +1,93 @@
 {
-  "description": "welcome back, lorem. cover: MICHELLE",
-  "num_followers": 907529,
+  "description": "some beautiful things this week. cover: tobias drayyyyyyyyyyy",
+  "num_followers": 907844,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUyOTA3MSwwMDAwMDMyYzAwMDAwMTdlNmU1Y2ExYWYwMDAwMDE3ZGM1MmNjYjhi",
+  "snapshot_id": "MTY0Mjc4NDc4OCwwMDAwMDMyZjAwMDAwMTdlN2Q5YTkxMjkwMDAwMDE3ZTdkMzA0MTZj",
   "tracks": [
+    {
+      "added_at": "2022-01-21 16:55:22",
+      "album": {
+        "name": "Brown Eyes and Backwoods",
+        "url": "https://open.spotify.com/album/6zVkK6T2AXSsZhoFJaddhG"
+      },
+      "artists": [
+        {
+          "name": "Tom The Mail Man",
+          "url": "https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Brown Eyes and Backwoods",
+      "url": "https://open.spotify.com/track/4k6eepbiT86WaOgcOqMuSb"
+    },
+    {
+      "added_at": "2022-01-21 16:55:22",
+      "album": {
+        "name": "vinegar",
+        "url": "https://open.spotify.com/album/5aaVC5e0OslOtUwx8bUwv9"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        }
+      ],
+      "duration_ms": 196125,
+      "name": "vinegar",
+      "url": "https://open.spotify.com/track/35jHNbOE3tKh8DW0CMi1ck"
+    },
+    {
+      "added_at": "2022-01-21 16:55:22",
+      "album": {
+        "name": "tellmewhatuwant",
+        "url": "https://open.spotify.com/album/6VlPTrrwFR2Z6sEnT9YIMR"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 193216,
+      "name": "tellmewhatuwant",
+      "url": "https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt"
+    },
+    {
+      "added_at": "2022-01-21 16:55:22",
+      "album": {
+        "name": "all my ghosts",
+        "url": "https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 197032,
+      "name": "all my ghosts",
+      "url": "https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l"
+    },
+    {
+      "added_at": "2022-01-07 16:47:25",
+      "album": {
+        "name": "HMU",
+        "url": "https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT"
+      },
+      "artists": [
+        {
+          "name": "Tobias Dray",
+          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
+        }
+      ],
+      "duration_ms": 118821,
+      "name": "HMU",
+      "url": "https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi"
+    },
     {
       "added_at": "2022-01-14 18:34:29",
       "album": {
@@ -25,20 +105,56 @@
       "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
     },
     {
-      "added_at": "2022-01-18 16:06:37",
+      "added_at": "2022-01-21 16:55:22",
       "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+        "name": "Needy",
+        "url": "https://open.spotify.com/album/0DNUQA7dBG8fzvzZd5Tx3f"
       },
       "artists": [
         {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+          "name": "Shrimpnose",
+          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
+        },
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
         }
       ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+      "duration_ms": 158000,
+      "name": "Needy",
+      "url": "https://open.spotify.com/track/7EHZMOUAhYwnAoAO8cIKOw"
+    },
+    {
+      "added_at": "2022-01-21 16:55:22",
+      "album": {
+        "name": "Never There Enough",
+        "url": "https://open.spotify.com/album/34e5ArGN0BSWvCn8KjE9Ly"
+      },
+      "artists": [
+        {
+          "name": "PROM",
+          "url": "https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb"
+        }
+      ],
+      "duration_ms": 192954,
+      "name": "Never There Enough",
+      "url": "https://open.spotify.com/track/2iah3opmKlWZ2HUrCwVwzI"
+    },
+    {
+      "added_at": "2022-01-21 16:55:22",
+      "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/6z2IbCqkj2layBN9GRgyfK"
+      },
+      "artists": [
+        {
+          "name": "Araya",
+          "url": "https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a"
+        }
+      ],
+      "duration_ms": 190534,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/5UenHnGCK9aY3VdHuwm1FZ"
     },
     {
       "added_at": "2022-01-14 21:01:03",
@@ -57,6 +173,22 @@
       "url": "https://open.spotify.com/track/1Fh7lpiy8m6ZU9y3yLAFnW"
     },
     {
+      "added_at": "2022-01-14 18:34:29",
+      "album": {
+        "name": "squares / y 13",
+        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 267031,
+      "name": "squares",
+      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
+    },
+    {
       "added_at": "2022-01-14 20:43:46",
       "album": {
         "name": "What Could Possibly Go Wrong",
@@ -71,6 +203,54 @@
       "duration_ms": 139906,
       "name": "Why",
       "url": "https://open.spotify.com/track/1xLs8Mu1QEVbGCpyHQ2r2U"
+    },
+    {
+      "added_at": "2022-01-21 17:06:28",
+      "album": {
+        "name": "Freaky (RGB)",
+        "url": "https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 109296,
+      "name": "Freaky (RGB)",
+      "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
+    },
+    {
+      "added_at": "2022-01-21 16:55:22",
+      "album": {
+        "name": "I Fell in Love Again",
+        "url": "https://open.spotify.com/album/3WMCCey7bkFQbzEUplNQZ0"
+      },
+      "artists": [
+        {
+          "name": "Kid Bloom",
+          "url": "https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P"
+        }
+      ],
+      "duration_ms": 218007,
+      "name": "I Fell in Love Again",
+      "url": "https://open.spotify.com/track/2vAFFYY2Iwhry8o8ZQgW5D"
+    },
+    {
+      "added_at": "2022-01-18 16:29:58",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
     },
     {
       "added_at": "2022-01-04 16:20:59",
@@ -141,20 +321,20 @@
       "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
     },
     {
-      "added_at": "2022-01-18 16:29:58",
+      "added_at": "2022-01-21 16:55:22",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "Baby Tonight",
+        "url": "https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Black Polish",
+          "url": "https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+      "duration_ms": 198624,
+      "name": "Baby Tonight",
+      "url": "https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt"
     },
     {
       "added_at": "2022-01-14 18:34:29",
@@ -213,6 +393,22 @@
       "url": "https://open.spotify.com/track/5XlnAIPiOSEODsogL9Doxz"
     },
     {
+      "added_at": "2022-01-18 16:06:37",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
       "added_at": "2022-01-07 16:47:25",
       "album": {
         "name": "I Love You So (King Henry Remix)",
@@ -231,6 +427,22 @@
       "duration_ms": 193666,
       "name": "I Love You So - King Henry Remix",
       "url": "https://open.spotify.com/track/0F6XcWEzymSracgq12pOXX"
+    },
+    {
+      "added_at": "2022-01-21 16:55:22",
+      "album": {
+        "name": "Absence of You",
+        "url": "https://open.spotify.com/album/5zgJnzHWfKZ4vifW7gMQJv"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 194745,
+      "name": "Absence of You",
+      "url": "https://open.spotify.com/track/5XgbACXBnPWEKSTOstpVLT"
     },
     {
       "added_at": "2022-01-14 20:50:29",
@@ -283,38 +495,6 @@
     {
       "added_at": "2022-01-07 16:47:25",
       "album": {
-        "name": "HMU",
-        "url": "https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT"
-      },
-      "artists": [
-        {
-          "name": "Tobias Dray",
-          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
-        }
-      ],
-      "duration_ms": 118821,
-      "name": "HMU",
-      "url": "https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi"
-    },
-    {
-      "added_at": "2022-01-14 18:34:29",
-      "album": {
-        "name": "squares / y 13",
-        "url": "https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 267031,
-      "name": "squares",
-      "url": "https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne"
-    },
-    {
-      "added_at": "2022-01-07 16:47:25",
-      "album": {
         "name": "j's lullaby (darlin' i'd wait for you)",
         "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
       },
@@ -363,6 +543,22 @@
       "duration_ms": 146826,
       "name": "Phone Numbers",
       "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
+    },
+    {
+      "added_at": "2022-01-21 16:55:22",
+      "album": {
+        "name": "Songs of Her's",
+        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
+      },
+      "artists": [
+        {
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
+        }
+      ],
+      "duration_ms": 255067,
+      "name": "What Once Was",
+      "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"
     },
     {
       "added_at": "2022-01-07 18:04:23",
@@ -477,22 +673,6 @@
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "MESS U MADE",
-        "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
-      },
-      "artists": [
-        {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        }
-      ],
-      "duration_ms": 168542,
-      "name": "MESS U MADE",
-      "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
-    },
-    {
       "added_at": "2021-12-22 16:31:22",
       "album": {
         "name": "Freaks",
@@ -507,22 +687,6 @@
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Idea of Her",
-      "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
     },
     {
       "added_at": "2021-12-01 14:26:10",
@@ -557,6 +721,22 @@
       "url": "https://open.spotify.com/track/7wR04K3JSaRJPO3D0f5fnx"
     },
     {
+      "added_at": "2021-12-01 14:26:10",
+      "album": {
+        "name": "MESS U MADE",
+        "url": "https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 168542,
+      "name": "MESS U MADE",
+      "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
+    },
+    {
       "added_at": "2021-12-22 16:31:22",
       "album": {
         "name": "An Awesome Wave",
@@ -589,22 +769,6 @@
       "url": "https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb"
     },
     {
-      "added_at": "2021-12-22 16:31:22",
-      "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE"
-      },
-      "artists": [
-        {
-          "name": "MUNYA",
-          "url": "https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO"
-        }
-      ],
-      "duration_ms": 186544,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm"
-    },
-    {
       "added_at": "2021-12-01 14:26:10",
       "album": {
         "name": "to hell with it",
@@ -619,22 +783,6 @@
       "duration_ms": 118813,
       "name": "All my friends know",
       "url": "https://open.spotify.com/track/3ZpqeV6u8cheGopIXQlHfH"
-    },
-    {
-      "added_at": "2021-12-22 16:31:22",
-      "album": {
-        "name": "I Dare You",
-        "url": "https://open.spotify.com/album/2RI5OP3wh2VnWZ1JzI1ZpU"
-      },
-      "artists": [
-        {
-          "name": "Swansea Skag",
-          "url": "https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T"
-        }
-      ],
-      "duration_ms": 131312,
-      "name": "I Dare You",
-      "url": "https://open.spotify.com/track/33948g0QTA5uP9Hn3kYZBO"
     },
     {
       "added_at": "2021-12-01 14:26:10",
@@ -1051,22 +1199,6 @@
     {
       "added_at": "2021-12-01 14:26:10",
       "album": {
-        "name": "i wanna be your girlfriend",
-        "url": "https://open.spotify.com/album/5pIuwcGXWj9Vl2Ohz37XlH"
-      },
-      "artists": [
-        {
-          "name": "gglum",
-          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
-        }
-      ],
-      "duration_ms": 311844,
-      "name": "i wanna be your girlfriend",
-      "url": "https://open.spotify.com/track/1MbEADz2hSkQAM2Yikfr9Y"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
         "name": "Super Monster",
         "url": "https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW"
       },
@@ -1179,26 +1311,6 @@
     {
       "added_at": "2021-12-01 14:26:10",
       "album": {
-        "name": "Sweet & Spice",
-        "url": "https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH"
-      },
-      "artists": [
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        },
-        {
-          "name": "Jim-E Stack",
-          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "Sweet & Spice",
-      "url": "https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
         "name": "The Kiss Of Venus (Dominic Fike)",
         "url": "https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv"
       },
@@ -1279,70 +1391,6 @@
       "duration_ms": 155254,
       "name": "Invisible Fence",
       "url": "https://open.spotify.com/track/5ziFqEEcLfe7G6MdrnCLy8"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "Note To Self (feat. Empress Of) [Rostam Remix]",
-        "url": "https://open.spotify.com/album/2zdW6Dm8aIdj14q4qVICkv"
-      },
-      "artists": [
-        {
-          "name": "Jim-E Stack",
-          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Rostam",
-          "url": "https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Note To Self (feat. Empress Of) - Rostam Remix",
-      "url": "https://open.spotify.com/track/0bUmFZbZV0vvQppA6nphj4"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "THE ANXIETY",
-        "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
-      },
-      "artists": [
-        {
-          "name": "THE ANXIETY",
-          "url": "https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        },
-        {
-          "name": "Tyler Cole",
-          "url": "https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg"
-        }
-      ],
-      "duration_ms": 162680,
-      "name": "Meet Me At Our Spot",
-      "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "HARDCORE HAPPY",
-        "url": "https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG"
-      },
-      "artists": [
-        {
-          "name": "THE BLOSSOM",
-          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "HARDCORE HAPPY",
-      "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
     },
     {
       "added_at": "2021-12-01 14:26:10",
@@ -1527,22 +1575,6 @@
     {
       "added_at": "2021-12-01 14:26:10",
       "album": {
-        "name": "lush",
-        "url": "https://open.spotify.com/album/5AR2QRVXS15Jry1KA9JLZH"
-      },
-      "artists": [
-        {
-          "name": "boylife",
-          "url": "https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "lush",
-      "url": "https://open.spotify.com/track/6dAwpRTPBCE8TROpbPcGcq"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/7g0KWmMqYJIWcHVVGycNqU"
       },
@@ -1655,22 +1687,6 @@
     {
       "added_at": "2021-12-01 14:26:10",
       "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
         "name": "Year Of The Rat",
         "url": "https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm"
       },
@@ -1767,22 +1783,6 @@
     {
       "added_at": "2021-12-01 14:26:10",
       "album": {
-        "name": "In Rainbows",
-        "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 318186,
-      "name": "Weird Fishes/ Arpeggi",
-      "url": "https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ"
       },
@@ -1831,26 +1831,6 @@
       "duration_ms": 192896,
       "name": "Take Me Where Your Heart Is",
       "url": "https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "Red (Taylor's Version)",
-        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 258812,
-      "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
     },
     {
       "added_at": "2021-12-01 14:26:10",
@@ -1907,42 +1887,6 @@
     {
       "added_at": "2021-12-01 14:26:10",
       "album": {
-        "name": "Happy Right Now",
-        "url": "https://open.spotify.com/album/0PLcWUlTiktZTyDQWp8tIY"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "Happy Right Now",
-      "url": "https://open.spotify.com/track/2BGElnbD5SDoAtGqQEC6a8"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "Teenage Dirtbag (feat. chloe moriondo)",
-        "url": "https://open.spotify.com/album/0MKG6I8hXwzKlW2ww5OclV"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        },
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 199688,
-      "name": "Teenage Dirtbag (feat. chloe moriondo)",
-      "url": "https://open.spotify.com/track/5goZCkRmpk5tWTX3Af6XRL"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
         "name": "amphetamine",
         "url": "https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN"
       },
@@ -1955,22 +1899,6 @@
       "duration_ms": 120241,
       "name": "amphetamine",
       "url": "https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "predictable",
-        "url": "https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "predictable",
-      "url": "https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl"
     },
     {
       "added_at": "2021-12-01 14:26:10",
@@ -2003,22 +1931,6 @@
       "duration_ms": 156342,
       "name": "Sinatra",
       "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "Manic Pixie Dream Girl",
-        "url": "https://open.spotify.com/album/0k1Vpxn2v8PdDX0cu0jvMi"
-      },
-      "artists": [
-        {
-          "name": "EASHA",
-          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
-        }
-      ],
-      "duration_ms": 160870,
-      "name": "Manic Pixie Dream Girl",
-      "url": "https://open.spotify.com/track/6z9zXftDgpnyZYL2KiRTHZ"
     },
     {
       "added_at": "2021-12-01 14:26:10",
@@ -2075,38 +1987,6 @@
     {
       "added_at": "2021-12-01 14:26:10",
       "album": {
-        "name": "Right Where You Like",
-        "url": "https://open.spotify.com/album/16JcuVXVJSpyRYr55MSp0d"
-      },
-      "artists": [
-        {
-          "name": "Andrea Chahayed",
-          "url": "https://open.spotify.com/artist/2V6GNbrXanLBlMLCx5nXZN"
-        }
-      ],
-      "duration_ms": 172831,
-      "name": "Right Where You Like",
-      "url": "https://open.spotify.com/track/4ZxwGZzFXsXBhmpddnnrql"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/4enAteB9DBZD3W9jmAaYYc"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 183012,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/1Ph96WpdjNlwD6iKRE2Xa3"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
         "name": "Juliette",
         "url": "https://open.spotify.com/album/0A4sFi0UGoIbXNqAGjUyIm"
       },
@@ -2135,22 +2015,6 @@
       "duration_ms": 168927,
       "name": "Revolver",
       "url": "https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3"
-    },
-    {
-      "added_at": "2021-12-01 14:26:10",
-      "album": {
-        "name": "Shelly",
-        "url": "https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3"
-      },
-      "artists": [
-        {
-          "name": "Shelly",
-          "url": "https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE"
-        }
-      ],
-      "duration_ms": 170892,
-      "name": "Steeeam",
-      "url": "https://open.spotify.com/track/09RamrocZneYcLYLRIxYha"
     }
   ],
   "unique_name": "Lorem",

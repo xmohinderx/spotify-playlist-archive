@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: GAYLE",
-  "num_followers": 58427,
+  "num_followers": 58433,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjY5NDQwMCwwMDAwMDQ0ZTAwMDAwMTdlNzgzNzU4YjYwMDAwMDE3ZTc3YTU5MDIy",
+  "snapshot_id": "MTY0MjczNjg5NiwwMDAwMDQ0ZjAwMDAwMTdlN2FiZmNhZDQwMDAwMDE3ZTc3YTU5MDIy",
   "tracks": [
     {
       "added_at": "2022-01-20 16:00:00",
@@ -91,6 +91,38 @@
     {
       "added_at": "2022-01-20 16:00:00",
       "album": {
+        "name": "NIKI",
+        "url": "https://open.spotify.com/album/3epcB5Uca1mSCB7MJFXT4Y"
+      },
+      "artists": [
+        {
+          "name": "Yonnyboii",
+          "url": "https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR"
+        }
+      ],
+      "duration_ms": 198683,
+      "name": "NIKI",
+      "url": "https://open.spotify.com/track/4XB2LSSaWmPZY8ZrhoTh47"
+    },
+    {
+      "added_at": "2022-01-21 03:48:16",
+      "album": {
+        "name": "Ismail Izzani",
+        "url": "https://open.spotify.com/album/5jxlDoCjFdwiJK3vIgCSWz"
+      },
+      "artists": [
+        {
+          "name": "Ismail Izzani",
+          "url": "https://open.spotify.com/artist/63Ns0cyE751e5RlTCS2lpO"
+        }
+      ],
+      "duration_ms": 163928,
+      "name": "Apa Ko Nak",
+      "url": "https://open.spotify.com/track/2jzDtu4N48KJG3UB20RLVn"
+    },
+    {
+      "added_at": "2022-01-20 16:00:00",
+      "album": {
         "name": "Belai",
         "url": "https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg"
       },
@@ -107,22 +139,6 @@
       "duration_ms": 223106,
       "name": "Belai",
       "url": "https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF"
-    },
-    {
-      "added_at": "2022-01-20 16:00:00",
-      "album": {
-        "name": "NIKI",
-        "url": "https://open.spotify.com/album/3epcB5Uca1mSCB7MJFXT4Y"
-      },
-      "artists": [
-        {
-          "name": "Yonnyboii",
-          "url": "https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR"
-        }
-      ],
-      "duration_ms": 198683,
-      "name": "NIKI",
-      "url": "https://open.spotify.com/track/4XB2LSSaWmPZY8ZrhoTh47"
     },
     {
       "added_at": "2022-01-20 16:00:00",
@@ -284,7 +300,7 @@
           "url": "https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd"
         }
       ],
-      "duration_ms": 150933,
+      "duration_ms": 150976,
       "name": "Never Knew feat. lewloh & Joie Tan",
       "url": "https://open.spotify.com/track/5rlWvz401LdGFhSBtsZbHj"
     },

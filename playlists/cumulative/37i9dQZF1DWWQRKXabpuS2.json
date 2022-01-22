@@ -810,6 +810,24 @@
     },
     {
       "album": {
+        "name": "Sanhat Al Batal",
+        "url": "https://open.spotify.com/album/3zvLLHOURRbEsXWqudBwnW"
+      },
+      "artists": [
+        {
+          "name": "Tareq Al Harbi",
+          "url": "https://open.spotify.com/artist/5sc0loMqCN6R1ap06baL2K"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "Sanhat Al Batal",
+      "url": "https://open.spotify.com/track/0CnIBJh5OQSLLxCEvRom5s"
+    },
+    {
+      "album": {
         "name": "Shoor Al Faqd",
         "url": "https://open.spotify.com/album/6pcdhmvP3x2Obffu2899xu"
       },

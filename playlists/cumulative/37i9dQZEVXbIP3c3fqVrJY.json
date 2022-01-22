@@ -3413,6 +3413,24 @@
     {
       "album": {
         "name": "Therapy",
+        "url": "https://open.spotify.com/album/0ieArTZa4sWWwvnbGZ6odH"
+      },
+      "artists": [
+        {
+          "name": "Earth",
+          "url": "https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180731,
+      "name": "Je mi fajn",
+      "url": "https://open.spotify.com/track/3BuMpvqsVT1sWfzljqFVfS"
+    },
+    {
+      "album": {
+        "name": "Therapy",
         "url": "https://open.spotify.com/album/6pldChmzx9mD48KP0jAOC7"
       },
       "artists": [
@@ -3423,7 +3441,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 180731,
       "name": "Je Mi Fajn",
       "url": "https://open.spotify.com/track/5PJNHy1xww2n6VdwonZBOB"

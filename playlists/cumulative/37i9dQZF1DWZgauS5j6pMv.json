@@ -1392,6 +1392,24 @@
     },
     {
       "album": {
+        "name": "Lost Myself",
+        "url": "https://open.spotify.com/album/3sklQMiJt3Nzjparx4K4N9"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208702,
+      "name": "Lost Myself",
+      "url": "https://open.spotify.com/track/5YZYw60dD9M1NZDjHSByqs"
+    },
+    {
+      "album": {
         "name": "Apple Crumble",
         "url": "https://open.spotify.com/album/0bAXdCQ4f1n3Rd3p6b3hH7"
       },

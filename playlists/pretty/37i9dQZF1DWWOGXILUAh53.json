@@ -1,13 +1,125 @@
 {
-  "description": "The hottest new pop with the all the drops. Cover: Jonah Kagen",
-  "num_followers": 73167,
+  "description": "The hottest new pop with the all the drops. Cover: Taylor Swift",
+  "num_followers": 73274,
   "original_name": "Fresh Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDA2NTAwMDAwMTdlNTZmNGYxNjYwMDAwMDE3ZTU0ZmI4YjZk",
+  "snapshot_id": "MTY0Mjc0MTIwMCwwMDAwMDA2NjAwMDAwMTdlN2IwMTc1NDQwMDAwMDE3ZTczNDBlZmQw",
   "tracks": [
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/6XwuAKBpEvtsJAWs3J3DJe"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Fat Max Gsus",
+          "url": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
+        }
+      ],
+      "duration_ms": 224649,
+      "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/1yYkset0nTuUteJQMl5Tx0"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Pour It Down",
+        "url": "https://open.spotify.com/album/01WhSPIaSDWHCOnTJbdwAi"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Pour It Down",
+      "url": "https://open.spotify.com/track/4Z5Y2jirTP3oPF3rWe5ivA"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "CTRL + ALT + DEL",
+        "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
+      },
+      "artists": [
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "duration_ms": 153166,
+      "name": "CTRL + ALT + DEL",
+      "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "redruM",
+        "url": "https://open.spotify.com/album/3sIQjig3kXpArR2S0nJ77P"
+      },
+      "artists": [
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 172721,
+      "name": "redruM",
+      "url": "https://open.spotify.com/track/0pnG6sIThf9kp9ebTqn44L"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Somebody I Fucked Once (The Extras)",
+        "url": "https://open.spotify.com/album/42n9e4oj8yQcXV5CN4uQx0"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        },
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 145849,
+      "name": "Somebody I Fucked Once - Lady Bee Remix",
+      "url": "https://open.spotify.com/track/4QeEtuZ4paF4UxTtb2MauS"
+    },
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
@@ -67,6 +179,26 @@
       "duration_ms": 134318,
       "name": "Need Your Love - Jonasu Remix",
       "url": "https://open.spotify.com/track/0PeuTN6dAGOo9aWLWVXo27"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Losing Game (feat. ALY)",
+        "url": "https://open.spotify.com/album/2tVg5YK9LEbT5xRJrzk8KG"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "ALY",
+          "url": "https://open.spotify.com/artist/0qRWgMp8dMQaiefRdloSJx"
+        }
+      ],
+      "duration_ms": 158232,
+      "name": "Losing Game (feat. ALY)",
+      "url": "https://open.spotify.com/track/70iVmItC1v32Wn1iosoXFx"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1155,22 +1287,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "CTRL + ALT + DEL",
-        "url": "https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 153166,
-      "name": "CTRL + ALT + DEL",
-      "url": "https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/4E0vGC2mMcXdrortAF11tk"
       },
@@ -1291,22 +1407,6 @@
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Ready For The Weekend EP",
-        "url": "https://open.spotify.com/album/7Msjq8szWdR6aPvrs5QZeD"
-      },
-      "artists": [
-        {
-          "name": "Betta Lemme",
-          "url": "https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw"
-        }
-      ],
-      "duration_ms": 162081,
-      "name": "I Love The Weekend",
-      "url": "https://open.spotify.com/track/0j8EuXcXXZq2NIhNhRxhja"
     },
     {
       "added_at": "2022-01-14 05:00:00",

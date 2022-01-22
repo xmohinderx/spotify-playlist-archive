@@ -760,6 +760,24 @@
     },
     {
       "album": {
+        "name": "Firework",
+        "url": "https://open.spotify.com/album/7wBmPhdZlYiDa4h6rGDSbG"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Green",
+          "url": "https://open.spotify.com/artist/32jiRxDN9Nb9QbXh88uo42"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234193,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/6Pk7XpaiMsXAM6dXN3kQEo"
+    },
+    {
+      "album": {
         "name": "Fix You",
         "url": "https://open.spotify.com/album/279wRgctzr3Es4uh7SKA8F"
       },

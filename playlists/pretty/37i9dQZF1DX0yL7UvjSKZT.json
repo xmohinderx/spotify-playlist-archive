@@ -1,742 +1,18 @@
 {
   "description": "Fresh takes on that high lonesome sound. Cover: <a href=\"spotify:artist:4LX0KCPnH7gvxEbVXqXmAE\">Molly Tuttle</a>",
-  "num_followers": 231639,
+  "num_followers": 231692,
   "original_name": "Indie Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjc2MCwwMDAwMDAzMjAwMDAwMTdlNTZmYTZmMjMwMDAwMDE2ZDE1MjM1Zjkw",
+  "snapshot_id": "MTY0Mjc0MTIwMCwwMDAwMDAzMzAwMDAwMTdlN2IwMTc1MzAwMDAwMDE2ZDE1MjM1Zjkw",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "The Tide",
-        "url": "https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc"
-      },
-      "artists": [
-        {
-          "name": "The Lonely Heartstring Band",
-          "url": "https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "The Tide",
-      "url": "https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5dR3GxLveYLBkq6utHAZmT"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 181880,
-      "name": "Save This Heart",
-      "url": "https://open.spotify.com/track/44rtc66Yh6F8HxDDyKJoo9"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Such Jubilee",
-        "url": "https://open.spotify.com/album/6oYZeaQQ35oCweYNLMoPdX"
-      },
-      "artists": [
-        {
-          "name": "Mandolin Orange",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/702VulzPRsk5vlGWNqwmXm"
-    },
-    {
-      "added_at": "2022-01-07 05:04:00",
-      "album": {
-        "name": "I'll Be Lost",
-        "url": "https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy"
-      },
-      "artists": [
-        {
-          "name": "Heather Sarona",
-          "url": "https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0"
-        }
-      ],
-      "duration_ms": 202028,
-      "name": "I'll Be Lost",
-      "url": "https://open.spotify.com/track/5QR7BtYDsTKReZJNrqZ3Rn"
-    },
-    {
-      "added_at": "2022-01-14 05:06:00",
-      "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 233416,
-      "name": "Pride of Man",
-      "url": "https://open.spotify.com/track/3e3sDRflULRApZmJZkGiRP"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Montana",
-        "url": "https://open.spotify.com/album/1jB8TJoBM6r57nved1GwmZ"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Wildflower Perfume",
-      "url": "https://open.spotify.com/track/0fyuuHnhbYhfBGtiCnuLFq"
-    },
-    {
-      "added_at": "2021-12-31 05:02:00",
-      "album": {
-        "name": "Real World",
-        "url": "https://open.spotify.com/album/6Z4aXYZHNwCcKhgrjfztZy"
-      },
-      "artists": [
-        {
-          "name": "Highland Reverie",
-          "url": "https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "Real World",
-      "url": "https://open.spotify.com/track/3bimtjFTf1f44qp2dH9m5F"
-    },
-    {
-      "added_at": "2022-01-07 05:04:00",
-      "album": {
-        "name": "Good Intentions",
-        "url": "https://open.spotify.com/album/39To6wr7OM6vpS3HfvD8Kb"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 185553,
-      "name": "Good Intentions",
-      "url": "https://open.spotify.com/track/6586Yb57Ussd4h1A7brBsU"
-    },
-    {
-      "added_at": "2021-10-15 04:30:51",
-      "album": {
-        "name": "Tall Tales & Fables",
-        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
-      },
-      "artists": [
-        {
-          "name": "Haunted Like Human",
-          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
-        }
-      ],
-      "duration_ms": 177414,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Stranger Places",
-        "url": "https://open.spotify.com/album/7GAkV3WjOY16QsH2bPBdBp"
-      },
-      "artists": [
-        {
-          "name": "The Unseen Strangers",
-          "url": "https://open.spotify.com/artist/4O4HVTZ4M1Lu75se3koB9Y"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Buster",
-      "url": "https://open.spotify.com/track/3JuZ7dCqgOyqlLQDVAHzGO"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
-    },
-    {
-      "added_at": "2022-01-07 05:04:00",
-      "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/2eKgpWDXS5n259CsN2PlRx"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 481641,
-      "name": "Stress Dreams",
-      "url": "https://open.spotify.com/track/3ww5HAGF6KoQB9g2yiohMP"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Other Love Songs",
-        "url": "https://open.spotify.com/album/7lSva8Xi3JNK7d4TRo5s3N"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 119460,
-      "name": "Sometimes it Does",
-      "url": "https://open.spotify.com/track/78T2fM83dSxh0lSJ6E5p0Z"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Fall, Fall, Fall",
-        "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 281180,
-      "name": "Fall, Fall, Fall",
-      "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/2vIgHcmDHz5Vx2hBezjumT"
-      },
-      "artists": [
-        {
-          "name": "Joy Kills Sorrow",
-          "url": "https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "Such Great Heights",
-      "url": "https://open.spotify.com/track/4Vk9JVC3eBEY35i7JgkSTG"
-    },
-    {
-      "added_at": "2021-12-31 05:02:00",
-      "album": {
-        "name": "Meeting Is Over",
-        "url": "https://open.spotify.com/album/4YgPIWCcfPIfpkgmewgoYx"
-      },
-      "artists": [
-        {
-          "name": "Moira Smiley",
-          "url": "https://open.spotify.com/artist/035KHOtaTMMoN7YASM6mwk"
-        },
-        {
-          "name": "Piers Faccini",
-          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
-        },
-        {
-          "name": "Seamus Egan",
-          "url": "https://open.spotify.com/artist/5dWAsW7cMbMCswqTwN2jQm"
-        }
-      ],
-      "duration_ms": 264813,
-      "name": "Meeting Is Over",
-      "url": "https://open.spotify.com/track/0Jyru2R52NaBR6wiEGMQUp"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Fish Pond Fish",
-        "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 240720,
-      "name": "Ocean Bed",
-      "url": "https://open.spotify.com/track/2BWuYpaqwipELjFdTlui9P"
-    },
-    {
-      "added_at": "2021-10-08 05:28:49",
-      "album": {
-        "name": "Church Street Blues",
-        "url": "https://open.spotify.com/album/72mviqI8YSWDqwa3jREQoU"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 153327,
-      "name": "Church Street Blues",
-      "url": "https://open.spotify.com/track/6OOVB3awfnJNb4MbVO0q39"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Mixtape",
-        "url": "https://open.spotify.com/album/7c56Fm3gKUmD0HYm2PvvRN"
-      },
-      "artists": [
-        {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
-        }
-      ],
-      "duration_ms": 277560,
-      "name": "Bizness",
-      "url": "https://open.spotify.com/track/5IWvWQhUwOtRbfiAJxiC8k"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Montana",
-        "url": "https://open.spotify.com/album/1jB8TJoBM6r57nved1GwmZ"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 126573,
-      "name": "Empire Builder",
-      "url": "https://open.spotify.com/track/7p1ATyecaQmtiXKY7mdzRN"
-    },
-    {
-      "added_at": "2022-01-14 05:06:00",
-      "album": {
-        "name": "Alive In America",
-        "url": "https://open.spotify.com/album/5pGqhXbO1vs3TDnd0IJ62s"
-      },
-      "artists": [
-        {
-          "name": "Henry Grace",
-          "url": "https://open.spotify.com/artist/4QSOwlnim2Tb1hgrHakjyV"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "Tennessee Dust",
-      "url": "https://open.spotify.com/track/2dyhHSqHRZbLZrwTPAcr4g"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 268413,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "The Last Revel",
-        "url": "https://open.spotify.com/album/3myX8j297y7X7rdSE3LVg2"
-      },
-      "artists": [
-        {
-          "name": "The Last Revel",
-          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "Iron & Ore",
-      "url": "https://open.spotify.com/track/0V5HKIZzUKlZ8He2Zfp4Eh"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/42D84lYZPddM4dpDVNpECv"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Edges Run",
-      "url": "https://open.spotify.com/track/3O6NFigtXvVzT0366H88ao"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Gondolier",
-        "url": "https://open.spotify.com/album/7FqccxROWYb0YQ3rg97ggN"
-      },
-      "artists": [
-        {
-          "name": "Kristin Andreassen",
-          "url": "https://open.spotify.com/artist/4ZmoZRx6S8AvKtFuRGIVSX"
-        }
-      ],
-      "duration_ms": 206826,
-      "name": "The New Ground",
-      "url": "https://open.spotify.com/track/6yljyecBkeP42NOhPzuJpH"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/0aa0FrL0JlVE7MMgszjYvP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
-      "url": "https://open.spotify.com/track/5sqhKYHmQSGmGWzrgyL2nc"
-    },
-    {
-      "added_at": "2022-01-14 05:06:00",
-      "album": {
-        "name": "From The Dust",
-        "url": "https://open.spotify.com/album/0kLLLg6wjPc9RjJOaHHhZE"
-      },
-      "artists": [
-        {
-          "name": "Megan Brown",
-          "url": "https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb"
-        }
-      ],
-      "duration_ms": 188460,
-      "name": "From The Dust",
-      "url": "https://open.spotify.com/track/1kDmlwmcDxHS4KSvNQeyg8"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "LIVE CHIMES: Volume One",
-        "url": "https://open.spotify.com/album/0HXxUy2QIIZEEEiVNRMlRX"
-      },
-      "artists": [
-        {
-          "name": "The Haunted Windchimes",
-          "url": "https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2"
-        }
-      ],
-      "duration_ms": 142663,
-      "name": "The Devil In You",
-      "url": "https://open.spotify.com/track/4nA3rdugWqbUozPJCrNR0j"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "The Third Gleam",
-        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 244280,
-      "name": "Untitled #4",
-      "url": "https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "25 Trips",
-        "url": "https://open.spotify.com/album/5MW8vgKSki8FkuzIeEbDjG"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 289240,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/62Y0ujNxDSwplJU2locl1E"
-    },
-    {
-      "added_at": "2021-12-10 04:23:23",
-      "album": {
-        "name": "Cattle in the Cane",
-        "url": "https://open.spotify.com/album/0lh355GxjrO9zVZ7gHUdUb"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 212164,
-      "name": "Cattle in the Cane",
-      "url": "https://open.spotify.com/track/0XcB1mqwPSIvmpAqXWcEFS"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Part of Life",
-        "url": "https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD"
-      },
-      "artists": [
-        {
-          "name": "Josh Oliver",
-          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Part of Life",
-      "url": "https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Sorrow Bound",
-        "url": "https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 125360,
-      "name": "Valley Forge",
-      "url": "https://open.spotify.com/track/0YdGjKALJmizKhcWEmM3Cp"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Blind in the Fray",
-        "url": "https://open.spotify.com/album/0QuFRJgVH31Dw9lG3kOvv0"
-      },
-      "artists": [
-        {
-          "name": "The Last Revel",
-          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
-        }
-      ],
-      "duration_ms": 212354,
-      "name": "Blind in the Fray",
-      "url": "https://open.spotify.com/track/4sWnVeKwH6Aftzk5HZi4d1"
-    },
-    {
-      "added_at": "2022-01-07 05:04:00",
-      "album": {
-        "name": "You Are My Sunshine",
-        "url": "https://open.spotify.com/album/7hyMzALTKSgT2XN2qc9lvD"
-      },
-      "artists": [
-        {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/3gg5FHI5j0FjXrEk6jO71Y"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "What to Fear",
-        "url": "https://open.spotify.com/album/7jf04POqt5rp1jWM8KQhzd"
-      },
-      "artists": [
-        {
-          "name": "Sean Watkins",
-          "url": "https://open.spotify.com/artist/45K759axQK0aohwSjbkgpy"
-        }
-      ],
-      "duration_ms": 164346,
-      "name": "Local Honey",
-      "url": "https://open.spotify.com/track/0DoAh5V2UYlRSO0bi7sFim"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/774yLThHwXXqrrH2bgF912"
-      },
-      "artists": [
-        {
-          "name": "Mandolin Orange",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 211688,
-      "name": "Echo - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2d7lM2tUbVZbfOvmJFn4pw"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Making Tracks Home",
-        "url": "https://open.spotify.com/album/2SR6EJtMpdbFk2OtELc5nQ"
-      },
-      "artists": [
-        {
-          "name": "Taarka",
-          "url": "https://open.spotify.com/artist/3Katav5WaomTG3lDfCdk2x"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "Old Waterford Town",
-      "url": "https://open.spotify.com/track/3Haa4El1l2XlEcPHGIvvbw"
-    },
-    {
-      "added_at": "2021-10-15 04:30:51",
-      "album": {
-        "name": ".-..",
-        "url": "https://open.spotify.com/album/2V1FvKvcKEsYNHXW1wXNHU"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Awkward",
-      "url": "https://open.spotify.com/track/0FCZJzKhr9GaK2sMjrQGpY"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Orchids and Violence",
-        "url": "https://open.spotify.com/album/62zAtstVoTRA2shCQLyXCb"
-      },
-      "artists": [
-        {
-          "name": "Michael Daves",
-          "url": "https://open.spotify.com/artist/6xkwfOyFlcsZkf6jG3wxxb"
-        }
-      ],
-      "duration_ms": 273266,
-      "name": "Pretty Polly - Bluegrass",
-      "url": "https://open.spotify.com/track/7GNIQFh5cE3zGSAg4Sulgh"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Places You've Not Been",
-        "url": "https://open.spotify.com/album/5EA7oSmsgQctXu3UkevKZy"
-      },
-      "artists": [
-        {
-          "name": "Milkdrive",
-          "url": "https://open.spotify.com/artist/2jSIlgL1YMPEcYoFQMEjj5"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Orion's Waltz",
-      "url": "https://open.spotify.com/track/2jItd4qiEH43kQjrkdN6Uu"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Ladies & Gentlemen",
-        "url": "https://open.spotify.com/album/3FDQWdReKKAu4hgebNjI0N"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 190634,
-      "name": "Run To Heaven",
-      "url": "https://open.spotify.com/track/0OJAIweexqlZ1ec5aDFsV2"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "How To Grow A Woman From The Ground",
-        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
-      },
-      "artists": [
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        }
-      ],
-      "duration_ms": 187385,
-      "name": "Dead Leaves And The Dirty Ground",
-      "url": "https://open.spotify.com/track/3JZteSHBgqZ8T1SWNLr56x"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Leave Some Things Behind",
-        "url": "https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd"
+        "name": "Scrape Me Off the Ceiling",
+        "url": "https://open.spotify.com/album/7ojJLIbIIlC7XqiONY0csB"
       },
       "artists": [
         {
@@ -744,25 +20,29 @@
           "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
         }
       ],
-      "duration_ms": 121133,
-      "name": "Mountains Quake",
-      "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
+      "duration_ms": 180546,
+      "name": "Scrape Me Off the Ceiling",
+      "url": "https://open.spotify.com/track/0fD7WXONvfGg9poOUOn8SI"
     },
     {
-      "added_at": "2021-10-01 04:01:00",
+      "added_at": "2022-01-21 05:00:00",
       "album": {
-        "name": "The Hunt",
-        "url": "https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h"
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/5zvyOxAZ2tPT2EaL2vReP2"
       },
       "artists": [
         {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         }
       ],
-      "duration_ms": 202110,
-      "name": "The Hunt",
-      "url": "https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq"
+      "duration_ms": 232827,
+      "name": "Crooked Tree",
+      "url": "https://open.spotify.com/track/1zdE4LkAjdilFJF8BolAHG"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -783,8 +63,384 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Old Time Reverie",
-        "url": "https://open.spotify.com/album/3uNiWWdpmOkw7i8DSaELav"
+        "name": "The Last Revel",
+        "url": "https://open.spotify.com/album/3myX8j297y7X7rdSE3LVg2"
+      },
+      "artists": [
+        {
+          "name": "The Last Revel",
+          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Iron & Ore",
+      "url": "https://open.spotify.com/track/0V5HKIZzUKlZ8He2Zfp4Eh"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Ionia",
+        "url": "https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lou & the Flatbellys",
+          "url": "https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3"
+        }
+      ],
+      "duration_ms": 245839,
+      "name": "Everything Changed",
+      "url": "https://open.spotify.com/track/75lG0mNxn3YH7MD4qcLkA6"
+    },
+    {
+      "added_at": "2021-10-08 05:28:49",
+      "album": {
+        "name": "Church Street Blues",
+        "url": "https://open.spotify.com/album/72mviqI8YSWDqwa3jREQoU"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 153327,
+      "name": "Church Street Blues",
+      "url": "https://open.spotify.com/track/6OOVB3awfnJNb4MbVO0q39"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Jacksonville Sunrise",
+        "url": "https://open.spotify.com/album/5EnUVtwTiJmNlwPRF6Gml3"
+      },
+      "artists": [
+        {
+          "name": "Gavin Powell",
+          "url": "https://open.spotify.com/artist/6PXQ7OwfxHb3IxWAjMMi3k"
+        }
+      ],
+      "duration_ms": 209513,
+      "name": "West of Houston (Bonus Track)",
+      "url": "https://open.spotify.com/track/4x43n4J7FLEz92AYNKsEgi"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 180240,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
+    },
+    {
+      "added_at": "2022-01-14 05:06:00",
+      "album": {
+        "name": "Alive In America",
+        "url": "https://open.spotify.com/album/5pGqhXbO1vs3TDnd0IJ62s"
+      },
+      "artists": [
+        {
+          "name": "Henry Grace",
+          "url": "https://open.spotify.com/artist/4QSOwlnim2Tb1hgrHakjyV"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "Tennessee Dust",
+      "url": "https://open.spotify.com/track/2dyhHSqHRZbLZrwTPAcr4g"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Beat the Devil and Carry a Rail",
+        "url": "https://open.spotify.com/album/3AdiKjgy86xmuyv7YC12kV"
+      },
+      "artists": [
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Fish and Bird",
+      "url": "https://open.spotify.com/track/550dYYVKfQDzyMXEXENAkn"
+    },
+    {
+      "added_at": "2022-01-07 05:04:00",
+      "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/2eKgpWDXS5n259CsN2PlRx"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3ww5HAGF6KoQB9g2yiohMP"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Roll Me, Tumble Me",
+        "url": "https://open.spotify.com/album/1vFtsKWIMFAf2QhWcxEiD4"
+      },
+      "artists": [
+        {
+          "name": "The Deadly Gentlemen",
+          "url": "https://open.spotify.com/artist/4dtiIYPHTDAkzOECVtalw5"
+        }
+      ],
+      "duration_ms": 264586,
+      "name": "A Faded Star",
+      "url": "https://open.spotify.com/track/4WidGItghW8sCcIQj93Xod"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Haste Make / Hard Hearted Stranger",
+        "url": "https://open.spotify.com/album/5nBEPxMYprdGPngcur3JoV"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/2WqEbbet6L2ndAbvhRVb2S"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Next to Nothing",
+      "url": "https://open.spotify.com/track/32rfM7bIDwz44zCcLwcdKC"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/60z9HLMTqPLS1nt3OLUBCB"
+      },
+      "artists": [
+        {
+          "name": "San Fermin",
+          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
+        },
+        {
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+        }
+      ],
+      "duration_ms": 212598,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/5TiDYdUa8B6rod4U7389Kr"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "When You're Ready",
+        "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "The High Road",
+      "url": "https://open.spotify.com/track/2FaRTKC8O1ylcBlSY8P8NU"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Other Love Songs",
+        "url": "https://open.spotify.com/album/7lSva8Xi3JNK7d4TRo5s3N"
+      },
+      "artists": [
+        {
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+        }
+      ],
+      "duration_ms": 119460,
+      "name": "Sometimes it Does",
+      "url": "https://open.spotify.com/track/78T2fM83dSxh0lSJ6E5p0Z"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Sorrow Bound",
+        "url": "https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 125360,
+      "name": "Valley Forge",
+      "url": "https://open.spotify.com/track/0YdGjKALJmizKhcWEmM3Cp"
+    },
+    {
+      "added_at": "2021-12-03 05:02:00",
+      "album": {
+        "name": "The Lonesome Season",
+        "url": "https://open.spotify.com/album/5efbJOZ97cdkB8bsHiRftB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Crawford",
+          "url": "https://open.spotify.com/artist/3E6LMXGg2UtOW7LaC4OHgN"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "The Lonesome Season",
+      "url": "https://open.spotify.com/track/3By1O4YkSJyMfBdRc9owtI"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "How To Grow A Woman From The Ground",
+        "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
+      },
+      "artists": [
+        {
+          "name": "Chris Thile",
+          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
+        }
+      ],
+      "duration_ms": 187385,
+      "name": "Dead Leaves And The Dirty Ground",
+      "url": "https://open.spotify.com/track/3JZteSHBgqZ8T1SWNLr56x"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Gondolier",
+        "url": "https://open.spotify.com/album/7FqccxROWYb0YQ3rg97ggN"
+      },
+      "artists": [
+        {
+          "name": "Kristin Andreassen",
+          "url": "https://open.spotify.com/artist/4ZmoZRx6S8AvKtFuRGIVSX"
+        }
+      ],
+      "duration_ms": 206826,
+      "name": "The New Ground",
+      "url": "https://open.spotify.com/track/6yljyecBkeP42NOhPzuJpH"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Making Tracks Home",
+        "url": "https://open.spotify.com/album/2SR6EJtMpdbFk2OtELc5nQ"
+      },
+      "artists": [
+        {
+          "name": "Taarka",
+          "url": "https://open.spotify.com/artist/3Katav5WaomTG3lDfCdk2x"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Old Waterford Town",
+      "url": "https://open.spotify.com/track/3Haa4El1l2XlEcPHGIvvbw"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 280794,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
+    },
+    {
+      "added_at": "2022-01-07 05:04:00",
+      "album": {
+        "name": "I'll Be Lost",
+        "url": "https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy"
+      },
+      "artists": [
+        {
+          "name": "Heather Sarona",
+          "url": "https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0"
+        }
+      ],
+      "duration_ms": 202028,
+      "name": "I'll Be Lost",
+      "url": "https://open.spotify.com/track/5QR7BtYDsTKReZJNrqZ3Rn"
+    },
+    {
+      "added_at": "2021-12-10 04:23:23",
+      "album": {
+        "name": "Cattle in the Cane",
+        "url": "https://open.spotify.com/album/0lh355GxjrO9zVZ7gHUdUb"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 212164,
+      "name": "Cattle in the Cane",
+      "url": "https://open.spotify.com/track/0XcB1mqwPSIvmpAqXWcEFS"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Places You've Not Been",
+        "url": "https://open.spotify.com/album/5EA7oSmsgQctXu3UkevKZy"
+      },
+      "artists": [
+        {
+          "name": "Milkdrive",
+          "url": "https://open.spotify.com/artist/2jSIlgL1YMPEcYoFQMEjj5"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Orion's Waltz",
+      "url": "https://open.spotify.com/track/2jItd4qiEH43kQjrkdN6Uu"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "25 Trips",
+        "url": "https://open.spotify.com/album/5MW8vgKSki8FkuzIeEbDjG"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "How Long",
+      "url": "https://open.spotify.com/track/62Y0ujNxDSwplJU2locl1E"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/42D84lYZPddM4dpDVNpECv"
       },
       "artists": [
         {
@@ -792,41 +448,121 @@
           "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 202480,
-      "name": "Marianne",
-      "url": "https://open.spotify.com/track/4vx0FK5GfHdFSSNMRMeuLa"
+      "duration_ms": 194786,
+      "name": "Edges Run",
+      "url": "https://open.spotify.com/track/3O6NFigtXvVzT0366H88ao"
+    },
+    {
+      "added_at": "2021-10-15 04:30:51",
+      "album": {
+        "name": ".-..",
+        "url": "https://open.spotify.com/album/2V1FvKvcKEsYNHXW1wXNHU"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/0FCZJzKhr9GaK2sMjrQGpY"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Father Time",
+        "url": "https://open.spotify.com/album/4hAgFDtiwPdjzIMxnbK7lJ"
+      },
+      "artists": [
+        {
+          "name": "Highland Reverie",
+          "url": "https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2"
+        }
+      ],
+      "duration_ms": 144608,
+      "name": "Father Time",
+      "url": "https://open.spotify.com/track/2BtUVOfF9KJdFoUfR7VIqb"
     },
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Fall Away Blues",
-        "url": "https://open.spotify.com/album/5b5tbQBg8U6xVdnUzofOFr"
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
       },
       "artists": [
         {
-          "name": "Red Tail Ring",
-          "url": "https://open.spotify.com/artist/7eFNDfeRSsRCcUGLBVZZB3"
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
         }
       ],
-      "duration_ms": 201133,
-      "name": "Yarrow",
-      "url": "https://open.spotify.com/track/4sGJEM8PFJTvM3AcVRs8G4"
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Unhurried",
-        "url": "https://open.spotify.com/album/3NNNcR5XuIoETEEdvOzdRC"
+        "name": "Blind in the Fray",
+        "url": "https://open.spotify.com/album/0QuFRJgVH31Dw9lG3kOvv0"
       },
       "artists": [
         {
-          "name": "Rachel Stevener",
-          "url": "https://open.spotify.com/artist/6Pes4qkdbvkqjDpGv1W1zs"
+          "name": "The Last Revel",
+          "url": "https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw"
         }
       ],
-      "duration_ms": 239590,
-      "name": "Unhurried",
-      "url": "https://open.spotify.com/track/0uGY93shNywFnDavxcuj53"
+      "duration_ms": 212354,
+      "name": "Blind in the Fray",
+      "url": "https://open.spotify.com/track/4sWnVeKwH6Aftzk5HZi4d1"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "How It All Goes Down",
+        "url": "https://open.spotify.com/album/0DhpnbqiSrzKDJ2Wk5MkHp"
+      },
+      "artists": [
+        {
+          "name": "The Show Ponies",
+          "url": "https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "Kalamazoo",
+      "url": "https://open.spotify.com/track/2UAlL898aPpEM265wnWV3Q"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Crossing Muddy Waters",
+        "url": "https://open.spotify.com/album/3T0SGvKN5MxhizyvTaj1rz"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 228320,
+      "name": "Crossing Muddy Waters",
+      "url": "https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "The Lonesome Trio",
+        "url": "https://open.spotify.com/album/01jKed6wLys7BjOTvk0efj"
+      },
+      "artists": [
+        {
+          "name": "The Lonesome Trio",
+          "url": "https://open.spotify.com/artist/7beH6d34qjz3YUO6aOYj6D"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Whiskey Drink",
+      "url": "https://open.spotify.com/track/6Hdz3SWHHxGbWqhmh1KOmn"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -847,6 +583,298 @@
       "duration_ms": 196765,
       "name": "Won\u2019t Be Long",
       "url": "https://open.spotify.com/track/29rZE5N3Q3Ke3GtJaQdbdR"
+    },
+    {
+      "added_at": "2022-01-14 05:06:00",
+      "album": {
+        "name": "From The Dust",
+        "url": "https://open.spotify.com/album/0kLLLg6wjPc9RjJOaHHhZE"
+      },
+      "artists": [
+        {
+          "name": "Megan Brown",
+          "url": "https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb"
+        }
+      ],
+      "duration_ms": 188460,
+      "name": "From The Dust",
+      "url": "https://open.spotify.com/track/1kDmlwmcDxHS4KSvNQeyg8"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Stranger Places",
+        "url": "https://open.spotify.com/album/7GAkV3WjOY16QsH2bPBdBp"
+      },
+      "artists": [
+        {
+          "name": "The Unseen Strangers",
+          "url": "https://open.spotify.com/artist/4O4HVTZ4M1Lu75se3koB9Y"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Buster",
+      "url": "https://open.spotify.com/track/3JuZ7dCqgOyqlLQDVAHzGO"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Anna & Elizabeth",
+        "url": "https://open.spotify.com/album/4vdbptzhY4LSdn8H31J08U"
+      },
+      "artists": [
+        {
+          "name": "Anna & Elizabeth",
+          "url": "https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7"
+        }
+      ],
+      "duration_ms": 134435,
+      "name": "Troubles",
+      "url": "https://open.spotify.com/track/6nnGWRHzscBMWQZjxokadI"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Sometimes I",
+        "url": "https://open.spotify.com/album/6YYBs0rzC30URlk77ULuMW"
+      },
+      "artists": [
+        {
+          "name": "Rising Appalachia",
+          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+        }
+      ],
+      "duration_ms": 377258,
+      "name": "Sometimes I",
+      "url": "https://open.spotify.com/track/2bz32yhGhMaj3LNnQpyFE9"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Old Time Reverie",
+        "url": "https://open.spotify.com/album/3uNiWWdpmOkw7i8DSaELav"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/4vx0FK5GfHdFSSNMRMeuLa"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/2vIgHcmDHz5Vx2hBezjumT"
+      },
+      "artists": [
+        {
+          "name": "Joy Kills Sorrow",
+          "url": "https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/4Vk9JVC3eBEY35i7JgkSTG"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5dR3GxLveYLBkq6utHAZmT"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 181880,
+      "name": "Save This Heart",
+      "url": "https://open.spotify.com/track/44rtc66Yh6F8HxDDyKJoo9"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Bobcat",
+        "url": "https://open.spotify.com/album/4JGaZ0yry5gocDPGJjlZcy"
+      },
+      "artists": [
+        {
+          "name": "Kyle Tuttle",
+          "url": "https://open.spotify.com/artist/4TA1bJ58eUSl5Qn8DP1L86"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Bobcat On the Banjo",
+      "url": "https://open.spotify.com/track/1tuJyZqZy0P34uPcwVFoo7"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Leave Some Things Behind",
+        "url": "https://open.spotify.com/album/50xpIDggAfE6YRdWBZaotd"
+      },
+      "artists": [
+        {
+          "name": "The Steel Wheels",
+          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
+        }
+      ],
+      "duration_ms": 121133,
+      "name": "Mountains Quake",
+      "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Part of Life",
+        "url": "https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD"
+      },
+      "artists": [
+        {
+          "name": "Josh Oliver",
+          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Part of Life",
+      "url": "https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal"
+    },
+    {
+      "added_at": "2021-12-03 05:02:00",
+      "album": {
+        "name": "Unhurried",
+        "url": "https://open.spotify.com/album/3NNNcR5XuIoETEEdvOzdRC"
+      },
+      "artists": [
+        {
+          "name": "Rachel Stevener",
+          "url": "https://open.spotify.com/artist/6Pes4qkdbvkqjDpGv1W1zs"
+        }
+      ],
+      "duration_ms": 239590,
+      "name": "Unhurried",
+      "url": "https://open.spotify.com/track/0uGY93shNywFnDavxcuj53"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Blooming Through The Black",
+        "url": "https://open.spotify.com/album/3EK2uHYT5sFT4HMC2Y38FW"
+      },
+      "artists": [
+        {
+          "name": "Parsonsfield",
+          "url": "https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR"
+        }
+      ],
+      "duration_ms": 262133,
+      "name": "Barbed Wire",
+      "url": "https://open.spotify.com/track/2Sfgva4LpDKP0uPfRPu4Ay"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "The Third Gleam",
+        "url": "https://open.spotify.com/album/6qHVJFxoizJAdhB7CdbaV2"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 244280,
+      "name": "Untitled #4",
+      "url": "https://open.spotify.com/track/1kq9lzEHoY3p8naHWpqNlh"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Ain't No Grave",
+        "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
+      },
+      "artists": [
+        {
+          "name": "Crooked Still",
+          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 198313,
+      "name": "Ain't No Grave (Sparse)",
+      "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Honeysuckle",
+        "url": "https://open.spotify.com/album/3MAQdDkPqH2EWgAkDMyZyI"
+      },
+      "artists": [
+        {
+          "name": "Honeysuckle",
+          "url": "https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f"
+        }
+      ],
+      "duration_ms": 268253,
+      "name": "Canary",
+      "url": "https://open.spotify.com/track/78Qbk2eUKvyyoAbJwCsc0m"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 202110,
+      "name": "The Hunt",
+      "url": "https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Fish Pond Fish",
+        "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 240720,
+      "name": "Ocean Bed",
+      "url": "https://open.spotify.com/track/2BWuYpaqwipELjFdTlui9P"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Fall Away Blues",
+        "url": "https://open.spotify.com/album/5b5tbQBg8U6xVdnUzofOFr"
+      },
+      "artists": [
+        {
+          "name": "Red Tail Ring",
+          "url": "https://open.spotify.com/artist/7eFNDfeRSsRCcUGLBVZZB3"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "Yarrow",
+      "url": "https://open.spotify.com/track/4sGJEM8PFJTvM3AcVRs8G4"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -883,186 +911,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Crossing Muddy Waters",
-        "url": "https://open.spotify.com/album/3T0SGvKN5MxhizyvTaj1rz"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 228320,
-      "name": "Crossing Muddy Waters",
-      "url": "https://open.spotify.com/track/0KY35FGGCjF65VHzrcDy6F"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Honeysuckle",
-        "url": "https://open.spotify.com/album/3MAQdDkPqH2EWgAkDMyZyI"
-      },
-      "artists": [
-        {
-          "name": "Honeysuckle",
-          "url": "https://open.spotify.com/artist/4CInnkt9AYgGZjFaoGsj5f"
-        }
-      ],
-      "duration_ms": 268253,
-      "name": "Canary",
-      "url": "https://open.spotify.com/track/78Qbk2eUKvyyoAbJwCsc0m"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Roll Me, Tumble Me",
-        "url": "https://open.spotify.com/album/1vFtsKWIMFAf2QhWcxEiD4"
-      },
-      "artists": [
-        {
-          "name": "The Deadly Gentlemen",
-          "url": "https://open.spotify.com/artist/4dtiIYPHTDAkzOECVtalw5"
-        }
-      ],
-      "duration_ms": 264586,
-      "name": "A Faded Star",
-      "url": "https://open.spotify.com/track/4WidGItghW8sCcIQj93Xod"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Weighted Mind",
-        "url": "https://open.spotify.com/album/1Nhg69P4YB6wBXuP6Kmhbe"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 157786,
-      "name": "Compass",
-      "url": "https://open.spotify.com/track/4qWb8fJ5xScpaJz1DK8dVS"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Scrape Me Off the Ceiling",
-        "url": "https://open.spotify.com/album/7ojJLIbIIlC7XqiONY0csB"
-      },
-      "artists": [
-        {
-          "name": "The Steel Wheels",
-          "url": "https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "Scrape Me Off the Ceiling",
-      "url": "https://open.spotify.com/track/0fD7WXONvfGg9poOUOn8SI"
-    },
-    {
-      "added_at": "2021-12-03 05:02:00",
-      "album": {
-        "name": "The Lonesome Season",
-        "url": "https://open.spotify.com/album/5efbJOZ97cdkB8bsHiRftB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Crawford",
-          "url": "https://open.spotify.com/artist/3E6LMXGg2UtOW7LaC4OHgN"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "The Lonesome Season",
-      "url": "https://open.spotify.com/track/3By1O4YkSJyMfBdRc9owtI"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Fall Away Blues",
-        "url": "https://open.spotify.com/album/5b5tbQBg8U6xVdnUzofOFr"
-      },
-      "artists": [
-        {
-          "name": "Red Tail Ring",
-          "url": "https://open.spotify.com/artist/7eFNDfeRSsRCcUGLBVZZB3"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "A Ghost Whispers",
-      "url": "https://open.spotify.com/track/0UZ1zFXfrsRIVVoz1AvNWJ"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Bobcat",
-        "url": "https://open.spotify.com/album/4JGaZ0yry5gocDPGJjlZcy"
-      },
-      "artists": [
-        {
-          "name": "Kyle Tuttle",
-          "url": "https://open.spotify.com/artist/4TA1bJ58eUSl5Qn8DP1L86"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Bobcat On the Banjo",
-      "url": "https://open.spotify.com/track/1tuJyZqZy0P34uPcwVFoo7"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Ain't No Grave",
-        "url": "https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj"
-      },
-      "artists": [
-        {
-          "name": "Crooked Still",
-          "url": "https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 198313,
-      "name": "Ain't No Grave (Sparse)",
-      "url": "https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Sometimes I",
-        "url": "https://open.spotify.com/album/6YYBs0rzC30URlk77ULuMW"
-      },
-      "artists": [
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
-        }
-      ],
-      "duration_ms": 377258,
-      "name": "Sometimes I",
-      "url": "https://open.spotify.com/track/2bz32yhGhMaj3LNnQpyFE9"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 214564,
-      "name": "Green Lights - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "Whiskey Shivers Live At the Good Music Club",
         "url": "https://open.spotify.com/album/0rpDrksHkwnw2gZ6w5HuV2"
       },
@@ -1079,18 +927,34 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Ionia",
-        "url": "https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ"
+        "name": "Mipso",
+        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
       },
       "artists": [
         {
-          "name": "Lindsay Lou & the Flatbellys",
-          "url": "https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 243828,
-      "name": "Hot Hands",
-      "url": "https://open.spotify.com/track/3tSpEKEMSy45FraGEEh0W1"
+      "duration_ms": 204333,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Watchhouse",
+        "url": "https://open.spotify.com/album/2ZURBTlzCG2WCMuEwvRBaK"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/2WqEbbet6L2ndAbvhRVb2S"
+        }
+      ],
+      "duration_ms": 356522,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/7puCiBLOOXgMVPSCrtSQ6C"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -1111,166 +975,74 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/7CZK1FnQ4wkZJE6XiwixBq"
+        "name": "What to Fear",
+        "url": "https://open.spotify.com/album/7jf04POqt5rp1jWM8KQhzd"
       },
       "artists": [
         {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+          "name": "Sean Watkins",
+          "url": "https://open.spotify.com/artist/45K759axQK0aohwSjbkgpy"
         }
       ],
-      "duration_ms": 221640,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0wdptlNBbiNuog9juv7DyV"
+      "duration_ms": 164346,
+      "name": "Local Honey",
+      "url": "https://open.spotify.com/track/0DoAh5V2UYlRSO0bi7sFim"
     },
     {
-      "added_at": "2021-10-01 04:01:00",
+      "added_at": "2021-12-31 05:02:00",
       "album": {
-        "name": "Ionia",
-        "url": "https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ"
+        "name": "Meeting Is Over",
+        "url": "https://open.spotify.com/album/4YgPIWCcfPIfpkgmewgoYx"
       },
       "artists": [
         {
-          "name": "Lindsay Lou & the Flatbellys",
-          "url": "https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3"
-        }
-      ],
-      "duration_ms": 245839,
-      "name": "Everything Changed",
-      "url": "https://open.spotify.com/track/75lG0mNxn3YH7MD4qcLkA6"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/60z9HLMTqPLS1nt3OLUBCB"
-      },
-      "artists": [
-        {
-          "name": "San Fermin",
-          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
+          "name": "Moira Smiley",
+          "url": "https://open.spotify.com/artist/035KHOtaTMMoN7YASM6mwk"
         },
         {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+          "name": "Piers Faccini",
+          "url": "https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd"
+        },
+        {
+          "name": "Seamus Egan",
+          "url": "https://open.spotify.com/artist/5dWAsW7cMbMCswqTwN2jQm"
         }
       ],
-      "duration_ms": 212598,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/5TiDYdUa8B6rod4U7389Kr"
+      "duration_ms": 264813,
+      "name": "Meeting Is Over",
+      "url": "https://open.spotify.com/track/0Jyru2R52NaBR6wiEGMQUp"
+    },
+    {
+      "added_at": "2022-01-07 05:04:00",
+      "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/39To6wr7OM6vpS3HfvD8Kb"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 185553,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/6586Yb57Ussd4h1A7brBsU"
     },
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "City Painted Gold",
-        "url": "https://open.spotify.com/album/4OSdY8WqGsfZvCwPIoX4ri"
+        "name": "Montana",
+        "url": "https://open.spotify.com/album/1jB8TJoBM6r57nved1GwmZ"
       },
       "artists": [
         {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+          "name": "The Dead Tongues",
+          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
         }
       ],
-      "duration_ms": 186706,
-      "name": "Dance Upon Your Grave",
-      "url": "https://open.spotify.com/track/36YuzKine9MqBM84LUTOHr"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "How It All Goes Down",
-        "url": "https://open.spotify.com/album/0DhpnbqiSrzKDJ2Wk5MkHp"
-      },
-      "artists": [
-        {
-          "name": "The Show Ponies",
-          "url": "https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "Kalamazoo",
-      "url": "https://open.spotify.com/track/2UAlL898aPpEM265wnWV3Q"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Blooming Through The Black",
-        "url": "https://open.spotify.com/album/3EK2uHYT5sFT4HMC2Y38FW"
-      },
-      "artists": [
-        {
-          "name": "Parsonsfield",
-          "url": "https://open.spotify.com/artist/6azzAm8BwExr6xaAaR14TR"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "Barbed Wire",
-      "url": "https://open.spotify.com/track/2Sfgva4LpDKP0uPfRPu4Ay"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Mipso",
-        "url": "https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 204333,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/3BPibZpEagpo2S0OxpMfmh"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "When You're Ready",
-        "url": "https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 169776,
-      "name": "The High Road",
-      "url": "https://open.spotify.com/track/2FaRTKC8O1ylcBlSY8P8NU"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Jacksonville Sunrise",
-        "url": "https://open.spotify.com/album/5EnUVtwTiJmNlwPRF6Gml3"
-      },
-      "artists": [
-        {
-          "name": "Gavin Powell",
-          "url": "https://open.spotify.com/artist/6PXQ7OwfxHb3IxWAjMMi3k"
-        }
-      ],
-      "duration_ms": 209513,
-      "name": "West of Houston (Bonus Track)",
-      "url": "https://open.spotify.com/track/4x43n4J7FLEz92AYNKsEgi"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Anna & Elizabeth",
-        "url": "https://open.spotify.com/album/4vdbptzhY4LSdn8H31J08U"
-      },
-      "artists": [
-        {
-          "name": "Anna & Elizabeth",
-          "url": "https://open.spotify.com/artist/1Zd2jFygzaM9fyijiieSI7"
-        }
-      ],
-      "duration_ms": 134435,
-      "name": "Troubles",
-      "url": "https://open.spotify.com/track/6nnGWRHzscBMWQZjxokadI"
+      "duration_ms": 126573,
+      "name": "Empire Builder",
+      "url": "https://open.spotify.com/track/7p1ATyecaQmtiXKY7mdzRN"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -1291,102 +1063,6 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "O.C.M.S.",
-        "url": "https://open.spotify.com/album/0ogkqQa8hPAtL02IqwJ36x"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Wagon Wheel",
-      "url": "https://open.spotify.com/track/359krpyCKcFF8SFvqWES9L"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Honeybucket",
-        "url": "https://open.spotify.com/album/3g4HrZHPuSXBwqy3yjoI4S"
-      },
-      "artists": [
-        {
-          "name": "Honeybucket",
-          "url": "https://open.spotify.com/artist/1ZBAifL7sUBjEf6d2hzx0e"
-        }
-      ],
-      "duration_ms": 209253,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/6ENVwFz5VkToGbR4MTAtaa"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Shanti's Shadow",
-        "url": "https://open.spotify.com/album/0cqIEu0zILQLbtU0MI9chW"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Hunt & The Gatherers",
-          "url": "https://open.spotify.com/artist/5n1AeCdes4kBP15JgHwhmn"
-        }
-      ],
-      "duration_ms": 231385,
-      "name": "Pink and Blue",
-      "url": "https://open.spotify.com/track/32KDDkLofx0OsHQvAEQm3X"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/7pYtZKjHhWshTqLyBuQXmY"
-      },
-      "artists": [
-        {
-          "name": "The Howlin' Brothers",
-          "url": "https://open.spotify.com/artist/2Ya197LjC2pz0ZXl0rwAgl"
-        }
-      ],
-      "duration_ms": 221186,
-      "name": "Troubled Waltz",
-      "url": "https://open.spotify.com/track/1pcyOZei4BnZ0RRljDoylz"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Bad Thoughts",
-        "url": "https://open.spotify.com/album/67wFtxl9dpKz6WUp1ZPd2g"
-      },
-      "artists": [
-        {
-          "name": "Honeybucket",
-          "url": "https://open.spotify.com/artist/1ZBAifL7sUBjEf6d2hzx0e"
-        }
-      ],
-      "duration_ms": 218761,
-      "name": "Bad Thoughts (Acoustic)",
-      "url": "https://open.spotify.com/track/1AXP30cEYkVNA5p8tyClQp"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "The Lonesome Trio",
-        "url": "https://open.spotify.com/album/01jKed6wLys7BjOTvk0efj"
-      },
-      "artists": [
-        {
-          "name": "The Lonesome Trio",
-          "url": "https://open.spotify.com/artist/7beH6d34qjz3YUO6aOYj6D"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Whiskey Drink",
-      "url": "https://open.spotify.com/track/6Hdz3SWHHxGbWqhmh1KOmn"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
         "name": "Blind and Brave",
         "url": "https://open.spotify.com/album/1c2Ner1dwYAXfPSar0LN90"
       },
@@ -1399,6 +1075,66 @@
       "duration_ms": 187253,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/3l6KKhbzmDDy4ye0qqgTEf"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Jam in the Van - AJ Lee & Blue Summit (Live Session, Paso Robles, CA, 2021)",
+        "url": "https://open.spotify.com/album/5fmJvOgfxX37ndWmbnOL2U"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        },
+        {
+          "name": "Jam in the Van",
+          "url": "https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa"
+        }
+      ],
+      "duration_ms": 252234,
+      "name": "Lemons and Tangerines - Live Session, Paso Robles, CA, 2021",
+      "url": "https://open.spotify.com/track/5xIO3D9k6gUGg5ptO1abRk"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 268413,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/0aa0FrL0JlVE7MMgszjYvP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/5sqhKYHmQSGmGWzrgyL2nc"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -1419,66 +1155,50 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Horseshoes & Hand Grenades on Audiotree Live - EP",
-        "url": "https://open.spotify.com/album/4MYtNl13xrjuBRfTT1An11"
+        "name": "Bad Thoughts",
+        "url": "https://open.spotify.com/album/67wFtxl9dpKz6WUp1ZPd2g"
       },
       "artists": [
         {
-          "name": "Horseshoes & Hand Grenades",
-          "url": "https://open.spotify.com/artist/4nl7okSNAZuu9DWr9jkzSs"
+          "name": "Honeybucket",
+          "url": "https://open.spotify.com/artist/1ZBAifL7sUBjEf6d2hzx0e"
         }
       ],
-      "duration_ms": 257987,
-      "name": "Stuck on Your Mind - Audiotree Live Version",
-      "url": "https://open.spotify.com/track/35yqG3NlZFbOr6mJ80qvzQ"
+      "duration_ms": 218761,
+      "name": "Bad Thoughts (Acoustic)",
+      "url": "https://open.spotify.com/track/1AXP30cEYkVNA5p8tyClQp"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Good Man Down",
-        "url": "https://open.spotify.com/album/5d2s0xDFNSP9DHcENh8Htz"
+        "name": "Impossible World",
+        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
       },
       "artists": [
         {
-          "name": "The David Mayfield Parade",
-          "url": "https://open.spotify.com/artist/2cUl2KIxv7FHmL4pt4uLsN"
+          "name": "Front Country",
+          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
         }
       ],
-      "duration_ms": 173773,
-      "name": "Love Will Only Break Your Heart",
-      "url": "https://open.spotify.com/track/2faqlLswnAEXMqkaiRQ5LW"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "All Day All Night",
-        "url": "https://open.spotify.com/album/5V9fvMfnhzIGCEmfAUjBvw"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "All Day All Night",
-      "url": "https://open.spotify.com/track/7fea0ovRcsLj0OkFNN6i8u"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 259649,
-      "name": "Olympia, WA",
-      "url": "https://open.spotify.com/track/2gtIcIvoHJYjSZw39qDHUe"
+      "duration_ms": 210160,
+      "name": "How Can You Sing",
+      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -1503,40 +1223,60 @@
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Small Town Heroes",
-        "url": "https://open.spotify.com/album/2Jgs7uTMWm1SmG8hQXS4yx"
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/3FDQWdReKKAu4hgebNjI0N"
       },
       "artists": [
         {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 153546,
-      "name": "Blue Ridge Mountain",
-      "url": "https://open.spotify.com/track/0LDutPcTM5oGqNAU4h6A8t"
+      "duration_ms": 190634,
+      "name": "Run To Heaven",
+      "url": "https://open.spotify.com/track/0OJAIweexqlZ1ec5aDFsV2"
     },
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "Impossible World",
-        "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
+        "name": "Weighted Mind",
+        "url": "https://open.spotify.com/album/1Nhg69P4YB6wBXuP6Kmhbe"
       },
       "artists": [
         {
-          "name": "Front Country",
-          "url": "https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj"
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
         }
       ],
-      "duration_ms": 210160,
-      "name": "How Can You Sing",
-      "url": "https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A"
+      "duration_ms": 157786,
+      "name": "Compass",
+      "url": "https://open.spotify.com/track/4qWb8fJ5xScpaJz1DK8dVS"
     },
     {
       "added_at": "2021-10-01 04:01:00",
       "album": {
-        "name": "The Phosphorescent Blues",
-        "url": "https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j"
+        "name": "Shanti's Shadow",
+        "url": "https://open.spotify.com/album/0cqIEu0zILQLbtU0MI9chW"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Hunt & The Gatherers",
+          "url": "https://open.spotify.com/artist/5n1AeCdes4kBP15JgHwhmn"
+        }
+      ],
+      "duration_ms": 231385,
+      "name": "Pink and Blue",
+      "url": "https://open.spotify.com/track/32KDDkLofx0OsHQvAEQm3X"
+    },
+    {
+      "added_at": "2022-01-14 05:06:00",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
       "artists": [
         {
@@ -1544,9 +1284,121 @@
           "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
         }
       ],
-      "duration_ms": 326493,
-      "name": "Julep",
-      "url": "https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt"
+      "duration_ms": 233416,
+      "name": "Pride of Man",
+      "url": "https://open.spotify.com/track/3e3sDRflULRApZmJZkGiRP"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "LIVE CHIMES: Volume One",
+        "url": "https://open.spotify.com/album/0HXxUy2QIIZEEEiVNRMlRX"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Windchimes",
+          "url": "https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2"
+        }
+      ],
+      "duration_ms": 142663,
+      "name": "The Devil In You",
+      "url": "https://open.spotify.com/track/4nA3rdugWqbUozPJCrNR0j"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Volunteer",
+        "url": "https://open.spotify.com/album/1hSUUe3NM9HWTSMRWPZK6l"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/4iyzKBDP4JlMbYvHYwaHOV"
+    },
+    {
+      "added_at": "2021-12-31 05:02:00",
+      "album": {
+        "name": "Real World",
+        "url": "https://open.spotify.com/album/6Z4aXYZHNwCcKhgrjfztZy"
+      },
+      "artists": [
+        {
+          "name": "Highland Reverie",
+          "url": "https://open.spotify.com/artist/1xm0FYqJd14TSZdz5huwd2"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "Real World",
+      "url": "https://open.spotify.com/track/3bimtjFTf1f44qp2dH9m5F"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Fall Away Blues",
+        "url": "https://open.spotify.com/album/5b5tbQBg8U6xVdnUzofOFr"
+      },
+      "artists": [
+        {
+          "name": "Red Tail Ring",
+          "url": "https://open.spotify.com/artist/7eFNDfeRSsRCcUGLBVZZB3"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "A Ghost Whispers",
+      "url": "https://open.spotify.com/track/0UZ1zFXfrsRIVVoz1AvNWJ"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/7pYtZKjHhWshTqLyBuQXmY"
+      },
+      "artists": [
+        {
+          "name": "The Howlin' Brothers",
+          "url": "https://open.spotify.com/artist/2Ya197LjC2pz0ZXl0rwAgl"
+        }
+      ],
+      "duration_ms": 221186,
+      "name": "Troubled Waltz",
+      "url": "https://open.spotify.com/track/1pcyOZei4BnZ0RRljDoylz"
+    },
+    {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "The Tide",
+        "url": "https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Heartstring Band",
+          "url": "https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "The Tide",
+      "url": "https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO"
+    },
+    {
+      "added_at": "2021-10-15 04:30:51",
+      "album": {
+        "name": "Tall Tales & Fables",
+        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
+      },
+      "artists": [
+        {
+          "name": "Haunted Like Human",
+          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
+        }
+      ],
+      "duration_ms": 177414,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
     }
   ],
   "unique_name": "Indie Bluegrass",

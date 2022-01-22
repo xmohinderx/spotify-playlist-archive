@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 218190,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4VQK9d4giauCdAN9C8W6nh"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 140869,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/2CoyC9QjY2mydPoIBofKAc"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 175792,
       "name": "DAYTONS",
       "url": "https://open.spotify.com/track/3qOQF98C8xvlpdzD7LZHHu"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 192000,
       "name": "Fight Milk",
       "url": "https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU"
@@ -974,6 +974,28 @@
     },
     {
       "album": {
+        "name": "Front Man",
+        "url": "https://open.spotify.com/album/1TOcjhSqr0yJISowqjr7CV"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248333,
+      "name": "Front Man",
+      "url": "https://open.spotify.com/track/1Ipo7AQ2vWCoCjkSTxGEMX"
+    },
+    {
+      "album": {
         "name": "Fuck U Love U",
         "url": "https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w"
       },
@@ -1015,6 +1037,28 @@
       "duration_ms": 238285,
       "name": "Gassed Up",
       "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172245,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
     },
     {
       "album": {
@@ -1165,7 +1209,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 221750,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
@@ -1475,7 +1519,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 202736,
       "name": "KENKA",
       "url": "https://open.spotify.com/track/0IWI0riXpzyc5FqVuoljGJ"
@@ -2029,7 +2073,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 174224,
       "name": "NRG",
       "url": "https://open.spotify.com/track/7rNAuy7dGfrrJswdP11T8j"
@@ -2889,7 +2933,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 240000,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/0LCUh32YKsqbh3d7eCJIh8"
@@ -3154,6 +3198,32 @@
     },
     {
       "album": {
+        "name": "UNSOUND EP",
+        "url": "https://open.spotify.com/album/5OntSYDFZdSm4byHGNiUOj"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "RNSOM",
+          "url": "https://open.spotify.com/artist/0PDXIBsT4ZOJyqrF1MYnxh"
+        },
+        {
+          "name": "Davis",
+          "url": "https://open.spotify.com/artist/1UMFvfUUhddeehpyd7D8dw"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/4BCda1bJa57fTMB2laaOeX"
+    },
+    {
+      "album": {
         "name": "Take Flight",
         "url": "https://open.spotify.com/album/6KUwI4RCbvqZZbKCCiwpjO"
       },
@@ -3191,7 +3261,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 139877,
       "name": "Takin' Over",
       "url": "https://open.spotify.com/track/16laBcAyTKhLY50kHQ11b2"
@@ -3359,7 +3429,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 204943,
       "name": "Trailblazer",
       "url": "https://open.spotify.com/track/19ht9Lhp2fHgQi00izzrKE"
@@ -3665,7 +3735,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 256551,
       "name": "WITH U",
       "url": "https://open.spotify.com/track/1xuIethB7B6S14ZdQ2LxoW"

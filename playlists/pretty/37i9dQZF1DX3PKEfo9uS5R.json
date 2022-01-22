@@ -1,15 +1,31 @@
 {
   "description": "Chill house tracks to power your pilates session.",
-  "num_followers": 58611,
+  "num_followers": 58693,
   "original_name": "Pilates Lounge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNjYyOTA0OSwwMDAwMDAyMjAwMDAwMTdkMGViMTZmMGYwMDAwMDE3MGM0OTdhMzQ1",
+  "snapshot_id": "MTY0Mjc2MTc1NywwMDAwMDAyMzAwMDAwMTdlN2MzYjIyYjMwMDAwMDE3MGM0OTdhMzQ1",
   "tracks": [
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
+      "album": {
+        "name": "Midnight Salute",
+        "url": "https://open.spotify.com/album/5FAu2PHY3zq0vnFTmG06VU"
+      },
+      "artists": [
+        {
+          "name": "Hotel Plaza",
+          "url": "https://open.spotify.com/artist/4NOvvsl3lAjFsZVFyetMMB"
+        }
+      ],
+      "duration_ms": 178744,
+      "name": "Valencia Morning",
+      "url": "https://open.spotify.com/track/2mziKTawLRhhnMbyQSQeRv"
+    },
+    {
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Lickshot",
         "url": "https://open.spotify.com/album/2nUwhidPZlxBourcTFX283"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/775MgiY1RE3RVTegxgHwEQ"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Copycat / Sunspot",
         "url": "https://open.spotify.com/album/5rgFFppEQzw3lOlzgIPmKV"
@@ -41,7 +57,23 @@
       "url": "https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
+      "album": {
+        "name": "Lunar Soil",
+        "url": "https://open.spotify.com/album/1m5UoUNbtCwJMAIOWCDaPv"
+      },
+      "artists": [
+        {
+          "name": "Basaux",
+          "url": "https://open.spotify.com/artist/11pLNU3Nzu5J3yFAmetC2s"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Lunar Soil",
+      "url": "https://open.spotify.com/track/3oIEmx0I8qfBb01lKTe4uE"
+    },
+    {
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "She Knows Best",
         "url": "https://open.spotify.com/album/6YQnN8oKnYxfqNJ6eMV8lw"
@@ -57,7 +89,7 @@
       "url": "https://open.spotify.com/track/71GZwwdFqYpEcN1mNIhII5"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Pull Me Closer",
         "url": "https://open.spotify.com/album/52NRFkqvG68E13DZ6QSUfb"
@@ -73,7 +105,7 @@
       "url": "https://open.spotify.com/track/7wuX42wC2VlCMtazUOJkX8"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Good LUV",
         "url": "https://open.spotify.com/album/23Nlb6UA6S67V9dtV6Ym8J"
@@ -89,7 +121,7 @@
       "url": "https://open.spotify.com/track/1QqBrFnnInn1nB5EsfbxNT"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Backyard Stories \u2014 Summer Forever",
         "url": "https://open.spotify.com/album/2H4326zTOaXXdJ5h61biES"
@@ -105,7 +137,23 @@
       "url": "https://open.spotify.com/track/1CbkCuHtCVfLSdvztsQVVJ"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
+      "album": {
+        "name": "Orange and Blue",
+        "url": "https://open.spotify.com/album/0FPBUdy3YZoCyNqStyTHBJ"
+      },
+      "artists": [
+        {
+          "name": "Asha Lin",
+          "url": "https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H"
+        }
+      ],
+      "duration_ms": 178952,
+      "name": "Orange and Blue",
+      "url": "https://open.spotify.com/track/4zcN60IL3aEEQZdCwOjYtE"
+    },
+    {
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Got This",
         "url": "https://open.spotify.com/album/0TtK0hLbzepa08Rosnmgqb"
@@ -121,7 +169,7 @@
       "url": "https://open.spotify.com/track/70ZtLYA9LXHb1wGivdTWh2"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/0RdQWXdOdLmWAKtnVgb0lJ"
@@ -137,7 +185,7 @@
       "url": "https://open.spotify.com/track/2HPpdNLzGv3sal6DYLRq5d"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Somewhere Out There",
         "url": "https://open.spotify.com/album/6hm0JKMWpzsDal5G5da18n"
@@ -153,7 +201,7 @@
       "url": "https://open.spotify.com/track/7JPA0E9xnYsJSrYjQyQFRm"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Five Minutes",
         "url": "https://open.spotify.com/album/3tntTvhbE4vfgZJ4CrtTG8"
@@ -169,7 +217,23 @@
       "url": "https://open.spotify.com/track/3smdcgKfBFj8xCchNZQjV0"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
+      "album": {
+        "name": "Higher Fun",
+        "url": "https://open.spotify.com/album/3nA9zwp2HlLbpoomZGLtHl"
+      },
+      "artists": [
+        {
+          "name": "Turqousie Day",
+          "url": "https://open.spotify.com/artist/29YYpH6cWgHKCW4m0nafgG"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Higher Fun",
+      "url": "https://open.spotify.com/track/6Rbptz8SnSzSrQaQIS2agP"
+    },
+    {
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Dance Under the Apple Tree",
         "url": "https://open.spotify.com/album/6ChVuZYL7nL6u9Gatu5s5C"
@@ -185,7 +249,7 @@
       "url": "https://open.spotify.com/track/0tUqVTjY5gascy0deX6oPR"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Sun Time",
         "url": "https://open.spotify.com/album/2GFprs0AQbp3DBsnRDsaad"
@@ -201,7 +265,7 @@
       "url": "https://open.spotify.com/track/6bo1me9qHBypbaYu7BBQjF"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Forever Friends",
         "url": "https://open.spotify.com/album/5LnNzlXIpyPa5kW1q2c3Qg"
@@ -217,7 +281,7 @@
       "url": "https://open.spotify.com/track/6RYUGpSQxQSuV1GbylEB8k"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Little Joys",
         "url": "https://open.spotify.com/album/4ofw6KmpKSfygUzct5YOwF"
@@ -233,7 +297,7 @@
       "url": "https://open.spotify.com/track/1unDqTrQWQOe5MqFouU5nk"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Play Day",
         "url": "https://open.spotify.com/album/0UKqrWV652dKSlLiF641a9"
@@ -249,7 +313,7 @@
       "url": "https://open.spotify.com/track/0Uh3tGWukoXgGxsZvPLtmw"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Blue Gold",
         "url": "https://open.spotify.com/album/2eRVCECu1ZfOApQApR9opm"
@@ -265,7 +329,7 @@
       "url": "https://open.spotify.com/track/2TU4uc1YAQrWV57fJ7TPk4"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Passion Dance",
         "url": "https://open.spotify.com/album/500ExojY2lcDHP6GGvrelw"
@@ -281,7 +345,7 @@
       "url": "https://open.spotify.com/track/1pYGDlPoRvrV5wSUjDdAEW"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Afterbeach",
         "url": "https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6"
@@ -297,7 +361,7 @@
       "url": "https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Beatin' Hearts",
         "url": "https://open.spotify.com/album/2Ik5fCmCS3OX6MdOBD7Ciw"
@@ -313,7 +377,7 @@
       "url": "https://open.spotify.com/track/0pIdMLYe4ptCYafCMIeSjS"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Love in the Air",
         "url": "https://open.spotify.com/album/2cAL5xHeFCKMfFIGuNinst"
@@ -329,7 +393,7 @@
       "url": "https://open.spotify.com/track/0DAaxDD2brWwpTDH2HdaON"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Watchtower",
         "url": "https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C"
@@ -345,7 +409,7 @@
       "url": "https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Following the trail",
         "url": "https://open.spotify.com/album/00EV0QM867HkJVvKQKTyRi"
@@ -361,7 +425,7 @@
       "url": "https://open.spotify.com/track/4YvOWccd63fXOhX6OfpVdD"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/57E40q7LcDqv4yKH0jbXuP"
@@ -377,7 +441,7 @@
       "url": "https://open.spotify.com/track/7fITMSuDsZGqZ34Na7Xwkc"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "bonny",
         "url": "https://open.spotify.com/album/0wpoLN0R9XzLL5oD9YaEF0"
@@ -393,7 +457,7 @@
       "url": "https://open.spotify.com/track/4HhE9O3Qp2lm0tZSRTG7SU"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Feuilles",
         "url": "https://open.spotify.com/album/739JpDz78mPc7hTX0zLvhN"
@@ -409,7 +473,7 @@
       "url": "https://open.spotify.com/track/26BeLmiiIvwMzU4dJbpitV"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Campion / Geimfar",
         "url": "https://open.spotify.com/album/552e1oUOvaktE907WmfQPR"
@@ -425,7 +489,7 @@
       "url": "https://open.spotify.com/track/5gIlVzuuMjv95PSZ9lnXTi"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Beleza",
         "url": "https://open.spotify.com/album/1pxLUNVikMin57faqHjn5p"
@@ -441,7 +505,7 @@
       "url": "https://open.spotify.com/track/2kpPKUKlX5W4yZjcAHeySG"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Rich In Mind",
         "url": "https://open.spotify.com/album/1gWYZW7bfXIEL1OY9cdTkH"
@@ -457,7 +521,7 @@
       "url": "https://open.spotify.com/track/3FjIPCz22myDv1EcurByKR"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2Go9N5bAStoeqNEzPs7845"
@@ -473,7 +537,7 @@
       "url": "https://open.spotify.com/track/4mITph3qsu0WI4wfSCaNgl"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Overtime",
         "url": "https://open.spotify.com/album/4XQpK5sCgogkGf6fCiK3QN"
@@ -489,7 +553,7 @@
       "url": "https://open.spotify.com/track/20po3c7qSftUPQpBrmDpX1"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Yesterday's Dream",
         "url": "https://open.spotify.com/album/0ebm4T6CGvYIIharGfIftv"
@@ -505,7 +569,7 @@
       "url": "https://open.spotify.com/track/3eb9HO1cq8uzEmUdU7mNvs"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Get In",
         "url": "https://open.spotify.com/album/1vcvwWac3LX0MHgWipFKT5"
@@ -521,7 +585,7 @@
       "url": "https://open.spotify.com/track/4KL9cG7OFgyf8rQa4x8SVP"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Monty Hall",
         "url": "https://open.spotify.com/album/4MPyqq00qt7THWrpiHwRa7"
@@ -537,7 +601,7 @@
       "url": "https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/4bSGU58KwhgotZ3SETiZso"
@@ -553,7 +617,7 @@
       "url": "https://open.spotify.com/track/1A2pH62d1USSUsxuoiRD8l"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Star Reflections",
         "url": "https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV"
@@ -569,7 +633,7 @@
       "url": "https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Vibe Ticket",
         "url": "https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ"
@@ -585,7 +649,7 @@
       "url": "https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Lueur",
         "url": "https://open.spotify.com/album/27YE95xO8qTIj9L2ACmnzt"
@@ -601,7 +665,7 @@
       "url": "https://open.spotify.com/track/0PlsM5HVPGAPKqNxoEGir0"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Castles in the Air",
         "url": "https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg"
@@ -617,7 +681,7 @@
       "url": "https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Compose Yourself",
         "url": "https://open.spotify.com/album/53t4xsId26JE5HRAkUSVxo"
@@ -633,7 +697,7 @@
       "url": "https://open.spotify.com/track/3a23Wcf6iYqWZM55UJpemn"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "On the Reef",
         "url": "https://open.spotify.com/album/09KD1vik4kWaEodHCrXSzp"
@@ -649,7 +713,7 @@
       "url": "https://open.spotify.com/track/4VlhhTSAslHLsVBSNYsiFZ"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "With My Whole Heart",
         "url": "https://open.spotify.com/album/7DqXk7aQUle3M5qMtjq6zb"
@@ -665,7 +729,7 @@
       "url": "https://open.spotify.com/track/7AzIVU7uB6ZU7uPoFJFKPu"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/6iUanbEtluQQ5dj38wpf6f"
@@ -681,23 +745,7 @@
       "url": "https://open.spotify.com/track/6bt44gR5bahuDhY6WJaVJu"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
-      "album": {
-        "name": "Nightly Purpose",
-        "url": "https://open.spotify.com/album/3S8IKRk8a8kZp9r68emkm2"
-      },
-      "artists": [
-        {
-          "name": "Reglisse",
-          "url": "https://open.spotify.com/artist/5JSk86YHGR6UKHISzJDlp6"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Nightly Purpose",
-      "url": "https://open.spotify.com/track/1eJpAPbFOJ9FcVrq99Vbsz"
-    },
-    {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/6PHcvL4SPEaSy1Ny818JnF"
@@ -713,7 +761,7 @@
       "url": "https://open.spotify.com/track/5l4L0T8QAFd3BYInKaurCn"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Souls",
         "url": "https://open.spotify.com/album/118kdRwrFscCUlo9bSr096"
@@ -729,7 +777,7 @@
       "url": "https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Lacando",
         "url": "https://open.spotify.com/album/74GA0mW6J1bRHolW9VzDmg"
@@ -745,7 +793,7 @@
       "url": "https://open.spotify.com/track/7FzrMqCONRlc3twQKA3ldI"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "All The Time",
         "url": "https://open.spotify.com/album/2OFQvKiPxpGGPn6xAOSCvv"
@@ -761,7 +809,7 @@
       "url": "https://open.spotify.com/track/7areG6AVvNYVYevmKCfPui"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Make it Count",
         "url": "https://open.spotify.com/album/1OVrw11t0hkDglQPrjB4oq"
@@ -777,7 +825,7 @@
       "url": "https://open.spotify.com/track/0HEW5kt8TXf75HiAzhuht2"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Pink T-Shirt",
         "url": "https://open.spotify.com/album/3V9EAFoBD2wHdj18E320lQ"
@@ -793,7 +841,7 @@
       "url": "https://open.spotify.com/track/7DxiU42tkffSP0eXVDWvks"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Postcard Paradise",
         "url": "https://open.spotify.com/album/0JJmknG7C5fdWAKWxPPQPu"
@@ -809,7 +857,7 @@
       "url": "https://open.spotify.com/track/6OtM2h9IyexZg5nc5YBf5p"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Rhodes Night",
         "url": "https://open.spotify.com/album/4sMeFxBYKqgEKIfePb9Y0q"
@@ -825,7 +873,7 @@
       "url": "https://open.spotify.com/track/42UrWODXMY270D6mVLdGnT"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Mermaid",
         "url": "https://open.spotify.com/album/6s4ly0ToaV0tE2A3hdKWbV"
@@ -841,7 +889,7 @@
       "url": "https://open.spotify.com/track/0mMHRtKs72ns7zPDNaZzPY"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Gone Fishing",
         "url": "https://open.spotify.com/album/2CH3raSR42wJfkvBQxdVPj"
@@ -857,7 +905,7 @@
       "url": "https://open.spotify.com/track/0KBpSaFvoYODDM5r8uvUQJ"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/6CIk1vRJBoBq0bzDnRnY8o"
@@ -873,7 +921,7 @@
       "url": "https://open.spotify.com/track/2ebN0r76upG4bTetGQk996"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Cool Sneakers",
         "url": "https://open.spotify.com/album/6CLLHgPGTWJ0HfNy9Ob8gD"
@@ -889,7 +937,7 @@
       "url": "https://open.spotify.com/track/5cPmiWqjOg48GPxBdKjzGo"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Picturesque",
         "url": "https://open.spotify.com/album/1TLkNZ4uXScUE03mlYOnEe"
@@ -905,7 +953,7 @@
       "url": "https://open.spotify.com/track/5NRnGOcVYxj01G7osJWKgV"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Mango Love",
         "url": "https://open.spotify.com/album/1MgbQTIcNtBnGoemdnQL8u"
@@ -921,7 +969,7 @@
       "url": "https://open.spotify.com/track/73l7YNceUVRyggXqCajwlZ"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Need You To Know",
         "url": "https://open.spotify.com/album/6AS8QmcXQmMEnNWvF0xpQu"
@@ -937,7 +985,7 @@
       "url": "https://open.spotify.com/track/1yYjxtcHhEIYGwKZl7ux7Y"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Solar Sun",
         "url": "https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh"
@@ -953,7 +1001,7 @@
       "url": "https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Solidarity",
         "url": "https://open.spotify.com/album/68bol0r3htpiEXaZo3utkT"
@@ -969,7 +1017,7 @@
       "url": "https://open.spotify.com/track/2ieJ272KbcfpIawpUkr65D"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Balmy",
         "url": "https://open.spotify.com/album/2w24KFSj3y18ardZ75SIMm"
@@ -985,7 +1033,7 @@
       "url": "https://open.spotify.com/track/5mFUHYZXlZhiSdqKmscDcU"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Night Vision",
         "url": "https://open.spotify.com/album/3gg0YD1goHwykxatEwcenR"
@@ -1001,23 +1049,7 @@
       "url": "https://open.spotify.com/track/0HlO4ZyDy3YRewm4r9YX9K"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
-      "album": {
-        "name": "Honey Bee",
-        "url": "https://open.spotify.com/album/3dd4xMb3GxR1oqTgbBnHqN"
-      },
-      "artists": [
-        {
-          "name": "Don Battina",
-          "url": "https://open.spotify.com/artist/35XkOpKPNN4P8zTMOmPb9X"
-        }
-      ],
-      "duration_ms": 199135,
-      "name": "Honey Bee",
-      "url": "https://open.spotify.com/track/7iM8XlrP0vRWZ7IMnFChtc"
-    },
-    {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "ALFA-DELTA",
         "url": "https://open.spotify.com/album/7n9lRpIn21zIeAjtuFMM2a"
@@ -1033,7 +1065,7 @@
       "url": "https://open.spotify.com/track/5aSNqR86hrZvqGURovp9wH"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Time to Rest",
         "url": "https://open.spotify.com/album/0BXHAqw9kMh8MQtSZ9a2aq"
@@ -1049,7 +1081,7 @@
       "url": "https://open.spotify.com/track/2HfslpAapuq8I148nED63h"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Another Dream Room EP",
         "url": "https://open.spotify.com/album/2pe3jQkLqd0vjnxxxJuSDW"
@@ -1065,7 +1097,7 @@
       "url": "https://open.spotify.com/track/3etZY7gz2AHkVFX1bgOMBa"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Retreat",
         "url": "https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC"
@@ -1081,7 +1113,7 @@
       "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "I Don't Wanna Live Forever (Taladego Tropical Mix)",
         "url": "https://open.spotify.com/album/6udScTmYkOealnMC3AAd7K"
@@ -1101,7 +1133,7 @@
       "url": "https://open.spotify.com/track/1MAwVy9fDWnicj5xtzzaAD"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Sputnik",
         "url": "https://open.spotify.com/album/2XjgPhcQIIWCGsDMPhJp9c"
@@ -1117,7 +1149,7 @@
       "url": "https://open.spotify.com/track/6omVgaiW9qCv4vhUIuJiXO"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4gjEOyzw5Zwqc2fjFKyX7a"
@@ -1133,7 +1165,7 @@
       "url": "https://open.spotify.com/track/3VFCT5TD5P9HQQIIEPcaiY"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Blink Of An Eye",
         "url": "https://open.spotify.com/album/3k5r1aVVzWQVjufWyUMhYn"
@@ -1149,7 +1181,7 @@
       "url": "https://open.spotify.com/track/7bwF8qvBd0DAquB1DVNSfV"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Sights",
         "url": "https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt"
@@ -1165,7 +1197,7 @@
       "url": "https://open.spotify.com/track/5UNnhT9Ni6tW72zFLADsjy"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "The Dove",
         "url": "https://open.spotify.com/album/6kanlvfIHHu37y1qIO7iES"
@@ -1181,7 +1213,7 @@
       "url": "https://open.spotify.com/track/1z2cIPvykmRJQ99WG7Qytb"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Fluffy",
         "url": "https://open.spotify.com/album/0f7giVEcSFX5FY3rhAsBAj"
@@ -1197,7 +1229,7 @@
       "url": "https://open.spotify.com/track/0s050M5SSv4hLyZ73cg5oh"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/54DHQYXClTlX7eLvZEIDpm"
@@ -1213,23 +1245,7 @@
       "url": "https://open.spotify.com/track/0ELTOaYhHtq56Uy7VWsPlf"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
-      "album": {
-        "name": "Clearance",
-        "url": "https://open.spotify.com/album/2lr8LMPGi0bBjonBfjYbfW"
-      },
-      "artists": [
-        {
-          "name": "Dan Awy",
-          "url": "https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z"
-        }
-      ],
-      "duration_ms": 167005,
-      "name": "Clearance",
-      "url": "https://open.spotify.com/track/2rgLD7uyW4vmHsWptsALZx"
-    },
-    {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "A New Era",
         "url": "https://open.spotify.com/album/2AcPTc3JI0rJnBRDoM87wZ"
@@ -1245,7 +1261,7 @@
       "url": "https://open.spotify.com/track/4lwDpwThA5vnN3dwi3dQIC"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "So Solar",
         "url": "https://open.spotify.com/album/4vwYFBcuYQEJ4HdxkVc66t"
@@ -1261,7 +1277,7 @@
       "url": "https://open.spotify.com/track/1El70dxYc3YFC4QsXkxpbp"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "It's all clear now",
         "url": "https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA"
@@ -1277,7 +1293,7 @@
       "url": "https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Below Surface",
         "url": "https://open.spotify.com/album/1MiaH6pbnmXy8kQQ8SK6cg"
@@ -1293,27 +1309,7 @@
       "url": "https://open.spotify.com/track/7tK5mSBltgvDJ6CBuaPvi1"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
-      "album": {
-        "name": "Chateau (Holmsey Remix)",
-        "url": "https://open.spotify.com/album/4RdQAts3q3WmEJmZKNjdUK"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        },
-        {
-          "name": "Holmsey",
-          "url": "https://open.spotify.com/artist/1MLYmLwA6D9xQUwsHdDYKI"
-        }
-      ],
-      "duration_ms": 240083,
-      "name": "Chateau - Holmsey Remix",
-      "url": "https://open.spotify.com/track/1J2IGKsTJZDRy1MO3DJPsG"
-    },
-    {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Faro",
         "url": "https://open.spotify.com/album/6PfCd47IGXI9k07OhWkJe4"
@@ -1329,7 +1325,7 @@
       "url": "https://open.spotify.com/track/3UUVf6kCaIXaDADINeYQ4V"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Late Night Drive",
         "url": "https://open.spotify.com/album/6ikx7SA8o6QkKFDNm49EVx"
@@ -1345,7 +1341,7 @@
       "url": "https://open.spotify.com/track/3NlSubv9Tt65poMGalbqiZ"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Flawless",
         "url": "https://open.spotify.com/album/7ymPGmNjcueeThs05uQVNs"
@@ -1361,23 +1357,7 @@
       "url": "https://open.spotify.com/track/18QHvKoP8RZDE6kWYWwd04"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
-      "album": {
-        "name": "Deeper Spheres",
-        "url": "https://open.spotify.com/album/31jWTV8wMy7Q12z5ENEWWl"
-      },
-      "artists": [
-        {
-          "name": "Dupl\u00e9",
-          "url": "https://open.spotify.com/artist/1Mxkl3Mm7sbelsKWiXTfSf"
-        }
-      ],
-      "duration_ms": 149875,
-      "name": "Deeper Spheres",
-      "url": "https://open.spotify.com/track/1pKglyymqDNY0yXIv94ztW"
-    },
-    {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Washed Away",
         "url": "https://open.spotify.com/album/3ZRqvvAjiVDWms9WPCebXq"
@@ -1393,7 +1373,7 @@
       "url": "https://open.spotify.com/track/1e0Q9veokrlQKVTiKv3jLx"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Ap\u00e9ritif",
         "url": "https://open.spotify.com/album/3fNgLQ8XzeOW9HMI8AXykN"
@@ -1409,7 +1389,7 @@
       "url": "https://open.spotify.com/track/4SKLUEuuVz456xe7QZkEQo"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Pink Skies",
         "url": "https://open.spotify.com/album/4fZ80kzntY4IOkBtsNKR1t"
@@ -1425,23 +1405,7 @@
       "url": "https://open.spotify.com/track/4MXVuIpQgFNBPABhYu2VFG"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
-      "album": {
-        "name": "Growing",
-        "url": "https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w"
-      },
-      "artists": [
-        {
-          "name": "Hazel Calm",
-          "url": "https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl"
-        }
-      ],
-      "duration_ms": 160862,
-      "name": "Growing",
-      "url": "https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN"
-    },
-    {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Amalfi",
         "url": "https://open.spotify.com/album/3GUtE7Dy2XpyOdg1V8uTuF"
@@ -1457,7 +1421,7 @@
       "url": "https://open.spotify.com/track/19QYUIYkUEyIixnSbVej4W"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Neon Nights",
         "url": "https://open.spotify.com/album/6Lmhs1md6vMsXCpeSdV5V8"
@@ -1473,7 +1437,7 @@
       "url": "https://open.spotify.com/track/599yBUnBYNhb1t656mqKUY"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/4puVnK4L2kmdacIudsFgn3"
@@ -1489,7 +1453,7 @@
       "url": "https://open.spotify.com/track/0Hj0kGeZLDahlACb0Rp19P"
     },
     {
-      "added_at": "2021-11-11 11:10:49",
+      "added_at": "2022-01-21 10:42:37",
       "album": {
         "name": "Heart On Fire",
         "url": "https://open.spotify.com/album/2J5jKANI4Taz8H9N5qKTuN"
@@ -1503,22 +1467,6 @@
       "duration_ms": 148800,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/2v1GOkolx37zgMzwNBf9FG"
-    },
-    {
-      "added_at": "2021-11-11 11:10:49",
-      "album": {
-        "name": "Swerve",
-        "url": "https://open.spotify.com/album/6mjJf2GE64QAdr8LQFEznF"
-      },
-      "artists": [
-        {
-          "name": "Molife",
-          "url": "https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3"
-        }
-      ],
-      "duration_ms": 191441,
-      "name": "Swerve",
-      "url": "https://open.spotify.com/track/2w2UDzxOhiujUtZjTxeODU"
     }
   ],
   "unique_name": "Pilates Lounge",

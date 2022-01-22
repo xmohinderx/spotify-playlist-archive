@@ -1674,6 +1674,24 @@
     },
     {
       "album": {
+        "name": "Dollar Menu",
+        "url": "https://open.spotify.com/album/3aQjgylGN3kd7rTPsi6gaK"
+      },
+      "artists": [
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Maslow's Hammer",
+      "url": "https://open.spotify.com/track/15gPvZFGYcznrSDxyv7zjC"
+    },
+    {
+      "album": {
         "name": "Meant To Put A Hook",
         "url": "https://open.spotify.com/album/4KFqNsknXZpc62mTylzKgh"
       },
@@ -2685,6 +2703,24 @@
       "duration_ms": 191088,
       "name": "What's Life - From \"Liberated / Music For the Movement Vol. 3\"",
       "url": "https://open.spotify.com/track/2VfMFlfRbk2BAQ9sBZALg3"
+    },
+    {
+      "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/5K3nW7r2TR5BE0ws6Xpats"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boone",
+          "url": "https://open.spotify.com/artist/6aQVqPrSgYTlUKGI5lD5NO"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/3M2gIudnbke08mHonTJE4h"
     },
     {
       "album": {

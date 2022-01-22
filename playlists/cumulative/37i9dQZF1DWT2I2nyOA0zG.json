@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Satin Cassette",
+        "url": "https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV"
+      },
+      "artists": [
+        {
+          "name": "Turunesh",
+          "url": "https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237001,
+      "name": "Coco Marijuana",
+      "url": "https://open.spotify.com/track/6mXIES5HmXDyD4tpEch0bB"
+    },
+    {
+      "album": {
         "name": "Confident",
         "url": "https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23"
       },

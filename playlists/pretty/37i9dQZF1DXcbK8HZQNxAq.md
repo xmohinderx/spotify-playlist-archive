@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbK8HZQNxAq.md) - [plain]
 
 > 50 highlights of classical music composed in the new millennium\. Find more <a href="https://open.spotify.com/user/spotify/playlist/1SBY0rHT0QjEtrzSNFzpMM">contemporary</a>, <a href="spotify:user:danielstahl:playlist:7ijkPw3lLKPW6k3qee38Ki">avant\-garde</a> and <a href="spotify:user:spotify:playlist:5YuLa2rxwWrILo5KKHGCwX">minimalism</a> playlists at our <a href="http://open.spotify.com/genre/classical">Classical Hub</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,253 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,265 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbK8HZQNxAq.md) - [plain]
 | 49 | [Piano Quintet: I.](https://open.spotify.com/track/0jTMecvifftaRY9jNRmCWF) | [Paul Moravec](https://open.spotify.com/artist/2YZmIRpxILQkI2jteKnLPL), [Jeremy Denk](https://open.spotify.com/artist/6aMKh0D0j5K7z1ECYRHvJP) | [Composing America: The Lark Quartet](https://open.spotify.com/album/0etvNb82gxd2uKhprEmIhz) | 6:59 |
 | 50 | [Praying Mantis Rag](https://open.spotify.com/track/276cedahJSV9upz70oWzed) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [ZOFO Duet](https://open.spotify.com/artist/425BUMYfrcoz4wt4EoUGbD) | [ZOFO Plays Terry Riley](https://open.spotify.com/album/5cJY3U9hu3tWBgsi4piWQS) | 3:28 |
 
-Snapshot ID: `MTU2ODAxODAzMCwwMDAwMDAwNzAwMDAwMTVkYzcxNzE0ODEwMDAwMDE2ZDE1Mjg1ZmE3`
+Snapshot ID: `MTY0Mjc3MzIxNywwMDAwMDAwODAwMDAwMTdlN2NlYTAxMTUwMDAwMDE2ZDE1Mjg1ZmE3`

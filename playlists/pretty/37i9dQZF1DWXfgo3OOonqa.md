@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,989 likes - 85 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,097 likes - 85 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MANO](https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MANO](https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1) | 2:48 |
 | 2 | [Milli](https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Milli](https://open.spotify.com/album/6CakrPkzkMk0W7KJwdugiG) | 2:07 |
-| 3 | [BIRTHDAY](https://open.spotify.com/track/7brJxWOSabtVprDJgDLEID) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [BIRTHDAY](https://open.spotify.com/album/5q0C9bAbbT2hWvZ49CGPYT) | 2:15 |
+| 3 | [BIRTHDAY](https://open.spotify.com/track/7brJxWOSabtVprDJgDLEID) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [BIRTHDAY](https://open.spotify.com/album/5q0C9bAbbT2hWvZ49CGPYT) | 2:15 |
 | 4 | [M5](https://open.spotify.com/track/5S3JUCSK7SAkjEW7yoqjlP) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Sin City](https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C) | 2:24 |
 | 5 | [Faller Ner](https://open.spotify.com/track/42BbDNhLL4mCCezhEtE8YD) | [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT) | [Faller Ner](https://open.spotify.com/album/7p83WB1Z0pHzhNDQCO8Gqg) | 2:10 |
 | 6 | [Young 22](https://open.spotify.com/track/3e5A5YzIZ8RqieoVYkJHbD) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Young 22](https://open.spotify.com/album/6Luyszm1YWHAhptPEynPgt) | 2:30 |
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 12 | [Nia Mondo](https://open.spotify.com/track/1Jo3Bw7VeDV9ZbnpONK0Ca) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Dree Low](https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy) | [Nia Mondo](https://open.spotify.com/album/7DLJtZ2jt4os2dgLZxmH5P) | 2:17 |
 | 13 | [BLOCK](https://open.spotify.com/track/05yJ4zGSH2HP9cSVE4pfOW) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [AREA 36](https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP) | 2:20 |
 | 14 | [Foxy \(feat\. PABI\)](https://open.spotify.com/track/4MiFfAn85FcJBKB52Ucux8) | [Imenella](https://open.spotify.com/artist/6IuS73qKuYfrYqA5g5iq0h), [PABI](https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8) | [Foxy \(feat\. PABI\)](https://open.spotify.com/album/1gztWrd3PxGKHBYtKwkZK3) | 2:12 |
-| 15 | [ABTI](https://open.spotify.com/track/7K5thlHoo7jAHoXj8cutYO) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls) | [ABTI](https://open.spotify.com/album/2eJfXQe2OSLmOtmEhRI4EF) | 2:46 |
+| 15 | [ABTI](https://open.spotify.com/track/7K5thlHoo7jAHoXj8cutYO) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls), [Masse](https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN) | [ABTI](https://open.spotify.com/album/2eJfXQe2OSLmOtmEhRI4EF) | 2:46 |
 | 16 | [Paparazzi](https://open.spotify.com/track/5HfICLgQFsCltw5f9nWFtd) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Paparazzi](https://open.spotify.com/album/4gGBV89v9lf8UxOkhqr6Ea) | 2:11 |
 | 17 | [RIDER](https://open.spotify.com/track/6dx0d36ID1nrusuAUqcaEv) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Sin City](https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C) | 2:22 |
 | 18 | [GANG](https://open.spotify.com/track/6cB9W7SlW99z9bPmF8BUWE) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw) | [GANG](https://open.spotify.com/album/7hrYjHRWdBWVQTEOjaJqEt) | 2:25 |

@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 225107,
       "name": "Abrazame",
       "url": "https://open.spotify.com/track/7FHfSx42RG2pomI48MIdIQ"
@@ -35,7 +35,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 214506,
       "name": "Ag\u00fcita",
       "url": "https://open.spotify.com/track/2QCQvMPXfoTGTP5wAYGvzP"
@@ -71,7 +71,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 191712,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 217494,
       "name": "Amor de Verdad",
       "url": "https://open.spotify.com/track/4nJ3IvzpHPCUPzQ0oUf2L2"
@@ -115,6 +115,46 @@
       "duration_ms": 207700,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC"
+    },
+    {
+      "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206346,
+      "name": "Boquita de Caramelo",
+      "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
+    },
+    {
+      "album": {
+        "name": "Chau",
+        "url": "https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        },
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145516,
+      "name": "Chau",
+      "url": "https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ"
     },
     {
       "album": {
@@ -151,6 +191,28 @@
       "duration_ms": 211026,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+    },
+    {
+      "album": {
+        "name": "Como Se Perdona",
+        "url": "https://open.spotify.com/album/4LVcRBqApX5GeKMwZfPZGs"
+      },
+      "artists": [
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        },
+        {
+          "name": "Flor de Cumbia fc",
+          "url": "https://open.spotify.com/artist/1eWxlt7kEJNeD94kmqkV2N"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246101,
+      "name": "Como Se Perdona",
+      "url": "https://open.spotify.com/track/52hNmGfSHnXUh8pjYgSjtU"
     },
     {
       "album": {
@@ -334,6 +396,42 @@
     },
     {
       "album": {
+        "name": "Donde Estas",
+        "url": "https://open.spotify.com/album/2josnzGzDa3cSeWJndXVEj"
+      },
+      "artists": [
+        {
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175615,
+      "name": "Donde Estas",
+      "url": "https://open.spotify.com/track/3yc2mUwr91MyZDkq98pVLQ"
+    },
+    {
+      "album": {
+        "name": "El Amor de Mi Vida",
+        "url": "https://open.spotify.com/album/58gUcwnLfDnm24H7jXBliQ"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243882,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/0rjqLLOngwqS41api7EipQ"
+    },
+    {
+      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB"
       },
@@ -511,7 +609,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 177533,
       "name": "Esa Malvada",
       "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
@@ -594,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Grabada en Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3sFG1c5NgvJCow48WphhDA"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169213,
+      "name": "Grabada en Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5QfJefR5mjd95r2764uMmV"
+    },
+    {
+      "album": {
         "name": "Hawai",
         "url": "https://open.spotify.com/album/6mjTIBHjNtyQWwBrwrC6Kw"
       },
@@ -627,10 +743,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 181760,
       "name": "Indiferente",
       "url": "https://open.spotify.com/track/7G00AWh0XZS09lrMdpEcE2"
+    },
+    {
+      "album": {
+        "name": "Juntos a la Par",
+        "url": "https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        },
+        {
+          "name": "Natalia Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146834,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5"
     },
     {
       "album": {
@@ -649,6 +787,24 @@
       "duration_ms": 189152,
       "name": "Jurabas Tu",
       "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
+    },
+    {
+      "album": {
+        "name": "Solo un Momento",
+        "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234257,
+      "name": "La Almohada",
+      "url": "https://open.spotify.com/track/12CKvZLUeSWW8YLKNmRmPo"
     },
     {
       "album": {
@@ -822,6 +978,24 @@
     },
     {
       "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
+    },
+    {
+      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8"
       },
@@ -876,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "En la Ciudad de los Vivos",
+        "url": "https://open.spotify.com/album/0XFTJkowScmes6JNyNU7Jz"
+      },
+      "artists": [
+        {
+          "name": "La Repandilla",
+          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236801,
+      "name": "Muero por T\u00ed",
+      "url": "https://open.spotify.com/track/6m4NW0zaih9VGpRDnsTbp4"
+    },
+    {
+      "album": {
         "name": "Sin mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
       },
@@ -927,6 +1119,28 @@
       "duration_ms": 190266,
       "name": "No Es Mi Despedida",
       "url": "https://open.spotify.com/track/4Eyw6tmKn3JHAlOBo60iQU"
+    },
+    {
+      "album": {
+        "name": "No Fue Culpa Mia",
+        "url": "https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        },
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228565,
+      "name": "No Fue Culpa Mia",
+      "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
     },
     {
       "album": {
@@ -1017,7 +1231,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 250760,
       "name": "Nunca me Faltes",
       "url": "https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW"
@@ -1187,7 +1401,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 167549,
       "name": "Que Nos Volvamos a Ver",
       "url": "https://open.spotify.com/track/1XfNFAgKsVHh0yAS8CHPv6"
@@ -1263,6 +1477,24 @@
       "duration_ms": 206333,
       "name": "Ser\u00e1 Porque Te Amo",
       "url": "https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1ora",
+        "url": "https://open.spotify.com/album/4hQ4VYg0smShJl3iEY42tI"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218128,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz"
     },
     {
       "album": {
@@ -1436,6 +1668,24 @@
     },
     {
       "album": {
+        "name": "Cl\u00e1sicos de Siempre",
+        "url": "https://open.spotify.com/album/5t03hqWU2j6Qox3vHbg270"
+      },
+      "artists": [
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79594,
+      "name": "Tiene Espinas el Rosal",
+      "url": "https://open.spotify.com/track/6p3lVBHIY9nHJgVaOoMLU6"
+    },
+    {
+      "album": {
         "name": "No Me Digas Adios",
         "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
       },
@@ -1487,6 +1737,24 @@
       "duration_ms": 350354,
       "name": "Tributo A Grupo Trinidad Bonus Track / Zorros Amantes / Qui\u00e9n Te Quiere / Es Una Noche Para Amar / Conversemos",
       "url": "https://open.spotify.com/track/6q5U7c1J8Ec53YGQh0l2Bm"
+    },
+    {
+      "album": {
+        "name": "Enamorada y Loca",
+        "url": "https://open.spotify.com/album/07UKRZ4qhxWZlichi47U2R"
+      },
+      "artists": [
+        {
+          "name": "Natalia Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199444,
+      "name": "Tu Me Obligaste",
+      "url": "https://open.spotify.com/track/1gSwrI4t1a9gxSZNK6yvOY"
     },
     {
       "album": {
@@ -1591,7 +1859,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 219488,
       "name": "Vagabundo y So\u00f1ador",
       "url": "https://open.spotify.com/track/3QgwN8NQrf1bRjaR82002L"
@@ -1609,7 +1877,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 204250,
       "name": "Vas a Llorar",
       "url": "https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX"
@@ -1627,7 +1895,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 188966,
       "name": "Vengo de la Casa de Ella",
       "url": "https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC"
@@ -1699,7 +1967,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 217293,
       "name": "Ya Lleg\u00f3 el Sabor",
       "url": "https://open.spotify.com/track/6L7yows5K4HrSZnz3yppeC"
@@ -1721,7 +1989,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 213600,
       "name": "Ya Me Entere",
       "url": "https://open.spotify.com/track/7IqU3VnEGCta6yVb7peofO"
@@ -1743,7 +2011,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-22",
       "duration_ms": 215727,
       "name": "Ya No Quiero Tu Amor",
       "url": "https://open.spotify.com/track/727YOg5FXQRHGWuVQzA1fc"

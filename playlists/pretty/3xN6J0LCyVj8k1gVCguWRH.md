@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes 2020 edition &amp; bonuses\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,327 likes - 116 songs - 7 hr 22 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,317 likes - 126 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,9 +120,19 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 110 | [Turnaround](https://open.spotify.com/track/2Z3glNCD1XzgZincZ7ah0x) | [williamXnigel](https://open.spotify.com/artist/6rVLePq4RXwJ78aTtd6yps) | [Turnaround](https://open.spotify.com/album/6sOPadoT1XNm76Q4yhsGEQ) | 3:55 |
 | 111 | [The Night is Young \- Remix](https://open.spotify.com/track/2u2RyJu64geXfFL0YMXXPM) | [Daemon](https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt), [Zech Biship](https://open.spotify.com/artist/0rPAd3q71tIiLr8iS2ZHIx) | [With the Gang b/w The Night is Young \(Remix\)](https://open.spotify.com/album/46rZzXplrgOyPR0c8KNMqX) | 2:55 |
 | 112 | [Kids of Summer](https://open.spotify.com/track/6jDe9fs00m9fo5raYmrwaA) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Kids of Summer](https://open.spotify.com/album/2BZvcY82oDXIpY71k1msWS) | 4:31 |
-| 113 | [Some of That](https://open.spotify.com/track/2rwn9xJsQy2i7sOWKEQrY7) | [Sylvan Paul](https://open.spotify.com/artist/4lPYVNXkOEjmC9dlniLDU1) | [Some of That](https://open.spotify.com/album/6fhEdGGa0tgELbJ0psbqBP) | 4:16 |
-| 114 | [LuLu Lemon \(Club Remix\)](https://open.spotify.com/track/7FwQw1LFaxK4yNJpTtyPM4) | [Master Yeti](https://open.spotify.com/artist/1xR2S5GSN26FYw6KuytiGU) | [LuLu Lemon \(Club Remix\)](https://open.spotify.com/album/6YkRZxsN4V0Ll5NhV6TnAH) | 2:29 |
-| 115 | [Buy Yourself a Dream](https://open.spotify.com/track/5lmkwCsjIAqlgbPn8RJ3aG) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Buy Yourself a Dream](https://open.spotify.com/album/4VTvz0ONIdFCdnYpw81SVk) | 4:08 |
-| 116 | [I'm Ok](https://open.spotify.com/track/5jBLoyyfD4ZzQ1WZhJGRPb) | [Emma Kern](https://open.spotify.com/artist/5D9sDxufqccO7Kb7GmOhKz) | [80 Fenway](https://open.spotify.com/album/09YHB71puDqaIJinUFZEzt) | 3:31 |
+| 113 | [Crusade](https://open.spotify.com/track/22Ywfn4Ja2zWpQqjpSEmqU) | [Max Green](https://open.spotify.com/artist/2dzz9G09zy2vDqCFo1emQd) | [Take Care](https://open.spotify.com/album/6hQcfoz14uxwpdcUQFQHLf) | 3:14 |
+| 114 | [Change](https://open.spotify.com/track/19wEdcAOc7CW3atVhWkIEY) | [Asha Musica](https://open.spotify.com/artist/4pqusCcSXoxjHG5C2ldoMx) | [Change](https://open.spotify.com/album/09AFNFpM93JnlVxoz7fndo) | 1:52 |
+| 115 | [Some of That](https://open.spotify.com/track/2rwn9xJsQy2i7sOWKEQrY7) | [Sylvan Paul](https://open.spotify.com/artist/4lPYVNXkOEjmC9dlniLDU1) | [Some of That](https://open.spotify.com/album/6fhEdGGa0tgELbJ0psbqBP) | 4:16 |
+| 116 | [Stolen Love](https://open.spotify.com/track/6WEljiBGH3k6ywCqhtEb08) | [Bradley Denniston](https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh) | [Stolen Love](https://open.spotify.com/album/6DkbpFdoKedFhVy3oi9W61) | 2:48 |
+| 117 | [When You Go Away](https://open.spotify.com/track/1gYzK3NOfcxqKCIX6i3e7W) | [ALEX IVA](https://open.spotify.com/artist/7AHuMxR95Sx5O1uJdfsCkN), [Chester Young](https://open.spotify.com/artist/3u45rXhQ0o9pUL24xlnf6e) | [When You Go Away](https://open.spotify.com/album/6rqx4UKOWY4bYnO3BSvI8t) | 2:40 |
+| 118 | [Love Addict](https://open.spotify.com/track/03A6i622Lfu60Osve7cvqN) | [Max Green](https://open.spotify.com/artist/2dzz9G09zy2vDqCFo1emQd) | [Love Addict](https://open.spotify.com/album/7sUl8k8kZJ48CHNDaQ48tt) | 3:38 |
+| 119 | [ILYK](https://open.spotify.com/track/2bGw5XLC8Pd62W9ltUvXG3) | [Indi Faulkner](https://open.spotify.com/artist/7AETAXt2VZjJIf8axgm6GZ) | [ILYK](https://open.spotify.com/album/3WcgeP0Fzt1LsAleQi9E0j) | 2:27 |
+| 120 | [Feel Alright](https://open.spotify.com/track/503wBuHZS6Y0NeMU5x5ORS) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Feel Alright](https://open.spotify.com/album/1nSygjYUhxXUFHPL81Crz5) | 2:22 |
+| 121 | [LuLu Lemon \(Club Remix\)](https://open.spotify.com/track/7FwQw1LFaxK4yNJpTtyPM4) | [Master Yeti](https://open.spotify.com/artist/1xR2S5GSN26FYw6KuytiGU) | [LuLu Lemon \(Club Remix\)](https://open.spotify.com/album/6YkRZxsN4V0Ll5NhV6TnAH) | 2:29 |
+| 122 | [Bye\-Ya](https://open.spotify.com/track/3V5sNDS0lWlpXmznn9ICi6) | [Chris Greco](https://open.spotify.com/artist/71IGzwmyuS9Rz2Jn0IB4El) | [Standards, Vol\. 1](https://open.spotify.com/album/2ohO88cy2MDYLhvg9lgcet) | 7:00 |
+| 123 | [Don't Cry](https://open.spotify.com/track/7epHYaw8EVjnUwtn1qfMTN) | [Daisy Gray](https://open.spotify.com/artist/7hQeIIUp0TXkNgxPZzF7Th) | [Don't Cry](https://open.spotify.com/album/7bGKmIXE9JPgak1iv4Xpvl) | 3:12 |
+| 124 | [Buy Yourself a Dream](https://open.spotify.com/track/5lmkwCsjIAqlgbPn8RJ3aG) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Buy Yourself a Dream](https://open.spotify.com/album/4VTvz0ONIdFCdnYpw81SVk) | 4:08 |
+| 125 | [Breathe Down](https://open.spotify.com/track/6dQTGUalaTOJ58vHX5yuTn) | [Kira Rizavi](https://open.spotify.com/artist/5nZkybKpjeomEBzD2p5MP4) | [Breathe Down](https://open.spotify.com/album/5ZaIY5MtWakgt06n4vPeo1) | 3:35 |
+| 126 | [I'm Ok](https://open.spotify.com/track/5jBLoyyfD4ZzQ1WZhJGRPb) | [Emma Kern](https://open.spotify.com/artist/5D9sDxufqccO7Kb7GmOhKz) | [80 Fenway](https://open.spotify.com/album/09YHB71puDqaIJinUFZEzt) | 3:31 |
 
-Snapshot ID: `MjM3MCxmMmViMDQzMzBjYjVkNTFhODIyMjcxMGY1MGYwYjU2MWU0YWVlNGY3`
+Snapshot ID: `MjM4MCxlYzM1N2UyNjliYjQwMTAxYWQxZGE5N2I4YmJlOGFlYzJkNWNjYThl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Winno; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,350 likes - 93 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,357 likes - 93 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
