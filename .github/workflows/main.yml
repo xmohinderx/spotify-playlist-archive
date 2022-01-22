@@ -12,6 +12,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          # Also fetch the second-to-last commit so the script can determine,
+          # via git commands, which files changed in the most recent commit
+          fetch-depth: 2
 
       - name: Set up Python
         uses: actions/setup-python@v2
