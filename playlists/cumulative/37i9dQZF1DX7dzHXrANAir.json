@@ -27,7 +27,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 454774,
       "name": "(flake)",
       "url": "https://open.spotify.com/track/2B6fPIjcfa0Ddf06dPHE3T"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 304934,
       "name": "999 Renaissance",
       "url": "https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2"
@@ -99,10 +99,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 203994,
       "name": "A Light Without Flame",
       "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
+    },
+    {
+      "album": {
+        "name": "Bird's Tail (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
+      },
+      "artists": [
+        {
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343893,
+      "name": "Bird's Tail - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
     },
     {
       "album": {
@@ -239,7 +261,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
@@ -387,7 +409,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 148600,
       "name": "De Luce Et Umbra",
       "url": "https://open.spotify.com/track/0SslNpasndxgkQRvqSgC6N"
@@ -423,7 +445,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 161045,
       "name": "Deteketei Lambert",
       "url": "https://open.spotify.com/track/0tT7d3m0STxsg21oYWL0T8"
@@ -580,6 +602,28 @@
     },
     {
       "album": {
+        "name": "False Sunset (Todd & Klein Rework)",
+        "url": "https://open.spotify.com/album/0g51tMtR6ktoyXnqTdSaqU"
+      },
+      "artists": [
+        {
+          "name": "Infralyd",
+          "url": "https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt"
+        },
+        {
+          "name": "Todd & Klein",
+          "url": "https://open.spotify.com/artist/5G7dwcHN2RE0qHVUkJjoEz"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187850,
+      "name": "False Sunset - Todd & Klein Rework",
+      "url": "https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u"
+    },
+    {
+      "album": {
         "name": "Unfold (XXIM:EXPO #2)",
         "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
       },
@@ -675,7 +719,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 238223,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2tmqbpH32WeXK10SJdcPmP"
@@ -693,7 +737,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 236893,
       "name": "Gl\u00fchw\u00fcrmchen",
       "url": "https://open.spotify.com/track/477kAeGQunBZ16ayZmTWJT"
@@ -1176,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "Mia",
+        "url": "https://open.spotify.com/album/7pXHsOc65eOPLumjSchoCU"
+      },
+      "artists": [
+        {
+          "name": "Wide Eyed",
+          "url": "https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208307,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
+    },
+    {
+      "album": {
         "name": "Midnight Bird",
         "url": "https://open.spotify.com/album/0XwTUqzAD9cqMnKFjRhHbe"
       },
@@ -1257,6 +1319,24 @@
       "duration_ms": 195719,
       "name": "Mishkin",
       "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
+    },
+    {
+      "album": {
+        "name": "Rift",
+        "url": "https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8"
+      },
+      "artists": [
+        {
+          "name": "Hugar",
+          "url": "https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393813,
+      "name": "mist",
+      "url": "https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt"
     },
     {
       "album": {
@@ -1381,7 +1461,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 278096,
       "name": "Moving Pictures",
       "url": "https://open.spotify.com/track/5Q1k4g2pDLySYHLX8fmv29"
@@ -1417,7 +1497,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 234683,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
@@ -1511,7 +1591,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 139130,
       "name": "Overture",
       "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
@@ -1769,7 +1849,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 345482,
       "name": "Ring Out The Darkness",
       "url": "https://open.spotify.com/track/1evRU2VfGEISWDFYOwmhSO"
@@ -2107,7 +2187,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 388748,
       "name": "Vale",
       "url": "https://open.spotify.com/track/3PkvGNZ44JmojQBv5DbVIr"
@@ -2191,6 +2271,28 @@
       "duration_ms": 277021,
       "name": "We Begin",
       "url": "https://open.spotify.com/track/4f19T8vlVGjdjpuUykO1Us"
+    },
+    {
+      "album": {
+        "name": "Where Do You Get Your Dreams From?",
+        "url": "https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm"
+      },
+      "artists": [
+        {
+          "name": "Sven Laux",
+          "url": "https://open.spotify.com/artist/1uOymh5ziYDMdP8NRtGk5q"
+        },
+        {
+          "name": "Logic Moon",
+          "url": "https://open.spotify.com/artist/3cqJW0hZR5efv5YWJKVMw8"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405333,
+      "name": "Where Do You Get Your Dreams From?",
+      "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
     },
     {
       "album": {

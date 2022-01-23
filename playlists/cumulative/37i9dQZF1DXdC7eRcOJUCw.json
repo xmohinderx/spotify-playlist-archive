@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-21",
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. En portada: Guadalupe Pineda",
   "name": "Reinas del Mariachi",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "28qg7h7VtnPvoLfHcWoH3E"
+  ],
   "tracks": [
     {
       "album": {
@@ -988,6 +990,24 @@
     },
     {
       "album": {
+        "name": "Interpreta a Cornelio",
+        "url": "https://open.spotify.com/album/5H0n3617b5nsmlS2MnirRe"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122266,
+      "name": "Me Sacaron del Tenampa",
+      "url": "https://open.spotify.com/track/48CYGzE990ok1yViikWX4e"
+    },
+    {
+      "album": {
         "name": "Me Saludas A La Tuya",
         "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
       },
@@ -1627,7 +1647,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 158000,
       "name": "Una Nube",
       "url": "https://open.spotify.com/track/0riy0tZeANB530YcBpM00E"

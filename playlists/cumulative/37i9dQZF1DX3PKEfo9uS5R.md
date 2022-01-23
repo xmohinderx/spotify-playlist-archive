@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3PKEfo9uS5R.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3PKEfo9uS5R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3PKEfo9uS5R)
 
-### Pilates Lounge
+### [Pilates Lounge](https://open.spotify.com/playlist/6XgqRzFWaCNVeD21el9Hhr)
 
 > Chill house tracks to power your pilates session.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9Sl1oOOAZi8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9Sl1oOOAZi8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9Sl1oOOAZi8)
 
-### Flow Vinyasa
+### [Flow Vinyasa](https://open.spotify.com/playlist/0qQjSANZRXoluPiI47KCf5)
 
 > El mix perfecto para tu rutina de yoga.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSwZRNpP8kqb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSwZRNpP8kqb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSwZRNpP8kqb)
 
-### Mujeres del Folklore
+### [Mujeres del Folklore](https://open.spotify.com/playlist/5UWGv4wpJMH6TFVuB9O7Et)
 
 > Grandes cantoras y compositoras de nuestra tierra\. Foto: Teresa Parodi.
 

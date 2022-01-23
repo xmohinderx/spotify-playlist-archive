@@ -213,7 +213,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Blue Notes 2 (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/488HG8lR11JswT2YgcWGRB"
@@ -256,6 +256,24 @@
     },
     {
       "album": {
+        "name": "I'm Him",
+        "url": "https://open.spotify.com/album/7JgDLtQ8g7RrfNdLf4Dk2I"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130612,
+      "name": "By My Lonely",
+      "url": "https://open.spotify.com/track/25AEevSO1lu4EKMIP5Sy5p"
+    },
+    {
+      "album": {
         "name": "Clean",
         "url": "https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS"
       },
@@ -285,7 +303,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 216386,
       "name": "Dior",
       "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 230693,
       "name": "Dreams and Nightmares",
       "url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 224915,
       "name": "How I Move (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/14X1WxiHXdVRJ99cMCBzOE"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 175639,
       "name": "I Won",
       "url": "https://open.spotify.com/track/1viUV5EGlKGCiSveBfFeQg"
@@ -915,7 +933,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 183906,
       "name": "Mo Bamba",
       "url": "https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 217306,
       "name": "Money Ball",
       "url": "https://open.spotify.com/track/69a3MMNcoDtV3mmMUcB7Ou"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 182490,
       "name": "Moonwalking in Calabasas - YG Remix",
       "url": "https://open.spotify.com/track/0Ho6FZYMzklqIlRaa9LRR3"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 175729,
       "name": "Onna Come Up (feat. G Herbo) [Remix]",
       "url": "https://open.spotify.com/track/6bCWyr3C3ngZdwizTYWQTG"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 148715,
       "name": "Outside (Better Days)",
       "url": "https://open.spotify.com/track/26BMsCXJpD7eYtP7ufhApC"
@@ -1285,7 +1303,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 165640,
       "name": "Shake The Room (feat. Quavo)",
       "url": "https://open.spotify.com/track/7rSnKi58HPIVC0FVyh04Q1"
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 180320,
       "name": "Show Stop",
       "url": "https://open.spotify.com/track/2E3lXw2amDT5AdGBeYLtFs"
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 312820,
       "name": "SICKO MODE",
       "url": "https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h"
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 177864,
       "name": "Splashin",
       "url": "https://open.spotify.com/track/3KLo7ByvjCNyBrfz5DZ2mO"
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 163320,
       "name": "Suge",
       "url": "https://open.spotify.com/track/2gwkD6igEhQbDQegRCcdoB"
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 204434,
       "name": "The Jackie (with J. Cole & Lil Tjay)",
       "url": "https://open.spotify.com/track/15qKrPi4Kg0z7g9HlwWyeb"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 144935,
       "name": "VIBEZ",
       "url": "https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 123262,
       "name": "Whoopty",
       "url": "https://open.spotify.com/track/5vGLcdRuSbUhD8ScwsGSdA"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 183011,
       "name": "Woah",
       "url": "https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob"

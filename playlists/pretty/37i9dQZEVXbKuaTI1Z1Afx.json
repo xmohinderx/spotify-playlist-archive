@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - USA.",
-  "num_followers": 357324,
+  "num_followers": 357425,
   "original_name": "Viral 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk2MDgzNjE3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk2MTY1MzY3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "I Hope You're Happy",
+        "url": "https://open.spotify.com/album/3l2IrLIJKskE3AHZL1mMCU"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 179852,
+      "name": "I Hope You're Happy",
+      "url": "https://open.spotify.com/track/3hVsjwJWXLZDVi3SaOD7rU"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Public Displays Of Affection",
         "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -65,7 +81,39 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Twang",
+        "url": "https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S"
+      },
+      "artists": [
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        }
+      ],
+      "duration_ms": 201973,
+      "name": "Before I Knew It",
+      "url": "https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Jessica Darrow",
+          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Surface Pressure",
+      "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
@@ -85,23 +133,7 @@
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Jessica Darrow",
-          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Surface Pressure",
-      "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
         "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
@@ -117,23 +149,7 @@
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "TO THE MOON",
-        "url": "https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt"
-      },
-      "artists": [
-        {
-          "name": "Jnr Choi",
-          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "TO THE MOON",
-      "url": "https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Soy El Raton",
         "url": "https://open.spotify.com/album/0goe4Y1NMHxxsnXyv8ytuA"
@@ -149,7 +165,7 @@
       "url": "https://open.spotify.com/track/6VUtRAE5fkJQfWqFhEWy1H"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
         "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Dumb Crasy",
         "url": "https://open.spotify.com/album/6p6JeAnOpD69znFynUDoj0"
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/6GEz4RqQuNIOFXV2ghs1on"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Pony",
         "url": "https://open.spotify.com/album/4sypyREAQc69dg2X5XY4Df"
@@ -197,23 +213,23 @@
       "url": "https://open.spotify.com/track/6jzAkKTa5sRAcIG4N1DkV6"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
-        "name": "Shakey x off these drugs",
-        "url": "https://open.spotify.com/album/5B3bW5H5XiW9AyDBLw9xeI"
+        "name": "Vs Head Vs Heart",
+        "url": "https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8"
       },
       "artists": [
         {
-          "name": "ShakeyFunnyAzz",
-          "url": "https://open.spotify.com/artist/4CWLmkNh01ZxgBM5gDXlIx"
+          "name": "Emma Louise",
+          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
         }
       ],
-      "duration_ms": 139676,
-      "name": "Shakey x off these drugs",
-      "url": "https://open.spotify.com/track/5hbjWmsPxsoUf8xupri1g7"
+      "duration_ms": 202907,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
@@ -249,7 +265,39 @@
       "url": "https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Shakey x off these drugs",
+        "url": "https://open.spotify.com/album/5B3bW5H5XiW9AyDBLw9xeI"
+      },
+      "artists": [
+        {
+          "name": "ShakeyFunnyAzz",
+          "url": "https://open.spotify.com/artist/4CWLmkNh01ZxgBM5gDXlIx"
+        }
+      ],
+      "duration_ms": 139676,
+      "name": "Shakey x off these drugs",
+      "url": "https://open.spotify.com/track/5hbjWmsPxsoUf8xupri1g7"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
+      },
+      "artists": [
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        }
+      ],
+      "duration_ms": 102007,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Desde la Ra\u00edz",
         "url": "https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y"
@@ -265,39 +313,7 @@
       "url": "https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "Vs Head Vs Heart",
-        "url": "https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8"
-      },
-      "artists": [
-        {
-          "name": "Emma Louise",
-          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
-        }
-      ],
-      "duration_ms": 202907,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "FeniWorld",
-        "url": "https://open.spotify.com/album/7huRWNu1t17ACh7wKff326"
-      },
-      "artists": [
-        {
-          "name": "Feni",
-          "url": "https://open.spotify.com/artist/0BG5GHRIOk3B6SCBOBBAAB"
-        }
-      ],
-      "duration_ms": 190093,
-      "name": "Dumb Enough",
-      "url": "https://open.spotify.com/track/10FZrLxIGfMSDYlgplLzkg"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0"
@@ -317,27 +333,23 @@
       "url": "https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
-        "name": "FRACTALS",
-        "url": "https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI"
+        "name": "FeniWorld",
+        "url": "https://open.spotify.com/album/7huRWNu1t17ACh7wKff326"
       },
       "artists": [
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+          "name": "Feni",
+          "url": "https://open.spotify.com/artist/0BG5GHRIOk3B6SCBOBBAAB"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Spacetime (feat. NEVVE)",
-      "url": "https://open.spotify.com/track/0yotOi6EFaBal5Gy7YVcuI"
+      "duration_ms": 190093,
+      "name": "Dumb Enough",
+      "url": "https://open.spotify.com/track/10FZrLxIGfMSDYlgplLzkg"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Cherry Wine",
         "url": "https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J"
@@ -353,7 +365,7 @@
       "url": "https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Imma Celebrity",
         "url": "https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx"
@@ -369,7 +381,7 @@
       "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -385,23 +397,7 @@
       "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O"
-      },
-      "artists": [
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        }
-      ],
-      "duration_ms": 102007,
-      "name": "Haunted",
-      "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
@@ -421,7 +417,23 @@
       "url": "https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Bat Out Of Hell II: Back Into Hell",
+        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
+      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -441,7 +453,23 @@
       "url": "https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 508333,
+      "name": "Paradise By the Dashboard Light",
+      "url": "https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv"
@@ -457,7 +485,7 @@
       "url": "https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "2021 Winter SMTOWN : SMCU EXPRESS",
         "url": "https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ"
@@ -489,7 +517,43 @@
       "url": "https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "FRACTALS",
+        "url": "https://open.spotify.com/album/7hQEgIcLdBAkdyvMnC6DNI"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Spacetime (feat. NEVVE)",
+      "url": "https://open.spotify.com/track/0yotOi6EFaBal5Gy7YVcuI"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
@@ -505,43 +569,7 @@
       "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 187111,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
-      },
-      "artists": [
-        {
-          "name": "Hensonn",
-          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
-        }
-      ],
-      "duration_ms": 171384,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -565,7 +593,59 @@
       "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
+      },
+      "artists": [
+        {
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
+        }
+      ],
+      "duration_ms": 171384,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "WYD Now?",
+        "url": "https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 144666,
+      "name": "WYD Now?",
+      "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
@@ -585,39 +665,7 @@
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "WYD Now?",
-        "url": "https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "WYD Now?",
-      "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "\u6b8b\u97ff\u6563\u6b4c",
-        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "\u6b8b\u97ff\u6563\u6b4c",
-      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Episode",
         "url": "https://open.spotify.com/album/7IW9irtFutjRET02MjOjdW"
@@ -633,75 +681,39 @@
       "url": "https://open.spotify.com/track/63bmIgH9sS6sX5Sc7MetGq"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+        "name": "\u6b8b\u97ff\u6563\u6b4c",
+        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
       },
       "artists": [
         {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
+      "duration_ms": 184893,
+      "name": "\u6b8b\u97ff\u6563\u6b4c",
+      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
-        "name": "SICK!",
-        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM"
       },
       "artists": [
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
         }
       ],
-      "duration_ms": 148027,
-      "name": "2010",
-      "url": "https://open.spotify.com/track/7ze7yEV1xvxPxuPaF0oUUU"
+      "duration_ms": 590000,
+      "name": "Bat Out of Hell",
+      "url": "https://open.spotify.com/track/0VafPclbphrwh36WraHWws"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "A.M. RADIO",
-      "url": "https://open.spotify.com/track/3Jzdz9f3KAgF9z6Ov866gl"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "Flights",
-        "url": "https://open.spotify.com/album/1Fa22nkjCibBCB6PDNzojd"
-      },
-      "artists": [
-        {
-          "name": "BandoPop",
-          "url": "https://open.spotify.com/artist/3OMeFBBc6FX5Q55CxKVFjW"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 206837,
-      "name": "Flights",
-      "url": "https://open.spotify.com/track/4ZbK9nc9EOYDCPtGhOCYQc"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Counting Stars",
         "url": "https://open.spotify.com/album/4OJ5SXGLH3wIvsUsFuV8g8"
@@ -721,107 +733,7 @@
       "url": "https://open.spotify.com/track/4MokmgyM83qhJ6IAaChom5"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "Broadway Girls (feat. Morgan Wallen)",
-        "url": "https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Broadway Girls (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "Could It Get Better Than This",
-        "url": "https://open.spotify.com/album/1sewF9zfVLURBL1CEKJmMC"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 162608,
-      "name": "Just A Little While",
-      "url": "https://open.spotify.com/track/3CL0eXel8usNNSCQ6OT7KJ"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "Most Known Unknown (Explicit)",
-        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
-      },
-      "artists": [
-        {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Half On a Sack",
-      "url": "https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
-        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Super Gremlin",
-      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Beatriz",
-          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "Waiting On A Miracle",
-      "url": "https://open.spotify.com/track/3oRW9ZGPRbLRMneQ5lwflt"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/3iwjI7ycWWlC5avYcOTc46"
@@ -841,7 +753,127 @@
       "url": "https://open.spotify.com/track/3jD2vnVTRoqqsAmLRxTPxk"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
+        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Flights",
+        "url": "https://open.spotify.com/album/1Fa22nkjCibBCB6PDNzojd"
+      },
+      "artists": [
+        {
+          "name": "BandoPop",
+          "url": "https://open.spotify.com/artist/3OMeFBBc6FX5Q55CxKVFjW"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 206837,
+      "name": "Flights",
+      "url": "https://open.spotify.com/track/4ZbK9nc9EOYDCPtGhOCYQc"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Most Known Unknown (Explicit)",
+        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Half On a Sack",
+      "url": "https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        }
+      ],
+      "duration_ms": 161840,
+      "name": "Waiting On A Miracle",
+      "url": "https://open.spotify.com/track/3oRW9ZGPRbLRMneQ5lwflt"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Could It Get Better Than This",
+        "url": "https://open.spotify.com/album/1sewF9zfVLURBL1CEKJmMC"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 162608,
+      "name": "Just A Little While",
+      "url": "https://open.spotify.com/track/3CL0eXel8usNNSCQ6OT7KJ"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
+      "album": {
+        "name": "Broadway Girls (feat. Morgan Wallen)",
+        "url": "https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Broadway Girls (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd"
+    },
+    {
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo"
@@ -861,7 +893,7 @@
       "url": "https://open.spotify.com/track/61YzdCCBPM5Pc7lIiD5i8C"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
@@ -877,27 +909,7 @@
       "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
     },
     {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "SICK!",
-        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        },
-        {
-          "name": "Armand Hammer",
-          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
-        }
-      ],
-      "duration_ms": 251799,
-      "name": "Tabula Rasa (feat. Armand Hammer)",
-      "url": "https://open.spotify.com/track/5Qb5Crn9sefQ27M2lKahPM"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
+      "added_at": "2022-01-22 11:16:07",
       "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
@@ -915,26 +927,6 @@
       "duration_ms": 179940,
       "name": "Mon Amour - Remix",
       "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2022-01-21 12:33:37",
-      "album": {
-        "name": "She Likes It (feat. Jake Scott)",
-        "url": "https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        },
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 163311,
-      "name": "She Likes It (feat. Jake Scott)",
-      "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
     }
   ],
   "unique_name": "Viral 50 - USA",

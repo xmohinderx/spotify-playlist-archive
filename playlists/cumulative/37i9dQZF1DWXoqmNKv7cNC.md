@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXoqmNKv7cNC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXoqmNKv7cNC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXoqmNKv7cNC)
 
-### EQUAL México
+### [EQUAL México](https://open.spotify.com/playlist/0mSZMwxlgMCJR4zBRJxPpa)
 
 > Mujeres mexicanas a todo volumen\. En portada:  Yoss Bones
 

@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 280400,
       "name": "(I Just) Died In Your Arms",
       "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 212933,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 327533,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5LK19eRCqoKuRSVuUEhEKh"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 243226,
       "name": "Heaven in Your Eyes",
       "url": "https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 240933,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/4zXvB4MoQD8onk0NCZbeHG"
@@ -1038,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Bat Out Of Hell II: Back Into Hell",
+        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316466,
+      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
+      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
+    },
+    {
+      "album": {
         "name": "New Jersey",
         "url": "https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv"
       },
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 321266,
       "name": "I'll Cry For You",
       "url": "https://open.spotify.com/track/5fPIx4t5vomPE9cWnTL6gv"
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 385400,
       "name": "Love Walked In",
       "url": "https://open.spotify.com/track/71D2G19A2i5BYgTC31p23j"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 287400,
       "name": "Nobody's Fool",
       "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 278693,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/28FVfrALlHSChnhD8jq8kd"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 346026,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/1X1TonvQws8wxagWJmnUNj"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 300066,
       "name": "Sister Christian",
       "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 326826,
       "name": "Til Death Do Us Part",
       "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 206973,
       "name": "To Be With You",
       "url": "https://open.spotify.com/track/3TL3pr5KVEp2zhhgZKQhZc"

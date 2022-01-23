@@ -1,15 +1,35 @@
 {
   "description": "Your daily update of the most played tracks right now - Sweden.",
-  "num_followers": 586057,
+  "num_followers": 586094,
   "original_name": "Top 50 - Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk2MDczODMxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk2MTU5ODY4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "30 personer",
+        "url": "https://open.spotify.com/album/5AH0bUliZFOouNs1xoDNZ1"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        },
+        {
+          "name": "Elias Hurtig",
+          "url": "https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "30 personer",
+      "url": "https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "SOM DOM",
         "url": "https://open.spotify.com/album/4m94OnzZDqdD90RcHYBFeN"
@@ -25,7 +45,63 @@
       "url": "https://open.spotify.com/track/7rwijx2xejRaPkEXUftI11"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "Vi",
+        "url": "https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "duration_ms": 208932,
+      "name": "V\u00e5ga",
+      "url": "https://open.spotify.com/track/3XJGDjmOw5EwvOv0bV6T6e"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/5q0C9bAbbT2hWvZ49CGPYT"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Masse",
+          "url": "https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/7brJxWOSabtVprDJgDLEID"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "MANO",
+        "url": "https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "duration_ms": 168798,
+      "name": "MANO",
+      "url": "https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "Gr\u00e5ter om du vill",
         "url": "https://open.spotify.com/album/2NmGftyYl1iIEuS81urNTW"
@@ -45,7 +121,23 @@
       "url": "https://open.spotify.com/track/0FlfVeOFogL3cU4AO8xNc4"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "Sin City",
         "url": "https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C"
@@ -65,23 +157,7 @@
       "url": "https://open.spotify.com/track/5S3JUCSK7SAkjEW7yoqjlP"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "Babblarnas b\u00e4sta",
-        "url": "https://open.spotify.com/album/4PZTSQx1mkFRbjIK1bsiPK"
-      },
-      "artists": [
-        {
-          "name": "Babblarna",
-          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
-        }
-      ],
-      "duration_ms": 334053,
-      "name": "Babblarnas vaggvisa",
-      "url": "https://open.spotify.com/track/1YtBFwC4Zl5d25pslqhpgd"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -97,7 +173,7 @@
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "FUCK MITT EKS",
         "url": "https://open.spotify.com/album/2eY4rIMTU8UGFnCq1JFpZj"
@@ -113,7 +189,7 @@
       "url": "https://open.spotify.com/track/4YGMqFWObIcl5RFrqghmOz"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "Lotta & Sanna",
         "url": "https://open.spotify.com/album/4tAsGgc1Zs6vSzeVoKysgg"
@@ -129,23 +205,7 @@
       "url": "https://open.spotify.com/track/1jiDCQUaa9LmWpQJRuOWRb"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -161,79 +221,7 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "Vinterviken",
-        "url": "https://open.spotify.com/album/4bza1f2XnAhCSRYMhqQJmr"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 179460,
-      "name": "Eld & l\u00e5gor",
-      "url": "https://open.spotify.com/track/5etlUg6yiQ8565mdyrWUiP"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "08 ZOO",
-        "url": "https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 110163,
-      "name": "Trapper Of The Year (Intro) - Bonus Track",
-      "url": "https://open.spotify.com/track/5cKilVQ9iZamOzodVcYQZ2"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -257,7 +245,95 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "Vinterviken",
+        "url": "https://open.spotify.com/album/4bza1f2XnAhCSRYMhqQJmr"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "duration_ms": 179460,
+      "name": "Eld & l\u00e5gor",
+      "url": "https://open.spotify.com/track/5etlUg6yiQ8565mdyrWUiP"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "Babblarnas b\u00e4sta",
+        "url": "https://open.spotify.com/album/4PZTSQx1mkFRbjIK1bsiPK"
+      },
+      "artists": [
+        {
+          "name": "Babblarna",
+          "url": "https://open.spotify.com/artist/1aA5OGASCVhznQYm71BMYg"
+        }
+      ],
+      "duration_ms": 334053,
+      "name": "Babblarnas vaggvisa",
+      "url": "https://open.spotify.com/track/1YtBFwC4Zl5d25pslqhpgd"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "08 ZOO",
+        "url": "https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 110163,
+      "name": "Trapper Of The Year (Intro) - Bonus Track",
+      "url": "https://open.spotify.com/track/5cKilVQ9iZamOzodVcYQZ2"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -273,7 +349,7 @@
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
@@ -293,7 +369,27 @@
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 178625,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -309,31 +405,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "ABTI",
-        "url": "https://open.spotify.com/album/2eJfXQe2OSLmOtmEhRI4EF"
-      },
-      "artists": [
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
-        },
-        {
-          "name": "Aden",
-          "url": "https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls"
-        },
-        {
-          "name": "Masse",
-          "url": "https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "ABTI",
-      "url": "https://open.spotify.com/track/7K5thlHoo7jAHoXj8cutYO"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "Milli",
         "url": "https://open.spotify.com/album/6CakrPkzkMk0W7KJwdugiG"
@@ -353,7 +425,59 @@
       "url": "https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "Light Switch",
+        "url": "https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "Young 22",
+        "url": "https://open.spotify.com/album/6Luyszm1YWHAhptPEynPgt"
+      },
+      "artists": [
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Young 22",
+      "url": "https://open.spotify.com/track/3e5A5YzIZ8RqieoVYkJHbD"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "Vi",
+        "url": "https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        },
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "duration_ms": 198618,
+      "name": "V\u00e4nner",
+      "url": "https://open.spotify.com/track/1uXln6ile0AkTgeSePVaGr"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -381,7 +505,47 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "ABTI",
+        "url": "https://open.spotify.com/album/2eJfXQe2OSLmOtmEhRI4EF"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls"
+        },
+        {
+          "name": "Masse",
+          "url": "https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "ABTI",
+      "url": "https://open.spotify.com/track/7K5thlHoo7jAHoXj8cutYO"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "TOPP",
         "url": "https://open.spotify.com/album/0Gdq76sRxchoJchHllaFTX"
@@ -401,79 +565,23 @@
       "url": "https://open.spotify.com/track/3oF1ZBHm7qDn3bOxIrDEjy"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
-        "name": "DANSA",
-        "url": "https://open.spotify.com/album/5pe5edaldK4cwvH2Crjgiw"
+        "name": "Vi",
+        "url": "https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX"
       },
       "artists": [
         {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        },
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
         }
       ],
-      "duration_ms": 167500,
-      "name": "DANSA",
-      "url": "https://open.spotify.com/track/63IaMjanvXp9c3f0Y7OImT"
+      "duration_ms": 196311,
+      "name": "Ingen luft mellan oss",
+      "url": "https://open.spotify.com/track/0GYIbrTtgj7iLKJJo1ol6c"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 178625,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "AREA 36",
-        "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
-      },
-      "artists": [
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
-        }
-      ],
-      "duration_ms": 140893,
-      "name": "BLOCK",
-      "url": "https://open.spotify.com/track/05yJ4zGSH2HP9cSVE4pfOW"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -493,95 +601,27 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
-        "name": "Fl\u00e4ta/Inte mitt krig",
-        "url": "https://open.spotify.com/album/2S5O2Geie8sQjvtI7KpMI5"
+        "name": "DANSA",
+        "url": "https://open.spotify.com/album/5pe5edaldK4cwvH2Crjgiw"
       },
       "artists": [
         {
-          "name": "VC Barre",
-          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
-        }
-      ],
-      "duration_ms": 195141,
-      "name": "Fl\u00e4ta/Inte mitt krig",
-      "url": "https://open.spotify.com/track/0QovRRlEC2IiM8UXlBKhIS"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "Dirty Kalle",
-        "url": "https://open.spotify.com/album/6MdszrRxSJKK4yP2D1xiOU"
-      },
-      "artists": [
-        {
-          "name": "VC Barre",
-          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
         },
         {
-          "name": "takenoelz",
-          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
         }
       ],
-      "duration_ms": 146526,
-      "name": "Dirty Kalle",
-      "url": "https://open.spotify.com/track/2kGlp16MjSJRPbFShyTjXb"
+      "duration_ms": 167500,
+      "name": "DANSA",
+      "url": "https://open.spotify.com/track/63IaMjanvXp9c3f0Y7OImT"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2021 - Tolkningarna",
-        "url": "https://open.spotify.com/album/5yWxEeewj7wR001CMpy1cC"
-      },
-      "artists": [
-        {
-          "name": "Melissa Horn",
-          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
-        }
-      ],
-      "duration_ms": 182067,
-      "name": "L\u00e4mna honom",
-      "url": "https://open.spotify.com/track/5DkUy1ShgRHv44mXxwe6zM"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "V\u00e4nner",
-        "url": "https://open.spotify.com/album/4YmR801BCaHo4C230heArB"
-      },
-      "artists": [
-        {
-          "name": "Newkid",
-          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
-        },
-        {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
-        }
-      ],
-      "duration_ms": 198618,
-      "name": "V\u00e4nner",
-      "url": "https://open.spotify.com/track/5wMUzY8FFxQ3aHdri7uuiP"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer-Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -597,7 +637,23 @@
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "DOM SKA VETA",
+        "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 195518,
+      "name": "Vi ska aldrig g\u00e5 hem",
+      "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "AREA 36",
         "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
@@ -608,36 +664,44 @@
           "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
         }
       ],
-      "duration_ms": 129985,
-      "name": "Samma gamla vanliga",
-      "url": "https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg"
+      "duration_ms": 140893,
+      "name": "BLOCK",
+      "url": "https://open.spotify.com/track/05yJ4zGSH2HP9cSVE4pfOW"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
-        "name": "1 \u00c5R",
-        "url": "https://open.spotify.com/album/3PrLzpNOLgtYYkiqBDkRf4"
+        "name": "Fl\u00e4ta/Inte mitt krig",
+        "url": "https://open.spotify.com/album/2S5O2Geie8sQjvtI7KpMI5"
       },
       "artists": [
         {
-          "name": "1.Cuz",
-          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
-        },
-        {
-          "name": "Greekazo",
-          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
-        },
-        {
-          "name": "Yei Gonzalez",
-          "url": "https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq"
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
         }
       ],
-      "duration_ms": 182400,
-      "name": "F\u00d6RSENT",
-      "url": "https://open.spotify.com/track/6mDcLPGVCmdhMN4gBzNb7s"
+      "duration_ms": 195141,
+      "name": "Fl\u00e4ta/Inte mitt krig",
+      "url": "https://open.spotify.com/track/0QovRRlEC2IiM8UXlBKhIS"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "Bat Out Of Hell II: Back Into Hell",
+        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
+      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
@@ -661,23 +725,115 @@
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
-        "name": "Ingen luft mellan oss",
-        "url": "https://open.spotify.com/album/50pmFuV7ABGcA6cZz0Cqmt"
+        "name": "Call Me Little Sunshine",
+        "url": "https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq"
       },
       "artists": [
         {
-          "name": "Newkid",
-          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 196311,
-      "name": "Ingen luft mellan oss",
-      "url": "https://open.spotify.com/track/1SOGSI8UPEwBnqG15h6NiC"
+      "duration_ms": 284266,
+      "name": "Call Me Little Sunshine",
+      "url": "https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer-Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "1 \u00c5R",
+        "url": "https://open.spotify.com/album/3PrLzpNOLgtYYkiqBDkRf4"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        },
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        },
+        {
+          "name": "Yei Gonzalez",
+          "url": "https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "F\u00d6RSENT",
+      "url": "https://open.spotify.com/track/6mDcLPGVCmdhMN4gBzNb7s"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "Dirty Kalle",
+        "url": "https://open.spotify.com/album/6MdszrRxSJKK4yP2D1xiOU"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        },
+        {
+          "name": "takenoelz",
+          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "Dirty Kalle",
+      "url": "https://open.spotify.com/track/2kGlp16MjSJRPbFShyTjXb"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "AREA 36",
+        "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "duration_ms": 129985,
+      "name": "Samma gamla vanliga",
+      "url": "https://open.spotify.com/track/4wGFTaengFG4o6nYZAK1Xg"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2021 - Tolkningarna",
+        "url": "https://open.spotify.com/album/5yWxEeewj7wR001CMpy1cC"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "duration_ms": 182067,
+      "name": "L\u00e4mna honom",
+      "url": "https://open.spotify.com/track/5DkUy1ShgRHv44mXxwe6zM"
+    },
+    {
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
@@ -693,71 +849,7 @@
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "DOM SKA VETA",
-        "url": "https://open.spotify.com/album/1ubnXqf93xsAR7EruzPL5L"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 195518,
-      "name": "Vi ska aldrig g\u00e5 hem",
-      "url": "https://open.spotify.com/track/7iSuirVvJsBXZ95UEd9vQ0"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "Faller Ner",
-        "url": "https://open.spotify.com/album/7p83WB1Z0pHzhNDQCO8Gqg"
-      },
-      "artists": [
-        {
-          "name": "Adel",
-          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
-        }
-      ],
-      "duration_ms": 130832,
-      "name": "Faller Ner",
-      "url": "https://open.spotify.com/track/42BbDNhLL4mCCezhEtE8YD"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "F\u00e5nga mig n\u00e4r jag faller",
-        "url": "https://open.spotify.com/album/3dXd7zPtfgASvaxo0jIAtu"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        }
-      ],
-      "duration_ms": 191103,
-      "name": "Svag",
-      "url": "https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "GHOST TOWN",
-        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "GHOST TOWN",
-      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
         "name": "ANDRA SIDAN \u00c4R NI KLARA",
         "url": "https://open.spotify.com/album/2uRRdTqrjo0LdSS5WIrB1M"
@@ -773,172 +865,52 @@
       "url": "https://open.spotify.com/track/5D2ZobLrLLFcPoOWw5YE0e"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+        "name": "F\u00e5nga mig n\u00e4r jag faller",
+        "url": "https://open.spotify.com/album/3dXd7zPtfgASvaxo0jIAtu"
       },
       "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "98.01.11",
-        "url": "https://open.spotify.com/album/4lba6QTr2T6VDgZoVVM2mt"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 145882,
-      "name": "Young & Heartless",
-      "url": "https://open.spotify.com/track/6t0YIui8b5Jt8oUVOrmujk"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "PS jag hatar dig",
-        "url": "https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        },
         {
           "name": "Victor Leksell",
           "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
         }
       ],
-      "duration_ms": 193853,
-      "name": "tystnar i luren",
-      "url": "https://open.spotify.com/track/5IZGN81VVgBv1lPrjXzOD6"
+      "duration_ms": 191103,
+      "name": "Svag",
+      "url": "https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
-        "name": "Barn av v\u00e5r tid",
-        "url": "https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm"
+        "name": "GHOST TOWN",
+        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
       },
       "artists": [
         {
-          "name": "Hov1",
-          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
-        },
-        {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 165253,
-      "name": "Gamora",
-      "url": "https://open.spotify.com/track/2Gd0oV24QsH0zb9nKFx7s5"
+      "duration_ms": 193733,
+      "name": "GHOST TOWN",
+      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
     },
     {
-      "added_at": "2022-01-21 09:50:31",
+      "added_at": "2022-01-22 09:44:28",
       "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+        "name": "Faller Ner",
+        "url": "https://open.spotify.com/album/7p83WB1Z0pHzhNDQCO8Gqg"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
         }
       ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "Nia Mondo",
-        "url": "https://open.spotify.com/album/7DLJtZ2jt4os2dgLZxmH5P"
-      },
-      "artists": [
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        },
-        {
-          "name": "Dree Low",
-          "url": "https://open.spotify.com/artist/3tNPDodRNuLdezJnTsYOqy"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "Nia Mondo",
-      "url": "https://open.spotify.com/track/1Jo3Bw7VeDV9ZbnpONK0Ca"
-    },
-    {
-      "added_at": "2022-01-21 09:50:31",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Carolina Gait\u00e1n - La Gaita",
-          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
-        },
-        {
-          "name": "Mauro Castillo",
-          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
-        },
-        {
-          "name": "Adassa",
-          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
-        },
-        {
-          "name": "Rhenzy Feliz",
-          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
-        },
-        {
-          "name": "Diane Guerrero",
-          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
-        },
-        {
-          "name": "Stephanie Beatriz",
-          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
-        },
-        {
-          "name": "Encanto - Cast",
-          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "We Don't Talk About Bruno",
-      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+      "duration_ms": 130832,
+      "name": "Faller Ner",
+      "url": "https://open.spotify.com/track/42BbDNhLL4mCCezhEtE8YD"
     }
   ],
   "unique_name": "Top 50 - Sweden",

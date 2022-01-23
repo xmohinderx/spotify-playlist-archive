@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa1S1d38suSz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa1S1d38suSz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa1S1d38suSz)
 
-### Para Enamorados
+### [Para Enamorados](https://open.spotify.com/playlist/3WqtowYoqJPslwPTVPQQJV)
 
 > Tú, nosotros y esta lista de canciones\. Foto: Alejandro Sanz
 

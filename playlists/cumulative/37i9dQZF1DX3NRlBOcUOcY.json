@@ -126,6 +126,24 @@
     },
     {
       "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152080,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+    },
+    {
+      "album": {
         "name": "Apartamento",
         "url": "https://open.spotify.com/album/5RI35bX96qTZHa111QcI44"
       },
@@ -266,6 +284,32 @@
     },
     {
       "album": {
+        "name": "Buenos D\u00edas",
+        "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199826,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "album": {
         "name": "Cachito",
         "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
       },
@@ -299,7 +343,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 154635,
       "name": "Calor",
       "url": "https://open.spotify.com/track/4YGFWYHhXfCmZ3zOC22AyT"
@@ -361,10 +405,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 151506,
       "name": "CHASING THE SUN",
       "url": "https://open.spotify.com/track/4ld5JAPiiU0O4smQ0j4pAd"
+    },
+    {
+      "album": {
+        "name": "Cinderella",
+        "url": "https://open.spotify.com/album/3cu712semvh7WetMZ3h7d1"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156048,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/360cQNnbD332V4eO8GOHvA"
     },
     {
       "album": {
@@ -431,7 +493,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 228720,
       "name": "Cosas Malas",
       "url": "https://open.spotify.com/track/2MaYHbpwybBOm9CrDBfChl"
@@ -731,7 +793,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
@@ -891,7 +953,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 221121,
       "name": "IMPOSIBLE - REMIX",
       "url": "https://open.spotify.com/track/5eaLGyPrVG7FbZ5vVnBm93"
@@ -1023,7 +1085,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 250333,
       "name": "La Playa - Remix",
       "url": "https://open.spotify.com/track/70zg99pT51vB4wlMS7e4q7"
@@ -1173,7 +1235,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 266217,
       "name": "MAFIOSA",
       "url": "https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6"
@@ -1326,6 +1388,28 @@
     },
     {
       "album": {
+        "name": "No Puede Ser (with Eladio Carrion)",
+        "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191360,
+      "name": "No Puede Ser - with Eladio Carrion",
+      "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
+    },
+    {
+      "album": {
         "name": "No Quiero Na'",
         "url": "https://open.spotify.com/album/25W10UbWA1ytpETSA4BlpE"
       },
@@ -1337,7 +1421,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 145306,
       "name": "No Quiero Na'",
       "url": "https://open.spotify.com/track/6lKahGl8Y5KEoyvyTmWHvc"
@@ -1436,6 +1520,28 @@
     },
     {
       "album": {
+        "name": "Otra Botella",
+        "url": "https://open.spotify.com/album/1x1l4HTXeFzxKcRovL23h3"
+      },
+      "artists": [
+        {
+          "name": "Victor & Gabo",
+          "url": "https://open.spotify.com/artist/1jF1NAxfzCf1PeWzmVvqsx"
+        },
+        {
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166037,
+      "name": "Otra Botella",
+      "url": "https://open.spotify.com/track/7B6aEwgsjVLGrXn11mbyRe"
+    },
+    {
+      "album": {
         "name": "Otra Noche",
         "url": "https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L"
       },
@@ -1455,6 +1561,24 @@
       "duration_ms": 199120,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
+    },
+    {
+      "album": {
+        "name": "Otra Vez",
+        "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
+      },
+      "artists": [
+        {
+          "name": "Chavi Leons",
+          "url": "https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150071,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5iwezY285OvcvpWZ5DOwHc"
     },
     {
       "album": {
@@ -1513,6 +1637,24 @@
       "duration_ms": 151428,
       "name": "Pari\u0301s",
       "url": "https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3"
+    },
+    {
+      "album": {
+        "name": "Party, Humo y Alcohol",
+        "url": "https://open.spotify.com/album/21rWMBXCHKtTwBKG8NlTzc"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216446,
+      "name": "Party, Humo y Alcohol",
+      "url": "https://open.spotify.com/track/4PsWkgvetxEeApf3RBHDbV"
     },
     {
       "album": {
@@ -1589,7 +1731,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 155638,
       "name": "Poema",
       "url": "https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye"
@@ -1797,7 +1939,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 223366,
       "name": "S\u00daBELE EL VOLUMEN",
       "url": "https://open.spotify.com/track/343HgC6SVFtTAgMPlGoNjn"
@@ -1823,7 +1965,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 229513,
       "name": "Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/2Jm6Vb7FsOuzg8NVZsNik8"
@@ -1893,7 +2035,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
@@ -2024,6 +2166,40 @@
     },
     {
       "album": {
+        "name": "Un Ratito",
+        "url": "https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194906,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
+    },
+    {
+      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -2043,7 +2219,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 166929,
       "name": "UNA M\u00c1S",
       "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
@@ -2179,7 +2355,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 223643,
       "name": "Wiken",
       "url": "https://open.spotify.com/track/1O069q9wFJZ2x4CsUN6xSd"

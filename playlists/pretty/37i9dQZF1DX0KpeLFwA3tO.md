@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Mom Jeans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,080 likes - 79 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,235 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 57 | [Waiting](https://open.spotify.com/track/2TfZoYnsj6V0GAKytmNidf) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Waiting / Kill Something](https://open.spotify.com/album/7k4p5L2vlq7jdIAkB7HK8R) | 3:10 |
 | 58 | [Killin' 'Em with Kindness](https://open.spotify.com/track/033nFVwqLtv3sJwRYG3GNB) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Killin' 'Em with Kindness](https://open.spotify.com/album/4jvMG3kN89BfEUp0NK2Par) | 3:11 |
 | 59 | [Learn to Love the Lie \- Acoustic](https://open.spotify.com/track/7bBTK0paYdudfyRoHD9Obc) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Learn To Love The Lie \(Acoustic\)](https://open.spotify.com/album/0QTZtOAMSPZYqzsB7ict3N) | 3:43 |
-| 60 | [I just wanna be silent](https://open.spotify.com/track/4jCvCe2MAaPuzERi8Dzqng) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [I just wanna be silent](https://open.spotify.com/album/19cnCnUEYHC3rj71L1VgnQ) | 2:40 |
+| 60 | [I just wanna be silent](https://open.spotify.com/track/4jCvCe2MAaPuzERi8Dzqng) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [I Just Wanna Be Silent](https://open.spotify.com/album/19cnCnUEYHC3rj71L1VgnQ) | 2:40 |
 | 61 | [Crawl!](https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU) | 4:20 |
 | 62 | [Scratchcard Feeling](https://open.spotify.com/track/5B1ZMJQqtjMSJqFckLGLx8) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Scratchcard Feeling](https://open.spotify.com/album/3ZIYT6OXxH0eHrnKheNMDn) | 4:00 |
 | 63 | [Bloodsoaked in Chorus](https://open.spotify.com/track/6ON6evO0NnnpAC8dpLpSle) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Bloodsoaked in Chorus](https://open.spotify.com/album/2VwQ53cbPBS6AW18fxV4r1) | 2:41 |

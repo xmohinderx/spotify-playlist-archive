@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 220352,
       "name": "Amalfi",
       "url": "https://open.spotify.com/track/770OG2Ut5K3OvR7Ff56c9g"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 230655,
       "name": "Answer",
       "url": "https://open.spotify.com/track/09dHKj0JgQ4RdnEHL8fgst"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 213125,
       "name": "Archangel-99",
       "url": "https://open.spotify.com/track/52FMjaRWX2mHy1tPVne9c0"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 230165,
       "name": "Better Ways",
       "url": "https://open.spotify.com/track/2Ip84kMNK6QFQQ8hffed25"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 197287,
       "name": "Big City Night",
       "url": "https://open.spotify.com/track/3NyDGOFV2nI5PzYvNVC8Ga"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 228597,
       "name": "Breaking Away",
       "url": "https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 345053,
       "name": "Cygnus",
       "url": "https://open.spotify.com/track/4Vcmrf9gfHvjs3Y5ZDVGH4"
@@ -442,6 +442,24 @@
     },
     {
       "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/74Ghs1PkGtJ01bLIKKun4Y"
+      },
+      "artists": [
+        {
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128032,
+      "name": "Dancefloor Sneakers",
+      "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
+    },
+    {
+      "album": {
         "name": "Sendagi Collection",
         "url": "https://open.spotify.com/album/5PecJvf34UvJBHscOqMtsi"
       },
@@ -457,7 +475,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 235000,
       "name": "Dancing All Night",
       "url": "https://open.spotify.com/track/659mVnG0vnPHRcGLly0GyK"
@@ -565,7 +583,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 300487,
       "name": "Disco Dad",
       "url": "https://open.spotify.com/track/7nNmLybIn6Ykgvr0gevjSB"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "For You Baby",
       "url": "https://open.spotify.com/track/3xuW4dL3ZY392p78FZzfit"
@@ -745,7 +763,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 226254,
       "name": "Frame Trap",
       "url": "https://open.spotify.com/track/76zRP3MrZZi3oLlwRoNHsD"
@@ -799,7 +817,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 132485,
       "name": "Funk Dust",
       "url": "https://open.spotify.com/track/3bx3HqxlPUfINHB3UdZGun"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 238048,
       "name": "Galactica Airlines",
       "url": "https://open.spotify.com/track/2o7IjLDnjj6g837R0dKOQJ"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 215125,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
@@ -951,7 +969,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 213559,
       "name": "Groovin'",
       "url": "https://open.spotify.com/track/01TeWe9FtQOOoO1xD8idoU"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 197073,
       "name": "High Roller",
       "url": "https://open.spotify.com/track/0d6f1v0p8EHAfBpK7hb4Sa"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 369500,
       "name": "Knights",
       "url": "https://open.spotify.com/track/0QzY4pMzEuJhql5eTHjUW7"
@@ -1200,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Future Funk",
+        "url": "https://open.spotify.com/album/4ir1bVF1FAkHRl4zGLqhKj"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Le Knight Club Is Playing at My House",
+      "url": "https://open.spotify.com/track/10AA8zz84owcIoVHsFXKea"
+    },
+    {
+      "album": {
         "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
         "url": "https://open.spotify.com/album/353qG6ApXniOVm0reY8RvF"
       },
@@ -1211,7 +1247,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 201285,
       "name": "Loser",
       "url": "https://open.spotify.com/track/4mkq5l1EVz9FHf83RuYqi6"
@@ -1254,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Love Affair",
+        "url": "https://open.spotify.com/album/4yqCyRNmRu181hr4UKaI8F"
+      },
+      "artists": [
+        {
+          "name": "Chevron",
+          "url": "https://open.spotify.com/artist/5EDLo5JMi5UMCO6JjWlZdN"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Love Affair",
+      "url": "https://open.spotify.com/track/68bgd0hTguW8GtufImrhFh"
+    },
+    {
+      "album": {
         "name": "love u!!",
         "url": "https://open.spotify.com/album/3gol9bGLiZ4BS2AgPLFn8C"
       },
@@ -1283,7 +1337,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 173232,
       "name": "Lovin' Is Everywhere",
       "url": "https://open.spotify.com/track/7G8mB3zvqlOR7xDKz9BaHS"
@@ -1359,7 +1413,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 217370,
       "name": "Magic City",
       "url": "https://open.spotify.com/track/6X1znxhyue4RQikzv0nQZh"
@@ -1377,7 +1431,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 160000,
       "name": "Marquesa Sunrise",
       "url": "https://open.spotify.com/track/2l95GgTrFwitXAE8Jazxwq"
@@ -1413,7 +1467,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 246260,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/2M60hZ2tohD2Kb5q82avva"
@@ -1431,7 +1485,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 135019,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5QOhIyCkKcHzBSHLHZaF39"
@@ -1449,7 +1503,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 238064,
       "name": "Meta",
       "url": "https://open.spotify.com/track/2ZKw6mmUGhML0Ij90TZh6w"
@@ -1529,7 +1583,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 198105,
       "name": "Morale",
       "url": "https://open.spotify.com/track/7AOTewkdVbkiA8Um32t58A"
@@ -1617,7 +1671,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 238760,
       "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
       "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
@@ -1787,7 +1841,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Querelle",
       "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
@@ -1925,7 +1979,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 155750,
       "name": "Ritmo.",
       "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
@@ -1943,7 +1997,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Roses",
       "url": "https://open.spotify.com/track/1iWY5c6rZ1Nb7THshcuf6l"
@@ -1979,7 +2033,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 248890,
       "name": "Rush On Me",
       "url": "https://open.spotify.com/track/4RGIVVTf7irHT1W2mTk9rk"
@@ -2085,7 +2139,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 219135,
       "name": "Sonic Boom",
       "url": "https://open.spotify.com/track/5HooTABpv8hlCKCzJ74LTo"
@@ -2103,7 +2157,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 180000,
       "name": "Soul",
       "url": "https://open.spotify.com/track/7LoZEGOrU0h8nY6YK4fywE"
@@ -2121,7 +2175,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 176269,
       "name": "SOULLL",
       "url": "https://open.spotify.com/track/3kEfPE27bw75A4IXlr7szx"
@@ -2157,7 +2211,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 228396,
       "name": "Square Two",
       "url": "https://open.spotify.com/track/7nGEutN0d98FkCfn25IjPS"
@@ -2175,7 +2229,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 225230,
       "name": "Starcatcher",
       "url": "https://open.spotify.com/track/6zlnBXuKPuGtfemZyMGdha"
@@ -2345,7 +2399,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 227184,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/7ffZSO8kwi6QtF9lB56zOc"
@@ -2421,7 +2475,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 149508,
       "name": "The Way U Make Me Feel",
       "url": "https://open.spotify.com/track/7DpGpNYd9sZ3WT5oZWuokm"
@@ -2439,7 +2493,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 213423,
       "name": "This is Future Funk",
       "url": "https://open.spotify.com/track/0WdGwHFGmVHkXwdKVceNJL"
@@ -2612,6 +2666,32 @@
     },
     {
       "album": {
+        "name": "We The People (Skeleton Lipstick Remix)",
+        "url": "https://open.spotify.com/album/1xClQNgoXlHk5VMElYZvMK"
+      },
+      "artists": [
+        {
+          "name": "Superflat",
+          "url": "https://open.spotify.com/artist/5b4stUHH8NXrg63fgtzbT0"
+        },
+        {
+          "name": "Skeleton Lipstick",
+          "url": "https://open.spotify.com/artist/05MvGEWQ5WcQVKnaQNzjdG"
+        },
+        {
+          "name": "Skeleton Lipstick Skeleton Lipstick Remix",
+          "url": "https://open.spotify.com/artist/5IW717Qr8Ze9BEKFfHkfWD"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "We The People - Skeleton Lipstick Remix",
+      "url": "https://open.spotify.com/track/75L0L7Ke5OISvwX0RoONtI"
+    },
+    {
+      "album": {
         "name": "Bae 5",
         "url": "https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM"
       },
@@ -2627,7 +2707,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 195274,
       "name": "Welcome to the Disco",
       "url": "https://open.spotify.com/track/1aKRACWeXW0kXMhCWo35ub"
@@ -2707,7 +2787,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 234151,
       "name": "Wonka Street",
       "url": "https://open.spotify.com/track/3SFNgDdQVYzNH62Zbohj6F"
@@ -2743,7 +2823,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Yatsuro Tamashita",
       "url": "https://open.spotify.com/track/2nSIEWaJDpYhZEMciiIKUR"
@@ -2819,7 +2899,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 251638,
       "name": "Yours",
       "url": "https://open.spotify.com/track/5KZ3iSAR0Vaie08HBiM9fq"

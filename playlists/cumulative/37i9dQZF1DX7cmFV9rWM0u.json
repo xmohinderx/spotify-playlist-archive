@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-21",
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.Dance",
   "name": "Zumba\u00ae Beats",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1EX7jorEgMNF33269zGZLq"
+  ],
   "tracks": [
     {
       "album": {
@@ -323,7 +325,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 128412,
       "name": "Drop",
       "url": "https://open.spotify.com/track/1pHszNnAUuIjwF43bhtnlS"
@@ -995,7 +997,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "PAM",
       "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
@@ -1091,7 +1093,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 222868,
       "name": "Poderosa",
       "url": "https://open.spotify.com/track/1Hs0fpydWBjawdgCocPaC7"
@@ -1139,7 +1141,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 169997,
       "name": "Que Calor (feat. J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"
@@ -1165,6 +1167,28 @@
       "duration_ms": 165176,
       "name": "QueLoQue",
       "url": "https://open.spotify.com/track/0v2wlFNQNaA5O1Q5avy9MA"
+    },
+    {
+      "album": {
+        "name": "QueLoQue (feat. Paloma Mami)",
+        "url": "https://open.spotify.com/album/1ohE8YZHkUqDlihibN9ZYi"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165176,
+      "name": "QueLoQue (feat. Paloma Mami)",
+      "url": "https://open.spotify.com/track/1mqmmL4IxVBXqsjg4Er1gT"
     },
     {
       "album": {
@@ -1641,7 +1665,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 226288,
       "name": "Ya Pas\u00f3",
       "url": "https://open.spotify.com/track/3lMoR5FpjESKyDVzlKjMlm"

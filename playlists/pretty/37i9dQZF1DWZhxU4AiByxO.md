@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 
 > Enjoy some kid\-friendly pop tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,423 likes - 144 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,478 likes - 144 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 111 | [Galway Girl](https://open.spotify.com/track/0VQK2axT4qXgYd4aKCHgWx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Nothing Breaks Like A Heart](https://open.spotify.com/album/05Shj7tRwC3NtUXszdxk6t) | 2:11 |
 | 112 | [Hideaway \- from "Wonder Park"](https://open.spotify.com/track/6IoQuFTjNbpl6572b9GryH) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Hideaway \(from "Wonder Park"\)](https://open.spotify.com/album/2Tv7NyjiW3IhzoGHlIc7Nk) | 3:18 |
 | 113 | [Sucker](https://open.spotify.com/track/3mR9m0eFdErCrq0UUPA1uF) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Sucker](https://open.spotify.com/album/1498yTafVDyZjvr7UCr3j2) | 3:02 |
-| 114 | [A Whole New World \(End Title\)](https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia Ward](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 4:02 |
+| 114 | [A Whole New World \(End Title\)](https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 4:02 |
 | 115 | [7 Rings](https://open.spotify.com/track/0bahbEb9kQs9QFdjfTyDkn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [7 Rings](https://open.spotify.com/album/3k7m8Vaavz5QNR07MrOcLx) | 2:57 |
 | 116 | [Something That I Want](https://open.spotify.com/track/4D5ITfY3HH9JqIbOKsE7da) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Now! Disney 3](https://open.spotify.com/album/1vSuKTEwlEambIFmIZNBxH) | 2:43 |
 | 117 | [Finally Free \- From "Smallfoot"](https://open.spotify.com/track/7xQxjMokrYnY8n9w19FZqr) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Finally Free \(From "Smallfoot"\)](https://open.spotify.com/album/47oDAQvTvsYGXBlGJKe2O2) | 3:23 |

@@ -539,7 +539,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 181600,
       "name": "Can't Control Myself",
       "url": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh"
@@ -744,6 +744,24 @@
     },
     {
       "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171743,
+      "name": "double take",
+      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
+    },
+    {
+      "album": {
         "name": "double take",
         "url": "https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax"
       },
@@ -773,7 +791,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 235384,
       "name": "I \u0e44\u0e21\u0e48 O (IXO)",
       "url": "https://open.spotify.com/track/3VSMRXCmLmcgb4p5irSJmf"
@@ -2230,6 +2248,24 @@
     },
     {
       "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174990,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+    },
+    {
+      "album": {
         "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
         "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
       },
@@ -2477,7 +2513,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 214193,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
@@ -3422,6 +3458,32 @@
     },
     {
       "album": {
+        "name": "The Weekend (MILLI Remix)",
+        "url": "https://open.spotify.com/album/4d6HwJXZUDUPC46qWPwTbq"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        },
+        {
+          "name": "MILLI",
+          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168852,
+      "name": "The Weekend - MILLI Remix",
+      "url": "https://open.spotify.com/track/1XVQu6SXMMEJ3nc9BOGhgk"
+    },
+    {
+      "album": {
         "name": "This City Won\u2019t Be Lonely Anymore",
         "url": "https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU"
       },
@@ -4117,6 +4179,28 @@
       "duration_ms": 207804,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e02\u0e32\u0e08\u0e30\u0e23\u0e31\u0e01 (\u0e22\u0e37\u0e19\u0e40\u0e09\u0e22\u0e46\u0e40\u0e02\u0e32\u0e01\u0e47\u0e23\u0e31\u0e01)",
       "url": "https://open.spotify.com/track/261cLiqJtmRlv8NNfl162N"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD"
+      },
+      "artists": [
+        {
+          "name": "Stamp",
+          "url": "https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d feat. Violette Wautier",
+      "url": "https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ"
     },
     {
       "album": {

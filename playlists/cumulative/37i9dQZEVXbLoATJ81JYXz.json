@@ -156,6 +156,28 @@
     },
     {
       "album": {
+        "name": "30 personer",
+        "url": "https://open.spotify.com/album/5AH0bUliZFOouNs1xoDNZ1"
+      },
+      "artists": [
+        {
+          "name": "Hov1",
+          "url": "https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt"
+        },
+        {
+          "name": "Elias Hurtig",
+          "url": "https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "30 personer",
+      "url": "https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug"
+    },
+    {
+      "album": {
         "name": "Barn av v\u00e5r tid",
         "url": "https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm"
       },
@@ -1070,6 +1092,32 @@
     },
     {
       "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/5q0C9bAbbT2hWvZ49CGPYT"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        },
+        {
+          "name": "Masse",
+          "url": "https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/7brJxWOSabtVprDJgDLEID"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -1305,6 +1353,24 @@
       "duration_ms": 189671,
       "name": "By Your Side (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
+    },
+    {
+      "album": {
+        "name": "Call Me Little Sunshine",
+        "url": "https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284266,
+      "name": "Call Me Little Sunshine",
+      "url": "https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl"
     },
     {
       "album": {
@@ -3681,7 +3747,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 165253,
       "name": "Gamora",
       "url": "https://open.spotify.com/track/2Gd0oV24QsH0zb9nKFx7s5"
@@ -5038,6 +5104,24 @@
     },
     {
       "album": {
+        "name": "Bat Out Of Hell II: Back Into Hell",
+        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316466,
+      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
+      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
+    },
+    {
+      "album": {
         "name": "ICE",
         "url": "https://open.spotify.com/album/1LjrNRhhrl248ey5geuzpP"
       },
@@ -5159,7 +5243,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
@@ -5177,10 +5261,28 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 237720,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "album": {
+        "name": "Vi",
+        "url": "https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196311,
+      "name": "Ingen luft mellan oss",
+      "url": "https://open.spotify.com/track/0GYIbrTtgj7iLKJJo1ol6c"
     },
     {
       "album": {
@@ -5195,7 +5297,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 196311,
       "name": "Ingen luft mellan oss",
       "url": "https://open.spotify.com/track/1SOGSI8UPEwBnqG15h6NiC"
@@ -6276,6 +6378,24 @@
     },
     {
       "album": {
+        "name": "Light Switch",
+        "url": "https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
+    },
+    {
+      "album": {
         "name": "In The Lonely Hour (Deluxe)",
         "url": "https://open.spotify.com/album/6oSJciY7B2HlZPJpyR9nOR"
       },
@@ -6827,6 +6947,24 @@
       "duration_ms": 178625,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
+    },
+    {
+      "album": {
+        "name": "MANO",
+        "url": "https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168798,
+      "name": "MANO",
+      "url": "https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh"
     },
     {
       "album": {
@@ -7497,7 +7635,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 137647,
       "name": "Nia Mondo",
       "url": "https://open.spotify.com/track/1Jo3Bw7VeDV9ZbnpONK0Ca"
@@ -9589,7 +9727,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -10959,7 +11097,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 193853,
       "name": "tystnar i luren",
       "url": "https://open.spotify.com/track/5IZGN81VVgBv1lPrjXzOD6"
@@ -11320,6 +11458,28 @@
     },
     {
       "album": {
+        "name": "Vi",
+        "url": "https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        },
+        {
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198618,
+      "name": "V\u00e4nner",
+      "url": "https://open.spotify.com/track/1uXln6ile0AkTgeSePVaGr"
+    },
+    {
+      "album": {
         "name": "V\u00e4nner",
         "url": "https://open.spotify.com/album/4YmR801BCaHo4C230heArB"
       },
@@ -11335,10 +11495,28 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 198618,
       "name": "V\u00e4nner",
       "url": "https://open.spotify.com/track/5wMUzY8FFxQ3aHdri7uuiP"
+    },
+    {
+      "album": {
+        "name": "Vi",
+        "url": "https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208932,
+      "name": "V\u00e5ga",
+      "url": "https://open.spotify.com/track/3XJGDjmOw5EwvOv0bV6T6e"
     },
     {
       "album": {
@@ -11501,7 +11679,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
@@ -11843,10 +12021,28 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 145882,
       "name": "Young & Heartless",
       "url": "https://open.spotify.com/track/6t0YIui8b5Jt8oUVOrmujk"
+    },
+    {
+      "album": {
+        "name": "Young 22",
+        "url": "https://open.spotify.com/album/6Luyszm1YWHAhptPEynPgt"
+      },
+      "artists": [
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Young 22",
+      "url": "https://open.spotify.com/track/3e5A5YzIZ8RqieoVYkJHbD"
     },
     {
       "album": {

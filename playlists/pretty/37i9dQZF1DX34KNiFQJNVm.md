@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem John Amplificado com Maiara & Maraisa, MC Hariel e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,712,718 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,713,237 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 4 | [Pirâmide Social \- Ao Vivo](https://open.spotify.com/track/7LTg7mbOlKdMgJhkHMfgBt) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Mundão Girou \(Inéditas\) \[Ao Vivo\]](https://open.spotify.com/album/0RjQW3b9M864bJJrAjl310) | 3:33 |
 | 5 | [Quem Me Protege Não Dorme \(Papatracks\#8\)](https://open.spotify.com/track/0nW89XeE8gQfojNJn7PDhx) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Quem Me Protege Não Dorme \(Papatracks\#8\)](https://open.spotify.com/album/5eNParVm24GwzwslH1uUBv) | 3:31 |
 | 6 | [Light Switch](https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch](https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ) | 3:05 |
-| 7 | [Watercolor Eyes \- From “Euphoria” An Original HBO Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An Original HBO Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |
+| 7 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |
 | 8 | [Mensagem Apagada](https://open.spotify.com/track/64RPCbdOzT38cIVd0sJbhe) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Juntos](https://open.spotify.com/album/6iCqOANxuNAVs9ytVaskrJ) | 2:55 |
 | 9 | [Red de Maracujá](https://open.spotify.com/track/1Ox6cNiWa6diK3mIImaq1P) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Kadu Martins](https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK) | [Red de Maracujá](https://open.spotify.com/album/6vSJkKFM9XI4Pmy23P5MJO) | 2:22 |
 | 10 | [Carro Chefe da Leste](https://open.spotify.com/track/3MDve8fTNpGOGdhZ7wvMdf) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Carro Chefe da Leste](https://open.spotify.com/album/1ImWc5blhFTXxNcSvZmrcB) | 2:53 |

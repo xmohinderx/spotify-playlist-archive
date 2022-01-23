@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUyj0bHlj8N3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUyj0bHlj8N3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUyj0bHlj8N3)
 
-### Next Level
+### [Next Level](https://open.spotify.com/playlist/7GoY7XTUTKEMExoByipk3y)
 
 > Canciones y beats que te llevan al siguiente nivel.
 

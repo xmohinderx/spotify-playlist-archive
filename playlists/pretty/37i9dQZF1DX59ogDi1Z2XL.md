@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The sounds of hip\-hop coming out of Canada\. Cover: Lu\-Kusa Woe
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,904 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,928 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Gentlemen's Approach](https://open.spotify.com/track/6zlfKNfefAG5LqjigISTGJ) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [A Gentlemen's Approach](https://open.spotify.com/album/2S7oKl3TDAWKGbx7XGkneB) | 2:05 |
+| 1 | [A Gentleman's Approach](https://open.spotify.com/track/6zlfKNfefAG5LqjigISTGJ) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [A Gentleman's Approach](https://open.spotify.com/album/2S7oKl3TDAWKGbx7XGkneB) | 2:05 |
 | 2 | [Toxic](https://open.spotify.com/track/0K1n0KEWEc4hZGGAKAV4LR) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x) | [Toxic](https://open.spotify.com/album/5ijOBPULkQ6b2AtLFYiDfc) | 3:03 |
 | 3 | [P power \(feat\. Drake\)](https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DRIP SEASON 4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:13 |
 | 4 | [Pressure \(feat\. Mack 11\)](https://open.spotify.com/track/6lS2HpL86e2z3Jjkc9ahBJ) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Mack 11](https://open.spotify.com/artist/0xRO4shw3UDQE1eUGvukq0) | [Gangsta Grillz: We Set the Trends](https://open.spotify.com/album/1iIiRb8lGx4sWT6cBkwRes) | 3:41 |

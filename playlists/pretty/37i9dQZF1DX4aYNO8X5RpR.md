@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4aYNO8X5RpR.md) - [plain]
 
 > Comforting sounds of thunder and rain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,005 likes - 194 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,106 likes - 194 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 212200,
       "name": "All Of My Life",
       "url": "https://open.spotify.com/track/2D0MKE8CacgB0IdEaljccQ"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 226960,
       "name": "All Things Must Pass - 2020 Mix",
       "url": "https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp"
@@ -314,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Player",
+        "url": "https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B"
+      },
+      "artists": [
+        {
+          "name": "Player",
+          "url": "https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255845,
+      "name": "Baby Come Back",
+      "url": "https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A"
+    },
+    {
+      "album": {
         "name": "Ben",
         "url": "https://open.spotify.com/album/3j7pUFDRub9Q5NztcYKyaR"
       },
@@ -379,7 +397,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 179666,
       "name": "Bluer Than Blue",
       "url": "https://open.spotify.com/track/1cAHI9tJN6oHMdG4ghlQKY"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 238146,
       "name": "Get Closer",
       "url": "https://open.spotify.com/track/5Eq0mobXSnyWu1dpE6lSdY"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 187013,
       "name": "Heart of Gold - 2009 Remaster",
       "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 283400,
       "name": "How Much I Feel",
       "url": "https://open.spotify.com/track/3GVhCuS4BRxCTvVj4Cmc8w"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 195506,
       "name": "I Don't Believe In If Anymore",
       "url": "https://open.spotify.com/track/1fNEjmDv3eg5HSDzndJg8G"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 232120,
       "name": "Love Hurts - Single Edit",
       "url": "https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 224013,
       "name": "Northern Sky",
       "url": "https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH"
@@ -1957,6 +1975,24 @@
       "duration_ms": 216280,
       "name": "Oh Girl",
       "url": "https://open.spotify.com/track/2vEjT4ggFNc8wQ8t0pkLKF"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168106,
+      "name": "Oh My Love - Remastered 2010",
+      "url": "https://open.spotify.com/track/0gDyuX5rdHulQTUyrIdSR1"
     },
     {
       "album": {
@@ -1989,7 +2025,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 210760,
       "name": "One Less Bell To Answer",
       "url": "https://open.spotify.com/track/41WWlhyhixPIVs7s8SYdyB"
@@ -2007,7 +2043,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 184973,
       "name": "Puppy Love",
       "url": "https://open.spotify.com/track/7HWH4kGaHR3ZwKNFPT4dSW"
@@ -2303,7 +2339,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 228933,
       "name": "Sorry Seems To Be The Hardest Word",
       "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
@@ -2447,7 +2483,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 174520,
       "name": "Talking In Your Sleep",
       "url": "https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc"
@@ -2465,7 +2501,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 258133,
       "name": "That's The Way I've Always Heard It Should Be",
       "url": "https://open.spotify.com/track/4jkn5PRfAJoKfXF0OPL7n7"
@@ -2555,7 +2591,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 139226,
       "name": "The Morning After - Single Version",
       "url": "https://open.spotify.com/track/3gAdXCoPRBhIGRoa7XdyUq"
@@ -2591,7 +2627,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 291866,
       "name": "The Name Of The Game",
       "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
@@ -2609,7 +2645,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 238413,
       "name": "The Only Living Boy in New York",
       "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
@@ -3013,7 +3049,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 217533,
       "name": "You Decorated My Life",
       "url": "https://open.spotify.com/track/3gJYzy6nRvEFZPDpf074jG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > music that's hard to define but easy to love\. Cover: Holly Humberstone
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,615 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,677 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 14 | [Deer Island](https://open.spotify.com/track/7IQhSyhmcQvGAjL9G7FpwS) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Deer Island](https://open.spotify.com/album/5DUmX6Jvvr0OulQMgZhj6k) | 3:10 |
 | 15 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 |
 | 16 | [Junk Truck Head Fuck \(feat\. MAY\-A\)](https://open.spotify.com/track/3OUfmxHEPbquSsj20ZnH9l) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Junk Truck Head Fuck \(feat\. MAY\-A\)](https://open.spotify.com/album/2o01Euy0RonzKRJOyBOX2o) | 2:34 |
-| 17 | [Watercolor Eyes \- From “Euphoria” An Original HBO Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An Original HBO Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |
+| 17 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |
 | 18 | [Cowboys Don’t Cry](https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboys Don’t Cry](https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ) | 3:09 |
 | 19 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 |
 | 20 | [hurt myself](https://open.spotify.com/track/4Pxi7M3fCCBDG0EfC17eHw) | [Tommy Ice](https://open.spotify.com/artist/3AUIYVmhwrsw8UOPHEv91Z), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [hurt myself](https://open.spotify.com/album/2BOwR2blb9HlRzO9l28X4d) | 3:19 |

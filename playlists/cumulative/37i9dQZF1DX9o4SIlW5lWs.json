@@ -2,8 +2,32 @@
   "date_first_scraped": "2022-01-21",
   "description": "Al coraz\u00f3n!",
   "name": "Cumbia y Romance",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3iEESm2gcAYi2LsQmpsC4I"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Pesar del Tiempo",
+        "url": "https://open.spotify.com/album/2KafK7USLLFxO0lzqZIefi"
+      },
+      "artists": [
+        {
+          "name": "El Judas",
+          "url": "https://open.spotify.com/artist/3h49aMKOWPOWA30BOR5gaf"
+        },
+        {
+          "name": "Roc\u00edo Quiroz",
+          "url": "https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "A Pesar del Tiempo",
+      "url": "https://open.spotify.com/track/0XdgUC4vGY1veMA7vX9UTU"
+    },
     {
       "album": {
         "name": "Abrazame",
@@ -35,7 +59,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 214506,
       "name": "Ag\u00fcita",
       "url": "https://open.spotify.com/track/2QCQvMPXfoTGTP5wAYGvzP"
@@ -71,7 +95,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 191712,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
@@ -151,7 +175,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 145516,
       "name": "Chau",
       "url": "https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ"
@@ -335,7 +359,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 187393,
       "name": "De Amor Voy a Morirme",
       "url": "https://open.spotify.com/track/4E6Exumf6rVckB5Wz7dRgf"
@@ -407,7 +431,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 175615,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/3yc2mUwr91MyZDkq98pVLQ"
@@ -425,7 +449,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 243882,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/0rjqLLOngwqS41api7EipQ"
@@ -519,7 +543,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 191177,
       "name": "El Trato",
       "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
@@ -609,7 +633,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 177533,
       "name": "Esa Malvada",
       "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
@@ -692,6 +716,46 @@
     },
     {
       "album": {
+        "name": "Formula de Amor / Todo Esta en Vos",
+        "url": "https://open.spotify.com/album/1A7rfMPCgZk7Ck8HhfdJZQ"
+      },
+      "artists": [
+        {
+          "name": "Sentimiento Urbano",
+          "url": "https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx"
+        },
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353720,
+      "name": "Formula de Amor / Todo Esta en Vos",
+      "url": "https://open.spotify.com/track/2TWtjWp7zaw9siAhd2MUVp"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4uFfy2wJJI0G3TyFADh5zU"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Lujan",
+          "url": "https://open.spotify.com/artist/6o4MTZaGrBQ0pHMPYlQYa2"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/4El1IIpdwvw1keVLr2oAnw"
+    },
+    {
+      "album": {
         "name": "Grabada en Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3sFG1c5NgvJCow48WphhDA"
       },
@@ -703,7 +767,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 169213,
       "name": "Grabada en Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5QfJefR5mjd95r2764uMmV"
@@ -743,7 +807,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 181760,
       "name": "Indiferente",
       "url": "https://open.spotify.com/track/7G00AWh0XZS09lrMdpEcE2"
@@ -765,7 +829,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 146834,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5"
@@ -801,7 +865,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 234257,
       "name": "La Almohada",
       "url": "https://open.spotify.com/track/12CKvZLUeSWW8YLKNmRmPo"
@@ -877,7 +941,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 129229,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
@@ -1137,7 +1201,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 228565,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
@@ -1177,6 +1241,24 @@
       "duration_ms": 220813,
       "name": "No Me Arrepiento de Este Amor",
       "url": "https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz"
+    },
+    {
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158600,
+      "name": "No Me Digas Adios",
+      "url": "https://open.spotify.com/track/3Q4WdLlnbft9r8RW4dR5Xs"
     },
     {
       "album": {
@@ -1231,7 +1313,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Nunca me Faltes",
       "url": "https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW"
@@ -1444,6 +1526,24 @@
     },
     {
       "album": {
+        "name": "Se Enamor\u00f3 de Mi la Soledad",
+        "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245864,
+      "name": "Se Enamor\u00f3 de Mi la Soledad",
+      "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
+    },
+    {
+      "album": {
         "name": "Los M\u00e1s Grandes Exitos",
         "url": "https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y"
       },
@@ -1459,6 +1559,24 @@
       "duration_ms": 210586,
       "name": "Se Me Ha Perdido Un Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP"
+    },
+    {
+      "album": {
+        "name": "30 A\u00f1os",
+        "url": "https://open.spotify.com/album/4rvvkfhubGwH3mQ3ZHL9S1"
+      },
+      "artists": [
+        {
+          "name": "Aclamado Amistad",
+          "url": "https://open.spotify.com/artist/5kmcANJ07GntkrPxTW8PnW"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "Se Que Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/1BK2BOFeuMd6RTTn38xzUE"
     },
     {
       "album": {
@@ -1491,7 +1609,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 218128,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/6n3Cv9PsZ4d12Pz6IXnvPz"
@@ -1679,7 +1797,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 79594,
       "name": "Tiene Espinas el Rosal",
       "url": "https://open.spotify.com/track/6p3lVBHIY9nHJgVaOoMLU6"
@@ -1751,7 +1869,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 199444,
       "name": "Tu Me Obligaste",
       "url": "https://open.spotify.com/track/1gSwrI4t1a9gxSZNK6yvOY"
@@ -1913,7 +2031,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 215186,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
@@ -1967,7 +2085,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 217293,
       "name": "Ya Lleg\u00f3 el Sabor",
       "url": "https://open.spotify.com/track/6L7yows5K4HrSZnz3yppeC"
@@ -2108,6 +2226,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/4hI5fnZyarU43UUWQUxi0o"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/53NcJRablHg60JNQUlgNNY"
+    },
+    {
+      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -2123,6 +2259,24 @@
       "duration_ms": 161239,
       "name": "Yo Tomo Licor",
       "url": "https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU"
+    },
+    {
+      "album": {
+        "name": "\u00bfQuieres Ser Mi Amante?",
+        "url": "https://open.spotify.com/album/4PnXX6JkqXoS1LrqGr8KBV"
+      },
+      "artists": [
+        {
+          "name": "El Viejo Marquez",
+          "url": "https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208042,
+      "name": "\u00bfQuieres Ser Mi Amante?",
+      "url": "https://open.spotify.com/track/3j8KqAjYT9nA993cJbcbQi"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9o4SIlW5lWs"

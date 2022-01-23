@@ -1,13 +1,29 @@
 {
   "description": "Tight Roll your jeans, break out the CK1, and set the mood...",
-  "num_followers": 3036093,
+  "num_followers": 3036778,
   "original_name": "90s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgxMTg4NSwwMDAwMDAwMGFiMDdlY2U3ZWU4NTA3NTczY2UzOTdhMGYwMDI4OWQ2",
+  "snapshot_id": "MTY0Mjg5ODMxMSwwMDAwMDAwMDY0ZDBkZDM5YmE0MTQ3YzJlNWNkMzM2MzcwODcwNDJl",
   "tracks": [
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/6mcwghwWeSp1Ol1IpsYDOM"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "How Do I Live",
+      "url": "https://open.spotify.com/track/5VJlvaPufnazmTvt2sHQqc"
+    },
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
@@ -43,6 +59,22 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
+        "name": "Falling Into You",
+        "url": "https://open.spotify.com/album/1yeREaGQMCMNaN7HtMIyNa"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 273066,
+      "name": "Because You Loved Me",
+      "url": "https://open.spotify.com/track/2PZGLmbjABSqsEeznQJFSu"
+    },
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/4v1UrTu6OMhmnf9BipnLmM"
       },
@@ -55,22 +87,6 @@
       "duration_ms": 230093,
       "name": "Shape of My Heart",
       "url": "https://open.spotify.com/track/2rgHU2Zgd6owbyavzhrk8U"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
-        "name": "Back At One",
-        "url": "https://open.spotify.com/album/3QWvaUt6fJpYf9KqTPilPm"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "Back At One",
-      "url": "https://open.spotify.com/track/0CjrIEPmqIKnBHy99hun3v"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -107,6 +123,22 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
+        "name": "Back At One",
+        "url": "https://open.spotify.com/album/3QWvaUt6fJpYf9KqTPilPm"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "Back At One",
+      "url": "https://open.spotify.com/track/0CjrIEPmqIKnBHy99hun3v"
+    },
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
         "name": "The Best Of Vanessa Williams 20th Century Masters The Millennium Collection",
         "url": "https://open.spotify.com/album/2W4O6fmk96K7vLxExDzWST"
       },
@@ -119,22 +151,6 @@
       "duration_ms": 219133,
       "name": "Save The Best For Last",
       "url": "https://open.spotify.com/track/4yRUjOBsj0cpjabtum0fML"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
-        "name": "All The Way... A Decade Of Song",
-        "url": "https://open.spotify.com/album/05HEjdd9s8Egs5aa3r0YIF"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 329666,
-      "name": "It's All Coming Back to Me Now - Radio Version",
-      "url": "https://open.spotify.com/track/5w84TM00wX2Oa9F7UETpPJ"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -159,6 +175,22 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
+        "name": "Playlist: The Very Best Of Lonestar",
+        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm"
+    },
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
         "name": "Rhino Hi-Five: All-4-One",
         "url": "https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ"
       },
@@ -175,18 +207,18 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "Playlist: The Very Best Of Lonestar",
-        "url": "https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5"
+        "name": "Truly Madly Deeply",
+        "url": "https://open.spotify.com/album/2Z8UJWJd1cQ4CkVCw9tTsf"
       },
       "artists": [
         {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
         }
       ],
-      "duration_ms": 239986,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm"
+      "duration_ms": 277200,
+      "name": "Truly Madly Deeply",
+      "url": "https://open.spotify.com/track/69MmmKaqTGd2lBh1qNVpeP"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -211,18 +243,18 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD"
+        "name": "All The Way... A Decade Of Song",
+        "url": "https://open.spotify.com/album/05HEjdd9s8Egs5aa3r0YIF"
       },
       "artists": [
         {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 266973,
-      "name": "How Do I Live",
-      "url": "https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8"
+      "duration_ms": 329666,
+      "name": "It's All Coming Back to Me Now - Radio Version",
+      "url": "https://open.spotify.com/track/5w84TM00wX2Oa9F7UETpPJ"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -247,22 +279,6 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "Rhino Hi-Five: All-4-One",
-        "url": "https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ"
-      },
-      "artists": [
-        {
-          "name": "All-4-One",
-          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "I Can Love You Like That",
-      "url": "https://open.spotify.com/track/4OnZR9U5JRFGF1Yza9j579"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
         "name": "The Essential Luther Vandross",
         "url": "https://open.spotify.com/album/0JzmsNDLZ6NCc6Mc3J2UgN"
       },
@@ -283,6 +299,22 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/45gbCmUeq5ZMgXiDkPweRD"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "(God Must Have Spent) A Little More Time On You - Remix",
+      "url": "https://open.spotify.com/track/72otaqywVqwyXaCjk75JKm"
+    },
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -299,18 +331,18 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/45gbCmUeq5ZMgXiDkPweRD"
+        "name": "Rhino Hi-Five: All-4-One",
+        "url": "https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "All-4-One",
+          "url": "https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG"
         }
       ],
-      "duration_ms": 243493,
-      "name": "(God Must Have Spent) A Little More Time On You - Remix",
-      "url": "https://open.spotify.com/track/72otaqywVqwyXaCjk75JKm"
+      "duration_ms": 257959,
+      "name": "I Can Love You Like That",
+      "url": "https://open.spotify.com/track/4OnZR9U5JRFGF1Yza9j579"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -331,22 +363,6 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "The Boy Is Mine",
-        "url": "https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh"
-      },
-      "artists": [
-        {
-          "name": "Monica",
-          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
-        }
-      ],
-      "duration_ms": 250173,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
         "name": "#1's",
         "url": "https://open.spotify.com/album/4gWPIB6d0O4LxfIIodAwkR"
       },
@@ -363,6 +379,38 @@
       "duration_ms": 263933,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/7zAgg3PU31pQAnzEY9dJPr"
+    },
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
+        "name": "Essential - Soul Love",
+        "url": "https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6"
+      },
+      "artists": [
+        {
+          "name": "Monica",
+          "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
+        }
+      ],
+      "duration_ms": 294706,
+      "name": "For You I Will",
+      "url": "https://open.spotify.com/track/3BPtnSoJ4OnTho8CrJecC7"
+    },
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
+        "name": "Love Always",
+        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "duration_ms": 331240,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -399,22 +447,6 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "Backstreet Boys",
-        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 287506,
-      "name": "I'll Never Break Your Heart",
-      "url": "https://open.spotify.com/track/4lq4yY0y3XqDQZsx03ITaH"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
         "name": "My Love Is Your Love",
         "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
       },
@@ -435,6 +467,22 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
+        "name": "Backstreet Boys",
+        "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 287506,
+      "name": "I'll Never Break Your Heart",
+      "url": "https://open.spotify.com/track/4lq4yY0y3XqDQZsx03ITaH"
+    },
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -447,6 +495,22 @@
       "duration_ms": 241026,
       "name": "2 Become 1",
       "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
+    },
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
+        "name": "All The Way... A Decade Of Song",
+        "url": "https://open.spotify.com/album/05HEjdd9s8Egs5aa3r0YIF"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 280133,
+      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
+      "url": "https://open.spotify.com/track/4Dw02sVUfUA67l3fZ9FoKs"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -467,8 +531,8 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "Essential - Soul Love",
-        "url": "https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6"
+        "name": "The Boy Is Mine",
+        "url": "https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh"
       },
       "artists": [
         {
@@ -476,25 +540,9 @@
           "url": "https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2"
         }
       ],
-      "duration_ms": 294706,
-      "name": "For You I Will",
-      "url": "https://open.spotify.com/track/3BPtnSoJ4OnTho8CrJecC7"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334106,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
+      "duration_ms": 250173,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -511,38 +559,6 @@
       "duration_ms": 293080,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3Lvm5dOtqy1uZY6nTln6lt"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
-        "name": "The Hits--Chapter One",
-        "url": "https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "I Want It That Way",
-      "url": "https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
-        "name": "All The Way... A Decade Of Song",
-        "url": "https://open.spotify.com/album/05HEjdd9s8Egs5aa3r0YIF"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 280133,
-      "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
-      "url": "https://open.spotify.com/track/4Dw02sVUfUA67l3fZ9FoKs"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -579,18 +595,18 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "Truly Madly Deeply",
-        "url": "https://open.spotify.com/album/2Z8UJWJd1cQ4CkVCw9tTsf"
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
       },
       "artists": [
         {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
         }
       ],
-      "duration_ms": 277200,
-      "name": "Truly Madly Deeply",
-      "url": "https://open.spotify.com/track/69MmmKaqTGd2lBh1qNVpeP"
+      "duration_ms": 334106,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -619,50 +635,18 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "Sweet Kisses",
-        "url": "https://open.spotify.com/album/2z4kcQqO0W8des2nWq5ECY"
+        "name": "Playlist: The Very Best Of Michael Bolton",
+        "url": "https://open.spotify.com/album/46tDF4rl4qBENbVhdJnDt5"
       },
       "artists": [
         {
-          "name": "Jessica Simpson",
-          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
         }
       ],
-      "duration_ms": 263800,
-      "name": "I Wanna Love You Forever",
-      "url": "https://open.spotify.com/track/5gZEhPrN1VLqTG1nIAXeNK"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
-        "name": "Glorious: The Singles 97-07",
-        "url": "https://open.spotify.com/album/5snQakFpbHsJmrAvhgeuHX"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 244813,
-      "name": "Torn",
-      "url": "https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
-        "name": "Armageddon - The Album",
-        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
+      "duration_ms": 231240,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/2gesnmmQtTco0LR2WgGzUR"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -683,18 +667,50 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "Playlist: The Very Best Of Michael Bolton",
-        "url": "https://open.spotify.com/album/46tDF4rl4qBENbVhdJnDt5"
+        "name": "Armageddon - The Album",
+        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
       },
       "artists": [
         {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 231240,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/2gesnmmQtTco0LR2WgGzUR"
+      "duration_ms": 298760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
+    },
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5J0kPrSHVGdNhPNpNmi981"
+      },
+      "artists": [
+        {
+          "name": "98\u00ba",
+          "url": "https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV"
+        }
+      ],
+      "duration_ms": 274093,
+      "name": "The Hardest Thing",
+      "url": "https://open.spotify.com/track/7EEdDKopE2INq8y1sOZuhU"
+    },
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
+        "name": "Sweet Kisses",
+        "url": "https://open.spotify.com/album/2z4kcQqO0W8des2nWq5ECY"
+      },
+      "artists": [
+        {
+          "name": "Jessica Simpson",
+          "url": "https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma"
+        }
+      ],
+      "duration_ms": 263800,
+      "name": "I Wanna Love You Forever",
+      "url": "https://open.spotify.com/track/5gZEhPrN1VLqTG1nIAXeNK"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -731,50 +747,18 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5J0kPrSHVGdNhPNpNmi981"
+        "name": "Glorious: The Singles 97-07",
+        "url": "https://open.spotify.com/album/5snQakFpbHsJmrAvhgeuHX"
       },
       "artists": [
         {
-          "name": "98\u00ba",
-          "url": "https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV"
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
         }
       ],
-      "duration_ms": 274093,
-      "name": "The Hardest Thing",
-      "url": "https://open.spotify.com/track/7EEdDKopE2INq8y1sOZuhU"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
-        "name": "Love Always",
-        "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 331240,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
-        "name": "The Song Remembers When",
-        "url": "https://open.spotify.com/album/5yUayBQKrvqFfXr9X8gJjb"
-      },
-      "artists": [
-        {
-          "name": "Trisha Yearwood",
-          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Song Remembers When",
-      "url": "https://open.spotify.com/track/4dS7TYCTGKyhs9ZDt8iPcT"
+      "duration_ms": 244813,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/3APayTEWiUl9Ssep4BOXR2"
     },
     {
       "added_at": "2020-09-30 19:35:45",
@@ -795,22 +779,6 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "My Love Essential Collection",
-        "url": "https://open.spotify.com/album/0zMOz1phwhxqDqNzttMXsw"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 288173,
-      "name": "The Power Of Love - Radio Edit",
-      "url": "https://open.spotify.com/track/4hNnlZ2ro9G7npTrV08LS3"
-    },
-    {
-      "added_at": "2020-09-30 19:35:45",
-      "album": {
         "name": "Backstreet Boys",
         "url": "https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S"
       },
@@ -827,18 +795,50 @@
     {
       "added_at": "2020-09-30 19:35:45",
       "album": {
-        "name": "Torn/Wishing I Was There",
-        "url": "https://open.spotify.com/album/3wtn5Xqs97Vrj2u3SSykE1"
+        "name": "The Song Remembers When",
+        "url": "https://open.spotify.com/album/5yUayBQKrvqFfXr9X8gJjb"
       },
       "artists": [
         {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
         }
       ],
-      "duration_ms": 186400,
-      "name": "Torn - Acoustic MTV Unplugged",
-      "url": "https://open.spotify.com/track/1iPvdHIQQSNJ4iRm92Bcbx"
+      "duration_ms": 234333,
+      "name": "The Song Remembers When",
+      "url": "https://open.spotify.com/track/4dS7TYCTGKyhs9ZDt8iPcT"
+    },
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
+        "name": "My Love Essential Collection",
+        "url": "https://open.spotify.com/album/0zMOz1phwhxqDqNzttMXsw"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 288173,
+      "name": "The Power Of Love - Radio Edit",
+      "url": "https://open.spotify.com/track/4hNnlZ2ro9G7npTrV08LS3"
+    },
+    {
+      "added_at": "2020-09-30 19:35:45",
+      "album": {
+        "name": "Now in a Minute",
+        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
+      },
+      "artists": [
+        {
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
     }
   ],
   "unique_name": "90s Love Songs",

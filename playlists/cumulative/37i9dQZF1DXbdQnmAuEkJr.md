@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbdQnmAuEkJr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbdQnmAuEkJr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbdQnmAuEkJr)
 
-### Amor Francés
+### [Amor Francés](https://open.spotify.com/playlist/4sVhpXSOjw8xtSawtZABe0)
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 

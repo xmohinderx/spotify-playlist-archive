@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 239306,
       "name": "Atr\u00e9vete-Te-Te",
       "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 280000,
       "name": "Ayer",
       "url": "https://open.spotify.com/track/67LNc70FgGcKHgRQtn3o33"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 207200,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/7lRsNbdOGykkMAgsqs4R1C"
@@ -873,6 +873,28 @@
       "duration_ms": 262250,
       "name": "Como Yo Le Doy - Remix",
       "url": "https://open.spotify.com/track/2iRZ0Gh5gT0vtlibKSOzLm"
+    },
+    {
+      "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202308,
+      "name": "Conf\u00eda",
+      "url": "https://open.spotify.com/track/5kbps8unnGH4raN5WduZuq"
     },
     {
       "album": {
@@ -1395,7 +1417,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 206693,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
@@ -1731,7 +1753,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 243386,
       "name": "Hipnot\u00edzame",
       "url": "https://open.spotify.com/track/41IrY9OFcaWVnEojXftyVh"
@@ -1753,7 +1775,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 192000,
       "name": "Hip\u00f3crita",
       "url": "https://open.spotify.com/track/6XBjCetHKdO5L9cwMDVffw"
@@ -1941,7 +1963,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 163084,
       "name": "La Dif\u00edcil",
       "url": "https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt"
@@ -2103,7 +2125,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 190909,
       "name": "Madura (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/0r9d60ZYPAlFHq8qnUtkXN"
@@ -2493,7 +2515,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 236706,
       "name": "Noches de Aventura",
       "url": "https://open.spotify.com/track/4iDaYVSL0zwFLacCt0F7h9"
@@ -2698,6 +2720,28 @@
     },
     {
       "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195213,
+      "name": "Perro Fiel (feat. Nicky Jam)",
+      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
+    },
+    {
+      "album": {
         "name": "Pierdo la Cabeza",
         "url": "https://open.spotify.com/album/112XtnaLZmod0pVVaYJWwG"
       },
@@ -2775,7 +2819,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "Que Le De",
       "url": "https://open.spotify.com/track/08aYFNUTIOMGq93e2VSArQ"
@@ -3039,7 +3083,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 295176,
       "name": "Safaera",
       "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
@@ -3097,7 +3141,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 258800,
       "name": "Secreto",
       "url": "https://open.spotify.com/track/5W83ErFkO3aKAIS1WMi6u0"
@@ -3433,7 +3477,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 195813,
       "name": "Suena El Dembow",
       "url": "https://open.spotify.com/track/0woHVOh3KXLSDv8VU9XwZ4"
@@ -3469,7 +3513,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 212406,
       "name": "Tak Tiki Tak",
       "url": "https://open.spotify.com/track/0aCTSZQTlmnjQucALTF00s"
@@ -3655,7 +3699,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
@@ -3695,7 +3739,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 193226,
       "name": "T\u00fa Foto",
       "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
@@ -3791,7 +3835,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 228480,
       "name": "Una Lady Como T\u00fa (feat. Nicky Jam) - Remix",
       "url": "https://open.spotify.com/track/7MMRoGvm7uhoUVhGvHJ3yW"
@@ -3895,7 +3939,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 238813,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/1rXojdsUqqxGj2WCmJGWHP"
@@ -3939,7 +3983,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 225542,
       "name": "Velitas",
       "url": "https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq"
@@ -3999,7 +4043,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"

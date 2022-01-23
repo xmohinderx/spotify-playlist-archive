@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 194946,
       "name": "Betcha Wouldn't Hurt Me",
       "url": "https://open.spotify.com/track/5UCaHq0Qlm42mbmVp4V4rk"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
@@ -848,6 +848,24 @@
     },
     {
       "album": {
+        "name": "Don't Ever Wonder",
+        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
+      },
+      "artists": [
+        {
+          "name": "Linae",
+          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147367,
+      "name": "Don't Ever Wonder",
+      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
+    },
+    {
+      "album": {
         "name": "Inside Voice",
         "url": "https://open.spotify.com/album/1dozAAM6CMyL2FAEUcHJKu"
       },
@@ -943,7 +961,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 222626,
       "name": "Elasto",
       "url": "https://open.spotify.com/track/0joWz6mlWQtcREQzYurLVo"
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 214466,
       "name": "Girl",
       "url": "https://open.spotify.com/track/3vo0AKUum4US3CoH3fjNEn"
@@ -1178,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Boonie Town",
+        "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
+      },
+      "artists": [
+        {
+          "name": "Eli Smart",
+          "url": "https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259795,
+      "name": "Highschool Steady",
+      "url": "https://open.spotify.com/track/4QMxpwLOwo4PIxpIMYjbAP"
+    },
+    {
+      "album": {
         "name": "Uptown (Digitally Remastered)",
         "url": "https://open.spotify.com/album/67SleiSz64OZip0649tBp6"
       },
@@ -1189,7 +1225,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 169680,
       "name": "Home",
       "url": "https://open.spotify.com/track/5VN2dZer45WzuaorRa242v"
@@ -1279,7 +1315,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 194826,
       "name": "If It Feels Good (Then It Must Be)",
       "url": "https://open.spotify.com/track/3cx4K9v7RwDEXX6OGPNLNy"
@@ -1449,7 +1485,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 202120,
       "name": "Life On Fire",
       "url": "https://open.spotify.com/track/3tKp46E93JyBCvnAkrgmcy"
@@ -1503,7 +1539,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 201866,
       "name": "Look At What The Light Did Now",
       "url": "https://open.spotify.com/track/08RaJGr2ZeVuoVCY60g1O3"
@@ -1669,7 +1705,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 204522,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/5Am6lXmZTztC7YE0VA4p1l"
@@ -1709,7 +1745,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 218357,
       "name": "Midas",
       "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
@@ -1727,7 +1763,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 250718,
       "name": "Middle of Love",
       "url": "https://open.spotify.com/track/2dqg6jHb6ubKaXi4GbnYi0"
@@ -1781,7 +1817,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 168173,
       "name": "My Stove's On Fire",
       "url": "https://open.spotify.com/track/7CqtU7m36JwR5rxyKKxgGN"
@@ -1913,7 +1949,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 222546,
       "name": "Oh Boredom (Schmaltz City, USA)",
       "url": "https://open.spotify.com/track/79084mepy4vAEG416uZxO7"
@@ -2083,7 +2119,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 343404,
       "name": "Pretty Dirty (In the Fading Light)",
       "url": "https://open.spotify.com/track/2eAtxc1L97UPkxDf4LFtrK"
@@ -2105,6 +2141,24 @@
       "duration_ms": 232760,
       "name": "Ride with Me",
       "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
+    },
+    {
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
     },
     {
       "album": {
@@ -2137,7 +2191,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 227306,
       "name": "Rise",
       "url": "https://open.spotify.com/track/2RZM1noMKMpuNWgb3wHIVH"
@@ -2263,7 +2317,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 207133,
       "name": "Show Me More",
       "url": "https://open.spotify.com/track/603iVka7FkEfoO0qi1hnf8"
@@ -2371,7 +2425,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 306935,
       "name": "Spread Lurve - Original Mix",
       "url": "https://open.spotify.com/track/4clEDm1xBMwAl4uKo3wCFt"
@@ -2595,7 +2649,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 217066,
       "name": "The Keys",
       "url": "https://open.spotify.com/track/6ikh8e4YxgOlb11LWUaBp4"
@@ -2653,7 +2707,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 132750,
       "name": "This Is My Story",
       "url": "https://open.spotify.com/track/0VjwGDxuJc2rSOZKHjPiTc"
@@ -2689,7 +2743,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 237800,
       "name": "To Love You All Over Again",
       "url": "https://open.spotify.com/track/6DD6q9mMJUqdoYb1GqwQiI"
@@ -2725,7 +2779,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 205862,
       "name": "Undone",
       "url": "https://open.spotify.com/track/4BcaNB0eyndTwYosTvkV5H"
@@ -2949,7 +3003,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 174959,
       "name": "wyd",
       "url": "https://open.spotify.com/track/2Ev3tTpZzvpqW8pbj3nDlR"
@@ -3011,7 +3065,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 267933,
       "name": "You Keep Me Waiting",
       "url": "https://open.spotify.com/track/3ZbPMcAQJS0oi6kjy4qBMf"

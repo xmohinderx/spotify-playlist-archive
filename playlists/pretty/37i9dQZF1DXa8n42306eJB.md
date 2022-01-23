@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 
 > Good vibes for good times!
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,153 likes - 69 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,199 likes - 69 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8n42306eJB.md) - [plain]
 | 16 | [Early In The Morning](https://open.spotify.com/track/2R9nfayl1NXhuAdEpwG2Qa) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Early In The Morning](https://open.spotify.com/album/7jBZzB6g10Uw2qwHN3hdDR) | 2:52 |
 | 17 | [Something To Believe In](https://open.spotify.com/track/2s3tLDYxfvr7Uy9JWcbHNX) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [Something To Believe In](https://open.spotify.com/album/67sulKuGrHcgUHLY2OIG8y) | 3:28 |
 | 18 | [Love Me](https://open.spotify.com/track/3zfn7mpuEfL0C4x6MTjTAr) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Love Me](https://open.spotify.com/album/0W5jW3o1KpH0qHBwmytpwK) | 4:24 |
-| 19 | [Beef](https://open.spotify.com/track/3wIZTELQWUiKoREJXm2ZBn) | [Joe Sambo](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Beef](https://open.spotify.com/album/6D0lClxp6tZUWzkSqcWrJ0) | 3:16 |
+| 19 | [Beef](https://open.spotify.com/track/3wIZTELQWUiKoREJXm2ZBn) | [Joe Samba](https://open.spotify.com/artist/4edOA7e3jDgmddqyrb93DJ) | [Beef](https://open.spotify.com/album/6D0lClxp6tZUWzkSqcWrJ0) | 3:16 |
 | 20 | [Shady \- Edit](https://open.spotify.com/track/5lJLXjhooAXIjgPF339skN) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [Shady](https://open.spotify.com/album/5iUXFPSiWHb2UT2tz036UQ) | 5:18 |
 | 21 | [Sunshine](https://open.spotify.com/track/1EiEPGecNb0Ctfc8z6ialX) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Sense of Purpose](https://open.spotify.com/album/2RKnPLi0ncp9vwKMgatVMr) | 4:22 |
 | 22 | [Burdens Heavy](https://open.spotify.com/track/1jfrOugcys9IU9QBspbiLc) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Burdens Heavy](https://open.spotify.com/album/0wsuaqOpcNw7ac7DwWFH1t) | 3:52 |

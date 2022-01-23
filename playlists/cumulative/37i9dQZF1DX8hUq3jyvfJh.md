@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8hUq3jyvfJh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8hUq3jyvfJh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8hUq3jyvfJh)
 
-### EQUAL Brasil
+### [EQUAL Brasil](https://open.spotify.com/playlist/5s7ZVpE0nPPM8ZlUIQWHHa)
 
 > Simone & Simaria e mais mulheres para serem ouvidas no máximo volume.
 

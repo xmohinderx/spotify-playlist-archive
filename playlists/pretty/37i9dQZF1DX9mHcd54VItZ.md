@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU?si=Xh\_ZEAULQWeNrhQhjJb4PQ">Dangerfields</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,677 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,684 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cocoon](https://open.spotify.com/track/5DyMpoB5hqmjkwPBnTPxFw) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Cocoon](https://open.spotify.com/album/2PB4vdIz8aRwh3hhucvLCE) | 5:04 |
 | 2 | [Always Remember](https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Always Remember](https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9) | 3:49 |
 | 3 | [Silwer](https://open.spotify.com/track/4UFuCgW8yugNXB5SMn3MQs) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Silwer](https://open.spotify.com/album/6P5AWCkCPJyb3UPbeaoB2F) | 3:41 |
-| 4 | [Wolves](https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ) | [Kat](https://open.spotify.com/artist/46IUVOnJEpX59hQc5SkfPp), [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Wolves](https://open.spotify.com/album/1f98ilxMIzaqHosQXwiZY3) | 3:35 |
+| 4 | [Wolves](https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ) | [Kat](https://open.spotify.com/artist/4rB9lKJyTJ6LI6mccmA5EW), [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Wolves](https://open.spotify.com/album/1f98ilxMIzaqHosQXwiZY3) | 3:35 |
 | 5 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 |
 | 6 | [Dapper](https://open.spotify.com/track/22mVe2AVZRBmAnveENz9qn) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS), [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Dapper](https://open.spotify.com/album/2rpJjqpMJQOx69ksFk7vbB) | 3:08 |
 | 7 | [Last Tear](https://open.spotify.com/track/7KXty1ex5eJ9sMgJRdTDXf) | [Nine](https://open.spotify.com/artist/3AjJvYXOMFBBSqgEV7u5me) | [Last Tear](https://open.spotify.com/album/1GxkqKs4ZdP2mW42p1FpMS) | 4:01 |

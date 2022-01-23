@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 201160,
       "name": "Accidently Kelly Street",
       "url": "https://open.spotify.com/track/6Tgjsd4bD8eb74HOTCr6LC"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 206466,
       "name": "Apple Eyes",
       "url": "https://open.spotify.com/track/7DVr6Az7HukAZeK7v3cGZx"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 248893,
       "name": "As I Lay Me Down",
       "url": "https://open.spotify.com/track/6S8ZXzeXsfCj8qi9179McI"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 269093,
       "name": "Can't Stop This Thing We Started",
       "url": "https://open.spotify.com/track/4e80zUwo7YuhNHs9OokSG0"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 271560,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0md12GKBGH8ZuLG2fTfGUz"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 215160,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 228666,
       "name": "Happy Birthday Helen",
       "url": "https://open.spotify.com/track/4H3aS6slQrNt9GqsDzKNOL"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 234800,
       "name": "Harley & Rose",
       "url": "https://open.spotify.com/track/3fjA8feYyRg4wcxpNhyi73"
@@ -675,6 +675,28 @@
       "duration_ms": 216773,
       "name": "Have A Look",
       "url": "https://open.spotify.com/track/5VFkGPOMHDLwe3ZMlrizPX"
+    },
+    {
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285706,
+      "name": "Heartbreaker (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
     },
     {
       "album": {
@@ -855,7 +877,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 213306,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
@@ -913,7 +935,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 256519,
       "name": "Let's Groove",
       "url": "https://open.spotify.com/track/2ADU49RKktDsdPj0vKqJ6j"
@@ -967,7 +989,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 304960,
       "name": "Mama",
       "url": "https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh"
@@ -1021,7 +1043,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 205733,
       "name": "Mouth",
       "url": "https://open.spotify.com/track/11Ki2bHWXTEug0DAfKcDDD"
@@ -1039,7 +1061,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 272293,
       "name": "Mr. Jones",
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
@@ -1111,7 +1133,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 169760,
       "name": "One Week",
       "url": "https://open.spotify.com/track/1C0pmryC2MdXfa7MZ9uIrU"
@@ -1147,7 +1169,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 194533,
       "name": "Party",
       "url": "https://open.spotify.com/track/6LZOgBvntXL1egqIHHPnhn"
@@ -1165,7 +1187,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 260893,
       "name": "Pash",
       "url": "https://open.spotify.com/track/03Bgy8sbBMxyQ3yYNwhTxR"
@@ -1201,7 +1223,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 214933,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1IQu8MIytsL3io4PvubwtW"
@@ -1363,7 +1385,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 173666,
       "name": "Spice Up Your Life",
       "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
@@ -1381,7 +1403,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 184333,
       "name": "Stay (I Missed You)",
       "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
@@ -1417,7 +1439,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 248466,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/2GRnDQCkcN6BoujfUgywOW"
@@ -1435,7 +1457,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 184533,
       "name": "Step Back in Time",
       "url": "https://open.spotify.com/track/6RWlCfEhi3FysmYhVg11y7"
@@ -1471,7 +1493,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 262493,
       "name": "Sway",
       "url": "https://open.spotify.com/track/3JtRSUOj7wSAXFG76T89v8"
@@ -1619,7 +1641,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
@@ -1763,7 +1785,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 278066,
       "name": "Unpretty",
       "url": "https://open.spotify.com/track/0BUoLE4o9eVahDHvTqak67"
@@ -1835,7 +1857,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 224466,
       "name": "Weather With You",
       "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdDh4h59PJIQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdDh4h59PJIQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdDh4h59PJIQ)
 
-### Electrónica & Dance Music
+### [Electrónica & Dance Music](https://open.spotify.com/playlist/5bWzq23TdSxzFHtcGB1qiD)
 
 > ¡Estos son los hits de la electrónica en el 2021!
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Les Louanges
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,500 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,530 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 9 | [Élément 115](https://open.spotify.com/track/4UfbCR87edQDCnA2cYXikA) | [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [Élément 115](https://open.spotify.com/album/5AavGPbUnFL8rrgAUHOrec) | 3:38 |
 | 10 | [Je ne te dirai pas](https://open.spotify.com/track/7EJQIs8SgCykgdn3XehEmC) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG), [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Je ne te dirai pas](https://open.spotify.com/album/1TytBbySQO4t1sLbaAdpLP) | 3:09 |
 | 11 | [Chérie](https://open.spotify.com/track/3ro1ucDAHXvdRnv7Se2Gyv) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 3:25 |
-| 12 | [L'anniversaire de Julie](https://open.spotify.com/track/3hrw3tdDbOsfZkJvhQsuFS) | [KIKESA](https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY), [Rubi](https://open.spotify.com/artist/3510DsTIfnfwEQeCqZ9F9T) | [L'anniversaire de Julie](https://open.spotify.com/album/3tKrosgkyGy6aA3yTBF6A9) | 4:02 |
+| 12 | [L'anniversaire de Julie](https://open.spotify.com/track/3hrw3tdDbOsfZkJvhQsuFS) | [KIKESA](https://open.spotify.com/artist/3U0pUvFUMv6gJiTFnXiueY), [Rubi](https://open.spotify.com/artist/3LaV53YaCWeWNeYiQv9Waw) | [L'anniversaire de Julie](https://open.spotify.com/album/3tKrosgkyGy6aA3yTBF6A9) | 4:02 |
 | 13 | [Marrakech](https://open.spotify.com/track/3Imu0WHSlEWiv4fZngTD2l) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9) | [Marrakech](https://open.spotify.com/album/7b4wIbfPAoDOXsBLYEzki2) | 3:31 |
 | 14 | [Pour une ride](https://open.spotify.com/track/5bYIXjObyvAT6BASDkszny) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [Sérotonine](https://open.spotify.com/album/64VaRxG95D8liyQJTAZr3x) | 3:04 |
 | 15 | [Fantôme](https://open.spotify.com/track/718MT9FO2mThLKyRZVW9Xv) | [Visrei](https://open.spotify.com/artist/6cjATtjJUrtOGS1TQoTUuu) | [Fantôme](https://open.spotify.com/album/74JgVJe98BVE63HzhxwrJX) | 3:25 |

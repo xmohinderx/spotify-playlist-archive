@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 183931,
       "name": "A.M. 180",
       "url": "https://open.spotify.com/track/24qP7UXfTVNu0JPdPlaQFg"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 135710,
       "name": "Armatage Shanks",
       "url": "https://open.spotify.com/track/5gDeBhj8E0e6LwjEGGihee"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 201106,
       "name": "Can\u2019t Feel My Face",
       "url": "https://open.spotify.com/track/4dZEkHDfbTIOWaO5RP3F8e"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 234996,
       "name": "Drivers License",
       "url": "https://open.spotify.com/track/05WChnnXDHLtXKpjyCFBeB"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 205127,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6alKqAc4Pcutwk0Lo9xVBu"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 231771,
       "name": "I Don't Love You",
       "url": "https://open.spotify.com/track/05eWggqE1dGTn8HcB9GeOY"
@@ -981,6 +981,24 @@
       "duration_ms": 158450,
       "name": "I Won't Back Down",
       "url": "https://open.spotify.com/track/1Lp4hoExThrJRXZmoeciLA"
+    },
+    {
+      "album": {
+        "name": "In Too Deep",
+        "url": "https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221238,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt"
     },
     {
       "album": {
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 215624,
       "name": "Look What You Made Me Do",
       "url": "https://open.spotify.com/track/2hj4uHwbaOLMYazXDIcD7w"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Loser",
       "url": "https://open.spotify.com/track/3Hq5MiNfNTk2YNSVN2onBp"
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 185350,
       "name": "Sometimes I Don't Mind",
       "url": "https://open.spotify.com/track/3n2tpHjpeYISrl0GX04E3K"
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Wake Me Up When September Ends",
       "url": "https://open.spotify.com/track/32fMYulgmRX6IxScMwQsdW"
@@ -2131,7 +2149,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 285506,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/41kUupAzNt7hy1BEbPkp0P"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 287371,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/3eTIIxKxzMmbZbQbYnJhVI"
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 293026,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/6rMdkAEBzaqtrPpH9bUrAU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUaRhCgtpCo.md) - [plain]
 
 > May the Force be with you\. Find more great Star Wars music <a href="https://open.spotify.com/user/official\_star\_wars">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,978 likes - 95 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,079 likes - 95 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

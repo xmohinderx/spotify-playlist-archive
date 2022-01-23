@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-21",
   "description": "Canciones te inspiran a ti y a todas las mam\u00e1s.",
   "name": "Las Rom\u00e1nticas de Mam\u00e1",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0w6qy4SJi5dmsrqM38MLcj"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,6 +23,24 @@
       "duration_ms": 210186,
       "name": "A Puro Dolor - Balada",
       "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
+    },
+    {
+      "album": {
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/3MXgh2NutxVsZvxHaNZG2s"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272573,
+      "name": "Acomp\u00e1\u00f1ame a Estar Solo",
+      "url": "https://open.spotify.com/track/6Eb3FQ2eSSyENY5wJsY0Ot"
     },
     {
       "album": {
@@ -263,10 +283,32 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 247640,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245946,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/36vevDMDx2ArmNViFWn22A"
     },
     {
       "album": {
@@ -357,6 +399,24 @@
       "duration_ms": 228493,
       "name": "Entre t\u00fa y mil mares",
       "url": "https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X"
+    },
+    {
+      "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244440,
+      "name": "Equivocada - Live Version",
+      "url": "https://open.spotify.com/track/4ToSegPTNl2894LRte8ice"
     },
     {
       "album": {
@@ -519,7 +579,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 177791,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
@@ -591,7 +651,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 262925,
       "name": "Mariposa Traicionera - 2020 Remasterizado",
       "url": "https://open.spotify.com/track/2zLLGT8WWT1dl73TlVL9qs"
@@ -645,7 +705,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 239706,
       "name": "Me equivoqu\u00e9",
       "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
@@ -703,6 +763,42 @@
       "duration_ms": 298293,
       "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
       "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
+    },
+    {
+      "album": {
+        "name": "Solo Lo Mejor: 20 Exitos",
+        "url": "https://open.spotify.com/album/5L3DgJ6F7THYRV9mNTJxvD"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236040,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/0SeEBAaBmDPJmGmhub9SX7"
+    },
+    {
+      "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "Mi error, mi fantas\u00eda",
+      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
     },
     {
       "album": {
@@ -1099,7 +1195,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 241000,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/2L9jPTSCT5K0gkgpXONyMK"
@@ -1117,7 +1213,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 227600,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
@@ -1135,7 +1231,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 213360,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/1grWz5Fq8Y7FLTxTQtfFgA"

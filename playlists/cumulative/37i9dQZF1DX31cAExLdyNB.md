@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX31cAExLdyNB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX31cAExLdyNB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX31cAExLdyNB)
 
-### Onda Indietrónica
+### [Onda Indietrónica](https://open.spotify.com/playlist/3ypfMXWSNw8YIRCS2CDHjN)
 
 > La orilla donde el indie se fusiona con la electrónica.
 

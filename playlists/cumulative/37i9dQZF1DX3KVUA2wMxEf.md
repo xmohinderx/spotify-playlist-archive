@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3KVUA2wMxEf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3KVUA2wMxEf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3KVUA2wMxEf)
 
-### Reggae Luv
+### [Reggae Luv](https://open.spotify.com/playlist/20tmJ1BJdJTTUlBOfl3Mrz)
 
 > Vibras rastafari para poner en sintonía el corazón.
 

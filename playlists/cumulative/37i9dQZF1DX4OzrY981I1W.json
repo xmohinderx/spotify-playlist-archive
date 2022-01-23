@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 164782,
       "name": "23",
       "url": "https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5"
@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9"
+      },
+      "artists": [
+        {
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223746,
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
+    },
+    {
+      "album": {
         "name": "Nothing Happens",
         "url": "https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9"
       },
@@ -167,7 +185,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 226408,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/2p7YemMTF5HRnAeL139VxD"
@@ -239,7 +257,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 175226,
       "name": "Boy With The Blues",
       "url": "https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 212426,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0gEl3OkfuBT0GpNbRitxgo"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 171000,
       "name": "how i'm feeling",
       "url": "https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo"
@@ -953,6 +971,24 @@
       "duration_ms": 160853,
       "name": "Je te laisserai des mots",
       "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
+    },
+    {
+      "album": {
+        "name": "Jigsaw",
+        "url": "https://open.spotify.com/album/4OmdjXVk6PslBdirwfruqQ"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208969,
+      "name": "Jigsaw",
+      "url": "https://open.spotify.com/track/1WzOonguDKuWQrTTf5yR0D"
     },
     {
       "album": {
@@ -1443,7 +1479,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 255986,
       "name": "Strange",
       "url": "https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4"
@@ -1587,7 +1623,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 241853,
       "name": "The Subway Song",
       "url": "https://open.spotify.com/track/3MIMKvXfK4bqkJ2wteG5Jq"
@@ -1731,7 +1767,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/1BYZxKSf0aTxp8ZFoeyM3d"
@@ -1821,7 +1857,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 182266,
       "name": "You Know It",
       "url": "https://open.spotify.com/track/169pWCmfvVazzcL4EXFPgL"
@@ -1839,7 +1875,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 244829,
       "name": "You Want Everyone To Love You",
       "url": "https://open.spotify.com/track/1OMpWqQCH6GGmHtHJ1xeZk"

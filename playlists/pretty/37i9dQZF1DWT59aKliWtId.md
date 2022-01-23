@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: The Head And The Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,109 likes - 114 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,197 likes - 114 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

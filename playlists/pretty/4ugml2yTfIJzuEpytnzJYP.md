@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,036 likes - 39 songs - 2 hr 15 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,042 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,17 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 37 | [August Star](https://open.spotify.com/track/0tbfLdtT9HonTEskKkaLuN) | [Kaipora](https://open.spotify.com/artist/3IXNmZ5mxr0M1BzOuLfFgY) | [August Star](https://open.spotify.com/album/1x4kCOTzh3E2Z8grHXfyhj) | 2:00 |
 | 38 | [Floating into Space](https://open.spotify.com/track/0rVPYHQGhcUClRyvX9FBEw) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Floating into Space](https://open.spotify.com/album/0ozK4cQ3TNWsaonW0yGgbg) | 2:51 |
 | 39 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 |
+| 40 | [Narrow](https://open.spotify.com/track/54Ys41zXshiXCVlxENznb5) | [sumthin sumthin](https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm), [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0) | [Narrow](https://open.spotify.com/album/4afOs1aVHjBfr5SByIOn1R) | 3:36 |
+| 41 | [ICED UP](https://open.spotify.com/track/61Fuznt6XlY2OVkLyrKifc) | [SubDocta](https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk) | [ICED UP](https://open.spotify.com/album/0KGih79K9zoRsjIGbDhHAK) | 4:48 |
+| 42 | [Always](https://open.spotify.com/track/1OAYXRKMitVKpuhMf8klHc) | [Super Future](https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb) | [Goddess EP \(For Ellie\)](https://open.spotify.com/album/1OVk3K4kxpnMbk85wUm7b1) | 3:58 |
+| 43 | [Back in the Mix](https://open.spotify.com/track/03F2ojTzplOO36V7cmiM0L) | [Dredlok](https://open.spotify.com/artist/1KBcLRftIZBoT2idLxrrC1) | [Back in the Mix](https://open.spotify.com/album/47I7XdZYlEbfcbL7XTblPM) | 2:51 |
+| 44 | [Blur \(feat\. Dacy\)](https://open.spotify.com/track/0ZttcfFpXraHVv00visCOK) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Dacy](https://open.spotify.com/artist/7fgYuoYmdlHrGWM3mRZJMp) | [Blur \(feat\. Dacy\)](https://open.spotify.com/album/1v68aSVcFu6CvRz7P8dhnk) | 4:15 |
+| 45 | [sKeleton Dance](https://open.spotify.com/track/7gy1cu9FRepowP1oxO1YPQ) | [Slang Dogs](https://open.spotify.com/artist/53ZFs1OvVgCZVEVymMqnYj), [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [sKeleton Dance](https://open.spotify.com/album/4AhvUpg8YdLXhy5XkH3zyO) | 2:41 |
+| 46 | [The Covenant](https://open.spotify.com/track/25kdk6NgrmOPuPJsnqpiKh) | [Among The Mist](https://open.spotify.com/artist/2FBfN2vzv6bXlLSP5UTJBq) | [The Covenant](https://open.spotify.com/album/4s1dulywBvqEnxwZhVvMun) | 2:51 |
+| 47 | [Simulated](https://open.spotify.com/track/37kjXPKaDpi7dzIRD9PiAz) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Simulated](https://open.spotify.com/album/1bQZEHdIGvpX6OvDQWiI3s) | 4:19 |
+| 48 | [Meeks](https://open.spotify.com/track/3RB4NzaKJ8c9tYLGZ3J5Mb) | [MOLOKAI](https://open.spotify.com/artist/0MpAe8If4MbY3bBLLJ3VzQ) | [Meeks](https://open.spotify.com/album/4ZhUnoSB8Qy40jKXl38s7m) | 2:59 |
+| 49 | [Karthaus](https://open.spotify.com/track/4ULsnDkqQlVugbOLHUYy0O) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz) | [Karthaus](https://open.spotify.com/album/53dUyF69IMlnx2Vhrgl9PZ) | 6:05 |
+| 50 | [Nihil](https://open.spotify.com/track/5YVgl0hVPItJHtXXRdlfFD) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [NCDIG006](https://open.spotify.com/album/6WwwcYvNRf7e7VrdMrq5lB) | 4:40 |
+| 51 | [Get Bun](https://open.spotify.com/track/5X8W307Uv6qa69GUXubD5y) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Time Is Now White, Vol.10](https://open.spotify.com/album/2QRu4xj67JLGINTazmeCRU) | 3:35 |
 
-Snapshot ID: `MTc3Niw2NThhZDU0NWU4NTQ4MGY3ODZmMjE2ODhhNjQwNTgwNThiODU0OGZj`
+Snapshot ID: `MTc4OCxjMGMwYTNhZTk2YTg2ODEyNjFlODhjMDhjMjlkZjY1YjcyY2JiYmJm`

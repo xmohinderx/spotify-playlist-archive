@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: TAEYEON
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,713 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,009 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 49 | [0X1=LOVESONG \(I Know I Love You\) \- Japanese Ver.](https://open.spotify.com/track/4yRVrTMD8zLyaCVcirIAdu) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Chaotic Wonderland](https://open.spotify.com/album/3aOc7Dx7XaZusfqxjDzrVL) | 3:25 |
 | 50 | [Yours](https://open.spotify.com/track/5NLIIwf9UPaT04xU9aaZyr) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [智異山 オリジナル・サウンドトラック Part.4](https://open.spotify.com/album/0qK9PxAMNAwc4fPqsCyxwj) | 4:24 |
 
-Snapshot ID: `MTY0MjgxMTk4OCwwMDAwMDAwMDkwZjQ4NzZlNWNjYmNlN2UyZjcwMTI0MzMxMGQ3ZmVl`
+Snapshot ID: `MTY0Mjg5ODM5OSwwMDAwMDAwMDkwZjQ4NzZlNWNjYmNlN2UyZjcwMTI0MzMxMGQ3ZmVl`

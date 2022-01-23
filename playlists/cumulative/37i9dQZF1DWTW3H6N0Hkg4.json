@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 248857,
       "name": "Coraz\u00f3n Enamorado",
       "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 313613,
       "name": "El Verde De Tus Ojos",
       "url": "https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3"
@@ -488,6 +488,24 @@
     },
     {
       "album": {
+        "name": "Los Reyes de la Cumbia",
+        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "Las Mujeres No Se Acaban",
+      "url": "https://open.spotify.com/track/76JtOI0FWWI1KhM0Gyj3rJ"
+    },
+    {
+      "album": {
         "name": "El Aut\u00e9ntico e Imbatible",
         "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
       },
@@ -553,7 +571,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 201333,
       "name": "Mama Cumbia",
       "url": "https://open.spotify.com/track/108YjsKsz4buKAkCUYc0XQ"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 354520,
       "name": "Mix Juguito De Pina",
       "url": "https://open.spotify.com/track/68PWHpcmWTC92qoGADfOEG"
@@ -903,7 +921,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 311346,
       "name": "Rumba Frenesi",
       "url": "https://open.spotify.com/track/5LB9MFeblJWnzkqcDU0HA2"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 297293,
       "name": "Rumba Quimbumba",
       "url": "https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3"
@@ -939,7 +957,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 157106,
       "name": "Se Me Perdio La Cadenita",
       "url": "https://open.spotify.com/track/5VUR4MhJWAbp2ZHtSDvwJ7"

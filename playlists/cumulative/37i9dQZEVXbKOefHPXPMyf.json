@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 198739,
       "name": "Hola Como Vas",
       "url": "https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW"
@@ -1213,14 +1213,6 @@
         {
           "name": "DEEIKEL",
           "url": "https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi"
-        },
-        {
-          "name": "Adrian Arrieta",
-          "url": "https://open.spotify.com/artist/41UotWTumhzKbnYtUMu7kA"
-        },
-        {
-          "name": "Christopher Alfaro",
-          "url": "https://open.spotify.com/artist/1kSAPUJA6Nn53ahFUNYqND"
         }
       ],
       "date_added": "2022-01-18",
@@ -1479,7 +1471,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 122136,
       "name": "TITAN",
       "url": "https://open.spotify.com/track/2cR9cH9ta7MStHBKs0aOcz"

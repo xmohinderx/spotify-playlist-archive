@@ -114,6 +114,24 @@
     },
     {
       "album": {
+        "name": "Done Me Wrong / Bax",
+        "url": "https://open.spotify.com/album/30mWh7iOWxTJTLExLXCS1t"
+      },
+      "artists": [
+        {
+          "name": "Mosca",
+          "url": "https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333134,
+      "name": "Bax",
+      "url": "https://open.spotify.com/track/4x0WzGuKSqZkDKi0N69CLd"
+    },
+    {
+      "album": {
         "name": "Be Sharp Say Nowt",
         "url": "https://open.spotify.com/album/1Wx6VPrYYhN56cBE99izlc"
       },
@@ -183,7 +201,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 394124,
       "name": "Bigger Than Prince - Hot Since 82 Remix",
       "url": "https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f"
@@ -227,7 +245,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 275806,
       "name": "Buggin' - Edit",
       "url": "https://open.spotify.com/track/2TqSk3lGTFTO2N6qDWpODA"
@@ -245,7 +263,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 190750,
       "name": "Burns - Edit",
       "url": "https://open.spotify.com/track/7J8iTj9FU0Mw8VBbGBpFIY"
@@ -329,7 +347,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 156874,
       "name": "Dancin' Kinda Close",
       "url": "https://open.spotify.com/track/1jgpqjOTmP8MCSVKrSnRA0"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 364609,
       "name": "Higher Level - Bicep Remix",
       "url": "https://open.spotify.com/track/4FtjMbx5rC3fUqcBJXhu1G"
@@ -861,7 +879,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 218639,
       "name": "Nothing Better",
       "url": "https://open.spotify.com/track/1oqniN5rzgvhAWoq4HgY2W"
@@ -879,7 +897,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 359297,
       "name": "Okay",
       "url": "https://open.spotify.com/track/5VS7aJFWhrm5U4gO7wHbVB"
@@ -897,7 +915,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 371533,
       "name": "On Hold - Jamie xx Remix",
       "url": "https://open.spotify.com/track/0iALOYqXaVoluUIsSyDAny"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 150703,
       "name": "The Renegade",
       "url": "https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK"

@@ -1412,6 +1412,24 @@
     },
     {
       "album": {
+        "name": "I Really Like You (Remixes)",
+        "url": "https://open.spotify.com/album/4NxuJRGusCauOfvlEKbDm6"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215626,
+      "name": "I Really Like You - Blasterjaxx Remix",
+      "url": "https://open.spotify.com/track/7CZvFZDozMBgbfKSePgpSk"
+    },
+    {
+      "album": {
         "name": "I'm Blue (Club Mixes)",
         "url": "https://open.spotify.com/album/785itgCjNtYOiRpu1SIDoo"
       },
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 215186,
       "name": "If I Lose Myself - Alesso vs OneRepublic",
       "url": "https://open.spotify.com/track/3ScJy88F8KqGDfWu8XJhHx"
@@ -2065,7 +2083,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 219986,
       "name": "More - RedOne Jimmy Joker Remix",
       "url": "https://open.spotify.com/track/0aBKFfdyOD1Ttvgv0cfjjJ"
@@ -2201,6 +2219,28 @@
       "duration_ms": 208561,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK"
+    },
+    {
+      "album": {
+        "name": "Nevada (feat. Cozi Zuehlsdorff)",
+        "url": "https://open.spotify.com/album/6Xv7zgkIswLSsnqmYeo8OL"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208561,
+      "name": "Nevada (feat. Cozi Zuehlsdorff)",
+      "url": "https://open.spotify.com/track/5BIjJP1zlOa3iY65RSkXkr"
     },
     {
       "album": {
@@ -2473,7 +2513,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 286346,
       "name": "Paradise - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
@@ -2943,7 +2983,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 184846,
       "name": "Show Me Love - Radio Edit",
       "url": "https://open.spotify.com/track/2WIwmd809qDTOn4UJgDnNi"
@@ -3237,7 +3277,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 185942,
       "name": "Stay (Don't Go Away) [feat. Raye]",
       "url": "https://open.spotify.com/track/4YhN72dRYL2Z3MsaKyT7rS"
@@ -3817,7 +3857,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 242440,
       "name": "Wild Things - Young Bombs Remix",
       "url": "https://open.spotify.com/track/5RTcZV8NvRsmjPFwTvBMMx"

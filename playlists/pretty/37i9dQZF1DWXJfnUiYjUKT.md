@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Charlie Puth
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,183 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,291 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 2 | [thought it was](https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [thought it was](https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj) | 2:52 |
 | 3 | [Cold December](https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Cold December](https://open.spotify.com/album/6PHg4EsRdFC1eG24NJPk2K) | 3:12 |
 | 4 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 |
-| 5 | [Watercolor Eyes \- From “Euphoria” An Original HBO Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An Original HBO Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |
+| 5 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |
 | 6 | [Jigsaw](https://open.spotify.com/track/1WzOonguDKuWQrTTf5yR0D) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Jigsaw](https://open.spotify.com/album/4OmdjXVk6PslBdirwfruqQ) | 3:28 |
 | 7 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
 | 8 | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb) | 2:48 |

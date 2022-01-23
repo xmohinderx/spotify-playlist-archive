@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX14fkzxPABaL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX14fkzxPABaL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX14fkzxPABaL)
 
-### Enamorándose
+### [Enamorándose](https://open.spotify.com/playlist/1AAjF0AYqsSQNvAOQluejC)
 
 > La música que te acompaña en el amor\. Foto: Pablo Alborán.
 

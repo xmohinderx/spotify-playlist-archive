@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: iann dior
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,746 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,855 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 22 | [Getcho Mans](https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Brightside](https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ) | 3:31 |
 | 23 | [The High](https://open.spotify.com/track/0a2oWi06Mvk4CooExJWJTc) | [Ryan Shepherd](https://open.spotify.com/artist/2YZWwLVlUDK3KUziV2XHUx), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [The High](https://open.spotify.com/album/3Zlhl1M5UZ8s8MlUqO5B2X) | 3:29 |
 | 24 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 |
-| 25 | [A Gentlemen's Approach](https://open.spotify.com/track/6zlfKNfefAG5LqjigISTGJ) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [A Gentlemen's Approach](https://open.spotify.com/album/2S7oKl3TDAWKGbx7XGkneB) | 2:05 |
+| 25 | [A Gentleman's Approach](https://open.spotify.com/track/6zlfKNfefAG5LqjigISTGJ) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE) | [A Gentleman's Approach](https://open.spotify.com/album/2S7oKl3TDAWKGbx7XGkneB) | 2:05 |
 | 26 | [Santo](https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Santo](https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC) | 3:03 |
 | 27 | [Sweetpie](https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:38 |
 | 28 | [Two Of Those](https://open.spotify.com/track/66ZTqpuwvuZ3r0bqaMjydO) | [Pilla B](https://open.spotify.com/artist/0AeNbKQZXqe4MI4AtRU3Px) | [Two Of Those](https://open.spotify.com/album/0lyB6vWvp9k1tqxrftEUjr) | 3:27 |
 | 29 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 |
 | 30 | [Juice](https://open.spotify.com/track/2ufGjcxYk6SD0KBdA8gX2J) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Juice](https://open.spotify.com/album/7nUtmWS4nJ0fqEapRua3jq) | 2:36 |
 | 31 | [For Everybody \(These Hoes\)](https://open.spotify.com/track/3FLxQGlKB3lJ93cLHia9qu) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Dice Soho](https://open.spotify.com/artist/4gIRkExQ9L5kAPKiqYJk4R) | [For Everybody \(These Hoes\)](https://open.spotify.com/album/5vluXgU0T4rISSe54KLtKp) | 3:59 |
-| 32 | [Watercolor Eyes \- From “Euphoria” An Original HBO Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An Original HBO Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |
+| 32 | [Watercolor Eyes \- From “Euphoria” An HBO Original Series](https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Watercolor Eyes \(From “Euphoria” An HBO Original Series\)](https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF) | 3:31 |
 | 33 | [Cold December](https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Cold December](https://open.spotify.com/album/6PHg4EsRdFC1eG24NJPk2K) | 3:12 |
 | 34 | [Night Call](https://open.spotify.com/track/1dNyeO5Oy7RuGYOq30HrK2) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(New Year's Edition\)](https://open.spotify.com/album/4ANoIvV1JMAne7lFSExMI0) | 2:50 |
 | 35 | [Jigsaw](https://open.spotify.com/track/1WzOonguDKuWQrTTf5yR0D) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Jigsaw](https://open.spotify.com/album/4OmdjXVk6PslBdirwfruqQ) | 3:28 |

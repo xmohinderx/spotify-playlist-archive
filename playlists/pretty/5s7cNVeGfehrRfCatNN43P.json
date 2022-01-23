@@ -1,12 +1,12 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2021% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10243,
+  "num_followers": 10244,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjE5OCxkMTRhNjQxYzdmMWQ2MmYxNzA5ZWI4ZTBmZGI1MThkNDI3MTNlYzY3",
+  "snapshot_id": "MjIwMSxjOTdjZTVlYWZmNGVmMWVkZGNhMjcyY2Q5MTIzZmIzMDIzZDQ2ZGQy",
   "tracks": [
     {
       "added_at": "2022-01-21 09:32:10",
@@ -99,6 +99,30 @@
     {
       "added_at": "2022-01-21 09:32:10",
       "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        },
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 288348,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS"
+    },
+    {
+      "added_at": "2022-01-21 09:32:10",
+      "album": {
         "name": "The Gods We Can Touch",
         "url": "https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY"
       },
@@ -129,28 +153,20 @@
       "url": "https://open.spotify.com/track/6jkSYBuGuGoMQeeamNqHYH"
     },
     {
-      "added_at": "2022-01-21 09:32:10",
+      "added_at": "2022-01-22 09:21:16",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1bX7oU5pTHNbARrSIdfI9u"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        },
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+          "name": "MR WA7T",
+          "url": "https://open.spotify.com/artist/6KExhy91HNcSCbK6Hfy8GR"
         }
       ],
-      "duration_ms": 288348,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS"
+      "duration_ms": 287053,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/356v24OLdS8XrMrb6EH9ZS"
     },
     {
       "added_at": "2022-01-21 09:32:10",

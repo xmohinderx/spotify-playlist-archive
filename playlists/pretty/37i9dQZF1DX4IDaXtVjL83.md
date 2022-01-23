@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IDaXtVjL83.md) - [plain]
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: JAMIE, 22Bullets
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,965 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,030 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wouldn't Be Me \(feat\. JAMIE\)](https://open.spotify.com/track/13ggxXlRQxbxVXvM02UCJe) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Wouldn't Be Me \(feat\. JAMIE\)](https://open.spotify.com/album/1gqlifK1Pf9L9Xqx3vC4yg) | 2:50 |
+| 1 | [Wouldn't Be Me \(feat\. JAMIE\)](https://open.spotify.com/track/13ggxXlRQxbxVXvM02UCJe) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Wouldn't Be Me \(feat\. JAMIE\)](https://open.spotify.com/album/1gqlifK1Pf9L9Xqx3vC4yg) | 2:50 |
 | 2 | [Yummy Yummy Love](https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Yummy Yummy Love](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) | 3:19 |
 | 3 | [The Weekend \(with 347aidan\) \- Remix](https://open.spotify.com/track/0G7xOaJtStqoAEyLKNuRA3) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [The Weekend \(with 347aidan\) \[Remix\]](https://open.spotify.com/album/6Ccx88JcI9DhF1HjtGExZR) | 2:47 |
 | 4 | [CRY FOR ME](https://open.spotify.com/track/0PoAZ7SLFpqpYR9LSCYAo8) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/1Zk459EmzjRKMYbfxMY5CY) | 3:24 |

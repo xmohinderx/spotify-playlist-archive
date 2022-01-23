@@ -1,18 +1,18 @@
 {
   "description": "\u00a1Quiero Salsa, dame Salsa! Foto: Marc Anthony",
-  "num_followers": 246646,
+  "num_followers": 246919,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgxMTc4NywwMDAwMDAwMDc5MjZlMDcxMzdiMDU1MGNjMTNmYzU5NDk3OWU5ZDNj",
+  "snapshot_id": "MTY0Mjg5ODIyMiwwMDAwMDAwMDNhOGZlNzI1ZTQyZTMyNDA1YTk1ZjRhNjdkMmJiZmIw",
   "tracks": [
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "The Best Of Tito Nieves",
-        "url": "https://open.spotify.com/album/3oTMS3UMIigTrtJrXtNnpd"
+        "name": "Fabricando Fantas\u00edas",
+        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
       ],
-      "duration_ms": 308000,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/4DlK7m7NKhJzUQcTvMVMoU"
+      "duration_ms": 272266,
+      "name": "Fabricando Fantas\u00edas - Salsa Version",
+      "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -223,18 +223,18 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/0Lkf1Mgd8iTICnd8sYGgoi"
       },
       "artists": [
         {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 311400,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+      "duration_ms": 309573,
+      "name": "Que Locura Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/4Ih0JljQ3X3PbHfmuk05PR"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -255,18 +255,18 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Una Aventura...La Historia",
-        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
+        "name": "Amor Y Control",
+        "url": "https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         }
       ],
-      "duration_ms": 294280,
-      "name": "Sin Sentimientos",
-      "url": "https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL"
+      "duration_ms": 352440,
+      "name": "Amor y Control",
+      "url": "https://open.spotify.com/track/303cDwi274kSEH0NSR73AX"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -319,8 +319,8 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Fabricando Fantas\u00edas",
-        "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
+        "name": "The Best Of Tito Nieves",
+        "url": "https://open.spotify.com/album/3oTMS3UMIigTrtJrXtNnpd"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
       ],
-      "duration_ms": 272266,
-      "name": "Fabricando Fantas\u00edas - Salsa Version",
-      "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
+      "duration_ms": 308000,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/4DlK7m7NKhJzUQcTvMVMoU"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -367,34 +367,82 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Amor Y Control",
-        "url": "https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj"
+        "name": "Una Aventura...La Historia",
+        "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
       },
       "artists": [
         {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 352440,
-      "name": "Amor y Control",
-      "url": "https://open.spotify.com/track/303cDwi274kSEH0NSR73AX"
+      "duration_ms": 294280,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL"
     },
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/0Lkf1Mgd8iTICnd8sYGgoi"
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 309573,
-      "name": "Que Locura Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/4Ih0JljQ3X3PbHfmuk05PR"
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
+      },
+      "artists": [
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "duration_ms": 292653,
+      "name": "Mi Media Mitad",
+      "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "En Tiempo de Amor",
+        "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 292773,
+      "name": "Te Va a Doler",
+      "url": "https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -431,22 +479,6 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "En Tiempo de Amor",
-        "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 292773,
-      "name": "Te Va a Doler",
-      "url": "https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
         "name": "B\u00fascame",
         "url": "https://open.spotify.com/album/2NCLhGDYACSCs0UHT9jLAL"
       },
@@ -463,50 +495,18 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+        "name": "Travesia",
+        "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 300160,
-      "name": "Tu Amor Me Hace Bien - Salsa Version",
-      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Voy Pa'Encima",
-        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 292653,
-      "name": "Mi Media Mitad",
-      "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
+      "duration_ms": 266493,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -527,76 +527,8 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "The Greatest Salsa Ever",
-        "url": "https://open.spotify.com/album/2OqyiEhwbG2vPN8IIvUiD5"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 297640,
-      "name": "Ella Es",
-      "url": "https://open.spotify.com/track/1FMB6N5mxteLowfQJbeg5b"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Detalles",
-        "url": "https://open.spotify.com/album/0yw16WalUWK5vOUbFlGYAI"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 278871,
-      "name": "Detalles",
-      "url": "https://open.spotify.com/track/21d6EkqWaoA2hPDBUp2u8H"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "De Vuelta Pa' La Vuelta",
-        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 231593,
-      "name": "De Vuelta Pa' La Vuelta",
-      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 331773,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Sentimental de Punta a Punta",
-        "url": "https://open.spotify.com/album/0tUMgQJLd38NQD7OSFPQgK"
+        "name": "A Fondo Con...Guayacan Orquesta",
+        "url": "https://open.spotify.com/album/5EZE3au0L8qVleoxtwdOKA"
       },
       "artists": [
         {
@@ -604,25 +536,25 @@
           "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
         }
       ],
-      "duration_ms": 323683,
-      "name": "Oiga, Mire, Vea - Salsa",
-      "url": "https://open.spotify.com/track/4YGSpi9g7ohPFO8TXpvSUZ"
+      "duration_ms": 334602,
+      "name": "Te Amo Te Extrano",
+      "url": "https://open.spotify.com/track/73s9Vx1Z16lthkg86ftGn0"
     },
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
         }
       ],
-      "duration_ms": 354093,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
+      "duration_ms": 301573,
+      "name": "Amores Como el Nuestro",
+      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -643,6 +575,42 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
+        "name": "Exitos Originales",
+        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Desde Un Principio / From The Beginning",
+        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 366200,
+      "name": "Vivir Lo Nuestro",
+      "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
         "name": "De Verdad",
         "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
@@ -659,34 +627,50 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Inconfundible",
-        "url": "https://open.spotify.com/album/1VOFVi0W0TME7lcHaorE5B"
+        "name": "The Greatest Salsa Ever",
+        "url": "https://open.spotify.com/album/2OqyiEhwbG2vPN8IIvUiD5"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 278000,
-      "name": "Por Ella",
-      "url": "https://open.spotify.com/track/6xggO96o1OD6zNd5wjevhQ"
+      "duration_ms": 297640,
+      "name": "Ella Es",
+      "url": "https://open.spotify.com/track/1FMB6N5mxteLowfQJbeg5b"
     },
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 301573,
-      "name": "Amores Como el Nuestro",
-      "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
+      "duration_ms": 354093,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -711,6 +695,86 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
+        "name": "Voy Pa'Encima",
+        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Detalles",
+        "url": "https://open.spotify.com/album/0yw16WalUWK5vOUbFlGYAI"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/21d6EkqWaoA2hPDBUp2u8H"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0tUMgQJLd38NQD7OSFPQgK"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 323683,
+      "name": "Oiga, Mire, Vea - Salsa",
+      "url": "https://open.spotify.com/track/4YGSpi9g7ohPFO8TXpvSUZ"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Acarey Ya Lleg\u00f3",
+        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
+      },
+      "artists": [
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "Eres Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Salsa Exitos",
+        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
+      },
+      "artists": [
+        {
+          "name": "Pedro Conga",
+          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
+        }
+      ],
+      "duration_ms": 311800,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
       },
@@ -727,18 +791,102 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 307200,
-      "name": "Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
+      "duration_ms": 331773,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Pa' Otro La 'o",
+        "url": "https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        }
+      ],
+      "duration_ms": 316960,
+      "name": "Amor Narc\u00f3tico",
+      "url": "https://open.spotify.com/track/0UcoGDfyRvyd9xr0168ym9"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 270093,
+      "name": "Mi Libertad",
+      "url": "https://open.spotify.com/track/25rZ4tMiSLmMDnk1jHZCGh"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "S\u00f3lo Hits",
+        "url": "https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 309920,
+      "name": "Cali Pachanguero",
+      "url": "https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "De Vuelta Pa' La Vuelta",
+        "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 231593,
+      "name": "De Vuelta Pa' La Vuelta",
+      "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "duration_ms": 223440,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -768,153 +916,9 @@
           "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
         }
       ],
-      "duration_ms": 334602,
-      "name": "Te Amo Te Extrano",
-      "url": "https://open.spotify.com/track/73s9Vx1Z16lthkg86ftGn0"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        }
-      ],
-      "duration_ms": 223440,
-      "name": "Casi un Hechizo",
-      "url": "https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "S\u00f3lo Hits",
-        "url": "https://open.spotify.com/album/6VK8ocOhngLmP5JoXDvKEV"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 309920,
-      "name": "Cali Pachanguero",
-      "url": "https://open.spotify.com/track/3SXWtn3YbXOuz6s9LN8LeJ"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Pa' Otro La 'o",
-        "url": "https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        }
-      ],
-      "duration_ms": 316960,
-      "name": "Amor Narc\u00f3tico",
-      "url": "https://open.spotify.com/track/0UcoGDfyRvyd9xr0168ym9"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Exitos Originales",
-        "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
-      },
-      "artists": [
-        {
-          "name": "Maelo Ruiz",
-          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Acarey Ya Lleg\u00f3",
-        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
-      },
-      "artists": [
-        {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "Eres Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Expresion",
-        "url": "https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 290413,
-      "name": "Que Alguien Me Diga",
-      "url": "https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 270093,
-      "name": "Mi Libertad",
-      "url": "https://open.spotify.com/track/25rZ4tMiSLmMDnk1jHZCGh"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Travesia",
-        "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 266493,
-      "name": "Tengo Ganas",
-      "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Salsa Exitos",
-        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
-      },
-      "artists": [
-        {
-          "name": "Pedro Conga",
-          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
-        }
-      ],
-      "duration_ms": 311800,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA"
+      "duration_ms": 313234,
+      "name": "Invierno En Primavera",
+      "url": "https://open.spotify.com/track/3FbZnYrR6fLfqwNhX7TyHY"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -935,42 +939,50 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Desde Un Principio / From The Beginning",
-        "url": "https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI"
+        "name": "OPUS",
+        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
       },
       "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        },
         {
           "name": "Marc Anthony",
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 366200,
-      "name": "Vivir Lo Nuestro",
-      "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+      "duration_ms": 268440,
+      "name": "Parecen Viernes",
+      "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
     },
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "32 Ca\u00f1onazos",
-        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
+        "name": "Expresion",
+        "url": "https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 312480,
-      "name": "En Barranquilla Me Quedo",
-      "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
+      "duration_ms": 290413,
+      "name": "Que Alguien Me Diga",
+      "url": "https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 313560,
+      "name": "Mi Mayor Venganza",
+      "url": "https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -995,34 +1007,18 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "A Fondo Con...Guayacan Orquesta",
-        "url": "https://open.spotify.com/album/5EZE3au0L8qVleoxtwdOKA"
+        "name": "Exitos y Mas",
+        "url": "https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD"
       },
       "artists": [
         {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
         }
       ],
-      "duration_ms": 313234,
-      "name": "Invierno En Primavera",
-      "url": "https://open.spotify.com/track/3FbZnYrR6fLfqwNhX7TyHY"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "OPUS",
-        "url": "https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Parecen Viernes",
-      "url": "https://open.spotify.com/track/0dqfl4l45vqw2TnNrnbsy0"
+      "duration_ms": 306440,
+      "name": "A Donde Iras",
+      "url": "https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1043,8 +1039,8 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Exitos de Victor Manuelle",
-        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+        "name": "Inconfundible",
+        "url": "https://open.spotify.com/album/1VOFVi0W0TME7lcHaorE5B"
       },
       "artists": [
         {
@@ -1052,9 +1048,25 @@
           "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 304333,
-      "name": "Api\u00e1date de Mi",
-      "url": "https://open.spotify.com/track/4ZVgDysve5dcNK6TX84t8e"
+      "duration_ms": 278000,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/6xggO96o1OD6zNd5wjevhQ"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Como Te Pago",
+        "url": "https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        }
+      ],
+      "duration_ms": 193462,
+      "name": "Como Te Pago",
+      "url": "https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1075,8 +1087,8 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm"
+        "name": "Dicen Que Soy",
+        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
       },
       "artists": [
         {
@@ -1084,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         }
       ],
-      "duration_ms": 313560,
-      "name": "Mi Mayor Venganza",
-      "url": "https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi"
+      "duration_ms": 297040,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/7JXThmie7TTZfnGpD6hOJG"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1123,82 +1135,70 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Como Te Pago",
-        "url": "https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM"
+        "name": "Serie Millennium 21: Paquito Guzman",
+        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
       },
       "artists": [
         {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          "name": "Paquito Guzman",
+          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
         }
       ],
-      "duration_ms": 193462,
-      "name": "Como Te Pago",
-      "url": "https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3"
+      "duration_ms": 309253,
+      "name": "Cinco Noches",
+      "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
     },
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Exitos y Mas",
-        "url": "https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD"
+        "name": "Edici\u00f3n Limitada",
+        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
       },
       "artists": [
         {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
         }
       ],
-      "duration_ms": 306440,
-      "name": "A Donde Iras",
-      "url": "https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28"
+      "duration_ms": 286306,
+      "name": "Amor Traicionero",
+      "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
     },
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Dicen Que Soy",
-        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
+        "name": "Colecci\u00f3n De Oro",
+        "url": "https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo"
       },
       "artists": [
         {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 297040,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/7JXThmie7TTZfnGpD6hOJG"
+      "duration_ms": 230520,
+      "name": "Desesperado",
+      "url": "https://open.spotify.com/track/3NYWeHXkfrcYa4iXegFUR5"
     },
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Buscando America",
-        "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
+        "name": "32 Ca\u00f1onazos",
+        "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
       "artists": [
         {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 303400,
-      "name": "Decisiones",
-      "url": "https://open.spotify.com/track/2BOcua9pjhKuVtgN40AAHX"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Probablemente",
-        "url": "https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP"
-      },
-      "artists": [
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
         {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 300265,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra"
+      "duration_ms": 312480,
+      "name": "En Barranquilla Me Quedo",
+      "url": "https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1212,29 +1212,45 @@
           "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
         }
       ],
-      "duration_ms": 305066,
-      "name": "Dile A Ella",
-      "url": "https://open.spotify.com/track/45nyOQWvhjn9bfAoTIKCuJ"
+      "duration_ms": 304333,
+      "name": "Api\u00e1date de Mi",
+      "url": "https://open.spotify.com/track/4ZVgDysve5dcNK6TX84t8e"
     },
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Milenario, Vol. 3",
-        "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU"
       },
       "artists": [
         {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
         },
         {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+          "name": "Willie Colon Y Ruben Blades",
+          "url": "https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO"
         }
       ],
-      "duration_ms": 265026,
-      "name": "La Noche",
-      "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
+      "duration_ms": 443480,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/09PGyODYYlVsL49N7TR914"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 626826,
+      "name": "El Cantante",
+      "url": "https://open.spotify.com/track/1uRXl9FJPkommfTTqXkhRo"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1271,18 +1287,170 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Serie Millennium 21: Paquito Guzman",
-        "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
+        "name": "Dicen Que Soy",
+        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
       },
       "artists": [
         {
-          "name": "Paquito Guzman",
-          "url": "https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5"
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         }
       ],
-      "duration_ms": 309253,
-      "name": "Cinco Noches",
-      "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
+      "duration_ms": 280013,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Fuego En El 23",
+        "url": "https://open.spotify.com/album/4jGQVE5IniOspcAzlyQ95f"
+      },
+      "artists": [
+        {
+          "name": "Sonora Ponce\u00f1a",
+          "url": "https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa"
+        }
+      ],
+      "duration_ms": 284653,
+      "name": "Fuego En El 23",
+      "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Dos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/27dR4YTXlLQCHfrvDTkgfM"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 287960,
+      "name": "Pensamiento y Palabra",
+      "url": "https://open.spotify.com/track/7HZgFgvqDQpe4ZWIYwh0YV"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+      },
+      "artists": [
+        {
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+        }
+      ],
+      "duration_ms": 285546,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Milenario, Vol. 3",
+        "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 265026,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Buscando America",
+        "url": "https://open.spotify.com/album/3fKfLNe4w7qBIeGOMqXBbu"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 303400,
+      "name": "Decisiones",
+      "url": "https://open.spotify.com/track/2BOcua9pjhKuVtgN40AAHX"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 309586,
+      "name": "Ahora Quien - Salsa Version",
+      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 305066,
+      "name": "Dile A Ella",
+      "url": "https://open.spotify.com/track/45nyOQWvhjn9bfAoTIKCuJ"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "The 'Brillante' Best",
+        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Usted Abus\u00f3",
+      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Greatest Hits (Serie Cristal)",
+        "url": "https://open.spotify.com/album/2zWUGZTsdpLSDIQDasNUv6"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alberto \"El Canario\"",
+          "url": "https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "Bailamos Otra Vez",
+      "url": "https://open.spotify.com/track/3oyeiHWxroNe5oaLnLUxCL"
     },
     {
       "added_at": "2021-11-12 05:01:00",
@@ -1307,182 +1475,18 @@
     {
       "added_at": "2021-11-12 05:01:00",
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/3TZvhtRWCC83hHykgTmu6G"
+        "name": "Probablemente",
+        "url": "https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP"
       },
       "artists": [
         {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
         }
       ],
-      "duration_ms": 626826,
-      "name": "El Cantante",
-      "url": "https://open.spotify.com/track/1uRXl9FJPkommfTTqXkhRo"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Dos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/27dR4YTXlLQCHfrvDTkgfM"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 287960,
-      "name": "Pensamiento y Palabra",
-      "url": "https://open.spotify.com/track/7HZgFgvqDQpe4ZWIYwh0YV"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "La Herencia",
-        "url": "https://open.spotify.com/album/7C94KIrL1IS3hHQwQ9BbGr"
-      },
-      "artists": [
-        {
-          "name": "Ismael Rivera",
-          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
-        }
-      ],
-      "duration_ms": 214213,
-      "name": "Dime Por Que",
-      "url": "https://open.spotify.com/track/7zKdfPOyJvmtzVIgZYheGZ"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Mi Vida Es Cantar",
-        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Y No Hay M\u00e1s Na",
-        "url": "https://open.spotify.com/album/3NfQpI1g7293zTjirDR73X"
-      },
-      "artists": [
-        {
-          "name": "N'Samble",
-          "url": "https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f"
-        }
-      ],
-      "duration_ms": 353253,
-      "name": "Coraz\u00f3n Embusteros",
-      "url": "https://open.spotify.com/track/527sYZvnJbG8z5ScW2DAVU"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        },
-        {
-          "name": "Willie Colon Y Ruben Blades",
-          "url": "https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO"
-        }
-      ],
-      "duration_ms": 443480,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/09PGyODYYlVsL49N7TR914"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Dicen Que Soy",
-        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 281040,
-      "name": "Dicen Que Soy",
-      "url": "https://open.spotify.com/track/6Lr6DGoVF77bNdHsfiwfPZ"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Pa' Bravo Yo",
-        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
-      },
-      "artists": [
-        {
-          "name": "Justo Betancourt",
-          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Pa' Bravo Yo",
-      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "En Barranquilla Me Quedo (Homenaje a Joe Arroyo)",
-        "url": "https://open.spotify.com/album/4UiHiuhosaIa2229YiJXKn"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 284732,
-      "name": "En Barranquilla Me Quedo",
-      "url": "https://open.spotify.com/track/72MkzD8gSET1ofpIuvTNe0"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Nuevo Milenio - El Mismo Sabor",
-        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Edici\u00f3n Limitada",
-        "url": "https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 286306,
-      "name": "Amor Traicionero",
-      "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
+      "duration_ms": 300265,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra"
     }
   ],
   "unique_name": "Dame Salsa",

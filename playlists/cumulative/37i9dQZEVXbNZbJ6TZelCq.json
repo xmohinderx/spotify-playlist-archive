@@ -1659,7 +1659,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 177931,
       "name": "Champs-\u00c9lys\u00e9es",
       "url": "https://open.spotify.com/track/3yZRQkgxHkFQ6fSjMFNtwy"
@@ -2137,7 +2137,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 152112,
       "name": "Darbuka",
       "url": "https://open.spotify.com/track/1T2LPdfVBRZABs6PCY9mJ2"
@@ -2671,7 +2671,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 209715,
       "name": "Dragostea Ta",
       "url": "https://open.spotify.com/track/2ZhMraqx6eOMFMb9gtzkCj"
@@ -2819,7 +2819,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
@@ -4541,6 +4541,24 @@
       "duration_ms": 263641,
       "name": "I Heard You\u2019re Married (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D"
+    },
+    {
+      "album": {
+        "name": "I Love You So",
+        "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160239,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
       "album": {
@@ -7407,7 +7425,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 168391,
       "name": "Pentru totdeauna",
       "url": "https://open.spotify.com/track/57Ukaxs1uTMXiXLbzs1d1B"
@@ -9016,6 +9034,28 @@
     },
     {
       "album": {
+        "name": "Special/Hulk",
+        "url": "https://open.spotify.com/album/5ys5NDnY6nSJHhuT5sbNxL"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244363,
+      "name": "Special/Hulk",
+      "url": "https://open.spotify.com/track/5iRgCmF1QZdxHHfeSNuply"
+    },
+    {
+      "album": {
         "name": "Sport Bani",
         "url": "https://open.spotify.com/album/4kWvAwBhkJI7ovjN74ItvY"
       },
@@ -9355,7 +9395,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
@@ -10182,6 +10222,32 @@
     },
     {
       "album": {
+        "name": "Vin Viu, Plec Mort",
+        "url": "https://open.spotify.com/album/1CWkifZnbkVQgw0gzevbtH"
+      },
+      "artists": [
+        {
+          "name": "HVNDS",
+          "url": "https://open.spotify.com/artist/46N42YdqniE8UPy3fODQRt"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Killa Fonic",
+          "url": "https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210121,
+      "name": "Vin Viu, Plec Mort",
+      "url": "https://open.spotify.com/track/0nqeIxCHDRuPJMP5AGwTQV"
+    },
+    {
+      "album": {
         "name": "Visiting Hours",
         "url": "https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN"
       },
@@ -10307,6 +10373,24 @@
       "duration_ms": 139563,
       "name": "Wasted Love (feat. Lagique)",
       "url": "https://open.spotify.com/track/2pPO9YecZimmuVQfIzfV6U"
+    },
+    {
+      "album": {
+        "name": "Watercolor Eyes (From \u201cEuphoria\u201d An HBO Original Series)",
+        "url": "https://open.spotify.com/album/12fNudihprFoc3Jj5nGFkF"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211613,
+      "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
+      "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
     },
     {
       "album": {

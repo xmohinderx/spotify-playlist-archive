@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7hD3xpkU4gL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7hD3xpkU4gL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7hD3xpkU4gL)
 
-### Las 100 mejores baladas
+### [Las 100 mejores baladas](https://open.spotify.com/playlist/6aZpup5jgvFQkPSXm4XElN)
 
 > Para cantar muy bajito..\. o a voz en grito.
 
@@ -44,7 +44,7 @@
 | [El Amor de Mi Vida](https://open.spotify.com/track/2D2GISPz94aFg526x54sfH) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Sentimientos](https://open.spotify.com/album/4jaAmmz5L8AlfaLpZJ7Mf3) | 5:30 | 2022-01-03 |  |
 | [El Jardín Prohibido](https://open.spotify.com/track/3xec1BelrzOd6v0o8HRd2l) | [Sandro Giacobbe](https://open.spotify.com/artist/1S3bAZkOXVuYHT9LGNzbV5) | [Sandro Giacobbe: Éxitos](https://open.spotify.com/album/6HLG8adzzPKN0CI2IzXKSb) | 4:07 | 2022-01-03 |  |
 | [El mundo](https://open.spotify.com/track/3umRF5xJzVrSofDlkJulJd) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Via Dalma II](https://open.spotify.com/album/0S5gRSeaHeH10kOQsE8RvK) | 3:30 | 2022-01-03 |  |
-| [Endless Love](https://open.spotify.com/track/5iwyLsQ5yjnCaRrJGyAPZM) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 4:26 | 2022-01-03 |  |
+| [Endless Love](https://open.spotify.com/track/5iwyLsQ5yjnCaRrJGyAPZM) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 4:26 | 2022-01-03 | 2022-01-23 |
 | [Eres Mi Religión](https://open.spotify.com/track/3NTaEHQg5iVrRRNWlnK4RY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 5:27 | 2022-01-03 |  |
 | [Eres Tú](https://open.spotify.com/track/5ETDazN24XkAEvf00KT2jU) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Esencial Mocedades](https://open.spotify.com/album/6nd5Lgj54ThSlY9nwryi7P) | 3:31 | 2022-01-03 |  |
 | [Es Por Tí](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 | 2022-01-03 |  |
@@ -83,6 +83,7 @@
 | [Rosas](https://open.spotify.com/track/3VxyaYxED6z3AWW9InrOt0) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [LOVG \- Grandes Exitos](https://open.spotify.com/album/78pVFOrah8ufVF80rgcs74) | 3:57 | 2022-01-03 |  |
 | [Sacrifice](https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Sleeping With The Past \(Remastered with bonus tracks\)](https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r) | 5:04 | 2022-01-03 |  |
 | [Santa Lucia](https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [Canciones De Amor Para Tiempos Dificiles](https://open.spotify.com/album/1HITxEQK7ac082gDH7ynDR) | 3:45 | 2022-01-03 |  |
+| [Say You, Say Me](https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Dancing On The Ceiling \(Expanded Edition\)](https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf) | 4:01 | 2022-01-03 |  |
 | [Se Dejaba Llevar Por Ti](https://open.spotify.com/track/1RIwbR2FlqiWLr3tFp9w1W) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF), [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [De Aki A Ketama](https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7) | 4:18 | 2022-01-03 |  |
 | [Se fué](https://open.spotify.com/track/5oQadhkuEdEhtdVn0QceyZ) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Laura Pausini \- Spanish Version](https://open.spotify.com/album/3mAzRo03Jk2g3Vq1q382tm) | 4:40 | 2022-01-03 |  |
 | [Si Tú La Quieres \- Versión Balada](https://open.spotify.com/track/3c5KjQlxwrWBf7oBN8nU2k) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [En Tus Planes](https://open.spotify.com/album/4mFgW04qaWGcdhimbOZO8F) | 4:52 | 2022-01-03 |  |
@@ -99,7 +100,7 @@
 | [Te Lloré Un Río](https://open.spotify.com/track/1krPRCgaaG2k8QDZo16Qae) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [The Studio Albums 1990\-2011](https://open.spotify.com/album/5SAhhnpMwvz8epkSaPj3CN) | 4:52 | 2022-01-03 |  |
 | [Te Quiero](https://open.spotify.com/track/3DWXjC6kGV4aSgbcxkZVed) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Mis Favoritas](https://open.spotify.com/album/4mwUQaf9Q8TX3KMvN1VJRF) | 3:47 | 2022-01-03 |  |
 | [Te Regalo](https://open.spotify.com/track/5ErcCfdGMmeqT2DCMCE4pB) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Te Regalo](https://open.spotify.com/album/0KpR2Ay6egxk0oMg3zGVZQ) | 4:02 | 2022-01-03 |  |
-| [Total Eclipse of the Heart](https://open.spotify.com/track/5prTs2HAw2G4idHZyeFp8o) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best Of Bonnie Tyler](https://open.spotify.com/album/1CuFf5IslmlCno7DAFjrt9) | 4:29 | 2022-01-03 |  |
+| [Total Eclipse of the Heart](https://open.spotify.com/track/5prTs2HAw2G4idHZyeFp8o) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [The Very Best Of Bonnie Tyler](https://open.spotify.com/album/1CuFf5IslmlCno7DAFjrt9) | 4:29 | 2022-01-03 | 2022-01-23 |
 | [Tú](https://open.spotify.com/track/06ZHKsf9cZwpRrQSuMsJRg) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Tú](https://open.spotify.com/album/6oBitKslqW8Zy0Lv0rIhpQ) | 4:06 | 2022-01-03 |  |
 | [Un Ramito de Violetas](https://open.spotify.com/track/3lpF8AbTteK4bXXZMhm31n) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Esencial Cecilia](https://open.spotify.com/album/7veqpAwWKsRDoe5ALdfcZ2) | 4:13 | 2022-01-03 |  |
 | [Unchained Melody](https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [The Very Best Of The Righteous Brothers \- Unchained Melody](https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6) | 3:36 | 2022-01-03 |  |
@@ -107,6 +108,7 @@
 | [Vete](https://open.spotify.com/track/0i1GezGryGjdsyPovCkctk) | [Los Amaya](https://open.spotify.com/artist/0BSPrk9z6EHzPOac8r07bw) | [Vete](https://open.spotify.com/album/0WA5dSCMQVVA1yF8K2S56C) | 4:00 | 2022-01-03 |  |
 | [Ya No](https://open.spotify.com/track/4lWnNqKJmhxrgzidQmXB94) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [Bailar El Viento](https://open.spotify.com/album/62lZaizcM3SNQqs6rZG8kS) | 3:46 | 2022-01-03 |  |
 | [Ya Te Olvidé](https://open.spotify.com/track/6svomc2OrfHEqm6bIDqddz) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 3:00 | 2022-01-03 |  |
+| [You're Beautiful](https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb) | 3:29 | 2022-01-03 |  |
 | [¿Y cómo es él?](https://open.spotify.com/track/7rm6kcMbUZNMzkELONGaVY) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Celebridades\- Jose Luis Perales](https://open.spotify.com/album/0s04HfSPWUXc9L6slKaT1Y) | 4:08 | 2022-01-03 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

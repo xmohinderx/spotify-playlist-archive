@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 174857,
       "name": "1 2 365 4 Me",
       "url": "https://open.spotify.com/track/6TtDPG6eFqDGooeyKYXaea"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 197032,
       "name": "all my ghosts",
       "url": "https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 214746,
       "name": "Am I Alright",
       "url": "https://open.spotify.com/track/2OZJWIhTXHL3UKJmhG5kxq"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 155560,
       "name": "and it sounds like (ice cream)",
       "url": "https://open.spotify.com/track/29OFcHc0kWNGMYgs6OWZuN"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 178150,
       "name": "Bad Dream Baby",
       "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
@@ -1829,7 +1829,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 166248,
       "name": "Blondes",
       "url": "https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m"
@@ -2360,6 +2360,24 @@
     },
     {
       "album": {
+        "name": "butterflies,",
+        "url": "https://open.spotify.com/album/0wr1UdlxD4zZR7StZUBV3H"
+      },
+      "artists": [
+        {
+          "name": "Morgan Reese",
+          "url": "https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161509,
+      "name": "butterflies,",
+      "url": "https://open.spotify.com/track/2V9aOl8SmtGh657MjnxSX9"
+    },
+    {
+      "album": {
         "name": "forever fifteen",
         "url": "https://open.spotify.com/album/3GWDTDhstbhNxfyZJKwqVU"
       },
@@ -2533,7 +2551,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 223800,
       "name": "Can I Leave Me Too?",
       "url": "https://open.spotify.com/track/7gJNP36MQMaE3HyyKkwgAO"
@@ -2695,7 +2713,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 215515,
       "name": "chance with you",
       "url": "https://open.spotify.com/track/0Mdpgse4iIjQOpWJGTh3VS"
@@ -2735,7 +2753,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 147368,
       "name": "CHARGER (ft. Charli XCX)",
       "url": "https://open.spotify.com/track/0WDjZuWS4Z0ATgR8eL5cr1"
@@ -4237,7 +4255,7 @@
       ],
       "date_added": "2021-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
@@ -4421,7 +4439,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 200701,
       "name": "drinking games",
       "url": "https://open.spotify.com/track/1uE4onkFvDXyBjIGsu9PZ5"
@@ -5543,7 +5561,7 @@
       ],
       "date_added": "2021-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 156461,
       "name": "Furniture",
       "url": "https://open.spotify.com/track/6Yw8OzTprQU3pqwnBRodi3"
@@ -5601,7 +5619,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 209748,
       "name": "Games",
       "url": "https://open.spotify.com/track/54HMQ6LzInyFQaxv6sK2TG"
@@ -6261,7 +6279,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 191830,
       "name": "happy for me",
       "url": "https://open.spotify.com/track/5xb35zCNGaD9XuZtp4PZCv"
@@ -6471,7 +6489,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 166613,
       "name": "help herself (with BENEE)",
       "url": "https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi"
@@ -7027,7 +7045,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 165533,
       "name": "i deserve 2 b alone",
       "url": "https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD"
@@ -7305,7 +7323,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 147996,
       "name": "I Try",
       "url": "https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr"
@@ -7395,7 +7413,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 213501,
       "name": "I Want U",
       "url": "https://open.spotify.com/track/52ewMn6BRCU9hAPysg8TLm"
@@ -9039,7 +9057,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 170213,
       "name": "love of your life",
       "url": "https://open.spotify.com/track/58mNlQC7dh07i8JF8CMycR"
@@ -10379,7 +10397,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 266036,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
@@ -10513,7 +10531,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 147560,
       "name": "NO WAY!",
       "url": "https://open.spotify.com/track/6mh1v2YKd7cMe7ra7m37SB"
@@ -10971,7 +10989,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 244368,
       "name": "Oh, But Lover",
       "url": "https://open.spotify.com/track/3bHeVMbA84wmuHr5p2POrp"
@@ -12001,7 +12019,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 281026,
       "name": "Pretty Places - St. Lucia Remix",
       "url": "https://open.spotify.com/track/0JYR0lyLlDinGYd2XDMXmO"
@@ -12131,7 +12149,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 153783,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9"
@@ -13683,7 +13701,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 114320,
       "name": "Something",
       "url": "https://open.spotify.com/track/3CzfTl1RSsQ6jnxKZmsJMe"
@@ -13879,7 +13897,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 131408,
       "name": "spinnin",
       "url": "https://open.spotify.com/track/0yB9bFHPntWhj0iJoVFkDm"
@@ -15353,7 +15371,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 220840,
       "name": "The Walls Are Way Too Thin",
       "url": "https://open.spotify.com/track/29CDTN3TfjGr4f1yRQqAtV"
@@ -16423,7 +16441,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 192466,
       "name": "WHAT WOULD YOU DO? (feat. Pink Sweat$)",
       "url": "https://open.spotify.com/track/63CGV6P4cEYZvUgvVhZWAl"
@@ -16459,7 +16477,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 177186,
       "name": "What's Wrong",
       "url": "https://open.spotify.com/track/1C5YO3ItmCjO2lUtLQmYYO"
@@ -16589,7 +16607,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 206857,
       "name": "When U Saw Love (ft. Babygirl)",
       "url": "https://open.spotify.com/track/2DGdgztVbE3pFmqoF1rHzp"
@@ -16755,7 +16773,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 208586,
       "name": "Woah Man",
       "url": "https://open.spotify.com/track/1cURTWQdBWRjUaJI6Fdbsg"
@@ -16863,7 +16881,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Wrong with u",
       "url": "https://open.spotify.com/track/476F7Wdh2LQLBbf3guDfIQ"
@@ -17019,7 +17037,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 216386,
       "name": "You Deserve an Oscar",
       "url": "https://open.spotify.com/track/1TLnYF9GcPBQipGxZQ5nPF"

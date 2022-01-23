@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-21",
   "description": "En\u00e9rgicos beats para musicalizar tu rutina casera de ejercicios.",
   "name": "La Sala Es Tu Gym",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "54rYplEZuGNhtE5n6Ajae7"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,10 +19,32 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 143040,
       "name": "50 Days",
       "url": "https://open.spotify.com/track/0bLgmoLTwCWOausnxpHfGw"
+    },
+    {
+      "album": {
+        "name": "AGEN WIDA",
+        "url": "https://open.spotify.com/album/5Oc42yHyXbHNXD87yEwfA7"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199047,
+      "name": "AGEN WIDA",
+      "url": "https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG"
     },
     {
       "album": {
@@ -447,7 +471,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 179016,
       "name": "Color",
       "url": "https://open.spotify.com/track/39yvrvJ9J6s485e2zG9DBL"
@@ -847,7 +871,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 326887,
       "name": "Five Hours",
       "url": "https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT"
@@ -1021,7 +1045,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 147093,
       "name": "How I Like It",
       "url": "https://open.spotify.com/track/7Djhup0pJRq54FX1LMx17L"
@@ -1043,7 +1067,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 190240,
       "name": "I Don't Want You",
       "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
@@ -1149,7 +1173,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 215200,
       "name": "Jinn",
       "url": "https://open.spotify.com/track/4NELKXacSEkhWYujzYzEU0"
@@ -1255,7 +1279,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 280645,
       "name": "La Rana",
       "url": "https://open.spotify.com/track/1Cv6h7fvpqwwhwzFghwfwP"
@@ -1273,7 +1297,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 139354,
       "name": "Leave Me",
       "url": "https://open.spotify.com/track/4HwCOHAttt18YbphVEt2Tc"
@@ -1529,7 +1553,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 200017,
       "name": "Panda",
       "url": "https://open.spotify.com/track/5fO5BPkXwoANEc7jJX9oIk"
@@ -1559,6 +1583,24 @@
       "duration_ms": 146500,
       "name": "Party On My Own (feat. FAULHABER)",
       "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
+    },
+    {
+      "album": {
+        "name": "Path",
+        "url": "https://open.spotify.com/album/0GCuRKq1oIsB89qxwWFEMY"
+      },
+      "artists": [
+        {
+          "name": "Jay Eskar",
+          "url": "https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199189,
+      "name": "Path",
+      "url": "https://open.spotify.com/track/3hClhC3QFXTmlkXW9gBDP9"
     },
     {
       "album": {
@@ -1635,7 +1677,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 227592,
       "name": "Quarters",
       "url": "https://open.spotify.com/track/3hbGUFRmdqoRHFMP7yutxN"
@@ -1753,7 +1795,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
@@ -1901,10 +1943,28 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 278767,
       "name": "Show Me Love - Kryder & Tom Staar Remix",
       "url": "https://open.spotify.com/track/6iplImDoHCSM74kGVVKARL"
+    },
+    {
+      "album": {
+        "name": "Slap That",
+        "url": "https://open.spotify.com/album/2U0YWuVUiV048hBLyD1YQN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mateo",
+          "url": "https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125552,
+      "name": "Slap That",
+      "url": "https://open.spotify.com/track/5l1l4Iw31lCne4j63kCJ6c"
     },
     {
       "album": {
@@ -1953,7 +2013,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 367595,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/1YRcnz76HV4akHIgtUsskx"
@@ -2096,6 +2156,28 @@
     },
     {
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150160,
+      "name": "Unlove You",
+      "url": "https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX"
+    },
+    {
+      "album": {
         "name": "We Work",
         "url": "https://open.spotify.com/album/2BOqnCa5O43pwoa71vr81E"
       },
@@ -2107,7 +2189,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 228720,
       "name": "We Work",
       "url": "https://open.spotify.com/track/3KJqJL4fGTxAcP9TIsctui"

@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 215111,
       "name": "Beat of My Heart",
       "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 222628,
       "name": "Before You Let Me Go",
       "url": "https://open.spotify.com/track/7qNrSxc8OtSVxQlCKpmIgY"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 222150,
       "name": "Black Boots And Leather Rebellion",
       "url": "https://open.spotify.com/track/0NXP4ludZAzYM7Z8IHZu0X"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 200603,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/3vutFeUl31fjJyPpAGmLGf"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 258760,
       "name": "Brooklyn Bridge",
       "url": "https://open.spotify.com/track/7fPocdnUzvo4hdF3aKkyAV"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 210280,
       "name": "Control",
       "url": "https://open.spotify.com/track/2AQG1Jv6M9Ln47usagKN8z"
@@ -569,6 +569,24 @@
       "duration_ms": 200853,
       "name": "counting houses",
       "url": "https://open.spotify.com/track/6MFZUAPmeiF9cm8tSspED7"
+    },
+    {
+      "album": {
+        "name": "Dead on the Beach",
+        "url": "https://open.spotify.com/album/66ncWabX0CdChC6i9Ca84T"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "Dead on the Beach",
+      "url": "https://open.spotify.com/track/6kKhq1EKxciDeNhjST21B8"
     },
     {
       "album": {
@@ -695,7 +713,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 258372,
       "name": "Drive Away With You",
       "url": "https://open.spotify.com/track/4gkS6VK2e0lwuDcSPv6nSb"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 260338,
       "name": "Edge Of The Dark",
       "url": "https://open.spotify.com/track/5LAgxVviiDTPQNc3cvInAU"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 167426,
       "name": "eight hours",
       "url": "https://open.spotify.com/track/5cn3Zlb938iYc28dY5s3vm"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 210516,
       "name": "Election Night",
       "url": "https://open.spotify.com/track/4YtuMlqBjqZKTNl5roHdnw"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 192489,
       "name": "Far from Home",
       "url": "https://open.spotify.com/track/1VUbViOlLsvXeb6Aiv3A63"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 156066,
       "name": "Full Full Colour",
       "url": "https://open.spotify.com/track/4TmZ7SSq5YnKe2Qu9ge5fL"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 223281,
       "name": "Future Memories",
       "url": "https://open.spotify.com/track/4UMa4gdhtHPV7mDMoZoVDn"
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 166113,
       "name": "Have You Thought About Me With Somebody Else",
       "url": "https://open.spotify.com/track/1qTH15ZeHHAf327AgfVulq"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 189133,
       "name": "Hello Again",
       "url": "https://open.spotify.com/track/7f9d4kZEvzOZ0OcpFbUGvI"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 219438,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/7EWkSYW9mvDlOZaqdbGyMF"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 202706,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4HoL1fewA33MBWjTWikc5D"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 196333,
       "name": "Hurt Like That",
       "url": "https://open.spotify.com/track/6fBN1a9LcsB3QohnijExpz"
@@ -1532,6 +1550,24 @@
     },
     {
       "album": {
+        "name": "Build A Problem",
+        "url": "https://open.spotify.com/album/2oMbQ7W1QddUdasTYrJdzE"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150937,
+      "name": "I Kissed Someone (It Wasn't You)",
+      "url": "https://open.spotify.com/track/35NX4IIsuOOm6isMzTdqtQ"
+    },
+    {
+      "album": {
         "name": "A Horrible Beautiful Dream",
         "url": "https://open.spotify.com/album/4n7eKMhBd6yezgg46xeosc"
       },
@@ -1543,7 +1579,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 211533,
       "name": "I Still Believe in You",
       "url": "https://open.spotify.com/track/0i2UyVsm0XZJNZl2q9yrA8"
@@ -1763,7 +1799,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 199041,
       "name": "Let Love Heal - Live Deluxe",
       "url": "https://open.spotify.com/track/5oVb4u7s4QLh0hHzHkOXBz"
@@ -1955,7 +1991,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
@@ -2016,6 +2052,28 @@
     },
     {
       "album": {
+        "name": "Make It Out (feat. Maisie Peters)",
+        "url": "https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "Make It Out (feat. Maisie Peters)",
+      "url": "https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt"
+    },
+    {
+      "album": {
         "name": "maybe it's just me (Alternative Version)",
         "url": "https://open.spotify.com/album/6OIblzPfUlSDAeCzFnDkzf"
       },
@@ -2027,7 +2085,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 209098,
       "name": "maybe it's just me - Alternative Version",
       "url": "https://open.spotify.com/track/7b8zYGiLswyGvuAGKkEEiV"
@@ -2099,7 +2157,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 232991,
       "name": "Miserable Man",
       "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
@@ -2207,7 +2265,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
@@ -2273,6 +2331,24 @@
       "duration_ms": 268200,
       "name": "Nelsonwood Lane",
       "url": "https://open.spotify.com/track/1QmQ7HxnIvyMKbBb9yOaJG"
+    },
+    {
+      "album": {
+        "name": "New Year's Eve",
+        "url": "https://open.spotify.com/album/7nLTSqXG6ai5A8yPskpHwL"
+      },
+      "artists": [
+        {
+          "name": "Deni",
+          "url": "https://open.spotify.com/artist/7lTLr5dKz80VDRCN1tL3Sx"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172491,
+      "name": "New Year's Eve",
+      "url": "https://open.spotify.com/track/48CsqwyVQ5M3NnSveaPl4E"
     },
     {
       "album": {
@@ -2345,7 +2421,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 194560,
       "name": "Occasionally",
       "url": "https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx"
@@ -2399,7 +2475,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 162400,
       "name": "Pennsylvania",
       "url": "https://open.spotify.com/track/2Oj7LiOt7bXagVCvoA0OPw"
@@ -2421,7 +2497,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 261523,
       "name": "Picture of You (feat. Hayden Calnin)",
       "url": "https://open.spotify.com/track/0rqZHv7LtB9swrz1rouNA0"
@@ -2443,6 +2519,24 @@
       "duration_ms": 231251,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC"
+    },
+    {
+      "album": {
+        "name": "View from the Bridge",
+        "url": "https://open.spotify.com/album/5lIkEQvBkgqRcsDpsmepIC"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/0QHydHDcswklkcHffb1NG7"
     },
     {
       "album": {
@@ -2605,7 +2699,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 256311,
       "name": "Roof of the World",
       "url": "https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U"
@@ -2749,7 +2843,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 261472,
       "name": "Skin Deep",
       "url": "https://open.spotify.com/track/0E2LmUQq8ud6OJz55gWgeI"
@@ -2861,7 +2955,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 230200,
       "name": "String Lights",
       "url": "https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq"
@@ -2995,7 +3089,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 213120,
       "name": "Talk About That",
       "url": "https://open.spotify.com/track/0d8wVdbQXx9pVEeCsSpscw"
@@ -3085,7 +3179,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 186049,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/0UrtLwXYnDIAtHtUDmGe4V"
@@ -3125,7 +3219,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 176763,
       "name": "They All Are",
       "url": "https://open.spotify.com/track/2D0d1JrwtyRfLf3lr6mojF"
@@ -3161,7 +3255,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 282793,
       "name": "Things I Won't Forget",
       "url": "https://open.spotify.com/track/6QLWLpbZ67om3gUNBcDFs7"
@@ -3219,7 +3313,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 200837,
       "name": "Till It Hurts",
       "url": "https://open.spotify.com/track/1du95sy36LOvI8FtkHUWT8"
@@ -3255,7 +3349,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 206360,
       "name": "Tractor",
       "url": "https://open.spotify.com/track/6N1Nrd9oHFRAHsrEZPkxAR"
@@ -3581,7 +3675,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 213133,
       "name": "Witness (feat. Rajiv Dhall)",
       "url": "https://open.spotify.com/track/27beSL5WLfpRYnZBBZ60Dd"
@@ -3635,7 +3729,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 178186,
       "name": "you make me feel alright",
       "url": "https://open.spotify.com/track/62VR8f0u8XIgDQCwT1tzNC"
@@ -3671,7 +3765,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 185146,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD"

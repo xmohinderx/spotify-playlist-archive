@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > The names you know and the names you need to know in hip\-hop\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,263 likes - 73 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,325 likes - 73 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 72 | [Flocky Flocky \(feat\. Travis Scott\)](https://open.spotify.com/track/25r6MZ4Gtd76l43qnZI1DG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:03 |
 | 73 | [38 \(feat\. Pressa\)](https://open.spotify.com/track/1QNoq8VTijLPuVXqGAkMAp) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Buy or Bye 2](https://open.spotify.com/album/34dTMVQitxHQO7MXXI1MPf) | 2:37 |
 
-Snapshot ID: `MTY0Mjc4NzMyNiwwMDAwMDQzMDAwMDAwMTdlN2RjMTRiYzkwMDAwMDE3ZTdhMjRhYWUw`
+Snapshot ID: `MTY0Mjg3ODI0NywwMDAwMDQzMTAwMDAwMTdlODMyY2ExNWYwMDAwMDE3ZTdhMjRhYWUw`

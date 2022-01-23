@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-21",
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
   "name": "Boleros Pop",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4BSRRbWHbtCycrKZ946Plx"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,6 +23,24 @@
       "duration_ms": 282106,
       "name": "A Medio Vivir",
       "url": "https://open.spotify.com/track/5NDejxQNv47VJpLYW0Vlxk"
+    },
+    {
+      "album": {
+        "name": "Las Mujeres de Manzanero... Mis Nuevos Boleros",
+        "url": "https://open.spotify.com/album/4vCLdaO8JOFjxfuN3qEwEe"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178677,
+      "name": "A Punto",
+      "url": "https://open.spotify.com/track/0i5Ocz6WdNNK5NAmT4NSEP"
     },
     {
       "album": {
@@ -231,7 +251,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 186852,
       "name": "Ansia",
       "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
@@ -493,7 +513,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 164813,
       "name": "Drume Negrita",
       "url": "https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C"
@@ -572,6 +592,24 @@
     },
     {
       "album": {
+        "name": "El Talism\u00e1n",
+        "url": "https://open.spotify.com/album/7fEE1iNLQdKRJjPhS74w7X"
+      },
+      "artists": [
+        {
+          "name": "Sole Gimenez",
+          "url": "https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243386,
+      "name": "El Talism\u00e1n",
+      "url": "https://open.spotify.com/track/64MZOaFCf4lNm505bYoNQ4"
+    },
+    {
+      "album": {
         "name": "Los Boleros de Oro de la M\u00fasica Tropical",
         "url": "https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ"
       },
@@ -601,7 +639,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 161813,
       "name": "Es Verdad",
       "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
@@ -877,7 +915,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 174710,
       "name": "La Media Vuelta (feat. Melissa Robles)",
       "url": "https://open.spotify.com/track/0nQc9LtnjxK1ypDV1OBbdW"
@@ -960,6 +998,28 @@
     },
     {
       "album": {
+        "name": "AMOR Hayd\u00e9e Milan\u00e9s a d\u00fao con Pablo Milan\u00e9s (EDICI\u00d3N DELUXE)",
+        "url": "https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU"
+      },
+      "artists": [
+        {
+          "name": "Hayd\u00e9e Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226145,
+      "name": "La vida no vale nada (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv"
+    },
+    {
+      "album": {
         "name": "Lo Hice, Te Dej\u00e9",
         "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
       },
@@ -993,7 +1053,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
@@ -1125,7 +1185,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 217702,
       "name": "Mi Guitarra",
       "url": "https://open.spotify.com/track/2BnlapIGXEBnzCA04B5N9i"
@@ -1179,7 +1239,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 186488,
       "name": "No Ha Pasado Nada",
       "url": "https://open.spotify.com/track/2aRmyKMgtoMyg2vxNtakJw"
@@ -1287,7 +1347,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 171049,
       "name": "Noche No Te Vayas",
       "url": "https://open.spotify.com/track/5rtZvX3I8Rx6WfGmRgipBE"
@@ -1447,6 +1507,24 @@
       "duration_ms": 257173,
       "name": "Por Amarte As\u00ed - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/5pF8YwcV3T4jTnxE8tHVRq"
+    },
+    {
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/58MCZcbUtpCZO2AxzN6ft2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ponce",
+          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197553,
+      "name": "Por Debajo de la Mesa",
+      "url": "https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167"
     },
     {
       "album": {
@@ -1761,7 +1839,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 193493,
       "name": "Sombras - Sombras Nada M\u00e1s",
       "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
@@ -1859,7 +1937,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
@@ -2059,7 +2137,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 167000,
       "name": "Va Cayendo una L\u00e1grima - Los Iracundos Cover",
       "url": "https://open.spotify.com/track/1CjfBhfq68umdZF2Oer4pG"
@@ -2113,7 +2191,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 275280,
       "name": "Ya S\u00e9",
       "url": "https://open.spotify.com/track/3oHFLejTrYABV5OCi4vGEv"

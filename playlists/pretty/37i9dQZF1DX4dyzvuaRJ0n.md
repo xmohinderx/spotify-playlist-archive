@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Years & Years, Sigala, Lane 8, Honey Dijon, Dave Giles II, Cor.Ece & Mike Dunn and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,883,422 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,883,674 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

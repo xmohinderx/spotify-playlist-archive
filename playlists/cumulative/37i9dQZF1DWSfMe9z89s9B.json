@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 153076,
       "name": "1080p",
       "url": "https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 237000,
       "name": "ACOUSCOUS",
       "url": "https://open.spotify.com/track/64lmE7hixqSVxMsk5nvG8e"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 196586,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/5ed3H9JNDRtTomjDegQUOI"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 203266,
       "name": "And We Go Gentle",
       "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
@@ -371,10 +371,32 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 124736,
       "name": "Automatic - Orion Sun Remix",
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
+    },
+    {
+      "album": {
+        "name": "Avalanche",
+        "url": "https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1"
+      },
+      "artists": [
+        {
+          "name": "reggie",
+          "url": "https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148280,
+      "name": "Avalanche",
+      "url": "https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj"
     },
     {
       "album": {
@@ -517,7 +539,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 194666,
       "name": "Been Through That",
       "url": "https://open.spotify.com/track/2cZbLHnTKtdSYUsVYlrnSi"
@@ -593,7 +615,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 205133,
       "name": "Bolero",
       "url": "https://open.spotify.com/track/74i9MJfZdRhcv6XnAfwjBA"
@@ -793,7 +815,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 183947,
       "name": "Cashmere",
       "url": "https://open.spotify.com/track/6xszMomofJTQMICSVVNNDL"
@@ -905,7 +927,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 213333,
       "name": "Color Palette",
       "url": "https://open.spotify.com/track/0qL3U7oKi7kGahb1TeRJCt"
@@ -1093,7 +1115,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 183253,
       "name": "Don't Recommend",
       "url": "https://open.spotify.com/track/6t8ZKSOjhFVwvrJdRcKytT"
@@ -1377,7 +1399,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 229025,
       "name": "Garden Party",
       "url": "https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC"
@@ -1395,7 +1417,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 197675,
       "name": "Ghostin'",
       "url": "https://open.spotify.com/track/02oUEbDQXcVITlLQKMPN1F"
@@ -1457,7 +1479,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 192126,
       "name": "Gold (feat. Sampa the Great & 18YOMAN)",
       "url": "https://open.spotify.com/track/4qMjKHonb3kzSgPEDFnYiH"
@@ -1603,7 +1625,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 225853,
       "name": "Greed",
       "url": "https://open.spotify.com/track/5PPzJ8kLOfIftp75EnrT1z"
@@ -1661,7 +1683,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 179439,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5RMe2tA7RRyWP3cb3upPLd"
@@ -1749,7 +1771,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
@@ -1767,7 +1789,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 149870,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/58UVZ68VQiQ4EHeIIcX0gb"
@@ -1847,7 +1869,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 199111,
       "name": "Is There Someone Else?",
       "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
@@ -1963,7 +1985,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 156478,
       "name": "Lemonhaze",
       "url": "https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L"
@@ -2057,7 +2079,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 220781,
       "name": "Luvaroq",
       "url": "https://open.spotify.com/track/4WaqKOyMYufVzW57VrYc6U"
@@ -2093,7 +2115,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 194415,
       "name": "Magazines",
       "url": "https://open.spotify.com/track/6I9gDbfmE9hmHHWQVmvkGZ"
@@ -2151,7 +2173,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 186506,
       "name": "Mask Off (Feelings)",
       "url": "https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl"
@@ -2307,7 +2329,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 238260,
       "name": "mine",
       "url": "https://open.spotify.com/track/11Alrz5mSQvQNt6VYtCh4t"
@@ -2419,7 +2441,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 248135,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/0w0kClmKsQz5A6OecdwhVt"
@@ -2459,7 +2481,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 188280,
       "name": "my slime",
       "url": "https://open.spotify.com/track/2uly2KqqE2cL2fzxyMKnC6"
@@ -2481,7 +2503,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 228453,
       "name": "Mystery Lady",
       "url": "https://open.spotify.com/track/0Ifg6sEGK8dH0XDD4pzKTl"
@@ -2619,7 +2641,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 147840,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/1OZuSdGm0PTSyzhupwesoJ"
@@ -2637,7 +2659,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 179407,
       "name": "NTWFL",
       "url": "https://open.spotify.com/track/5os9QmT7EZmtPBBypqB42g"
@@ -2895,7 +2917,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 210400,
       "name": "Pine",
       "url": "https://open.spotify.com/track/1xTrwHzhHuNb5URVfuBp0f"
@@ -2953,7 +2975,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 155573,
       "name": "Raindrops (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/29M1mAkW4VlxJ4noKN0RxY"
@@ -2971,7 +2993,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 177683,
       "name": "Rare",
       "url": "https://open.spotify.com/track/1rzoDdjdZw1vAemS0KOvPS"
@@ -3007,7 +3029,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 185490,
       "name": "Relay",
       "url": "https://open.spotify.com/track/7cHLutQTiJ5cMfVI5Bg7nQ"
@@ -3043,7 +3065,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 277519,
       "name": "Reprise",
       "url": "https://open.spotify.com/track/3CCH5hi83YlSBs484oAwPg"
@@ -3123,7 +3145,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 146304,
       "name": "royal flush",
       "url": "https://open.spotify.com/track/7bNbfwfW69j5vNmJ1JvNqi"
@@ -3325,7 +3347,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 219515,
       "name": "Solid",
       "url": "https://open.spotify.com/track/7AhEDoVzlBZT3nFxzoGqwX"
@@ -3365,7 +3387,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 190480,
       "name": "Spinning Top",
       "url": "https://open.spotify.com/track/3F4TJKOb8mKb6A8UWXxcmB"
@@ -3405,7 +3427,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 203091,
       "name": "Steam",
       "url": "https://open.spotify.com/track/0JhOWLV0il0wcoyOr2kaCx"
@@ -3551,7 +3573,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 588139,
       "name": "SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)",
       "url": "https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz"
@@ -3809,7 +3831,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 187951,
       "name": "Touch Me (feat. Kehlani) - Remix",
       "url": "https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy"

@@ -1156,6 +1156,32 @@
     },
     {
       "album": {
+        "name": "Bruckner / Sibelius / Nielsen",
+        "url": "https://open.spotify.com/album/2Ezpp9d7szSwPzYkzUeMuU"
+      },
+      "artists": [
+        {
+          "name": "Carl Nielsen",
+          "url": "https://open.spotify.com/artist/73I7vbj7hzsw8rW4LUoxtz"
+        },
+        {
+          "name": "Gothenburg Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2017-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535680,
+      "name": "Symphony No. 5, Op. 50: Ib. Adagio non troppo",
+      "url": "https://open.spotify.com/track/1J5lEJYEgtlHQIMCHn8Ge6"
+    },
+    {
+      "album": {
         "name": "Bruckner: 10 Symphonien",
         "url": "https://open.spotify.com/album/7p4CDmuqFdP7wXYhCtspyq"
       },
@@ -1309,32 +1335,6 @@
       "duration_ms": 573093,
       "name": "Symphony No.2 In C, Op.61: 3. Adagio espresssivo",
       "url": "https://open.spotify.com/track/76TvbtscbiXCfiA861kTLM"
-    },
-    {
-      "album": {
-        "name": "Bruckner / Sibelius / Nielsen",
-        "url": "https://open.spotify.com/album/2Ezpp9d7szSwPzYkzUeMuU"
-      },
-      "artists": [
-        {
-          "name": "Carl Nielsen",
-          "url": "https://open.spotify.com/artist/73I7vbj7hzsw8rW4LUoxtz"
-        },
-        {
-          "name": "Gothenburg Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1XaPI6thQ3zTKqIU6sCvd2"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "date_added": "2017-09-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 535680,
-      "name": "Symphony No.5, Op.50: 1b. Adagio non troppo",
-      "url": "https://open.spotify.com/track/1J5lEJYEgtlHQIMCHn8Ge6"
     },
     {
       "album": {

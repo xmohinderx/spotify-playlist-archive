@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1bX7oU5pTHNbARrSIdfI9u"
+      },
+      "artists": [
+        {
+          "name": "MR WA7T",
+          "url": "https://open.spotify.com/artist/6KExhy91HNcSCbK6Hfy8GR"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287053,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/356v24OLdS8XrMrb6EH9ZS"
+    },
+    {
+      "album": {
         "name": "HYPER",
         "url": "https://open.spotify.com/album/35jnqIA73EVmuiObRNZTL0"
       },

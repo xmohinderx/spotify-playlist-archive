@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Hailey Whitters
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,446 likes - 141 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,448 likes - 141 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

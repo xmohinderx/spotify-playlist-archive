@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 196132,
       "name": "10K",
       "url": "https://open.spotify.com/track/5G2g7titQVbMK8jjRPWWr6"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 167142,
       "name": "ABOVE ME (feat. Parris Chariz)",
       "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 206847,
       "name": "All In Rap - Remix",
       "url": "https://open.spotify.com/track/0xseOtN2B8oVqRndr65KEX"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 166956,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/4oqVeCZeDdWwX8M7aC9oB3"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 228762,
       "name": "Amen (Reborn)",
       "url": "https://open.spotify.com/track/5LOmYKKXSkAeB4m2YsDJrI"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 197241,
       "name": "As I Went Down",
       "url": "https://open.spotify.com/track/0snyCglbmJqRxzuQBubLID"
@@ -514,6 +514,28 @@
     },
     {
       "album": {
+        "name": "The Trailer",
+        "url": "https://open.spotify.com/album/2t17lDbzN9hM3WfbMvtGuf"
+      },
+      "artists": [
+        {
+          "name": "King Chav",
+          "url": "https://open.spotify.com/artist/1e5ZIHiMERAHN9fsK3sdGt"
+        },
+        {
+          "name": "Big Fil",
+          "url": "https://open.spotify.com/artist/3Z9WkQI6AWxDCHBFeA9FDF"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192290,
+      "name": "Barbershop (feat. Big Fil)",
+      "url": "https://open.spotify.com/track/45CpcMVmo2BMUuVC3EMFLE"
+    },
+    {
+      "album": {
         "name": "Bars Hill",
         "url": "https://open.spotify.com/album/52OyyBlbrfMS7dd2VyqHGE"
       },
@@ -569,7 +591,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 213252,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/0LyJq2mLz19dyw5Akg6fAf"
@@ -587,7 +609,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 163373,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/2pwP92X4fpMnbvxvIU9cL7"
@@ -751,7 +773,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 209380,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/5NTyBbjx2N6kabqiQNOTrd"
@@ -831,7 +853,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 181536,
       "name": "Blessed Up",
       "url": "https://open.spotify.com/track/17XoLUQLHu3r7dwbrUkxnT"
@@ -861,7 +883,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 162025,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/6Xrk1n7PqfRTnkKoLJGMzI"
@@ -941,7 +963,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 190166,
       "name": "Brand New Man (feat. Scootie Wop)",
       "url": "https://open.spotify.com/track/4T0MPixsCIy9a9pEV6fuWZ"
@@ -989,7 +1011,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 145531,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/4Z6HsCbyWpWHsYKrzITKjw"
@@ -1011,7 +1033,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 214569,
       "name": "By Your Power (feat. Hulvey)",
       "url": "https://open.spotify.com/track/188vYbJMU4hbfLb2bWUTUA"
@@ -1103,7 +1125,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 192000,
       "name": "Can't Lose",
       "url": "https://open.spotify.com/track/1gwz0qanN2fEsqnU4T7vSb"
@@ -1257,7 +1279,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 213793,
       "name": "Colossal",
       "url": "https://open.spotify.com/track/5VX0UVedYfov7Ndr0B1xzr"
@@ -1297,7 +1319,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 132669,
       "name": "COME THROUGH",
       "url": "https://open.spotify.com/track/3t2VmTs6GNkPEGwB7wkOyh"
@@ -1451,7 +1473,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 202500,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3cYEVwZXZpdFAYSFhQVnKN"
@@ -1473,7 +1495,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Designer Diamonds",
       "url": "https://open.spotify.com/track/4bgkBZVmmBbdjl3DbSRnGc"
@@ -1641,7 +1663,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 200330,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
@@ -1847,7 +1869,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 184271,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc"
@@ -1883,7 +1905,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 157826,
       "name": "Fair",
       "url": "https://open.spotify.com/track/6Q1UA2q17PA2I2wZCE2rMc"
@@ -2011,7 +2033,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 176640,
       "name": "Firestick (feat. Parris Chariz)",
       "url": "https://open.spotify.com/track/3w9dvOygKRnYSTd0ungAN4"
@@ -2095,7 +2117,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 193808,
       "name": "Forever Grateful",
       "url": "https://open.spotify.com/track/2hz7YnCZKVbPdrDjXTQiDn"
@@ -2113,7 +2135,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 283693,
       "name": "Found In You",
       "url": "https://open.spotify.com/track/5rslaXHRbFr8rq9Lnvshy7"
@@ -2609,7 +2631,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 178153,
       "name": "I Might Not Be Breathing",
       "url": "https://open.spotify.com/track/4YJcjLWnuUtIdBDvpnN6Df"
@@ -2813,7 +2835,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 174455,
       "name": "Jesus In The Ghetto",
       "url": "https://open.spotify.com/track/6IM4ZfTemJDpf1cH9fON1Y"
@@ -2835,7 +2857,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 210000,
       "name": "JOHN 3:30",
       "url": "https://open.spotify.com/track/00uAaNg90rBBWU5vgkohUs"
@@ -2857,7 +2879,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "Joy in the Morning",
       "url": "https://open.spotify.com/track/0bJbPqnrrO6RYQtqHuJr3m"
@@ -2879,7 +2901,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 178200,
       "name": "JUDAS",
       "url": "https://open.spotify.com/track/3i5fHqS5KufGtVx6VlXqF5"
@@ -2975,7 +2997,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 161818,
       "name": "Land Mines (feat. Aaron Cole)",
       "url": "https://open.spotify.com/track/11oYWcEKYqHOngt78zz1au"
@@ -3023,7 +3045,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 218400,
       "name": "Lean Widdit",
       "url": "https://open.spotify.com/track/2Z47y00M2zSXT1lbdKZaJy"
@@ -3045,7 +3067,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 280234,
       "name": "Leave This Place",
       "url": "https://open.spotify.com/track/55Ch8PlRjVmenIaEaPdxql"
@@ -3271,7 +3293,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 209302,
       "name": "Love Your Neighbor",
       "url": "https://open.spotify.com/track/3aCCPNjccDGxtvM78Y7s3F"
@@ -3319,7 +3341,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 290213,
       "name": "Make It Alright",
       "url": "https://open.spotify.com/track/6INDyfmhqhJfAxWi84O6al"
@@ -3393,7 +3415,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 219200,
       "name": "Mere Mortal",
       "url": "https://open.spotify.com/track/3H2C5pp0KtptTrR0hy3Ui0"
@@ -3411,7 +3433,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 187403,
       "name": "MIRACLE",
       "url": "https://open.spotify.com/track/1K6HOrE3e67HwlEq7ax9cR"
@@ -3429,7 +3451,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 106329,
       "name": "MLB (Juan Pierre)",
       "url": "https://open.spotify.com/track/4QLkyXq3ta5cqy1vuNWDnw"
@@ -3553,7 +3575,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 147435,
       "name": "My Favorite Part",
       "url": "https://open.spotify.com/track/1BEZllp0OjYhTiZvY9NTRY"
@@ -3663,7 +3685,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 243460,
       "name": "New Skies",
       "url": "https://open.spotify.com/track/7dhzAFqDTOTUNVnb7rkygk"
@@ -3729,7 +3751,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 130909,
       "name": "No Cholo (feat. 350 & F'rael)",
       "url": "https://open.spotify.com/track/3FIeCXalAlSgdNPoCbUcls"
@@ -3821,7 +3843,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 237592,
       "name": "No Ways Tired",
       "url": "https://open.spotify.com/track/2EsBWVT9tLE7K0BKVdFZbX"
@@ -3891,7 +3913,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 179583,
       "name": "Okay",
       "url": "https://open.spotify.com/track/3wCmNjOiXyDRNXFpLiPgFP"
@@ -3935,7 +3957,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 142545,
       "name": "On To Somethin",
       "url": "https://open.spotify.com/track/6NUOLU5ueaH0xObaascfXf"
@@ -3957,7 +3979,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 299294,
       "name": "On Top of the World",
       "url": "https://open.spotify.com/track/0SZlVBnxWGCxsAQraHvxv6"
@@ -4001,7 +4023,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 202493,
       "name": "ONLY U (feat. Terrian)",
       "url": "https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg"
@@ -4041,7 +4063,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 200306,
       "name": "Open Heart",
       "url": "https://open.spotify.com/track/0Otxr7e5CYlOk2FkKARnHR"
@@ -4059,7 +4081,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 135000,
       "name": "Out With a Bang",
       "url": "https://open.spotify.com/track/0VwFUq4R6tm56k21Kl7JWK"
@@ -4085,7 +4107,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 210921,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/3im4L4mmgryJoEoLLAhM95"
@@ -4103,7 +4125,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 180036,
       "name": "Outta Reach",
       "url": "https://open.spotify.com/track/5oImTA2OSoJZYJ9TWhm2bs"
@@ -4177,7 +4199,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 184956,
       "name": "Paid For It (Remix)",
       "url": "https://open.spotify.com/track/5i56CtffCGlvGXn0KdtaaB"
@@ -4387,7 +4409,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 196266,
       "name": "Price (feat. Eshon Burgundy)",
       "url": "https://open.spotify.com/track/3yeXapHL4Seqxx02IEocw8"
@@ -4453,7 +4475,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 216363,
       "name": "Qu\u00e9 Pas\u00f3",
       "url": "https://open.spotify.com/track/0u41Ru9uwhouYYs4icsUZV"
@@ -4566,6 +4588,24 @@
     },
     {
       "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/5fh3EGJRYh7xbDXI0hWrCE"
+      },
+      "artists": [
+        {
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211468,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/64LAMlRR8VPDDbUumx1esT"
+    },
+    {
+      "album": {
         "name": "Light Work: Deluxe Playlist",
         "url": "https://open.spotify.com/album/26Yliop485JFU8iQJjxtgg"
       },
@@ -4581,7 +4621,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 232266,
       "name": "Red Light, Green Light",
       "url": "https://open.spotify.com/track/5UVe7lw2th8aPHiNDA8yAE"
@@ -4665,7 +4705,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 164714,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/04Gz4F6I7YMUhmBkl2NDE6"
@@ -4727,7 +4767,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 302060,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/1R4kuiADwioE3Qlh80nmaO"
@@ -4771,7 +4811,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 177474,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/4QUPZKGJ3DLhtXarqa6vkq"
@@ -4841,7 +4881,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 227000,
       "name": "Shots Fired",
       "url": "https://open.spotify.com/track/4LuZ1udBrza9sB2k1ngSKO"
@@ -4925,7 +4965,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 193255,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/1cmqxqiWgwqtsYxvoUn0Fp"
@@ -5079,7 +5119,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 221000,
       "name": "Stop Us?",
       "url": "https://open.spotify.com/track/7dXuzF4pxww77NnQX9CEy0"
@@ -5123,7 +5163,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 195927,
       "name": "Striking Matches (feat. 1K Phew & TNED)",
       "url": "https://open.spotify.com/track/59kiSVJTiUYXJxpyModhI5"
@@ -5167,7 +5207,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 168000,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/7LAlNgKirDEsFESE0v3FAK"
@@ -5291,7 +5331,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 219506,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/2khB2142tcviOUkramDWmK"
@@ -5317,7 +5357,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 199736,
       "name": "That's a Lie - Remix",
       "url": "https://open.spotify.com/track/0j6XcCJz5QoX8iLroYmJ2W"
@@ -5335,7 +5375,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 209293,
       "name": "The Art of Flying",
       "url": "https://open.spotify.com/track/1i9Mq7XyeY4xE00ADR1UO9"
@@ -5427,7 +5467,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 162387,
       "name": "This Ain't That",
       "url": "https://open.spotify.com/track/6AiAOjtUZkQJ1KotNv5S11"
@@ -5493,7 +5533,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 211512,
       "name": "Tomorrow (feat. Joey Law)",
       "url": "https://open.spotify.com/track/6Zqsq74eUcF6pLRVxRzlIs"
@@ -5617,7 +5657,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 229048,
       "name": "TRY AGAIN",
       "url": "https://open.spotify.com/track/5KqhLk0flQp4TM8QIMArAX"
@@ -5657,7 +5697,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 89002,
       "name": "Underdog Freestyle",
       "url": "https://open.spotify.com/track/66gzM4xq2xlmNzhj0S2oQQ"
@@ -5793,7 +5833,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 252638,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4VZd9wwGkiKbnTUchUYzSP"
@@ -5855,7 +5895,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 191696,
       "name": "We Against The World",
       "url": "https://open.spotify.com/track/5nHPN5G9b5WPpYHbT8Oglp"
@@ -5881,7 +5921,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 223224,
       "name": "We All In (feat. Lecrae)",
       "url": "https://open.spotify.com/track/3M1iIXPHJUmiO5aTtdvZmA"
@@ -6019,7 +6059,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Wild Ride",
       "url": "https://open.spotify.com/track/2YRhrxszkLtNTMc0V3ysHV"
@@ -6103,7 +6143,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 201500,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1FsGBL397lIzp4oYPLht0E"
@@ -6275,7 +6315,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 197519,
       "name": "You Know the Drill",
       "url": "https://open.spotify.com/track/7gdNfIqpKzAiCnclGvk07a"
@@ -6369,7 +6409,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 164893,
       "name": "\u00c1ndale",
       "url": "https://open.spotify.com/track/5W4w67FKSCD7igqy3ShGCx"

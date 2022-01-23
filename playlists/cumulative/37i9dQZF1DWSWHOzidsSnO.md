@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSWHOzidsSnO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSWHOzidsSnO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSWHOzidsSnO)
 
-### EQUAL Colombia
+### [EQUAL Colombia](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
 > ¡Mujeres colombianas a todo volumen! En portada: Catalina García \(Monsieur Periné\)
 

@@ -2,7 +2,7 @@
 
 ### [Urbano Fresh](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
 
-> Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Fano
+> Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Kim Loaiza
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,10 +17,10 @@
 | [Desamor Feliz \- Remix](https://open.spotify.com/track/4JRDTjUxA2bO4bF3JxOwt2) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Desamor Feliz \(Remix\)](https://open.spotify.com/album/06IFSa0PSph2dZSLuZKmpA) | 2:56 | 2022-01-07 |  |
 | [DOCE](https://open.spotify.com/track/09700e3oszBufdrwLsqvz7) | [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm) | [DOCE](https://open.spotify.com/album/0jmZ1rdtbnxn3LYFI10SKa) | 3:06 | 2022-01-07 |  |
 | [efectos secundarios](https://open.spotify.com/track/7E8tm3aTajBw9a3CkjfuBD) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [efectos secundarios](https://open.spotify.com/album/7sUapRkZsZTV4sBVxlcfpT) | 2:42 | 2022-01-07 |  |
-| [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 | 2022-01-07 |  |
+| [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 | 2022-01-07 | 2022-01-23 |
 | [FUGAZ](https://open.spotify.com/track/0EJOfbdV0cfKmKSJywNGL4) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [EMOJI](https://open.spotify.com/album/2gTjDwNcjPGLMmy19qUw5u) | 3:44 | 2022-01-07 |  |
 | [Imperio](https://open.spotify.com/track/5TsqpA85xhzt2K3jkvBJ20) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Imperio](https://open.spotify.com/album/1zChRGVRhtRB616iVGSra6) | 3:42 | 2022-01-07 |  |
-| [Inolvidable](https://open.spotify.com/track/3UKifMst3KThDnakM5mYxE) | [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Inolvidable](https://open.spotify.com/album/3uELVtlt5jNtdea6DlmjIC) | 3:53 | 2022-01-07 |  |
+| [Inolvidable](https://open.spotify.com/track/3UKifMst3KThDnakM5mYxE) | [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Inolvidable](https://open.spotify.com/album/3uELVtlt5jNtdea6DlmjIC) | 3:53 | 2022-01-07 | 2022-01-23 |
 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 | 2022-01-07 |  |
 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 | 2022-01-07 |  |
 | [La Cura](https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [La Cura](https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH) | 2:30 | 2022-01-07 |  |
@@ -35,6 +35,7 @@
 | [Mami Mamacita](https://open.spotify.com/track/0O5nMKufxtdGryO2p7exyz) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Viaje](https://open.spotify.com/album/357zeMgmmEe5JS0N568ugH) | 2:49 | 2022-01-07 |  |
 | [Maviri](https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Maviri](https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd) | 2:15 | 2022-01-07 |  |
 | [Me perdiste \- Remix](https://open.spotify.com/track/479fjceNVcwDiMO9h4Zkc2) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Me perdiste \(Remix\)](https://open.spotify.com/album/1Ph5KKyTLe5zcobrgBs92F) | 4:06 | 2022-01-07 |  |
+| [Mejor Sola](https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Mejor Sola](https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH) | 3:50 | 2022-01-22 |  |
 | [Melocotón](https://open.spotify.com/track/4PCAhx0o0FWhBwgJYIuHps) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Tiempos \(Re\-Issue\)](https://open.spotify.com/album/2gSgn4VsIQzuoXC6b27GNH) | 3:06 | 2022-01-07 |  |
 | [Menta](https://open.spotify.com/track/1a7BzukLRIIsOvJGozrFja) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy), [FEGA](https://open.spotify.com/artist/6koJ0koSoyiHwlGPP6c1Lo) | [Menta](https://open.spotify.com/album/28qcC50kgrTlyDfZQaltcM) | 3:10 | 2022-01-07 |  |
 | [MOOD](https://open.spotify.com/track/5nRloY6Bqe7k0Ay5gm1ErY) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [MOOD](https://open.spotify.com/album/3D5MV1TC8L4HQvnZ4edTqq) | 3:10 | 2022-01-07 |  |
@@ -56,5 +57,6 @@
 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 | 2022-01-07 |  |
 | [Vente \(Como Moctezuma\) \- Remix](https://open.spotify.com/track/6H0Qwk2OdvMGsrrN60bhsP) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Vente \(Como Moctezuma\) \[Remix\]](https://open.spotify.com/album/69IoQ69L6srLfViw4QwEXC) | 2:32 | 2022-01-07 |  |
 | [Viaje](https://open.spotify.com/track/3wkpoLenkZHdgVV4QXG2gT) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0) | [Viaje](https://open.spotify.com/album/2rRowMHqOG5nxwV9W5tSCi) | 3:22 | 2022-01-07 |  |
+| [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 | 2022-01-22 |  |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

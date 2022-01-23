@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 150869,
       "name": "Banana",
       "url": "https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 152656,
       "name": "Banana",
       "url": "https://open.spotify.com/track/2BcL1wkyjPn8JGiDtSU5pD"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 193365,
       "name": "Climbing",
       "url": "https://open.spotify.com/track/4NWJK8W8M4ZHjhD25wIgtR"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 175445,
       "name": "Execution",
       "url": "https://open.spotify.com/track/4MhSHzlW1y0Q6e60lwwZS5"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 208426,
       "name": "Fine Dine",
       "url": "https://open.spotify.com/track/3r9rBLRYvaImpuBfwSZcg7"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 206406,
       "name": "Get Paid",
       "url": "https://open.spotify.com/track/3CDFVcwAfqfgPz1p4R68bh"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 165717,
       "name": "Heavy! (Vybz Kartel Remix)",
       "url": "https://open.spotify.com/track/07XcuVPoyMogdiV4nBeCPt"
@@ -910,6 +910,24 @@
     },
     {
       "album": {
+        "name": "Soca Gold 2007",
+        "url": "https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm"
+      },
+      "artists": [
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212146,
+      "name": "I Dare You",
+      "url": "https://open.spotify.com/track/6JCm0aU8GlfiwyWzha3eHL"
+    },
+    {
+      "album": {
         "name": "Reggae Gold 2020",
         "url": "https://open.spotify.com/album/50WEjU3CE9lRAikhuk7Wau"
       },
@@ -921,7 +939,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 156765,
       "name": "Inches",
       "url": "https://open.spotify.com/track/249LE3CJaJqTL6IKzX0Gn8"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 127346,
       "name": "Mad Out",
       "url": "https://open.spotify.com/track/0e5lrtbJiVGRVTRU2wFgXo"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 141111,
       "name": "Pressure Dem",
       "url": "https://open.spotify.com/track/6UzhbdHb7d8DzlrXMpM7b4"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 150279,
       "name": "Pull Up to Mi Bumper",
       "url": "https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Rushing",
       "url": "https://open.spotify.com/track/5Ttn93s4gqOG3SwXJuppfa"
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 217533,
       "name": "Sin Sex",
       "url": "https://open.spotify.com/track/4vYQ5wrzzYIkc2tYUVH0jh"
@@ -1581,7 +1599,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 216886,
       "name": "Sweet Inspiration",
       "url": "https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB"
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 191502,
       "name": "Toast",
       "url": "https://open.spotify.com/track/3VEpRXloN4rbzNRPSQzZFW"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 170097,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/2bf0Lhhrv3ZUGaO9FMj7Dk"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 209333,
       "name": "Wasteman",
       "url": "https://open.spotify.com/track/2qPSLoOyCXZyGB70Qf5H7K"
@@ -1993,7 +2011,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 217200,
       "name": "Whine & Kotch - Raw",
       "url": "https://open.spotify.com/track/4MfOIakexlZ7kIvMQOlCwm"
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 202352,
       "name": "Worldboss (feat. Lisa Mercedes & Redboom) [Dons]",
       "url": "https://open.spotify.com/track/7gq31CNCaa8fFjej4GD5hz"

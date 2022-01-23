@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed",
-  "num_followers": 76077,
+  "num_followers": 76632,
   "original_name": "slowed + reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgxMTk3MCwwMDAwMDAwMDdiYmFlYmZkMDMwZjJjYzJhMzNiMjU1YTMwN2E4Zjhk",
+  "snapshot_id": "MTY0Mjg5ODM4MywwMDAwMDAwMGFjMTJlMjY2NTA1NTAzNjVhMThkMzY4YTg1YTMyMzI4",
   "tracks": [
     {
       "added_at": "2022-01-21 05:45:00",
@@ -26,6 +26,10 @@
         {
           "name": "Moliy",
           "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "xxtristanxo",
+          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
         }
       ],
       "duration_ms": 138646,
@@ -139,6 +143,26 @@
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
+        "name": "i met sarah in the bathroom {slow//reverb}",
+        "url": "https://open.spotify.com/album/5weFCB5J30LYL4R21hSD2m"
+      },
+      "artists": [
+        {
+          "name": "Ryan Celsius Sounds",
+          "url": "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
+        },
+        {
+          "name": "slow//reverb",
+          "url": "https://open.spotify.com/artist/3PkF2MgUKkl7yrwoQMoY4j"
+        }
+      ],
+      "duration_ms": 137858,
+      "name": "i met sarah in the bathroom {slow//reverb}",
+      "url": "https://open.spotify.com/track/0xPU0Sdkrva3RgRIPhK0zq"
+    },
+    {
+      "added_at": "2021-10-01 10:11:00",
+      "album": {
         "name": "fools (can't help falling in love) (slowed down & reverb)",
         "url": "https://open.spotify.com/album/4cqURqEKhKGJNtuO2N3rqn"
       },
@@ -163,42 +187,18 @@
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "i met sarah in the bathroom {slow//reverb}",
-        "url": "https://open.spotify.com/album/5weFCB5J30LYL4R21hSD2m"
+        "name": "No Idea (DJ Purpberry Chopped and Screwed)",
+        "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
       },
       "artists": [
         {
-          "name": "Ryan Celsius Sounds",
-          "url": "https://open.spotify.com/artist/2AtYJoC6VmUtkxonmVnbVR"
-        },
-        {
-          "name": "slow//reverb",
-          "url": "https://open.spotify.com/artist/3PkF2MgUKkl7yrwoQMoY4j"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 137858,
-      "name": "i met sarah in the bathroom {slow//reverb}",
-      "url": "https://open.spotify.com/track/0xPU0Sdkrva3RgRIPhK0zq"
-    },
-    {
-      "added_at": "2021-10-01 10:11:00",
-      "album": {
-        "name": "Somebody That I Used to Know",
-        "url": "https://open.spotify.com/album/2eItOEKo3nKSl4VIuOZlHm"
-      },
-      "artists": [
-        {
-          "name": "Lofi Fruits Music",
-          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
-        },
-        {
-          "name": "Chill Fruits Music",
-          "url": "https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB"
-        }
-      ],
-      "duration_ms": 241326,
-      "name": "Somebody That I Used to Know",
-      "url": "https://open.spotify.com/track/2q6hCYb7pBCpZmVxfehYV0"
+      "duration_ms": 195573,
+      "name": "No Idea - Dj Purpberry Chopped and Screwed",
+      "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
     },
     {
       "added_at": "2021-10-01 10:11:00",
@@ -217,6 +217,22 @@
       "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
     },
     {
+      "added_at": "2021-10-01 10:11:00",
+      "album": {
+        "name": "Desire (Slowed)",
+        "url": "https://open.spotify.com/album/5Jj8824AFck9YYJLjBheTg"
+      },
+      "artists": [
+        {
+          "name": "Hucci",
+          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+        }
+      ],
+      "duration_ms": 247684,
+      "name": "Desire - Slowed",
+      "url": "https://open.spotify.com/track/4ZCxG8ZNlJoeAvAD6kdPuB"
+    },
+    {
       "added_at": "2022-01-05 18:25:25",
       "album": {
         "name": "dirty laundry (slowed)",
@@ -231,22 +247,6 @@
       "duration_ms": 167369,
       "name": "dirty laundry - slowed",
       "url": "https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6"
-    },
-    {
-      "added_at": "2021-10-01 10:11:00",
-      "album": {
-        "name": "Swing Lynn (Slowed Version)",
-        "url": "https://open.spotify.com/album/4aEUYgi1AZ8iERXsJB7yt0"
-      },
-      "artists": [
-        {
-          "name": "Harmless",
-          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
-        }
-      ],
-      "duration_ms": 448000,
-      "name": "Swing Lynn (Slowed Version)",
-      "url": "https://open.spotify.com/track/3lsh4fIbGeHZDFovC0InnY"
     },
     {
       "added_at": "2021-10-01 10:11:00",
@@ -295,50 +295,38 @@
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "No Idea (DJ Purpberry Chopped and Screwed)",
-        "url": "https://open.spotify.com/album/2npABxi9tLhYZym5NtWubO"
+        "name": "Somebody That I Used to Know",
+        "url": "https://open.spotify.com/album/2eItOEKo3nKSl4VIuOZlHm"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Chill Fruits Music",
+          "url": "https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB"
         }
       ],
-      "duration_ms": 195573,
-      "name": "No Idea - Dj Purpberry Chopped and Screwed",
-      "url": "https://open.spotify.com/track/3PEwQ1uaMwg0ehoTeVm7Yq"
+      "duration_ms": 241326,
+      "name": "Somebody That I Used to Know",
+      "url": "https://open.spotify.com/track/2q6hCYb7pBCpZmVxfehYV0"
     },
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "Desire (Slowed)",
-        "url": "https://open.spotify.com/album/5Jj8824AFck9YYJLjBheTg"
+        "name": "Swing Lynn (Slowed Version)",
+        "url": "https://open.spotify.com/album/4aEUYgi1AZ8iERXsJB7yt0"
       },
       "artists": [
         {
-          "name": "Hucci",
-          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
         }
       ],
-      "duration_ms": 247684,
-      "name": "Desire - Slowed",
-      "url": "https://open.spotify.com/track/4ZCxG8ZNlJoeAvAD6kdPuB"
-    },
-    {
-      "added_at": "2021-10-01 10:11:00",
-      "album": {
-        "name": "Ease Off (Slowed & Reverbed)",
-        "url": "https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9"
-      },
-      "artists": [
-        {
-          "name": "YNG Martyr",
-          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
-        }
-      ],
-      "duration_ms": 161750,
-      "name": "Ease Off - Slowed & Reverbed",
-      "url": "https://open.spotify.com/track/7yy3QgAa5unQuY2Ulpznbi"
+      "duration_ms": 448000,
+      "name": "Swing Lynn (Slowed Version)",
+      "url": "https://open.spotify.com/track/3lsh4fIbGeHZDFovC0InnY"
     },
     {
       "added_at": "2021-10-01 10:11:00",
@@ -359,6 +347,22 @@
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
+        "name": "Ease Off (Slowed & Reverbed)",
+        "url": "https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9"
+      },
+      "artists": [
+        {
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+        }
+      ],
+      "duration_ms": 161750,
+      "name": "Ease Off - Slowed & Reverbed",
+      "url": "https://open.spotify.com/track/7yy3QgAa5unQuY2Ulpznbi"
+    },
+    {
+      "added_at": "2021-10-01 10:11:00",
+      "album": {
         "name": "The Arrival: Part I (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/3WUbnzlQ2VJRicGZVqwIz5"
       },
@@ -375,22 +379,6 @@
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "Killshot (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 278074,
-      "name": "Killshot - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
-    },
-    {
-      "added_at": "2021-10-01 10:11:00",
-      "album": {
         "name": "Slowed + Reverb, Vol. 1",
         "url": "https://open.spotify.com/album/5emMGltzeCZP5bKH5Zhqxa"
       },
@@ -403,42 +391,6 @@
       "duration_ms": 174390,
       "name": "Addict (Slowed and Reverb)",
       "url": "https://open.spotify.com/track/7aFLvAnoqd35te3cKFHxKo"
-    },
-    {
-      "added_at": "2021-10-01 10:11:00",
-      "album": {
-        "name": "School Rooftop (Slowed Down Version)",
-        "url": "https://open.spotify.com/album/76JXJsfZYtIjFqSn29DuB0"
-      },
-      "artists": [
-        {
-          "name": "Hisohkah",
-          "url": "https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6"
-        },
-        {
-          "name": "WMD",
-          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
-        }
-      ],
-      "duration_ms": 193732,
-      "name": "School Rooftop - Slowed Down Version",
-      "url": "https://open.spotify.com/track/1IzqLAnLpITw7SArHU3286"
-    },
-    {
-      "added_at": "2021-10-01 10:11:00",
-      "album": {
-        "name": "loving you is a losing game",
-        "url": "https://open.spotify.com/album/48yT3hsRcA3Ts3ctTNoHPy"
-      },
-      "artists": [
-        {
-          "name": "omgkirby",
-          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "loving you is a losing game",
-      "url": "https://open.spotify.com/track/2BQJFATEPDJNdRw3bpjwCJ"
     },
     {
       "added_at": "2021-10-01 10:11:00",
@@ -463,22 +415,6 @@
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "Assumptions / Call out My Name (Acoustic)",
-        "url": "https://open.spotify.com/album/63rY7Ofwy3BZ5Knd5Pc0Ti"
-      },
-      "artists": [
-        {
-          "name": "Que Fieri",
-          "url": "https://open.spotify.com/artist/1GbIkmv5H1Ok9Vo2UbDLuE"
-        }
-      ],
-      "duration_ms": 241104,
-      "name": "Call out My Name (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/68GfSNWJGl4OCvDtWBTh38"
-    },
-    {
-      "added_at": "2021-10-01 10:11:00",
-      "album": {
         "name": "Vision (Slowed)",
         "url": "https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr"
       },
@@ -493,40 +429,24 @@
       "url": "https://open.spotify.com/track/7vU308OLwga3urbN8aUPp6"
     },
     {
-      "added_at": "2022-01-05 18:25:25",
-      "album": {
-        "name": "slippin' to you (slowed + reverb remix)",
-        "url": "https://open.spotify.com/album/46g04hw7U0OITcgNmD4XjX"
-      },
-      "artists": [
-        {
-          "name": "penelope Q",
-          "url": "https://open.spotify.com/artist/70ovkdfy4QSPHKJQ0Qy9zR"
-        },
-        {
-          "name": "Rahmell Green",
-          "url": "https://open.spotify.com/artist/3tFG00pCjaywJ4dahNomzM"
-        }
-      ],
-      "duration_ms": 250403,
-      "name": "slippin' to you - slowed + reverb remix",
-      "url": "https://open.spotify.com/track/74JS01N6tg8CbpJaKztwSS"
-    },
-    {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "On Her Own (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/5CFoeFNnTwbSu9PYxjqUBH"
+        "name": "School Rooftop (Slowed Down Version)",
+        "url": "https://open.spotify.com/album/76JXJsfZYtIjFqSn29DuB0"
       },
       "artists": [
         {
-          "name": "Palm Paradise",
-          "url": "https://open.spotify.com/artist/3S3kyfXZfNa5DbHEmzc09r"
+          "name": "Hisohkah",
+          "url": "https://open.spotify.com/artist/72y6MZHIPEyS64ACSCtIq6"
+        },
+        {
+          "name": "WMD",
+          "url": "https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD"
         }
       ],
-      "duration_ms": 120403,
-      "name": "On Her Own (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/7If5tD4wQaZr2FKDBX7MLY"
+      "duration_ms": 193732,
+      "name": "School Rooftop - Slowed Down Version",
+      "url": "https://open.spotify.com/track/1IzqLAnLpITw7SArHU3286"
     },
     {
       "added_at": "2021-10-01 10:11:00",
@@ -545,36 +465,36 @@
       "url": "https://open.spotify.com/track/6Jqxp4JxTdqkvFnCBxkzHU"
     },
     {
-      "added_at": "2021-12-08 19:40:58",
+      "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "i think you're the one (slowed + reverbed)",
-        "url": "https://open.spotify.com/album/3JStm1I21xNeKrKgmFyzZ5"
+        "name": "Killshot (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
       },
       "artists": [
         {
-          "name": "whenthecitysleeps",
-          "url": "https://open.spotify.com/artist/4BbvGZ4ciPOGOuaDeDB9Lj"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 269333,
-      "name": "i think you're the one (slowed + reverbed)",
-      "url": "https://open.spotify.com/track/3pQF5dp3vQevA6EUbmKMlY"
+      "duration_ms": 278074,
+      "name": "Killshot - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
     },
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "Sad Boy in Skirt",
-        "url": "https://open.spotify.com/album/3nYeICl5v7EaHay8iQayhM"
+        "name": "Assumptions / Call out My Name (Acoustic)",
+        "url": "https://open.spotify.com/album/63rY7Ofwy3BZ5Knd5Pc0Ti"
       },
       "artists": [
         {
-          "name": "boy in skirt",
-          "url": "https://open.spotify.com/artist/6YnaF6icmmm03VSrrM28ft"
+          "name": "Que Fieri",
+          "url": "https://open.spotify.com/artist/1GbIkmv5H1Ok9Vo2UbDLuE"
         }
       ],
-      "duration_ms": 116918,
-      "name": "Losing Interest - Slowed Version",
-      "url": "https://open.spotify.com/track/2TJKss1zYOFZ0OAXePgdcS"
+      "duration_ms": 241104,
+      "name": "Call out My Name (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/68GfSNWJGl4OCvDtWBTh38"
     },
     {
       "added_at": "2021-11-12 14:55:45",
@@ -595,18 +515,18 @@
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "help_urself (Alternates)",
-        "url": "https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46"
+        "name": "Sad Boy in Skirt",
+        "url": "https://open.spotify.com/album/3nYeICl5v7EaHay8iQayhM"
       },
       "artists": [
         {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+          "name": "boy in skirt",
+          "url": "https://open.spotify.com/artist/6YnaF6icmmm03VSrrM28ft"
         }
       ],
-      "duration_ms": 151431,
-      "name": "help_urself - slowed",
-      "url": "https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG"
+      "duration_ms": 116918,
+      "name": "Losing Interest - Slowed Version",
+      "url": "https://open.spotify.com/track/2TJKss1zYOFZ0OAXePgdcS"
     },
     {
       "added_at": "2021-10-01 10:11:00",
@@ -625,56 +545,92 @@
       "url": "https://open.spotify.com/track/3pYvs3jAA5APaB5cax7eXr"
     },
     {
-      "added_at": "2021-10-01 10:11:00",
+      "added_at": "2021-12-03 14:24:49",
       "album": {
-        "name": "Dream Girl (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/2NlFPxPuRjjLrxAPDvFAiT"
+        "name": "This December (slow)",
+        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
       },
       "artists": [
         {
-          "name": "Crisaunt",
-          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Dream Girl - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/3YLKkHR4fISvRe1N34l6EJ"
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
     },
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "Soul (Slowed Down)",
-        "url": "https://open.spotify.com/album/1EjGzdXbIN4HSbUPNGNGPb"
+        "name": "loving you is a losing game",
+        "url": "https://open.spotify.com/album/48yT3hsRcA3Ts3ctTNoHPy"
       },
       "artists": [
         {
-          "name": "Ice Bear",
-          "url": "https://open.spotify.com/artist/6GXkLQCKY9AGc4F4yYGHqV"
+          "name": "omgkirby",
+          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "loving you is a losing game",
+      "url": "https://open.spotify.com/track/2BQJFATEPDJNdRw3bpjwCJ"
+    },
+    {
+      "added_at": "2021-10-01 10:11:00",
+      "album": {
+        "name": "Aesthetic Girl (Slowed + Reverb) [Love Making Ver]",
+        "url": "https://open.spotify.com/album/6EMVGd2CgjonyXdwKUY19U"
+      },
+      "artists": [
+        {
+          "name": "Yusei",
+          "url": "https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv"
+        }
+      ],
+      "duration_ms": 319860,
+      "name": "Aesthetic Girl (Slowed + Reverb) [Love Making Ver]",
+      "url": "https://open.spotify.com/track/5077oyWMFY3CVOX53UfPpd"
+    },
+    {
+      "added_at": "2021-10-01 10:11:00",
+      "album": {
+        "name": "Happy Endings (feat. iann dior and UPSAHL) [slowed + reverb / Nightcore Edit]",
+        "url": "https://open.spotify.com/album/3qbn9bA3stgYP5yuqfjMTV"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
         },
         {
-          "name": "Shiloh Dynasty",
-          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
         }
       ],
-      "duration_ms": 116842,
-      "name": "Soul (Slowed Down)",
-      "url": "https://open.spotify.com/track/18M3uYhVXQVPsKw88stW30"
+      "duration_ms": 237361,
+      "name": "Happy Endings (feat. iann dior and UPSAHL) - slowed + reverb",
+      "url": "https://open.spotify.com/track/0YhbiKLcr7Qd0rnpeamGNX"
     },
     {
-      "added_at": "2021-11-26 07:27:00",
+      "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "Within These Walls (Slow Down Rework)",
-        "url": "https://open.spotify.com/album/5LauFnwiHWZCYyAwpFDwH5"
+        "name": "help_urself (Alternates)",
+        "url": "https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46"
       },
       "artists": [
         {
-          "name": "Lawrence Hart",
-          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
         }
       ],
-      "duration_ms": 167240,
-      "name": "Within These Walls - Slow Down Rework",
-      "url": "https://open.spotify.com/track/5faeolAsubn6KYYTYxpFRc"
+      "duration_ms": 151431,
+      "name": "help_urself - slowed",
+      "url": "https://open.spotify.com/track/6ivAviar2zmiKrQ397I4rG"
     },
     {
       "added_at": "2021-10-01 10:11:00",
@@ -699,18 +655,50 @@
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "Aesthetic Girl (Slowed + Reverb) [Love Making Ver]",
-        "url": "https://open.spotify.com/album/6EMVGd2CgjonyXdwKUY19U"
+        "name": "Dream Girl (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/2NlFPxPuRjjLrxAPDvFAiT"
       },
       "artists": [
         {
-          "name": "Yusei",
-          "url": "https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv"
+          "name": "Crisaunt",
+          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
         }
       ],
-      "duration_ms": 319860,
-      "name": "Aesthetic Girl (Slowed + Reverb) [Love Making Ver]",
-      "url": "https://open.spotify.com/track/5077oyWMFY3CVOX53UfPpd"
+      "duration_ms": 191000,
+      "name": "Dream Girl - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/3YLKkHR4fISvRe1N34l6EJ"
+    },
+    {
+      "added_at": "2021-10-01 10:11:00",
+      "album": {
+        "name": "On Her Own (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/5CFoeFNnTwbSu9PYxjqUBH"
+      },
+      "artists": [
+        {
+          "name": "Palm Paradise",
+          "url": "https://open.spotify.com/artist/3S3kyfXZfNa5DbHEmzc09r"
+        }
+      ],
+      "duration_ms": 120403,
+      "name": "On Her Own (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/7If5tD4wQaZr2FKDBX7MLY"
+    },
+    {
+      "added_at": "2022-01-05 18:25:25",
+      "album": {
+        "name": "Everything's (Not) Good",
+        "url": "https://open.spotify.com/album/5JcqFw1JKinpCu1IOeEnCz"
+      },
+      "artists": [
+        {
+          "name": "Phil Good",
+          "url": "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
+        }
+      ],
+      "duration_ms": 227106,
+      "name": "Everything's Good - slowed + reverb",
+      "url": "https://open.spotify.com/track/7AlaXfx2sqPDyv5iTnVJVf"
     },
     {
       "added_at": "2021-10-01 10:11:00",
@@ -727,6 +715,30 @@
       "duration_ms": 155131,
       "name": "diamonds - slowed + reverb",
       "url": "https://open.spotify.com/track/3W96ACf1ASlf3RVJANWxcU"
+    },
+    {
+      "added_at": "2021-12-08 19:40:58",
+      "album": {
+        "name": "Li\u1ec1u Thu\u1ed1c Cho Tr\u00e1i Tim (Slowed)",
+        "url": "https://open.spotify.com/album/29SYgoZKbaqbgx8kHGzkiT"
+      },
+      "artists": [
+        {
+          "name": "Nguyen Dinh Vu",
+          "url": "https://open.spotify.com/artist/1gjeO7nm4QagscrFBbHiSZ"
+        },
+        {
+          "name": "Neko Land",
+          "url": "https://open.spotify.com/artist/1LizFsdyfdlEJlah6l88PU"
+        },
+        {
+          "name": "flechazowu",
+          "url": "https://open.spotify.com/artist/4qPZYOg0Cr8cN53saMueqV"
+        }
+      ],
+      "duration_ms": 396921,
+      "name": "Li\u1ec1u Thu\u1ed1c Cho Tr\u00e1i Tim (Slowed)",
+      "url": "https://open.spotify.com/track/6IlJKmi67fUzexcD51zcag"
     },
     {
       "added_at": "2021-10-01 10:11:00",
@@ -755,6 +767,22 @@
     {
       "added_at": "2022-01-05 18:25:25",
       "album": {
+        "name": "floral notes",
+        "url": "https://open.spotify.com/album/7Lc4rhepsPfVji5J3z3ZDr"
+      },
+      "artists": [
+        {
+          "name": "Tucked In",
+          "url": "https://open.spotify.com/artist/3DgW2NkRsZnsPIMVtRnXiZ"
+        }
+      ],
+      "duration_ms": 174886,
+      "name": "floral notes - slowed + reverbed",
+      "url": "https://open.spotify.com/track/64WvcIKpNx95kiHPTiijYI"
+    },
+    {
+      "added_at": "2022-01-05 18:25:25",
+      "album": {
         "name": "vaping in the hood // slowed + reverbed",
         "url": "https://open.spotify.com/album/3qsrNk9RN1qPFLQdLOIOQm"
       },
@@ -769,108 +797,80 @@
       "url": "https://open.spotify.com/track/15G4SDc25JnGW3Re0j8cZn"
     },
     {
-      "added_at": "2021-12-03 14:24:49",
+      "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "This December (slow)",
-        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
+        "name": "Flashbacks (Slowed)",
+        "url": "https://open.spotify.com/album/7eO75JwSheXFOmkep315aR"
       },
       "artists": [
         {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+          "name": "CRASPORE",
+          "url": "https://open.spotify.com/artist/70uBplYS9d9GUfEKVusJw6"
         }
       ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
-    },
-    {
-      "added_at": "2022-01-05 18:25:25",
-      "album": {
-        "name": "SEQUEL",
-        "url": "https://open.spotify.com/album/5slAtJXXr10Oy8IRLCJocZ"
-      },
-      "artists": [
-        {
-          "name": "esfhn",
-          "url": "https://open.spotify.com/artist/36eJerXdo61ii2J6ae4zBI"
-        }
-      ],
-      "duration_ms": 222338,
-      "name": "SEQUEL - slowed + reverbed",
-      "url": "https://open.spotify.com/track/4S2TY8hfkkIwE12UG8PpjH"
-    },
-    {
-      "added_at": "2022-01-05 18:25:25",
-      "album": {
-        "name": "Everything's (Not) Good",
-        "url": "https://open.spotify.com/album/5JcqFw1JKinpCu1IOeEnCz"
-      },
-      "artists": [
-        {
-          "name": "Phil Good",
-          "url": "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
-        }
-      ],
-      "duration_ms": 227106,
-      "name": "Everything's Good - slowed + reverb",
-      "url": "https://open.spotify.com/track/7AlaXfx2sqPDyv5iTnVJVf"
+      "duration_ms": 402952,
+      "name": "Flashbacks (Slowed)",
+      "url": "https://open.spotify.com/track/1tiYiTDSrtOTVVg0cym5S1"
     },
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "Slowed + Reverb, Vol. 1",
-        "url": "https://open.spotify.com/album/5emMGltzeCZP5bKH5Zhqxa"
+        "name": "Shhh (Pew Pew) [Slowed + Reverb]",
+        "url": "https://open.spotify.com/album/4r7PpbLHOT8ifiJZYBBkij"
       },
       "artists": [
         {
-          "name": "Chan's Night Out",
-          "url": "https://open.spotify.com/artist/56buqkxKfQXzJGiLNkfNxn"
+          "name": "Young Fanatic",
+          "url": "https://open.spotify.com/artist/3WYkULuwVr6K98AQ2s3SYt"
         }
       ],
-      "duration_ms": 187804,
-      "name": "6 A.M (Slowed and Reverb)",
-      "url": "https://open.spotify.com/track/75LBctBE74I7q9jKyq8JPb"
+      "duration_ms": 134013,
+      "name": "Shhh (Pew Pew) - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/24HKaFw0tAfvGiq03KRNje"
+    },
+    {
+      "added_at": "2021-10-02 23:47:27",
+      "album": {
+        "name": "Mystery Lady (ChopNotSlop Remix)",
+        "url": "https://open.spotify.com/album/240eFEHl03EpsKxbMatAXl"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "DJ Candlestick",
+          "url": "https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ"
+        },
+        {
+          "name": "OG Ron C",
+          "url": "https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 312755,
+      "name": "Mystery Lady - ChopNotSlop Remix",
+      "url": "https://open.spotify.com/track/4E3KOqQvFCq8j0d8XeaNq6"
     },
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "Happy Endings (feat. iann dior and UPSAHL) [slowed + reverb / Nightcore Edit]",
-        "url": "https://open.spotify.com/album/3qbn9bA3stgYP5yuqfjMTV"
+        "name": "LEFT RIGHT (Slowed)",
+        "url": "https://open.spotify.com/album/0HwvROOXn0C9CaVvTCkyG3"
       },
       "artists": [
         {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
-        },
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "Bktherula",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
         }
       ],
-      "duration_ms": 237361,
-      "name": "Happy Endings (feat. iann dior and UPSAHL) - slowed + reverb",
-      "url": "https://open.spotify.com/track/0YhbiKLcr7Qd0rnpeamGNX"
-    },
-    {
-      "added_at": "2021-12-15 01:56:05",
-      "album": {
-        "name": "UNDERTALE Soundtrack",
-        "url": "https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z"
-      },
-      "artists": [
-        {
-          "name": "Toby Fox",
-          "url": "https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau"
-        }
-      ],
-      "duration_ms": 57818,
-      "name": "Fallen Down",
-      "url": "https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla"
+      "duration_ms": 92869,
+      "name": "LEFT RIGHT - Slowed",
+      "url": "https://open.spotify.com/track/4YMOED32VTJr8woSeQxvZM"
     },
     {
       "added_at": "2021-12-08 19:40:58",
@@ -891,18 +891,34 @@
     {
       "added_at": "2021-10-01 10:11:00",
       "album": {
-        "name": "Flashbacks (Slowed)",
-        "url": "https://open.spotify.com/album/7eO75JwSheXFOmkep315aR"
+        "name": "Call Me (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/0kov8bglsI0VYA9PWEEYdk"
       },
       "artists": [
         {
-          "name": "CRASPORE",
-          "url": "https://open.spotify.com/artist/70uBplYS9d9GUfEKVusJw6"
+          "name": "Que Fieri",
+          "url": "https://open.spotify.com/artist/1GbIkmv5H1Ok9Vo2UbDLuE"
         }
       ],
-      "duration_ms": 402952,
-      "name": "Flashbacks (Slowed)",
-      "url": "https://open.spotify.com/track/1tiYiTDSrtOTVVg0cym5S1"
+      "duration_ms": 140000,
+      "name": "Call Me (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/3lEZmvQ6P6Rf8hgfYTKzHT"
+    },
+    {
+      "added_at": "2021-12-08 19:40:58",
+      "album": {
+        "name": "i think you're the one (slowed + reverbed)",
+        "url": "https://open.spotify.com/album/3JStm1I21xNeKrKgmFyzZ5"
+      },
+      "artists": [
+        {
+          "name": "whenthecitysleeps",
+          "url": "https://open.spotify.com/artist/4BbvGZ4ciPOGOuaDeDB9Lj"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "i think you're the one (slowed + reverbed)",
+      "url": "https://open.spotify.com/track/3pQF5dp3vQevA6EUbmKMlY"
     }
   ],
   "unique_name": "slowed + reverbed",

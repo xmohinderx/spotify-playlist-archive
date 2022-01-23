@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Keb' Mo'
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,466 likes - 115 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,751 likes - 115 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

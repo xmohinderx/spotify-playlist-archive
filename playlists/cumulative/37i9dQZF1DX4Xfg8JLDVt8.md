@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4Xfg8JLDVt8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4Xfg8JLDVt8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4Xfg8JLDVt8)
 
-### Goals
+### [Goals](https://open.spotify.com/playlist/15mR6SqPGAa7p8QpZ2mmaU)
 
 > Modo cursi: ON \#RelationshipGoals
 

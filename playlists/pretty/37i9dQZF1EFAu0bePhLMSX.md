@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302 likes - 130 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 303 likes - 130 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 18 | [These Four Walls](https://open.spotify.com/track/3pofJEjOp6m9e6kYNmGhxa) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(Expanded Edition\)](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) | 3:28 |
 | 19 | [If Ya Gettin' Down](https://open.spotify.com/track/6UespeVK9gGMnEyeMktQhU) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW) | 3:00 |
 | 20 | [Try Hard](https://open.spotify.com/track/6Zh0i2K4q8uubCRvc6lL3s) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/5hVsQ9MdhzoPAxDB8ohTCr) | 3:41 |
-| 21 | [Goodbye](https://open.spotify.com/track/6ZNw9Cnc85OeHZrjMAZJfY) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:35 |
-| 22 | [Got the Feelin' \- Radio Edit](https://open.spotify.com/track/0E7dgYApjRrO2WqlyoHKVy) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [5ive](https://open.spotify.com/album/1GJlrr97zfdxa3l4jpP47A) | 3:28 |
+| 21 | [Got the Feelin' \- Radio Edit](https://open.spotify.com/track/0E7dgYApjRrO2WqlyoHKVy) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [5ive](https://open.spotify.com/album/1GJlrr97zfdxa3l4jpP47A) | 3:28 |
+| 22 | [Goodbye](https://open.spotify.com/track/6ZNw9Cnc85OeHZrjMAZJfY) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:35 |
 | 23 | [What Took You So Long?](https://open.spotify.com/track/6WJtzSaXumGZ7pIa0z7QIP) | [Emma Bunton](https://open.spotify.com/artist/2AEEnr6Le5zHzBwpnlZSmq) | [A Girl Like Me](https://open.spotify.com/album/5E6op11XOQa3ErVR4oLKss) | 4:01 |
 | 24 | [A Second to Midnight](https://open.spotify.com/track/3WYqZhwammjFtFLfZfT38u) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU) | 3:27 |
 | 25 | [Guilty](https://open.spotify.com/track/7LAmyFCpDakQ3YL92EKE8t) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [The Family Jewels](https://open.spotify.com/album/1CtDa7pVfLF4u2ZadRTWz7) | 3:41 |
 | 26 | [O Holy Night](https://open.spotify.com/track/6wCg6AcRdhQCwD0bh0F8zb) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 2:53 |
 | 27 | [I Love It](https://open.spotify.com/track/6g225JcOUd88PRslWGsRD3) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/7EBIA9cqbuqkyWfp3UCitD) | 3:50 |
 | 28 | [The One](https://open.spotify.com/track/7cFCSiPKUrBtnPUOdpk9Sk) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [X](https://open.spotify.com/album/6Z8FgyCYgC6ApRi7ZXbT55) | 3:59 |
-| 29 | [Move Over](https://open.spotify.com/track/3P50dC4GwZYiToIXQGWIAC) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:46 |
-| 30 | [Let's Dance \- Radio Edit](https://open.spotify.com/track/595JwfRS0iFbdZyhlBxokI) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:38 |
+| 29 | [Let's Dance \- Radio Edit](https://open.spotify.com/track/595JwfRS0iFbdZyhlBxokI) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:38 |
+| 30 | [Move Over](https://open.spotify.com/track/3P50dC4GwZYiToIXQGWIAC) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:46 |
 | 31 | [When A Woman](https://open.spotify.com/track/6QVyM6TX78lTjERce8Uu7w) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/0UdmyRJgaoe92dHgMit5bT) | 3:11 |
 | 32 | [Heartbreak \(Make Me A Dancer\)](https://open.spotify.com/track/6caxigputNu7W9SXMTt31O) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make A Scene](https://open.spotify.com/album/78y25UZcWa7BugXNRVuXDl) | 3:28 |
 | 33 | [If U Can't Dance](https://open.spotify.com/track/6bh25NILjNfJnIvGRT2emC) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:48 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 67 | [Lonely With You](https://open.spotify.com/track/1PMF8UtwRQtFccnD3ZlXfP) | [No Frills Twins](https://open.spotify.com/artist/0txX04I8tX1Slgkipl0rsv) | [Lonely With You](https://open.spotify.com/album/4aioDIyKH3cb3751EO74pu) | 3:49 |
 | 68 | [How Do Ya Feel](https://open.spotify.com/track/6EACVe4VmEJHosKTiVLojg) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 3:31 |
 | 69 | [Ritual](https://open.spotify.com/track/0jzeYeb1z29rtQ0BuOXN5T) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon \(Deluxe Version\)](https://open.spotify.com/album/2Y7n3jwZIsfi4m5udDY2vg) | 3:50 |
-| 70 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 |
-| 71 | [Just A Day](https://open.spotify.com/track/1MU4s8N2sHju0bFsDSmTHZ) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just A Day](https://open.spotify.com/album/2euo20MIf6pXQzEeO3CmJg) | 3:25 |
+| 70 | [Just A Day](https://open.spotify.com/track/1MU4s8N2sHju0bFsDSmTHZ) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just A Day](https://open.spotify.com/album/2euo20MIf6pXQzEeO3CmJg) | 3:25 |
+| 71 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 |
 | 72 | [Suddenly Monday](https://open.spotify.com/track/4bmPHxWGCkrCLVJw8KVUt2) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Northern Star](https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ) | 2:37 |
 | 73 | [Everyday](https://open.spotify.com/track/1lIj3mSKGJfmQkC8vMEdj0) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:19 |
 | 74 | [Don't Let Me Down](https://open.spotify.com/track/4mqnkUBTnxKbnzTzA1FXRJ) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential Will Young](https://open.spotify.com/album/5xcTzzjzn4mpmVpsNMuuC8) | 4:46 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 129 | [If You're Not the One](https://open.spotify.com/track/6Pe6hM9vri1ulCLGfp21xI) | [ELLE](https://open.spotify.com/artist/5Vd00Fe9ZNC4S7ataOQg32) | [If You're Not the One](https://open.spotify.com/album/67DkViPYaVxMaisDuLFbyz) | 3:40 |
 | 130 | [Don't Let Me Down](https://open.spotify.com/track/17my6iBMd8qwYN2AZkTM5B) | [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB), [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [B Sides](https://open.spotify.com/album/6t4FKATeqkOSX5p6CKz7gX) | 4:17 |
 
-Snapshot ID: `MjczODAyMDIsMDAwMDAwMDA4OGNjYmJiZGVkZTcwMGI3MzkyOTZkMzU1NGU4ZWY5MQ==`
+Snapshot ID: `MjczODE1ODgsMDAwMDAwMDAxYmQyMTcyNTJkNjFiNThmNDBlZjJlY2ZmODdjOTU3MA==`

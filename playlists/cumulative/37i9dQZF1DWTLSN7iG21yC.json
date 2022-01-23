@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 190911,
       "name": "6AM",
       "url": "https://open.spotify.com/track/5AJ9oWWYzHvSJYX6IBEvMK"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 169956,
       "name": "Adorable",
       "url": "https://open.spotify.com/track/576cGYBC1nWuQwLhLfurmw"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 243090,
       "name": "Altar",
       "url": "https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 179796,
       "name": "Come Close",
       "url": "https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 216504,
       "name": "Fallin\u2019 (Adrenaline)",
       "url": "https://open.spotify.com/track/5GhJIMWAw0uMLgkdbt6uMz"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 240133,
       "name": "False Alarms (with Jon Bellion)",
       "url": "https://open.spotify.com/track/05J50VX6xpsMYAqOb0atmk"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 169453,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn"
@@ -1519,7 +1519,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 158386,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0CF0U2FtLvWRB9K5Ol5gfm"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 185920,
       "name": "Good Die Young",
       "url": "https://open.spotify.com/track/7AgrPafTWK99KIwJ9Vo5nJ"
@@ -1707,7 +1707,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 172072,
       "name": "I Give Everything",
       "url": "https://open.spotify.com/track/7dX7gCMEviiaH9YDb9RnCJ"
@@ -1953,7 +1953,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 152840,
       "name": "Kiss The World Goodbye",
       "url": "https://open.spotify.com/track/3oUvvUcdQCOEPujLfd805G"
@@ -2581,7 +2581,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 193989,
       "name": "Odds",
       "url": "https://open.spotify.com/track/3PODaKOPvABUlVOA98ekqv"
@@ -2719,7 +2719,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
@@ -2885,7 +2885,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 169010,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
@@ -3009,7 +3009,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 191208,
       "name": "SING",
       "url": "https://open.spotify.com/track/73qyiny4KFB8kh4n2TUkOX"
@@ -3103,6 +3103,32 @@
       "duration_ms": 221086,
       "name": "SOS",
       "url": "https://open.spotify.com/track/6p4KCy1eh253tyYdSa1TSx"
+    },
+    {
+      "album": {
+        "name": "Start Up",
+        "url": "https://open.spotify.com/album/478bQvCuvD1Oq51rVbEDtC"
+      },
+      "artists": [
+        {
+          "name": "Jonathan & Friends",
+          "url": "https://open.spotify.com/artist/7iGyHL0MMwmyScIHOuW7Lo"
+        },
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        },
+        {
+          "name": "emma l\u00f8v",
+          "url": "https://open.spotify.com/artist/7eCvJy2JvEw2s087UHlJdx"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178858,
+      "name": "Start Up",
+      "url": "https://open.spotify.com/track/7MOWiF77FrR3DF6kphkER3"
     },
     {
       "album": {
@@ -3269,7 +3295,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 234888,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4Y2rXSgFiWO7xYRYzd3F6D"
@@ -3561,7 +3587,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 206108,
       "name": "Way Less Sad",
       "url": "https://open.spotify.com/track/4jbtL4tjkqghUvJknUqU1s"
@@ -3731,7 +3757,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 200346,
       "name": "Why It Hurts",
       "url": "https://open.spotify.com/track/79tW2TBIRnQBRdiGkC6xM0"
@@ -3803,7 +3829,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 202706,
       "name": "wish you were here",
       "url": "https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv"

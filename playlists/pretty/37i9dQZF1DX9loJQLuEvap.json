@@ -1,12 +1,12 @@
 {
   "description": "100% amazing female singers. Enjoy!",
-  "num_followers": 1586048,
+  "num_followers": 1586344,
   "original_name": "50 Great Female Voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgxMjI0MywwMDAwMDAwMGZkMzhmYTA1NmEyYTM5NjhkMTY1Y2U5YmVhM2U4YmEx",
+  "snapshot_id": "MTY0Mjg5ODYzNCwwMDAwMDAwMDE0ZDUxMTUwZTg2NTBkZGJkZDEzMmMyYjllZGJjYTdj",
   "tracks": [
     {
       "added_at": "2021-01-08 13:35:52",
@@ -139,6 +139,22 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
+        "name": "No Secrets",
+        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "duration_ms": 258411,
+      "name": "You're so Vain",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
         "name": "The Rose",
         "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 238066,
       "name": "I Try",
       "url": "https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 263480,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Before Me",
-        "url": "https://open.spotify.com/album/2epCdnoKoOoYA3heqJs5WP"
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7kwezyxShStyqj0PE8NvRw"
       },
       "artists": [
         {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+          "name": "Alison Moyet",
+          "url": "https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4"
         }
       ],
-      "duration_ms": 231746,
-      "name": "Since I Fell For You",
-      "url": "https://open.spotify.com/track/3DG4WI5bE5IyfTteCgrXa6"
+      "duration_ms": 170040,
+      "name": "Love Letters - Remastered",
+      "url": "https://open.spotify.com/track/6iM14W0FGSCZczBiNI6jPe"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -267,18 +267,50 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7kwezyxShStyqj0PE8NvRw"
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
       },
       "artists": [
         {
-          "name": "Alison Moyet",
-          "url": "https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4"
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
         }
       ],
-      "duration_ms": 170040,
-      "name": "Love Letters - Remastered",
-      "url": "https://open.spotify.com/track/6iM14W0FGSCZczBiNI6jPe"
+      "duration_ms": 263480,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Before Me",
+        "url": "https://open.spotify.com/album/2epCdnoKoOoYA3heqJs5WP"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        }
+      ],
+      "duration_ms": 231746,
+      "name": "Since I Fell For You",
+      "url": "https://open.spotify.com/track/3DG4WI5bE5IyfTteCgrXa6"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/6dx7saKYTu93wHcCuDSvUH"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/77XlfkvXtMwppbEU5sku97"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -299,6 +331,22 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
+        "name": "Ancient Heart",
+        "url": "https://open.spotify.com/album/3SuC7635bYkUsS5iHTSnSf"
+      },
+      "artists": [
+        {
+          "name": "Tanita Tikaram",
+          "url": "https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8"
+        }
+      ],
+      "duration_ms": 292080,
+      "name": "Twist in My Sobriety",
+      "url": "https://open.spotify.com/track/6wWlaSxOrBizAcpqkuv1FJ"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
         "name": "Broken English",
         "url": "https://open.spotify.com/album/5hLO4KIOY3lbYdPv4Swn3b"
       },
@@ -311,6 +359,38 @@
       "duration_ms": 250226,
       "name": "The Ballad Of Lucy Jordan",
       "url": "https://open.spotify.com/track/1hWa3NiuvNwnDHZ9TYMBkr"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Rhino Hi-Five: Linda Ronstadt",
+        "url": "https://open.spotify.com/album/5s2DuWddxp8onCKncWspZR"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Blue Bayou - 1999 Remaster",
+      "url": "https://open.spotify.com/track/31Q84a7UanVaTSrnFsFypj"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Man",
+        "url": "https://open.spotify.com/album/2bYrUTI2vWLQq2VXJ8DvVJ"
+      },
+      "artists": [
+        {
+          "name": "Neneh Cherry",
+          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
+        }
+      ],
+      "duration_ms": 270400,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/1eOCyaSRBdFGofbLYjgGM2"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -345,102 +425,6 @@
       "url": "https://open.spotify.com/track/4xzhlulgIL4yFEAR9EjHkR"
     },
     {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Man",
-        "url": "https://open.spotify.com/album/2bYrUTI2vWLQq2VXJ8DvVJ"
-      },
-      "artists": [
-        {
-          "name": "Neneh Cherry",
-          "url": "https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD"
-        }
-      ],
-      "duration_ms": 270400,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/1eOCyaSRBdFGofbLYjgGM2"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Rhino Hi-Five: Linda Ronstadt",
-        "url": "https://open.spotify.com/album/5s2DuWddxp8onCKncWspZR"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Blue Bayou - 1999 Remaster",
-      "url": "https://open.spotify.com/track/31Q84a7UanVaTSrnFsFypj"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "No Secrets",
-        "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
-      },
-      "artists": [
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 258411,
-      "name": "You're so Vain",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Colour Me Free",
-        "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 233040,
-      "name": "Free Me",
-      "url": "https://open.spotify.com/track/2osA5KIMQLLaNLHiuusgGy"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/6dx7saKYTu93wHcCuDSvUH"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 205386,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/77XlfkvXtMwppbEU5sku97"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Ancient Heart",
-        "url": "https://open.spotify.com/album/3SuC7635bYkUsS5iHTSnSf"
-      },
-      "artists": [
-        {
-          "name": "Tanita Tikaram",
-          "url": "https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8"
-        }
-      ],
-      "duration_ms": 292080,
-      "name": "Twist in My Sobriety",
-      "url": "https://open.spotify.com/track/6wWlaSxOrBizAcpqkuv1FJ"
-    },
-    {
       "added_at": "2021-06-07 14:46:37",
       "album": {
         "name": "Jolene (Expanded Edition)",
@@ -455,22 +439,6 @@
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Lisa Stansfield (Deluxe)",
-        "url": "https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0"
-      },
-      "artists": [
-        {
-          "name": "Lisa Stansfield",
-          "url": "https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1"
-        }
-      ],
-      "duration_ms": 301973,
-      "name": "Never, Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/1YwM86VfyDhJv5obDMMjp5"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -491,18 +459,34 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Joan Armatrading",
-        "url": "https://open.spotify.com/album/3wKouVhrEkGmdgnASErALn"
+        "name": "Colour Me Free",
+        "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
       },
       "artists": [
         {
-          "name": "Joan Armatrading",
-          "url": "https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6"
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
         }
       ],
-      "duration_ms": 268333,
-      "name": "Love And Affection",
-      "url": "https://open.spotify.com/track/4I1w0J6NA3M25jFZ5dhp6y"
+      "duration_ms": 233040,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/2osA5KIMQLLaNLHiuusgGy"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Lisa Stansfield (Deluxe)",
+        "url": "https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0"
+      },
+      "artists": [
+        {
+          "name": "Lisa Stansfield",
+          "url": "https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1"
+        }
+      ],
+      "duration_ms": 301973,
+      "name": "Never, Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/1YwM86VfyDhJv5obDMMjp5"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -519,6 +503,22 @@
       "duration_ms": 187213,
       "name": "A Thousand Beautiful Things",
       "url": "https://open.spotify.com/track/2E69zptZWLWSMBArSJLUAa"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Joan Armatrading",
+        "url": "https://open.spotify.com/album/3wKouVhrEkGmdgnASErALn"
+      },
+      "artists": [
+        {
+          "name": "Joan Armatrading",
+          "url": "https://open.spotify.com/artist/1bdAJUX6JPsnYHbTl5jbk6"
+        }
+      ],
+      "duration_ms": 268333,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4I1w0J6NA3M25jFZ5dhp6y"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -555,6 +555,22 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "Love Me Still",
+      "url": "https://open.spotify.com/track/1Me0238KTGrw7POxazgl77"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
         "name": "True Power-Ballads / 3CD set",
         "url": "https://open.spotify.com/album/01KB6ccwWZ1iVufgXMoOuX"
       },
@@ -585,38 +601,6 @@
       "url": "https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe"
     },
     {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
-        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "Love Me Still",
-      "url": "https://open.spotify.com/track/1Me0238KTGrw7POxazgl77"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "True Power-Ballads / 3CD set",
-        "url": "https://open.spotify.com/album/01KB6ccwWZ1iVufgXMoOuX"
-      },
-      "artists": [
-        {
-          "name": "Sam Brown",
-          "url": "https://open.spotify.com/artist/3gvT4Mc7kn54IUy08Y0Tr5"
-        }
-      ],
-      "duration_ms": 237306,
-      "name": "Stop - Edit",
-      "url": "https://open.spotify.com/track/5aSzCwW4lemb0ZsfWuDuos"
-    },
-    {
       "added_at": "2021-05-31 15:01:23",
       "album": {
         "name": "Soul",
@@ -631,6 +615,22 @@
       "duration_ms": 176426,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Let Me Sing and I'm Happy",
+        "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
+      },
+      "artists": [
+        {
+          "name": "Shirley Bassey",
+          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
+        }
+      ],
+      "duration_ms": 161933,
+      "name": "Diamonds Are Forever",
+      "url": "https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2"
     },
     {
       "added_at": "2021-06-07 14:46:37",
@@ -651,18 +651,18 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Let Me Sing and I'm Happy",
-        "url": "https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5"
+        "name": "True Power-Ballads / 3CD set",
+        "url": "https://open.spotify.com/album/01KB6ccwWZ1iVufgXMoOuX"
       },
       "artists": [
         {
-          "name": "Shirley Bassey",
-          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
+          "name": "Sam Brown",
+          "url": "https://open.spotify.com/artist/3gvT4Mc7kn54IUy08Y0Tr5"
         }
       ],
-      "duration_ms": 161933,
-      "name": "Diamonds Are Forever",
-      "url": "https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2"
+      "duration_ms": 237306,
+      "name": "Stop - Edit",
+      "url": "https://open.spotify.com/track/5aSzCwW4lemb0ZsfWuDuos"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -679,38 +679,6 @@
       "duration_ms": 205280,
       "name": "Million Reasons",
       "url": "https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/3ngc7rGlfeFaskU90EWl4R"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/0m8VAwx05KPWcxo0B3g2W7"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 186839,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/7xYy4fuiPfFEAsjz3H93Sl"
     },
     {
       "added_at": "2021-05-31 15:01:23",
@@ -731,6 +699,22 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/0m8VAwx05KPWcxo0B3g2W7"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 186839,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/7xYy4fuiPfFEAsjz3H93Sl"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 267413,
       "name": "Love On Top",
       "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/3ngc7rGlfeFaskU90EWl4R"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -779,18 +779,18 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Be One (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1BA61ZwyerWAKW9hsPMAlt"
+        "name": "Playlist: The Very Best Of Toni Braxton",
+        "url": "https://open.spotify.com/album/0Ehl4kMmLUL8ViTI1reMrV"
       },
       "artists": [
         {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 216400,
-      "name": "King Of The World",
-      "url": "https://open.spotify.com/track/2sHDB7pY43GVTsl0X3ob1B"
+      "duration_ms": 262173,
+      "name": "He Wasn't Man Enough",
+      "url": "https://open.spotify.com/track/6hheXAlIc9Dh1ZcFaaZaeH"
     },
     {
       "added_at": "2021-01-08 13:35:52",

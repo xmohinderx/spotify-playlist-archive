@@ -26,6 +26,46 @@
     },
     {
       "album": {
+        "name": "1.000 EMOTIONEN",
+        "url": "https://open.spotify.com/album/3mlFTmtgG9N6iAZPJJcINq"
+      },
+      "artists": [
+        {
+          "name": "LUIS",
+          "url": "https://open.spotify.com/artist/1GdFniPzxbAmIGIn89RwoI"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197847,
+      "name": "1.000 EMOTIONEN",
+      "url": "https://open.spotify.com/track/5bW7UeAOkE0wAeA6SOQWQc"
+    },
+    {
+      "album": {
+        "name": "Rebell Army",
+        "url": "https://open.spotify.com/album/3j6zDSNuJtpSu4Cd4BYH33"
+      },
+      "artists": [
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "100 KM/H",
+      "url": "https://open.spotify.com/track/6hRGUrBdquldxkBmS53wju"
+    },
+    {
+      "album": {
         "name": "10von10",
         "url": "https://open.spotify.com/album/0lYaNHSwem7u68WcMejtoy"
       },
@@ -566,6 +606,32 @@
     },
     {
       "album": {
+        "name": "Alles Gut",
+        "url": "https://open.spotify.com/album/0gqvGTLmlQWzpyI3x7jKWa"
+      },
+      "artists": [
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154693,
+      "name": "Alles Gut",
+      "url": "https://open.spotify.com/track/3fQURzoTMXzQlHy2Wsi9mB"
+    },
+    {
+      "album": {
         "name": "Sampler 5",
         "url": "https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG"
       },
@@ -757,7 +823,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -4960,6 +5026,24 @@
     },
     {
       "album": {
+        "name": "Geisterstadt",
+        "url": "https://open.spotify.com/album/4i26BTyYSKExscP4Ds9gAv"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140384,
+      "name": "Geisterstadt",
+      "url": "https://open.spotify.com/track/0HK6kN5EjmHFxMdikQWi2b"
+    },
+    {
+      "album": {
         "name": "Gelebt",
         "url": "https://open.spotify.com/album/6HuUuF6tqqhze74qHnKaMm"
       },
@@ -5395,6 +5479,28 @@
       "duration_ms": 163208,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
+    },
+    {
+      "album": {
+        "name": "Grey Goose (feat. Bausa)",
+        "url": "https://open.spotify.com/album/4PbIDhiYKWLsjQDa9tSuZu"
+      },
+      "artists": [
+        {
+          "name": "Bozza",
+          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215062,
+      "name": "Grey Goose (feat. Bausa)",
+      "url": "https://open.spotify.com/track/0jsGBnwk6LMD3GzonQbnT9"
     },
     {
       "album": {
@@ -7007,7 +7113,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
@@ -7113,7 +7219,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 152404,
       "name": "Jacke zu",
       "url": "https://open.spotify.com/track/0VYUzxAcxWtn05ZKiubkkU"
@@ -9283,10 +9389,28 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 246426,
       "name": "Mogli",
       "url": "https://open.spotify.com/track/1ZBgY7QTphcAhvZVt2QQZI"
+    },
+    {
+      "album": {
+        "name": "Rebell Army",
+        "url": "https://open.spotify.com/album/3j6zDSNuJtpSu4Cd4BYH33"
+      },
+      "artists": [
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246426,
+      "name": "Mogli",
+      "url": "https://open.spotify.com/track/40Y6lHWmWBlTAmxdKrEpQF"
     },
     {
       "album": {
@@ -9628,6 +9752,24 @@
     },
     {
       "album": {
+        "name": "Morgen",
+        "url": "https://open.spotify.com/album/0XP2nFkIVfR2i05uWBtqBW"
+      },
+      "artists": [
+        {
+          "name": "Wincent Weiss",
+          "url": "https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Morgen",
+      "url": "https://open.spotify.com/track/6jRkUyD99GMJ4KUjo5PCip"
+    },
+    {
+      "album": {
         "name": "Mosaik",
         "url": "https://open.spotify.com/album/1Ps6CeBuOEvPt5ITFVodTL"
       },
@@ -9741,7 +9883,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -9843,7 +9985,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 255000,
       "name": "Nachbeben",
       "url": "https://open.spotify.com/track/11sK6e6vCnbIznpH3NfIFA"
@@ -11201,7 +11343,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 168760,
       "name": "Pourquoi",
       "url": "https://open.spotify.com/track/6I36pBjiMiLQLF4cRMdtZ0"
@@ -12013,7 +12155,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 188918,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
@@ -12570,6 +12712,28 @@
     },
     {
       "album": {
+        "name": "SHOTS",
+        "url": "https://open.spotify.com/album/5tLNnxTUAD5DzIMrnHb90Q"
+      },
+      "artists": [
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162800,
+      "name": "SHOTS",
+      "url": "https://open.spotify.com/track/4ek0PMXX1qyom9xTqVx3Wz"
+    },
+    {
+      "album": {
         "name": "Showtime Fourever",
         "url": "https://open.spotify.com/album/5mpo2zF5C5mvwhW1kfWaUp"
       },
@@ -12857,7 +13021,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 175330,
       "name": "Sport",
       "url": "https://open.spotify.com/track/5ewhpp17f3pUSx9xCwC6b1"
@@ -13107,6 +13271,24 @@
       "duration_ms": 182163,
       "name": "Strangers By Nature",
       "url": "https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq"
+    },
+    {
+      "album": {
+        "name": "Strassengeschichten",
+        "url": "https://open.spotify.com/album/2aJEgKSbUODwrIX31p1P7F"
+      },
+      "artists": [
+        {
+          "name": "NGEE",
+          "url": "https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166097,
+      "name": "Strassengeschichten",
+      "url": "https://open.spotify.com/track/5wTppCMe8AtTcmYX9K8apU"
     },
     {
       "album": {

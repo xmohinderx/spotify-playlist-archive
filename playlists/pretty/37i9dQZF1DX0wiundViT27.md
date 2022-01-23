@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 
 > A dose of high energy, feel\-good rock tunes\. Press play and let the good vibes come your way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,263 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,262 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wiundViT27.md) - [plain]
 | 20 | [Karma](https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Internet Killed The Rockstar](https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO) | 2:39 |
 | 21 | [bloody valentine](https://open.spotify.com/track/1bWEngw5tAF7vWByrf5Oy5) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [bloody valentine](https://open.spotify.com/album/268JRqKvCGhDrbqH74sDFz) | 3:25 |
 | 22 | [The Best](https://open.spotify.com/track/4TIa51S5pZ7U9UdqHWqvsx) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [The Best](https://open.spotify.com/album/72pwARfEPXxFN6UXEHcOfe) | 3:43 |
-| 23 | [Sex Party](https://open.spotify.com/track/0kP4jYOuH9le6avYm2JnvZ) | [Left Boy](https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ), [Ferdinand](https://open.spotify.com/artist/01b3oz8hzqtQ3yu1PNDV0Q) | [Sex Party](https://open.spotify.com/album/4NgAfTr86rkILEFBkhHZky) | 2:47 |
+| 23 | [Sex Party](https://open.spotify.com/track/0kP4jYOuH9le6avYm2JnvZ) | [Left Boy](https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ), [Tomas Ferdinand](https://open.spotify.com/artist/01b3oz8hzqtQ3yu1PNDV0Q) | [Sex Party](https://open.spotify.com/album/4NgAfTr86rkILEFBkhHZky) | 2:47 |
 | 24 | [Prescription Kid](https://open.spotify.com/track/043IjYujEo3sEDuaBtWzu0) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Prescription Kid](https://open.spotify.com/album/1fR0QXuE9xmQwvQKkYcNpi) | 3:28 |
 | 25 | [The Devil's Bleeding Crown](https://open.spotify.com/track/58q4ZkagWkDV16Sehqx6AF) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Devil's Bleeding Crown](https://open.spotify.com/album/1uIzWwjfdmYDHlM2hrZyak) | 3:58 |
 | 26 | [Chop Suey!](https://open.spotify.com/track/5V3mdRI2yQxbSsJGDPc5lD) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/4DR0GWo7w2GJyQnFVa4jAB) | 3:30 |

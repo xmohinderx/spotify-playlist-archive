@@ -27,7 +27,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 159130,
       "name": "Abeg",
       "url": "https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 141125,
       "name": "Baptism",
       "url": "https://open.spotify.com/track/7GQD96UoFYpqinM6O44TBE"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 177023,
       "name": "Big Girl",
       "url": "https://open.spotify.com/track/7yc9njgF9QagMcIHg0qJ0a"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 224837,
       "name": "Can You See Her",
       "url": "https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 164347,
       "name": "Can You See Her (Acoustic)",
       "url": "https://open.spotify.com/track/6d3anVSGv5OlBamDWEuoEH"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Caribbeana",
       "url": "https://open.spotify.com/track/77TunfSjNZ2RLAwvF77hVo"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 204000,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy"
@@ -1330,6 +1330,24 @@
     },
     {
       "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167499,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b"
+    },
+    {
+      "album": {
         "name": "Milele",
         "url": "https://open.spotify.com/album/1l6eZ2RICsffC8CKNJbuWn"
       },
@@ -1433,6 +1451,24 @@
       "duration_ms": 185346,
       "name": "Never Love Again",
       "url": "https://open.spotify.com/track/0NLRTMtyvgX4HC9Yyf7fO9"
+    },
+    {
+      "album": {
+        "name": "Riddim 5",
+        "url": "https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV"
+      },
+      "artists": [
+        {
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
     },
     {
       "album": {
@@ -1681,7 +1717,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 186873,
       "name": "Searching",
       "url": "https://open.spotify.com/track/7AKiA7fmXGjBqozZzKhhDu"
@@ -1699,7 +1735,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 237333,
       "name": "Selense",
       "url": "https://open.spotify.com/track/7k5p0y3ujvszuxWoeJJpxO"
@@ -1725,7 +1761,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 198333,
       "name": "She Knows",
       "url": "https://open.spotify.com/track/2BhfY4dhveCwOkr4pUbSvo"
@@ -1939,7 +1975,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 167584,
       "name": "STONES",
       "url": "https://open.spotify.com/track/00ti8nTfpzn8rGt9tqBfTI"
@@ -1957,7 +1993,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 136270,
       "name": "Summertime With You",
       "url": "https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE"
@@ -2001,7 +2037,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 226960,
       "name": "Sweet Adetola",
       "url": "https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU"
@@ -2059,7 +2095,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 166470,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/1DxQFCBRYmnL9P2SJfHCml"
@@ -2143,7 +2179,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 149482,
       "name": "THINKING",
       "url": "https://open.spotify.com/track/41XqpDcepbryNYVyLzpVMa"
@@ -2165,7 +2201,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 183499,
       "name": "Tinkerbell (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"
@@ -2315,7 +2351,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 143484,
       "name": "Up",
       "url": "https://open.spotify.com/track/5GTXa4WXtncHY5Ztbb8yX2"
@@ -2473,7 +2509,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 187050,
       "name": "Your Number",
       "url": "https://open.spotify.com/track/57QcTLuRqbeyd6l9MgPPNd"

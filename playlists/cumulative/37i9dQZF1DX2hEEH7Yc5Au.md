@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2hEEH7Yc5Au.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2hEEH7Yc5Au) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2hEEH7Yc5Au)
 
-### EQUAL Taiwan
+### [EQUAL Taiwan](https://open.spotify.com/playlist/4b3PKrhJsbF0Qy4vbKHxEh)
 
 > 一起來支持女性音樂人的精采表現！Cover: ?te 壞特
 

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-21",
   "description": "Estas son las indomables del Regional Mexicano. Alicia Villarreal en portada.",
   "name": "Mujeres Brav\u00edas",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0i8T7w20lOXAWefxMbsjZ0"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,7 +37,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 267666,
       "name": "Acar\u00edciame",
       "url": "https://open.spotify.com/track/4drGRFC2Y197G9ZUty4wgW"
@@ -147,7 +149,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 185781,
       "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/7tbablwEgks4a625msS2i2"
@@ -241,10 +243,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 219941,
       "name": "Borracha De Amor",
       "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
+    },
+    {
+      "album": {
+        "name": "Cada Quien Su Gusto",
+        "url": "https://open.spotify.com/album/0mqdqY75p9sNoqTTQs0SJN"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163960,
+      "name": "Cada Quien Su Gusto",
+      "url": "https://open.spotify.com/track/6lyembOsPmVy52cfCj8nO8"
     },
     {
       "album": {
@@ -284,6 +304,24 @@
     },
     {
       "album": {
+        "name": "Paquita La Del Barrio Con Banda",
+        "url": "https://open.spotify.com/album/6MmrdXSwpwU65pFfzXOx9D"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158778,
+      "name": "Cheque En Blanco",
+      "url": "https://open.spotify.com/track/4JNtuFkaKrJrxi9Grof8DK"
+    },
+    {
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/3b83xibQ71125dvAZE2xcH"
       },
@@ -299,7 +337,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 186569,
       "name": "Cicatrices",
       "url": "https://open.spotify.com/track/7LvUCgGPYADdVng9zLINs3"
@@ -407,10 +445,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 166066,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/2nhIWTReHbwWJQaB0AJ5lh"
+    },
+    {
+      "album": {
+        "name": "Despu\u00e9s De Ti \u00bfQuien?",
+        "url": "https://open.spotify.com/album/4IdUwHfvUe6SxF7xBsBVuA"
+      },
+      "artists": [
+        {
+          "name": "Sandra Padilla",
+          "url": "https://open.spotify.com/artist/3hht892mum9HGzHHclNtXz"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212210,
+      "name": "Despu\u00e9s De Ti \u00bfQuien?",
+      "url": "https://open.spotify.com/track/6FejHPAGo8xZe4Q6xLqqjA"
     },
     {
       "album": {
@@ -443,7 +499,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 185070,
       "name": "El \u00daltimo Trago",
       "url": "https://open.spotify.com/track/4FfxvqOOvnMTohiuI97IOr"
@@ -465,6 +521,24 @@
       "duration_ms": 217478,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/4hl4QsudusiDu4IMnoOmGl"
+    },
+    {
+      "album": {
+        "name": "En Toda La Chapa",
+        "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177053,
+      "name": "En Toda La Chapa",
+      "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
     },
     {
       "album": {
@@ -555,7 +629,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 186245,
       "name": "Estan Lloviendo Lagrimas",
       "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
@@ -645,7 +719,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 192827,
       "name": "Hoy Dame el Gusto",
       "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
@@ -728,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Jab\u00f3n De Olor",
+        "url": "https://open.spotify.com/album/4DYJkXgntQ3lFLzNkWEOk5"
+      },
+      "artists": [
+        {
+          "name": "Dueto Dos Rosas",
+          "url": "https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247706,
+      "name": "Jab\u00f3n De Olor",
+      "url": "https://open.spotify.com/track/1Bqux8vSIgwoRycpC0eLcV"
+    },
+    {
+      "album": {
         "name": "La Cama No Miente",
         "url": "https://open.spotify.com/album/6h40E1fUVVRVlSaNdiw57l"
       },
@@ -739,7 +831,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 170155,
       "name": "La Cama No Miente",
       "url": "https://open.spotify.com/track/4ULKICvxhUw4gQmTQX8r7e"
@@ -939,7 +1031,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 220427,
       "name": "Lo Mal Que Me Trataste",
       "url": "https://open.spotify.com/track/0Tfr04oA2EPOTovHiM5lqK"
@@ -979,7 +1071,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
@@ -1087,10 +1179,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 216096,
       "name": "Mejor Me Voy",
       "url": "https://open.spotify.com/track/2nfZf1zElT1Us3mF9lXnhe"
+    },
+    {
+      "album": {
+        "name": "Ment\u00ed",
+        "url": "https://open.spotify.com/album/7MUmaBa2nW1Jv5Jvzordk7"
+      },
+      "artists": [
+        {
+          "name": "Paola Preciado",
+          "url": "https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211882,
+      "name": "Menti",
+      "url": "https://open.spotify.com/track/61u5NazgHnQAIDmO0Mo4TD"
     },
     {
       "album": {
@@ -1127,7 +1237,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 267413,
       "name": "Mi Enemigo El Amor",
       "url": "https://open.spotify.com/track/4O1FsTNRMbwI5xm6ictTM3"
@@ -1145,7 +1255,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 185346,
       "name": "Mi Fracaso",
       "url": "https://open.spotify.com/track/4Cp53VKKzH0Mdkz8tCgOlv"
@@ -1163,7 +1273,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 182533,
       "name": "Mi Gordito",
       "url": "https://open.spotify.com/track/53pTfNmLBdciGhUPX8ziTc"
@@ -1199,7 +1309,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 215893,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/6vYyt9OYS6HBT6wI3JP52s"
@@ -1444,6 +1554,28 @@
     },
     {
       "album": {
+        "name": "Para Qu\u00e9 Te Daba Tanto",
+        "url": "https://open.spotify.com/album/0i1ZmxU2eTbNywGGhlPrsY"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        },
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224383,
+      "name": "Para Qu\u00e9 Te Daba Tanto",
+      "url": "https://open.spotify.com/track/7yDmnC3EgAoT2UELKUxBqX"
+    },
+    {
+      "album": {
         "name": "Pedir Permiso",
         "url": "https://open.spotify.com/album/6EzfwzcnHgoCQNDrYYwDKe"
       },
@@ -1466,6 +1598,24 @@
     },
     {
       "album": {
+        "name": "Penas y Penas",
+        "url": "https://open.spotify.com/album/3VLexSKMnGGhaAkDwnRh1o"
+      },
+      "artists": [
+        {
+          "name": "Irene del Rosario",
+          "url": "https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179444,
+      "name": "Penas y Penas",
+      "url": "https://open.spotify.com/track/7Gfc4GtqLEQxsHTUtv9kQh"
+    },
+    {
+      "album": {
         "name": "Pobre Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
       },
@@ -1477,7 +1627,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 198102,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
@@ -1535,10 +1685,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 157942,
       "name": "Porque Me Extra\u00f1as",
       "url": "https://open.spotify.com/track/4xMfXBXs3bpacJNWrGaA9R"
+    },
+    {
+      "album": {
+        "name": "Que Facilito",
+        "url": "https://open.spotify.com/album/6VVI613WDbwhIMB5ImpJLa"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156329,
+      "name": "Que Facilito",
+      "url": "https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC"
     },
     {
       "album": {
@@ -1803,7 +1971,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 217626,
       "name": "Sola Con Mi Soledad",
       "url": "https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ"
@@ -1843,7 +2011,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 233840,
       "name": "S\u00e9 Que Te Vas",
       "url": "https://open.spotify.com/track/7gSLdZwdaKkxBeaL6WdLt9"
@@ -1933,7 +2101,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 166186,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/2Pow5S9NxZt7gNEbwRP0Mx"
@@ -1951,7 +2119,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 175105,
       "name": "V.A.T.O. (Voy a Terminar Odi\u00e1ndote)",
       "url": "https://open.spotify.com/track/0gHUJlbFFIDvZXxEd0oJjc"
@@ -2063,7 +2231,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "\u00bfPor Qu\u00e9 Te Vas?",
       "url": "https://open.spotify.com/track/0nDbGRrxLJggLRi5ErHPIK"

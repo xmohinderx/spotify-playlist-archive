@@ -1514,6 +1514,28 @@
     },
     {
       "album": {
+        "name": "Ez a l\u00e1ny",
+        "url": "https://open.spotify.com/album/066ped9g1QLtFRDEfOm14b"
+      },
+      "artists": [
+        {
+          "name": "G.w.M.",
+          "url": "https://open.spotify.com/artist/51o7b8jVB4q5U9qy41aYwJ"
+        },
+        {
+          "name": "L.L. Junior",
+          "url": "https://open.spotify.com/artist/5p7375Uu77pbTS3n9ErHtV"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Ez a l\u00e1ny",
+      "url": "https://open.spotify.com/track/3hmsw6g9TyMmYN43Rd49uM"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -4685,7 +4707,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 188918,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"

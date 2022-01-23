@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Twang",
+        "url": "https://open.spotify.com/album/5VbW7e3Ej3H1K5qZ74U42S"
+      },
+      "artists": [
+        {
+          "name": "Mason Ramsey",
+          "url": "https://open.spotify.com/artist/6xvpfMjWTougrRRtK7iikz"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "Before I Knew It",
+      "url": "https://open.spotify.com/track/3cqWSJzuxZCsglpaxWtosT"
+    },
+    {
+      "album": {
         "name": "Gunfighter Ballads And Trail Songs",
         "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
       },

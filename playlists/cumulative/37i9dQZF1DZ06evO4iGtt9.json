@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "Hotems",
+        "url": "https://open.spotify.com/album/6tHqC86SjQqjj9cgd03i2k"
+      },
+      "artists": [
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211608,
+      "name": "Ajaga",
+      "url": "https://open.spotify.com/track/5rCR9R0uouEls7zjY214Hz"
+    },
+    {
+      "album": {
         "name": "The Never Say Never Guy",
         "url": "https://open.spotify.com/album/3rEGE6EoPd7EtLJg8pWWSH"
       },
@@ -107,7 +125,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Akuna",
       "url": "https://open.spotify.com/track/4akPPKpqd7IkvwQ4nBAZOe"
@@ -453,7 +471,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 197647,
       "name": "Eff All Day",
       "url": "https://open.spotify.com/track/0ZhCxpwGscBQ3ay4Qa743X"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 192000,
       "name": "Number One",
       "url": "https://open.spotify.com/track/6J9IXMtzTf6ZtcispHHnJr"

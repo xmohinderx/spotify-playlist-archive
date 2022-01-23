@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 238816,
       "name": "Bean (Kobe) [feat. Chief Keef]",
       "url": "https://open.spotify.com/track/0IpnZchq8ek2A6pGEP2Qb1"
@@ -227,6 +227,24 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168373,
+      "name": "CAN'T STOP",
+      "url": "https://open.spotify.com/track/57crda5Lx9OVaYCzb4Wrnd"
+    },
+    {
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
       "date_removed": "2022-01-17",
       "duration_ms": 132813,
       "name": "CHAMPION",
@@ -289,7 +307,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 245813,
       "name": "Dedication (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6fIjnWrv46njJHLDAY2JdC"
@@ -427,7 +445,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 568129,
       "name": "Friday Night Cypher (feat. Tee Grizzley, Kash Doll, Cash Kidd, Payroll, 42 Dugg, Boldy James, Drego, Sada Baby, Royce Da 5'9\", and Eminem)",
       "url": "https://open.spotify.com/track/2kY2ROHIGdp3aA6ahqaUKm"
@@ -609,7 +627,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 220995,
       "name": "Icon",
       "url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 171273,
       "name": "Kobe (feat. Snoop Dogg & Derrick Milano)",
       "url": "https://open.spotify.com/track/6KNkwW52dda5lTGf10KLXn"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 143181,
       "name": "Kobe Bryant",
       "url": "https://open.spotify.com/track/7sYtgBHnF2D1mgA7vNXig1"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 202183,
       "name": "Prove It (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6z7jvqBQtyNLxaKALqT67c"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 239986,
       "name": "Still Ballin (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/199Dz9IgqKekyiRy3LBnHn"
@@ -1131,7 +1149,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 188320,
       "name": "Trophies",
       "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
@@ -1153,6 +1171,32 @@
       "duration_ms": 311960,
       "name": "Views",
       "url": "https://open.spotify.com/track/7MjSipTto9QljYzZnloXOn"
+    },
+    {
+      "album": {
+        "name": "Vroom Vroom",
+        "url": "https://open.spotify.com/album/00qyYZFYwkyK3StN7wjpLt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Don Q",
+          "url": "https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee"
+        },
+        {
+          "name": "Trap Manny",
+          "url": "https://open.spotify.com/artist/0SNzlwOGBLhCMZPN2ZKzna"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157118,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/4adrh1YMaPAhtqalhG8hIH"
     },
     {
       "album": {
@@ -1207,7 +1251,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 138000,
       "name": "Worked Hard",
       "url": "https://open.spotify.com/track/00V76gpjbXHTGQJKa2l6yC"

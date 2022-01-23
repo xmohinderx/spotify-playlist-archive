@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover: Chandler Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,392,733 likes - 99 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,392,934 likes - 99 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 21 | [Things Are Gonna Get Better \- Live](https://open.spotify.com/track/3uCe2iA7StP7nvWpWht9SG) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Breakthrough: The Exodus \(Live\)](https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ) | 6:47 |
 | 22 | [New Creation](https://open.spotify.com/track/66CqLV4jBPFGoN8kx78J15) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation](https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX) | 3:02 |
 | 23 | [WATERWALK](https://open.spotify.com/track/3bqym1jA6fn0hpg7CZsUYI) | [Morissette](https://open.spotify.com/artist/62WbvkXqQGvXQvw74GU3kQ) | [WATERWALK](https://open.spotify.com/album/15VKUmSwQUtEtXhi7XNUM9) | 5:55 |
-| 24 | [Wouldn't It Be Like You \- Live](https://open.spotify.com/track/7c16GOtg7mY3WAhKpALIu0) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Wouldn’t It Be Like You \(Live\)](https://open.spotify.com/album/7hWops1UXOLyD7zNwKFecI) | 6:44 |
+| 24 | [Wouldn't It Be Like You \- Live At TRIBL Night](https://open.spotify.com/track/7c16GOtg7mY3WAhKpALIu0) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Wouldn’t It Be Like You \(Live At TRIBL Night\)](https://open.spotify.com/album/7hWops1UXOLyD7zNwKFecI) | 6:44 |
 | 25 | [God, Turn It Around](https://open.spotify.com/track/3zt6T5xcqLJRYnQq0yqQaR) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [God, Turn It Around](https://open.spotify.com/album/7ut7XWszYs3hgaOwlsdlDN) | 4:15 |
 | 26 | [Sure Thing](https://open.spotify.com/track/3VfYDUvCE3OZWA9TppaI5S) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Sure Thing](https://open.spotify.com/album/5yLHJcIOLJJ5v8iXk9WyxV) | 5:48 |
 | 27 | [Old Dreams \- Live from Kansas City](https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [HOPE OR NOSTALGIA LIVE](https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0) | 3:09 |

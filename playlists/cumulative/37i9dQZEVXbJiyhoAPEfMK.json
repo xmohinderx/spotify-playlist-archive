@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "Rebell Army",
+        "url": "https://open.spotify.com/album/3j6zDSNuJtpSu4Cd4BYH33"
+      },
+      "artists": [
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "100 KM/H",
+      "url": "https://open.spotify.com/track/6hRGUrBdquldxkBmS53wju"
+    },
+    {
+      "album": {
         "name": "10von10",
         "url": "https://open.spotify.com/album/0lYaNHSwem7u68WcMejtoy"
       },
@@ -85,7 +103,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 190414,
       "name": "10von10 - Remix",
       "url": "https://open.spotify.com/track/5aoj3AXkJ7K2h5r8mmD6FS"
@@ -611,6 +629,32 @@
       "duration_ms": 169360,
       "name": "Alles Black",
       "url": "https://open.spotify.com/track/47gUqrCtxnDoelDa2rkwEj"
+    },
+    {
+      "album": {
+        "name": "Alles Gut",
+        "url": "https://open.spotify.com/album/0gqvGTLmlQWzpyI3x7jKWa"
+      },
+      "artists": [
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        },
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154693,
+      "name": "Alles Gut",
+      "url": "https://open.spotify.com/track/3fQURzoTMXzQlHy2Wsi9mB"
     },
     {
       "album": {
@@ -3679,7 +3723,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
@@ -7680,6 +7724,24 @@
     },
     {
       "album": {
+        "name": "Light Switch",
+        "url": "https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
+    },
+    {
+      "album": {
         "name": "In The Lonely Hour (Deluxe)",
         "url": "https://open.spotify.com/album/6oSJciY7B2HlZPJpyR9nOR"
       },
@@ -7901,7 +7963,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
@@ -8743,7 +8805,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 169500,
       "name": "Mit Dir",
       "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
@@ -8827,10 +8889,28 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 246426,
       "name": "Mogli",
       "url": "https://open.spotify.com/track/1ZBgY7QTphcAhvZVt2QQZI"
+    },
+    {
+      "album": {
+        "name": "Rebell Army",
+        "url": "https://open.spotify.com/album/3j6zDSNuJtpSu4Cd4BYH33"
+      },
+      "artists": [
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246426,
+      "name": "Mogli",
+      "url": "https://open.spotify.com/track/40Y6lHWmWBlTAmxdKrEpQF"
     },
     {
       "album": {
@@ -9031,7 +9111,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 137704,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
@@ -9967,7 +10047,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 225148,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
@@ -12194,6 +12274,28 @@
     },
     {
       "album": {
+        "name": "SHOTS",
+        "url": "https://open.spotify.com/album/5tLNnxTUAD5DzIMrnHb90Q"
+      },
+      "artists": [
+        {
+          "name": "FOURTY",
+          "url": "https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05"
+        },
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162800,
+      "name": "SHOTS",
+      "url": "https://open.spotify.com/track/4ek0PMXX1qyom9xTqVx3Wz"
+    },
+    {
+      "album": {
         "name": "Showtime Fourever",
         "url": "https://open.spotify.com/album/5mpo2zF5C5mvwhW1kfWaUp"
       },
@@ -12533,7 +12635,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 152771,
       "name": "Sp\u00e4ti",
       "url": "https://open.spotify.com/track/0TBylB8tjwqp4YHSrwRJQQ"
@@ -12689,6 +12791,24 @@
       "duration_ms": 182163,
       "name": "Strangers By Nature",
       "url": "https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq"
+    },
+    {
+      "album": {
+        "name": "Strassengeschichten",
+        "url": "https://open.spotify.com/album/2aJEgKSbUODwrIX31p1P7F"
+      },
+      "artists": [
+        {
+          "name": "NGEE",
+          "url": "https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166097,
+      "name": "Strassengeschichten",
+      "url": "https://open.spotify.com/track/5wTppCMe8AtTcmYX9K8apU"
     },
     {
       "album": {
@@ -14343,7 +14463,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 131563,
       "name": "Wenn ich will",
       "url": "https://open.spotify.com/track/4zj6uiKQ4oZh5Cgww2wEtx"
@@ -15015,6 +15135,28 @@
       "duration_ms": 157583,
       "name": "Zukunft",
       "url": "https://open.spotify.com/track/34tKBUUl8bAeqex8i82Z0L"
+    },
+    {
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/4ocMBARU5In7WQpVoT9OPv"
+      },
+      "artists": [
+        {
+          "name": "Jazzy Bazz",
+          "url": "https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL"
+        },
+        {
+          "name": "Nekfeu",
+          "url": "https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218910,
+      "name": "\u00c9l\u00e9ment 115",
+      "url": "https://open.spotify.com/track/2k4rnj8GC80C4rA6eZUIdz"
     },
     {
       "album": {

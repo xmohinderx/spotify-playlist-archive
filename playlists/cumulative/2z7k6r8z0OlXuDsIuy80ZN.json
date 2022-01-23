@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "A Contracorriente",
+        "url": "https://open.spotify.com/album/1A30cr9RFN6VDgsqMdFqg4"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194824,
+      "name": "A Contracorriente",
+      "url": "https://open.spotify.com/track/2XBzPGUfiHG9xBGBuuKHwk"
+    },
+    {
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -127,7 +149,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 209614,
       "name": "Clima Tropical",
       "url": "https://open.spotify.com/track/7wD6WAp1lowdxnvEfgyvNV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 > All your favorite <a href="spotify:user:128899670">Disney</a> classics, new and old\. Cover: <a href="spotify:album:6WjuMbjLJHdI0EwjJR9ChA">Forky and Woody</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,815,647 likes - 78 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,816,042 likes - 78 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 | 17 | [Speechless \(Full\)](https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:28 |
 | 18 | [Prince Ali](https://open.spotify.com/track/1Pt2STlAgfB1CiEV8mf3CN) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:29 |
 | 19 | [I Just Can't Wait to Be King \- From "The Lion King"/Soundtrack Version](https://open.spotify.com/track/0qxtQ8rf3W1nId3D2r0xH4) | [Jason Weaver](https://open.spotify.com/artist/5UdPkKWd8YNR5xGcmqH9QJ), [Rowan Atkinson](https://open.spotify.com/artist/5U4QDnlOlmZx9MHV45EoDE), [Laura Williams](https://open.spotify.com/artist/6wIj7GdxBjFtw6ySpzazwo) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 2:50 |
-| 20 | [A Whole New World \(End Title\)](https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia Ward](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 4:02 |
+| 20 | [A Whole New World \(End Title\)](https://open.spotify.com/track/4U9CF27YlwHRtUGKUzhUTT) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Aladdin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 4:02 |
 | 21 | [I'll Make a Man Out of You \- From "Mulan"/Soundtrack](https://open.spotify.com/track/28UMEtwyUUy5u0UWOVHwiI) | [Donny Osmond](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf), [Chorus \- Mulan](https://open.spotify.com/artist/4KpdqBDU2C5gB3vhdojuqA) | [Mulan](https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC) | 3:21 |
 | 22 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 |
 | 23 | [How Does A Moment Last Forever \(Music Box\)](https://open.spotify.com/track/4LMBbdkL1YCzC2d4k39Ulu) | [Kevin Kline](https://open.spotify.com/artist/7dkk0DGuwAkpzpJRXpUGiZ) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3yHqth7pPn4juBh8gxbyjb) | 0:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Veigh, Kyan, Febem, Tropa do Bruxo
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,385 likes - 76 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,560 likes - 76 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 19 | [Tokyo](https://open.spotify.com/track/5mJropJ4dx9XPTPwyOHcQo) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX) | [Tokyo](https://open.spotify.com/album/7rXWSin9qI9at6dqkoeweN) | 2:51 |
 | 20 | [Chave do Cofre](https://open.spotify.com/track/2CTF8nIEKhr6NXKqqFg4kN) | [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Buga](https://open.spotify.com/artist/38pGKpzNubbZNOwV91NkZ4), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Chave do Cofre](https://open.spotify.com/album/1dFN4CAQlGYh6NjmmUdhDL) | 2:33 |
 | 21 | [Polo Preta](https://open.spotify.com/track/2EQe3IsJqNfS8WACLeZnaY) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Polo Preta](https://open.spotify.com/album/1PdxknvqvhdGU33Q5GrXBz) | 2:25 |
-| 22 | [Porque Elas Te Preferem](https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Porque Elas Te Preferem](https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr) | 2:40 |
+| 22 | [Porque Elas Te Preferem](https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Porque Elas Te Preferem](https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr) | 2:40 |
 | 23 | [Mustang Preto](https://open.spotify.com/track/6Vgn3IEUkWs3d6og029Gtm) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mustang Preto](https://open.spotify.com/album/6fhHEgPoz6jfgZvwlH9jBA) | 3:03 |
 | 24 | [Nike Novo](https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh) | [Nike Novo](https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm) | 3:04 |
 | 25 | [Baby Crazy](https://open.spotify.com/track/4vnndKSuCrTU2A1Zoy34kM) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [AFF 2](https://open.spotify.com/album/5CJ0xydncC3hghAX0YXDFK) | 2:45 |

@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 186950,
       "name": "31",
       "url": "https://open.spotify.com/track/4oBmGC76HpltDdr0mx2h2i"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 208649,
       "name": "come as you are",
       "url": "https://open.spotify.com/track/6YAkb5lCO5mFePA6hvb4Qb"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 250999,
       "name": "Darling",
       "url": "https://open.spotify.com/track/6ChPSpcpyuFT8C5HMTlezz"
@@ -421,6 +421,24 @@
       "duration_ms": 186200,
       "name": "Eye To Eye",
       "url": "https://open.spotify.com/track/3l5h4nyOoMXv52yRwbk139"
+    },
+    {
+      "album": {
+        "name": "Lyrical 1 \u2013 Afterimage",
+        "url": "https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194573,
+      "name": "falling flowers (With Yebit)",
+      "url": "https://open.spotify.com/track/40bCu5YdC5LJXpcG86R8Fi"
     },
     {
       "album": {
@@ -659,7 +677,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 213800,
       "name": "Headache",
       "url": "https://open.spotify.com/track/6R4Lv4Bx0qhyVlVwurGzdf"
@@ -681,7 +699,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 227506,
       "name": "HONEY (Feat. Crucial Star)",
       "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
@@ -789,7 +807,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 245533,
       "name": "I wanna go out",
       "url": "https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 189066,
       "name": "I'm Fine",
       "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 287535,
       "name": "If",
       "url": "https://open.spotify.com/track/0zaHICE67lr13INMJggubW"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Just thinking about you",
       "url": "https://open.spotify.com/track/1ew4EemwjPuSsCuj1ezEfB"
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 183840,
       "name": "My Yellow",
       "url": "https://open.spotify.com/track/2QZ67tcgnbqziznZl6tC2k"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 241025,
       "name": "Rain In The Night",
       "url": "https://open.spotify.com/track/3ISTUp8tjTZxDQyhwMQbP5"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 260247,
       "name": "Rainy Street",
       "url": "https://open.spotify.com/track/2oA6RCfKss1JWAQlEI6t4L"
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 202826,
       "name": "Reason Why We Have To Break Up",
       "url": "https://open.spotify.com/track/1IBAhKP77WU0xMrynp5Ymv"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 170746,
       "name": "Say I Love U",
       "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 277712,
       "name": "Scent of the day",
       "url": "https://open.spotify.com/track/0xu3l9eS4OMm4wsBi9a6Nj"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 289973,
       "name": "Shining, My 2006",
       "url": "https://open.spotify.com/track/0Aw8TF0SpyERLi4w0dXUi8"
@@ -1729,7 +1747,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 229665,
       "name": "The night we parted",
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 220106,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij"
@@ -1855,7 +1873,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 145360,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
@@ -1949,7 +1967,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 257733,
       "name": "Walking in the Starlight",
       "url": "https://open.spotify.com/track/3wT6q6lHoOpZUM38uPSUTF"
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 222826,
       "name": "Yesterday You Left Me",
       "url": "https://open.spotify.com/track/0JCAyXUAaQDj4NgwviZ2sC"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 213125,
       "name": "You're here with Rain \ube44 \uc624\ub294 \ub0a0\uc774 \uc88b\uc544\uc9c8 \uac83 \uac19\uc544 (With Chamsom)",
       "url": "https://open.spotify.com/track/3sHe6Zqj9BVYqNHmV8YvOx"
@@ -2239,7 +2257,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 224600,
       "name": "zzz",
       "url": "https://open.spotify.com/track/7nWbh316VrzihN6Rra5Feh"

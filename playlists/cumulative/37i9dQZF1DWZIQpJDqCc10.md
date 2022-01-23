@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZIQpJDqCc10.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZIQpJDqCc10) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZIQpJDqCc10)
 
-### Alternative Love Songs
+### [Alternative Love Songs](https://open.spotify.com/playlist/6YQCZe8hO85v0lGe1i13Jq)
 
 > A selection of the greatest alternative love songs of all time.
 

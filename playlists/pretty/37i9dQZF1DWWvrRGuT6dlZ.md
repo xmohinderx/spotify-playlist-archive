@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Coming Up Roses\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,022 likes - 83 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,027 likes - 83 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Glass Stained Eyes](https://open.spotify.com/track/5PTCcUbUgmRVRKQLuJS4G2) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Glass Stained Eyes](https://open.spotify.com/album/5G30IZQVh5eYJS5KrjwyHH) | 3:07 |
 | 2 | [HUOY \(I A F Remix\)](https://open.spotify.com/track/3wnH3eaH3rn8gyruSsRvsD) | [Joel See](https://open.spotify.com/artist/44DkJ4VKIXuLWfpyL9Tbps), [I A F](https://open.spotify.com/artist/06LlHaKG2UBtZdp4iyg4MK) | [HUOY \(I A F Remix\)](https://open.spotify.com/album/1C5tU1vYajSiNOG0ZEN19S) | 3:22 |
 | 3 | [Dreamin'](https://open.spotify.com/track/5xjNNZzBsDowaof05ktr8k) | [Charmaine Koh](https://open.spotify.com/artist/4AXM9QrBp5qGABjIQVPBQI) | [Dreamin'](https://open.spotify.com/album/24kIXLAef1zxugpKzZcNJ4) | 3:18 |
-| 4 | [Dance The Night Away](https://open.spotify.com/track/0CMWhL6cSNRPGfUd9sCVqG) | [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ), [Esther](https://open.spotify.com/artist/7ip7V0yVGvl6hdT1hKb1d1) | [Moments](https://open.spotify.com/album/71tu3WeVwuEQxTXUbantb6) | 3:15 |
+| 4 | [Dance The Night Away](https://open.spotify.com/track/0CMWhL6cSNRPGfUd9sCVqG) | [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ), [esther](https://open.spotify.com/artist/1AXlrzu0pUJc8FB2rJJmq7) | [Moments](https://open.spotify.com/album/71tu3WeVwuEQxTXUbantb6) | 3:15 |
 | 5 | [pink cherry blossom](https://open.spotify.com/track/5ZlDaQqscrfIE9Aog1MFfL) | [FARIS](https://open.spotify.com/artist/4VnQPCXcDCyg6wp2hOhRFT) | [pink cherry blossom](https://open.spotify.com/album/3OUao0xdyFvS77KPzM19U1) | 4:15 |
 | 6 | [I Don't Mind](https://open.spotify.com/track/3DzYmaYp3RIFYsn4WF9W22) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt), [Karena Yeo](https://open.spotify.com/artist/3aHgoRddVvpmmaci2RNzZj), [Vessail](https://open.spotify.com/artist/5BkvrjwohNWFvwYUJ1jxnZ) | [I Don't Mind](https://open.spotify.com/album/5sT9gxDFo7toJBGbZEktqS) | 3:05 |
 | 7 | [Men\-Mory](https://open.spotify.com/track/2bH1RexrSNXoFHMS4Pq6XD) | [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul), [Goldfish](https://open.spotify.com/artist/0vhp1BhCnnPzmpknRG6JMv) | [Men\-Mory](https://open.spotify.com/album/6sxdxaRMcoWjHePp6Np5TT) | 2:59 |

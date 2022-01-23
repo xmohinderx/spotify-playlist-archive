@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. IC3PEAK & Oli Sykes
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,677 likes - 61 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,819 likes - 61 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 56 | [Underrated Popstar](https://open.spotify.com/track/03YAkNt5ctr4vQwqmNPybe) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Underrated Popstar](https://open.spotify.com/album/2zfYuMo33ayzbl9HfT9laT) | 2:11 |
 | 57 | [IN YOUR BLOOD](https://open.spotify.com/track/2evPSkNE3z0unewvQVPoI8) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf) | [IN YOUR BLOOD](https://open.spotify.com/album/3btxaWRqZYDZxB6QtSBDnN) | 3:44 |
 | 58 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 |
-| 59 | [I just wanna be silent](https://open.spotify.com/track/4jCvCe2MAaPuzERi8Dzqng) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [I just wanna be silent](https://open.spotify.com/album/19cnCnUEYHC3rj71L1VgnQ) | 2:40 |
+| 59 | [I just wanna be silent](https://open.spotify.com/track/4jCvCe2MAaPuzERi8Dzqng) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [I Just Wanna Be Silent](https://open.spotify.com/album/19cnCnUEYHC3rj71L1VgnQ) | 2:40 |
 | 60 | [Froglake](https://open.spotify.com/track/0PQbOcnO2MwbqvJRQq3ksK) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [Froglake](https://open.spotify.com/album/3u1TiYQgE20HLmiL5uXrTL) | 3:16 |
 | 61 | [wanna luv u](https://open.spotify.com/track/34I9rpFDpvL87DO9JT3ca3) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [wanna luv u](https://open.spotify.com/album/60uDwGVGqjZ5dUHwBy1Pno) | 3:29 |
 

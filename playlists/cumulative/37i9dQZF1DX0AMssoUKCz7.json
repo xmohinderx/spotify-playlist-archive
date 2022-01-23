@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 156908,
       "name": "Bring Me Down (ft. Bright Sparks)",
       "url": "https://open.spotify.com/track/1VPRoO8oPV8dIW47js8EA0"
@@ -755,10 +755,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 205812,
       "name": "Cold Ain't For Me",
       "url": "https://open.spotify.com/track/43NJeiVFjYj6RtvAKWLnDo"
+    },
+    {
+      "album": {
+        "name": "Come to Me (Radio Edit)",
+        "url": "https://open.spotify.com/album/4NTAvZbsokjBTJsOu1LjKI"
+      },
+      "artists": [
+        {
+          "name": "Lily & Madeleine",
+          "url": "https://open.spotify.com/artist/1kCC5slv2AdQ6MxcKP2fEQ"
+        },
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160810,
+      "name": "Come to Me - Radio Edit",
+      "url": "https://open.spotify.com/track/2aFujKFsDGMuV6BXsdyU9y"
     },
     {
       "album": {
@@ -817,7 +839,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 394045,
       "name": "Dancer (Kygo Remix)",
       "url": "https://open.spotify.com/track/7ctdCk91bL7jjDx3hmbB5z"
@@ -919,7 +941,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 168156,
       "name": "Don't Say A Word",
       "url": "https://open.spotify.com/track/1fappIhSOUyng8mHEfYzkP"
@@ -1931,7 +1953,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 173925,
       "name": "If You're Hearing This",
       "url": "https://open.spotify.com/track/1aJ1xeEQ1ivKGnTeuYolJk"
@@ -2583,7 +2605,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 212910,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v"
@@ -2769,7 +2791,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 219333,
       "name": "One Day (Vandaag) - Radio Edit",
       "url": "https://open.spotify.com/track/0GSU6yLOJqO10ziQuBLWOE"
@@ -3055,7 +3077,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 203000,
       "name": "Ragga - Radio Edit",
       "url": "https://open.spotify.com/track/6JKSgnPypPIs08k1SGOhXD"
@@ -3095,7 +3117,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 186062,
       "name": "Recognise",
       "url": "https://open.spotify.com/track/3YwyAnL9NlqAK9V833qiGz"
@@ -3243,7 +3265,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Riverbank",
       "url": "https://open.spotify.com/track/4eG4eNTXUDHpaWsbsTTBcU"
@@ -3383,7 +3405,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 181000,
       "name": "Safe and Sound - Radio Edit",
       "url": "https://open.spotify.com/track/340sV0G2e1h5jWsMyDRmc9"
@@ -3711,7 +3733,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 178536,
       "name": "Something Good - Radio Edit",
       "url": "https://open.spotify.com/track/0BGsenauCQGUHZrJ6SDXEm"
@@ -4479,6 +4501,40 @@
       "duration_ms": 183803,
       "name": "Where the Rivers Flow - Radio Mix",
       "url": "https://open.spotify.com/track/179wSw6TBxrM4aiEJ6SIyH"
+    },
+    {
+      "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/5kKHkpooyWWM4RAJwe6Cmh"
+      },
+      "artists": [
+        {
+          "name": "Michael Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "The Audio Institute",
+          "url": "https://open.spotify.com/artist/0oKBdR2uGSHSrhIj9CWOLS"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+        },
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214582,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/3wc0kpZM2lv5UlbA9NFteg"
     },
     {
       "album": {

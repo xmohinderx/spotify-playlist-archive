@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 212415,
       "name": "1, 2, 3",
       "url": "https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 165545,
       "name": "Abittipsy",
       "url": "https://open.spotify.com/track/1pU5SijPp89lNrZHJL0166"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 202266,
       "name": "After We Ride",
       "url": "https://open.spotify.com/track/5AqI13o6VzztZEPhFR4mhv"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 198165,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3YwRisfTPmDXtZ1Lnz6Fpr"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 229066,
       "name": "be",
       "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 190560,
       "name": "Beautiful Beautiful",
       "url": "https://open.spotify.com/track/1JZiSKaF6RRgwxv4IijBUm"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 221369,
       "name": "BETTER (with MINO)",
       "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Can't Control Myself",
+        "url": "https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Can't Control Myself",
+      "url": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh"
+    },
+    {
+      "album": {
         "name": "MO\u2019 COMPLETE",
         "url": "https://open.spotify.com/album/4TlJp8jSxKfJg0cuwONLef"
       },
@@ -597,7 +615,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 235497,
       "name": "Chicken Noodle Soup (feat. Becky G)",
       "url": "https://open.spotify.com/track/6wyr4ReB05D9sJB1Rsmcqo"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 204293,
       "name": "DM",
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 188240,
       "name": "DO or NOT",
       "url": "https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 208022,
       "name": "Falling",
       "url": "https://open.spotify.com/track/3cs3lGvmdiksYhEn8nnslm"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 225720,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/2hJS7BdEaH9Jo8MeJujsHT"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 184426,
       "name": "HOME;RUN",
       "url": "https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 203893,
       "name": "Just Breath",
       "url": "https://open.spotify.com/track/68U6oSUCvqk4MiTULbYCEd"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 189052,
       "name": "Kill This Love",
       "url": "https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB"
@@ -2465,7 +2483,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 191139,
       "name": "Red Flavor",
       "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 203093,
       "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
       "url": "https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi"
@@ -2555,7 +2573,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 212136,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
@@ -2703,7 +2721,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 194173,
       "name": "Serious",
       "url": "https://open.spotify.com/track/59RTmOmr6G0Ly0MIJqKn1f"
@@ -2761,7 +2779,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 194520,
       "name": "Sneakers",
       "url": "https://open.spotify.com/track/782PCvZRZ6QZ1hAdYPZryr"
@@ -2877,7 +2895,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 199026,
       "name": "Summer or Summer",
       "url": "https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa"
@@ -2895,7 +2913,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 218026,
       "name": "SUMMERIDE",
       "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
@@ -3175,7 +3193,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 190050,
       "name": "Tie a Cherry",
       "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
@@ -3193,7 +3211,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 209186,
       "name": "Tiger Inside",
       "url": "https://open.spotify.com/track/2TENPSXQkWNgEFxmi4PRWE"

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVroJq360LRh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVroJq360LRh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVroJq360LRh)
 
-### Pilates Acústico
+### [Pilates Acústico](https://open.spotify.com/playlist/1MGkYmGQ7StCIsRe8pezD4)
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 

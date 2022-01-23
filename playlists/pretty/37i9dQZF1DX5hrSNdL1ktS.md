@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 ### [Urbano Fresh](https://open.spotify.com/playlist/37i9dQZF1DX5hrSNdL1ktS)
 
-> Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Fano
+> Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Kim Loaiza
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,318 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,376 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ALGO TRANQUI](https://open.spotify.com/track/6KAaBhdoWkKwq6TVNmsGMr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3) | [ALGO TRANQUI](https://open.spotify.com/album/46yKLRJizMTGso4JYfNVdQ) | 2:16 |
+| 1 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 |
 | 2 | [Las de Octubre](https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Las de Octubre](https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td) | 2:45 |
-| 3 | [La Mano \(feat\. Tavo Rayo\)](https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Tavo Rayo](https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp) | [La Mano \(feat\. Tavo Rayo\)](https://open.spotify.com/album/2sFm2ViF2986w7ljTNKBoR) | 3:07 |
-| 4 | [Las Gatas](https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Las Gatas](https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n) | 2:26 |
-| 5 | [Rod Roast Yourself](https://open.spotify.com/track/2nK9x8iEcQkErqeAd4sf7C) | [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y) | [Rod Roast Yourself](https://open.spotify.com/album/4UONB3S62FKphnrMeLowQa) | 2:30 |
-| 6 | [FUGAZ](https://open.spotify.com/track/0EJOfbdV0cfKmKSJywNGL4) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [EMOJI](https://open.spotify.com/album/2gTjDwNcjPGLMmy19qUw5u) | 3:44 |
-| 7 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 |
-| 8 | [Mala](https://open.spotify.com/track/3zJzmTv0WxHCXIT5GT84S3) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Mala](https://open.spotify.com/album/13IbL92WpR5qUSkcATB6f9) | 2:57 |
-| 9 | [efectos secundarios](https://open.spotify.com/track/7E8tm3aTajBw9a3CkjfuBD) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [efectos secundarios](https://open.spotify.com/album/7sUapRkZsZTV4sBVxlcfpT) | 2:42 |
-| 10 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 |
-| 11 | [NO CONFÍO EN EL INSTA](https://open.spotify.com/track/6XMATi0vt6UMEu244ykCyf) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Solitario](https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq) | 3:18 |
-| 12 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
-| 13 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 |
-| 14 | [Mami Mamacita](https://open.spotify.com/track/0O5nMKufxtdGryO2p7exyz) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Viaje](https://open.spotify.com/album/357zeMgmmEe5JS0N568ugH) | 2:49 |
-| 15 | [Bailalo](https://open.spotify.com/track/76goNKad1tCxAmEfH6PFPp) | [Eleá](https://open.spotify.com/artist/6h4A1AIEVWuf8E008pt6S5) | [Bailalo](https://open.spotify.com/album/4Z2n4N44wtzsVH7p9rLPzi) | 2:56 |
-| 16 | [Inolvidable](https://open.spotify.com/track/3UKifMst3KThDnakM5mYxE) | [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Inolvidable](https://open.spotify.com/album/3uELVtlt5jNtdea6DlmjIC) | 3:53 |
+| 3 | [Las Gatas](https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Las Gatas](https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n) | 2:26 |
+| 4 | [Rod Roast Yourself](https://open.spotify.com/track/2nK9x8iEcQkErqeAd4sf7C) | [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y) | [Rod Roast Yourself](https://open.spotify.com/album/4UONB3S62FKphnrMeLowQa) | 2:30 |
+| 5 | [FUGAZ](https://open.spotify.com/track/0EJOfbdV0cfKmKSJywNGL4) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [EMOJI](https://open.spotify.com/album/2gTjDwNcjPGLMmy19qUw5u) | 3:44 |
+| 6 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 |
+| 7 | [La Mano \(feat\. Tavo Rayo\)](https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Tavo Rayo](https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp) | [La Mano \(feat\. Tavo Rayo\)](https://open.spotify.com/album/2sFm2ViF2986w7ljTNKBoR) | 3:07 |
+| 8 | [ALGO TRANQUI](https://open.spotify.com/track/6KAaBhdoWkKwq6TVNmsGMr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3) | [ALGO TRANQUI](https://open.spotify.com/album/46yKLRJizMTGso4JYfNVdQ) | 2:16 |
+| 9 | [Mala](https://open.spotify.com/track/3zJzmTv0WxHCXIT5GT84S3) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf) | [Mala](https://open.spotify.com/album/13IbL92WpR5qUSkcATB6f9) | 2:57 |
+| 10 | [Mejor Sola](https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Mejor Sola](https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH) | 3:50 |
+| 11 | [efectos secundarios](https://open.spotify.com/track/7E8tm3aTajBw9a3CkjfuBD) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [efectos secundarios](https://open.spotify.com/album/7sUapRkZsZTV4sBVxlcfpT) | 2:42 |
+| 12 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 |
+| 13 | [NO CONFÍO EN EL INSTA](https://open.spotify.com/track/6XMATi0vt6UMEu244ykCyf) | [Blue Rojo](https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ) | [Solitario](https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq) | 3:18 |
+| 14 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
+| 15 | [Mami Mamacita](https://open.spotify.com/track/0O5nMKufxtdGryO2p7exyz) | [Nibal](https://open.spotify.com/artist/6SgDJ5tNao1Wa1qWroxqz0), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Viaje](https://open.spotify.com/album/357zeMgmmEe5JS0N568ugH) | 2:49 |
+| 16 | [Bailalo](https://open.spotify.com/track/76goNKad1tCxAmEfH6PFPp) | [Eleá](https://open.spotify.com/artist/6h4A1AIEVWuf8E008pt6S5) | [Bailalo](https://open.spotify.com/album/4Z2n4N44wtzsVH7p9rLPzi) | 2:56 |
 | 17 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 |
 | 18 | [Blanco Y Negro](https://open.spotify.com/track/3SdMz8hyuRYbbiYoNqmyxO) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Blanco Y Negro](https://open.spotify.com/album/2M2ao83OAsIDW7uDAf4UHp) | 3:23 |
 | 19 | [Señales](https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Señales](https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 49 | [Loco Demente](https://open.spotify.com/track/5IQzoxgcl28t2nhu6pY79o) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Loco Demente](https://open.spotify.com/album/7DCjPNw8hZOV4kEURpaYJv) | 3:38 |
 | 50 | [MOOD](https://open.spotify.com/track/5nRloY6Bqe7k0Ay5gm1ErY) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [MOOD](https://open.spotify.com/album/3D5MV1TC8L4HQvnZ4edTqq) | 3:10 |
 
-Snapshot ID: `MTY0MTUyMDUwOCwwMDAwMDBmZTAwMDAwMTdlMzIzZjJmNDIwMDAwMDE3ZDgyNzkyN2Rk`
+Snapshot ID: `MTY0MjgxNTA1NiwwMDAwMDBmZjAwMDAwMTdlN2Y2ODZiMDEwMDAwMDE3ZTdmNjY5MTI1`

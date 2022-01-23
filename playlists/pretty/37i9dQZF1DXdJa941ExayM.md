@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 
 > Maybe it's punk, maybe it's not\. Cover: Sham Family
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,450 likes - 86 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,467 likes - 86 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJa941ExayM.md) - [plain]
 | 6 | [Oxygen](https://open.spotify.com/track/0vu3XfUitueA4S7l93kNU3) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Oxygen](https://open.spotify.com/album/48QsECGKhTjmQDGu3PrJAC) | 3:06 |
 | 7 | [MENTHOL\*](https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [MENTHOL\*](https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf) | 3:07 |
 | 8 | [Flux](https://open.spotify.com/track/59yzTH5FEyyaDXs5Qo5aq7) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/1q959WGOu0ZDfrJnnWRNgD) | 5:00 |
-| 9 | [I just wanna be silent](https://open.spotify.com/track/4jCvCe2MAaPuzERi8Dzqng) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [I just wanna be silent](https://open.spotify.com/album/19cnCnUEYHC3rj71L1VgnQ) | 2:40 |
+| 9 | [I just wanna be silent](https://open.spotify.com/track/4jCvCe2MAaPuzERi8Dzqng) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [I Just Wanna Be Silent](https://open.spotify.com/album/19cnCnUEYHC3rj71L1VgnQ) | 2:40 |
 | 10 | [Broken Homes](https://open.spotify.com/track/3OGPJxSWbjASAj0iR7rOCw) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd) | [Broken Homes](https://open.spotify.com/album/6deOAiLcYOUfZbaxMA4JrQ) | 4:22 |
 | 11 | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs), [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy), [Matthew Caws](https://open.spotify.com/artist/2euOhDrnToDMpxBiCPf72Z) | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/album/7nvPKeZxfHFgbKTrRWqvCo) | 3:26 |
 | 12 | [My Mother Wants Me Dead](https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [My Mother Wants Me Dead](https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK) | 1:45 |

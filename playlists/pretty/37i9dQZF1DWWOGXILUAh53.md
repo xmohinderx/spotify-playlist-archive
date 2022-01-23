@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,274 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,367 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 7 | [Catching A Dream \(Sam Feldt Remix\)](https://open.spotify.com/track/3qBqh2AVvAJCoY3IR3k1jF) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Catching A Dream \(Sam Feldt Remix\)](https://open.spotify.com/album/1VBJpDBrzGUyUmONeP0sDO) | 2:53 |
 | 8 | [Waiting For A Lifetime](https://open.spotify.com/track/1Wm5An0CgcaLHkxtPYopfT) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Waiting For A Lifetime](https://open.spotify.com/album/31x7YGZaSAiRhSBzh0uVZA) | 2:52 |
 | 9 | [Need Your Love \- Jonasu Remix](https://open.spotify.com/track/0PeuTN6dAGOo9aWLWVXo27) | [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Need Your Love \(Jonasu Remix\)](https://open.spotify.com/album/6CZoxryjwR3VubUspsCNfm) | 2:14 |
-| 10 | [Losing Game \(feat\. ALY\)](https://open.spotify.com/track/70iVmItC1v32Wn1iosoXFx) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [ALY](https://open.spotify.com/artist/0qRWgMp8dMQaiefRdloSJx) | [Losing Game \(feat\. ALY\)](https://open.spotify.com/album/2tVg5YK9LEbT5xRJrzk8KG) | 2:38 |
+| 10 | [Losing Game \(feat\. ALY\)](https://open.spotify.com/track/70iVmItC1v32Wn1iosoXFx) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [ALY](https://open.spotify.com/artist/7zVXJ9gnmh8fr40va63ujD) | [Losing Game \(feat\. ALY\)](https://open.spotify.com/album/2tVg5YK9LEbT5xRJrzk8KG) | 2:38 |
 | 11 | [Sooner Or Later](https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sooner Or Later](https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt) | 3:20 |
 | 12 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 13 | [In My Dreams](https://open.spotify.com/track/0xkJtyc4vuH20Jh2hBP2Cz) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [In My Dreams](https://open.spotify.com/album/4o5bjgOnRh30EGMBjHSJwZ) | 3:37 |

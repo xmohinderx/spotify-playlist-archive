@@ -48,6 +48,28 @@
     },
     {
       "album": {
+        "name": "Aik Wari",
+        "url": "https://open.spotify.com/album/1S9V8lyotEqXyVK0fNVOHU"
+      },
+      "artists": [
+        {
+          "name": "HYDR",
+          "url": "https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw"
+        },
+        {
+          "name": "PDNY",
+          "url": "https://open.spotify.com/artist/3pEGlOWivUKVZMXtt8yvM2"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160625,
+      "name": "Aik Wari",
+      "url": "https://open.spotify.com/track/6ggtQbeuq1Um7z6SZkUJJf"
+    },
+    {
+      "album": {
         "name": "Aisay Kaisay",
         "url": "https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb"
       },

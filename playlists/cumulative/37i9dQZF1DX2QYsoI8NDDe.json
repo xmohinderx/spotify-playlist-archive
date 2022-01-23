@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 164120,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 157826,
       "name": "Cheque En Blanco",
       "url": "https://open.spotify.com/track/6Ozggwwdn7O6W5WJgFSnQp"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 151103,
       "name": "En el \u00faltimo trago",
       "url": "https://open.spotify.com/track/4rAjrLKKUaSs04t6aESqfy"
@@ -568,6 +568,24 @@
     },
     {
       "album": {
+        "name": "HA-ASH Primera Fila - Hecho Realidad",
+        "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247760,
+      "name": "Ex de Verdad - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
+      "url": "https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH"
+    },
+    {
+      "album": {
         "name": "Fruta Prohibida",
         "url": "https://open.spotify.com/album/0q4wmFZM0Doz5GkzZQmpts"
       },
@@ -579,7 +597,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 165610,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY"
@@ -644,6 +662,24 @@
     },
     {
       "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/78I27AxTxuvAEWRfQLfcma"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250440,
+      "name": "La Gran Se\u00f1ora",
+      "url": "https://open.spotify.com/track/1cKabdMoqvB3XAMxX6mHG7"
+    },
+    {
+      "album": {
         "name": "Daniela Romo",
         "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
       },
@@ -655,7 +691,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 221893,
       "name": "La ocasi\u00f3n para amarnos",
       "url": "https://open.spotify.com/track/3kNkKkE4PG8zcbrek4SNQj"
@@ -985,7 +1021,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 224786,
       "name": "Ni Una Sola Palabra",
       "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
@@ -1255,7 +1291,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 218320,
       "name": "Por Lo Que Reste de Vida",
       "url": "https://open.spotify.com/track/7qDkY9Y9v9eFV53AalBcSd"
@@ -1497,7 +1533,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 184666,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/3yJPDtrII0EVSQFdpSZIQR"
@@ -1573,7 +1609,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 228311,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/2VV3sbyQ7k0f8txzat3GgZ"
@@ -1649,7 +1685,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 199761,
       "name": "Tres Veces Te Enga\u00f1e",
       "url": "https://open.spotify.com/track/6gErMkDgSLWNUwpt6SCOog"
@@ -1689,7 +1725,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-23",
       "duration_ms": 184120,
       "name": "T\u00fa a M\u00ed No Me Hundes",
       "url": "https://open.spotify.com/track/6PblaBoFvMNh3x4gbTV0zU"
@@ -1729,7 +1765,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 244933,
       "name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg"
