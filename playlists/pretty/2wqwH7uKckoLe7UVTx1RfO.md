@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2wqwH7uKckoLe7UVTx1RfO.md) - [plain]
 
 > Coast through the good life with these folksy and blissed out tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,713 likes - 78 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,712 likes - 78 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

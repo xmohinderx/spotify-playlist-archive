@@ -383,7 +383,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 250053,
       "name": "Beautiful Trauma",
       "url": "https://open.spotify.com/track/1ipE3bBLWeLkIvxWUaxpSu"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 278373,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 160453,
       "name": "Colors",
       "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 228346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 205160,
       "name": "Forever",
       "url": "https://open.spotify.com/track/7ra7mVrA3SGTNzImA7UacC"
@@ -1259,7 +1259,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 190280,
       "name": "Hero",
       "url": "https://open.spotify.com/track/6GRDI9suQHikFP6euIXnpq"
@@ -2107,7 +2107,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 219840,
       "name": "Lost",
       "url": "https://open.spotify.com/track/6vhYDNMZgffPwcdXdvMqCS"
@@ -2475,7 +2475,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 234106,
       "name": "Naked",
       "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
@@ -2677,7 +2677,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 206200,
       "name": "Only Want You",
       "url": "https://open.spotify.com/track/2zYFfLULhSgZWCCRVZ5csm"
@@ -2753,7 +2753,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 204712,
       "name": "Paris in the Rain",
       "url": "https://open.spotify.com/track/41CgzGD7xlgnJe14R4cqkL"
@@ -2883,7 +2883,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 221595,
       "name": "Pray",
       "url": "https://open.spotify.com/track/3BgvCj5oUc8jpL8YCB9y8S"
@@ -3233,7 +3233,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "Sight of the Sun - Single Version",
       "url": "https://open.spotify.com/track/4orHVYvdG5v4G4bmp2Lwdg"
@@ -3399,7 +3399,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 276146,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4dp8cI4USaMlFzJ5MeBsVs"
@@ -3547,7 +3547,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 201706,
       "name": "Suddenly I See",
       "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3"
@@ -3601,7 +3601,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 243906,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/5ml7wqgv2ZZ5JJ6U8ZLon9"
@@ -3734,6 +3734,24 @@
     },
     {
       "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "date_added": "2019-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/5yyRH93h4Pm6tXXYTxt7ea"
+    },
+    {
+      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/7GiLJfRPHARQrRJf01P2Tt"
       },
@@ -3745,7 +3763,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 217986,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/3pLTOP0G0etiWUknFoRpsr"
@@ -4069,7 +4087,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 177523,
       "name": "watch",
       "url": "https://open.spotify.com/track/44jVYj3TXig7Cf1vkgulnQ"
@@ -4321,7 +4339,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 185621,
       "name": "Without You",
       "url": "https://open.spotify.com/track/11rfyZIz1ah4q9WxWvSKmn"
@@ -4447,7 +4465,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 213053,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/6GU19qDSbCWw5HKwfYTgVq"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Bonobo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,323,958 likes - 99 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,323,974 likes - 99 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

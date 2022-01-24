@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem John Amplificado com Maiara & Maraisa, MC Hariel e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,713,237 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,713,611 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 80 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
 | 81 | [Blue Gin e os Seres \(De Vidro\)](https://open.spotify.com/track/6vIK7qABdW4JhqWzrFcwG3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Walking Dead Folia \(Sorria Você Teve Alta!\)](https://open.spotify.com/album/2pWSnr9tNXJsdSmVGLGdRe) | 4:39 |
 | 82 | [Carpe Diem](https://open.spotify.com/track/7iGVqFzpfBCg8Q8fJHSPl5) | [Maellen](https://open.spotify.com/artist/0HMN7572MhSLJU8hM6sA3I) | [Carpe Diem](https://open.spotify.com/album/600kV0xSMSL0FKL175DcVv) | 2:40 |
-| 83 | [Dinheiro](https://open.spotify.com/track/2Kqo8nUHnNYBWzmH8vmXGQ) | [2STRANGE](https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi), [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY), [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Dinheiro](https://open.spotify.com/album/7eBkjbgJZalyN4qT0gwP3J) | 3:36 |
+| 83 | [Dinheiro](https://open.spotify.com/track/2Kqo8nUHnNYBWzmH8vmXGQ) | [2STRANGE](https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi), [YAS](https://open.spotify.com/artist/7iR5TceAm5VRuF8etnfD02), [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW) | [Dinheiro](https://open.spotify.com/album/7eBkjbgJZalyN4qT0gwP3J) | 3:36 |
 | 84 | [Mundo Novo](https://open.spotify.com/track/1ctHkH6c64akhmyx45Us9w) | [MC Julio D.E.R.](https://open.spotify.com/artist/1honjfWrOeLAymPLT3gZEV), [TR](https://open.spotify.com/artist/2CotyFTVKWR1jJLPTrrjdu), [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS), [VITÃUFUG3LDS](https://open.spotify.com/artist/6xrAUD8vhVgjff25UDFHrB), [Mc Denver](https://open.spotify.com/artist/0Liy5vnFDQM7v4zmLhPfKw) | [Mundo Novo](https://open.spotify.com/album/080FkRM9cUKuywpwIuYJ84) | 2:54 |
 | 85 | [Ak Canta](https://open.spotify.com/track/3zH3RRQCcRCCYsUC1OjQmx) | [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [Gxlden](https://open.spotify.com/artist/7B8bcVe9PQZSS633ZQa9qo), [Johnny Monteiro](https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Ak Canta](https://open.spotify.com/album/0mg7kLfQDWMhOF6pJqxdxq) | 2:44 |
 | 86 | [Nota de Escurecimento](https://open.spotify.com/track/0iKmIwWJptZgyC1RE0IzRe) | [SKiT](https://open.spotify.com/artist/3Z67tzDH3jktFcaTXhMl6E), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [DJ Kl Jay](https://open.spotify.com/artist/1KXC2cGZkH6XwlcfbkOlHY) | [Isso](https://open.spotify.com/album/2FJfwcoGdU2R3UN6d6npEP) | 3:37 |

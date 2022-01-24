@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,123 likes - 149 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126 likes - 149 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 148 | [Echo \[Bonus Track\]](https://open.spotify.com/track/30iwAxqJOdYxXSHG5Be8sS) | [Baker](https://open.spotify.com/artist/4FgEdko7AZQos5YRsfGtXE) | [The Baker EP](https://open.spotify.com/album/0sngk6p8hOPmvDKvuE8iK2) | 3:42 |
 | 149 | [Alone](https://open.spotify.com/track/0Iy1TiQlp7wnvLz53NtILy) | [rnjmb](https://open.spotify.com/artist/0Hr6HyWdKgPN3P2VoZcy9v) | [Ends Meet](https://open.spotify.com/album/0R01Z4n7hg0M2zfMi08hbo) | 1:20 |
 
-Snapshot ID: `MjczODE2MjIsMDAwMDAwMDA4ZGEwNzkwZjEwODJiZDQ0ZDdiYjg5NzBmODFhZWE5Mw==`
+Snapshot ID: `MjczODMwNjIsMDAwMDAwMDAwODdjYzQ0MWVjMzFhZDRiMjQxODAzMjIxODUyYzEwNg==`

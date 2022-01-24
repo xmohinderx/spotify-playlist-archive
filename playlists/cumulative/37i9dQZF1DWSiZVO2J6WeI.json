@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 198162,
       "name": "Arp Of Life",
       "url": "https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 185769,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/0CwVkwUUCZPYZdj7SafQYL"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 152357,
       "name": "Beneath",
       "url": "https://open.spotify.com/track/1757oARz2SdORUSsihHuKo"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 174698,
       "name": "Brillo En El Mar",
       "url": "https://open.spotify.com/track/7mZASnos1MVmNVLHHg7nPJ"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 165000,
       "name": "Continuum",
       "url": "https://open.spotify.com/track/47SCFkfGQMmdewkOywWxqC"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 224119,
       "name": "Crystalline",
       "url": "https://open.spotify.com/track/6s3ZhNJV4B4ayF99A1NyaR"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 219090,
       "name": "Darashinai Beach",
       "url": "https://open.spotify.com/track/6k9EQcMdqJRtmIM3fwy9vW"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 228961,
       "name": "Deep Contemplation",
       "url": "https://open.spotify.com/track/4FmtDJ462G7hEWMbATTLLm"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 157333,
       "name": "Deep Sleep",
       "url": "https://open.spotify.com/track/0y0tQeEMd2Cr694gIu5gHr"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 219642,
       "name": "Echoes - Stripped",
       "url": "https://open.spotify.com/track/0NaLeSHFWST2SVryqm1Gqn"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 213712,
       "name": "Elevated Pastures",
       "url": "https://open.spotify.com/track/7zWjcC7jNhFtqckFMkiNux"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Everything Shall Pass",
       "url": "https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 216674,
       "name": "Evolving Dreams",
       "url": "https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI"
@@ -998,6 +998,24 @@
     },
     {
       "album": {
+        "name": "Gone walkabout",
+        "url": "https://open.spotify.com/album/5zQOHBmizZaKLDr2Ojkohu"
+      },
+      "artists": [
+        {
+          "name": "Jordan Beggs",
+          "url": "https://open.spotify.com/artist/2qHe4hsn9sRe5qm4uUVXwF"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Gone walkabout",
+      "url": "https://open.spotify.com/track/7GJbZjIlTTgaHToArOsck5"
+    },
+    {
+      "album": {
         "name": "Healing Keys of Light",
         "url": "https://open.spotify.com/album/6GTHW7lboExAvWar1uaIhm"
       },
@@ -1063,10 +1081,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 255000,
       "name": "Hollow Shells",
       "url": "https://open.spotify.com/track/1EgWZkH5xIMi6YOjRUHO08"
+    },
+    {
+      "album": {
+        "name": "I Promise",
+        "url": "https://open.spotify.com/album/2o2U7cZ6PCZMe1nGR6ZDH1"
+      },
+      "artists": [
+        {
+          "name": "Gary Koepp",
+          "url": "https://open.spotify.com/artist/03b5zfYHJxK8v6IpTnVUlX"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203374,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/1XH3miXC6EsroQKHct8ygN"
     },
     {
       "album": {
@@ -1153,7 +1189,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 187636,
       "name": "Into Gratitude - Stripped",
       "url": "https://open.spotify.com/track/06UZsdACozYbOiPjvxfVRU"
@@ -1171,7 +1207,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 239785,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/3VSHwYTtcZNrdwZuyOGjHo"
@@ -1207,7 +1243,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 240000,
       "name": "Journey Within (432hz)",
       "url": "https://open.spotify.com/track/7KdB7kgzKuPpgEKVagZcwE"
@@ -1315,7 +1351,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 173500,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/5i3gMF4xQnyFWXtmkI1JfD"
@@ -1369,7 +1405,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 223538,
       "name": "Maitri Lake (432hz)",
       "url": "https://open.spotify.com/track/5dXCkj7h7B1Hg4MwTHcixd"
@@ -1459,7 +1495,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Martins Ferry",
       "url": "https://open.spotify.com/track/21CILaPoqh4xyFRgQpqWxu"
@@ -1549,7 +1585,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 184186,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/1jap0U96d4528KaolN2nnz"
@@ -1585,7 +1621,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 199250,
       "name": "Nattljus",
       "url": "https://open.spotify.com/track/5pGG0eGQcA71HLo4jKQY90"
@@ -1621,7 +1657,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 209000,
       "name": "New Wings",
       "url": "https://open.spotify.com/track/2rawFRlajMpLMK1kD6Uvu0"
@@ -1675,7 +1711,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 140829,
       "name": "N\u00e4ra",
       "url": "https://open.spotify.com/track/0cUjV0txDAMZ2g49rHdX80"
@@ -1693,7 +1729,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 226000,
       "name": "Oblac\u030cno",
       "url": "https://open.spotify.com/track/4njX5u1fq7kcrpki88zDMq"
@@ -1765,7 +1801,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 189600,
       "name": "Overcome (Alpha Waves)",
       "url": "https://open.spotify.com/track/66tcVcibuPYWs182LeINwu"
@@ -1783,7 +1819,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 144305,
       "name": "Pace Tua",
       "url": "https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1"
@@ -1801,7 +1837,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 260038,
       "name": "Penumbra",
       "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
@@ -1819,7 +1855,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 193162,
       "name": "Peripateo",
       "url": "https://open.spotify.com/track/3Jsht2hQ08RWncvgXaFpcp"
@@ -1837,7 +1873,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 166487,
       "name": "Persistence",
       "url": "https://open.spotify.com/track/3ZAlpXJWeKniBrqSMffs0j"
@@ -1895,7 +1931,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 193411,
       "name": "Profound",
       "url": "https://open.spotify.com/track/7bFOBsfgorHeX0rGBSwP84"
@@ -1913,7 +1949,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "Purity 432hz",
       "url": "https://open.spotify.com/track/60kuRpoUHGfYmVswKdvcO0"
@@ -1949,7 +1985,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 224512,
       "name": "Rachael Or Pris",
       "url": "https://open.spotify.com/track/52tvffLe50EKvIznL67HnT"
@@ -2061,6 +2097,24 @@
       "duration_ms": 187200,
       "name": "Revolve",
       "url": "https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta"
+    },
+    {
+      "album": {
+        "name": "Sea Angel",
+        "url": "https://open.spotify.com/album/4q4aGzy6knPh2apjwaFDQY"
+      },
+      "artists": [
+        {
+          "name": "O.A.S.",
+          "url": "https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208701,
+      "name": "Sea Angel",
+      "url": "https://open.spotify.com/track/2ZC9pIlwUXquQDWRcsCtKp"
     },
     {
       "album": {
@@ -2201,7 +2255,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 170590,
       "name": "Spiritual Pressure",
       "url": "https://open.spotify.com/track/786DeLHyIPetyZtRZxBkZy"
@@ -2255,7 +2309,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 180624,
       "name": "Stream Of Consciousness",
       "url": "https://open.spotify.com/track/2OcirqlSNj6JgEfqp3FrdV"
@@ -2309,7 +2363,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 114949,
       "name": "The Birth of Solitude",
       "url": "https://open.spotify.com/track/463ddcbIg2jpNkk8JoVmJQ"
@@ -2381,7 +2435,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 212000,
       "name": "Vincible",
       "url": "https://open.spotify.com/track/4oeOk10qaT2s2jR04dyiPT"
@@ -2417,7 +2471,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 165517,
       "name": "Well Spent",
       "url": "https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS"
@@ -2439,6 +2493,24 @@
       "duration_ms": 240527,
       "name": "What If",
       "url": "https://open.spotify.com/track/3Y1uYjKIPFZ4PBNOYkTFqR"
+    },
+    {
+      "album": {
+        "name": "When We Touch",
+        "url": "https://open.spotify.com/album/0v889wJa7Wbyp9Q5NoLxQv"
+      },
+      "artists": [
+        {
+          "name": "Rain Wonder",
+          "url": "https://open.spotify.com/artist/4HLiKb2yZbSKwi3Uflpp36"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "When We Touch",
+      "url": "https://open.spotify.com/track/2JXnSuTOTh3uekrf4Kcq63"
     },
     {
       "album": {
@@ -2525,7 +2597,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 236181,
       "name": "Yellow Mountain - Studio Edit",
       "url": "https://open.spotify.com/track/0YavOnNQabNAZsJalEi648"
@@ -2561,7 +2633,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 217250,
       "name": "\u03a3\u03bf\u03c5\u0301\u03c1\u03bf\u03c5\u03c0\u03bf",
       "url": "https://open.spotify.com/track/6qhwG9cLtPHBJvqR2OQXVB"

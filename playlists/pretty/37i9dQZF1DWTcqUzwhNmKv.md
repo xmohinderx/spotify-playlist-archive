@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Ghost on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,241,281 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,242,042 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 |
-| 2 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 |
-| 3 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 |
-| 4 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 |
-| 5 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 |
+| 2 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 |
+| 3 | [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 |
+| 4 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 |
+| 5 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 |
 | 6 | [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 |
 | 7 | [Daggers](https://open.spotify.com/track/7yhN7C46ts8tAKHoNRrBL6) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz), [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Daggers](https://open.spotify.com/album/3RC2BMP1bYDgext5fX0w6w) | 3:14 |
 | 8 | [Dead Inside](https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH) | [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1), [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Dead Inside \(feat\. David Draiman of Disturbed\)](https://open.spotify.com/album/3iWO24LnOzcDaqA7UNgG6w) | 4:00 |
 | 9 | [Changes](https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb) | [Changes](https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB) | 3:47 |
 | 10 | [I Am Damnation](https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [I Am Damnation](https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa) | 4:46 |
-| 11 | [Soldier of Heaven](https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Soldier Of Heaven](https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C) | 3:38 |
-| 12 | [Like A Villain](https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Like A Villain](https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g) | 3:30 |
+| 11 | [Like A Villain](https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Like A Villain](https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g) | 3:30 |
+| 12 | [Soldier of Heaven](https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Soldier Of Heaven](https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C) | 3:38 |
 | 13 | [Bastards](https://open.spotify.com/track/06LJEYjJYDofVju6dwfp7t) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Bullet For My Valentine](https://open.spotify.com/album/6QoBe740np3sgfdp7FX12k) | 5:25 |
 | 14 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 |
 | 15 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 |
 | 16 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 |
 | 17 | [Where Angels Fear to Fly](https://open.spotify.com/track/4Ytkv0PncFeYbkJ58N9J3I) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Where Angels Fear to Fly](https://open.spotify.com/album/38t4KgvHehPZhi9X55tZ8O) | 3:56 |
 | 18 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 |
-| 19 | [Nigh to Silence](https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Nigh to Silence](https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH) | 5:04 |
-| 20 | [Anything at All](https://open.spotify.com/track/5p144lbzJw9kMCMOG61SF3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Anything at All](https://open.spotify.com/album/62VQpaKM1gEjzZye2K7oQn) | 4:06 |
-| 21 | [Feel What I Believe](https://open.spotify.com/track/1a1c2RbKhs6ozVLdrlWXJQ) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Feel What I Believe](https://open.spotify.com/album/5iEKR8ZWRqcVXlQ5qgLWHr) | 4:00 |
+| 19 | [Feel What I Believe](https://open.spotify.com/track/1a1c2RbKhs6ozVLdrlWXJQ) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Feel What I Believe](https://open.spotify.com/album/5iEKR8ZWRqcVXlQ5qgLWHr) | 4:00 |
+| 20 | [Nigh to Silence](https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Nigh to Silence](https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH) | 5:04 |
+| 21 | [Anything at All](https://open.spotify.com/track/5p144lbzJw9kMCMOG61SF3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Anything at All](https://open.spotify.com/album/62VQpaKM1gEjzZye2K7oQn) | 4:06 |
 | 22 | [Surrender](https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven in Hiding](https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ) | 3:41 |
 | 23 | [Closer](https://open.spotify.com/track/2DFE90Gljmrj9KD48gffiY) | [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Closer](https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9) | 3:19 |
 | 24 | [Standing My Ground](https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Standing My Ground](https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs) | 2:48 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 59 | [White Void](https://open.spotify.com/track/2ibes1ot9ij8pbx3de9Gg4) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 3:34 |
 | 60 | [Under Your Skin](https://open.spotify.com/track/4A0lu7ZxNwGFia8AzY8ZXy) | [Shaman's Harvest](https://open.spotify.com/artist/3pigXV2QUatr3szcb3MacR) | [Under Your Skin](https://open.spotify.com/album/5yh12susUWiXc4kRRfKH5o) | 3:23 |
 
-Snapshot ID: `MTY0MjcyMzI2MCwwMDAwMDRjNDAwMDAwMTdlNzllZmI2YmIwMDAwMDE3ZTc4NmQ3YWZi`
+Snapshot ID: `MTY0MjkyNDAyNCwwMDAwMDRjNTAwMDAwMTdlODVlNzI0MGIwMDAwMDE3ZTc4NmQ3YWZi`

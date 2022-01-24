@@ -409,7 +409,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 272133,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 259933,
       "name": "Drops of Jupiter (Tell Me)",
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 266973,
       "name": "Faithfully",
       "url": "https://open.spotify.com/track/0l5TpsCL1ObiTEsHeWA0by"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 261880,
       "name": "Fare Thee Well",
       "url": "https://open.spotify.com/track/31WvlK2vEalVKWHJNLu9T9"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 263573,
       "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
@@ -1457,7 +1457,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 302040,
       "name": "It's Probably Me",
       "url": "https://open.spotify.com/track/1X3Vb1oIAW6Ee22JZAEi59"
@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 252760,
       "name": "Just Around the Corner",
       "url": "https://open.spotify.com/track/1EMXG7xTHOwp08FNwDcQeX"
@@ -1673,7 +1673,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 212306,
       "name": "Livin' Thing",
       "url": "https://open.spotify.com/track/4Oiztg8nd9FOrBoSmvSzrB"
@@ -2141,7 +2141,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 230293,
       "name": "Plush - Acoustic",
       "url": "https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk"
@@ -2177,7 +2177,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 275506,
       "name": "Ride Like the Wind",
       "url": "https://open.spotify.com/track/7gUMShP1l20tC0xf17Zplk"
@@ -2195,7 +2195,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 204973,
       "name": "Road Trippin'",
       "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
@@ -2699,7 +2699,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj"
@@ -3085,7 +3085,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 341773,
       "name": "Wild Horses - 2009 Mix",
       "url": "https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW"
@@ -3125,6 +3125,24 @@
       "duration_ms": 208560,
       "name": "Wild World - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
+    },
+    {
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "album": {

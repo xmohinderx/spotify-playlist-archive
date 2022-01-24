@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 231211,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2GgxS8bUT5G25QJTsfSv0R"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 368783,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 184133,
       "name": "Mama",
       "url": "https://open.spotify.com/track/47OVNnZJzIkrsEiZ4n187p"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 219546,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6cpk00i5TxCqSeqNi2HuIe"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 217286,
       "name": "Remind Me to Forget",
       "url": "https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk"
@@ -1121,6 +1121,32 @@
       "duration_ms": 230733,
       "name": "True Love (feat. Lily Allen)",
       "url": "https://open.spotify.com/track/1QNqrsNQ1JVLEwncov3lEY"
+    },
+    {
+      "album": {
+        "name": "Everything Is 4",
+        "url": "https://open.spotify.com/album/59eUYETmE1zi31ESb3SUkI"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "Try Me (feat. Jennifer Lopez and Matoma)",
+      "url": "https://open.spotify.com/track/4tg1G3X26wDTmQbipgxhp5"
     },
     {
       "album": {

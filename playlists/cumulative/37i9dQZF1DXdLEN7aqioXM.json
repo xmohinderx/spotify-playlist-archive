@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 240750,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/4qg3M8Ml85iliPG2WRQ3FM"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 151227,
       "name": "Arpyness",
       "url": "https://open.spotify.com/track/3RBqODwZkvWdLmyd7d9sh1"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/0kDaCo0U2UcaM3SgZ1Ji7X"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 231192,
       "name": "Automaton",
       "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 280240,
       "name": "Crepuscule",
       "url": "https://open.spotify.com/track/4R892ve3lkQWo6mKxsVbZN"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 228028,
       "name": "Dark Prince, Pt. 3",
       "url": "https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 272173,
       "name": "Failed Star",
       "url": "https://open.spotify.com/track/39wuQ4m4GBzrGfivIjjL22"
@@ -671,6 +671,24 @@
       "duration_ms": 268800,
       "name": "Gaussian Blur",
       "url": "https://open.spotify.com/track/4g9v7XneDFBqxo2TIjb6iM"
+    },
+    {
+      "album": {
+        "name": "District 970",
+        "url": "https://open.spotify.com/album/73BbOuK29VLWmFXDVSWqWd"
+      },
+      "artists": [
+        {
+          "name": "Sami Matar",
+          "url": "https://open.spotify.com/artist/7ijAT5OUQFiBr68fogQHx1"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253745,
+      "name": "Gutterpunk Kids",
+      "url": "https://open.spotify.com/track/0SovI9ZaXKFzN1b26U0627"
     },
     {
       "album": {
@@ -913,7 +931,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 327289,
       "name": "Luminance",
       "url": "https://open.spotify.com/track/0BxJspnDFiFfaOgOf0mSlw"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 231533,
       "name": "Maximum Performance",
       "url": "https://open.spotify.com/track/0VpFKLQP6Deh6sHETGCzrp"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 319250,
       "name": "Neo-Tokyo - Chromatique Remix",
       "url": "https://open.spotify.com/track/4994qi4UjoPStjsbUB8AAF"
@@ -1033,6 +1051,24 @@
       "duration_ms": 253220,
       "name": "Neon Medusa - Edit",
       "url": "https://open.spotify.com/track/7y1WaVLlJHSpkn3Libyq7r"
+    },
+    {
+      "album": {
+        "name": "Hologram",
+        "url": "https://open.spotify.com/album/3VNyqCIJ1pfmiTnHRHw4ox"
+      },
+      "artists": [
+        {
+          "name": "Vogel",
+          "url": "https://open.spotify.com/artist/0IPgmXKtAVL8x0Gwqc2SuM"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343140,
+      "name": "Night City",
+      "url": "https://open.spotify.com/track/2wRfmI3v2REarKJFzuzO46"
     },
     {
       "album": {
@@ -1109,7 +1145,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 252121,
       "name": "Nightride (Revisited)",
       "url": "https://open.spotify.com/track/52xsz9WmVwCXiRFOvMh5yQ"
@@ -1506,6 +1542,24 @@
     },
     {
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/0OjByUyTYbmS7wW6zbfSed"
+      },
+      "artists": [
+        {
+          "name": "Kit Grill",
+          "url": "https://open.spotify.com/artist/7Mq8bgNDcBNm7nAwFT3Zhz"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196124,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/0boFCbuZjHFMRBbueUaXXz"
+    },
+    {
+      "album": {
         "name": "Synthesizer Hearts (W.H. Lung Remix)",
         "url": "https://open.spotify.com/album/5yWyDTD3ymcTb6lXXtyRzU"
       },
@@ -1521,7 +1575,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 360874,
       "name": "Synthesizer Hearts - W.H. Lung Remix",
       "url": "https://open.spotify.com/track/2a42N7b4XOl42OsL2EZvQt"
@@ -1629,7 +1683,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 186723,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/10n7xcB7chcHmHBvEyMqjB"
@@ -1647,7 +1701,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 186947,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg"
@@ -1665,7 +1719,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 324049,
       "name": "Ultimo",
       "url": "https://open.spotify.com/track/0jtagVogty503eUAY7psju"

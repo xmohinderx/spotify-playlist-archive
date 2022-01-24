@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 325975,
       "name": "An Ordinary Life",
       "url": "https://open.spotify.com/track/4aisUpHLCjQXjrv2ceJm5v"
@@ -210,6 +210,24 @@
     },
     {
       "album": {
+        "name": "Between Your Teeth",
+        "url": "https://open.spotify.com/album/7mwqbpDbLgAWr85eW1Vp3E"
+      },
+      "artists": [
+        {
+          "name": "Ailbhe Reddy",
+          "url": "https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173006,
+      "name": "Between Your Teeth",
+      "url": "https://open.spotify.com/track/0bIgYIJimrHidCxFgYcgxT"
+    },
+    {
+      "album": {
         "name": "Big One",
         "url": "https://open.spotify.com/album/03uvIKV9Varm3DtF7JUrFD"
       },
@@ -279,7 +297,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 205902,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/12c2O5BH4zpARL07gHggLf"
@@ -477,7 +495,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 216027,
       "name": "Comingback - Single Version",
       "url": "https://open.spotify.com/track/5gw6D0cBSEBGlv68liOrne"
@@ -664,6 +682,28 @@
     },
     {
       "album": {
+        "name": "Feel Nothing",
+        "url": "https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf"
+      },
+      "artists": [
+        {
+          "name": "Amen Dunes",
+          "url": "https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM"
+        },
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331693,
+      "name": "Feel Nothing",
+      "url": "https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn"
+    },
+    {
+      "album": {
         "name": "First Prize Bravery",
         "url": "https://open.spotify.com/album/0AfiT0UuYVVB9Dj25mM31K"
       },
@@ -693,7 +733,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 180026,
       "name": "Float Away",
       "url": "https://open.spotify.com/track/1ObhrhgjhDENcTAWbo91vS"
@@ -801,7 +841,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 199627,
       "name": "Gracie",
       "url": "https://open.spotify.com/track/0FAZwSMwU1rJIkalvkLBfT"
@@ -963,7 +1003,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 114067,
       "name": "How Can You Tell If You Love Her?",
       "url": "https://open.spotify.com/track/5q1RkQhtzcc8N8jK5JWhZp"
@@ -1089,7 +1129,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 203680,
       "name": "January Summers",
       "url": "https://open.spotify.com/track/3yO22faLpP5kU10HO5eBLQ"
@@ -1309,7 +1349,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 182681,
       "name": "Mountain",
       "url": "https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT"
@@ -1415,6 +1455,24 @@
       "duration_ms": 255533,
       "name": "Phoenix (feat. Fleet Foxes & Ana\u00efs Mitchell)",
       "url": "https://open.spotify.com/track/5fwabfmJtYmNbcNd2ISl3x"
+    },
+    {
+      "album": {
+        "name": "Can't Stop The Dawn",
+        "url": "https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL"
+      },
+      "artists": [
+        {
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198250,
+      "name": "Pink Pools",
+      "url": "https://open.spotify.com/track/01IeBj8Ep24Pgeh2WilK3E"
     },
     {
       "album": {
@@ -1805,7 +1863,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 212020,
       "name": "True Stereo",
       "url": "https://open.spotify.com/track/7l2NAnYz0KJxQ3t28pfFTz"

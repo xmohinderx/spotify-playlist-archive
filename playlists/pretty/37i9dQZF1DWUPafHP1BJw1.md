@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, <a href="spotify:genre:classical">classically</a>&nbsp;reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,500 likes - 98 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,740 likes - 98 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,718,853 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,719,264 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 8 | [It's a Long Way to the Top \(If You Wanna Rock 'N' Roll\)](https://open.spotify.com/track/7nemcVsXVFZF01iqpIIo2Y) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 5:01 |
 | 9 | [Hells Bells](https://open.spotify.com/track/69QHm3pustz01CJRwdo20z) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:12 |
 | 10 | [Whole Lotta Rosie](https://open.spotify.com/track/4wYq5wugZDzQiMZQYG4wVB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 5:33 |
-| 11 | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR) | 5:44 |
-| 12 | [Moneytalks](https://open.spotify.com/track/5u5F7qLDvZjBSktaDp4HxB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 3:45 |
+| 11 | [Moneytalks](https://open.spotify.com/track/5u5F7qLDvZjBSktaDp4HxB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 3:45 |
+| 12 | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR) | 5:44 |
 | 13 | [Shoot to Thrill](https://open.spotify.com/track/0C80GCp0mMuBzLf3EAXqxv) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 5:17 |
 | 14 | [Who Made Who](https://open.spotify.com/track/6rvldt6EoZwzogApECUCwd) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Who Made Who](https://open.spotify.com/album/07EFoHHspqSwsmkbnWaB4A) | 3:27 |
 | 15 | [Shot In The Dark](https://open.spotify.com/track/0sfdiwck2xr4PteGOdyOfz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:05 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 33 | [Sin City](https://open.spotify.com/track/3UQQ7g6J8fiMB7oldQzBoq) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 4:45 |
 | 34 | [Demon Fire](https://open.spotify.com/track/6jtUOVRO4p09Z7E35ERRL7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:30 |
 | 35 | [Hell Ain't a Bad Place to Be](https://open.spotify.com/track/79KUOd1p6yNjh2Jkr9IQHk) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 4:14 |
-| 36 | [Big Balls](https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 2:38 |
-| 37 | [Walk All Over You](https://open.spotify.com/track/5xquYn2sr3uEcyuKU9BmCJ) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 5:10 |
+| 36 | [Walk All Over You](https://open.spotify.com/track/5xquYn2sr3uEcyuKU9BmCJ) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 5:10 |
+| 37 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
 | 38 | [Witch's Spell](https://open.spotify.com/track/06hy0gi5aLXcWRjnj9fgoh) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:42 |
-| 39 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
-| 40 | [Ride On](https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 5:50 |
-| 41 | [Shot Down in Flames](https://open.spotify.com/track/6pivm7pNF4GyBkHNGseHCS) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:22 |
-| 42 | [Rock 'N' Roll Damnation](https://open.spotify.com/track/2308VPPaMh7Q3AX1Zap99A) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 3:37 |
+| 39 | [Ride On](https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 5:50 |
+| 40 | [Shot Down in Flames](https://open.spotify.com/track/6pivm7pNF4GyBkHNGseHCS) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:22 |
+| 41 | [Rock 'N' Roll Damnation](https://open.spotify.com/track/2308VPPaMh7Q3AX1Zap99A) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 3:37 |
+| 42 | [Problem Child](https://open.spotify.com/track/5wTuWXWREngkFGtBXhOaI9) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 5:24 |
 | 43 | [Baptism By Fire](https://open.spotify.com/track/1ULNWGJD3skjg0jWjhCFHc) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 3:30 |
-| 44 | [Problem Child](https://open.spotify.com/track/5wTuWXWREngkFGtBXhOaI9) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 5:24 |
+| 44 | [Big Balls](https://open.spotify.com/track/2KmSnPWWCIsEomVsKnbE1a) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 2:38 |
 | 45 | [Flick of the Switch](https://open.spotify.com/track/0oIox8T3bdGZnhQKnaDK2a) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Flick of the Switch](https://open.spotify.com/album/0ZD2tIjWo9fwzPndZ04wDY) | 3:13 |
-| 46 | [Gone Shootin'](https://open.spotify.com/track/69MwNXryg6NT1lV7buN7U7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 5:05 |
+| 46 | [Dog Eat Dog](https://open.spotify.com/track/0L0x35hQnmCLtHeSGQlEZj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 3:34 |
 | 47 | [Hard Times](https://open.spotify.com/track/5aoTIWdzgcjGo3SdjxqWSf) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:44 |
-| 48 | [Dog Eat Dog](https://open.spotify.com/track/0L0x35hQnmCLtHeSGQlEZj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 3:34 |
+| 48 | [Gone Shootin'](https://open.spotify.com/track/69MwNXryg6NT1lV7buN7U7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 5:05 |
 | 49 | [Let's Get It Up](https://open.spotify.com/track/1EJIEPzahlUiev5IQ1HnuL) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR) | 3:54 |
 | 50 | [Back in Business](https://open.spotify.com/track/6FCp2G9cQKTBl2nd34vciA) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Fly On the Wall](https://open.spotify.com/album/0rOXa1wPbBrCNl6knMyDBW) | 4:24 |
 
-Snapshot ID: `MjczODA5NzUsMDAwMDAwMDBlMGRmMzI0MDMyMjYwYWQ2Y2UyNDQ1NjZmYjAwYzJhYw==`
+Snapshot ID: `MjczODI0MTMsMDAwMDAwMDBjODQwMzU3OTc2ZmVkYTM3MzRiZDc1MDhmZjY2Y2M2NA==`

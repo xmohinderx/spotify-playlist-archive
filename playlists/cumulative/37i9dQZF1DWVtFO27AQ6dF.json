@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2020-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
+    },
+    {
+      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 210373,
       "name": "Born To Be Wild",
       "url": "https://open.spotify.com/track/63OFKbMaZSDZ4wtesuuq6f"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 243773,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
@@ -534,6 +552,24 @@
     },
     {
       "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2020-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Immigrant Song - Remaster",
+      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+    },
+    {
+      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -545,7 +581,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 355303,
       "name": "Iron Man - 2012 - Remaster",
       "url": "https://open.spotify.com/track/3IOQZRcEkplCXg6LofKqE9"
@@ -862,6 +898,24 @@
     },
     {
       "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2020-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -873,7 +927,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 277840,
       "name": "Show Me How to Live",
       "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
@@ -952,6 +1006,24 @@
     },
     {
       "album": {
+        "name": "Beggars Banquet (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2020-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378146,
+      "name": "Sympathy For The Devil - 50th Anniversary Edition",
+      "url": "https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0"
+    },
+    {
+      "album": {
         "name": "Countdown To Extinction",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -999,7 +1071,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 222773,
       "name": "The Beautiful People",
       "url": "https://open.spotify.com/track/3Kw4KEYQg6JaqUD8ZgAwz6"
@@ -1161,7 +1233,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 272026,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv"

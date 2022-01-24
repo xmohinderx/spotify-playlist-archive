@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 
 > it's a lifestyle / Cover: Jeris Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,487 likes - 150 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,685 likes - 150 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

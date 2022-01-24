@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 161413,
       "name": "(Sittin' On) The Dock Of The Bay",
       "url": "https://open.spotify.com/track/4gHk8HF8a6gUVPOyZh6srz"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 259532,
       "name": "After All",
       "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 238000,
       "name": "Cherish - Single Version",
       "url": "https://open.spotify.com/track/2yCAGizViD7HZXwNYxJToQ"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 240800,
       "name": "Cigarettes and Coffee",
       "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 243167,
       "name": "Complicated (feat. Anthony Hamilton) - The Remix",
       "url": "https://open.spotify.com/track/4OOhy6f0Mo3XleHjTRBWYi"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 290306,
       "name": "Don't Ask My Neighbor",
       "url": "https://open.spotify.com/track/55HnSyUENRJAnAGEFjwYb0"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 349600,
       "name": "Every Generation - Remastered",
       "url": "https://open.spotify.com/track/2bWAUmHpvGMkMkHYjrCEhe"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 250120,
       "name": "Float On",
       "url": "https://open.spotify.com/track/0i38ukkDaXt4bCP0osIbz0"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 298946,
       "name": "For You",
       "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
@@ -1341,7 +1341,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 230626,
       "name": "Got to Be There",
       "url": "https://open.spotify.com/track/2FtmoFvYo1zBsoxqchpzJC"
@@ -1359,7 +1359,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 121080,
       "name": "Grandma's Hands",
       "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 181306,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/31S04SZjQCMUTEIF9PWIEp"
@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 268666,
       "name": "I Just Wanna Hang Around You",
       "url": "https://open.spotify.com/track/3ngC9miPW6DoEc8OFSxyzY"
@@ -1677,6 +1677,24 @@
       "duration_ms": 125040,
       "name": "I'll Come Running Back (Mr Scruff Edit)",
       "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
+    },
+    {
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236760,
+      "name": "I'll Make Love To You",
+      "url": "https://open.spotify.com/track/7dfl9X38RhIvB3oSmmneq3"
     },
     {
       "album": {
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 323986,
       "name": "If This World Were Mine (with Luther Vandross)",
       "url": "https://open.spotify.com/track/3DnJmpSvBNxngDOBeI5U0B"
@@ -1923,7 +1941,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 211493,
       "name": "It's Something",
       "url": "https://open.spotify.com/track/0uRD7NAWhRL0mIB3oDh49u"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 228160,
       "name": "Just My Imagination (Running Away With Me)",
       "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
@@ -2137,6 +2155,24 @@
     {
       "album": {
         "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/488Go22EFOlEyE2VwnLAFV"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/4wASBXZ15QVnypp0SY8Jhm"
+    },
+    {
+      "album": {
+        "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
       },
       "artists": [
@@ -2147,7 +2183,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 199400,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/7kWhdmRYv8CqbWNqfojqVd"
@@ -2201,7 +2237,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 254600,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/6BOJ0nczgHMiklqraMDfMv"
@@ -2237,7 +2273,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 275226,
       "name": "Love Ballad",
       "url": "https://open.spotify.com/track/3iCbTmcXnKlRZCdaYOukxq"
@@ -2273,7 +2309,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 312800,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/5KtD1GHBO8kXlvl4giutxu"
@@ -2381,7 +2417,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 300226,
       "name": "Love, Need and Want You",
       "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
@@ -2561,7 +2597,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 270253,
       "name": "Mine All Mine",
       "url": "https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp"
@@ -2669,7 +2705,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 261573,
       "name": "My Love Is Your Love",
       "url": "https://open.spotify.com/track/4xzhlulgIL4yFEAR9EjHkR"
@@ -3001,7 +3037,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 345240,
       "name": "Reunited",
       "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
@@ -3289,7 +3325,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 230920,
       "name": "Starting All Over Again",
       "url": "https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3"
@@ -3391,7 +3427,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 346333,
       "name": "That's Enough For Me",
       "url": "https://open.spotify.com/track/7B0qsZqbqQ0O1hym45yMsq"
@@ -3409,7 +3445,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 196608,
       "name": "The Best Things",
       "url": "https://open.spotify.com/track/2IebZ0AjurvrRGdxnnL2oI"
@@ -3619,7 +3655,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 230106,
       "name": "Turn Your Love Around",
       "url": "https://open.spotify.com/track/6a899bXlCuViXW2Qs8Rdqo"
@@ -3637,7 +3673,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 229440,
       "name": "Turn Your Love Around - 2015 GH Version",
       "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
@@ -3691,7 +3727,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 238158,
       "name": "Valentine Love (Slow Version)",
       "url": "https://open.spotify.com/track/6YFG39GOXeyNleOaHBYoap"
@@ -3745,7 +3781,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 318493,
       "name": "When I Found You - Remastered Version",
       "url": "https://open.spotify.com/track/1jYlt6nF4Oxbg02PsBk9BU"
@@ -3995,7 +4031,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 233773,
       "name": "You Give Me Love (feat. Maverick Sabre)",
       "url": "https://open.spotify.com/track/1HTlxhk3cg0A6PS8nhtuZd"
@@ -4125,7 +4161,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 308973,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"

@@ -1,12 +1,12 @@
 {
   "description": "Les femmes montent le son. Photo : Le Juiice",
-  "num_followers": 189095,
+  "num_followers": 189084,
   "original_name": "EQUAL France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTkxODg4NywwMDAwMDA2YzAwMDAwMTdlNDlmZGY1ZjAwMDAwMDE3ZTIxMTQyYmM0",
+  "snapshot_id": "MTY0Mjk2ODU2MiwwMDAwMDA2ZDAwMDAwMTdlODg4ZWJkMWQwMDAwMDE3ZTIxMTQyYmM0",
   "tracks": [
     {
       "added_at": "2022-01-05 12:04:18",
@@ -27,6 +27,54 @@
     {
       "added_at": "2022-01-05 12:04:18",
       "album": {
+        "name": "Immortelle",
+        "url": "https://open.spotify.com/album/0EhbFkX6GrKwUSaKrMkFCj"
+      },
+      "artists": [
+        {
+          "name": "Linh",
+          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
+        }
+      ],
+      "duration_ms": 160695,
+      "name": "Immortelle",
+      "url": "https://open.spotify.com/track/2Lu6zpo4OmBQQVc3zgRuEf"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "A l'envers",
+        "url": "https://open.spotify.com/album/1KRzO5D5wViSagqcQxVmx2"
+      },
+      "artists": [
+        {
+          "name": "Lisa Pariente",
+          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "A l'envers",
+      "url": "https://open.spotify.com/track/3XigyV5rY8uYa6PkONvQgJ"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Adios",
+        "url": "https://open.spotify.com/album/1LLPhCssTs2tLq9epov31c"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00efssa",
+          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
+        }
+      ],
+      "duration_ms": 180939,
+      "name": "Adios",
+      "url": "https://open.spotify.com/track/1YkEX84tSJxmLO15CrDCkN"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
         "name": "Je t'a(b)ime",
         "url": "https://open.spotify.com/album/0rQpNBgAhFVsfShUsLohJy"
       },
@@ -43,18 +91,478 @@
     {
       "added_at": "2022-01-05 12:04:18",
       "album": {
-        "name": "T\u00e9l\u00e9phone",
-        "url": "https://open.spotify.com/album/66mMPKe60pq0UqYCrtxmCN"
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/7tKhCsssgWuP7QVuOJw3Hd"
       },
       "artists": [
         {
-          "name": "Elia",
-          "url": "https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6"
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
         }
       ],
-      "duration_ms": 170080,
-      "name": "T\u00e9l\u00e9phone",
-      "url": "https://open.spotify.com/track/6h3JbNT0uEzk7G2pizrbQ7"
+      "duration_ms": 155666,
+      "name": "Bali",
+      "url": "https://open.spotify.com/track/5MZeeySHvuMx4DoPtI6sgy"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Icy",
+        "url": "https://open.spotify.com/album/1MvjHb1rK2cLApegCr3Uxf"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00efssa",
+          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
+        }
+      ],
+      "duration_ms": 190602,
+      "name": "Icy",
+      "url": "https://open.spotify.com/track/6BlarLmqJbR6jQTi8Oxlw3"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Amore Amore",
+        "url": "https://open.spotify.com/album/4bxhxooxxl1BqjmgNKNz2A"
+      },
+      "artists": [
+        {
+          "name": "C\u00e4roline",
+          "url": "https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Amore Amore",
+      "url": "https://open.spotify.com/track/7LTTm6nsCntagnq476M9Kr"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Joie de vivre (En couleurs)",
+        "url": "https://open.spotify.com/album/1Kx1ZALHIIgjqi2quQMziA"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "Fais le bien",
+      "url": "https://open.spotify.com/track/6VLf6lyjxzOYhyl57N5XNn"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/4GuPXNcyd2G24l6We3OXcZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Sio",
+          "url": "https://open.spotify.com/artist/1J7lHgGg73LSlEOGZL7XAl"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/0DdQKmWMMULD1YvgFuJRJR"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "T\u00f4t ou tard - 25 ans",
+        "url": "https://open.spotify.com/album/7Eq9q37hMOOdviQrxlVsRg"
+      },
+      "artists": [
+        {
+          "name": "Erza Muqoli",
+          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
+        }
+      ],
+      "duration_ms": 165546,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6STofxXw6EZjaQVcIEdrJa"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/2UKvJOyThCkUf6l87hj2cN"
+      },
+      "artists": [
+        {
+          "name": "La Femme en Bleu",
+          "url": "https://open.spotify.com/artist/4zvroanLciSTy6lUol10bR"
+        }
+      ],
+      "duration_ms": 141582,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/1bTCLpRyw4O85YGCkAbdMH"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "La flemme",
+        "url": "https://open.spotify.com/album/36p74zhgOv0AmA9pFcS6M0"
+      },
+      "artists": [
+        {
+          "name": "Owlle",
+          "url": "https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "La flemme",
+      "url": "https://open.spotify.com/track/1ZNZwPhKKMrAuNEWAwSvOQ"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "T\u00e9co",
+        "url": "https://open.spotify.com/album/6WTs5DpsunR2QnVfW9FIEN"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "T\u00e9co",
+      "url": "https://open.spotify.com/track/4rlAcwbAvwpqcmeHSya6fd"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Arr\u00eatons nous quand \u00e7a blesse",
+        "url": "https://open.spotify.com/album/2xk1iVfeWYOyGVv0EVpOda"
+      },
+      "artists": [
+        {
+          "name": "Liza Manili",
+          "url": "https://open.spotify.com/artist/4os9b1HTVfZY7BLIu8PsA6"
+        }
+      ],
+      "duration_ms": 137560,
+      "name": "Arr\u00eatons nous quand \u00e7a blesse",
+      "url": "https://open.spotify.com/track/0nJ8DowBo75OOVV4w5PQbn"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Comme un adieu",
+        "url": "https://open.spotify.com/album/5MXSXRrb3tclOOoLTXrcXr"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "duration_ms": 206942,
+      "name": "Comme un adieu",
+      "url": "https://open.spotify.com/track/1No1FN1X5vEpUjQLlOBm5L"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "SPLEEN",
+        "url": "https://open.spotify.com/album/5SFU1suoQav8iKIBYAOTxw"
+      },
+      "artists": [
+        {
+          "name": "Lisa Portelli",
+          "url": "https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi"
+        }
+      ],
+      "duration_ms": 256586,
+      "name": "SPLEEN",
+      "url": "https://open.spotify.com/track/7vyMNaPsO12vwzNIn9qh5n"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "So Hard",
+        "url": "https://open.spotify.com/album/1wQNehJ01REb0TknPeRv3R"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Li",
+          "url": "https://open.spotify.com/artist/1mswgtBZE0xMQkJU4NhWpH"
+        },
+        {
+          "name": "C\u0153ur",
+          "url": "https://open.spotify.com/artist/0Rw13w5C5V7lxvBaJiDhFd"
+        }
+      ],
+      "duration_ms": 177211,
+      "name": "So Hard",
+      "url": "https://open.spotify.com/track/3RyfepEEQNqzCSd7h7Mdzs"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "S.O.S.",
+        "url": "https://open.spotify.com/album/43MSv0yUXyYt9Lhov6SUhD"
+      },
+      "artists": [
+        {
+          "name": "Lyna Mahyem",
+          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
+        }
+      ],
+      "duration_ms": 159473,
+      "name": "S.O.S.",
+      "url": "https://open.spotify.com/track/29ZhB3M6xs1mFSW7Vq2h1I"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Petite nana part. 1 (Conversation)",
+        "url": "https://open.spotify.com/album/1RMXaRE19M3p81wEKVL2ab"
+      },
+      "artists": [
+        {
+          "name": "AMALIA",
+          "url": "https://open.spotify.com/artist/49Dd1MWoMus30BFKrzBSLZ"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "Petite nana part. 1 - Conversation",
+      "url": "https://open.spotify.com/track/68Sk1g1Wd3O234VmowprEK"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "The Boom Boom Schack Album",
+        "url": "https://open.spotify.com/album/7BfgH6XXA6flM7QBoFntcV"
+      },
+      "artists": [
+        {
+          "name": "Annie Lalalove",
+          "url": "https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/5SAOoMHRVznpV49vkzvQbM"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Away From Me",
+        "url": "https://open.spotify.com/album/1cFCZZdwuuxOZOY5ZSAYtn"
+      },
+      "artists": [
+        {
+          "name": "Alix Bonan",
+          "url": "https://open.spotify.com/artist/7rkpBfdGMsoGft1KlEcP1p"
+        }
+      ],
+      "duration_ms": 146819,
+      "name": "Away From Me",
+      "url": "https://open.spotify.com/track/1JwsccyjnIlyEIkoUjtXmf"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Qu'importe",
+      "url": "https://open.spotify.com/track/4CAJWoy2MpfDFHirq2ekwB"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Garde du c\u0153ur",
+        "url": "https://open.spotify.com/album/0xOlYwiOgTyxZXJamx4msd"
+      },
+      "artists": [
+        {
+          "name": "Nilusi",
+          "url": "https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf"
+        }
+      ],
+      "duration_ms": 139863,
+      "name": "Garde du c\u0153ur",
+      "url": "https://open.spotify.com/track/2BMVFSagdt4KHsQHYMdK6l"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "La Main",
+        "url": "https://open.spotify.com/album/3NlKJE2Y0wJrnfWM3Jic3n"
+      },
+      "artists": [
+        {
+          "name": "Na\u00eb",
+          "url": "https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "La Main",
+      "url": "https://open.spotify.com/track/289p7HMI2x9mEvNFIaWK2L"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Saga",
+        "url": "https://open.spotify.com/album/6iZ2AS7gwMg3OAKot9Jm7O"
+      },
+      "artists": [
+        {
+          "name": "NAYRA",
+          "url": "https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ"
+        }
+      ],
+      "duration_ms": 135704,
+      "name": "Saga",
+      "url": "https://open.spotify.com/track/0xwubA4Pfvcn0qCbiYtVM9"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Super Solar System",
+        "url": "https://open.spotify.com/album/4gAVtdKI5o744uMYN7Epyf"
+      },
+      "artists": [
+        {
+          "name": "Romane Santarelli",
+          "url": "https://open.spotify.com/artist/0yQ9z8ic7T2OpRCtJVFyEN"
+        }
+      ],
+      "duration_ms": 252646,
+      "name": "Super Solar System",
+      "url": "https://open.spotify.com/track/2rzv89sVwBy0lKcEqrmTtR"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Je Sais",
+        "url": "https://open.spotify.com/album/6zRCEg2nGrba9aN9w3cH7N"
+      },
+      "artists": [
+        {
+          "name": "SKIA",
+          "url": "https://open.spotify.com/artist/1LWNlonORpAMLWHJCaCwtE"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Je Sais",
+      "url": "https://open.spotify.com/track/5dxBvpiErOCz31kxdZOApJ"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/5Dacm0UOKAZpeEinkW7EDU"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur",
+          "url": "https://open.spotify.com/artist/0Rw13w5C5V7lxvBaJiDhFd"
+        }
+      ],
+      "duration_ms": 194877,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6N4z4mViHt5cLofkeQA0Ma"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Je serai l\u00e0",
+        "url": "https://open.spotify.com/album/7akvoqd2vEAIFFdss4K4uS"
+      },
+      "artists": [
+        {
+          "name": "SARA'H",
+          "url": "https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9"
+        }
+      ],
+      "duration_ms": 196179,
+      "name": "Je serai l\u00e0",
+      "url": "https://open.spotify.com/track/0cPsUSupo85xOLSO5o6wLw"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Les pri\u00e8res - racines",
+        "url": "https://open.spotify.com/album/7EcjiIxS8WjkrYZz187wcv"
+      },
+      "artists": [
+        {
+          "name": "Barbara Pravi",
+          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
+        },
+        {
+          "name": "Silly Boy Blue",
+          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "Pri\u00e8re pour pleurer",
+      "url": "https://open.spotify.com/track/0ZLgrztXcLNReSCDNqtBxE"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Compliqu\u00e9",
+        "url": "https://open.spotify.com/album/7FPN7bfHQZ3vZo7ETWz72F"
+      },
+      "artists": [
+        {
+          "name": "Nina Rossell",
+          "url": "https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw"
+        }
+      ],
+      "duration_ms": 167993,
+      "name": "Compliqu\u00e9",
+      "url": "https://open.spotify.com/track/5s5omcypEbW9zUn3WLH3NB"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Les copines d'abord (Hommage \u00e0 Brassens)",
+        "url": "https://open.spotify.com/album/6l6GR5SqaUT3wqWCCLWXS5"
+      },
+      "artists": [
+        {
+          "name": "Les copines d'abord",
+          "url": "https://open.spotify.com/artist/5q7UuldWDRLqoxc5rqlHCU"
+        },
+        {
+          "name": "Erza Muqoli",
+          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
+        }
+      ],
+      "duration_ms": 292293,
+      "name": "Les passantes",
+      "url": "https://open.spotify.com/track/7vqrL7kG7jbTZHCTzhnipL"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Le temps passe etc.",
+        "url": "https://open.spotify.com/album/5irCRXypXa8gOqN2pFeU8g"
+      },
+      "artists": [
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "duration_ms": 205693,
+      "name": "Le temps passe (at home)",
+      "url": "https://open.spotify.com/track/2KmZaH6dCr6nGpgCBLGfqK"
     },
     {
       "added_at": "2022-01-05 12:04:18",
@@ -75,18 +583,18 @@
     {
       "added_at": "2022-01-05 12:04:18",
       "album": {
-        "name": "Va-t'en",
-        "url": "https://open.spotify.com/album/6iKVpux4lTXgtyGKgpl09f"
+        "name": "J'aurais aim\u00e9",
+        "url": "https://open.spotify.com/album/73wqSoTIAZQB82cvCT6B8j"
       },
       "artists": [
         {
-          "name": "Irma",
-          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
+          "name": "Elisa Kwam\u00e9",
+          "url": "https://open.spotify.com/artist/4ehUDRJ362mPGx5pDfRJr3"
         }
       ],
-      "duration_ms": 170226,
-      "name": "Va-t'en",
-      "url": "https://open.spotify.com/track/19OS2acFV7qpcjPKMlktdf"
+      "duration_ms": 161632,
+      "name": "J'aurais aim\u00e9",
+      "url": "https://open.spotify.com/track/5xvIRZyWWRogUAyB6K4c0Z"
     },
     {
       "added_at": "2022-01-05 12:04:18",
@@ -103,22 +611,6 @@
       "duration_ms": 228853,
       "name": "Itsumo Nando Demo - from Spirited Away",
       "url": "https://open.spotify.com/track/5EuumNa7DemUa6bc6DLwsr"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Dr\u00f4le d'id\u00e9e",
-        "url": "https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h"
-      },
-      "artists": [
-        {
-          "name": "Alexia Gredy",
-          "url": "https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg"
-        }
-      ],
-      "duration_ms": 157986,
-      "name": "Dr\u00f4le d'id\u00e9e",
-      "url": "https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN"
     },
     {
       "added_at": "2022-01-05 12:04:18",
@@ -171,246 +663,34 @@
     {
       "added_at": "2022-01-05 12:04:18",
       "album": {
-        "name": "La nuit n'en finit plus (Petula Clark Cover)",
-        "url": "https://open.spotify.com/album/6NN04qAQuaoR4isUhagSbl"
+        "name": "Va-t'en",
+        "url": "https://open.spotify.com/album/6iKVpux4lTXgtyGKgpl09f"
       },
       "artists": [
         {
-          "name": "Prudence",
-          "url": "https://open.spotify.com/artist/6G7P1WNRTlg3FxiYaW0hYh"
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f"
         }
       ],
-      "duration_ms": 156000,
-      "name": "La nuit n'en finit plus - Petula Clark Cover",
-      "url": "https://open.spotify.com/track/4rmnIqgvP8Yt65Rq1vD5nN"
+      "duration_ms": 170226,
+      "name": "Va-t'en",
+      "url": "https://open.spotify.com/track/19OS2acFV7qpcjPKMlktdf"
     },
     {
       "added_at": "2022-01-05 12:04:18",
       "album": {
-        "name": "Je Sais",
-        "url": "https://open.spotify.com/album/6zRCEg2nGrba9aN9w3cH7N"
+        "name": "Dr\u00f4le d'id\u00e9e",
+        "url": "https://open.spotify.com/album/75yNAaG0mniCfzOOqL6e9h"
       },
       "artists": [
         {
-          "name": "SKIA",
-          "url": "https://open.spotify.com/artist/1LWNlonORpAMLWHJCaCwtE"
+          "name": "Alexia Gredy",
+          "url": "https://open.spotify.com/artist/2LZ44MLhhXG2SlHhWUOGXg"
         }
       ],
-      "duration_ms": 172920,
-      "name": "Je Sais",
-      "url": "https://open.spotify.com/track/5dxBvpiErOCz31kxdZOApJ"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "La Main",
-        "url": "https://open.spotify.com/album/3NlKJE2Y0wJrnfWM3Jic3n"
-      },
-      "artists": [
-        {
-          "name": "Na\u00eb",
-          "url": "https://open.spotify.com/artist/0B3klp4sg7D2YYsKWwLvzh"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "La Main",
-      "url": "https://open.spotify.com/track/289p7HMI2x9mEvNFIaWK2L"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "T\u00e9co",
-        "url": "https://open.spotify.com/album/6WTs5DpsunR2QnVfW9FIEN"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "T\u00e9co",
-      "url": "https://open.spotify.com/track/4rlAcwbAvwpqcmeHSya6fd"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Adios",
-        "url": "https://open.spotify.com/album/1LLPhCssTs2tLq9epov31c"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00efssa",
-          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
-        }
-      ],
-      "duration_ms": 180939,
-      "name": "Adios",
-      "url": "https://open.spotify.com/track/1YkEX84tSJxmLO15CrDCkN"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "S.O.S.",
-        "url": "https://open.spotify.com/album/43MSv0yUXyYt9Lhov6SUhD"
-      },
-      "artists": [
-        {
-          "name": "Lyna Mahyem",
-          "url": "https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP"
-        }
-      ],
-      "duration_ms": 159473,
-      "name": "S.O.S.",
-      "url": "https://open.spotify.com/track/29ZhB3M6xs1mFSW7Vq2h1I"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Spectre",
-        "url": "https://open.spotify.com/album/7CDkvwRxDC039tjymX53xS"
-      },
-      "artists": [
-        {
-          "name": "Ogee",
-          "url": "https://open.spotify.com/artist/6dKleaGxvv38r5qC8RiTwn"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "Plus fort",
-      "url": "https://open.spotify.com/track/2ySeKpS4gYXOEVCsIJC42V"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Nemesis",
-        "url": "https://open.spotify.com/album/3lU409549MTP2V4Tl43MUE"
-      },
-      "artists": [
-        {
-          "name": "Am\u00f8",
-          "url": "https://open.spotify.com/artist/5ge6CL6agQQ7hvB8KLGKyF"
-        }
-      ],
-      "duration_ms": 176950,
-      "name": "Nemesis",
-      "url": "https://open.spotify.com/track/1eza4puIglMvGeSw7nGsCH"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Garde du c\u0153ur",
-        "url": "https://open.spotify.com/album/0xOlYwiOgTyxZXJamx4msd"
-      },
-      "artists": [
-        {
-          "name": "Nilusi",
-          "url": "https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf"
-        }
-      ],
-      "duration_ms": 139863,
-      "name": "Garde du c\u0153ur",
-      "url": "https://open.spotify.com/track/2BMVFSagdt4KHsQHYMdK6l"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Compliqu\u00e9",
-        "url": "https://open.spotify.com/album/7FPN7bfHQZ3vZo7ETWz72F"
-      },
-      "artists": [
-        {
-          "name": "Nina Rossell",
-          "url": "https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw"
-        }
-      ],
-      "duration_ms": 167993,
-      "name": "Compliqu\u00e9",
-      "url": "https://open.spotify.com/track/5s5omcypEbW9zUn3WLH3NB"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/5Dacm0UOKAZpeEinkW7EDU"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur",
-          "url": "https://open.spotify.com/artist/0Rw13w5C5V7lxvBaJiDhFd"
-        }
-      ],
-      "duration_ms": 194877,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6N4z4mViHt5cLofkeQA0Ma"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Je serai l\u00e0",
-        "url": "https://open.spotify.com/album/7akvoqd2vEAIFFdss4K4uS"
-      },
-      "artists": [
-        {
-          "name": "SARA'H",
-          "url": "https://open.spotify.com/artist/6IIDI5D6NsuaBQ0EacRLq9"
-        }
-      ],
-      "duration_ms": 196179,
-      "name": "Je serai l\u00e0",
-      "url": "https://open.spotify.com/track/0cPsUSupo85xOLSO5o6wLw"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "So Hard",
-        "url": "https://open.spotify.com/album/1wQNehJ01REb0TknPeRv3R"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Li",
-          "url": "https://open.spotify.com/artist/1mswgtBZE0xMQkJU4NhWpH"
-        },
-        {
-          "name": "C\u0153ur",
-          "url": "https://open.spotify.com/artist/0Rw13w5C5V7lxvBaJiDhFd"
-        }
-      ],
-      "duration_ms": 177211,
-      "name": "So Hard",
-      "url": "https://open.spotify.com/track/3RyfepEEQNqzCSd7h7Mdzs"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Arr\u00eatons nous quand \u00e7a blesse",
-        "url": "https://open.spotify.com/album/2xk1iVfeWYOyGVv0EVpOda"
-      },
-      "artists": [
-        {
-          "name": "Liza Manili",
-          "url": "https://open.spotify.com/artist/4os9b1HTVfZY7BLIu8PsA6"
-        }
-      ],
-      "duration_ms": 137560,
-      "name": "Arr\u00eatons nous quand \u00e7a blesse",
-      "url": "https://open.spotify.com/track/0nJ8DowBo75OOVV4w5PQbn"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Amore Amore",
-        "url": "https://open.spotify.com/album/4bxhxooxxl1BqjmgNKNz2A"
-      },
-      "artists": [
-        {
-          "name": "C\u00e4roline",
-          "url": "https://open.spotify.com/artist/062DVjtaNXTLUIyWyYrfOj"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Amore Amore",
-      "url": "https://open.spotify.com/track/7LTTm6nsCntagnq476M9Kr"
+      "duration_ms": 157986,
+      "name": "Dr\u00f4le d'id\u00e9e",
+      "url": "https://open.spotify.com/track/6i1UsvMjIi1oH7UAkrUilN"
     },
     {
       "added_at": "2022-01-05 12:04:18",
@@ -431,346 +711,18 @@
     {
       "added_at": "2022-01-05 12:04:18",
       "album": {
-        "name": "Saga",
-        "url": "https://open.spotify.com/album/6iZ2AS7gwMg3OAKot9Jm7O"
+        "name": "Spectre",
+        "url": "https://open.spotify.com/album/7CDkvwRxDC039tjymX53xS"
       },
       "artists": [
         {
-          "name": "NAYRA",
-          "url": "https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ"
+          "name": "Ogee",
+          "url": "https://open.spotify.com/artist/6dKleaGxvv38r5qC8RiTwn"
         }
       ],
-      "duration_ms": 135704,
-      "name": "Saga",
-      "url": "https://open.spotify.com/track/0xwubA4Pfvcn0qCbiYtVM9"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Immortelle",
-        "url": "https://open.spotify.com/album/0EhbFkX6GrKwUSaKrMkFCj"
-      },
-      "artists": [
-        {
-          "name": "Linh",
-          "url": "https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj"
-        }
-      ],
-      "duration_ms": 160695,
-      "name": "Immortelle",
-      "url": "https://open.spotify.com/track/2Lu6zpo4OmBQQVc3zgRuEf"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Away From Me",
-        "url": "https://open.spotify.com/album/1cFCZZdwuuxOZOY5ZSAYtn"
-      },
-      "artists": [
-        {
-          "name": "Alix Bonan",
-          "url": "https://open.spotify.com/artist/7rkpBfdGMsoGft1KlEcP1p"
-        }
-      ],
-      "duration_ms": 146819,
-      "name": "Away From Me",
-      "url": "https://open.spotify.com/track/1JwsccyjnIlyEIkoUjtXmf"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Les Traces",
-        "url": "https://open.spotify.com/album/67do5W87semb1sFauFfADA"
-      },
-      "artists": [
-        {
-          "name": "Dorely",
-          "url": "https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl"
-        }
-      ],
-      "duration_ms": 121280,
-      "name": "Les Traces",
-      "url": "https://open.spotify.com/track/4DTEf3j7bs8V0ZB9u0nCuy"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Les copines d'abord (Hommage \u00e0 Brassens)",
-        "url": "https://open.spotify.com/album/6l6GR5SqaUT3wqWCCLWXS5"
-      },
-      "artists": [
-        {
-          "name": "Les copines d'abord",
-          "url": "https://open.spotify.com/artist/5q7UuldWDRLqoxc5rqlHCU"
-        },
-        {
-          "name": "Erza Muqoli",
-          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
-        }
-      ],
-      "duration_ms": 292293,
-      "name": "Les passantes",
-      "url": "https://open.spotify.com/track/7vqrL7kG7jbTZHCTzhnipL"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "La flemme",
-        "url": "https://open.spotify.com/album/36p74zhgOv0AmA9pFcS6M0"
-      },
-      "artists": [
-        {
-          "name": "Owlle",
-          "url": "https://open.spotify.com/artist/05jcn5u3ZDqfA1QfdKx2Y8"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "La flemme",
-      "url": "https://open.spotify.com/track/1ZNZwPhKKMrAuNEWAwSvOQ"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "A l'envers",
-        "url": "https://open.spotify.com/album/1KRzO5D5wViSagqcQxVmx2"
-      },
-      "artists": [
-        {
-          "name": "Lisa Pariente",
-          "url": "https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "A l'envers",
-      "url": "https://open.spotify.com/track/3XigyV5rY8uYa6PkONvQgJ"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Joie de vivre (En couleurs)",
-        "url": "https://open.spotify.com/album/1Kx1ZALHIIgjqi2quQMziA"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "Fais le bien",
-      "url": "https://open.spotify.com/track/6VLf6lyjxzOYhyl57N5XNn"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Qu'importe",
-      "url": "https://open.spotify.com/track/4CAJWoy2MpfDFHirq2ekwB"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/7tKhCsssgWuP7QVuOJw3Hd"
-      },
-      "artists": [
-        {
-          "name": "Eva",
-          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Bali",
-      "url": "https://open.spotify.com/track/5MZeeySHvuMx4DoPtI6sgy"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "T\u00f4t ou tard - 25 ans",
-        "url": "https://open.spotify.com/album/7Eq9q37hMOOdviQrxlVsRg"
-      },
-      "artists": [
-        {
-          "name": "Erza Muqoli",
-          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
-        }
-      ],
-      "duration_ms": 165546,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/6STofxXw6EZjaQVcIEdrJa"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/2UKvJOyThCkUf6l87hj2cN"
-      },
-      "artists": [
-        {
-          "name": "La Femme en Bleu",
-          "url": "https://open.spotify.com/artist/4zvroanLciSTy6lUol10bR"
-        }
-      ],
-      "duration_ms": 141582,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/1bTCLpRyw4O85YGCkAbdMH"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Nature Boy",
-        "url": "https://open.spotify.com/album/4GuPXNcyd2G24l6We3OXcZ"
-      },
-      "artists": [
-        {
-          "name": "Victoria Sio",
-          "url": "https://open.spotify.com/artist/1J7lHgGg73LSlEOGZL7XAl"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/0DdQKmWMMULD1YvgFuJRJR"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Icy",
-        "url": "https://open.spotify.com/album/1MvjHb1rK2cLApegCr3Uxf"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00efssa",
-          "url": "https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y"
-        }
-      ],
-      "duration_ms": 190602,
-      "name": "Icy",
-      "url": "https://open.spotify.com/track/6BlarLmqJbR6jQTi8Oxlw3"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Comme un adieu",
-        "url": "https://open.spotify.com/album/5MXSXRrb3tclOOoLTXrcXr"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lie",
-          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
-        }
-      ],
-      "duration_ms": 206942,
-      "name": "Comme un adieu",
-      "url": "https://open.spotify.com/track/1No1FN1X5vEpUjQLlOBm5L"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "SPLEEN",
-        "url": "https://open.spotify.com/album/5SFU1suoQav8iKIBYAOTxw"
-      },
-      "artists": [
-        {
-          "name": "Lisa Portelli",
-          "url": "https://open.spotify.com/artist/5BjCAGv8JWZzhcegp8izDi"
-        }
-      ],
-      "duration_ms": 256586,
-      "name": "SPLEEN",
-      "url": "https://open.spotify.com/track/7vyMNaPsO12vwzNIn9qh5n"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Super Solar System",
-        "url": "https://open.spotify.com/album/4gAVtdKI5o744uMYN7Epyf"
-      },
-      "artists": [
-        {
-          "name": "Romane Santarelli",
-          "url": "https://open.spotify.com/artist/0yQ9z8ic7T2OpRCtJVFyEN"
-        }
-      ],
-      "duration_ms": 252646,
-      "name": "Super Solar System",
-      "url": "https://open.spotify.com/track/2rzv89sVwBy0lKcEqrmTtR"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "The Boom Boom Schack Album",
-        "url": "https://open.spotify.com/album/7BfgH6XXA6flM7QBoFntcV"
-      },
-      "artists": [
-        {
-          "name": "Annie Lalalove",
-          "url": "https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/5SAOoMHRVznpV49vkzvQbM"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Les pri\u00e8res - racines",
-        "url": "https://open.spotify.com/album/7EcjiIxS8WjkrYZz187wcv"
-      },
-      "artists": [
-        {
-          "name": "Barbara Pravi",
-          "url": "https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8"
-        },
-        {
-          "name": "Silly Boy Blue",
-          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "Pri\u00e8re pour pleurer",
-      "url": "https://open.spotify.com/track/0ZLgrztXcLNReSCDNqtBxE"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "Le temps passe etc.",
-        "url": "https://open.spotify.com/album/5irCRXypXa8gOqN2pFeU8g"
-      },
-      "artists": [
-        {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "Le temps passe (at home)",
-      "url": "https://open.spotify.com/track/2KmZaH6dCr6nGpgCBLGfqK"
-    },
-    {
-      "added_at": "2022-01-05 12:04:18",
-      "album": {
-        "name": "J'aurais aim\u00e9",
-        "url": "https://open.spotify.com/album/73wqSoTIAZQB82cvCT6B8j"
-      },
-      "artists": [
-        {
-          "name": "Elisa Kwam\u00e9",
-          "url": "https://open.spotify.com/artist/4ehUDRJ362mPGx5pDfRJr3"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "J'aurais aim\u00e9",
-      "url": "https://open.spotify.com/track/5xvIRZyWWRogUAyB6K4c0Z"
+      "duration_ms": 175720,
+      "name": "Plus fort",
+      "url": "https://open.spotify.com/track/2ySeKpS4gYXOEVCsIJC42V"
     },
     {
       "added_at": "2022-01-05 12:04:18",
@@ -791,18 +743,50 @@
     {
       "added_at": "2022-01-05 12:04:18",
       "album": {
-        "name": "Petite nana part. 1 (Conversation)",
-        "url": "https://open.spotify.com/album/1RMXaRE19M3p81wEKVL2ab"
+        "name": "La nuit n'en finit plus (Petula Clark Cover)",
+        "url": "https://open.spotify.com/album/6NN04qAQuaoR4isUhagSbl"
       },
       "artists": [
         {
-          "name": "AMALIA",
-          "url": "https://open.spotify.com/artist/49Dd1MWoMus30BFKrzBSLZ"
+          "name": "Prudence",
+          "url": "https://open.spotify.com/artist/6G7P1WNRTlg3FxiYaW0hYh"
         }
       ],
-      "duration_ms": 201106,
-      "name": "Petite nana part. 1 - Conversation",
-      "url": "https://open.spotify.com/track/68Sk1g1Wd3O234VmowprEK"
+      "duration_ms": 156000,
+      "name": "La nuit n'en finit plus - Petula Clark Cover",
+      "url": "https://open.spotify.com/track/4rmnIqgvP8Yt65Rq1vD5nN"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "T\u00e9l\u00e9phone",
+        "url": "https://open.spotify.com/album/66mMPKe60pq0UqYCrtxmCN"
+      },
+      "artists": [
+        {
+          "name": "Elia",
+          "url": "https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6"
+        }
+      ],
+      "duration_ms": 170080,
+      "name": "T\u00e9l\u00e9phone",
+      "url": "https://open.spotify.com/track/6h3JbNT0uEzk7G2pizrbQ7"
+    },
+    {
+      "added_at": "2022-01-05 12:04:18",
+      "album": {
+        "name": "Les Traces",
+        "url": "https://open.spotify.com/album/67do5W87semb1sFauFfADA"
+      },
+      "artists": [
+        {
+          "name": "Dorely",
+          "url": "https://open.spotify.com/artist/7zEvemWd0At54LjzE5SQnl"
+        }
+      ],
+      "duration_ms": 121280,
+      "name": "Les Traces",
+      "url": "https://open.spotify.com/track/4DTEf3j7bs8V0ZB9u0nCuy"
     }
   ],
   "unique_name": "EQUAL France",

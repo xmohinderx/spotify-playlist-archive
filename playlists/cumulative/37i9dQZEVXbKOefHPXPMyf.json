@@ -57,7 +57,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 262505,
       "name": "30/90 (from \"tick, tick... BOOM!\" Soundtrack from the Netflix Film)",
       "url": "https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 165019,
       "name": "DANCE CRIP",
       "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 198739,
       "name": "Hola Como Vas",
       "url": "https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW"
@@ -687,6 +687,24 @@
       "duration_ms": 181356,
       "name": "I Still Haven\u2019t Found What I\u2019m Looking For (with Bono)",
       "url": "https://open.spotify.com/track/2dsADtLSSLcfsSDn7sCdak"
+    },
+    {
+      "album": {
+        "name": "Bat Out Of Hell II: Back Into Hell",
+        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "date_added": "2022-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316466,
+      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
+      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
     },
     {
       "album": {
@@ -939,7 +957,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 189333,
       "name": "Monastery",
       "url": "https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 244123,
       "name": "Que Bella",
       "url": "https://open.spotify.com/track/3J19LpIaBLaF5bS6mkFInB"
@@ -1551,10 +1569,32 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello",
       "url": "https://open.spotify.com/track/29gcdJL6O6K11Z4eV8Qhk6"
+    },
+    {
+      "album": {
+        "name": "All Star Game",
+        "url": "https://open.spotify.com/album/7d0hMBy98bkBVRssATx4YL"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "T\u00fa No Eras As\u00ed",
+      "url": "https://open.spotify.com/track/6h1UftIKsK3dn9RJXhx4G9"
     },
     {
       "album": {
@@ -1669,7 +1709,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 179426,
       "name": "What Else Can I Do?",
       "url": "https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 216374,
       "name": "18th Floor - Acoustic",
       "url": "https://open.spotify.com/track/1hMmSSLc6RWgm2ITJBAmFj"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 198726,
       "name": "All My Love",
       "url": "https://open.spotify.com/track/1UoygGLpDD2i4DbRWi5P0P"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 244632,
       "name": "Big Star - Alt",
       "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 218174,
       "name": "Bittersweet Endings",
       "url": "https://open.spotify.com/track/7B9msPusVvUMI4mV554aQz"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 187380,
       "name": "Cadence",
       "url": "https://open.spotify.com/track/43EsfSbvXy1560sQkTdHn3"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 214669,
       "name": "Don't Go Gently",
       "url": "https://open.spotify.com/track/3Hh5zvYqW1pglo9Qnhl5El"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 208826,
       "name": "Drifting Apart",
       "url": "https://open.spotify.com/track/5j5bQ1TrOO3U6mfysOQAtB"
@@ -1391,7 +1391,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 186146,
       "name": "Easy Going",
       "url": "https://open.spotify.com/track/5YPyNorM81GcbpH4B5J2bY"
@@ -1597,7 +1597,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 207458,
       "name": "Everywhere I'm Goin' (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/1WIRocIFUaEkYeE7P2ioxD"
@@ -1811,7 +1811,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 234520,
       "name": "Ferris Wheels",
       "url": "https://open.spotify.com/track/0lwI8xs4YZlum7jo007xw4"
@@ -2135,7 +2135,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 198721,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/27DViojCFGFFyVrTVWJaiW"
@@ -2225,7 +2225,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 194365,
       "name": "Halfway There",
       "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
@@ -2337,7 +2337,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 204998,
       "name": "Headphones",
       "url": "https://open.spotify.com/track/07YRZrOmEGdDicx0YziCPf"
@@ -2568,6 +2568,24 @@
     },
     {
       "album": {
+        "name": "How You Finish",
+        "url": "https://open.spotify.com/album/7ziLu8AeGXQkPqm1kTOBp6"
+      },
+      "artists": [
+        {
+          "name": "Nick Wayne",
+          "url": "https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "How You Finish",
+      "url": "https://open.spotify.com/track/5K7LNPeilJW3aBTEb40Pd0"
+    },
+    {
+      "album": {
         "name": "HRV",
         "url": "https://open.spotify.com/album/1PMwNyr9k50bRgNv4qqw3w"
       },
@@ -2597,7 +2615,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 208421,
       "name": "Human",
       "url": "https://open.spotify.com/track/1tq9Wy0o6ngXpB6ftGgMJr"
@@ -2637,7 +2655,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 210880,
       "name": "Hurts a Little Less",
       "url": "https://open.spotify.com/track/117vf8xdn0geXyw6HX4sFl"
@@ -2995,7 +3013,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 232736,
       "name": "Indefinite",
       "url": "https://open.spotify.com/track/2joghEwCC0IPKPJ030x6BL"
@@ -3179,7 +3197,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 195493,
       "name": "Keep On Dancing",
       "url": "https://open.spotify.com/track/5clIpJtJdJbV1WMioS5CXS"
@@ -3359,7 +3377,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 181057,
       "name": "Lonely and Bored",
       "url": "https://open.spotify.com/track/5kbePc3HrrD2LjuagQEt8I"
@@ -3431,7 +3449,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Lost at Sea",
       "url": "https://open.spotify.com/track/59crDqEUjV0UEI9QVlQn2B"
@@ -3503,7 +3521,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 212626,
       "name": "Love on the Weekend",
       "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
@@ -3539,7 +3557,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 204736,
       "name": "Love You Twice",
       "url": "https://open.spotify.com/track/7xWIEXBRkxD30V28lTjVJg"
@@ -4023,7 +4041,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 191916,
       "name": "Now You Don't",
       "url": "https://open.spotify.com/track/51fqruO7AtIan8CWr9XVAv"
@@ -4081,7 +4099,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 181009,
       "name": "Only Know How to Love You",
       "url": "https://open.spotify.com/track/0GM2k74cNQzZU7nscnEX7n"
@@ -4197,7 +4215,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 261523,
       "name": "Picture of You (feat. Hayden Calnin)",
       "url": "https://open.spotify.com/track/0rqZHv7LtB9swrz1rouNA0"
@@ -4331,7 +4349,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 191453,
       "name": "Puppy and a Truck",
       "url": "https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm"
@@ -4367,7 +4385,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 222760,
       "name": "Radio Silence",
       "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
@@ -5059,7 +5077,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 177152,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
@@ -5313,7 +5331,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 238087,
       "name": "Talking to Myself (Stripped)",
       "url": "https://open.spotify.com/track/0o72RUfSENq11gnYzYewEv"
@@ -5479,7 +5497,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 158909,
       "name": "The Chocolate Cake Song",
       "url": "https://open.spotify.com/track/6HixN5KQdFqqPwbIgT9yXh"
@@ -5671,7 +5689,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 235586,
       "name": "The Trouble with Wanting",
       "url": "https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh"
@@ -5747,7 +5765,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 171000,
       "name": "These Fires",
       "url": "https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d"
@@ -5859,7 +5877,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 273573,
       "name": "Thumbs",
       "url": "https://open.spotify.com/track/0mRcrW5I1FIf7Ryv3KBcCr"
@@ -6011,7 +6029,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 221629,
       "name": "Twenty Something",
       "url": "https://open.spotify.com/track/62DKDpn34ACcv4HarAzF8p"
@@ -6101,7 +6119,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 337426,
       "name": "Virginia",
       "url": "https://open.spotify.com/track/0rhY13KyKIgPhrEez3Xp2m"
@@ -6119,7 +6137,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 101475,
       "name": "Waiting - Demo",
       "url": "https://open.spotify.com/track/6sqjaO9q52sNKJ8S4x53DD"
@@ -6155,7 +6173,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 239213,
       "name": "Walking Home to You",
       "url": "https://open.spotify.com/track/4FdeSDY5xmZgZg4MyBLleO"
@@ -6191,7 +6209,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 222800,
       "name": "Wash Me Clean",
       "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
@@ -6209,7 +6227,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 192960,
       "name": "Water - Acoustic",
       "url": "https://open.spotify.com/track/2nSUKx04FghoPD92S6y7hQ"
@@ -6415,7 +6433,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 239979,
       "name": "Wild Parts",
       "url": "https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG"

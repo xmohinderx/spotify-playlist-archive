@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/51jH04mYptcRL48ckvuHRW"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 151874,
       "name": "Burn Me Up",
       "url": "https://open.spotify.com/track/6EsDrYTBFHAYrOLrBQaNzj"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 189753,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/2iF2elQI7NVjsQSUK4C6jE"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 171000,
       "name": "Heaven (feat. Sofia Quinn)",
       "url": "https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 184687,
       "name": "Kids (feat. MKLA)",
       "url": "https://open.spotify.com/track/3rgTS3933lMWoPiN6CW4qY"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 150490,
       "name": "Lonely Again",
       "url": "https://open.spotify.com/track/1QkjPhhkq7iP1kD3723Emy"
@@ -1069,7 +1069,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 197760,
       "name": "Ma Ma Ma",
       "url": "https://open.spotify.com/track/19c7r2qm1FD7runvg0VzQa"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 150368,
       "name": "Oh La La (feat. Mougleta)",
       "url": "https://open.spotify.com/track/46Dxwh73hkHgPg2NCTCzmt"
@@ -1187,6 +1187,24 @@
       "duration_ms": 171780,
       "name": "On And On",
       "url": "https://open.spotify.com/track/70n69mBQ7kaNPHpky7UEpF"
+    },
+    {
+      "album": {
+        "name": "One Last Dance",
+        "url": "https://open.spotify.com/album/2R6DlC2hjgIZQsLWNx4IO2"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149724,
+      "name": "One Last Dance",
+      "url": "https://open.spotify.com/track/77fafaDntRMMnvMqQzJnAZ"
     },
     {
       "album": {
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 158500,
       "name": "Pretty Lies",
       "url": "https://open.spotify.com/track/1xzH7KpEovrxJKhAGqid42"
@@ -1617,7 +1635,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 140500,
       "name": "Sweet Dreams (feat. Imanbek) - With Alok",
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 145447,
       "name": "What Goes Around",
       "url": "https://open.spotify.com/track/2jiaQsa5E84U1WER1skDDv"
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 140156,
       "name": "Whistle (feat. Bertie Scott)",
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
@@ -1897,7 +1915,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 130619,
       "name": "Wind Me Up",
       "url": "https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 176744,
       "name": "You Spin Me Round (Like A Record) - Radio Edit",
       "url": "https://open.spotify.com/track/5zdbSrKdmK9qDTkqzidcN7"

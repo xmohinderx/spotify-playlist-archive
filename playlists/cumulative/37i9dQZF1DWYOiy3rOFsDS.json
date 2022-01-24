@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 179071,
       "name": "Amar",
       "url": "https://open.spotify.com/track/55lkRONUdhDT87IbTuJKXN"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 144750,
       "name": "Amor de Bolero",
       "url": "https://open.spotify.com/track/3XZEt7mxd5C5Ur05j1dfZr"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 186852,
       "name": "Ansia",
       "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 232176,
       "name": "Cuando No Hay Nada Que Hablar",
       "url": "https://open.spotify.com/track/2RZ316OxGfbTPIrzIfvk7j"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 243386,
       "name": "El Talism\u00e1n",
       "url": "https://open.spotify.com/track/64MZOaFCf4lNm505bYoNQ4"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 161813,
       "name": "Es Verdad",
       "url": "https://open.spotify.com/track/2xjAolZEG7Vs4pcpzd8gtE"
@@ -737,6 +737,24 @@
       "duration_ms": 268306,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth"
+    },
+    {
+      "album": {
+        "name": "Enclave de Bolero",
+        "url": "https://open.spotify.com/album/3C7x9eBK8VpQY4l6UgIQPy"
+      },
+      "artists": [
+        {
+          "name": "La Ciencia de Juancho Valencia",
+          "url": "https://open.spotify.com/artist/0qEMz90gSP62fGglkNnhg9"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207997,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/618mROSwHp4JeTR0E17KPC"
     },
     {
       "album": {
@@ -915,7 +933,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 174710,
       "name": "La Media Vuelta (feat. Melissa Robles)",
       "url": "https://open.spotify.com/track/0nQc9LtnjxK1ypDV1OBbdW"
@@ -1013,10 +1031,32 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 226145,
       "name": "La vida no vale nada (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv"
+    },
+    {
+      "album": {
+        "name": "Andr\u00e9s Cepeda Big Band (En Vivo)",
+        "url": "https://open.spotify.com/album/0Gpm0iuK5BKbrbX8FJKz1y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/1ovLUfXp677yibcfzWQWPC"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "La \u00daltima Noche (feat. Goyo) - En Vivo",
+      "url": "https://open.spotify.com/track/1KufFlWwqD111AKQgCwJzp"
     },
     {
       "album": {
@@ -1031,7 +1071,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 186730,
       "name": "Lo Hice, Te Dej\u00e9",
       "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
@@ -1311,7 +1351,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 207160,
       "name": "No Soy de Aqu\u00ed, Ni Soy de All\u00e1",
       "url": "https://open.spotify.com/track/5rCvtkwn4Y30lfhis5s2aw"
@@ -1391,6 +1431,24 @@
       "duration_ms": 207334,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/4tR3vwB6mMlKonmvI5MZvX"
+    },
+    {
+      "album": {
+        "name": "Maria Bonita",
+        "url": "https://open.spotify.com/album/5WcHl7CKNpcWXyuFSV2A8R"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210066,
+      "name": "Palabras De Mujer",
+      "url": "https://open.spotify.com/track/6dOuoQHcMfVum7s33Cj5u1"
     },
     {
       "album": {
@@ -1521,7 +1579,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 197553,
       "name": "Por Debajo de la Mesa",
       "url": "https://open.spotify.com/track/3DhB2He4Zi1TQe8YqJ3167"
@@ -1651,7 +1709,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 198371,
       "name": "Que Sea para M\u00ed (Sabor a Mar)",
       "url": "https://open.spotify.com/track/4h3VRMvEiivdNsQJRBUDML"
@@ -1749,6 +1807,36 @@
       "duration_ms": 138960,
       "name": "Sabor a Mi - En Vivo",
       "url": "https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps"
+    },
+    {
+      "album": {
+        "name": "Saudade (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/377XRcQ64pFZEyoRtJfPlT"
+      },
+      "artists": [
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        },
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        },
+        {
+          "name": "Los Hermanos Naturales",
+          "url": "https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296671,
+      "name": "Saudade - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5dhNc7vLnc3nQGyZRDAAl6"
     },
     {
       "album": {
@@ -1959,6 +2047,24 @@
       "duration_ms": 210848,
       "name": "Te matan los celos",
       "url": "https://open.spotify.com/track/5SR85Imahcv9tZGFjz3MCX"
+    },
+    {
+      "album": {
+        "name": "Te Ofrezco",
+        "url": "https://open.spotify.com/album/7zi3SKDbuhjapBGcCyv1tY"
+      },
+      "artists": [
+        {
+          "name": "Escarlata",
+          "url": "https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206520,
+      "name": "Te Ofrezco",
+      "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
     },
     {
       "album": {
@@ -2191,7 +2297,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 275280,
       "name": "Ya S\u00e9",
       "url": "https://open.spotify.com/track/3oHFLejTrYABV5OCi4vGEv"

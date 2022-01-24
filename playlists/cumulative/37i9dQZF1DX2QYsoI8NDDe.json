@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 157826,
       "name": "Cheque En Blanco",
       "url": "https://open.spotify.com/track/6Ozggwwdn7O6W5WJgFSnQp"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 190090,
       "name": "Cucurrucuc\u00fa Paloma",
       "url": "https://open.spotify.com/track/1C0sa4oOureltY5aJYCXW0"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 247760,
       "name": "Ex de Verdad - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
       "url": "https://open.spotify.com/track/40lU8uy8xKKRAP9A1N3BqH"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 165610,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 185426,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/5vxjnZFvJYgZz8RVR4za51"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 250440,
       "name": "La Gran Se\u00f1ora",
       "url": "https://open.spotify.com/track/1cKabdMoqvB3XAMxX6mHG7"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 184469,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2CUyd0sqedJTEanrE1rNA0"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 224786,
       "name": "Ni Una Sola Palabra",
       "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Palabras Tristes",
       "url": "https://open.spotify.com/track/1FktCE7NbKvj85XmGIp6Cb"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 233536,
       "name": "Para No Extra\u00f1arte Tanto",
       "url": "https://open.spotify.com/track/7aUpb64GsXLoVteGzxoqFF"
@@ -1291,7 +1291,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 218320,
       "name": "Por Lo Que Reste de Vida",
       "url": "https://open.spotify.com/track/7qDkY9Y9v9eFV53AalBcSd"
@@ -1609,7 +1609,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 228311,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/2VV3sbyQ7k0f8txzat3GgZ"
@@ -1725,7 +1725,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 184120,
       "name": "T\u00fa a M\u00ed No Me Hundes",
       "url": "https://open.spotify.com/track/6PblaBoFvMNh3x4gbTV0zU"
@@ -1845,6 +1845,24 @@
       "duration_ms": 187686,
       "name": "Ya Es Muy Tarde",
       "url": "https://open.spotify.com/track/50U0SJ2LQlWFCpbVKY4LMn"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/78I27AxTxuvAEWRfQLfcma"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201546,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/1Squ9MGqzmYZ2u0KyKU5YA"
     },
     {
       "album": {

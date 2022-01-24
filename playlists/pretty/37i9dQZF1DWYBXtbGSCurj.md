@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Veigh, Kyan, Febem, Tropa do Bruxo
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,560 likes - 76 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,709 likes - 76 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

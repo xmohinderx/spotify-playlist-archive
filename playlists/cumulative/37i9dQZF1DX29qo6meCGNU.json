@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 182626,
       "name": "Amantes y Amigos",
       "url": "https://open.spotify.com/track/1UHcnP31sAKOJFrEnyRNUz"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 207187,
       "name": "Antes de Ti",
       "url": "https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 163951,
       "name": "Apartamento",
       "url": "https://open.spotify.com/track/1Ht332hgVG71HLepGgKJnE"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 244802,
       "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
       "url": "https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 217546,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3gD4J3RUHy4OUuZ3qAiaiG"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 248470,
       "name": "De 0 a Siempre",
       "url": "https://open.spotify.com/track/1qxwayGaQN4roLdX5L9pM6"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 204563,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 200593,
       "name": "Fantasias - Unplugged",
       "url": "https://open.spotify.com/track/6qqd7DGn2VXzxsR4k3Ycun"
@@ -1092,6 +1092,28 @@
     },
     {
       "album": {
+        "name": "Historias de un Capricornio",
+        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221103,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
+    },
+    {
+      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
       },
@@ -1107,7 +1129,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
@@ -1209,7 +1231,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 171696,
       "name": "La Mujer Traiciona",
       "url": "https://open.spotify.com/track/2YpupWlGIpbkra73hHc8KW"
@@ -1348,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "Me Haces Falta",
+        "url": "https://open.spotify.com/album/4esiA8rZ5Igh4AZSwtI6Ey"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167322,
+      "name": "Me Haces Falta",
+      "url": "https://open.spotify.com/track/0En2Bf2GLo9E8M2fXqY3oo"
+    },
+    {
+      "album": {
         "name": "Me Olvid\u00e9 De Los 2",
         "url": "https://open.spotify.com/album/4TdxErSMGpVsgH6csoiNey"
       },
@@ -1461,7 +1501,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 187885,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/4R9yPomFNl8zjDOpNxeUFw"
@@ -1523,7 +1563,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 211130,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
@@ -1541,7 +1581,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 202373,
       "name": "Ponte Pa' Mi",
       "url": "https://open.spotify.com/track/4C6BlqqMwjFzOXzqpTeoWR"
@@ -1581,7 +1621,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 233000,
       "name": "PORFA",
       "url": "https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T"
@@ -1607,7 +1647,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 194446,
       "name": "Presente Y Futuro",
       "url": "https://open.spotify.com/track/4GpnuoBxRqKZUjZ5FdwPG2"
@@ -1647,7 +1687,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 184254,
       "name": "Relaci\u00f3n",
       "url": "https://open.spotify.com/track/4lMOQR1rRW5hJgJXOtKraL"
@@ -1716,6 +1756,24 @@
     },
     {
       "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "album": {
         "name": "Si Me Dices Que S\u00ed",
         "url": "https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV"
       },
@@ -1779,7 +1837,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 204906,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/6Y4PDQv4XjYjHLeLmvyOt0"
@@ -1823,7 +1881,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 189566,
       "name": "Sigues Con El - Remix",
       "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
@@ -1925,7 +1983,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 239133,
       "name": "TBT",
       "url": "https://open.spotify.com/track/4s45VgkknMFkdiGoUcjxQU"
@@ -1943,7 +2001,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 139576,
       "name": "TE DESEO LO MEJOR",
       "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"
@@ -2059,10 +2117,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 186693,
       "name": "VACAXIONES",
       "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
+    },
+    {
+      "album": {
+        "name": "Verte Cerquita",
+        "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232721,
+      "name": "Verte Cerquita",
+      "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"
     },
     {
       "album": {

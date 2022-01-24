@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > Explore the ever\-evolving roots & folk scene\. Cover: Penny & Sparrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,827,744 likes - 110 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,827,743 likes - 110 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

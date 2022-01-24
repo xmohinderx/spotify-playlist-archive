@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Mackenzie Sol",
+          "url": "https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178519,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq"
+    },
+    {
+      "album": {
         "name": "Alive (Remixes)",
         "url": "https://open.spotify.com/album/25zskbiZC3moKS4TkqN9yo"
       },
@@ -235,7 +257,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 218190,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4VQK9d4giauCdAN9C8W6nh"
@@ -257,7 +279,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 140869,
       "name": "Body On Me",
       "url": "https://open.spotify.com/track/2CoyC9QjY2mydPoIBofKAc"
@@ -315,7 +337,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/1iyFpZJ5zipXxMfj0FseRq"
@@ -399,7 +421,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 190856,
       "name": "Call Of The Unicorn",
       "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
@@ -421,7 +443,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Came To Rage (feat. Bok Nero)",
       "url": "https://open.spotify.com/track/4cStCFHtDFhiJijry7ZisY"
@@ -593,7 +615,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 268800,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/1Z6tfLB21XhdZZnS9xaBLs"
@@ -839,7 +861,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 305142,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/2CcbkWGUhEHDUPOxUZwKcV"
@@ -927,7 +949,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 190909,
       "name": "Fight Or Flight",
       "url": "https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2"
@@ -1011,7 +1033,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 248333,
       "name": "Front Man",
       "url": "https://open.spotify.com/track/1Ipo7AQ2vWCoCjkSTxGEMX"
@@ -1077,7 +1099,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 172245,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
@@ -1231,7 +1253,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 221750,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
@@ -1351,7 +1373,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 270422,
       "name": "How To Feel",
       "url": "https://open.spotify.com/track/7JaHPMXlx37VACDtbROCUW"
@@ -1541,7 +1563,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 202736,
       "name": "KENKA",
       "url": "https://open.spotify.com/track/0IWI0riXpzyc5FqVuoljGJ"
@@ -2973,7 +2995,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/0LCUh32YKsqbh3d7eCJIh8"
@@ -3047,7 +3069,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "something i can't change",
       "url": "https://open.spotify.com/track/7ehM4PkZ022zgzALGAYQtG"
@@ -3257,7 +3279,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 208421,
       "name": "Sweetest Thing",
       "url": "https://open.spotify.com/track/4BCda1bJa57fTMB2laaOeX"
@@ -3301,7 +3323,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 139877,
       "name": "Takin' Over",
       "url": "https://open.spotify.com/track/16laBcAyTKhLY50kHQ11b2"
@@ -3469,7 +3491,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 204943,
       "name": "Trailblazer",
       "url": "https://open.spotify.com/track/19ht9Lhp2fHgQi00izzrKE"
@@ -3571,7 +3593,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 240705,
       "name": "Unlucky",
       "url": "https://open.spotify.com/track/0J1LHPRO4y7yDRFscEaOGk"
@@ -3713,7 +3735,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 198857,
       "name": "waves",
       "url": "https://open.spotify.com/track/2Prh6y8sogVP04PjwPI0To"
@@ -3775,7 +3797,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 256551,
       "name": "WITH U",
       "url": "https://open.spotify.com/track/1xuIethB7B6S14ZdQ2LxoW"

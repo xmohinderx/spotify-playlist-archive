@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 239720,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/4Uies5Apye1sR2TnH5pqhV"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 264026,
       "name": "Calaveras y Diablitos",
       "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 320656,
       "name": "Chau",
       "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 266007,
       "name": "Cuando seas grande",
       "url": "https://open.spotify.com/track/7s7K8xZfO91PglDD3uZ8m3"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 189466,
       "name": "Dormir So\u00f1ando",
       "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 343887,
       "name": "El Baile de los Que Sobr\u00e1n",
       "url": "https://open.spotify.com/track/4bGjPkl0BKXeFJOyKpdSwS"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 308040,
       "name": "El baile y el sal\u00f3n",
       "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 194573,
       "name": "El Duelo",
       "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 185826,
       "name": "El Loco",
       "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 161053,
       "name": "El Microbito",
       "url": "https://open.spotify.com/track/78Yoe3YYGLWYRIFp5YDPS6"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 261466,
       "name": "El P\u00e1jaro Vio el Cielo y Se Vol\u00f3",
       "url": "https://open.spotify.com/track/4smTDf8dKkZXxz66uv5w43"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 243560,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/7j7qS7NIvezns7Z5fLUAuT"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 233393,
       "name": "Ella Estrella",
       "url": "https://open.spotify.com/track/1rpOMdGC7PmKsNzOU8Xzfn"
@@ -971,6 +971,24 @@
       "duration_ms": 302538,
       "name": "Entre Mis Brazos",
       "url": "https://open.spotify.com/track/1hM3r9AKtL3XZwPqRHcCMG"
+    },
+    {
+      "album": {
+        "name": "Un Segundo MTV Unplugged",
+        "url": "https://open.spotify.com/album/560jtpKSOE6SAcEdiK60En"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305280,
+      "name": "Eres - MTV Unplugged",
+      "url": "https://open.spotify.com/track/6fKT4AyoqVEqerghyYpuGr"
     },
     {
       "album": {
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 266706,
       "name": "Fin",
       "url": "https://open.spotify.com/track/4Nr3NY4LluTed9I3jFM5gJ"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 233960,
       "name": "Frente a frente (feat. Tulsa)",
       "url": "https://open.spotify.com/track/73KNzyiG6xM6xguaLe4ICj"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 266826,
       "name": "Guitarras Blancas",
       "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 248986,
       "name": "H\u00e9roe de leyenda",
       "url": "https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 291117,
       "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
       "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 212000,
       "name": "La ingrata",
       "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 236426,
       "name": "Llueve Sobre La Ciudad",
       "url": "https://open.spotify.com/track/2bQn1ATsEIWwswbsPpOrp9"
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 217373,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 280419,
       "name": "Luna",
       "url": "https://open.spotify.com/track/6YHAExoi0JVSknKbFiT6Kr"
@@ -1915,7 +1933,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 222346,
       "name": "Mariposa tecknicolor",
       "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 244760,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 339933,
       "name": "Mi Ag\u00fcita Amarilla",
       "url": "https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 260439,
       "name": "Nada",
       "url": "https://open.spotify.com/track/1lpGX4TZPVgEKGGBDc3n9j"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 234813,
       "name": "Para no olvidar",
       "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
@@ -2225,7 +2243,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 307631,
       "name": "Parecemos tontos",
       "url": "https://open.spotify.com/track/5KsZGdaJugVnu1Faccq22D"
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 230693,
       "name": "Pobre so\u00f1ador",
       "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
@@ -2315,7 +2333,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 273800,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 225706,
       "name": "Putita",
       "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
@@ -2463,7 +2481,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 133080,
       "name": "Si Tu Boquito Fuera",
       "url": "https://open.spotify.com/track/662E0RMa6XGHqctB0F4SpW"
@@ -2517,7 +2535,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 250306,
       "name": "Sol de Media Noche",
       "url": "https://open.spotify.com/track/1tLlwGjRXhJ66zgZ978oC9"
@@ -2751,7 +2769,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 297533,
       "name": "Veneno Vil",
       "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"
@@ -2769,7 +2787,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 236333,
       "name": "Viento",
       "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"

@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 189286,
       "name": "Back Door",
       "url": "https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 217560,
       "name": "Bad Girl Good Girl",
       "url": "https://open.spotify.com/track/7b8WzWfJvPFa21Io7i6rdh"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 194426,
       "name": "BBIBBI",
       "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 192735,
       "name": "Dream of You (with R3HAB)",
       "url": "https://open.spotify.com/track/5SEvxpu5ImOFOcXyeM8fbx"
@@ -1325,7 +1325,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 249241,
       "name": "Ending Scene",
       "url": "https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 206866,
       "name": "Feel Special",
       "url": "https://open.spotify.com/track/2HtcPHFdo7eu4Ilbvb0BVI"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 213853,
       "name": "Galaxy \uc6b0\uc8fc\ub97c \uc904\uac8c",
       "url": "https://open.spotify.com/track/6T3Mlx5fr71sm0u1YDAb4R"
@@ -1669,7 +1669,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 290095,
       "name": "How can I love the heartbreak, you`re the one I love",
       "url": "https://open.spotify.com/track/4FObSSNE4O4dgzD4iHFprW"
@@ -1853,7 +1853,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 272847,
       "name": "If It Is You",
       "url": "https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5"
@@ -1907,7 +1907,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 197306,
       "name": "INSIDE OUT",
       "url": "https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 261120,
       "name": "Je T'aime",
       "url": "https://open.spotify.com/track/3wS47sXPddjE6rbhU7u20w"
@@ -2069,7 +2069,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 215080,
       "name": "Like Ooh-Ahh",
       "url": "https://open.spotify.com/track/1Jk8M1iFFoTcL0IMuDHdsJ"
@@ -2415,7 +2415,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 194596,
       "name": "NO ONE",
       "url": "https://open.spotify.com/track/0lhZsFfTpITnjK5q8lrDLR"
@@ -2433,7 +2433,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 177728,
       "name": "Not Shy",
       "url": "https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU"
@@ -2509,6 +2509,28 @@
       "duration_ms": 195333,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/1Q6lzzQHM5dvtTCwcfeKDy"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199524,
+      "name": "PLAY (feat. Changmo)",
+      "url": "https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3"
     },
     {
       "album": {
@@ -2869,7 +2891,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 237576,
       "name": "She's In The Rain",
       "url": "https://open.spotify.com/track/0TxSk5fpK01cBLV9ePqcE6"
@@ -3021,7 +3043,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 173133,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"
@@ -3245,7 +3267,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 221373,
       "name": "That's okay",
       "url": "https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo"
@@ -3479,7 +3501,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 208240,
       "name": "What is Love",
       "url": "https://open.spotify.com/track/1IX47gefluXmKX4PrTBCRM"
@@ -3587,7 +3609,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 221218,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8"

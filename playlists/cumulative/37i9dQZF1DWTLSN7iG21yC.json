@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 198333,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/7dDtjTlMhLhkuugxXrcJz1"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 179152,
       "name": "Almost Maybes",
       "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 176542,
       "name": "already there",
       "url": "https://open.spotify.com/track/3ynlolAaLgMoa4A8HFm5bo"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 191406,
       "name": "Be Like That - feat. Swae Lee & Khalid",
       "url": "https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 228507,
       "name": "Bed on Fire",
       "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 205159,
       "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
       "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 234466,
       "name": "Dangerous Levels of Introspection",
       "url": "https://open.spotify.com/track/4iT46O2cYu63Rlv09Fpxch"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 185920,
       "name": "Good Die Young",
       "url": "https://open.spotify.com/track/7AgrPafTWK99KIwJ9Vo5nJ"
@@ -1797,7 +1797,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 178384,
       "name": "I Still Need You",
       "url": "https://open.spotify.com/track/3WM935x8fQpvSskUP1LHPB"
@@ -1953,7 +1953,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 152840,
       "name": "Kiss The World Goodbye",
       "url": "https://open.spotify.com/track/3oUvvUcdQCOEPujLfd805G"
@@ -2007,7 +2007,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 189720,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
@@ -2073,7 +2073,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
@@ -2236,6 +2236,24 @@
     },
     {
       "album": {
+        "name": "Light Switch",
+        "url": "https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
+    },
+    {
+      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -2265,7 +2283,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 184733,
       "name": "Lonely Like Me",
       "url": "https://open.spotify.com/track/1sIBVBhdt7QRfYdebiN8jF"
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 175755,
       "name": "Next",
       "url": "https://open.spotify.com/track/0ykb4JkCWsucctJq9XxArc"
@@ -2719,7 +2737,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 171613,
       "name": "Perfect Conditions",
       "url": "https://open.spotify.com/track/5PegehfZSBLp5HZ8OuUJQz"
@@ -2885,7 +2903,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 169010,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
@@ -3259,7 +3277,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 176557,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/6TMXLsuPMArdRn5q0EGWPg"
@@ -3295,7 +3313,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 234888,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4Y2rXSgFiWO7xYRYzd3F6D"
@@ -3349,7 +3367,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 203258,
       "name": "The 90s",
       "url": "https://open.spotify.com/track/6xmlFb4Ld15YysAmRQ545N"
@@ -3457,7 +3475,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 170316,
       "name": "Tommy",
       "url": "https://open.spotify.com/track/1h0020jJjt1Jw03H0tD931"
@@ -3757,7 +3775,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 200346,
       "name": "Why It Hurts",
       "url": "https://open.spotify.com/track/79tW2TBIRnQBRdiGkC6xM0"
@@ -3793,7 +3811,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 170921,
       "name": "Wish You Did",
       "url": "https://open.spotify.com/track/5kGPIXJQJMLG1FGj38UlMo"

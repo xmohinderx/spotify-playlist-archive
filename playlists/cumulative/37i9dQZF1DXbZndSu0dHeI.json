@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 281906,
       "name": "Attempt",
       "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 173006,
       "name": "Between Your Teeth",
       "url": "https://open.spotify.com/track/0bIgYIJimrHidCxFgYcgxT"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 202226,
       "name": "Birdcage",
       "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 190200,
       "name": "Craziest Things",
       "url": "https://open.spotify.com/track/2BYBbUyjC4yZ4L2IKIVAgf"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 188260,
       "name": "Don't Make a Scene",
       "url": "https://open.spotify.com/track/0uOnoknp6Oq5mOpkAegGmU"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/78wvkEG8AhizCo20BeJjRF"
@@ -637,6 +637,24 @@
       "duration_ms": 186153,
       "name": "Electric Blue",
       "url": "https://open.spotify.com/track/4HNuzjFoJ46jGvtfhQeBzu"
+    },
+    {
+      "album": {
+        "name": "Empty In The Capital",
+        "url": "https://open.spotify.com/album/5EIxBWnno8tBztYfggVM3D"
+      },
+      "artists": [
+        {
+          "name": "Grace Gillespie",
+          "url": "https://open.spotify.com/artist/4owaayCKTzC8Y7PeADjuAk"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223782,
+      "name": "Empty In The Capital",
+      "url": "https://open.spotify.com/track/3nk04NimXNUKFVpcDUuP6s"
     },
     {
       "album": {
@@ -705,7 +723,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 258693,
       "name": "Far Out",
       "url": "https://open.spotify.com/track/6H6NrMPFl4HC7Pz9bSVmTZ"
@@ -893,7 +911,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 199627,
       "name": "Gracie",
       "url": "https://open.spotify.com/track/0FAZwSMwU1rJIkalvkLBfT"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 196640,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 163292,
       "name": "I Don't Wanna Be Funny Anymore",
       "url": "https://open.spotify.com/track/0kwBATkVUAG7JRMEosNUUs"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 161880,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/2B56sqgNauLMR9iqBMITwb"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 173000,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/6WrZ8rFuvTsWkFjC3US38h"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 250162,
       "name": "Nazareth",
       "url": "https://open.spotify.com/track/03JgKNVxicoLINfg3q8qBv"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 200186,
       "name": "Only The Strong",
       "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
@@ -1733,7 +1751,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 243188,
       "name": "Picture of You",
       "url": "https://open.spotify.com/track/2vdI1NcClTNqaH1E8mEvgn"
@@ -1755,7 +1773,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 204563,
       "name": "Pinetrees",
       "url": "https://open.spotify.com/track/6VmKRiq18SDfzCfV2nXOSs"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 198250,
       "name": "Pink Pools",
       "url": "https://open.spotify.com/track/2RR5kSUsSzde2ybCa2VOhP"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 207133,
       "name": "Show Me More",
       "url": "https://open.spotify.com/track/0cKmAiOd52XSO3Ecoen1QU"
@@ -2163,7 +2181,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 186573,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/6RRlA5SD0HgVVFtzaEIu7k"
@@ -2217,7 +2235,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 238896,
       "name": "The Hours",
       "url": "https://open.spotify.com/track/2sIJX0m9AzvOP4WG6hfPZW"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 256048,
       "name": "the sum of the in-between",
       "url": "https://open.spotify.com/track/73jIdwmiQRQOGUE2pWMrDp"
@@ -2397,7 +2415,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 224942,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/67t28gn4X9vYHM0WICEmtb"

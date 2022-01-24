@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > some beautiful things this week\. cover: tobias drayyyyyyyyyyy
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,188 likes - 122 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,488 likes - 122 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

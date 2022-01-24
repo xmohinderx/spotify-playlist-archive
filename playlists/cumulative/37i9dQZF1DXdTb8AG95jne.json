@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 230531,
       "name": "8%",
       "url": "https://open.spotify.com/track/5b8kLu7ws92PZNztnAfhTr"
@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "a song i like to sing",
+        "url": "https://open.spotify.com/album/4rnDUUhsDdMgFFoeg5DrqT"
+      },
+      "artists": [
+        {
+          "name": "WH3N",
+          "url": "https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160906,
+      "name": "a song i like to sing",
+      "url": "https://open.spotify.com/track/5BDScyCac0wCKu1ZvCpk8K"
+    },
+    {
+      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -185,7 +203,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 234000,
       "name": "Beside",
       "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
@@ -257,7 +275,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 214346,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
@@ -499,7 +517,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 254458,
       "name": "Dreaming me",
       "url": "https://open.spotify.com/track/48yWAEKHXC7HZumnUvoqoc"
@@ -611,7 +629,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 191560,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/1HshcipCZ4rEiNfKckNShW"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 167234,
       "name": "Fortune Teller (feat. Stella Jang)",
       "url": "https://open.spotify.com/track/66216rH0JIcTsLCEDq2yeD"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 205759,
       "name": "Hate Everything - Korean Version",
       "url": "https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 218677,
       "name": "Idle Idle",
       "url": "https://open.spotify.com/track/17I6f6dlUmBQxHCBTWPBxT"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 194909,
       "name": "Indica (feat. Motte)",
       "url": "https://open.spotify.com/track/4lZTygIDDA87R9TWyJxXEc"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 201750,
       "name": "isle",
       "url": "https://open.spotify.com/track/77yv6fASf9WOxyPm3qqyMc"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 181697,
       "name": "Islet",
       "url": "https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 226559,
       "name": "Let's Meet In Spring",
       "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 239842,
       "name": "Let's stay together",
       "url": "https://open.spotify.com/track/52ZZz4FthV6FAjbUiPF7th"
@@ -1371,10 +1389,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 249051,
       "name": "Love Wave",
       "url": "https://open.spotify.com/track/1Z5XuXbFW6dl8wlLnqxu6l"
+    },
+    {
+      "album": {
+        "name": "Love Yourself (Just a Bit More)",
+        "url": "https://open.spotify.com/album/6q2wINJ9hkZmA0MfUlopOM"
+      },
+      "artists": [
+        {
+          "name": "April 2nd",
+          "url": "https://open.spotify.com/artist/6p2HEgiJp6Dr0DI9p5n7nr"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211625,
+      "name": "Love Yourself (Just a Bit More)",
+      "url": "https://open.spotify.com/track/3NiAUTqEb8r6kdYACYjxxy"
     },
     {
       "album": {
@@ -1411,7 +1447,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 243952,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0OV5CZKs1CNsavPmV9gZzg"
@@ -1635,7 +1671,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 241451,
       "name": "Northern Light",
       "url": "https://open.spotify.com/track/1CRpDZ0XPU77yoJu2mJZir"
@@ -1671,7 +1707,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 256799,
       "name": "One Another",
       "url": "https://open.spotify.com/track/189vi3KtFMw8bH2dKiXtD1"
@@ -1689,7 +1725,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 206146,
       "name": "One another - 2020",
       "url": "https://open.spotify.com/track/47XU3vkc7Y8Mx1qHDvh0hh"
@@ -1815,7 +1851,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 241025,
       "name": "Rain In The Night",
       "url": "https://open.spotify.com/track/3ISTUp8tjTZxDQyhwMQbP5"
@@ -1967,7 +2003,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 132437,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/6YBR8tsZZjbZRATuFPNPVu"
@@ -2043,7 +2079,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 292439,
       "name": "starlight",
       "url": "https://open.spotify.com/track/6PAitd0U0mvJCVJ11xIx4y"
@@ -2315,7 +2351,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 216510,
       "name": "Two Days",
       "url": "https://open.spotify.com/track/5cbSa8113mXCHqDkwfV6PQ"
@@ -2351,7 +2387,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 218544,
       "name": "Us",
       "url": "https://open.spotify.com/track/4xOxGzY6ctpO2prDbGJbIQ"
@@ -2409,7 +2445,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 171106,
       "name": "When It Snows",
       "url": "https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1"
@@ -2427,7 +2463,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 253988,
       "name": "When It Snows \ub208\uc774 \uc624\ub294 \ub0a0",
       "url": "https://open.spotify.com/track/41mmblVBKV1QqzAsaq9ogD"
@@ -2485,7 +2521,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 232893,
       "name": "Winter Breath",
       "url": "https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC"
@@ -2507,6 +2543,24 @@
       "duration_ms": 232000,
       "name": "Winter \ub208",
       "url": "https://open.spotify.com/track/2E69ooAhWV1QIZ86MMLk85"
+    },
+    {
+      "album": {
+        "name": "Cobalt Blue",
+        "url": "https://open.spotify.com/album/6LYD23SLNIifGJ08R6KdO0"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217134,
+      "name": "Wisue \ud587\ube5b\ucc98\ub7fc \ube7c\uc5b4\ub09c",
+      "url": "https://open.spotify.com/track/5RvuwSjuIkAiqviPuGWWgE"
     },
     {
       "album": {
@@ -2539,7 +2593,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Your Voice Makes Me Dream",
       "url": "https://open.spotify.com/track/23Pw6OjQUUg06RGKq406yK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,716 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,725 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 3 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
 | 4 | [Nkao Tempela](https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Nkao Tempela](https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE) | 6:01 |
 | 5 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 |
-| 6 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 |
+| 6 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony \(feat\. Britney Spears & Ginuwine\)](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 |
 | 7 | [Own Brand Freestyle](https://open.spotify.com/track/6Jzdxguk63s6CVVXHIrQ0x) | [FelixThe1st](https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg), [Dreya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP), [Finch Fetti](https://open.spotify.com/artist/5lup4fypQIoHxiE67ue1yi) | [Own Brand Freestyle](https://open.spotify.com/album/7lR5tiB0EL8xr8HodoIXg7) | 2:33 |
 | 8 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2) | 3:24 |
 | 9 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 |

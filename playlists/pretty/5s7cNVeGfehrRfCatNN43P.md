@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2021% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,244 likes - 21 songs - 1 hr 14 min
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,248 likes - 21 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 11 | [Quicksand](https://open.spotify.com/track/6fEtxRskOuPleXkm8ETYHE) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Quicksand](https://open.spotify.com/album/28TPdB72pb0vVJSc87N0OW) | 4:11 |
 | 12 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 |
 | 13 | [The Half Moon Came Up In The Sky](https://open.spotify.com/track/06F2Xymb8r6YdXBtC62sA1) | [Frankmusik](https://open.spotify.com/artist/1Eqmku5RGosz51zTCZFgDi) | [The Half Moon Came Up In The Sky](https://open.spotify.com/album/1TOFOyhbSUSuZDy52aPWoE) | 4:06 |
-| 14 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 |
+| 14 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony \(feat\. Britney Spears & Ginuwine\)](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 |
 | 15 | [To All The Boys I’ve Loved Before](https://open.spotify.com/track/6WXvM7Ku5aM7SfdXym7DEN) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [To All The Boys I’ve Loved Before](https://open.spotify.com/album/7iAKoyqsiG4Fdx0zp4KsB2) | 3:08 |
 | 16 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
 | 17 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |

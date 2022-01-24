@@ -2581,7 +2581,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -6129,7 +6129,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 192021,
       "name": "Cold December",
       "url": "https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9"
@@ -14226,6 +14226,24 @@
     },
     {
       "album": {
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204316,
+      "name": "Hrs and Hrs",
+      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -20351,7 +20369,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 137704,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
@@ -21939,7 +21957,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 292799,
       "name": "No Role Modelz",
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
@@ -23869,7 +23887,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -32421,7 +32439,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 172600,
       "name": "thought it was (feat. Machine Gun Kelly & Travis Barker)",
       "url": "https://open.spotify.com/track/36uNbyvWCUwSk3AnpQmu2I"
@@ -34621,7 +34639,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 211613,
       "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
       "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"

@@ -285,7 +285,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 253986,
       "name": "A nie pami\u0119tasz jak?",
       "url": "https://open.spotify.com/track/2fuA2bAFbVidQUdCiLjuG7"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 197341,
       "name": "Baila Ella",
       "url": "https://open.spotify.com/track/2Y6sYRN1zHuC4RE7ftNWYt"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 158476,
       "name": "Benz-Dealer",
       "url": "https://open.spotify.com/track/17cBWOOCK0NzWM1dqSTSf2"
@@ -5909,6 +5909,28 @@
       "duration_ms": 223648,
       "name": "Napad Na Bank",
       "url": "https://open.spotify.com/track/317BKia1vQ2fQza3QOSYl0"
+    },
+    {
+      "album": {
+        "name": "NARCO TRAFFICANTE",
+        "url": "https://open.spotify.com/album/75Si2y0pXmS3Ht6etJXxXK"
+      },
+      "artists": [
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Bibi\u010d",
+          "url": "https://open.spotify.com/artist/7hJpyuLhmpawafcRfxUnlT"
+        }
+      ],
+      "date_added": "2022-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152113,
+      "name": "NARCO TRAFFICANTE",
+      "url": "https://open.spotify.com/track/4KKNEojih3ePzwbVafY1vm"
     },
     {
       "album": {

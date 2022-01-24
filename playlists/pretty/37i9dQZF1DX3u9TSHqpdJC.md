@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: Alicia Moffet  Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,604 likes - 94 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,499 likes - 94 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVfS4Cdd3PNf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVfS4Cdd3PNf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVfS4Cdd3PNf)
 
-### [Opera Classics](https://open.spotify.com/playlist/4iUcB7iHJy25BC2sZMm5AM)
+### [Opera Classics](https://open.spotify.com/playlist/1eS4ov9tzJGrYFP4UAlnKI)
 
 > Masterpieces of baroque era, all the way to 20th century and contemporary classics.
 

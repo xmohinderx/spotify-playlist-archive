@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 230625,
       "name": "Andromeda Style Fuunk",
       "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 382000,
       "name": "Blue to Red - Photay Remix",
       "url": "https://open.spotify.com/track/7yjaEAoxYgrocnt0S2kPnU"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 195428,
       "name": "Brighton",
       "url": "https://open.spotify.com/track/7CrqU9028RFFNCGvVLERWy"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 171788,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/12aJqPyNE7c5Uk7LaOjYEu"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 298971,
       "name": "Cold Duck Time",
       "url": "https://open.spotify.com/track/4FwIoVB2Y7wO6KmJREuj8S"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 198500,
       "name": "CYPReSSES",
       "url": "https://open.spotify.com/track/17vwQOObhFSyQ4oGSqlisH"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 195500,
       "name": "Firstness Of Thirdness",
       "url": "https://open.spotify.com/track/0H2wXPNBzwhQZ2dl29oREL"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 75692,
       "name": "For Fun, You Scroll (Mike Casey Remix)",
       "url": "https://open.spotify.com/track/4s92V0Jlnbs7s4lYWXfXZr"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 310865,
       "name": "G Flex",
       "url": "https://open.spotify.com/track/7xVtleeM321K9OPhgytOZa"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 132858,
       "name": "Game 5!",
       "url": "https://open.spotify.com/track/4NZZyhOsyhyFdDn2AFUFHI"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 371029,
       "name": "If U Strike Me Down",
       "url": "https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk"
@@ -1387,10 +1387,64 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 186410,
       "name": "Lower Brinstar Vibes",
       "url": "https://open.spotify.com/track/5mbORzorEBD2pxmIzeE1su"
+    },
+    {
+      "album": {
+        "name": "m.a.c.",
+        "url": "https://open.spotify.com/album/28iPZdaZZITDAx0cAGq7Wg"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Andru Dennis",
+          "url": "https://open.spotify.com/artist/2rocU0BlQbe32IorBD2dKp"
+        },
+        {
+          "name": "Alexander Gustavo",
+          "url": "https://open.spotify.com/artist/5FEtj6DpRBnz1C7HrL94Jq"
+        },
+        {
+          "name": "Cotton Mom",
+          "url": "https://open.spotify.com/artist/0QXN6MEnGMEdXASrbZH7WI"
+        },
+        {
+          "name": "Gino West",
+          "url": "https://open.spotify.com/artist/2Z8fqjWaDRewnC1GCZLePl"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Tommy Lehman",
+          "url": "https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h"
+        },
+        {
+          "name": "John James Martin",
+          "url": "https://open.spotify.com/artist/0TXNc8irsy7gRvK0ZgpiIh"
+        },
+        {
+          "name": "Kevin Maxwell Smith",
+          "url": "https://open.spotify.com/artist/5rpKCHJ8T8tm8dm2L7WL1Z"
+        },
+        {
+          "name": "Nicholas Frank",
+          "url": "https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "m.a.c.",
+      "url": "https://open.spotify.com/track/4GQkfmR9uGh24hZ7OBVw05"
     },
     {
       "album": {
@@ -1423,7 +1477,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 147828,
       "name": "Moments Notice",
       "url": "https://open.spotify.com/track/5G1eImf4Ad7ZchBQZ0qH8K"
@@ -1577,7 +1631,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 214360,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/4JQmAu7F8tXYA7U83HXsSk"
@@ -1613,7 +1667,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 293306,
       "name": "No Sleep Til MTL",
       "url": "https://open.spotify.com/track/4gUlRAieJFmg3np9cyE7pj"
@@ -1741,7 +1795,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 258583,
       "name": "Ode Nobunaga",
       "url": "https://open.spotify.com/track/7zsXJ1OeeHsHyflXpqztY7"
@@ -1793,7 +1847,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 212518,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/0ZguEgsT8UkEPTj5AlF2Tu"
@@ -1899,7 +1953,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 114078,
       "name": "PPL -PingPongLounge-",
       "url": "https://open.spotify.com/track/6ACvAgc7FB9uBo3JKfnomk"
@@ -2009,7 +2063,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 191344,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/68MMwBzzkkO5RzZsptWhao"
@@ -2053,7 +2107,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 182773,
       "name": "Rush Hour",
       "url": "https://open.spotify.com/track/5QQqHH7Sk0sFGyxELjDb0e"
@@ -2071,7 +2125,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 216847,
       "name": "Saga of Robert and Lauryn",
       "url": "https://open.spotify.com/track/6wLsSF1scWTuKUCcFtsFM5"
@@ -2115,7 +2169,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 144000,
       "name": "Shift (Mike Casey Remix)",
       "url": "https://open.spotify.com/track/5FeU23ci1PjYzwg2vC3vUG"
@@ -2251,7 +2305,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 75000,
       "name": "Space 3",
       "url": "https://open.spotify.com/track/3hnaQzwgcPZTAjkgdzxdOc"
@@ -2505,7 +2559,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 369585,
       "name": "The Message Continues - Mark de Clive-Lowe Remix",
       "url": "https://open.spotify.com/track/4kyzWwDs6Pumurfu3fIM01"
@@ -2589,7 +2643,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 105184,
       "name": "They & I",
       "url": "https://open.spotify.com/track/3FCZIGIb3Q966y3hHJpnCt"
@@ -2801,7 +2855,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 229397,
       "name": "Uncanny Dissonance",
       "url": "https://open.spotify.com/track/4uED9D8F86W76xUnb4sc97"
@@ -2993,7 +3047,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 333818,
       "name": "When We Gather",
       "url": "https://open.spotify.com/track/2DgrhZQkh0EOEFoDpr4mxh"
@@ -3033,7 +3087,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 215305,
       "name": "Yesterday's Forest Magic",
       "url": "https://open.spotify.com/track/3SBKwRZXM7Ev7XHRCA1GA6"
@@ -3051,7 +3105,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 136421,
       "name": "Yipee",
       "url": "https://open.spotify.com/track/78R0kfQEC2vEB2J6twyVoo"

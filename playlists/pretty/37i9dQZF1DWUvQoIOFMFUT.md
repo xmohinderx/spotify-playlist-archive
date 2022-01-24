@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 
 > Breathe deep and release that pressure.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,639 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,719 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvQoIOFMFUT.md) - [plain]
 | 50 | [Middle Of Nowhere](https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb) | 6:42 |
 | 51 | [I Won't](https://open.spotify.com/track/0d8ecVQ21crDPnkOmstmig) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [I Won't](https://open.spotify.com/album/7GlB46U9wtvRcAu95TeAjt) | 3:35 |
 | 52 | [Reculver](https://open.spotify.com/track/6rkBNzraDcu5xuOMPGM041) | [lotusbliss](https://open.spotify.com/artist/7KasCF2ZfqwGRglWxqPFne) | [Bittersweet](https://open.spotify.com/album/3vbgdxeQbajiKQGphj6nkR) | 4:28 |
-| 53 | [RC\-20](https://open.spotify.com/track/4D1lbXrMY3iNnTqmRlcN5t) | [ChiruP](https://open.spotify.com/artist/4MuoHTDeZZqZVpyTp5EpmQ) | [RC\-20](https://open.spotify.com/album/6lcAWTaPj9p67z1uBPX2aS) | 3:24 |
+| 53 | [RC\-20](https://open.spotify.com/track/4D1lbXrMY3iNnTqmRlcN5t) | [ChiruP](https://open.spotify.com/artist/5vaqhKQFXVxNaLP5qXYjrs) | [RC\-20](https://open.spotify.com/album/6lcAWTaPj9p67z1uBPX2aS) | 3:24 |
 | 54 | [Love 4 Nothing](https://open.spotify.com/track/0lh5GtmD9YlFSh1oLXQNa2) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW) | [Equinox EP](https://open.spotify.com/album/0iU3raXR3MLIelOv5vFnmr) | 2:57 |
 | 55 | [Cartoon People](https://open.spotify.com/track/2VV2bUDMP4sWx1500SBaq4) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Cartoon People](https://open.spotify.com/album/4OLCEhgQysdCpVJkbz3gAT) | 3:33 |
 | 56 | [Goodbye](https://open.spotify.com/track/3bApjbLgcVRQOjgXSyIg5R) | [Grace Gillespie](https://open.spotify.com/artist/4owaayCKTzC8Y7PeADjuAk) | [Goodbye](https://open.spotify.com/album/7LhX8bhTNmCtuRLEYmzAh1) | 3:17 |

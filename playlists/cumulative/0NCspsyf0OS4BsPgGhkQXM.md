@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0NCspsyf0OS4BsPgGhkQXM.md) - cumulative - [plain](/playlists/plain/0NCspsyf0OS4BsPgGhkQXM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NCspsyf0OS4BsPgGhkQXM)
 
-### Trap Nation
+### [Trap Nation](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 

@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 162901,
       "name": "Ajena (with Myke Towers, Dylan Fuentes)",
       "url": "https://open.spotify.com/track/4KXtFUFmPObTROXShFLHZX"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 186087,
       "name": "Baila Conmigo (with Rauw Alejandro)",
       "url": "https://open.spotify.com/track/0D75ciM842cdUMKSMfAR9y"
@@ -465,7 +465,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 204563,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
@@ -487,6 +487,28 @@
       "duration_ms": 204600,
       "name": "Dile",
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "album": {
+        "name": "Easy (Remix)",
+        "url": "https://open.spotify.com/album/3Y00aLNDKDq9rXR3cIcbDo"
+      },
+      "artists": [
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220146,
+      "name": "Easy - Remix",
+      "url": "https://open.spotify.com/track/0Cn8NxJZz7zUlsaA3rXoIU"
     },
     {
       "album": {
@@ -523,7 +545,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 212416,
       "name": "EL PONY",
       "url": "https://open.spotify.com/track/3ymdUMzgylwrSfpxdlCUWV"
@@ -735,7 +757,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 162400,
       "name": "Guatauba",
       "url": "https://open.spotify.com/track/49BRJ7mvUjmT7zYYq64Z2d"
@@ -1143,7 +1165,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 152595,
       "name": "La Pared 360",
       "url": "https://open.spotify.com/track/2w8SKQCnT2YQK1qCqKl2uW"
@@ -1329,7 +1351,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/1AnJQd8TfkhK6M3VgZDVv1"
@@ -1425,7 +1447,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 187492,
       "name": "Me Reclama",
       "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
@@ -1557,7 +1579,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 211542,
       "name": "Mu\u00e9vete",
       "url": "https://open.spotify.com/track/6hWx6ly9alU4e3UXybN0EU"
@@ -1583,6 +1605,36 @@
       "duration_ms": 236731,
       "name": "M\u00e1s De La Una",
       "url": "https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq"
+    },
+    {
+      "album": {
+        "name": "Error 93",
+        "url": "https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305113,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/7DOh0tBGnyMt6C5OO7o8Yq"
     },
     {
       "album": {
@@ -1665,7 +1717,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
@@ -1851,7 +1903,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 184506,
       "name": "PROBLEMA",
       "url": "https://open.spotify.com/track/2dl5K2ScW7jYhAhuem06cm"
@@ -1891,7 +1943,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 184506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/1EyH5BK5Cx5XzQyEDks0fT"
@@ -2047,7 +2099,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 295176,
       "name": "Safaera",
       "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
@@ -2201,7 +2253,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 221520,
       "name": "Si No Le Contesto",
       "url": "https://open.spotify.com/track/6NdKkfo7o6IH1Op0jsBDjN"
@@ -2242,6 +2294,28 @@
     },
     {
       "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178407,
+      "name": "Singapur",
+      "url": "https://open.spotify.com/track/4QfZYDhGZc0T2RDvGiI69E"
+    },
+    {
+      "album": {
         "name": "S\u00fabelo",
         "url": "https://open.spotify.com/album/2l929YaQMj0eFvPMMB4xyq"
       },
@@ -2279,7 +2353,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 263899,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
@@ -2315,7 +2389,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 211436,
       "name": "Te Olvido",
       "url": "https://open.spotify.com/track/1ycIhjQ4fQp2WqNFpSDEcX"
@@ -2371,7 +2445,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
       "url": "https://open.spotify.com/track/2Gq636OOGgxCTqEuzCZhsa"

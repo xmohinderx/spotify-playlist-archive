@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 306920,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/5R1vxqzPxyA31YODI5nRIR"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 318653,
       "name": "Blue Sky Blues",
       "url": "https://open.spotify.com/track/4uNBtQq2SUcdnp2BK83TiV"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 189403,
       "name": "Call Me on Your Way Back Home",
       "url": "https://open.spotify.com/track/6VOvaFEQ6juSEiFPCQp4E7"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 132680,
       "name": "Dear Chicago",
       "url": "https://open.spotify.com/track/2J8P81JjKemQZczm1mfp3s"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 180640,
       "name": "Do Not Disturb",
       "url": "https://open.spotify.com/track/5a8eKLK3XvwrkgRXpchNAW"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 171666,
       "name": "Firecracker",
       "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 310346,
       "name": "Hotel Chelsea Nights",
       "url": "https://open.spotify.com/track/45EnbdDSEyfNd4xbGSLaBM"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 195440,
       "name": "How Much Light",
       "url": "https://open.spotify.com/track/3nXM6fSbUdWugKFCukr8ib"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 224053,
       "name": "I Wish You Would",
       "url": "https://open.spotify.com/track/7eoSnTRP8VbxcC4LvZdzn4"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 260105,
       "name": "In It For The Pleasure",
       "url": "https://open.spotify.com/track/7ef2egpnEu1ptiuASIHOwS"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 199813,
       "name": "It's So Quiet, It's Loud",
       "url": "https://open.spotify.com/track/3rX02HpSX4l5YZhdqvM4UW"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 579506,
       "name": "Nobody Girl",
       "url": "https://open.spotify.com/track/2YqjAMK5eeSkdnNBF7Omsm"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 151960,
       "name": "Oh My God, Whatever, Etc.",
       "url": "https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 186253,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/58Zr6jYL2DAeKhvq40Rzcb"
@@ -1142,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218363,
+      "name": "Why Do They Leave?",
+      "url": "https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO"
+    },
+    {
+      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA"
       },
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 321120,
       "name": "Wildest Dreams",
       "url": "https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt"

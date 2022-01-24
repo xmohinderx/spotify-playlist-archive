@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Dana Hourani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,178 likes - 49 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,225 likes - 49 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

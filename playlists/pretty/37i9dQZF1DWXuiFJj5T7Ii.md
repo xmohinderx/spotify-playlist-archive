@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuiFJj5T7Ii.md) - [plain]
 
 > The Top Hot Country tracks for 2021 in one playlist\. Cover: Kelsea Ballerini
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,266 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,469 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

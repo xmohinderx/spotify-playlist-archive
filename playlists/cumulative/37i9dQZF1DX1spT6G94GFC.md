@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [18 and Life](https://open.spotify.com/track/1HlGblweLq0eAwnb0NY1EQ) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Best Of](https://open.spotify.com/album/0D48ZbriW82M2GbOKCbd1G) | 3:51 | 2021-12-13 |  |
+| [18 and Life](https://open.spotify.com/track/1HlGblweLq0eAwnb0NY1EQ) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Best Of](https://open.spotify.com/album/0D48ZbriW82M2GbOKCbd1G) | 3:51 | 2021-12-13 | 2022-01-24 |
 | [Addicted To Love](https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu), [Eric 'ET' Thorngren](https://open.spotify.com/artist/0tO3KaRy0ZACd8XJYT3IX2) | [Riptide](https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd) | 6:03 | 2021-12-13 |  |
 | [Another One Bites The Dust \- Remastered 2011](https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:34 | 2021-12-13 |  |
 | [Any Way You Want It](https://open.spotify.com/track/2DyHhPyCZgZzNXn1IrtsTu) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 3:21 | 2021-12-13 |  |
@@ -21,7 +21,7 @@
 | [Don't Stand So Close To Me](https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:02 | 2021-12-13 |  |
 | [Don't Stop Believin'](https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 4:08 | 2021-12-13 |  |
 | [Don't You \(Forget About Me\)](https://open.spotify.com/track/4aWn4NHlELpOehxsBaQeoe) | [Simple Minds](https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj) | [Once Upon A Time \(Deluxe\)](https://open.spotify.com/album/2H2eNZClayR5jbgBa2iZx1) | 4:23 | 2021-12-13 |  |
-| [Dr Feelgood](https://open.spotify.com/track/3xGUsy7FZIOibMKrQGFnRH) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/0QWJ1Ja8a8Oxwc3TObJeJr) | 4:42 | 2021-12-13 | 2022-01-23 |
+| [Dr Feelgood](https://open.spotify.com/track/3xGUsy7FZIOibMKrQGFnRH) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/0QWJ1Ja8a8Oxwc3TObJeJr) | 4:42 | 2021-12-13 |  |
 | [Dude \(Looks Like A Lady\)](https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Permanent Vacation](https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp) | 4:25 | 2021-12-13 |  |
 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 5:29 | 2021-12-13 |  |
 | [Epic](https://open.spotify.com/track/4ReyTz0y3TGkX48wO3Llot) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 4:53 | 2021-12-13 |  |

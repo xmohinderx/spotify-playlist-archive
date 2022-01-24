@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Tiësto, Ava Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,332,550 likes - 87 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,333,462 likes - 87 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

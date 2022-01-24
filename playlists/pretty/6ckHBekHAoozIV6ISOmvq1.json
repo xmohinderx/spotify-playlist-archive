@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTQyMCw2ODljYWIzN2RmNGJiMmZlMGU4NGI1MWUwNDMzM2UxNDdmZGYxY2Rl",
+  "snapshot_id": "NTQyMSw0MjJiY2ExYTE4MTllNzAzOWUxZDUyNDZiODIxODlmYTBmMTZkZWJi",
   "tracks": [
     {
       "added_at": "2018-02-09 19:10:59",
@@ -591,30 +591,6 @@
     {
       "added_at": "2018-02-09 19:10:59",
       "album": {
-        "name": "Stylems, Italian Music from the \"Trecento\"",
-        "url": "https://open.spotify.com/album/6MBieZ3u5sK2f2cXEEsE5O"
-      },
-      "artists": [
-        {
-          "name": "Bartolino da Padova",
-          "url": "https://open.spotify.com/artist/1ziI4TT1t8OcM3GM6FIxuU"
-        },
-        {
-          "name": "Ensemble Syntagma",
-          "url": "https://open.spotify.com/artist/3ToTgFj2iZjuFj7mKUpejU"
-        },
-        {
-          "name": "Alexandre Danilevski",
-          "url": "https://open.spotify.com/artist/0jNPn5o1jz1EmhVf0pY0dX"
-        }
-      ],
-      "duration_ms": 250613,
-      "name": "Qual Lege Move",
-      "url": "https://open.spotify.com/track/7cvVJEiYabiPpOZULbcxM7"
-    },
-    {
-      "added_at": "2018-02-09 19:10:59",
-      "album": {
         "name": "Monastic Song - 12th Century Monophonic Chant",
         "url": "https://open.spotify.com/album/7n07ShJqqbwleoZnAZdCo3"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 372333,
       "name": "Abelard and Heloise, from Saint-Denis to the Paraclete Monastic Song: O quanta qualia",
       "url": "https://open.spotify.com/track/1kpbqlaqA1uwL8h7G1KEjb"
+    },
+    {
+      "added_at": "2018-02-09 19:10:59",
+      "album": {
+        "name": "Stylems, Italian Music from the \"Trecento\"",
+        "url": "https://open.spotify.com/album/6MBieZ3u5sK2f2cXEEsE5O"
+      },
+      "artists": [
+        {
+          "name": "Bartolino da Padova",
+          "url": "https://open.spotify.com/artist/1ziI4TT1t8OcM3GM6FIxuU"
+        },
+        {
+          "name": "Ensemble Syntagma",
+          "url": "https://open.spotify.com/artist/3ToTgFj2iZjuFj7mKUpejU"
+        },
+        {
+          "name": "Alexandre Danilevski",
+          "url": "https://open.spotify.com/artist/0jNPn5o1jz1EmhVf0pY0dX"
+        }
+      ],
+      "duration_ms": 250613,
+      "name": "Qual Lege Move",
+      "url": "https://open.spotify.com/track/7cvVJEiYabiPpOZULbcxM7"
     },
     {
       "added_at": "2018-06-22 13:49:07",

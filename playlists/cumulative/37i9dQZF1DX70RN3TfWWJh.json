@@ -339,7 +339,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 138733,
       "name": "Don't You Wanna Play?",
       "url": "https://open.spotify.com/track/15hhlasuVIxEZ3O0PxlRkT"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 212668,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 200861,
       "name": "Everybody Wants You",
       "url": "https://open.spotify.com/track/0xEz3xO1V18R3z9p2kni5C"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 146910,
       "name": "First Time",
       "url": "https://open.spotify.com/track/4L4lClgi5m2Itz6Fgt750F"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 231527,
       "name": "Just A Mess",
       "url": "https://open.spotify.com/track/24RCh9nhADnz72QwspioB6"
@@ -1067,6 +1067,24 @@
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
+    },
+    {
+      "album": {
+        "name": "Light Switch",
+        "url": "https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
     },
     {
       "album": {
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 167387,
       "name": "Love Turns Lonely",
       "url": "https://open.spotify.com/track/0HB4qYEELiwPoSzcG5kQj2"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 178625,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 156116,
       "name": "Miss U More Than U Know (with R3HAB)",
       "url": "https://open.spotify.com/track/7s61Kg0qZhhFj5MQW7DDIB"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 167232,
       "name": "Never A Good Time",
       "url": "https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 176283,
       "name": "No Judgement",
       "url": "https://open.spotify.com/track/5IUOU5xkzGHsRFOYNu3GSK"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 175244,
       "name": "Puppet",
       "url": "https://open.spotify.com/track/0H5fa5efEeedloCGpTvst4"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 160289,
       "name": "Summer Feelings (feat. Charlie Puth)",
       "url": "https://open.spotify.com/track/7l7SKt5BsDiiS6CjtaW1fO"

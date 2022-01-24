@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q67ZpWyRrZ.md) - [plain]
 
 > The best of the country's independent artists\. Cover: Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,785 likes - 90 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,534 likes - 90 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

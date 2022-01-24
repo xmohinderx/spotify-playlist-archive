@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4kw9kdjzx1UmyWvpysl0y2.md) - cumulative - [plain](/playlists/plain/4kw9kdjzx1UmyWvpysl0y2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4kw9kdjzx1UmyWvpysl0y2)
 
-### New Music Weekly \| Monstercat
+### [New Music Weekly \| Monstercat](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 > Brand new music from Monstercat, all in one place.
 

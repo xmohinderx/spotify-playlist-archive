@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Youngboy Never Broke Again, 2 Chainz, and more\. Cover: DaBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,251 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,412 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

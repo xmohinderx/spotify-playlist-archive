@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 190053,
       "name": "Casual (YTQDV)",
       "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
@@ -257,10 +257,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 224337,
       "name": "c\u00f3mo acaba",
       "url": "https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7"
+    },
+    {
+      "album": {
+        "name": "De Una Vez",
+        "url": "https://open.spotify.com/album/5vGdWMt1oHMAKGiwkZ8H6E"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155956,
+      "name": "De Una Vez",
+      "url": "https://open.spotify.com/track/0HC6S4VpCGAZvyxTdrMRIQ"
     },
     {
       "album": {
@@ -431,7 +449,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 214148,
       "name": "Est\u00e1 Da\u00f1ada",
       "url": "https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR"
@@ -713,7 +731,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 185058,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/3qyeBuydjVtFbuJA0EAjC4"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 173040,
       "name": "Quiero Que Me Quieras",
       "url": "https://open.spotify.com/track/2DY9oBfNiuMqZvTG11NmlF"
@@ -1000,6 +1018,28 @@
     },
     {
       "album": {
+        "name": "Secreto de cuatro paredes (Acoustic)",
+        "url": "https://open.spotify.com/album/2daH3BSfGuBwS6dQeAjPR3"
+      },
+      "artists": [
+        {
+          "name": "GomaSlash",
+          "url": "https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP"
+        },
+        {
+          "name": "MemoDz",
+          "url": "https://open.spotify.com/artist/36oVDZLr9ROLk0pTLwRmUj"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Secreto de cuatro paredes - Acoustic",
+      "url": "https://open.spotify.com/track/7xjBDln5bwCNcqWpGzYk3Y"
+    },
+    {
+      "album": {
         "name": "Sensei",
         "url": "https://open.spotify.com/album/4UmvMCp8mznPpqY65qKz5X"
       },
@@ -1011,7 +1051,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 174680,
       "name": "Sensei",
       "url": "https://open.spotify.com/track/2KZPFCkQWT7Wt6OS4bPaF6"
@@ -1029,7 +1069,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 207248,
       "name": "Serenata",
       "url": "https://open.spotify.com/track/5PNHCkbPiOU6OkBTtTgROz"
@@ -1201,7 +1241,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 216958,
       "name": "Tqm",
       "url": "https://open.spotify.com/track/1vLoNyIDBKikOd8jNMAEOs"

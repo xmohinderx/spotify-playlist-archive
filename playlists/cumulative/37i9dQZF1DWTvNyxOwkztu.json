@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 157358,
       "name": "1984",
       "url": "https://open.spotify.com/track/0BhUDBjyi50j1kDfJLsyys"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 120000,
       "name": "9 PM",
       "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 122076,
       "name": "Adore",
       "url": "https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 168521,
       "name": "Bangkok",
       "url": "https://open.spotify.com/track/1WzL0kZk3j5lCse7JgF3qV"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 161590,
       "name": "Carte blanche",
       "url": "https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 146941,
       "name": "Codes In The Clouds",
       "url": "https://open.spotify.com/track/32MJvuJdVdfRItTDljrP9X"
@@ -615,6 +615,24 @@
       "duration_ms": 242086,
       "name": "Deviation",
       "url": "https://open.spotify.com/track/5jAFlzqIDDBJzer8jIrNXT"
+    },
+    {
+      "album": {
+        "name": "Dire, Dire Docks",
+        "url": "https://open.spotify.com/album/22BuW6nNJDBDOsRfUIXU8g"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157846,
+      "name": "Dire, Dire Docks",
+      "url": "https://open.spotify.com/track/6RNny5ViT14jcQsgh8Eb6J"
     },
     {
       "album": {
@@ -845,7 +863,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 239394,
       "name": "Goldclap",
       "url": "https://open.spotify.com/track/1lDEM6ESKlPj3wFBTtZ8Z8"
@@ -1030,6 +1048,24 @@
     },
     {
       "album": {
+        "name": "Ipanema",
+        "url": "https://open.spotify.com/album/1hCZk8eJdYdtNogEsWGbGq"
+      },
+      "artists": [
+        {
+          "name": "Pureblue",
+          "url": "https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124736,
+      "name": "Ipanema",
+      "url": "https://open.spotify.com/track/4nXjQX3YnsTsKNJucIK1Vo"
+    },
+    {
+      "album": {
         "name": "Huaraz",
         "url": "https://open.spotify.com/album/6ftAYnNp49bHhRi9ODzOvf"
       },
@@ -1113,7 +1149,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 205255,
       "name": "Liftoff",
       "url": "https://open.spotify.com/track/3uTGlHyPwijzXFQoMaROt1"
@@ -1149,7 +1185,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 115188,
       "name": "Looking for You",
       "url": "https://open.spotify.com/track/4Hh6lJfX2pOVPqdfJ8GmZv"
@@ -1257,7 +1293,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 126000,
       "name": "Maze",
       "url": "https://open.spotify.com/track/3fG4uUJ8yTCfe9KHUQM45W"
@@ -1301,6 +1337,24 @@
       "duration_ms": 193032,
       "name": "Moments of Clarity",
       "url": "https://open.spotify.com/track/4cL7JffDg7AHPOBTzKeN7R"
+    },
+    {
+      "album": {
+        "name": "Morning Workout",
+        "url": "https://open.spotify.com/album/1rkT9Y5aXjnyBW44DhAh2L"
+      },
+      "artists": [
+        {
+          "name": "Luca Tong",
+          "url": "https://open.spotify.com/artist/78nTrXqznv6NYSjGy1dLfl"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162597,
+      "name": "Morning Workout",
+      "url": "https://open.spotify.com/track/4ZWO4l9zqiT7S35qjvusjE"
     },
     {
       "album": {
@@ -1423,7 +1477,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 132857,
       "name": "NiteGlow",
       "url": "https://open.spotify.com/track/6gqP0LdF7lG1jPC9stICPQ"
@@ -1441,7 +1495,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 179478,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR"
@@ -1477,7 +1531,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 131320,
       "name": "Off Grid Lullaby",
       "url": "https://open.spotify.com/track/36Qu69Yh1qYjj03A1J6k2R"
@@ -1513,7 +1567,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 111272,
       "name": "On The Cloud",
       "url": "https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm"
@@ -1571,7 +1625,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 217043,
       "name": "Palm Beach",
       "url": "https://open.spotify.com/track/6nR1DVH1bd69bmDlrjDNvf"
@@ -1935,7 +1989,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 144905,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/45E6bRQfFgG71K6A0uwPsW"
@@ -2007,7 +2061,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 194285,
       "name": "Sun Road",
       "url": "https://open.spotify.com/track/25R1QCYHhETbO5552Hxl4W"
@@ -2097,7 +2151,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 148211,
       "name": "Sunsets & Birds",
       "url": "https://open.spotify.com/track/3meIBFSPh9Ub6zloZRFhuQ"
@@ -2263,7 +2317,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 162760,
       "name": "Under Water",
       "url": "https://open.spotify.com/track/0Oq4dCN4vvEVGX6T0XQ7Ge"
@@ -2411,7 +2465,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 151525,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6OzvLRbIvjLPJs5lN7MeaM"
@@ -2469,6 +2523,24 @@
       "duration_ms": 188281,
       "name": "White Sand",
       "url": "https://open.spotify.com/track/6SDgWPio1gMsTmYzRKjVAs"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj"
+      },
+      "artists": [
+        {
+          "name": "N\u00e4ver",
+          "url": "https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187075,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax"
     },
     {
       "album": {

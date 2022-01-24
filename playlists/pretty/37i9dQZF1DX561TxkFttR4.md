@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX561TxkFttR4.md) - [plain]
 
 > A song for every key on the piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,367 likes - 99 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,448 likes - 99 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

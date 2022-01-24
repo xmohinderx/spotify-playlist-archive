@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits of the week, worldwide! Cover: Walker Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,701,606 likes - 52 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,702,357 likes - 52 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

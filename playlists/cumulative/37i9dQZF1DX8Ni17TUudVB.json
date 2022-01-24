@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 143040,
       "name": "50 Days",
       "url": "https://open.spotify.com/track/0bLgmoLTwCWOausnxpHfGw"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 199047,
       "name": "AGEN WIDA",
       "url": "https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 122975,
       "name": "Bad at Drugs",
       "url": "https://open.spotify.com/track/6UQyMXIwfvl7CSPh2PYrMa"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 179016,
       "name": "Color",
       "url": "https://open.spotify.com/track/39yvrvJ9J6s485e2zG9DBL"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 204535,
       "name": "Control Your Mind",
       "url": "https://open.spotify.com/track/04Kj7WmPnRBNSrf9jPhKI3"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 326887,
       "name": "Five Hours",
       "url": "https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 190240,
       "name": "I Don't Want You",
       "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
@@ -1279,7 +1279,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 280645,
       "name": "La Rana",
       "url": "https://open.spotify.com/track/1Cv6h7fvpqwwhwzFghwfwP"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 139354,
       "name": "Leave Me",
       "url": "https://open.spotify.com/track/4HwCOHAttt18YbphVEt2Tc"
@@ -1366,6 +1366,24 @@
     },
     {
       "album": {
+        "name": "Lone Wolf",
+        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256500,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
+    },
+    {
+      "album": {
         "name": "Lose Control (The Remixes, Pt. 2)",
         "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 153303,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
@@ -1542,6 +1560,24 @@
     },
     {
       "album": {
+        "name": "P&P",
+        "url": "https://open.spotify.com/album/75TXKSwH0CZ0iXHDHW6e1S"
+      },
+      "artists": [
+        {
+          "name": "Faruk Orman",
+          "url": "https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127804,
+      "name": "P&P",
+      "url": "https://open.spotify.com/track/1Dg9uEReIZnjuOSOQk5qWU"
+    },
+    {
+      "album": {
         "name": "Panda",
         "url": "https://open.spotify.com/album/0WTcHPgqhJrd5WsyknBepl"
       },
@@ -1553,7 +1589,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 200017,
       "name": "Panda",
       "url": "https://open.spotify.com/track/5fO5BPkXwoANEc7jJX9oIk"
@@ -1597,7 +1633,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 199189,
       "name": "Path",
       "url": "https://open.spotify.com/track/3hClhC3QFXTmlkXW9gBDP9"
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 227592,
       "name": "Quarters",
       "url": "https://open.spotify.com/track/3hbGUFRmdqoRHFMP7yutxN"
@@ -1717,7 +1753,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 216500,
       "name": "Ramen Machine",
       "url": "https://open.spotify.com/track/1QuNDRaNKEHNPrd75eBTpk"
@@ -1943,7 +1979,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 278767,
       "name": "Show Me Love - Kryder & Tom Staar Remix",
       "url": "https://open.spotify.com/track/6iplImDoHCSM74kGVVKARL"
@@ -1983,7 +2019,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 216000,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/14qkKbAfG7tYYrgtlZXZFr"
@@ -2013,7 +2049,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 367595,
       "name": "Sonne",
       "url": "https://open.spotify.com/track/1YRcnz76HV4akHIgtUsskx"
@@ -2171,7 +2207,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-24",
       "duration_ms": 150160,
       "name": "Unlove You",
       "url": "https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX"
