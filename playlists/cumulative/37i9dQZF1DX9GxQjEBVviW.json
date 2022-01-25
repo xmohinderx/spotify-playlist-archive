@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 147563,
       "name": "A Casual Look",
       "url": "https://open.spotify.com/track/5AEQIUw4f0Sbpjm5HFFLD5"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 174200,
       "name": "Daddy's Home",
       "url": "https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 192066,
       "name": "I'm On The Outside (Looking In)",
       "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 129333,
       "name": "Little Darlin'",
       "url": "https://open.spotify.com/track/0f7JTPN46BnWiRGb5A1fft"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 192106,
       "name": "Little Girl of Mine",
       "url": "https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 138814,
       "name": "Look into My Eyes",
       "url": "https://open.spotify.com/track/4VcYXEr0gaRPK9V5KDDjX7"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 148932,
       "name": "Peanuts",
       "url": "https://open.spotify.com/track/6ry1RZr2O3f1SziP3Vs6kJ"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 134586,
       "name": "There Goes My Baby - Rerecorded",
       "url": "https://open.spotify.com/track/3ntA3FI3FR18yPO9snKvZ3"
@@ -1071,7 +1071,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 177893,
       "name": "When You Dance",
       "url": "https://open.spotify.com/track/4rXndJbjTYZ4ISX3pBGxfL"
@@ -1147,6 +1147,24 @@
       "duration_ms": 170186,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7"
+    },
+    {
+      "album": {
+        "name": "Zoom Zoom Zoom - Single",
+        "url": "https://open.spotify.com/album/1P3tvYyZ40LS5DhAJASjfn"
+      },
+      "artists": [
+        {
+          "name": "The Collegians",
+          "url": "https://open.spotify.com/artist/6l5YiEwurRr8zsnOyhJB4g"
+        }
+      ],
+      "date_added": "2021-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149586,
+      "name": "Zoom Zoom Zoom",
+      "url": "https://open.spotify.com/track/6xLW0o4fWTYbslOIDaJBOw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9GxQjEBVviW"

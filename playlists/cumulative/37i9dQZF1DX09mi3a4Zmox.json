@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 195746,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/5GxyKXhr5OyFJqoM4Vs5Vh"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 210466,
       "name": "Como Han Pasado los A\u00f1os (with Julio Iglesias)",
       "url": "https://open.spotify.com/track/5PuY7F2jpk1yuD3ZNvzT85"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 258093,
       "name": "Completamente Enamorados",
       "url": "https://open.spotify.com/track/1zU6PCdQxUu1tMT5xbc6x5"
@@ -481,6 +481,24 @@
       "duration_ms": 195946,
       "name": "Cuando T\u00fa Me Besas",
       "url": "https://open.spotify.com/track/04OjZcQ3hQABzBqBrVG7Yx"
+    },
+    {
+      "album": {
+        "name": "De la Ilusi\u00f3n Al Miedo",
+        "url": "https://open.spotify.com/album/05NWvM3z8QlJCUqhQATFjx"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "De la Ilusi\u00f3n Al Miedo",
+      "url": "https://open.spotify.com/track/4lDk4a22gI0UoqhX408lRN"
     },
     {
       "album": {
@@ -699,7 +717,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 218232,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/4tRFdhdqMUkGfnAkis3lNv"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 159172,
       "name": "Eso Y M\u00e1s",
       "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
@@ -771,7 +789,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 232280,
       "name": "Estar contigo",
       "url": "https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 238853,
       "name": "Me Quiero Enamorar",
       "url": "https://open.spotify.com/track/067JcAkvpQ3CLUrrgbuJGI"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 232360,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i"
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 238628,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad"
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 191054,
       "name": "Un Amor Eterno - Versi\u00f3n Balada",
       "url": "https://open.spotify.com/track/3TuXuyfd6XjIShhPQAo21I"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 190605,
       "name": "Una y Otra Vez",
       "url": "https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G"

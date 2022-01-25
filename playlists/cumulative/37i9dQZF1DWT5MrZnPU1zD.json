@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 169577,
       "name": "1995",
       "url": "https://open.spotify.com/track/5KFqBLIITjlM6fhYhBnBzC"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 202560,
       "name": "BANKROLL (feat. A$AP Rocky & A$AP Ferg)",
       "url": "https://open.spotify.com/track/3MK6OsCb4VJGdPxvXjW8Q9"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 152024,
       "name": "Betrayal (feat. Drake)",
       "url": "https://open.spotify.com/track/4mOkfIYbMX9PXx27hj8NTi"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 132182,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/1t741g1kw8T5lvupCmgddl"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 162426,
       "name": "Can\u2019t Feel Shit",
       "url": "https://open.spotify.com/track/3ZzK2zxMeVGdsiP00OZuqS"
@@ -777,7 +777,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 251733,
       "name": "Clash (feat. Stormzy)",
       "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 168004,
       "name": "Clean",
       "url": "https://open.spotify.com/track/2fDG6nBpw0WHVoycB20KeP"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 173269,
       "name": "CLEAR",
       "url": "https://open.spotify.com/track/3mVq27OXpmeldieDWOP2gx"
@@ -1005,7 +1005,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Dead Broke",
       "url": "https://open.spotify.com/track/6CwjgmFdMX6FKzmV2oB7SY"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 242600,
       "name": "Diamonds Dancing (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/7uZqvqXzzYMKrexKxdcGmd"
@@ -1485,7 +1485,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 189306,
       "name": "From The Garden (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/4ONKRd9fnjK2olJ3VTFf9G"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 125200,
       "name": "Gordon R Freestyle",
       "url": "https://open.spotify.com/track/0pYJaPb80f8Ye86b2qXurN"
@@ -1627,6 +1627,24 @@
       "duration_ms": 200625,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4s1jFrwMEinuKwgp9rH9kP"
+    },
+    {
+      "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157779,
+      "name": "G\u00ebt Busy",
+      "url": "https://open.spotify.com/track/20O48JTG6O46tPAuZbliRA"
     },
     {
       "album": {
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 136150,
       "name": "HUNNIDDOLLA",
       "url": "https://open.spotify.com/track/4cOdRhWoQg8wrtggw6YZLY"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 180325,
       "name": "Ice Water (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/2RTkEYOLYDQtjWFGNZtvpT"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 152896,
       "name": "Jumpstart",
       "url": "https://open.spotify.com/track/3sh1pNaWKKqXQd4BKYKSwG"
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 208675,
       "name": "Majin Buu",
       "url": "https://open.spotify.com/track/7IrbvK5Z6IDXvTQel8F94i"
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4"
@@ -2681,7 +2699,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 241790,
       "name": "Modern Day",
       "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
@@ -2717,7 +2735,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 142520,
       "name": "Money On Me",
       "url": "https://open.spotify.com/track/2OAZWC4eQR6b1DWrjmZldh"
@@ -2753,7 +2771,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 164075,
       "name": "MY STORY (DLOG)",
       "url": "https://open.spotify.com/track/6KUNUUH9IR3RBoBSWvNqfW"
@@ -3157,7 +3175,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 145897,
       "name": "PradadaBang",
       "url": "https://open.spotify.com/track/7zg97q1UQyQgIhhrAEke45"
@@ -3269,7 +3287,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 129065,
       "name": "Red",
       "url": "https://open.spotify.com/track/1xkjDgAeD0aNxGrS36W0Fn"
@@ -3389,7 +3407,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 154718,
       "name": "Rule #1 (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/4apWaVWfqRac78ec6L5bJn"
@@ -3437,7 +3455,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "Sangria (feat. Denzel Curry)",
       "url": "https://open.spotify.com/track/2fG0gdRKdTjyxYkTydQEv9"
@@ -3671,7 +3689,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 154225,
       "name": "Solar System",
       "url": "https://open.spotify.com/track/0QfHd0erwsF5oTFiWetfsr"
@@ -3809,7 +3827,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 102857,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/2iJjs5CPZCgsAY368q23OA"
@@ -4411,7 +4429,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 198960,
       "name": "Ziplock",
       "url": "https://open.spotify.com/track/2RmENPt0yPmU09BKjKC26M"

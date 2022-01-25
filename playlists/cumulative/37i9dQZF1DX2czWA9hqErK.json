@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 239999,
       "name": "13",
       "url": "https://open.spotify.com/track/37QXzne15rRBcDgW1CLJ2U"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 171329,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/3p3gtW1UzNZs1sGEtrNN2N"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 228798,
       "name": "Call Me A Dreamer",
       "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 227076,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0SXtIKwGuLlHJ7Q7gwo0Te"
@@ -744,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Confessions of a Lonely Heart",
+        "url": "https://open.spotify.com/album/3AcdIC0iguxQRnrOx677k7"
+      },
+      "artists": [
+        {
+          "name": "Tom King",
+          "url": "https://open.spotify.com/artist/3wmFlsEi0UJSvM8vwbO9oT"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214306,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/2jA0WVcVDWXfbTdZeI0GsN"
+    },
+    {
+      "album": {
         "name": "Fall Before You",
         "url": "https://open.spotify.com/album/5e5rbk3D4QUO5XlEUs6m9e"
       },
@@ -755,7 +773,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 167943,
       "name": "Fall Before You",
       "url": "https://open.spotify.com/track/1Nq0NBvGr3uPtKu0IhhBWM"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 169453,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 220171,
       "name": "Happier Without Me",
       "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 201135,
       "name": "Highs And The Lows",
       "url": "https://open.spotify.com/track/57F4g2ejOTNNwOi096ygMw"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 366004,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 197104,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/5ZUVTwOlbNCsz8be7oe8yp"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 224093,
       "name": "Lost Keys",
       "url": "https://open.spotify.com/track/2UFnAnx5ZC0RgCqVSlA1Zj"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 275113,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5HzQDTbgRVfDgjxgwQ6lmt"
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 154186,
       "name": "More of You",
       "url": "https://open.spotify.com/track/3KwddnMagr7xnFFZTb4t7Z"
@@ -1895,6 +1913,24 @@
       "duration_ms": 177365,
       "name": "NUMB",
       "url": "https://open.spotify.com/track/4J4IxNIFuulURHUKLGZezs"
+    },
+    {
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/6P6bvjFhmPgPYMCt8YTpca"
+      },
+      "artists": [
+        {
+          "name": "Olivia Nelson",
+          "url": "https://open.spotify.com/artist/4QJrAwNc5j17E5N2PxpqGj"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198653,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/09q4ALH4QxYkoBaPFy4AKg"
     },
     {
       "album": {
@@ -2487,7 +2523,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 181900,
       "name": "Stay",
       "url": "https://open.spotify.com/track/424m0YnbIl5oLOS2SQiIXi"
@@ -2883,7 +2919,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 201264,
       "name": "Worst Ways",
       "url": "https://open.spotify.com/track/3Vyg7aVSl2vOMSSw5X11pD"
@@ -2955,7 +2991,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 176533,
       "name": "You",
       "url": "https://open.spotify.com/track/3D22Pu7OtwnStfE2t2xFPN"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27DJRLhzQiD.md) - [plain]
 
 > ¡Mujeres peruanas a todo volumen! En portada: Yahaira Plasencia
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,189 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,213 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

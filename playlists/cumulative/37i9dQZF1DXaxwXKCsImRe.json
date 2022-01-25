@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: De Staat",
+  "description": "Exciting artists on the RADAR from the Benelux and beyond. Cover: Emma Bale",
   "name": "RADAR BNLX",
   "published_playlist_ids": [
     "5PI9N3InPPtYz6UBLMEA8w"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Sycamore Redux",
+        "url": "https://open.spotify.com/album/6ZMmz3oxPCor3rI0Nrx5re"
+      },
+      "artists": [
+        {
+          "name": "Drew Sycamore",
+          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143275,
+      "name": "45 Fahrenheit Girl - Acoustic",
+      "url": "https://open.spotify.com/track/4LNvWLzX0GFVaqNJP1cwsn"
+    },
     {
       "album": {
         "name": "A Little Greener",
@@ -218,6 +236,46 @@
     },
     {
       "album": {
+        "name": "chapters of you",
+        "url": "https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "dejavu",
+      "url": "https://open.spotify.com/track/4GwIJFFipIzqF6ZvQ9vZd7"
+    },
+    {
+      "album": {
+        "name": "Divide (feat. Promis3)",
+        "url": "https://open.spotify.com/album/06Fh29APHSqF8pQvbxYy0W"
+      },
+      "artists": [
+        {
+          "name": "Emma Bale",
+          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
+        },
+        {
+          "name": "Promis3",
+          "url": "https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214026,
+      "name": "Divide (feat. Promis3)",
+      "url": "https://open.spotify.com/track/6xAt3TGyEhAkWJsJggwA27"
+    },
+    {
+      "album": {
         "name": "Een Teken",
         "url": "https://open.spotify.com/album/5JRilfWaLp7MmGybgpS04Q"
       },
@@ -420,6 +478,28 @@
     },
     {
       "album": {
+        "name": "No Heartbreaks",
+        "url": "https://open.spotify.com/album/6QzGa63zg83NsFzqZGznBz"
+      },
+      "artists": [
+        {
+          "name": "TY:DEL",
+          "url": "https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH"
+        },
+        {
+          "name": "Khai Zhen",
+          "url": "https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153454,
+      "name": "No Heartbreaks",
+      "url": "https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS"
+    },
+    {
+      "album": {
         "name": "Numbers Up",
         "url": "https://open.spotify.com/album/5nV448yp33kVXzPAZ2BwwU"
       },
@@ -555,6 +635,24 @@
       "duration_ms": 350413,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/1Ey1TMpXKQY7rlJ0ZuNc50"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/0mdge9D2gBA10epxNEXjLS"
+      },
+      "artists": [
+        {
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2ApL6VOKSrkgQpReK9CNSo"
     },
     {
       "album": {

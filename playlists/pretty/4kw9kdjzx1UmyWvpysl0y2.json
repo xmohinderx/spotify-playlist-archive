@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127629,
+  "num_followers": 127627,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzIwMSxhMmY1YjgzNzQ2NDEzNjFlNjY1ZmE2ODVkOTYxZGFkN2IzOWFiN2Q5",
+  "snapshot_id": "MzIwOSw2ZDYxMzUwMjJlYmQ4NzlkMTcwNzEyYmRlZTZiOGFkNWZhMmE5OTg1",
   "tracks": [
+    {
+      "added_at": "2022-01-24 17:22:40",
+      "album": {
+        "name": "BITTERSWEET",
+        "url": "https://open.spotify.com/album/3ezjk2cPYZe3qvfzxVF1kn"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "BITTERSWEET",
+      "url": "https://open.spotify.com/track/0Ip4mtMZFwXD7EMTLROWw9"
+    },
     {
       "added_at": "2022-01-21 17:37:45",
       "album": {
@@ -1119,62 +1139,6 @@
       "duration_ms": 222724,
       "name": "TROUBLEMAKER",
       "url": "https://open.spotify.com/track/6mo88PgAWke0VsVbFmABoT"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Read Your Lips",
-        "url": "https://open.spotify.com/album/4a3UmNTVGw42B39bLhKfZb"
-      },
-      "artists": [
-        {
-          "name": "DEXTER KING",
-          "url": "https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO"
-        },
-        {
-          "name": "Donna Tella",
-          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
-        }
-      ],
-      "duration_ms": 207770,
-      "name": "Read Your Lips",
-      "url": "https://open.spotify.com/track/7Hvefk37fvqZBtnDlp6ux9"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Uatchu",
-        "url": "https://open.spotify.com/album/2Kdrhi2A9RY0gmB2yyBPUw"
-      },
-      "artists": [
-        {
-          "name": "Enviado Vida",
-          "url": "https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8"
-        }
-      ],
-      "duration_ms": 277000,
-      "name": "Uatchu",
-      "url": "https://open.spotify.com/track/4eUX2nKYBGSbknXF6zoRgj"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Locked Away",
-        "url": "https://open.spotify.com/album/6GeCiqBk5lBVg1pSY4MCBF"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "Courtney Drummey",
-          "url": "https://open.spotify.com/artist/4sF2Kkq3hn0yTEGTNfanGl"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Locked Away",
-      "url": "https://open.spotify.com/track/4dDsN26EhF826uDrYz5BkX"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

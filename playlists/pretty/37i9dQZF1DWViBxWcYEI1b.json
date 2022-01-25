@@ -1,12 +1,12 @@
 {
   "description": "For those with a taste for both the new and the classic. Cover: Adele",
-  "num_followers": 340097,
+  "num_followers": 340177,
   "original_name": "Contemporary Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc4MjIyOCwwMDAwMDMwNTAwMDAwMTdlN2Q3MzgxNmMwMDAwMDE3ZTU2YWE1YTIw",
+  "snapshot_id": "MTY0MzA1NzQ0OCwwMDAwMDMwNjAwMDAwMTdlOGRkYjA0YTEwMDAwMDE3ZTU2YWE1YTIw",
   "tracks": [
     {
       "added_at": "2022-01-21 16:23:48",
@@ -291,26 +291,6 @@
     {
       "added_at": "2022-01-21 16:23:48",
       "album": {
-        "name": "If You Love Her (feat. Meghan Trainor)",
-        "url": "https://open.spotify.com/album/2pOzE1qc9Yt3cspartxYl2"
-      },
-      "artists": [
-        {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
-        },
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 215832,
-      "name": "If You Love Her - feat. Meghan Trainor",
-      "url": "https://open.spotify.com/track/3yuIvz5stb9v9cljhZ5Zas"
-    },
-    {
-      "added_at": "2022-01-21 16:23:48",
-      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 181945,
       "name": "A LOT",
       "url": "https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H"
+    },
+    {
+      "added_at": "2022-01-21 16:23:48",
+      "album": {
+        "name": "If You Love Her (feat. Meghan Trainor)",
+        "url": "https://open.spotify.com/album/2pOzE1qc9Yt3cspartxYl2"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 215832,
+      "name": "If You Love Her - feat. Meghan Trainor",
+      "url": "https://open.spotify.com/track/3yuIvz5stb9v9cljhZ5Zas"
     },
     {
       "added_at": "2022-01-21 16:23:48",

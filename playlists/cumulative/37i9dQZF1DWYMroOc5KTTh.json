@@ -49,7 +49,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 200597,
       "name": "2.",
       "url": "https://open.spotify.com/track/3ahMoKvNOADvZ8zD0MNLLC"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 227840,
       "name": "A Good Place",
       "url": "https://open.spotify.com/track/63Z07zVXKkyankXjpmFEfr"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 289670,
       "name": "Ain't Got Time",
       "url": "https://open.spotify.com/track/7lMFOSEJQiMIyXYaEhqJBT"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 229090,
       "name": "Big Bad Mood (feat. Miraa May)",
       "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 179293,
       "name": "Body",
       "url": "https://open.spotify.com/track/0eh14ZZmEHKKOdZvYbFUxF"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Body Positivity",
       "url": "https://open.spotify.com/track/6KSjdSoFDgKHbGvB3Lzi2R"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 271475,
       "name": "Burnt Orange - Edit",
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 254871,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 250862,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2uRCNWP7u6JSo1ypJ7qJMx"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 245601,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 471600,
       "name": "Does It Make You Feel Good? - Greg Wilson & Ch\u00e9 Wilson Remix",
       "url": "https://open.spotify.com/track/0uMJP6WWpVirk5V7SsIV42"
@@ -710,6 +710,24 @@
     },
     {
       "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/7jYctOB5Ufgl737FrbOp8N"
+      },
+      "artists": [
+        {
+          "name": "TWOGOOD",
+          "url": "https://open.spotify.com/artist/0734HdQDEd3Mc0olQ4DsCt"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242950,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1Gbxb38eHmx9SHTS6vTwQ5"
+    },
+    {
+      "album": {
         "name": "Drink This Water",
         "url": "https://open.spotify.com/album/4tYh0VLwVKu5g7dNHUhIWt"
       },
@@ -739,7 +757,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 126700,
       "name": "Duo",
       "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 245579,
       "name": "Emotion feat. Wild Nothing",
       "url": "https://open.spotify.com/track/5DnmZd2ZVkWPL4QcZYJwfs"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 197760,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/1qCRRwWO8r7SPnwqWsH8iv"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 170375,
       "name": "Fruit Punch",
       "url": "https://open.spotify.com/track/5OKuigqDZttO0FSkKVF3tB"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 230551,
       "name": "Greatest Love - Edit",
       "url": "https://open.spotify.com/track/6wmtEikDlY2JbV0nlrscxy"
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 425136,
       "name": "In Due Time",
       "url": "https://open.spotify.com/track/6RJwd1g1aVRSCBQW2PJxPq"
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 201884,
       "name": "Jessica",
       "url": "https://open.spotify.com/track/41H2fON7xrNirxSmbEgPVR"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 164874,
       "name": "Joyfulness - Radio Edit",
       "url": "https://open.spotify.com/track/1AUYOL4vebY2yB5aVYzHZH"
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 368244,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/2lM5HZRi3mlxbFnmQ2oDXe"
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 281200,
       "name": "Missing (feat. Andreya Triana & Ben Westbeech)",
       "url": "https://open.spotify.com/track/5tBKJQuTSZcT50MXdJ5HYu"
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 263878,
       "name": "Ndeko Solo",
       "url": "https://open.spotify.com/track/3fsaBPSlFoPMx3hnO0vmL9"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 208932,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/5yytwVZPUCRxeXPSTPdCUX"
@@ -2187,7 +2205,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 260131,
       "name": "Rays Above",
       "url": "https://open.spotify.com/track/0JdMj1XfhcCMOoDeSVDMDB"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 239677,
       "name": "Second Story Sunlight",
       "url": "https://open.spotify.com/track/0Eo3XP7EprBsturqNahuJ7"
@@ -2613,7 +2631,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 186521,
       "name": "Sun",
       "url": "https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0"
@@ -2791,7 +2809,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 252693,
       "name": "U Already Know",
       "url": "https://open.spotify.com/track/5sUWfe7eSoapj9d6zgjJEe"
@@ -2929,7 +2947,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 400866,
       "name": "We Found It (feat. Bakar)",
       "url": "https://open.spotify.com/track/0tksfbNUnGKvpGI9FtHmKO"

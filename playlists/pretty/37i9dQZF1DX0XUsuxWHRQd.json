@@ -1,13 +1,29 @@
 {
   "description": "New music from YoungBoy Never Broke Again, DaBaby and 2 Chainz. ",
-  "num_followers": 14302030,
+  "num_followers": 14303517,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc0MTIwMCwwMDAwMDYyMDAwMDAwMTdlN2IwMTc1MTMwMDAwMDE3ZTc0ODI1MmNj",
+  "snapshot_id": "MTY0MzA0NDYwMywwMDAwMDYyMTAwMDAwMTdlOGQxNzA1MzAwMDAwMDE3ZTc0ODI1MmNj",
   "tracks": [
+    {
+      "added_at": "2021-11-19 05:01:34",
+      "album": {
+        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
+        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+    },
     {
       "added_at": "2022-01-07 05:00:00",
       "album": {
@@ -33,78 +49,6 @@
       "url": "https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "HIT",
-        "url": "https://open.spotify.com/album/03ckoZhTfbWybngUkIHqWv"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 125498,
-      "name": "HIT",
-      "url": "https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ"
-    },
-    {
-      "added_at": "2021-11-19 05:01:34",
-      "album": {
-        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
-        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Super Gremlin",
-      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
-        "url": "https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
-    },
-    {
-      "added_at": "2021-12-17 05:08:41",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "25 million",
-      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
-    },
-    {
       "added_at": "2021-12-10 05:02:48",
       "album": {
         "name": "B4 AVA",
@@ -121,104 +65,20 @@
       "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
     },
     {
-      "added_at": "2022-01-07 05:00:00",
+      "added_at": "2021-12-17 05:08:41",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 167840,
-      "name": "thought i was playing",
-      "url": "https://open.spotify.com/track/3XLbDUB5BX2WqL2qoAsvtb"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Pop Music",
-        "url": "https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "BeatKing",
-          "url": "https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4"
-        }
-      ],
-      "duration_ms": 125373,
-      "name": "Pop Music (feat. Moneybagg Yo & Beatking)",
-      "url": "https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour"
-    },
-    {
-      "added_at": "2022-01-20 05:30:35",
-      "album": {
-        "name": "Know Like I Know",
-        "url": "https://open.spotify.com/album/5igqmh1p51bXG9i9cuCTC9"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 232336,
-      "name": "Know Like I Know",
-      "url": "https://open.spotify.com/track/227x8PRNRDZUl2yAISuS2k"
-    },
-    {
-      "added_at": "2022-01-15 05:00:00",
-      "album": {
-        "name": "Eazy",
-        "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 234288,
-      "name": "Eazy",
-      "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
-    },
-    {
-      "added_at": "2021-11-12 05:00:00",
-      "album": {
-        "name": "Blockchain",
-        "url": "https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 195153,
-      "name": "LLC (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
+      "duration_ms": 204626,
+      "name": "25 million",
+      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -239,6 +99,26 @@
       "duration_ms": 182068,
       "name": "Today (feat. Gunna)",
       "url": "https://open.spotify.com/track/7z3rc7SCgjbAztt1cbXkVj"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
     },
     {
       "added_at": "2022-01-07 05:00:00",
@@ -265,36 +145,40 @@
       "url": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh"
     },
     {
-      "added_at": "2021-12-17 05:08:41",
+      "added_at": "2022-01-07 05:00:00",
       "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 200958,
-      "name": "thailand",
-      "url": "https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx"
+      "duration_ms": 167840,
+      "name": "thought i was playing",
+      "url": "https://open.spotify.com/track/3XLbDUB5BX2WqL2qoAsvtb"
     },
     {
-      "added_at": "2021-12-03 05:00:00",
+      "added_at": "2021-12-17 05:08:41",
       "album": {
-        "name": "NO TRENDS",
-        "url": "https://open.spotify.com/album/2KVi5YBlC0Gh0NiMKDZSpK"
+        "name": "Love & War",
+        "url": "https://open.spotify.com/album/720wVklJFHQgiLQuPpdCla"
       },
       "artists": [
         {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 151299,
-      "name": "NO TRENDS",
-      "url": "https://open.spotify.com/track/7oAN2D1k9Qz8qh2JaNcZrj"
+      "duration_ms": 239146,
+      "name": "Love & War",
+      "url": "https://open.spotify.com/track/1WGmhglF1ghRiHsx4YUq86"
     },
     {
       "added_at": "2021-11-30 00:26:10",
@@ -315,38 +199,74 @@
     {
       "added_at": "2021-12-17 05:08:41",
       "album": {
-        "name": "Love & War",
-        "url": "https://open.spotify.com/album/720wVklJFHQgiLQuPpdCla"
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
       "artists": [
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 239146,
-      "name": "Love & War",
-      "url": "https://open.spotify.com/track/1WGmhglF1ghRiHsx4YUq86"
+      "duration_ms": 200958,
+      "name": "thailand",
+      "url": "https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx"
     },
     {
-      "added_at": "2021-11-05 04:00:00",
+      "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Jumpin (feat. Polo G)",
-        "url": "https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42"
+        "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+        "url": "https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 181198,
-      "name": "Jumpin (feat. Polo G)",
-      "url": "https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA"
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "NO TRENDS",
+        "url": "https://open.spotify.com/album/2KVi5YBlC0Gh0NiMKDZSpK"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 151299,
+      "name": "NO TRENDS",
+      "url": "https://open.spotify.com/track/7oAN2D1k9Qz8qh2JaNcZrj"
+    },
+    {
+      "added_at": "2022-01-24 17:16:43",
+      "album": {
+        "name": "Colors (Deluxe)",
+        "url": "https://open.spotify.com/album/23xXG1FGqcdDVUCUIfTuUt"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 170958,
+      "name": "Fish Scale",
+      "url": "https://open.spotify.com/track/116HT0QgVhzSxydCwRgpTY"
     },
     {
       "added_at": "2021-12-17 05:08:41",
@@ -369,20 +289,24 @@
       "url": "https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6"
     },
     {
-      "added_at": "2022-01-19 02:15:53",
+      "added_at": "2021-11-26 05:00:00",
       "album": {
-        "name": "Cold December",
-        "url": "https://open.spotify.com/album/6PHg4EsRdFC1eG24NJPk2K"
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni"
       },
       "artists": [
         {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 192021,
-      "name": "Cold December",
-      "url": "https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9"
+      "duration_ms": 269727,
+      "name": "lost souls (with Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0"
     },
     {
       "added_at": "2022-01-13 23:36:50",
@@ -405,60 +329,24 @@
       "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
     },
     {
-      "added_at": "2021-12-03 05:00:00",
+      "added_at": "2021-11-12 05:00:00",
       "album": {
-        "name": "Hall of Fame 2.0",
-        "url": "https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8"
+        "name": "Blockchain",
+        "url": "https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY"
       },
       "artists": [
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 156734,
-      "name": "Don\u2019t Play (with Lil Baby)",
-      "url": "https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef"
-    },
-    {
-      "added_at": "2021-11-26 05:00:00",
-      "album": {
-        "name": "The Melodic Blue",
-        "url": "https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 269727,
-      "name": "lost souls (with Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0"
-    },
-    {
-      "added_at": "2021-11-26 05:00:00",
-      "album": {
-        "name": "Retaliation",
-        "url": "https://open.spotify.com/album/5xb0FVh2rlQatP2IsagLN2"
-      },
-      "artists": [
-        {
-          "name": "22Gz",
-          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
-        }
-      ],
-      "duration_ms": 148687,
-      "name": "Retaliation",
-      "url": "https://open.spotify.com/track/1NE8EEo8xpxTLAYHJbmsrY"
+      "duration_ms": 195153,
+      "name": "LLC (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -479,6 +367,98 @@
       "duration_ms": 192756,
       "name": "Anti-Hero (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/5HZ5NjyJVMaboBgG6uQMpK"
+    },
+    {
+      "added_at": "2021-11-05 04:00:00",
+      "album": {
+        "name": "Jumpin (feat. Polo G)",
+        "url": "https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 181198,
+      "name": "Jumpin (feat. Polo G)",
+      "url": "https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA"
+    },
+    {
+      "added_at": "2021-11-26 05:00:00",
+      "album": {
+        "name": "Retaliation",
+        "url": "https://open.spotify.com/album/5xb0FVh2rlQatP2IsagLN2"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        }
+      ],
+      "duration_ms": 148687,
+      "name": "Retaliation",
+      "url": "https://open.spotify.com/track/1NE8EEo8xpxTLAYHJbmsrY"
+    },
+    {
+      "added_at": "2021-12-03 05:00:00",
+      "album": {
+        "name": "Hall of Fame 2.0",
+        "url": "https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "Don\u2019t Play (with Lil Baby)",
+      "url": "https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef"
+    },
+    {
+      "added_at": "2022-01-15 05:00:00",
+      "album": {
+        "name": "Eazy",
+        "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 234288,
+      "name": "Eazy",
+      "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
+    {
+      "added_at": "2022-01-19 02:15:53",
+      "album": {
+        "name": "Cold December",
+        "url": "https://open.spotify.com/album/6PHg4EsRdFC1eG24NJPk2K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 192021,
+      "name": "Cold December",
+      "url": "https://open.spotify.com/track/6UAy9xYeTWjZB7h05p83e9"
     },
     {
       "added_at": "2022-01-07 05:00:00",
@@ -571,30 +551,6 @@
       "duration_ms": 133631,
       "name": "Switches & Dracs (with Lil Durk feat. EST Gee)",
       "url": "https://open.spotify.com/track/4c7LkE1lSNj3RR4cZo0jEi"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-        "url": "https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 229938,
-      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-      "url": "https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T"
     },
     {
       "added_at": "2022-01-07 06:58:35",
@@ -923,6 +879,50 @@
       "duration_ms": 178431,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/5bjTLWk5cBOACEVPl3oqkU"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Pop Music",
+        "url": "https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "BeatKing",
+          "url": "https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4"
+        }
+      ],
+      "duration_ms": 125373,
+      "name": "Pop Music (feat. Moneybagg Yo & Beatking)",
+      "url": "https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "HIT",
+        "url": "https://open.spotify.com/album/03ckoZhTfbWybngUkIHqWv"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 125498,
+      "name": "HIT",
+      "url": "https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ"
     },
     {
       "added_at": "2021-10-22 04:00:00",

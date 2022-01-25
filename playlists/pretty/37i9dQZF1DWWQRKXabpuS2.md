@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > ابق على اطلاع بأحدث الأغاني الخليجية! الغلاف: بدر الشعيبي
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,679 likes - 61 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,689 likes - 61 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

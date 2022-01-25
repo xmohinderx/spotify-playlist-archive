@@ -380,6 +380,32 @@
     },
     {
       "album": {
+        "name": "Meredith Monk: Piano Songs",
+        "url": "https://open.spotify.com/album/2HiKHHXUaH84DcFkvpYhD3"
+      },
+      "artists": [
+        {
+          "name": "Meredith Monk",
+          "url": "https://open.spotify.com/artist/1WN9bXZmI41JB1tCmrSC3M"
+        },
+        {
+          "name": "Bruce Brubaker",
+          "url": "https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ"
+        },
+        {
+          "name": "Ursula Oppens",
+          "url": "https://open.spotify.com/artist/7IxqYfRCtVZf5syhfPB8Ci"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182373,
+      "name": "Ellis Island",
+      "url": "https://open.spotify.com/track/6LKYTKdEEgikRjVjKXj3d9"
+    },
+    {
+      "album": {
         "name": "Into The Trees",
         "url": "https://open.spotify.com/album/5CXgHsxu4SydFFeJ6ClHY4"
       },

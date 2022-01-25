@@ -198,6 +198,24 @@
     },
     {
       "album": {
+        "name": "Baddest Boy",
+        "url": "https://open.spotify.com/album/7yxdgb3JrIfoNbJTY6f8jP"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141599,
+      "name": "Baddest Boy",
+      "url": "https://open.spotify.com/track/3t7hYVVDzf1VDUz0pu5Zy1"
+    },
+    {
+      "album": {
         "name": "BADI",
         "url": "https://open.spotify.com/album/2lqtf1qmfFf9c6l1w6ihzS"
       },
@@ -315,6 +333,28 @@
       "duration_ms": 160666,
       "name": "C'est toi",
       "url": "https://open.spotify.com/track/729blbra42RS4hrSqGOU3t"
+    },
+    {
+      "album": {
+        "name": "Chairlady",
+        "url": "https://open.spotify.com/album/2a3gFP0cLolIBq4ZSrUuMG"
+      },
+      "artists": [
+        {
+          "name": "DELLFIRE",
+          "url": "https://open.spotify.com/artist/5m7IITJVbhoq5Yl5JWXkpu"
+        },
+        {
+          "name": "Ice prince",
+          "url": "https://open.spotify.com/artist/5mvs9z1Q10yvVwMT4bKEMN"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172017,
+      "name": "Chairlady",
+      "url": "https://open.spotify.com/track/2WIbNLk7K5muvjZk1MaXDC"
     },
     {
       "album": {

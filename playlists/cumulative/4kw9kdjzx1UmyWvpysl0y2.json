@@ -132,6 +132,28 @@
     },
     {
       "album": {
+        "name": "BITTERSWEET",
+        "url": "https://open.spotify.com/album/3ezjk2cPYZe3qvfzxVF1kn"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "BITTERSWEET",
+      "url": "https://open.spotify.com/track/0Ip4mtMZFwXD7EMTLROWw9"
+    },
+    {
+      "album": {
         "name": "Carbonara",
         "url": "https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8"
       },
@@ -593,7 +615,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 212800,
       "name": "Locked Away",
       "url": "https://open.spotify.com/track/4dDsN26EhF826uDrYz5BkX"
@@ -827,7 +849,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 207770,
       "name": "Read Your Lips",
       "url": "https://open.spotify.com/track/7Hvefk37fvqZBtnDlp6ux9"
@@ -1177,7 +1199,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 277000,
       "name": "Uatchu",
       "url": "https://open.spotify.com/track/4eUX2nKYBGSbknXF6zoRgj"

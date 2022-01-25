@@ -2,7 +2,7 @@
 
 ### [Lista de LOS 40 \(Oficial\) \| 🇪🇸](https://open.spotify.com/playlist/2EQ7mQxKSAz66lR2sssfQA)
 
-> ¡Los 40 principales éxitos de la radio musical! Se actualiza cada sábado con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
+> ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

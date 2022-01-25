@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Dr\. Fresch
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,436 likes - 66 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,575 likes - 66 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

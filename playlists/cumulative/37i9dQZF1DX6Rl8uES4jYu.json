@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 167818,
       "name": "a million pieces",
       "url": "https://open.spotify.com/track/0d3tToV7ij5cyyuhgH7i9d"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 209134,
       "name": "Ally - Headnodic Remix",
       "url": "https://open.spotify.com/track/4vNh0o3gb1QbmLKtiQvYFn"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 148561,
       "name": "Baby, It's Over",
       "url": "https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 191693,
       "name": "Bet On Me",
       "url": "https://open.spotify.com/track/1rBtX2UbcSY9jizKtmnu6C"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 208445,
       "name": "Better Now [Remix]",
       "url": "https://open.spotify.com/track/3cLA64aQAhxDRQvSp3IBiJ"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 182666,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/4cJ2FwivZpSQ5Tx98w1hgK"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 176680,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/5v3KxBlTAFHAR5wKxHz87v"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 150545,
       "name": "Damage",
       "url": "https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 210693,
       "name": "Faded",
       "url": "https://open.spotify.com/track/3FMyC1ElB2UcLMBZQ4EKLJ"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Girl",
       "url": "https://open.spotify.com/track/0pHCRRtOHbe94CaEAYGkGn"
@@ -1209,7 +1209,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 204986,
       "name": "Girls",
       "url": "https://open.spotify.com/track/1LFu0JwC7x6CFLc6jpRKzH"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 231571,
       "name": "Happy Days",
       "url": "https://open.spotify.com/track/1u8BiP9APkwKjtVb9L1z50"
@@ -1441,7 +1441,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 155867,
       "name": "I Won't Do U Like That",
       "url": "https://open.spotify.com/track/7DKnkvTDOyFfKXCF8QY4we"
@@ -1699,7 +1699,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 201082,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/23VdpjPPUgWscU45SAZFIM"
@@ -1810,6 +1810,44 @@
     },
     {
       "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168203,
+      "name": "Love You Bad (feat. Phoelix)",
+      "url": "https://open.spotify.com/track/1BkK2fQUGALz7AaOSo7Swh"
+    },
+    {
+      "album": {
         "name": "If I Should Die",
         "url": "https://open.spotify.com/album/2sPw0ZfarcTCQkH5jHCL72"
       },
@@ -1821,7 +1859,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 185733,
       "name": "Macaroni Salad",
       "url": "https://open.spotify.com/track/5p8RR3x2fsDLxBhPAvi5Qh"
@@ -1905,7 +1943,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 239328,
       "name": "Move Along",
       "url": "https://open.spotify.com/track/7ePI88B6EPUq9IpCn76LYT"
@@ -2117,7 +2155,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 163263,
       "name": "Orange Tracksuit",
       "url": "https://open.spotify.com/track/7iy5y0YQX7MoFmP8G9Dyvg"
@@ -2197,7 +2235,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 214285,
       "name": "Paper Cuts",
       "url": "https://open.spotify.com/track/0YQNTxIYrILQE7B8QP49f3"
@@ -2255,7 +2293,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 233394,
       "name": "Perfection",
       "url": "https://open.spotify.com/track/35n9OXJ7r0kV9yzy1nacu9"
@@ -2291,7 +2329,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 152390,
       "name": "PINK FAMILY",
       "url": "https://open.spotify.com/track/0B2uxDcDlrhe2HU2vmdJST"
@@ -2335,7 +2373,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 236564,
       "name": "Pocono Bay",
       "url": "https://open.spotify.com/track/6fRadAe1s2Znk4iPBKgQxv"
@@ -2389,7 +2427,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 243826,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/2KxPwaQYggkfkx4bOpjXLU"
@@ -2553,7 +2591,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 169372,
       "name": "Serious",
       "url": "https://open.spotify.com/track/7lRTLHR5zOgZ9FPLJQWwd2"
@@ -2695,7 +2733,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 202666,
       "name": "Some Kind of Happy",
       "url": "https://open.spotify.com/track/4MUUeP1sB9aPT4IG45lLIg"
@@ -2761,7 +2799,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 286453,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/7kqXN3NJIjdH844bUX1vK3"
@@ -2841,7 +2879,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 200064,
       "name": "Spin Around",
       "url": "https://open.spotify.com/track/1AIxRO2siLiccrD1nkQvjG"
@@ -2863,7 +2901,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 213900,
       "name": "Stay Up - Pastel Remix",
       "url": "https://open.spotify.com/track/2jVQoTDSzfytDWnxl6e51X"
@@ -2899,7 +2937,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 190689,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/57sInFXtiUWZvj2oxtAf0A"
@@ -2939,7 +2977,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 196722,
       "name": "Switch",
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
@@ -3037,7 +3075,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 172517,
       "name": "THE SUN SHINES SO BRIGHT WITH YOU",
       "url": "https://open.spotify.com/track/3jJF4tK7hDS5MBRHyVns0V"
@@ -3117,7 +3155,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 182068,
       "name": "This Moment",
       "url": "https://open.spotify.com/track/5N2HumJKAELVA5fCzvKL0Q"
@@ -3161,7 +3199,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "Til' The End",
       "url": "https://open.spotify.com/track/637xhnFza81m9ZAXTOYFkI"
@@ -3431,7 +3469,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 212065,
       "name": "Wild (Golden Child) - Japan Bonus Track",
       "url": "https://open.spotify.com/track/23XhwutrIEirC0lz1sAERf"
@@ -3525,7 +3563,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 185716,
       "name": "You",
       "url": "https://open.spotify.com/track/6efuh9QMx0T6dwmZBC1Hez"
@@ -3543,7 +3581,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 274250,
       "name": "You and You - Single Edit",
       "url": "https://open.spotify.com/track/1jEe3EaNbkGecUBHKMcReK"

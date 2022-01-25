@@ -101,7 +101,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 196800,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 155060,
       "name": "BENDICIONES",
       "url": "https://open.spotify.com/track/2CoMYp2uIKsT09nreEZnZn"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 299586,
       "name": "Caile (feat. Zion & De La Ghetto)",
       "url": "https://open.spotify.com/track/626rYyBfeAeleh1F5t4B70"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 183333,
       "name": "D\u00f3nde Est\u00e1s (with Piso 21) - Remix",
       "url": "https://open.spotify.com/track/7z0cli6eF13Ew8ARrDgGHJ"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 416129,
       "name": "Ella y Yo (Remix) [feat. Farruko, Ozuna, Arcangel, Anuel Aa, Bryant Myers, Kevin Roldan, \u00d1engo Flow, Alexis La Bestia & \u00d1ejo]",
       "url": "https://open.spotify.com/track/59osEAhiXkRXH6hZTD4VqC"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 165646,
       "name": "Fresa",
       "url": "https://open.spotify.com/track/4BCPItsB94KDLuERZT3aNM"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 164457,
       "name": "Goteo",
       "url": "https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 388800,
       "name": "La Mentira - Remix",
       "url": "https://open.spotify.com/track/4jBpZsZ9qx3cZhoEfuKElF"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 234000,
       "name": "LOGI",
       "url": "https://open.spotify.com/track/539LAQobYbCmWNyEhy1ywq"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 229955,
       "name": "Mi Favorita",
       "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
@@ -1657,7 +1657,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 199733,
       "name": "No Hay Nadie M\u00e1s",
       "url": "https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN"
@@ -1749,7 +1749,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 183398,
       "name": "No Te Enamores",
       "url": "https://open.spotify.com/track/0EJu1RBtxzldMG2peczuPv"
@@ -1778,6 +1778,28 @@
     },
     {
       "album": {
+        "name": "No Tenemos Nada",
+        "url": "https://open.spotify.com/album/3QaZCCr6XfrE8S3aosieWl"
+      },
+      "artists": [
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204277,
+      "name": "No Tenemos Nada",
+      "url": "https://open.spotify.com/track/6UGc9l0tpk1xSx9KV2fOVf"
+    },
+    {
+      "album": {
         "name": "Nunca Me Amo",
         "url": "https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4"
       },
@@ -1797,7 +1819,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 199641,
       "name": "Nunca Me Amo",
       "url": "https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW"
@@ -1997,7 +2019,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 312000,
       "name": "Que Le De - Remix",
       "url": "https://open.spotify.com/track/3fAwTY8XWSLxyX5Rgungap"
@@ -2451,7 +2473,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 158824,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/7AyXdBQAgRLJBK72gqq0Hz"
@@ -2595,7 +2617,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 179892,
       "name": "T\u00fa Vas a Tener Que Explicarme - Remix",
       "url": "https://open.spotify.com/track/1eLiEFCEFRFsoHDL2bh8wy"
@@ -2711,7 +2733,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 215459,
       "name": "Whine Up",
       "url": "https://open.spotify.com/track/7JabxjX6a5GvDDw6zRFscj"

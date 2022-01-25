@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 199320,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 173476,
       "name": "Cinderella de Mis Noches",
       "url": "https://open.spotify.com/track/3qiFcwUBMD0ElzizrjmP73"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 176250,
       "name": "Corazon Parlante",
       "url": "https://open.spotify.com/track/21N42hIFRiFrak2tDfsGU7"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 149074,
       "name": "El Humillado",
       "url": "https://open.spotify.com/track/5zLsSLY0cwfX80nf9R0BhA"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 212453,
       "name": "Fue Mi Culpa",
       "url": "https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 184561,
       "name": "Hablemos",
       "url": "https://open.spotify.com/track/049wfFS3kAsdmGOH8ktYJ3"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 190773,
       "name": "Ha\u0301blame De Ti",
       "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 224738,
       "name": "La \u00danica",
       "url": "https://open.spotify.com/track/1h5pJVUM9U1Lt9rIsykiiz"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 170824,
       "name": "Labios Cereza",
       "url": "https://open.spotify.com/track/64luTJa3lsA4ZvwFyoBcUM"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 228075,
       "name": "Mi Guerita",
       "url": "https://open.spotify.com/track/2LrH7pQnZTQvxXWgf52wBx"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "No Me Buscas",
       "url": "https://open.spotify.com/track/7Jgh8una8MqHfVe0qGpYZX"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 174346,
       "name": "Para Qu\u00e9 Lastimarme",
       "url": "https://open.spotify.com/track/3jK9UGmZEjHnO2IAOduZ5U"
@@ -1591,7 +1591,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 211560,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
@@ -1944,6 +1944,24 @@
     },
     {
       "album": {
+        "name": "Sin Sentimientos Deluxe",
+        "url": "https://open.spotify.com/album/243erGm5J8f1OhvFRkb3f0"
+      },
+      "artists": [
+        {
+          "name": "Design\u00f3",
+          "url": "https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sin Sentimientos",
+      "url": "https://open.spotify.com/track/0hYRO2jvFLoNFMeBcw6Ju9"
+    },
+    {
+      "album": {
         "name": "Sin Sentimientos",
         "url": "https://open.spotify.com/album/4Wh5bBHfEXqzd1NPf5yHKn"
       },
@@ -1955,7 +1973,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 161201,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/3zBK0bthYTDx3bnsDPTesO"
@@ -2129,6 +2147,24 @@
       "duration_ms": 209120,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt"
+    },
+    {
+      "album": {
+        "name": "Si\u00e9ntelo a Tu Modo",
+        "url": "https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD"
+      },
+      "artists": [
+        {
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/1INcD1XmWRBuZ7kOKBIgdY"
     },
     {
       "album": {
@@ -2399,7 +2435,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 185637,
       "name": "Y Cambi\u00f3 Mi Suerte",
       "url": "https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT"
@@ -2497,7 +2533,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 147053,
       "name": "Ya Te Perd\u00ed La Fe",
       "url": "https://open.spotify.com/track/0rH8r9ozxgEJVftuPOmAqg"

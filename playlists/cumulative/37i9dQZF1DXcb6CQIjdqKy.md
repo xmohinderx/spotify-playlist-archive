@@ -7,6 +7,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Place Called Earth \- Live From The Ryman Auditorium](https://open.spotify.com/track/7p1y6v1NV6JOHFBWTKKjFo) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Roll Tape: Live From Melody League Studios](https://open.spotify.com/album/6hOD3u3fpmG6wxfFOsikwC) | 4:07 | 2021-12-17 |  |
+| [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs \(Live\)](https://open.spotify.com/album/5Lc6XxnPUfunAvhY5I6lxV) | 5:09 | 2022-01-24 |  |
 | [All I See](https://open.spotify.com/track/1OIhubEHsc9JJskFkqa1h3) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 2:58 | 2021-12-17 |  |
 | [All Things New \(Single Mix\)](https://open.spotify.com/track/7G0S21TgI1FjsgKqJk9TZB) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [All Things New](https://open.spotify.com/album/4v2Iil9l9LzCzFtCsj9RDr) | 4:10 | 2021-12-17 |  |
 | [All Together](https://open.spotify.com/track/1n0ca1KF06VpxXtTuAt6kI) | [Mike Donehey](https://open.spotify.com/artist/2jKlK6gsKyZDItyVP36II2) | [All Together](https://open.spotify.com/album/52d6HFdF932kstV1uW0VGA) | 3:08 | 2021-12-17 |  |

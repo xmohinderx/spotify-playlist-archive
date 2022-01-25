@@ -3224,6 +3224,28 @@
     },
     {
       "album": {
+        "name": "Pa Tra Rkt",
+        "url": "https://open.spotify.com/album/51C7H8yHGV88GdxGtipO04"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Pusho DJ",
+          "url": "https://open.spotify.com/artist/2ZrxREKeIiJA6aQxa44ZzB"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191124,
+      "name": "Pa Tra Rkt",
+      "url": "https://open.spotify.com/track/1CpRJLarXSUho5AopXxNQj"
+    },
+    {
+      "album": {
         "name": "PANAM\u00c1",
         "url": "https://open.spotify.com/album/5965FckNzWypHw7yXNGd92"
       },
@@ -4537,7 +4559,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfMnnPBigKP.md) - [plain]
 
 > 50 outstanding pieces from the repertoire of <a href="https://en.wikipedia.org/wiki/Concert\_band">concert band</a> \(also called wind ensemble, symphonic band or wind symphony\)\. From cornerstone works by Dvořák, Stravinsky, Grainger to new classics by John Corigliano, David Maslanka, Eric Whitacre, and many more\. Also follow: <a href="spotify:user:spotify:playlist:73OZGA9KbKCzhNe7FcCp17">brass band playlist</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,298 likes - 50 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,310 likes - 50 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUfMnnPBigKP.md) - [plain]
 | 49 | [Dionysiaques, Op\. 62](https://open.spotify.com/track/3AyRfJbOVn4Zqa0DfLNzWQ) | [Florent Schmitt](https://open.spotify.com/artist/46ogc4ghPoxhfxvj3ahDNL), [Cincinnati Wind Symphony](https://open.spotify.com/artist/5M5ADrM8vgdahvgJ7Yok0m), [Eugene Migliaro Corporon](https://open.spotify.com/artist/4312Dbo3NDq73YqKepzIyo) | [Cincinnati Wind Symphony: Songs and Dances](https://open.spotify.com/album/4JOrGZ8EGo7bdi6U4XaJjL) | 11:14 |
 | 50 | [Vientos y Tangos](https://open.spotify.com/track/3EiQxic1kxxQkUyCHbnzIf) | [Michael Gandolfi](https://open.spotify.com/artist/4tmEZknMU2NvdewbBk5iyy), [North Texas Wind Symphony](https://open.spotify.com/artist/1MU0DtoPi3KRw38z1NnV5E), [Eugene Migliaro Corporon](https://open.spotify.com/artist/4312Dbo3NDq73YqKepzIyo) | [North Texas Wind Symphony: Poetics](https://open.spotify.com/album/0klDkR12y6YM9O1hJKUGJr) | 11:41 |
 
-Snapshot ID: `MTU2ODAyMDg4OSwwMDAwMDAwYTAwMDAwMTYwNGI1MTc0ZWQwMDAwMDE2ZDE1NTNmZGRk`
+Snapshot ID: `MTY0MzAyMDAxMiwwMDAwMDAwYjAwMDAwMTdlOGI5ZmNjZmMwMDAwMDE2ZDE1NTNmZGRk`

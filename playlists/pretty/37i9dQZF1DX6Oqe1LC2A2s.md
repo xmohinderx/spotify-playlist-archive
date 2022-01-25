@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Oqe1LC2A2s.md) - [plain]
 
 > 50 best tracks of 20/21st century <a href="https://open.spotify.com/genre/classical">classical</a> music\. Cover: Arditti Quartet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,947 likes - 50 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,959 likes - 50 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Oqe1LC2A2s.md) - [plain]
 | 49 | [Shoalhaven](https://open.spotify.com/track/5cWsyWwIttYbakyl1rM8tF) | [David Lumsdaine](https://open.spotify.com/artist/42nLnrr3Bpu6dKhSOCR4rB), [West Australian Symphony Orchestra](https://open.spotify.com/artist/3tjuAOn55dpEGxqEnKJIX5), [Albert Rosen](https://open.spotify.com/artist/3EnXj5MQnBOu9WfvAuv4qT) | [David Lumsdaine: Orchestral Works](https://open.spotify.com/album/1LYc0Sg7JZ9822ypKEnUou) | 12:05 |
 | 50 | [String Quartet No\. 4](https://open.spotify.com/track/24pwXA6OQVRZMtcKqz1Odg) | [Sofia Gubaidulina](https://open.spotify.com/artist/2xcUqNAHTLVnHeK0YLA9IO), [Molinari Quartet](https://open.spotify.com/artist/5VHFI9N7eN51lqi48wFzwQ) | [Gubaidulina: Complete String Quartets](https://open.spotify.com/album/483MtVC6j7Mez5iWSwv7Xi) | 11:38 |
 
-Snapshot ID: `MTU2ODAxNzMxMSwwMDAwMDAwNzAwMDAwMTVkYzZmOGViYzEwMDAwMDE2ZDE1MWQ2N2Qz`
+Snapshot ID: `MTY0MzAyOTU1NywwMDAwMDAwODAwMDAwMTdlOGMzMTcwMjkwMDAwMDE2ZDE1MWQ2N2Qz`

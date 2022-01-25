@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 
 > Django and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,923 likes - 57 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,959 likes - 57 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDe8IDhRIo5.md) - [plain]
 | 16 | [1910](https://open.spotify.com/track/2nf1tuhOmb7npTSDUryiAd) | [Les doigts de l'homme](https://open.spotify.com/artist/7DOLup8LOVWI6g9PoeUOO5) | [1910 \(Jazz manouche\)](https://open.spotify.com/album/15i4how91OvGTmat782jcF) | 4:11 |
 | 17 | [Ranger Swing](https://open.spotify.com/track/61bNf4P5rvoOMNTw16QIg8) | [Raphael Fays](https://open.spotify.com/artist/4P3gGxKIS5sZwZWRzmQDEJ) | [Paris Séville, bois de guitare \(Madera de Guitarra\)](https://open.spotify.com/album/4zA1OF1mdccHMXfwNBaodm) | 2:34 |
 | 18 | [Les yeux noirs](https://open.spotify.com/track/4zyLLj3YJcsVljQ2BWlLRn) | [Biréli Lagrène Trio](https://open.spotify.com/artist/0zQ8ZslJkMxLY8xw3E6dp2) | [Gipsy Project & Friends](https://open.spotify.com/album/0uFPGWD4JINjSE2YXIeImp) | 2:54 |
-| 19 | [Hora La Senior](https://open.spotify.com/track/4OaUaxl6PgcW88dvUpNWPk) | [Swing De Gitanes](https://open.spotify.com/artist/2SjWjC2ic81DS9gI3iS7D1), [Yaakov Hoter](https://open.spotify.com/artist/1Y9EcFkSewIBfJMqGspnbd) | [The Middle East Gypsy Jazz Project](https://open.spotify.com/album/6WeHlhFgT1wK8hgUoP2RJu) | 3:34 |
+| 19 | [Hora La Senior](https://open.spotify.com/track/4OaUaxl6PgcW88dvUpNWPk) | [Swing De Gitanes](https://open.spotify.com/artist/2SjWjC2ic81DS9gI3iS7D1), [Yaakov Hoter](https://open.spotify.com/artist/1Y9EcFkSewIBfJMqGspnbd), [Oren sagi](https://open.spotify.com/artist/63In7fd4yQh3zOij27cC7K) | [The Middle East Gypsy Jazz Project](https://open.spotify.com/album/6WeHlhFgT1wK8hgUoP2RJu) | 3:34 |
 | 20 | [Vette](https://open.spotify.com/track/0aqTTdQrufrkfAPcxshXLi) | [Adrien Moignard](https://open.spotify.com/artist/2aMdhZeYSUVewlfjx9ntIn) | [Selmer \#607](https://open.spotify.com/album/5wn3yJzr331FKk9rq8bm5z) | 3:31 |
 | 21 | [Manéa](https://open.spotify.com/track/0eH6ScCAEPzUS080uH5OHW) | [Florin Niculescu](https://open.spotify.com/artist/2HdcSFjH7Q29VYf89WIHLs), [Corneliu Niculescu](https://open.spotify.com/artist/3P09Y4zaLlwrNCmVWRHbII) | [Florilège \(L'Esprit Roumain\)](https://open.spotify.com/album/56QU1JJKq21GSapXj5MeLG) | 8:03 |
 | 22 | [Dolores](https://open.spotify.com/track/1UOTHt2Vxk5xHMvdN7gkRF) | [The Black Market Trust](https://open.spotify.com/artist/05YUfl0SzLH3OqbAICDULQ) | [Folk Songs](https://open.spotify.com/album/7fEjk6IjjNZwM70grqR4QL) | 2:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 
 > Suena en el barrio, suena acá {L\-Gante & Bizarrap}
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,149 likes - 54 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,296 likes - 54 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

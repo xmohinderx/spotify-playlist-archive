@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 188129,
       "name": "Above It All",
       "url": "https://open.spotify.com/track/0J3e3pldo7uAns4dpLxLR0"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 161049,
       "name": "Bergen - Frontliner Remix",
       "url": "https://open.spotify.com/track/3H9KW14Jjw8erGMiRpdBXx"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 178717,
       "name": "Bodyshock",
       "url": "https://open.spotify.com/track/5OJCdGZbGPWPLqxQrEf1tS"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 202754,
       "name": "Chosen Ones",
       "url": "https://open.spotify.com/track/5B68sCt7ZmqOXLsLw4FB3G"
@@ -803,7 +803,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 226147,
       "name": "Connected",
       "url": "https://open.spotify.com/track/1DtVFVNnnsUwvsJUa87uOm"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 228800,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/4HaMXBKZa59l6MnyhLK6Bw"
@@ -980,6 +980,32 @@
     },
     {
       "album": {
+        "name": "Demons (Restrained Remix)",
+        "url": "https://open.spotify.com/album/7FHacZmnEKvYtAybE9S7CU"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Restrained",
+          "url": "https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV"
+        },
+        {
+          "name": "Jantine",
+          "url": "https://open.spotify.com/artist/6T9cbIq48QxRl7bm5fqQL7"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Demons - Restrained Remix",
+      "url": "https://open.spotify.com/track/4cN1uno0iSzRsOOSE4NvF9"
+    },
+    {
+      "album": {
         "name": "The Return Of Headhunterz",
         "url": "https://open.spotify.com/album/6cPSD583Rf7B8ZoIZ2bbEH"
       },
@@ -1035,7 +1061,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 232506,
       "name": "Dirty Money",
       "url": "https://open.spotify.com/track/1I4jKdWVIbCGJKtJBva2fe"
@@ -1057,7 +1083,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 215504,
       "name": "Discover",
       "url": "https://open.spotify.com/track/6kAkda1mvbIr1J6gE5YMMy"
@@ -1079,7 +1105,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 224000,
       "name": "Distance",
       "url": "https://open.spotify.com/track/3cL8EVouwRoKs9JYYcZePy"
@@ -1411,7 +1437,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Exist",
       "url": "https://open.spotify.com/track/7HiN2dRRco0wxLSJytLIAd"
@@ -1733,7 +1759,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 176659,
       "name": "For You",
       "url": "https://open.spotify.com/track/5VGRWK6AgM3BifNn5WPsXs"
@@ -1905,7 +1931,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 265489,
       "name": "Going Under",
       "url": "https://open.spotify.com/track/0RoQmGvoaqrE8pkfB5bQtq"
@@ -2113,7 +2139,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 219142,
       "name": "Hellraiser",
       "url": "https://open.spotify.com/track/7jPZ8CnQPpcbJp9ZiTvuMY"
@@ -2227,7 +2253,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 180761,
       "name": "Hit 'Em",
       "url": "https://open.spotify.com/track/06wgx2IGE8gme8tJpQQtVk"
@@ -2645,7 +2671,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 192297,
       "name": "Left Of Us - Darren Styles Remix",
       "url": "https://open.spotify.com/track/5GBgpkLwGddjBhufgazZSH"
@@ -2859,7 +2885,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 186315,
       "name": "Make That Body Rock",
       "url": "https://open.spotify.com/track/7kgTsBAU2a4011YI83XZEB"
@@ -2925,7 +2951,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 169839,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/6AQpd05OyowTvtO7I3BdBU"
@@ -3275,7 +3301,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 264228,
       "name": "One Tribe (Defqon.1 2019 Anthem)",
       "url": "https://open.spotify.com/track/5C9DBog2CqZTaf9GhILCmj"
@@ -3297,7 +3323,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 230321,
       "name": "Orange Heart",
       "url": "https://open.spotify.com/track/3fZIBSibgTdC4gaqoXmk8G"
@@ -3693,7 +3719,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 167612,
       "name": "Reach For The Sky",
       "url": "https://open.spotify.com/track/48WMx4OjrRl5GnzlBTCD4C"
@@ -3719,7 +3745,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 201864,
       "name": "Ready to Rave (Bass Modulators Remix)",
       "url": "https://open.spotify.com/track/7xfQpFEwYH6ENl4fuMQqMJ"
@@ -3803,7 +3829,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 162557,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7i2mcD6FwfHFPRLvfAHbau"
@@ -4053,7 +4079,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 253837,
       "name": "Slaves To The System",
       "url": "https://open.spotify.com/track/4WNpRHWCjNNKeqrPSbdkH4"
@@ -4597,7 +4623,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 212800,
       "name": "The 9th Gate",
       "url": "https://open.spotify.com/track/0jhcGAgbsq1gNfdsDEYCIG"
@@ -4645,7 +4671,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 263800,
       "name": "The Elite",
       "url": "https://open.spotify.com/track/6RbtosFO5C2pMbPaFeMf9b"
@@ -4667,7 +4693,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "The Enemy (You Cannot See)",
       "url": "https://open.spotify.com/track/0GAIAbeS07Run8u9BOtT3P"
@@ -5021,7 +5047,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 206225,
       "name": "Times Gettin' Hard (JNXD Remix)",
       "url": "https://open.spotify.com/track/1wsh0kiEkZLNTjvFryHAYA"
@@ -5441,7 +5467,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 196162,
       "name": "Watch Us Die",
       "url": "https://open.spotify.com/track/74as9DvHT2hAWpbbw4ewWA"
@@ -5463,7 +5489,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 165379,
       "name": "We Are Xtra",
       "url": "https://open.spotify.com/track/519wD9zbe3OZI6LYKq1zXS"

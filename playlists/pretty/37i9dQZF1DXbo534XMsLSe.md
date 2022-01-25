@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbo534XMsLSe.md) - [plain]
 
 > In Country Music, if your heart hasn't been broken, you haven't been trying hard enough\.  Keep a tissue handy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,178 likes - 116 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,185 likes - 116 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

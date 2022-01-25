@@ -2,7 +2,7 @@
 
 ### [Popetón](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
 
-> ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Ñejo, Silvestre Dangond, Nicky Jam
+> ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Luis Fonsi y Manuel Turizo
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Millones](https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:41 | 2021-12-10 |  |
 | [Miénteme](https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Miénteme](https://open.spotify.com/album/4D9XS6o1GNMmuUWhI5Qixg) | 2:45 | 2021-12-10 |  |
 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 | 2021-12-10 |  |
-| [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-01-18 |  |
+| [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-01-18 | 2022-01-25 |
 | [Muy Feliz \- Remix](https://open.spotify.com/track/2gx1sn3qic8hsZxmsXgp6z) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Muy Feliz \(Remix\)](https://open.spotify.com/album/0Yklgs3augXJTev6xVthdk) | 3:51 | 2021-12-10 |  |
 | [Nada](https://open.spotify.com/track/4K8cyoCDovlc4FvtUr2Hfx) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Nada](https://open.spotify.com/album/5edB3I7c5aZj1bH2obUXne) | 2:54 | 2021-12-10 |  |
 | [Nanae \(with Beele\)](https://open.spotify.com/track/1B0VI8xsZg7ur05npSsVvs) | [Jay Menez](https://open.spotify.com/artist/5RVuxgqu3esPo4LIrf4HUs), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Nanae \(with Beele\)](https://open.spotify.com/album/26YKRyibLjVOzf3FLR5c6p) | 3:13 | 2021-12-10 |  |
@@ -81,5 +81,6 @@
 | [Una Vaina Loca](https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca](https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM) | 3:46 | 2021-12-10 |  |
 | [Vacaciones](https://open.spotify.com/track/5a1uP3YHcvb4XkucSQGC1c) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Vacaciones](https://open.spotify.com/album/1HP0xerTMAjxal5A8B8luG) | 2:35 | 2022-01-21 |  |
 | [Vieja Canción](https://open.spotify.com/track/7bnykHhGtwK8RTZnaLz33J) | [Ancizar](https://open.spotify.com/artist/4TtiBmQj8iyXCvnPthsuAD), [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX), [Jaider White](https://open.spotify.com/artist/2oAdgZHcguW7xGY9i1xqso) | [Reggaetón Club](https://open.spotify.com/album/2KxWRBcEsElx9QA5NtvPVR) | 3:44 | 2022-01-18 |  |
+| [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 | 2022-01-24 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

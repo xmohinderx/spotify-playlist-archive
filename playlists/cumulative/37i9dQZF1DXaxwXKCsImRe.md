@@ -2,10 +2,11 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/5PI9N3InPPtYz6UBLMEA8w)
 
-> Exciting artists on the RADAR from the Benelux and beyond\. Cover: De Staat
+> Exciting artists on the RADAR from the Benelux and beyond\. Cover: Emma Bale
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [45 Fahrenheit Girl \- Acoustic](https://open.spotify.com/track/4LNvWLzX0GFVaqNJP1cwsn) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Sycamore Redux](https://open.spotify.com/album/6ZMmz3oxPCor3rI0Nrx5re) | 2:23 | 2022-01-24 |  |
 | [A Little Greener](https://open.spotify.com/track/50WSTB17FinNJd92BGcRFc) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO) | [A Little Greener](https://open.spotify.com/album/1Ex7TUmPx3WUaujVqsgZXk) | 3:42 | 2021-12-10 |  |
 | [Adem Je In \- Remix](https://open.spotify.com/track/5F469F5Dk2Zzm6BpP0OhVq) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK), [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Adem Je In \(Remix\)](https://open.spotify.com/album/2s2Jz2xKZrfaSqY9HK6sOe) | 3:43 | 2021-12-10 |  |
 | [Another year like that and we'd all be dead \- Stripped](https://open.spotify.com/track/3opGpYcaarSepS5e9Qq05g) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Another year like that and we'd all be dead \(stripped\)](https://open.spotify.com/album/1Ft7nREIGt0NIX7h7fW6Ef) | 3:37 | 2021-12-10 |  |
@@ -17,6 +18,8 @@
 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 | 2021-12-10 |  |
 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 | 2021-12-10 |  |
 | [Daiquiri](https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Daiquiri](https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg) | 3:38 | 2021-12-10 |  |
+| [dejavu](https://open.spotify.com/track/4GwIJFFipIzqF6ZvQ9vZd7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 2:56 | 2022-01-24 |  |
+| [Divide \(feat\. Promis3\)](https://open.spotify.com/track/6xAt3TGyEhAkWJsJggwA27) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Divide \(feat\. Promis3\)](https://open.spotify.com/album/06Fh29APHSqF8pQvbxYy0W) | 3:34 | 2022-01-24 |  |
 | [Een Teken](https://open.spotify.com/track/4YWS5c1tKeLFFiuZuSCg10) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Een Teken](https://open.spotify.com/album/5JRilfWaLp7MmGybgpS04Q) | 2:12 | 2021-12-10 |  |
 | [Guts](https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Guts](https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1) | 3:26 | 2021-12-10 |  |
 | [Halfway](https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Seven Shades of Heartbreak](https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r) | 3:17 | 2021-12-10 |  |
@@ -28,6 +31,7 @@
 | [Look At Me](https://open.spotify.com/track/5ztdptHqHe9Jt0NzI3Powe) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Look At Me](https://open.spotify.com/album/14PdkPdvr3NsCVzqKrlvkJ) | 3:15 | 2021-12-10 |  |
 | [Nena](https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Nena](https://open.spotify.com/album/6GeMiynuj56geayA7AqRra) | 2:33 | 2021-12-10 |  |
 | [Niemandsland](https://open.spotify.com/track/6HhIYDdrEDrop9DysAOdma) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Niemandsland](https://open.spotify.com/album/2MEH4QZXoKYJIKMHv1c4Xi) | 3:02 | 2021-12-10 |  |
+| [No Heartbreaks](https://open.spotify.com/track/5TLj0QzjflQoywGR7Sa5zS) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Khai Zhen](https://open.spotify.com/artist/3GldAoLXb21txq84tbuuuz) | [No Heartbreaks](https://open.spotify.com/album/6QzGa63zg83NsFzqZGznBz) | 2:33 | 2022-01-24 |  |
 | [Numbers Up](https://open.spotify.com/track/45vFhToZg8ABIXKAp3nggm) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Numbers Up](https://open.spotify.com/album/5nV448yp33kVXzPAZ2BwwU) | 3:25 | 2021-12-10 |  |
 | [Olé](https://open.spotify.com/track/6cTSInCxBcwkxzPkPWgeZa) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Olé](https://open.spotify.com/album/3Hb5IQlGre1L2S6VJf3ier) | 3:12 | 2021-12-10 |  |
 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 | 2021-12-10 |  |
@@ -35,6 +39,7 @@
 | [popstar](https://open.spotify.com/track/6C2xaC4vv2eRwLqcy564vw) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [popstar](https://open.spotify.com/album/3QHPerVUNjQTLaEXilaMjE) | 3:08 | 2021-12-10 |  |
 | [RELAPSE](https://open.spotify.com/track/3SuTqS0CuFnVxC52vBArPy) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:37 | 2021-12-10 |  |
 | [Show Me](https://open.spotify.com/track/1Ey1TMpXKQY7rlJ0ZuNc50) | [Feng Suave](https://open.spotify.com/artist/73dudJ9j0HStIhJDU8MjMI) | [So Much for Gardening](https://open.spotify.com/album/3YeM4v2nWzBdcCl9awURhv) | 5:50 | 2021-12-10 |  |
+| [Smile](https://open.spotify.com/track/2ApL6VOKSrkgQpReK9CNSo) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Smile](https://open.spotify.com/album/0mdge9D2gBA10epxNEXjLS) | 3:04 | 2022-01-24 |  |
 | [Stuck in the Sky](https://open.spotify.com/track/0PZdvrkdzVpIyVCL7KLR2r) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:14 | 2021-12-10 |  |
 | [Trouble](https://open.spotify.com/track/3L7HXWRZMkSR7dEi4ttJOj) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Trouble](https://open.spotify.com/album/7arfU7Nnx72FDYB83muIRY) | 3:04 | 2021-12-10 |  |
 | [Turn Around](https://open.spotify.com/track/2tEnmxLtnpbhuSks6aOxeL) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Too Young](https://open.spotify.com/album/5ZfCvmBhlJhVyKFLits0lx) | 2:44 | 2021-12-10 |  |

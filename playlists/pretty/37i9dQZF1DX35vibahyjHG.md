@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35vibahyjHG.md) - [plain]
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS?si=s0zvcnIaTQapSs1oEuGkyw"> Amaarae </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,527 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,623 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

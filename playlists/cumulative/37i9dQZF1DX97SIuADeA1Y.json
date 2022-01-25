@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 168000,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/51jH04mYptcRL48ckvuHRW"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 139500,
       "name": "Barking",
       "url": "https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 167380,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 161280,
       "name": "Fall",
       "url": "https://open.spotify.com/track/00cSOUQOAsFheNuCPCJiuG"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 139354,
       "name": "Game",
       "url": "https://open.spotify.com/track/1282qgDXqqQiA6n3u1h32q"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/4dNa85ITSSRo5KNsIeQZpS"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 150490,
       "name": "Lonely Again",
       "url": "https://open.spotify.com/track/1QkjPhhkq7iP1kD3723Emy"
@@ -1051,6 +1051,24 @@
       "duration_ms": 172500,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/5HCab6cbYS5oQo29wc2dLq"
+    },
+    {
+      "album": {
+        "name": "Love You Harder",
+        "url": "https://open.spotify.com/album/44lM4V0MQLLv99rexIsStu"
+      },
+      "artists": [
+        {
+          "name": "Love Harder",
+          "url": "https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143386,
+      "name": "Love You Harder",
+      "url": "https://open.spotify.com/track/4n9I6aZgqQqXQcnRIB43yL"
     },
     {
       "album": {
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 149724,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/77fafaDntRMMnvMqQzJnAZ"
@@ -1337,10 +1355,32 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 158500,
       "name": "Pretty Lies",
       "url": "https://open.spotify.com/track/1xzH7KpEovrxJKhAGqid42"
+    },
+    {
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1408E9s5AnF4tN82Bd1uwI"
+      },
+      "artists": [
+        {
+          "name": "MAKJ",
+          "url": "https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C"
+        },
+        {
+          "name": "JYYE",
+          "url": "https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191658,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/3resw1emPDer4how0uuJTc"
     },
     {
       "album": {
@@ -1495,7 +1535,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 141170,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ"
@@ -1561,7 +1601,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 192755,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/1kwJP2mZ7NSFvtuAxqtCED"
@@ -1609,7 +1649,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 137708,
       "name": "Sushi",
       "url": "https://open.spotify.com/track/2kMSfE03xa0kyksSNIfufy"
@@ -1635,7 +1675,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 140500,
       "name": "Sweet Dreams (feat. Imanbek) - With Alok",
       "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
@@ -1893,7 +1933,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 140156,
       "name": "Whistle (feat. Bertie Scott)",
       "url": "https://open.spotify.com/track/6hEJvWfNOvTUhLuV1Or1of"
@@ -1915,7 +1955,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 130619,
       "name": "Wind Me Up",
       "url": "https://open.spotify.com/track/01oKml0Y3E0ASCSYgcYgfe"
@@ -1977,7 +2017,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 176744,
       "name": "You Spin Me Round (Like A Record) - Radio Edit",
       "url": "https://open.spotify.com/track/5zdbSrKdmK9qDTkqzidcN7"

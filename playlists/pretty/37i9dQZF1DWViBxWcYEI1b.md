@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Adele
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,097 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,177 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 15 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 |
 | 16 | [Rise](https://open.spotify.com/track/0s8aU1K1veT7CSpBfqZEFP) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rise](https://open.spotify.com/album/0mBLsvxWpym819aVv6uJO3) | 3:36 |
 | 17 | [Dancing Without Music](https://open.spotify.com/track/35JqhVvhuyBoPLLUY8Klqd) | [BRDGS](https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT) | [Ie+](https://open.spotify.com/album/0Q0dRDcgxKmNqtwdva153b) | 4:08 |
-| 18 | [If You Love Her \- feat\. Meghan Trainor](https://open.spotify.com/track/3yuIvz5stb9v9cljhZ5Zas) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [If You Love Her \(feat\. Meghan Trainor\)](https://open.spotify.com/album/2pOzE1qc9Yt3cspartxYl2) | 3:35 |
-| 19 | [Brave](https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave](https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql) | 3:21 |
-| 20 | [Dear August](https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:20 |
-| 21 | [Million To One \- from the Amazon Original Movie "Cinderella"](https://open.spotify.com/track/3lzYrD0WcgGFiAFKkB2shE) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Million To One \(from the Amazon Original Movie "Cinderella"\)](https://open.spotify.com/album/0dGNt03cGOE1F2c9KM9wlz) | 3:23 |
-| 22 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 |
-| 23 | [Anyone Who Loves Me](https://open.spotify.com/track/56dqKGvngcvxSEt8i9CuKb) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/4l1MLKyDun3edi5lrDwtZG) | 3:56 |
-| 24 | [Crowded Room](https://open.spotify.com/track/08gruHjc8xpZkn9iBtehPo) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Crowded Room](https://open.spotify.com/album/5eY17uKHYXR9cb3ufRwIUm) | 3:28 |
-| 25 | [A LOT](https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [A LOT](https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j) | 3:01 |
+| 18 | [Brave](https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave](https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql) | 3:21 |
+| 19 | [Dear August](https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:20 |
+| 20 | [Million To One \- from the Amazon Original Movie "Cinderella"](https://open.spotify.com/track/3lzYrD0WcgGFiAFKkB2shE) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Million To One \(from the Amazon Original Movie "Cinderella"\)](https://open.spotify.com/album/0dGNt03cGOE1F2c9KM9wlz) | 3:23 |
+| 21 | [Wishful Thinking](https://open.spotify.com/track/2JtbYlm4BF5rLFrhkyHXU1) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Wishful Thinking](https://open.spotify.com/album/6X2z7A7ecxou7Hz7haotFO) | 4:03 |
+| 22 | [Anyone Who Loves Me](https://open.spotify.com/track/56dqKGvngcvxSEt8i9CuKb) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/4l1MLKyDun3edi5lrDwtZG) | 3:56 |
+| 23 | [Crowded Room](https://open.spotify.com/track/08gruHjc8xpZkn9iBtehPo) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Crowded Room](https://open.spotify.com/album/5eY17uKHYXR9cb3ufRwIUm) | 3:28 |
+| 24 | [A LOT](https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [A LOT](https://open.spotify.com/album/4XGzDdMJjki0kKTPbrnD3j) | 3:01 |
+| 25 | [If You Love Her \- feat\. Meghan Trainor](https://open.spotify.com/track/3yuIvz5stb9v9cljhZ5Zas) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [If You Love Her \(feat\. Meghan Trainor\)](https://open.spotify.com/album/2pOzE1qc9Yt3cspartxYl2) | 3:35 |
 | 26 | [Hero](https://open.spotify.com/track/557Xkoud7EtdyjdyRkrhRy) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Hero](https://open.spotify.com/album/2JzWNdIyeicmPGTUJEoynM) | 2:54 |
 | 27 | [Come Close](https://open.spotify.com/track/10LSITr9KpQs2uCh7g2QQh) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Come Close](https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7) | 2:59 |
 | 28 | [Living My Best Life](https://open.spotify.com/track/0jDROv5ssPfOrkj23VqEIq) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/2XoxoOgF9kXJeXOp9GbGwI) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Forever](https://open.spotify.com/track/2B0CLwK9OFVKBWc2wXFiz7) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Grateful](https://open.spotify.com/album/4zenREUYEMa7XScW5oD3mA) | 3:07 |
 | 100 | [So Happy It Hurts](https://open.spotify.com/track/13rKI4xThtXQtlTBnuIXPj) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/6kTdIgZ2K6qbXZALyrO88K) | 3:35 |
 
-Snapshot ID: `MTY0Mjc4MjIyOCwwMDAwMDMwNTAwMDAwMTdlN2Q3MzgxNmMwMDAwMDE3ZTU2YWE1YTIw`
+Snapshot ID: `MTY0MzA1NzQ0OCwwMDAwMDMwNjAwMDAwMTdlOGRkYjA0YTEwMDAwMDE3ZTU2YWE1YTIw`

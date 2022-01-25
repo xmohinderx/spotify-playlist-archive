@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & singer\-songwriter\. Cover: Foy Vance & Anderson East
 
-[Spotify](https://open.spotify.com/user/spotify) - 700,008 likes - 152 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,142 likes - 152 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

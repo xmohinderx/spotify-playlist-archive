@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 132154,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0AV42KWeMXr7npiKyoyvrh"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 121640,
       "name": "Bodies - Intro",
       "url": "https://open.spotify.com/track/2Itnx6zp6Ztkex5JnRcy3U"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 151739,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/2wfhBk432aY2abZYUsFtdK"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 187030,
       "name": "colo(u)rs",
       "url": "https://open.spotify.com/track/7JVlElUz583S3EJIjeEYmR"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 289108,
       "name": "Fair Play",
       "url": "https://open.spotify.com/track/2bo0Th0LniI0U1KbwNm9mk"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 164642,
       "name": "Fireball",
       "url": "https://open.spotify.com/track/324ZWqJ5IPqemHwIq0w87Y"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 202160,
       "name": "Kingston",
       "url": "https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg"
@@ -1419,7 +1419,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 170606,
       "name": "MHS",
       "url": "https://open.spotify.com/track/7w1cWV6RG3EqHD33qR2ARj"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 235161,
       "name": "Motion",
       "url": "https://open.spotify.com/track/5QDiaIPUAFXD22LJakFHfH"
@@ -1517,6 +1517,24 @@
       "duration_ms": 191946,
       "name": "My World",
       "url": "https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co"
+    },
+    {
+      "album": {
+        "name": "Mystic Lover",
+        "url": "https://open.spotify.com/album/6NUcMrmhoAIwvO0kAhk6Rt"
+      },
+      "artists": [
+        {
+          "name": "Adeline",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235621,
+      "name": "Mystic Lover",
+      "url": "https://open.spotify.com/track/5Qs1FoJHwRJWx258CMJSxH"
     },
     {
       "album": {
@@ -1600,6 +1618,24 @@
     },
     {
       "album": {
+        "name": "You Are Here",
+        "url": "https://open.spotify.com/album/2N1NssWo9QEXqnpKLL3c9a"
+      },
+      "artists": [
+        {
+          "name": "April + VISTA",
+          "url": "https://open.spotify.com/artist/5XNCS8lVEpHHbaHv0EabAj"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217493,
+      "name": "Own2",
+      "url": "https://open.spotify.com/track/5yeLepyINbTDBadOF56V7i"
+    },
+    {
+      "album": {
         "name": "Protection",
         "url": "https://open.spotify.com/album/5c1ExU1WZbSUBRRaF9vF1F"
       },
@@ -1633,7 +1669,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 224050,
       "name": "PATTERNS",
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
@@ -1851,7 +1887,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 232682,
       "name": "ROLLA",
       "url": "https://open.spotify.com/track/0E1ECahwlKkFkoi5uFHfRB"
@@ -1887,7 +1923,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 213000,
       "name": "Say It",
       "url": "https://open.spotify.com/track/65Z2lFJMMVdHpBCL0k5Qub"
@@ -2033,7 +2069,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 223448,
       "name": "so into you",
       "url": "https://open.spotify.com/track/46FCQmvdSmTnYiPpLz1GA8"
@@ -2051,7 +2087,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 230973,
       "name": "Somehow.",
       "url": "https://open.spotify.com/track/2zk7TQx9Xa4yxYmsjgDCPp"
@@ -2215,7 +2251,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 211090,
       "name": "Talk to Yuh",
       "url": "https://open.spotify.com/track/6fwV7mBG3K6eAmSfPmNtK6"
@@ -2233,7 +2269,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 130478,
       "name": "Thrive",
       "url": "https://open.spotify.com/track/0fuKweowW67sGmmuOp8GZW"
@@ -2251,7 +2287,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 227253,
       "name": "Too Much to Ask",
       "url": "https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1"
@@ -2539,7 +2575,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 129071,
       "name": "You",
       "url": "https://open.spotify.com/track/68Q8gyJ6Jy9yGJ0h99hfuM"

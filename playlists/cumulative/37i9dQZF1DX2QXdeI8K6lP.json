@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 158386,
       "name": "Amor Que Malo Eres",
       "url": "https://open.spotify.com/track/4OYUiD0OpoCbUGKqRbBOMm"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 172466,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/1LRMRPhC8ZEniqe16Rzlkm"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 165186,
       "name": "Candilejas",
       "url": "https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 180840,
       "name": "Cha Cha Linda",
       "url": "https://open.spotify.com/track/6HAcngnAkOIgpfU0jGsXri"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 170733,
       "name": "Conozco La Verdad",
       "url": "https://open.spotify.com/track/08Bc5JzkGuMS53ZkDSgHsg"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 179520,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx"
@@ -659,6 +659,24 @@
       "duration_ms": 165106,
       "name": "Despierta",
       "url": "https://open.spotify.com/track/6ipKZL678L6S4L93oBmqtz"
+    },
+    {
+      "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/1AwKxxu6mqRri6YC2Ia63s"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Dime la Verdad",
+      "url": "https://open.spotify.com/track/3CtBhtaTiHlhsXGEzAwmQW"
     },
     {
       "album": {
@@ -763,7 +781,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 158026,
       "name": "Empiezo a Extra\u00f1arte",
       "url": "https://open.spotify.com/track/3lLSg8IEC1MEjk4zA1Dz0U"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 205480,
       "name": "Flor de Azalea",
       "url": "https://open.spotify.com/track/0TU7x7BKZSg71PuAzIFtzW"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 169440,
       "name": "La Mentira (Se Te Olvida)",
       "url": "https://open.spotify.com/track/0hIZpsGeGuGNQAFgTeqoBs"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 196546,
       "name": "Mil Violines",
       "url": "https://open.spotify.com/track/3t0WdkqETzUtNKDhwWvY3Q"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 154120,
       "name": "Perla Negra",
       "url": "https://open.spotify.com/track/4z4BKAp6RpZZlNa1QQiYeA"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 173720,
       "name": "Poquita F\u00e9",
       "url": "https://open.spotify.com/track/1eU6j0ZAkWFlVmgmieZZ8u"
@@ -1685,6 +1703,36 @@
       "duration_ms": 190933,
       "name": "Que Seas Feliz",
       "url": "https://open.spotify.com/track/0jm8gV7Dx2DqxUdb87T9xo"
+    },
+    {
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120061,
+      "name": "Quiero Conocerte",
+      "url": "https://open.spotify.com/track/0UaLz8op9qrew1xOa3vtpf"
     },
     {
       "album": {
@@ -1775,7 +1823,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 186133,
       "name": "Sabra Dios",
       "url": "https://open.spotify.com/track/7fcXNUtZSgh9VrKW58Bjuz"
@@ -1919,7 +1967,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 165800,
       "name": "Son De La Loma",
       "url": "https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC"
@@ -2117,7 +2165,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 157493,
       "name": "Una Copa M\u00e1s",
       "url": "https://open.spotify.com/track/5dhelPVtMadkXASjPUmqO5"
@@ -2187,6 +2235,24 @@
       "duration_ms": 131666,
       "name": "Veracruz",
       "url": "https://open.spotify.com/track/5nl4vpUgbA78kTgf9CLSpN"
+    },
+    {
+      "album": {
+        "name": "Tr\u00edos Del Mundo : 40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/4qDMttlrhBPyHKgHgyBHwg"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Voy Gritando Por La Calle",
+      "url": "https://open.spotify.com/track/1N8bDOEWUwfZZ9X2GbwGI3"
     },
     {
       "album": {

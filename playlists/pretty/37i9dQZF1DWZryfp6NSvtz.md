@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > All new, all rock\. Cover: Deaf Havana
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,054 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,273 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 44 | [Keep Going](https://open.spotify.com/track/14YFX4TkMfBY7ibVbtTbzh) | [Atlas for Home](https://open.spotify.com/artist/37spg9xBapfjLG1oE8uv7a) | [Keep Going](https://open.spotify.com/album/4qPiGWdTX6uusv4dhTZVSK) | 3:55 |
 | 45 | [Hi\-Vis Baby](https://open.spotify.com/track/02vUBgTQYcwK9s7kM7zTm5) | [Bakers Eddy](https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD) | [Hi\-Vis Baby](https://open.spotify.com/album/197H8piXXhPT867aEB2I4z) | 2:16 |
 | 46 | [Wake Up](https://open.spotify.com/track/50EaTSirqX6hZS1W2Ja75H) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [World I Understand](https://open.spotify.com/album/3M7gwBCWbgPuHdLPazTJd9) | 3:22 |
-| 47 | [Tryna Talk](https://open.spotify.com/track/50rt3WDBricjuSu73BbeFx) | [32 tens](https://open.spotify.com/artist/5KyAFIhMw69IMOud8Ub20y) | [Tryna Talk](https://open.spotify.com/album/4RVohkJRRDnCi8GxFu3OT0) | 2:56 |
-| 48 | [Alcohol](https://open.spotify.com/track/5B0cWUeFpYUGP50B7iGrHE) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [Alcohol](https://open.spotify.com/album/7njC1QirOre5gVQomwx1j9) | 3:41 |
-| 49 | [Wreck It All](https://open.spotify.com/track/2IFJ4vuCLazWviljqQqguj) | [Charming Liars](https://open.spotify.com/artist/478LE0Vmglapdba9xQQt0J) | [Wreck It All](https://open.spotify.com/album/759VHplcO6ZM7bHHcrA095) | 2:53 |
-| 50 | [Lekkerboy](https://open.spotify.com/track/2ZHDEvhtWCuck1Yg1DGugi) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Lekkerboy](https://open.spotify.com/album/1MkyBplbAFrpMFpgiXFNS9) | 5:01 |
-| 51 | [Plaque Protection](https://open.spotify.com/track/2in7DmrPjFsFkkFwZpJd58) | [Sham Family](https://open.spotify.com/artist/35pfnH3vn7DIc0hGC6JdcW) | [Plaque Protection](https://open.spotify.com/album/12gbNMI9j5JVXchpOAfT8s) | 2:47 |
+| 47 | [Alcohol](https://open.spotify.com/track/5B0cWUeFpYUGP50B7iGrHE) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [Alcohol](https://open.spotify.com/album/7njC1QirOre5gVQomwx1j9) | 3:41 |
+| 48 | [Wreck It All](https://open.spotify.com/track/2IFJ4vuCLazWviljqQqguj) | [Charming Liars](https://open.spotify.com/artist/478LE0Vmglapdba9xQQt0J) | [Wreck It All](https://open.spotify.com/album/759VHplcO6ZM7bHHcrA095) | 2:53 |
+| 49 | [Lekkerboy](https://open.spotify.com/track/2ZHDEvhtWCuck1Yg1DGugi) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Lekkerboy](https://open.spotify.com/album/1MkyBplbAFrpMFpgiXFNS9) | 5:01 |
+| 50 | [Plaque Protection](https://open.spotify.com/track/2in7DmrPjFsFkkFwZpJd58) | [Sham Family](https://open.spotify.com/artist/35pfnH3vn7DIc0hGC6JdcW) | [Plaque Protection](https://open.spotify.com/album/12gbNMI9j5JVXchpOAfT8s) | 2:47 |
 
-Snapshot ID: `MTY0Mjc4MzQ1NiwwMDAwMDJmYzAwMDAwMTdlN2Q4NjNjYWMwMDAwMDE3ZTU5OWQyZmRl`
+Snapshot ID: `MTY0MzAxMDczNywwMDAwMDJmZDAwMDAwMTdlOGIxMjQ1ZDIwMDAwMDE3ZTU5OWQyZmRl`

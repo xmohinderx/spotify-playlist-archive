@@ -221,7 +221,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 248293,
       "name": "Birth, School, Work, Death",
       "url": "https://open.spotify.com/track/4WEPWs9LmYPEaUCQlSzZC3"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 221053,
       "name": "Brilliant Mind",
       "url": "https://open.spotify.com/track/6lN2rz6C3XTq6RauOl8J3a"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 403573,
       "name": "Cat People (Putting Out Fire)",
       "url": "https://open.spotify.com/track/72OWnDDKTtw3x7tevXHlno"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 277600,
       "name": "Chance - Single / Extended Version",
       "url": "https://open.spotify.com/track/3sL4xb07E2LJDkX6zLwGcM"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 173173,
       "name": "Debaser",
       "url": "https://open.spotify.com/track/3FzKPS0oVknVlCW3PhxIHl"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 354639,
       "name": "Dreiklangsdimensionen",
       "url": "https://open.spotify.com/track/6ng1rv2P24h2wly30Jbnz7"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 239280,
       "name": "Eighties - 2007 Digital Remaster",
       "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 219066,
       "name": "Electricity - Remastered 2003",
       "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 237706,
       "name": "Gigantic",
       "url": "https://open.spotify.com/track/3oqJ3POeLfa2TJh6BFLhPM"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 251480,
       "name": "Head On",
       "url": "https://open.spotify.com/track/6RZZH2tHv1eGKqwJrPB13f"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 126440,
       "name": "I Can't Stand Up For Falling Down",
       "url": "https://open.spotify.com/track/5h0CMhpV8wmPfcmL3xXRkz"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 336230,
       "name": "I Scare Myself",
       "url": "https://open.spotify.com/track/6XhpH1fs9BLFk0IxEGyecw"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 331240,
       "name": "I Still Believe (Great Design)",
       "url": "https://open.spotify.com/track/6XpG30QPzV1wkuUhUMw64l"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "I Travel",
       "url": "https://open.spotify.com/track/3GRyWgNPX5rBdh0VQctl5P"
@@ -1277,10 +1277,32 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 175093,
       "name": "Isolation - 2007 Remaster",
       "url": "https://open.spotify.com/track/3KN1A4XVt5lYudW7M6gD9T"
+    },
+    {
+      "album": {
+        "name": "Fun Boy Three",
+        "url": "https://open.spotify.com/album/6eipr8qGfVcmqtfpiOYDbJ"
+      },
+      "artists": [
+        {
+          "name": "Fun Boy Three",
+          "url": "https://open.spotify.com/artist/1dmEUAQBopYUrsMnQnScWL"
+        },
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "date_added": "2019-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172480,
+      "name": "It Ain't What You Do It's the Way That You Do It",
+      "url": "https://open.spotify.com/track/4wQJLFN6BU0ptUoe0T2lcO"
     },
     {
       "album": {
@@ -1403,7 +1425,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 299000,
       "name": "Kristallnaach",
       "url": "https://open.spotify.com/track/2aZsp1KAJLMOaW2socza14"
@@ -1555,7 +1577,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 212573,
       "name": "Love Plus One",
       "url": "https://open.spotify.com/track/4vwLjB2NRtl9b34jRe6cWd"
@@ -1645,7 +1667,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 273746,
       "name": "Major Tom (V\u00f6llig Losgel\u00f6st)",
       "url": "https://open.spotify.com/track/2qZQtey4lTwvvABVMrO4h8"
@@ -1663,7 +1685,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 233800,
       "name": "Making Plans For Nigel",
       "url": "https://open.spotify.com/track/3ey3YMZLdl1tQjbz7EJkKG"
@@ -1771,7 +1793,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 241693,
       "name": "My Spine Is The Bassline",
       "url": "https://open.spotify.com/track/3VxFd7SnACXpFR2LBROrsR"
@@ -2257,7 +2279,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 311826,
       "name": "Red Guitar",
       "url": "https://open.spotify.com/track/4bV9p4yeBDEGQHZoQnmbtT"
@@ -2405,7 +2427,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 230333,
       "name": "Seven Into The Sea",
       "url": "https://open.spotify.com/track/2QS2qdVaLXOfokeTlJo5AV"
@@ -2693,7 +2715,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 241013,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/42pwUwxNpqxPEEzCnu7eOn"
@@ -2765,7 +2787,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 304906,
       "name": "The Lebanon",
       "url": "https://open.spotify.com/track/5d4ZCmvSLvjMOSdIKkCyQ5"
@@ -3143,7 +3165,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 204906,
       "name": "Walk out to Winter",
       "url": "https://open.spotify.com/track/6Z2TIb43jnjHcmMGSkxJcI"
@@ -3316,6 +3338,24 @@
     },
     {
       "album": {
+        "name": "From The Lion's Mouth",
+        "url": "https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI"
+      },
+      "artists": [
+        {
+          "name": "The Sound",
+          "url": "https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258079,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2"
+    },
+    {
+      "album": {
         "name": "Alle 40 Goed - 80's",
         "url": "https://open.spotify.com/album/1nImqnEjONcXaE99zT9Ddw"
       },
@@ -3327,7 +3367,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 247973,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/7w76loirJapdVKMf6sFrJo"
@@ -3381,7 +3421,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "World Shut Your Mouth",
       "url": "https://open.spotify.com/track/2GF0D3d6LKIsDnk8ufpBQa"
@@ -3407,7 +3447,7 @@
       ],
       "date_added": "2020-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 268240,
       "name": "Would I Lie to You? - Remastered Version",
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"

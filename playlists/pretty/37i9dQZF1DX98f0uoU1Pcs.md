@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt  & Indie\. Cover: Dry Cleaning
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,390 likes - 108 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,490 likes - 108 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

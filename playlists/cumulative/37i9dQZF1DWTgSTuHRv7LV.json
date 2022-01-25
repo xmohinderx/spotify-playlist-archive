@@ -118,6 +118,24 @@
     },
     {
       "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209253,
+      "name": "7 De Mayo",
+      "url": "https://open.spotify.com/track/5fub19NZQ0CBmwzERs0QTe"
+    },
+    {
+      "album": {
         "name": "7 De Mayo",
         "url": "https://open.spotify.com/album/1nKovORSFiC5BVIhuZAHBP"
       },
@@ -129,7 +147,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 209640,
       "name": "7 De Mayo",
       "url": "https://open.spotify.com/track/48wkz2E0apRJr6E4zQyDpx"
@@ -225,7 +243,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 205565,
       "name": "Air Drop",
       "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
@@ -243,10 +261,28 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 162304,
       "name": "AL CAPONE",
       "url": "https://open.spotify.com/track/4igzqj5TrceDGrJcZYM0pl"
+    },
+    {
+      "album": {
+        "name": "SEN2 KBRN VOL. 1",
+        "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162304,
+      "name": "AL CAPONE",
+      "url": "https://open.spotify.com/track/6KAWHhTnc0cjaNSHcmCs72"
     },
     {
       "album": {
@@ -477,7 +513,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 170501,
       "name": "Buen Viaje",
       "url": "https://open.spotify.com/track/3Rmu4NKTTjJvScgZaKkMJG"
@@ -547,7 +583,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 182728,
       "name": "Burros de Salitre",
       "url": "https://open.spotify.com/track/4qogq65KKQhTrs7N7iTjg8"
@@ -735,7 +771,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 163320,
       "name": "ChuliGang",
       "url": "https://open.spotify.com/track/074SlodfrBibHYC0Y8Qata"
@@ -867,7 +903,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 259583,
       "name": "Conversacion Con Dios",
       "url": "https://open.spotify.com/track/7gUDNkTcVw0pQTY9HWHFSw"
@@ -925,7 +961,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 132680,
       "name": "Cotidiano",
       "url": "https://open.spotify.com/track/5fhXtKQWLg6pjE4Ca02hgd"
@@ -947,7 +983,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 182527,
       "name": "Cuando Entramos en Acci\u00f3n",
       "url": "https://open.spotify.com/track/1wNN9AHg48S1Ye1KNfgm2J"
@@ -1001,7 +1037,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 193714,
       "name": "Cuanto tiempo pas\u00f3",
       "url": "https://open.spotify.com/track/7ix78YkXvHRpCpxy2V943y"
@@ -1209,7 +1245,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 140922,
       "name": "Dunks",
       "url": "https://open.spotify.com/track/77SKceRxQ0I9zCj85KVB3c"
@@ -1271,7 +1307,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 214436,
       "name": "El Gran Robo, Pt. 2",
       "url": "https://open.spotify.com/track/7oqxgOFRoLx9uDfgcMxkNa"
@@ -1491,7 +1527,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 225973,
       "name": "Envidioso",
       "url": "https://open.spotify.com/track/7J4VKp49Uh2r84SK5pUa0A"
@@ -1633,7 +1669,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 149832,
       "name": "Flight 0005",
       "url": "https://open.spotify.com/track/2u0scduYhDt9J3HpSI4WWQ"
@@ -1673,7 +1709,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 143426,
       "name": "Flow Challenge",
       "url": "https://open.spotify.com/track/3dcBPJ2GemXkY8VJtwOC8M"
@@ -1695,7 +1731,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 173538,
       "name": "Flow Pe$ado",
       "url": "https://open.spotify.com/track/0OmcEs8jVVRaPB2U4KR1OZ"
@@ -1793,7 +1829,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 159743,
       "name": "Fumala",
       "url": "https://open.spotify.com/track/3hveYmQDkG4C531ghqPRhd"
@@ -1811,7 +1847,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 217228,
       "name": "G-500",
       "url": "https://open.spotify.com/track/5UYRBkNws3RZFfDvGGjBuG"
@@ -2241,7 +2277,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "Icy",
       "url": "https://open.spotify.com/track/0wdWp0BJKTDCiHvV0HivcM"
@@ -2331,7 +2367,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 195313,
       "name": "Jaguar",
       "url": "https://open.spotify.com/track/3k3Hm3PBmnE7bNCExKOxFm"
@@ -2393,7 +2429,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 204511,
       "name": "Joseando",
       "url": "https://open.spotify.com/track/67Yw5OgtVMoRdOkVSbUXXw"
@@ -2495,7 +2531,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 225786,
       "name": "Kobe En LA",
       "url": "https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov"
@@ -2743,7 +2779,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 251473,
       "name": "Lambo - Remix",
       "url": "https://open.spotify.com/track/6TcRhfejpeeSSGlh433wcD"
@@ -2875,7 +2911,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 205733,
       "name": "Los De Siempre",
       "url": "https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS"
@@ -3069,7 +3105,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 218139,
       "name": "Milloneta",
       "url": "https://open.spotify.com/track/6U2fTWEr4MffXBDSMr2ML2"
@@ -3183,7 +3219,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "M\u00ednimo",
       "url": "https://open.spotify.com/track/5PPtgvTTRPXGyEYnxbDGxR"
@@ -3293,7 +3329,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 190206,
       "name": "No Me Importa un Carajo",
       "url": "https://open.spotify.com/track/1OGhv7OFVVIKsbVD3g4MAR"
@@ -3551,7 +3587,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 266883,
       "name": "Paperz",
       "url": "https://open.spotify.com/track/6r190u817cbZYHB85EiUVu"
@@ -3625,7 +3661,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 214700,
       "name": "Perico",
       "url": "https://open.spotify.com/track/57LGhr0kY4isaQdv301bg6"
@@ -3643,7 +3679,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 167856,
       "name": "Plata",
       "url": "https://open.spotify.com/track/5eekxFFBOvM3w0XiDP1VH7"
@@ -3705,7 +3741,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 173333,
       "name": "Problema",
       "url": "https://open.spotify.com/track/734ZXeQ454V5VN15GETKt2"
@@ -3727,7 +3763,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 218000,
       "name": "Problemas",
       "url": "https://open.spotify.com/track/2ZyhTy2QNKXBCmq2XbJWaD"
@@ -3925,7 +3961,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 270608,
       "name": "Quedate Sola",
       "url": "https://open.spotify.com/track/0UT1rpFwDw5GLM7jDVs9pN"
@@ -4067,7 +4103,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 150060,
       "name": "RONCA FREESTYLE",
       "url": "https://open.spotify.com/track/3XZeOzJ9tqnu58YP6cqApI"
@@ -4096,6 +4132,24 @@
     },
     {
       "album": {
+        "name": "Sauce Boy Freestyle 4",
+        "url": "https://open.spotify.com/album/6nC2XJQzEnjN6ZJj1Hjhsk"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119880,
+      "name": "Sauce Boy Freestyle 4",
+      "url": "https://open.spotify.com/track/2YxtTwXQ9tPwaYnJv75L5D"
+    },
+    {
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -4107,7 +4161,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 176400,
       "name": "Sauce Boy Freestyle 5",
       "url": "https://open.spotify.com/track/69L3B6ZuwodK4NL8bAPgJc"
@@ -4593,7 +4647,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "TIROTEO #2: Leyenda como Kobe",
       "url": "https://open.spotify.com/track/6LPVPZOlqNOPzE95g0QbGM"
@@ -4745,7 +4799,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 231578,
       "name": "TONYTHEKID",
       "url": "https://open.spotify.com/track/0ccrr003grgY0CwolxfqiE"
@@ -5019,7 +5073,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 151743,
       "name": "West Side",
       "url": "https://open.spotify.com/track/6d4011p5G8tUDod5hYyNZS"
@@ -5077,7 +5131,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 200930,
       "name": "Word",
       "url": "https://open.spotify.com/track/1aDinHzGNHgACWIhztAv2u"

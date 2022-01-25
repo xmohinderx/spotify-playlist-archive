@@ -27,7 +27,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 243252,
       "name": "1017 (feat. Gucci Mane & Yung Mal)",
       "url": "https://open.spotify.com/track/0t0qLzCLI1mlQKbFyzlIEv"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 108068,
       "name": "Different - Freestyle",
       "url": "https://open.spotify.com/track/3VRlnEG1YXsuMCiaf1ybY0"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 174985,
       "name": "Don't Touch",
       "url": "https://open.spotify.com/track/08gwEJgv0JgsABWgskkxap"
@@ -905,7 +905,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 214583,
       "name": "Nunnadet Shit",
       "url": "https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh"
@@ -1007,10 +1007,28 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 125675,
       "name": "Run Me My Money",
       "url": "https://open.spotify.com/track/5e2GpbPELieepYsdPRgoNA"
+    },
+    {
+      "album": {
+        "name": "Sh*t Talk",
+        "url": "https://open.spotify.com/album/094QE83Reqq5ktiJDrunR7"
+      },
+      "artists": [
+        {
+          "name": "Melii",
+          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+        }
+      ],
+      "date_added": "2021-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152749,
+      "name": "Sh*t Talk",
+      "url": "https://open.spotify.com/track/7gtV9GNeU797beAEhAl2qA"
     },
     {
       "album": {

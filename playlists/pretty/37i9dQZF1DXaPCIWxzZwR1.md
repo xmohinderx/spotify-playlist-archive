@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > before he was Elliot, Dominic Fike made some seriously good music
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,230 likes - 106 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,874 likes - 106 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

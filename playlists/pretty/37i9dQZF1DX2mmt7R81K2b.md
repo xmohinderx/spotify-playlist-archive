@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,437 likes - 52 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,207 likes - 52 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 51 | [Turkish Rondo](https://open.spotify.com/track/2QJg3WPi2to3IOA3WfHBlO) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Kaleidoscope](https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b) | 3:37 |
 | 52 | [Moonlight Sonata](https://open.spotify.com/track/6B7JRtfZCcZ9Ra2vISs08q) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [Impromptu](https://open.spotify.com/album/1Tvn7vVEQu9RAaLgulrYBe) | 6:49 |
 
-Snapshot ID: `MTY0MjExNDg2MCwwMDAwMDAyNzAwMDAwMTdlNTVhYzQ0NTQwMDAwMDE3ZDcxOTE5N2Yz`
+Snapshot ID: `MTY0MzAxODk0NywwMDAwMDAyODAwMDAwMTdlOGI4ZjhiMmEwMDAwMDE3ZDcxOTE5N2Yz`

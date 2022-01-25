@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 216560,
       "name": "A Lingering Love",
       "url": "https://open.spotify.com/track/6Edccn5z5RF4fb0nzFfpzH"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 207533,
       "name": "All Fall Down",
       "url": "https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 197614,
       "name": "Cars",
       "url": "https://open.spotify.com/track/1tc5X4yxo5W9Y2mwnWig8Q"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 295454,
       "name": "Change",
       "url": "https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 290773,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/4qaSjOOFUfC9Neg9RIoQeN"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 205249,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/7tVYedjMc62HAxf10SbncH"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 203106,
       "name": "How Lucky",
       "url": "https://open.spotify.com/track/22YbmBNDcL1jACZIPuItR8"
@@ -1253,7 +1253,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 249626,
       "name": "Like An Eagle",
       "url": "https://open.spotify.com/track/5hz3fnewQs5j3bzd3bABvh"
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 221360,
       "name": "Oakmoss",
       "url": "https://open.spotify.com/track/7Bfv08ce0ofu4EbYTxomCC"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 217749,
       "name": "Orion",
       "url": "https://open.spotify.com/track/0qnpxbStMCvnIaHixVjuPk"
@@ -1903,7 +1903,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 235272,
       "name": "seasonal affective disorder",
       "url": "https://open.spotify.com/track/32svp2B3O8zQk5TnlLOYUd"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 200466,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/6gQGeiEAMch2cIUPKzJQqM"
@@ -2055,6 +2055,24 @@
       "duration_ms": 188800,
       "name": "Speaking of the End",
       "url": "https://open.spotify.com/track/05WcicrMesButARnfWkrJe"
+    },
+    {
+      "album": {
+        "name": "Spiders",
+        "url": "https://open.spotify.com/album/75Qwc3d50bgNBmzleMEWJK"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228253,
+      "name": "Spiders",
+      "url": "https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC"
     },
     {
       "album": {
@@ -2163,7 +2181,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 128703,
       "name": "Tenderfoot",
       "url": "https://open.spotify.com/track/2EuXTlhlCKGtbXlGG0jE9Y"

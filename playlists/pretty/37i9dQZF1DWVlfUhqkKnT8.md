@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlfUhqkKnT8.md) - [plain]
 
 > Listen to these variations for <a href="spotify:user:spotify:playlist:37i9dQZF1DXah8e1pvF5oE">piano</a> in their entirety, and see endless forms most beautiful and most wonderful evolved from simple themes, in the hands of great composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,908 likes - 268 songs - 11 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,911 likes - 268 songs - 11 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlfUhqkKnT8.md) - [plain]
 | 267 | [Meditation on Haydn’s Name](https://open.spotify.com/track/4uuPH38SWjJmseUqZbbbbR) | [George Benjamin](https://open.spotify.com/artist/5g9zIZkmU9m893xgFpbkfe), [Benjamin Hochman](https://open.spotify.com/artist/67HXgmzvtbd4WYRNEhknSk) | [Variations](https://open.spotify.com/album/4dX07kCE63YgljMOOED6Tr) | 2:57 |
 | 268 | [Piano Sonata No\. 32 in C Minor, Op\. 111: II\. Arietta \- Adagio molto semplice e cantabile](https://open.spotify.com/track/7HUqHZ0gjrlnHPVyvYa5QI) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Beethoven: Piano Sonatas Op.106 "Hammerklavier" & Op.111](https://open.spotify.com/album/0llvSV0sGDO1TFc2wIaeOg) | 17:23 |
 
-Snapshot ID: `MTU4MzQ4OTA2MiwwMDAwMDAwOTAwMDAwMTVmZGRiMjdjN2MwMDAwMDE3MGFmNGQ5NGU4`
+Snapshot ID: `MTY0MzAyMTQwMiwwMDAwMDAwYTAwMDAwMTdlOGJiNTAwYWMwMDAwMDE3MGFmNGQ5NGU4`

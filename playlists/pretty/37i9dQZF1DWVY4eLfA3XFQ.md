@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Hey\. It’s <a href="https://hoo.be/acraze">ACRAZE</a> and I'm taking over Operator with my favorite tunes to play out and just vibe to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,559 likes - 124 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,539 likes - 124 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

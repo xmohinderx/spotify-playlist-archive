@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 240000,
       "name": "9.30pm",
       "url": "https://open.spotify.com/track/7sVySvSTq1w7jg8RxJ8FYU"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 164000,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/0kDaCo0U2UcaM3SgZ1Ji7X"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 231192,
       "name": "Automaton",
       "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
@@ -181,10 +181,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 292000,
       "name": "Black To The Future",
       "url": "https://open.spotify.com/track/3RZZ8KnNq63Isfqo67KI4W"
+    },
+    {
+      "album": {
+        "name": "Retrowave",
+        "url": "https://open.spotify.com/album/3zKj0Uhic2uNL84tPvmIXu"
+      },
+      "artists": [
+        {
+          "name": "Axel Le Baron",
+          "url": "https://open.spotify.com/artist/41uv2mafbkMfpRYMF4H5dO"
+        },
+        {
+          "name": "Arnaud Diaz",
+          "url": "https://open.spotify.com/artist/6DW60YY7dGV5ZH4webX87F"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252222,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/7s59SzYLvJOM4j23J1dOs3"
     },
     {
       "album": {
@@ -239,7 +261,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 228196,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1wdLaeNn73zbpYVqw8mlYz"
@@ -257,7 +279,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 280240,
       "name": "Crepuscule",
       "url": "https://open.spotify.com/track/4R892ve3lkQWo6mKxsVbZN"
@@ -329,7 +351,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 242142,
       "name": "Dangerous Dreams",
       "url": "https://open.spotify.com/track/1hFQfBk8Nl8YnfD6a2xGfB"
@@ -365,7 +387,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 257490,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ"
@@ -685,7 +707,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 253745,
       "name": "Gutterpunk Kids",
       "url": "https://open.spotify.com/track/0SovI9ZaXKFzN1b26U0627"
@@ -703,7 +725,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 299913,
       "name": "Homebound",
       "url": "https://open.spotify.com/track/1M7tv8CnuKzTVK4otfr355"
@@ -721,7 +743,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 159939,
       "name": "Homo Deus",
       "url": "https://open.spotify.com/track/3l5bTYYEBEteJpi1MsA5qR"
@@ -757,7 +779,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 257175,
       "name": "Implant",
       "url": "https://open.spotify.com/track/3xG8Xcrke8F1gfYjzQE1Le"
@@ -775,7 +797,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 242842,
       "name": "Last Path",
       "url": "https://open.spotify.com/track/6g8EEkAjIuJ56RLKKgHpKT"
@@ -891,7 +913,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 257614,
       "name": "Looking for Tracy Tzu",
       "url": "https://open.spotify.com/track/546WYUcLvrd9YifNgEaGsi"
@@ -931,7 +953,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 327289,
       "name": "Luminance",
       "url": "https://open.spotify.com/track/0BxJspnDFiFfaOgOf0mSlw"
@@ -971,7 +993,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 231533,
       "name": "Maximum Performance",
       "url": "https://open.spotify.com/track/0VpFKLQP6Deh6sHETGCzrp"
@@ -1011,7 +1033,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 319250,
       "name": "Neo-Tokyo - Chromatique Remix",
       "url": "https://open.spotify.com/track/4994qi4UjoPStjsbUB8AAF"
@@ -1127,7 +1149,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 290690,
       "name": "Nightdrive (1984 Mix)",
       "url": "https://open.spotify.com/track/59RQNWwH7eQ7PKwHvAbEN7"
@@ -1145,7 +1167,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 252121,
       "name": "Nightride (Revisited)",
       "url": "https://open.spotify.com/track/52xsz9WmVwCXiRFOvMh5yQ"
@@ -1171,6 +1193,28 @@
       "duration_ms": 237104,
       "name": "Nighttime - Polyark Remix",
       "url": "https://open.spotify.com/track/1HKNHY7DVQmNuD0J0mTHCt"
+    },
+    {
+      "album": {
+        "name": "Northern Sky (Dusky Remix)",
+        "url": "https://open.spotify.com/album/5YPbhMGxBR5Abd3gOujpMY"
+      },
+      "artists": [
+        {
+          "name": "Trance Wax",
+          "url": "https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE"
+        },
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325576,
+      "name": "Northern Sky - Dusky Remix",
+      "url": "https://open.spotify.com/track/0xrxfza8oO7xCHvkVgVMPP"
     },
     {
       "album": {
@@ -1239,7 +1283,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 257816,
       "name": "Odyssey Point",
       "url": "https://open.spotify.com/track/4yAbkwL4TVGx3SPLymUL4L"
@@ -1463,7 +1507,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 168000,
       "name": "Space Amplitude",
       "url": "https://open.spotify.com/track/1i1SfCWBq5xqNG4m5WtQKv"
@@ -1553,7 +1597,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 196124,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/0boFCbuZjHFMRBbueUaXXz"
@@ -1575,7 +1619,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 360874,
       "name": "Synthesizer Hearts - W.H. Lung Remix",
       "url": "https://open.spotify.com/track/2a42N7b4XOl42OsL2EZvQt"
@@ -1701,7 +1745,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 186947,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg"
@@ -1719,7 +1763,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 324049,
       "name": "Ultimo",
       "url": "https://open.spotify.com/track/0jtagVogty503eUAY7psju"
@@ -1737,7 +1781,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 374400,
       "name": "Visitors",
       "url": "https://open.spotify.com/track/3zT42LxWW5YUFEZDukGp5x"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\) cover: GRAE
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,320 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,325 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 3 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
 | 4 | [you can't stay mad at me](https://open.spotify.com/track/2xYVyHIRMmA6dVqSrn3ReA) | [lael](https://open.spotify.com/artist/1znowipTv2C0PgcaulHEA8) | [you can't stay mad at me](https://open.spotify.com/album/1VTGmkgwWYNJjsI0fxiYdO) | 2:16 |
 | 5 | [Two Moons](https://open.spotify.com/track/5GxUKIEkMXXZo1Tif0IzfC) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Fever Dreams](https://open.spotify.com/album/0NzheutoSuzfMlENTnHTQl) | 3:44 |
-| 6 | [Sugar Water](https://open.spotify.com/track/3Iz4PDGaluy5xMzEKNlNTV) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Sugar Water](https://open.spotify.com/album/7KaeswQ7KASRrO7EkXEoV8) | 3:18 |
+| 6 | [Her](https://open.spotify.com/track/4wrU0njLIARnN1czWi3XDP) | [Bookclub](https://open.spotify.com/artist/7EGhv1hgTSLN2ld2kDbfd1) | [Her](https://open.spotify.com/album/1RwNSpnPffYhuDACj17B9W) | 4:12 |
 | 7 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 |
 | 8 | [i still hate us](https://open.spotify.com/track/5qKGh3c0sS7XMJIJreMNmS) | [One Hope](https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj) | [nostalgic nightmares](https://open.spotify.com/album/0VLJpXLiUj0ICUFRAUQ8Pi) | 3:20 |
 | 9 | [Failed English](https://open.spotify.com/track/7kj0SRhn9ovQ8N5dBtCPna) | [AVIV](https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo) | [Failed English](https://open.spotify.com/album/1BVE4R2Ze79EwSJ55Ha5hW) | 2:43 |
 | 10 | [I Fell in Love Again](https://open.spotify.com/track/2vAFFYY2Iwhry8o8ZQgW5D) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [I Fell in Love Again](https://open.spotify.com/album/3WMCCey7bkFQbzEUplNQZ0) | 3:38 |
 | 11 | [EXPIRATION DATE](https://open.spotify.com/track/6BMAOOrAC6LxdYjVbkk7h9) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [EXPIRATION DATE](https://open.spotify.com/album/7eDx4ejqsr5RcTmPaM7Hfs) | 2:41 |
-| 12 | [Her](https://open.spotify.com/track/4wrU0njLIARnN1czWi3XDP) | [Bookclub](https://open.spotify.com/artist/7EGhv1hgTSLN2ld2kDbfd1) | [Her](https://open.spotify.com/album/1RwNSpnPffYhuDACj17B9W) | 4:12 |
+| 12 | [Sugar Water](https://open.spotify.com/track/3Iz4PDGaluy5xMzEKNlNTV) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [Sugar Water](https://open.spotify.com/album/7KaeswQ7KASRrO7EkXEoV8) | 3:18 |
 | 13 | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/track/4jN6jgeKdFG7oBeXg3qC26) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Velcro \(feat\. Gus Dapperton\)](https://open.spotify.com/album/7yBUQWGRTjCSwSKVbcFbcA) | 3:12 |
 | 14 | [Tesla](https://open.spotify.com/track/0N5AyKOTiKUDMNKidsGK5w) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Tesla](https://open.spotify.com/album/3XfJy3aZxGNDFyiaDUGWPe) | 3:56 |
 | 15 | [IDC](https://open.spotify.com/track/43x8gg4AnsyCO5pWmWed1J) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [IDC](https://open.spotify.com/album/5hR9rhURMQx8oewiccoNS8) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 99 | [Sometime](https://open.spotify.com/track/600nfkPMLq6JpNEvas08Qp) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka), [Shane T](https://open.spotify.com/artist/1NOjRg9eVRh2kQ5HFoME1X) | [Sometime](https://open.spotify.com/album/5Y4u5xsr6GIaGW9S2lgHGp) | 2:19 |
 | 100 | [so done](https://open.spotify.com/track/0CJujB84MFibxHqxFQVLu1) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [so done \(bye\)](https://open.spotify.com/album/42NA4WjXX7liHHiUiAHQ0l) | 2:54 |
 
-Snapshot ID: `MTY0Mjc3OTMxMiwwMDAwMDJlNzAwMDAwMTdlN2Q0NmZmOTYwMDAwMDE3ZTc4YWM5MDdj`
+Snapshot ID: `MTY0MzAzNDk5NywwMDAwMDJlODAwMDAwMTdlOGM4NDcxNzAwMDAwMDE3ZTc4YWM5MDdj`

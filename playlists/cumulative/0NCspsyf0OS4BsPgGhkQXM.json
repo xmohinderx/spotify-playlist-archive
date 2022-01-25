@@ -508,6 +508,32 @@
     },
     {
       "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/3LWfqVquCf9LVP1uYfV8bc"
+      },
+      "artists": [
+        {
+          "name": "Ericovich",
+          "url": "https://open.spotify.com/artist/49X1BHaXBIqVjMkkV2w1qI"
+        },
+        {
+          "name": "IAN SIZE",
+          "url": "https://open.spotify.com/artist/5xIYTb3LUDOlTOnZ2CQlEW"
+        },
+        {
+          "name": "Ariadna Ruiz",
+          "url": "https://open.spotify.com/artist/4A33dXzPLFqLFr5o1skF6T"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173702,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/0dT1GtOA53003l85upQasN"
+    },
+    {
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7zqw1bn9eX0xi6ZjL9SYH0"
       },
@@ -1744,6 +1770,32 @@
     },
     {
       "album": {
+        "name": "On That Road",
+        "url": "https://open.spotify.com/album/5CClKdsZYA6DYNhLplBK0s"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "BTWRKS",
+          "url": "https://open.spotify.com/artist/7zDtXPaUt31v22tT6HeL4G"
+        },
+        {
+          "name": "Godmode",
+          "url": "https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "On That Road",
+      "url": "https://open.spotify.com/track/6RlQs6QBeH1ip7TixxHOcr"
+    },
+    {
+      "album": {
         "name": "Only One I Need",
         "url": "https://open.spotify.com/album/51zRMRepdEFgOELmZtUMIL"
       },
@@ -2289,6 +2341,28 @@
       "duration_ms": 166753,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/73aaclqbUGL3q6YJqphuMq"
+    },
+    {
+      "album": {
+        "name": "The Action",
+        "url": "https://open.spotify.com/album/0jq2WhY16lMP0B5xljkjZQ"
+      },
+      "artists": [
+        {
+          "name": "Ahee",
+          "url": "https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf"
+        },
+        {
+          "name": "S\u00f8mething",
+          "url": "https://open.spotify.com/artist/4w08hE0AqL4sPFCUj5E3gx"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "The Action",
+      "url": "https://open.spotify.com/track/40jqRY00ZBurt1HqDxUOt3"
     },
     {
       "album": {

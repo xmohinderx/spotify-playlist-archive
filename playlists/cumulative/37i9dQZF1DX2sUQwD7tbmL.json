@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 268868,
       "name": "Access",
       "url": "https://open.spotify.com/track/4mC6s6mZW0L0IXSrDodWhW"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 170794,
       "name": "All In",
       "url": "https://open.spotify.com/track/5NcMn3iIUNklw0hMFlUBAd"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 222500,
       "name": "American Cigarettes",
       "url": "https://open.spotify.com/track/7Kw8Mxe12tdJUMk20ZpV0b"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 249480,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/0egSjRANLaacRqzguUnu5C"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 197307,
       "name": "Average Joe",
       "url": "https://open.spotify.com/track/7HKrIgAJKM57tIg19iLnUC"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 258733,
       "name": "Bad To Worse",
       "url": "https://open.spotify.com/track/4UnkELKTWTBKeuQHiiVdsl"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 166909,
       "name": "Blue Ceiling",
       "url": "https://open.spotify.com/track/4TQd8QvI6SdxnBbdEILnXI"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 210133,
       "name": "Cellophane (Brain)",
       "url": "https://open.spotify.com/track/4dVAjdLba7P8K5gtAc2Slt"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 157000,
       "name": "Checkin' Out",
       "url": "https://open.spotify.com/track/0VUqkakeW5chSQ6eK621Rh"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 187013,
       "name": "Daft Pretty Boys",
       "url": "https://open.spotify.com/track/41d2Q6DHcM20OdzynkRtvf"
@@ -891,10 +891,28 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 171243,
       "name": "Dance In Room Song",
       "url": "https://open.spotify.com/track/1gJNVpd713qDQd0kNS0uoF"
+    },
+    {
+      "album": {
+        "name": "Sunlit Youth",
+        "url": "https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "date_added": "2021-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i"
     },
     {
       "album": {
@@ -945,7 +963,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 228200,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/33sOtnSvolKA5lDbvBtiSs"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 225893,
       "name": "Easier Said Than Done",
       "url": "https://open.spotify.com/track/6oAD3YoVRl1RsNfVsBTmM9"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 218493,
       "name": "Eat, Sleep, Wake (Nothing But You) - Single Version",
       "url": "https://open.spotify.com/track/30Ih2VLYmGIWameeQeyaDr"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 136954,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY"
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 247299,
       "name": "Feels Good",
       "url": "https://open.spotify.com/track/7xSOihDdVPJiAD3dZXSzIj"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 276764,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/4WsIARXwddxyLdL0kEnSvm"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 146390,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 308733,
       "name": "Harmony Hall",
       "url": "https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 147893,
       "name": "Head In The Clouds",
       "url": "https://open.spotify.com/track/0oHivrvqAyEBDgjFF9JPXa"
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 178987,
       "name": "HIDE (MYSELF BEHIND YOU)",
       "url": "https://open.spotify.com/track/0ylk0gZbTofpSVCsNe18BB"
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 243760,
       "name": "I Fall in Love Every Night",
       "url": "https://open.spotify.com/track/1PeCaWJuQ3ZnDG6ptu4BfJ"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 187309,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 202913,
       "name": "Mexican Holiday",
       "url": "https://open.spotify.com/track/6E8XDoU8B9MbYbcAQ2IUBl"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 247933,
       "name": "Monday's F\u00e1cil",
       "url": "https://open.spotify.com/track/00W5tnmuEvWvIJiiWJzHr6"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 279840,
       "name": "Moon Child",
       "url": "https://open.spotify.com/track/4TcrTb8W4lKkoi62nwU5GO"
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 154841,
       "name": "New Girl",
       "url": "https://open.spotify.com/track/7xCsVk37Uom1L0v1YEjso0"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 205893,
       "name": "Now & Then",
       "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
@@ -2253,7 +2271,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 218604,
       "name": "nrvs again",
       "url": "https://open.spotify.com/track/4WugVoKEajXnwN3JjqmUdC"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Pressure To Party",
       "url": "https://open.spotify.com/track/5Wyy2JHaM8cKEN6YDC6C8O"
@@ -2487,7 +2505,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 132892,
       "name": "Receive",
       "url": "https://open.spotify.com/track/6mI9mXAyLw9f8R1HHC89yi"
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 206509,
       "name": "Salted Caramel",
       "url": "https://open.spotify.com/track/2HS3rFy98oTpEWLVrwEXdk"
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 247280,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/1zXpHPdBAUxnOCQqFMFLk3"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 205442,
       "name": "Saturdays (feat. HAIM)",
       "url": "https://open.spotify.com/track/1B63r7wZYOff831F0ysehg"
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 189560,
       "name": "Sinkin'",
       "url": "https://open.spotify.com/track/1Jolzi0FbJxLh2VOZXBvin"
@@ -2881,7 +2899,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 159212,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6pcUM78WIkEfPzsWPIqG3l"
@@ -2899,7 +2917,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 154893,
       "name": "Stay Together for the Kids",
       "url": "https://open.spotify.com/track/5E4BjzIU8Ci87Tr9oXZcNV"
@@ -2989,7 +3007,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 216853,
       "name": "Take You Back",
       "url": "https://open.spotify.com/track/5xjDVAPLOovtYtzswnCxRS"
@@ -3249,7 +3267,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 122333,
       "name": "Virtual Aerobics",
       "url": "https://open.spotify.com/track/1fpGZJnHXFEbq8UIWIKmHH"
@@ -3321,7 +3339,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 218813,
       "name": "Why You Gotta Do It",
       "url": "https://open.spotify.com/track/4gH3bjEbVBaWOJVikk7JPv"
@@ -3339,7 +3357,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-25",
       "duration_ms": 205921,
       "name": "Yeah Yeah Yeah",
       "url": "https://open.spotify.com/track/32giR6EjJXyPBPS83p3o48"

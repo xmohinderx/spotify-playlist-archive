@@ -1752,6 +1752,24 @@
     },
     {
       "album": {
+        "name": "Apple",
+        "url": "https://open.spotify.com/album/4E2SOsnj6v1tGlWOZGNbCK"
+      },
+      "artists": [
+        {
+          "name": "KAINA",
+          "url": "https://open.spotify.com/artist/7c6eQSFEfIt9rV3gh4cgtj"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204467,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/7CBlZqB7b1AcXksVCoiWZX"
+    },
+    {
+      "album": {
         "name": "Apricots",
         "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
       },
