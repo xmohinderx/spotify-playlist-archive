@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 258782,
       "name": "2k",
       "url": "https://open.spotify.com/track/0zLmCMhA8Ly30tZhSmUhAy"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 162213,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/60gPDYEZ9DyV1OuL9YKM0q"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 202183,
       "name": "Prove It (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6z7jvqBQtyNLxaKALqT67c"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 121346,
       "name": "REEL IT IN",
       "url": "https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 270714,
       "name": "STARGAZING",
       "url": "https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m"
@@ -1153,6 +1153,24 @@
       "duration_ms": 215552,
       "name": "The Soul",
       "url": "https://open.spotify.com/track/13aCijAUkBuhcUp9tI8tD5"
+    },
+    {
+      "album": {
+        "name": "THE GOAT",
+        "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176542,
+      "name": "Trials & Tribulations",
+      "url": "https://open.spotify.com/track/6V1Jx3o0S2MtBI9yIDXsJS"
     },
     {
       "album": {

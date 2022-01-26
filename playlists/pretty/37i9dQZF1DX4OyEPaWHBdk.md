@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain]
 
 > Check the winners from this year's Seoul Music Awards!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,241 likes - 23 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,231 likes - 23 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

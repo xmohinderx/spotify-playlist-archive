@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Inte bara nytt år utan även ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,402 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,389 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 35 | [Tärning](https://open.spotify.com/track/2srEdr47X3EzfCrKLM6qWe) | [Lisa Howard](https://open.spotify.com/artist/65eHyQC0V8h38ia3dLKaRm) | [Tärning](https://open.spotify.com/album/7mVP1swmqaWsaTOuWG3268) | 3:46 |
 | 36 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 |
 | 37 | [Venerate Me](https://open.spotify.com/track/6D1i1hoMyjs843XbMhNq8J) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Venerate Me](https://open.spotify.com/album/31N7LU5QrRO1FffpS3oBH7) | 4:43 |
-| 38 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony \(feat\. Britney Spears & Ginuwine\)](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 |
+| 38 | [Toxic Pony](https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Toxic Pony](https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf) | 3:18 |
 | 39 | [See You Dance](https://open.spotify.com/track/0Nmal8UYuIO9Rs1rcKIWUI) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [See You Dance](https://open.spotify.com/album/2XteLEV6lyOloTgttW7SIa) | 2:34 |
 | 40 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 |
 | 41 | [High Hopes](https://open.spotify.com/track/2WrlysXGhULyfprVfW20UT) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [High Hopes](https://open.spotify.com/album/61cRWSjiQqbIR2IyhPv8Bm) | 2:07 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 58 | [Purity](https://open.spotify.com/track/1BV7YtzsoKAF2cULDHLe2K) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Purity](https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ) | 1:53 |
 | 59 | [Target Practice](https://open.spotify.com/track/6I2kg7KS6otbKx6uKYs2OE) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Target Practice](https://open.spotify.com/album/16J5UoAKGvk7w6gOqNzubI) | 2:30 |
 | 60 | [WISH U HELL](https://open.spotify.com/track/2OpUJfXLRo0Tk1q4Uo0iVu) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [WISH U HELL](https://open.spotify.com/album/5gWxq8KmRs1opcukXf7q5H) | 3:11 |
-| 61 | [Girl Like You](https://open.spotify.com/track/1RZWlnPjEEB3oRFEjfF4Bo) | [bestfriend](https://open.spotify.com/artist/23sZDaGSVzYhprU1sfF6fB) | [Girl Like You](https://open.spotify.com/album/7bchxq0JqQuUiwulQyKgzL) | 2:37 |
+| 61 | [Girl Like You](https://open.spotify.com/track/1RZWlnPjEEB3oRFEjfF4Bo) | [bestfriend](https://open.spotify.com/artist/2RVJnytZwHxiMws8ncKA5T) | [Girl Like You](https://open.spotify.com/album/7bchxq0JqQuUiwulQyKgzL) | 2:37 |
 | 62 | [done](https://open.spotify.com/track/2jwCttDdj70VJcXtzsqZTq) | [Nova Miller](https://open.spotify.com/artist/69iZuswGpLplhnKBE0MxcA) | [done](https://open.spotify.com/album/1eLk6dJLF54FQUE8VxEofl) | 2:17 |
 | 63 | [In the Dark](https://open.spotify.com/track/2lGzRg9ccRTa2gllTvy2w7) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [In the Dark](https://open.spotify.com/album/64d2NALUX5nTqpG1Vu3l7x) | 3:05 |
 | 64 | [Lights](https://open.spotify.com/track/45BCN2ZnfUXXMff0uxxLFe) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Lights](https://open.spotify.com/album/194YVQymXITzrDxVAfOZ8N) | 3:35 |

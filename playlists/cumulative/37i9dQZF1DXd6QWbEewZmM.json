@@ -496,6 +496,24 @@
     },
     {
       "album": {
+        "name": "En Mis Sentimientos",
+        "url": "https://open.spotify.com/album/5v9xccgxf0enrvLt7XHmSK"
+      },
+      "artists": [
+        {
+          "name": "Diamante Perez",
+          "url": "https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207374,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/1TQcqiEvl4ODSHC5U2c5Vv"
+    },
+    {
+      "album": {
         "name": "Las Romanticas Favoritas de Fuerza Regida",
         "url": "https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj"
       },
@@ -847,7 +865,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 212453,
       "name": "Fue Mi Culpa",
       "url": "https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 170824,
       "name": "Labios Cereza",
       "url": "https://open.spotify.com/track/64luTJa3lsA4ZvwFyoBcUM"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 183000,
       "name": "No Me Buscas",
       "url": "https://open.spotify.com/track/7Jgh8una8MqHfVe0qGpYZX"
@@ -1973,7 +1991,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 161201,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/3zBK0bthYTDx3bnsDPTesO"
@@ -2515,7 +2533,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 219130,
       "name": "Ya No Siente",
       "url": "https://open.spotify.com/track/5PEwheX3zEOf9ilNSL9sPi"

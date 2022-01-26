@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 123283,
       "name": "(Everything I Do) I Do It for You",
       "url": "https://open.spotify.com/track/4FAzFBlN4ELscUtvKeZhE1"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 260040,
       "name": "A Song for You",
       "url": "https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 227064,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/3bRyDv7psns9UXFqVSHjhL"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 214874,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 167094,
       "name": "California",
       "url": "https://open.spotify.com/track/4KUFJ7phSi40lh1ChmFgb9"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 156506,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/290jcyCDiqqBVNr1laLyU0"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 212300,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 165309,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 185053,
       "name": "Dance Me to the End of Love (Bonus) - Bonus Track",
       "url": "https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 208234,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/4OjY3fZTuzTMUzd8txpOcJ"
@@ -2021,7 +2021,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 191333,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/3pTjdUeogTd4xIOMpYwxJi"
@@ -2393,7 +2393,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 247879,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/4C9rhLT37Gv6VMVtFCb7O1"
@@ -2581,7 +2581,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 298800,
       "name": "Hey Ya - solo version",
       "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
@@ -2697,7 +2697,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 173508,
       "name": "Home / Dirty Paws",
       "url": "https://open.spotify.com/track/24rFwAcC6eqPvyMuPynVGH"
@@ -2784,6 +2784,24 @@
     },
     {
       "album": {
+        "name": "Live And Unplugged",
+        "url": "https://open.spotify.com/album/28Lb8hyu34kfZRNI1SBHwC"
+      },
+      "artists": [
+        {
+          "name": "The Struts",
+          "url": "https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269978,
+      "name": "I Always Knew/Hotline Bling - Live / Acoustic",
+      "url": "https://open.spotify.com/track/4d9tA3nQw8BxnBwlUEwQNI"
+    },
+    {
+      "album": {
         "name": "Bob Dylan - 30th Anniversary Concert Celebration [(Deluxe Edition) [Remastered]]",
         "url": "https://open.spotify.com/album/5OlEEw6gIk32eMhOqRlfGu"
       },
@@ -2795,7 +2813,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 380866,
       "name": "I Believe in You (Afternoon Rehearsal) - Rehearsal Performance at Madison Square Garden, New York, NY - October 1992",
       "url": "https://open.spotify.com/track/0kLBqQUEnI4PaqHu7OcElj"
@@ -3045,7 +3063,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 218899,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/6rqDjmVNJmhQx8EuhADWGA"
@@ -3237,7 +3255,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 179160,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/6ip0gPo3JlemCTjXNyv4Vl"
@@ -3291,7 +3309,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 262686,
       "name": "If I Needed You",
       "url": "https://open.spotify.com/track/0llpbPQLATUggJkRkZovL9"
@@ -3605,7 +3623,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 242280,
       "name": "Just Breathe (feat. Lukas Nelson)",
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
@@ -4005,7 +4023,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 173146,
       "name": "Live And Let Die",
       "url": "https://open.spotify.com/track/7xGgissfweCRip2WmupekT"
@@ -4027,7 +4045,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 200882,
       "name": "Lose You to Love Me - Acoustic",
       "url": "https://open.spotify.com/track/6juFeoYKK64BjjgrfAC1wO"
@@ -4171,7 +4189,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 316440,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/2rnvHrNnkWMcAkl4S1WlRg"
@@ -4279,7 +4297,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 139918,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/4wLs9DrVk27tgY2y9KZkZ0"
@@ -4483,7 +4501,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 193011,
       "name": "No Need To Argue",
       "url": "https://open.spotify.com/track/6bMtHFNzq1PU6HD7h8SUkd"
@@ -4841,7 +4859,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 367333,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"
@@ -5123,7 +5141,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 138383,
       "name": "Simple Man - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
@@ -5195,7 +5213,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 222500,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/65PXViRNbmck0eXI0qhB2G"
@@ -5401,7 +5419,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 272933,
       "name": "Space Oddity - Live",
       "url": "https://open.spotify.com/track/0dBzi0Vapr6MZUsTb47Mx9"
@@ -5669,7 +5687,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 179880,
       "name": "Taylor Swift 1989 Medley",
       "url": "https://open.spotify.com/track/4Pt2aOG6KETMQp5mukYhD3"
@@ -5727,7 +5745,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 275548,
       "name": "The Air That I Breathe",
       "url": "https://open.spotify.com/track/7AyuLqGozNeloS5djeShEN"
@@ -5771,7 +5789,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 245229,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/0YlUnqnC63U8hRGOkDDHie"
@@ -5843,7 +5861,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 189799,
       "name": "The Partisan - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
@@ -5937,7 +5955,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 212486,
       "name": "This Must Be The Place",
       "url": "https://open.spotify.com/track/6nRenEga4WTc8Da7kigrBO"
@@ -5991,7 +6009,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 279746,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5zDbl8XiqMhn0tIzAsyvhR"
@@ -6117,7 +6135,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 210826,
       "name": "Two of Us",
       "url": "https://open.spotify.com/track/3hduloI1MwLBPm8DqOG4Xb"
@@ -6135,7 +6153,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 198000,
       "name": "U Remind Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
@@ -6157,7 +6175,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 190400,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2ArKgz2x8fL8z2KeYXlgLX"
@@ -6367,7 +6385,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "What a Feeling",
       "url": "https://open.spotify.com/track/11OAeshF0YfaeckhW3iKpk"
@@ -6501,7 +6519,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 274931,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/696wSwPa5AldCfs3kHpWSl"
@@ -6699,7 +6717,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 338285,
       "name": "With or Without You - Cover Version",
       "url": "https://open.spotify.com/track/0h7qb59r82YH9x4HhvZkXl"
@@ -6771,7 +6789,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 240466,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/3N7wclRSF2D2RT3O27LEOE"
@@ -7101,7 +7119,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 135192,
       "name": "You've Got To Hide Your Love Away - Remastered",
       "url": "https://open.spotify.com/track/5hrhxFS8DkZbI5pbE4LKEg"
@@ -7119,7 +7137,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 220320,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/21p4Uy5InzgMtt0pkG8GAB"

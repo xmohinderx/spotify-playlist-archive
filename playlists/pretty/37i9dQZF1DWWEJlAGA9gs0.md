@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEJlAGA9gs0.md) - [plain]
 
 > A selection of the greatest classical tunes; the perfect starting point for anyone who's keen to explore the world of <a href="spotify:genre:classical">classical</a> music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,744,132 likes - 148 songs - 16 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,747,117 likes - 148 songs - 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEJlAGA9gs0.md) - [plain]
 | 147 | [Tahiti Trot, Op\. 16 \(After V\. Youmans's "Tea for Two"\)](https://open.spotify.com/track/1uARLLfeQPlBf1jSN4P0yK) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Russian State Symphony Orchestra](https://open.spotify.com/artist/0DJZPK3nRWESIS0yexi6Qi), [Dmitry Yablonsky](https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb) | [Shostakovich: Orchestral Works](https://open.spotify.com/album/2hlf7qJNSqkQpexcSiNPeQ) | 4:09 |
 | 148 | [The Promise](https://open.spotify.com/track/53ann6bENp7BF8uklrzQAp) | [Michael Nyman](https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8) | [The Piano: Music From The Motion Picture](https://open.spotify.com/album/2QxIR22Sj9xGc4mOTN550A) | 4:16 |
 
-Snapshot ID: `MTY0MzAyMDAxMiwwMDAwMDA2MjAwMDAwMTdlOGI5ZmNkNDIwMDAwMDE2ZDE1MGU5NWQ2`
+Snapshot ID: `MTY0MzEwOTg2NywwMDAwMDA2MzAwMDAwMTdlOTBmYWUwM2EwMDAwMDE2ZDE1MGU5NWQ2`

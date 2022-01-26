@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 211400,
       "name": "400km (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/5PFqdHy3b9PGgfns2uVpE6"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 177126,
       "name": "After That",
       "url": "https://open.spotify.com/track/4kWcZO2KKXMaWBJ7hlckK4"
@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "CAME",
+        "url": "https://open.spotify.com/album/6wbc7OeyMOtJhQhYgjjxNE"
+      },
+      "artists": [
+        {
+          "name": "MUSHVENOM",
+          "url": "https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "CAME",
+      "url": "https://open.spotify.com/track/0ggujxroa3Llaye8P9jXP1"
+    },
+    {
+      "album": {
         "name": "032 Funk",
         "url": "https://open.spotify.com/album/4WDZOO3NuSawqHCo77jj4P"
       },
@@ -1087,7 +1105,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 173400,
       "name": "Come and kiss me",
       "url": "https://open.spotify.com/track/6IhyhjqBFuzj7TZePscB5d"
@@ -1213,7 +1231,7 @@
       },
       "artists": [
         {
-          "name": "GIST",
+          "name": "Gist",
           "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
         },
         {
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 227253,
       "name": "FNR",
       "url": "https://open.spotify.com/track/7C5NyyTvyZFeG9fyyzGZzS"
@@ -2303,7 +2321,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 225666,
       "name": "Grim THUG (feat. punchnello)",
       "url": "https://open.spotify.com/track/3XqHDWD2I9xX1hoFcxc98u"
@@ -2409,7 +2427,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH"
@@ -3051,7 +3069,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 227853,
       "name": "JOKE! (Feat. C JAMM, Simon Dominic)",
       "url": "https://open.spotify.com/track/1Igwfh5OpG1hj2CI6pptTZ"
@@ -3219,7 +3237,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 191866,
       "name": "Last Waltz",
       "url": "https://open.spotify.com/track/32Q54GVSCwmiFdkHrtq8tV"
@@ -3341,7 +3359,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 184240,
       "name": "Life Goes On (Feat. pH-1)",
       "url": "https://open.spotify.com/track/7DNT98RushlHadPmT3qaiX"
@@ -3627,7 +3645,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 233346,
       "name": "Make You Mine (Feat. JUSTHIS)",
       "url": "https://open.spotify.com/track/1cCxgHTmvfur5rlWGnG6aY"
@@ -3827,7 +3845,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 319106,
       "name": "Memories of You and Me",
       "url": "https://open.spotify.com/track/1F5MRky5joGXiNlsfUdaXa"
@@ -3901,7 +3919,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 178793,
       "name": "MM (feat. Jay Park)",
       "url": "https://open.spotify.com/track/5i4tOwRaSSXpsxXmklaKi5"
@@ -3977,7 +3995,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 228296,
       "name": "MORAESIGYE",
       "url": "https://open.spotify.com/track/63dt1BEeb05e452S14uTRB"
@@ -4561,7 +4579,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 182986,
       "name": "POW (Feat. GRAY)",
       "url": "https://open.spotify.com/track/3QpwHZCLi4vPrt2TJ1kurE"
@@ -4723,7 +4741,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 263166,
       "name": "Recipient unknown",
       "url": "https://open.spotify.com/track/7iOmsc5LAxqRv6F0hOAHjy"
@@ -4745,7 +4763,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 270500,
       "name": "Red Light (Feat. BIG Naughty) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/0dLsjLIoEpiBWVvYO0jfB3"
@@ -4875,7 +4893,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 230066,
       "name": "Rosario",
       "url": "https://open.spotify.com/track/12QfVb1TGSSaSL7922KGyf"
@@ -4901,7 +4919,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 230066,
       "name": "Rosario",
       "url": "https://open.spotify.com/track/31LHplV8BL8F0Uu9YbvTAY"
@@ -4959,7 +4977,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 227599,
       "name": "run! (feat. JUSTHIS)",
       "url": "https://open.spotify.com/track/5UKf82epsMYtjpZR9QGtns"
@@ -5051,7 +5069,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 243423,
       "name": "Sigh (Feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/2BkpDA0AyGPHzyae6wWtZW"
@@ -5151,7 +5169,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 197472,
       "name": "So silly (Feat. YUJU)",
       "url": "https://open.spotify.com/track/4SHdsjl8A0wg7xgosRqU2s"
@@ -5307,7 +5325,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 177750,
       "name": "Spring Rain (feat. Rakon)",
       "url": "https://open.spotify.com/track/72CqKBz1W0sHlbVazkD9Ur"
@@ -5619,7 +5637,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 187400,
       "name": "Tikita (feat. lIlBOI)",
       "url": "https://open.spotify.com/track/3lcLgImrQkglTgI8Fm5x5X"
@@ -5663,7 +5681,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 270186,
       "name": "Timing (Feat. Yumdda, BIG Naughty) (Prod. TOIL)",
       "url": "https://open.spotify.com/track/1qHYc2IqPbfu3tjm2qYpcq"
@@ -5707,7 +5725,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 196703,
       "name": "To the Moon (Feat. UNEDUCATED KID)",
       "url": "https://open.spotify.com/track/6MVhgdbH0AKZlEef2dgJ92"
@@ -5993,7 +6011,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 228706,
       "name": "us (feat. meenoi)",
       "url": "https://open.spotify.com/track/2qcAEHuRQRtnmMMroqpgdB"
@@ -6243,7 +6261,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 272293,
       "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/45R8aMTK1suFXTraQCzVRe"

@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 214506,
       "name": "Ag\u00fcita",
       "url": "https://open.spotify.com/track/2QCQvMPXfoTGTP5wAYGvzP"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 206346,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 246101,
       "name": "Como Se Perdona",
       "url": "https://open.spotify.com/track/52hNmGfSHnXUh8pjYgSjtU"
@@ -313,6 +313,24 @@
       "duration_ms": 240586,
       "name": "Con El No Soportas",
       "url": "https://open.spotify.com/track/0j5LSmUUUqyo2xBOUvpoQn"
+    },
+    {
+      "album": {
+        "name": "Corazon Destrozado",
+        "url": "https://open.spotify.com/album/2AMO6dgHku2uoJ5HNRRppr"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196774,
+      "name": "Corazon Destrozado",
+      "url": "https://open.spotify.com/track/68h0m0tEi2xhR4fBFN7vtH"
     },
     {
       "album": {
@@ -680,6 +698,24 @@
     },
     {
       "album": {
+        "name": "En Una de Esas",
+        "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197474,
+      "name": "En Una de Esas",
+      "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
+    },
+    {
+      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -821,7 +857,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 196120,
       "name": "Fabricando Fantas\u00edas",
       "url": "https://open.spotify.com/track/1R6ug43KqWcVVOnKqKqcRN"
@@ -1219,7 +1255,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 341607,
       "name": "Mientes / Te Fuiste de Aqui / Me Duele Amarte",
       "url": "https://open.spotify.com/track/0OMfOqr4eQOvpJRJoLcrdC"
@@ -1277,6 +1313,24 @@
       "duration_ms": 234626,
       "name": "M\u00e1rchate ahora",
       "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+    },
+    {
+      "album": {
+        "name": "No Deber\u00eda Quererte",
+        "url": "https://open.spotify.com/album/5GNeYcySMXqQu8oth22Vaw"
+      },
+      "artists": [
+        {
+          "name": "Brian Lanzelotta",
+          "url": "https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "No Deber\u00eda Quererte",
+      "url": "https://open.spotify.com/track/5P4xezLTnfp7alej9QCFyN"
     },
     {
       "album": {
@@ -1425,7 +1479,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 203493,
       "name": "No Puedo Olvidarla",
       "url": "https://open.spotify.com/track/6bNZuleg3RvzmXtVCbMTmc"
@@ -1703,7 +1757,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 248600,
       "name": "Se Que Llorar\u00e1s",
       "url": "https://open.spotify.com/track/1BK2BOFeuMd6RTTn38xzUE"
@@ -1981,7 +2035,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 350354,
       "name": "Tributo A Grupo Trinidad Bonus Track / Zorros Amantes / Qui\u00e9n Te Quiere / Es Una Noche Para Amar / Conversemos",
       "url": "https://open.spotify.com/track/6q5U7c1J8Ec53YGQh0l2Bm"
@@ -2259,7 +2313,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 215727,
       "name": "Ya No Quiero Tu Amor",
       "url": "https://open.spotify.com/track/727YOg5FXQRHGWuVQzA1fc"

@@ -66,6 +66,28 @@
     },
     {
       "album": {
+        "name": "Phrenology",
+        "url": "https://open.spotify.com/album/4rKiBz8pX9zmKuEk4NArfm"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447440,
+      "name": "Break You Off",
+      "url": "https://open.spotify.com/track/4jZcfHe0hbc5ireJAxmQvC"
+    },
+    {
+      "album": {
         "name": "Tical",
         "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
       },
@@ -77,7 +99,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 189760,
       "name": "Bring The Pain",
       "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
@@ -151,7 +173,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 248573,
       "name": "Can I Live",
       "url": "https://open.spotify.com/track/20U1I32q6kX0Nmy4u8CvUg"
@@ -253,7 +275,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 136093,
       "name": "Da Rockwilder",
       "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
@@ -453,7 +475,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 229400,
       "name": "Get Me Home",
       "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
@@ -601,7 +623,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 178600,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT"
@@ -705,7 +727,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 294040,
       "name": "Is That Your Chick (The Lost Verses)",
       "url": "https://open.spotify.com/track/4aWxp4mBOnWIUDlXb4ngaV"
@@ -903,7 +925,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
@@ -929,7 +951,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 270493,
       "name": "Money, Power & Respect (feat. DMX & Lil' Kim)",
       "url": "https://open.spotify.com/track/3MbBa8FMMgp9D39s7Cozl9"
@@ -1005,7 +1027,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 264653,
       "name": "Nothin'",
       "url": "https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X"
@@ -1277,6 +1299,24 @@
       "duration_ms": 218333,
       "name": "Slam",
       "url": "https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn"
+    },
+    {
+      "album": {
+        "name": "Child Of The Ghetto",
+        "url": "https://open.spotify.com/album/2p9kN8xRHifUw2bxiLODoC"
+      },
+      "artists": [
+        {
+          "name": "G. Dep",
+          "url": "https://open.spotify.com/artist/7x7pxJtOTFkTSStKmrRyRp"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389866,
+      "name": "Special Delivery",
+      "url": "https://open.spotify.com/track/5pkODNs3tEe8DMqjorjR8c"
     },
     {
       "album": {
@@ -1561,7 +1601,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 238840,
       "name": "Whoa!",
       "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"

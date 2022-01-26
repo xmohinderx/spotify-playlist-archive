@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 219941,
       "name": "Borracha De Amor",
       "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 166066,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/2nhIWTReHbwWJQaB0AJ5lh"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 177053,
       "name": "En Toda La Chapa",
       "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
@@ -600,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Es Mi Derecho",
+        "url": "https://open.spotify.com/album/4Jzve9aeQTRVjw4StscJ39"
+      },
+      "artists": [
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180818,
+      "name": "Es Mi Derecho",
+      "url": "https://open.spotify.com/track/0vdl4qtAy9Na3baARNsnJE"
+    },
+    {
+      "album": {
         "name": "Por Puro Amor",
         "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
       },
@@ -647,7 +665,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 176812,
       "name": "Estoy Con Otro En La Cama",
       "url": "https://open.spotify.com/track/5fAS0SfHJ2lJ0MXLg1gPpY"
@@ -817,6 +835,24 @@
       "duration_ms": 243933,
       "name": "Insensible A Ti (Me Pone A Mil)",
       "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7myOOiCNgD8ciBKoqqbVQo"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271232,
+      "name": "Instinto Animal",
+      "url": "https://open.spotify.com/track/2vbfgWG5Jc0jv6h4nVyO8b"
     },
     {
       "album": {
@@ -1089,7 +1125,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
@@ -1215,7 +1251,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 211882,
       "name": "Menti",
       "url": "https://open.spotify.com/track/61u5NazgHnQAIDmO0Mo4TD"
@@ -1439,7 +1475,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 174671,
       "name": "No Me Amenaces",
       "url": "https://open.spotify.com/track/2F9QiR9xVc7HXJ6qPQQxNO"
@@ -1493,7 +1529,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 193066,
       "name": "No Te Dejes Enga\u00f1ar",
       "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
@@ -1721,7 +1757,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 220386,
       "name": "Por Confiar En Ti",
       "url": "https://open.spotify.com/track/2MfJSHRdG2hZWX6YEL0Kjv"
@@ -1833,7 +1869,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 194624,
       "name": "Que Raz\u00f3n Ten\u00eda Mi Ap\u00e1",
       "url": "https://open.spotify.com/track/1JDZPztDQcdFHrPcN1GGNl"
@@ -2047,10 +2083,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 186475,
       "name": "Se Te Olvid\u00f3",
       "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
+    },
+    {
+      "album": {
+        "name": "Soy Mala",
+        "url": "https://open.spotify.com/album/2TyCJUAgD4OkU6zSrPWFpe"
+      },
+      "artists": [
+        {
+          "name": "Victoria La Mala",
+          "url": "https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "Sexo D\u00e9bil (TNMDQH)",
+      "url": "https://open.spotify.com/track/0qMENPFhmwopv8R8JaYQxr"
     },
     {
       "album": {
@@ -2267,7 +2325,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 191542,
       "name": "Un D\u00eda 27",
       "url": "https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh"
@@ -2401,6 +2459,24 @@
       "duration_ms": 185133,
       "name": "\u00bfPor Qu\u00e9 Te Vas?",
       "url": "https://open.spotify.com/track/0nDbGRrxLJggLRi5ErHPIK"
+    },
+    {
+      "album": {
+        "name": "\u00c9chame a Mi La Culpa",
+        "url": "https://open.spotify.com/album/5l8OXPQJqqvz0RMLWxSzCa"
+      },
+      "artists": [
+        {
+          "name": "Laraim",
+          "url": "https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193800,
+      "name": "\u00c9chame a Mi La Culpa",
+      "url": "https://open.spotify.com/track/0217K1S145FAb99BfTdFkx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2dlPXwFl0rQ"

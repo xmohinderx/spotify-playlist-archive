@@ -2549,7 +2549,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 160000,
       "name": "auspice",
       "url": "https://open.spotify.com/track/1N8u03Y9OjpMIfZakl9rEh"
@@ -5387,6 +5387,24 @@
       "duration_ms": 88215,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6xWXGHp0duQcbJEFOr6qiD"
+    },
+    {
+      "album": {
+        "name": "Call me",
+        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+      },
+      "artists": [
+        {
+          "name": "Muerto A Puntapi\u00e9s",
+          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118166,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
     },
     {
       "album": {
@@ -21511,7 +21529,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 156116,
       "name": "MANO e MANO",
       "url": "https://open.spotify.com/track/6t4aWUwqiicRcUHsa1qUFE"

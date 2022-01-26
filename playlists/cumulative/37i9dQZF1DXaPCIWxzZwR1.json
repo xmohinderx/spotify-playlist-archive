@@ -3542,6 +3542,24 @@
     },
     {
       "album": {
+        "name": "echo",
+        "url": "https://open.spotify.com/album/2V5N2rf5gd0vzQ405Hs3en"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/7586fVxjKm5IoVTTgDEwcD"
+    },
+    {
+      "album": {
         "name": "edamame (feat. Rich Brian)",
         "url": "https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP"
       },

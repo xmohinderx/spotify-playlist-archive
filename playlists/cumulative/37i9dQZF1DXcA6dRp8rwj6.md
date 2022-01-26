@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcA6dRp8rwj6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcA6dRp8rwj6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcA6dRp8rwj6)
 
-### Beats & Rhymes
+### [Beats & Rhymes](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Rich Brian, Warren Hue\)
 

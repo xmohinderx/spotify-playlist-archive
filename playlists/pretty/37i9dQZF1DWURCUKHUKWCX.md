@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 
 > Atmospheric and emotional piano pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,170 likes - 107 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,424 likes - 107 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWURCUKHUKWCX.md) - [plain]
 | 33 | [Halston](https://open.spotify.com/track/7AbVRoHrQB3JMHC8J1P3Hi) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Halston](https://open.spotify.com/album/6XflbsoG89kmcH3on1bu9R) | 5:07 |
 | 34 | [All Clear](https://open.spotify.com/track/6kwPQEP7rHdubkgDvVhNOf) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [All Clear](https://open.spotify.com/album/1MZ1vm0zHq7Q2jCMhz1A7R) | 3:44 |
 | 35 | [a gift](https://open.spotify.com/track/3t9TjrFxUNKOUDvItLsTEo) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a) | 2:59 |
-| 36 | [Little Forest](https://open.spotify.com/track/0ngRF3XtGxXhFWDxeOJqfb) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Little Forest](https://open.spotify.com/album/2OUVbMW3PXmpVBzrVKEDDd) | 2:08 |
+| 36 | [Little Forest](https://open.spotify.com/track/0ngRF3XtGxXhFWDxeOJqfb) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Little Forest](https://open.spotify.com/album/2OUVbMW3PXmpVBzrVKEDDd) | 2:08 |
 | 37 | [Apartment Song \#5](https://open.spotify.com/track/0GG1KOVmUeZfipy9MB9m4e) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Apartment Song \#5](https://open.spotify.com/album/3c5jf7GTivqPWw5bGLvtT5) | 3:11 |
 | 38 | [About Coming and Leaving](https://open.spotify.com/track/6DQ0d8YVCs0wi1zHN0fedq) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [About Coming and Leaving](https://open.spotify.com/album/1jXegZ2mzIXJZHjlaD9NLf) | 2:07 |
 | 39 | [Empathy in C Minor](https://open.spotify.com/track/0UDYe5EoHGgEat7DK2u8yv) | [Luke Woodapple](https://open.spotify.com/artist/2KNwx5UTputMUl54ggtPpK), [Out of Berlin](https://open.spotify.com/artist/4OzYsuivUpglOu6MBEpwEe) | [Silent Places](https://open.spotify.com/album/1dP6W90C2R2bEpgLDJShp3) | 3:13 |

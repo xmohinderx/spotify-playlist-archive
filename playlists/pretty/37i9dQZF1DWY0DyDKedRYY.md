@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > All the new artists and songs to watch in 2022, handpicked by our curators\. Featuring Montell Fish on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,507 likes - 97 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,509 likes - 97 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 28 | [PLAY YOUR PART.](https://open.spotify.com/track/3EPPgykXQeKjeGIqQogy3V) | [KDVSGOLIATH](https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ) | [PLAY YOUR PART.](https://open.spotify.com/album/74fdsmIcSB9NhoslGw2GU1) | 3:00 |
 | 29 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 |
 | 30 | [Make It Past Georgia](https://open.spotify.com/track/7aRVF1U72PPCTJiSX2vRpd) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 3:21 |
-| 31 | [Not Your Girl](https://open.spotify.com/track/3fNtMICThoBErNIeXjLfRw) | [Tiera](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Not Your Girl](https://open.spotify.com/album/0hamC3quwYAwO6pKvQB4cf) | 3:20 |
+| 31 | [Not Your Girl](https://open.spotify.com/track/3fNtMICThoBErNIeXjLfRw) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Not Your Girl](https://open.spotify.com/album/0hamC3quwYAwO6pKvQB4cf) | 3:20 |
 | 32 | [Hallelujah \(In Your Arms\)](https://open.spotify.com/track/3gg07cCfx8W4oA4ASElvhs) | [Semler](https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g) | [Late Bloomer](https://open.spotify.com/album/3UVxs4HGKC84VG8kQdRjJz) | 3:55 |
 | 33 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 |
 | 34 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 |

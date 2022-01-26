@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXrVH01e3PIE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXrVH01e3PIE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXrVH01e3PIE)
 
-### Trapperz Argentina
+### [Trapperz Argentina](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
 > La casa del Trap de Argentino\. <br/>Foto: Lucho SSJ & C.R.O.
 

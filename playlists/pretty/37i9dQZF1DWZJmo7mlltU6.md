@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Magdalena Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,175 likes - 99 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,435 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 17 | [cheerios](https://open.spotify.com/track/3TAvhqb2YtfR4J7ejniBg2) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [postcard from Milan](https://open.spotify.com/album/6m86vj4gewDwcEL95tm2j2) | 3:38 |
 | 18 | [Marechià](https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ), [Célia Kameni](https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt) | [Marechià](https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W) | 4:24 |
 | 19 | [Dime Que Me Calle](https://open.spotify.com/track/3ttTIArzkg0a5ZjE3nbz65) | [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB) | [Dime Que Me Calle](https://open.spotify.com/album/2vZAm4JUPbTlQIsRD4Qhp8) | 2:54 |
-| 20 | [Merry Midnight](https://open.spotify.com/track/0LTpJoMdGZflD9BsbSvGpW) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Kuo Sunset Rollercoaster](https://open.spotify.com/artist/5g2IPdxn6oAU2YR5Z74Atl) | [Merry Midnight](https://open.spotify.com/album/22yAVxCemWUc6T9B41gUvK) | 4:29 |
+| 20 | [Merry Midnight](https://open.spotify.com/track/0LTpJoMdGZflD9BsbSvGpW) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Merry Midnight](https://open.spotify.com/album/22yAVxCemWUc6T9B41gUvK) | 4:29 |
 | 21 | [Vanilla Ice Cream](https://open.spotify.com/track/5nK8YwcjEblpT8RCYgGq0o) | [Earth Patravee](https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV) | [Vanilla Ice Cream](https://open.spotify.com/album/0xv3zhCfQjHLlWnTeU0Cm6) | 3:25 |
 | 22 | [Doing Really Well Thanks](https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Doing Really Well Thanks](https://open.spotify.com/album/3m0pmKEVZHRUo2AIMKau6q) | 4:43 |
 | 23 | [Ahorita](https://open.spotify.com/track/120Bx2y8RDaGpTCRQDQ6LK) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [AGUÀ](https://open.spotify.com/album/0oqYoJAH51oHHwrmqlplfR) | 2:32 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,793 likes - 116 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,849 likes - 116 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 42 | [Chasin](https://open.spotify.com/track/0lJES3H2EUQQ8Hs7yDc4a9) | [Bobby McClendon](https://open.spotify.com/artist/24ZSRZ25gSFAx2bCl1aM66) | [Chasin](https://open.spotify.com/album/1rg7aFCtRLTC72ZDyia0v6) | 3:20 |
 | 43 | [Hide & Seek](https://open.spotify.com/track/3TjcwpZcfNTFdq6jD8oh2M) | [Sasha McVeigh](https://open.spotify.com/artist/4yrY81mNjR3hqlOAhu80IQ) | [Hide & Seek](https://open.spotify.com/album/4nj1jjX3Au3MzdhNF8Vzl2) | 3:51 |
 | 44 | [Whiskey Prayer](https://open.spotify.com/track/4BQL5uJAFIfQJ5e6LBQATP) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0) | [Whiskey Prayer](https://open.spotify.com/album/0Q6JjUTfe0ikhrlG3omUIA) | 3:10 |
-| 45 | [Stay \- Remix](https://open.spotify.com/track/0W2CHJ0A7ITHmrPwCx3bMG) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Stay \(Remix\)](https://open.spotify.com/album/7LM3ZzDptwlwDajQLSj9Ul) | 2:44 |
+| 45 | [STAY \- Remix](https://open.spotify.com/track/0W2CHJ0A7ITHmrPwCx3bMG) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [STAY \(Remix\)](https://open.spotify.com/album/7LM3ZzDptwlwDajQLSj9Ul) | 2:44 |
 | 46 | [Call It a Day](https://open.spotify.com/track/7EeBEoamWOFSe5X16ja0FC) | [Brandt Carmichael](https://open.spotify.com/artist/65HDAlEXHrIu7e5ago87Ar) | [Call It a Day](https://open.spotify.com/album/7o6C4COIwKdbSoVh8YHpHJ) | 3:23 |
 | 47 | [I Want the World for You](https://open.spotify.com/track/0daoTSRk6eaC7fDJyF5c8F) | [Stephanie Quayle](https://open.spotify.com/artist/2PuPNn5AuwwEweFONV7gol) | [I Want the World for You](https://open.spotify.com/album/6Aax8lnCctXY8VNoNhiZ5Q) | 3:03 |
 | 48 | [Run](https://open.spotify.com/track/4m3aiLfQuKXEiK20Mp4mQT) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Run](https://open.spotify.com/album/0xq4eXZtaR9eFypyIrTyyN) | 3:38 |

@@ -1,12 +1,12 @@
 {
   "description": "All the vibes. All the feels.",
-  "num_followers": 2306948,
+  "num_followers": 2307402,
   "original_name": "All The Feels",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzA3MTYyNCwwMDAwMDAwMDc4NzVjN2U0OWIzMDQ5YTg1ODI3M2RhZTgzZGY1YTJl",
+  "snapshot_id": "MTY0MzE1ODA4MCwwMDAwMDAwMGEyOWU3YWE4Mzg5ZWJmNDA4Nzc0MzIwNzZhZWU2ODUy",
   "tracks": [
     {
       "added_at": "2020-11-12 18:20:47",
@@ -27,22 +27,18 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 143226,
-      "name": "Playing Games (with Bryson Tiller) - Extended Version",
-      "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2021-11-12 20:43:59",
@@ -63,18 +59,22 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 260253,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+      "duration_ms": 201787,
+      "name": "Nights Like This (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
     },
     {
       "added_at": "2021-05-11 19:43:42",
@@ -113,26 +113,6 @@
       "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
     },
     {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 201787,
-      "name": "Nights Like This (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
-    },
-    {
       "added_at": "2021-01-25 21:20:26",
       "album": {
         "name": "TAKE TIME",
@@ -147,6 +127,42 @@
       "duration_ms": 172907,
       "name": "Favorite Mistake",
       "url": "https://open.spotify.com/track/4rHIfYRQw6ittRQXAlurk0"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 143226,
+      "name": "Playing Games (with Bryson Tiller) - Extended Version",
+      "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
+    },
+    {
+      "added_at": "2021-03-17 15:01:05",
+      "album": {
+        "name": "ONCE UPON A TIME",
+        "url": "https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu"
+      },
+      "artists": [
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 130882,
+      "name": "CINDERELLA, Pt. 2",
+      "url": "https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -171,58 +187,38 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 222374,
-      "name": "Girls Need Love (with Drake) - Remix",
-      "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
-    },
-    {
-      "added_at": "2021-05-20 19:12:02",
-      "album": {
-        "name": "Intoxicated Truth",
-        "url": "https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm"
-      },
-      "artists": [
-        {
-          "name": "Masati",
-          "url": "https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "Intoxicated Truth",
-      "url": "https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq"
+      "duration_ms": 226986,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
     },
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "East Atlanta Love Letter",
-        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+        "name": "Get You - Single",
+        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 240341,
-      "name": "Pretty Little Fears (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+      "duration_ms": 277297,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -273,72 +269,40 @@
       "url": "https://open.spotify.com/track/5ACkknqH2GcrVtmBB7LaRv"
     },
     {
-      "added_at": "2021-03-17 15:01:05",
+      "added_at": "2021-05-20 19:12:02",
       "album": {
-        "name": "ONCE UPON A TIME",
-        "url": "https://open.spotify.com/album/22UE2Lc7VdTqbkGmNBtMDu"
+        "name": "Intoxicated Truth",
+        "url": "https://open.spotify.com/album/2XKDY407hdliXUT6i3Bcxm"
       },
       "artists": [
         {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+          "name": "Masati",
+          "url": "https://open.spotify.com/artist/6Ca21SJ709vzZufDLMQakl"
         }
       ],
-      "duration_ms": 130882,
-      "name": "CINDERELLA, Pt. 2",
-      "url": "https://open.spotify.com/track/1NsoJ2lSWD61hD4hRY5Qby"
+      "duration_ms": 176727,
+      "name": "Intoxicated Truth",
+      "url": "https://open.spotify.com/track/52iaQGkgAtc4bwr1iAiVaq"
     },
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Streets",
-      "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "While We're Young",
-      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "Get You - Single",
-        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 277297,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX"
+      "duration_ms": 222374,
+      "name": "Girls Need Love (with Drake) - Remix",
+      "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -361,56 +325,24 @@
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
     },
     {
-      "added_at": "2021-01-21 19:49:03",
-      "album": {
-        "name": "Want U Around (feat. Ruel)",
-        "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 247720,
-      "name": "Want U Around (feat. Ruel)",
-      "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
-    },
-    {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+        "name": "East Atlanta Love Letter",
+        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
       },
       "artists": [
         {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
-    },
-    {
-      "added_at": "2021-01-21 19:49:03",
-      "album": {
-        "name": "S.O.L.A.R.",
-        "url": "https://open.spotify.com/album/0oIztouqTB4rZYosZ8zh87"
-      },
-      "artists": [
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
         {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 188839,
-      "name": "Best Thing",
-      "url": "https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE"
+      "duration_ms": 240341,
+      "name": "Pretty Little Fears (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
     },
     {
       "added_at": "2021-05-11 19:43:42",
@@ -431,18 +363,54 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 240653,
-      "name": "Feel No Ways",
-      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/3pXF1nA74528Edde4of9CC"
+    },
+    {
+      "added_at": "2021-01-21 19:49:03",
+      "album": {
+        "name": "Want U Around (feat. Ruel)",
+        "url": "https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 247720,
+      "name": "Want U Around (feat. Ruel)",
+      "url": "https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -471,38 +439,18 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
-    },
-    {
-      "added_at": "2020-12-10 21:16:28",
-      "album": {
-        "name": "Stole My Love",
-        "url": "https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE"
-      },
-      "artists": [
-        {
-          "name": "Jay Isaiah",
-          "url": "https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs"
-        }
-      ],
-      "duration_ms": 211034,
-      "name": "Stole My Love",
-      "url": "https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl"
+      "duration_ms": 240653,
+      "name": "Feel No Ways",
+      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
     },
     {
       "added_at": "2021-05-05 17:12:36",
@@ -527,6 +475,54 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 199120,
+      "name": "Coaster",
+      "url": "https://open.spotify.com/track/39KG4kom3enSx4GTThuDGt"
+    },
+    {
+      "added_at": "2021-01-21 19:49:03",
+      "album": {
+        "name": "S.O.L.A.R.",
+        "url": "https://open.spotify.com/album/0oIztouqTB4rZYosZ8zh87"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 188839,
+      "name": "Best Thing",
+      "url": "https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE"
+    },
+    {
+      "added_at": "2020-12-10 21:16:28",
+      "album": {
+        "name": "Stole My Love",
+        "url": "https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE"
+      },
+      "artists": [
+        {
+          "name": "Jay Isaiah",
+          "url": "https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Stole My Love",
+      "url": "https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
         "name": "If You're Reading This It's Too Late",
         "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
       },
@@ -543,6 +539,26 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
         "name": "Honesty",
         "url": "https://open.spotify.com/album/6Z5XlgKlOc9FVyM2Nb2Pyo"
       },
@@ -555,38 +571,6 @@
       "duration_ms": 191000,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/5dXI2NV7X2c4anyLFbQdEX"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 199120,
-      "name": "Coaster",
-      "url": "https://open.spotify.com/track/39KG4kom3enSx4GTThuDGt"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "Groovy People",
-        "url": "https://open.spotify.com/album/2a8IWtMGQl8oIA3lUtLDQw"
-      },
-      "artists": [
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 206080,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/54Yappwod1fELR5zb2gDBn"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -611,18 +595,34 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Late Nights: The Album",
-        "url": "https://open.spotify.com/album/4p9QlliNvKndyKSPyuJlP8"
+        "name": "Tuscan Leather",
+        "url": "https://open.spotify.com/album/6D4llfWMNiN8Q6ojvbM6Xu"
       },
       "artists": [
         {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+          "name": "Brent Ewing",
+          "url": "https://open.spotify.com/artist/2gDCNElfgzrOIaC8sVACnC"
         }
       ],
-      "duration_ms": 238320,
-      "name": "oui",
-      "url": "https://open.spotify.com/track/4sw7dHjD6EsGs0d57AHgdy"
+      "duration_ms": 174576,
+      "name": "Tuscan Leather",
+      "url": "https://open.spotify.com/track/4maiFhzsjmLQfla0OJfPJJ"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Groovy People",
+        "url": "https://open.spotify.com/album/2a8IWtMGQl8oIA3lUtLDQw"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 206080,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/54Yappwod1fELR5zb2gDBn"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -647,38 +647,18 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Tuscan Leather",
-        "url": "https://open.spotify.com/album/6D4llfWMNiN8Q6ojvbM6Xu"
+        "name": "More Than Enough",
+        "url": "https://open.spotify.com/album/0xfm90Zo2EQ9rSECde8uOq"
       },
       "artists": [
         {
-          "name": "Brent Ewing",
-          "url": "https://open.spotify.com/artist/2gDCNElfgzrOIaC8sVACnC"
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
         }
       ],
-      "duration_ms": 174576,
-      "name": "Tuscan Leather",
-      "url": "https://open.spotify.com/track/4maiFhzsjmLQfla0OJfPJJ"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "It Was Good Until It Wasn't",
-        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 278715,
-      "name": "Hate The Club (feat. Masego)",
-      "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
+      "duration_ms": 151462,
+      "name": "More Than Enough",
+      "url": "https://open.spotify.com/track/1NjQZi2ajwmJsfnimLr41I"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -695,6 +675,22 @@
       "duration_ms": 174306,
       "name": "PERSIAN RUGS",
       "url": "https://open.spotify.com/track/02UJ1sCanP94fS2MdsWafh"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/4p9QlliNvKndyKSPyuJlP8"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "oui",
+      "url": "https://open.spotify.com/track/4sw7dHjD6EsGs0d57AHgdy"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -733,36 +729,40 @@
       "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
     },
     {
-      "added_at": "2021-07-13 14:24:06",
+      "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Talk 2 Me",
-        "url": "https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI"
+        "name": "Chasing Summer",
+        "url": "https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
         }
       ],
-      "duration_ms": 139805,
-      "name": "Talk 2 Me",
-      "url": "https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO"
+      "duration_ms": 174946,
+      "name": "You Can't Save Me",
+      "url": "https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1"
     },
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "More Than Enough",
-        "url": "https://open.spotify.com/album/0xfm90Zo2EQ9rSECde8uOq"
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
       "artists": [
         {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
         }
       ],
-      "duration_ms": 151462,
-      "name": "More Than Enough",
-      "url": "https://open.spotify.com/track/1NjQZi2ajwmJsfnimLr41I"
+      "duration_ms": 278715,
+      "name": "Hate The Club (feat. Masego)",
+      "url": "https://open.spotify.com/track/0QUbiLQySWPq5Lh3f7A9bN"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -819,78 +819,6 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Chasing Summer",
-        "url": "https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "You Can't Save Me",
-      "url": "https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1"
-    },
-    {
-      "added_at": "2020-11-17 19:47:22",
-      "album": {
-        "name": "Love and Be Loved",
-        "url": "https://open.spotify.com/album/1JdumfPmZjNT9Efr35Wc7a"
-      },
-      "artists": [
-        {
-          "name": "Zenesoul",
-          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
-        },
-        {
-          "name": "Aaron Ridge",
-          "url": "https://open.spotify.com/artist/4bWvbNOmiWoUo3TKap75z1"
-        }
-      ],
-      "duration_ms": 207203,
-      "name": "Love and Be Loved",
-      "url": "https://open.spotify.com/track/48Zho9HnU486cLIOYegCBI"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "True Colors",
-      "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "aiMless",
-        "url": "https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 200214,
-      "name": "Waiting For (feat. Jamila Woods)",
-      "url": "https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
         "name": "Take Care of You / Summertime",
         "url": "https://open.spotify.com/album/1TOxhqUtnHSJHnOqRlVxQa"
       },
@@ -909,20 +837,36 @@
       "url": "https://open.spotify.com/track/2ENxOXbxhfJ3lfItO0MFDv"
     },
     {
-      "added_at": "2021-02-10 18:29:31",
+      "added_at": "2021-07-13 14:24:06",
       "album": {
-        "name": "235 (2:35 I Want You)",
-        "url": "https://open.spotify.com/album/22xnoAzJJFvmm1iZJNDNqh"
+        "name": "Talk 2 Me",
+        "url": "https://open.spotify.com/album/34oV9Sr1zgCSfdQ0wP4iSI"
       },
       "artists": [
         {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 231428,
-      "name": "235 (2:35 I Want You)",
-      "url": "https://open.spotify.com/track/5yGAyupR8TXCUq3MPb7xiK"
+      "duration_ms": 139805,
+      "name": "Talk 2 Me",
+      "url": "https://open.spotify.com/track/5k5ZVVrn8Pu6ltw3wKuPCO"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -947,6 +891,62 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
+        "name": "aiMless",
+        "url": "https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 200214,
+      "name": "Waiting For (feat. Jamila Woods)",
+      "url": "https://open.spotify.com/track/02nZeTbm2dRHisH6qsUM5E"
+    },
+    {
+      "added_at": "2021-02-10 19:08:45",
+      "album": {
+        "name": "- Ugh, those feels again",
+        "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 199179,
+      "name": "Whoa",
+      "url": "https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0"
+    },
+    {
+      "added_at": "2020-11-17 19:47:22",
+      "album": {
+        "name": "Love and Be Loved",
+        "url": "https://open.spotify.com/album/1JdumfPmZjNT9Efr35Wc7a"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        },
+        {
+          "name": "Aaron Ridge",
+          "url": "https://open.spotify.com/artist/4bWvbNOmiWoUo3TKap75z1"
+        }
+      ],
+      "duration_ms": 207203,
+      "name": "Love and Be Loved",
+      "url": "https://open.spotify.com/track/48Zho9HnU486cLIOYegCBI"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -959,22 +959,6 @@
       "duration_ms": 333946,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/4cRBqWBjuccCowYVHFlXK6"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Summer 2020",
-      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -993,20 +977,20 @@
       "url": "https://open.spotify.com/track/3TpXajg1nKzG3ngc9tBwrD"
     },
     {
-      "added_at": "2021-05-21 14:49:51",
+      "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/30P7uijkdF3ldKDKMGV4Gf"
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
       },
       "artists": [
         {
-          "name": "Rayana Jay",
-          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 209004,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/7880kQRPye3cc9ZExlssbn"
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -1041,20 +1025,20 @@
       "url": "https://open.spotify.com/track/47zF41JzRRdJEJQPXlDQvz"
     },
     {
-      "added_at": "2021-02-10 19:08:45",
+      "added_at": "2021-02-10 18:29:31",
       "album": {
-        "name": "- Ugh, those feels again",
-        "url": "https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK"
+        "name": "235 (2:35 I Want You)",
+        "url": "https://open.spotify.com/album/22xnoAzJJFvmm1iZJNDNqh"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 199179,
-      "name": "Whoa",
-      "url": "https://open.spotify.com/track/2E0UymXqHER6j37pBoHTC0"
+      "duration_ms": 231428,
+      "name": "235 (2:35 I Want You)",
+      "url": "https://open.spotify.com/track/5yGAyupR8TXCUq3MPb7xiK"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -1077,72 +1061,20 @@
       "url": "https://open.spotify.com/track/5KdhJG3BXUmLoO4JdycCPw"
     },
     {
-      "added_at": "2020-11-12 18:20:47",
+      "added_at": "2021-05-21 14:49:51",
       "album": {
-        "name": "Losin Control",
-        "url": "https://open.spotify.com/album/2ppZatWDv3f0B2wLFOqXEP"
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/30P7uijkdF3ldKDKMGV4Gf"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Rayana Jay",
+          "url": "https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S"
         }
       ],
-      "duration_ms": 240065,
-      "name": "Losin Control",
-      "url": "https://open.spotify.com/track/4tGjoffVHvUvb5RDE60sjX"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "Be the One (Remix) (feat. Col3trane)",
-        "url": "https://open.spotify.com/album/0Ty7JL2JlfjVR9jXtnKIdy"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 191237,
-      "name": "Be the One - Remix",
-      "url": "https://open.spotify.com/track/63BNGz21SvLvqmcPLXPDqr"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 262453,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "honeycomb",
-        "url": "https://open.spotify.com/album/07HYWH4vVntmvQiSyu5B83"
-      },
-      "artists": [
-        {
-          "name": "Kwaku Asante",
-          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
-        }
-      ],
-      "duration_ms": 254617,
-      "name": "Primrose",
-      "url": "https://open.spotify.com/track/1NRX2Ktplk6T3nj8rriiYJ"
+      "duration_ms": 209004,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/7880kQRPye3cc9ZExlssbn"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -1171,22 +1103,86 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Wake Up Love",
-        "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
+        "name": "ZOO",
+        "url": "https://open.spotify.com/album/48Kac3ieDtt9OSp9Fm4g9e"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Iman.",
-          "url": "https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 215329,
-      "name": "Wake Up Love",
-      "url": "https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin"
+      "duration_ms": 226693,
+      "name": "Missin You Crazy",
+      "url": "https://open.spotify.com/track/4ve2uzqdwnHr20G5YgMMqr"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 262453,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/4c2xt1trwYZpMqPWY35Xi9"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Be the One (Remix) (feat. Col3trane)",
+        "url": "https://open.spotify.com/album/0Ty7JL2JlfjVR9jXtnKIdy"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        },
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        }
+      ],
+      "duration_ms": 191237,
+      "name": "Be the One - Remix",
+      "url": "https://open.spotify.com/track/63BNGz21SvLvqmcPLXPDqr"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Trilogy",
+        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "The Morning",
+      "url": "https://open.spotify.com/track/6u0dQik0aif7FQlrhycG1L"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "honeycomb",
+        "url": "https://open.spotify.com/album/07HYWH4vVntmvQiSyu5B83"
+      },
+      "artists": [
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "duration_ms": 254617,
+      "name": "Primrose",
+      "url": "https://open.spotify.com/track/1NRX2Ktplk6T3nj8rriiYJ"
     },
     {
       "added_at": "2021-07-06 17:51:53",
@@ -1211,18 +1207,38 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Trilogy",
-        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
+        "name": "Losin Control",
+        "url": "https://open.spotify.com/album/2ppZatWDv3f0B2wLFOqXEP"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 312426,
-      "name": "The Morning",
-      "url": "https://open.spotify.com/track/6u0dQik0aif7FQlrhycG1L"
+      "duration_ms": 240065,
+      "name": "Losin Control",
+      "url": "https://open.spotify.com/track/4tGjoffVHvUvb5RDE60sjX"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Wake Up Love",
+        "url": "https://open.spotify.com/album/4bIuE7S9tX7bZttvusd6QR"
+      },
+      "artists": [
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        },
+        {
+          "name": "Iman.",
+          "url": "https://open.spotify.com/artist/4snOTeLIxOa9anlWC3k5cC"
+        }
+      ],
+      "duration_ms": 215329,
+      "name": "Wake Up Love",
+      "url": "https://open.spotify.com/track/2KkNkv6ciB6bt2hvHtOrin"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -1271,54 +1287,6 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "ZOO",
-        "url": "https://open.spotify.com/album/48Kac3ieDtt9OSp9Fm4g9e"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 226693,
-      "name": "Missin You Crazy",
-      "url": "https://open.spotify.com/track/4ve2uzqdwnHr20G5YgMMqr"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "Marvins Room",
-        "url": "https://open.spotify.com/album/3mGqeHmVPQvBEJJlyWXI4u"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 347586,
-      "name": "Marvins Room",
-      "url": "https://open.spotify.com/track/1GpSXGBCDDHKRrOTqg4jdr"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
         "name": "A Muse In Her Feelings",
         "url": "https://open.spotify.com/album/153lLZKTVw25BTcLuXB8ME"
       },
@@ -1339,6 +1307,22 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
+        "name": "Marvins Room",
+        "url": "https://open.spotify.com/album/3mGqeHmVPQvBEJJlyWXI4u"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 347586,
+      "name": "Marvins Room",
+      "url": "https://open.spotify.com/track/1GpSXGBCDDHKRrOTqg4jdr"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/35Z0yQ32AbTSDh530LeNKB"
       },
@@ -1355,34 +1339,18 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Call Me Over",
-        "url": "https://open.spotify.com/album/1jBOlb1HB2TSCDskqGHuvW"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "Always Never",
-          "url": "https://open.spotify.com/artist/0iiDqBBNToKJG4YoyESrBf"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 269268,
-      "name": "Wylin'",
-      "url": "https://open.spotify.com/track/0C0nNm2RDKbANnU4lLfkSc"
-    },
-    {
-      "added_at": "2021-05-11 19:43:42",
-      "album": {
-        "name": "Overgrown",
-        "url": "https://open.spotify.com/album/55kmFrMvcnO54KbEurJTrM"
-      },
-      "artists": [
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        }
-      ],
-      "duration_ms": 190135,
-      "name": "Losing",
-      "url": "https://open.spotify.com/track/5qY6sANDQpCctL1EtBlR2J"
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -1405,100 +1373,20 @@
       "url": "https://open.spotify.com/track/0MoGkelRvi3gxZy6kuYHLq"
     },
     {
-      "added_at": "2020-11-12 18:20:47",
+      "added_at": "2021-05-11 19:43:42",
       "album": {
-        "name": "Psycho, Pt. 2",
-        "url": "https://open.spotify.com/album/21UO4eAaNZ5kultgMBNEHD"
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/55kmFrMvcnO54KbEurJTrM"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
         }
       ],
-      "duration_ms": 161985,
-      "name": "Psycho, Pt. 2",
-      "url": "https://open.spotify.com/track/26OhjtaTamFocE08t83ml6"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Shot For Me",
-      "url": "https://open.spotify.com/track/6k7b4mcxLP5HPo6hNoXoM6"
-    },
-    {
-      "added_at": "2021-05-05 17:12:36",
-      "album": {
-        "name": "CON TAL",
-        "url": "https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm"
-      },
-      "artists": [
-        {
-          "name": "Marval",
-          "url": "https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM"
-        }
-      ],
-      "duration_ms": 174004,
-      "name": "CON TAL",
-      "url": "https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 183022,
-      "name": "Around Me",
-      "url": "https://open.spotify.com/track/7dQeS4ErW1iWvnKdrtKwKr"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/5VjgE3Mjh32oW42Y5ku6Ea"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        }
-      ],
-      "duration_ms": 170248,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/7rezT408cCLBBr40Gvtg4J"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "Shot Down",
-        "url": "https://open.spotify.com/album/1aL0tA9ErudUMrpaFnyP9v"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 209185,
-      "name": "Shot Down",
-      "url": "https://open.spotify.com/track/58nciIyr5vKpUJkUXXkxCq"
+      "duration_ms": 190135,
+      "name": "Losing",
+      "url": "https://open.spotify.com/track/5qY6sANDQpCctL1EtBlR2J"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -1519,6 +1407,70 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
+        "name": "Call Me Over",
+        "url": "https://open.spotify.com/album/1jBOlb1HB2TSCDskqGHuvW"
+      },
+      "artists": [
+        {
+          "name": "Always Never",
+          "url": "https://open.spotify.com/artist/0iiDqBBNToKJG4YoyESrBf"
+        }
+      ],
+      "duration_ms": 269268,
+      "name": "Wylin'",
+      "url": "https://open.spotify.com/track/0C0nNm2RDKbANnU4lLfkSc"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "Shot For Me",
+      "url": "https://open.spotify.com/track/6k7b4mcxLP5HPo6hNoXoM6"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 183022,
+      "name": "Around Me",
+      "url": "https://open.spotify.com/track/7dQeS4ErW1iWvnKdrtKwKr"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Psycho, Pt. 2",
+        "url": "https://open.spotify.com/album/21UO4eAaNZ5kultgMBNEHD"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 161985,
+      "name": "Psycho, Pt. 2",
+      "url": "https://open.spotify.com/track/26OhjtaTamFocE08t83ml6"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
         "name": "You Should Be Here",
         "url": "https://open.spotify.com/album/34JNly8P6uZRKTGnmmLNAt"
       },
@@ -1535,6 +1487,70 @@
       "duration_ms": 262520,
       "name": "The Way (feat. Chance the Rapper)",
       "url": "https://open.spotify.com/track/6mzaCRuLTRiz1caGOum3zT"
+    },
+    {
+      "added_at": "2021-05-05 17:12:36",
+      "album": {
+        "name": "CON TAL",
+        "url": "https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm"
+      },
+      "artists": [
+        {
+          "name": "Marval",
+          "url": "https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM"
+        }
+      ],
+      "duration_ms": 174004,
+      "name": "CON TAL",
+      "url": "https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "A Place Like This",
+        "url": "https://open.spotify.com/album/0LncwHODjl9isM9pzVmuOS"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 300728,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/6GatnDEhYQLOdRzdVbJaky"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Shot Down",
+        "url": "https://open.spotify.com/album/1aL0tA9ErudUMrpaFnyP9v"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 209185,
+      "name": "Shot Down",
+      "url": "https://open.spotify.com/track/58nciIyr5vKpUJkUXXkxCq"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/5VjgE3Mjh32oW42Y5ku6Ea"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 170248,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/7rezT408cCLBBr40Gvtg4J"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -1571,38 +1587,6 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "A Place Like This",
-        "url": "https://open.spotify.com/album/0LncwHODjl9isM9pzVmuOS"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 300728,
-      "name": "Her",
-      "url": "https://open.spotify.com/track/6GatnDEhYQLOdRzdVbJaky"
-    },
-    {
-      "added_at": "2021-05-05 17:12:36",
-      "album": {
-        "name": "Stuck in the Sky",
-        "url": "https://open.spotify.com/album/30vPoPfOku0lYgfTE903vA"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
-        }
-      ],
-      "duration_ms": 134452,
-      "name": "atrapada en el cielo",
-      "url": "https://open.spotify.com/track/0xa6hDuygUskYwHD4hNXUR"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
         "name": "Morning After",
         "url": "https://open.spotify.com/album/6rXy4b147LkM3muZKuALSX"
       },
@@ -1635,38 +1619,34 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/3N88bRVAwQrtKqSV0UgU69"
+        "name": "Trilogy",
+        "url": "https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U"
       },
       "artists": [
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
         }
       ],
-      "duration_ms": 230026,
-      "name": "Hurt You",
-      "url": "https://open.spotify.com/track/13wNEvWmBsWaWVtiLPRIW5"
+      "duration_ms": 323746,
+      "name": "Wicked Games",
+      "url": "https://open.spotify.com/track/6VwBbL8CzPiC4QV66ay7oR"
     },
     {
-      "added_at": "2020-11-12 18:20:47",
+      "added_at": "2021-05-05 17:12:36",
       "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
+        "name": "Stuck in the Sky",
+        "url": "https://open.spotify.com/album/30vPoPfOku0lYgfTE903vA"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
         }
       ],
-      "duration_ms": 170680,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/67kXYrMTQbS7MVbXyGyxHm"
+      "duration_ms": 134452,
+      "name": "atrapada en el cielo",
+      "url": "https://open.spotify.com/track/0xa6hDuygUskYwHD4hNXUR"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -1687,6 +1667,22 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/7uSaHPXSYaRB3FxLOmatG9"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 243238,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
         "name": "Stoney (Deluxe)",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -1703,18 +1699,38 @@
     {
       "added_at": "2020-11-12 18:20:47",
       "album": {
-        "name": "Provider",
-        "url": "https://open.spotify.com/album/7uSaHPXSYaRB3FxLOmatG9"
+        "name": "American Teen",
+        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 243238,
-      "name": "Provider",
-      "url": "https://open.spotify.com/track/6R6ihJhRbgu7JxJKIbW57w"
+      "duration_ms": 170680,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/67kXYrMTQbS7MVbXyGyxHm"
+    },
+    {
+      "added_at": "2020-11-12 18:20:47",
+      "album": {
+        "name": "My Dear Melancholy,",
+        "url": "https://open.spotify.com/album/3N88bRVAwQrtKqSV0UgU69"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+        }
+      ],
+      "duration_ms": 230026,
+      "name": "Hurt You",
+      "url": "https://open.spotify.com/track/13wNEvWmBsWaWVtiLPRIW5"
     },
     {
       "added_at": "2020-11-12 18:20:47",
@@ -1747,22 +1763,6 @@
       "duration_ms": 199614,
       "name": "EL POETA",
       "url": "https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9"
-    },
-    {
-      "added_at": "2020-11-12 18:20:47",
-      "album": {
-        "name": "American Teen",
-        "url": "https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "Saved",
-      "url": "https://open.spotify.com/track/248OFOZef6ShXv6DGgbnxU"
     }
   ],
   "unique_name": "All The Feels",

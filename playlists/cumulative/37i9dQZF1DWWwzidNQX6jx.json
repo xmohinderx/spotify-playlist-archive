@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "These songs rocked the 70s. Cover: David Bowie.",
+  "description": "These songs rocked the 70s. Cover: Meat Loaf.",
   "name": "70s Rock Anthems",
   "published_playlist_ids": [
     "300rDEvhUkSxlICWNMARoz"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 271293,
       "name": "Angie - Remastered",
       "url": "https://open.spotify.com/track/5FQdAbZKZWwgeWTqTFVVMo"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 192145,
       "name": "Another Brick in the Wall, Pt. 1",
       "url": "https://open.spotify.com/track/7K6xMPtAjTuLPNlJMLf5bS"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 293120,
       "name": "Bridge Over Troubled Water",
       "url": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 275733,
       "name": "Heart Of Glass - Special Mix",
       "url": "https://open.spotify.com/track/0a4agFmqHXxcZl1nho1BxM"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 235546,
       "name": "Hold the Line",
       "url": "https://open.spotify.com/track/4aVuWgvD0X63hcOCnZtNFA"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 235986,
       "name": "Life on Mars? - 2015 Remaster",
       "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 536226,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
@@ -1927,7 +1927,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 253733,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
@@ -2107,7 +2107,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 137933,
       "name": "Tush - 2006 Remaster",
       "url": "https://open.spotify.com/track/6zGDIDjfDkPyNxrEERO3XG"
@@ -2309,6 +2309,24 @@
       "duration_ms": 232466,
       "name": "You Ain't Seen Nothing Yet",
       "url": "https://open.spotify.com/track/4Ich2datyOWMWvdNjksBDT"
+    },
+    {
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304440,
+      "name": "You Took The Words Right Out of My Mouth (Hot Summer Night)",
+      "url": "https://open.spotify.com/track/7wawEkN4nhPqSBWleGvdxa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWwzidNQX6jx"

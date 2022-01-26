@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 280920,
       "name": "Abide",
       "url": "https://open.spotify.com/track/3sxGCOWEmIjANsv1xvynN7"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 306131,
       "name": "Agape",
       "url": "https://open.spotify.com/track/0EftQZBNBfwAqVRtMi3ZWs"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 270024,
       "name": "All the Way Round - Edit",
       "url": "https://open.spotify.com/track/68Cz5sfSKx1ugwoxJzLIHh"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 168398,
       "name": "Balcony Hotel - From 'Miss'",
       "url": "https://open.spotify.com/track/1ugTSkllKG0YdiPaOEPa0z"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 238018,
       "name": "Beginnings",
       "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
@@ -2509,7 +2509,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 430384,
       "name": "F\u00fcr Alina",
       "url": "https://open.spotify.com/track/4nH8MQv8SEs1zW5BNrSgD0"
@@ -2821,7 +2821,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "How to Fall in Love in a Pandemic (Music for a Short Film)",
       "url": "https://open.spotify.com/track/7upguSfQ3tXlymVbMb6784"
@@ -2861,7 +2861,7 @@
       ],
       "date_added": "2021-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "I'll see you in 21 days",
       "url": "https://open.spotify.com/track/4UZC44nlpBIznBrAUKQGgl"
@@ -3255,7 +3255,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C"
@@ -3653,7 +3653,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 234683,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
@@ -3783,7 +3783,7 @@
       ],
       "date_added": "2021-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 289133,
       "name": "N\u00fa vil \u00e9g enn \u00ed nafni \u00fe\u00ednu",
       "url": "https://open.spotify.com/track/7ysT31t7sFFkkA6ZNjmeUs"
@@ -4277,7 +4277,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 228904,
       "name": "Refrost",
       "url": "https://open.spotify.com/track/05MRIEoiBKTtnTT70KkDdX"
@@ -4525,6 +4525,28 @@
       "duration_ms": 215520,
       "name": "Ser\u00eda",
       "url": "https://open.spotify.com/track/0gByie4ptADcvfEEdFAFjB"
+    },
+    {
+      "album": {
+        "name": "Pool",
+        "url": "https://open.spotify.com/album/0brYnL9IbHnqPYOqEEkNrC"
+      },
+      "artists": [
+        {
+          "name": "Jim Wallis",
+          "url": "https://open.spotify.com/artist/2bvFPvB1oS49jPbQ68yKqL"
+        },
+        {
+          "name": "Nick Goss",
+          "url": "https://open.spotify.com/artist/3H4QM9olbUCc7po6geVsfB"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402933,
+      "name": "Seventh Man",
+      "url": "https://open.spotify.com/track/66wsgXCHuYUJMVdh1t09jy"
     },
     {
       "album": {
@@ -5121,7 +5143,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 193991,
       "name": "S\u00f8ndag",
       "url": "https://open.spotify.com/track/6grFQLBBBDRgDV8l18S7Zo"

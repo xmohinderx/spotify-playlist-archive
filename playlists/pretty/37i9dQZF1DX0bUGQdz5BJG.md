@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Hailey Whitters
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,457 likes - 141 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,466 likes - 141 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 72 | [Something I'll Never Get Back](https://open.spotify.com/track/1LQ1PCZsbIxz2uhkGNct9p) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Silver Linings](https://open.spotify.com/album/5EMEAda8t8zLXlZ0oSFUZg) | 3:08 |
 | 73 | [Back Home](https://open.spotify.com/track/0qxprfMuTOj2PZ38IyR777) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Back Home](https://open.spotify.com/album/2HL7BYd2hXNtPiJIlM7jtP) | 3:08 |
 | 74 | [You Don't Want to Go There](https://open.spotify.com/track/5qn76nHtyrYg0LCrVEmO8K) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [You Don't Want to Go There](https://open.spotify.com/album/1aY7DBkOCG06uXw8BXA9RL) | 3:24 |
-| 75 | [Gentleman](https://open.spotify.com/track/4MNBohv8Zt6IlCamRlsNmO) | [Tiera](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Gentleman](https://open.spotify.com/album/1IgkSG82A35krB4kdL8OM9) | 3:05 |
+| 75 | [Gentleman](https://open.spotify.com/track/4MNBohv8Zt6IlCamRlsNmO) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Gentleman](https://open.spotify.com/album/1IgkSG82A35krB4kdL8OM9) | 3:05 |
 | 76 | [As You Leave](https://open.spotify.com/track/218NK60dJvyf7mIsowogA3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave](https://open.spotify.com/album/10mMsHExUCFJEcILYH3wZt) | 2:06 |
 | 77 | [One Of These Days](https://open.spotify.com/track/5Ld2LzTGKgTFpd17hzGlst) | [Nick Walker](https://open.spotify.com/artist/6m48PJi2B7koTGfELb0mkv) | [One Of These Days](https://open.spotify.com/album/4QU7CQ1TlqCBqHP2qTGEXW) | 3:18 |
 | 78 | [Hide From A Broken Heart](https://open.spotify.com/track/5VrlPIcMKixFC40QFcxXsa) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Hide From A Broken Heart](https://open.spotify.com/album/1f7zNLjz3cKwshw05BPtum) | 3:28 |

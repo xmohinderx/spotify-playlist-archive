@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: 87dance\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,228 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,267 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 26 | [KEY BOARD](https://open.spotify.com/track/2lQYm0Y64QxnBbSTSuu0qc) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [KEY BOARD](https://open.spotify.com/album/26yTMDx0rfJjjHBCVuHQ32) | 3:23 |
 | 27 | [잊어보려](https://open.spotify.com/track/7MlJdPayy55Lae2WyBD5PX) | [Yohan.D](https://open.spotify.com/artist/3kHHIGCGd6i2LPp0aqVpF0), [Huiii](https://open.spotify.com/artist/3yHaWhXdZeuI2l1LhzET3E) | [잊어보려](https://open.spotify.com/album/0D6icyFt3wd5VQFPGEYGW6) | 3:34 |
 | 28 | [desertification](https://open.spotify.com/track/6gQIuIF9sCWjYUmO1jGMwP) | [oomool](https://open.spotify.com/artist/6Hd7QIFavcdnS1Iiri4ssH) | [desertification](https://open.spotify.com/album/7Isw8s1ZfH9rTAbS8VYENV) | 4:34 |
-| 29 | [newyear](https://open.spotify.com/track/1Y0xqT5DdzPABdz801Jrnu) | [Lim Jiwon](https://open.spotify.com/artist/24Zyri75gjByhfJ8O5lnYS) | [newyear](https://open.spotify.com/album/0tgJKDBMz9OFcMKDuIMkTD) | 3:07 |
+| 29 | [newyear](https://open.spotify.com/track/1Y0xqT5DdzPABdz801Jrnu) | [Lim Jiwon](https://open.spotify.com/artist/1F1Ktz9E830u3uAceQA2y3) | [newyear](https://open.spotify.com/album/0tgJKDBMz9OFcMKDuIMkTD) | 3:07 |
 | 30 | [ooo oo](https://open.spotify.com/track/5oLtxIp8CLLHbihYOhCJzh) | [KDH](https://open.spotify.com/artist/0z6EiagML6AZJuLzRJRRFG) | [ooo oo](https://open.spotify.com/album/0mzvYvTCr7bYDajVaoRpZc) | 3:01 |
 | 31 | [DANCER^\_^/ \(feat\. JUEUN\)](https://open.spotify.com/track/6RLYVTbTdSKm9ZYbaFcB0P) | [KODI GREEN](https://open.spotify.com/artist/54yQw1nXF53pvMLL0MpTxs), [JUEUN](https://open.spotify.com/artist/7rRR0LTsRPkIJDzldVLtvI) | [DANCER](https://open.spotify.com/album/3pqoAKKpGCwufIArvZBSg7) | 3:22 |
 | 32 | [we're not](https://open.spotify.com/track/7xuvJiT3Lpj3N7tLhDinIt) | [LEE SEOKHUI](https://open.spotify.com/artist/4J2gD7kbbw3ZCazueHT05P) | [Beautiful winter](https://open.spotify.com/album/7jWFYuphHoEPFi4ElWPexa) | 4:28 |

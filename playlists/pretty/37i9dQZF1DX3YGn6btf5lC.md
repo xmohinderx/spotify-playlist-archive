@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YGn6btf5lC.md) - [plain]
 
 > 100% fan\-made music\. Gaming parodies of famous songs and unique creations, inspired by Minecraft, Warcraft, Pokémon and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,769 likes - 29 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,779 likes - 29 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

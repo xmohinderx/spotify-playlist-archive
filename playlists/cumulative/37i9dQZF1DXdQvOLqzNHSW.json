@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 238435,
       "name": "2much",
       "url": "https://open.spotify.com/track/0ShhMU4mTH4zvBnjmHuMmi"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 314426,
       "name": "9",
       "url": "https://open.spotify.com/track/6zPmJ8DI5vuB1G9WjVjMfU"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 198511,
       "name": "Alone In Kenzo",
       "url": "https://open.spotify.com/track/39QWEcx4aFKyx7mCQYD2Pv"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 156026,
       "name": "Care For You",
       "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
@@ -558,6 +558,24 @@
     },
     {
       "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/3Bm0NIvCFjW8EcorluiLM7"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "date_added": "2020-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191750,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/2cUV93Y7FLGR42ycRRf0bL"
+    },
+    {
+      "album": {
         "name": "Eugene",
         "url": "https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7"
       },
@@ -659,7 +677,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 244000,
       "name": "FORCE OF HABIT",
       "url": "https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 219340,
       "name": "Numb",
       "url": "https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 168810,
       "name": "sex money feelings die - slowed version",
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 237521,
       "name": "Sink In",
       "url": "https://open.spotify.com/track/15PpjH9dNPSZrEaAw2M3Np"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 336506,
       "name": "Small Worlds",
       "url": "https://open.spotify.com/track/3MwTZfoEs3bZTqH5FEA61R"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 181586,
       "name": "Still Beating",
       "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 252409,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/4YHuPWY3yxGo5eftu1Ixm8"
@@ -1931,7 +1949,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 203213,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/3pfuy1uQhG7g6Ttbo2Jh0N"
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 515865,
       "name": "WILSHIRE",
       "url": "https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu"

@@ -1,12 +1,12 @@
 {
   "description": "Simone & Simaria e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 48453,
+  "num_followers": 48535,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzA3MTY1MCwwMDAwMDAwMGZmNjEzMWQzOWJhNDdmOGM0ZjlmNmJmNDgyZDE3Y2Vh",
+  "snapshot_id": "MTY0MzE1ODEwNiwwMDAwMDAwMGIxMTVkYTdiYzNmOTQ4MjZmMTM4MzZhYWZjMDQ4OGJm",
   "tracks": [
     {
       "added_at": "2022-01-11 17:51:30",
@@ -47,6 +47,22 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
+        "name": "Assalto Perigoso",
+        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "duration_ms": 155417,
+      "name": "Assalto Perigoso",
+      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
         "name": "Eclipse do Meu Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5MuqShBqOfBFxvfyUlZx2D"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 208737,
       "name": "Eclipse do Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1L8z8xVcwsz50N0FOMS3wb"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Assalto Perigoso",
-        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
-      },
-      "artists": [
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 155417,
-      "name": "Assalto Perigoso",
-      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -115,54 +115,54 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
-        "name": "Quero Que Voc\u00ea Se (Ao vivo)",
-        "url": "https://open.spotify.com/album/5Xe6JNQNwRJhHkoJ2sSOqH"
+        "name": "\u00c9 a Vez dos Meninos",
+        "url": "https://open.spotify.com/album/4FhDxLH9XlDGyUCKSmHxm3"
       },
       "artists": [
         {
-          "name": "Kamilla Maria",
-          "url": "https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c"
-        }
-      ],
-      "duration_ms": 174766,
-      "name": "Quero Que Voc\u00ea Se - Ao vivo",
-      "url": "https://open.spotify.com/track/5ECdJiYkcQz1VhpYzsGUhW"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Natural (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gsv2uS6iarAuEOwpi4yf2"
-      },
-      "artists": [
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "Pegada Fraca",
-      "url": "https://open.spotify.com/track/0VctEJH2jh12Y1MM9RovQf"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Patroas 35%",
-        "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Nanara Bello",
+          "url": "https://open.spotify.com/artist/7qc6f7TxR5gpcuxBqVyZXb"
         },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 169536,
+      "name": "\u00c9 a Vez dos Meninos",
+      "url": "https://open.spotify.com/track/3RUkHHeCWj87JAq9Q7Wyh3"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "Incompar\u00e1vel",
+        "url": "https://open.spotify.com/album/5CcrQXqE34bSJNkJz3uwop"
+      },
+      "artists": [
         {
           "name": "Maiara & Maraisa",
           "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 196209,
-      "name": "Presepada",
-      "url": "https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp"
+      "duration_ms": 171889,
+      "name": "Incompar\u00e1vel",
+      "url": "https://open.spotify.com/track/2ORAf20kf1XGJ7rWCx5qdp"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "Troca de Cal\u00e7ada",
+        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 203158,
+      "name": "Troca de Cal\u00e7ada",
+      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -183,18 +183,34 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
-        "name": "Pra Lascar o Cora\u00e7\u00e3o Vol. 1",
-        "url": "https://open.spotify.com/album/2ABM6lu9pQfOAUAHSUAyrK"
+        "name": "Natural (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gsv2uS6iarAuEOwpi4yf2"
       },
       "artists": [
         {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
         }
       ],
-      "duration_ms": 183894,
-      "name": "Marionete",
-      "url": "https://open.spotify.com/track/5H9veDP27AVUVu82x277A3"
+      "duration_ms": 177096,
+      "name": "Pegada Fraca",
+      "url": "https://open.spotify.com/track/0VctEJH2jh12Y1MM9RovQf"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "Hoje Eu Vou Dar uma Sentadinha",
+        "url": "https://open.spotify.com/album/2ERJxD3rl7r66fHJURjCon"
+      },
+      "artists": [
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        }
+      ],
+      "duration_ms": 145953,
+      "name": "Hoje Eu Vou Dar uma Sentadinha",
+      "url": "https://open.spotify.com/track/67MzL6NnggPqvBfJVzoYwX"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -219,94 +235,34 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
-        "name": "Incompar\u00e1vel",
-        "url": "https://open.spotify.com/album/5CcrQXqE34bSJNkJz3uwop"
+        "name": "Pra Lascar o Cora\u00e7\u00e3o Vol. 1",
+        "url": "https://open.spotify.com/album/2ABM6lu9pQfOAUAHSUAyrK"
       },
       "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 171889,
-      "name": "Incompar\u00e1vel",
-      "url": "https://open.spotify.com/track/2ORAf20kf1XGJ7rWCx5qdp"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "\u00c9 a Vez dos Meninos",
-        "url": "https://open.spotify.com/album/4FhDxLH9XlDGyUCKSmHxm3"
-      },
-      "artists": [
-        {
-          "name": "Nanara Bello",
-          "url": "https://open.spotify.com/artist/7qc6f7TxR5gpcuxBqVyZXb"
-        },
         {
           "name": "Mari Fernandez",
           "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
         }
       ],
-      "duration_ms": 169536,
-      "name": "\u00c9 a Vez dos Meninos",
-      "url": "https://open.spotify.com/track/3RUkHHeCWj87JAq9Q7Wyh3"
+      "duration_ms": 183894,
+      "name": "Marionete",
+      "url": "https://open.spotify.com/track/5H9veDP27AVUVu82x277A3"
     },
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
-        "name": "S\u00f3 Botada",
-        "url": "https://open.spotify.com/album/1DAyY1ZeGJ260xzAjGtYlc"
+        "name": "Quero Que Voc\u00ea Se (Ao vivo)",
+        "url": "https://open.spotify.com/album/5Xe6JNQNwRJhHkoJ2sSOqH"
       },
       "artists": [
         {
-          "name": "Marry",
-          "url": "https://open.spotify.com/artist/5Wx5KhGW3Q3pbL7muxyclt"
-        },
-        {
-          "name": "Mc Danny",
-          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+          "name": "Kamilla Maria",
+          "url": "https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c"
         }
       ],
-      "duration_ms": 134874,
-      "name": "S\u00f3 Botada",
-      "url": "https://open.spotify.com/track/4fL533Y3tmPcr0NvFoHwST"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Voc\u00ea N\u00e3o Tem Saudade",
-        "url": "https://open.spotify.com/album/6ionEbvG8AkbpL0TiJ90o2"
-      },
-      "artists": [
-        {
-          "name": "Karlla Thalyta",
-          "url": "https://open.spotify.com/artist/4sS9exq7tCDkcLvmzy5gOP"
-        }
-      ],
-      "duration_ms": 136654,
-      "name": "Voc\u00ea N\u00e3o Tem Saudade",
-      "url": "https://open.spotify.com/track/0hLKNsznBfRPqaoFGIkUvl"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Perdeu Ela e Me Perdeu (Ao Vivo No Casa Filtr)",
-        "url": "https://open.spotify.com/album/2krlGrYDq9NsiqBa9eMTvc"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        },
-        {
-          "name": "Japinha Conde",
-          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
-        }
-      ],
-      "duration_ms": 154618,
-      "name": "Perdeu Ela e Me Perdeu (Ao Vivo No Casa Filtr)",
-      "url": "https://open.spotify.com/track/0zmIEykTxy1JB4JOC9634W"
+      "duration_ms": 174766,
+      "name": "Quero Que Voc\u00ea Se - Ao vivo",
+      "url": "https://open.spotify.com/track/5ECdJiYkcQz1VhpYzsGUhW"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -331,50 +287,18 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
-        "name": "Troca de Cal\u00e7ada",
-        "url": "https://open.spotify.com/album/4CwfuAMrV2zwnoOzJtuI1k"
+        "name": "Anna In Casa",
+        "url": "https://open.spotify.com/album/3ntEJFQ6rX923dKlrhvadP"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Anna Catarina",
+          "url": "https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow"
         }
       ],
-      "duration_ms": 203158,
-      "name": "Troca de Cal\u00e7ada",
-      "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Perigosinha \"Louquinha\"",
-        "url": "https://open.spotify.com/album/7w4dcc9ArowJKqX7BmBIw3"
-      },
-      "artists": [
-        {
-          "name": "Mariana Pimenta",
-          "url": "https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn"
-        }
-      ],
-      "duration_ms": 157183,
-      "name": "Perigosinha \"Louquinha\"",
-      "url": "https://open.spotify.com/track/0L3b6sD84Py9h9r6RnoJt4"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Hoje Eu Vou Dar uma Sentadinha",
-        "url": "https://open.spotify.com/album/2ERJxD3rl7r66fHJURjCon"
-      },
-      "artists": [
-        {
-          "name": "Mc Danny",
-          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
-        }
-      ],
-      "duration_ms": 145953,
-      "name": "Hoje Eu Vou Dar uma Sentadinha",
-      "url": "https://open.spotify.com/track/67MzL6NnggPqvBfJVzoYwX"
+      "duration_ms": 179088,
+      "name": "Aposta em Mim",
+      "url": "https://open.spotify.com/track/1c5JI5VTl1txUDGL1hS6eY"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -395,66 +319,42 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
-        "name": "Um por Cento Voc\u00ea",
-        "url": "https://open.spotify.com/album/31TlAh5EV2G6AfSMMf0JZG"
+        "name": "Patroas 35%",
+        "url": "https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ"
       },
       "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 196209,
+      "name": "Presepada",
+      "url": "https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "Perdeu Ela e Me Perdeu (Ao Vivo No Casa Filtr)",
+        "url": "https://open.spotify.com/album/2krlGrYDq9NsiqBa9eMTvc"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
         {
           "name": "Japinha Conde",
           "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
         }
       ],
-      "duration_ms": 165750,
-      "name": "Um por Cento Voc\u00ea",
-      "url": "https://open.spotify.com/track/1e11Ta0PKWR8miIxdUhn8Q"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Anna In Casa",
-        "url": "https://open.spotify.com/album/3ntEJFQ6rX923dKlrhvadP"
-      },
-      "artists": [
-        {
-          "name": "Anna Catarina",
-          "url": "https://open.spotify.com/artist/5ejwC1lGyvPsz5FGaqHsow"
-        }
-      ],
-      "duration_ms": 179088,
-      "name": "Aposta em Mim",
-      "url": "https://open.spotify.com/track/1c5JI5VTl1txUDGL1hS6eY"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Al\u00f4, Oi (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6uqsBx1EwqoebXRMBD0jhC"
-      },
-      "artists": [
-        {
-          "name": "Allana Macedo",
-          "url": "https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q"
-        }
-      ],
-      "duration_ms": 150107,
-      "name": "Al\u00f4, Oi - Ao Vivo",
-      "url": "https://open.spotify.com/track/7xB7X1WqEBAQGDd8qNx4E3"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "N\u00f3is \u00c9 da Ro\u00e7a Beb\u00ea",
-        "url": "https://open.spotify.com/album/2l8xoRD4KdCdb4WyCtAhJA"
-      },
-      "artists": [
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 197131,
-      "name": "N\u00f3is \u00c9 da Ro\u00e7a Beb\u00ea",
-      "url": "https://open.spotify.com/track/4lYDIGAdOZUKTJ7IoG4GcR"
+      "duration_ms": 154618,
+      "name": "Perdeu Ela e Me Perdeu (Ao Vivo No Casa Filtr)",
+      "url": "https://open.spotify.com/track/0zmIEykTxy1JB4JOC9634W"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -471,6 +371,42 @@
       "duration_ms": 173437,
       "name": "Lerdo Demais",
       "url": "https://open.spotify.com/track/5mYqffKZeZ8dvKZXV5XpwN"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "Perigosinha \"Louquinha\"",
+        "url": "https://open.spotify.com/album/7w4dcc9ArowJKqX7BmBIw3"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pimenta",
+          "url": "https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn"
+        }
+      ],
+      "duration_ms": 157183,
+      "name": "Perigosinha \"Louquinha\"",
+      "url": "https://open.spotify.com/track/0L3b6sD84Py9h9r6RnoJt4"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "S\u00f3 Botada",
+        "url": "https://open.spotify.com/album/1DAyY1ZeGJ260xzAjGtYlc"
+      },
+      "artists": [
+        {
+          "name": "Marry",
+          "url": "https://open.spotify.com/artist/5Wx5KhGW3Q3pbL7muxyclt"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        }
+      ],
+      "duration_ms": 134874,
+      "name": "S\u00f3 Botada",
+      "url": "https://open.spotify.com/track/4fL533Y3tmPcr0NvFoHwST"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -495,6 +431,70 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
+        "name": "Um por Cento Voc\u00ea",
+        "url": "https://open.spotify.com/album/31TlAh5EV2G6AfSMMf0JZG"
+      },
+      "artists": [
+        {
+          "name": "Japinha Conde",
+          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Um por Cento Voc\u00ea",
+      "url": "https://open.spotify.com/track/1e11Ta0PKWR8miIxdUhn8Q"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "Voando Alto, Pt. 1",
+        "url": "https://open.spotify.com/album/1DeP85WKxwHxqnTvjcaX46"
+      },
+      "artists": [
+        {
+          "name": "Danieze Santiago",
+          "url": "https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g"
+        }
+      ],
+      "duration_ms": 213116,
+      "name": "Sil\u00eancio",
+      "url": "https://open.spotify.com/track/7LhPZCl5InBgzFUuV0IGtB"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "N\u00f3is \u00c9 da Ro\u00e7a Beb\u00ea",
+        "url": "https://open.spotify.com/album/2l8xoRD4KdCdb4WyCtAhJA"
+      },
+      "artists": [
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "duration_ms": 197131,
+      "name": "N\u00f3is \u00c9 da Ro\u00e7a Beb\u00ea",
+      "url": "https://open.spotify.com/track/4lYDIGAdOZUKTJ7IoG4GcR"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "Pisando no Forr\u00f3",
+        "url": "https://open.spotify.com/album/0twaMPFmKo8dwaBQLntEss"
+      },
+      "artists": [
+        {
+          "name": "Priscila Senna",
+          "url": "https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv"
+        }
+      ],
+      "duration_ms": 191177,
+      "name": "Anjo Azul",
+      "url": "https://open.spotify.com/track/0z3vs99ymnCPsRl3xioNko"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
         "name": "T\u00f4 A Fim De Namorar",
         "url": "https://open.spotify.com/album/7yBSkGqjfXF2OpI2q05Uxb"
       },
@@ -511,70 +511,18 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
-        "name": "Perdeu Babou",
-        "url": "https://open.spotify.com/album/31HFjGtNQBhTRlnMUBJ3wX"
+        "name": "Voc\u00ea N\u00e3o Tem Saudade",
+        "url": "https://open.spotify.com/album/6ionEbvG8AkbpL0TiJ90o2"
       },
       "artists": [
         {
-          "name": "Mara Pavanelly",
-          "url": "https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX"
-        },
-        {
-          "name": "Mc Danny",
-          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+          "name": "Karlla Thalyta",
+          "url": "https://open.spotify.com/artist/4sS9exq7tCDkcLvmzy5gOP"
         }
       ],
-      "duration_ms": 144814,
-      "name": "Perdeu Babou",
-      "url": "https://open.spotify.com/track/6U6CtQBjWkKjlJLw5FV5hJ"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "O Que Voc\u00ea Sempre Negou",
-        "url": "https://open.spotify.com/album/5HL49Yre66i5DcKhLi8wj2"
-      },
-      "artists": [
-        {
-          "name": "Danieze Santiago",
-          "url": "https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g"
-        }
-      ],
-      "duration_ms": 204086,
-      "name": "O Que Voc\u00ea Sempre Negou",
-      "url": "https://open.spotify.com/track/3EJxspU2R7r2TypgxIEQa3"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Cama Quadrada",
-        "url": "https://open.spotify.com/album/1gTtORjhsenc5xFGNULPen"
-      },
-      "artists": [
-        {
-          "name": "Raquel L\u00eddia",
-          "url": "https://open.spotify.com/artist/05zlqLtQSihKKLA3GQYi5z"
-        }
-      ],
-      "duration_ms": 194939,
-      "name": "Cama Quadrada",
-      "url": "https://open.spotify.com/track/68QxLtJfFvBGa15UUerll1"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Pegada Que Desgrama",
-        "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        }
-      ],
-      "duration_ms": 182368,
-      "name": "Pegada Que Desgrama",
-      "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
+      "duration_ms": 136654,
+      "name": "Voc\u00ea N\u00e3o Tem Saudade",
+      "url": "https://open.spotify.com/track/0hLKNsznBfRPqaoFGIkUvl"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -599,6 +547,54 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
+        "name": "Al\u00f4, Oi (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6uqsBx1EwqoebXRMBD0jhC"
+      },
+      "artists": [
+        {
+          "name": "Allana Macedo",
+          "url": "https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q"
+        }
+      ],
+      "duration_ms": 150107,
+      "name": "Al\u00f4, Oi - Ao Vivo",
+      "url": "https://open.spotify.com/track/7xB7X1WqEBAQGDd8qNx4E3"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "Uma Linha por Vez",
+        "url": "https://open.spotify.com/album/3pY1XwoDaI3di9gQdAKjSr"
+      },
+      "artists": [
+        {
+          "name": "Patr\u00edcia & Adriana",
+          "url": "https://open.spotify.com/artist/0ygrwj3UeDfNrxhPDtSCe2"
+        }
+      ],
+      "duration_ms": 164854,
+      "name": "Bom de Labia",
+      "url": "https://open.spotify.com/track/0DrF4ovAqmI1l6Ki7Qa6ip"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "O Que Voc\u00ea Sempre Negou",
+        "url": "https://open.spotify.com/album/5HL49Yre66i5DcKhLi8wj2"
+      },
+      "artists": [
+        {
+          "name": "Danieze Santiago",
+          "url": "https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g"
+        }
+      ],
+      "duration_ms": 204086,
+      "name": "O Que Voc\u00ea Sempre Negou",
+      "url": "https://open.spotify.com/track/3EJxspU2R7r2TypgxIEQa3"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
         "name": "Amando e Sofrendo, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0jCUtlYP0w2PoUQVOXNFZ5"
       },
@@ -608,9 +604,41 @@
           "url": "https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ"
         }
       ],
-      "duration_ms": 175823,
-      "name": "Amando e Sofrendo - Ao Vivo",
-      "url": "https://open.spotify.com/track/2imFtJsJNa73orZipauwwE"
+      "duration_ms": 176895,
+      "name": "Pancada de Choro - Ao Vivo",
+      "url": "https://open.spotify.com/track/02ZRQ15yLxLxnSR97o3x48"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "Foguete N\u00e3o Tem R\u00e9",
+        "url": "https://open.spotify.com/album/2edfWtshuAu4zIJ2D6aW5V"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 165457,
+      "name": "Que Amiga \u00e9 Essa",
+      "url": "https://open.spotify.com/track/5Kvk3PEnJlZ1uGuWTe3pat"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
+        "name": "Pegada Que Desgrama",
+        "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        }
+      ],
+      "duration_ms": 182368,
+      "name": "Pegada Que Desgrama",
+      "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -647,34 +675,38 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
-        "name": "Voando Alto, Pt. 1",
-        "url": "https://open.spotify.com/album/1DeP85WKxwHxqnTvjcaX46"
+        "name": "Perdeu Babou",
+        "url": "https://open.spotify.com/album/31HFjGtNQBhTRlnMUBJ3wX"
       },
       "artists": [
         {
-          "name": "Danieze Santiago",
-          "url": "https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g"
+          "name": "Mara Pavanelly",
+          "url": "https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
         }
       ],
-      "duration_ms": 213116,
-      "name": "Sil\u00eancio",
-      "url": "https://open.spotify.com/track/7LhPZCl5InBgzFUuV0IGtB"
+      "duration_ms": 144814,
+      "name": "Perdeu Babou",
+      "url": "https://open.spotify.com/track/6U6CtQBjWkKjlJLw5FV5hJ"
     },
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
-        "name": "Foguete N\u00e3o Tem R\u00e9",
-        "url": "https://open.spotify.com/album/2edfWtshuAu4zIJ2D6aW5V"
+        "name": "Amando e Sofrendo, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jCUtlYP0w2PoUQVOXNFZ5"
       },
       "artists": [
         {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+          "name": "Rayane & Rafaela",
+          "url": "https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ"
         }
       ],
-      "duration_ms": 165457,
-      "name": "Que Amiga \u00e9 Essa",
-      "url": "https://open.spotify.com/track/5Kvk3PEnJlZ1uGuWTe3pat"
+      "duration_ms": 175823,
+      "name": "Amando e Sofrendo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2imFtJsJNa73orZipauwwE"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -695,18 +727,18 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
-        "name": "Amando e Sofrendo, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0jCUtlYP0w2PoUQVOXNFZ5"
+        "name": "Cama Quadrada",
+        "url": "https://open.spotify.com/album/1gTtORjhsenc5xFGNULPen"
       },
       "artists": [
         {
-          "name": "Rayane & Rafaela",
-          "url": "https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ"
+          "name": "Raquel L\u00eddia",
+          "url": "https://open.spotify.com/artist/05zlqLtQSihKKLA3GQYi5z"
         }
       ],
-      "duration_ms": 176895,
-      "name": "Pancada de Choro - Ao Vivo",
-      "url": "https://open.spotify.com/track/02ZRQ15yLxLxnSR97o3x48"
+      "duration_ms": 194939,
+      "name": "Cama Quadrada",
+      "url": "https://open.spotify.com/track/68QxLtJfFvBGa15UUerll1"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -723,42 +755,6 @@
       "duration_ms": 292675,
       "name": "Terminando Com Saudade",
       "url": "https://open.spotify.com/track/6yCJJ92SIsMam79zWdjrS8"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Apenas Solteira",
-        "url": "https://open.spotify.com/album/2E27QOOcVzOUEsCn1SHRua"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
-        }
-      ],
-      "duration_ms": 155360,
-      "name": "Apenas Solteira",
-      "url": "https://open.spotify.com/track/6F4kUFQsCCe7MSeumSyc1Y"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Pisando no Forr\u00f3",
-        "url": "https://open.spotify.com/album/0twaMPFmKo8dwaBQLntEss"
-      },
-      "artists": [
-        {
-          "name": "Priscila Senna",
-          "url": "https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv"
-        }
-      ],
-      "duration_ms": 191177,
-      "name": "Anjo Azul",
-      "url": "https://open.spotify.com/track/0z3vs99ymnCPsRl3xioNko"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -807,18 +803,22 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
-        "name": "Uma Linha por Vez",
-        "url": "https://open.spotify.com/album/3pY1XwoDaI3di9gQdAKjSr"
+        "name": "Apenas Solteira",
+        "url": "https://open.spotify.com/album/2E27QOOcVzOUEsCn1SHRua"
       },
       "artists": [
         {
-          "name": "Patr\u00edcia & Adriana",
-          "url": "https://open.spotify.com/artist/0ygrwj3UeDfNrxhPDtSCe2"
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
         }
       ],
-      "duration_ms": 164854,
-      "name": "Bom de Labia",
-      "url": "https://open.spotify.com/track/0DrF4ovAqmI1l6Ki7Qa6ip"
+      "duration_ms": 155360,
+      "name": "Apenas Solteira",
+      "url": "https://open.spotify.com/track/6F4kUFQsCCe7MSeumSyc1Y"
     },
     {
       "added_at": "2022-01-11 17:51:30",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-01-11 17:51:30",
       "album": {
+        "name": "Pr\u00e9 Pago (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2fp3C7EEhQYCI5rtGR5Xdb"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pimenta",
+          "url": "https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn"
+        }
+      ],
+      "duration_ms": 169536,
+      "name": "Pr\u00e9 Pago - Ao Vivo",
+      "url": "https://open.spotify.com/track/76dHYBEo6pxeWXG0rLPdpL"
+    },
+    {
+      "added_at": "2022-01-11 17:51:30",
+      "album": {
         "name": "Selo de Qualidade",
         "url": "https://open.spotify.com/album/6oYQUWxaKmznZ5VJMkWrcz"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 169000,
       "name": "Selo de Qualidade",
       "url": "https://open.spotify.com/track/1FrOXMVCFDkZroIL5B1gOx"
-    },
-    {
-      "added_at": "2022-01-11 17:51:30",
-      "album": {
-        "name": "Pr\u00e9 Pago (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2fp3C7EEhQYCI5rtGR5Xdb"
-      },
-      "artists": [
-        {
-          "name": "Mariana Pimenta",
-          "url": "https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn"
-        }
-      ],
-      "duration_ms": 169536,
-      "name": "Pr\u00e9 Pago - Ao Vivo",
-      "url": "https://open.spotify.com/track/76dHYBEo6pxeWXG0rLPdpL"
     }
   ],
   "unique_name": "EQUAL Brasil",

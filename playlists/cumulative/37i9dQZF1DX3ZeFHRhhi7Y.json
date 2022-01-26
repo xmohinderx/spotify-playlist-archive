@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 198165,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3YwRisfTPmDXtZ1Lnz6Fpr"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 190560,
       "name": "Beautiful Beautiful",
       "url": "https://open.spotify.com/track/1JZiSKaF6RRgwxv4IijBUm"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 217823,
       "name": "BREATHE",
       "url": "https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 209786,
       "name": "Calm & Passion",
       "url": "https://open.spotify.com/track/2Tnh9ZwCtdR1Zd21RNDGVX"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 188240,
       "name": "DO or NOT",
       "url": "https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 210640,
       "name": "DUMDi DUMDi",
       "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
@@ -1016,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "SERIES \u2018O\u2019 [ROUND 1 : HALL]",
+        "url": "https://open.spotify.com/album/5wQhc8SEKiiXb5b5Ou7tHE"
+      },
+      "artists": [
+        {
+          "name": "VERIVERY",
+          "url": "https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/5W37S0nq1XvGEyTlUkmr3f"
+    },
+    {
+      "album": {
         "name": "GET IT OUT",
         "url": "https://open.spotify.com/album/7GJYlGZQBxVjgXk1TCq9xk"
       },
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 198280,
       "name": "Golden (feat. XIAOJUN of WayV, pH-1)",
       "url": "https://open.spotify.com/track/3PAdRq6wr8XloSVdCneAMH"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 184426,
       "name": "HOME;RUN",
       "url": "https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 227275,
       "name": "Jamais Vu",
       "url": "https://open.spotify.com/track/0eeeyCAGnGZInPtpkdYiPa"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 189052,
       "name": "Kill This Love",
       "url": "https://open.spotify.com/track/0M98PvIvx7vZ8LDpzMw1hB"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 179706,
       "name": "Make it",
       "url": "https://open.spotify.com/track/1sHEEu15zcW0654NkXGyaZ"
@@ -2078,6 +2096,24 @@
     },
     {
       "album": {
+        "name": "APRIL 6th Mini Album 'the Ruby'",
+        "url": "https://open.spotify.com/album/6UOBloGQtXOHiAMjJm2LD5"
+      },
+      "artists": [
+        {
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192412,
+      "name": "Oh-e-Oh",
+      "url": "https://open.spotify.com/track/2n60OhF9W3fWnhuVVEHkw7"
+    },
+    {
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
       },
@@ -2183,7 +2219,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 206840,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1cnGF3udnO8fscbBYY6k1X"
@@ -2201,7 +2237,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 208223,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4IT5FuLhPEFlGfaApivmZi"
@@ -2317,7 +2353,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 204800,
       "name": "Popping",
       "url": "https://open.spotify.com/track/4QZKSPPgyfNLR9UkMx0158"
@@ -2501,7 +2537,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 203093,
       "name": "RED SUN (With LOTTE DEPARTMENT STORE)",
       "url": "https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi"
@@ -2873,7 +2909,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 210346,
       "name": "Strawberry Gum",
       "url": "https://open.spotify.com/track/2QUwkd0f6XcqwOuYpNUuBD"
@@ -2913,7 +2949,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 218026,
       "name": "SUMMERIDE",
       "url": "https://open.spotify.com/track/4M9NbNJnOpVCN5jbNln2TJ"
@@ -3355,7 +3391,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 189986,
       "name": "water color",
       "url": "https://open.spotify.com/track/2pNJ0TsgiRc4mGdYHazD5w"

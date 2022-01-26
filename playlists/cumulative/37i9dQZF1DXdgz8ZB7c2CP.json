@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "Brooklyn '95",
       "url": "https://open.spotify.com/track/1KxLWCQJG4RSeymZdHhDOV"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 192729,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 203445,
       "name": "Flair",
       "url": "https://open.spotify.com/track/603bfdyalNWhlDuMLdINW9"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 187506,
       "name": "Frontier",
       "url": "https://open.spotify.com/track/6yLEplXAX0k1mbqVAeNt9Z"
@@ -1329,7 +1329,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 194546,
       "name": "Home",
       "url": "https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y"
@@ -1431,7 +1431,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 189302,
       "name": "I Can See The Light",
       "url": "https://open.spotify.com/track/6oMGDBpSdF2p0MjtpX7VHN"
@@ -1790,6 +1790,28 @@
     },
     {
       "album": {
+        "name": "The Future Is Bass",
+        "url": "https://open.spotify.com/album/0RGBHBBnKxvRA9gmcbK80f"
+      },
+      "artists": [
+        {
+          "name": "WEARETHEGOOD",
+          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
+        },
+        {
+          "name": "Lynnea",
+          "url": "https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "Live Lonely",
+      "url": "https://open.spotify.com/track/3AJXFzoOKuvdwZzbL27RLX"
+    },
+    {
+      "album": {
         "name": "Lost Someone",
         "url": "https://open.spotify.com/album/3WWjgicP39dV8MUWRV1uIL"
       },
@@ -1903,7 +1925,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 177947,
       "name": "Mind",
       "url": "https://open.spotify.com/track/05eeKZQ6HYn3tL5X7HXj36"
@@ -1939,7 +1961,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 156553,
       "name": "MOON WALK",
       "url": "https://open.spotify.com/track/5EqoRfSw5zj4bQqJdqNff4"
@@ -2001,7 +2023,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 180283,
       "name": "No Goodbyes",
       "url": "https://open.spotify.com/track/6ljsHgDtZkaiMPBw8GXQMY"
@@ -2481,7 +2503,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 215384,
       "name": "Run In A Dream (Tails Remix)",
       "url": "https://open.spotify.com/track/4Y6UXcqLYfYkt6Zk82XZFy"
@@ -2503,7 +2525,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 231663,
       "name": "Rushing Back",
       "url": "https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY"
@@ -2543,6 +2565,24 @@
       "duration_ms": 150857,
       "name": "Sakura VIP",
       "url": "https://open.spotify.com/track/4x0DXKcYYlI3bWxTf768D6"
+    },
+    {
+      "album": {
+        "name": "Seek",
+        "url": "https://open.spotify.com/album/63SCEtG5tgUHPDj6wCqqBb"
+      },
+      "artists": [
+        {
+          "name": "Raed Raees",
+          "url": "https://open.spotify.com/artist/7CknUKzfJxqgKAI1ZPhBGk"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183506,
+      "name": "Seek",
+      "url": "https://open.spotify.com/track/6gzo8JjXS5LnZiIMnxeUeL"
     },
     {
       "album": {
@@ -2609,7 +2649,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 215040,
       "name": "Shadow (feat. Calivania)",
       "url": "https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn"
@@ -2649,7 +2689,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 228021,
       "name": "Siento Mi Destino",
       "url": "https://open.spotify.com/track/3pSfCBzoBZzQJVQUl3U06s"
@@ -3105,7 +3145,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 202304,
       "name": "Think About Us",
       "url": "https://open.spotify.com/track/2HeL8TqSKIWdZLtCL90ykM"
@@ -3233,7 +3273,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 232004,
       "name": "Vendetta For Cupid",
       "url": "https://open.spotify.com/track/1ZYw2g4nkNIFsysyEZxLgP"
@@ -3631,7 +3671,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 269692,
       "name": "\u200emelodies \u200efrom \u200eheaven",
       "url": "https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F"

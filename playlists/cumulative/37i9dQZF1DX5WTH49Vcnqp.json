@@ -1256,6 +1256,24 @@
     },
     {
       "album": {
+        "name": "Jupiter/Saturn",
+        "url": "https://open.spotify.com/album/2SKtsftl6PIcxLckgqHtBe"
+      },
+      "artists": [
+        {
+          "name": "Jay Cooper",
+          "url": "https://open.spotify.com/artist/5mYyUdTTfQPQpJe4LeOZC5"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144923,
+      "name": "Jupiter/Saturn",
+      "url": "https://open.spotify.com/track/5ibizsgJBcoJJG8MZeZZ9L"
+    },
+    {
+      "album": {
         "name": "Just Fine",
         "url": "https://open.spotify.com/album/5vS2uEgiSlJXzHANdrEY3x"
       },
@@ -1619,6 +1637,24 @@
       "duration_ms": 201741,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/17TfOQiETNt5WUOSUnVQz0"
+    },
+    {
+      "album": {
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/3bhNHzsuRIpltpEgzrjWee"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289826,
+      "name": "Only You Know",
+      "url": "https://open.spotify.com/track/60PFJtIgyFcWxyJGyBldKX"
     },
     {
       "album": {
@@ -2215,7 +2251,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 300712,
       "name": "Sydney Hue",
       "url": "https://open.spotify.com/track/17MKyj2cPFHuBOX0ZXMQ44"

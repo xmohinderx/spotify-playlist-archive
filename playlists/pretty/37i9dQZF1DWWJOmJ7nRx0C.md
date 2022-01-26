@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > For those who like the newest songs loud\. Very loud\. Cover: Asking Alexandria &  Maria Brink \(In This Moment\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,364 likes - 149 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,590 likes - 149 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

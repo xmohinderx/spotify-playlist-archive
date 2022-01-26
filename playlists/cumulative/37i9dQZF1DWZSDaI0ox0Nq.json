@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 269760,
       "name": "Balada para el",
       "url": "https://open.spotify.com/track/03fOQBpMpTkb5L2KBMuKv1"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 210373,
       "name": "Cafet\u00edn de Buenos Aires",
       "url": "https://open.spotify.com/track/36NEktz9d2npV7RojXQJNU"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 202516,
       "name": "Canto de Amor",
       "url": "https://open.spotify.com/track/0kqiPmUKNjYmqy2MZjUU21"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 178386,
       "name": "Che bandoneon",
       "url": "https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 209866,
       "name": "Fruta Amarga",
       "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 193348,
       "name": "La Piel de la Ciudad",
       "url": "https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 165546,
       "name": "Mu\u00f1eca Brava",
       "url": "https://open.spotify.com/track/5skLmMQ7foRb3UTEtc9Qx6"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 198426,
       "name": "Siempre Se Vuelve a Buenos Aires",
       "url": "https://open.spotify.com/track/0sQnE6X5h5do9tFzQu13vu"
@@ -1190,6 +1190,32 @@
     },
     {
       "album": {
+        "name": "Despu\u00e9s",
+        "url": "https://open.spotify.com/album/55Mgv7ouRbXJuZFXrO8csC"
+      },
+      "artists": [
+        {
+          "name": "Carolina Winograd",
+          "url": "https://open.spotify.com/artist/1gQrpbtcrPfYpDB0LrZdWO"
+        },
+        {
+          "name": "Alejandro Drago",
+          "url": "https://open.spotify.com/artist/2F3eT48CikD09vr9y5H1cM"
+        },
+        {
+          "name": "Federico Biraben",
+          "url": "https://open.spotify.com/artist/7sS1IsanBa9WPvHCcjYkJU"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185693,
+      "name": "Sue\u00f1o de Barrilete",
+      "url": "https://open.spotify.com/track/2kJB9Hvpn3bqx2Mac8lMVP"
+    },
+    {
+      "album": {
         "name": "Tangos Famosos Cantados",
         "url": "https://open.spotify.com/album/6e0npZfXXOvdAY8YulsfLo"
       },
@@ -1201,7 +1227,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 198693,
       "name": "Sur",
       "url": "https://open.spotify.com/track/0I0bZlt1lW3HMCDiTBkbt3"

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZRy1LwINMSK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZRy1LwINMSK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZRy1LwINMSK)
 
-### Trapperz Chile
+### [Trapperz Chile](https://open.spotify.com/playlist/4O7bBJoeZnEU8BCS1d4SPn)
 
 > La casa del Trap chileno\. Foto: Kiddtetoon & Chucky73.
 

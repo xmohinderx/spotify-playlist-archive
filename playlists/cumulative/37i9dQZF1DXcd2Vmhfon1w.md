@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcd2Vmhfon1w.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcd2Vmhfon1w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcd2Vmhfon1w)
 
-### Rap Español
+### [Rap Español](https://open.spotify.com/playlist/6HU8sOAPcOoaf1vF1QQHTH)
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 

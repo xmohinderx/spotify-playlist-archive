@@ -314,6 +314,32 @@
     },
     {
       "album": {
+        "name": "Drogba (Joanna) [Global Latin Version]",
+        "url": "https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Chosen Few",
+          "url": "https://open.spotify.com/artist/35Btqnex8RxQg68iBRD16v"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197214,
+      "name": "Drogba (Joanna) - Global Latin Version",
+      "url": "https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj"
+    },
+    {
+      "album": {
         "name": "Drop",
         "url": "https://open.spotify.com/album/4m7IsxfJ1itjIiO2t9iZ8e"
       },
@@ -1605,7 +1631,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 166264,
       "name": "T\u00f3came (feat. Arcangel & De La Ghetto)",
       "url": "https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx"

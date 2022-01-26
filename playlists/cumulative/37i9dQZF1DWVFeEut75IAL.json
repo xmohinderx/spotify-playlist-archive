@@ -78,6 +78,32 @@
     },
     {
       "album": {
+        "name": "Penderecki: Sinfoniettas - Oboe Capriccio",
+        "url": "https://open.spotify.com/album/5vxlxBQQkkzP0Voa3gFFOu"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Penderecki",
+          "url": "https://open.spotify.com/artist/0qEO82Hj3SvjoNyEfKpRku"
+        },
+        {
+          "name": "Warsaw Philharmonic Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3HoZrSziC8MiELPaOJNDqh"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133160,
+      "name": "3 Pieces in Old Style: No. 1. Aria",
+      "url": "https://open.spotify.com/track/2cnCYr5QgPJG0OJqYY4DGF"
+    },
+    {
+      "album": {
         "name": "Hailstork: Orchestral Music",
         "url": "https://open.spotify.com/album/0aTrZGatAonxNcilMeXZ59"
       },

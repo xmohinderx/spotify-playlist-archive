@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC?si=DOZkChnsSZecVGYMsr4Tqg">THEMBA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,818 likes - 80 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,831 likes - 80 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reflections \- Black Coffee Remix](https://open.spotify.com/track/490NwSQImdylBzpjMWYF5w) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Thoko \(SA\)](https://open.spotify.com/artist/7lR5jbhtBvxbwuV4OX7Hmk), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Modern Africa, Part I \- Ekhaya \(Deluxe\)](https://open.spotify.com/album/3jC7ucrvKNqs2psuvEG8R0) | 3:41 |
-| 2 | [Khoisan](https://open.spotify.com/track/4GxlpHNFEyzzdNJre3r2Tw) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Kitty Amor](https://open.spotify.com/artist/2QPZQNMwLfU7kJRzeLLHsA) | [Africa Gets Physical, Vol\. 4](https://open.spotify.com/album/3dAuIqHo6q9ObSes44dB4V) | 4:23 |
+| 2 | [Khoisan](https://open.spotify.com/track/4GxlpHNFEyzzdNJre3r2Tw) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Kitty Amor](https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT) | [Africa Gets Physical, Vol\. 4](https://open.spotify.com/album/3dAuIqHo6q9ObSes44dB4V) | 4:23 |
 | 3 | [Do What You Love](https://open.spotify.com/track/2muTRl2whyxtWuJERhwtrs) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Do What You Love](https://open.spotify.com/album/1tI5rxGJAHnY6lMeNb3KlB) | 7:32 |
 | 4 | [Agolo \- Shimza Remix](https://open.spotify.com/track/4A0PF9HheeAoVHlAqEQVaV) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Agolo \(Shimza Remix\)](https://open.spotify.com/album/630OKkty5BNUedtiQIAra5) | 5:43 |
 | 5 | [Dtjoh \(feat\. Jessica LM\)](https://open.spotify.com/track/5xMvII7rTQXy5npCqrhLEM) | [Citizen Deep](https://open.spotify.com/artist/2Wcld3BQUXxWUYMmCJYyuM), [Jessica LM](https://open.spotify.com/artist/3Q259wuL2vRuisWyvYcebg) | [Dtjoh \(feat\. Jessica LM\)](https://open.spotify.com/album/1YHiMNg0TdZ9n2BwdfIVXH) | 6:07 |

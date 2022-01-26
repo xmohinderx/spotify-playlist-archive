@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 118115,
       "name": "10 Feet Tall",
       "url": "https://open.spotify.com/track/4mDCYTQSPokYUZ6DnOH0zp"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 277400,
       "name": "Bambi",
       "url": "https://open.spotify.com/track/6wQXjA6KWbwPT3ydQCsJ4P"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 173286,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 180912,
       "name": "Coffee Stained Smile",
       "url": "https://open.spotify.com/track/3VmuRlPx5dLJEmZcIiY6LQ"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 184363,
       "name": "Comfort Chain",
       "url": "https://open.spotify.com/track/5BAXlRDW3YaPr3rfqV51TA"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 293000,
       "name": "EVERYTHING",
       "url": "https://open.spotify.com/track/19Hg1UCZaCdpHB37L7x63X"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 134556,
       "name": "Gonna Bleach My Eyebrows",
       "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 177493,
       "name": "Homage",
       "url": "https://open.spotify.com/track/7pegxVesMmE2qK0o58xoFG"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2021-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 162758,
       "name": "Like the Movies",
       "url": "https://open.spotify.com/track/6jh16zx3qgGeLA5J3iihS0"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 148640,
       "name": "Love Songs - Bonus",
       "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 166285,
       "name": "never knows best",
       "url": "https://open.spotify.com/track/4O6pVRVFG4r4pcXZcs2a5y"
@@ -1577,6 +1577,28 @@
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
+    },
+    {
+      "album": {
+        "name": "Slow Down Babe",
+        "url": "https://open.spotify.com/album/38TIm5neYACRsSVt4aej8u"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        },
+        {
+          "name": "Dwyer",
+          "url": "https://open.spotify.com/artist/0hDO4d5eFDFevAkXTvN2Mv"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169122,
+      "name": "Slow Down Babe",
+      "url": "https://open.spotify.com/track/0jxa4KjlYCLIIVhNaCnKBA"
     },
     {
       "album": {

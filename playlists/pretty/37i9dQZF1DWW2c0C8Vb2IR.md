@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Charlie Gabriel
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,396 likes - 61 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,427 likes - 61 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,6 +68,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 58 | [Madagascar \- Single Edit](https://open.spotify.com/track/2gNGsNLgp8LEvKTmrlflrb) | [Emile Parisien](https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Roberto Negro](https://open.spotify.com/artist/5O4YPjj2IRnOJVNa8R3A88), [Manu Codjia](https://open.spotify.com/artist/5pgPy5GD36vX0EM48DrvE4), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Nasheet Waits](https://open.spotify.com/artist/5fhkjcgOAjl6gQGsQOcP46) | [Madagascar](https://open.spotify.com/album/2q3pdlBV9ibyq86UNZLnVr) | 4:41 |
 | 59 | [Who Has Ever Been Free in This World?](https://open.spotify.com/track/7yH6m0M5ON9trXzvINrnNA) | [Verena Zeiner](https://open.spotify.com/artist/0iBhPrVt93P9ONWb4LvuYN), [Ziv Ravitz](https://open.spotify.com/artist/3yiH9RLazhAed3ir9K7D2o) | [The Sweetness of Finitude](https://open.spotify.com/album/3MvFSggughXGAZBPaHMFyL) | 6:36 |
 | 60 | [Naked Truth \- Pt\. 7](https://open.spotify.com/track/4VYUun1x7mkc8WNDIzvtSM) | [Avishai Cohen](https://open.spotify.com/artist/5P0713TH0hfITBogErNmgp), [Yonathan Avishai](https://open.spotify.com/artist/71Ek3rVXvYuvaRamNMs5k7), [Barak Mori](https://open.spotify.com/artist/2B9m3RQnberKMSfKcPZjNP), [Ziv Ravitz](https://open.spotify.com/artist/3yiH9RLazhAed3ir9K7D2o) | [Naked Truth \(Pt\. 7\)](https://open.spotify.com/album/0ReLeInfTShUlpsSx1MnrM) | 2:47 |
-| 61 | [Catacombs](https://open.spotify.com/track/3L2WZYKE58IGJkQPPYtn6m) | [John Hadfield](https://open.spotify.com/artist/1xRCMJJtUe7hOOSiZmgKeI) | [Catacombs](https://open.spotify.com/album/0M61t42mwK22rhFhseQJ64) | 4:43 |
+| 61 | [Catacombs](https://open.spotify.com/track/3L2WZYKE58IGJkQPPYtn6m) | [John Hadfield](https://open.spotify.com/artist/1xRCMJJtUe7hOOSiZmgKeI), [Jozef Dumoulin](https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd) | [Catacombs](https://open.spotify.com/album/0M61t42mwK22rhFhseQJ64) | 4:43 |
 
 Snapshot ID: `MTY0Mjc3NTYxNywwMDAwMDNlNTAwMDAwMTdlN2QwZWEwZDMwMDAwMDE3ZTc1NGNhM2Zk`

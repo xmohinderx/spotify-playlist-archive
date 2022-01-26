@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2v4h8QERQPb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2v4h8QERQPb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2v4h8QERQPb)
 
-### Hip Hop Argento
+### [Hip Hop Argento](https://open.spotify.com/playlist/4sv8KvOxUTe4tMwrdfTP89)
 
 > Rimas argentinas\. Foto: Trueno.
 

@@ -1,12 +1,12 @@
 {
   "description": "some beautiful things this week. cover: tobias drayyyyyyyyyyy",
-  "num_followers": 908756,
+  "num_followers": 908939,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc4NDc4OCwwMDAwMDMyZjAwMDAwMTdlN2Q5YTkxMjkwMDAwMDE3ZTdkMzA0MTZj",
+  "snapshot_id": "MTY0MzEyNzk4MCwwMDAwMDMzMTAwMDAwMTdlOTIwZjQzODIwMDAwMDE3ZTdkMzA0MTZj",
   "tracks": [
     {
       "added_at": "2022-01-21 16:55:22",
@@ -39,6 +39,38 @@
       "duration_ms": 196125,
       "name": "vinegar",
       "url": "https://open.spotify.com/track/35jHNbOE3tKh8DW0CMi1ck"
+    },
+    {
+      "added_at": "2022-01-14 18:34:29",
+      "album": {
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
+    },
+    {
+      "added_at": "2022-01-25 15:33:20",
+      "album": {
+        "name": "Harvest Moon",
+        "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 303213,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
     },
     {
       "added_at": "2022-01-21 16:55:22",
@@ -87,22 +119,6 @@
       "duration_ms": 118821,
       "name": "HMU",
       "url": "https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi"
-    },
-    {
-      "added_at": "2022-01-14 18:34:29",
-      "album": {
-        "name": "So My Darling (Acoustic)",
-        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "So My Darling - Acoustic",
-      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
     },
     {
       "added_at": "2022-01-21 16:55:22",
@@ -339,7 +355,7 @@
     {
       "added_at": "2022-01-14 18:34:29",
       "album": {
-        "name": "Hard Being Alive (feat. Chloe Moriondo)",
+        "name": "Hard Being Alive (feat. chloe moriondo)",
         "url": "https://open.spotify.com/album/0fQy3GCuYkHg7FlSR8Akuq"
       },
       "artists": [
@@ -353,7 +369,7 @@
         }
       ],
       "duration_ms": 176253,
-      "name": "Hard Being Alive (feat. Chloe Moriondo)",
+      "name": "Hard Being Alive (feat. chloe moriondo)",
       "url": "https://open.spotify.com/track/5DlYApPK4CTb6Bkyn68VQf"
     },
     {

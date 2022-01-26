@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 248514,
       "name": "Affiliate",
       "url": "https://open.spotify.com/track/3ibSQOkXDoVtr5o5izWwC9"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 450006,
       "name": "Agalma V (ft. Kali Malone)",
       "url": "https://open.spotify.com/track/6NwJpEnFkWdCYst3iBYCcn"
@@ -313,10 +313,32 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 447034,
       "name": "Breakdown (The End of Chemical Romance)",
       "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
+    },
+    {
+      "album": {
+        "name": "Bucolic Architecture (Flug 8 Remix)",
+        "url": "https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW"
+      },
+      "artists": [
+        {
+          "name": "Yoann Pisterman",
+          "url": "https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A"
+        },
+        {
+          "name": "Flug 8",
+          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386754,
+      "name": "Bucolic Architecture - Flug 8 Remix",
+      "url": "https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi"
     },
     {
       "album": {
@@ -499,7 +521,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 508000,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws"
@@ -733,10 +755,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 182883,
       "name": "Emanation",
       "url": "https://open.spotify.com/track/5s8sPfoY0ynQDgwrWv3Rk6"
+    },
+    {
+      "album": {
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/0qBy084Hayhv3cXrz2sJ6b"
+      },
+      "artists": [
+        {
+          "name": "Bostro Pesopeo",
+          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289642,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI"
     },
     {
       "album": {
@@ -755,7 +795,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 347753,
       "name": "Esperanza - DJ Lostboi I Could Live in Hope Remix",
       "url": "https://open.spotify.com/track/1jvh0TNHt73Im7viGy8mYu"
@@ -849,7 +889,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 209112,
       "name": "Fiction Of A Sea",
       "url": "https://open.spotify.com/track/29EEhEuPZ009M4Cjt0YLm1"
@@ -983,7 +1023,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 344400,
       "name": "GRV Tr 5",
       "url": "https://open.spotify.com/track/1ynoJzY6xN6eKr9kR7IGYu"
@@ -1088,6 +1128,32 @@
     },
     {
       "album": {
+        "name": "Lost in the Colloid",
+        "url": "https://open.spotify.com/album/64MaGZQtVJFcBUlMCXrxgm"
+      },
+      "artists": [
+        {
+          "name": "Talpah",
+          "url": "https://open.spotify.com/artist/7vZG2CxAlxQAsnyVzDhk0v"
+        },
+        {
+          "name": "Ciro Vitiello",
+          "url": "https://open.spotify.com/artist/750ohCN5oKj9vhLdfTYX7s"
+        },
+        {
+          "name": "Zimmy",
+          "url": "https://open.spotify.com/artist/0CV8YK9ClVI8H5uGNpjSOX"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253022,
+      "name": "I Gave Up My Body",
+      "url": "https://open.spotify.com/track/4DfJTBAiRDEdO0gUq34hn7"
+    },
+    {
+      "album": {
         "name": "Live at New Forms",
         "url": "https://open.spotify.com/album/55fNImtunpd7BTXRxGeUOe"
       },
@@ -1099,7 +1165,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 198857,
       "name": "IIII",
       "url": "https://open.spotify.com/track/6sQMUhXSySbtxriNX84G09"
@@ -1153,7 +1219,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 434935,
       "name": "Into the Stream",
       "url": "https://open.spotify.com/track/4gkBVr0w48wES2fsfKD41r"
@@ -1171,7 +1237,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 390850,
       "name": "Kistvaen",
       "url": "https://open.spotify.com/track/6zqgYUrJL0vo2dpA7RQREm"
@@ -1325,7 +1391,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 283584,
       "name": "Malady of duration",
       "url": "https://open.spotify.com/track/2RRDNHGUKYOqgsAJcVWRIT"
@@ -1611,7 +1677,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 265826,
       "name": "Pale Blue Dot",
       "url": "https://open.spotify.com/track/3XdZ6UZGEDXvqAbbCMzzQ7"
@@ -1731,7 +1797,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 305053,
       "name": "PRIMORDIUM FINALE",
       "url": "https://open.spotify.com/track/1dD8yh11kmmeqEr0JYmrwo"
@@ -1917,7 +1983,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 394863,
       "name": "Rushes Recede",
       "url": "https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc"
@@ -1957,7 +2023,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 135384,
       "name": "Saphire Waves",
       "url": "https://open.spotify.com/track/54NsU7IFD70hfysgZbfxl5"
@@ -1975,7 +2041,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 473820,
       "name": "Shortwave Memories",
       "url": "https://open.spotify.com/track/2XCBIIIzpn2dCWJG3uiNuf"
@@ -2187,7 +2253,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 323142,
       "name": "Struggle for Pleasure - H\u00fcma Utku Version",
       "url": "https://open.spotify.com/track/3pwrgiSqJbrw3bNYiTrHPb"
@@ -2463,7 +2529,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 316640,
       "name": "there is always a girl with a secret",
       "url": "https://open.spotify.com/track/1yzBwZw8ktO1VnWfDc7Jqh"
@@ -2539,7 +2605,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 304053,
       "name": "Touches Everything",
       "url": "https://open.spotify.com/track/0i7HGzGIrquBSmKD7WLBeI"
@@ -2557,7 +2623,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 229662,
       "name": "Trains",
       "url": "https://open.spotify.com/track/4Dhm28AOQtFIh7WIJPBAve"
@@ -2597,7 +2663,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 280658,
       "name": "Unheard Melodies - Edit",
       "url": "https://open.spotify.com/track/6OsFIzpJHX0hm6iKe6nBEk"
@@ -2713,7 +2779,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 452968,
       "name": "Wandering Frames",
       "url": "https://open.spotify.com/track/13TVia1BQ0CThZeyiAHHIk"
@@ -2735,7 +2801,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 202510,
       "name": "We Took Short Journeys",
       "url": "https://open.spotify.com/track/75EFPyBUQmkgaYbFKEdZFJ"

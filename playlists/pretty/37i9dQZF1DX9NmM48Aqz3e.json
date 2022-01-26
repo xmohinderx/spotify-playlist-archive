@@ -1,29 +1,13 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
-  "num_followers": 44398,
+  "num_followers": 44415,
   "original_name": "Canadian '90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzA3MTY2OSwwMDAwMDAwMGU5YmE3ZDk1OTAwMGI4ZDg2OTEyM2I4YTFhOGE0ZWM2",
+  "snapshot_id": "MTY0MzE1ODEyNiwwMDAwMDAwMDMxN2E5MTM3OWI2ZGQxZmRkYTU1MWJjNDY2OWIwMjI5",
   "tracks": [
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Mad Mad World",
-        "url": "https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT"
-      },
-      "artists": [
-        {
-          "name": "Tom Cochrane",
-          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Life Is A Highway",
-      "url": "https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j"
-    },
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
@@ -43,18 +27,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "In Loving Memory",
-        "url": "https://open.spotify.com/album/0k4rjOvtXzqIP3sktiBvek"
+        "name": "Navy Blues",
+        "url": "https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6"
       },
       "artists": [
         {
-          "name": "Big Wreck",
-          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+          "name": "Sloan",
+          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
         }
       ],
-      "duration_ms": 304906,
-      "name": "That Song",
-      "url": "https://open.spotify.com/track/2XI1Ja1rRLgNuiZCvias4w"
+      "duration_ms": 233916,
+      "name": "Money City Maniacs",
+      "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -71,6 +55,38 @@
       "duration_ms": 169760,
       "name": "One Week",
       "url": "https://open.spotify.com/track/1C0pmryC2MdXfa7MZ9uIrU"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Mad Mad World",
+        "url": "https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT"
+      },
+      "artists": [
+        {
+          "name": "Tom Cochrane",
+          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Life Is A Highway",
+      "url": "https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Tal Bachman",
+        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+      },
+      "artists": [
+        {
+          "name": "Tal Bachman",
+          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "She's so High",
+      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -95,54 +111,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Scenery & Fish",
-        "url": "https://open.spotify.com/album/2ghGUuQNwMOVl5HNIPSKeU"
-      },
-      "artists": [
-        {
-          "name": "I Mother Earth",
-          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
-        }
-      ],
-      "duration_ms": 324400,
-      "name": "One More Astronaut",
-      "url": "https://open.spotify.com/track/3kJw8wpzrB5WLFcdmIvXew"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Tal Bachman",
-        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
-      },
-      "artists": [
-        {
-          "name": "Tal Bachman",
-          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "She's so High",
-      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Smilin' Buddha Cabaret",
-        "url": "https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE"
-      },
-      "artists": [
-        {
-          "name": "54-40",
-          "url": "https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Ocean Pearl",
-      "url": "https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Silver",
         "url": "https://open.spotify.com/album/6rzMckapLqcGs5GubjR8CA"
       },
@@ -155,70 +123,6 @@
       "duration_ms": 230426,
       "name": "Push",
       "url": "https://open.spotify.com/track/3NN2VyGJUre8epa7bWr8jw"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Trouble At The Henhouse",
-        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
-      },
-      "artists": [
-        {
-          "name": "The Tragically Hip",
-          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Ahead By A Century",
-      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Racine",
-        "url": "https://open.spotify.com/album/7pMdUFxJHQTtSLfZMtY0SL"
-      },
-      "artists": [
-        {
-          "name": "Sass Jordan",
-          "url": "https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Make You a Believer",
-      "url": "https://open.spotify.com/track/3x2TPDl0jQthHTKTgWxz21"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Living Under June",
-        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
-      },
-      "artists": [
-        {
-          "name": "Jann Arden",
-          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
-        }
-      ],
-      "duration_ms": 288360,
-      "name": "Could I Be Your Girl",
-      "url": "https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "The Devil You Know",
-        "url": "https://open.spotify.com/album/0Imd5b8ZBWRpFSmqGuxLIh"
-      },
-      "artists": [
-        {
-          "name": "Econoline Crush",
-          "url": "https://open.spotify.com/artist/3M9ouLHyB0kbob1tnQN4wE"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "All That You Are (x3) - 1997 Digital Remaster",
-      "url": "https://open.spotify.com/track/3z9wl4sY8SqM8GurmuCLa9"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -239,50 +143,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Underdogs",
-        "url": "https://open.spotify.com/album/74Rz6pP4zcrT10smt1EALp"
+        "name": "Trouble At The Henhouse",
+        "url": "https://open.spotify.com/album/5mMBYPBUI6jHW40ASk1ekn"
       },
       "artists": [
         {
-          "name": "Matthew Good Band",
-          "url": "https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL"
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
         }
       ],
-      "duration_ms": 314626,
-      "name": "Apparitions",
-      "url": "https://open.spotify.com/track/7CosFlbml7Rhw7t4FrSkdz"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Navy Blues",
-        "url": "https://open.spotify.com/album/1RTkQ57bnU9zfbM0gBmcr6"
-      },
-      "artists": [
-        {
-          "name": "Sloan",
-          "url": "https://open.spotify.com/artist/1ahN3WDDULKaAQs7ZUrGNP"
-        }
-      ],
-      "duration_ms": 233916,
-      "name": "Money City Maniacs",
-      "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/44u5EtcXfe3r9EZgq5obPk"
-      },
-      "artists": [
-        {
-          "name": "Great Big Sea",
-          "url": "https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4"
-        }
-      ],
-      "duration_ms": 160986,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/5BeMAafz7zA1jurQlVzxB2"
+      "duration_ms": 223133,
+      "name": "Ahead By A Century",
+      "url": "https://open.spotify.com/track/2SVEOxPGB8Z8WikO4DppNA"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -303,34 +175,146 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Wide Mouth Mason",
-        "url": "https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E"
+        "name": "Play",
+        "url": "https://open.spotify.com/album/44u5EtcXfe3r9EZgq5obPk"
       },
       "artists": [
         {
-          "name": "Wide Mouth Mason",
-          "url": "https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH"
+          "name": "Great Big Sea",
+          "url": "https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4"
         }
       ],
-      "duration_ms": 227693,
-      "name": "Midnight Rain",
-      "url": "https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI"
+      "duration_ms": 160986,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/5BeMAafz7zA1jurQlVzxB2"
     },
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Famous Rich and Beautiful",
-        "url": "https://open.spotify.com/album/5HfNnVRmm1ImVThtfrfNUS"
+        "name": "Smilin' Buddha Cabaret",
+        "url": "https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE"
       },
       "artists": [
         {
-          "name": "The Philosopher Kings",
-          "url": "https://open.spotify.com/artist/4UzgFHHFfl4vf1UUmnORrA"
+          "name": "54-40",
+          "url": "https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N"
         }
       ],
-      "duration_ms": 321000,
-      "name": "Hurts To Love You - LP Version (Album Version)",
-      "url": "https://open.spotify.com/track/3yBWPiXqbEOCr4cWmczG79"
+      "duration_ms": 207666,
+      "name": "Ocean Pearl",
+      "url": "https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Living Under June",
+        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
+      },
+      "artists": [
+        {
+          "name": "Jann Arden",
+          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
+        }
+      ],
+      "duration_ms": 288360,
+      "name": "Could I Be Your Girl",
+      "url": "https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "In Loving Memory",
+        "url": "https://open.spotify.com/album/0k4rjOvtXzqIP3sktiBvek"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "duration_ms": 304906,
+      "name": "That Song",
+      "url": "https://open.spotify.com/track/2XI1Ja1rRLgNuiZCvias4w"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "The Devil You Know",
+        "url": "https://open.spotify.com/album/0Imd5b8ZBWRpFSmqGuxLIh"
+      },
+      "artists": [
+        {
+          "name": "Econoline Crush",
+          "url": "https://open.spotify.com/artist/3M9ouLHyB0kbob1tnQN4wE"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "All That You Are (x3) - 1997 Digital Remaster",
+      "url": "https://open.spotify.com/track/3z9wl4sY8SqM8GurmuCLa9"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Scenery & Fish",
+        "url": "https://open.spotify.com/album/2ghGUuQNwMOVl5HNIPSKeU"
+      },
+      "artists": [
+        {
+          "name": "I Mother Earth",
+          "url": "https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM"
+        }
+      ],
+      "duration_ms": 324400,
+      "name": "One More Astronaut",
+      "url": "https://open.spotify.com/track/3kJw8wpzrB5WLFcdmIvXew"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Underdogs",
+        "url": "https://open.spotify.com/album/74Rz6pP4zcrT10smt1EALp"
+      },
+      "artists": [
+        {
+          "name": "Matthew Good Band",
+          "url": "https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL"
+        }
+      ],
+      "duration_ms": 314626,
+      "name": "Apparitions",
+      "url": "https://open.spotify.com/track/7CosFlbml7Rhw7t4FrSkdz"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/2XIPqTkZP5BSrtlHE7jkVz"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Building a Mystery",
+      "url": "https://open.spotify.com/track/2mazBRLLeWQSHeNiu7jxDm"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Racine",
+        "url": "https://open.spotify.com/album/7pMdUFxJHQTtSLfZMtY0SL"
+      },
+      "artists": [
+        {
+          "name": "Sass Jordan",
+          "url": "https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Make You a Believer",
+      "url": "https://open.spotify.com/track/3x2TPDl0jQthHTKTgWxz21"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -351,34 +335,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF"
+        "name": "Famous Rich and Beautiful",
+        "url": "https://open.spotify.com/album/5HfNnVRmm1ImVThtfrfNUS"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "The Philosopher Kings",
+          "url": "https://open.spotify.com/artist/4UzgFHHFfl4vf1UUmnORrA"
         }
       ],
-      "duration_ms": 238706,
-      "name": "That Don't Impress Me Much",
-      "url": "https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Hell To Pay",
-        "url": "https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1"
-      },
-      "artists": [
-        {
-          "name": "The Jeff Healey Band",
-          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
-        }
-      ],
-      "duration_ms": 315666,
-      "name": "While My Guitar Gently Weeps",
-      "url": "https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa"
+      "duration_ms": 321000,
+      "name": "Hurts To Love You - LP Version (Album Version)",
+      "url": "https://open.spotify.com/track/3yBWPiXqbEOCr4cWmczG79"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -399,6 +367,54 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "Wide Mouth Mason",
+        "url": "https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E"
+      },
+      "artists": [
+        {
+          "name": "Wide Mouth Mason",
+          "url": "https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Piece Of Paradise",
+        "url": "https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu"
+      },
+      "artists": [
+        {
+          "name": "Sky",
+          "url": "https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT"
+        }
+      ],
+      "duration_ms": 216626,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 238706,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Glee",
         "url": "https://open.spotify.com/album/3vXanoRgJfcgjymf63ur5h"
       },
@@ -415,18 +431,50 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Make a Pest a Pet",
-        "url": "https://open.spotify.com/album/4pdQQux0MoEnkeTUhEfY3K"
+        "name": "Hell To Pay",
+        "url": "https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1"
       },
       "artists": [
         {
-          "name": "The Age Of Electric",
-          "url": "https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR"
+          "name": "The Jeff Healey Band",
+          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
         }
       ],
-      "duration_ms": 219391,
-      "name": "Remote Control",
-      "url": "https://open.spotify.com/track/6tbk1CZz3omYU73JsxBNIf"
+      "duration_ms": 315666,
+      "name": "While My Guitar Gently Weeps",
+      "url": "https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Stuff",
+        "url": "https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9"
+      },
+      "artists": [
+        {
+          "name": "Holly McNarland",
+          "url": "https://open.spotify.com/artist/26YoEndupBcezyzcSmbcw2"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/7eH1GkchdFvNN4ZUx767G3"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "I Bificus",
+        "url": "https://open.spotify.com/album/27wFXKUaFZHTtQK0XPQCps"
+      },
+      "artists": [
+        {
+          "name": "Bif Naked",
+          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
+        }
+      ],
+      "duration_ms": 261250,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/3h2hFjKND7US9wSphrEznV"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -443,38 +491,6 @@
       "duration_ms": 456866,
       "name": "It's All Coming Back to Me Now",
       "url": "https://open.spotify.com/track/2JRicL2f8tJl9TiQlH7vbJ"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Hemi-Vision",
-        "url": "https://open.spotify.com/album/1Zj6HNUUmO1WVmrH8TgU2i"
-      },
-      "artists": [
-        {
-          "name": "Big Sugar",
-          "url": "https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ"
-        }
-      ],
-      "duration_ms": 277560,
-      "name": "Diggin' A Hole",
-      "url": "https://open.spotify.com/track/1DJ4sDZgj56rBUZYj4ZHRu"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/2XIPqTkZP5BSrtlHE7jkVz"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Building a Mystery",
-      "url": "https://open.spotify.com/track/2mazBRLLeWQSHeNiu7jxDm"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -499,34 +515,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "I Bificus",
-        "url": "https://open.spotify.com/album/27wFXKUaFZHTtQK0XPQCps"
+        "name": "Make a Pest a Pet",
+        "url": "https://open.spotify.com/album/4pdQQux0MoEnkeTUhEfY3K"
       },
       "artists": [
         {
-          "name": "Bif Naked",
-          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
+          "name": "The Age Of Electric",
+          "url": "https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR"
         }
       ],
-      "duration_ms": 261250,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/3h2hFjKND7US9wSphrEznV"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Strays",
-        "url": "https://open.spotify.com/album/7BKDjfyOFnHDbhguK5GZBO"
-      },
-      "artists": [
-        {
-          "name": "Junkhouse",
-          "url": "https://open.spotify.com/artist/7HTWYaZzuODnDc5dJN4EM3"
-        }
-      ],
-      "duration_ms": 227480,
-      "name": "Out of My Head",
-      "url": "https://open.spotify.com/track/1hdrmUDjFHPYigKYwf6aJC"
+      "duration_ms": 219391,
+      "name": "Remote Control",
+      "url": "https://open.spotify.com/track/6tbk1CZz3omYU73JsxBNIf"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -547,34 +547,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "This Child",
-        "url": "https://open.spotify.com/album/2eEzjJcIibt8lC3ecx7RDN"
+        "name": "Hemi-Vision",
+        "url": "https://open.spotify.com/album/1Zj6HNUUmO1WVmrH8TgU2i"
       },
       "artists": [
         {
-          "name": "Susan Aglukark",
-          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+          "name": "Big Sugar",
+          "url": "https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ"
         }
       ],
-      "duration_ms": 267000,
-      "name": "O Siem",
-      "url": "https://open.spotify.com/track/7JGI5J2oETERIyYdSbIoUt"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Under These Rocks And Stones",
-        "url": "https://open.spotify.com/album/3PMSWzK8diDoaMdOZTHzFJ"
-      },
-      "artists": [
-        {
-          "name": "Chantal Kreviazuk",
-          "url": "https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "Wayne",
-      "url": "https://open.spotify.com/track/5RCyu62J9pk1PqgFfCxgn8"
+      "duration_ms": 277560,
+      "name": "Diggin' A Hole",
+      "url": "https://open.spotify.com/track/1DJ4sDZgj56rBUZYj4ZHRu"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -595,34 +579,50 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Stuff",
-        "url": "https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9"
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/7BKDjfyOFnHDbhguK5GZBO"
       },
       "artists": [
         {
-          "name": "Holly McNarland",
-          "url": "https://open.spotify.com/artist/26YoEndupBcezyzcSmbcw2"
+          "name": "Junkhouse",
+          "url": "https://open.spotify.com/artist/7HTWYaZzuODnDc5dJN4EM3"
         }
       ],
-      "duration_ms": 237000,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/7eH1GkchdFvNN4ZUx767G3"
+      "duration_ms": 227480,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/1hdrmUDjFHPYigKYwf6aJC"
     },
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Piece Of Paradise",
-        "url": "https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu"
+        "name": "Under These Rocks And Stones",
+        "url": "https://open.spotify.com/album/3PMSWzK8diDoaMdOZTHzFJ"
       },
       "artists": [
         {
-          "name": "Sky",
-          "url": "https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT"
+          "name": "Chantal Kreviazuk",
+          "url": "https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk"
         }
       ],
-      "duration_ms": 216626,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s"
+      "duration_ms": 285866,
+      "name": "Wayne",
+      "url": "https://open.spotify.com/track/5RCyu62J9pk1PqgFfCxgn8"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "This Child",
+        "url": "https://open.spotify.com/album/2eEzjJcIibt8lC3ecx7RDN"
+      },
+      "artists": [
+        {
+          "name": "Susan Aglukark",
+          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "O Siem",
+      "url": "https://open.spotify.com/track/7JGI5J2oETERIyYdSbIoUt"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -659,18 +659,38 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/558Yz0cyPe3qKQOhDz3mTV"
+        "name": "Party Hits: Summer Edition",
+        "url": "https://open.spotify.com/album/7A19ynZIohLCG6dr9k44rJ"
       },
       "artists": [
         {
-          "name": "Wild Strawberries",
-          "url": "https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y"
+          "name": "Love Inc.",
+          "url": "https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx"
         }
       ],
-      "duration_ms": 226400,
-      "name": "I Don't Want to Think About It",
-      "url": "https://open.spotify.com/track/5qYkPxkYVbzMRnHApgTxFt"
+      "duration_ms": 210613,
+      "name": "You're a Superstar - Radio Edit",
+      "url": "https://open.spotify.com/track/0o1CpOzg6GA7L1PRnocChr"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Greatest Hits Volume One",
+        "url": "https://open.spotify.com/album/4oKWaqi2tkfhBZiA4dNVwK"
+      },
+      "artists": [
+        {
+          "name": "The Boomtang Boys",
+          "url": "https://open.spotify.com/artist/5x2uSbE1afrYyEUD0GqNmT"
+        },
+        {
+          "name": "Kim Esty",
+          "url": "https://open.spotify.com/artist/0WHRMUndMVIszj5fSeLdiK"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "Squeeze Toy",
+      "url": "https://open.spotify.com/track/5IVckL0RmYTjMzazIUBp0J"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -707,22 +727,6 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Party Hits: Summer Edition",
-        "url": "https://open.spotify.com/album/7A19ynZIohLCG6dr9k44rJ"
-      },
-      "artists": [
-        {
-          "name": "Love Inc.",
-          "url": "https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "You're a Superstar - Radio Edit",
-      "url": "https://open.spotify.com/track/0o1CpOzg6GA7L1PRnocChr"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
         "name": "Hot Show",
         "url": "https://open.spotify.com/album/5UFAqjSyp85UfL30v4lpsz"
       },
@@ -739,54 +743,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "12 Years Old",
-        "url": "https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3"
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/558Yz0cyPe3qKQOhDz3mTV"
       },
       "artists": [
         {
-          "name": "Kim Stockwood",
-          "url": "https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp"
+          "name": "Wild Strawberries",
+          "url": "https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y"
         }
       ],
-      "duration_ms": 338026,
-      "name": "12 Years Old",
-      "url": "https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Greatest Hits Volume One",
-        "url": "https://open.spotify.com/album/4oKWaqi2tkfhBZiA4dNVwK"
-      },
-      "artists": [
-        {
-          "name": "The Boomtang Boys",
-          "url": "https://open.spotify.com/artist/5x2uSbE1afrYyEUD0GqNmT"
-        },
-        {
-          "name": "Kim Esty",
-          "url": "https://open.spotify.com/artist/0WHRMUndMVIszj5fSeLdiK"
-        }
-      ],
-      "duration_ms": 219906,
-      "name": "Squeeze Toy",
-      "url": "https://open.spotify.com/track/5IVckL0RmYTjMzazIUBp0J"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 401533,
-      "name": "The Future",
-      "url": "https://open.spotify.com/track/5l8lYrnPEM1ln3J4XaTcy5"
+      "duration_ms": 226400,
+      "name": "I Don't Want to Think About It",
+      "url": "https://open.spotify.com/track/5qYkPxkYVbzMRnHApgTxFt"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -819,6 +787,38 @@
       "duration_ms": 233600,
       "name": "Summerlong",
       "url": "https://open.spotify.com/track/0b7bxGfiO1iz5J4VaNa1kz"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 401533,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/5l8lYrnPEM1ln3J4XaTcy5"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "12 Years Old",
+        "url": "https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3"
+      },
+      "artists": [
+        {
+          "name": "Kim Stockwood",
+          "url": "https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp"
+        }
+      ],
+      "duration_ms": 338026,
+      "name": "12 Years Old",
+      "url": "https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly"
     },
     {
       "added_at": "2021-09-21 20:57:50",

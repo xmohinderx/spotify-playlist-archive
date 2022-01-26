@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Pussy Riot
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,703 likes - 79 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,741 likes - 79 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

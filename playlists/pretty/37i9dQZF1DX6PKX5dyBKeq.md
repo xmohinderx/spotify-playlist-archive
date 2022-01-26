@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > Rap UK has just reached 1 million followers\. Here are the best tracks from the rap scene in   the UK featuring some classics\. Cover: Digga D
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,425 likes - 59 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,417 likes - 59 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

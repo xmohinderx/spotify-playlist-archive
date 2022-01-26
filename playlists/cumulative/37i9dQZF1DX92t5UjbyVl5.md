@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX92t5UjbyVl5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX92t5UjbyVl5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX92t5UjbyVl5)
 
-### Beats Para Rapear
+### [Beats Para Rapear](https://open.spotify.com/playlist/63KPGAHXLEGEXvmFWPTRLW)
 
 > ¿Tienes flow, tienes rimas? Dale play.
 

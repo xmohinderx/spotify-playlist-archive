@@ -169,7 +169,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 173531,
       "name": "BAD",
       "url": "https://open.spotify.com/track/38G1CK2TY78FILbeO5HNt0"
@@ -545,6 +545,28 @@
       "duration_ms": 143999,
       "name": "C\u01a1m Nh\u00e0",
       "url": "https://open.spotify.com/track/5WnlXKKUuG3YcWXAKN9K8p"
+    },
+    {
+      "album": {
+        "name": "C\u01a1n Gi\u00f3 Ngang",
+        "url": "https://open.spotify.com/album/16fK9DR9KtB8OxTvtltNhT"
+      },
+      "artists": [
+        {
+          "name": "Tiez",
+          "url": "https://open.spotify.com/artist/0Eg0IlHXO7ehEErVsi24xv"
+        },
+        {
+          "name": "Fay",
+          "url": "https://open.spotify.com/artist/50c2TevFNnNUrQ69JahGRb"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228001,
+      "name": "C\u01a1n Gi\u00f3 Ngang",
+      "url": "https://open.spotify.com/track/5TTR3wseJewjFvIW1HKAX4"
     },
     {
       "album": {
@@ -1288,6 +1310,28 @@
     },
     {
       "album": {
+        "name": "L\u1ec5 H\u1ed9i Qu\u00e9t Nh\u00e0",
+        "url": "https://open.spotify.com/album/2zpkebETVLu0lClP4sCV2B"
+      },
+      "artists": [
+        {
+          "name": "\u0110o\u00e0n Minh Qu\u00e2n",
+          "url": "https://open.spotify.com/artist/2XvEvEZqEb5Xh6afBlhtmu"
+        },
+        {
+          "name": "Nh\u1ea1c Nh\u00e0 Qu\u1ea1",
+          "url": "https://open.spotify.com/artist/4pZUBRi9fzpvvE5oyeigol"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190009,
+      "name": "L\u1ec5 H\u1ed9i Qu\u00e9t Nh\u00e0",
+      "url": "https://open.spotify.com/track/0qf9KAxuAhwMUU2xHISl2l"
+    },
+    {
+      "album": {
         "name": "L\u1eddi Y\u00eau",
         "url": "https://open.spotify.com/album/4NZlTh0eKMM8jrjQudKCFz"
       },
@@ -1401,7 +1445,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 181935,
       "name": "M\u00e2y",
       "url": "https://open.spotify.com/track/5E7i25lR33DMcYMYOSB20A"
@@ -2252,6 +2296,24 @@
     },
     {
       "album": {
+        "name": "T\u1eebng \u0110\u00eam Ch\u1edd",
+        "url": "https://open.spotify.com/album/6J82RhFJqp08rZhskFGnIb"
+      },
+      "artists": [
+        {
+          "name": "Chiennhatlang",
+          "url": "https://open.spotify.com/artist/71LQEF4uo08r9RIB7eTEAE"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213345,
+      "name": "T\u1eebng \u0110\u00eam Ch\u1edd",
+      "url": "https://open.spotify.com/track/0vripPPxmEHgoHL4FJx5i0"
+    },
+    {
+      "album": {
         "name": "U\u1ed1ng V\u1edbi Anh \u0110i (feat. To$ka)",
         "url": "https://open.spotify.com/album/40ac7HzCmig9ZgegWmnY1F"
       },
@@ -2521,6 +2583,24 @@
       "duration_ms": 223423,
       "name": "\u0110\u1eafm Say",
       "url": "https://open.spotify.com/track/3N5czkNQEpX8zD6MCSsnZ7"
+    },
+    {
+      "album": {
+        "name": "\u0110\u1eebng Khi\u1ebfn Tr\u00e1i Tim Em Kh\u00f3c",
+        "url": "https://open.spotify.com/album/1Z6Pv1Wh6RLn3oCUvGAcfP"
+      },
+      "artists": [
+        {
+          "name": "Chu Th\u00fay Qu\u1ef3nh",
+          "url": "https://open.spotify.com/artist/62GMhABXxUBGxvaS62fxs6"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "\u0110\u1eebng Khi\u1ebfn Tr\u00e1i Tim Em Kh\u00f3c",
+      "url": "https://open.spotify.com/track/1aSRibNh6KrXMDOfbRQL9d"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z"

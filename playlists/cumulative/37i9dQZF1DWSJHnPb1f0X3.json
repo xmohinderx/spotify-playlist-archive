@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 156875,
       "name": "Don't Wanna Stop (feat. Conor Maynard)",
       "url": "https://open.spotify.com/track/725u2wCoy8kDmyAckV72Br"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 198635,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2nx0EIlIKMnMgWnj40O0HQ"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 161951,
       "name": "Hear My Soul",
       "url": "https://open.spotify.com/track/7jFUN7wJHS95cVwnM53wkc"
@@ -1940,6 +1940,24 @@
     },
     {
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/4eIMzMjOqP5xYIdH0NGAV3"
       },
@@ -2349,7 +2367,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 135265,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 161279,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/6KQYQ5ycUHmDYFjL2jLXYC"
@@ -2591,7 +2609,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 149279,
       "name": "Safe With Me",
       "url": "https://open.spotify.com/track/1DkbynNilJKbe7V57omrK7"
@@ -2827,7 +2845,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 183275,
       "name": "slower - NOTD Remix",
       "url": "https://open.spotify.com/track/4JtQe8OMIC2HufEbxj7gAK"

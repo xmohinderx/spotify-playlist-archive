@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر\. الغلاف: حسن شاكوش و عمر كمال
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,139 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,218 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [فتش فتش](https://open.spotify.com/track/6xT8RMc5S88Rfs82YZwmXm) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [فتش فتش](https://open.spotify.com/album/78b0ANL8qcCLnUr39MK2bt) | 3:58 |
-| 2 | [شيماء](https://open.spotify.com/track/4neYwcLQvLZ6kEdgF0cicX) | [Yousef Sosta \- يوسف سوسته](https://open.spotify.com/artist/65Nyf594MWahWOsMrgcFq9) | [شيماء](https://open.spotify.com/album/1iyn88en2SMsBTW6JEUMmf) | 2:04 |
+| 2 | [شيماء](https://open.spotify.com/track/4neYwcLQvLZ6kEdgF0cicX) | [يوسف سوسته](https://open.spotify.com/artist/5jpOJNLKX0WO5HD5Ku8FiD) | [شيماء](https://open.spotify.com/album/1iyn88en2SMsBTW6JEUMmf) | 2:04 |
 | 3 | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/track/5RmuMcCHkMTkos8SdnRohq) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar El Karwan](https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr) | [يا سبايسي \(سجلتك على التليفون هارتي\)](https://open.spotify.com/album/7jvcy3vt3Jc5JaBiGS9vJO) | 2:28 |
 | 4 | [مهرجان كده خلصت](https://open.spotify.com/track/6CvFpZn8hZQsjZg8e38pSM) | [Shaima El Mghrby](https://open.spotify.com/artist/4ISuS0WVMBbemeaLxNSszD) | [مهرجان كده خلصت](https://open.spotify.com/album/5HImvzUJHxV4n2mBBTUSrT) | 3:15 |
 | 5 | [يلا نفتح الحساب](https://open.spotify.com/track/0KMUn5bRLAYPJQSqIQk1Zf) | [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx), [Essam Saasa](https://open.spotify.com/artist/5NlV2I6zpxnF0hodATO7wG) | [يلا نفتح الحساب](https://open.spotify.com/album/2AWPjLpGszbfWgmYlBHKHf) | 3:48 |

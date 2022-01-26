@@ -868,6 +868,28 @@
     },
     {
       "album": {
+        "name": "Obiedov, Y.: Songs and Dances of Latin America / Gubaidulina, S.: Serenade / Pettoletti, P.: Cachucha",
+        "url": "https://open.spotify.com/album/0YTzxFOUk52AXyCFphbvKn"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gubaidulina",
+          "url": "https://open.spotify.com/artist/2xcUqNAHTLVnHeK0YLA9IO"
+        },
+        {
+          "name": "Oleg Timofeyev",
+          "url": "https://open.spotify.com/artist/5ZLUWIYzSkKM8RjJnCxqSg"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170586,
+      "name": "Serenade",
+      "url": "https://open.spotify.com/track/2EDADHR5dY95Fry75TP9P0"
+    },
+    {
+      "album": {
         "name": "Eternal Evolution",
         "url": "https://open.spotify.com/album/7m4WaJQ2btS4oJJ7Tghiko"
       },

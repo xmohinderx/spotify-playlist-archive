@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Ludovico Einaudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,678 likes - 76 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,872 likes - 76 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 55 | [Redeeming Love Theme](https://open.spotify.com/track/748kgCBjhP38e0XAU1cbk4) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr), [Breton Vivian](https://open.spotify.com/artist/7vPwWTnoNQN2E1nAHclTll) | [Redeeming Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0tCobdEQDMXXGLVRaAbARo) | 5:22 |
 | 56 | [Maple Leaf Rag \(Arr\. By Stephen Buck\)](https://open.spotify.com/track/2vce93MhwvkRiR1sXqB08P) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Lara Downes](https://open.spotify.com/artist/2pSV3M4cqq8MUqT3SrXdpS) | [Maple Leaf Rag](https://open.spotify.com/album/3WjEV168MZuvAbeIinOqUE) | 2:55 |
 | 57 | [Magnificat in D Major, BWV 243: I\. Magnificat](https://open.spotify.com/track/50OkzJnKDcc3hnwAjxJl8f) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Gaechinger Cantorey](https://open.spotify.com/artist/36VTbtv2z22YvvlDtPW1oS), [Hans\-Christoph Rademann](https://open.spotify.com/artist/3nWpkLjuh0r3wniO2gzL8m) | [J.S\. Bach: Magnificat, BWV 243 \- C.P.E\. Bach: Magnificat, Wq\. 215](https://open.spotify.com/album/1wZWRG7hxGycB9d8usabBf) | 3:01 |
-| 58 | [Little Forest](https://open.spotify.com/track/0ngRF3XtGxXhFWDxeOJqfb) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Little Forest](https://open.spotify.com/album/2OUVbMW3PXmpVBzrVKEDDd) | 2:08 |
-| 59 | [Right Here Waiting for You \- Arr\. for Vocal Ensemble by Simon Whiteley](https://open.spotify.com/track/7nPZKzJTpD8qxp3VaKSEju) | [The Queen's Six](https://open.spotify.com/artist/0NkQC2U4wmEul1pJQ37aPc) | [Right Here Waiting for You \(arr\. For Vocal Ensemble by Simon Whiteley\)](https://open.spotify.com/album/2EsFHMYrLTgSbrOrf334Fh) | 3:59 |
+| 58 | [Little Forest](https://open.spotify.com/track/0ngRF3XtGxXhFWDxeOJqfb) | [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Little Forest](https://open.spotify.com/album/2OUVbMW3PXmpVBzrVKEDDd) | 2:08 |
+| 59 | [Right Here Waiting \- Arr\. for Vocal Ensemble by Simon Whiteley](https://open.spotify.com/track/7nPZKzJTpD8qxp3VaKSEju) | [The Queen's Six](https://open.spotify.com/artist/0NkQC2U4wmEul1pJQ37aPc) | [Right Here Waiting \(arr\. For Vocal Ensemble by Simon Whiteley\)](https://open.spotify.com/album/2EsFHMYrLTgSbrOrf334Fh) | 3:59 |
 | 60 | [Vivication](https://open.spotify.com/track/1br73gnt2PnHJuz78Xixn4) | [Vincent Corver](https://open.spotify.com/artist/1lRA1KIPg7zqr9OLudN9xq) | [Vivication](https://open.spotify.com/album/1kpwMrbCmPwimBYOaziEGS) | 1:48 |
 | 61 | [Cavatina](https://open.spotify.com/track/5jQFcU3fVqdpK6OmEQMTkU) | [Stanley Myers](https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt), [Antonio D'Alessandro](https://open.spotify.com/artist/6asVCY3psUdoSCrdGB4vON) | [Cavatina](https://open.spotify.com/album/33HIobUCtzc0d67I2E9gwl) | 3:43 |
 | 62 | [Youkali](https://open.spotify.com/track/0Zg5bGchllxnF12kRApVRU) | [Kurt Weill](https://open.spotify.com/artist/69a1b61a56mJlx8iAUMBsY), [Ludwig Orchestra](https://open.spotify.com/artist/05B2Lg2yafd2Tyndl49z8a), [Barbara Hannigan](https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq) | [Youkali](https://open.spotify.com/album/4ACzggbFenynoVy2fe61BQ) | 5:46 |

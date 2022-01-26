@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 179936,
       "name": "Amor Genuino",
       "url": "https://open.spotify.com/track/6pK5edDoyrn4mWwRSVc2a5"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 213200,
       "name": "Dime A Ve",
       "url": "https://open.spotify.com/track/0HMTIZ3iQ6QNjBaD9IE7ZZ"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "D\u00f3nde Est\u00e1s (with Piso 21) - Remix",
       "url": "https://open.spotify.com/track/7z0cli6eF13Ew8ARrDgGHJ"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 230173,
       "name": "Error",
       "url": "https://open.spotify.com/track/40PO1Xh2WgmX5bMtdmBWCc"
@@ -993,10 +993,36 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 165646,
       "name": "Fresa",
       "url": "https://open.spotify.com/track/4BCPItsB94KDLuERZT3aNM"
+    },
+    {
+      "album": {
+        "name": "Cambio de Clima",
+        "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237920,
+      "name": "Ganas Sobran",
+      "url": "https://open.spotify.com/track/17iXKeQe2iVYXJcMpQqthG"
     },
     {
       "album": {
@@ -1501,7 +1527,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 229955,
       "name": "Mi Favorita",
       "url": "https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL"
@@ -1519,7 +1545,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 166120,
       "name": "M\u00e1s Na",
       "url": "https://open.spotify.com/track/2I8N1Go4hQennI48i9QaWW"
@@ -1749,7 +1775,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 183398,
       "name": "No Te Enamores",
       "url": "https://open.spotify.com/track/0EJu1RBtxzldMG2peczuPv"
@@ -1793,7 +1819,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 204277,
       "name": "No Tenemos Nada",
       "url": "https://open.spotify.com/track/6UGc9l0tpk1xSx9KV2fOVf"
@@ -1819,7 +1845,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 199641,
       "name": "Nunca Me Amo",
       "url": "https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW"
@@ -2165,7 +2191,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 172142,
       "name": "Se Te Cay\u00f3",
       "url": "https://open.spotify.com/track/2eyaovnTryBlxQZrQ2TDMx"
@@ -2495,7 +2521,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 199090,
       "name": "Te Quemaste",
       "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
@@ -2659,7 +2685,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 275400,
       "name": "Verano En Par\u00eds - Remix",
       "url": "https://open.spotify.com/track/6fIVDVyzymH4OAlNhJ93k3"

@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 163026,
       "name": "Camino Real de Colima",
       "url": "https://open.spotify.com/track/2JA99uajFc8S2fyiiHjCZ6"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 174306,
       "name": "El Pajaro Carpintero",
       "url": "https://open.spotify.com/track/08fOgmsOmZyzXvly76Mp7K"
@@ -752,6 +752,24 @@
     },
     {
       "album": {
+        "name": "Joyas Musicales Vol. 1 Recuerdame Bonito",
+        "url": "https://open.spotify.com/album/6KVH4kGNLzUQV9aBYYHePW"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161582,
+      "name": "El Toro Serrano",
+      "url": "https://open.spotify.com/track/48LlhOlMsGZb7fCK1gQZeh"
+    },
+    {
+      "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
@@ -799,7 +817,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 204538,
       "name": "Fiesta Charra",
       "url": "https://open.spotify.com/track/5YVxMf12hVXHLWoNssn1In"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 136493,
       "name": "Gavilancito Sangre Cruzada",
       "url": "https://open.spotify.com/track/4qKnjzcIukPfpquVZW8Lnw"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 148000,
       "name": "La cigarra (Arr. R. Jonas)",
       "url": "https://open.spotify.com/track/2WGca11c057gzsEfSJGB68"
@@ -1185,7 +1203,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 166400,
       "name": "La espiga (Arr. R. Jonas)",
       "url": "https://open.spotify.com/track/40LeyzfJWpC9564x1SmiyX"
@@ -1354,6 +1372,24 @@
     },
     {
       "album": {
+        "name": "Joyas Musicales Vol. 2 Chiquilla Bonita",
+        "url": "https://open.spotify.com/album/742XRieSWUGGAPTrjzU1Yy"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130078,
+      "name": "La Vaquilla - El Son de la Vaquilla -",
+      "url": "https://open.spotify.com/track/4ej2mbnMxjyUI5ZjcnqPcf"
+    },
+    {
+      "album": {
         "name": "Rub\u00e9n Fuentes, Miguel Mart\u00ednez, Silvestre Vargas",
         "url": "https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In"
       },
@@ -1423,7 +1459,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 122026,
       "name": "Las Alte\u00f1itas",
       "url": "https://open.spotify.com/track/2D2mjiZy0Zpu5CGecrNSi1"
@@ -1585,7 +1621,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 241948,
       "name": "Popurri de Sones Jalisciences",
       "url": "https://open.spotify.com/track/2Pg0Zu7QpzYN1he0VfsN6L"
@@ -1661,7 +1697,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 214120,
       "name": "Que Bonita Es Mi Tierra",
       "url": "https://open.spotify.com/track/450De2xJInnSzKGgFucBqP"
@@ -1773,7 +1809,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 149289,
       "name": "Toro Relajo",
       "url": "https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR"
@@ -1791,7 +1827,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 169760,
       "name": "Un canto a Michoac\u00e1n",
       "url": "https://open.spotify.com/track/4CDPllMl3h3eseqNJscV4o"
@@ -1885,7 +1921,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 193133,
       "name": "Zopilote Mojado",
       "url": "https://open.spotify.com/track/266tI89XpbXj8V7ZJH8P57"

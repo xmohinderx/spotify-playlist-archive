@@ -702,6 +702,24 @@
     },
     {
       "album": {
+        "name": "Rise & Fall (VIPs)",
+        "url": "https://open.spotify.com/album/7vNlIGuuwVCwO4YhDojVdx"
+      },
+      "artists": [
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183206,
+      "name": "More To Give - VIP",
+      "url": "https://open.spotify.com/track/3PdwZoy7TJcPGw7GI8GI4u"
+    },
+    {
+      "album": {
         "name": "Murda",
         "url": "https://open.spotify.com/album/7t7YPn1MESHyMBP28k7Oq1"
       },

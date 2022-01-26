@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Mos Def & Talib Kweli",
+  "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Masta Ace",
   "name": "I Love My Underground Classics",
   "published_playlist_ids": [
     "14eAdAezP3MLdGe4QegXpf"
@@ -106,6 +106,24 @@
     },
     {
       "album": {
+        "name": "Disposable Arts",
+        "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        }
+      ],
+      "date_added": "2020-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253306,
+      "name": "Acknowledge",
+      "url": "https://open.spotify.com/track/23RJg00mFONjIqYML6mtsE"
+    },
+    {
+      "album": {
         "name": "Murs 3:16: The 9th Edition",
         "url": "https://open.spotify.com/album/73P9PjA8US77r5NoAr9Qul"
       },
@@ -201,7 +219,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 281592,
       "name": "Bonafide (feat. Jay-Z) - Bonus Track",
       "url": "https://open.spotify.com/track/07oV92wFjUOLFeKzjtUQ2I"
@@ -349,7 +367,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 206493,
       "name": "Definition",
       "url": "https://open.spotify.com/track/4C7Ss9bTPOWJMh3rarF1mN"
@@ -385,7 +403,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 267080,
       "name": "Don't Nobody Care About Us",
       "url": "https://open.spotify.com/track/56V2atr3UiIjDJVIGNN4HY"
@@ -421,7 +439,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 313106,
       "name": "Due Process",
       "url": "https://open.spotify.com/track/5KiDI9YhptlZWNABPuSmnL"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 276960,
       "name": "Gettin' Closer to God",
       "url": "https://open.spotify.com/track/0sdgkO6TP624IIDEbiajsx"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 239973,
       "name": "Rock Stars",
       "url": "https://open.spotify.com/track/2WYZfrZJX2YSFXW29tpHrV"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 211520,
       "name": "The Official",
       "url": "https://open.spotify.com/track/5JUEfEsVmgEGI6SMbFH3gq"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2021-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 221640,
       "name": "True Honey Buns (Dat Freak Shit)",
       "url": "https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 215973,
       "name": "Worst Comes To Worst - Edited",
       "url": "https://open.spotify.com/track/7aSnPAggMMgElb6BgXeSEw"

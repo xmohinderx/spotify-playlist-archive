@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "9.30pm",
       "url": "https://open.spotify.com/track/7sVySvSTq1w7jg8RxJ8FYU"
@@ -261,10 +261,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 228196,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/1wdLaeNn73zbpYVqw8mlYz"
+    },
+    {
+      "album": {
+        "name": "Communication",
+        "url": "https://open.spotify.com/album/6sIU7SxKLLjjXkZ0jn33WO"
+      },
+      "artists": [
+        {
+          "name": "Shook",
+          "url": "https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197209,
+      "name": "Communication",
+      "url": "https://open.spotify.com/track/4C9lZarwkYUM0eQZysI4lI"
     },
     {
       "album": {
@@ -503,7 +521,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 181824,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/3j0R8oOFx3tW8owV1ezt0s"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 253745,
       "name": "Gutterpunk Kids",
       "url": "https://open.spotify.com/track/0SovI9ZaXKFzN1b26U0627"
@@ -913,7 +931,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 257614,
       "name": "Looking for Tracy Tzu",
       "url": "https://open.spotify.com/track/546WYUcLvrd9YifNgEaGsi"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 231533,
       "name": "Maximum Performance",
       "url": "https://open.spotify.com/track/0VpFKLQP6Deh6sHETGCzrp"
@@ -1211,7 +1229,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 325576,
       "name": "Northern Sky - Dusky Remix",
       "url": "https://open.spotify.com/track/0xrxfza8oO7xCHvkVgVMPP"
@@ -1420,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "The Real Deal",
+        "url": "https://open.spotify.com/album/0sESV8DNdZUnQgMNfiJOrj"
+      },
+      "artists": [
+        {
+          "name": "Mitch Murder",
+          "url": "https://open.spotify.com/artist/7eOzCiTklgHxfpf6Mb3D2e"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235650,
+      "name": "Prime Operator",
+      "url": "https://open.spotify.com/track/2jwc7czRortvzSg9HSKdKB"
+    },
+    {
+      "album": {
         "name": "Rivage",
         "url": "https://open.spotify.com/album/59FX4d5jTvq06npU90Umbk"
       },
@@ -1431,7 +1467,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 244744,
       "name": "Rivage",
       "url": "https://open.spotify.com/track/4HjiB1iZpyPmKkK9vdbfOX"
@@ -1507,10 +1543,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Space Amplitude",
       "url": "https://open.spotify.com/track/1i1SfCWBq5xqNG4m5WtQKv"
+    },
+    {
+      "album": {
+        "name": "Home Remixed",
+        "url": "https://open.spotify.com/album/29vsvULVaOYhiT8F1nyzva"
+      },
+      "artists": [
+        {
+          "name": "StayLoose",
+          "url": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
+        },
+        {
+          "name": "Dream Fiend",
+          "url": "https://open.spotify.com/artist/5L6COTBfO2KjrJgFYe96Q7"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "Spaceship Gurl - Dream Fiend Remix",
+      "url": "https://open.spotify.com/track/0g0oAeUKg8TDY5HrnUvzeh"
     },
     {
       "album": {
@@ -1709,7 +1767,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 199752,
       "name": "Through This Night",
       "url": "https://open.spotify.com/track/4yRsZmx9UTbCGA6fy957ur"
@@ -1745,7 +1803,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 186947,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg"

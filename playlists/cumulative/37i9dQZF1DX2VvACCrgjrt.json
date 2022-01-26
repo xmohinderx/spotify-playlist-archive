@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 158330,
       "name": "Bark Me",
       "url": "https://open.spotify.com/track/3V9WaNSklacDxsCwnpzhSa"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 263225,
       "name": "Bite",
       "url": "https://open.spotify.com/track/5m4RtoYq9DYg3lojdW5tqW"
@@ -662,6 +662,40 @@
     },
     {
       "album": {
+        "name": "Boozy VIP",
+        "url": "https://open.spotify.com/album/35OstvhW2bhzUUkEdKlXtu"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Window Kid",
+          "url": "https://open.spotify.com/artist/0Gt5eU7AuKfotkBLgjyg9p"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Big Zuu",
+          "url": "https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213752,
+      "name": "Boozy VIP",
+      "url": "https://open.spotify.com/track/39KBeiL5DOWnoXpSJR13et"
+    },
+    {
+      "album": {
         "name": "HYPE HOP 001",
         "url": "https://open.spotify.com/album/6lrNWW4lkSLyFg64ajFjWk"
       },
@@ -721,7 +755,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 201904,
       "name": "Break It Down",
       "url": "https://open.spotify.com/track/5WAwJLgJ0NoUGQptzDaTqC"
@@ -1949,7 +1983,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 163928,
       "name": "Hit Boys",
       "url": "https://open.spotify.com/track/79JqrjyOQeSKTQcrFW0K0Z"
@@ -2755,7 +2789,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 190522,
       "name": "Pass",
       "url": "https://open.spotify.com/track/1RrTBlXTL0S4ny1KaqGZIe"
@@ -3079,7 +3113,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "Scars",
       "url": "https://open.spotify.com/track/5t0EAqNTV7MmQI6tvlrqmk"
@@ -3927,6 +3961,28 @@
       "duration_ms": 154285,
       "name": "Work It",
       "url": "https://open.spotify.com/track/2jC6oAT2P3w9HQBrRcQqFl"
+    },
+    {
+      "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/1RKGJ5IspvfeLl4Mku2nni"
+      },
+      "artists": [
+        {
+          "name": "Rezone",
+          "url": "https://open.spotify.com/artist/0q8sqjhlYCJjlcCADGTPiP"
+        },
+        {
+          "name": "Red V",
+          "url": "https://open.spotify.com/artist/4ywWAXHN2AAm2hcsoe6YpP"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "WOW - Original Mix",
+      "url": "https://open.spotify.com/track/2LEM7sSrPDwZ33imeeDN4H"
     },
     {
       "album": {

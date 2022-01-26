@@ -1,13 +1,37 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2046349,
+  "num_followers": 2046257,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTExNDYsNmFlOGE1NjMzMzk5MWViYmY1ZDE5ZjQ3Y2U5YzdlYmJhMzUyMTQ0Ng==",
+  "snapshot_id": "MTExNTAsMTNlNzkzNmEwZTAzOTAxZjM1ZWVlMTEwODZiMWY1ZjI1NmU3MGY5ZQ==",
   "tracks": [
+    {
+      "added_at": "2022-01-25 12:56:28",
+      "album": {
+        "name": "The Remixes (Vol. 2)",
+        "url": "https://open.spotify.com/album/7o9Q8Gcu9ALGjs1gJ1hUcX"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        },
+        {
+          "name": "hyperforms",
+          "url": "https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Who Will Save Us - hyperforms Remix",
+      "url": "https://open.spotify.com/track/4mBCcNSM2GDYVHTZlImRQJ"
+    },
     {
       "added_at": "2022-01-24 20:32:52",
       "album": {
@@ -95,6 +119,22 @@
       "duration_ms": 158117,
       "name": "Aura",
       "url": "https://open.spotify.com/track/5RrJs8yt2SgIHfJ1oJprxp"
+    },
+    {
+      "added_at": "2022-01-25 12:56:46",
+      "album": {
+        "name": "Aethra",
+        "url": "https://open.spotify.com/album/1HLGtpl7bN2miDYx3jpQT9"
+      },
+      "artists": [
+        {
+          "name": "Animadrop",
+          "url": "https://open.spotify.com/artist/1AUZ4SxTPTZL7wDE80tPcR"
+        }
+      ],
+      "duration_ms": 413538,
+      "name": "Aethra",
+      "url": "https://open.spotify.com/track/0UPstfIsC6MffdDBDpr7Yq"
     },
     {
       "added_at": "2022-01-24 20:32:52",
@@ -187,6 +227,26 @@
       "duration_ms": 163764,
       "name": "Distancing",
       "url": "https://open.spotify.com/track/2sRROPunrmFrF8g0MZaZc0"
+    },
+    {
+      "added_at": "2022-01-25 12:57:18",
+      "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+        }
+      ],
+      "duration_ms": 120157,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX"
     },
     {
       "added_at": "2022-01-24 20:32:52",
@@ -295,6 +355,26 @@
       "duration_ms": 236883,
       "name": "Moonbeams",
       "url": "https://open.spotify.com/track/1bgoe4DClcoRvDapWU68CK"
+    },
+    {
+      "added_at": "2022-01-25 12:57:36",
+      "album": {
+        "name": "War (Juche Remix)",
+        "url": "https://open.spotify.com/album/3oaXo0aMOWC1HozKgninhJ"
+      },
+      "artists": [
+        {
+          "name": "Tee Dee Dees",
+          "url": "https://open.spotify.com/artist/160nTkcydjOsxWWFJautCZ"
+        },
+        {
+          "name": "Juche",
+          "url": "https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "War (Juche Remix)",
+      "url": "https://open.spotify.com/track/49PORQleZkPwh2x1YnUqbq"
     },
     {
       "added_at": "2022-01-24 20:32:52",

@@ -1,61 +1,13 @@
 {
   "description": "Sometimes it's nice to be nice, you know.",
-  "num_followers": 139390,
+  "num_followers": 139475,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzA3MTcyMiwwMDAwMDAwMDFhMWNkZDM3MTk3NTY4YjgyNzljODQ0ZTE1ZTk4MmY1",
+  "snapshot_id": "MTY0MzE1ODE3OCwwMDAwMDAwMGYwMDQzN2YwM2IzMWMzNDY0ZjJmMTUwMmEzYjJkM2E2",
   "tracks": [
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Sunday Funday",
-        "url": "https://open.spotify.com/album/0zWuOEFvg95QOrh7qEeSMH"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/0pAyXGUIrNm2oISrdAzbsw"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Garden of Eden",
-        "url": "https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "Garden of Eden",
-      "url": "https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Hysterical Us",
-        "url": "https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 235565,
-      "name": "Hysterical Us",
-      "url": "https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy"
-    },
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
@@ -91,54 +43,50 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Up Granville",
-        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+        "name": "Hysterical Us",
+        "url": "https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 230747,
-      "name": "Up Granville",
-      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+      "duration_ms": 235565,
+      "name": "Hysterical Us",
+      "url": "https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy"
     },
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
+        "name": "Garden of Eden",
+        "url": "https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
+      "duration_ms": 199480,
+      "name": "Garden of Eden",
+      "url": "https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN"
     },
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Reach Out / Olympus",
-        "url": "https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL"
+        "name": "Sunday Funday",
+        "url": "https://open.spotify.com/album/0zWuOEFvg95QOrh7qEeSMH"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
         }
       ],
-      "duration_ms": 223344,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl"
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/0pAyXGUIrNm2oISrdAzbsw"
     },
     {
       "added_at": "2021-11-12 00:00:00",
@@ -159,18 +107,34 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Up Granville",
+        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 230747,
+      "name": "Up Granville",
+      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
     },
     {
       "added_at": "2021-11-12 00:00:00",
@@ -207,18 +171,50 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Walking Like We Do",
-        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
+        "name": "Hypochondriac",
+        "url": "https://open.spotify.com/album/1DE8BoNxaCs9Fxo7KG7ZXH"
       },
       "artists": [
         {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
         }
       ],
-      "duration_ms": 209822,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU"
+      "duration_ms": 192853,
+      "name": "Hypochondriac",
+      "url": "https://open.spotify.com/track/6st6akzmAJS2vYNRui5ezU"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Moves",
+        "url": "https://open.spotify.com/album/5kMj4ooSnYk9MUCedMrhi7"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 193031,
+      "name": "Moves",
+      "url": "https://open.spotify.com/track/56m9pSdW8e56jiadoFKuu8"
     },
     {
       "added_at": "2021-11-12 00:00:00",
@@ -239,6 +235,22 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Everyone's A Winner",
+      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/3TQO2baR2XJJi6ljcuv47y"
       },
@@ -255,18 +267,54 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Moves",
-        "url": "https://open.spotify.com/album/5kMj4ooSnYk9MUCedMrhi7"
+        "name": "Reach Out / Olympus",
+        "url": "https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 193031,
-      "name": "Moves",
-      "url": "https://open.spotify.com/track/56m9pSdW8e56jiadoFKuu8"
+      "duration_ms": 223344,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/1lDMJQcBCttCroFPkNHtN7"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 218659,
+      "name": "Secrets from a Girl (Who's Seen it All)",
+      "url": "https://open.spotify.com/track/7xgTVcQqY25wPns8HYxPXc"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Lover (Don\u2019t Let Me Down)",
+        "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 250794,
+      "name": "Lover (Don't Let Me Down)",
+      "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
     },
     {
       "added_at": "2021-11-12 00:00:00",
@@ -303,18 +351,50 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Never Get To Heaven",
-        "url": "https://open.spotify.com/album/4JWTqF24ayVaJFXnDZC3U5"
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/0u5xGW7tYBjLzJSSgovtFU"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 158973,
-      "name": "Never Get To Heaven",
-      "url": "https://open.spotify.com/track/5kkhWGz5KROF6sLWiaX8jg"
+      "duration_ms": 250693,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/7bLrlCiAVltlVFVR8xvEx1"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Something Holy",
+        "url": "https://open.spotify.com/album/2RhBeJFBLkhgwmIVFNaQNl"
+      },
+      "artists": [
+        {
+          "name": "Jealous of the Birds",
+          "url": "https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm"
+        }
+      ],
+      "duration_ms": 198160,
+      "name": "Something Holy",
+      "url": "https://open.spotify.com/track/47pLIdG3FelOM4aklpMJ98"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 192026,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe"
     },
     {
       "added_at": "2021-11-12 00:00:00",
@@ -335,6 +415,166 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
+        "name": "Never Get To Heaven",
+        "url": "https://open.spotify.com/album/4JWTqF24ayVaJFXnDZC3U5"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "Never Get To Heaven",
+      "url": "https://open.spotify.com/track/5kkhWGz5KROF6sLWiaX8jg"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Manta Rays",
+        "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Manta Rays",
+      "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/4HWQr1DMWpRjlLf871CWe5"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 213886,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/2JU0uzd2D1JxsvYsfEwZEe"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Does It Make You Feel Good?",
+        "url": "https://open.spotify.com/album/5UumZ7WIf4xAJyv4OZHafI"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 260532,
+      "name": "Comedown",
+      "url": "https://open.spotify.com/track/2EjgVZre5ONvZLNw59kEIn"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Blouse",
+        "url": "https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 195376,
+      "name": "Blouse",
+      "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Walking Like We Do",
+        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 209822,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Quotations For Locations",
+        "url": "https://open.spotify.com/album/0cpnfjAejSCBSmYWcvPuDz"
+      },
+      "artists": [
+        {
+          "name": "Drug Store Romeos",
+          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Quotations For Locations",
+      "url": "https://open.spotify.com/track/00yYbmR2BbBLTdUYAtkqbd"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Beggar",
+        "url": "https://open.spotify.com/album/19DDCRVRxlGOrxkp4auzi7"
+      },
+      "artists": [
+        {
+          "name": "Wyldest",
+          "url": "https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI"
+        }
+      ],
+      "duration_ms": 289651,
+      "name": "Beggar",
+      "url": "https://open.spotify.com/track/1DseRcZXWabAhUpeFHnzPX"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Intertwined",
+        "url": "https://open.spotify.com/album/3a7VIobH2HbttsdAYKVG6o"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/2B56sqgNauLMR9iqBMITwb"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Eyes of Stone",
+        "url": "https://open.spotify.com/album/0u10Darsk6WdtkRQH2oBk1"
+      },
+      "artists": [
+        {
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
+        }
+      ],
+      "duration_ms": 189234,
+      "name": "Eyes of Stone",
+      "url": "https://open.spotify.com/track/5BYdwKN4OJlNh0MW6Cso6g"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
         "name": "Mine Forever",
         "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
@@ -351,18 +591,58 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5Vz1CD0A4VfUMELRUeysXM"
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/0BophHCa4MkK5zg0oTZ0v4"
       },
       "artists": [
         {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
         }
       ],
-      "duration_ms": 192026,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe"
+      "duration_ms": 399082,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/4aHc7hnqkSzc1KLU9LnL26"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Sunflower, Are You There?",
+        "url": "https://open.spotify.com/album/6obJI5H1qcVYz1wKioxSbN"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
+        },
+        {
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+        }
+      ],
+      "duration_ms": 212346,
+      "name": "Sunflower, Are You There?",
+      "url": "https://open.spotify.com/track/4cExyYQMTbCgT163mKpq2O"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "How Can I Love? (When I Can't Get Away from You)",
+        "url": "https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q"
+      },
+      "artists": [
+        {
+          "name": "fika",
+          "url": "https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX"
+        },
+        {
+          "name": "Bambie",
+          "url": "https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv"
+        }
+      ],
+      "duration_ms": 179508,
+      "name": "How Can I Love? - When I Can't Get Away from You",
+      "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
     },
     {
       "added_at": "2021-11-12 00:00:00",
@@ -395,66 +675,18 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Hypochondriac",
-        "url": "https://open.spotify.com/album/1DE8BoNxaCs9Fxo7KG7ZXH"
+        "name": "Stay And Rest For A While",
+        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Good Dog",
+          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
         }
       ],
-      "duration_ms": 192853,
-      "name": "Hypochondriac",
-      "url": "https://open.spotify.com/track/6st6akzmAJS2vYNRui5ezU"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Fever Dreams",
-        "url": "https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Circles In The Firing Line - Edit",
-      "url": "https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Something Holy",
-        "url": "https://open.spotify.com/album/2RhBeJFBLkhgwmIVFNaQNl"
-      },
-      "artists": [
-        {
-          "name": "Jealous of the Birds",
-          "url": "https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm"
-        }
-      ],
-      "duration_ms": 198160,
-      "name": "Something Holy",
-      "url": "https://open.spotify.com/track/47pLIdG3FelOM4aklpMJ98"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Everyone's A Winner",
-      "url": "https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK"
+      "duration_ms": 173259,
+      "name": "Stay And Rest For A While",
+      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
     },
     {
       "added_at": "2021-11-12 00:00:00",
@@ -475,294 +707,34 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Blouse",
-        "url": "https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo"
+        "name": "Don't Make a Scene",
+        "url": "https://open.spotify.com/album/6nSLzaz9NkU89shz7MgETg"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
         }
       ],
-      "duration_ms": 195376,
-      "name": "Blouse",
-      "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
+      "duration_ms": 188260,
+      "name": "Don't Make a Scene",
+      "url": "https://open.spotify.com/track/0uOnoknp6Oq5mOpkAegGmU"
     },
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Beggar",
-        "url": "https://open.spotify.com/album/19DDCRVRxlGOrxkp4auzi7"
+        "name": "Fever Dreams",
+        "url": "https://open.spotify.com/album/5HA5MRg8gQI4KvUfV05lhr"
       },
       "artists": [
         {
-          "name": "Wyldest",
-          "url": "https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI"
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
         }
       ],
-      "duration_ms": 289651,
-      "name": "Beggar",
-      "url": "https://open.spotify.com/track/1DseRcZXWabAhUpeFHnzPX"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Quotations For Locations",
-        "url": "https://open.spotify.com/album/0cpnfjAejSCBSmYWcvPuDz"
-      },
-      "artists": [
-        {
-          "name": "Drug Store Romeos",
-          "url": "https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Quotations For Locations",
-      "url": "https://open.spotify.com/track/00yYbmR2BbBLTdUYAtkqbd"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Peaches",
-        "url": "https://open.spotify.com/album/1a6W2sBTKLRYUi3Z7hiNgp"
-      },
-      "artists": [
-        {
-          "name": "Eleni Drake",
-          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/7BNHwtTtO5JiBYhs8FtRqJ"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Stay And Rest For A While",
-        "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 173259,
-      "name": "Stay And Rest For A While",
-      "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Lover (Don\u2019t Let Me Down)",
-        "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 250794,
-      "name": "Lover (Don't Let Me Down)",
-      "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/4HWQr1DMWpRjlLf871CWe5"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 213886,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/2JU0uzd2D1JxsvYsfEwZEe"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/1lDMJQcBCttCroFPkNHtN7"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 218659,
-      "name": "Secrets from a Girl (Who's Seen it All)",
-      "url": "https://open.spotify.com/track/7xgTVcQqY25wPns8HYxPXc"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/0BophHCa4MkK5zg0oTZ0v4"
-      },
-      "artists": [
-        {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
-        }
-      ],
-      "duration_ms": 399082,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/4aHc7hnqkSzc1KLU9LnL26"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Does It Make You Feel Good?",
-        "url": "https://open.spotify.com/album/5UumZ7WIf4xAJyv4OZHafI"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 260532,
-      "name": "Comedown",
-      "url": "https://open.spotify.com/track/2EjgVZre5ONvZLNw59kEIn"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Cannot Be, Whatsoever",
-        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Birdcage",
-      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Twin Heavy",
-        "url": "https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V"
-      },
-      "artists": [
-        {
-          "name": "Willie J Healey",
-          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
-        }
-      ],
-      "duration_ms": 142245,
-      "name": "Big Nothing",
-      "url": "https://open.spotify.com/track/5z8uTILTDLsjfeQot1NA7t"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Sling",
-        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "Amoeba",
-      "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Once Twice Melody",
-        "url": "https://open.spotify.com/album/2LZd8GonmbwBvs9YI7NPsc"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Once Twice Melody",
-      "url": "https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Sunflower, Are You There?",
-        "url": "https://open.spotify.com/album/6obJI5H1qcVYz1wKioxSbN"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Sunflower, Are You There?",
-      "url": "https://open.spotify.com/track/4cExyYQMTbCgT163mKpq2O"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Intertwined",
-        "url": "https://open.spotify.com/album/3a7VIobH2HbttsdAYKVG6o"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 161880,
-      "name": "Intertwined",
-      "url": "https://open.spotify.com/track/2B56sqgNauLMR9iqBMITwb"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/0u5xGW7tYBjLzJSSgovtFU"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/7bLrlCiAVltlVFVR8xvEx1"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Manta Rays",
-        "url": "https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Manta Rays",
-      "url": "https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU"
+      "duration_ms": 207786,
+      "name": "Circles In The Firing Line - Edit",
+      "url": "https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P"
     },
     {
       "added_at": "2021-11-12 00:00:00",
@@ -787,22 +759,6 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "My House",
-        "url": "https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 256639,
-      "name": "My House",
-      "url": "https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
         "name": "Give It Hell",
         "url": "https://open.spotify.com/album/0nfZ5UQSjxfYF4MC5YFxC2"
       },
@@ -815,190 +771,6 @@
       "duration_ms": 204609,
       "name": "Give It Hell",
       "url": "https://open.spotify.com/track/3HLfUZSknynfsgCRW9Tp2I"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "How Can I Love? (When I Can't Get Away from You)",
-        "url": "https://open.spotify.com/album/47dm9IPB8nas3cTzwLZu0q"
-      },
-      "artists": [
-        {
-          "name": "fika",
-          "url": "https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX"
-        },
-        {
-          "name": "Bambie",
-          "url": "https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv"
-        }
-      ],
-      "duration_ms": 179508,
-      "name": "How Can I Love? - When I Can't Get Away from You",
-      "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Eyes of Stone",
-        "url": "https://open.spotify.com/album/0u10Darsk6WdtkRQH2oBk1"
-      },
-      "artists": [
-        {
-          "name": "Good Dog",
-          "url": "https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1"
-        }
-      ],
-      "duration_ms": 189234,
-      "name": "Eyes of Stone",
-      "url": "https://open.spotify.com/track/5BYdwKN4OJlNh0MW6Cso6g"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Nazareth",
-        "url": "https://open.spotify.com/album/0dGHtn2QNcrxne6aIAm3Lj"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 250162,
-      "name": "Nazareth",
-      "url": "https://open.spotify.com/track/03JgKNVxicoLINfg3q8qBv"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Are You OK?",
-        "url": "https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc"
-      },
-      "artists": [
-        {
-          "name": "Wasuremono",
-          "url": "https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig"
-        }
-      ],
-      "duration_ms": 263733,
-      "name": "Are You OK?",
-      "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Fade",
-        "url": "https://open.spotify.com/album/03fIulT5GrejWSWLl5TnRZ"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 267308,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/56u1PvRafzzWzljABNR1bn"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Flower (In Full Bloom)",
-        "url": "https://open.spotify.com/album/0Rxa9TV9eNXcVu4kblPAw0"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        },
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 231986,
-      "name": "Flower (In Full Bloom)",
-      "url": "https://open.spotify.com/track/4MjIJnPOuO83ZiKr244QKk"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Don't Make a Scene",
-        "url": "https://open.spotify.com/album/6nSLzaz9NkU89shz7MgETg"
-      },
-      "artists": [
-        {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
-        }
-      ],
-      "duration_ms": 188260,
-      "name": "Don't Make a Scene",
-      "url": "https://open.spotify.com/track/0uOnoknp6Oq5mOpkAegGmU"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Vanilla (Stairwell Version)",
-        "url": "https://open.spotify.com/album/30AiPggrojM01hleb8j12f"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 224942,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/67t28gn4X9vYHM0WICEmtb"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "The Ballad of Joyce Vincent",
-        "url": "https://open.spotify.com/album/7aP3R5r1PgDqEIGUuZHmtR"
-      },
-      "artists": [
-        {
-          "name": "Spang Sisters",
-          "url": "https://open.spotify.com/artist/55LV0taR11yxOICTZORibT"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "The Ballad Of Joyce Vincent",
-      "url": "https://open.spotify.com/track/77qOxCnfWeY1jKrYqMdvZd"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "Song for Nick Drake",
-        "url": "https://open.spotify.com/album/6AW6SfG4jibbNWdZKqX3tP"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Song for Nick Drake",
-      "url": "https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "I Should Go (Solo Version)",
-        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 151178,
-      "name": "I Should Go - Solo Version",
-      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
     },
     {
       "added_at": "2021-11-12 00:00:00",
@@ -1019,50 +791,34 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Just Give In / Never Going Home",
-        "url": "https://open.spotify.com/album/4IRuILZcd12uRAgVvXRPxT"
+        "name": "Twin Heavy",
+        "url": "https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V"
       },
       "artists": [
         {
-          "name": "Hazel English",
-          "url": "https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr"
+          "name": "Willie J Healey",
+          "url": "https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR"
         }
       ],
-      "duration_ms": 235906,
-      "name": "Never Going Home",
-      "url": "https://open.spotify.com/track/1ACoIKisvdebLOKPNuZCuS"
+      "duration_ms": 142245,
+      "name": "Big Nothing",
+      "url": "https://open.spotify.com/track/5z8uTILTDLsjfeQot1NA7t"
     },
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "The Loved Ones",
-        "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
+        "name": "Peaches",
+        "url": "https://open.spotify.com/album/1a6W2sBTKLRYUi3Z7hiNgp"
       },
       "artists": [
         {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+          "name": "Eleni Drake",
+          "url": "https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow"
         }
       ],
-      "duration_ms": 214387,
-      "name": "Victoria Falls",
-      "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"
-    },
-    {
-      "added_at": "2021-11-12 00:00:00",
-      "album": {
-        "name": "My Own Person",
-        "url": "https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373"
-      },
-      "artists": [
-        {
-          "name": "Smoothboi Ezra",
-          "url": "https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj"
-        }
-      ],
-      "duration_ms": 264873,
-      "name": "My Own Person",
-      "url": "https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH"
+      "duration_ms": 236800,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/7BNHwtTtO5JiBYhs8FtRqJ"
     },
     {
       "added_at": "2021-11-12 00:00:00",
@@ -1083,66 +839,114 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "God Melodies",
-        "url": "https://open.spotify.com/album/0R70V99HyZ6lPlk9bAXptF"
+        "name": "Sling",
+        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
       "artists": [
         {
-          "name": "Fryars",
-          "url": "https://open.spotify.com/artist/3yBP9gfyXm9T4oaqSNKAKg"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 210804,
-      "name": "God Melodies - Single Version",
-      "url": "https://open.spotify.com/track/4PFjhC6s3GV1d6roZsj1Fm"
+      "duration_ms": 228922,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
     },
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "BREACH",
-        "url": "https://open.spotify.com/album/65Ov3Cl0apFHIj2wHY6f2L"
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 270600,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/3MlA3b8KVJuratU2qdW4Yb"
+      "duration_ms": 200186,
+      "name": "Only The Strong",
+      "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
     },
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/2vuKU9YQ69fZvS1LDX199X"
+        "name": "Are You OK?",
+        "url": "https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc"
       },
       "artists": [
         {
-          "name": "Pynch",
-          "url": "https://open.spotify.com/artist/6R1b13BgmP15f21dQZpFz9"
+          "name": "Wasuremono",
+          "url": "https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig"
         }
       ],
-      "duration_ms": 331664,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/1wgouwqKDYxxZUj9jHZCBu"
+      "duration_ms": 263733,
+      "name": "Are You OK?",
+      "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
     },
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Craziest Things",
-        "url": "https://open.spotify.com/album/3WAG7aLC9P5NGymA621ly4"
+        "name": "Song for Nick Drake",
+        "url": "https://open.spotify.com/album/6AW6SfG4jibbNWdZKqX3tP"
       },
       "artists": [
         {
-          "name": "Babeheaven",
-          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
         }
       ],
-      "duration_ms": 190200,
-      "name": "Craziest Things",
-      "url": "https://open.spotify.com/track/2BYBbUyjC4yZ4L2IKIVAgf"
+      "duration_ms": 177387,
+      "name": "Song for Nick Drake",
+      "url": "https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Vanilla (Stairwell Version)",
+        "url": "https://open.spotify.com/album/30AiPggrojM01hleb8j12f"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 224942,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/67t28gn4X9vYHM0WICEmtb"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Once Twice Melody",
+        "url": "https://open.spotify.com/album/2LZd8GonmbwBvs9YI7NPsc"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Once Twice Melody",
+      "url": "https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/3hgvTuVKxb6ONvcl7BOTFJ"
+      },
+      "artists": [
+        {
+          "name": "Eliza Shaddad",
+          "url": "https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E"
+        }
+      ],
+      "duration_ms": 205902,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/3JvSdMghhVpTkn30dRl6v0"
     },
     {
       "added_at": "2021-11-12 00:00:00",
@@ -1163,54 +967,82 @@
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Orange Yellow Orange",
-        "url": "https://open.spotify.com/album/3YroNnL5MKTJukgtVuyAaV"
+        "name": "The Hours",
+        "url": "https://open.spotify.com/album/1g3IT737Uid5YB2vLTF7hp"
       },
       "artists": [
         {
-          "name": "Nancy",
-          "url": "https://open.spotify.com/artist/6HN4w8eC0IVDYprG41CKh9"
-        },
-        {
-          "name": "The Mysterious Visions",
-          "url": "https://open.spotify.com/artist/6rw8GQErqnz03nkFJsSmPp"
+          "name": "Babeheaven",
+          "url": "https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Orange Yellow Orange",
-      "url": "https://open.spotify.com/track/17jfYLXe142NlABSFWJpl3"
+      "duration_ms": 238896,
+      "name": "The Hours",
+      "url": "https://open.spotify.com/track/2sIJX0m9AzvOP4WG6hfPZW"
     },
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Ladybird",
-        "url": "https://open.spotify.com/album/0octvifCjPh0TfKySJ8UXs"
+        "name": "Let You Go (Acoustic)",
+        "url": "https://open.spotify.com/album/6E6SrGzLSnd7R6pvIOez0d"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
         }
       ],
-      "duration_ms": 245853,
-      "name": "Ladybird",
-      "url": "https://open.spotify.com/track/4GV1kncKBl0pogThe5TQOA"
+      "duration_ms": 223666,
+      "name": "Let You Go - Acoustic",
+      "url": "https://open.spotify.com/track/2UFFkNjqEm1H2DVeomQuWX"
     },
     {
       "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Hesitate",
-        "url": "https://open.spotify.com/album/4WmmqIIKrqmoSVW4whdsVn"
+        "name": "My House",
+        "url": "https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP"
       },
       "artists": [
         {
-          "name": "Make Friends",
-          "url": "https://open.spotify.com/artist/7dxUKrjbdkaAl1nCCYblq7"
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
         }
       ],
-      "duration_ms": 223573,
-      "name": "Hesitate",
-      "url": "https://open.spotify.com/track/1ppEEYAE2NnM3xk7rC7EQL"
+      "duration_ms": 256639,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "My Own Person",
+        "url": "https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373"
+      },
+      "artists": [
+        {
+          "name": "Smoothboi Ezra",
+          "url": "https://open.spotify.com/artist/2efF0JsHHsKKyjceFHUMFj"
+        }
+      ],
+      "duration_ms": 264873,
+      "name": "My Own Person",
+      "url": "https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Birdcage",
+      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
     },
     {
       "added_at": "2021-11-12 00:00:00",
@@ -1233,20 +1065,184 @@
       "url": "https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ"
     },
     {
-      "added_at": "2021-11-19 10:24:53",
+      "added_at": "2021-11-12 00:00:00",
       "album": {
-        "name": "Yourself",
-        "url": "https://open.spotify.com/album/1567vSsCHKbs0sQ7R7XHMC"
+        "name": "The Loved Ones",
+        "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
       },
       "artists": [
         {
-          "name": "Buzzard Buzzard Buzzard",
-          "url": "https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi"
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
         }
       ],
-      "duration_ms": 337066,
-      "name": "Yourself",
-      "url": "https://open.spotify.com/track/6JB5L5EvQmueQejnPD8RPQ"
+      "duration_ms": 214387,
+      "name": "Victoria Falls",
+      "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "I Should Go (Solo Version)",
+        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 151178,
+      "name": "I Should Go - Solo Version",
+      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Deep Down Way Out",
+        "url": "https://open.spotify.com/album/3wPnYCG0sFiZuJzuAcgHnS"
+      },
+      "artists": [
+        {
+          "name": "Orlando Weeks",
+          "url": "https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA"
+        }
+      ],
+      "duration_ms": 163120,
+      "name": "Deep Down Way Out",
+      "url": "https://open.spotify.com/track/5UPXitLeEHQyL5TZRy47uN"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/2e48GqjEwCi87gQJanb1bf"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Pristine",
+      "url": "https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Attempt",
+        "url": "https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 281906,
+      "name": "Attempt",
+      "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Nazareth",
+        "url": "https://open.spotify.com/album/0dGHtn2QNcrxne6aIAm3Lj"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 250162,
+      "name": "Nazareth",
+      "url": "https://open.spotify.com/track/03JgKNVxicoLINfg3q8qBv"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Isn\u2019t It",
+        "url": "https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC"
+      },
+      "artists": [
+        {
+          "name": "Kacy & Clayton",
+          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
+        },
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 124760,
+      "name": "Isn\u2019t It",
+      "url": "https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "No Burden",
+        "url": "https://open.spotify.com/album/6Ru52lwXvbPaAMSdyPOFsL"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 163292,
+      "name": "I Don't Wanna Be Funny Anymore",
+      "url": "https://open.spotify.com/track/0kwBATkVUAG7JRMEosNUUs"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/5meArWE9yVvoIaDFPpPTkE"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 215556,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/65yBRgxgY5mHNkNPyjpqPu"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "The Ballad of Joyce Vincent",
+        "url": "https://open.spotify.com/album/7aP3R5r1PgDqEIGUuZHmtR"
+      },
+      "artists": [
+        {
+          "name": "Spang Sisters",
+          "url": "https://open.spotify.com/artist/55LV0taR11yxOICTZORibT"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "The Ballad Of Joyce Vincent",
+      "url": "https://open.spotify.com/track/77qOxCnfWeY1jKrYqMdvZd"
+    },
+    {
+      "added_at": "2021-11-12 00:00:00",
+      "album": {
+        "name": "Truth or Consequences",
+        "url": "https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 202003,
+      "name": "Southwark",
+      "url": "https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

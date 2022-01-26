@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Charlie Puth, Rod Wave, iann dior & MGK, GAYLE, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,858,937 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,858,962 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 70 | [Rocket](https://open.spotify.com/track/1avlO8s4bCF7Sk5Sv5tXI7) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Rocket](https://open.spotify.com/album/0fPkcy88RYqvj2iHxQ4qZc) | 1:23 |
 | 71 | [High Alone](https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [High Alone](https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF) | 3:53 |
 | 72 | [WISH U HELL](https://open.spotify.com/track/2OpUJfXLRo0Tk1q4Uo0iVu) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [WISH U HELL](https://open.spotify.com/album/5gWxq8KmRs1opcukXf7q5H) | 3:11 |
-| 73 | [Girl Like You](https://open.spotify.com/track/1RZWlnPjEEB3oRFEjfF4Bo) | [bestfriend](https://open.spotify.com/artist/23sZDaGSVzYhprU1sfF6fB) | [Girl Like You](https://open.spotify.com/album/7bchxq0JqQuUiwulQyKgzL) | 2:37 |
+| 73 | [Girl Like You](https://open.spotify.com/track/1RZWlnPjEEB3oRFEjfF4Bo) | [bestfriend](https://open.spotify.com/artist/2RVJnytZwHxiMws8ncKA5T) | [Girl Like You](https://open.spotify.com/album/7bchxq0JqQuUiwulQyKgzL) | 2:37 |
 | 74 | [High Above The Sun](https://open.spotify.com/track/2XK6b75sWnHyv32YKyQgQt) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Water Your Garden](https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a) | 4:44 |
 | 75 | [Passengers](https://open.spotify.com/track/0j8tWZyD71TFLVBVLhvna5) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Passengers](https://open.spotify.com/album/5SosqlxeVmbp47asMuQlqi) | 3:32 |
 | 76 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/2QWEKEYag6vI7VfJehbd7v) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Burn It Down \(717 Tapes\)](https://open.spotify.com/album/40CsyVbSKJPVHgxfLDKhJN) | 2:49 |

@@ -56,5 +56,6 @@
 | [Un Ragazzo](https://open.spotify.com/track/4Ke87fcWxmC6ebcRkrDjYf) | [P O N ¥](https://open.spotify.com/artist/5SFiEHjNzaBpIiJd0uzaxX) | [Un Ragazzo](https://open.spotify.com/album/3fOWHNbaHcGatXysATcyXW) | 3:36 | 2022-01-06 |  |
 | [Una via d'uscita](https://open.spotify.com/track/6gxLlVRuJdN8jNczpPur3p) | [Caleydo](https://open.spotify.com/artist/0LQI1hrK6naJCuxcY0CNQG) | [Una via d'uscita](https://open.spotify.com/album/2jbaEo5QsRmb5fBx6YIzBz) | 2:59 | 2022-01-06 |  |
 | [Urla con me](https://open.spotify.com/track/1J85ap4LV65jCJ5oUfWxcH) | [Sigmet](https://open.spotify.com/artist/6qFJ465lCZ2Sfiwt2i1J8E) | [Urla con me](https://open.spotify.com/album/3GxYhELq2atH4YWMXZzlOs) | 3:42 | 2022-01-06 | 2022-01-12 |
+| [X4](https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [X4](https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl) | 2:34 | 2022-01-25 |  |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

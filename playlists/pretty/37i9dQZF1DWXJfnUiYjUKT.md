@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Charlie Puth
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,462 likes - 99 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,548 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 81 | [Freaky \(RGB\)](https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX) | 1:49 |
 | 82 | [PUNISH](https://open.spotify.com/track/1fOYFkUgtbPG2oK2j6SRcK) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [PUNISH](https://open.spotify.com/album/0Tndqp61XJ31Ht6o7IC5JN) | 2:50 |
 | 83 | [Rocket](https://open.spotify.com/track/1avlO8s4bCF7Sk5Sv5tXI7) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Rocket](https://open.spotify.com/album/0fPkcy88RYqvj2iHxQ4qZc) | 1:23 |
-| 84 | [Girl Like You](https://open.spotify.com/track/1RZWlnPjEEB3oRFEjfF4Bo) | [bestfriend](https://open.spotify.com/artist/23sZDaGSVzYhprU1sfF6fB) | [Girl Like You](https://open.spotify.com/album/7bchxq0JqQuUiwulQyKgzL) | 2:37 |
+| 84 | [Girl Like You](https://open.spotify.com/track/1RZWlnPjEEB3oRFEjfF4Bo) | [bestfriend](https://open.spotify.com/artist/2RVJnytZwHxiMws8ncKA5T) | [Girl Like You](https://open.spotify.com/album/7bchxq0JqQuUiwulQyKgzL) | 2:37 |
 | 85 | [GORGEOUS](https://open.spotify.com/track/0cYSvUNMzEltRY0RirjUNp) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [GORGEOUS](https://open.spotify.com/album/2Clmd4k6a7tTdIa7vxGdGN) | 2:53 |
 | 86 | [Find Love](https://open.spotify.com/track/7BaExHeRww0LxV4yuYIFSL) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 4:37 |
 | 87 | [Got Damn](https://open.spotify.com/track/7J8YTp4JFQuQXTNLexx3g8) | [Cico P](https://open.spotify.com/artist/3jAZsSIIA8HLjxR99biJyx) | [Got Damn](https://open.spotify.com/album/0FVa4hvcK17nUGjrhN4Hfy) | 1:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Leah Marie Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,675 likes - 112 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,677 likes - 112 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 37 | [Started Right Here](https://open.spotify.com/track/6g1hr3hkvJPopynA633RvQ) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/5Np7Ek9CPromitJthQCLfO) | 2:44 |
 | 38 | [One Percent](https://open.spotify.com/track/79vB0nrWECOICS6byaQODr) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [One Percent](https://open.spotify.com/album/4QPCf7gH9NsJVMKaQftX6I) | 3:31 |
 | 39 | [Mama Ain't Jesus](https://open.spotify.com/track/3ELOyDhZUfHmPyPqcyzGs6) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Mama Ain't Jesus](https://open.spotify.com/album/5Hv1zXpGhoFqxWWGH2i7Xy) | 3:11 |
-| 40 | [Laid Back](https://open.spotify.com/track/1DxeneyJ1e1N9ahmq1y6zy) | [Tiera](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/0NBmlHXj47hWNHIdneHCu5) | 2:51 |
+| 40 | [Laid Back](https://open.spotify.com/track/1DxeneyJ1e1N9ahmq1y6zy) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Tiera](https://open.spotify.com/album/0NBmlHXj47hWNHIdneHCu5) | 2:51 |
 | 41 | [Breakup Szn](https://open.spotify.com/track/5pQXzRh20OsQxMaTYhelm7) | [Gracie Carol](https://open.spotify.com/artist/24GbtL2XINFQxX2NxiTWSO) | [Breakup Szn](https://open.spotify.com/album/2axveu3fM08fxnR361iNwn) | 2:33 |
 | 42 | [Me & the Bar](https://open.spotify.com/track/33x0whf3VnrG1mNBhJfteu) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Me & the Bar](https://open.spotify.com/album/76UjGdURpADH42GpnXnR23) | 3:01 |
 | 43 | [Wounded](https://open.spotify.com/track/5vkHln7TXHYhFNeiUXjSPb) | [Maddie Wilson](https://open.spotify.com/artist/10PPtrO31Yu7b1gVJ5RM4W) | [Wounded](https://open.spotify.com/album/1fXxJ7qUgm0aJCap9qCq8d) | 3:48 |

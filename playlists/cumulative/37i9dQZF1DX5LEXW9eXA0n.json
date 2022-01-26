@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover: Lyn(\ub9b0)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover: KYUHYUN(\uaddc\ud604)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "K-Pop Ballad Hits",
   "published_playlist_ids": [
     "50vXMaH1sm7s2jq2W5LswS"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 250746,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/4VsjMhMOhz9XGDNIzFNGgr"
@@ -333,6 +333,24 @@
       "duration_ms": 239853,
       "name": "Better for Me (Nth Romance X MeloMance)",
       "url": "https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr"
+    },
+    {
+      "album": {
+        "name": "IDOL: The Coup (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC"
+      },
+      "artists": [
+        {
+          "name": "EXY",
+          "url": "https://open.spotify.com/artist/3QFf0wwzpLiSmC4hx7lhER"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195530,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7huP0epHGaopyXN3a51cPb"
     },
     {
       "album": {
@@ -535,7 +553,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 257026,
       "name": "Common Regret",
       "url": "https://open.spotify.com/track/56guunK8Kb6rtwTiYZAxwJ"
@@ -705,7 +723,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 222415,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
@@ -723,7 +741,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 227960,
       "name": "DrunKen Confession",
       "url": "https://open.spotify.com/track/0hqngwyh8WnPuYlLYHRQqp"
@@ -821,7 +839,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 234840,
       "name": "Here I Am Again",
       "url": "https://open.spotify.com/track/5CDq3Ekm0E0c23S0mbEELV"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 210240,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 227866,
       "name": "I still love you a lot",
       "url": "https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy"
@@ -1407,7 +1425,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 231120,
       "name": "I'll talk to you (The Moon during the Day X Gummy)",
       "url": "https://open.spotify.com/track/6GRzT5bP6NB4eXjxziDzA1"
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 187160,
       "name": "Lazy Me",
       "url": "https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ"
@@ -1645,7 +1663,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 223644,
       "name": "Listen to this song",
       "url": "https://open.spotify.com/track/3Nei4vBEJMjEiQFThLsHrG"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 244451,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5efB9wfc6dn3pzll9ElIrH"
@@ -1743,6 +1761,24 @@
       "duration_ms": 258226,
       "name": "Love poem",
       "url": "https://open.spotify.com/track/4B6cJ34Mkfiu4Xo8t8QU7F"
+    },
+    {
+      "album": {
+        "name": "Love Story (4 Season Project \u5b63) - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263946,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1W1MrDI5YVuKb9pgCYH3iE"
     },
     {
       "album": {
@@ -1912,6 +1948,24 @@
     },
     {
       "album": {
+        "name": "lost (Original Television Soundtrack, Pt. 1)",
+        "url": "https://open.spotify.com/album/40QKzIbSZPC2B7vgjnvSAQ"
+      },
+      "artists": [
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253160,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/1bTeHEQVctGDbu2WyT88fR"
+    },
+    {
+      "album": {
         "name": "CYWORLD BGM 2021",
         "url": "https://open.spotify.com/album/5DiDgD3t2FQFdbXmb4ziWD"
       },
@@ -2017,7 +2071,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 272573,
       "name": "On A Starry Night",
       "url": "https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h"
@@ -2237,7 +2291,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 217066,
       "name": "Repeatedly",
       "url": "https://open.spotify.com/track/0cJjwKRBzxafqKJlRAwuE9"
@@ -2367,7 +2421,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 287813,
       "name": "Someday, The Boy",
       "url": "https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc"
@@ -2457,7 +2511,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 230320,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/10xEWyLu80xSy17g9jptlD"
@@ -2905,7 +2959,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 246320,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
@@ -2977,7 +3031,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 254893,
       "name": "When We Were In Love",
       "url": "https://open.spotify.com/track/613Ixm4sbcHRZGKmGtLX9v"

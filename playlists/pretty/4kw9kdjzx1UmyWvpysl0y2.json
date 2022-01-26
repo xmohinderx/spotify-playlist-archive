@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127627,
+  "num_followers": 127636,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzIwOSw2ZDYxMzUwMjJlYmQ4NzlkMTcwNzEyYmRlZTZiOGFkNWZhMmE5OTg1",
+  "snapshot_id": "MzIxMCwwMzUxMTkxN2I3YTFlMmEwYzIxMWE0NWUxZmZmMWI5MmRhMmQ4YzUx",
   "tracks": [
+    {
+      "added_at": "2022-01-25 17:24:25",
+      "album": {
+        "name": "Rise & Fall (VIPs)",
+        "url": "https://open.spotify.com/album/7vNlIGuuwVCwO4YhDojVdx"
+      },
+      "artists": [
+        {
+          "name": "Drinks On Me",
+          "url": "https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu"
+        }
+      ],
+      "duration_ms": 183206,
+      "name": "More To Give - VIP",
+      "url": "https://open.spotify.com/track/3PdwZoy7TJcPGw7GI8GI4u"
+    },
     {
       "added_at": "2022-01-24 17:22:40",
       "album": {

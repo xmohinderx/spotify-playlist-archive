@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Alternative and indie artists from across the Pride spectrum\. Cover: Hope Tala
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,287 likes - 92 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,281 likes - 92 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

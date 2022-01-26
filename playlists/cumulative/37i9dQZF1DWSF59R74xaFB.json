@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 311177,
       "name": "A Que No Me Dejas",
       "url": "https://open.spotify.com/track/26aH2Io0AU0LWgB12Pcvmo"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 220161,
       "name": "Ahora S\u00e9",
       "url": "https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 244893,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 276600,
       "name": "Con los A\u00f1os Que Me Quedan",
       "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 202040,
       "name": "Cristina",
       "url": "https://open.spotify.com/track/1Kjer1JoWuJGNwGV6Pbgv1"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 216919,
       "name": "Deber\u00edas Estar Aqu\u00ed",
       "url": "https://open.spotify.com/track/0nyrWJu7GTlmS7YxPb7ZyA"
@@ -929,7 +929,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
@@ -987,7 +987,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 228989,
       "name": "Ella Que\u0301 Te Dio",
       "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 203760,
       "name": "Falta Amor",
       "url": "https://open.spotify.com/track/2ukaTb7sSeWHdr22n1xTBs"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 187533,
       "name": "Fue Lo Mejor",
       "url": "https://open.spotify.com/track/662Z8N8YhRLVVCIKnxLNBg"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 263600,
       "name": "Heroe",
       "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
@@ -1348,6 +1348,24 @@
     },
     {
       "album": {
+        "name": "La Gata Bajo la Lluvia (Roc\u00edo D\u00farcal Cover)",
+        "url": "https://open.spotify.com/album/7vDExjtsMu6t02fpOoIkUc"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "La Gata Bajo la Lluvia (Roc\u00edo D\u00farcal Cover)",
+      "url": "https://open.spotify.com/track/25FXcS2ys5rMKEfY6ZmD0x"
+    },
+    {
+      "album": {
         "name": "La Magia de Tus Ojos (Versi\u00f3n Pop)",
         "url": "https://open.spotify.com/album/1CpCyWZRRyqOGAGIahFbph"
       },
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 217906,
       "name": "La Mujer Perfecta",
       "url": "https://open.spotify.com/track/0mAGeks6ns4FZWBPkjD9HR"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 283120,
       "name": "La Vida Despues De Ti",
       "url": "https://open.spotify.com/track/3ywtpODtgaPs2vjqj4GCBi"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 200544,
       "name": "Llegaste A Mi Vida",
       "url": "https://open.spotify.com/track/4rARugNCdlOra7sQz10md1"
@@ -1599,7 +1617,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 206173,
       "name": "Me Enamor\u00e9 De Ti",
       "url": "https://open.spotify.com/track/6DT0LvU0a2wI3RN7SQs8P6"
@@ -1715,7 +1733,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 211906,
       "name": "Moscas en la Casa",
       "url": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 194386,
       "name": "No Pasa Nada",
       "url": "https://open.spotify.com/track/6Gusd5o0sQD1jmmoQlvNw4"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 225599,
       "name": "No Tengo Nada",
       "url": "https://open.spotify.com/track/2gXclup5H2J9dInrVLFs3n"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 183546,
       "name": "Por Primera Vez",
       "url": "https://open.spotify.com/track/0gWbAFRcUyZKdfUxEOuOiD"
@@ -2253,7 +2271,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 221139,
       "name": "Si hubieras querido",
       "url": "https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH"
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 245573,
       "name": "Sin Remitente",
       "url": "https://open.spotify.com/track/3V9l1DjMnZeCRjmj4EK4z2"
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 195746,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/0cVYQ7HxInheFg6BgLSlRV"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-26",
       "duration_ms": 246546,
       "name": "Te Equivocaste (Primera Fila) (feat. Mal\u00fa) - En Vivo",
       "url": "https://open.spotify.com/track/7wadwcnZoJEU2b3pgApUDv"
@@ -2625,7 +2643,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 185106,
       "name": "Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/0LiSASDl1Os4c8JeiypsT8"
@@ -3015,7 +3033,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 251640,
       "name": "\u00bfD\u00f3nde Guardo El Coraz\u00f3n?",
       "url": "https://open.spotify.com/track/1pbOsxdAgCzAoXWxikUoW0"

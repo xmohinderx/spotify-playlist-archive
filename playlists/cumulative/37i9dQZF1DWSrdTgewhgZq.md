@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSrdTgewhgZq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSrdTgewhgZq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSrdTgewhgZq)
 
-### DOPE.
+### [DOPE.](https://open.spotify.com/playlist/5uxXRmYANYLYX4xEGWZNbz)
 
 > Hip\-hop hits\. Foto: Lil Nas X
 

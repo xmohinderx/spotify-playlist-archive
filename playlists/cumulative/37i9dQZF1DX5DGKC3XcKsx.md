@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5DGKC3XcKsx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5DGKC3XcKsx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5DGKC3XcKsx)
 
-### Trapperz Uruguay
+### [Trapperz Uruguay](https://open.spotify.com/playlist/50Jdwr74HQGEkk8eIxYJWl)
 
 > Lo mejor del trap charrúa\. <br/>Foto: Lit Killah, Falke 912 & Bhavi.
 

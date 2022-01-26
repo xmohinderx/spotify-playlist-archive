@@ -1,12 +1,12 @@
 {
   "description": "before he was Elliot, Dominic Fike made some seriously good music  ",
-  "num_followers": 1006874,
+  "num_followers": 1007851,
   "original_name": "Pop Sauce",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc0MTIwMCwwMDAwMDViNTAwMDAwMTdlN2IwMTc1NGIwMDAwMDE3ZTc1YzdlNDU3",
+  "snapshot_id": "MTY0MzE0OTM5NiwwMDAwMDViNjAwMDAwMTdlOTM1NjA5YTMwMDAwMDE3ZTc1YzdlNDU3",
   "tracks": [
     {
       "added_at": "2022-01-16 05:00:00",
@@ -359,22 +359,34 @@
     {
       "added_at": "2022-01-21 05:00:00",
       "album": {
-        "name": "Head on Fire",
-        "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
+        "name": "To All The Boys I\u2019ve Loved Before",
+        "url": "https://open.spotify.com/album/7iAKoyqsiG4Fdx0zp4KsB2"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        },
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
         }
       ],
-      "duration_ms": 188645,
-      "name": "Head on Fire",
-      "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
+      "duration_ms": 188864,
+      "name": "To All The Boys I\u2019ve Loved Before",
+      "url": "https://open.spotify.com/track/6WXvM7Ku5aM7SfdXym7DEN"
+    },
+    {
+      "added_at": "2022-01-25 22:23:16",
+      "album": {
+        "name": "echo",
+        "url": "https://open.spotify.com/album/2V5N2rf5gd0vzQ405Hs3en"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/7586fVxjKm5IoVTTgDEwcD"
     },
     {
       "added_at": "2022-01-16 05:00:00",
@@ -461,22 +473,6 @@
       "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "To All The Boys I\u2019ve Loved Before",
-        "url": "https://open.spotify.com/album/7iAKoyqsiG4Fdx0zp4KsB2"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 188864,
-      "name": "To All The Boys I\u2019ve Loved Before",
-      "url": "https://open.spotify.com/track/6WXvM7Ku5aM7SfdXym7DEN"
-    },
-    {
       "added_at": "2022-01-16 05:00:00",
       "album": {
         "name": "LAst dAy oN EaRTh",
@@ -491,6 +487,26 @@
       "duration_ms": 172755,
       "name": "LAst dAy oN EaRTh",
       "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Head on Fire",
+        "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 188645,
+      "name": "Head on Fire",
+      "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
     },
     {
       "added_at": "2022-01-16 05:00:00",

@@ -2450,6 +2450,32 @@
     },
     {
       "album": {
+        "name": "O Aasman Wale",
+        "url": "https://open.spotify.com/album/38v3MZA4JutlE3ChohfPSK"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Amar Utpal",
+          "url": "https://open.spotify.com/artist/6J55JJLiiDssmpBl3El8z0"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299200,
+      "name": "O Aasman Wale",
+      "url": "https://open.spotify.com/track/67TYbD646XZo6QWQLZjuVw"
+    },
+    {
+      "album": {
         "name": "Oo Bolega Ya Oo Oo Bolega (From \"Pushpa The Rise Part - 01\")",
         "url": "https://open.spotify.com/album/7g0kaXuNdjtdEvsnvYribr"
       },
