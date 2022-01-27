@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new core at its finest\. Cover: Pridelands
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,261 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,336 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Disconnected](https://open.spotify.com/track/4n8GRRVnxw6mjMWjKZ9eqR) | [ALESTI](https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Disconnected](https://open.spotify.com/album/3N6qOBPM9IM1dpMBKvNbL2) | 4:26 |
-| 2 | [No Vacancy](https://open.spotify.com/track/1kQCufzKsVuA4mcFhBRMWG) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [No Vacancy](https://open.spotify.com/album/0RQf8be7RCvMrRCL9aVYJ2) | 3:23 |
-| 3 | [Lights & Fire](https://open.spotify.com/track/1SlOs4l9WvJ4bITuyZXHqc) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lights & Fire](https://open.spotify.com/album/2M1MruXHvS7YndZJ2jgDUD) | 3:30 |
-| 4 | [Misguided](https://open.spotify.com/track/3XzHz4DaqxbsjDEoEyW0RX) | [AVIIRA](https://open.spotify.com/artist/5jrO7JLjq5hKKKENDwrun4) | [Avalanche](https://open.spotify.com/album/2Z0dWUt45um1flzsxi6Nd3) | 3:48 |
-| 5 | [Deadlock](https://open.spotify.com/track/2etljcSPMGHn4xvBW2MKV6) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/0mqqElHOV09nN5sMXd3g9i) | 4:15 |
-| 6 | [Changes](https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb) | [Changes](https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB) | 3:47 |
+| 2 | [Deadlock](https://open.spotify.com/track/2etljcSPMGHn4xvBW2MKV6) | [InVisions](https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR) | [Deadlock](https://open.spotify.com/album/0mqqElHOV09nN5sMXd3g9i) | 4:15 |
+| 3 | [Changes](https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb) | [Changes](https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB) | 3:47 |
+| 4 | [No Vacancy](https://open.spotify.com/track/1kQCufzKsVuA4mcFhBRMWG) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [No Vacancy](https://open.spotify.com/album/0RQf8be7RCvMrRCL9aVYJ2) | 3:23 |
+| 5 | [Lights & Fire](https://open.spotify.com/track/1SlOs4l9WvJ4bITuyZXHqc) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lights & Fire](https://open.spotify.com/album/2M1MruXHvS7YndZJ2jgDUD) | 3:30 |
+| 6 | [Misguided](https://open.spotify.com/track/3XzHz4DaqxbsjDEoEyW0RX) | [AVIIRA](https://open.spotify.com/artist/5jrO7JLjq5hKKKENDwrun4) | [Avalanche](https://open.spotify.com/album/2Z0dWUt45um1flzsxi6Nd3) | 3:48 |
 | 7 | [Calling You](https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Calling You](https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz) | 3:37 |
 | 8 | [The Prophet](https://open.spotify.com/track/7hbyBiX9EMUHFwDywq5xbn) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [Boxes](https://open.spotify.com/album/2WpKNIxZkJGUyJuKsYD306) | 4:16 |
 | 9 | [Composure](https://open.spotify.com/track/2DfhhMCu4HbYY1QmoWNtWM) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [Composure](https://open.spotify.com/album/2UUPHayhYk5eGpL8QIOpLm) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 99 | [Generation Genocide](https://open.spotify.com/track/0LasUChReFGGNWmry0IlFU) | [Lonewolf](https://open.spotify.com/artist/3zn6Fa4a9bUUmgXH6sH7IC) | [Generation Genocide](https://open.spotify.com/album/3DgG62Z7goTUZ7jWVAsXNi) | 2:40 |
 | 100 | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/track/4sSDuuHmKD3wKoZaoGVM29) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [The End to a Brief Moment of Lasting Intimacy](https://open.spotify.com/album/5bJ6joEOY28UkisojIyFOk) | 3:35 |
 
-Snapshot ID: `MTY0Mjc1OTIxOSwwMDAwMDUxNDAwMDAwMTdlN2MxNDY4YTMwMDAwMDE3ZTU3NzBiYTg4`
+Snapshot ID: `MTY0MzE4NzEzMCwwMDAwMDUxNTAwMDAwMTdlOTU5NWQwOGQwMDAwMDE3ZTU3NzBiYTg4`

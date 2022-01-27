@@ -484,6 +484,24 @@
     },
     {
       "album": {
+        "name": "Breathe It All In",
+        "url": "https://open.spotify.com/album/03WR5FjUa2vUkaSK0SFpln"
+      },
+      "artists": [
+        {
+          "name": "Margolnick",
+          "url": "https://open.spotify.com/artist/2pM7xmsP5Whj2ZZzEGQ89O"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233143,
+      "name": "Breathe It All In",
+      "url": "https://open.spotify.com/track/1BJsizfXvMkdFfDtSL3kYv"
+    },
+    {
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/2K4wcxzPhP3TMDjvEX6lmS"
       },
@@ -1511,7 +1529,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 359500,
       "name": "Hold feat. Daniela Andrade - Original Mix",
       "url": "https://open.spotify.com/track/5Kr01FtRG1qf7nHJJoGAX9"

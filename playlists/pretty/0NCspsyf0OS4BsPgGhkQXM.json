@@ -1,37 +1,13 @@
 {
   "description": "The official Trap Nation playlist that includes all of our recent &amp; favorite songs",
-  "num_followers": 2046257,
+  "num_followers": 2046138,
   "original_name": "Trap Nation",
   "owner": {
     "name": "Trap Nation",
     "url": "https://open.spotify.com/user/alltrapnation"
   },
-  "snapshot_id": "MTExNTAsMTNlNzkzNmEwZTAzOTAxZjM1ZWVlMTEwODZiMWY1ZjI1NmU3MGY5ZQ==",
+  "snapshot_id": "MTExNTYsMDFkZDg3ZWNiNDhmOTkwYzFmN2E5MTlhOTMyNzYxZWU3NzQ4YmY0Zg==",
   "tracks": [
-    {
-      "added_at": "2022-01-25 12:56:28",
-      "album": {
-        "name": "The Remixes (Vol. 2)",
-        "url": "https://open.spotify.com/album/7o9Q8Gcu9ALGjs1gJ1hUcX"
-      },
-      "artists": [
-        {
-          "name": "Tommee Profitt",
-          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
-        },
-        {
-          "name": "Fleurie",
-          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
-        },
-        {
-          "name": "hyperforms",
-          "url": "https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Who Will Save Us - hyperforms Remix",
-      "url": "https://open.spotify.com/track/4mBCcNSM2GDYVHTZlImRQJ"
-    },
     {
       "added_at": "2022-01-24 20:32:52",
       "album": {
@@ -63,6 +39,46 @@
       "duration_ms": 210253,
       "name": "All Through the Night",
       "url": "https://open.spotify.com/track/5MLNm8nsvpCWJ2YpurIGLp"
+    },
+    {
+      "added_at": "2022-01-25 12:57:18",
+      "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+        }
+      ],
+      "duration_ms": 120157,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX"
+    },
+    {
+      "added_at": "2022-01-26 23:15:35",
+      "album": {
+        "name": "Looking for Gold",
+        "url": "https://open.spotify.com/album/0S8OhiTIgdSPbI54hPOpP2"
+      },
+      "artists": [
+        {
+          "name": "Fancy Monster",
+          "url": "https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY"
+        },
+        {
+          "name": "TR\u00d8VES",
+          "url": "https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Looking for Gold",
+      "url": "https://open.spotify.com/track/1TJkG92PrLibxf4qQReKYW"
     },
     {
       "added_at": "2022-01-24 20:32:52",
@@ -171,6 +187,22 @@
     {
       "added_at": "2022-01-24 20:32:52",
       "album": {
+        "name": "Free Falling",
+        "url": "https://open.spotify.com/album/6vlrBiJUVFUInKjZ3buVMj"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/0f30zxuzCZ3ayoKY88nnAo"
+    },
+    {
+      "added_at": "2022-01-24 20:32:52",
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/3erPBryAjGLFaPoSX94WXL"
       },
@@ -229,24 +261,28 @@
       "url": "https://open.spotify.com/track/2sRROPunrmFrF8g0MZaZc0"
     },
     {
-      "added_at": "2022-01-25 12:57:18",
+      "added_at": "2022-01-25 12:56:28",
       "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE"
+        "name": "The Remixes (Vol. 2)",
+        "url": "https://open.spotify.com/album/7o9Q8Gcu9ALGjs1gJ1hUcX"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
         },
         {
-          "name": "Sickick",
-          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
+          "name": "Fleurie",
+          "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+        },
+        {
+          "name": "hyperforms",
+          "url": "https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub"
         }
       ],
-      "duration_ms": 120157,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX"
+      "duration_ms": 157866,
+      "name": "Who Will Save Us - hyperforms Remix",
+      "url": "https://open.spotify.com/track/4mBCcNSM2GDYVHTZlImRQJ"
     },
     {
       "added_at": "2022-01-24 20:32:52",
@@ -415,22 +451,6 @@
       "duration_ms": 213600,
       "name": "Break Off",
       "url": "https://open.spotify.com/track/0BtfxMl5G3h4mj9XQXuTDG"
-    },
-    {
-      "added_at": "2022-01-24 20:32:52",
-      "album": {
-        "name": "Free Falling",
-        "url": "https://open.spotify.com/album/6vlrBiJUVFUInKjZ3buVMj"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Free Falling",
-      "url": "https://open.spotify.com/track/0f30zxuzCZ3ayoKY88nnAo"
     },
     {
       "added_at": "2022-01-24 20:32:52",

@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 229906,
       "name": "La valse \u00e0 mille temps",
       "url": "https://open.spotify.com/track/0Yqvv7EV2VYgC299tA5ZaV"
@@ -1132,6 +1132,24 @@
     },
     {
       "album": {
+        "name": "My One And Only Thrill",
+        "url": "https://open.spotify.com/album/3qIM1SPrb3OWoATtDxR6eB"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Les Etoiles",
+      "url": "https://open.spotify.com/track/5yQOP5W4KZtUDjsHjVQvT9"
+    },
+    {
+      "album": {
         "name": "Chante Prevert",
         "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
       },
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 257240,
       "name": "Mes pas dans la neige (Spanish Song Bird)",
       "url": "https://open.spotify.com/track/7cM8i0m3As7TY3twK5867L"
@@ -1773,6 +1791,24 @@
       "duration_ms": 154079,
       "name": "Sympathique",
       "url": "https://open.spotify.com/track/2QkpfEIj3Ox8Tqfio7OTMh"
+    },
+    {
+      "album": {
+        "name": "Sympathique",
+        "url": "https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC"
+      },
+      "artists": [
+        {
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168186,
+      "name": "Sympathique",
+      "url": "https://open.spotify.com/track/1sKpay0q1lsH8RgafNzdI1"
     },
     {
       "album": {

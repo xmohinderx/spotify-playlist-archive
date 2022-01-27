@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Peak-time bangers and emerging future hits. Cover: Timmy Trumpet, Azteck, Darren Styles",
+  "description": "Peak-time bangers and emerging future hits. Cover: Harris & Ford",
   "name": "Main Stage",
   "published_playlist_ids": [
     "4Sc3vClwMPjm8ROhpN4cCx"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 152459,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/5mG9iopQWcGtc3SnrV3dA5"
@@ -354,6 +354,32 @@
     },
     {
       "album": {
+        "name": "Dark Love",
+        "url": "https://open.spotify.com/album/2UrkzKZtqsaLyKBlXywK48"
+      },
+      "artists": [
+        {
+          "name": "DJ Antoine",
+          "url": "https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo"
+        },
+        {
+          "name": "Flip Capella",
+          "url": "https://open.spotify.com/artist/7ISVMXRseDXG6dgN78y6Dz"
+        },
+        {
+          "name": "Evelyn",
+          "url": "https://open.spotify.com/artist/5zntHEBXOIjmsrPNkdPz12"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145519,
+      "name": "Dark Love",
+      "url": "https://open.spotify.com/track/79UJlXbJlCkaXZuRHda2h9"
+    },
+    {
+      "album": {
         "name": "Dead Or Alive",
         "url": "https://open.spotify.com/album/1iELNSuo6I77ZYPo8BJl3o"
       },
@@ -387,7 +413,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 158916,
       "name": "Do It Anyway (with Icona Pop)",
       "url": "https://open.spotify.com/track/4JlbNN3jRVy0agVxF2K5DA"
@@ -483,7 +509,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 123965,
       "name": "Drown",
       "url": "https://open.spotify.com/track/3awxOzmyqDtOy6wffbXloq"
@@ -509,7 +535,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 158250,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/4FzrngyvChFT7ymR6OKNsr"
@@ -582,6 +608,24 @@
     },
     {
       "album": {
+        "name": "G\u00e4steliste +1",
+        "url": "https://open.spotify.com/album/6GFiR3mciQVMzXEsSedG4N"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147143,
+      "name": "G\u00e4steliste +1",
+      "url": "https://open.spotify.com/track/1PlLuGYpkeEqmuKVwQx8wl"
+    },
+    {
+      "album": {
         "name": "Hardcore Vibes",
         "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
       },
@@ -597,6 +641,32 @@
       "duration_ms": 161000,
       "name": "Hardcore Vibes - Radio Edit",
       "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
+    },
+    {
+      "album": {
+        "name": "Hopeless Heart",
+        "url": "https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151903,
+      "name": "Hopeless Heart",
+      "url": "https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8"
     },
     {
       "album": {
@@ -659,7 +729,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 228000,
       "name": "kunterbunt",
       "url": "https://open.spotify.com/track/0qDSunXZZ2c5HUD0AMeWzd"
@@ -685,6 +755,28 @@
       "duration_ms": 130000,
       "name": "Light Up A Light",
       "url": "https://open.spotify.com/track/741Em6BfdPsEL0tnvr9fRt"
+    },
+    {
+      "album": {
+        "name": "Like a Rocket",
+        "url": "https://open.spotify.com/album/32WWik49CfQ5EYhz8S16Sk"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Empyre One",
+          "url": "https://open.spotify.com/artist/7y7UhmnDydiweGCwrHsI22"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173810,
+      "name": "Like a Rocket",
+      "url": "https://open.spotify.com/track/5WpTP0vT3yZxgytj6gSvva"
     },
     {
       "album": {
@@ -781,6 +873,46 @@
       "duration_ms": 138860,
       "name": "Marble",
       "url": "https://open.spotify.com/track/0ymH3Qwwzkl802WD3yy0oY"
+    },
+    {
+      "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
       "album": {
@@ -1298,6 +1430,28 @@
     },
     {
       "album": {
+        "name": "Thank You (TikTok Edit)",
+        "url": "https://open.spotify.com/album/7xyBoVAoaW0z8JoAcfZMMc"
+      },
+      "artists": [
+        {
+          "name": "Max + Johann",
+          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
+        },
+        {
+          "name": "Paratone",
+          "url": "https://open.spotify.com/artist/0ClVe54tk9xP1FBVdFWnWi"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173785,
+      "name": "Thank You - TikTok Edit",
+      "url": "https://open.spotify.com/track/5OtRUowagv3aSAcjekQmDm"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -1453,7 +1607,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 175960,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/6GWRcf3yBx3Y7pSScXoxGk"
@@ -1475,7 +1629,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 190312,
       "name": "Written In The Stars",
       "url": "https://open.spotify.com/track/4UGvqi9PIjHesEpPOO7Hl8"

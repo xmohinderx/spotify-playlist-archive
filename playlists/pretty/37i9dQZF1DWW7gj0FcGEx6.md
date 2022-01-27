@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,085 likes - 114 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,279 likes - 114 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 34 | [The End Of A Dream](https://open.spotify.com/track/1InvMwElcpYztQAUZouPii) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Being the Ricardos \(Amazon Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4yWdGdcKr0Z1xM5vvFVu3A) | 5:06 |
 | 35 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 |
 | 36 | [Reflection](https://open.spotify.com/track/08PENmKvZAFzmPSakxBhlX) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [The Starling \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2W3XXyeo5CEzNHaDaR2L72) | 2:22 |
-| 37 | [25 Years](https://open.spotify.com/track/277WR3fUAz1T1QNkede17l) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Music From The Netflix Film\)](https://open.spotify.com/album/2OJB0s2qrMpoKFNGFIunHi) | 2:17 |
+| 37 | [25 Years](https://open.spotify.com/track/277WR3fUAz1T1QNkede17l) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/2OJB0s2qrMpoKFNGFIunHi) | 2:17 |
 | 38 | [Epilogue](https://open.spotify.com/track/5dWmFO7mUr3YIzTerjnbjL) | [Mathias Rehfeldt](https://open.spotify.com/artist/1fHsor32W3AMTjZ1Xsxfnu), [Dark Matter Projekt](https://open.spotify.com/artist/7CmRc2vq7fSdr6mPAD3FYq) | [Tundra](https://open.spotify.com/album/5Uwl0AJBoJMnNsPws8jM3a) | 5:52 |
 | 39 | [Marital Dance](https://open.spotify.com/track/10DKh4aJ2sPPOVZnBwjruG) | [Evgueni Galperine](https://open.spotify.com/artist/6wUwrf6CPtVdxhMX8TejqM), [Sacha Galperine](https://open.spotify.com/artist/4rhbbNkUATyvGiYxGMmx7H) | [Scenes from a Marriage \(Soundtrack from the HBO® Original Limited Series\)](https://open.spotify.com/album/5SG4qxHwgSHsIQHF045MjC) | 2:10 |
 | 40 | [Transit of Venus](https://open.spotify.com/track/7k1DyRxoZ4VnozJdBKkZds) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh) | [All Light, Everywhere \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/59OTp1KMmtwlReJC060ZNR) | 4:14 |

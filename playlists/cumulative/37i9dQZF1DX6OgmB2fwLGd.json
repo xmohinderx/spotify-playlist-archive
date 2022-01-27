@@ -406,6 +406,32 @@
     },
     {
       "album": {
+        "name": "FAMILY (Deluxe)",
+        "url": "https://open.spotify.com/album/33O2GXSm43GLTmYQSTxDoL"
+      },
+      "artists": [
+        {
+          "name": "DJ Scheme",
+          "url": "https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100266,
+      "name": "Blue Bills (feat. $NOT & Fenix Flexin)",
+      "url": "https://open.spotify.com/track/2eXuIbuMb70Mixj7oMSJnn"
+    },
+    {
+      "album": {
         "name": "Bluffing",
         "url": "https://open.spotify.com/album/6i7t2CdHTVigw9owQqnN2P"
       },

@@ -1916,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "Shoals",
+        "url": "https://open.spotify.com/album/5KSXwOfUJeKRkTr43FppCM"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200209,
+      "name": "Shame On You",
+      "url": "https://open.spotify.com/track/3gPAnmfquPJ9jsGKQNdd1H"
+    },
+    {
+      "album": {
         "name": "Somebody Desperate (From ''Cyrano'' Soundtrack)",
         "url": "https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv"
       },

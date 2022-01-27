@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-25",
   "description": "Find the path back to an era of enlightenment.",
   "name": "Early New Age",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5J3EKg539yRy9jhTY0BJOL"
+  ],
   "tracks": [
     {
       "album": {
@@ -535,7 +537,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 553800,
       "name": "Elysian E",
       "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
@@ -685,6 +687,24 @@
       "duration_ms": 290053,
       "name": "Formentera Sunset Clouds",
       "url": "https://open.spotify.com/track/0hds7dcDAF2XkSqD5fycti"
+    },
+    {
+      "album": {
+        "name": "Albedo 0.39",
+        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136506,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/3XWjY5ywwVf134l4CnnxmY"
     },
     {
       "album": {
@@ -847,7 +867,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 314333,
       "name": "Keys To Imagination",
       "url": "https://open.spotify.com/track/55by06Lzd2VamPqPrSiPZl"
@@ -1287,7 +1307,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 910386,
       "name": "Part One",
       "url": "https://open.spotify.com/track/7gmRLabKpyT683fPSjgEKM"

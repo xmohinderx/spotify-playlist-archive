@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: jubilee marisa\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,626 likes - 54 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,634 likes - 54 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

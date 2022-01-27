@@ -578,7 +578,7 @@
     },
     {
       "album": {
-        "name": "Rush Hour (Cover)",
+        "name": "Rush Hour",
         "url": "https://open.spotify.com/album/4DyiaOUlcWhlxhgWfhMGNY"
       },
       "artists": [
@@ -589,9 +589,9 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 195790,
-      "name": "My Baby Is a Good 'Un - Cover",
+      "name": "My Baby Is a Good 'Un",
       "url": "https://open.spotify.com/track/0lEpe4WQaHcdbH2QI45z42"
     },
     {
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 268121,
       "name": "Old School Blues",
       "url": "https://open.spotify.com/track/10E1R5NUF4kCYl1o7QosuR"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 170293,
       "name": "The Wrong Number",
       "url": "https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 202480,
       "name": "What'd I Say",
       "url": "https://open.spotify.com/track/3UUhqPn6LaEMrgOFgOPoSM"

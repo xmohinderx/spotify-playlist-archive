@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzIxMCwwMzUxMTkxN2I3YTFlMmEwYzIxMWE0NWUxZmZmMWI5MmRhMmQ4YzUx",
+  "snapshot_id": "MzIxMywwN2U2Y2Q5NGY1M2FjMWQyYTYxMDk0ZTEyYzRlMzE5MjA0MWJjMGY4",
   "tracks": [
+    {
+      "added_at": "2022-01-26 17:21:22",
+      "album": {
+        "name": "Dream Cycle",
+        "url": "https://open.spotify.com/album/1QvHgVXLSeEvJ7QYtapuBK"
+      },
+      "artists": [
+        {
+          "name": "Dokho",
+          "url": "https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM"
+        },
+        {
+          "name": "Banaati",
+          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Dream Cycle",
+      "url": "https://open.spotify.com/track/7txsm358oTUP7fYsV1pI5M"
+    },
     {
       "added_at": "2022-01-25 17:24:25",
       "album": {
@@ -1119,42 +1139,6 @@
       "duration_ms": 258750,
       "name": "Used",
       "url": "https://open.spotify.com/track/221btWts70oQ60quERFxXM"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Other Side",
-        "url": "https://open.spotify.com/album/3luBggRjXhNlC2O3wQACop"
-      },
-      "artists": [
-        {
-          "name": "OVSKY",
-          "url": "https://open.spotify.com/artist/6hs7DlQVJTvFgN7DyzkdnX"
-        },
-        {
-          "name": "MYLK",
-          "url": "https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "Other Side",
-      "url": "https://open.spotify.com/track/5kj5GVUyYb5yXXtsbUeqpw"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "TROUBLEMAKER",
-        "url": "https://open.spotify.com/album/5XxwIsdTvY6h335Jmcf10Y"
-      },
-      "artists": [
-        {
-          "name": "F.O.O.L",
-          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
-        }
-      ],
-      "duration_ms": 222724,
-      "name": "TROUBLEMAKER",
-      "url": "https://open.spotify.com/track/6mo88PgAWke0VsVbFmABoT"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

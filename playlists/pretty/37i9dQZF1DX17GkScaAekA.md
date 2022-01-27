@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,707 likes - 49 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,449 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17GkScaAekA.md) - [plain]
 | 45 | [Schubert: Cello Sonata in A Minor, D\. 821, "Arpeggione": II\. Adagio](https://open.spotify.com/track/0mphqBldbD5cTcWfnODhmI) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Anneleen Lenaerts](https://open.spotify.com/artist/1vMPiZo35cD5WuZgp6NO7I), [Dionysis Grammenos](https://open.spotify.com/artist/1gyehD73iVuIYqL6Rltepc) | [Schumann & Schubert \- Transcriptions for Clarinet & Harp](https://open.spotify.com/album/2O1MCD0Yt1sh79kNyq3Gxk) | 3:40 |
 | 46 | [String Quartet: I\. Modere](https://open.spotify.com/track/2Cc5z5swQrDqZiyCkZ0TnF) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Fanny Mendelssohn Quartet](https://open.spotify.com/artist/16zGYKFvAjVYlbUvqIXZGr) | [Tailleferre: Kammermusik](https://open.spotify.com/album/1wEh9M3ARcKdansQU1qME8) | 2:27 |
 | 47 | [Concerto in D Minor, Op.7, No.4: I\. Adagio](https://open.spotify.com/track/05iURKvut2OWEzPHQUhDT5) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Academy of Ancient Music](https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf), [Richard Egarr](https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq) | [Handel: Organ Concertos, Op\. 7](https://open.spotify.com/album/5OQJ9lv225IZAL4YNVO8L5) | 4:45 |
-| 48 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/1VsxTA8He1KckavTf8fNlh) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/1ejEKPKa3o0Y05f9hRFQWL) | 1:13 |
-| 49 | [September Song](https://open.spotify.com/track/6SctHYL0HaQ5hFpUxXULYa) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine \(Deluxe\)](https://open.spotify.com/album/4YRVYUznqfl3xjodAZA4tt) | 3:22 |
+| 48 | [Berceuse](https://open.spotify.com/track/1Y3NJjnXXaXmrfSLeDMaU7) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Sara Chenal](https://open.spotify.com/artist/00JrlzGhrk892JNRAAQOTo), [Jean\-Pierre Ferey](https://open.spotify.com/artist/5kdpljCuyKmbDLT2NAUpc8) | [Violon au féminin: Compositrices françaises](https://open.spotify.com/album/6siGUFHjGuPLis1gkhqP3F) | 2:28 |
+| 49 | [Mercure, Scene 1: La nuit](https://open.spotify.com/track/1VsxTA8He1KckavTf8fNlh) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Orchestre Symphonique et Lyrique de Nancy](https://open.spotify.com/artist/0g4p5Yus79xwJKf9co2RCR), [Jerome Kaltenbach](https://open.spotify.com/artist/3jK1IVWV4t4FTXjCiobeE2) | [Satie: Parade, Gymnopédies, Mercure & Relâche](https://open.spotify.com/album/1ejEKPKa3o0Y05f9hRFQWL) | 1:13 |
+| 50 | [September Song](https://open.spotify.com/track/6SctHYL0HaQ5hFpUxXULYa) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine \(Deluxe\)](https://open.spotify.com/album/4YRVYUznqfl3xjodAZA4tt) | 3:22 |
 
-Snapshot ID: `MTY0MzAzMTIzNywwMDAwMDAxMDAwMDAwMTdlOGM0YjEyZmMwMDAwMDE3N2VlYjlhZjdm`
+Snapshot ID: `MTY0MzIyNzkxNSwwMDAwMDAxMTAwMDAwMTdlOTgwNDIzYWQwMDAwMDE3N2VlYjlhZjdm`

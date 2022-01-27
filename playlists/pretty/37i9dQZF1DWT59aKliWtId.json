@@ -1,12 +1,12 @@
 {
   "description": "A quality alternative blend. Cover: The Head And The Heart",
-  "num_followers": 69412,
+  "num_followers": 69479,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc0MzgwMCwwMDAwMDBjODAwMDAwMTdlN2IyOTIwZmUwMDAwMDE3ZTdiMjhmZDY4",
+  "snapshot_id": "MTY0MzIyMTcwMywwMDAwMDBjOTAwMDAwMTdlOTdhNTViMGEwMDAwMDE3ZTdiMjhmZDY4",
   "tracks": [
     {
       "added_at": "2022-01-21 05:01:00",
@@ -575,6 +575,22 @@
       "duration_ms": 284906,
       "name": "Once Twice Melody",
       "url": "https://open.spotify.com/track/44RsKGDmlPsKp7On9eTV1R"
+    },
+    {
+      "added_at": "2022-01-26 18:28:23",
+      "album": {
+        "name": "Shoals",
+        "url": "https://open.spotify.com/album/5KSXwOfUJeKRkTr43FppCM"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 200209,
+      "name": "Shame On You",
+      "url": "https://open.spotify.com/track/3gPAnmfquPJ9jsGKQNdd1H"
     },
     {
       "added_at": "2022-01-21 05:01:00",

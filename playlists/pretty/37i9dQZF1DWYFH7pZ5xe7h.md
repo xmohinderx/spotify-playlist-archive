@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFH7pZ5xe7h.md) - [plain]
 
 > Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,547 likes - 70 songs - 13 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,865 likes - 70 songs - 13 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFH7pZ5xe7h.md) - [plain]
 | 69 | [Das Lied von der Erde: II\. Der Einsame im Herbst \(the Lonely One in Autumn\)](https://open.spotify.com/track/2kTlRMiZlwwDlznr1QHDdY) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Jane Henschel](https://open.spotify.com/artist/46yCH0gv3CwQiPNTKIooEf), [Gregory Kunde](https://open.spotify.com/artist/3VQAuDmYhpTUyg7UP8fbKa), [Houston Symphony](https://open.spotify.com/artist/4b1OFVRz9W1m6T5pFtwjGG), [Hans Graf](https://open.spotify.com/artist/61QRbGcgOYOud7f4YGzofV) | [Mahler: Das Lied von der Erde](https://open.spotify.com/album/689CxX81ICOdUz86g4PNms) | 9:30 |
 | 70 | [Symphony No\. 3 in D Minor: Part 1, I\. A tempo](https://open.spotify.com/track/47cNw2dW7SviIV0UsCmUiw) | [Gustav Mahler](https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz), [Esa\-Pekka Salonen](https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl), [Los Angeles Philharmonic](https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU) | [Mahler: Symphony No\. 3 in D Minor](https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4) | 5:17 |
 
-Snapshot ID: `MTYzOTAwMTUxNiwwMDAwMDAwNDAwMDAwMTdkOWMxYTY4MjkwMDAwMDE3MDg3MjA5MzM1`
+Snapshot ID: `MTY0MzIwMDgyOSwwMDAwMDAwNTAwMDAwMTdlOTY2NmQ3ODUwMDAwMDE3MDg3MjA5MzM1`

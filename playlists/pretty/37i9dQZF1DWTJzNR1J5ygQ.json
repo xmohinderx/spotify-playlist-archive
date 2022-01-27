@@ -1,13 +1,53 @@
 {
   "description": "It's a Midwest thing. Cover: Eminem",
-  "num_followers": 131527,
+  "num_followers": 131818,
   "original_name": "I Love My Midwest Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDI3MTE1MiwwMDAwMDAwNzAwMDAwMTdjODIyNmNiMDEwMDAwMDE3YzgwZWFlNzU4",
+  "snapshot_id": "MTY0MzIyNDQ4MiwwMDAwMDAwODAwMDAwMTdlOTdjZmMzYjIwMDAwMDE3YzgwZWFlNzU4",
   "tracks": [
+    {
+      "added_at": "2021-02-01 17:16:40",
+      "album": {
+        "name": "Man On The Moon: The End Of Day",
+        "url": "https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 221266,
+      "name": "Day 'N' Nite (nightmare)",
+      "url": "https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"
+    },
+    {
+      "added_at": "2022-01-26 19:14:42",
+      "album": {
+        "name": "Finally Famous (Deluxe)",
+        "url": "https://open.spotify.com/album/19DGkH750PrQMMnKqBAxfY"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Roscoe Dash",
+          "url": "https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Marvin & Chardonnay",
+      "url": "https://open.spotify.com/track/5xpmdbQcfIOsE1hACcC3UK"
+    },
     {
       "added_at": "2021-02-01 17:16:40",
       "album": {
@@ -103,42 +143,6 @@
       "duration_ms": 261693,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5NiUrZVKyLpsyj62Roq5FW"
-    },
-    {
-      "added_at": "2021-02-01 17:16:40",
-      "album": {
-        "name": "Man On The Moon: The End Of Day",
-        "url": "https://open.spotify.com/album/47y3PbX8oIDCkYAFylCJz0"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Day 'N' Nite (nightmare)",
-      "url": "https://open.spotify.com/track/5FEXPoPnzueFJQCPRIrC3c"
-    },
-    {
-      "added_at": "2021-02-01 17:16:40",
-      "album": {
-        "name": "Dark Sky Paradise",
-        "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        }
-      ],
-      "duration_ms": 284386,
-      "name": "I Don't Fuck With You",
-      "url": "https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA"
     },
     {
       "added_at": "2021-02-01 17:16:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nERjWj1zmg.md) - [plain]
 
 > A selection of classic short stories and literature by women.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,875 likes - 39 songs - 15 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,874 likes - 39 songs - 15 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

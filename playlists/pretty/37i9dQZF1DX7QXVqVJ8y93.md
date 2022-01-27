@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QXVqVJ8y93.md) - [plain]
 
 > You might want to leave a light on when listening to these chilling performances of H\. P\. Lovecraft's horror fiction....
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,021 likes - 63 songs - 23 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,017 likes - 63 songs - 23 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

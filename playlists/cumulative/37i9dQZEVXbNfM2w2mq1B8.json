@@ -6438,6 +6438,24 @@
     },
     {
       "album": {
+        "name": "Ot utre",
+        "url": "https://open.spotify.com/album/2yIvuAL0S3hMUax9vJCPaG"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231363,
+      "name": "Ot utre",
+      "url": "https://open.spotify.com/track/5d6gL8EcuaisGM9UWJN4gM"
+    },
+    {
+      "album": {
         "name": "Koi sym az?",
         "url": "https://open.spotify.com/album/2oemQH2YrBqeaI3tGJ9n6O"
       },
@@ -7881,7 +7899,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 212575,
       "name": "Sofia Hills",
       "url": "https://open.spotify.com/track/788fXILjvTnAoHw4rtIJCA"
@@ -9337,7 +9355,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 257604,
       "name": "Way 2 Sexy (with Future & Young Thug)",
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
@@ -10125,7 +10143,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 217333,
       "name": "\u0414\u0430 \u0441\u0438 \u0442\u0443\u043a",
       "url": "https://open.spotify.com/track/4a0oV0MjoURyHnW1gz8qcg"
@@ -10873,7 +10891,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 237692,
       "name": "\u0422\u0438 \u0441\u0438 \u043c\u0438 \u0436\u0438\u0432\u043e\u0442\u0430",
       "url": "https://open.spotify.com/track/0LFA5mrgC8ni2CGoDr8WDm"
@@ -10961,6 +10979,24 @@
       "duration_ms": 181304,
       "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
       "url": "https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF"
+    },
+    {
+      "album": {
+        "name": "\u0427\u0438\u0441\u0442\u0438 \u0441\u043c\u0435\u0442\u043a\u0438",
+        "url": "https://open.spotify.com/album/59Tlgm26biIvk2nonkuXkS"
+      },
+      "artists": [
+        {
+          "name": "Lidia",
+          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249230,
+      "name": "\u0427\u0438\u0441\u0442\u0438 \u0441\u043c\u0435\u0442\u043a\u0438",
+      "url": "https://open.spotify.com/track/6YH2SZWaLNmDMCBYIqjx39"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbNfM2w2mq1B8"

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-25",
   "description": "Hymns for darker hours.",
   "name": "Nordic Noir",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0tRuhYhIMsihRAmvWUYKmw"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 232000,
       "name": "1 Room",
       "url": "https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U"
@@ -151,7 +153,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 302000,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/6IV2VvCA0li8ShOy03haGf"
@@ -191,6 +193,24 @@
       "duration_ms": 348608,
       "name": "Between Two Breaths",
       "url": "https://open.spotify.com/track/4ppsp7PyPEllHWDzCyHHF8"
+    },
+    {
+      "album": {
+        "name": "Cast Of Mind",
+        "url": "https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435276,
+      "name": "Bondage To Formula",
+      "url": "https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn"
     },
     {
       "album": {
@@ -477,10 +497,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 460178,
       "name": "Fundament (Part 1)",
       "url": "https://open.spotify.com/track/0NWuVsxbGEwS4qCiicGxBs"
+    },
+    {
+      "album": {
+        "name": "outside of your lifetime",
+        "url": "https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ"
+      },
+      "artists": [
+        {
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103578,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/603qsBFMCGXburZt057Wv3"
     },
     {
       "album": {
@@ -597,7 +635,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 183066,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/0jVs5KrJ52rMzzsAy16ZSJ"
@@ -615,7 +653,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 212848,
       "name": "is this nature escape",
       "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
@@ -633,7 +671,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 392000,
       "name": "Kerlann",
       "url": "https://open.spotify.com/track/3z5526brr8uZeHJOylEibp"
@@ -651,7 +689,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 796000,
       "name": "Konvektion",
       "url": "https://open.spotify.com/track/5fOr0VJwhHuOFyh6FCZVyO"
@@ -859,7 +897,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 617500,
       "name": "Moments In Love",
       "url": "https://open.spotify.com/track/5GTjzlFM8t2xB9RJGVkmvd"
@@ -877,7 +915,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 279529,
       "name": "M\u00e4lardynen",
       "url": "https://open.spotify.com/track/386aGHpZXtzvSMGy3gFqkX"
@@ -978,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Too",
+        "url": "https://open.spotify.com/album/0ehlpK5bslOMgNPXNGDQun"
+      },
+      "artists": [
+        {
+          "name": "Klara Lewis",
+          "url": "https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342013,
+      "name": "Once",
+      "url": "https://open.spotify.com/track/2ytljnf7K8GiXdqFEWgC9w"
+    },
+    {
+      "album": {
         "name": "Silvercoat the throng",
         "url": "https://open.spotify.com/album/3ffjoBGYEKoYSqc8XSDDvM"
       },
@@ -1025,7 +1081,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 188875,
       "name": "Piano II",
       "url": "https://open.spotify.com/track/5Vo3BHCbOgELMAsxLayMZr"
@@ -1043,7 +1099,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 216000,
       "name": "Pipopapipo",
       "url": "https://open.spotify.com/track/44yYxVlcLb3lp9EokUElUn"
@@ -1090,6 +1146,28 @@
     },
     {
       "album": {
+        "name": "Contemporary Piano",
+        "url": "https://open.spotify.com/album/3rc04zjug6LVTSqefi5v5A"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Alexander Malter",
+          "url": "https://open.spotify.com/artist/7ku4vnPiSrXkUarPFjlzwH"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642880,
+      "name": "P\u00e4rt: F\u00fcr Alina - 1. F\u00fcr Alina",
+      "url": "https://open.spotify.com/track/0fXQMORkpxlJUqyu5fTUL3"
+    },
+    {
+      "album": {
         "name": "Rakka II",
         "url": "https://open.spotify.com/album/5y0y4UtptE7P7p8SZFgAZT"
       },
@@ -1119,7 +1197,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 308000,
       "name": "River Whispering Run",
       "url": "https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI"
@@ -1141,6 +1219,24 @@
       "duration_ms": 394863,
       "name": "Rushes Recede",
       "url": "https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc"
+    },
+    {
+      "album": {
+        "name": "Sacro Bosco",
+        "url": "https://open.spotify.com/album/2i2x4rz1bYSegtMgFC3Ryc"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383080,
+      "name": "Sacro Bosco",
+      "url": "https://open.spotify.com/track/27gRCQY4CNnc7qLz84TFj0"
     },
     {
       "album": {
@@ -1191,10 +1287,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 388000,
       "name": "Second Half",
       "url": "https://open.spotify.com/track/7CFziAj4VX4vspOI4ypY6f"
+    },
+    {
+      "album": {
+        "name": "Seconds / H\u00f3lar",
+        "url": "https://open.spotify.com/album/7Fgaunz4sA3JMGrfaa1YBC"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/3vXmJi22FQIryr1IpTHOnX"
     },
     {
       "album": {
@@ -1209,7 +1323,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 693751,
       "name": "Seeing Past What Things Seem",
       "url": "https://open.spotify.com/track/2sgqTahUU0PBwKcgRhqRDN"
@@ -1245,7 +1359,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 380819,
       "name": "Sista Dagen",
       "url": "https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA"
@@ -1263,7 +1377,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 253928,
       "name": "Skymningszonen",
       "url": "https://open.spotify.com/track/6TMAYNIdnq8uEgK2YWmBOc"
@@ -1317,7 +1431,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 289592,
       "name": "Still Numbers",
       "url": "https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq"
@@ -1369,7 +1483,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 108266,
       "name": "Supreme Monuments",
       "url": "https://open.spotify.com/track/7lyDRUzEWTELXc0Kec4i8X"
@@ -1517,7 +1631,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "The World Until Yesterday",
       "url": "https://open.spotify.com/track/7Jz9HikD4AWe2WoUIQLnBs"
@@ -1553,7 +1667,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 153052,
       "name": "Trees",
       "url": "https://open.spotify.com/track/0Q2ZAzvitoJyxvPfPt2Dz8"
@@ -1713,6 +1827,50 @@
       "duration_ms": 135062,
       "name": "Wasa Stone Trio",
       "url": "https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G"
+    },
+    {
+      "album": {
+        "name": "Two Autumns",
+        "url": "https://open.spotify.com/album/2UjsMXSHYW6oBzucy7Guqi"
+      },
+      "artists": [
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        },
+        {
+          "name": "Scandinavian Star",
+          "url": "https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "With Eyes Unclouded By Longing",
+      "url": "https://open.spotify.com/track/6Bm1HcsOBtJEwxjnVQ7yE7"
+    },
+    {
+      "album": {
+        "name": "Natthall",
+        "url": "https://open.spotify.com/album/7u22N4Jgi0wp8Qb2B6FtxI"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mullaert",
+          "url": "https://open.spotify.com/artist/5cKPK8DCxX1R5PwQOU1huv"
+        },
+        {
+          "name": "Tonhalle Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309461,
+      "name": "Woods of Admittance",
+      "url": "https://open.spotify.com/track/7BEizNL6QesTGhUY7znR1B"
     },
     {
       "album": {

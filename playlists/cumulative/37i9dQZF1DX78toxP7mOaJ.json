@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/55xWXid6e6N5XRNrMU6LT1"
+      },
+      "artists": [
+        {
+          "name": "Nick Cianci",
+          "url": "https://open.spotify.com/artist/01ZS9jjsggYfg27iw7AoDp"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188833,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/0dNFDH75xW54lBuBbS4T2L"
+    },
+    {
+      "album": {
         "name": "Get Some",
         "url": "https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp"
       },
@@ -59,6 +77,24 @@
       "duration_ms": 151893,
       "name": "Baby Let's Pretend",
       "url": "https://open.spotify.com/track/1BmaIHgkvLvZWv1kPmH0mb"
+    },
+    {
+      "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/297LFk57CvQWDlvHtejJ6c"
+      },
+      "artists": [
+        {
+          "name": "Highnoon",
+          "url": "https://open.spotify.com/artist/36PNM8tcDAb2jMdMWZjbAY"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212652,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/70raYgS4bSv4EhCc5pTOP1"
     },
     {
       "album": {
@@ -91,7 +127,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 179931,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/1BnwCJ1mDpeAQzExXoLQAu"
@@ -224,6 +260,24 @@
     },
     {
       "album": {
+        "name": "Broken Eyes",
+        "url": "https://open.spotify.com/album/2HT5u5GfMeGGd3weUVtcNz"
+      },
+      "artists": [
+        {
+          "name": "PLOSIVS",
+          "url": "https://open.spotify.com/artist/7AQiEpHW4PwI1sfH1moFsV"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268575,
+      "name": "Broken Eyes",
+      "url": "https://open.spotify.com/track/69SVFWDJ4VMToET92sbs0e"
+    },
+    {
+      "album": {
         "name": "Bunny",
         "url": "https://open.spotify.com/album/0GgApCnMHE5acVa8kunW2d"
       },
@@ -311,7 +365,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 183065,
       "name": "Coltrane",
       "url": "https://open.spotify.com/track/2ML36GkVssb1x7VLGWgUYo"
@@ -534,6 +588,24 @@
     },
     {
       "album": {
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/1WVpLeTbS3RBBh5aQjT5bI"
+      },
+      "artists": [
+        {
+          "name": "Rotten Mind",
+          "url": "https://open.spotify.com/artist/7o7zpXvp9gkBEEy67YkXvo"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214746,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/4uFObcsm7fZuH5aHarcfbr"
+    },
+    {
+      "album": {
         "name": "Drink Outside",
         "url": "https://open.spotify.com/album/2pawrUvSahix0FrJzTZVm0"
       },
@@ -563,7 +635,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 191433,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2Iq1RlidvXgu9fdOCEr2w3"
@@ -624,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Everything is Fine",
+        "url": "https://open.spotify.com/album/45eVM5D9PJULYNVXQ2HyXi"
+      },
+      "artists": [
+        {
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "Everything is Fine",
+      "url": "https://open.spotify.com/track/43qXpGfZOjHQakpPKfNz3u"
+    },
+    {
+      "album": {
         "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
         "url": "https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8"
       },
@@ -661,6 +751,24 @@
       "duration_ms": 246000,
       "name": "Failing Upwards",
       "url": "https://open.spotify.com/track/7CBlFXSvWAlxL0UDf8PbAE"
+    },
+    {
+      "album": {
+        "name": "Falling (OFF THE EDGE!)",
+        "url": "https://open.spotify.com/album/51fMuD33B6qGb8dvpAfHDH"
+      },
+      "artists": [
+        {
+          "name": "Cayo Coco",
+          "url": "https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203600,
+      "name": "Falling (OFF THE EDGE!)",
+      "url": "https://open.spotify.com/track/43pU0szehzJVA1Tq16vjbt"
     },
     {
       "album": {
@@ -855,7 +963,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 198671,
       "name": "Gum",
       "url": "https://open.spotify.com/track/0lyVppVVoinZxa3a6HpYhR"
@@ -949,6 +1057,24 @@
       "duration_ms": 198080,
       "name": "Hey Sis",
       "url": "https://open.spotify.com/track/18BngYNbP0xadmssigycDH"
+    },
+    {
+      "album": {
+        "name": "Hi-Vis Baby",
+        "url": "https://open.spotify.com/album/197H8piXXhPT867aEB2I4z"
+      },
+      "artists": [
+        {
+          "name": "Bakers Eddy",
+          "url": "https://open.spotify.com/artist/5jfNarQg6Z53zgEOzsDswD"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136766,
+      "name": "Hi-Vis Baby",
+      "url": "https://open.spotify.com/track/02vUBgTQYcwK9s7kM7zTm5"
     },
     {
       "album": {
@@ -1071,7 +1197,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 202397,
       "name": "I'm Going Wild!",
       "url": "https://open.spotify.com/track/5rkJXbeDMHVie22X01dUzs"
@@ -1093,6 +1219,24 @@
       "duration_ms": 208013,
       "name": "I'm So Bored",
       "url": "https://open.spotify.com/track/3FOxcASfGM5j68Op5I31d8"
+    },
+    {
+      "album": {
+        "name": "Archive Material",
+        "url": "https://open.spotify.com/album/2IJta9Ar8Qs4076PxXA1pi"
+      },
+      "artists": [
+        {
+          "name": "Silverbacks",
+          "url": "https://open.spotify.com/artist/4HrCsxMRWFsSi8Vf0qBjK4"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251428,
+      "name": "I'm Wild",
+      "url": "https://open.spotify.com/track/3ZJRb1bnrIfUZMGR5zlJIS"
     },
     {
       "album": {
@@ -1255,7 +1399,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 193000,
       "name": "It's Depression (feat. Middle Part)",
       "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
@@ -1363,7 +1507,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 218887,
       "name": "Low Era - Edit",
       "url": "https://open.spotify.com/track/5RuSAk0rjCUXmZPGDxZf0w"
@@ -1388,6 +1532,24 @@
     },
     {
       "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/4nCkdkjrhig2WRFWvNlgft"
+      },
+      "artists": [
+        {
+          "name": "Whitehall",
+          "url": "https://open.spotify.com/artist/7MJBivXsykJUNKMUKfKfgx"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/1o8liWcfNDWCQRrNXvUbPD"
+    },
+    {
+      "album": {
         "name": "Moving Car",
         "url": "https://open.spotify.com/album/6Y9KARTO9vqiLN1h55GuSy"
       },
@@ -1399,7 +1561,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 250013,
       "name": "Moving Car",
       "url": "https://open.spotify.com/track/2356QCE0gXy04RKzk1okTZ"
@@ -1471,7 +1633,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 172066,
       "name": "Oh Me Oh My",
       "url": "https://open.spotify.com/track/6Yehsi54qmCHOY3nSSHYWi"
@@ -1579,7 +1741,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 192320,
       "name": "Pink Slips",
       "url": "https://open.spotify.com/track/3YmZVcLHWCjMlHfLaM7nTf"
@@ -1716,6 +1878,24 @@
     },
     {
       "album": {
+        "name": "RECORD STORE",
+        "url": "https://open.spotify.com/album/3hTyvipfyAFbpNkAoU53mp"
+      },
+      "artists": [
+        {
+          "name": "Drens",
+          "url": "https://open.spotify.com/artist/3Q8NJFycXKD7l7TGADQuHw"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174182,
+      "name": "RECORD STORE",
+      "url": "https://open.spotify.com/track/2SoPlq2FLSG2ODFJVPoLzl"
+    },
+    {
+      "album": {
         "name": "tunes",
         "url": "https://open.spotify.com/album/2tjpOU5Zh0lOUoRC3JTfT4"
       },
@@ -1842,6 +2022,42 @@
     },
     {
       "album": {
+        "name": "Silver Behind The Mirror",
+        "url": "https://open.spotify.com/album/3K9uubCVpmsHGAIEV7Pe3N"
+      },
+      "artists": [
+        {
+          "name": "Pearly",
+          "url": "https://open.spotify.com/artist/3V3f373Its83Mz3h60Ut2h"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Silver Behind The Mirror",
+      "url": "https://open.spotify.com/track/2Pm0YKCzFZn4tvhz9AXZBK"
+    },
+    {
+      "album": {
+        "name": "Skin, It Itches",
+        "url": "https://open.spotify.com/album/1GIY54GWbymGXrOXucpDyV"
+      },
+      "artists": [
+        {
+          "name": "ME REX",
+          "url": "https://open.spotify.com/artist/4i3bRgGFFhxCNJg4xURPJm"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229253,
+      "name": "Skin, It Itches",
+      "url": "https://open.spotify.com/track/0qfPhfL4sbO1LMo1FpYg0Q"
+    },
+    {
+      "album": {
         "name": "Skinny Brittle Bones",
         "url": "https://open.spotify.com/album/2Vq4ccHKkOqcOTzYu3Jwji"
       },
@@ -1915,7 +2131,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 191518,
       "name": "Something Unspoken",
       "url": "https://open.spotify.com/track/7wHdG950FZvGmnGlZEVnTy"
@@ -1933,7 +2149,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 131196,
       "name": "Stretch",
       "url": "https://open.spotify.com/track/0acXuhdDyDzyiR021H8a45"
@@ -1951,7 +2167,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 148223,
       "name": "Summer Trip",
       "url": "https://open.spotify.com/track/55PmZueGDwk579eacYUygO"
@@ -2005,7 +2221,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 190530,
       "name": "Teal",
       "url": "https://open.spotify.com/track/18eWVQXDPnRghOmYWvoThV"
@@ -2027,6 +2243,24 @@
       "duration_ms": 224463,
       "name": "Ten Feet Tall",
       "url": "https://open.spotify.com/track/1Rpl7JQICcdSJaGRQbHhNc"
+    },
+    {
+      "album": {
+        "name": "The Rope",
+        "url": "https://open.spotify.com/album/29Mw3EwNTcmV3Qal8zYu0R"
+      },
+      "artists": [
+        {
+          "name": "Holm",
+          "url": "https://open.spotify.com/artist/5AiyVqvMHyMNysmAYdo7ZQ"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257329,
+      "name": "The Rope",
+      "url": "https://open.spotify.com/track/2Ht3pnf9pXehm0h8I1uqph"
     },
     {
       "album": {
@@ -2102,6 +2336,24 @@
     },
     {
       "album": {
+        "name": "POTSLOJO",
+        "url": "https://open.spotify.com/album/4WfGzVbKZvpTYTcDum9AP5"
+      },
+      "artists": [
+        {
+          "name": "Bad Sauna",
+          "url": "https://open.spotify.com/artist/2ZG33QoV5Nd96TA4RwEsZT"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348875,
+      "name": "V\u00e4sy",
+      "url": "https://open.spotify.com/track/3Uz45VSgceQTuwCHYKg4MH"
+    },
+    {
+      "album": {
         "name": "Wasted Time",
         "url": "https://open.spotify.com/album/4JCZrPxYPm3zuYlr5C3ykW"
       },
@@ -2131,10 +2383,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 146953,
       "name": "Week On Repeat",
       "url": "https://open.spotify.com/track/0yjLQat6i4CAGUIEf08ya5"
+    },
+    {
+      "album": {
+        "name": "What's On My Mind?",
+        "url": "https://open.spotify.com/album/2QX1SHSSzOKMMziWFzM4Jt"
+      },
+      "artists": [
+        {
+          "name": "Joshua Grant",
+          "url": "https://open.spotify.com/artist/1hBGtBGjmVvxqPUL7rrW7Y"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221402,
+      "name": "What's On My Mind?",
+      "url": "https://open.spotify.com/track/0ygPeXlJQsPcWXxFOlKaPg"
     },
     {
       "album": {
@@ -2265,7 +2535,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 181100,
       "name": "Ya est\u00e1",
       "url": "https://open.spotify.com/track/41xN0UCyKSPs4TI3h7x2S4"
@@ -2287,6 +2557,24 @@
       "duration_ms": 259626,
       "name": "You Work All Day And Then You Die",
       "url": "https://open.spotify.com/track/4dYFnwuetvtsFYpLCZIe4N"
+    },
+    {
+      "album": {
+        "name": "Little Green House",
+        "url": "https://open.spotify.com/album/0YCfpM119gohGGBYBLECfj"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137712,
+      "name": "Your One Way Street",
+      "url": "https://open.spotify.com/track/2qH4GHe610Fy5e8PTN7BRJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ"

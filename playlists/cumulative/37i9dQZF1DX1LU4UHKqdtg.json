@@ -66,6 +66,28 @@
     },
     {
       "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        },
+        {
+          "name": "LEON",
+          "url": "https://open.spotify.com/artist/7t9GOZGoeEdcwF5QlUyT9k"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196357,
+      "name": "AGAIN (feat. LEON)",
+      "url": "https://open.spotify.com/track/0RZPROOanNDDjfGktwqEgL"
+    },
+    {
+      "album": {
         "name": "OnlyOneOf JAPAN BEST ALBUM",
         "url": "https://open.spotify.com/album/3XZCzoFsBYFSGxW4Wil9GA"
       },

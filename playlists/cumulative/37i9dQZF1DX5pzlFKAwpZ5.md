@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5pzlFKAwpZ5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5pzlFKAwpZ5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5pzlFKAwpZ5)
 
-### Postcards From Japan
+### [Postcards From Japan](https://open.spotify.com/playlist/5Sx77Alf84KHgT12jt3i3T)
 
 > A celebration of contemporary Ambient music produced by Japanese artists.
 

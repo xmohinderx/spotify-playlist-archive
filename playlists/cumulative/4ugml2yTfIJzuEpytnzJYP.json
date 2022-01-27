@@ -150,6 +150,24 @@
     },
     {
       "album": {
+        "name": "E C L I P S E",
+        "url": "https://open.spotify.com/album/4VrYoXadX5jb0QyfQ4ox9p"
+      },
+      "artists": [
+        {
+          "name": "Elijah Nang",
+          "url": "https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235147,
+      "name": "E C L I P S E",
+      "url": "https://open.spotify.com/track/2xL5JtHtAwQGGpIGDsSNEO"
+    },
+    {
+      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/4qAZS4OJjzLZ7M7epC2SRk"
       },

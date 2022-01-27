@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Batbait, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Finn Ronsdorf, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 221704,
       "name": "25",
       "url": "https://open.spotify.com/track/6I5HZSpS2n8mf0zVJ2jc2w"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 394000,
       "name": "Baghira",
       "url": "https://open.spotify.com/track/4QuoelVf8l7Q9xMiu2f6SG"
@@ -156,6 +156,28 @@
     },
     {
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/4iQPVQWQ6KF0d7PdKLMw69"
+      },
+      "artists": [
+        {
+          "name": "Finn Ronsdorf",
+          "url": "https://open.spotify.com/artist/1UU94JMdToojxI5Tpqw8Wa"
+        },
+        {
+          "name": "Lisa Harres",
+          "url": "https://open.spotify.com/artist/6HHLb9HeGAK64JXTMok0CC"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176317,
+      "name": "Bloodline",
+      "url": "https://open.spotify.com/track/2Mq6hoYphVnjy4AjheTNOB"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/5GyuZwXkCnAUIuxiU31uZg"
       },
@@ -167,7 +189,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 286251,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0pBNoZYmAx4ri8PV3kQnT6"
@@ -229,6 +251,24 @@
       "duration_ms": 247956,
       "name": "Break",
       "url": "https://open.spotify.com/track/3hmTSKVaTsRTYOou3lXhEc"
+    },
+    {
+      "album": {
+        "name": "Can I Go Back",
+        "url": "https://open.spotify.com/album/71dGeJGluCU7VzGxO7hByp"
+      },
+      "artists": [
+        {
+          "name": "MOREA",
+          "url": "https://open.spotify.com/artist/71vEm5zDEAUJNjlShIT1sX"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241603,
+      "name": "Can I Go Back",
+      "url": "https://open.spotify.com/track/1Gy7444slrmcr7yGZOcMGM"
     },
     {
       "album": {
@@ -409,7 +449,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 282796,
       "name": "DPDR - Original",
       "url": "https://open.spotify.com/track/34IsVi429ivIXxKZ5Dq4cz"
@@ -445,7 +485,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 233696,
       "name": "Drowned Body",
       "url": "https://open.spotify.com/track/1wRVsJqak9oiPhhHWfcJKl"
@@ -463,7 +503,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 280056,
       "name": "Dysfunctioning",
       "url": "https://open.spotify.com/track/79I5wRm6GBd8wQXHdTm4Ua"
@@ -658,6 +698,24 @@
     },
     {
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/5GkyiMLuWxOh9ovv6O3qVP"
+      },
+      "artists": [
+        {
+          "name": "Fernweher",
+          "url": "https://open.spotify.com/artist/2EWhtiZxOIEBlPp0r0Wxme"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181941,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/7pfNckwkJxO7Leu7zHSPoA"
+    },
+    {
+      "album": {
         "name": "Gun to My Head",
         "url": "https://open.spotify.com/album/2xu9hkVRrBokElF9odTrlh"
       },
@@ -723,10 +781,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 177989,
       "name": "Haut an Haut",
       "url": "https://open.spotify.com/track/43npphURzkZ9nwXcV0EoLN"
+    },
+    {
+      "album": {
+        "name": "Heatwaves",
+        "url": "https://open.spotify.com/album/68D8P38DgAG8JxgrQNyukI"
+      },
+      "artists": [
+        {
+          "name": "King Pigeon",
+          "url": "https://open.spotify.com/artist/4hP2RPQSRdJe3GBQGexJBj"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239293,
+      "name": "Heatwaves",
+      "url": "https://open.spotify.com/track/7H47hCbksZASXp2VjXTgr5"
     },
     {
       "album": {
@@ -741,7 +817,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 235085,
       "name": "Hologram",
       "url": "https://open.spotify.com/track/3QUiaFjKkp3EkCuJ7pa1PX"
@@ -817,6 +893,24 @@
       "duration_ms": 238437,
       "name": "How Come No One Told Me",
       "url": "https://open.spotify.com/track/1tyV88FBoHbldJ74ZLB4Yv"
+    },
+    {
+      "album": {
+        "name": "how to hide",
+        "url": "https://open.spotify.com/album/3Y1neiDH824YdQDWu0E5Wi"
+      },
+      "artists": [
+        {
+          "name": "doppelfinger",
+          "url": "https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243414,
+      "name": "how to hide",
+      "url": "https://open.spotify.com/track/1MA556XdnK94fPiWKpgfvD"
     },
     {
       "album": {
@@ -1112,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "Labels",
+        "url": "https://open.spotify.com/album/6pfSB2fbJRivRCLJKAyK0V"
+      },
+      "artists": [
+        {
+          "name": "neji.mp3",
+          "url": "https://open.spotify.com/artist/2rFHqnk7YxBSaFKCiNt6b8"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106849,
+      "name": "Labels",
+      "url": "https://open.spotify.com/track/335dWnxWmadMNh5245heUY"
+    },
+    {
+      "album": {
         "name": "Lass los",
         "url": "https://open.spotify.com/album/4olvFq7e2GBc9TooavfoPi"
       },
@@ -1177,7 +1289,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 254842,
       "name": "Lonely Garden",
       "url": "https://open.spotify.com/track/0IJpqvv7ItoJynsR7lcnxp"
@@ -1195,7 +1307,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 281531,
       "name": "Lotus Bass",
       "url": "https://open.spotify.com/track/6HZ2zvOAWZGhp9tT8CxPz4"
@@ -1217,6 +1329,24 @@
       "duration_ms": 321693,
       "name": "Magic Man",
       "url": "https://open.spotify.com/track/18H0rgW6T6Y9X21CgZKhfi"
+    },
+    {
+      "album": {
+        "name": "make you feel",
+        "url": "https://open.spotify.com/album/33uld99180XHljxAhQiPNs"
+      },
+      "artists": [
+        {
+          "name": "palffi",
+          "url": "https://open.spotify.com/artist/4htu2hjJJSAVQ8lRpZ07PC"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210719,
+      "name": "make you feel",
+      "url": "https://open.spotify.com/track/7tltcvB3SJcvxq7VCMMmp4"
     },
     {
       "album": {
@@ -1253,6 +1383,24 @@
       "duration_ms": 246000,
       "name": "Modern Justice",
       "url": "https://open.spotify.com/track/17q4P1AK0Q4VY6O4sagoEC"
+    },
+    {
+      "album": {
+        "name": "Molotov",
+        "url": "https://open.spotify.com/album/5keRcVDlpPHHa2pUNvGqiv"
+      },
+      "artists": [
+        {
+          "name": "benzii",
+          "url": "https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179124,
+      "name": "Molotov",
+      "url": "https://open.spotify.com/track/7L9Fq96bloKKmU4FwLkpXp"
     },
     {
       "album": {
@@ -1332,6 +1480,24 @@
     },
     {
       "album": {
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/3zjOqSCDrybXnlsaFxYo72"
+      },
+      "artists": [
+        {
+          "name": "Borninmay",
+          "url": "https://open.spotify.com/artist/27ZoinxKhP7cp7dyluFOLm"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202553,
+      "name": "Moving Away",
+      "url": "https://open.spotify.com/track/60T8WxijsBXKLrEv4xbXsS"
+    },
+    {
+      "album": {
         "name": "No Other Drug",
         "url": "https://open.spotify.com/album/6sW7HhDicwFqcBAXllA4Hu"
       },
@@ -1383,6 +1549,24 @@
       "duration_ms": 216838,
       "name": "Potion",
       "url": "https://open.spotify.com/track/39JouMyyZtTXYuuOFRPj2r"
+    },
+    {
+      "album": {
+        "name": "Pull up Flex",
+        "url": "https://open.spotify.com/album/0yBeYMbAXS9oFDsbMFT3FM"
+      },
+      "artists": [
+        {
+          "name": "Zs\u00e1 Zs\u00e1",
+          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171155,
+      "name": "Pull Up Flex",
+      "url": "https://open.spotify.com/track/5unI1BEFCZkXp4UV34xTQB"
     },
     {
       "album": {
@@ -1440,6 +1624,24 @@
     },
     {
       "album": {
+        "name": "Rainy Days",
+        "url": "https://open.spotify.com/album/1r9ZO03c5YOp2MMdFgTiWd"
+      },
+      "artists": [
+        {
+          "name": "Lost in Lona",
+          "url": "https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259450,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/2AIG6k17mU7ov6RX3Qoui5"
+    },
+    {
+      "album": {
         "name": "Randomness",
         "url": "https://open.spotify.com/album/3iaOpaP0VB2jwc7GVM3ohO"
       },
@@ -1451,7 +1653,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 139720,
       "name": "Randomness",
       "url": "https://open.spotify.com/track/5XJU7SbMCHCcH9JOs26MDh"
@@ -1523,7 +1725,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 168750,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/4pRCVprlg9ZuvBigqnSLOd"
@@ -1686,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "The Morning",
+        "url": "https://open.spotify.com/album/4O7NymFfO9m9zFIyuBIzEU"
+      },
+      "artists": [
+        {
+          "name": "still sane",
+          "url": "https://open.spotify.com/artist/6qUErrwMeC3h50gxVYxrJC"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216158,
+      "name": "The Morning",
+      "url": "https://open.spotify.com/track/49HG7DYVGSw6Jw9qT3xnfk"
+    },
+    {
+      "album": {
         "name": "The Weatherman",
         "url": "https://open.spotify.com/album/7mrpT7LGdiABOJ56j35G3y"
       },
@@ -1751,7 +1971,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 182074,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/2291k2jz6SgTwe6WLZ85fx"
@@ -1791,6 +2011,24 @@
       "duration_ms": 179718,
       "name": "We Didn't Fit Together At All",
       "url": "https://open.spotify.com/track/6051tQ7EVkAuRshp4le6Tf"
+    },
+    {
+      "album": {
+        "name": "Wenn du da bist",
+        "url": "https://open.spotify.com/album/65InWclzKGgQb4VG9pkeem"
+      },
+      "artists": [
+        {
+          "name": "TEMMIS",
+          "url": "https://open.spotify.com/artist/0zJI6wuVa9gi4ir8zlU6Km"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219971,
+      "name": "Wenn du da bist",
+      "url": "https://open.spotify.com/track/0x13yawpacOhIdMytrL6Qy"
     },
     {
       "album": {

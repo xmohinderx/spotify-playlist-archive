@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-25",
   "description": "The hits you know like you\u2019ve never heard before.  Cover: The Kid LAROI, Demi Lovato and Niall Horan",
   "name": "Spotify Singles: Hits",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4vwHHoNBJiy53B2sRKKvPz"
+  ],
   "tracks": [
     {
       "album": {
@@ -453,7 +455,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 204255,
       "name": "cool girl - Recorded at Spotify Studios, NYC / 2016",
       "url": "https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ"
@@ -515,7 +517,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 187213,
       "name": "Dab of Ranch - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3lNfezSWDZIdt6XMwyNCJi"
@@ -667,6 +669,24 @@
     {
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1rtDBUaEYqsCu2qIQGfbvI"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279232,
+      "name": "Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5IwiZFGqfB1Mxw4a7svjw7"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5n4jQZpHLAWOVccZKttKSD"
       },
       "artists": [
@@ -725,7 +745,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 337837,
       "name": "Everything Now - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"

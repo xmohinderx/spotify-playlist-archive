@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > the best of what landed on planet misfits in 2021\. Cover: Ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,111 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,303 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 3 | [4ÆM](https://open.spotify.com/track/3ffanCUFD0osXTvEghxZR9) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Rave Edition\)](https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0) | 4:30 |
 | 4 | [DAYWALKER! \(feat\. CORPSE\)](https://open.spotify.com/track/2NnJpRXIlx35Vij3bPZO0h) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DAYWALKER! \(feat\. CORPSE\)](https://open.spotify.com/album/2y8j3djW8ZswvAbEcPBBti) | 2:17 |
 | 5 | [These Days R Mine](https://open.spotify.com/track/42WeNaMfqmoMW5BZR43v1z) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [These Days R Mine](https://open.spotify.com/album/2vkVLUruMBiiwHNv9bATTB) | 3:28 |
-| 6 | [Can You Feel My Heart \(Mothica Version\)](https://open.spotify.com/track/4PoTKtefWp8pGfiORslXxF) | [Mothica](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Can You Feel My Heart \(Mothica Version\)](https://open.spotify.com/album/6PKHmeUIYKkNNQ6D14gqgq) | 2:21 |
+| 6 | [Can You Feel My Heart \(Mothica Version\)](https://open.spotify.com/track/4PoTKtefWp8pGfiORslXxF) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Can You Feel My Heart \(Mothica Version\)](https://open.spotify.com/album/6PKHmeUIYKkNNQ6D14gqgq) | 2:21 |
 | 7 | [One Step Closer \- 100 gecs Reanimation](https://open.spotify.com/track/4jM6Tl8062cc9gTJgTZTpx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [One Step Closer \(100 gecs Reanimation\)](https://open.spotify.com/album/0kJJubTbpBWH9dwHmRl4qR) | 2:21 |
 | 8 | [SugarCrash! \(feat\. Kim Petras & Curtis Waters\)](https://open.spotify.com/track/6wGOOMMVgaT9LEi2y9jeq1) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [SugarCrash! \(feat\. Kim Petras & Curtis Waters\)](https://open.spotify.com/album/090OCbV4MnPE2OPapkj7ZB) | 2:32 |
 | 9 | [inside of heaven's mouth, there is a sweet tooth//](https://open.spotify.com/track/5pC6gP878cBc00t2QfQ6Xl) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 2:11 |

@@ -487,7 +487,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 188237,
       "name": "Don't Look At Me",
       "url": "https://open.spotify.com/track/5hQZDntIU1PbXhmH94kZoM"
@@ -509,6 +509,24 @@
       "duration_ms": 222093,
       "name": "Drown",
       "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
+    },
+    {
+      "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161592,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
     },
     {
       "album": {
@@ -1285,7 +1303,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 252933,
       "name": "Pink Lemonade",
       "url": "https://open.spotify.com/track/6LzsmlN5UbCYytaaKZueRH"
@@ -1463,7 +1481,7 @@
           "url": "https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ"
         },
         {
-          "name": "Tomas Ferdinand",
+          "name": "Ferdinand",
           "url": "https://open.spotify.com/artist/01b3oz8hzqtQ3yu1PNDV0Q"
         }
       ],
@@ -1779,6 +1797,24 @@
       "duration_ms": 199146,
       "name": "Who Needs You",
       "url": "https://open.spotify.com/track/2x4F1O1fGO6yj860N2Or0N"
+    },
+    {
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
     },
     {
       "album": {

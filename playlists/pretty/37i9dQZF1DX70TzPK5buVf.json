@@ -1,13 +1,29 @@
 {
   "description": "Funk to these good ol' funky soul classics!",
-  "num_followers": 724829,
+  "num_followers": 725025,
   "original_name": "Funk Outta Here",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNjk3MzkyMywwMDAwMDAzZDAwMDAwMTdkMjMzZmNlODcwMDAwMDE2ZDAwYmY5ZTll",
+  "snapshot_id": "MTY0MzE4NTEwNSwwMDAwMDAzZTAwMDAwMTdlOTU3NmViOGEwMDAwMDE2ZDAwYmY5ZTll",
   "tracks": [
+    {
+      "added_at": "2020-05-08 09:11:07",
+      "album": {
+        "name": "Kool & The Gang - Collected",
+        "url": "https://open.spotify.com/album/4wWEDdybB2Wic6pk31fNE4"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 211680,
+      "name": "Get Down On It - Single Version",
+      "url": "https://open.spotify.com/track/4gu0AQJevmk5noyD2pr2Zh"
+    },
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
@@ -27,18 +43,18 @@
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
-        "name": "Kool & The Gang - Collected",
-        "url": "https://open.spotify.com/album/4wWEDdybB2Wic6pk31fNE4"
+        "name": "Cold Sweat & Other Soul Classics: James Brown",
+        "url": "https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
         }
       ],
-      "duration_ms": 211680,
-      "name": "Get Down On It - Single Version",
-      "url": "https://open.spotify.com/track/4gu0AQJevmk5noyD2pr2Zh"
+      "duration_ms": 250386,
+      "name": "Get Up Offa That Thing",
+      "url": "https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv"
     },
     {
       "added_at": "2020-05-08 09:11:07",
@@ -87,22 +103,6 @@
       "duration_ms": 255133,
       "name": "Got To Give It Up - Pt. 1",
       "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
-    },
-    {
-      "added_at": "2020-05-08 09:11:07",
-      "album": {
-        "name": "Cold Sweat & Other Soul Classics: James Brown",
-        "url": "https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Get Up Offa That Thing",
-      "url": "https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv"
     },
     {
       "added_at": "2020-05-08 09:11:07",
@@ -251,6 +251,22 @@
     {
       "added_at": "2020-05-08 09:11:07",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "If You Want Me to Stay",
+      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
+    },
+    {
+      "added_at": "2020-05-08 09:11:07",
+      "album": {
         "name": "I Am",
         "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 142773,
       "name": "Soul Finger",
       "url": "https://open.spotify.com/track/085diW9d1iWe9qeNQiDYOw"
-    },
-    {
-      "added_at": "2020-05-08 09:11:07",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/5Mtnj5JyvyXR6ui377dBnD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "If You Want Me to Stay",
-      "url": "https://open.spotify.com/track/2BydLQAh7CUIFvSEqAMc4x"
     },
     {
       "added_at": "2020-05-08 09:11:07",

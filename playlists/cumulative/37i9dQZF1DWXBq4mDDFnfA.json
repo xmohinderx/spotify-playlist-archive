@@ -96,6 +96,28 @@
     },
     {
       "album": {
+        "name": "En Otra Parte",
+        "url": "https://open.spotify.com/album/3TRN62RoTGNXKtKEu2JvxW"
+      },
+      "artists": [
+        {
+          "name": "Leo Brouwer",
+          "url": "https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0"
+        },
+        {
+          "name": "Zs\u00f3fia Boros",
+          "url": "https://open.spotify.com/artist/6T9wLNtkKE8Z5GusLK6v9c"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158520,
+      "name": "An Idea",
+      "url": "https://open.spotify.com/track/1PINN6x0Riouab3wPSglpp"
+    },
+    {
+      "album": {
         "name": "Bach Concertos",
         "url": "https://open.spotify.com/album/61b2J7MNTyjenILRadtoK0"
       },

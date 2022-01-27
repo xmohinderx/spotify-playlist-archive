@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [25 Years](https://open.spotify.com/track/277WR3fUAz1T1QNkede17l) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Music From The Netflix Film\)](https://open.spotify.com/album/2OJB0s2qrMpoKFNGFIunHi) | 2:17 | 2021-12-20 |  |
+| [25 Years](https://open.spotify.com/track/277WR3fUAz1T1QNkede17l) | [Jonny Greenwood](https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU) | [The Power Of The Dog \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/2OJB0s2qrMpoKFNGFIunHi) | 2:17 | 2021-12-20 |  |
 | [Abre Los Ojos](https://open.spotify.com/track/06H5BeXjWXqjslelYiLuB7) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:16 | 2022-01-07 |  |
 | [Antiphon](https://open.spotify.com/track/7Hhq3Ejf01wyOMjuKRrRR7) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [The King \(Original Score from the Netflix Film\)](https://open.spotify.com/album/1JwpzZlvXcne1s9SNXhiEW) | 2:16 | 2021-12-20 |  |
 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 | 2021-12-20 |  |

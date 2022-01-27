@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2021% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,254 likes - 21 songs - 1 hr 14 min
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,253 likes - 21 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 3 | [Crying On The Inside](https://open.spotify.com/track/0gGL5rT5aBAugrveEJzKN1) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Crying On The Inside](https://open.spotify.com/album/6KOcqn3pos3Vf5HC5gtpDa) | 3:27 |
 | 4 | [redruM](https://open.spotify.com/track/0pnG6sIThf9kp9ebTqn44L) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [redruM](https://open.spotify.com/album/3sIQjig3kXpArR2S0nJ77P) | 2:52 |
 | 5 | [20 Minutes](https://open.spotify.com/track/6HBgpseuFcM4dN61oixgt2) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(New Year's Edition\)](https://open.spotify.com/album/4ANoIvV1JMAne7lFSExMI0) | 2:59 |
-| 6 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 |
+| 6 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/23SOvueHCnImFcoym7pqEd), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 |
 | 7 | [A Temporary High](https://open.spotify.com/track/0xTZXhs3eVb48PQNywMCdH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY) | 3:23 |
 | 8 | [Cherry](https://open.spotify.com/track/6jkSYBuGuGoMQeeamNqHYH) | [Blithe](https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4) | [Cherry](https://open.spotify.com/album/4AxQWjqAc5Up0cmHJEvztk) | 2:53 |
 | 9 | [Home](https://open.spotify.com/track/356v24OLdS8XrMrb6EH9ZS) | [MR WA7T](https://open.spotify.com/artist/6KExhy91HNcSCbK6Hfy8GR) | [Home](https://open.spotify.com/album/1bX7oU5pTHNbARrSIdfI9u) | 4:47 |

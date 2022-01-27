@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Siiickbrain
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,078 likes - 134 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,213 likes - 134 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 117 | [Difficult](https://open.spotify.com/track/7rY8Iw9HQtmLMDVe6wQ4f3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Difficult](https://open.spotify.com/album/4flPdmSeK3DAaiSduOVd2q) | 3:20 |
 | 118 | [Pretty Waste](https://open.spotify.com/track/1j6XqVdSE5KlgfOxfXwiGX) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Bones UK](https://open.spotify.com/album/3oGWjFc2ol3g4iIiCAXav3) | 2:50 |
 | 119 | [Running Up That Hill](https://open.spotify.com/track/7zLeOgBrdrCfMf47MCyLMC) | [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running Up That Hill](https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq) | 4:23 |
-| 120 | [Can You Feel My Heart \(Mothica Version\)](https://open.spotify.com/track/4PoTKtefWp8pGfiORslXxF) | [Mothica](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Can You Feel My Heart \(Mothica Version\)](https://open.spotify.com/album/6PKHmeUIYKkNNQ6D14gqgq) | 2:21 |
+| 120 | [Can You Feel My Heart \(Mothica Version\)](https://open.spotify.com/track/4PoTKtefWp8pGfiORslXxF) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Can You Feel My Heart \(Mothica Version\)](https://open.spotify.com/album/6PKHmeUIYKkNNQ6D14gqgq) | 2:21 |
 | 121 | [Love Me or Hate Me](https://open.spotify.com/track/4GRefOK1YJuoy8yB77FnNK) | [Kelsy Karter](https://open.spotify.com/artist/2mAAO54PkHr3NjdlRpzEDl) | [Missing Person](https://open.spotify.com/album/4dDRscWeWjAJ4WtlcsRDEW) | 3:16 |
 | 122 | [Messed Up](https://open.spotify.com/track/51EU0HEsjbN3YudW5oPj08) | [KIITA](https://open.spotify.com/artist/1Z1d9w6X8vxMyZvM19a7vy) | [Messed Up](https://open.spotify.com/album/314gXwQOtMHSVDRzz6Jq43) | 2:54 |
 | 123 | [Major System Error](https://open.spotify.com/track/3AXMbxZDGr3YQEdDBDbo2P) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [Major System Error](https://open.spotify.com/album/5JXEZL6KRFHj64CpkUo4Mi) | 3:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346 likes - 215 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 347 likes - 215 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 12 | [Wake Up](https://open.spotify.com/track/10reYnBP6UTLlOUUEUZgfv) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [An Unwavering Band of Light](https://open.spotify.com/album/3GyW6N5qgbZK33tUOaZT3N) | 5:34 |
 | 13 | [Miss America](https://open.spotify.com/track/6U9TWGNjqChbMr8AVdcVU1) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [It Doesn't Have To Make Sense](https://open.spotify.com/album/7CboNMoh7xPzZnL1rprGLV) | 3:32 |
 | 14 | [You Burned Me](https://open.spotify.com/track/3ZBjBPsNvhglZw7hvoDK3H) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [You Burned Me](https://open.spotify.com/album/5hOvrRD2ChNtDcYjIFCtJo) | 3:41 |
-| 15 | [Golden Coast](https://open.spotify.com/track/3XqQ76fVSGhb5dqYsRWIj4) | [Allison Weiss](https://open.spotify.com/artist/4IGwzLIakiiU6szUIAodkI) | [New Love](https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F) | 3:33 |
-| 16 | [Like We Used to Be](https://open.spotify.com/track/0xJGjBXbXnvek8nzdF3Sgg) | [Dylan Gardner](https://open.spotify.com/artist/12Na60zr4c70kpEDMLICoh) | [Like We Used to Be](https://open.spotify.com/album/2xo8G0pjuExjhWMKY3Omt7) | 4:23 |
+| 15 | [Like We Used to Be](https://open.spotify.com/track/0xJGjBXbXnvek8nzdF3Sgg) | [Dylan Gardner](https://open.spotify.com/artist/12Na60zr4c70kpEDMLICoh) | [Like We Used to Be](https://open.spotify.com/album/2xo8G0pjuExjhWMKY3Omt7) | 4:23 |
+| 16 | [Golden Coast](https://open.spotify.com/track/3XqQ76fVSGhb5dqYsRWIj4) | [Allison Weiss](https://open.spotify.com/artist/4IGwzLIakiiU6szUIAodkI) | [New Love](https://open.spotify.com/album/2bIKkEAFeiVY66QcOt6E7F) | 3:33 |
 | 17 | [Tell Me](https://open.spotify.com/track/4idB0v45onZipVsuVPmNYF) | [Rich Edwards](https://open.spotify.com/artist/79v9Al6rSVH9SFk0QzzOl1), [Taheran](https://open.spotify.com/artist/5Nj8N6JiueW73lkLkv6TL6) | [Tell Me](https://open.spotify.com/album/28DeHdZUufPBbd7v6hpOG3) | 3:24 |
 | 18 | [ghost](https://open.spotify.com/track/6v4qTiWdbVtcmyvuEj7Pjr) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [ghost](https://open.spotify.com/album/21dohvigVSO4quwWu1nOrL) | 3:10 |
 | 19 | [Vampire Weeknight](https://open.spotify.com/track/66Gb0htEqvX96bR2TEXU89) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Night Shift \(Extended Edition\)](https://open.spotify.com/album/68KgywE487zDBLlFQZdH0W) | 3:24 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCxRaSiD7V2s.md) - [plain]
 | 214 | [Patriarchy Reimagined](https://open.spotify.com/track/3Tlq3AOodvVeH7Byn92Z9g) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:21 |
 | 215 | [Gaby's Ballet](https://open.spotify.com/track/1ixFhUXlqVvfftRnh9WZlq) | [Buffering the Vampire Slayer](https://open.spotify.com/artist/5GJjp29qnXNeUVPZZpuacy) | [Once More With Once More, With Feeling](https://open.spotify.com/album/5H8RpSJqEcZxFz2FRhBrTQ) | 0:23 |
 
-Snapshot ID: `MjczODU5NjEsMDAwMDAwMDAxMGVjZmQyMGNhYTg5ZjFmMWViN2UxZWNhYjA4ZGQ4NA==`
+Snapshot ID: `MjczODc0MDUsMDAwMDAwMDA3ZDA2YjU1NDk4ZWU3YmI0ZWRhNzgyYmQ2MDkyZTg5Mw==`

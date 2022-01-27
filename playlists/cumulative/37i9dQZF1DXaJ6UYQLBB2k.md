@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaJ6UYQLBB2k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaJ6UYQLBB2k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaJ6UYQLBB2k)
 
-### Ambient 1990s
+### [Ambient 1990s](https://open.spotify.com/playlist/099b4qP987Avm2d4iVZhyZ)
 
 > Re\-live the glory of Ambient from the 1990s.
 

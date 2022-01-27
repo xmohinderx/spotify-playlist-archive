@@ -1,13 +1,77 @@
 {
   "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Saucy Santana, Artwork: Alfie Kungu\n",
-  "num_followers": 169211,
+  "num_followers": 169500,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjYyMjc1NywwMDAwMDBmNDAwMDAwMTdlNzNmMjJiMWEwMDAwMDE3ZTU0NzhhYjAw",
+  "snapshot_id": "MTY0MzIyMzE2MiwwMDAwMDBmNTAwMDAwMTdlOTdiYjlkMzMwMDAwMDE3ZTU0NzhhYjAw",
   "tracks": [
+    {
+      "added_at": "2022-01-26 18:52:41",
+      "album": {
+        "name": "BSG",
+        "url": "https://open.spotify.com/album/0TI6jFxQXiuspIZuoB6dF3"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "duration_ms": 220392,
+      "name": "Main Line",
+      "url": "https://open.spotify.com/track/28tm5peRtid0jX6eYqGstU"
+    },
+    {
+      "added_at": "2022-01-26 18:52:41",
+      "album": {
+        "name": "Hit My Cup",
+        "url": "https://open.spotify.com/album/2hsNGSCaN95O4IOtQBc0vC"
+      },
+      "artists": [
+        {
+          "name": "Dc2trill",
+          "url": "https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI"
+        }
+      ],
+      "duration_ms": 129048,
+      "name": "Hit My Cup",
+      "url": "https://open.spotify.com/track/5M2Y4A2VH3cqO60dUbt2TW"
+    },
+    {
+      "added_at": "2022-01-26 18:52:41",
+      "album": {
+        "name": "4EVER BASED",
+        "url": "https://open.spotify.com/album/4W0t93Swtp655HfqSDvPFH"
+      },
+      "artists": [
+        {
+          "name": "Nueve Lio",
+          "url": "https://open.spotify.com/artist/7cKm260VTIxmFu0I202kFI"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "GENTLE",
+      "url": "https://open.spotify.com/track/6Pqsbue8zxhzKKf0YSiLqa"
+    },
+    {
+      "added_at": "2022-01-19 17:00:00",
+      "album": {
+        "name": "Rock Wit Proph",
+        "url": "https://open.spotify.com/album/2MzJhr9etdHt3IEGvCLZoN"
+      },
+      "artists": [
+        {
+          "name": "Prophet the Artist",
+          "url": "https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU"
+        }
+      ],
+      "duration_ms": 165485,
+      "name": "Rock Wit Proph",
+      "url": "https://open.spotify.com/track/6c6WMifL0O4QXMTQOhbB9M"
+    },
     {
       "added_at": "2022-01-19 17:00:00",
       "album": {
@@ -79,54 +143,6 @@
     {
       "added_at": "2022-01-19 17:00:00",
       "album": {
-        "name": "Eating",
-        "url": "https://open.spotify.com/album/7Mh1MvLa9QJDU7LNkWyUjE"
-      },
-      "artists": [
-        {
-          "name": "Scuti",
-          "url": "https://open.spotify.com/artist/0U22PYRY87xqfpBJgRt4US"
-        }
-      ],
-      "duration_ms": 193781,
-      "name": "Eating",
-      "url": "https://open.spotify.com/track/4t3D7cnJSd0geNiVxDgEWa"
-    },
-    {
-      "added_at": "2022-01-19 17:00:00",
-      "album": {
-        "name": "Lady Like: The Boss Tape",
-        "url": "https://open.spotify.com/album/3QsiSeO318FV6MRFIItvQj"
-      },
-      "artists": [
-        {
-          "name": "Lady London",
-          "url": "https://open.spotify.com/artist/44qqbgojo0P8r68CuRbSN4"
-        }
-      ],
-      "duration_ms": 190154,
-      "name": "Lady What, Lady Who?",
-      "url": "https://open.spotify.com/track/2xmlUMn5wqH3vnVFx2goIU"
-    },
-    {
-      "added_at": "2022-01-19 17:00:00",
-      "album": {
-        "name": "Rock Wit Proph",
-        "url": "https://open.spotify.com/album/2MzJhr9etdHt3IEGvCLZoN"
-      },
-      "artists": [
-        {
-          "name": "Prophet the Artist",
-          "url": "https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU"
-        }
-      ],
-      "duration_ms": 165485,
-      "name": "Rock Wit Proph",
-      "url": "https://open.spotify.com/track/6c6WMifL0O4QXMTQOhbB9M"
-    },
-    {
-      "added_at": "2022-01-19 17:00:00",
-      "album": {
         "name": "Flatline",
         "url": "https://open.spotify.com/album/4GHaZOBCcVZbzUlyqngiF9"
       },
@@ -179,26 +195,6 @@
     {
       "added_at": "2022-01-19 17:00:00",
       "album": {
-        "name": "Hurricane Season: The Calm Before The Storm (Deluxe)",
-        "url": "https://open.spotify.com/album/6kkNw3XM9nguxEhnqhOSud"
-      },
-      "artists": [
-        {
-          "name": "Hurricane Wisdom",
-          "url": "https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7"
-        },
-        {
-          "name": "T9ine",
-          "url": "https://open.spotify.com/artist/52gt8ml8WfLe2AVJurLrCX"
-        }
-      ],
-      "duration_ms": 168431,
-      "name": "No Favors (feat. T9ine)",
-      "url": "https://open.spotify.com/track/3dK8Q0Fl1ETHRueC2FMl9H"
-    },
-    {
-      "added_at": "2022-01-19 17:00:00",
-      "album": {
         "name": "Personal",
         "url": "https://open.spotify.com/album/2NQWkiIPcvCG9ykCPuTdc7"
       },
@@ -233,20 +229,168 @@
       "url": "https://open.spotify.com/track/3hsgjTcnTWDJ61D1ttCJnY"
     },
     {
-      "added_at": "2022-01-13 17:26:11",
+      "added_at": "2022-01-26 18:52:41",
       "album": {
-        "name": "Talkin Like",
-        "url": "https://open.spotify.com/album/2TcwUosUrtDDQHi50Z1PCU"
+        "name": "okay okay",
+        "url": "https://open.spotify.com/album/7xTfWn46bSnJml91YeZU57"
       },
       "artists": [
         {
-          "name": "Kevin Powers",
-          "url": "https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s"
+          "name": "Pertinence",
+          "url": "https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N"
         }
       ],
-      "duration_ms": 154823,
-      "name": "Talkin Like",
-      "url": "https://open.spotify.com/track/6atDGm94dfeC7qwmL3TFoq"
+      "duration_ms": 181687,
+      "name": "okay okay",
+      "url": "https://open.spotify.com/track/5cUqAcXOXUBAIak03DlsTh"
+    },
+    {
+      "added_at": "2022-01-26 18:52:41",
+      "album": {
+        "name": "NEW WAVE",
+        "url": "https://open.spotify.com/album/2WWqz116cmtzMlunzV1obY"
+      },
+      "artists": [
+        {
+          "name": "RM Hari",
+          "url": "https://open.spotify.com/artist/1hX8l3YJLBawmmW4sWBTys"
+        },
+        {
+          "name": "Mckvicous",
+          "url": "https://open.spotify.com/artist/3LmpBDdrBom6TKWedUMayB"
+        }
+      ],
+      "duration_ms": 172652,
+      "name": "Moody",
+      "url": "https://open.spotify.com/track/2fH6ZNO9K9xFTNf6acL9VJ"
+    },
+    {
+      "added_at": "2022-01-26 18:52:41",
+      "album": {
+        "name": "Not Beggin'",
+        "url": "https://open.spotify.com/album/0rqoxJttED1SbnAf1O99j6"
+      },
+      "artists": [
+        {
+          "name": "Xheffie",
+          "url": "https://open.spotify.com/artist/6g16PH8LU1yiOz5hX0cBfy"
+        }
+      ],
+      "duration_ms": 159477,
+      "name": "Not Beggin'",
+      "url": "https://open.spotify.com/track/3z9c5sea77KDkSabTU2M33"
+    },
+    {
+      "added_at": "2022-01-26 18:52:41",
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/7qxHb97YNDItJyPuK2QlPu"
+      },
+      "artists": [
+        {
+          "name": "Ytn Paco",
+          "url": "https://open.spotify.com/artist/11GwkOrhCgJpuMnNR2HDhL"
+        },
+        {
+          "name": "ytnSL",
+          "url": "https://open.spotify.com/artist/0lZQOgfwRLpHQReSVxjyh2"
+        }
+      ],
+      "duration_ms": 139363,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/3AZPoZUgcdTuWYWI7GJ7N0"
+    },
+    {
+      "added_at": "2022-01-26 18:52:41",
+      "album": {
+        "name": "What It's Like To Be Human",
+        "url": "https://open.spotify.com/album/6uRMYXiUQBwxdYEZsp8jiM"
+      },
+      "artists": [
+        {
+          "name": "Sherif",
+          "url": "https://open.spotify.com/artist/3VjZTzphMAuSYIb9llQOGS"
+        },
+        {
+          "name": "Choirmaster",
+          "url": "https://open.spotify.com/artist/11GtpydBaI3xMFisPuwxiC"
+        }
+      ],
+      "duration_ms": 210347,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/6n6ry36TmKpr19eMMULsVT"
+    },
+    {
+      "added_at": "2022-01-26 18:52:41",
+      "album": {
+        "name": "WHAT HAPP3N3D?",
+        "url": "https://open.spotify.com/album/2N4GAxL90pidCic8xIUN5P"
+      },
+      "artists": [
+        {
+          "name": "DAMAG3",
+          "url": "https://open.spotify.com/artist/0xIT8X4ltWYOTHXJ2hm6vn"
+        },
+        {
+          "name": "Pertinence",
+          "url": "https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N"
+        }
+      ],
+      "duration_ms": 235543,
+      "name": "WHAT HAPP3N3D?",
+      "url": "https://open.spotify.com/track/2liJBTiP3RJofHl7wTm9gv"
+    },
+    {
+      "added_at": "2022-01-26 18:52:41",
+      "album": {
+        "name": "Winter Baby",
+        "url": "https://open.spotify.com/album/3wScuUYaT2EfeZpTDOlefy"
+      },
+      "artists": [
+        {
+          "name": "Franchize",
+          "url": "https://open.spotify.com/artist/5kVuxWc0beQxt41B7h3AY0"
+        },
+        {
+          "name": "Ytn Paco",
+          "url": "https://open.spotify.com/artist/11GwkOrhCgJpuMnNR2HDhL"
+        }
+      ],
+      "duration_ms": 162352,
+      "name": "Kurt Cobain",
+      "url": "https://open.spotify.com/track/25gdGXIrZ1Oxa3yh9AT22r"
+    },
+    {
+      "added_at": "2022-01-26 18:52:41",
+      "album": {
+        "name": "Blasphemy",
+        "url": "https://open.spotify.com/album/18jzsL9WeL6VtsFCfwwiwl"
+      },
+      "artists": [
+        {
+          "name": "Coldxman",
+          "url": "https://open.spotify.com/artist/2LEHmmTgPXeI8v2vhexsci"
+        }
+      ],
+      "duration_ms": 257501,
+      "name": "Blasphemy",
+      "url": "https://open.spotify.com/track/79KbptbSypy49n5Re4Nkq4"
+    },
+    {
+      "added_at": "2022-01-26 18:52:41",
+      "album": {
+        "name": "O.T.W.T",
+        "url": "https://open.spotify.com/album/5VsHWOByc3VuMW3Z2BUZwI"
+      },
+      "artists": [
+        {
+          "name": "Thoto",
+          "url": "https://open.spotify.com/artist/0BAllLAmEMkTRZdFZoE8bW"
+        }
+      ],
+      "duration_ms": 209153,
+      "name": "Un M\u00e9chant",
+      "url": "https://open.spotify.com/track/4MQtSOLzpeCyvpieXkMpqo"
     },
     {
       "added_at": "2022-01-19 17:00:00",
@@ -263,26 +407,6 @@
       "duration_ms": 103201,
       "name": "Four Walls",
       "url": "https://open.spotify.com/track/05VTU3Txslze8gIkvyi1Aw"
-    },
-    {
-      "added_at": "2022-01-19 17:00:00",
-      "album": {
-        "name": "No Handouts",
-        "url": "https://open.spotify.com/album/136R3DGWRU3N2WOgwW0muC"
-      },
-      "artists": [
-        {
-          "name": "David GotSound",
-          "url": "https://open.spotify.com/artist/4wGjBnpl2JnOzLgS4q2HSJ"
-        },
-        {
-          "name": "Kish!",
-          "url": "https://open.spotify.com/artist/1JMsZEdEQaTLW2JdGPpRxg"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "No Handouts",
-      "url": "https://open.spotify.com/track/0J7AtMtyQKJ24txM9ntA4m"
     },
     {
       "added_at": "2022-01-19 17:00:00",
@@ -455,22 +579,6 @@
       "duration_ms": 192000,
       "name": "Shisha",
       "url": "https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js"
-    },
-    {
-      "added_at": "2022-01-13 17:26:11",
-      "album": {
-        "name": "TO THE MOON",
-        "url": "https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt"
-      },
-      "artists": [
-        {
-          "name": "Jnr Choi",
-          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "TO THE MOON",
-      "url": "https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH"
     },
     {
       "added_at": "2022-01-13 17:26:11",
@@ -663,22 +771,6 @@
     {
       "added_at": "2022-01-13 17:26:11",
       "album": {
-        "name": "Pastelevision",
-        "url": "https://open.spotify.com/album/3Fw3gOj3UVlNJUclaOqLK2"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Pastel",
-          "url": "https://open.spotify.com/artist/1rpz8zkZaj3UKDPk2NxV7F"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "PPA",
-      "url": "https://open.spotify.com/track/6hdQpybU08u1k4AJvNtKq8"
-    },
-    {
-      "added_at": "2022-01-13 17:26:11",
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv"
       },
@@ -803,22 +895,6 @@
     {
       "added_at": "2022-01-13 17:26:11",
       "album": {
-        "name": "HURDLES",
-        "url": "https://open.spotify.com/album/6LEGfDUEQpyxosRisX0Q3J"
-      },
-      "artists": [
-        {
-          "name": "Frankie Jax No Mad",
-          "url": "https://open.spotify.com/artist/17d2rozO7N0V9m622pYsiT"
-        }
-      ],
-      "duration_ms": 108062,
-      "name": "HURDLES",
-      "url": "https://open.spotify.com/track/6YhVmtgOwqogTPyiTSkcj4"
-    },
-    {
-      "added_at": "2022-01-13 17:26:11",
-      "album": {
         "name": "Michael",
         "url": "https://open.spotify.com/album/5oyhE5UqBMxH44s2R63N9N"
       },
@@ -831,26 +907,6 @@
       "duration_ms": 176706,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5N51kSCIXYybdKLI2Iq5me"
-    },
-    {
-      "added_at": "2022-01-13 17:26:11",
-      "album": {
-        "name": "PROBLEM WITH YOU",
-        "url": "https://open.spotify.com/album/1gpG37b9LC1CcToyRUIlSB"
-      },
-      "artists": [
-        {
-          "name": "721gusto",
-          "url": "https://open.spotify.com/artist/1WkLzPQrfUw0l6skY3KGNf"
-        },
-        {
-          "name": "Esinnite",
-          "url": "https://open.spotify.com/artist/3kHfZCUES9kKR7tRpLLoTh"
-        }
-      ],
-      "duration_ms": 83160,
-      "name": "PROBLEM WITH YOU",
-      "url": "https://open.spotify.com/track/50wB7Pvwt61uuFtfNLR6GR"
     },
     {
       "added_at": "2022-01-13 17:26:11",

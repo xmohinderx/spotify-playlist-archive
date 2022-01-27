@@ -200,6 +200,32 @@
     },
     {
       "album": {
+        "name": "Violon au f\u00e9minin: Compositrices fran\u00e7aises",
+        "url": "https://open.spotify.com/album/6siGUFHjGuPLis1gkhqP3F"
+      },
+      "artists": [
+        {
+          "name": "Germaine Tailleferre",
+          "url": "https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM"
+        },
+        {
+          "name": "Sara Chenal",
+          "url": "https://open.spotify.com/artist/00JrlzGhrk892JNRAAQOTo"
+        },
+        {
+          "name": "Jean-Pierre Ferey",
+          "url": "https://open.spotify.com/artist/5kdpljCuyKmbDLT2NAUpc8"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148687,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/1Y3NJjnXXaXmrfSLeDMaU7"
+    },
+    {
+      "album": {
         "name": "Chopin - Piano Works",
         "url": "https://open.spotify.com/album/3hW1TEeZRJ01XycQFABjj9"
       },

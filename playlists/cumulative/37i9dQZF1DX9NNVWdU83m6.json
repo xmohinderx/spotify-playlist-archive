@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 257968,
       "name": "Cygnus - Edit",
       "url": "https://open.spotify.com/track/3GmaX8Rq12cmCbckxSYdOO"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 682626,
       "name": "Deadly Nightshade",
       "url": "https://open.spotify.com/track/6Ws4jPs9nJuXkrD7Nv3gLW"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 300739,
       "name": "Dormammu (Featuring the Shady Horns)",
       "url": "https://open.spotify.com/track/0yYAeUeFMCLqSdLjc9U2Qw"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 266535,
       "name": "Flowerbed",
       "url": "https://open.spotify.com/track/2fOEO7QATH0l1yhU9WNPx1"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 254615,
       "name": "G-Force",
       "url": "https://open.spotify.com/track/1eTHusICPeK7TFWULPuhS5"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 231300,
       "name": "Gotu Lust",
       "url": "https://open.spotify.com/track/5plUsigCBARJIUOU0rXO0S"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 559520,
       "name": "Hazard Profile Part 1",
       "url": "https://open.spotify.com/track/7J2kYMUtOIzKU9Tpd6YDYX"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 329533,
       "name": "Hazard Profile Part 5",
       "url": "https://open.spotify.com/track/3Wgry7XCJ7PPEovyaKWxza"
@@ -557,6 +557,28 @@
       "duration_ms": 330000,
       "name": "Hits!",
       "url": "https://open.spotify.com/track/5Lgl6FQNRkAmbkIQuNcjS5"
+    },
+    {
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/6kzfSHkl0cTxVnDk66q9AF"
+      },
+      "artists": [
+        {
+          "name": "Return To Forever",
+          "url": "https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK"
+        },
+        {
+          "name": "Mick Guzauski",
+          "url": "https://open.spotify.com/artist/5kBkJhHwbshC3wJJphhkMz"
+        }
+      ],
+      "date_added": "2021-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210746,
+      "name": "Hymn Of The 7th Galaxy - Remixed/Remastered",
+      "url": "https://open.spotify.com/track/2w0X8HLU1fDA6pUZuitA7U"
     },
     {
       "album": {
@@ -847,7 +869,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 434786,
       "name": "New Life",
       "url": "https://open.spotify.com/track/2FnvK6PpO25DmzCT7WsV2D"
@@ -883,7 +905,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 296106,
       "name": "Ornithophobia",
       "url": "https://open.spotify.com/track/7ltIEsCk076HtkZRJaoA9g"
@@ -953,7 +975,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 486744,
       "name": "Planetary Prince",
       "url": "https://open.spotify.com/track/0RDPruYI8wmOrFTi3RMx6K"
@@ -1069,7 +1091,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 268675,
       "name": "silhouette",
       "url": "https://open.spotify.com/track/0RRoI2lSGNfYLCwHbn0JZt"
@@ -1117,7 +1139,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 229389,
       "name": "Social Abstract",
       "url": "https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x"
@@ -1171,7 +1193,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 437607,
       "name": "Stadium Jazz",
       "url": "https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE"
@@ -1227,7 +1249,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 410935,
       "name": "Swarna Jingga",
       "url": "https://open.spotify.com/track/7acGrw72LkenO2Hurc9pmM"
@@ -1263,7 +1285,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 183601,
       "name": "Taurian Matador",
       "url": "https://open.spotify.com/track/2bMQEHvIwor0kD6ewe34ue"
@@ -1299,7 +1321,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 222466,
       "name": "The Kipper and the Pork Pie",
       "url": "https://open.spotify.com/track/6pkkUNpoDPhI0dGV72caDx"
@@ -1321,7 +1343,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 568893,
       "name": "The Life Divine",
       "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
@@ -1339,7 +1361,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 387826,
       "name": "The Noonward Race - Remastered",
       "url": "https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN"
@@ -1357,7 +1379,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 377078,
       "name": "Trail of Thought",
       "url": "https://open.spotify.com/track/2vK4fWEYTYVMJAJ4ZuqpDK"
@@ -1477,7 +1499,7 @@
       ],
       "date_added": "2021-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 407000,
       "name": "Whippersnapper",
       "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"

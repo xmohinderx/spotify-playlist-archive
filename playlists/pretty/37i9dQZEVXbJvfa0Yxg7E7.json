@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
-  "num_followers": 486430,
+  "num_followers": 486420,
   "original_name": "Top 50 - Norway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk2NDQwMTc5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk2NTA1ODEyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Jente i Oslo",
         "url": "https://open.spotify.com/album/59Hwuvf6mtaILTwkxWbOyI"
@@ -45,43 +61,7 @@
       "url": "https://open.spotify.com/track/2Sn1bb7wGN1ZQFMpgkb0Y6"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/36kp4SVbHt0SqhAGpdFsK9"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/01yhPS4Pn3chM0sc3gcs6B"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
@@ -97,7 +77,7 @@
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -125,23 +105,27 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
-        "name": "H\u00f8yt over havet",
-        "url": "https://open.spotify.com/album/4AsokQz7DYj1OZQYxdFTlg"
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/36kp4SVbHt0SqhAGpdFsK9"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 175962,
-      "name": "H\u00f8yt over havet",
-      "url": "https://open.spotify.com/track/6uD9bwAyCMeKmf5xr2WDRa"
+      "duration_ms": 193466,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/01yhPS4Pn3chM0sc3gcs6B"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -157,7 +141,23 @@
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "H\u00f8yt over havet",
+        "url": "https://open.spotify.com/album/4AsokQz7DYj1OZQYxdFTlg"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 175962,
+      "name": "H\u00f8yt over havet",
+      "url": "https://open.spotify.com/track/6uD9bwAyCMeKmf5xr2WDRa"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Light Switch",
         "url": "https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "glorie",
         "url": "https://open.spotify.com/album/2DdUMgZh8haStlU30pcnZ0"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/4olmG0sFJ6L0LVI8ssiZFz"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -273,7 +273,23 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Fuckboy",
         "url": "https://open.spotify.com/album/3uXPhrZpwbQPSHjnWRV1cl"
@@ -293,39 +309,7 @@
       "url": "https://open.spotify.com/track/1GGk3Q73VX2eBLQ2Yp5Kr2"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "GHOST TOWN",
-        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "GHOST TOWN",
-      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -345,7 +329,23 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "GHOST TOWN",
+        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "GHOST TOWN",
+      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Miserable Man",
         "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
@@ -381,7 +381,39 @@
       "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "Smilet i ditt eget speil",
+        "url": "https://open.spotify.com/album/4H0LGJypqseHZmiR1gU2d3"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 172833,
+      "name": "Smilet i ditt eget speil",
+      "url": "https://open.spotify.com/track/2bSVFkcYAQwkGlGK7v1Ihl"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Loud Luxury 2022",
         "url": "https://open.spotify.com/album/67Ds9HmHBa23HxCbNSz82B"
@@ -401,23 +433,7 @@
       "url": "https://open.spotify.com/track/3IVkcYvMiqvRKa4ip0E7a8"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Den fineste Chevy'n (feat. Maria Mena)",
         "url": "https://open.spotify.com/album/7G8XJLSXvjpXiOLwCKhSpQ"
@@ -437,39 +453,7 @@
       "url": "https://open.spotify.com/track/2Y7npn076wSZJgH8HVr2B2"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "Smilet i ditt eget speil",
-        "url": "https://open.spotify.com/album/4H0LGJypqseHZmiR1gU2d3"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 172833,
-      "name": "Smilet i ditt eget speil",
-      "url": "https://open.spotify.com/track/2bSVFkcYAQwkGlGK7v1Ihl"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Da det var oss",
         "url": "https://open.spotify.com/album/5ZNnY5Cmp6mycztZY5HLye"
@@ -485,7 +469,23 @@
       "url": "https://open.spotify.com/track/2mtC4zyp4Dn3GaoGonrWax"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/4bonCpNW4OlAAPNbSklCpf"
@@ -541,7 +541,23 @@
       "url": "https://open.spotify.com/track/4c2FHHtnHFMWs5vpbGXr6i"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Ludvig Daae",
         "url": "https://open.spotify.com/album/0iHaRVUqMPyTPJGI8zE1tF"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/5TyFg2tdUPtBVKm7ZRevGk"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
@@ -577,23 +593,7 @@
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx"
@@ -629,7 +629,27 @@
       "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Barock 2021 (Nesbrurussen)",
         "url": "https://open.spotify.com/album/2dWCjJSJtCQj66tzMaxDib"
@@ -661,27 +681,7 @@
       "url": "https://open.spotify.com/track/2nIgV90BbhZqq3RXazLV1w"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Suks\u00e9 2022 (Hjemmesm\u00e6ck)",
         "url": "https://open.spotify.com/album/6tKzmHLOGWSPBRp8msUVBF"
@@ -697,7 +697,23 @@
       "url": "https://open.spotify.com/track/0gG0dF1yexUsE8OO7mq8Kn"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "Bare n\u00e5r det regner",
+        "url": "https://open.spotify.com/album/48f5hkIP9MFqR8ObZFTn4U"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 163670,
+      "name": "Bare n\u00e5r det regner",
+      "url": "https://open.spotify.com/track/2w7Qohb7bKFnfiCokYH0wD"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Medbrakt",
         "url": "https://open.spotify.com/album/3tWVpKIfVPosF7LLi5fcOG"
@@ -717,79 +733,7 @@
       "url": "https://open.spotify.com/track/0anBi4abqUhf7qvGrk5ALE"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "Head on Fire",
-        "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        },
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 188645,
-      "name": "Head on Fire",
-      "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "The Voice 2022: Blind Auditions 1 (Live)",
-        "url": "https://open.spotify.com/album/6zwlsmLRkYWnK3wP6JMHmS"
-      },
-      "artists": [
-        {
-          "name": "J\u00f8rgen Dahl Moe",
-          "url": "https://open.spotify.com/artist/00Ph35PnLLQYLvMnhbizSJ"
-        }
-      ],
-      "duration_ms": 153719,
-      "name": "Dancing In The Dark - Live",
-      "url": "https://open.spotify.com/track/23IfaTlFcjfs7PZKyXLdjb"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "Bare n\u00e5r det regner",
-        "url": "https://open.spotify.com/album/48f5hkIP9MFqR8ObZFTn4U"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 163670,
-      "name": "Bare n\u00e5r det regner",
-      "url": "https://open.spotify.com/track/2w7Qohb7bKFnfiCokYH0wD"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -829,27 +773,63 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
-        "name": "Klask 2022 (Hjemmesnekk)",
-        "url": "https://open.spotify.com/album/4lBVdGuHcBl46Ay4Emzu2t"
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
       "artists": [
         {
-          "name": "Kudos",
-          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
         },
         {
-          "name": "Madcum",
-          "url": "https://open.spotify.com/artist/08p7qYoAP6VPQPip740klh"
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
         }
       ],
-      "duration_ms": 190588,
-      "name": "Klask 2022 (Hjemmesnekk)",
-      "url": "https://open.spotify.com/track/0PjGxOaBFjQfesMeT5HbAw"
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "Head on Fire",
+        "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        },
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 188645,
+      "name": "Head on Fire",
+      "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "The Voice 2022: Blind Auditions 1 (Live)",
+        "url": "https://open.spotify.com/album/6zwlsmLRkYWnK3wP6JMHmS"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rgen Dahl Moe",
+          "url": "https://open.spotify.com/artist/00Ph35PnLLQYLvMnhbizSJ"
+        }
+      ],
+      "duration_ms": 153719,
+      "name": "Dancing In The Dark - Live",
+      "url": "https://open.spotify.com/track/23IfaTlFcjfs7PZKyXLdjb"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Second Hand Love (feat. Ruben)",
         "url": "https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey"
@@ -869,7 +849,7 @@
       "url": "https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -885,7 +865,27 @@
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "Klask 2022 (Hjemmesnekk)",
+        "url": "https://open.spotify.com/album/4lBVdGuHcBl46Ay4Emzu2t"
+      },
+      "artists": [
+        {
+          "name": "Kudos",
+          "url": "https://open.spotify.com/artist/2uz5pGGHltzQNOmxOd95g7"
+        },
+        {
+          "name": "Madcum",
+          "url": "https://open.spotify.com/artist/08p7qYoAP6VPQPip740klh"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "Klask 2022 (Hjemmesnekk)",
+      "url": "https://open.spotify.com/track/0PjGxOaBFjQfesMeT5HbAw"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "eat ya veggies",
         "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
@@ -905,7 +905,7 @@
       "url": "https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Creme De La Creme",
         "url": "https://open.spotify.com/album/3YXiOI3RPhaj41mMCjHl1y"
@@ -921,23 +921,7 @@
       "url": "https://open.spotify.com/track/1beuDJXaekLPtvX1jQe0yx"
     },
     {
-      "added_at": "2022-01-25 15:36:19",
-      "album": {
-        "name": "Du",
-        "url": "https://open.spotify.com/album/7dtIei9lC6rcLk2fN2Vjye"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Du",
-      "url": "https://open.spotify.com/track/11aqn7HZZ3rJD5QvA3UV5N"
-    },
-    {
-      "added_at": "2022-01-25 15:36:19",
+      "added_at": "2022-01-26 09:50:12",
       "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/7C4MRV0cWA9g9GFhb6sOdI"
@@ -951,6 +935,30 @@
       "duration_ms": 246806,
       "name": "Mother",
       "url": "https://open.spotify.com/track/1QmZQRvNUOvRxtSH9VCPF4"
+    },
+    {
+      "added_at": "2022-01-26 09:50:12",
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "pushin P (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv"
     }
   ],
   "unique_name": "Top 50 - Norway",

@@ -2323,6 +2323,24 @@
     {
       "album": {
         "name": "BEGEFEND\u0130",
+        "url": "https://open.spotify.com/album/4uzkcFaD6X2zpojuI0Y1IT"
+      },
+      "artists": [
+        {
+          "name": "BEGE",
+          "url": "https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157220,
+      "name": "GECELER\u0130N DERD\u0130",
+      "url": "https://open.spotify.com/track/4Y19WBq90SiLFQc6wK3LDJ"
+    },
+    {
+      "album": {
+        "name": "BEGEFEND\u0130",
         "url": "https://open.spotify.com/album/5uNcIKJl8eyNoVoqqT5744"
       },
       "artists": [
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-27",
       "duration_ms": 157220,
       "name": "GECELER\u0130N DERD\u0130",
       "url": "https://open.spotify.com/track/5L9oweGjkwBg0Mt9ZU9OhW"

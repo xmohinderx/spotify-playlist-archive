@@ -1466,6 +1466,28 @@
     },
     {
       "album": {
+        "name": "Looking for Gold",
+        "url": "https://open.spotify.com/album/0S8OhiTIgdSPbI54hPOpP2"
+      },
+      "artists": [
+        {
+          "name": "Fancy Monster",
+          "url": "https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY"
+        },
+        {
+          "name": "TR\u00d8VES",
+          "url": "https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Looking for Gold",
+      "url": "https://open.spotify.com/track/1TJkG92PrLibxf4qQReKYW"
+    },
+    {
+      "album": {
         "name": "Lose Your Way",
         "url": "https://open.spotify.com/album/2ApZobhOJQ1GyjI8AZZ2nr"
       },
