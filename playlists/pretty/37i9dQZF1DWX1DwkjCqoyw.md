@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest Island infused pop music from the Caribbean where Pop, Reggae, Soca & Dancehall become one\. Cover: Stalk Ashley
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,674 likes - 67 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,790 likes - 67 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,764 likes - 220 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,887 likes - 220 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 16 | [Oopsie](https://open.spotify.com/track/2raJ4DfItpzmRHZk744DKM) | [Full Woop](https://open.spotify.com/artist/5j6TPsEm7BfEUInHCanPLg) | [Oopsie](https://open.spotify.com/album/27AnLNejMrxCWeDT2CMYce) | 2:19 |
 | 17 | [Calculator](https://open.spotify.com/track/5ge3MKqV7AvdQmwUnsWaYX) | [sonofie](https://open.spotify.com/artist/64V6VBrGxTgK5VuSIY9TVw) | [Calculator](https://open.spotify.com/album/0yrUNuuUzin7Gov8i8ApHN) | 1:48 |
 | 18 | [Memory](https://open.spotify.com/track/4jyb5EgkOCUoW9xgsMH7Xq) | [Memcache](https://open.spotify.com/artist/5Eaga24r5FNYwzF1PR51ay) | [Memory](https://open.spotify.com/album/64RiRPWs3ogB6i2KjhJG8B) | 2:33 |
-| 19 | [Slow Burner](https://open.spotify.com/track/6Kfirj7YHcY1fvuibJd3Vf) | [Jack May](https://open.spotify.com/artist/4NjbEBYvCbGgmBfL0tUbSK) | [Slow Burner](https://open.spotify.com/album/2vtz0imwdKGHlnGsQHN0O3) | 2:37 |
+| 19 | [Slow Burner](https://open.spotify.com/track/6Kfirj7YHcY1fvuibJd3Vf) | [Jack May](https://open.spotify.com/artist/0DjOM3p7J0A8ANeln1hjqn) | [Slow Burner](https://open.spotify.com/album/2vtz0imwdKGHlnGsQHN0O3) | 2:37 |
 | 20 | [Souls](https://open.spotify.com/track/3ChoL4frV5kJSk0C9F3IWz) | [Del Risa](https://open.spotify.com/artist/4gzZiN07Ka3Idx3QvR1ZuS) | [Souls](https://open.spotify.com/album/118kdRwrFscCUlo9bSr096) | 4:14 |
 | 21 | [Heaven](https://open.spotify.com/track/6X35WKQ3YgELrIj3CT3NOt) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [Heaven](https://open.spotify.com/album/0C6hqHyCFgiH1OEdWWOLyM) | 3:06 |
 | 22 | [sunique](https://open.spotify.com/track/7a44ttV7Dp0nxJTXduqgSb) | [roumr](https://open.spotify.com/artist/5Cwole4lK6hzKCGiw4gaxO) | [sunique](https://open.spotify.com/album/60t2NsIUvRFZ6kMTMIg7SH) | 3:08 |

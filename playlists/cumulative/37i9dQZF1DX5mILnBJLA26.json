@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1?si=mS6wkKhsRt-XDjIk1jSsKg\">Ch'cco</a> and <a href=\"https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=TnuvaaEPQHeey-L_PDMsag\">Mellow & Sleazy</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte?si=b18NHWGFRfGBvPdGjKXCnA\">Josiah De Disciple</a>",
   "name": "AmaPiano Grooves",
   "published_playlist_ids": [
     "1OROzyYVlgHk2xjXQZDV5G"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Sounds Of Gomora",
+        "url": "https://open.spotify.com/album/5NBuO8ofRuaHprVvfl8XFg"
+      },
+      "artists": [
+        {
+          "name": "Josiah De Disciple",
+          "url": "https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342873,
+      "name": "1st Park",
+      "url": "https://open.spotify.com/track/48rMy7l3vE44f4engB0GA1"
+    },
     {
       "album": {
         "name": "Terminator 2 (The Rise Of The Machine)",
@@ -49,7 +67,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 352215,
       "name": "25 Tao",
       "url": "https://open.spotify.com/track/5SGR2GjHKy0V75xLwSsfWj"
@@ -189,7 +207,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 320063,
       "name": "AK Love",
       "url": "https://open.spotify.com/track/2Lb3yKY5heNeHHzSNpmDvs"
@@ -654,6 +672,28 @@
     },
     {
       "album": {
+        "name": "Corrections",
+        "url": "https://open.spotify.com/album/6M2kKfSADqqy5kkajUPtpd"
+      },
+      "artists": [
+        {
+          "name": "DJ Mikah S",
+          "url": "https://open.spotify.com/artist/0KUxDlLBBIx8TWTij1BMRa"
+        },
+        {
+          "name": "C Keys",
+          "url": "https://open.spotify.com/artist/2GOeM8NVUR0x0QCMZgs8wh"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248307,
+      "name": "Corrections (Radio Edit)",
+      "url": "https://open.spotify.com/track/63K4EzMFRdUsVGsuH1Y7T4"
+    },
+    {
+      "album": {
         "name": "Customer Care",
         "url": "https://open.spotify.com/album/0tgSR3jsGcCBcdbRiQ1kMe"
       },
@@ -681,6 +721,32 @@
       "duration_ms": 196649,
       "name": "Customer Care",
       "url": "https://open.spotify.com/track/1cfgCgccxcCy1giJEoOb1x"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Gomora",
+        "url": "https://open.spotify.com/album/5NBuO8ofRuaHprVvfl8XFg"
+      },
+      "artists": [
+        {
+          "name": "Josiah De Disciple",
+          "url": "https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte"
+        },
+        {
+          "name": "Reece Madlisa",
+          "url": "https://open.spotify.com/artist/6ucYQLJMMVyN1nO4GebaV2"
+        },
+        {
+          "name": "Zuma",
+          "url": "https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420044,
+      "name": "Dala What You Must",
+      "url": "https://open.spotify.com/track/22VzjjRYrECPyeHPoyGf0X"
     },
     {
       "album": {
@@ -841,7 +907,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 390796,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/6tx3PPYfrkpeJqQH2oSxhH"
@@ -1014,6 +1080,40 @@
     },
     {
       "album": {
+        "name": "iLokishi",
+        "url": "https://open.spotify.com/album/4SFPgMGTiwrT0HgY1ebhoJ"
+      },
+      "artists": [
+        {
+          "name": "Tee Jay",
+          "url": "https://open.spotify.com/artist/2FgJA67LUo0uQ6WXafNTKQ"
+        },
+        {
+          "name": "Makwa",
+          "url": "https://open.spotify.com/artist/6aXzYhXfiqzlcdyFBxfw59"
+        },
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "Kwesta",
+          "url": "https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr"
+        },
+        {
+          "name": "Mpura",
+          "url": "https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450265,
+      "name": "iLokishi",
+      "url": "https://open.spotify.com/track/2KQLc2E0eT5LBtq99EFRVX"
+    },
+    {
+      "album": {
         "name": "Mpumalanga",
         "url": "https://open.spotify.com/album/60ggaOopXApXj9qV58Oytc"
       },
@@ -1041,6 +1141,28 @@
       "duration_ms": 408639,
       "name": "Impilo yaseSandton",
       "url": "https://open.spotify.com/track/2Q7chNue0LxoNT4iKSyfbo"
+    },
+    {
+      "album": {
+        "name": "Ingoma LaseMzansi",
+        "url": "https://open.spotify.com/album/40HtVmoyX6R8vsid5za8Vs"
+      },
+      "artists": [
+        {
+          "name": "Amapiano Madness",
+          "url": "https://open.spotify.com/artist/3r5wLfhWeRd17ogjabRqeo"
+        },
+        {
+          "name": "JayMea",
+          "url": "https://open.spotify.com/artist/6IXTM7xwUdJTE6Pb6jWA8l"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505991,
+      "name": "Ingoma LaseMzansi",
+      "url": "https://open.spotify.com/track/0kHGIeYx6n5sAz5Ke4XB95"
     },
     {
       "album": {
@@ -1213,7 +1335,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 348107,
       "name": "Izinto",
       "url": "https://open.spotify.com/track/4hrqNQyauZVgSZBntsM0hl"
@@ -1454,6 +1576,28 @@
     },
     {
       "album": {
+        "name": "Mali",
+        "url": "https://open.spotify.com/album/1efJi6TsEqn9wbVcns89o9"
+      },
+      "artists": [
+        {
+          "name": "Valee Music",
+          "url": "https://open.spotify.com/artist/780ChRgKqguVRixxZ0hrEB"
+        },
+        {
+          "name": "UNLIMITED SOUL",
+          "url": "https://open.spotify.com/artist/1YKPUOZchJZDIwoU7SZiZg"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395152,
+      "name": "Mali",
+      "url": "https://open.spotify.com/track/7rUlHu2APdzzl5TYonnFdP"
+    },
+    {
+      "album": {
         "name": "Platinumb Heart Beating",
         "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
       },
@@ -1469,7 +1613,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 410000,
       "name": "Mjolo for Who",
       "url": "https://open.spotify.com/track/5ZWI3tqmoIhahzWUqrp008"
@@ -1585,6 +1729,40 @@
       "duration_ms": 368616,
       "name": "Msholokazi (feat. Bassie)",
       "url": "https://open.spotify.com/track/2C0bk3oTIapEsPm0hZEGgh"
+    },
+    {
+      "album": {
+        "name": "Mundaza",
+        "url": "https://open.spotify.com/album/1hbZaGoiQiN22xu9eo5ksY"
+      },
+      "artists": [
+        {
+          "name": "Alfa Kat",
+          "url": "https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup"
+        },
+        {
+          "name": "Miss Pammie",
+          "url": "https://open.spotify.com/artist/25FihmnGmTbt6o0u6TFljm"
+        },
+        {
+          "name": "Fresh Ty",
+          "url": "https://open.spotify.com/artist/5yLjkqplMrJxGsy5LyQjoy"
+        },
+        {
+          "name": "Mickey Mish",
+          "url": "https://open.spotify.com/artist/5s3rbJFZ0bym95UvUVM5Q0"
+        },
+        {
+          "name": "Mustbedubz",
+          "url": "https://open.spotify.com/artist/1BzSBZWwF5ApCmrziLqLXF"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330206,
+      "name": "Mundaza",
+      "url": "https://open.spotify.com/track/5xyED4v6pYcRaXfRRZYdrh"
     },
     {
       "album": {
@@ -1959,7 +2137,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 382300,
       "name": "Sobona",
       "url": "https://open.spotify.com/track/3Af2VSCbBqExgHWG8z3Gdt"
@@ -2062,6 +2240,32 @@
     },
     {
       "album": {
+        "name": "Soulmate",
+        "url": "https://open.spotify.com/album/7Cj40Em4Wi5CoRv0jQY5FS"
+      },
+      "artists": [
+        {
+          "name": "Cutjolicious",
+          "url": "https://open.spotify.com/artist/032O67G6owPdmDdqdferDH"
+        },
+        {
+          "name": "INNOVATIVE DJz",
+          "url": "https://open.spotify.com/artist/1SHpF8TvU1p95Yqh0iQje6"
+        },
+        {
+          "name": "Nthabisoul",
+          "url": "https://open.spotify.com/artist/21nDrYdXZVi2p0NFPxjVvX"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242181,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/0xzu31YCNKLLiE8heGUuBa"
+    },
+    {
+      "album": {
         "name": "Piano To The World",
         "url": "https://open.spotify.com/album/4vpxr2JoZ49QU2giFdoUgP"
       },
@@ -2133,7 +2337,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 343067,
       "name": "Stoko",
       "url": "https://open.spotify.com/track/2GZr5R9ytY4GP6C8PGBVK3"
@@ -2184,6 +2388,36 @@
     },
     {
       "album": {
+        "name": "Teka (feat. Mellow & Sleazy & Djy Ma'Ten)",
+        "url": "https://open.spotify.com/album/1R0N4z48RoqTd842iNVKQv"
+      },
+      "artists": [
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Djy Ma'Ten",
+          "url": "https://open.spotify.com/artist/7BFXyzkV91hV7KjxaiMQS3"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377449,
+      "name": "Teka (feat. Mellow & Sleazy & Djy Ma'Ten)",
+      "url": "https://open.spotify.com/track/6Cc1fSsuS2enK9YUifgnF3"
+    },
+    {
+      "album": {
         "name": "Tell Somebody",
         "url": "https://open.spotify.com/album/5PqqFK9QKjPlh4oeRRSqx8"
       },
@@ -2203,7 +2437,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 237599,
       "name": "Tell Somebody",
       "url": "https://open.spotify.com/track/3EWJSHGXN8dA983I0sMhmd"
@@ -2225,7 +2459,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 356865,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/5A41EMznk0fW7kWDkGeJ4A"
@@ -2284,6 +2518,46 @@
     },
     {
       "album": {
+        "name": "The Nights",
+        "url": "https://open.spotify.com/album/0aHqfm5YBdLfCfiLXNJe1I"
+      },
+      "artists": [
+        {
+          "name": "DJ Givelow",
+          "url": "https://open.spotify.com/artist/3iVzeAkMfYKI8pLJwX1vil"
+        },
+        {
+          "name": "QU_BEATSS",
+          "url": "https://open.spotify.com/artist/3BRljm4K2v4ulxREPiFfiw"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "The Nights",
+      "url": "https://open.spotify.com/track/4lyeMWdwViJHghBV93nT9G"
+    },
+    {
+      "album": {
+        "name": "Sounds Of Gomora",
+        "url": "https://open.spotify.com/album/5NBuO8ofRuaHprVvfl8XFg"
+      },
+      "artists": [
+        {
+          "name": "Josiah De Disciple",
+          "url": "https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377187,
+      "name": "The Warning",
+      "url": "https://open.spotify.com/track/0nAh8CBl9m5NnkBsFspVJp"
+    },
+    {
+      "album": {
         "name": "Top Level (feat. Kamo Mphela & The Lowkeys)",
         "url": "https://open.spotify.com/album/6U2ZLkGL0nugOPpZzWS1Hl"
       },
@@ -2307,6 +2581,32 @@
       "duration_ms": 216315,
       "name": "Top Level (feat. Kamo Mphela & The Lowkeys) - Radio Edit",
       "url": "https://open.spotify.com/track/0a5VoKokh5joG0G0FaesLe"
+    },
+    {
+      "album": {
+        "name": "Trap Donoro",
+        "url": "https://open.spotify.com/album/74w91or5ngbHAJyoYrKZWV"
+      },
+      "artists": [
+        {
+          "name": "Fuza",
+          "url": "https://open.spotify.com/artist/69uEPgHRCGCyfYi0KJ4Woz"
+        },
+        {
+          "name": "D Reality Kings",
+          "url": "https://open.spotify.com/artist/5SV0QdZ7vaJpCA7CweIPOR"
+        },
+        {
+          "name": "Nanki D",
+          "url": "https://open.spotify.com/artist/1lcSnmtP8nswQYsT1svXUx"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311293,
+      "name": "Trap Donoro",
+      "url": "https://open.spotify.com/track/19VLwKmspRt61N9Y6D1uWb"
     },
     {
       "album": {
@@ -2535,7 +2835,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 408373,
       "name": "Ungangi Bambi (feat. Khanyisa)",
       "url": "https://open.spotify.com/track/4WFtz7J6aNHwRJVctT1gcs"
@@ -2673,7 +2973,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 365027,
       "name": "Yini Sdakwa",
       "url": "https://open.spotify.com/track/6RXF8afghRd2Ha6npUg8jk"

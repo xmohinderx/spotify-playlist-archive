@@ -662,6 +662,24 @@
     },
     {
       "album": {
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162072,
+      "name": "Healing Hurts",
+      "url": "https://open.spotify.com/track/1b0KbkFk1LvwkWhOJfmevW"
+    },
+    {
+      "album": {
         "name": "Heaven (Remixes)",
         "url": "https://open.spotify.com/album/6exRK88Bmb2ocwHW8hT07l"
       },

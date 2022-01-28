@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Nathaniel Cross\. Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,031 likes - 89 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,226 likes - 89 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 10 | [When This Is Over](https://open.spotify.com/track/38BnDGZBonpPyxxkyXYiZU) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [When This Is Over](https://open.spotify.com/album/29aHc10ynKgXVPkpcoTQGz) | 4:41 |
 | 11 | [Circle](https://open.spotify.com/track/5HUiIsZYWC31h81ABO3TfC) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [Circle](https://open.spotify.com/album/4z4klvHvNgG0JUndFd1AF0) | 4:04 |
 | 12 | [Kick It](https://open.spotify.com/track/1OoWMCNWuypjEJzxLXXVRA) | [Teia Elaine](https://open.spotify.com/artist/7wGUX9w1yxE5PdRXOQ5hdN) | [H.I.P.S.](https://open.spotify.com/album/7D334AG746mPoFPem8SyoR) | 3:23 |
-| 13 | [Wind Rose](https://open.spotify.com/track/7JWBLNkOkJkxaeVrIfFGdk) | [Lisa Ono](https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k) | [Grand Voyage](https://open.spotify.com/album/6gzWFN7EHXqlNTvP7iKLP3) | 8:53 |
+| 13 | [Wind Rose](https://open.spotify.com/track/7JWBLNkOkJkxaeVrIfFGdk) | [Junko Onishi](https://open.spotify.com/artist/1uf65qkb0qgOAo0tbUWfux) | [Grand Voyage](https://open.spotify.com/album/6gzWFN7EHXqlNTvP7iKLP3) | 8:53 |
 | 14 | [Breathe Again](https://open.spotify.com/track/5Y8ELHqOFWADfUjJyFo28b) | [Alison Shearer](https://open.spotify.com/artist/6rLjrBdHkCKHAV1oZrZLN5), [Miranda Joan](https://open.spotify.com/artist/7AXlH9niNMWttTOT9WX3Xb), [Kevin Bernstein](https://open.spotify.com/artist/4Dtr1cX9TnXtZodKGkyZiJ), [Marty Kenney](https://open.spotify.com/artist/0KfSgDTQyq09bZC9RtPMyl), [Horace Phillips](https://open.spotify.com/artist/7kpF2EGw9xjaxMbLGAlr5z) | [Breathe Again](https://open.spotify.com/album/0RTPXZA9iLvuQl2XB8jHvB) | 5:13 |
 | 15 | [The Point](https://open.spotify.com/track/0cDLhszLOZtmbvONCagOcN) | [Times 4](https://open.spotify.com/artist/3x6PACKJFODRuFEVlYMLJN), [Lincoln Adler](https://open.spotify.com/artist/6QLoQBVmeZqyQKZthtH7Bp), [Greg Sankovich](https://open.spotify.com/artist/0rqY1u2KZuHFp791pxBWAm), [Kevin Lofton](https://open.spotify.com/artist/5l5yllvqPVTZCgxsNyEZvV), [Maurice Miles](https://open.spotify.com/artist/3dIZUrzgkKMjPduOcctyDi) | [Frame of Mind](https://open.spotify.com/album/5KGIXlm5VRcIeZ8wfACdpc) | 8:06 |
 | 16 | [Simple Answer](https://open.spotify.com/track/26MlCxezuW1pLSRkcJSZQp) | [Vadim Bessarab Trio](https://open.spotify.com/artist/7FSisQjL3SiBxmc5vipXRh) | [Approximation](https://open.spotify.com/album/2UXfDOVBehuL586SUd3CPo) | 5:41 |

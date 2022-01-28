@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 155013,
       "name": "Ana Mesh Magroha",
       "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 254441,
       "name": "Baddi Hada Hebbou",
       "url": "https://open.spotify.com/track/2RWrtK1GhcCquT83dYyCTs"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 239330,
       "name": "Benar Cinta",
       "url": "https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 197600,
       "name": "Bhula Dunga",
       "url": "https://open.spotify.com/track/7pmY8QjqZP8GRV6qBRpheu"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 238386,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 241093,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/6umBmcMxeC2kRbwCMNgElC"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 225453,
       "name": "In meiner Erinnerung",
       "url": "https://open.spotify.com/track/7hEogFloi0A60JMFfgVi3l"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 346400,
       "name": "Lily\u306e\u7948\u308a",
       "url": "https://open.spotify.com/track/2UM4ucGnzbD1bp0G67xkj7"
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 307500,
       "name": "Lovely Sweet Heart \uc0ac\ub791\uc758 \uc778\uc0ac",
       "url": "https://open.spotify.com/track/2mblvMODL42tFw45VPIutj"
@@ -1693,7 +1693,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "Mghayarni",
       "url": "https://open.spotify.com/track/1PlVVqV0gOGCeIuaiMuptU"
@@ -2095,10 +2095,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 236516,
       "name": "Sa Paghimig Mo",
       "url": "https://open.spotify.com/track/0dhN59CptPl9jJx4cxVOXO"
+    },
+    {
+      "album": {
+        "name": "Sajni",
+        "url": "https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar"
+      },
+      "artists": [
+        {
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Sajni",
+      "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
     },
     {
       "album": {
@@ -2149,7 +2167,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 186915,
       "name": "Sikasih",
       "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 230386,
       "name": "Te quiero - Versi\u00f3n 2019",
       "url": "https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r"
@@ -2489,7 +2507,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 225733,
       "name": "Truth Is (Spanish Version)",
       "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 209627,
       "name": "Vanha (feat. BEHM)",
       "url": "https://open.spotify.com/track/3VMLjw1WTEU5xEcNfNiUMd"
@@ -2913,7 +2931,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 121799,
       "name": "\u0421\u0438\u044f\u0439",
       "url": "https://open.spotify.com/track/5ct1HcejSSMlu6vCyWGNXM"
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 237632,
       "name": "\u0421\u0442\u0438\u0445\u043d\u0435\u0442 \u043c\u043e\u0442\u043e\u0440",
       "url": "https://open.spotify.com/track/5Yq80azEjRwPaisXpwoFrk"
@@ -2949,7 +2967,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 223410,
       "name": "\u304a\u3084\u3059\u307f\u3001\u304b\u307f\u3055\u307e",
       "url": "https://open.spotify.com/track/5GU75hIL1riqY1DtP9gf1Q"
@@ -2985,7 +3003,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 266333,
       "name": "\u30a2\u30a4\u30ce\u30ab\u30bf\u30c1",
       "url": "https://open.spotify.com/track/2gzApyJhCWVdTRxL9HB1EO"
@@ -3097,7 +3115,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 324626,
       "name": "\u6953",
       "url": "https://open.spotify.com/track/73xYYths9kvmFvYsd9gC9Z"
@@ -3133,7 +3151,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 284360,
       "name": "\u7cf8",
       "url": "https://open.spotify.com/track/3HUpfIdFGQ02XlDp1f2F8t"

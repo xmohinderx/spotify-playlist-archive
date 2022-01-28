@@ -2,7 +2,7 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Oslo Ibrahim
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Suara Kayu
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,10 @@
 | [Do You Think You Know Me?](https://open.spotify.com/track/2PPpy5E9AlP8x2YSso07hx) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Do You Think You Know Me?](https://open.spotify.com/album/2pZYi5d7n0Ns1dBVFodbf3) | 3:26 | 2021-11-25 |  |
 | [Forever](https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Forever](https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S) | 4:13 | 2021-11-25 |  |
 | [Gem In I](https://open.spotify.com/track/24CX75uSDkTyLsbxqigA9V) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9), [Mouzect](https://open.spotify.com/artist/4UA5XcAGTnqceTGGWGg9mu) | [Gem In I](https://open.spotify.com/album/7sGZvHUbo1bsAy513vYld3) | 3:08 | 2021-11-25 |  |
+| [Hahaha](https://open.spotify.com/track/6TeXaBY0c9lIG5x9Qs2s3H) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Kumpulan Cerita Pendek](https://open.spotify.com/album/1YtbLVcymkCfIM5BzocDge) | 3:16 | 2022-01-27 |  |
 | [Happy Birthday](https://open.spotify.com/track/5Hs4s5CLgXlFEFe1M3cdKg) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Happy Birthday](https://open.spotify.com/album/7yeVTWzr0IeAso9hQSZ5LQ) | 2:54 | 2021-11-25 |  |
 | [Heartbeat](https://open.spotify.com/track/4pGGz0mCKGyORnYXIxcmd1) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK), [Julian Jacob](https://open.spotify.com/artist/3hF7qPC3gzhtfaKANEhKB9) | [Heartbeat](https://open.spotify.com/album/7hez8uQfAf80j8KI1oj2Bb) | 3:47 | 2021-11-25 |  |
+| [i don’t need u](https://open.spotify.com/track/3nrNlNub0uPSexmYXrbhHh) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 1:48 | 2022-01-27 |  |
 | [Journey on September](https://open.spotify.com/track/22PhxtknUvYnNNidP1cuGJ) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Journey on September](https://open.spotify.com/album/6Z7AkTjYkglyuDNEYXZd4h) | 3:58 | 2021-11-25 |  |
 | [Kaktus](https://open.spotify.com/track/31byM0OBU7OoKuVkTrTCOh) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Kaktus](https://open.spotify.com/album/15mi7JkXNjMScyGbX1nlTg) | 3:07 | 2021-11-25 |  |
 | [Kebal Kelaran](https://open.spotify.com/track/2PJt7EOOh92Khzjr9T7QTq) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Kebal Kelaran](https://open.spotify.com/album/39PM31EBVu9TUyeql8wJhz) | 4:29 | 2021-11-25 |  |
@@ -58,6 +60,7 @@
 | [Sunshine](https://open.spotify.com/track/3hg1tMeMdz9SUeAwf9dscu) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Mabuk Laut](https://open.spotify.com/album/33y0fKhUcFcUeGv31HH4mg) | 4:14 | 2021-11-25 |  |
 | [Superhero](https://open.spotify.com/track/2XGFYZMzanUbWNSfox0U2z) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC), [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q) | [Superhero](https://open.spotify.com/album/7ke39l8r5Zu7MgMfqEaSt1) | 3:04 | 2021-11-25 |  |
 | [Tafsir Mistik](https://open.spotify.com/track/0aPepMh9otBMbV4xKmiRtq) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Tafsir Mistik](https://open.spotify.com/album/4b20NkzkPuqNDXmhcQ8gHi) | 4:09 | 2021-11-25 |  |
+| [The Stupid Song](https://open.spotify.com/track/4lfLg684A5uRL9gfNxQ1xx) | [Abraham Edo](https://open.spotify.com/artist/62iByAWLMcsNrR9aGr9gwB), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [The Stupid Song](https://open.spotify.com/album/5vqqd9xADRv7Sq5ewjv5nx) | 2:45 | 2022-01-27 |  |
 | [This Love Will Never End](https://open.spotify.com/track/2TqXDSUrc8zgMMI8KOHjCK) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 3:45 | 2021-11-25 |  |
 | [UWU \(Unhappy Without You\)](https://open.spotify.com/track/7epyzR1KrrHDOUeieXyxka) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [UWU \(Unhappy Without You\)](https://open.spotify.com/album/18TVJDxgsRqJlHU62hnJoJ) | 3:25 | 2021-11-25 |  |
 | [Waiting For You](https://open.spotify.com/track/3tcyNOKOBzLWr45Sg5gi8R) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Waiting For You](https://open.spotify.com/album/0dCKftLBkpep9tF6v91uUD) | 3:34 | 2021-11-25 |  |

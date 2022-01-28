@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 214533,
       "name": "Ain't No Right",
       "url": "https://open.spotify.com/track/09cGAeWYBVrV9jtUF4iOv7"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 219533,
       "name": "Broken People",
       "url": "https://open.spotify.com/track/5N5o5FArQjWJdZhy00qmUK"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 163773,
       "name": "Chip Away",
       "url": "https://open.spotify.com/track/7mlv1xHxHHv3PBcapEiJp7"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 211320,
       "name": "End To The Lies",
       "url": "https://open.spotify.com/track/7zQEPFd7ubM7PaNRx2UMBG"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 355626,
       "name": "Obvious",
       "url": "https://open.spotify.com/track/0OY5dYogbCSH4zvzL1hrrG"
@@ -633,9 +633,27 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "date_added": "2022-01-11",
+      "date_added": "2022-01-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 272386,
+      "name": "Strays",
+      "url": "https://open.spotify.com/track/7fNLuDI0HJO61SWq0MctAn"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-28",
       "duration_ms": 254560,
       "name": "Suffer Some",
       "url": "https://open.spotify.com/track/2cTkuiLU9KFstJ2ikgrqPM"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 344333,
       "name": "The Riches",
       "url": "https://open.spotify.com/track/0Cx7Zf4Aqlxd4lmHIRF7eL"
@@ -783,6 +801,24 @@
       "duration_ms": 648506,
       "name": "Three Days",
       "url": "https://open.spotify.com/track/05AW0o01NVyzWn52uM9boY"
+    },
+    {
+      "album": {
+        "name": "Strays",
+        "url": "https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325590,
+      "name": "To Match The Sun",
+      "url": "https://open.spotify.com/track/3XYHyEs2go41Bcsbn2vPXz"
     },
     {
       "album": {
@@ -887,7 +923,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 244666,
       "name": "Whores",
       "url": "https://open.spotify.com/track/381qntd8NgIOAu1GswB0bZ"

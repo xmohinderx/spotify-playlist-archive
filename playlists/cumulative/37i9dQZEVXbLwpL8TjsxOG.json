@@ -1968,6 +1968,24 @@
     },
     {
       "album": {
+        "name": "MM7",
+        "url": "https://open.spotify.com/album/2BFswwZQrotFdPT0Rf3cwk"
+      },
+      "artists": [
+        {
+          "name": "Jer \u67f3\u61c9\u5ef7",
+          "url": "https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240697,
+      "name": "MM7",
+      "url": "https://open.spotify.com/track/71zkB0xQxcF1Uq8F1ZoCqC"
+    },
+    {
+      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -5287,7 +5305,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 191886,
       "name": "\u8dcc\u5622\u5514\u597d\u6435",
       "url": "https://open.spotify.com/track/06bzWBi4FyF85A57GlV4H8"

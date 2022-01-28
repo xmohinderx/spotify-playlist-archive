@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 216280,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/5hufQzFmqxdyp09BQAqZ5C"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 213800,
       "name": "El D\u00eda Que Me Acaricies Llorar\u00e9",
       "url": "https://open.spotify.com/track/4Hju95i74r8s7zimcJ2map"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 155440,
       "name": "No Vale la Pena",
       "url": "https://open.spotify.com/track/2J6vnisCJupiop3tovP7Ay"
@@ -1823,6 +1823,24 @@
       "duration_ms": 244320,
       "name": "S\u00f3lo S\u00e9 Que Fue en Marzo",
       "url": "https://open.spotify.com/track/2lltOjlcDs7U6hdafijsK0"
+    },
+    {
+      "album": {
+        "name": "Te Llegar\u00e1 Mi Olvido",
+        "url": "https://open.spotify.com/album/1wPQmJqHHgHe8dTuP1yTAQ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136360,
+      "name": "Te Llegar\u00e1 Mi Olvido",
+      "url": "https://open.spotify.com/track/6UJAHl1NDh8Nroa27mIKDZ"
     },
     {
       "album": {

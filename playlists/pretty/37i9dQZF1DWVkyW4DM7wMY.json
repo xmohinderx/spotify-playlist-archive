@@ -1,13 +1,41 @@
 {
   "description": "The hottest alternative music from Nairobi to Dar!",
-  "num_followers": 6626,
+  "num_followers": 6632,
   "original_name": "Eastern Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjA4MTA5OCwwMDAwMDA0ODAwMDAwMTdlNTNhOTFhMmEwMDAwMDE3ZGEwMmY5NTA1",
+  "snapshot_id": "MTY0MzMxNzE0MCwwMDAwMDA0OTAwMDAwMTdlOWQ1NTlhOWEwMDAwMDE3ZTljOTQwNGVl",
   "tracks": [
+    {
+      "added_at": "2022-01-27 20:59:00",
+      "album": {
+        "name": "Sweeta",
+        "url": "https://open.spotify.com/album/4yzLR6HrG4b0lzjDqIXq8Y"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "mau from nowhere",
+          "url": "https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf"
+        }
+      ],
+      "duration_ms": 167125,
+      "name": "Sweeta",
+      "url": "https://open.spotify.com/track/4minQAokut1H7SBwPZKwtg"
+    },
     {
       "added_at": "2021-12-09 20:59:00",
       "album": {
@@ -77,6 +105,30 @@
       "url": "https://open.spotify.com/track/3UwxFtfHmrllZzm8bExvRb"
     },
     {
+      "added_at": "2022-01-27 20:59:00",
+      "album": {
+        "name": "Genuine",
+        "url": "https://open.spotify.com/album/2hDhraboxuNWVKTbg1sf0x"
+      },
+      "artists": [
+        {
+          "name": "Ekumbo",
+          "url": "https://open.spotify.com/artist/1a40Z4TMkLys2UVlxDXPT7"
+        },
+        {
+          "name": "Swahili Papi",
+          "url": "https://open.spotify.com/artist/66HNxzGcmvdYQD36Pcg0Di"
+        },
+        {
+          "name": "B.Hobs",
+          "url": "https://open.spotify.com/artist/6j4XLopWlHMQqAR92RvI53"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Genuine",
+      "url": "https://open.spotify.com/track/5pM1WfOZrSWWhap2LbUeIq"
+    },
+    {
       "added_at": "2021-11-11 20:59:00",
       "album": {
         "name": "Secret Love",
@@ -93,6 +145,22 @@
       "url": "https://open.spotify.com/track/0GtSe2T7ddleLyYRrDQwSF"
     },
     {
+      "added_at": "2022-01-27 20:59:00",
+      "album": {
+        "name": "Fair Game",
+        "url": "https://open.spotify.com/album/1IxoYVkTwUXmMnfnPpxQXo"
+      },
+      "artists": [
+        {
+          "name": "Nu Fvnk",
+          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Fair Game",
+      "url": "https://open.spotify.com/track/0N6jiFbnIPADb0ywO2Chqs"
+    },
+    {
       "added_at": "2021-10-15 19:38:29",
       "album": {
         "name": "Blue",
@@ -107,6 +175,22 @@
       "duration_ms": 270031,
       "name": "Stay",
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
+    },
+    {
+      "added_at": "2022-01-27 20:59:00",
+      "album": {
+        "name": "Camille",
+        "url": "https://open.spotify.com/album/0TuVjq7KoUQdIEq9agdjFo"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Camille",
+      "url": "https://open.spotify.com/track/74DvPOPk92XbKct0MwhCkv"
     },
     {
       "added_at": "2021-11-04 20:59:00",
@@ -215,6 +299,22 @@
       "duration_ms": 208124,
       "name": "Kash flow",
       "url": "https://open.spotify.com/track/5F5OaT1YRTUdDc3JaHX4wn"
+    },
+    {
+      "added_at": "2022-01-27 20:59:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/2KecTQNTYIbN0Fyu6TCl68"
+      },
+      "artists": [
+        {
+          "name": "TrishaGrey",
+          "url": "https://open.spotify.com/artist/1lKTTkoqEttbG5Tdn9X8Jx"
+        }
+      ],
+      "duration_ms": 168344,
+      "name": "Switch Energy",
+      "url": "https://open.spotify.com/track/7ihOawZIhBgY3txKEIGauf"
     },
     {
       "added_at": "2021-10-29 06:04:39",
@@ -591,22 +691,6 @@
     {
       "added_at": "2021-10-15 19:38:29",
       "album": {
-        "name": "Love Being Used",
-        "url": "https://open.spotify.com/album/04JP41K4j9UmDMnG5Glmg4"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 89000,
-      "name": "Love Being Used",
-      "url": "https://open.spotify.com/track/2W2lVHqOlwpEi41EKlu0o1"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
         "name": "Perfection // T r u s t",
         "url": "https://open.spotify.com/album/3oJxCtVQHvswZNwWVgKlJh"
       },
@@ -853,42 +937,6 @@
       "url": "https://open.spotify.com/track/4uuQPGD1JHLTmUkjWEXRhH"
     },
     {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Bururu",
-        "url": "https://open.spotify.com/album/5dtXHFvbsamHEh8YB9MGbX"
-      },
-      "artists": [
-        {
-          "name": "Sema Sole",
-          "url": "https://open.spotify.com/artist/6bKkC8yidNL8j94vKjLysJ"
-        }
-      ],
-      "duration_ms": 174529,
-      "name": "iBururu",
-      "url": "https://open.spotify.com/track/3WoZm7j7yedbj9Dh0XIYBX"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Name Me Mansa",
-        "url": "https://open.spotify.com/album/5BfJZMIXGxzyV9eQA44tMz"
-      },
-      "artists": [
-        {
-          "name": "MVNSA",
-          "url": "https://open.spotify.com/artist/7eDhN1XQFftwBO8b8AP4tc"
-        },
-        {
-          "name": "Dag Tenere",
-          "url": "https://open.spotify.com/artist/2R1UoujOq4kekTzz0eO9mM"
-        }
-      ],
-      "duration_ms": 189986,
-      "name": "TIMBUKTU",
-      "url": "https://open.spotify.com/track/6E54DHYKNZeAcwJmZ4Z5Kl"
-    },
-    {
       "added_at": "2021-11-11 20:59:00",
       "album": {
         "name": "She Took the Keys",
@@ -1023,22 +1071,6 @@
     {
       "added_at": "2021-10-15 19:38:29",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/0U49oasE1s5FWbYaKYE039"
-      },
-      "artists": [
-        {
-          "name": "Ceee",
-          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
-        }
-      ],
-      "duration_ms": 187315,
-      "name": "Another Kind",
-      "url": "https://open.spotify.com/track/5X2INJnx12CJqz2XKKc4NE"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
         "name": "Lorn",
         "url": "https://open.spotify.com/album/5XgH8gmjANlwLv4w4k9NnO"
       },
@@ -1129,78 +1161,6 @@
       "url": "https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53"
     },
     {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Shorts -EP",
-        "url": "https://open.spotify.com/album/4ZxY4aQytI7Ydd1213HZRu"
-      },
-      "artists": [
-        {
-          "name": "Barbara Wangui",
-          "url": "https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ"
-        }
-      ],
-      "duration_ms": 160416,
-      "name": "Kanyoni",
-      "url": "https://open.spotify.com/track/6UZcrzuokSStY50hAG20dX"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Nairobi Lost Tapes, Vol. 1",
-        "url": "https://open.spotify.com/album/5JXpQ1A62RHcXH9l963xtq"
-      },
-      "artists": [
-        {
-          "name": "MR. LU*",
-          "url": "https://open.spotify.com/artist/05KD4zm2D3CbvjIgylLTTF"
-        },
-        {
-          "name": "Selo",
-          "url": "https://open.spotify.com/artist/3YIXXBpayG6wLurirvtKbF"
-        }
-      ],
-      "duration_ms": 158500,
-      "name": "Corporate",
-      "url": "https://open.spotify.com/track/6EOG5p1ZdmfEgXxO18pJt2"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/1Jf4ia1dd68RkCKHHPLqBc"
-      },
-      "artists": [
-        {
-          "name": "Swami Sound",
-          "url": "https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII"
-        },
-        {
-          "name": "Chevy Kev",
-          "url": "https://open.spotify.com/artist/7b3Cm19fyzxElci72YY4xQ"
-        },
-        {
-          "name": "mau",
-          "url": "https://open.spotify.com/artist/6CXT5rXzTle8RsPrtrw7aj"
-        },
-        {
-          "name": "Maya Amolo",
-          "url": "https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H"
-        },
-        {
-          "name": "MR.LU",
-          "url": "https://open.spotify.com/artist/53SfY6OMDo9sMPS3DMxTSQ"
-        },
-        {
-          "name": "mwami",
-          "url": "https://open.spotify.com/artist/0efcioCBRBzfxRC6Ax0zXq"
-        }
-      ],
-      "duration_ms": 186009,
-      "name": "Mad Ting",
-      "url": "https://open.spotify.com/track/0329hJmIoXzCiAt2BkR4Zy"
-    },
-    {
       "added_at": "2021-11-04 20:59:00",
       "album": {
         "name": "Oluvannyuma",
@@ -1231,22 +1191,6 @@
       "duration_ms": 231724,
       "name": "Your Secret",
       "url": "https://open.spotify.com/track/3fdwsco6xvuzUjIMuxxdoY"
-    },
-    {
-      "added_at": "2021-10-15 19:38:29",
-      "album": {
-        "name": "Shwento 2020",
-        "url": "https://open.spotify.com/album/3Yzp0vJY1qmQZwoUfwdCik"
-      },
-      "artists": [
-        {
-          "name": "Shwento",
-          "url": "https://open.spotify.com/artist/1kujXfGrKwSU4xOaUtZBdZ"
-        }
-      ],
-      "duration_ms": 167183,
-      "name": "Move - Acoustic",
-      "url": "https://open.spotify.com/track/39Y8tJOuclCLZaCDD8M4kk"
     },
     {
       "added_at": "2021-10-15 19:38:29",

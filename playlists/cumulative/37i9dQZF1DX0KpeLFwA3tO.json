@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Mom Jeans.",
+  "description": "The best new music from the wide world of punk. Cover: Charlotte Sands",
   "name": "All New Punk",
   "published_playlist_ids": [
     "2haHBtUGc1WwW279RE9x3F"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/4bNa2MHnPB7zckROAHh8mR"
@@ -261,6 +261,24 @@
       "duration_ms": 269952,
       "name": "Bully Boy",
       "url": "https://open.spotify.com/track/6ZS9YeeBLJvpDfV3gLuoRl"
+    },
+    {
+      "album": {
+        "name": "Bye Bye Baby",
+        "url": "https://open.spotify.com/album/2PBHqIKDVODI3qiNgOhBBZ"
+      },
+      "artists": [
+        {
+          "name": "NOBRO",
+          "url": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152784,
+      "name": "Bye Bye Baby",
+      "url": "https://open.spotify.com/track/2NjwdiM3Bv0AfWT7JDM6UO"
     },
     {
       "album": {
@@ -423,7 +441,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 260519,
       "name": "Crawl!",
       "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
@@ -614,6 +632,28 @@
     },
     {
       "album": {
+        "name": "Ghosted",
+        "url": "https://open.spotify.com/album/1Wuhd5cCCiGIPlNgYmihi0"
+      },
+      "artists": [
+        {
+          "name": "Dead On A Sunday",
+          "url": "https://open.spotify.com/artist/2y19rzmHIF4YOLHm7AW0pl"
+        },
+        {
+          "name": "StayLoose",
+          "url": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161118,
+      "name": "Ghosted",
+      "url": "https://open.spotify.com/track/3n8PwxvqoHsohTXhKCoeCc"
+    },
+    {
+      "album": {
         "name": "Go To Hell (feat. Yours Truly)",
         "url": "https://open.spotify.com/album/1uAHVkRPGVP52UhGs5cSES"
       },
@@ -669,7 +709,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 160471,
       "name": "Green Squirrel in Pretty Bad Shape",
       "url": "https://open.spotify.com/track/33r1jonOpYUyWrk30ZeKHj"
@@ -759,7 +799,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 165916,
       "name": "hurt less",
       "url": "https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI"
@@ -939,7 +979,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 187155,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/5coZHMZoGV3PIjcumRM4YG"
@@ -957,7 +997,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 223030,
       "name": "Learn to Love the Lie - Acoustic",
       "url": "https://open.spotify.com/track/7bBTK0paYdudfyRoHD9Obc"
@@ -1036,6 +1076,24 @@
     },
     {
       "album": {
+        "name": "Living & Surfing",
+        "url": "https://open.spotify.com/album/2RdtBKGtz77ptP08DE4qX3"
+      },
+      "artists": [
+        {
+          "name": "BAD WITH PHONES",
+          "url": "https://open.spotify.com/artist/6pCduVf5CPK2i5C6FdWfaC"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171228,
+      "name": "Living & Surfing",
+      "url": "https://open.spotify.com/track/2xicgtm6ERHswB3w5LAXDH"
+    },
+    {
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/3mXRDtSoMDVNKnJLuKBfP4"
       },
@@ -1073,6 +1131,32 @@
       "duration_ms": 145103,
       "name": "Love It When You Hate Me (feat. blackbear)",
       "url": "https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr"
+    },
+    {
+      "album": {
+        "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+        "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207280,
+      "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+      "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
     },
     {
       "album": {
@@ -1203,6 +1287,24 @@
       "duration_ms": 178118,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/779GuRKb0pL3y6n4fdXnpT"
+    },
+    {
+      "album": {
+        "name": "Nobody Talks",
+        "url": "https://open.spotify.com/album/4CQUsBvPn8RbZe93h4UQWW"
+      },
+      "artists": [
+        {
+          "name": "Girl Afraid",
+          "url": "https://open.spotify.com/artist/0hDKwYmYwPx5rq9R24bZ3n"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Nobody Talks",
+      "url": "https://open.spotify.com/track/7z6cDZXIVIwMMUcNowI9TH"
     },
     {
       "album": {
@@ -1513,7 +1615,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 161186,
       "name": "Say It To My Face",
       "url": "https://open.spotify.com/track/2cPoeRmv4METe4ud4T451Z"
@@ -1607,6 +1709,28 @@
       "duration_ms": 156584,
       "name": "She Knows It",
       "url": "https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83"
+    },
+    {
+      "album": {
+        "name": "POP PUNK PONZI SCHEME",
+        "url": "https://open.spotify.com/album/0rkZSgDbzpQA6elsUSzy8e"
+      },
+      "artists": [
+        {
+          "name": "fredo disco",
+          "url": "https://open.spotify.com/artist/1zNfnkHqbNqPMm0LY98Tfx"
+        },
+        {
+          "name": "Disco Inc.",
+          "url": "https://open.spotify.com/artist/3mPyBjLQNaO5XwUyTXf5wL"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169736,
+      "name": "SHOWER SONG 2",
+      "url": "https://open.spotify.com/track/46fW1xHXSwTCvvty3TiiMq"
     },
     {
       "album": {
@@ -1886,6 +2010,24 @@
     },
     {
       "album": {
+        "name": "Via",
+        "url": "https://open.spotify.com/album/1QRJqKY7s8aL4X4XC2rjmB"
+      },
+      "artists": [
+        {
+          "name": "Talco",
+          "url": "https://open.spotify.com/artist/443KHruraFfm6t1cK8SJCc"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172224,
+      "name": "Via",
+      "url": "https://open.spotify.com/track/05Ww7H5UFxomEu7H9XLspK"
+    },
+    {
+      "album": {
         "name": "Waiting / Kill Something",
         "url": "https://open.spotify.com/album/7k4p5L2vlq7jdIAkB7HK8R"
       },
@@ -1897,10 +2039,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 190973,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2TfZoYnsj6V0GAKytmNidf"
+    },
+    {
+      "album": {
+        "name": "old dog, new tricks",
+        "url": "https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121604,
+      "name": "walking around with no hands",
+      "url": "https://open.spotify.com/track/26ZGLRIOtKcio6vF5ZVVd1"
     },
     {
       "album": {

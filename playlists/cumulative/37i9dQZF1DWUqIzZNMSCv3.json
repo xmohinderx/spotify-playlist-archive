@@ -222,6 +222,28 @@
     },
     {
       "album": {
+        "name": "Smetana: Piano Works 6",
+        "url": "https://open.spotify.com/album/03lo5FIUM2JhOs66qCDFtg"
+      },
+      "artists": [
+        {
+          "name": "Bed\u0159ich Smetana",
+          "url": "https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4"
+        },
+        {
+          "name": "Jitka \u010cechov\u00e1",
+          "url": "https://open.spotify.com/artist/5Y25U2cOdB0UQ56nL8RcKX"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117626,
+      "name": "Album Leaves (Stammbuchbl\u00e4tter): I. For Kate\u0159ina Kol\u00e1\u0159ov\u00e1",
+      "url": "https://open.spotify.com/track/2czqg4YLVDdeDIvr8rYxyc"
+    },
+    {
+      "album": {
         "name": "The American Virtuoso",
         "url": "https://open.spotify.com/album/0vdIwOj00vVbRNxi70rurD"
       },

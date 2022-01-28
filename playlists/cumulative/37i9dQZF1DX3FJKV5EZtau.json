@@ -256,6 +256,28 @@
     },
     {
       "album": {
+        "name": "Blur (feat. Dacy)",
+        "url": "https://open.spotify.com/album/1v68aSVcFu6CvRz7P8dhnk"
+      },
+      "artists": [
+        {
+          "name": "QUIET BISON",
+          "url": "https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f"
+        },
+        {
+          "name": "Dacy",
+          "url": "https://open.spotify.com/artist/7fgYuoYmdlHrGWM3mRZJMp"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255374,
+      "name": "Blur (feat. Dacy)",
+      "url": "https://open.spotify.com/track/0ZttcfFpXraHVv00visCOK"
+    },
+    {
+      "album": {
         "name": "Bury Me",
         "url": "https://open.spotify.com/album/3x50qCtW8ywyUzJgMolMX1"
       },
@@ -311,7 +333,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Carbonara",
       "url": "https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW"
@@ -405,7 +427,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 164571,
       "name": "Chocolate Parfait",
       "url": "https://open.spotify.com/track/5p5pPuUueY58wD20cMxGge"
@@ -591,7 +613,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 185600,
       "name": "Disclosure",
       "url": "https://open.spotify.com/track/2vcJAITdwdlaZzOfOQeBYN"
@@ -733,7 +755,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 205935,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/3Tz5z68t6Ii4rf6bTMJHyo"
@@ -1013,7 +1035,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 217600,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/74wHiizV0lG0YBHq2Cxn0j"
@@ -1067,7 +1089,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Geist",
       "url": "https://open.spotify.com/track/7KhkLJhPnrym8A989786NP"
@@ -1125,7 +1147,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 260344,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/7bT32pu1rHEiS6OGvbZwNV"
@@ -1293,7 +1315,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 288545,
       "name": "Hypervelocity (from HARDCORE UTOPIA 2)",
       "url": "https://open.spotify.com/track/7aSAkpmPssSngNdpuod8Dh"
@@ -1333,7 +1355,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 220800,
       "name": "I have something to tell you",
       "url": "https://open.spotify.com/track/3w0Hy2IxxClVnhcmAwX7Ej"
@@ -1603,7 +1625,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 244323,
       "name": "Maboroshi",
       "url": "https://open.spotify.com/track/5euHZw4X82pmE12LUP7Zam"
@@ -1701,7 +1723,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 231000,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/0jaMyOCkBqBFps33YS3ZOR"
@@ -1719,7 +1741,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 199399,
       "name": "Mike Tyson",
       "url": "https://open.spotify.com/track/7c1nwQG909uEAphCBqXdIy"
@@ -1755,7 +1777,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 229600,
       "name": "Miss Ya",
       "url": "https://open.spotify.com/track/625S4t7RE31ZlTkY7AzMsD"
@@ -1795,7 +1817,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 145920,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1LMQs29W9GOBtpR7sNRBNz"
@@ -1849,7 +1871,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 277577,
       "name": "Need You",
       "url": "https://open.spotify.com/track/5STieahH7NJnbrZ41SFKQ8"
@@ -1867,7 +1889,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 187428,
       "name": "Never Give Up (Arknights Soundtrack)",
       "url": "https://open.spotify.com/track/2K93b71bQC0y8wTkR7Dz9w"
@@ -1999,7 +2021,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 171789,
       "name": "Ocean's End",
       "url": "https://open.spotify.com/track/3L7eNE6i3bCJxX9xUHNp0X"
@@ -2083,7 +2105,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 268000,
       "name": "Overthinker",
       "url": "https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg"
@@ -2375,7 +2397,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 235862,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/6KGdBk6B5wqMdzjBsxsk33"
@@ -2637,7 +2659,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 187801,
       "name": "Sky Blue",
       "url": "https://open.spotify.com/track/0YBra1QGuIhdTWlEwnEkQY"
@@ -2757,7 +2779,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 209708,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy"
@@ -2865,7 +2887,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 203524,
       "name": "Sweet Treasure",
       "url": "https://open.spotify.com/track/6v4lc6bZ9N1biVJSHvbtte"
@@ -2883,7 +2905,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "SWEETHEART",
       "url": "https://open.spotify.com/track/1pm53W5JpBdkVyE72mm7W3"
@@ -3025,7 +3047,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 181714,
       "name": "Traffic - Pocket Remix",
       "url": "https://open.spotify.com/track/7flM0HXN6R0L2W4iQGeIxF"
@@ -3333,7 +3355,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 232296,
       "name": "Worlds Away",
       "url": "https://open.spotify.com/track/7oN714ES39BtIurjS46BQt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,639 likes - 101 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,156 likes - 101 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 33 | [Area 51 \(Remix\) \[feat\. Big Yavo\]](https://open.spotify.com/track/6hxpwRJr4mfxVeH02F99LF) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Area 51 \(Remix\) \[feat\. Big Yavo\]](https://open.spotify.com/album/0Lkn98cNVQJumP1a0VsaX1) | 2:32 |
 | 34 | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42) | 3:01 |
 | 35 | [AIN'T MY FAULT \(feat\. 42 Dugg\)](https://open.spotify.com/track/30An28ovHzHONcqysPKIIs) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [AIN'T MY FAULT \(feat\. 42 Dugg\)](https://open.spotify.com/album/6BTeOKDYTNW0fTKmf2uROH) | 3:30 |
-| 36 | [Crunk Muzik](https://open.spotify.com/track/0am3GdTDO0aboRv8CHZfMi) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Ditta](https://open.spotify.com/artist/6lw0FZVLsqX9J67YD4yuQ8) | [Gangsta Grillz: We Set the Trends](https://open.spotify.com/album/1iIiRb8lGx4sWT6cBkwRes) | 3:42 |
+| 36 | [Crunk Muzik](https://open.spotify.com/track/0am3GdTDO0aboRv8CHZfMi) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Ditta](https://open.spotify.com/artist/2aHSgiRkMyPAC7XUpLHJUh) | [Gangsta Grillz: We Set the Trends](https://open.spotify.com/album/1iIiRb8lGx4sWT6cBkwRes) | 3:42 |
 | 37 | [Bounce Out](https://open.spotify.com/track/0sGZ7fSjf9FwXwUMBMlD1W) | [Kuttem Reese](https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4) | [Bounce Out](https://open.spotify.com/album/1NL1LWbjMm9inP25ll9H1d) | 2:34 |
 | 38 | [LLC \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blockchain](https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY) | 3:15 |
 | 39 | [Alright](https://open.spotify.com/track/3dqFdKbZacv3Z3XzFtIFjE) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:57 |

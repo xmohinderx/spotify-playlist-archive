@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 136800,
       "name": "Arab Money",
       "url": "https://open.spotify.com/track/13hILdDfGkOKcpnQwp3VhC"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 186017,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 150106,
       "name": "Clandestina (feat. Emma Peters) - Cocaina Remix",
       "url": "https://open.spotify.com/track/5x5jtuR4qWJzC6cDTgysez"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 234838,
       "name": "Give a Little",
       "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 484644,
       "name": "Hebele Hubulu",
       "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
@@ -1719,7 +1719,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 170228,
       "name": "Magic",
       "url": "https://open.spotify.com/track/0jqczwiW0nZS9nbHcP53zH"
@@ -1915,7 +1915,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 221962,
       "name": "Mosa\u00efque",
       "url": "https://open.spotify.com/track/175YJCAiO0KSP05eI9XINZ"
@@ -1955,7 +1955,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 224262,
       "name": "Mra ou Mermora",
       "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
@@ -1977,7 +1977,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 172216,
       "name": "My Name Is Tokyo",
       "url": "https://open.spotify.com/track/0JZv3A589Gt4wFSHxOYWxq"
@@ -2073,7 +2073,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 152380,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/1drJPCR41J9gdpln5VxdIa"
@@ -2233,7 +2233,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 160051,
       "name": "One Night in Dubai",
       "url": "https://open.spotify.com/track/0AmwmAEOgm11kXiaL9jHOZ"
@@ -2937,7 +2937,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 274889,
       "name": "The Calling",
       "url": "https://open.spotify.com/track/4nS46Jdr0O9VCg8yDCIK7o"
@@ -3007,7 +3007,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 179512,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
@@ -3029,7 +3029,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 335483,
       "name": "Undersand",
       "url": "https://open.spotify.com/track/7cFwlRiqAjrF4V0ZSJlGMB"
@@ -3234,6 +3234,24 @@
     },
     {
       "album": {
+        "name": "Youm Wara Youm (Remix)",
+        "url": "https://open.spotify.com/album/5ymwbdQyEx0e5ZPxa4ogWF"
+      },
+      "artists": [
+        {
+          "name": "Hijazi",
+          "url": "https://open.spotify.com/artist/5TP76JKGj9ualoRtE2vcPL"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171129,
+      "name": "Youm Wara Youm (Remix)",
+      "url": "https://open.spotify.com/track/0Nwjfrhdu6s4fG20fzNs7V"
+    },
+    {
+      "album": {
         "name": "Your Love (Anthony Keyrouz Remix)",
         "url": "https://open.spotify.com/album/3riktT549Qi3VPtvd7fsdo"
       },
@@ -3293,7 +3311,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 411806,
       "name": "Zamen - Amine K Remix",
       "url": "https://open.spotify.com/track/3z9c90mEZypec8OYZGCAdr"

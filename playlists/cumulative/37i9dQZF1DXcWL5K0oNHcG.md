@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcWL5K0oNHcG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcWL5K0oNHcG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcWL5K0oNHcG)
 
-### Fresh Finds Jazz
+### [Fresh Finds Jazz](https://open.spotify.com/playlist/0wb3k7kBCUHVvVA8CRqr8x)
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Nathaniel Cross\. Artwork: Joy Yamusangie
 
@@ -92,7 +92,7 @@
 | [Typewriter](https://open.spotify.com/track/3pFpV6eYUs3j5SLnE61kdO) | [Francesco Varchetta](https://open.spotify.com/artist/3ERZNiI0UcyrkfIvAOAYH0), [Nicholas Semrad](https://open.spotify.com/artist/7m1erfSSLJQWqqPupOL2Zo), [Lex Sadler](https://open.spotify.com/artist/5lqfCbYobJnMTHN9bf1isS), [Guido Della Gatta](https://open.spotify.com/artist/7lynE967aAq5HwH8gazbSA) | [Typewriter](https://open.spotify.com/album/5W8YvLtMFTGM4VzuJwY5kp) | 3:40 | 2022-01-19 |  |
 | [Universal](https://open.spotify.com/track/1yHzvWNx9vVBK5R82TyaHr) | [L'Orage](https://open.spotify.com/artist/1ibLxKta6pYMM58vHaa9Yx) | [Universal](https://open.spotify.com/album/6vkX4sBYjBGqbKzeHbxwL1) | 5:33 | 2022-01-19 |  |
 | [When This Is Over](https://open.spotify.com/track/38BnDGZBonpPyxxkyXYiZU) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [When This Is Over](https://open.spotify.com/album/29aHc10ynKgXVPkpcoTQGz) | 4:41 | 2022-01-26 |  |
-| [Wind Rose](https://open.spotify.com/track/7JWBLNkOkJkxaeVrIfFGdk) | [Lisa Ono](https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k) | [Grand Voyage](https://open.spotify.com/album/6gzWFN7EHXqlNTvP7iKLP3) | 8:53 | 2022-01-26 |  |
+| [Wind Rose](https://open.spotify.com/track/7JWBLNkOkJkxaeVrIfFGdk) | [Junko Onishi](https://open.spotify.com/artist/1uf65qkb0qgOAo0tbUWfux) | [Grand Voyage](https://open.spotify.com/album/6gzWFN7EHXqlNTvP7iKLP3) | 8:53 | 2022-01-26 |  |
 | [Y Y Y](https://open.spotify.com/track/0Uu75qt9N2yFrsB00ToVuL) | [Thijsenterprise](https://open.spotify.com/artist/4drMo3t6HWiUDk5zebLn32) | [Three Houses](https://open.spotify.com/album/30rLJkySYWosSee9GbsBXt) | 3:05 | 2022-01-19 |  |
 | [Yanavy Obaki](https://open.spotify.com/track/58vQhz3CLq2WbjVZXZpvwb) | [delay\_ok](https://open.spotify.com/artist/2oT9LKmddTQnPCEfbJH935) | [Modern Uganda](https://open.spotify.com/album/7yyNdeishrr78limvFPivT) | 6:01 | 2022-01-19 |  |
 | [zone](https://open.spotify.com/track/3srTk3CSCipsClcQe19Zdc) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [zone](https://open.spotify.com/album/1x0H01RL9hf5YEor0qayxe) | 3:15 | 2022-01-26 |  |

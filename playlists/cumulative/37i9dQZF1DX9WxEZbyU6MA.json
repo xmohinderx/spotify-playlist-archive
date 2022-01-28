@@ -94,6 +94,32 @@
     },
     {
       "album": {
+        "name": "Traditional Swedish Songs of Spring & Summer",
+        "url": "https://open.spotify.com/album/1osojsmR81Rtf2HpHo2G2z"
+      },
+      "artists": [
+        {
+          "name": "Carl Nielsen",
+          "url": "https://open.spotify.com/artist/73I7vbj7hzsw8rW4LUoxtz"
+        },
+        {
+          "name": "Orphei Dr\u00e4ngar",
+          "url": "https://open.spotify.com/artist/3Lc34BF8LDk8Ae0T81du3S"
+        },
+        {
+          "name": "Robert Sund",
+          "url": "https://open.spotify.com/artist/1mk1T3aM1xxxPAPPyWxW9l"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154080,
+      "name": "Aftenstemning (Evening Mood), FS 48",
+      "url": "https://open.spotify.com/track/1l1WJKJh4Rc8JcRbnIvEqD"
+    },
+    {
+      "album": {
         "name": "All\u00e1 se me ponga el sol \u00e0 4",
         "url": "https://open.spotify.com/album/63GCQSLn5ST8LSG0P2yDG4"
       },

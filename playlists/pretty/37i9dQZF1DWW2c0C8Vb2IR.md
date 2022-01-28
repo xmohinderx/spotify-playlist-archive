@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Charlie Gabriel
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,460 likes - 61 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,497 likes - 61 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

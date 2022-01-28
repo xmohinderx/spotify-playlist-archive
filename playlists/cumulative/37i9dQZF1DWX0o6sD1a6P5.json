@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover:  Fireboy DML",
+  "description": "Feel-good Afropop from Europe and Africa. Cover:  Tayc",
   "name": "Afro Hits",
   "published_playlist_ids": [
     "1dEBeASsRuQMcB6nFV6Y3W"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 181360,
       "name": "Anoti",
       "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
@@ -648,6 +648,28 @@
     },
     {
       "album": {
+        "name": "Everyday (feat. Driks)",
+        "url": "https://open.spotify.com/album/5uOY2WSj7m275wjFJf31cP"
+      },
+      "artists": [
+        {
+          "name": "Low Jay",
+          "url": "https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N"
+        },
+        {
+          "name": "Driks",
+          "url": "https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Everyday (feat. Driks)",
+      "url": "https://open.spotify.com/track/1ZP32IwIIPcz3BRjF7erjj"
+    },
+    {
+      "album": {
         "name": "Contr\u00f4le",
         "url": "https://open.spotify.com/album/2Ik3t8UvhZSeFGzpwZMth4"
       },
@@ -1138,6 +1160,28 @@
     },
     {
       "album": {
+        "name": "Ronisia",
+        "url": "https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Suis-moi (feat. Ninho)",
+      "url": "https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0"
+    },
+    {
+      "album": {
         "name": "Back 2 Basics",
         "url": "https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB"
       },
@@ -1175,7 +1219,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 250386,
       "name": "Tap\u00e9 Poto",
       "url": "https://open.spotify.com/track/06lE7fleMxHKOSXAscjo9K"

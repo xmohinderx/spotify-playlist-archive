@@ -454,6 +454,32 @@
     },
     {
       "album": {
+        "name": "Chaka Chak (From \"Atrangi Re\")",
+        "url": "https://open.spotify.com/album/7bpePuWB0HBjVcosNkaVWd"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269780,
+      "name": "Chaka Chak (From \"Atrangi Re\")",
+      "url": "https://open.spotify.com/track/5pbOpE6CfRgGnPPZJSDfME"
+    },
+    {
+      "album": {
         "name": "Chandigarh Kare Aashiqui Title Track (From \"Chandigarh Kare Aashiqui\")",
         "url": "https://open.spotify.com/album/3J0XOvaaEByP4xeGTtYa9Y"
       },

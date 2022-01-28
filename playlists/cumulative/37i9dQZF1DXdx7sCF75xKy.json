@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Buat Ku Sempurna",
+        "url": "https://open.spotify.com/album/0Zk8UiB0JmFI3kaf9YQz7j"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Reynauld",
+          "url": "https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168454,
+      "name": "Buat Ku Sempurna",
+      "url": "https://open.spotify.com/track/39fKEscitfslEas7J1zKFJ"
+    },
+    {
+      "album": {
         "name": "Canggung",
         "url": "https://open.spotify.com/album/488QbDqTZZFl6yyCD1mn5p"
       },
@@ -257,7 +275,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 225000,
       "name": "Demi Cinta",
       "url": "https://open.spotify.com/track/4iJtK3IRikkbfcJbDJ9SlD"

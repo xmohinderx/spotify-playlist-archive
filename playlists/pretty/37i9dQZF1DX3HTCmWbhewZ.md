@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HTCmWbhewZ.md) - [plain]
 
 > The best of Irish history, poetry, and prose.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,588 likes - 121 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,587 likes - 121 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

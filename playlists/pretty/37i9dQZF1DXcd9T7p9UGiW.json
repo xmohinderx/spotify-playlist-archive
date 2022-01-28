@@ -1,12 +1,12 @@
 {
   "description": "Catching flights and going global. Cover: <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=H3sjdL1LSbONuAz5j6s78A\"> Fireboy DML</a> and <a href=\"https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V?si=JWZclHrdR2y-4b5qS2idxg\"> Ed Sheeran </a>",
-  "num_followers": 2013,
+  "num_followers": 2020,
   "original_name": "Gone Abroad ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjcxOTYwMCwwMDAwMDAwYzAwMDAwMTdlNzliN2RlNjMwMDAwMDE3ZTUzMWI4NDcz",
+  "snapshot_id": "MTY0MzMyNDQwMCwwMDAwMDAwZDAwMDAwMTdlOWRjNDYyNTkwMDAwMDE3ZTUzMWI4NDcz",
   "tracks": [
     {
       "added_at": "2022-01-13 23:01:00",
@@ -87,6 +87,26 @@
       "duration_ms": 199521,
       "name": "Energy (Stay Far Away)",
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
+    },
+    {
+      "added_at": "2022-01-27 23:00:00",
+      "album": {
+        "name": "Good Love (feat. Tay Iwar)",
+        "url": "https://open.spotify.com/album/25NtIUVnX0QEX2GKJxngfe"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Good Love (feat. Tay Iwar)",
+      "url": "https://open.spotify.com/track/5e9zCEEb46UhmJijPq4rTn"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -1383,30 +1403,6 @@
     {
       "added_at": "2021-10-08 09:53:07",
       "album": {
-        "name": "Diaspora",
-        "url": "https://open.spotify.com/album/790qROmQ1y4aPEYLcSkScH"
-      },
-      "artists": [
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
-        },
-        {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
-        },
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Zulu Screams (feat. Maleek Berry & Bibi Bourelly)",
-      "url": "https://open.spotify.com/track/2YRDTr0reanrGZOTsWXdek"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
         "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
         "url": "https://open.spotify.com/album/7dnrc3yw8NH1xEW1Z2m8Xn"
       },
@@ -1491,26 +1487,6 @@
       "duration_ms": 327393,
       "name": "Bad Habits - Kooldrink Amapiano Remix",
       "url": "https://open.spotify.com/track/6OvZNs4JjdyebEiIi0jcaR"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Blessing",
-        "url": "https://open.spotify.com/album/1QQiHqjKzRU5Rd0Uo0cpzZ"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/18aLGK4o5W41lc8T7jPMJ0"
     },
     {
       "added_at": "2021-10-08 09:53:07",

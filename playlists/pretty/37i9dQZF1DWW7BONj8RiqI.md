@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > Kes takes over Massive Soca Hits for Carnival 2021
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,191 likes - 42 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,244 likes - 42 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

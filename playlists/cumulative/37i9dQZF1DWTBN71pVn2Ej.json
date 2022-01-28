@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 185400,
       "name": "45",
       "url": "https://open.spotify.com/track/5USjlCAmUe7ujh6bgfgqi9"
@@ -296,6 +296,24 @@
     },
     {
       "album": {
+        "name": "CASUALTY",
+        "url": "https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158081,
+      "name": "CASUALTY",
+      "url": "https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc"
+    },
+    {
+      "album": {
         "name": "Moral Panic II",
         "url": "https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY"
       },
@@ -548,6 +566,24 @@
     },
     {
       "album": {
+        "name": "God Mode",
+        "url": "https://open.spotify.com/album/1GvslqXT34VyeA5kyHN9yK"
+      },
+      "artists": [
+        {
+          "name": "Y!KES",
+          "url": "https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262053,
+      "name": "God Mode",
+      "url": "https://open.spotify.com/track/3fKImW78YPG0o8lHYYo21l"
+    },
+    {
+      "album": {
         "name": "Great Mass of Color",
         "url": "https://open.spotify.com/album/5ddrqR2Joahx06ydwYTLAp"
       },
@@ -613,7 +649,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 389954,
       "name": "Hush",
       "url": "https://open.spotify.com/track/366FR61dXAk66bzHbYHPOw"

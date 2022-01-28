@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -622,7 +622,7 @@
     },
     {
       "album": {
-        "name": "Ay Mama",
+        "name": "Ay Mam\u00e1",
         "url": "https://open.spotify.com/album/26As3PYmCCD390xoIJ4RE6"
       },
       "artists": [
@@ -635,7 +635,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181695,
-      "name": "Ay Mama",
+      "name": "Ay Mam\u00e1",
       "url": "https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg"
     },
     {
@@ -3885,6 +3885,24 @@
       "duration_ms": 177583,
       "name": "Morad: Bzrp Music Sessions, Vol. 47",
       "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
+    },
+    {
+      "album": {
+        "name": "Mujeriego",
+        "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
     },
     {
       "album": {

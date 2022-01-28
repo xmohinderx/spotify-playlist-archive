@@ -2,7 +2,7 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/4F7NjOso9HiGHjthWcrZL4)
 
-> 2021 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 顏人中 \(Ele Yan\)
+> 2021 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 宋柏緯 \(Edison Song\)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [妳說妳還不了](https://open.spotify.com/track/1PAZp3Hl6Fbj4pPkHFkyKm) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [規定情境](https://open.spotify.com/album/4mpAbNAVOM2j6pAsanglOi) | 4:07 | 2021-12-30 |  |
 | [對的自己](https://open.spotify.com/track/6MCQf5MTTr5iOnWFO3LoA0) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:56 | 2022-01-20 |  |
 | [已經結束的](https://open.spotify.com/track/3n2nL6Acs4XapA3rOd38gk) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [dopaMINE 我,她](https://open.spotify.com/album/52S6rk20AFlIRBmOd214NN) | 4:19 | 2021-12-30 | 2022-01-14 |
+| [已經都壞掉了](https://open.spotify.com/track/63SsfMEls60dFyvkcFIkz9) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:37 | 2022-01-27 |  |
 | [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 | 2021-12-30 | 2022-01-14 |
 | [幸福藏在哪裡 \- 天堂的微笑片頭曲](https://open.spotify.com/track/2BVe8mICFBg4OMJyBSgdq9) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 5:02 | 2021-12-30 |  |
 | [微光](https://open.spotify.com/track/0mABNr5Atp6fm2lvRd74XF) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [規定情境](https://open.spotify.com/album/4mpAbNAVOM2j6pAsanglOi) | 4:13 | 2021-12-30 |  |
@@ -67,19 +68,21 @@
 | [溫室狂花](https://open.spotify.com/track/00aJoSrsoDIzFznPDkBUFP) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:30 | 2021-12-30 |  |
 | [為誰美麗 \(電視劇《小娘惹》片頭曲\)](https://open.spotify.com/track/2LkfGqX8noAbYSNJRrh4qb) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [為誰美麗 \(電視劇《小娘惹》片頭曲\)](https://open.spotify.com/album/2FMnoESoZ9w02fhGGe1z5N) | 4:38 | 2021-12-30 | 2022-01-21 |
 | [無名花 \- 《黑喵知情》片尾曲](https://open.spotify.com/track/6UrTNSVvlIWlaPRMHtQPDZ) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:58 | 2022-01-13 | 2022-01-21 |
-| [用破碎的心修好破碎的心](https://open.spotify.com/track/3EvumpHbK2EfvajrCxpjt4) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [用破碎的心修好破碎的心](https://open.spotify.com/album/6SrDbUMiQ9Nh53gZUDugwZ) | 3:11 | 2021-12-30 |  |
+| [用破碎的心修好破碎的心](https://open.spotify.com/track/3EvumpHbK2EfvajrCxpjt4) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [用破碎的心修好破碎的心](https://open.spotify.com/album/6SrDbUMiQ9Nh53gZUDugwZ) | 3:11 | 2021-12-30 | 2022-01-28 |
 | [稱職](https://open.spotify.com/track/4rGmfL85pgfnInGd7TWGoN) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [稱職](https://open.spotify.com/album/59oYBzmP7hyCBSIr4v6OXH) | 4:14 | 2021-12-30 | 2022-01-07 |
 | [精神賠償](https://open.spotify.com/track/6M4MSJfYOaqHMxNPQCePBP) | [Fang Wu](https://open.spotify.com/artist/2GluLnUHh09d9sUXwpoMJu), [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [生存法則](https://open.spotify.com/album/2WtwxC5NNElvkYrr7zsSDc) | 3:54 | 2021-12-30 | 2022-01-21 |
 | [給妳的歌 \- 戲劇<網紅的瘋狂世界>插曲](https://open.spotify.com/track/4JDeSXA5DS365GDu3peN3K) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [dopaMINE 我,她](https://open.spotify.com/album/52S6rk20AFlIRBmOd214NN) | 3:58 | 2021-12-30 |  |
 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 | 2022-01-20 |  |
+| [脆弱](https://open.spotify.com/track/5rsMC01Nv2dVprvmkcrvZD) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 3:01 | 2022-01-27 |  |
 | [虧欠](https://open.spotify.com/track/5yiJ65THPeXiZFcYwh8t1U) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [虧欠](https://open.spotify.com/album/0UvqTkCJvKAt4W20NGu4SG) | 3:39 | 2021-12-30 |  |
 | [血肉](https://open.spotify.com/track/7sGuReeKI5Q1AkBc1AOKkP) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/7xJYGibKb3w5YK25Zf4vrp) | 3:05 | 2021-12-30 |  |
 | [說你愛我](https://open.spotify.com/track/72yzt0HsibF0bHqQgivEyl) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e), [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [說你愛我](https://open.spotify.com/album/0YerCHP3B8EYjRnRsLAzvD) | 4:08 | 2021-12-30 |  |
 | [走散](https://open.spotify.com/track/3S1MwunjjH7XGEUT9MS6Me) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [規定情境](https://open.spotify.com/album/4mpAbNAVOM2j6pAsanglOi) | 4:25 | 2022-01-20 |  |
 | [跳舞的猫](https://open.spotify.com/track/7dryI2oKSV5C0ramBteshK) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [跳舞的猫](https://open.spotify.com/album/4h1124e8ixcu95drNaYZc2) | 2:33 | 2021-12-30 |  |
 | [都關掉](https://open.spotify.com/track/5XdG0tp2OpA2teEtM7dw6K) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ), [BG8LOCC](https://open.spotify.com/artist/2lWqmnfn0X5kcU6JSOrjdE) | [都關掉](https://open.spotify.com/album/27I61UMXy0tUeuy9sJa3rN) | 2:53 | 2021-12-30 |  |
-| [陪你失敗 \(feat\. 寺二\)](https://open.spotify.com/track/53EYK5DubMOz2x71TZERPl) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [寺二](https://open.spotify.com/artist/1EMVtU2X6lNkNNfALzCEuT) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 5:06 | 2021-12-30 |  |
-| [雲的距離 \(feat\. Osean\)](https://open.spotify.com/track/6645VYAAcaBWlVYUmiUVQm) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [雲的距離 \(feat\. Osean\)](https://open.spotify.com/album/3JPaeWx9N0Y03cFX1KEJSc) | 3:17 | 2021-12-30 |  |
+| [醒來想和你說說話](https://open.spotify.com/track/3kSDxMklq12LPCinUsoIlG) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [醒來想和你說說話](https://open.spotify.com/album/0L1AyMcsobJnmmE7vAVdQj) | 3:30 | 2022-01-27 |  |
+| [陪你失敗 \(feat\. 寺二\)](https://open.spotify.com/track/53EYK5DubMOz2x71TZERPl) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [寺二](https://open.spotify.com/artist/1EMVtU2X6lNkNNfALzCEuT) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 5:06 | 2021-12-30 | 2022-01-28 |
+| [雲的距離 \(feat\. Osean\)](https://open.spotify.com/track/6645VYAAcaBWlVYUmiUVQm) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [雲的距離 \(feat\. Osean\)](https://open.spotify.com/album/3JPaeWx9N0Y03cFX1KEJSc) | 3:17 | 2021-12-30 | 2022-01-28 |
 | [鯨魚](https://open.spotify.com/track/2l2ELmXAsLPYdDaqv86inS) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [鯨魚](https://open.spotify.com/album/02GXdT6dk5VTw7BmenxVgh) | 4:01 | 2021-12-30 |  |
 | [黃昏](https://open.spotify.com/track/7qzU33Hm6LlTgjEQNh7e23) | [張伍](https://open.spotify.com/artist/6Nw4dxS4O2ZFOXIi5338gm), [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [黃昏](https://open.spotify.com/album/4dbacDVvwhfVLD0X0vFCg9) | 4:04 | 2021-12-30 |  |
 | [點燈的人](https://open.spotify.com/track/2UH12YTjx5ynDqdrNZ6OBx) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [點燈的人](https://open.spotify.com/album/6uvtbqW6YYCjvzpVTPjaCy) | 3:45 | 2021-12-30 |  |

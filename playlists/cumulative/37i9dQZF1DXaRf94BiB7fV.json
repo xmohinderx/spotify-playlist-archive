@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/3E8SGHvPEMc3ivqlwQoBEu"
+      },
+      "artists": [
+        {
+          "name": "Niteesh",
+          "url": "https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193288,
+      "name": "31",
+      "url": "https://open.spotify.com/track/2oGYin33bQAA7M2s0pSQQ6"
+    },
+    {
+      "album": {
         "name": "90s kids politics",
         "url": "https://open.spotify.com/album/436a1vCtzy4hujAb8e5OPE"
       },
@@ -314,6 +332,24 @@
     },
     {
       "album": {
+        "name": "Back In Time",
+        "url": "https://open.spotify.com/album/1zDU5qikhDLQpnClHXVsqI"
+      },
+      "artists": [
+        {
+          "name": "Samarth",
+          "url": "https://open.spotify.com/artist/5fHs8tr3rTiJOFCRIfHSc1"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Back In Time",
+      "url": "https://open.spotify.com/track/7oXp6X1nTpzmGOem2nZjci"
+    },
+    {
+      "album": {
         "name": "Baju Band",
         "url": "https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f"
       },
@@ -439,7 +475,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 353750,
       "name": "Bihag",
       "url": "https://open.spotify.com/track/5pcewCfXI5xVVdDsPQbi4g"
@@ -563,7 +599,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 205078,
       "name": "dancing in the bedroom sky",
       "url": "https://open.spotify.com/track/6pszbuiSRAzNOUhKp2X8Fs"
@@ -966,6 +1002,32 @@
     },
     {
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/1MOxduRyFE8Sw4gsXC1x3L"
+      },
+      "artists": [
+        {
+          "name": "Aman Jagwani",
+          "url": "https://open.spotify.com/artist/1tPPcb50f30mPgZdBq4hWx"
+        },
+        {
+          "name": "Anubha Kaul",
+          "url": "https://open.spotify.com/artist/6Uc6gvNu6F0FOnnwU8M0pS"
+        },
+        {
+          "name": "Fryderyk HD",
+          "url": "https://open.spotify.com/artist/7aekh5wH9rnsgPAM0aOmY4"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387962,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/300axL2BgjBWYPJpYjPYxm"
+    },
+    {
+      "album": {
         "name": "hues of autumn",
         "url": "https://open.spotify.com/album/5ZoDNnUCMG1kPRDVY9sKrh"
       },
@@ -1042,6 +1104,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Me When I'm With You",
+        "url": "https://open.spotify.com/album/7tNT9K379K8ol8qWwer8xs"
+      },
+      "artists": [
+        {
+          "name": "Tarra",
+          "url": "https://open.spotify.com/artist/0zeS3VoQckGiXlZudEnWqx"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125500,
+      "name": "I'm Not Me When I'm With You",
+      "url": "https://open.spotify.com/track/4WltlmjDNJl7myQv88RWw8"
+    },
+    {
+      "album": {
         "name": "Impatient",
         "url": "https://open.spotify.com/album/0Rm3gHEnuM8cXnBpLyjsU9"
       },
@@ -1075,7 +1155,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 208800,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/5FNT87UIyz9TehAbTpAdUW"
@@ -1177,7 +1257,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 232285,
       "name": "It's All Good",
       "url": "https://open.spotify.com/track/3hEJZyCwAGzRsVujGhsbcR"
@@ -1247,7 +1327,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 181000,
       "name": "Jago",
       "url": "https://open.spotify.com/track/6xVLp14RuxwWprcM17JqEU"
@@ -1511,7 +1591,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 166707,
       "name": "Khwaabon",
       "url": "https://open.spotify.com/track/4uP0X4Q6RpUlQpbLwVpZAC"
@@ -1735,7 +1815,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 149463,
       "name": "Lilith's Daughter",
       "url": "https://open.spotify.com/track/7tj59KWpOBTTIi9lM7BWpO"
@@ -1793,7 +1873,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 267666,
       "name": "Mahaz",
       "url": "https://open.spotify.com/track/4mqi4DkldG66N0dbhx7xdW"
@@ -2047,7 +2127,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 223269,
       "name": "Naina",
       "url": "https://open.spotify.com/track/5SJ6qJaUj9jXLqRJzmUxQF"
@@ -2413,7 +2493,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 146000,
       "name": "Reh Ja Sath",
       "url": "https://open.spotify.com/track/70Sww4aNEAPpscGIari2Aq"
@@ -2519,7 +2599,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 177669,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/7oiKXUoA3Lu6AkU2OaYlSu"
@@ -2541,7 +2621,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 246496,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/5IcVqCATeKoeIzwO59x2rQ"
@@ -2767,7 +2847,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 157996,
       "name": "Shmoyo",
       "url": "https://open.spotify.com/track/1WQP1or3glFCXXndPi3EbW"
@@ -2865,7 +2945,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 233000,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/4nRSqQfv2mXfspE6wsL6H5"
@@ -2883,7 +2963,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 190199,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5bOwnBLmVtmhvCX4xH6aLa"
@@ -3191,6 +3271,24 @@
       "duration_ms": 182526,
       "name": "Tum Meri Thi",
       "url": "https://open.spotify.com/track/4PN3qVs0PdkJLQ9NhKNZs0"
+    },
+    {
+      "album": {
+        "name": "Tum Mile Ho Badi Der Se",
+        "url": "https://open.spotify.com/album/6veMQnDdYHEcOToYSxEoE4"
+      },
+      "artists": [
+        {
+          "name": "Anshul joshi",
+          "url": "https://open.spotify.com/artist/0Z9PXJOz9n6hswjUTrukT9"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298776,
+      "name": "Tum Mile Ho Badi Der Se",
+      "url": "https://open.spotify.com/track/7pTWZLVQngaegF2Q2xROEx"
     },
     {
       "album": {

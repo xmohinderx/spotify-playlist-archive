@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Oslo Ibrahim",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Suara Kayu",
   "name": "RADAR Indonesia",
   "published_playlist_ids": [
     "37dv0S75HQ2Wer6Z25cDjS"
@@ -298,6 +298,28 @@
     },
     {
       "album": {
+        "name": "Kumpulan Cerita Pendek",
+        "url": "https://open.spotify.com/album/1YtbLVcymkCfIM5BzocDge"
+      },
+      "artists": [
+        {
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        },
+        {
+          "name": "BIANCADIMAS",
+          "url": "https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196899,
+      "name": "Hahaha",
+      "url": "https://open.spotify.com/track/6TeXaBY0c9lIG5x9Qs2s3H"
+    },
+    {
+      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/7yeVTWzr0IeAso9hQSZ5LQ"
       },
@@ -335,6 +357,24 @@
       "duration_ms": 227067,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4pGGz0mCKGyORnYXIxcmd1"
+    },
+    {
+      "album": {
+        "name": "It's Never Easy",
+        "url": "https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108714,
+      "name": "i don\u2019t need u",
+      "url": "https://open.spotify.com/track/3nrNlNub0uPSexmYXrbhHh"
     },
     {
       "album": {
@@ -981,6 +1021,28 @@
       "duration_ms": 249343,
       "name": "Tafsir Mistik",
       "url": "https://open.spotify.com/track/0aPepMh9otBMbV4xKmiRtq"
+    },
+    {
+      "album": {
+        "name": "The Stupid Song",
+        "url": "https://open.spotify.com/album/5vqqd9xADRv7Sq5ewjv5nx"
+      },
+      "artists": [
+        {
+          "name": "Abraham Edo",
+          "url": "https://open.spotify.com/artist/62iByAWLMcsNrR9aGr9gwB"
+        },
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165089,
+      "name": "The Stupid Song",
+      "url": "https://open.spotify.com/track/4lfLg684A5uRL9gfNxQ1xx"
     },
     {
       "album": {

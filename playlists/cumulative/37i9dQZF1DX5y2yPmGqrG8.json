@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 491371,
       "name": "1/2 SCULPTURE",
       "url": "https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 434480,
       "name": "A World Without Guns",
       "url": "https://open.spotify.com/track/4EpPtQ7OCNYRTkC5aDvycN"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 251847,
       "name": "Agua Canilla",
       "url": "https://open.spotify.com/track/7osvXwUYGYS9It92uJGnG1"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 244000,
       "name": "Akal Ki",
       "url": "https://open.spotify.com/track/3sUtDNoHKdFV4WXShozY22"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 288068,
       "name": "AM Prosperita\u0308t",
       "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 352357,
       "name": "Angel's Flight",
       "url": "https://open.spotify.com/track/1tCPxwo9ll7rxCxaEBq06f"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 238352,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/56UAbykT9QMR1RllgK3QOe"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 476689,
       "name": "CHIAROSCURO",
       "url": "https://open.spotify.com/track/7kdc3HHWBRY4aUxFdgFRJD"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 139867,
       "name": "clarity",
       "url": "https://open.spotify.com/track/7smjNSQAciZfQHDyF1Nxp2"
@@ -1050,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Beautiful You",
+        "url": "https://open.spotify.com/album/2f3uhql1s62iUw61GMvpRM"
+      },
+      "artists": [
+        {
+          "name": "Khotin",
+          "url": "https://open.spotify.com/artist/0q2WkTHTEczNf8wNq6MBRk"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283200,
+      "name": "Dwellberry",
+      "url": "https://open.spotify.com/track/47D1bGtpL5gzlPgxjV7kgB"
+    },
+    {
+      "album": {
         "name": "Nocturnina",
         "url": "https://open.spotify.com/album/6jSvr6MVCXunzOMKoOxaEE"
       },
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 295500,
       "name": "Fen",
       "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
@@ -1263,7 +1281,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 188697,
       "name": "Gradual of Image",
       "url": "https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 200348,
       "name": "Hiddensee",
       "url": "https://open.spotify.com/track/6HXAoCEMSpzUoMd9KopnZq"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 369400,
       "name": "Honey",
       "url": "https://open.spotify.com/track/70iTotURNOZOTMi7hWnk3F"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 421000,
       "name": "How to Disappear in a Kiss",
       "url": "https://open.spotify.com/track/4GDjGs6s64cIpF4bbtp8Kv"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 190135,
       "name": "Hypermetropia, pt. 1",
       "url": "https://open.spotify.com/track/15xmSzL7MKI9o6dBFx8FCM"
@@ -1437,7 +1455,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 242624,
       "name": "Hypnagogia",
       "url": "https://open.spotify.com/track/1M6qjM8BzvCmNvvKnYjAM3"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 356352,
       "name": "Il gioco dei sogni",
       "url": "https://open.spotify.com/track/0eDqOXTKmulWCdzgppH1TI"
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA"
@@ -1517,7 +1535,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 333706,
       "name": "Implosion-Explosion",
       "url": "https://open.spotify.com/track/5teWqTjZx7kMto0UUKGCZK"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 252735,
       "name": "Inspirit",
       "url": "https://open.spotify.com/track/5MuOyrchRTf3geg8GQYkvi"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 191413,
       "name": "Kalimba Heart",
       "url": "https://open.spotify.com/track/6zHLUchfVKSSvDOYqrQu4U"
@@ -1703,7 +1721,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 284684,
       "name": "Land III - Vocal Mix",
       "url": "https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP"
@@ -2013,7 +2031,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 469311,
       "name": "Orgias de Bordados",
       "url": "https://open.spotify.com/track/4JsNVQReHfh06eHLbqeLje"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 178703,
       "name": "Over & Over",
       "url": "https://open.spotify.com/track/4jbmBkyBit7Geqa5tALgWf"
@@ -2179,7 +2197,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 301291,
       "name": "Play The Ghost",
       "url": "https://open.spotify.com/track/0nL2bTth1UVQHWDDumMm3f"
@@ -2595,7 +2613,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 315111,
       "name": "Strange Town - Julia Holter Edit",
       "url": "https://open.spotify.com/track/2bKdcXm8NZ0yavonGR86Vf"
@@ -2733,10 +2751,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 159158,
       "name": "The Pillow Sisters",
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
+    },
+    {
+      "album": {
+        "name": "The Pressure of this Water",
+        "url": "https://open.spotify.com/album/4rA2FJ57zTxyZ64KsWJyVg"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625989,
+      "name": "The Pressure of this Water",
+      "url": "https://open.spotify.com/track/2vU8Q0aWDE5jImv5FY7ooF"
     },
     {
       "album": {
@@ -2781,7 +2817,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 292539,
       "name": "The Rhythm Of A Dividing Pair",
       "url": "https://open.spotify.com/track/3c8mNUeqbasEt6BvzYtxNb"
@@ -2897,7 +2933,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 278693,
       "name": "TOBIUME",
       "url": "https://open.spotify.com/track/5JpfGKhIFJqGYdTf8wlr8q"
@@ -2973,7 +3009,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 259724,
       "name": "Ugly Orange",
       "url": "https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P"
@@ -3031,7 +3067,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 190472,
       "name": "Wetlands",
       "url": "https://open.spotify.com/track/7G5UnjAsSp8HOHgDbgJ1wa"
@@ -3053,7 +3089,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 329468,
       "name": "Wind On Water",
       "url": "https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt"
@@ -3071,7 +3107,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 170000,
       "name": "Winter's Lament",
       "url": "https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd"
@@ -3107,7 +3143,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 245533,
       "name": "Zamami",
       "url": "https://open.spotify.com/track/7K8eTIxgAaPpmyg8bC17pi"

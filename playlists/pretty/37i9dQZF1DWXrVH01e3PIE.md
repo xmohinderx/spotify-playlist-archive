@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > La casa del Trap de Argentino\. <br/>Foto: Lucho SSJ & C.R.O.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,620 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,745 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 | 8 | [Debo Cambiar \(feat\. KHEA\)](https://open.spotify.com/track/39sN5AQLHrhILYMn2VJh2q) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Debo Cambiar \(feat\. KHEA\)](https://open.spotify.com/album/2AYHyHVhyGGLwwpG54z4To) | 2:52 |
 | 9 | [Motoquera](https://open.spotify.com/track/36shWdXMTiPo8HD1J1w84S) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Reicing](https://open.spotify.com/album/67D050tXcCNCXFcpfWVjzl) | 3:01 |
 | 10 | [OTRA NOCHE](https://open.spotify.com/track/1JszOi9nTXFR5gxFyczhEw) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [TRAP DE VERDAD](https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K) | 2:49 |
-| 11 | [RPSNT](https://open.spotify.com/track/1IhWFLPAiD30fCt2YoIa5Y) | [Osx Mob](https://open.spotify.com/artist/6uJE0vxnT7UNCgBHOCZ7WV), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Spekter](https://open.spotify.com/artist/2hliiu43MCbFQnDtfXKXsm) | [RPSNT](https://open.spotify.com/album/1y1CLAGu91YqmrlWP04xo0) | 2:48 |
+| 11 | [RPSNT](https://open.spotify.com/track/1IhWFLPAiD30fCt2YoIa5Y) | [Osx Mob](https://open.spotify.com/artist/6uJE0vxnT7UNCgBHOCZ7WV), [Spekter](https://open.spotify.com/artist/2hliiu43MCbFQnDtfXKXsm) | [RPSNT](https://open.spotify.com/album/1y1CLAGu91YqmrlWP04xo0) | 2:48 |
 | 12 | [Sangre](https://open.spotify.com/track/3ODrnuH1Qx2iX6P7MEo3lF) | [MP El Juvenil](https://open.spotify.com/artist/15vXM78j1GTjXVKzk8i5P3), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic) | [Sangre](https://open.spotify.com/album/7jxepQCHjYw27f7DWpApSW) | 2:47 |
 | 13 | [Día De Pago](https://open.spotify.com/track/56CnVxbOqzOXBJrVxnMTtk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Día De Pago](https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe) | 3:07 |
 | 14 | [SEA LA HORA QUE SEA](https://open.spotify.com/track/0Xu2p23OYBluVeY5w3SEH2) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [TRAP DE VERDAD](https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K) | 2:36 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "music that's hard to define but easy to love. Cover: Holly Humberstone\n",
+  "description": "music that's hard to define but easy to love. Cover: Rex Orange County\n",
   "name": "Front Left",
   "published_playlist_ids": [
     "5RqnN0oKCcJKCYYq3GeJkr"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 191732,
       "name": "Cherry Blossoms in Tokyo",
       "url": "https://open.spotify.com/track/2ty9DxGlEvAxkBYEYgE7Pd"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 142404,
       "name": "F It ILY",
       "url": "https://open.spotify.com/track/6hEl2GPGZq7kMIYI6TTKHL"
@@ -715,10 +715,28 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 228534,
       "name": "FOREVER (feat. BROODS)",
       "url": "https://open.spotify.com/track/1Oi354OePPmpvCsfZayQrC"
+    },
+    {
+      "album": {
+        "name": "Freaky (RGB)",
+        "url": "https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109296,
+      "name": "Freaky (RGB)",
+      "url": "https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS"
     },
     {
       "album": {
@@ -878,6 +896,24 @@
     },
     {
       "album": {
+        "name": "good grief",
+        "url": "https://open.spotify.com/album/5DRCGpra0LkrXkcMg8Lb9p"
+      },
+      "artists": [
+        {
+          "name": "teddie",
+          "url": "https://open.spotify.com/artist/413K7knAxLgSwXtGFEGuAP"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193890,
+      "name": "good grief",
+      "url": "https://open.spotify.com/track/1tCzRaxUdrbwgD8JhpZNZ3"
+    },
+    {
+      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/1I6INBRN8GU7VecaGJeaLk"
       },
@@ -1030,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "home",
+        "url": "https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245472,
+      "name": "home",
+      "url": "https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy"
+    },
+    {
+      "album": {
         "name": "How Does It Feel?",
         "url": "https://open.spotify.com/album/3GRrJQlccv4BAXIkmmz2tK"
       },
@@ -1143,7 +1197,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 256539,
       "name": "I Fucked It Up",
       "url": "https://open.spotify.com/track/7nGxhKrc7bVYe2IsNmiocK"
@@ -1230,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "JANUARY",
+        "url": "https://open.spotify.com/album/4fK5S753I5OACZuv7m5okG"
+      },
+      "artists": [
+        {
+          "name": "KANADA THE LOOP",
+          "url": "https://open.spotify.com/artist/0memvAGubR0iSAZmXnY4ta"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139197,
+      "name": "JANUARY",
+      "url": "https://open.spotify.com/track/0gNep5C5Vb0qgYUc3M4G6W"
+    },
+    {
+      "album": {
         "name": "CAPRISONGS",
         "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
       },
@@ -1307,6 +1379,24 @@
       "duration_ms": 223494,
       "name": "Just Fine",
       "url": "https://open.spotify.com/track/52ZA1aJx7iJCeAWiOZB4Kp"
+    },
+    {
+      "album": {
+        "name": "KEEP IT UP",
+        "url": "https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "KEEP IT UP",
+      "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
     },
     {
       "album": {
@@ -1574,6 +1664,24 @@
     },
     {
       "album": {
+        "name": "Motordrome",
+        "url": "https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194653,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/2WQUdOtqdAZm3qf5esD6x6"
+    },
+    {
+      "album": {
         "name": "New Shapes (feat. Christine and the Queens and Caroline Polachek)",
         "url": "https://open.spotify.com/album/3oFHBiIriBPXysgMbeaUVY"
       },
@@ -1730,6 +1838,28 @@
     },
     {
       "album": {
+        "name": "to hell with it (Remixes)",
+        "url": "https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121991,
+      "name": "Pain - Powfu Remix",
+      "url": "https://open.spotify.com/track/0xMU756oj0eyXAtoIy3KUl"
+    },
+    {
+      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/1M7I2M0fVqa2QqbeoDD7kq"
       },
@@ -1857,6 +1987,28 @@
       "duration_ms": 198002,
       "name": "Preview",
       "url": "https://open.spotify.com/track/4XwgwuC4nFaq602YAebfZP"
+    },
+    {
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/7c2P9D7n2ve73GhVHeOHVb"
+      },
+      "artists": [
+        {
+          "name": "Hermitude",
+          "url": "https://open.spotify.com/artist/3fmMaLC5jjf2N4EC2kTx0u"
+        },
+        {
+          "name": "Andie",
+          "url": "https://open.spotify.com/artist/1Uxt9rwMK1taBTGLS2SZkr"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236261,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/3utMhdPyABjuo1mXoY2Fn2"
     },
     {
       "album": {
@@ -2057,7 +2209,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
@@ -2195,7 +2347,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 217390,
       "name": "Strangers (with Mansionair)",
       "url": "https://open.spotify.com/track/63TjlMDhCFiZyZTRAa8o9a"
@@ -2213,7 +2365,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 213129,
       "name": "Sugarcoated",
       "url": "https://open.spotify.com/track/2vikHaqM94lU7kRMvlBX4s"
@@ -2381,7 +2533,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 206666,
       "name": "Temper",
       "url": "https://open.spotify.com/track/5Zt29iKebWhkpbnsv92HuT"
@@ -2540,6 +2692,24 @@
     },
     {
       "album": {
+        "name": "vinegar",
+        "url": "https://open.spotify.com/album/5aaVC5e0OslOtUwx8bUwv9"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196125,
+      "name": "vinegar",
+      "url": "https://open.spotify.com/track/35jHNbOE3tKh8DW0CMi1ck"
+    },
+    {
+      "album": {
         "name": "growing pains",
         "url": "https://open.spotify.com/album/4ydL1OENIYGUlgTWDpUcs5"
       },
@@ -2689,7 +2859,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 194813,
       "name": "What's Not To Like",
       "url": "https://open.spotify.com/track/5HJtZ0LgiKvvJAyfBf8MsF"

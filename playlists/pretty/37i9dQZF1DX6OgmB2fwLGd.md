@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Cover: Coco & Clair Clair
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045,768 likes - 121 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,046,119 likes - 121 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

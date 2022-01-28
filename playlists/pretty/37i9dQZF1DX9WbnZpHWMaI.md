@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Octo Octa
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,272 likes - 68 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,316 likes - 68 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

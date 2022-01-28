@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127636,
+  "num_followers": 127644,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzIxMywwN2U2Y2Q5NGY1M2FjMWQyYTYxMDk0ZTEyYzRlMzE5MjA0MWJjMGY4",
+  "snapshot_id": "MzIxNSwyNWMxZTIyM2U2YzNmYjg4YmRkZmU0YjE1MjU2MzAxMzEzZWQzZTVm",
   "tracks": [
+    {
+      "added_at": "2022-01-27 16:42:14",
+      "album": {
+        "name": "Shadowblade",
+        "url": "https://open.spotify.com/album/1aX6eK8WqLSwPh7LTbgLJz"
+      },
+      "artists": [
+        {
+          "name": "Caster",
+          "url": "https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox"
+        }
+      ],
+      "duration_ms": 255766,
+      "name": "Shadowblade",
+      "url": "https://open.spotify.com/track/6tyfFtThdu7pYvDs2uRcjT"
+    },
     {
       "added_at": "2022-01-26 17:21:22",
       "album": {
@@ -1119,26 +1135,6 @@
       "duration_ms": 150250,
       "name": "Light of Mine",
       "url": "https://open.spotify.com/track/3jMeoTAxDrZfkVxMmWcWCg"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Used",
-        "url": "https://open.spotify.com/album/6rHqNX0gISvnog7Q0vm0e8"
-      },
-      "artists": [
-        {
-          "name": "LAR",
-          "url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0"
-        },
-        {
-          "name": "Emma Mae",
-          "url": "https://open.spotify.com/artist/43a6MOLTIzH1H3LjXIJOZv"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Used",
-      "url": "https://open.spotify.com/track/221btWts70oQ60quERFxXM"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

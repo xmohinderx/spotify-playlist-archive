@@ -638,6 +638,28 @@
     },
     {
       "album": {
+        "name": "Mystic Lake",
+        "url": "https://open.spotify.com/album/6l7Fftxgpp5v82xsKLPR45"
+      },
+      "artists": [
+        {
+          "name": "Thalamin",
+          "url": "https://open.spotify.com/artist/2N0Xnet6aMQX4wfeUm5ocT"
+        },
+        {
+          "name": "Pewi",
+          "url": "https://open.spotify.com/artist/4ZfTBcrBgwqlKRcqKjdkmJ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152307,
+      "name": "Mystic Lake",
+      "url": "https://open.spotify.com/track/1ByQZanLiy9aTuMmqyIb27"
+    },
+    {
+      "album": {
         "name": "Native American Music",
         "url": "https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4"
       },

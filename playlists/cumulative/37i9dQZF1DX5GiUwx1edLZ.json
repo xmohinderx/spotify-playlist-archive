@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214174,
+      "name": "All We Do",
+      "url": "https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5"
+    },
+    {
+      "album": {
         "name": "Another Chance (Remixes)",
         "url": "https://open.spotify.com/album/5pLiabGezZM6PTes04JYsF"
       },
@@ -157,7 +175,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 221998,
       "name": "Be Your Sound - Live Acoustic Version",
       "url": "https://open.spotify.com/track/5hWZSnDyQSdydBWrZnVX9Z"
@@ -453,7 +471,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 192978,
       "name": "Don't Wanna Be Right (Acoustic)",
       "url": "https://open.spotify.com/track/1E2q2ZFaXpqxXZlztdn2iV"
@@ -475,7 +493,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 257923,
       "name": "Don't You Worry Child - Acoustic Version",
       "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 189464,
       "name": "Fire - M&F's in Session Edit",
       "url": "https://open.spotify.com/track/6BU8Zh86mwohDsmSyvB6hg"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 161000,
       "name": "Follow Me (Acoustic Version)",
       "url": "https://open.spotify.com/track/2pLE33FR1hBKBh20aouYHJ"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 204374,
       "name": "Freeze Time - Acoustic Version",
       "url": "https://open.spotify.com/track/7xDuAq8R7VVufDqqz5ZCi3"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 245066,
       "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
       "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 151974,
       "name": "Lighter (feat. KSI & Ella Henderson) - Acoustic",
       "url": "https://open.spotify.com/track/7AKVU7SsXyPlWvRJPSTWHV"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 222275,
       "name": "Real Life - Acoustic",
       "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 304983,
       "name": "Satellite / Stealing Time",
       "url": "https://open.spotify.com/track/7fBKJ3CxmG1LQHexTIY7g7"
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 198985,
       "name": "Shivers - Acoustic Version",
       "url": "https://open.spotify.com/track/7pp1dAz4SXWz052k2idxTn"
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 194000,
       "name": "Shockwave - Acoustic Version",
       "url": "https://open.spotify.com/track/57A8SCoG3YamyeNzizCtaH"
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 189793,
       "name": "Something Just Like This - Acoustic",
       "url": "https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg"
@@ -2289,7 +2307,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 241087,
       "name": "Tears - Acoustic Piano Version; Instrumental",
       "url": "https://open.spotify.com/track/3foAHYDoyz3Xc48rbfxLLg"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 282744,
       "name": "The Scientist",
       "url": "https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH"
@@ -2395,7 +2413,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 260839,
       "name": "Thing Called Love",
       "url": "https://open.spotify.com/track/6J6AUucDtx9c0cjzjBUUtS"

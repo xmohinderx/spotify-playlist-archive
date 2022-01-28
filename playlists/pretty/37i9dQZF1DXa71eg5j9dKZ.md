@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Fred again.., Romy & HAAi
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,837 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,869 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Easy](https://open.spotify.com/track/2Z5pQyvM2jC2lFOJTjKCnv) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Easy](https://open.spotify.com/album/0kcweyBVhphCeUTj1TBcPc) | 3:04 |
 | 100 | [U Around Me](https://open.spotify.com/track/6eVHuIqlFkiji8ZsCHpCMl) | [Pray J](https://open.spotify.com/artist/5aLvVB85i8o3lnKqaKA7At) | [U Around Me](https://open.spotify.com/album/3mnzaBb32Co1B4lf8Sdv06) | 3:01 |
 
-Snapshot ID: `MTY0MjcyMzIwMCwwMDAwMDFhZDAwMDAwMTdlNzllZWNjODMwMDAwMDE3ZTc5MGNlN2Ey`
+Snapshot ID: `MTY0MzI3ODQ2NCwwMDAwMDFhZTAwMDAwMTdlOWIwNzc1OWYwMDAwMDE3ZTc5MGNlN2Ey`

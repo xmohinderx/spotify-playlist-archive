@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 437906,
       "name": "A Sea Of Love",
       "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 412000,
       "name": "Antec\u00e1mara",
       "url": "https://open.spotify.com/track/42RLy3PPI7zlf18MP095BC"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 145376,
       "name": "cells_",
       "url": "https://open.spotify.com/track/5wL47ObGrxG1tjiIRs4fal"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 220000,
       "name": "First Frost",
       "url": "https://open.spotify.com/track/2zJzDb6WVwDmfp0GN7FOOF"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 225054,
       "name": "My Birthday Suit",
       "url": "https://open.spotify.com/track/4dNCTC7Q27PYCYaj1j2Rob"
@@ -1184,6 +1184,24 @@
     },
     {
       "album": {
+        "name": "sense",
+        "url": "https://open.spotify.com/album/2aNbPPwVOJ9NGrjm8wYW0L"
+      },
+      "artists": [
+        {
+          "name": "SITES",
+          "url": "https://open.spotify.com/artist/2bUC0gcXgRmEE2KxMvvLLf"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512742,
+      "name": "sense",
+      "url": "https://open.spotify.com/track/22MoPPtD3KKQSlC9TX4OeU"
+    },
+    {
+      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
@@ -1285,7 +1303,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 467159,
       "name": "Small Triumphs and Deep Disappointments",
       "url": "https://open.spotify.com/track/0vIZVb4SiFVnyu8hQSwxK1"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/7oeoPQWwvxCSvJP3YFOhpz"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 330285,
       "name": "Woolspeak",
       "url": "https://open.spotify.com/track/7rO7EbiyeOy0yL0ROnBOKW"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 363120,
       "name": "Your Pond",
       "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"

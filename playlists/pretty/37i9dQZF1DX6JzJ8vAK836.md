@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 
 > Pop, rock, funk, R&B, psychedelia—the man from Minneapolis was a true original and earth\-shattering performer\. Hear <a href="spotify:artist:5a2EaR3hamoenG9rDuVn8j">Prince Rogers Nelson</a>'s best right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 721,870 likes - 74 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 721,962 likes - 74 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JzJ8vAK836.md) - [plain]
 | 62 | [Scandalous](https://open.spotify.com/track/2dnPoLlcwJFtFm1pps3Bm0) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Batman](https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK) | 6:15 |
 | 63 | [Insatiable](https://open.spotify.com/track/2cXdUg5c57C4b2qLCqHAOX) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 6:39 |
 | 64 | [Do Me, Baby](https://open.spotify.com/track/621BmKwXCNiTBfmeJtxoD8) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA) | 7:43 |
-| 65 | [How Come U Don't Call Me Anymore](https://open.spotify.com/track/7oZKxGPHuMVSVmFzuiKkWG) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO) | 3:54 |
+| 65 | [How Come U Don't Call Me Anymore](https://open.spotify.com/track/7oZKxGPHuMVSVmFzuiKkWG) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [The Hits / The B\-Sides](https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO) | 3:53 |
 | 66 | [Money Don't Matter 2 Night](https://open.spotify.com/track/4TD2ZZETSh7OFOw1RTNPGb) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Diamonds and Pearls](https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa) | 4:46 |
 | 67 | [The Morning Papers](https://open.spotify.com/track/1Q52V3Lq3yxsYaeZrPdPJZ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [\[Love Symbol\]](https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA) | 3:57 |
 | 68 | [Sometimes It Snows in April](https://open.spotify.com/track/1Az0fhiWi0EVS4cZ3FF20X) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 6:49 |

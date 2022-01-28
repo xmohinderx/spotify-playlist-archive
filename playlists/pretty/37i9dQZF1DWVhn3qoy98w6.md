@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: LucA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,815 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,831 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 35 | [Déjate Llevar](https://open.spotify.com/track/5J4dokBOoHgx1IXjyXTein) | [Santi Guzmán](https://open.spotify.com/artist/3dmmxOvzNgb7YPcykTfZaM), [Mi Hermano y Yo](https://open.spotify.com/artist/6UR3UWYLFnAoVrRB0CVfxQ) | [Déjate Llevar](https://open.spotify.com/album/0zMF3e84qBbC6mVonJGtCD) | 3:08 |
 | 36 | [de momento bien](https://open.spotify.com/track/5P3udx9NWuu8McD14gBZRe) | [caracazador](https://open.spotify.com/artist/7hZOaMYny31bAxM3BhzHca), [gervalesi](https://open.spotify.com/artist/4nKmI7bfl0vGFUPJjvxzX6) | [de momento bien](https://open.spotify.com/album/5iFHSN5F5N4kYkc9OSbb2q) | 4:04 |
 | 37 | [Pop de mierda](https://open.spotify.com/track/46WPh3gBKX18mmj2LGuAKm) | [Secundaria](https://open.spotify.com/artist/2X9pSg6p44sB1cQYty192c) | [Pop de mierda](https://open.spotify.com/album/6f7J1Un4AZZfmGLVkthFjR) | 2:58 |
-| 38 | [spanishpill \- 1](https://open.spotify.com/track/61P1OUWQtYxvGCSOe6xBey) | [Dellachaouen](https://open.spotify.com/artist/42KvInQHbbKzmb8rsimvwv) | [spanishpill](https://open.spotify.com/album/7IIYQuKzsTJHO8uwaZ6DZY) | 2:42 |
+| 38 | [spanishpill](https://open.spotify.com/track/61P1OUWQtYxvGCSOe6xBey) | [Dellachaouen](https://open.spotify.com/artist/42KvInQHbbKzmb8rsimvwv), [Jay Cas](https://open.spotify.com/artist/5CC3QHWWfDGEIbEMlOgh6z) | [spanishpill](https://open.spotify.com/album/7IIYQuKzsTJHO8uwaZ6DZY) | 2:42 |
 | 39 | [DUELE MÁS](https://open.spotify.com/track/1qLBuWOGySYMHkPEJRAmMg) | [OROVEGA](https://open.spotify.com/artist/1pW5kxwuPn0E0abawoXNH0) | [DUELE MÁS](https://open.spotify.com/album/6lAWMIqDbM5X3Xz6E2JAz7) | 3:25 |
 | 40 | [Cruces Que Arden](https://open.spotify.com/track/3JGIvrSN89g5LvN7pzl89t) | [Tarik Rahim](https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN) | [Cruces Que Arden](https://open.spotify.com/album/1icFieYST87BskOi2QJI5P) | 2:22 |
 | 41 | [Cómo generar serotonina desde el desazón](https://open.spotify.com/track/1YsbhkOV6XVMuunN5nKm7C) | [Mona Desnuda](https://open.spotify.com/artist/2GB25mqMNUxS6zm4vreckO) | [Marco Vol\. I](https://open.spotify.com/album/1h83oW79WRd43Zd43A7eEL) | 2:32 |

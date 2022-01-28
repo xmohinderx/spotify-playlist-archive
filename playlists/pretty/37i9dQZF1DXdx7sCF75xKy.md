@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Vanessa Reynauld
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,041 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,041 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Putus \- From "Takdir Yang Tertulis" Soundtrack](https://open.spotify.com/track/7eSaYXtRgpYMaNMlSPgLpI) | [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [Putus \(From "Takdir Yang Tertulis" Soundtrack\)](https://open.spotify.com/album/4Yfnhk4PUV5HyUq0IW0Vaz) | 4:00 |
+| 1 | [Buat Ku Sempurna](https://open.spotify.com/track/39fKEscitfslEas7J1zKFJ) | [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [Buat Ku Sempurna](https://open.spotify.com/album/0Zk8UiB0JmFI3kaf9YQz7j) | 2:48 |
 | 2 | [Good Behaviour](https://open.spotify.com/track/3nnvLEArRQf6HgpC8VNqgK) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Good Behaviour](https://open.spotify.com/album/4bAfpIai1dvdqA0UgA5r7c) | 4:03 |
 | 3 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 |
 | 4 | [Bertenang](https://open.spotify.com/track/3WkuHiTXVlvkR7dl5UpmGz) | [Najwa Latif](https://open.spotify.com/artist/5uuA00QFo3PFnc16RVZwwt) | [Bertenang](https://open.spotify.com/album/6VLQV2IHaVunlZg3JdgnBh) | 3:18 |
-| 5 | [Demi Cinta](https://open.spotify.com/track/4iJtK3IRikkbfcJbDJ9SlD) | [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [Demi Cinta](https://open.spotify.com/album/7lOOj0VQMRkcZvfILHBSO2) | 3:45 |
+| 5 | [Putus \- From "Takdir Yang Tertulis" Soundtrack](https://open.spotify.com/track/7eSaYXtRgpYMaNMlSPgLpI) | [Vanessa Reynauld](https://open.spotify.com/artist/3ClWG1ei6mt02XaSzpuSYa) | [Putus \(From "Takdir Yang Tertulis" Soundtrack\)](https://open.spotify.com/album/4Yfnhk4PUV5HyUq0IW0Vaz) | 4:00 |
 | 6 | [FOOL](https://open.spotify.com/track/3VqnLrwIssvMhmv8XyPbG2) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [FOOL](https://open.spotify.com/album/5BuoKXWA9s5sWMJ5XZgqxb) | 2:59 |
 | 7 | [巴比诺 \(feat\. Bunga\)](https://open.spotify.com/track/6kGAENtjEDiELGDuqF98W6) | [Layla Sania](https://open.spotify.com/artist/7cgAsD4dJVqN4ckWT9jbEK), [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t) | [巴比诺 \(feat\. Bunga\)](https://open.spotify.com/album/228qLCnDift8hgHFMdpKNZ) | 3:43 |
 | 8 | [最後一次](https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [最後一次](https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo) | 4:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 49 | [等你回來](https://open.spotify.com/track/0zG9Y9IICpdMvssF16qY7X) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [等你回來](https://open.spotify.com/album/2m6fsWtacePDEbEOshdtTJ) | 3:09 |
 | 50 | [漂向北方](https://open.spotify.com/track/3hqB1JVt1kv0JUM5znLJdo) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [漂向北方](https://open.spotify.com/album/19xOcUWpSn9Sv0KND7uuDp) | 4:31 |
 
-Snapshot ID: `MTY0MTMxMjAwMCwwMDAwMDAwZTAwMDAwMTdlMjVkMTk4OTEwMDAwMDE3ZTI1MDQ1N2Iz`
+Snapshot ID: `MTY0MzI5OTIwMCwwMDAwMDAwZjAwMDAwMTdlOWM0M2RjOTcwMDAwMDE3ZTI1MDQ1N2Iz`

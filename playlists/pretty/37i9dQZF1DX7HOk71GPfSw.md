@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > hyperpop is a simulation\. Cover: Laura Les
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,051 likes - 165 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,403 likes - 165 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

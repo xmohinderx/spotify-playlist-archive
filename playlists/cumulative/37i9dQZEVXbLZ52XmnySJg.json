@@ -1446,6 +1446,28 @@
     },
     {
       "album": {
+        "name": "Desh Mere (From \"Bhuj The Pride Of India\")",
+        "url": "https://open.spotify.com/album/5nQuXDLUMXgkbowCHYA5r0"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203186,
+      "name": "Desh Mere (From \"Bhuj The Pride Of India\")",
+      "url": "https://open.spotify.com/track/2HbrsAxOZfG0s1xCQuk6nB"
+    },
+    {
+      "album": {
         "name": "HIDDEN GEMS",
         "url": "https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv"
       },
@@ -4345,7 +4367,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 243570,
       "name": "Naan Pizhai (From \"Kaathuvaakula Rendu Kaadhal\")",
       "url": "https://open.spotify.com/track/1UUgngRGzFWfgpyN0WAN1r"

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a estas extraordinarias artistas a todo volumen\. Foto: Bad Gyal
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,449 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,474 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nueva York \(Tot\*\)](https://open.spotify.com/track/1z5TNHJ4WP2ftKhRpqdoNY) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Nueva York \(Tot\*\)](https://open.spotify.com/album/1cuxNNdmQkoeqB9Kkj5nUE) | 2:34 |
 | 2 | [Muñequita de Cristal](https://open.spotify.com/track/2bsJ6oij5bheOFx9RyuFKY) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Muñequita de Cristal](https://open.spotify.com/album/5TjZjSizBwwhGSjDpdPXH4) | 3:12 |
-| 3 | [Ay Mama](https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Ay Mama](https://open.spotify.com/album/26As3PYmCCD390xoIJ4RE6) | 3:01 |
+| 3 | [Ay Mamá](https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Ay Mamá](https://open.spotify.com/album/26As3PYmCCD390xoIJ4RE6) | 3:01 |
 | 4 | [Terra](https://open.spotify.com/track/5FVNpPC0H4fVc4FJin5vBg) | [Tanxugueiras](https://open.spotify.com/artist/1iHb53TMjvMaXZm0s4RWZi) | [Terra](https://open.spotify.com/album/2LT6EIF6xZIusESMbuH2GT) | 2:58 |
 | 5 | [Zero Drama](https://open.spotify.com/track/3lDsoYPAFZb1bUPQDQzEOw) | [Sara Deop](https://open.spotify.com/artist/3Wb3zC9MU5MF0xdvaB8too) | [Zero Drama](https://open.spotify.com/album/3s1bNn6XnbhA8tkshRqfT6) | 2:57 |
 | 6 | [Ciudad de las Mentiras](https://open.spotify.com/track/4TMUKLW53GlhS65rzmYWXh) | [Alicia por favor](https://open.spotify.com/artist/5HqyC1QWpUufR7zc6H0n7B), [Matias Malagardis](https://open.spotify.com/artist/7srUPR19693NEJOPtQyME7) | [Ciudad de las Mentiras](https://open.spotify.com/album/71HVZEhmuMUGL4I0fwmIsU) | 3:23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover: Chandler Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,396,777 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,397,426 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Precious](https://open.spotify.com/track/4PFArZky2W4NCAxAJ4LuA7) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Precious](https://open.spotify.com/album/4kPmrOm92X5Z9320B6IOsG) | 6:07 |
 | 100 | [Same God \- Acoustic](https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God \(Acoustic\)](https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt) | 3:44 |
 
-Snapshot ID: `MTY0MzI0NDMyOSwwMDAwMDAwMDIxZjFiNTg2NTgwNTkxMGNiNTY5YzE5MGExOWMwNDgw`
+Snapshot ID: `MTY0MzMzMDczMiwwMDAwMDAwMDIxZjFiNTg2NTgwNTkxMGNiNTY5YzE5MGExOWMwNDgw`

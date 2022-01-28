@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u00a1Los m\u00e1s c\u00e1lidos soundtracks navide\u00f1os para este temporada!",
-  "name": "Navidad de Pel\u00edcula",
+  "description": "\u00a1Disfruta de las mejores bandas sonoras del siglo XXI!",
+  "name": "Soundtracks \u00c9picos",
   "published_playlist_ids": [
     "5cQQm2LjSMgtwxT4KTfJwM"
   ],
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 212426,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/0rzY0whyLE68ENX7mvoHAN"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -254,6 +254,28 @@
     },
     {
       "album": {
+        "name": "Her (Original Score)",
+        "url": "https://open.spotify.com/album/7xBJ2XXlDFfACXAnOE86t8"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        },
+        {
+          "name": "Owen Pallett",
+          "url": "https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339444,
+      "name": "Dimensions",
+      "url": "https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU"
+    },
+    {
+      "album": {
         "name": "E.T. The Extra Terrestrial (Original Soundtrack - 20th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/6qbtlYI0l4Fpj3hJ7e9jGY"
       },
@@ -265,7 +287,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 246066,
       "name": "E.T. Is Alive! - Soundtrack Reissue (2002)",
       "url": "https://open.spotify.com/track/5eaEIsfop4IQJryjvkBGl9"
@@ -326,6 +348,24 @@
     },
     {
       "album": {
+        "name": "Kill Bill Vol. 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs"
+      },
+      "artists": [
+        {
+          "name": "Shivaree",
+          "url": "https://open.spotify.com/artist/34xAiSyQG6nlH0eZNLjbLW"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243777,
+      "name": "Goodnight Moon",
+      "url": "https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul"
+    },
+    {
+      "album": {
         "name": "Harry Potter and The Chamber of Secrets/ Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/5nzzU118YRlXdhjRMb3fq0"
       },
@@ -337,7 +377,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 301880,
       "name": "Harry's Wondrous World",
       "url": "https://open.spotify.com/track/5qWvQZewRB57giOKgvUE3F"
@@ -362,6 +402,60 @@
     },
     {
       "album": {
+        "name": "Fantastic Mr. Fox (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1aJ1OS2xdkKGvmLvkU9qn3"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "Heroes And Villians - Remastered",
+      "url": "https://open.spotify.com/track/6YeaunurT3mGLOXpgadkje"
+    },
+    {
+      "album": {
+        "name": "Marie Antoinette (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0C8pr3dnMPistlH58MkMc4"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190520,
+      "name": "Hong Kong Garden",
+      "url": "https://open.spotify.com/track/1KG7pilWCRpjxR3c7jBvnP"
+    },
+    {
+      "album": {
+        "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Metz",
+          "url": "https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245040,
+      "name": "I'm Standing With You",
+      "url": "https://open.spotify.com/track/1EmiQ1fj1MDcZDoaZqJUj2"
+    },
+    {
+      "album": {
         "name": "Edward Scissorhands",
         "url": "https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf"
       },
@@ -380,6 +474,28 @@
     },
     {
       "album": {
+        "name": "The Girl With the Dragon Tattoo",
+        "url": "https://open.spotify.com/album/6LMRoAUdMGlsy8PeDw3eek"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor",
+          "url": "https://open.spotify.com/artist/0hRijdwO8UsJMudc3476ma"
+        },
+        {
+          "name": "Atticus Ross",
+          "url": "https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167520,
+      "name": "Immigrant Song - Karen O with Trent Reznor",
+      "url": "https://open.spotify.com/track/4490WK2mSNXqH5GujXyHGj"
+    },
+    {
+      "album": {
         "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
         "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
       },
@@ -391,7 +507,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 189132,
       "name": "Into the Unknown - Panic! At The Disco Version",
       "url": "https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm"
@@ -409,7 +525,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 132076,
       "name": "Jingle Bell Rock (From \"Four Christmases\")",
       "url": "https://open.spotify.com/track/7qqPyFT43O4dtWYQBVXWbw"
@@ -595,7 +711,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 293533,
       "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\") - Voice",
       "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
@@ -653,7 +769,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 341200,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/0u884Bm0PsKzYunaJXWZIy"
@@ -689,7 +805,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 290013,
       "name": "Oh Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/2iKUZTvga2V3GbGYGO2fWO"
@@ -729,7 +845,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 89120,
       "name": "Opening",
       "url": "https://open.spotify.com/track/2gejSp0GzWcA4lWn3TqVJu"
@@ -772,6 +888,24 @@
     },
     {
       "album": {
+        "name": "Marie Antoinette (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0C8pr3dnMPistlH58MkMc4"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308253,
+      "name": "Plainsong",
+      "url": "https://open.spotify.com/track/2bermLKou3EgqnQHoPD6T0"
+    },
+    {
+      "album": {
         "name": "Testify: The Best Of The A&M Years",
         "url": "https://open.spotify.com/album/5Lv1rpF90q8cq8jcEmehRk"
       },
@@ -791,6 +925,24 @@
       "duration_ms": 229733,
       "name": "Put A Little Love In Your Heart",
       "url": "https://open.spotify.com/track/0Zy1yjB9wMfm76pcEF2egT"
+    },
+    {
+      "album": {
+        "name": "The Irishman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/626cnbxKP5GwdD0wgwOrlZ"
+      },
+      "artists": [
+        {
+          "name": "Perez Prado Orchestra",
+          "url": "https://open.spotify.com/artist/4OxytyIzFITpwAC0zSozob"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237426,
+      "name": "Qu\u00e9 Rico el Mambo",
+      "url": "https://open.spotify.com/track/0tHwfIUxL6dDsqpSvVRgLW"
     },
     {
       "album": {
@@ -823,7 +975,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 164000,
       "name": "Run Rudolph Run - Single Version",
       "url": "https://open.spotify.com/track/0hwXYsTm1ulCoAwfMtHHKb"
@@ -877,7 +1029,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 196160,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/07Lheo0oTclSenx233QeeF"
@@ -913,7 +1065,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 145640,
       "name": "Skating",
       "url": "https://open.spotify.com/track/7hK9jnESeCfc5fIHH76jKh"
@@ -985,7 +1137,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "Star of Bethlehem - Voice",
       "url": "https://open.spotify.com/track/5MNkMPDxNoQCILLPJw4XAB"
@@ -1241,7 +1393,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 182373,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/0j8SN00NYeJGDIIiDezHjm"
@@ -1259,7 +1411,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 108986,
       "name": "You're A Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/2KK6Is9AdIB9ctHK7Fys1U"

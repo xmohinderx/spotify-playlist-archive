@@ -163,7 +163,7 @@
       ],
       "date_added": "2019-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 193293,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 154856,
       "name": "amnesia",
       "url": "https://open.spotify.com/track/21jkiLxzuDmn1DQGrNpMdS"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 201253,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/4DHvxcvurhgr0175Oeupqs"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 207765,
       "name": "Crying On The Inside",
       "url": "https://open.spotify.com/track/0gGL5rT5aBAugrveEJzKN1"
@@ -2368,6 +2368,24 @@
     },
     {
       "album": {
+        "name": "How Long (From \u201dEuphoria\u201d An HBO Original Series)",
+        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199314,
+      "name": "How Long - From \u201dEuphoria\u201d An HBO Original Series",
+      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
+    },
+    {
+      "album": {
         "name": "How To Be Human",
         "url": "https://open.spotify.com/album/7C6ZTXqZ1MvBkyuLEaOrEh"
       },
@@ -2839,7 +2857,7 @@
       ],
       "date_added": "2019-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 203113,
       "name": "If You're Gonna Lie",
       "url": "https://open.spotify.com/track/4X2caEGywKxXKGImqNkBmt"
@@ -3329,7 +3347,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 179076,
       "name": "Life's a Bitch (L.A.B)",
       "url": "https://open.spotify.com/track/72Stw9ZEi73pKIQsctIb9x"
@@ -3495,7 +3513,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 191574,
       "name": "Love for a Minute",
       "url": "https://open.spotify.com/track/3GKIhntQhBqD6PRWscMLs1"
@@ -3535,7 +3553,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
@@ -4041,7 +4059,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 189540,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/2JKrC6yV9TckvJViTTj3WJ"
@@ -4591,7 +4609,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 150365,
       "name": "Pretty People",
       "url": "https://open.spotify.com/track/3mnmpbrInwnPja7LYlc1Ks"
@@ -4663,7 +4681,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 251999,
       "name": "Quicksand",
       "url": "https://open.spotify.com/track/6fEtxRskOuPleXkm8ETYHE"
@@ -4871,7 +4889,7 @@
       ],
       "date_added": "2019-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 203507,
       "name": "Sad Forever",
       "url": "https://open.spotify.com/track/4a5zacCsHLtMC2mcxkqWwn"
@@ -5175,7 +5193,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 212262,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC"
@@ -5331,7 +5349,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 194005,
       "name": "Still Not Made It",
       "url": "https://open.spotify.com/track/6p1zxVqJ3oc8MFb9v76X0Y"
@@ -5719,7 +5737,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 219436,
       "name": "Talk It Out",
       "url": "https://open.spotify.com/track/04AlXPwMjatmNZajgQvUvQ"
@@ -6437,7 +6455,7 @@
       ],
       "date_added": "2019-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 171908,
       "name": "Why Do You Love Me",
       "url": "https://open.spotify.com/track/2y8iBf0QRqCKFtePi9Rl2H"
@@ -6545,7 +6563,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 184546,
       "name": "Year of the Ex",
       "url": "https://open.spotify.com/track/5m1Wm07bfb58sEWw7wosy7"

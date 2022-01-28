@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Little North",
+  "description": "New jazz for open minds. Cover: Immanuel Wilkins",
   "name": "State of Jazz",
   "published_playlist_ids": [
     "5R2nAaHgZSXgVDUHN6bx38"
@@ -26,6 +26,28 @@
     },
     {
       "album": {
+        "name": "All Roads Lead To Los Angeles",
+        "url": "https://open.spotify.com/album/4ikNxWCnCYNwBg2c8BwQgn"
+      },
+      "artists": [
+        {
+          "name": "High Pulp",
+          "url": "https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282066,
+      "name": "All Roads Lead To Los Angeles",
+      "url": "https://open.spotify.com/track/4lAZgA07GReOs9Vf1rpcbl"
+    },
+    {
+      "album": {
         "name": "All The Memories That Objects Carry",
         "url": "https://open.spotify.com/album/4My7R3aD9yZp7PT8fJxHoY"
       },
@@ -37,7 +59,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 324692,
       "name": "All The Memories That Objects Carry",
       "url": "https://open.spotify.com/track/0rdFlicMEENER7yTfqI6wu"
@@ -182,6 +204,24 @@
     },
     {
       "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/28VtIxXxSnHaQFKCnKN0P5"
+      },
+      "artists": [
+        {
+          "name": "Black Flower",
+          "url": "https://open.spotify.com/artist/3sWzPqn412qggAJRtI6Bvz"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447053,
+      "name": "Deep Dive Down",
+      "url": "https://open.spotify.com/track/7JI4thi0ETxiNzVPlBAZXg"
+    },
+    {
+      "album": {
         "name": "Dezember",
         "url": "https://open.spotify.com/album/4oJAn0QWfuMQnFzreE3NsN"
       },
@@ -193,7 +233,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 281240,
       "name": "Dezember",
       "url": "https://open.spotify.com/track/3nrAzdVDGr0KA2qc8UqbNB"
@@ -276,6 +316,24 @@
     },
     {
       "album": {
+        "name": "Virtual Essence",
+        "url": "https://open.spotify.com/album/6lTeR0g2ksvePonTWXQ0U8"
+      },
+      "artists": [
+        {
+          "name": "Elusive",
+          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158143,
+      "name": "Existential Being",
+      "url": "https://open.spotify.com/track/0GSc04FDZiOY7DVJ3Ya1z8"
+    },
+    {
+      "album": {
         "name": "Feed Infinite",
         "url": "https://open.spotify.com/album/17yMp67fx7IRXilG2RMgNH"
       },
@@ -291,7 +349,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 529973,
       "name": "Feed Infinite",
       "url": "https://open.spotify.com/track/3VfcWdXUfDgGTwqKgHdQcp"
@@ -316,6 +374,24 @@
     },
     {
       "album": {
+        "name": "Flesk",
+        "url": "https://open.spotify.com/album/6vd7krSwgpkhL3tfMuuSPe"
+      },
+      "artists": [
+        {
+          "name": "Smith Komma John",
+          "url": "https://open.spotify.com/artist/1P1P066VMcTCO1MSS4iCw6"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339950,
+      "name": "Flesk",
+      "url": "https://open.spotify.com/track/5E6UpGjpvQ29R8IasnIFeJ"
+    },
+    {
+      "album": {
         "name": "Fluorescences",
         "url": "https://open.spotify.com/album/57FN6J7RPwLJghbnymZrTw"
       },
@@ -327,10 +403,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 297333,
       "name": "Fluorescences",
       "url": "https://open.spotify.com/track/7rIoLIUgAER2l6ye8SdbRp"
+    },
+    {
+      "album": {
+        "name": "The 7th Hand",
+        "url": "https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347911,
+      "name": "Fugitive Ritual, Selah",
+      "url": "https://open.spotify.com/track/31ZHADyvTbyRgQVw1u2SSW"
     },
     {
       "album": {
@@ -356,6 +450,24 @@
     },
     {
       "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/4f39CM8TAd2CWRQK4hn9NK"
+      },
+      "artists": [
+        {
+          "name": "Mark Lockheart",
+          "url": "https://open.spotify.com/artist/4VulWjL9yvdpHbTIZhjgic"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191960,
+      "name": "Gangster Rat",
+      "url": "https://open.spotify.com/track/1BxPfQZt9nB1hNybeKQEuM"
+    },
+    {
+      "album": {
         "name": "Gold Dust Black Magic (Karriem Riggins Remix)",
         "url": "https://open.spotify.com/album/6cqmcc7Cw9Es5qmMIQOCYL"
       },
@@ -375,7 +487,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 330680,
       "name": "Gold Dust Black Magic - Karriem Riggins Remix",
       "url": "https://open.spotify.com/track/3E2BLsThQ9pYsE5Ir0fcFL"
@@ -503,7 +615,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 315910,
       "name": "Icebreaker",
       "url": "https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR"
@@ -588,6 +700,50 @@
     },
     {
       "album": {
+        "name": "The Space Between",
+        "url": "https://open.spotify.com/album/3rrXnl3nTiCQRe7bMhVAtM"
+      },
+      "artists": [
+        {
+          "name": "Alexander Flood",
+          "url": "https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448974,
+      "name": "LDN",
+      "url": "https://open.spotify.com/track/6kvg46WxVlk7ebhNEWlVuk"
+    },
+    {
+      "album": {
+        "name": "Levin's Lope (Karriem Riggins Remix)",
+        "url": "https://open.spotify.com/album/4j6JL0ZiDxUZKxI2y7ELuN"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        },
+        {
+          "name": "Ron Carter",
+          "url": "https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344720,
+      "name": "Levin's Lope - Karriem Riggins Remix",
+      "url": "https://open.spotify.com/track/5g0qIfCyEbc7o2ZjCai5v5"
+    },
+    {
+      "album": {
         "name": "Talk Memory",
         "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
       },
@@ -625,7 +781,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 410463,
       "name": "Lullaby for Runaways (feat. Mathias Eick)",
       "url": "https://open.spotify.com/track/7dxAft0pcjm1Pxnrjp5zQy"
@@ -659,6 +815,24 @@
       "duration_ms": 141215,
       "name": "Matcha",
       "url": "https://open.spotify.com/track/4Z6cI2IFdZokERX4Pm7rWl"
+    },
+    {
+      "album": {
+        "name": "maybe as his skies are wide",
+        "url": "https://open.spotify.com/album/5ukrLKfu9H82bixRgKGFTL"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223078,
+      "name": "maybe as his skies are wide",
+      "url": "https://open.spotify.com/track/71ub8FJO1gg3OmLfBdrl53"
     },
     {
       "album": {
@@ -926,6 +1100,44 @@
     },
     {
       "album": {
+        "name": "Louise",
+        "url": "https://open.spotify.com/album/6in6NX24NlcqF94z8lpyfj"
+      },
+      "artists": [
+        {
+          "name": "Emile Parisien",
+          "url": "https://open.spotify.com/artist/0KYFSSpklRwCSM31sHD4s6"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Roberto Negro",
+          "url": "https://open.spotify.com/artist/5O4YPjj2IRnOJVNa8R3A88"
+        },
+        {
+          "name": "Manu Codjia",
+          "url": "https://open.spotify.com/artist/5pgPy5GD36vX0EM48DrvE4"
+        },
+        {
+          "name": "Joe Martin",
+          "url": "https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW"
+        },
+        {
+          "name": "Nasheet Waits",
+          "url": "https://open.spotify.com/artist/5fhkjcgOAjl6gQGsQOcP46"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350293,
+      "name": "Prayer 4 Peace",
+      "url": "https://open.spotify.com/track/3Mz0SfeYjQUa0MytP49hef"
+    },
+    {
+      "album": {
         "name": "Promises Kept (feat. Dominic Miller)",
         "url": "https://open.spotify.com/album/0Sd7qYxkJdJjTVn9vKgxqH"
       },
@@ -941,7 +1153,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 332840,
       "name": "Promises Kept (feat. Dominic Miller)",
       "url": "https://open.spotify.com/track/6A0z33khgfQ8kVsTJcsbEJ"
@@ -963,7 +1175,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 212000,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/0L23Lh4ALOAJSUVBxHWLMt"
@@ -1311,7 +1523,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 496546,
       "name": "Warm Data",
       "url": "https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc"

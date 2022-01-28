@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > not not pop\. featuring new music by <a href="spotify:artist:7vNNmjV14SKQzlQAEg0BXP">Jean Dawson</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,015 likes - 160 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,174 likes - 160 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 159 | [Premade](https://open.spotify.com/track/0IC9ezIBSw4xuMzbqH0d9N) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Junior Varsity](https://open.spotify.com/album/3PWehhZAClLw6iOnqRBfMM) | 2:25 |
 | 160 | [Headset Go](https://open.spotify.com/track/5VS54lu9H0o7Wj5TBP3qNu) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Headset Go](https://open.spotify.com/album/0Dyt1CtkImtFkWOwKZLRhQ) | 3:16 |
 
-Snapshot ID: `MTY0Mjc3NjQxMSwwMDAwMDI0NDAwMDAwMTdlN2QxYWJiZWUwMDAwMDE3ZGEwNTNhOWM0`
+Snapshot ID: `MTY0MzI5OTc4MCwwMDAwMDI0NTAwMDAwMTdlOWM0Y2I4YjIwMDAwMDE3ZGEwNTNhOWM0`

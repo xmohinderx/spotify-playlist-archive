@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A World in Tears",
+        "url": "https://open.spotify.com/album/7IQK6f51JQy46xwc5G6gT9"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225400,
+      "name": "A World in Tears",
+      "url": "https://open.spotify.com/track/5f2GtU6iYeVHls8sfiBsyn"
+    },
+    {
+      "album": {
         "name": "Degrader",
         "url": "https://open.spotify.com/album/5mmZn799VQ5Rs2Tdod68Pz"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 221000,
       "name": "Alpha Sleep",
       "url": "https://open.spotify.com/track/5TJbc3YJN59ItZKwVcGQng"
@@ -77,6 +95,24 @@
       "duration_ms": 246545,
       "name": "Anything at All",
       "url": "https://open.spotify.com/track/5p144lbzJw9kMCMOG61SF3"
+    },
+    {
+      "album": {
+        "name": "Arkangel",
+        "url": "https://open.spotify.com/album/3S8mn8c5yKRKAdE9eaD3pW"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "Arkangel",
+      "url": "https://open.spotify.com/track/07dXbgUPrylumB0XpFTULY"
     },
     {
       "album": {
@@ -554,6 +590,24 @@
     },
     {
       "album": {
+        "name": "Deadman",
+        "url": "https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209828,
+      "name": "Deadman",
+      "url": "https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga"
+    },
+    {
+      "album": {
         "name": "Long Time, No Sea (Expanded Edition)",
         "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
       },
@@ -565,7 +619,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 207857,
       "name": "Dear Wendy",
       "url": "https://open.spotify.com/track/0eD0Svr1TOFx8QgNkpTBsT"
@@ -865,7 +919,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 242262,
       "name": "F(r)iends",
       "url": "https://open.spotify.com/track/4zGp7dN9ei7nLtSVonXL8C"
@@ -891,6 +945,24 @@
       "duration_ms": 179201,
       "name": "Fail Me",
       "url": "https://open.spotify.com/track/3upMhQ1k7fqbptA2eKqE1V"
+    },
+    {
+      "album": {
+        "name": "Fear In Non Fiction",
+        "url": "https://open.spotify.com/album/0lvacv6dOWb6SjsWZB62Kh"
+      },
+      "artists": [
+        {
+          "name": "Vein.fm",
+          "url": "https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "Fear In Non Fiction",
+      "url": "https://open.spotify.com/track/153FWt6E2faYmjfoHanfoU"
     },
     {
       "album": {
@@ -945,7 +1017,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 160129,
       "name": "Generation Genocide",
       "url": "https://open.spotify.com/track/0LasUChReFGGNWmry0IlFU"
@@ -1129,7 +1201,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 214291,
       "name": "KILL",
       "url": "https://open.spotify.com/track/1Y6D0zTXwFytLR7XnNRjdT"
@@ -1165,7 +1237,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 196285,
       "name": "Life of a Parasite",
       "url": "https://open.spotify.com/track/6LXQba9gRcFhYZc3OD7nre"
@@ -1205,6 +1277,28 @@
       "duration_ms": 183024,
       "name": "Little Light",
       "url": "https://open.spotify.com/track/5cemE29LCUtsLtg0a18kK2"
+    },
+    {
+      "album": {
+        "name": "Lonewolf",
+        "url": "https://open.spotify.com/album/3tJkL5SWXHgmqyRcXhPR3n"
+      },
+      "artists": [
+        {
+          "name": "Becko",
+          "url": "https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU"
+        },
+        {
+          "name": "Stefan",
+          "url": "https://open.spotify.com/artist/517s7engiN791R679LNatZ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191032,
+      "name": "Lonewolf",
+      "url": "https://open.spotify.com/track/3xLyoznRCxpiHesDvFuruO"
     },
     {
       "album": {
@@ -1475,6 +1569,24 @@
       "duration_ms": 216883,
       "name": "Pale Tongue",
       "url": "https://open.spotify.com/track/0gZ3mkOOapnWMkmwefrDzc"
+    },
+    {
+      "album": {
+        "name": "Plastic Heart",
+        "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183350,
+      "name": "Plastic Heart",
+      "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
     },
     {
       "album": {
@@ -1997,7 +2109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 215626,
       "name": "The End to a Brief Moment of Lasting Intimacy",
       "url": "https://open.spotify.com/track/4sSDuuHmKD3wKoZaoGVM29"
@@ -2189,6 +2301,24 @@
       "duration_ms": 218150,
       "name": "Until We Die",
       "url": "https://open.spotify.com/track/0Fz4ivzoq6nk4a9r3vgWyq"
+    },
+    {
+      "album": {
+        "name": "UPS AND DOWNS",
+        "url": "https://open.spotify.com/album/5rzvZkbnpeKjE8nBnvq7dL"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194297,
+      "name": "UPS AND DOWNS",
+      "url": "https://open.spotify.com/track/2lKoPdYVhWsTiZpi23BBdH"
     },
     {
       "album": {

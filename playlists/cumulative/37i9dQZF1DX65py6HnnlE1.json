@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 215213,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 252557,
       "name": "Hoy Te Vi Pasar",
       "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
@@ -587,6 +587,24 @@
       "duration_ms": 245253,
       "name": "Intentalo Tu",
       "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
+    },
+    {
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327760,
+      "name": "Linda Y Dif\u00edcil",
+      "url": "https://open.spotify.com/track/6xzrjdVXwejF4l0deYJejK"
     },
     {
       "album": {
@@ -637,7 +655,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 473133,
       "name": "Loco De Amor",
       "url": "https://open.spotify.com/track/2WAoShegYKo11YJYcGEo2Y"
@@ -749,7 +767,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 194400,
       "name": "Morire Bebiendo",
       "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 371720,
       "name": "Mujer Infiel",
       "url": "https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ"
@@ -897,7 +915,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
@@ -1023,7 +1041,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 256333,
       "name": "Se Fue Mi Amor Bonito",
       "url": "https://open.spotify.com/track/309M0MPexbrLYbGpqKstYa"
@@ -1059,7 +1077,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 174573,
       "name": "Shorty, Shorty",
       "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 170000,
       "name": "Si Tu Me Dices Ven",
       "url": "https://open.spotify.com/track/2y7r6KHHuBKdCg20WTAMtX"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 301920,
       "name": "Siento Que Te Quiero",
       "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"
@@ -1243,6 +1261,24 @@
       "duration_ms": 210680,
       "name": "Volvi\u00f3 El Dolor",
       "url": "https://open.spotify.com/track/6RtArOmf3kH0Tcj61cDr0r"
+    },
+    {
+      "album": {
+        "name": "Viejas Pero Buenas",
+        "url": "https://open.spotify.com/album/6bXAkLwtrDQ3MQExlhPPWx"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228624,
+      "name": "Voy Pa Alla",
+      "url": "https://open.spotify.com/track/5VC9MOMTd5SvjIEnHTHewV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX65py6HnnlE1"

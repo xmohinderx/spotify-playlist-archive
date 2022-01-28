@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 254993,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4DfVAYN8VThaZCkobv0HJV"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 254993,
       "name": "Azul",
       "url": "https://open.spotify.com/track/757yZPKy3bOwaU78ixYjp0"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 142320,
       "name": "Dolce Banana",
       "url": "https://open.spotify.com/track/5o1IxDUb9XRCGmrVANbhM9"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 222226,
       "name": "IN MY ROOM!",
       "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 245373,
       "name": "La Magia",
       "url": "https://open.spotify.com/track/57Vhb1eZdgfknw62XCJ65F"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 143893,
       "name": "LUV",
       "url": "https://open.spotify.com/track/3m3oDsKM7j7BubMBReepya"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 194976,
       "name": "Park Ave",
       "url": "https://open.spotify.com/track/3PwZAzJ9NiYojvVC2WyxMX"
@@ -1325,6 +1325,28 @@
       "duration_ms": 192540,
       "name": "Patineta",
       "url": "https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99"
+    },
+    {
+      "album": {
+        "name": "Pausa",
+        "url": "https://open.spotify.com/album/3OSClJOjr54bInwJnKLZ93"
+      },
+      "artists": [
+        {
+          "name": "Martox",
+          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
+        },
+        {
+          "name": "Gian Rojas",
+          "url": "https://open.spotify.com/artist/5uHZUnYECoSfXNIlR76HOU"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Pausa",
+      "url": "https://open.spotify.com/track/00ezOW7kOSRCnXYDUasfQm"
     },
     {
       "album": {
@@ -1635,7 +1657,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 152680,
       "name": "Sugarbaby",
       "url": "https://open.spotify.com/track/0RqNKk4AsheWCb5YuDVI1I"
@@ -1827,6 +1849,24 @@
       "duration_ms": 192818,
       "name": "Todo Is Gonna Be Alright, Mi Amor",
       "url": "https://open.spotify.com/track/12MFhpEpwzmtNkO1r8Kqxa"
+    },
+    {
+      "album": {
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "album": {

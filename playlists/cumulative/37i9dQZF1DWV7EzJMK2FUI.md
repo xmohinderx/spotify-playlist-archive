@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWV7EzJMK2FUI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV7EzJMK2FUI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV7EzJMK2FUI)
 
-### Jazz in the Background
+### [Jazz in the Background](https://open.spotify.com/playlist/3hbeRaU9aWtabNnfOymGvN)
 
 > Soft jazz for all your activities.
 

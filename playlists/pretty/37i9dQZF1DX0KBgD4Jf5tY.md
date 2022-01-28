@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Le scoperte più fresche della scena italiana indipendente\. Senza etichette di genere\. Cover: TENUE
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,964 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,970 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 41 | [Neve \(Anna\)](https://open.spotify.com/track/0LzyUSqnn9Q3CCAlYMwCIr) | [Sesto](https://open.spotify.com/artist/0fokPR9msQyhEmGUX3Xlyn) | [Neve \(Anna\)](https://open.spotify.com/album/5z1jU8K6WMGL3T1GlAXHT2) | 4:00 |
 | 42 | [Cantonese](https://open.spotify.com/track/6fOA2rIxr7HEV8a5dyiVl2) | [Stramare](https://open.spotify.com/artist/5oAifDTzCGqpz9YWvTrLOW) | [Cantonese](https://open.spotify.com/album/6oZtBvNPK6ezs0ZL7XOAwb) | 3:40 |
 | 43 | [Stanza](https://open.spotify.com/track/4QVuyHk02vOLADPMWCmqKc) | [EMME](https://open.spotify.com/artist/1O3MByunqVra9RkDSGNANK) | [Stanza](https://open.spotify.com/album/2isYssXNb6aXtIkNbZsCCb) | 3:22 |
-| 44 | [NOISY](https://open.spotify.com/track/6m04r9xhWSSyvziCTC9KzX) | [xx.tsune](https://open.spotify.com/artist/2B9UBUaerwqqf0y1cAKKkQ), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [NOISY](https://open.spotify.com/album/0wf05TZwFIdZFKgkYupyW2) | 2:30 |
+| 44 | [NOISY](https://open.spotify.com/track/6m04r9xhWSSyvziCTC9KzX) | [MANTIS](https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa), [xx.buio](https://open.spotify.com/artist/79fm1bknXIjgvx5kMmzOm6) | [NOISY](https://open.spotify.com/album/0wf05TZwFIdZFKgkYupyW2) | 2:30 |
 | 45 | [Seta](https://open.spotify.com/track/2Q3i1X4tR1QwpF9rMt2LLZ) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Seta](https://open.spotify.com/album/4ar3dJ0KwP9q9wMuvedHlQ) | 3:09 |
 | 46 | [G](https://open.spotify.com/track/3B3Pf6YkWVuHhehatCeU63) | [FKA 059](https://open.spotify.com/artist/0qs58UjHvEGo2rzfjxinmY), [Lester Nowhere](https://open.spotify.com/artist/0wolj0IKnhhYnBFynfNaQn) | [G](https://open.spotify.com/album/4JMH5czbCQE21URYUFcJ8Y) | 2:15 |
 | 47 | [MALIBU](https://open.spotify.com/track/42t5TYyKBghKeYkta4YnXI) | [DEZ](https://open.spotify.com/artist/61s83IXZQt6O8k1y92UvE5), [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [MALIBU](https://open.spotify.com/album/7i9sJDgBaV8W8DCnaCOD3Q) | 3:31 |

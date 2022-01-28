@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Zeca Veloso",
+  "description": "As belas novidades da MPB. Foto: Bala Desejo (Dora Morelenbaum, Z\u00e9 Ibarra, Julia Mestre, Lucas Nunes)",
   "name": "Divina MPB",
   "published_playlist_ids": [
     "01cf54AteUmLGb18bFZOzr"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 219000,
       "name": "A Rota do Indiv\u00edduo (Ferrugem)",
       "url": "https://open.spotify.com/track/3hnQvO7n6YYzWP03fc8pQf"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 233483,
       "name": "Avarandado",
       "url": "https://open.spotify.com/track/4HW3qBemcKJYaoW0iFqGJV"
@@ -281,6 +281,40 @@
       "duration_ms": 318237,
       "name": "Baby 95",
       "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
+    },
+    {
+      "album": {
+        "name": "SIM SIM SIM",
+        "url": "https://open.spotify.com/album/20dEyKswRqD5YvMO1da8DZ"
+      },
+      "artists": [
+        {
+          "name": "Bala Desejo",
+          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
+        },
+        {
+          "name": "Dora Morelenbaum",
+          "url": "https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Lucas Nunes",
+          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303550,
+      "name": "Baile de M\u00e1scaras (Recarnaval)",
+      "url": "https://open.spotify.com/track/1oTngaVK9gmKCyFaGsnDdl"
     },
     {
       "album": {
@@ -411,7 +445,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 278139,
       "name": "Caminho de Santiago",
       "url": "https://open.spotify.com/track/0xTjK7Ko62EgY5m3KaqlH9"
@@ -693,7 +727,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 179327,
       "name": "Estrela do Mar",
       "url": "https://open.spotify.com/track/60bmLMDk2gBFXUozaU3Tdf"
@@ -799,7 +833,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 245426,
       "name": "Fim de Festa",
       "url": "https://open.spotify.com/track/0CXbOLz5mNqSX8zQQMmnfi"
@@ -821,7 +855,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 128856,
       "name": "Fim de Mundo",
       "url": "https://open.spotify.com/track/5hObX2Qx6de7otHwqkNM4G"
@@ -861,7 +895,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 225937,
       "name": "Imploro",
       "url": "https://open.spotify.com/track/6ecOTGiXeKhZXhhi9vWFXo"
@@ -1359,7 +1393,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 178636,
       "name": "Perto Daqui",
       "url": "https://open.spotify.com/track/0r91YgYOU82v403rvMYUMK"
@@ -1381,7 +1415,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 211477,
       "name": "Pode Amar",
       "url": "https://open.spotify.com/track/1ymxekSYIHAgO2Tg7CZeCT"
@@ -1421,7 +1455,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 208642,
       "name": "Por A\u00ed",
       "url": "https://open.spotify.com/track/70nku2OHeoNghoWKf8juXj"

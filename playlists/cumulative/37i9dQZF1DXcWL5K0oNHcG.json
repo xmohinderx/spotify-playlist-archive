@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-26",
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Nathaniel Cross. Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0wb3k7kBCUHVvVA8CRqr8x"
+  ],
   "tracks": [
     {
       "album": {
@@ -1895,8 +1897,8 @@
       },
       "artists": [
         {
-          "name": "Lisa Ono",
-          "url": "https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k"
+          "name": "Junko Onishi",
+          "url": "https://open.spotify.com/artist/1uf65qkb0qgOAo0tbUWfux"
         }
       ],
       "date_added": "2022-01-26",

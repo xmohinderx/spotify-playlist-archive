@@ -212,7 +212,7 @@
     },
     {
       "album": {
-        "name": "Ay Mama",
+        "name": "Ay Mam\u00e1",
         "url": "https://open.spotify.com/album/26As3PYmCCD390xoIJ4RE6"
       },
       "artists": [
@@ -225,7 +225,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181695,
-      "name": "Ay Mama",
+      "name": "Ay Mam\u00e1",
       "url": "https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg"
     },
     {
@@ -714,6 +714,24 @@
     },
     {
       "album": {
+        "name": "Sirenler",
+        "url": "https://open.spotify.com/album/1bN6NwrpjgzYH01Fy5gagf"
+      },
+      "artists": [
+        {
+          "name": "mor ve \u00f6tesi",
+          "url": "https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348360,
+      "name": "D\u00fcnyaya Bedel",
+      "url": "https://open.spotify.com/track/7EkTXLhxIusS6lSKlSymbA"
+    },
+    {
+      "album": {
         "name": "Elephant (triple j Like A Version)",
         "url": "https://open.spotify.com/album/45R9dic2SxHygQu8Rchze8"
       },
@@ -911,7 +929,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 214405,
       "name": "Flower Shops (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
@@ -977,6 +995,24 @@
       "duration_ms": 316800,
       "name": "Gamzedeyim Deva Bulmam",
       "url": "https://open.spotify.com/track/6glvSyTo1y4WLtX0mnDq83"
+    },
+    {
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153999,
+      "name": "Ginseng Strip 2002",
+      "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
     },
     {
       "album": {
@@ -2183,7 +2219,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 156850,
       "name": "Shake",
       "url": "https://open.spotify.com/track/2dCadlxRJkp3ktY01gFcEZ"

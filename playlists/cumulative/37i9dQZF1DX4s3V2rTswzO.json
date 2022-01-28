@@ -152,6 +152,28 @@
     },
     {
       "album": {
+        "name": "Sixteen Love Songs",
+        "url": "https://open.spotify.com/album/2rP0mklxHyjaOBFHSLMFdP"
+      },
+      "artists": [
+        {
+          "name": "Bed\u0159ich Smetana",
+          "url": "https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4"
+        },
+        {
+          "name": "William Howard",
+          "url": "https://open.spotify.com/artist/3NkjYttHnIbRubcPdtyvSL"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138788,
+      "name": "Bagatelles et impromptus: VII. Love",
+      "url": "https://open.spotify.com/track/2u89h3u1Q9DGFSGkOEmGga"
+    },
+    {
+      "album": {
         "name": "Voice of the Violin",
         "url": "https://open.spotify.com/album/1BXO57T2KEgCS6ca9tlmZ6"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u062d\u062f\u062b \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u063a\u0644\u0627\u0641: \u0645\u0635\u0637\u0641\u0649 \u0627\u0644\u0639\u0628\u062f\u0627\u0644\u0644\u0647 ",
+  "description": "\u0627\u062d\u062f\u062b \u0627\u0644\u0627\u063a\u0627\u0646\u064a \u0627\u0644\u0639\u0631\u0627\u0642\u064a\u0629. \u063a\u0644\u0627\u0641: \u0645\u0635\u0637\u0641\u0649 \u0627\u0644\u0631\u0628\u064a\u0639\u064a ",
   "name": "\u0639\u0631\u0627\u0642\u064a \u062c\u062f\u064a\u062f",
   "published_playlist_ids": [
     "2b4NEcjpEh5tkIFGfGPh1W"
@@ -157,6 +157,24 @@
       "duration_ms": 161583,
       "name": "Al Madhaher El Khedaa",
       "url": "https://open.spotify.com/track/6sEx7tKOa01e2PeRch1t3L"
+    },
+    {
+      "album": {
+        "name": "Alqitar",
+        "url": "https://open.spotify.com/album/5oH5G4Sper19QXy0jY0UUB"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Al Rabeii",
+          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248241,
+      "name": "Alqitar",
+      "url": "https://open.spotify.com/track/22ENQINiZBUVm6j6VbnAqv"
     },
     {
       "album": {
@@ -947,7 +965,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 185000,
       "name": "Mawata",
       "url": "https://open.spotify.com/track/7kwKxJjlATFSqYKKEhVBGD"

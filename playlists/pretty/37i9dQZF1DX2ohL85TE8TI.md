@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama from Snowdrop, Jirisan and more..\. \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Our Beloved Summer\(그 해 우리는\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,587 likes - 101 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,950 likes - 101 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 84 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 |
 | 85 | [Love Always Run Away](https://open.spotify.com/track/4rMEoXVYww6Xy7q9wSj4gy) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Young Lady And Gentleman \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/64RvabOhN0MJ6hCvgjkmnC) | 4:02 |
 | 86 | [I Hope You′re Happy](https://open.spotify.com/track/4XCTQTJ0yZ76BZZyW8JZTQ) | [Lee sang yi](https://open.spotify.com/artist/6ycE5b3IVM3cClCuOj8v2f) | [Hometown Cha\-Cha\-Cha, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/2kS1zLNQYhRwHoxh6B7xNB) | 3:17 |
-| 87 | [My Name \(Feat\. Swervy, JEMINN\)](https://open.spotify.com/track/7r7PL7TxcixHculcGtnEC9) | [이아람](https://open.spotify.com/artist/17pXjkq40h79VHckWQNovE), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC), [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [My Name \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/6KoILshxZL86AWTCBT0YzZ) | 4:16 |
+| 87 | [My Name \(Feat\. Swervy, JEMINN\)](https://open.spotify.com/track/7r7PL7TxcixHculcGtnEC9) | [Hwang Sang Jun](https://open.spotify.com/artist/5MrVqhgBL9YjLnvFgYNVge), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC), [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [My Name \(Original Soundtrack from The Netflix Series\)](https://open.spotify.com/album/6KoILshxZL86AWTCBT0YzZ) | 4:16 |
 | 88 | [What's there to life](https://open.spotify.com/track/1paS0TQIPPvKBJ3PbZ4rZT) | [CHA SEOWON](https://open.spotify.com/artist/6q3MAbM1MgPna745eGNj6T) | [Second Husband \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/7ojhGpLUPTbY7QOy0NXoIu) | 3:06 |
 | 89 | [I′m in Paris](https://open.spotify.com/track/18Mdl401IltBFuvhCdpWmk) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [YUMI's Cells, Pt\. 9 \(Original Television Soundtrack\)](https://open.spotify.com/album/2EtOZ2Jg6MTPhoGIv2W51Z) | 2:35 |
 | 90 | [Someday](https://open.spotify.com/track/2Hd9y1sae4yhYBVvqYOIqx) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [One the Woman \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/57PE5m7bKkHg2pXQThizAj) | 3:22 |

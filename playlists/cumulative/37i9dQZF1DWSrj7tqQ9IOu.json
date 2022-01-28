@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Melody's Echo Chamber",
+  "description": "The best French indie tracks right now. Cover: Jacques",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 183480,
       "name": "Arrivera",
       "url": "https://open.spotify.com/track/29htxu76IzvAi8n4HY0fMG"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 223160,
       "name": "Avec toi",
       "url": "https://open.spotify.com/track/7Id3qONAw6sXE92FlfZEWI"
@@ -113,10 +113,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 163523,
       "name": "By the Beach",
       "url": "https://open.spotify.com/track/6YTphVWLG14d3eUiQ5grmU"
+    },
+    {
+      "album": {
+        "name": "Bye-Bye Baby",
+        "url": "https://open.spotify.com/album/3o4vcT39rDPfJPkFNtGQjD"
+      },
+      "artists": [
+        {
+          "name": "PHILEMONE",
+          "url": "https://open.spotify.com/artist/3LOWKRgEP5aPBmcLvaIqu4"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177138,
+      "name": "Bye-Bye Baby",
+      "url": "https://open.spotify.com/track/2nRcjVMtrSDMSqj4LFTjHt"
     },
     {
       "album": {
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 226693,
       "name": "La carioca",
       "url": "https://open.spotify.com/track/6w4Mc2Twjlm1gu6G4Qrqhd"
@@ -551,6 +569,24 @@
       "duration_ms": 173253,
       "name": "La vie de tous les jours",
       "url": "https://open.spotify.com/track/5smfgFsXaD4F510jOD0wLa"
+    },
+    {
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/6o2IPSHPg1wDU2o16ueD6E"
+      },
+      "artists": [
+        {
+          "name": "Tample",
+          "url": "https://open.spotify.com/artist/0PL4oBFPdmDGLXFPaBpYcJ"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "Last September",
+      "url": "https://open.spotify.com/track/6yJKFbODJ05XHX9EwvtWYA"
     },
     {
       "album": {
@@ -857,7 +893,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-28",
       "duration_ms": 236167,
       "name": "ophelie",
       "url": "https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR"
@@ -954,6 +990,24 @@
     },
     {
       "album": {
+        "name": "Petit Poucet",
+        "url": "https://open.spotify.com/album/3UaSpVvzrUAxEexaIVt7Ap"
+      },
+      "artists": [
+        {
+          "name": "Saint Michel",
+          "url": "https://open.spotify.com/artist/2MYIJPSFNT6JYOPgvLEU1V"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252986,
+      "name": "Petit Poucet",
+      "url": "https://open.spotify.com/track/5n1uvSFB3AhKUrIPD61yAZ"
+    },
+    {
+      "album": {
         "name": "Postcards & Letters",
         "url": "https://open.spotify.com/album/3ss4bwz8F6bI47Ahvm5HCv"
       },
@@ -969,6 +1023,28 @@
       "duration_ms": 243409,
       "name": "Postcards & Letters",
       "url": "https://open.spotify.com/track/1ki4jngOmaHbmyHoSABAhR"
+    },
+    {
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I"
+      },
+      "artists": [
+        {
+          "name": "Breakbot",
+          "url": "https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL"
+        },
+        {
+          "name": "Irfane",
+          "url": "https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268520,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml"
     },
     {
       "album": {
@@ -1041,6 +1117,24 @@
       "duration_ms": 238727,
       "name": "Tata",
       "url": "https://open.spotify.com/track/5toHaNWeaCf5cw9Jfn6yK4"
+    },
+    {
+      "album": {
+        "name": "Breakup Songs",
+        "url": "https://open.spotify.com/album/4IAkKeuLkZWzWQqqFI6uDk"
+      },
+      "artists": [
+        {
+          "name": "Silly Boy Blue",
+          "url": "https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196546,
+      "name": "Teenager",
+      "url": "https://open.spotify.com/track/4fuFDRwSnpcU7xfeSrZHrr"
     },
     {
       "album": {
