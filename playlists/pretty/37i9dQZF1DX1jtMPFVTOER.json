@@ -1,12 +1,12 @@
 {
   "description": "You and jazz are the center of this universe. Cover: Alicia Keys",
-  "num_followers": 23772,
+  "num_followers": 23923,
   "original_name": "Orbit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc0MTMyMCwwMDAwMDAyMjAwMDAwMTdlN2IwMzQ5OTcwMDAwMDE3ZGE1NTkyMzlh",
+  "snapshot_id": "MTY0MzM0NjA2MCwwMDAwMDAyMzAwMDAwMTdlOWYwZWUzODEwMDAwMDE3ZGE1NTkyMzlh",
   "tracks": [
     {
       "added_at": "2022-01-07 05:02:00",
@@ -183,6 +183,30 @@
       "duration_ms": 325264,
       "name": "O Caminho",
       "url": "https://open.spotify.com/track/3h8ThQbKYUqRyaAgtwDVok"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "FK/3",
+        "url": "https://open.spotify.com/album/2oZ1bBDryphDrItTcJr5tz"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        },
+        {
+          "name": "JSWISS",
+          "url": "https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4"
+        },
+        {
+          "name": "BD3",
+          "url": "https://open.spotify.com/artist/7HXr3w238HsQoQInMLxosZ"
+        }
+      ],
+      "duration_ms": 133323,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/387p1E5pYrdEglP96qBOMi"
     },
     {
       "added_at": "2022-01-07 05:02:00",

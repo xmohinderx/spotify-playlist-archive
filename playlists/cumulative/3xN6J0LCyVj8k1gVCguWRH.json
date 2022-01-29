@@ -3335,7 +3335,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 170933,
       "name": "By The Way",
       "url": "https://open.spotify.com/track/0EU7sKieoK2lI9LJC3VH7n"
@@ -3933,6 +3933,24 @@
       "duration_ms": 117049,
       "name": "Circles",
       "url": "https://open.spotify.com/track/3M9qpGEJjkUEvw6juEtYT1"
+    },
+    {
+      "album": {
+        "name": "City Limits",
+        "url": "https://open.spotify.com/album/7vSP9RLecsHRVajQq78uvj"
+      },
+      "artists": [
+        {
+          "name": "Austin Michael Frink",
+          "url": "https://open.spotify.com/artist/4XP9HsXOGNF3PzwNqibaYQ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228520,
+      "name": "City Limits",
+      "url": "https://open.spotify.com/track/7JrphGBxKpggZhuPFjRjnS"
     },
     {
       "album": {
@@ -6084,6 +6102,28 @@
     },
     {
       "album": {
+        "name": "Every Year Is My Year",
+        "url": "https://open.spotify.com/album/1hgTRx4dlH7P5YWKi7ScLR"
+      },
+      "artists": [
+        {
+          "name": "Dove Dupree",
+          "url": "https://open.spotify.com/artist/1PycxS8xMVI8vqtqFwpTIz"
+        },
+        {
+          "name": "Darrell Maurice",
+          "url": "https://open.spotify.com/artist/36gtPqAvfZF4GtVLF3JBFA"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193227,
+      "name": "Every Year Is My Year",
+      "url": "https://open.spotify.com/track/3xf9caCX1ZK2Nd0XJWtOe0"
+    },
+    {
+      "album": {
         "name": "Everybody Loves The Sunshine (Reissue)",
         "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
       },
@@ -6599,6 +6639,24 @@
       "duration_ms": 193413,
       "name": "Feel Us Elevate",
       "url": "https://open.spotify.com/track/3V3QVqaomXslGdZOhSPRrC"
+    },
+    {
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/4TVBpFk9lI9wvUUp9NXeeL"
+      },
+      "artists": [
+        {
+          "name": "Frankie Bottz",
+          "url": "https://open.spotify.com/artist/4WobtMkGG2OmzjIxjQ0RxW"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256874,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/6ze3rTbidkkYIzdgBA8i0l"
     },
     {
       "album": {
@@ -8063,7 +8121,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 242096,
       "name": "Gone With Grace",
       "url": "https://open.spotify.com/track/2DhrRvMXALG26YsXQox1Dq"
@@ -11401,6 +11459,24 @@
       "duration_ms": 229086,
       "name": "Lava",
       "url": "https://open.spotify.com/track/6cr32HRXGnxzeb2CigrVw9"
+    },
+    {
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/2Ec0JzyMefidRWUoITDtJN"
+      },
+      "artists": [
+        {
+          "name": "Jacob Miller",
+          "url": "https://open.spotify.com/artist/5ETV1D5HBcoygYbYGEAln6"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267706,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/7ojOuwJIa8JHqQBtiGe6fG"
     },
     {
       "album": {
@@ -19176,6 +19252,42 @@
     },
     {
       "album": {
+        "name": "I Hate the Parties, Vol. 1",
+        "url": "https://open.spotify.com/album/5b5FMXfmQjr1SbrAkyzv65"
+      },
+      "artists": [
+        {
+          "name": "Malachi LA",
+          "url": "https://open.spotify.com/artist/7EEcplHz1lRipbN9yTx06Y"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129293,
+      "name": "Superhero Music",
+      "url": "https://open.spotify.com/track/17c94x0MEVS5VPHLbPCT7X"
+    },
+    {
+      "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/5c9HIZ7Fh8174KuEhM6WtU"
+      },
+      "artists": [
+        {
+          "name": "Asher Knight",
+          "url": "https://open.spotify.com/artist/1ksg2M68kC0Yaz3VA9dQX6"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198577,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/7Ep0GcvNPFmHqdQil8gQWG"
+    },
+    {
+      "album": {
         "name": "Sweden: Gold Dust",
         "url": "https://open.spotify.com/album/36cuYXCs5ITUFd2WdfJSxl"
       },
@@ -19764,6 +19876,24 @@
     },
     {
       "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/40yksFSu3zk5H4LKqv2ZUn"
+      },
+      "artists": [
+        {
+          "name": "Stone Jets",
+          "url": "https://open.spotify.com/artist/1RqKaZtnoko0n8YpgLNZkx"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192776,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/1LhNYIwU73AoGtQqR0Na4u"
+    },
+    {
+      "album": {
         "name": "With the Gang b/w The Night is Young (Remix)",
         "url": "https://open.spotify.com/album/46rZzXplrgOyPR0c8KNMqX"
       },
@@ -20192,6 +20322,24 @@
     },
     {
       "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/1c1T61DtQpRZvmXWTMg8cy"
+      },
+      "artists": [
+        {
+          "name": "Ren Lawton",
+          "url": "https://open.spotify.com/artist/26BxhGIrBlRqKej8vTDFD1"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151752,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/1Db5aQSE9LML9IvPDmDhoy"
+    },
+    {
+      "album": {
         "name": "Reclamation",
         "url": "https://open.spotify.com/album/7BDJoUe7AnZp3MCcBHgDSI"
       },
@@ -20247,6 +20395,24 @@
       "duration_ms": 251580,
       "name": "Thought Of You",
       "url": "https://open.spotify.com/track/0vS0HFgHch0doCKvZZmoHj"
+    },
+    {
+      "album": {
+        "name": "Sunshine Corner",
+        "url": "https://open.spotify.com/album/3oqHKUUQalm8lqryVEt1ws"
+      },
+      "artists": [
+        {
+          "name": "The Moving Stills",
+          "url": "https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250595,
+      "name": "Throw Me A Line",
+      "url": "https://open.spotify.com/track/2B9BR45k0rmjGupMXyvUOM"
     },
     {
       "album": {

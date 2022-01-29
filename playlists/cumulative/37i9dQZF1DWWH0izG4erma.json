@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 270675,
       "name": "DLTGYD",
       "url": "https://open.spotify.com/track/474bbaCVDM80WEg9iSvkYb"
@@ -856,6 +856,24 @@
     },
     {
       "album": {
+        "name": "Heaven Down Here",
+        "url": "https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg"
+      },
+      "artists": [
+        {
+          "name": "Texas Hill",
+          "url": "https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238368,
+      "name": "Heaven Down Here",
+      "url": "https://open.spotify.com/track/1cpixaTbEEkzxdbrlbFVll"
+    },
+    {
+      "album": {
         "name": "Travelin' Kind",
         "url": "https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI"
       },
@@ -1031,6 +1049,28 @@
       "duration_ms": 236333,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/2mi9QDPaqsQwqLSGWCBuLa"
+    },
+    {
+      "album": {
+        "name": "Six Strings",
+        "url": "https://open.spotify.com/album/0ajV6BBR5hHbYOUYNhwPwk"
+      },
+      "artists": [
+        {
+          "name": "Alex Hall",
+          "url": "https://open.spotify.com/artist/0uQBEPm8cAptCNmTWhio8o"
+        },
+        {
+          "name": "John Osborne",
+          "url": "https://open.spotify.com/artist/2ykJ3vU8SMONSbIyI2rmdF"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211813,
+      "name": "Jealous Love (feat. John Osborne)",
+      "url": "https://open.spotify.com/track/3kzzepkRz1iIN0TVT8b5NP"
     },
     {
       "album": {
@@ -1469,6 +1509,24 @@
       "duration_ms": 186458,
       "name": "Ride the Lightning (717 Tapes)",
       "url": "https://open.spotify.com/track/6bVZ8tOT8S6wrXJl83zEHU"
+    },
+    {
+      "album": {
+        "name": "For the Birds",
+        "url": "https://open.spotify.com/album/7vD8gjnmrGKzebsA804VNx"
+      },
+      "artists": [
+        {
+          "name": "Read Southall Band",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254090,
+      "name": "Right or Wrong",
+      "url": "https://open.spotify.com/track/2quBiVjw1oY14H8fgW78as"
     },
     {
       "album": {

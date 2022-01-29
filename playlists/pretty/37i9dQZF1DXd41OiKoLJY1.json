@@ -1,6 +1,6 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: Jenn Clemena, Artwork: Isu Kim\n",
-  "num_followers": 48802,
+  "num_followers": 48830,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
       "duration_ms": 273521,
       "name": "KAPIT",
       "url": "https://open.spotify.com/track/75tc9X7ci8BXWIovx4nUph"
+    },
+    {
+      "added_at": "2022-01-27 16:00:00",
+      "album": {
+        "name": "F U",
+        "url": "https://open.spotify.com/album/7osZEu80iqISZxgUCUGw8w"
+      },
+      "artists": [
+        {
+          "name": "ise",
+          "url": "https://open.spotify.com/artist/6BIzoSKP2dHDQj9r5X9RjV"
+        }
+      ],
+      "duration_ms": 181317,
+      "name": "F U",
+      "url": "https://open.spotify.com/track/5RU0z4eOXYR76fPpHBwCEK"
     },
     {
       "added_at": "2022-01-27 16:00:00",
@@ -451,6 +467,42 @@
       "duration_ms": 228055,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/3YfK1KXnKsSRlugnyWmC5E"
+    },
+    {
+      "added_at": "2022-01-27 16:00:00",
+      "album": {
+        "name": "Walang Gana",
+        "url": "https://open.spotify.com/album/4ZChP6fEK6ulsuUjbSUhsF"
+      },
+      "artists": [
+        {
+          "name": "Zone 24Seven",
+          "url": "https://open.spotify.com/artist/3Y6Hv4el40evxRTUglk8uK"
+        },
+        {
+          "name": "Cisco",
+          "url": "https://open.spotify.com/artist/1hQJe9CyAmPBXJ8Cz0Krnq"
+        },
+        {
+          "name": "El Rios",
+          "url": "https://open.spotify.com/artist/3LDA3FS14KsKU5gv05sgE8"
+        },
+        {
+          "name": "CBAKE$",
+          "url": "https://open.spotify.com/artist/4gb1sxw9cTOxLcVrdshd3q"
+        },
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/2GyDGQ5U2bb2NcHaUXykkT"
+        },
+        {
+          "name": "Shao Lin",
+          "url": "https://open.spotify.com/artist/7mdiFBTvpw94abBvqa9xhW"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Walang Gana",
+      "url": "https://open.spotify.com/track/3q55zTn6l70JOZ5dDAh2jk"
     },
     {
       "added_at": "2022-01-27 16:00:00",

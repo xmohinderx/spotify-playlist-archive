@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 255172,
       "name": "Back To Me",
       "url": "https://open.spotify.com/track/2nQyEHecmmt0WE43mOsScr"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 213297,
       "name": "Better Off Without You (High Contrast Remix feat. Shift K3Y)",
       "url": "https://open.spotify.com/track/4EsFXXYwZYh4GD37aff1Db"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 190344,
       "name": "Devotion (ft. Cameron Hayes)",
       "url": "https://open.spotify.com/track/5TGdeBW6v7BuGYjtiFKwyC"
@@ -931,6 +931,28 @@
       "duration_ms": 198620,
       "name": "Dollars Aren't Cheap",
       "url": "https://open.spotify.com/track/6fklNCnvO8jDAFSTRxfaOP"
+    },
+    {
+      "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
       "album": {
@@ -1259,7 +1281,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 171034,
       "name": "Fisher",
       "url": "https://open.spotify.com/track/7nCLDQaSVDubzrvOQ3r0l7"
@@ -1295,7 +1317,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 230984,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/1MKUYM2oiCX4AtyuEocHBe"
@@ -1335,7 +1357,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 245437,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/6YeUIUIFPpRKWsMU4IBZ7U"
@@ -1485,7 +1507,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 228538,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/6aXRILTdr65hT9dZRpYOJ7"
@@ -1579,7 +1601,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -2265,7 +2287,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 230480,
       "name": "Lonely (with Chandler Leighton) [Friction Remix]",
       "url": "https://open.spotify.com/track/6JWBrFsMLq5tAXMhahEKWy"
@@ -2327,7 +2349,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 202774,
       "name": "Love To Give (with Culture Shock & Billy Lockett)",
       "url": "https://open.spotify.com/track/0Rww3ql3uRmzTvLOVBFlpn"
@@ -2345,7 +2367,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 397360,
       "name": "Lurk",
       "url": "https://open.spotify.com/track/2JCUlkSUYcwrGTeOBFa6LO"
@@ -2517,7 +2539,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 318171,
       "name": "MONSTERS - K Motionz Remix",
       "url": "https://open.spotify.com/track/5c1trjKGPsdfInFtO4jdkQ"
@@ -2619,7 +2641,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-18",
+      "date_removed": null,
       "duration_ms": 320021,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/1w8LpjmZeBTY3PFeY1Es1A"
@@ -2715,7 +2737,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 295372,
       "name": "Nova",
       "url": "https://open.spotify.com/track/0Me1TVXnyI1jfmhF1bfpys"
@@ -2923,6 +2945,24 @@
       "duration_ms": 266511,
       "name": "Preset 42",
       "url": "https://open.spotify.com/track/4JzYhbg2VcSIw7nK1IyzgW"
+    },
+    {
+      "album": {
+        "name": "Uncharted",
+        "url": "https://open.spotify.com/album/79rVCpLJXRmxQMuwo6SgSw"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/5MOQAMudR22V5K5P9rDF32"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331134,
+      "name": "Prismatic Gate",
+      "url": "https://open.spotify.com/track/0CpV6acBoQdouz6QRg9MvG"
     },
     {
       "album": {
@@ -3157,10 +3197,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 402326,
       "name": "Red Sun",
       "url": "https://open.spotify.com/track/36tSyKYCVlhSvEhZl1fB8h"
+    },
+    {
+      "album": {
+        "name": "Redwood Falls",
+        "url": "https://open.spotify.com/album/64v4DV5UkXAPPmRoed1kcO"
+      },
+      "artists": [
+        {
+          "name": "Opsen",
+          "url": "https://open.spotify.com/artist/6Oixt6cJnmyRzkSpe1usgP"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279069,
+      "name": "Redwood Falls",
+      "url": "https://open.spotify.com/track/5rJ1G4Xh9z48qqhx7sB2D3"
     },
     {
       "album": {
@@ -3263,7 +3321,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 275862,
       "name": "Run Tings",
       "url": "https://open.spotify.com/track/0pTPFRllyljfjmAXRhmmNl"
@@ -3383,7 +3441,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 260689,
       "name": "See It Thru",
       "url": "https://open.spotify.com/track/7EFrOOnUKLolvsMKlfv3zc"
@@ -3445,7 +3503,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 204482,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh"
@@ -3559,7 +3617,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 280603,
       "name": "Sidestep",
       "url": "https://open.spotify.com/track/6B43OuVBkeGFxhpY2HBdo2"
@@ -3701,7 +3759,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 314480,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/5KAOt2u9IpISgwG3idESe0"
@@ -3905,7 +3963,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 232686,
       "name": "There and Back",
       "url": "https://open.spotify.com/track/4H3mLpYw9fgx0FHNanYLAd"
@@ -3927,7 +3985,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 353103,
       "name": "There for You - LSB Remix",
       "url": "https://open.spotify.com/track/6jLWsTbWniLvGEDSCQPin9"
@@ -4007,7 +4065,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 223448,
       "name": "Ultralight",
       "url": "https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314"
@@ -4160,6 +4218,36 @@
     },
     {
       "album": {
+        "name": "Won't You Stay (Chords 2019 Remix)",
+        "url": "https://open.spotify.com/album/3p5X7qhjLy3lWMCHnajDd8"
+      },
+      "artists": [
+        {
+          "name": "Indivision",
+          "url": "https://open.spotify.com/artist/7JwMjNkjJZxDmRTO6TBg9A"
+        },
+        {
+          "name": "Livewire",
+          "url": "https://open.spotify.com/artist/0dqg2JR9xozg2ziZTpbMN2"
+        },
+        {
+          "name": "Tasha Baxter",
+          "url": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
+        },
+        {
+          "name": "Chords",
+          "url": "https://open.spotify.com/artist/6xUwNs8LNIB43kQmd9fdf1"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366236,
+      "name": "Won't You Stay - Chords 2019 Remix",
+      "url": "https://open.spotify.com/track/0ANiA6WPAuCWaiwDIkgzPf"
+    },
+    {
+      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/1h4zCPrQEtEk9hWzlxtRDP"
       },
@@ -4189,7 +4277,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 241379,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3k2FxhfLtS42E5WmPgBHru"

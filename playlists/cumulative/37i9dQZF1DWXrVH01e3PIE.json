@@ -524,6 +524,36 @@
     },
     {
       "album": {
+        "name": "Digiovanni",
+        "url": "https://open.spotify.com/album/52sAt1Pp2niuRT8eP9ltXi"
+      },
+      "artists": [
+        {
+          "name": "KAKTOV",
+          "url": "https://open.spotify.com/artist/4G8DaRnN7oPFkEJXwX2i94"
+        },
+        {
+          "name": "Kid Lucilfer",
+          "url": "https://open.spotify.com/artist/0MWYz6Xj2G1Gh3nlLOIUfz"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        },
+        {
+          "name": "XLAB",
+          "url": "https://open.spotify.com/artist/1oagCrMTYkUXI9pmudj2w6"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197739,
+      "name": "Digiovanni",
+      "url": "https://open.spotify.com/track/5WLbrtCGsN4Mr5WgDhQAot"
+    },
+    {
+      "album": {
         "name": "Dimelo Rei",
         "url": "https://open.spotify.com/album/5LcldAaMQt44cZEUmaVgXo"
       },
@@ -1183,7 +1213,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 147423,
       "name": "MORDIENDO EL BOZAL",
       "url": "https://open.spotify.com/track/6NnqP2DazV1Q1mqmV1JNYC"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The sounds of hip-hop coming out of Canada. Cover: Lu-Kusa Woe",
+  "description": "The sounds of hip-hop coming out of Canada. Cover: Burna Bandz",
   "name": "Northern Bars",
   "published_playlist_ids": [
     "42ubhhnACTiunpws137UPH"
@@ -146,6 +146,24 @@
     },
     {
       "album": {
+        "name": "Add Up",
+        "url": "https://open.spotify.com/album/2KuQEtRo8I5995jjTHdqdB"
+      },
+      "artists": [
+        {
+          "name": "L.I Freeze",
+          "url": "https://open.spotify.com/artist/4kd8KtPKWxugiXSPAYjrZz"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159326,
+      "name": "Add Up",
+      "url": "https://open.spotify.com/track/13hmmeici0Zb9TmIAMhzMB"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/6CZzeVzSatYIOjY3FecBIS"
       },
@@ -279,7 +297,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 208025,
       "name": "Apartment 308",
       "url": "https://open.spotify.com/track/33gReiJb6djL4Dq0ImETti"
@@ -301,7 +319,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 118356,
       "name": "ATARI",
       "url": "https://open.spotify.com/track/6wuJLd7SfAp2uAMnBLjN46"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 118223,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/7wQSUmqqZLOsUrCyhLl0ZP"
@@ -913,6 +931,28 @@
       "duration_ms": 179330,
       "name": "FOR ME",
       "url": "https://open.spotify.com/track/6SCpR5CoMdbPJnwPHDErQ6"
+    },
+    {
+      "album": {
+        "name": "Fountain",
+        "url": "https://open.spotify.com/album/2x8qxHFDpna9gLQxDieIRG"
+      },
+      "artists": [
+        {
+          "name": "Jayden Premo",
+          "url": "https://open.spotify.com/artist/0LMeeMWRyliSREcd4DGPis"
+        },
+        {
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185685,
+      "name": "Fountain",
+      "url": "https://open.spotify.com/track/4xijQdNkrEjQGeC1Us4kN1"
     },
     {
       "album": {
@@ -1491,7 +1531,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 167493,
       "name": "LOST ALL FAITH",
       "url": "https://open.spotify.com/track/0gJ6ZloUcHtpYrBGO25I2o"
@@ -1513,6 +1553,28 @@
       "duration_ms": 187200,
       "name": "Lost Angeles",
       "url": "https://open.spotify.com/track/7HcXYiiZVtXm8lt4AYffm7"
+    },
+    {
+      "album": {
+        "name": "Houligan Timing",
+        "url": "https://open.spotify.com/album/1Nu0bJTbWfEZCN7tI5mvh2"
+      },
+      "artists": [
+        {
+          "name": "Burna Bandz",
+          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Love Don't Live Here",
+      "url": "https://open.spotify.com/track/0LOjQgoiOJNn4wlZO6VaL4"
     },
     {
       "album": {
@@ -1593,7 +1655,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 156577,
       "name": "Milly",
       "url": "https://open.spotify.com/track/5wd72lkBZOEuZEXQbIurgu"
@@ -1655,7 +1717,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 133017,
       "name": "My Way",
       "url": "https://open.spotify.com/track/1MR8kVBgdEq9ipNCPEe6Pl"
@@ -1826,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "Hustle Sold Separately",
+        "url": "https://open.spotify.com/album/6TMiPKrgZIRysr7YAKBywM"
+      },
+      "artists": [
+        {
+          "name": "Kresnt",
+          "url": "https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168443,
+      "name": "One More Thing",
+      "url": "https://open.spotify.com/track/6BzPNRduOs6Aoob2h3Tcjd"
+    },
+    {
+      "album": {
         "name": "Ouu",
         "url": "https://open.spotify.com/album/065Y0g13PbJXlixnHL99Li"
       },
@@ -1907,6 +1987,24 @@
       "duration_ms": 183414,
       "name": "Paving The Way",
       "url": "https://open.spotify.com/track/2wyjjZrUST17smcak1Nw1e"
+    },
+    {
+      "album": {
+        "name": "Pop Shit",
+        "url": "https://open.spotify.com/album/3sfZE5QoRqa8ff3eKHWMDg"
+      },
+      "artists": [
+        {
+          "name": "Tia Bank$",
+          "url": "https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151489,
+      "name": "Pop Shit",
+      "url": "https://open.spotify.com/track/3oObL5VM4WRQxLOo7miGtS"
     },
     {
       "album": {
@@ -2248,6 +2346,24 @@
     },
     {
       "album": {
+        "name": "Testimony",
+        "url": "https://open.spotify.com/album/2P6LJpjmKpQwOaTjvdnqKs"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Guaapo",
+          "url": "https://open.spotify.com/artist/2S9z4eFhx79PnOTaHN2l5D"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145471,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/7G1MizOFPJo9mzcfewUIc1"
+    },
+    {
+      "album": {
         "name": "The Empty Man",
         "url": "https://open.spotify.com/album/51MAF9W8UAlffAC1bWq1F6"
       },
@@ -2419,6 +2535,24 @@
       "duration_ms": 183298,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/0K1n0KEWEc4hZGGAKAV4LR"
+    },
+    {
+      "album": {
+        "name": "Tribeca Nights",
+        "url": "https://open.spotify.com/album/0g6TZedkxClPZI966LMzJJ"
+      },
+      "artists": [
+        {
+          "name": "Puffy L'z",
+          "url": "https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "Tribeca Nights",
+      "url": "https://open.spotify.com/track/2cOjtf392yEyKdjk56VHaZ"
     },
     {
       "album": {

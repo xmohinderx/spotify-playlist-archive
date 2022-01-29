@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 160000,
       "name": "5STAR",
       "url": "https://open.spotify.com/track/2SbUl2NjInfY4DyeEzZS7d"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 259298,
       "name": "All Of The Little Things (feat. Ramirez)",
       "url": "https://open.spotify.com/track/6phFpARTp2T9rcNR3uRXoe"
@@ -120,6 +120,28 @@
     },
     {
       "album": {
+        "name": "beachin",
+        "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194568,
+      "name": "beachin",
+      "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
+    },
+    {
+      "album": {
         "name": "belladonna",
         "url": "https://open.spotify.com/album/4zBz0Ve5dR4p0abiyswmD8"
       },
@@ -139,6 +161,46 @@
       "duration_ms": 190619,
       "name": "belladonna",
       "url": "https://open.spotify.com/track/6kUYzulOQuwuzIGfjKmruy"
+    },
+    {
+      "album": {
+        "name": "Better When We're Close",
+        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213453,
+      "name": "Better When We're Close",
+      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+    },
+    {
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/77yXxEndm5eQyRQUQweAsY"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273662,
+      "name": "Birdy",
+      "url": "https://open.spotify.com/track/5hBpxb5JtyfqLWOlIaZ9YY"
     },
     {
       "album": {
@@ -259,6 +321,24 @@
       "duration_ms": 162000,
       "name": "Como son las cosas",
       "url": "https://open.spotify.com/track/7t8zoNnda5roMNPJVQAdpC"
+    },
+    {
+      "album": {
+        "name": "There is no Neil Frances",
+        "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174213,
+      "name": "dancing",
+      "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
     },
     {
       "album": {
@@ -446,6 +526,28 @@
     },
     {
       "album": {
+        "name": "Enjoy The Night",
+        "url": "https://open.spotify.com/album/0RCzYsJhABlRPi6bz2gnxn"
+      },
+      "artists": [
+        {
+          "name": "Wanja Wohoro",
+          "url": "https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE"
+        },
+        {
+          "name": "Jinku",
+          "url": "https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193894,
+      "name": "Enjoy The Night",
+      "url": "https://open.spotify.com/track/6NXwQZIgrp61brkGDG8uo9"
+    },
+    {
+      "album": {
         "name": "EXPIRATION DATE",
         "url": "https://open.spotify.com/album/7eDx4ejqsr5RcTmPaM7Hfs"
       },
@@ -540,6 +642,28 @@
     },
     {
       "album": {
+        "name": "BIG WORLD",
+        "url": "https://open.spotify.com/album/1n0hYqLgR7wHK8AKi3SaCx"
+      },
+      "artists": [
+        {
+          "name": "Mondo Grosso",
+          "url": "https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb"
+        },
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262533,
+      "name": "FORGOTTEN - [Vocal : ermhoi (Black Boboi / millennium parade)]",
+      "url": "https://open.spotify.com/track/0XGeamfknqZP8K5g0BcrUg"
+    },
+    {
+      "album": {
         "name": "Frankenstein",
         "url": "https://open.spotify.com/album/740ehwZADpfoezUB54h6zE"
       },
@@ -551,7 +675,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 202248,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB"
@@ -591,7 +715,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 277608,
       "name": "Harlem River",
       "url": "https://open.spotify.com/track/6fWwLxUoiAZpZtqOFwG1KL"
@@ -627,7 +751,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 256664,
       "name": "Hold U",
       "url": "https://open.spotify.com/track/09gpC13mw1Pm5KqWIu9h0g"
@@ -681,7 +805,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 150386,
       "name": "I Like Me",
       "url": "https://open.spotify.com/track/6Sxu7v5cVU36u4pSFc4QGs"
@@ -851,6 +975,24 @@
       "duration_ms": 192244,
       "name": "Lonely Winter",
       "url": "https://open.spotify.com/track/7c8rXgRsYlpV2EJUwCNTFG"
+    },
+    {
+      "album": {
+        "name": "Long Drives",
+        "url": "https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159646,
+      "name": "Long Drives",
+      "url": "https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU"
     },
     {
       "album": {
@@ -1068,6 +1210,24 @@
     },
     {
       "album": {
+        "name": "Nobody Like You",
+        "url": "https://open.spotify.com/album/5nSjlnmqS7H39KrFuqvVHi"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123934,
+      "name": "Nobody Like You",
+      "url": "https://open.spotify.com/track/75hkmDfQpal4gNgfXKYGrh"
+    },
+    {
+      "album": {
         "name": "Nos Vemos Luego",
         "url": "https://open.spotify.com/album/1bd8xjwdj4AVUzgqzQkiWV"
       },
@@ -1109,6 +1269,28 @@
       "duration_ms": 212746,
       "name": "OCTEMBRE (feat. Bonnie Banane)",
       "url": "https://open.spotify.com/track/2aDRdU8uFJDZ7tYek3VAgY"
+    },
+    {
+      "album": {
+        "name": "Only Tonight",
+        "url": "https://open.spotify.com/album/1DXiWejIkhe1RsvuCvz2w3"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Nishihara",
+          "url": "https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m"
+        },
+        {
+          "name": "Tamala",
+          "url": "https://open.spotify.com/artist/6kDpW8kBQXJ7e0zALDEaOu"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249541,
+      "name": "Only Tonight",
+      "url": "https://open.spotify.com/track/7sdvbA1UrWaASUs1S5T36c"
     },
     {
       "album": {
@@ -1177,7 +1359,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 165533,
       "name": "Ponza",
       "url": "https://open.spotify.com/track/5HfObWIsEfQ2PW5Kn57IId"
@@ -1499,10 +1681,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 239274,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
+    },
+    {
+      "album": {
+        "name": "Teor\u00eda del Cuerpo Enamorado",
+        "url": "https://open.spotify.com/album/3bLd5ak4vQm8TWleuhVX4j"
+      },
+      "artists": [
+        {
+          "name": "Atalhos",
+          "url": "https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353653,
+      "name": "Teor\u00eda del Cuerpo Enamorado",
+      "url": "https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM"
     },
     {
       "album": {
@@ -1673,6 +1877,24 @@
       "duration_ms": 244000,
       "name": "Vanish",
       "url": "https://open.spotify.com/track/7epg2WffKZL79Hm1P16p5v"
+    },
+    {
+      "album": {
+        "name": "Vest & Boxers",
+        "url": "https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177064,
+      "name": "Vest & Boxers",
+      "url": "https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o"
     },
     {
       "album": {

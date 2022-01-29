@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Updated every Friday with the very best classical new releases. Cover: Ludovico Einaudi",
+  "description": "Updated every Friday with the very best classical new releases. Cover: Joep Beving",
   "name": "Classical New Releases",
   "published_playlist_ids": [
     "0hlA3AHTrhPo7FylZCrnY2"
@@ -123,7 +123,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 789797,
       "name": "12 Variations on 'See the conqu'ring hero comes', WoO 45",
       "url": "https://open.spotify.com/track/6ptgmUR0LJkVBgMUGttyB7"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 365493,
       "name": "14 Romances, Op. 34: XIV. Vocalise in C-sharp Minor (Lentamente - Molto cantabile) [arr. for Piano by Alan Richardson]",
       "url": "https://open.spotify.com/track/2w2L8tQMs84uy7EG3rsrzP"
@@ -356,6 +356,36 @@
     },
     {
       "album": {
+        "name": "6 Lieder, Op. 1 No. 3, Warum sind denn die Rosen so blass? (Arr. for Soprano and Orchestra by Tal-Haim Samnon)",
+        "url": "https://open.spotify.com/album/1Lg972TIBQ0kmRk9MiMPNC"
+      },
+      "artists": [
+        {
+          "name": "Fanny Mendelssohn",
+          "url": "https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi"
+        },
+        {
+          "name": "Chen Reiss",
+          "url": "https://open.spotify.com/artist/1pZTGD8GoymacpJ5DLtQbo"
+        },
+        {
+          "name": "Daniel Grossmann",
+          "url": "https://open.spotify.com/artist/3MB8lSFEOwhlaGJIrdQ2aw"
+        },
+        {
+          "name": "Jewish Chamber Orchestra Munich",
+          "url": "https://open.spotify.com/artist/4q991sdZM9xgEoYRLuqGL2"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131773,
+      "name": "6 Lieder, Op. 1: No. 3, Warum sind denn die Rosen so blass? (Arr. for Soprano and Orchestra by Tal-Haim Samnon)",
+      "url": "https://open.spotify.com/track/4QFZELdq5KO4yKcaCFlCYR"
+    },
+    {
+      "album": {
         "name": "Edvard Grieg",
         "url": "https://open.spotify.com/album/7iW24qdRvaFOe8U9LlYgMJ"
       },
@@ -397,7 +427,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 218133,
       "name": "7 Fantasies, Op. 116: No. 2, Intermezzo in A Minor. Andante",
       "url": "https://open.spotify.com/track/2HY8Hds1SeoFoi2wwfOEl4"
@@ -426,6 +456,24 @@
     },
     {
       "album": {
+        "name": "A Faint Qualm for the Future",
+        "url": "https://open.spotify.com/album/6eTvBtQolExQPxDkqKUtZv"
+      },
+      "artists": [
+        {
+          "name": "Luke Howard",
+          "url": "https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "A Faint Qualm for the Future",
+      "url": "https://open.spotify.com/track/3d17chntySsgXtt8Z3MYBF"
+    },
+    {
+      "album": {
         "name": "A quand'a quand'haveva: Villanesche",
         "url": "https://open.spotify.com/album/2FCGNTNdhKauhQGEXZbRtA"
       },
@@ -449,6 +497,24 @@
       "duration_ms": 151296,
       "name": "A quand\u2019a quand\u2019haveva: Villanesche",
       "url": "https://open.spotify.com/track/0xQYtTsSIuctNqFZAQ2hKY"
+    },
+    {
+      "album": {
+        "name": "Ae Fond Kiss",
+        "url": "https://open.spotify.com/album/0HdkciJr7BT6KI4UvIVFVV"
+      },
+      "artists": [
+        {
+          "name": "Patrick Doyle",
+          "url": "https://open.spotify.com/artist/1W42coQfIlt6btgqpfJWYQ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187627,
+      "name": "Ae Fond Kiss",
+      "url": "https://open.spotify.com/track/3uF0AFJhkosjLBGijuBnj2"
     },
     {
       "album": {
@@ -534,6 +600,28 @@
     },
     {
       "album": {
+        "name": "Bach, J.S.: Also hat Gott die Welt geliebt, Cantata BWV 68: 2. \"Mein gl\u00e4ubiges Herze\" (Arr. Gigout)",
+        "url": "https://open.spotify.com/album/0k4GDEVTKeyjNep9ghZULD"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Olivier Latry",
+          "url": "https://open.spotify.com/artist/26hVc4pAHA9g5tO1bqEZ0k"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250373,
+      "name": "Also hat Gott die Welt geliebt, Cantata BWV 68: 2. \"Mein gl\u00e4ubiges Herze\" (Arr. Gigout for Organ)",
+      "url": "https://open.spotify.com/track/2tjeAZyTWpwVapc3DEfBQj"
+    },
+    {
+      "album": {
         "name": "Am I Born: Part I. Prelude: Am I Born; Born By Brushstroke",
         "url": "https://open.spotify.com/album/2Kgdx67UQi99w7XmQhL28t"
       },
@@ -595,6 +683,24 @@
       "duration_ms": 183480,
       "name": "American Song Suite: I. September Song (Version for Violin and Chamber Orchestra)",
       "url": "https://open.spotify.com/track/04zQemhbRlsF2362087wJh"
+    },
+    {
+      "album": {
+        "name": "Amiti\u00e9 \u00e9ternelle",
+        "url": "https://open.spotify.com/album/3WFkYJ4WoNs0SXUz3vcF3R"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135610,
+      "name": "Amiti\u00e9 \u00e9ternelle",
+      "url": "https://open.spotify.com/track/7Kcs72BhrZBttmuwt2g77K"
     },
     {
       "album": {
@@ -747,7 +853,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 450933,
       "name": "Arabeske in C Major, Op. 18 (Leicht und zart - Etwas langsamer - Tempo primo - Zum Schluss. Langsam)",
       "url": "https://open.spotify.com/track/1d9pxkJWZRSZ4U6E1X1mZs"
@@ -769,6 +875,32 @@
       "duration_ms": 190053,
       "name": "Are You Still Somewhere?",
       "url": "https://open.spotify.com/track/4FAkhCKU2PrCJzoVFKlTUW"
+    },
+    {
+      "album": {
+        "name": "Arpeggione Sonata, D. 821: II. Adagio (Arr. for Cello and Guitar by Stephan Schmidt)",
+        "url": "https://open.spotify.com/album/6bhEYHRn6m255Xk461E715"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Christoph Dangel",
+          "url": "https://open.spotify.com/artist/2TNgegTOyJLOE2ltSNChl5"
+        },
+        {
+          "name": "Stephan Schmidt",
+          "url": "https://open.spotify.com/artist/2WPcoroRo00j6jPY1U8fd1"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "Arpeggione Sonata, D. 821: II. Adagio (Arr. for Cello and Guitar by Stephan Schmidt)",
+      "url": "https://open.spotify.com/track/13Tu0uFGOJywPaMPkICn9n"
     },
     {
       "album": {
@@ -801,7 +933,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 123786,
       "name": "ASIA",
       "url": "https://open.spotify.com/track/33gctmlNe0Fhd6eLde1tWs"
@@ -918,6 +1050,56 @@
     },
     {
       "album": {
+        "name": "Beethoven: Moonlight Sonata (Arr. by A.R. Rahman)",
+        "url": "https://open.spotify.com/album/2xTMYiNCLuboN1Q8aag6w9"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Firdaus Orchestra",
+          "url": "https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB"
+        },
+        {
+          "name": "Yasmina Sabbah",
+          "url": "https://open.spotify.com/artist/0P3kOXE7TCe6GUZSaHluLk"
+        },
+        {
+          "name": "Kseniia Baknina",
+          "url": "https://open.spotify.com/artist/3gOYdW4RaEEx5OqW3QHbSD"
+        },
+        {
+          "name": "Tamara Tomanovic",
+          "url": "https://open.spotify.com/artist/4ZQ8gYZwtMn0vPuvBSOrNC"
+        },
+        {
+          "name": "Vesislava Todorova",
+          "url": "https://open.spotify.com/artist/40FnXqkKDIioVVUWAPrXRO"
+        },
+        {
+          "name": "Olena Ponpon",
+          "url": "https://open.spotify.com/artist/0d0IIbOTBjHlNb1M4Hpgot"
+        },
+        {
+          "name": "Lidia Stankulova",
+          "url": "https://open.spotify.com/artist/3pxNHxXH5IUD5QvCt6I0CN"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307450,
+      "name": "Beethoven: Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2, \u201cMoonlight\u201d: I. Adagio sostenuto - Arr. by A.R. Rahman",
+      "url": "https://open.spotify.com/track/11Jz3EfhpwLt6hxRWn16eM"
+    },
+    {
+      "album": {
         "name": "Before 6",
         "url": "https://open.spotify.com/album/4pYL0YVD0NsOMkBUibueo9"
       },
@@ -933,7 +1115,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 179720,
       "name": "Before 6",
       "url": "https://open.spotify.com/track/4MBWfIrJIWzgd1wiM912qm"
@@ -951,10 +1133,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 179023,
       "name": "Bells Variation",
       "url": "https://open.spotify.com/track/2Th3UvKap32u5YdGLgsmRj"
+    },
+    {
+      "album": {
+        "name": "Chopin: Berceuse in D-Flat Major, Op. 57",
+        "url": "https://open.spotify.com/album/6lgT7kL3bJEiDmyHTV1YaP"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Ruth Slenczynska",
+          "url": "https://open.spotify.com/artist/6Z5dtyrb9Z0LgAkwjqMyY1"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339893,
+      "name": "Berceuse in D-Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/2Fqi28vvtFUjKSCrKGUg4i"
     },
     {
       "album": {
@@ -973,7 +1177,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 343893,
       "name": "Bird's Tail - Slow Meadow Rework",
       "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
@@ -1039,10 +1243,36 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 254760,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/4RnZtmISmXtxJGUlf8c7fq"
+    },
+    {
+      "album": {
+        "name": "Ravel: Orchestral Works",
+        "url": "https://open.spotify.com/album/0Z0ELAubYfvQMt4AthK0ky"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "John Wilson",
+          "url": "https://open.spotify.com/artist/1Y6MR8p9QIPxDXS99IYmyh"
+        },
+        {
+          "name": "Sinfonia Of London",
+          "url": "https://open.spotify.com/artist/14WdLIrDMYGjtKZIrgQg4z"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 882680,
+      "name": "Bol\u00e9ro, M. 81",
+      "url": "https://open.spotify.com/track/6eq7fRVYy0qNteLUrVZtxX"
     },
     {
       "album": {
@@ -1057,7 +1287,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 206369,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/01tRuWrspjX9qrrLqASycJ"
@@ -1105,10 +1335,40 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 182000,
       "name": "Cantata spirituale \"Queste pungenti spine\": IV. Ultima parte",
       "url": "https://open.spotify.com/track/7nktt1bsE0Z117auAfLLFd"
+    },
+    {
+      "album": {
+        "name": "Paganini X Schumann: 9 Caprices",
+        "url": "https://open.spotify.com/album/3uedaL3sr48ehJMcDK7tue"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 Paganini",
+          "url": "https://open.spotify.com/artist/39FC9x5PaTNYHp5hwlaY4q"
+        },
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sean Lee",
+          "url": "https://open.spotify.com/artist/2zWHjmwg3IIZv4QhqFKkHP"
+        },
+        {
+          "name": "Peter Dugan",
+          "url": "https://open.spotify.com/artist/3WD7B2lOQ6n7EVcryEcEiu"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199894,
+      "name": "Caprice No. 21 in A-Major (From 24 Caprices, Op. 1",
+      "url": "https://open.spotify.com/track/0fUNi3uPah4NRymALQzpbR"
     },
     {
       "album": {
@@ -1149,7 +1409,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 223255,
       "name": "Cavatina",
       "url": "https://open.spotify.com/track/5jQFcU3fVqdpK6OmEQMTkU"
@@ -1183,6 +1443,36 @@
       "duration_ms": 261183,
       "name": "Cello Concertino Op. 43bis: I. Adagio",
       "url": "https://open.spotify.com/track/4q4atIOC4qqHqQNop6UoP2"
+    },
+    {
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Cello Concerto, Silent Woods, Serenade",
+        "url": "https://open.spotify.com/album/2NRjpDzXAiA7gcaTDWOBnS"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Czech Philharmonic Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
+        },
+        {
+          "name": "Petr Nouzovsk\u00fd",
+          "url": "https://open.spotify.com/artist/7ulqhu6HLzHgjGp8ttouDv"
+        },
+        {
+          "name": "Stanislav Vav\u0159\u00ednek",
+          "url": "https://open.spotify.com/artist/5R9byp6weznMKJGTpU8Xb9"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 912381,
+      "name": "Cello Concerto in B Minor, Op. 104: I. Allegro",
+      "url": "https://open.spotify.com/track/6q5ukZ6qUEI2GJ5fXcKPxO"
     },
     {
       "album": {
@@ -1334,6 +1624,28 @@
     },
     {
       "album": {
+        "name": "cohesion",
+        "url": "https://open.spotify.com/album/2ThB99UVqC4PsUg0Nafuov"
+      },
+      "artists": [
+        {
+          "name": "aaronk",
+          "url": "https://open.spotify.com/artist/0hfc9fzWmuYbkQs9A20pbj"
+        },
+        {
+          "name": "Aaron K Peterson",
+          "url": "https://open.spotify.com/artist/5uR0umVKI3KOwSC4MpJo1p"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193157,
+      "name": "cohesion",
+      "url": "https://open.spotify.com/track/4IF2sXer3MvDQT7JHo546V"
+    },
+    {
+      "album": {
         "name": "Compassione",
         "url": "https://open.spotify.com/album/3cZyAAJJTlP1NfduHkbDmR"
       },
@@ -1405,10 +1717,40 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 1084560,
       "name": "Concerto for Violin and Orchestra in D major op. 35, I. Allegro moderato",
       "url": "https://open.spotify.com/track/2T0TszspeOF9LiikWHiiPR"
+    },
+    {
+      "album": {
+        "name": "Charles Avison: Concerto Grosso No. 5 in D Minor (After Domenico Scarlatti): I. Largo",
+        "url": "https://open.spotify.com/album/4JgXHIBzegFxhVXZJWCjYl"
+      },
+      "artists": [
+        {
+          "name": "Domenico Scarlatti",
+          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
+        },
+        {
+          "name": "Charles Avison",
+          "url": "https://open.spotify.com/artist/4Px5evZEvbbIPRG2h1TCyD"
+        },
+        {
+          "name": "Oph\u00e9lie Gaillard",
+          "url": "https://open.spotify.com/artist/2iV0Qpl8GsF2IDqFP9mwpj"
+        },
+        {
+          "name": "Pulcinella Orchestra",
+          "url": "https://open.spotify.com/artist/4UoT0VXtSeFODwe7DR3y34"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167946,
+      "name": "Concerto Grosso No. 5 in D Minor (After Domenico Scarlatti): I. Largo",
+      "url": "https://open.spotify.com/track/3UY0n4rqCxRUWNkZ6FAcW0"
     },
     {
       "album": {
@@ -1435,6 +1777,28 @@
       "duration_ms": 105020,
       "name": "Concerto XI in A Minor from 24 Concerti di Napoli for Recorder, Strings and Basso Continuo: IV. Spiritoso",
       "url": "https://open.spotify.com/track/3rN1lK5fkiwd1ROJML9ElY"
+    },
+    {
+      "album": {
+        "name": "Contemplation Suite: I. Dawn",
+        "url": "https://open.spotify.com/album/5a23U8fpBYm7IbmQPexpe0"
+      },
+      "artists": [
+        {
+          "name": "Julie Cooper",
+          "url": "https://open.spotify.com/artist/3Orwjks4n4xieFN72XQDQa"
+        },
+        {
+          "name": "Clio Gould",
+          "url": "https://open.spotify.com/artist/2mHZjPXXDM0RR9cJq4EmgW"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257972,
+      "name": "Contemplation Suite: I. Dawn",
+      "url": "https://open.spotify.com/track/2jHWJVa1k07CZ4xrpwjI4U"
     },
     {
       "album": {
@@ -1537,7 +1901,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 116000,
       "name": "Dear",
       "url": "https://open.spotify.com/track/7ICZkeodyeK8foAiGbJjOI"
@@ -1614,6 +1978,84 @@
     },
     {
       "album": {
+        "name": "Don Giovanni, K. 527: \"Madamina, il catalogo \u00e8 questo\" (Arr. for Three Clarinets)",
+        "url": "https://open.spotify.com/album/1GM4ZouWHRymvzvGdAPsSg"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Luigi Magistrelli",
+          "url": "https://open.spotify.com/artist/7vojh1fFDGzb4R6M58mee2"
+        },
+        {
+          "name": "Laura Magistrelli",
+          "url": "https://open.spotify.com/artist/5fIQdbiEboD4sED0DR3uoN"
+        },
+        {
+          "name": "Cristina Roman\u00f2",
+          "url": "https://open.spotify.com/artist/0lnJRWy31y4neI3dBevTId"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250357,
+      "name": "Don Giovanni, K. 527: \"Madamina, il catalogo \u00e8 questo\" - Arr. for Three Clarinets",
+      "url": "https://open.spotify.com/track/3kTtktsRFF7xsthrw0U5v1"
+    },
+    {
+      "album": {
+        "name": "Pene Pati - Donizetti: L'elisir d'amore, Act 2: \"Una furtiva lagrima\"",
+        "url": "https://open.spotify.com/album/5gGAR3fBXtb4XUR52vNOUm"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Pene Pati",
+          "url": "https://open.spotify.com/artist/6EXB31DvzNtrgXfnqy07MK"
+        },
+        {
+          "name": "Emmanuel Villaume",
+          "url": "https://open.spotify.com/artist/2sPg5fNFD9BZkSYmk4NGmW"
+        },
+        {
+          "name": "Orchestre National Bordeaux Aquitaine",
+          "url": "https://open.spotify.com/artist/3pCPus3pU3880L4RVwppF9"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257613,
+      "name": "Donizetti: L'elisir d'amore, Act 2: \"Una furtiva lagrima\" (Nemorino)",
+      "url": "https://open.spotify.com/track/5xAunf9nIMQqUo4Sb9BiFx"
+    },
+    {
+      "album": {
+        "name": "#001 Coordinate",
+        "url": "https://open.spotify.com/album/32zxMMLPHaqd6R5kEs1ayQ"
+      },
+      "artists": [
+        {
+          "name": "Dardust",
+          "url": "https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261930,
+      "name": "Dono Per un Addio",
+      "url": "https://open.spotify.com/track/0u3w1DZDNaVkCIQCD5b4Mq"
+    },
+    {
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/7ymvqv13pvafy0oG7tqY53"
       },
@@ -1647,7 +2089,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 229350,
       "name": "Efterskalv",
       "url": "https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno"
@@ -1698,6 +2140,32 @@
     },
     {
       "album": {
+        "name": "Eliza Aria (Arr. for Violin and String Ensemble by Fran\u00e7ois Valli\u00e8res and Ang\u00e8le Dubeau)",
+        "url": "https://open.spotify.com/album/0krjsNOUuZ4JzlQlsy8pwk"
+      },
+      "artists": [
+        {
+          "name": "Elena Kats-Chernin",
+          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
+        },
+        {
+          "name": "Ang\u00e8le Dubeau",
+          "url": "https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq"
+        },
+        {
+          "name": "La Piet\u00e0",
+          "url": "https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "Eliza Aria (Arr. for Violin and String Ensemble by Fran\u00e7ois Valli\u00e8res and Ang\u00e8le Dubeau)",
+      "url": "https://open.spotify.com/track/6k9ZEBArSDe0BOnYA6wP8X"
+    },
+    {
+      "album": {
         "name": "2020 Reworked",
         "url": "https://open.spotify.com/album/3HmI6KMwS5to2IzuQUW1mm"
       },
@@ -1717,6 +2185,24 @@
       "duration_ms": 208117,
       "name": "Enter (Reworked)",
       "url": "https://open.spotify.com/track/4sKhjrm1dht7ZYelxwoIws"
+    },
+    {
+      "album": {
+        "name": "Eos",
+        "url": "https://open.spotify.com/album/5GKHFs6MDxMZGGWsXvh6df"
+      },
+      "artists": [
+        {
+          "name": "Neuhaus",
+          "url": "https://open.spotify.com/artist/4jqFsKvoRVy323hdBsyO5d"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296921,
+      "name": "Eos",
+      "url": "https://open.spotify.com/track/4l0sFIiUbRaJSCJGpgKTIW"
     },
     {
       "album": {
@@ -1753,7 +2239,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 120107,
       "name": "Falling For",
       "url": "https://open.spotify.com/track/6sjn8knBvkR0eek1zEVkmn"
@@ -1797,7 +2283,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 135584,
       "name": "Favour",
       "url": "https://open.spotify.com/track/4GxbZgdunyDK0HUTu0YvlS"
@@ -1819,6 +2305,60 @@
       "duration_ms": 156625,
       "name": "Fiat Lux",
       "url": "https://open.spotify.com/track/0cUk8OzfkLEHdhWpOSNY6u"
+    },
+    {
+      "album": {
+        "name": "finding peace",
+        "url": "https://open.spotify.com/album/08eiT4woV7u74vbS6Rmd6i"
+      },
+      "artists": [
+        {
+          "name": "BARTH.",
+          "url": "https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "finding peace",
+      "url": "https://open.spotify.com/track/67iOe3akak2hfny4Zv16Gc"
+    },
+    {
+      "album": {
+        "name": "Finding The Heavens",
+        "url": "https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167063,
+      "name": "Finding The Heavens",
+      "url": "https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc"
+    },
+    {
+      "album": {
+        "name": "Fingers Crossed (arr. piano)",
+        "url": "https://open.spotify.com/album/7kkjF3lRF4KtvIk95UNmpJ"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187948,
+      "name": "Fingers Crossed (arr. piano)",
+      "url": "https://open.spotify.com/track/0qoMHjrFq0g4QdMqxYhG9t"
     },
     {
       "album": {
@@ -1871,6 +2411,36 @@
       "duration_ms": 205666,
       "name": "Five Pieces, Op. 81: III. Valse",
       "url": "https://open.spotify.com/track/0hxRNPW1RHmrIgH7YY3cqj"
+    },
+    {
+      "album": {
+        "name": "Sigur R\u00f3s: Flj\u00f3tavik (Arr. for Violin and String Orchestra)",
+        "url": "https://open.spotify.com/album/2T0VS4edNYXmSZuYfElrFS"
+      },
+      "artists": [
+        {
+          "name": "Sigur R\u00f3s",
+          "url": "https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy"
+        },
+        {
+          "name": "Dmitri Ensemble",
+          "url": "https://open.spotify.com/artist/4XYWZA2XeLzJ11ddDNwnNg"
+        },
+        {
+          "name": "Stephanie Gonley",
+          "url": "https://open.spotify.com/artist/6jArlkTGzRWdJsoEPutzQO"
+        },
+        {
+          "name": "Graham Ross",
+          "url": "https://open.spotify.com/artist/5ALngZTunHWltWc3XsQZFZ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260359,
+      "name": "Flj\u00f3tavik (Arr. for Violin and String Orchestra)",
+      "url": "https://open.spotify.com/track/02Jfqr0Fd6OhaBOLY3X0fS"
     },
     {
       "album": {
@@ -1933,7 +2503,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 230573,
       "name": "Flute Sonata in D Major, Op. 94: III. Andante",
       "url": "https://open.spotify.com/track/3mNj4M2rC6C2fvKtjJcqkp"
@@ -1959,10 +2529,36 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 212436,
       "name": "Flute Sonata in E Minor, BWV 1034: III. Andante",
       "url": "https://open.spotify.com/track/6REJWCVf3PDpufrc9hX9hU"
+    },
+    {
+      "album": {
+        "name": "For You I Will Be an Island",
+        "url": "https://open.spotify.com/album/5PZ2ZqQteVdr371BU1PMN3"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lucy Cook",
+          "url": "https://open.spotify.com/artist/2WaOlJlOqgBMYBQuWhPlsf"
+        },
+        {
+          "name": "Cantorum Chamber Choir",
+          "url": "https://open.spotify.com/artist/4PSSO3aQwxdiHSi3Tal5uc"
+        },
+        {
+          "name": "Steve Durtschi",
+          "url": "https://open.spotify.com/artist/1DeLwWJg43YMCp28yrdmS0"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245794,
+      "name": "For You I Will Be an Island",
+      "url": "https://open.spotify.com/track/34Bw1gzNNpzGCSg3UXHCXD"
     },
     {
       "album": {
@@ -1981,10 +2577,36 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 419500,
       "name": "Four Impromptus, Op. 90, D. 899: No. 3 in G-Flat Major, Andante",
       "url": "https://open.spotify.com/track/3uJxqUAFmLrkTSidL2UIjM"
+    },
+    {
+      "album": {
+        "name": "Frauenliebe und Leben, Op. 42: IV. Du Ring an meinem Finger",
+        "url": "https://open.spotify.com/album/7n88I1kL9F85rFNBeym5TG"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sarah Brady",
+          "url": "https://open.spotify.com/artist/6G5oWvJXE96mCq2dCRfvga"
+        },
+        {
+          "name": "Stephen Delaney",
+          "url": "https://open.spotify.com/artist/1sXlYyNasz6hv4t1EiixKZ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159493,
+      "name": "Frauenliebe und Leben, Op. 42: IV. Du Ring an meinem Finger",
+      "url": "https://open.spotify.com/track/39JyBIbz8sqM6iUdOgy69I"
     },
     {
       "album": {
@@ -2069,10 +2691,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 447315,
       "name": "Gaspard de la nuit, M. 55: I. Ondine",
       "url": "https://open.spotify.com/track/7i7b491MNEfDfJWQDNGg3z"
+    },
+    {
+      "album": {
+        "name": "Ravel: Gaspard de la nuit, M. 55: III. Scarbo",
+        "url": "https://open.spotify.com/album/4kZn47I0JFlod1tguW5Idv"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537200,
+      "name": "Gaspard de la nuit, M. 55: III. Scarbo",
+      "url": "https://open.spotify.com/track/5wuniyVBjou185s5CpkEix"
     },
     {
       "album": {
@@ -2117,7 +2761,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 423524,
       "name": "Glass - Live from Studio S2",
       "url": "https://open.spotify.com/track/3cxBOgkPQKxUVASrzrxZAm"
@@ -2146,6 +2790,28 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Goldberg Variations",
+        "url": "https://open.spotify.com/album/4g6CxuIMwlJ9gyu3tsUTgu"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Kl\u00e1ra W\u00fcrtz",
+          "url": "https://open.spotify.com/artist/6tmD8b0VdHX1k3RVDf1krI"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122360,
+      "name": "Goldberg Variations, BWV 988: XXVI. Variatio 30, Quodlibet",
+      "url": "https://open.spotify.com/track/0Z7avn7LV3fGbEZdK1mIV7"
+    },
+    {
+      "album": {
         "name": "Guiding Light",
         "url": "https://open.spotify.com/album/1OsTAPPpJmkQh8uyeZJRfa"
       },
@@ -2157,7 +2823,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 197877,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/6DsGXu4Hii9LyNPLexGCwU"
@@ -2179,10 +2845,40 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 176870,
       "name": "Gymnopedie, Pt. 2 (432hz)",
       "url": "https://open.spotify.com/track/451NbVIRKv1kKQdgJkWEAa"
+    },
+    {
+      "album": {
+        "name": "Dualit\u00e0 - Giulio Cesare in Egitto, HWV 17, Act 3: \"Da tempeste il legno infranto\"",
+        "url": "https://open.spotify.com/album/7CPOfwWCk0y24IUNQHhnS5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Em\u0151ke Bar\u00e1th",
+          "url": "https://open.spotify.com/artist/0cJzIXI28dfopSWlUD4vy0"
+        },
+        {
+          "name": "Artaserse",
+          "url": "https://open.spotify.com/artist/1X5L3ZjrP8dL6tYLGAkp1f"
+        },
+        {
+          "name": "Philippe Jaroussky",
+          "url": "https://open.spotify.com/artist/17aC1wctGme2P8YC6LVov2"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383800,
+      "name": "Handel: Giulio Cesare in Egitto, HWV 17, Act 3: \"Da tempeste il legno infranto\" (Cleopatra)",
+      "url": "https://open.spotify.com/track/2NPsr1gMxfwVLtD77lbHVa"
     },
     {
       "album": {
@@ -2389,7 +3085,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 447868,
       "name": "I. Allegro con brio",
       "url": "https://open.spotify.com/track/6cn4yKS1BINBqTgyeG1k0F"
@@ -2411,6 +3107,36 @@
       "duration_ms": 227293,
       "name": "If I Aint Got You",
       "url": "https://open.spotify.com/track/6RLPEMthvzvwqVjgcF4wPA"
+    },
+    {
+      "album": {
+        "name": "Piano Concerto No. 20 in D Minor, K. 466/II. Romance (Cadenza by Johann Nepomuk Hummel)",
+        "url": "https://open.spotify.com/album/4gifD5FvtmVQ80c4t7hKK2"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "See Siang Wong",
+          "url": "https://open.spotify.com/artist/21NJ5Fe4kSV3uACHwyN271"
+        },
+        {
+          "name": "S\u00fcdwestdeutsche Philharmonie Konstanz",
+          "url": "https://open.spotify.com/artist/20JrGcbt8SuJqPStSpLqCM"
+        },
+        {
+          "name": "Philipp von Steinaecker",
+          "url": "https://open.spotify.com/artist/1S2L6UAPxN8J97nBtMaZyo"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541653,
+      "name": "II. Romance (Cadenza by Johann Nepomuk Hummel)",
+      "url": "https://open.spotify.com/track/0Y21SNrgqdn9jMezu54ReJ"
     },
     {
       "album": {
@@ -2535,7 +3261,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 145026,
       "name": "IV. shimmering light",
       "url": "https://open.spotify.com/track/2AqI1zyvMAdjNPmba0SWDM"
@@ -2595,7 +3321,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 171198,
       "name": "Joy (After Bach's Jesu, Joy of Man's Desiring, BWV 147, No. 10 and Beethoven's Symphony No. 9, Op.125: IV. \"Ode to Joy\")",
       "url": "https://open.spotify.com/track/3DHyNUuP7Gf90iCeDkdw1f"
@@ -2688,6 +3414,36 @@
     },
     {
       "album": {
+        "name": "Donizetti: La Favorite: Ange si pur que",
+        "url": "https://open.spotify.com/album/4TLVQw0BqKwLujLGVRXTY7"
+      },
+      "artists": [
+        {
+          "name": "Gaetano Donizetti",
+          "url": "https://open.spotify.com/artist/2jCGEMSZXMSOImpD8sqo56"
+        },
+        {
+          "name": "Benjamin Bernheim",
+          "url": "https://open.spotify.com/artist/2O3XZAlQe8ndaqHS6nZByR"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9ric Chaslin",
+          "url": "https://open.spotify.com/artist/0J7QS77wF39iGgyWIiMJaV"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203146,
+      "name": "La Favorite: Ange si pur que",
+      "url": "https://open.spotify.com/track/5QsixYFqaU12Mp3kDBUqeS"
+    },
+    {
+      "album": {
         "name": "La fille aux cheveux de lin",
         "url": "https://open.spotify.com/album/4X6XLUqFy97zDwHVT12lIX"
       },
@@ -2707,6 +3463,24 @@
       "duration_ms": 145666,
       "name": "La fille aux cheveux de lin, L. 117",
       "url": "https://open.spotify.com/track/2jBTxlEwV0rfQMSn77HFdX"
+    },
+    {
+      "album": {
+        "name": "La promesse (Deep Pianos)",
+        "url": "https://open.spotify.com/album/1dOALovYAVUy6zEx9cxOEg"
+      },
+      "artists": [
+        {
+          "name": "Cascadeur",
+          "url": "https://open.spotify.com/artist/5yUtzFVpUdN8UtyZzDD9o9"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "La promesse (Deep Pianos)",
+      "url": "https://open.spotify.com/track/3NP2bJKETBqjxWnlY9z6Fu"
     },
     {
       "album": {
@@ -2915,7 +3689,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 128438,
       "name": "Little Forest",
       "url": "https://open.spotify.com/track/0ngRF3XtGxXhFWDxeOJqfb"
@@ -2995,7 +3769,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 944773,
       "name": "Mad Rush",
       "url": "https://open.spotify.com/track/2K7545qJDNp4s1MagbbZ9v"
@@ -3021,7 +3795,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 181196,
       "name": "Magnificat in D Major, BWV 243: I. Magnificat",
       "url": "https://open.spotify.com/track/50OkzJnKDcc3hnwAjxJl8f"
@@ -3047,7 +3821,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 406000,
       "name": "Mallorca, Op. 202",
       "url": "https://open.spotify.com/track/5Wt4pClxKg3HbyJ5eWDaEJ"
@@ -3095,7 +3869,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 175746,
       "name": "Maple Leaf Rag (Arr. By Stephen Buck)",
       "url": "https://open.spotify.com/track/2vce93MhwvkRiR1sXqB08P"
@@ -3157,7 +3931,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 285017,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/1khYGOXqVvl7gPUqBgEuvu"
@@ -3175,10 +3949,50 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 208307,
       "name": "Mia",
       "url": "https://open.spotify.com/track/5MdHNfHC2dH0872v9IF12c"
+    },
+    {
+      "album": {
+        "name": "Midnight Mood",
+        "url": "https://open.spotify.com/album/7aHYx6To2IBJtPR72lF7hw"
+      },
+      "artists": [
+        {
+          "name": "Kristjan J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7"
+        },
+        {
+          "name": "Baltic Sea Philharmonic",
+          "url": "https://open.spotify.com/artist/1PlMcwoF2G03BqB1MDbXVt"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Midnight Mood",
+      "url": "https://open.spotify.com/track/65FYPHAxklEw5Hk8Feo9Vj"
+    },
+    {
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180057,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
     },
     {
       "album": {
@@ -3193,10 +4007,74 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 393813,
       "name": "mist",
       "url": "https://open.spotify.com/track/2xuM99rQr2oORCVsLbkhMt"
+    },
+    {
+      "album": {
+        "name": "Mozart: Mitridate, r\u00e8 di Ponto, K. 87: Se viver non degg'io (Arr. James Strauss)",
+        "url": "https://open.spotify.com/album/5MEGKg2LJnV7XKgwias3hf"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "James Strauss",
+          "url": "https://open.spotify.com/artist/2exS2nppQ6CR4m4UkK1Lh7"
+        },
+        {
+          "name": "Cati Sara L\u00f3pez",
+          "url": "https://open.spotify.com/artist/6vJWSUwy4aQkxOtTZQuN2I"
+        },
+        {
+          "name": "Vasilis Tsiatsianis",
+          "url": "https://open.spotify.com/artist/72FhDU4IWSCaRZJKdhCG2g"
+        },
+        {
+          "name": "United Europa Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/51M8bZz43Jlh8uszgkIzkh"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321830,
+      "name": "Mitridate, r\u00e8 di Ponto, K. 87: Se viver non degg'io (Arr. James Strauss)",
+      "url": "https://open.spotify.com/track/31aCoYOa5TGy0ykRpU55d0"
+    },
+    {
+      "album": {
+        "name": "Mozart x 3",
+        "url": "https://open.spotify.com/album/7FK3g6WZfO4dAGAjYa7h5o"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Elsa Dreisig",
+          "url": "https://open.spotify.com/artist/4aVIgIBrKjfio2JRpw4LAz"
+        },
+        {
+          "name": "Louis Langr\u00e9e",
+          "url": "https://open.spotify.com/artist/7e2ILiOIViOE4UwWsomh8d"
+        },
+        {
+          "name": "Kammerorchester Basel",
+          "url": "https://open.spotify.com/artist/1fY6hh9OH6MirLiogDiwPU"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199306,
+      "name": "Mozart: Idomeneo, K. 366, Act 1: \"Tutte nel cor vi sento\" (Elettra)",
+      "url": "https://open.spotify.com/track/5pa4JpIVZ9fAt2XDrIujlL"
     },
     {
       "album": {
@@ -3245,7 +4123,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 172227,
       "name": "Mozart: Piano Sonata No. 11, Var. 3 in 432 Hz (Redesigned)",
       "url": "https://open.spotify.com/track/17ZZF3oPIv6yeAJOzCaiIh"
@@ -3303,7 +4181,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 133560,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/2v0TqxOkyiaucDbyRMBERx"
@@ -3398,6 +4276,24 @@
     },
     {
       "album": {
+        "name": "Nocturnal",
+        "url": "https://open.spotify.com/album/2gnADpRKbG8Jq0Vc5ikLKK"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312757,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7BpDcPsVqfMgHdVglLK3Kt"
+    },
+    {
+      "album": {
         "name": "Nocturne 16",
         "url": "https://open.spotify.com/album/557QmWvr6dCRPMm91M4d82"
       },
@@ -3438,6 +4334,28 @@
     },
     {
       "album": {
+        "name": "Nocturne Op. 62, No. 2 in E Major",
+        "url": "https://open.spotify.com/album/0vbHmOMP5eZbgwgrD2MwUh"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Ivo Pogorelich",
+          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461640,
+      "name": "Nocturne Op. 62, No. 2 in E Major",
+      "url": "https://open.spotify.com/track/0YPhfSxoQFAjJatOYYxK4V"
+    },
+    {
+      "album": {
         "name": "Nocturnes op.3",
         "url": "https://open.spotify.com/album/1eFpKpEOeJK8fR1gtd6HaE"
       },
@@ -3449,7 +4367,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 154714,
       "name": "Nocturnes op.3",
       "url": "https://open.spotify.com/track/589UW75kHbBNDPERjvGUDo"
@@ -3574,6 +4492,54 @@
     },
     {
       "album": {
+        "name": "Variations on Buenos Aires",
+        "url": "https://open.spotify.com/album/2FwiiSXnI0QBwMVRYtV0IE"
+      },
+      "artists": [
+        {
+          "name": "Deutsche Kammerakademie Neuss",
+          "url": "https://open.spotify.com/artist/72ghoWKbcESbdTtLbvJrEk"
+        },
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "Isabelle van Keulen Ensemble",
+          "url": "https://open.spotify.com/artist/3PlYlwM86A3syq329r6F6o"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311369,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/33T1owQ1vUwqzSM8IvbCNB"
+    },
+    {
+      "album": {
+        "name": "Ode To The Wilderness: Fanfare for Strings (Third Movement)",
+        "url": "https://open.spotify.com/album/3NuJYiSNaCFDkYRKLzk4al"
+      },
+      "artists": [
+        {
+          "name": "Mark John McEncroe",
+          "url": "https://open.spotify.com/artist/02ep1mxR5xAc2t9m0ZyGL6"
+        },
+        {
+          "name": "Budapest Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/4yrzlxPNm4ulLRpn5wmEAX"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540000,
+      "name": "Ode To The Wilderness: Fanfare for Strings (Third Movement)",
+      "url": "https://open.spotify.com/track/5Icvztjjx9tRf6HCEbhzif"
+    },
+    {
+      "album": {
         "name": "Of Twilight Skies",
         "url": "https://open.spotify.com/album/76YGw1azMme9elduNgSeld"
       },
@@ -3585,7 +4551,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 198120,
       "name": "Of Twilight Skies",
       "url": "https://open.spotify.com/track/5FgOdb5ilNpgXpPBYl23Ln"
@@ -3603,10 +4569,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 229500,
       "name": "On the Distant Wings of a Dove",
       "url": "https://open.spotify.com/track/6Fqf7Kb8hUfBrYPB4V6mte"
+    },
+    {
+      "album": {
+        "name": "One",
+        "url": "https://open.spotify.com/album/135pHfM5NW9kcUHLKvJvSw"
+      },
+      "artists": [
+        {
+          "name": "Per St\u00f6rby Jutbring",
+          "url": "https://open.spotify.com/artist/5HKQ1eZfmajJNGC12Nj7xB"
+        },
+        {
+          "name": "New Tide Orquesta",
+          "url": "https://open.spotify.com/artist/2pE8S57XJUMmyHrDXxTBKd"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291960,
+      "name": "One",
+      "url": "https://open.spotify.com/track/5zJHFXFTIOLbWyEdFxaNCH"
     },
     {
       "album": {
@@ -3760,6 +4748,32 @@
     },
     {
       "album": {
+        "name": "Grieg: Solveig's Song",
+        "url": "https://open.spotify.com/album/5mVnmvQSilAjdwuFAV8jz3"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Ragnhild Hemsing",
+          "url": "https://open.spotify.com/artist/4ys1PWBLoIR0XZGmg3L9FA"
+        },
+        {
+          "name": "TrondheimSolistene",
+          "url": "https://open.spotify.com/artist/7rXCWLNIVc3gBq0DhhffbQ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273100,
+      "name": "Peer Gynt, Op. 23: Solveig's Song - Arr. for Violin & String Orchestra by Tormod Tvete Vik",
+      "url": "https://open.spotify.com/track/0BGjITFbitxzJDaX1eLUgi"
+    },
+    {
+      "album": {
         "name": "Philip Glass: Metamorphosis Two",
         "url": "https://open.spotify.com/album/0RT8RRwsN2C3TEuu2iLt45"
       },
@@ -3779,6 +4793,36 @@
       "duration_ms": 419186,
       "name": "Philip Glass: Metamorphosis Two",
       "url": "https://open.spotify.com/track/0tJUsDIMdejKRb6fTHFU3F"
+    },
+    {
+      "album": {
+        "name": "Piano Concerto in D Major, Op. 61a: III. Rondo",
+        "url": "https://open.spotify.com/album/2uDSGhFYaGLiVVpJCWOjCU"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Nino Gvetadze",
+          "url": "https://open.spotify.com/artist/3XqWi96WK0NxAhtHng8HSl"
+        },
+        {
+          "name": "Benjamin Levy",
+          "url": "https://open.spotify.com/artist/2YOZcFWhvdRmuGSERI0VhF"
+        },
+        {
+          "name": "Phion, Orchestra of Gelderland & Overijssel",
+          "url": "https://open.spotify.com/artist/0LcUuQPJVtVbAnNJPhtPXy"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548480,
+      "name": "Piano Concerto in D Major, Op. 61a: III. Rondo",
+      "url": "https://open.spotify.com/track/77OwOXQLPEdlYFJ35xjDl2"
     },
     {
       "album": {
@@ -3805,7 +4849,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 1087600,
       "name": "Piano Concerto No. 2 in B-Flat Major, Op. 83: I. Allegro non troppo",
       "url": "https://open.spotify.com/track/4XlHhmWDo22AwUUpALlhDj"
@@ -3827,7 +4871,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 468494,
       "name": "Piano Sonata in C Minor, D958: II. Adagio",
       "url": "https://open.spotify.com/track/0w7zG1MfCZTRte3Cr46fkt"
@@ -3849,7 +4893,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 380013,
       "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight\": I. Adagio sostenuto",
       "url": "https://open.spotify.com/track/2mRvhr9Qnid82FiCu22gpD"
@@ -3878,6 +4922,28 @@
     },
     {
       "album": {
+        "name": "Fanny & Felix Mendelssohn",
+        "url": "https://open.spotify.com/album/4WsPZFjkELFvEiQ3LMFfSh"
+      },
+      "artists": [
+        {
+          "name": "Fanny Mendelssohn",
+          "url": "https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi"
+        },
+        {
+          "name": "Trio Chausson",
+          "url": "https://open.spotify.com/artist/0lJyDuNV2Ap7pSrnbgzjQb"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155333,
+      "name": "Piano Trio in D Minor, Op. 11: III. Lied. Allegretto",
+      "url": "https://open.spotify.com/track/1z5XbkqhHkwdxVRSebOebS"
+    },
+    {
+      "album": {
         "name": "Piece in D Minor, WK 205. Arpeggio (No. 20 from \"27 Pieces for Bass Viol - The Drexel Manuscript 5871\")",
         "url": "https://open.spotify.com/album/0ohtVhHBgezMO0iAmHdQLz"
       },
@@ -3893,10 +4959,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 148007,
       "name": "Piece in D Minor, WK 205. Arpeggio - No. 20 from \"27 Pieces for Bass Viol - The Drexel Manuscript 5871\"",
       "url": "https://open.spotify.com/track/1hdTnx41NpbFkjd8wIo4h9"
+    },
+    {
+      "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/7mS0wfIGgbJpMnAJbkPNO0"
+      },
+      "artists": [
+        {
+          "name": "Marin Marais",
+          "url": "https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE"
+        },
+        {
+          "name": "Philippe Pierlot",
+          "url": "https://open.spotify.com/artist/02U08GYoxomDe3lyEmMvNp"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368929,
+      "name": "Pi\u00e8ces de viole, Livre 2 - Suite No. 3 in D Major: No. 63. Les Voix Humaines (Lentement)",
+      "url": "https://open.spotify.com/track/1b7Gui95FOHRRza7gh8KDf"
     },
     {
       "album": {
@@ -3959,10 +5047,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 171600,
       "name": "Poh\u00e1dka, JW VII/5: III. Allegro",
       "url": "https://open.spotify.com/track/6cAk0sye9mJdPyOqSjRCh6"
+    },
+    {
+      "album": {
+        "name": "Porcelain",
+        "url": "https://open.spotify.com/album/5hBwLmkoEn5Z515sp84INz"
+      },
+      "artists": [
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/5KNjJIB4jDHRZ7uMsWQIs9"
     },
     {
       "album": {
@@ -3981,7 +5087,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 105106,
       "name": "Prelude and Fugue in C Major, BWV 846: Prelude (Transcription for Bass Viol by Lucile Boulanger)",
       "url": "https://open.spotify.com/track/63wVUt2tEkI4KG5hY42mwG"
@@ -4011,10 +5117,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 302016,
       "name": "Provenzale: La Stellidaura, Act 1: \"Deh rendetemi ombre care\"",
       "url": "https://open.spotify.com/track/4AOUFBogW3VdScJR7SqSkD"
+    },
+    {
+      "album": {
+        "name": "Pr\u00e9lude in B-Flat Major",
+        "url": "https://open.spotify.com/album/1DPIRbqYg19BHQauExDKGY"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Christophe Rousset",
+          "url": "https://open.spotify.com/artist/5JYgjQKgcKOCWvsMztDF2z"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58413,
+      "name": "Pr\u00e9lude in B-Flat Major",
+      "url": "https://open.spotify.com/track/6upGAYD8AYfjL3m3ZBAEiS"
     },
     {
       "album": {
@@ -4033,7 +5161,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 346069,
       "name": "Quatuor \u00e0 cordes in F Major, M. 35: II. Assez vif, tr\u00e8s rythm\u00e9 - Arr. Gabriel Philippot for Brass Quintet",
       "url": "https://open.spotify.com/track/4JH4rfvgHByILJkdTUir6W"
@@ -4058,6 +5186,28 @@
     },
     {
       "album": {
+        "name": "Ravel: Ondine",
+        "url": "https://open.spotify.com/album/0xS5kXFmPeB5AGx0CMLNRa"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Mark Isaacs",
+          "url": "https://open.spotify.com/artist/3UWmUDrm6e0yLsTJQvyZ83"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503509,
+      "name": "Ravel: Ondine",
+      "url": "https://open.spotify.com/track/7BDyKT1sA4nz7NezOk6JH4"
+    },
+    {
+      "album": {
         "name": "Redeeming Love (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0tCobdEQDMXXGLVRaAbARo"
       },
@@ -4073,7 +5223,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 322160,
       "name": "Redeeming Love Theme",
       "url": "https://open.spotify.com/track/748kgCBjhP38e0XAU1cbk4"
@@ -4120,6 +5270,28 @@
     },
     {
       "album": {
+        "name": "1883: Season 1, Vol. 1 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/24Rwfmdsh4NOwPwtr4EHtb"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        },
+        {
+          "name": "Breton Vivian",
+          "url": "https://open.spotify.com/artist/7vPwWTnoNQN2E1nAHclTll"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173557,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/7hfbjHirvlvlQI2UfF8bGA"
+    },
+    {
+      "album": {
         "name": "Mozart: Requiem in D Minor, K. 626 \"Missa pro defunctis\"",
         "url": "https://open.spotify.com/album/7gXhPnfePMn8qnpLnKdbKr"
       },
@@ -4143,10 +5315,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 133826,
       "name": "Requiem in D Minor, K. 626 \"Missa pro defunctis\": II. Kyrie",
       "url": "https://open.spotify.com/track/36Lq6IPZGQNU86L8bcFyZA"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3JpABmjFijcxbinWPWv0vK"
+      },
+      "artists": [
+        {
+          "name": "Ben Laver",
+          "url": "https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186607,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/3n10o2TMQManm9fYQ1jcoV"
     },
     {
       "album": {
@@ -4173,7 +5363,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 178821,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Var. XVIII: Andante cantabile",
       "url": "https://open.spotify.com/track/3GmUrXx32CIednAvkLu0hE"
@@ -4191,7 +5381,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 239000,
       "name": "Right Here Waiting - Arr. for Vocal Ensemble by Simon Whiteley",
       "url": "https://open.spotify.com/track/7nPZKzJTpD8qxp3VaKSEju"
@@ -4283,7 +5473,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 120406,
       "name": "Salon musique",
       "url": "https://open.spotify.com/track/1UpWPe0O0aNGWmouew7puk"
@@ -4324,6 +5514,32 @@
     },
     {
       "album": {
+        "name": "Satie Variation (Arr. for Violin & Piano after Gymnop\u00e9die No. 1 by Svetoslav Karparov)",
+        "url": "https://open.spotify.com/album/1mbzDcoK9sJ9UHIRl8EFkJ"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "Iyad Sughayer",
+          "url": "https://open.spotify.com/artist/3a56daV566X5srjmKNdj98"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148106,
+      "name": "Satie Variation (Arr. for Violin & Piano after Gymnop\u00e9die No. 1 by Svetoslav Karparov)",
+      "url": "https://open.spotify.com/track/0uclxRhDCzbG99QOqYj4g4"
+    },
+    {
+      "album": {
         "name": "Sending Mark Home",
         "url": "https://open.spotify.com/album/5NLIdEX0wvD32TipMqV7wa"
       },
@@ -4339,7 +5555,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 373600,
       "name": "Sending Mark Home",
       "url": "https://open.spotify.com/track/2WZkDd48UQRpFivKNQbqTy"
@@ -4404,6 +5620,24 @@
     },
     {
       "album": {
+        "name": "Solace Waltz",
+        "url": "https://open.spotify.com/album/22nVr27YR1ZRCCfgiq37n2"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171349,
+      "name": "Solace Waltz",
+      "url": "https://open.spotify.com/track/6ROdmcUcemAkfrf5gQIFe9"
+    },
+    {
+      "album": {
         "name": "Sonata for Piano and Cello in D Major, Op. 183 : III. Andante",
         "url": "https://open.spotify.com/album/4ibfJH3HWnwQUDQNenibYj"
       },
@@ -4423,7 +5657,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 347697,
       "name": "Sonata for Piano and Cello in D Major, Op. 183 : III. Andante",
       "url": "https://open.spotify.com/track/3XimdcUV1Jd0AIo5IxdIcw"
@@ -4501,7 +5735,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 337586,
       "name": "Sonata No. 1, Op. 82: II. Andante",
       "url": "https://open.spotify.com/track/46brxO4xR2M9cKGbi36DMG"
@@ -4583,6 +5817,32 @@
       "duration_ms": 555079,
       "name": "Sonata No. 3 in A Major, Op. 69: III. Adagio cantabile \u2013 Allegro vivace",
       "url": "https://open.spotify.com/track/7GOkQaimqPKjPkmCkNzC0Z"
+    },
+    {
+      "album": {
+        "name": "Mozart: Sonata, Op. 7 No. 3, KV. 454: III. Allegretto",
+        "url": "https://open.spotify.com/album/1NWdtX8GDrIKPiEARBUyN2"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Francesca Dego",
+          "url": "https://open.spotify.com/artist/3yb6cUrMO05D2GrrUW8lde"
+        },
+        {
+          "name": "Francesca Leonardi",
+          "url": "https://open.spotify.com/artist/4E2MS9ONfrCdB0LKCBMA4x"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452826,
+      "name": "Sonata, Op. 7 No. 3, KV. 454: III. Allegretto",
+      "url": "https://open.spotify.com/track/2PJOszoBYkhtAaJehJXjR7"
     },
     {
       "album": {
@@ -4701,10 +5961,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 225613,
       "name": "String Quartet No. 14 in D Minor, D. 810 \"Death and the Maiden\": III. Scherzo - allegro molto - Trio",
       "url": "https://open.spotify.com/track/6IQknRHBpjWAdUffee183Q"
+    },
+    {
+      "album": {
+        "name": "Chap\u00ed: String Quartets Nos. 3 & 4",
+        "url": "https://open.spotify.com/album/4QVkvAN1Fl1OvC1ZtT7dc3"
+      },
+      "artists": [
+        {
+          "name": "Ruperto Chap\u00ed",
+          "url": "https://open.spotify.com/artist/7mWFp7NLj1jdHAycP5z5kH"
+        },
+        {
+          "name": "Cuarteto Latinoamericano",
+          "url": "https://open.spotify.com/artist/3zZfi0cvqvHHJZILFiYZdv"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 676120,
+      "name": "String Quartet No. 3 in D Major: I. Grave - Allegro assai",
+      "url": "https://open.spotify.com/track/0FGuzGlWADOJULhSU2ED2L"
     },
     {
       "album": {
@@ -4723,10 +6005,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 344000,
       "name": "String Quartet No. 3 in F Major, Op. 73: IV. Adagio",
       "url": "https://open.spotify.com/track/2NqWJRAhdpwHbWFJ5G5IP1"
+    },
+    {
+      "album": {
+        "name": "Mozart: The Milanese Quartets - Lodi Quartet",
+        "url": "https://open.spotify.com/album/5dZGTTaKAVV4Um2BBsE3kf"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "VenEthos Ensemble",
+          "url": "https://open.spotify.com/artist/3D0YJDw4vVuMCVpo21Iszk"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306186,
+      "name": "String Quartet No. 6 in B-Flat Major, KV 159: II. Allegro",
+      "url": "https://open.spotify.com/track/3BVwXNXHp1VnvALUIF4YF4"
     },
     {
       "album": {
@@ -4771,6 +6075,32 @@
       "duration_ms": 293000,
       "name": "String Quartet No.9, \"King Lear\": IV",
       "url": "https://open.spotify.com/track/0CWqMAocQPW4AZmeaoaxjt"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: String Quintet No. 1, Op. 18, MWV R 21: IV. Allegro vivace",
+        "url": "https://open.spotify.com/album/7AHsUnKZldmbn85YBmk1gc"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Doric String Quartet",
+          "url": "https://open.spotify.com/artist/5eY6Yc7jVMpdIXgUI2spLr"
+        },
+        {
+          "name": "Timothy Ridout",
+          "url": "https://open.spotify.com/artist/5Ff3ExmaueX5f8ROQjeB4g"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389600,
+      "name": "String Quintet No. 1, Op. 18, MWV R 21: IV. Allegro vivace",
+      "url": "https://open.spotify.com/track/1jKWtAPX7Ispe8N0zUAjMk"
     },
     {
       "album": {
@@ -4837,10 +6167,32 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 349744,
       "name": "Suite Bergamasque, L. 75: III. Clair de Lune",
       "url": "https://open.spotify.com/track/78TQ9GQRz1R1Ifn7cvgcHS"
+    },
+    {
+      "album": {
+        "name": "En Suite",
+        "url": "https://open.spotify.com/album/3eGgLtJfq67XGapDdxafQv"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Audrey Abela",
+          "url": "https://open.spotify.com/artist/5c4xwfAf7eCxm5YVAP7CxY"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285800,
+      "name": "Suite Bergamasque: III. Clair de lune",
+      "url": "https://open.spotify.com/track/26ypMg1QaaKlfdoavUJ0No"
     },
     {
       "album": {
@@ -4867,6 +6219,28 @@
       "duration_ms": 420266,
       "name": "Suite d\u2019orchestre No. 1, Op. 39: II. Allegro giojoso",
       "url": "https://open.spotify.com/track/3YH8IzXmdGmZT01K9OEzRl"
+    },
+    {
+      "album": {
+        "name": "Scarlatti to Scarlatti",
+        "url": "https://open.spotify.com/album/4LWRPyqjoCynthLL5UahbU"
+      },
+      "artists": [
+        {
+          "name": "Domenico Scarlatti",
+          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
+        },
+        {
+          "name": "Giulio Biddau",
+          "url": "https://open.spotify.com/artist/0yDMhplKEwenY14CHvqyPg"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235506,
+      "name": "Suite in G Major: IV. Burlesca. Allegretto con moto",
+      "url": "https://open.spotify.com/track/46ALKldLEdHzqtxeEXIuTV"
     },
     {
       "album": {
@@ -4971,7 +6345,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 231107,
       "name": "Symphony No. 6 in D Minor, Op. 104: III. Poco vivace",
       "url": "https://open.spotify.com/track/27GgY30mCjB8Jizg3whnpm"
@@ -4997,10 +6371,36 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 666706,
       "name": "Symphony No. 7 in C Major, Op. 60, \"Leningrad\": II. Moderato (poco allegretto)",
       "url": "https://open.spotify.com/track/02qNmwgBqnkrY2oq6iKiXm"
+    },
+    {
+      "album": {
+        "name": "Haydn 2032, Vol. 11: Au go\u00fbt parisien",
+        "url": "https://open.spotify.com/album/1BFgfhHImuWyx3c81GxOB4"
+      },
+      "artists": [
+        {
+          "name": "Franz Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Kammerorchester Basel",
+          "url": "https://open.spotify.com/artist/1fY6hh9OH6MirLiogDiwPU"
+        },
+        {
+          "name": "Giovanni Antonini",
+          "url": "https://open.spotify.com/artist/6p4RwKsAymPrqeEEluZECW"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465960,
+      "name": "Symphony No. 82 in C Major, Hob.I:82: I. Vivace",
+      "url": "https://open.spotify.com/track/3gAqy4y0ut5pl3I2PMtvxU"
     },
     {
       "album": {
@@ -5015,7 +6415,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 264844,
       "name": "Temple White",
       "url": "https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r"
@@ -5051,7 +6451,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 407533,
       "name": "The Batman - from \"The Batman\"",
       "url": "https://open.spotify.com/track/0hs3unYvc0bFG2NgheFdkO"
@@ -5076,6 +6476,54 @@
     },
     {
       "album": {
+        "name": "Vivaldi: The Four Seasons, Violin Concerto No. 4 in F Minor, RV 297 \"Winter\": II. Largo",
+        "url": "https://open.spotify.com/album/1XhuMcmiNjAv7lOmJk63R4"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Marco Fiorini",
+          "url": "https://open.spotify.com/artist/0jjVfHaZqqX65K4pViTEKF"
+        },
+        {
+          "name": "I Musici",
+          "url": "https://open.spotify.com/artist/5TYM4xzvG2OuZafhTEuAHX"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122160,
+      "name": "The Four Seasons, Violin Concerto No. 4 in F Minor, RV 297 \"Winter\": II. Largo",
+      "url": "https://open.spotify.com/track/5OqTzT09Wu443ZPgHBzNOP"
+    },
+    {
+      "album": {
+        "name": "The Gilded Age (Main Title) [from \"The Gilded Age\"]",
+        "url": "https://open.spotify.com/album/4RrKfoyfGQpKJVFktGXFJt"
+      },
+      "artists": [
+        {
+          "name": "Harry Gregson-Williams",
+          "url": "https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW"
+        },
+        {
+          "name": "Rupert Gregson-Williams",
+          "url": "https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92799,
+      "name": "The Gilded Age (Main Title) - from \"The Gilded Age\"",
+      "url": "https://open.spotify.com/track/5Q8rGIeJMxJsdaEoTvZgk9"
+    },
+    {
+      "album": {
         "name": "The North Wind",
         "url": "https://open.spotify.com/album/6mteOBbcQPszyxr6c6fiSh"
       },
@@ -5091,7 +6539,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 79120,
       "name": "The North Wind",
       "url": "https://open.spotify.com/track/5MfXoAI0AULhxTdfLtKMLG"
@@ -5157,7 +6605,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 154549,
       "name": "Thirty",
       "url": "https://open.spotify.com/track/3VkJtin5wvok5H43TN4xv5"
@@ -5252,6 +6700,28 @@
     },
     {
       "album": {
+        "name": "Time (From \"Inception\")",
+        "url": "https://open.spotify.com/album/3J2rUU0UV1JuA9j0uNHCf0"
+      },
+      "artists": [
+        {
+          "name": "Metamorphose String Orchestra",
+          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
+        },
+        {
+          "name": "Pavel Lyubomudrov",
+          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271181,
+      "name": "Time - From \"Inception\"",
+      "url": "https://open.spotify.com/track/7lRQX5tF4mbrdq0vxfM57W"
+    },
+    {
+      "album": {
         "name": "Time In The Hand",
         "url": "https://open.spotify.com/album/1AMJKTyEOm9d9kzgkxWlkK"
       },
@@ -5267,6 +6737,24 @@
       "duration_ms": 243015,
       "name": "Time In The Hand",
       "url": "https://open.spotify.com/track/4mKruJgU3LgedArJHofcGg"
+    },
+    {
+      "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS"
+      },
+      "artists": [
+        {
+          "name": "Day Blue",
+          "url": "https://open.spotify.com/artist/1QIarBiWF3tRs6a1CXzN5w"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE"
     },
     {
       "album": {
@@ -5303,6 +6791,36 @@
       "duration_ms": 154625,
       "name": "Tori",
       "url": "https://open.spotify.com/track/2sMlwnpPpvqgj5eGg5OUmA"
+    },
+    {
+      "album": {
+        "name": "De Curtis: Torna a Surriento (Arr. Chiaramello)",
+        "url": "https://open.spotify.com/album/0p8MLyMWjS2u4MPFqIV9HF"
+      },
+      "artists": [
+        {
+          "name": "Ernesto De Curtis",
+          "url": "https://open.spotify.com/artist/5ADznbFHLCDR7dAIUpKhTx"
+        },
+        {
+          "name": "Freddie De Tommaso",
+          "url": "https://open.spotify.com/artist/4leT3QmSGt6qmfuwvrIB2o"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Renato Balsadonna",
+          "url": "https://open.spotify.com/artist/7KI8P0QqMw4FredwHGWWKZ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "Torna a Surriento (Arr. Chiaramello)",
+      "url": "https://open.spotify.com/track/34DDYEVw6ryueRpqmv35Ds"
     },
     {
       "album": {
@@ -5415,7 +6933,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 417960,
       "name": "Tristan und Isolde, WWV 90: Mild und leise wie er l\u00e4chelt \"Isoldes Liebestod\"",
       "url": "https://open.spotify.com/track/4F2SFIdhpn3VCwRaJJTvCG"
@@ -5437,10 +6955,40 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 115626,
       "name": "Trois po\u00e8mes d\u2019Alfred Desrochers: I. La modiste",
       "url": "https://open.spotify.com/track/4TFYTNPj3XyneRiq7t5mFH"
+    },
+    {
+      "album": {
+        "name": "Two is Apocryphal",
+        "url": "https://open.spotify.com/album/5aladzbTgPmBcGLvzKMZj3"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Theatre of Voices",
+          "url": "https://open.spotify.com/artist/0mSytD762bSjJsycgXyt8z"
+        },
+        {
+          "name": "Paul Hillier",
+          "url": "https://open.spotify.com/artist/5pECl3lGqlL7VfZXxrkAlF"
+        },
+        {
+          "name": "American Contemporary Music Ensemble",
+          "url": "https://open.spotify.com/artist/6nTDqfwF5uJYfoxQeJaTeO"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248640,
+      "name": "Two is Apocryphal",
+      "url": "https://open.spotify.com/track/2gUr2MjJ2InVEX4g6cG2zT"
     },
     {
       "album": {
@@ -5463,7 +7011,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 142222,
       "name": "Two Pieces for Viola and Piano: II. Allegro appassionato",
       "url": "https://open.spotify.com/track/3lnP0WKmpUFFMF7EY006LY"
@@ -5568,6 +7116,46 @@
     },
     {
       "album": {
+        "name": "Valse romantique, L. 71",
+        "url": "https://open.spotify.com/album/0wTWm16YWXEi5hpSjnJz3D"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Giovanni Umberto Battel",
+          "url": "https://open.spotify.com/artist/4Td2eaE5IAd7otneAIOToo"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289834,
+      "name": "Valse romantique, L. 71",
+      "url": "https://open.spotify.com/track/781gdF30BkTOzJFEH4P334"
+    },
+    {
+      "album": {
+        "name": "VANITAS",
+        "url": "https://open.spotify.com/album/5xworBTU2vZgsEOyyDY5Py"
+      },
+      "artists": [
+        {
+          "name": "Alex Komlew",
+          "url": "https://open.spotify.com/artist/2T3XrdRiywxJDlO2MTTGmB"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218957,
+      "name": "VANITAS",
+      "url": "https://open.spotify.com/track/0rbXUpdIBN91YPL31NCnfD"
+    },
+    {
+      "album": {
         "name": "Variations on a Theme by Haydn, Op. 56a: I. Theme (Chorale St. Anthony)",
         "url": "https://open.spotify.com/album/05K86s6bnuwqEpdhFyADXa"
       },
@@ -5587,7 +7175,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 127780,
       "name": "Variations on a Theme by Haydn, Op. 56a: I. Theme (Chorale St. Anthony)",
       "url": "https://open.spotify.com/track/6cHO0lMvGkqS1NgmGLMymf"
@@ -5613,6 +7201,32 @@
       "duration_ms": 183656,
       "name": "Variations on a Theme of Corelli, Op. 42: Variation 14. Andante (come prima)",
       "url": "https://open.spotify.com/track/1FtPcTRq2I0ifJsj05wO6m"
+    },
+    {
+      "album": {
+        "name": "Strauss: Vier sinfonische Zwischenspiele aus Intermezzo, TrV 246a: II. Tr\u00e4umerei am Kamin",
+        "url": "https://open.spotify.com/album/1TAg3dLM77cSnyUqYXAWKO"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Andris Nelsons",
+          "url": "https://open.spotify.com/artist/6fkV4LaygxybcMjo4cJLrI"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521440,
+      "name": "Vier sinfonische Zwischenspiele aus Intermezzo, TrV 246a: II. Tr\u00e4umerei am Kamin",
+      "url": "https://open.spotify.com/track/1JJPTJ83zJt7JFCGQjpQKw"
     },
     {
       "album": {
@@ -5691,10 +7305,36 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 684959,
       "name": "Violin Concerto No. 1, Sz. 36: II. Allegro giocoso",
       "url": "https://open.spotify.com/track/4eAfkt09RN2l2w8p4ux88n"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: Violin Sonata in F Minor, Op. 4",
+        "url": "https://open.spotify.com/album/5TuiD75d4rZJ4G4Vkl6E6e"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Claire Huangci",
+          "url": "https://open.spotify.com/artist/6iFs9LvpM2UzZPmRtOrkLf"
+        },
+        {
+          "name": "Marc Bouchkov",
+          "url": "https://open.spotify.com/artist/682vGXK3e7Y2fddU84fwAf"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290712,
+      "name": "Violin Sonata in F Minor, Op. 4: III. Allegro agitato",
+      "url": "https://open.spotify.com/track/6GjkmvnoLIjqPTPZN50ozd"
     },
     {
       "album": {
@@ -5709,7 +7349,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 108079,
       "name": "Vivication",
       "url": "https://open.spotify.com/track/1br73gnt2PnHJuz78Xixn4"
@@ -5783,6 +7423,32 @@
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
+    },
+    {
+      "album": {
+        "name": "Schubert: Wiegenlied, D. 867, Op. 105 No. 2",
+        "url": "https://open.spotify.com/album/7oRFqgETwF1udrFrpmG7zg"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Andr\u00e8 Schuen",
+          "url": "https://open.spotify.com/artist/3aLcAwBJiL3ynHWWt0FnP0"
+        },
+        {
+          "name": "Daniel Heide",
+          "url": "https://open.spotify.com/artist/6nVQW0e4LsHTKvmelk75fc"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347280,
+      "name": "Wiegenlied, D. 867, Op. 105 No. 2",
+      "url": "https://open.spotify.com/track/4R3gLrBHeDcO22Gv83LzQK"
     },
     {
       "album": {
@@ -5867,7 +7533,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 180250,
       "name": "Winter",
       "url": "https://open.spotify.com/track/34CPexQsylqXdVZNYETMRw"
@@ -5915,7 +7581,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 219000,
       "name": "Yoda's Theme - From \"Star Wars: The Empire Strikes Back\"",
       "url": "https://open.spotify.com/track/5yUZ437D0Y2tJ8U9WgPmNf"
@@ -5941,7 +7607,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 346906,
       "name": "Youkali",
       "url": "https://open.spotify.com/track/0Zg5bGchllxnF12kRApVRU"
@@ -5959,7 +7625,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 129613,
       "name": "Zakrini - Instrumental",
       "url": "https://open.spotify.com/track/0q8HcPOGuNrI0U4lEpA9xd"
@@ -5981,7 +7647,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 291853,
       "name": "\u30bd\u30ca\u30bf \u7b2c1\u756a \u30c8\u77ed\u8abf BWV 1001: 1. Adagio",
       "url": "https://open.spotify.com/track/4jS1WDQwPSoAhAJNPGOHzn"

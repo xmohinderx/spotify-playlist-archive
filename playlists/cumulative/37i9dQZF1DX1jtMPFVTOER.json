@@ -622,6 +622,32 @@
     },
     {
       "album": {
+        "name": "FK/3",
+        "url": "https://open.spotify.com/album/2oZ1bBDryphDrItTcJr5tz"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        },
+        {
+          "name": "JSWISS",
+          "url": "https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4"
+        },
+        {
+          "name": "BD3",
+          "url": "https://open.spotify.com/artist/7HXr3w238HsQoQInMLxosZ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133323,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/387p1E5pYrdEglP96qBOMi"
+    },
+    {
+      "album": {
         "name": "Doesn't Matter Why (edbl Remix)",
         "url": "https://open.spotify.com/album/4V3rvR3cH3MJzVGOEIVaVY"
       },

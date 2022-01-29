@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Chris Ruediger, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,891 likes - 126 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,920 likes - 126 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 118 | [Makes You Pretty](https://open.spotify.com/track/7qzFb2YNCtG79TChMU9sS0) | [Karli June](https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR) | [Makes You Pretty](https://open.spotify.com/album/2uLBmtWsVmZrImwGMwf1bV) | 2:49 |
 | 119 | [Water Me Down](https://open.spotify.com/track/16ykyP9WVXNP84lD7BS7F2) | [Taylor Austin Dye](https://open.spotify.com/artist/25fKXUc8KaT2o17A094b15) | [Water Me Down](https://open.spotify.com/album/6MFgPG82aOUVXekJG5YLXB) | 2:57 |
 | 120 | [Better Man](https://open.spotify.com/track/1WYA58rWzfDGcVtgLIY938) | [Graham Scott Fleming](https://open.spotify.com/artist/4Ao86ITnIcDbQjDEkQPjsm) | [Better Man](https://open.spotify.com/album/1wqtkPrXnPfUrgkSBLq6QH) | 3:29 |
-| 121 | [Is It You](https://open.spotify.com/track/6ycx7qVmdvFIYDG0rTxxLy) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG) | [Is It You](https://open.spotify.com/album/2jZV6L1RHDszuyYoeQtwvb) | 2:47 |
+| 121 | [Is It You](https://open.spotify.com/track/6ycx7qVmdvFIYDG0rTxxLy) | [Ghost Riders](https://open.spotify.com/artist/5JvEKy384cTkxVHDESnlEG), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Is It You](https://open.spotify.com/album/2jZV6L1RHDszuyYoeQtwvb) | 2:47 |
 | 122 | [Hate This Town](https://open.spotify.com/track/0AW3Gyq8RmE6eUYv0zqd5s) | [Autumn Brooke](https://open.spotify.com/artist/7EeFKSkojmKuaho1zh5GUD) | [Hate This Town](https://open.spotify.com/album/2ujT24e10vFXS6Cay4dxRh) | 3:18 |
 | 123 | [Sins of My Father](https://open.spotify.com/track/7CGNbZnUgLx8tIDl6hTtIr) | [Tony Logue](https://open.spotify.com/artist/4w99kmmLtjjkA4CLezYlr6) | [Jericho](https://open.spotify.com/album/2jeMXDKlJlMGmfZoWfnWAJ) | 4:21 |
 | 124 | [Easy](https://open.spotify.com/track/0dEbQltCk0qxTSTzQBIvy4) | [Kacy Moon](https://open.spotify.com/artist/4yCDlGLH4zfJHp400hMAwg) | [Easy](https://open.spotify.com/album/688ekhkqWDwZITvDQUZFqt) | 4:02 |

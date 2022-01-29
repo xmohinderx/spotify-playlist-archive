@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "Ain't It A Flex",
+        "url": "https://open.spotify.com/album/4Bsj7aknXbMq9W4zjYdNl0"
+      },
+      "artists": [
+        {
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130869,
+      "name": "Ain't It A Flex",
+      "url": "https://open.spotify.com/track/3VJCF5cQExY4I1UUeumYPv"
+    },
+    {
+      "album": {
         "name": "ALIVE (Deluxe)",
         "url": "https://open.spotify.com/album/1ThGGXmoSFxHIQLhE4vy7M"
       },
@@ -323,7 +341,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 131883,
       "name": "Charmander",
       "url": "https://open.spotify.com/track/4NP3gHruXgIo4YSJSNDRBz"
@@ -389,7 +407,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 197647,
       "name": "Control Problems (with YG)",
       "url": "https://open.spotify.com/track/6UorQ3toyCFLVDcExIkCYT"
@@ -477,7 +495,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 243173,
       "name": "Draped Up (feat. Future)",
       "url": "https://open.spotify.com/track/72jQ6aDHhHrQ2lXs3vRdde"
@@ -590,6 +608,24 @@
     },
     {
       "album": {
+        "name": "How's Life?",
+        "url": "https://open.spotify.com/album/4HupIdBw3l0quug7aznnrB"
+      },
+      "artists": [
+        {
+          "name": "Caleborate",
+          "url": "https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155224,
+      "name": "How's Life?",
+      "url": "https://open.spotify.com/track/4quJwx6ONmYjepFCFUeE9V"
+    },
+    {
+      "album": {
         "name": "I Need Bands",
         "url": "https://open.spotify.com/album/4Cu7Dpsdv8JUgiegEQ9Bg7"
       },
@@ -677,7 +713,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 168224,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ"
@@ -797,6 +833,24 @@
       "duration_ms": 160399,
       "name": "Money",
       "url": "https://open.spotify.com/track/2c0lpkLWgSBzBbGOPXY9gk"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/22QaAcWSzIdOWtCgaca1un"
+      },
+      "artists": [
+        {
+          "name": "Rob $tone",
+          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176971,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0XgnXsUlzkpqrcdKx002IT"
     },
     {
       "album": {
@@ -939,7 +993,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 149333,
       "name": "No Handshakes",
       "url": "https://open.spotify.com/track/1EtytBckkZn0kykdiI09LB"

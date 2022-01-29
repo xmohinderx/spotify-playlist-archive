@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new core at its finest\. Cover: Pridelands
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,396 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,452 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 30 | [Crossed](https://open.spotify.com/track/0YyA97knsEX1T0j1dMVfPC) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN), [Joe Duplantier](https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C) | [Crossed](https://open.spotify.com/album/1UMgA7ETQAijzHYDsTDi1X) | 3:00 |
 | 31 | [Skin](https://open.spotify.com/track/4i19NWcezW6rXnwBJLY94E) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. I: Love](https://open.spotify.com/album/2MHhW9J9v9rWWBAsIswlB7) | 3:37 |
 | 32 | [Till We Have Faces](https://open.spotify.com/track/7DVaDiCKKX9I2UonUdDfh1) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Iridescent](https://open.spotify.com/album/3PLHTrAqFD7AjNNqzVZmzr) | 3:46 |
-| 33 | [Fear In Non Fiction](https://open.spotify.com/track/153FWt6E2faYmjfoHanfoU) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Fear In Non Fiction](https://open.spotify.com/album/0lvacv6dOWb6SjsWZB62Kh) | 3:24 |
+| 33 | [Fear In Non Fiction](https://open.spotify.com/track/153FWt6E2faYmjfoHanfoU) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX) | [Fear In Non Fiction](https://open.spotify.com/album/0lvacv6dOWb6SjsWZB62Kh) | 3:24 |
 | 34 | [Demons](https://open.spotify.com/track/2HCTiLjTqadpandq5oS3zW) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Demons](https://open.spotify.com/album/0fKZsfwewHCK4rbFg0MDOA) | 3:55 |
 | 35 | [Breaking Down](https://open.spotify.com/track/67nn2MMxKZkdwOM7G2GFwW) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Breaking Down](https://open.spotify.com/album/6gAjcWzMx6L3LbnnQKTxLR) | 3:37 |
 | 36 | [Heads Up](https://open.spotify.com/track/5oHXmKMdCnUJXsXAkZkwnR) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Heads Up](https://open.spotify.com/album/5kiO6eG6N0MGbzIs0pMwUf) | 2:56 |

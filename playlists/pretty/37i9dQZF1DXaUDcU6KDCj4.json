@@ -1,13 +1,77 @@
 {
-  "description": "Hear what's new in folk, roots & singer-songwriter. Cover: Foy Vance & Anderson East",
-  "num_followers": 700644,
+  "description": "Hear what's new in folk, roots & singer-songwriter. Cover: The Weather Station",
+  "num_followers": 700767,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc5NjIxNywwMDAwMDI0YzAwMDAwMTdlN2U0OGY2N2UwMDAwMDE3ZTc5OTRmZTYx",
+  "snapshot_id": "MTY0MzM0NjAwMCwwMDAwMDI0ZDAwMDAwMTdlOWYwZGY5OTgwMDAwMDE3ZTlkN2U1YTJk",
   "tracks": [
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Every Shade of Blue",
+        "url": "https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Every Shade of Blue",
+      "url": "https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Ana\u00efs Mitchell",
+        "url": "https://open.spotify.com/album/1ZpLitOlsiSKy0Sdmhudi6"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Little Big Girl",
+      "url": "https://open.spotify.com/track/6ofBUlfcZrEw7oGbLbVaBA"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Endless Time",
+        "url": "https://open.spotify.com/album/3O9OPQkKo48XW6DohCrAOJ"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 260099,
+      "name": "Endless Time",
+      "url": "https://open.spotify.com/track/4kZiltkgtQJH2FHLkpXfCH"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "I Won't Mention It Again",
+        "url": "https://open.spotify.com/album/455BgkjYWdEkJzwQxLb8Pp"
+      },
+      "artists": [
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "duration_ms": 171221,
+      "name": "I Won't Mention It Again",
+      "url": "https://open.spotify.com/track/4ndhMKIjb18CyEW84R4phP"
+    },
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
@@ -31,22 +95,6 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
-        "name": "Keeping The Light On",
-        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 223628,
-      "name": "Keeping The Light On",
-      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
       },
@@ -63,18 +111,18 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
-        "name": "Every Shade of Blue",
-        "url": "https://open.spotify.com/album/4ee1hU8IWOpRMN7GNjZ4Nf"
+        "name": "Keeping The Light On",
+        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 213293,
-      "name": "Every Shade of Blue",
-      "url": "https://open.spotify.com/track/1cKWyEiGWLXAUTz6jI1d7c"
+      "duration_ms": 223628,
+      "name": "Keeping The Light On",
+      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -91,6 +139,126 @@
       "duration_ms": 170146,
       "name": "See The Light",
       "url": "https://open.spotify.com/track/6lF5yAmscceMAs0T5qSrAi"
+    },
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Bedrock",
+        "url": "https://open.spotify.com/album/1KtMUdFR4h9gvdIn2NWKcf"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Bedrock",
+      "url": "https://open.spotify.com/track/0jd9hK7zbDbhZKy1jF7NZT"
+    },
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Olly Olly",
+        "url": "https://open.spotify.com/album/6898mgjdVWLEBf9gCQpCAS"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 248410,
+      "name": "Innkeepers",
+      "url": "https://open.spotify.com/track/1uFWx7FlhhgmBoTTqGAq8Y"
+    },
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Junk Life",
+        "url": "https://open.spotify.com/album/4mdjWr3GskXWD9bYvWxswN"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        },
+        {
+          "name": "Matt Nathanson",
+          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "Junk Life",
+      "url": "https://open.spotify.com/track/6RYNMoE526YR0L8iIC8UxV"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Sometimes a Cloud Is Just a Cloud: Slow Growers, Sleeper Hits and Lost Songs (2001\u20132021)",
+        "url": "https://open.spotify.com/album/0hvZ9xdxeWOYhZUHRtWk0M"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 158280,
+      "name": "Without Any Airs",
+      "url": "https://open.spotify.com/track/31MY6ibgufxRqhQgsGkczb"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "idkwntht",
+        "url": "https://open.spotify.com/album/6wfWED4qkP48hB4sPBUX5g"
+      },
+      "artists": [
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 285943,
+      "name": "idkwntht",
+      "url": "https://open.spotify.com/track/2HrKYkfaYehPkzBy31XBbG"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Nakama",
+        "url": "https://open.spotify.com/album/7kPc6efhRopgssDtCKhY7i"
+      },
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        },
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 274826,
+      "name": "Protection",
+      "url": "https://open.spotify.com/track/78dfUJzw0hQnRlxgFY1qFY"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Hello, Hello On Fire!",
+        "url": "https://open.spotify.com/album/4lfOPK2pxFu9ketMzOaCv2"
+      },
+      "artists": [
+        {
+          "name": "Josiah Johnson",
+          "url": "https://open.spotify.com/artist/1Vii05hSGW51heihg6h2Gg"
+        }
+      ],
+      "duration_ms": 296328,
+      "name": "Hello, Hello On Fire!",
+      "url": "https://open.spotify.com/track/672wGcpVju84aK9OVWxuNr"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -115,34 +283,70 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
-        "name": "Olly Olly",
-        "url": "https://open.spotify.com/album/6898mgjdVWLEBf9gCQpCAS"
+        "name": "First To Love",
+        "url": "https://open.spotify.com/album/2gH9deiCoLCJoHPhdn9IRt"
       },
       "artists": [
         {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+          "name": "Maia Friedman",
+          "url": "https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c"
         }
       ],
-      "duration_ms": 248410,
-      "name": "Innkeepers",
-      "url": "https://open.spotify.com/track/1uFWx7FlhhgmBoTTqGAq8Y"
+      "duration_ms": 278685,
+      "name": "First to Love",
+      "url": "https://open.spotify.com/track/0H9e3haW0exM6GkB1zkYoa"
     },
     {
-      "added_at": "2022-01-21 05:01:00",
+      "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Bedrock",
-        "url": "https://open.spotify.com/album/1KtMUdFR4h9gvdIn2NWKcf"
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/5xX6g87kTLuwtkwGh7ehHG"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Bedrock",
-      "url": "https://open.spotify.com/track/0jd9hK7zbDbhZKy1jF7NZT"
+      "duration_ms": 175397,
+      "name": "Just Around The Corner",
+      "url": "https://open.spotify.com/track/3YA98Jkasip4SS2vpOT3Iv"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Bombs Away b/w Paint This Town",
+        "url": "https://open.spotify.com/album/4DKp4i0VM9Sp9OOAfsUGmc"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 161080,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/3m7OlAdnoIs3UaAqYkljov"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "And Now, Let's Turn to Page\u2026",
+        "url": "https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Are You Washed in the Blood?",
+      "url": "https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -161,24 +365,24 @@
       "url": "https://open.spotify.com/track/3JqWFMXFdMXUS1mwpfOKHX"
     },
     {
-      "added_at": "2022-01-21 05:01:00",
+      "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Junk Life",
-        "url": "https://open.spotify.com/album/4mdjWr3GskXWD9bYvWxswN"
+        "name": "This Town (feat. Shakey Graves)",
+        "url": "https://open.spotify.com/album/0BltgOKIwXpxKJpYjcdHNU"
       },
       "artists": [
         {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
         },
         {
-          "name": "Matt Nathanson",
-          "url": "https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 202840,
-      "name": "Junk Life",
-      "url": "https://open.spotify.com/track/6RYNMoE526YR0L8iIC8UxV"
+      "duration_ms": 168124,
+      "name": "This Town (feat. Shakey Graves)",
+      "url": "https://open.spotify.com/track/2xUcsMzJrII3LhmcxNHIWJ"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -199,18 +403,18 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
-        "name": "Pine Grove (Madhouse)",
-        "url": "https://open.spotify.com/album/7dzN4ats6WPUwCkFL2pkZF"
+        "name": "Bleed Me",
+        "url": "https://open.spotify.com/album/4SlB1XLxLPCiKngWSiCdAf"
       },
       "artists": [
         {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
         }
       ],
-      "duration_ms": 245946,
-      "name": "Pine Grove (Madhouse)",
-      "url": "https://open.spotify.com/track/0V6rLTwbZqPXlQzKJ4Wvua"
+      "duration_ms": 314284,
+      "name": "Bleed Me",
+      "url": "https://open.spotify.com/track/4zLJcz5tqsCvO9fjfHER7E"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -235,6 +439,22 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
+        "name": "Pine Grove (Madhouse)",
+        "url": "https://open.spotify.com/album/7dzN4ats6WPUwCkFL2pkZF"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 245946,
+      "name": "Pine Grove (Madhouse)",
+      "url": "https://open.spotify.com/track/0V6rLTwbZqPXlQzKJ4Wvua"
+    },
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
         "name": "Broken English",
         "url": "https://open.spotify.com/album/0BuPCzTVIHRqTZmrg6yiFX"
       },
@@ -247,22 +467,6 @@
       "duration_ms": 158226,
       "name": "Stay Dark",
       "url": "https://open.spotify.com/track/5p9XQFtLGE1M5fFJUCBER1"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "First To Love",
-        "url": "https://open.spotify.com/album/2gH9deiCoLCJoHPhdn9IRt"
-      },
-      "artists": [
-        {
-          "name": "Maia Friedman",
-          "url": "https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c"
-        }
-      ],
-      "duration_ms": 278685,
-      "name": "First to Love",
-      "url": "https://open.spotify.com/track/0H9e3haW0exM6GkB1zkYoa"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -297,6 +501,38 @@
       "url": "https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET"
     },
     {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Have You Not Heard the War Is Over? (Abbey Theatre Session, Dublin)",
+        "url": "https://open.spotify.com/album/1lZgsbzKZCl6e9EbnA0ex9"
+      },
+      "artists": [
+        {
+          "name": "Declan O'Rourke",
+          "url": "https://open.spotify.com/artist/08YnZ1u94kQ47JW7wVUume"
+        }
+      ],
+      "duration_ms": 257532,
+      "name": "Have You Not Heard the War Is Over?",
+      "url": "https://open.spotify.com/track/0wcQJAHklF56Xhfo9JFHUA"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Artifacts",
+        "url": "https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 164773,
+      "name": "Fisher Island Sound",
+      "url": "https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0"
+    },
+    {
       "added_at": "2022-01-21 20:16:57",
       "album": {
         "name": "Shadow in the Frame",
@@ -313,20 +549,40 @@
       "url": "https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN"
     },
     {
-      "added_at": "2022-01-21 05:01:00",
+      "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "On Your Way (Felix Song)",
-        "url": "https://open.spotify.com/album/33EcOUw1Efeo8R3VvoQFhq"
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/11YfmenYf3LmHrHWBsaIhA"
       },
       "artists": [
         {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+          "name": "ginla",
+          "url": "https://open.spotify.com/artist/0MSkKbBpmyJg8KLu75aGXa"
+        },
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 173560,
-      "name": "On Your Way (Felix Song)",
-      "url": "https://open.spotify.com/track/30hY3WEcrl1ScoND2yBy9T"
+      "duration_ms": 189059,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/29Lv0aRZQck8xBrzTqDgG6"
+    },
+    {
+      "added_at": "2022-01-21 14:11:50",
+      "album": {
+        "name": "Optimism",
+        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 119372,
+      "name": "Optimism",
+      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
     },
     {
       "added_at": "2022-01-21 14:11:50",
@@ -345,20 +601,20 @@
       "url": "https://open.spotify.com/track/5N3DtbHQjgJEURazKQMQom"
     },
     {
-      "added_at": "2022-01-21 05:01:00",
+      "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Bleed Me",
-        "url": "https://open.spotify.com/album/4SlB1XLxLPCiKngWSiCdAf"
+        "name": "Planet EP",
+        "url": "https://open.spotify.com/album/44cz2epLj8bFlDHPxU16rY"
       },
       "artists": [
         {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
         }
       ],
-      "duration_ms": 314284,
-      "name": "Bleed Me",
-      "url": "https://open.spotify.com/track/4zLJcz5tqsCvO9fjfHER7E"
+      "duration_ms": 213888,
+      "name": "your love is a disaster",
+      "url": "https://open.spotify.com/track/5JTTV0DgmgNgtbl3y3q6g1"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -565,20 +821,24 @@
       "url": "https://open.spotify.com/track/4K8Oan6E1K7eaxjaXXSZLX"
     },
     {
-      "added_at": "2022-01-21 14:11:50",
+      "added_at": "2022-01-21 05:01:00",
       "album": {
-        "name": "Optimism",
-        "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
+        "name": "The Good Old Days",
+        "url": "https://open.spotify.com/album/6tTzQ8mUIFbzftZkdXYZHF"
       },
       "artists": [
         {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        },
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 119372,
-      "name": "Optimism",
-      "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+      "duration_ms": 218059,
+      "name": "The Good Old Days",
+      "url": "https://open.spotify.com/track/2OKOfynu79Cq1PVk5NPx0E"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -631,6 +891,22 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
+        "name": "On Your Way (Felix Song)",
+        "url": "https://open.spotify.com/album/33EcOUw1Efeo8R3VvoQFhq"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "On Your Way (Felix Song)",
+      "url": "https://open.spotify.com/track/30hY3WEcrl1ScoND2yBy9T"
+    },
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
         "name": "Hell on Church Street",
         "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
       },
@@ -675,26 +951,6 @@
       "duration_ms": 216666,
       "name": "Now And The Evermore",
       "url": "https://open.spotify.com/track/4fKidxQ6IdqXjDfI0ad4Bn"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "The Good Old Days",
-        "url": "https://open.spotify.com/album/6tTzQ8mUIFbzftZkdXYZHF"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        },
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 218059,
-      "name": "The Good Old Days",
-      "url": "https://open.spotify.com/track/2OKOfynu79Cq1PVk5NPx0E"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -1235,26 +1491,6 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
-        "name": "Bleak Midwestern Winter (Acoustic)",
-        "url": "https://open.spotify.com/album/74HUPUuAwCeNM1oA2d1qEX"
-      },
-      "artists": [
-        {
-          "name": "Davis John Patton",
-          "url": "https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl"
-        },
-        {
-          "name": "LULLANAS",
-          "url": "https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd"
-        }
-      ],
-      "duration_ms": 219293,
-      "name": "Bleak Midwestern Winter - Acoustic",
-      "url": "https://open.spotify.com/track/1s8rvpEnhAfNu5qpDaHqMj"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
         "name": "Al's Song",
         "url": "https://open.spotify.com/album/4QoPkuptmdFWt1hHXRzn6f"
       },
@@ -1371,22 +1607,6 @@
       "duration_ms": 291320,
       "name": "Old Dog",
       "url": "https://open.spotify.com/track/6byyhvAPKJ2l2GU9Tu92SC"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "I Hope You Change Your Mind",
-        "url": "https://open.spotify.com/album/5wnyz8qup6D4XuVysaiz8S"
-      },
-      "artists": [
-        {
-          "name": "Donovan Woods",
-          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
-        }
-      ],
-      "duration_ms": 172633,
-      "name": "I Hope You Change Your Mind",
-      "url": "https://open.spotify.com/track/46uPN63Jgen8ohoiBXFTAa"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -1851,26 +2071,6 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
-        "name": "Good Morning It's Now Tomorrow",
-        "url": "https://open.spotify.com/album/1hcwRc4Ic4tb2F8iLUGTTg"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        },
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 201320,
-      "name": "Oldest Trick in the Book (feat. Bedouine)",
-      "url": "https://open.spotify.com/track/30lNPXNCQywhRCHzhNhed1"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
         "name": "Picture of You (feat. Hayden Calnin)",
         "url": "https://open.spotify.com/album/0Mz6NtZLK5oR3SZvK8kFk0"
       },
@@ -1923,22 +2123,6 @@
       "duration_ms": 315000,
       "name": "I Bet Ur",
       "url": "https://open.spotify.com/track/25vwWj2HLhh5BOnaELW5Ig"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Bright Star",
-        "url": "https://open.spotify.com/album/2DqpMCRbrMb4VRb1GNtYXg"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Bright Star",
-      "url": "https://open.spotify.com/track/2GU7Yy8fZVbtmSafEOXcjQ"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -2027,54 +2211,6 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
-        "name": "Into The Clearing",
-        "url": "https://open.spotify.com/album/6FJW6tpNgmOU599asOl9kB"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 189653,
-      "name": "Into The Clearing",
-      "url": "https://open.spotify.com/track/5qpWnoGJ2nUGsv1Fj8WEWF"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Losing from Within",
-        "url": "https://open.spotify.com/album/7FzoIWP5nniks0bag7330P"
-      },
-      "artists": [
-        {
-          "name": "Hayley Reardon",
-          "url": "https://open.spotify.com/artist/4US8FhryQWWUOPmLmreZDW"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "Losing from Within",
-      "url": "https://open.spotify.com/track/32yqbK3xTvNU0EdA9BMi37"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Do It All Again",
-        "url": "https://open.spotify.com/album/7sioaMGR27n6RUU6gD93b1"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Do It All Again",
-      "url": "https://open.spotify.com/track/6IokfKBquOuzngIfvpYbjl"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
         "name": "Kelsey Hunter",
         "url": "https://open.spotify.com/album/0tOBHO98lIGttU6zneer3Z"
       },
@@ -2103,22 +2239,6 @@
       "duration_ms": 255030,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/2pdkCDCJicLTclo17fzRaC"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Where The Rocks Are",
-        "url": "https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo"
-      },
-      "artists": [
-        {
-          "name": "Maia Friedman",
-          "url": "https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c"
-        }
-      ],
-      "duration_ms": 233773,
-      "name": "Where The Rocks Are",
-      "url": "https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -2187,22 +2307,6 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
-        "name": "the flower",
-        "url": "https://open.spotify.com/album/4sVdeOJoaQKrI8SVxTvium"
-      },
-      "artists": [
-        {
-          "name": "Motherfolk",
-          "url": "https://open.spotify.com/artist/70fUpxdAr6t0LJw3xJmMhm"
-        }
-      ],
-      "duration_ms": 198406,
-      "name": "contact",
-      "url": "https://open.spotify.com/track/3v86kmbVnH3v8kyHsEa6e6"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/4V1aYX6FrcKWr2rBuIIlOM"
       },
@@ -2215,22 +2319,6 @@
       "duration_ms": 265962,
       "name": "Purple",
       "url": "https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Belfast Song",
-        "url": "https://open.spotify.com/album/73TQtEbV8FZpUeMSrIadUv"
-      },
-      "artists": [
-        {
-          "name": "Jealous of the Birds",
-          "url": "https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm"
-        }
-      ],
-      "duration_ms": 226080,
-      "name": "Belfast Song",
-      "url": "https://open.spotify.com/track/4gJb1BBWsaVOUtStGvAfWl"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -2279,22 +2367,6 @@
       "duration_ms": 283008,
       "name": "American Spirits",
       "url": "https://open.spotify.com/track/2FL4CvhhyXeQiLhgYncVeU"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Mipso (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5xWV1OMbab5FjXNnlshacS"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "Every Drop",
-      "url": "https://open.spotify.com/track/5gpShDmknIBLH6JDhzhHu4"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -2451,110 +2523,6 @@
       "duration_ms": 179429,
       "name": "A Stranger's Home",
       "url": "https://open.spotify.com/track/6YO1iDtRhjP3LC9DalWEGB"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Fisher Island Sound",
-        "url": "https://open.spotify.com/album/7m9fOQhCj0noSv92E2XT9s"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 164773,
-      "name": "Fisher Island Sound",
-      "url": "https://open.spotify.com/track/5F16DqcQbTuBTpzKjt5LCO"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Breaking Point",
-        "url": "https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ"
-      },
-      "artists": [
-        {
-          "name": "Jackson+Sellers",
-          "url": "https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Fair Weather",
-      "url": "https://open.spotify.com/track/00lpnOSUgvuShJ9myaAr1y"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/0FO0CHC3r7HQJXWSXE3F3l"
-      },
-      "artists": [
-        {
-          "name": "The Lighthouse And The Whaler",
-          "url": "https://open.spotify.com/artist/6ls5A8Wys9Swixpz4v6kj3"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "All the Time in the World",
-      "url": "https://open.spotify.com/track/480SRGJA3IAzyoamrpnkOX"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "A Pillar of Salt",
-        "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
-      },
-      "artists": [
-        {
-          "name": "Noah Gundersen",
-          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "The Exception",
-        "url": "https://open.spotify.com/album/5K0ymB1V7VUBydptTtplUX"
-      },
-      "artists": [
-        {
-          "name": "Dustbowl Revival",
-          "url": "https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm"
-        },
-        {
-          "name": "The Secret Sisters",
-          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "The Exception",
-      "url": "https://open.spotify.com/track/2JSEqnS5EhLBV0uJXls29I"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Geist",
-        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
-      },
-      "artists": [
-        {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
-        }
-      ],
-      "duration_ms": 260083,
-      "name": "Sure",
-      "url": "https://open.spotify.com/track/0leuMaA4dCDHIdvV31Yr6b"
     }
   ],
   "unique_name": "Fresh Folk",

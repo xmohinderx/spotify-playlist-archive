@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 437906,
       "name": "A Sea Of Love",
       "url": "https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 244181,
       "name": "Always Returning - Remastered 2005",
       "url": "https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 208040,
       "name": "Boreal Kiss Pt. 1",
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 299936,
       "name": "By The Sea",
       "url": "https://open.spotify.com/track/5t4QJ9XnmAxzw9e92yt3I6"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 249760,
       "name": "Canter",
       "url": "https://open.spotify.com/track/3oEAYPcMoPjCyGI5SLqxzw"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Connotes Beauty",
       "url": "https://open.spotify.com/track/7IDiphQDYTrR6za5qWU8M5"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 394386,
       "name": "Discrete (The Market)",
       "url": "https://open.spotify.com/track/2h0tsulVU8hOZzHog4mLk0"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 283200,
       "name": "Dwellberry",
       "url": "https://open.spotify.com/track/47D1bGtpL5gzlPgxjV7kgB"
@@ -503,10 +503,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 226965,
       "name": "Europe",
       "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
+    },
+    {
+      "album": {
+        "name": "Focus Forward",
+        "url": "https://open.spotify.com/album/01Eil5njhrUuhnMV685rCR"
+      },
+      "artists": [
+        {
+          "name": "Shah Feryan",
+          "url": "https://open.spotify.com/artist/2k3wtmQ6gYbYAS7Mrv7wKx"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180227,
+      "name": "Final Feliz",
+      "url": "https://open.spotify.com/track/27LnREBusAgOoIreyVaOgL"
     },
     {
       "album": {
@@ -521,7 +539,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 179904,
       "name": "First Light",
       "url": "https://open.spotify.com/track/4YnketDvkgOhzuevW7Hjjd"
@@ -601,6 +619,28 @@
       "duration_ms": 314240,
       "name": "GREEN",
       "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
+    },
+    {
+      "album": {
+        "name": "Svalbard",
+        "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        },
+        {
+          "name": "Andy Barlow",
+          "url": "https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307228,
+      "name": "If",
+      "url": "https://open.spotify.com/track/5nptEUCXW1z3I0Y6F3Wz3r"
     },
     {
       "album": {
@@ -685,7 +725,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 404674,
       "name": "July 9th",
       "url": "https://open.spotify.com/track/30ReTqLQCO6iRFPtvS0s9Z"
@@ -703,7 +743,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 221360,
       "name": "Kaini Industries [Original by Boards of Canada]",
       "url": "https://open.spotify.com/track/1fkNcW0RQFgWRjbIVeG8lv"
@@ -815,7 +855,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 200209,
       "name": "Moss",
       "url": "https://open.spotify.com/track/5GNpU0QAAWXQ8KT2jVRazX"
@@ -873,7 +913,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 128354,
       "name": "November",
       "url": "https://open.spotify.com/track/2s0CjcUcmTkkuyPkSfVsXx"
@@ -1053,7 +1093,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Space 1",
       "url": "https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL"
@@ -1071,7 +1111,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 322506,
       "name": "The Golden Morning Breaks",
       "url": "https://open.spotify.com/track/5fWJfpYyGYD4SzpcD6rZyk"

@@ -762,6 +762,24 @@
     },
     {
       "album": {
+        "name": "Rapariga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64SrxsiemKhsa2D5AazhXn"
+      },
+      "artists": [
+        {
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136616,
+      "name": "Rapariga - Ao Vivo",
+      "url": "https://open.spotify.com/track/3MAySFGWNReP1TKQ8sDiPV"
+    },
+    {
+      "album": {
         "name": "Simone & Simaria (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
       },
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 232485,
       "name": "Regime Fechado - Ao Vivo",
       "url": "https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB"

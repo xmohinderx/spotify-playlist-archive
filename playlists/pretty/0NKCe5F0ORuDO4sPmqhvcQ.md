@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > Featured Artist, Pritty, just dropped two new singles with us and has more new music coming this month\.  Listen to Poison &amp; John Cena here + a mix of songs everyone at Moving Castle are listening to lately
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,512 likes - 44 songs - 2 hr 35 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,511 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,11 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 42 | [Explore](https://open.spotify.com/track/62wmupzYp1sdfhKM9cNiYC) | [Prblm Chld](https://open.spotify.com/artist/6ZgKMPtqbeSTMuQ6FQlxKh), [Skyler Cocco](https://open.spotify.com/artist/0XiGZPN1W6HhJDz4shx8VZ) | [Explore](https://open.spotify.com/album/5Se8Q4Kues4cWqDlSTSLa0) | 2:57 |
 | 43 | [Kissing Other Boys](https://open.spotify.com/track/35Z1Hr2141V2DLUNtXY3mv) | [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Kissing Other Boys](https://open.spotify.com/album/5Cj01td2Mh5mgkKNMUXVcP) | 3:03 |
 | 44 | [The Flower Blooms](https://open.spotify.com/track/4gh3sdFa9cJTDPmKDBLSgq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk) | 3:40 |
+| 45 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 |
+| 46 | [tic tac toe \- sober rob Remix](https://open.spotify.com/track/1MmtDCVSMbVzvnDXfaZqTI) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v), [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF) | [photos of the sun \(Remixes\)](https://open.spotify.com/album/1AIGhMH0ljbwKbWecu1Ge2) | 4:33 |
+| 47 | [So High \- NCT Remix](https://open.spotify.com/track/5a6tFMjjJLOngAbAGatJHe) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [So High \(NCT Remix\)](https://open.spotify.com/album/7pLzN4tiPMYVPmF53kj5Hp) | 2:45 |
+| 48 | [1000 \(feat\. CP\)](https://open.spotify.com/track/3CejJ593Dg54c4m8NlSpto) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [1000 \(feat\. CP\)](https://open.spotify.com/album/6svs8n6epi8U1u6xhENItF) | 2:50 |
+| 49 | [Holding On \- Rome In Silver Remix](https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Holding On \(Rome In Silver Remix\)](https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M) | 3:00 |
+| 50 | [All I'd Ever Need](https://open.spotify.com/track/6IZNg0VEi6mYCozaqmN5kH) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [Digital Forest](https://open.spotify.com/album/1QKKd2KIRG4YEAysfwv3Y1) | 3:26 |
 
-Snapshot ID: `OTM3MywzMzU1ODdlODVhNGQ2NjRhMGIzYmI3N2Y2YTEyYTk1MDZmNTk5OTVh`
+Snapshot ID: `OTM3OSw4M2YzMzM5MDk4NDAyNzIxZjcxMWFhMjc1OTU2MjkzODEzNjY4NjBi`

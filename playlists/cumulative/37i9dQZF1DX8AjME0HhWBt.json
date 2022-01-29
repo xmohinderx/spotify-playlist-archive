@@ -230,6 +230,28 @@
     },
     {
       "album": {
+        "name": "Enamorao Total",
+        "url": "https://open.spotify.com/album/1omiuaEHZCvgEisT3VRHYs"
+      },
+      "artists": [
+        {
+          "name": "Nikki Mackliff",
+          "url": "https://open.spotify.com/artist/3xmukiHDMY7UkmqCtl8Eyu"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158399,
+      "name": "Enamorao Total",
+      "url": "https://open.spotify.com/track/6xnpkBUhIvcDSVbqJvYC2v"
+    },
+    {
+      "album": {
         "name": "De Fiesta (Deluxe Version)",
         "url": "https://open.spotify.com/album/7uWDfvVGkiAojIsARxIVy2"
       },
@@ -361,6 +383,24 @@
       "duration_ms": 131004,
       "name": "Locuras contigo",
       "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
+    },
+    {
+      "album": {
+        "name": "Me Encanta",
+        "url": "https://open.spotify.com/album/56oTK09fUuK1nfTS3I27F4"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93400,
+      "name": "Me Encanta",
+      "url": "https://open.spotify.com/track/3xr7FTBhWp0TQQ4yba9MtS"
     },
     {
       "album": {

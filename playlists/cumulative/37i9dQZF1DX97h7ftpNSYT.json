@@ -264,6 +264,32 @@
     },
     {
       "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250773,
+      "name": "Act Right (feat. Jeezy & YG)",
+      "url": "https://open.spotify.com/track/7yz6wjkAV0ZByLrlcrMkAx"
+    },
+    {
+      "album": {
         "name": "Girl Code",
         "url": "https://open.spotify.com/album/45TU0GIOO5AxFoiOPk08i1"
       },
@@ -293,7 +319,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 187906,
       "name": "All Gold Everything",
       "url": "https://open.spotify.com/track/0pgeVJrdNok4KhbiM58ayZ"
@@ -373,7 +399,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 169017,
       "name": "Anti",
       "url": "https://open.spotify.com/track/3BVC9lRwjgKrWwDxgFAKA8"
@@ -445,7 +471,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 144047,
       "name": "B*tch From Da Souf",
       "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
@@ -537,7 +563,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 190466,
       "name": "Backin' It Up (feat. Cardi B)",
       "url": "https://open.spotify.com/track/0PpfPNtQOOvbMNVJijTQj0"
@@ -669,7 +695,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 98734,
       "name": "Bands",
       "url": "https://open.spotify.com/track/0AphwbfFSlGgGDlXGeiEpu"
@@ -857,7 +883,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 225893,
       "name": "Bigger Than You (feat. Drake & Quavo)",
       "url": "https://open.spotify.com/track/5S1IUPueD0xE0vj4zU3nSf"
@@ -893,7 +919,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 217666,
       "name": "Black and Yellow",
       "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
@@ -1029,9 +1055,9 @@
           "url": "https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal"
         }
       ],
-      "date_added": "2021-09-03",
+      "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 99108,
       "name": "Bounce Out With That",
       "url": "https://open.spotify.com/track/5gQcxYXqnofyocKgEbGYKt"
@@ -1071,7 +1097,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 184186,
       "name": "Break The Bank (feat. Offset)",
       "url": "https://open.spotify.com/track/1lXr5tEPGHcu5E5BaXwPPi"
@@ -1257,9 +1283,9 @@
           "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "date_added": "2021-09-03",
+      "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 192539,
       "name": "Cash Shit (feat. DaBaby)",
       "url": "https://open.spotify.com/track/2rMAtCaTj16NptyVfEIeAC"
@@ -1329,7 +1355,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 180453,
       "name": "CHopstix (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/2EGtBS7Ws3ajiSkJLviFJ4"
@@ -1347,7 +1373,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 191600,
       "name": "Chun-Li",
       "url": "https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J"
@@ -1731,7 +1757,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 212346,
       "name": "Did It On\u2019em",
       "url": "https://open.spotify.com/track/3ScW1jntobO4OfLub6I0sj"
@@ -1789,7 +1815,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 195991,
       "name": "Dip (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/4hXDobvUaXyDFLnmecoY0z"
@@ -1925,7 +1951,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 262308,
       "name": "Drip (feat. Migos)",
       "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
@@ -2039,7 +2065,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 248043,
       "name": "Enzo (with Sheck Wes, feat. Offset, 21 Savage & Gucci Mane)",
       "url": "https://open.spotify.com/track/6mCqxnyOhr4tHMbRbQL4Yn"
@@ -2073,9 +2099,9 @@
           "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
         }
       ],
-      "date_added": "2021-09-03",
+      "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 199390,
       "name": "Everybody Mad",
       "url": "https://open.spotify.com/track/5R443dM3IGHeWtVuro7DQA"
@@ -2097,7 +2123,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 197170,
       "name": "Everyday We Lit (feat. PnB Rock)",
       "url": "https://open.spotify.com/track/3J8Q6aBhjpvao8BsBQ6H9Y"
@@ -2115,7 +2141,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 211960,
       "name": "Ex Calling",
       "url": "https://open.spotify.com/track/1MQ8ydvrTnn2QJgXFATJvD"
@@ -2133,7 +2159,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 189427,
       "name": "F&N",
       "url": "https://open.spotify.com/track/5YP6yKgGGsXKukqxXypVAf"
@@ -2181,7 +2207,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 237400,
       "name": "F*ck Up Some Commas",
       "url": "https://open.spotify.com/track/49zD0wr2S3d0lZPib0K4e1"
@@ -2197,9 +2223,9 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "date_added": "2021-09-03",
+      "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 210937,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/343YBumqHu19cGoGARUTsd"
@@ -2271,7 +2297,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 169887,
       "name": "Feed Tha Streets 2 (Intro)",
       "url": "https://open.spotify.com/track/3kgQ1kJC1WkuYVJuNJHPGA"
@@ -2489,7 +2515,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 104591,
       "name": "Follow God",
       "url": "https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h"
@@ -2507,7 +2533,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 173926,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/0NJp8GyCOWnQh71xKSPfuV"
@@ -2641,7 +2667,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 167704,
       "name": "God's Warrior",
       "url": "https://open.spotify.com/track/6UfcCoOfVmDUpw34ovfXtC"
@@ -2663,7 +2689,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 211039,
       "name": "Goddamn (feat. A Boogie wit da Hoodie)",
       "url": "https://open.spotify.com/track/0Zl4G9qcdXV5hVhdOirNHG"

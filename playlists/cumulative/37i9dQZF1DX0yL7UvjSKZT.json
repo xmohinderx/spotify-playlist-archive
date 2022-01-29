@@ -1852,6 +1852,24 @@
     },
     {
       "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/4YKu9a4UU97fuY55CI74aj"
+      },
+      "artists": [
+        {
+          "name": "Heather Sarona",
+          "url": "https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188786,
+      "name": "Window to Break",
+      "url": "https://open.spotify.com/track/47IbAVZZ70rfJ6bisD4OiA"
+    },
+    {
+      "album": {
         "name": "Ladies & Gentlemen",
         "url": "https://open.spotify.com/album/3FDQWdReKKAu4hgebNjI0N"
       },

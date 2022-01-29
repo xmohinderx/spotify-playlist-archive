@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28e329hmxEg.md) - [plain]
 
 > Country music that makes you FEEL GOOD!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,602 likes - 87 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,608 likes - 87 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28e329hmxEg.md) - [plain]
 | 86 | [All My Ex's Live In Texas](https://open.spotify.com/track/7k1Xm1wy00hCKJDYJL5p1n) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [George Strait's Greatest Hits, Volume Two](https://open.spotify.com/album/2ZN1GwIaBhc9exRqKI0gad) | 3:20 |
 | 87 | [Mountain Music](https://open.spotify.com/track/7BjmEKAVTnJNkRNaUzBy2K) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Ultimate Alabama 20 \# 1 Hits](https://open.spotify.com/album/4oFLKch6Zh0YanY9Uj2s8z) | 3:38 |
 
-Snapshot ID: `MTYyMzAxMzk5MiwwMDAwMDAwNTAwMDAwMTc5ZTMyYzI3NWIwMDAwMDE3MGM0YzRiMzYx`
+Snapshot ID: `MTY0MzQwNDEyNSwwMDAwMDAwNjAwMDAwMTdlYTI4NGU0MDQwMDAwMDE3MGM0YzRiMzYx`

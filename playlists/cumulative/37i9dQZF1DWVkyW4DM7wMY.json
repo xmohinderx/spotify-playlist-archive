@@ -452,6 +452,24 @@
     },
     {
       "album": {
+        "name": "Jaafari's 19th",
+        "url": "https://open.spotify.com/album/0ai61scImkAr7m5BXocapW"
+      },
+      "artists": [
+        {
+          "name": "Caleb Awiti",
+          "url": "https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213932,
+      "name": "Jaafari's 19th",
+      "url": "https://open.spotify.com/track/5JyMs4lhBY6IaL45sgVLKi"
+    },
+    {
+      "album": {
         "name": "JAMES BOND",
         "url": "https://open.spotify.com/album/5CL0vcPX9aWVhD7lzrO4Cu"
       },

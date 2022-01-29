@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Meshuggah
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,801 likes - 99 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,034 likes - 99 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 15 | [A World in Tears](https://open.spotify.com/track/5f2GtU6iYeVHls8sfiBsyn) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [A World in Tears](https://open.spotify.com/album/7IQK6f51JQy46xwc5G6gT9) | 3:45 |
 | 16 | [Glory Be 2 Misery](https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Last Ten Seconds of Life](https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq) | 5:04 |
 | 17 | [MON€Y](https://open.spotify.com/track/5Spoplb9VdJjEjWP02RnB8) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [MON€Y](https://open.spotify.com/album/0YbzBJ4v8MkIIZFPLUwg9T) | 4:53 |
-| 18 | [Fear In Non Fiction](https://open.spotify.com/track/153FWt6E2faYmjfoHanfoU) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Fear In Non Fiction](https://open.spotify.com/album/0lvacv6dOWb6SjsWZB62Kh) | 3:24 |
+| 18 | [Fear In Non Fiction](https://open.spotify.com/track/153FWt6E2faYmjfoHanfoU) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH), [Geoff Rickly](https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX) | [Fear In Non Fiction](https://open.spotify.com/album/0lvacv6dOWb6SjsWZB62Kh) | 3:24 |
 | 19 | [Eternal Golden Monk \- forte](https://open.spotify.com/track/63lzuPkE4FkPW7SPyDolSi) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden \(forte\)](https://open.spotify.com/album/5QGxkAyvsgRiQQw6K04ftz) | 3:51 |
 | 20 | [The Stranger](https://open.spotify.com/track/0At0fCO34xDTtzY97KNRTR) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [The Stranger](https://open.spotify.com/album/1ljVNlDuA4642SnEB6xNME) | 3:52 |
 | 21 | [Gravity](https://open.spotify.com/track/6pdJg5TlOExPtqeJYHmQG1) | [The Disaster Area](https://open.spotify.com/artist/5cNBtvhQCLKWInveVFe49O) | [Gravity](https://open.spotify.com/album/0XVL9IXwVqIcpuLLZEACO2) | 3:29 |

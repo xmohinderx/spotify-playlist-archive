@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 160000,
       "name": "Alive With You",
       "url": "https://open.spotify.com/track/6nzvYVrpfZFAAMmLhmpIPP"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 148874,
       "name": "All For You",
       "url": "https://open.spotify.com/track/4jS5uR6agOCvl2q2CYRmF7"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 192000,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/66CEPFHeeZuMTaODDOUwJj"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 161600,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1NBe3xoT8xnDuf50OYaFGa"
@@ -567,6 +567,28 @@
       "duration_ms": 240000,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/42STSlHq3VMQcll52TwxtD"
+    },
+    {
+      "album": {
+        "name": "Can't Have U",
+        "url": "https://open.spotify.com/album/5a8hePKgPY8THUZnQIVkR8"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "Can't Have U",
+      "url": "https://open.spotify.com/track/242x5qU3IyC275YDC7iGGz"
     },
     {
       "album": {
@@ -1459,10 +1481,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 185284,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/3jhzqpkjF3oRZ5hLQ76IGn"
+    },
+    {
+      "album": {
+        "name": "Like I Need You",
+        "url": "https://open.spotify.com/album/5WAYAllbjflU1aTjfTSttS"
+      },
+      "artists": [
+        {
+          "name": "Culture Code",
+          "url": "https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ"
+        },
+        {
+          "name": "Elle Vee",
+          "url": "https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276705,
+      "name": "Like I Need You",
+      "url": "https://open.spotify.com/track/4ryvdlfEVoL0Lch95u7KNw"
     },
     {
       "album": {
@@ -1529,6 +1573,28 @@
       "duration_ms": 204705,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/08WLYptwEeNak4i7S32gh7"
+    },
+    {
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/3I4BX1fyA9UTYKvYOrEraL"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/7BEGkUsN5twIV4IXuwr6xu"
+        },
+        {
+          "name": "Christina Nini",
+          "url": "https://open.spotify.com/artist/5GFACpBDzfvoarK73KmZ23"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258206,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/7ikPaphh2LjopBdM7ZYUIp"
     },
     {
       "album": {
@@ -1745,6 +1811,32 @@
       "duration_ms": 167624,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/7cwCe0ZxpZiL3SZAYo8Naq"
+    },
+    {
+      "album": {
+        "name": "My Circle",
+        "url": "https://open.spotify.com/album/4kZIQPP4EbHyEuSBzhnbUi"
+      },
+      "artists": [
+        {
+          "name": "The FifthGuys",
+          "url": "https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR"
+        },
+        {
+          "name": "The Late Night Project",
+          "url": "https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9"
+        },
+        {
+          "name": "Tommy Rage",
+          "url": "https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159047,
+      "name": "My Circle",
+      "url": "https://open.spotify.com/track/4sagA2yO0ccjstA0mlLP5Y"
     },
     {
       "album": {
@@ -2483,7 +2575,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 163086,
       "name": "The Island",
       "url": "https://open.spotify.com/track/71H9O3hLE9I77Q9LCO7L21"
@@ -2581,7 +2673,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 128013,
       "name": "Useless",
       "url": "https://open.spotify.com/track/6hm2FJTdvkLis7O2HAwGJT"
@@ -2735,6 +2827,28 @@
       "duration_ms": 172812,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6x0AOtecjYmJrIXoenPYez"
+    },
+    {
+      "album": {
+        "name": "You Left Behind",
+        "url": "https://open.spotify.com/album/1QFKxz3WF8YKrkAalYi11c"
+      },
+      "artists": [
+        {
+          "name": "Kevlah",
+          "url": "https://open.spotify.com/artist/4Tg7iHwHWqSkjQOsg8wNRj"
+        },
+        {
+          "name": "Constance",
+          "url": "https://open.spotify.com/artist/6TkolBM4MZMH9ed7Vln8Tq"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224938,
+      "name": "You Left Behind",
+      "url": "https://open.spotify.com/track/4pDrjPW3XOx4sNSNjpJFNR"
     },
     {
       "album": {

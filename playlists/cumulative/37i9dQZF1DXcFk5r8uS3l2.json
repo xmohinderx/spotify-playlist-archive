@@ -474,6 +474,24 @@
     },
     {
       "album": {
+        "name": "Empire State Express",
+        "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270706,
+      "name": "Empire State Express",
+      "url": "https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG"
+    },
+    {
+      "album": {
         "name": "There's a Light",
         "url": "https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6"
       },
@@ -663,6 +681,28 @@
       "duration_ms": 273981,
       "name": "Hit 'Em Back (feat. Robert Randolph, Tony Coleman)",
       "url": "https://open.spotify.com/track/4eZUZRpgqQVtQsvaEHtxti"
+    },
+    {
+      "album": {
+        "name": "Hooray Hooray",
+        "url": "https://open.spotify.com/album/49WXct9dVEokilWT2A7muj"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259946,
+      "name": "Hooray Hooray",
+      "url": "https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu"
     },
     {
       "album": {
@@ -1569,7 +1609,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 287483,
       "name": "Take Me Down",
       "url": "https://open.spotify.com/track/5NFV5HquTXQXR3q384YMhc"

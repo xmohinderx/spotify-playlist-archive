@@ -826,6 +826,24 @@
     },
     {
       "album": {
+        "name": "Hood",
+        "url": "https://open.spotify.com/album/79LOfwxYQhNeU2bg3EdaXr"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "Hood",
+      "url": "https://open.spotify.com/track/5dLd9IBu8aZe47JKwhKvLi"
+    },
+    {
+      "album": {
         "name": "Aunque Est\u00e9n Todos Mirando",
         "url": "https://open.spotify.com/album/1gDzwCyVLOBrmBdVCKqKsa"
       },

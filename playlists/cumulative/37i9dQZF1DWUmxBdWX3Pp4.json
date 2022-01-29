@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 176842,
       "name": "7/24",
       "url": "https://open.spotify.com/track/6pu2BLOwSrsLIecnqGU64m"
@@ -970,6 +970,24 @@
     },
     {
       "album": {
+        "name": "Flight 0006",
+        "url": "https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "Flight 0006",
+      "url": "https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9"
+    },
+    {
+      "album": {
         "name": "Flow Pe$ado",
         "url": "https://open.spotify.com/album/4DAvoNoPJEZkZjljj8G8PX"
       },
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 200170,
       "name": "Haciendo Dinero",
       "url": "https://open.spotify.com/track/50J8By28XiPLTfXJ9MyuoG"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 237885,
       "name": "INOLVIDABLE",
       "url": "https://open.spotify.com/track/2YVd5KUxkBnTEtPuqFR5uc"
@@ -1702,6 +1720,28 @@
     },
     {
       "album": {
+        "name": "Nikes, Diamantes y Skinnies",
+        "url": "https://open.spotify.com/album/3YyOGCZR0MOHPkxxLG57F6"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180821,
+      "name": "Nikes, Diamantes y Skinnies",
+      "url": "https://open.spotify.com/track/5uN1KfOgIAEKcUjANVlHvM"
+    },
+    {
+      "album": {
         "name": "No Creyeron",
         "url": "https://open.spotify.com/album/0oKD4ddaMByzhqdYgo8s25"
       },
@@ -2005,7 +2045,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 159326,
       "name": "POST MORTEM",
       "url": "https://open.spotify.com/track/7pkYsT6Nhtr9EfblK6Kffy"

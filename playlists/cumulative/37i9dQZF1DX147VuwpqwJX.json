@@ -1770,6 +1770,28 @@
     },
     {
       "album": {
+        "name": "Xtravaganza",
+        "url": "https://open.spotify.com/album/0jfpShFOEen1oUQpMyBEnH"
+      },
+      "artists": [
+        {
+          "name": "Naomi Leone",
+          "url": "https://open.spotify.com/artist/6F0NV75fPzOq50SCX8b60x"
+        },
+        {
+          "name": "Velvet Code",
+          "url": "https://open.spotify.com/artist/7EZWiujk2DXkuWUsSaUCKd"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Xtravaganza - Radio Edit",
+      "url": "https://open.spotify.com/track/0qOlJjXhjlNfQG1OUvIEAT"
+    },
+    {
+      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/6AECp5wDwQilg07tmltSQd"
       },
@@ -1807,6 +1829,32 @@
       "duration_ms": 251506,
       "name": "YES Im BACK",
       "url": "https://open.spotify.com/track/1oXw2w8UgSlONuGakzy1PU"
+    },
+    {
+      "album": {
+        "name": "Yo Ma",
+        "url": "https://open.spotify.com/album/2urlO3qmSew5tEXa0tr5xO"
+      },
+      "artists": [
+        {
+          "name": "Astrolith",
+          "url": "https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I"
+        },
+        {
+          "name": "Cakes da Killa",
+          "url": "https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC"
+        },
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199855,
+      "name": "Yo Ma",
+      "url": "https://open.spotify.com/track/7A9XxAxvhWLmKIEVjowM9Y"
     },
     {
       "album": {

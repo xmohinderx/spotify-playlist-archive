@@ -520,6 +520,28 @@
     },
     {
       "album": {
+        "name": "Favorite",
+        "url": "https://open.spotify.com/album/1hXhxCdpwgqCr7sUu26cS8"
+      },
+      "artists": [
+        {
+          "name": "Ru AREYOU",
+          "url": "https://open.spotify.com/artist/2pgUIUzteEqbNGO4v7kiJB"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/3FGj53xlCa43WHUQ4dDF6y"
+    },
+    {
+      "album": {
         "name": "FIT PIC",
         "url": "https://open.spotify.com/album/4kq62cyYveJQEMXyNOh35E"
       },

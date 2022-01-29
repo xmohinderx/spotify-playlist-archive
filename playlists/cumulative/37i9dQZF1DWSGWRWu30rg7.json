@@ -900,6 +900,24 @@
     },
     {
       "album": {
+        "name": "Grow",
+        "url": "https://open.spotify.com/album/1IVdFo9HZlXSYri1F0Bz41"
+      },
+      "artists": [
+        {
+          "name": "Somethink",
+          "url": "https://open.spotify.com/artist/7L8UCXrauhPxujACcmrExI"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234779,
+      "name": "Grow",
+      "url": "https://open.spotify.com/track/0yFKaLmBWTcq53XfD6XyAy"
+    },
+    {
+      "album": {
         "name": "Hammer and Barrier",
         "url": "https://open.spotify.com/album/5G2Vs0RksqzHt4L3cZQFJU"
       },

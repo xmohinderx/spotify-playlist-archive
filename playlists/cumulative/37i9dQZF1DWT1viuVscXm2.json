@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A bailar con la mejor cumbia sudamericana. Foto: Abel Pintos & Los Palmeras.",
+  "description": "A bailar con la mejor cumbia sudamericana. Foto: Los Aut\u00e9nticos Decadentes.",
   "name": "Esto es Cumbia",
   "published_playlist_ids": [
     "2BOWiJCT4dyOyema50dxx0"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 247344,
       "name": "Como Duele",
       "url": "https://open.spotify.com/track/6TVDxCfu42HRyqg8l7zb83"
@@ -945,6 +945,28 @@
       "duration_ms": 206742,
       "name": "Insaciable",
       "url": "https://open.spotify.com/track/1nvoQ3ZBMJZ38wsdDDHzGE"
+    },
+    {
+      "album": {
+        "name": "Jurabas T\u00fa",
+        "url": "https://open.spotify.com/album/0PT0Ev3o1ELK0nlJGopBXp"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197216,
+      "name": "Jurabas T\u00fa",
+      "url": "https://open.spotify.com/track/4jmFwwo60CzJajnFESpFRj"
     },
     {
       "album": {

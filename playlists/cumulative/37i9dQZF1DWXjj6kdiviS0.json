@@ -692,6 +692,28 @@
     },
     {
       "album": {
+        "name": "Meditation",
+        "url": "https://open.spotify.com/album/7mS0wfIGgbJpMnAJbkPNO0"
+      },
+      "artists": [
+        {
+          "name": "Marin Marais",
+          "url": "https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE"
+        },
+        {
+          "name": "Philippe Pierlot",
+          "url": "https://open.spotify.com/artist/02U08GYoxomDe3lyEmMvNp"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368929,
+      "name": "Pi\u00e8ces de viole, Livre 2 - Suite No. 3 in D Major: No. 63. Les Voix Humaines (Lentement)",
+      "url": "https://open.spotify.com/track/1b7Gui95FOHRRza7gh8KDf"
+    },
+    {
+      "album": {
         "name": "Fran\u00e7ois Couperin: Pi\u00e8ces de violes 1728",
         "url": "https://open.spotify.com/album/6ZOLFFLtDLD2wCGOxGVuDm"
       },

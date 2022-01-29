@@ -1,13 +1,93 @@
 {
   "description": "The Midwest is always on time. Cover: Chief Keef",
-  "num_followers": 75107,
+  "num_followers": 75189,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjcyMDgyMSwwMDAwMDNkMjAwMDAwMTdlNzljYTgwOGIwMDAwMDE3ZTM2NWFmMzU3",
+  "snapshot_id": "MTY0MzM0NjAwMCwwMDAwMDNkMzAwMDAwMTdlOWYwZGY5N2QwMDAwMDE3ZTM2NWFmMzU3",
   "tracks": [
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Sincerely Face",
+        "url": "https://open.spotify.com/album/1MiQurvciltuV7N6e9vTwV"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 161948,
+      "name": "Sincerely Face",
+      "url": "https://open.spotify.com/track/1pkmi6mGVijG0Vq9Ml64aw"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Richer Than My Opps",
+        "url": "https://open.spotify.com/album/69vDeG5sZIVWLy2pAuFzKF"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "duration_ms": 179548,
+      "name": "Richer Than My Opps",
+      "url": "https://open.spotify.com/track/7reqlXtBk0OJLtRkUABUYa"
+    },
+    {
+      "added_at": "2021-10-15 04:00:00",
+      "album": {
+        "name": "Pissed Me Off",
+        "url": "https://open.spotify.com/album/70m1QwzUoogjk2DDq1hA3b"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 123076,
+      "name": "Pissed Me Off",
+      "url": "https://open.spotify.com/track/52nTQQahs46s1iHFQ3Wv5Q"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Sada Wada",
+        "url": "https://open.spotify.com/album/0kn3tfvllMrO22CzuXdl08"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Sada Wada",
+      "url": "https://open.spotify.com/track/3H3a7z10QCCrqAISXi3IU8"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0mU8kILJJ8QZv6C6zSSREv"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 149304,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/2l9m4igR1iU8tqTgVWtjwp"
+    },
     {
       "added_at": "2021-09-03 04:20:42",
       "album": {
@@ -43,22 +123,6 @@
       "duration_ms": 182465,
       "name": "Ok Cool (Remix) (feat. Gunna)",
       "url": "https://open.spotify.com/track/143oP1kVjNcaQ9WTraAR9E"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Pissed Me Off",
-        "url": "https://open.spotify.com/album/70m1QwzUoogjk2DDq1hA3b"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 123076,
-      "name": "Pissed Me Off",
-      "url": "https://open.spotify.com/track/52nTQQahs46s1iHFQ3Wv5Q"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -107,30 +171,6 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Dancing With The Devil",
-        "url": "https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Landstrip Chip",
-          "url": "https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a"
-        },
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 169717,
-      "name": "Dancing With The Devil",
-      "url": "https://open.spotify.com/track/1siBeqPJIFu48T8ZihxeuN"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
         "name": "Area 51 (Remix) [feat. Big Yavo]",
         "url": "https://open.spotify.com/album/0Lkn98cNVQJumP1a0VsaX1"
       },
@@ -169,6 +209,42 @@
       "url": "https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef"
     },
     {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Survivor's Guilt (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/5YOSBQ1qVEKRJo5YGBiE7p"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 222830,
+      "name": "Survivor's Guilt (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/1ZTOr7I40ziaQb1vvCM3Ar"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4cy5H3elTd4senApZFBA1g"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 219971,
+      "name": "My Thoughts 3 / Pop's Prayer",
+      "url": "https://open.spotify.com/track/2jmvTtAdFIZcPxpX4dxuF9"
+    },
+    {
       "added_at": "2021-12-18 22:23:36",
       "album": {
         "name": "4NEM",
@@ -205,22 +281,6 @@
       "url": "https://open.spotify.com/track/6MZoicv1j68tNiSJyKwNrB"
     },
     {
-      "added_at": "2022-01-07 21:05:49",
-      "album": {
-        "name": "Long Time Comin",
-        "url": "https://open.spotify.com/album/1AwsbxmQLLaWcpV9p0861M"
-      },
-      "artists": [
-        {
-          "name": "Baby Money",
-          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Long Time Comin",
-      "url": "https://open.spotify.com/track/48ftvy55wQVtwnk1ijfZ5a"
-    },
-    {
       "added_at": "2021-12-10 05:00:00",
       "album": {
         "name": "Fighting Demons",
@@ -237,64 +297,24 @@
       "url": "https://open.spotify.com/track/0v36cov6Z6aEV5ZgIlqZMk"
     },
     {
-      "added_at": "2022-01-14 05:00:00",
+      "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Come My Way (feat. Krayzie Bone)",
-        "url": "https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa"
+        "name": "Hawks vs. Bulls",
+        "url": "https://open.spotify.com/album/2h4rUPmYXOosVnCVX9hUEU"
       },
       "artists": [
         {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+          "name": "3xbravo",
+          "url": "https://open.spotify.com/artist/0lPZJTNurUF05u2JHm48cH"
         },
         {
-          "name": "Krayzie Bone",
-          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
         }
       ],
-      "duration_ms": 190653,
-      "name": "Come My Way (feat. Krayzie Bone)",
-      "url": "https://open.spotify.com/track/774RwZfAI8Ge5RcFu0pzD6"
-    },
-    {
-      "added_at": "2021-12-18 22:23:36",
-      "album": {
-        "name": "BACK IN ACTION 2.0",
-        "url": "https://open.spotify.com/album/3ShlqDCnYpRdcJxA9wlkpE"
-      },
-      "artists": [
-        {
-          "name": "midwxst",
-          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
-        },
-        {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
-        }
-      ],
-      "duration_ms": 206206,
-      "name": "No Smoke (feat. DC The Don)",
-      "url": "https://open.spotify.com/track/5TqAWu0AhiQ7rPne0JMhxq"
-    },
-    {
-      "added_at": "2021-12-03 05:00:00",
-      "album": {
-        "name": "Wandered To LA (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/44ZvY2vUWa7Zkb59G0ZZOk"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 189727,
-      "name": "Wandered To LA (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/70VkwSaJYXNCreoqwEMk4g"
+      "duration_ms": 139206,
+      "name": "Hawks vs. Bulls",
+      "url": "https://open.spotify.com/track/4AIdvuQ1DqqjOJHRjf10nx"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -357,6 +377,26 @@
       "url": "https://open.spotify.com/track/6inHSFgzJCNhgtSlu5Wtc2"
     },
     {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4cy5H3elTd4senApZFBA1g"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 179601,
+      "name": "Blood, Sweat & Tears (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3ha7OXa3RZ4OFwltnd3QGK"
+    },
+    {
       "added_at": "2022-01-20 23:20:21",
       "album": {
         "name": "Real Work",
@@ -393,6 +433,22 @@
       "url": "https://open.spotify.com/track/254OydHVwUHK2jIMhZToHm"
     },
     {
+      "added_at": "2022-01-07 21:05:49",
+      "album": {
+        "name": "Long Time Comin",
+        "url": "https://open.spotify.com/album/1AwsbxmQLLaWcpV9p0861M"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Long Time Comin",
+      "url": "https://open.spotify.com/track/48ftvy55wQVtwnk1ijfZ5a"
+    },
+    {
       "added_at": "2021-11-12 05:00:00",
       "album": {
         "name": "Already Dead",
@@ -407,22 +463,6 @@
       "duration_ms": 231010,
       "name": "Already Dead",
       "url": "https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ"
-    },
-    {
-      "added_at": "2021-11-19 19:41:35",
-      "album": {
-        "name": "Stop That",
-        "url": "https://open.spotify.com/album/163T4poOyZKxwZcmkMRAq9"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        }
-      ],
-      "duration_ms": 138946,
-      "name": "Stop That",
-      "url": "https://open.spotify.com/track/74VD75tGYXIHyZR0CmKFWX"
     },
     {
       "added_at": "2021-11-19 05:00:00",
@@ -549,6 +589,26 @@
       "url": "https://open.spotify.com/track/13jvtLuv8vRg2fmvClhWP1"
     },
     {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Come My Way (feat. Krayzie Bone)",
+        "url": "https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Come My Way (feat. Krayzie Bone)",
+      "url": "https://open.spotify.com/track/774RwZfAI8Ge5RcFu0pzD6"
+    },
+    {
       "added_at": "2021-12-04 00:56:06",
       "album": {
         "name": "WAKE UP LUCKI",
@@ -585,30 +645,6 @@
       "url": "https://open.spotify.com/track/2gbMPBrBVj3CuNTLp2dHYs"
     },
     {
-      "added_at": "2021-09-03 04:20:42",
-      "album": {
-        "name": "It Ain't My Fault",
-        "url": "https://open.spotify.com/album/5aTCwMHvG9VSoeX1ZpYQY0"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 206720,
-      "name": "It Ain't My Fault",
-      "url": "https://open.spotify.com/track/5cX92psZ1aSHr6rTmGQMps"
-    },
-    {
       "added_at": "2021-10-29 04:00:00",
       "album": {
         "name": "4REIGN GANGSTA (feat. Kevin Gates)",
@@ -627,22 +663,6 @@
       "duration_ms": 237854,
       "name": "4REIGN GANGSTA (feat. Kevin Gates)",
       "url": "https://open.spotify.com/track/5SbtfQsckw0gUxsEYIOPI3"
-    },
-    {
-      "added_at": "2021-12-03 05:00:00",
-      "album": {
-        "name": "Pastelevision",
-        "url": "https://open.spotify.com/album/3Fw3gOj3UVlNJUclaOqLK2"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Pastel",
-          "url": "https://open.spotify.com/artist/1rpz8zkZaj3UKDPk2NxV7F"
-        }
-      ],
-      "duration_ms": 141500,
-      "name": "Stop Asking",
-      "url": "https://open.spotify.com/track/3F6lZEIQe8JBoSSSmbtkpk"
     },
     {
       "added_at": "2021-11-05 04:00:00",
@@ -725,22 +745,6 @@
       "url": "https://open.spotify.com/track/36FDMTfRqSROsSC6pOTqGw"
     },
     {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "Arrest Me",
-        "url": "https://open.spotify.com/album/6gA06org5t1iCamfkk7YZX"
-      },
-      "artists": [
-        {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Arrest Me",
-      "url": "https://open.spotify.com/track/4JbLkW7KMSg0mMfZho003p"
-    },
-    {
       "added_at": "2021-11-12 05:00:00",
       "album": {
         "name": "Trench Baby 2",
@@ -791,26 +795,6 @@
       "duration_ms": 130000,
       "name": "Roll Up Hot",
       "url": "https://open.spotify.com/track/6uGe0mI2O24OYW6hkUy8DZ"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "Scottie Pippen",
-        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Scottie Pippen",
-      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
     },
     {
       "added_at": "2021-11-19 05:00:00",
@@ -907,34 +891,6 @@
       "duration_ms": 277848,
       "name": "CJ",
       "url": "https://open.spotify.com/track/6p49f5BNCPBWAzse9Di9YT"
-    },
-    {
-      "added_at": "2021-09-24 04:00:00",
-      "album": {
-        "name": "My Time (Gangsta Grillz: Special Edition)",
-        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 130098,
-      "name": "In Person (With OG Parker feat. Tyga)",
-      "url": "https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON"
     },
     {
       "added_at": "2021-10-15 04:00:00",

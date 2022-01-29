@@ -2308,6 +2308,28 @@
     },
     {
       "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/0xvgwOCQusbVmBmgno2Wfg"
+      },
+      "artists": [
+        {
+          "name": "Starfarer",
+          "url": "https://open.spotify.com/artist/7b2ClJ7TipeidVNEFhgIOk"
+        },
+        {
+          "name": "DreamReaper",
+          "url": "https://open.spotify.com/artist/3ymwdUUHPaNIVeWoACbiIg"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Highrider",
+      "url": "https://open.spotify.com/track/6y2XdutAlhd7r1kxTTNJ67"
+    },
+    {
+      "album": {
         "name": "Stellaris: Apocalypse",
         "url": "https://open.spotify.com/album/3zAjiIIqyBpeftMJpofOJb"
       },
@@ -4001,6 +4023,24 @@
       "duration_ms": 213333,
       "name": "Power Load",
       "url": "https://open.spotify.com/track/38jxL7UzPlziFNZyixjNXC"
+    },
+    {
+      "album": {
+        "name": "THIS IS THE LIGHT OF THE MIND, COLD AND PLANETARY",
+        "url": "https://open.spotify.com/album/2sgiFh44m7QgcKKCi2zRYP"
+      },
+      "artists": [
+        {
+          "name": "FUTURE NIGHTMARES",
+          "url": "https://open.spotify.com/artist/3zuBlp2jROu70YTftLcixP"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307528,
+      "name": "Prickling my ankles and murmuring of their humility",
+      "url": "https://open.spotify.com/track/0RPuKUFwCi4nweZ2cFMPDx"
     },
     {
       "album": {

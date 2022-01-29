@@ -1,13 +1,45 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: KenTheMan\n",
-  "num_followers": 2066618,
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Coi Leray\n",
+  "num_followers": 2067460,
   "original_name": "Feelin' Myself",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc0MTIwMCwwMDAwMDQ3NDAwMDAwMTdlN2IwMTc1YWMwMDAwMDE3ZTc5ZGY1ZWU1",
+  "snapshot_id": "MTY0MzM0NjAwMCwwMDAwMDQ3NTAwMDAwMTdlOWYwZGY5MzQwMDAwMDE3ZTllOTJhNDdm",
   "tracks": [
+    {
+      "added_at": "2021-11-29 23:38:41",
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 113429,
+      "name": "Megan's Piano",
+      "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
+    },
+    {
+      "added_at": "2021-09-13 17:38:47",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
     {
       "added_at": "2021-09-24 04:00:00",
       "album": {
@@ -25,20 +57,20 @@
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
-      "added_at": "2021-09-13 17:38:47",
+      "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+      "duration_ms": 186133,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
     },
     {
       "added_at": "2021-10-29 16:00:21",
@@ -73,38 +105,6 @@
       "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
     },
     {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Rose Gold Stripper Pole",
-        "url": "https://open.spotify.com/album/4r2vHhtN23zIdYTdD0F27s"
-      },
-      "artists": [
-        {
-          "name": "KenTheMan",
-          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
-        }
-      ],
-      "duration_ms": 131256,
-      "name": "Rose Gold Stripper Pole",
-      "url": "https://open.spotify.com/track/3MGmS1gBzgTCor09cDtlVJ"
-    },
-    {
-      "added_at": "2021-12-08 03:11:25",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
       "added_at": "2021-09-10 04:00:00",
       "album": {
         "name": "Have Mercy",
@@ -119,22 +119,6 @@
       "duration_ms": 148778,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
-    },
-    {
-      "added_at": "2021-11-29 23:38:41",
-      "album": {
-        "name": "Something for Thee Hotties",
-        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 113429,
-      "name": "Megan's Piano",
-      "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -203,6 +187,38 @@
       "duration_ms": 113327,
       "name": "The Assignment",
       "url": "https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Rose Gold Stripper Pole",
+        "url": "https://open.spotify.com/album/4r2vHhtN23zIdYTdD0F27s"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "duration_ms": 131256,
+      "name": "Rose Gold Stripper Pole",
+      "url": "https://open.spotify.com/track/3MGmS1gBzgTCor09cDtlVJ"
+    },
+    {
+      "added_at": "2021-12-08 03:11:25",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2021-09-24 04:00:00",
@@ -301,38 +317,6 @@
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Public Displays Of Affection",
-        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs and Hrs",
-      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Juice",
-        "url": "https://open.spotify.com/album/7nUtmWS4nJ0fqEapRua3jq"
-      },
-      "artists": [
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/2ufGjcxYk6SD0KBdA8gX2J"
-    },
-    {
       "added_at": "2021-10-29 21:27:47",
       "album": {
         "name": "Something for Thee Hotties",
@@ -369,6 +353,46 @@
       "url": "https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm"
     },
     {
+      "added_at": "2021-11-19 05:00:00",
+      "album": {
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 204316,
+      "name": "Hrs and Hrs",
+      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+    },
+    {
       "added_at": "2021-10-08 23:40:09",
       "album": {
         "name": "Beating Down Yo Block",
@@ -385,60 +409,36 @@
       "url": "https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2"
     },
     {
-      "added_at": "2021-10-15 04:00:00",
+      "added_at": "2021-10-22 04:00:00",
       "album": {
-        "name": "Break The Bank",
-        "url": "https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv"
+        "name": "BIG",
+        "url": "https://open.spotify.com/album/4mYgWeJ39gMlXqTPOUzASz"
       },
       "artists": [
         {
-          "name": "LightSkinKeisha",
-          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
-        },
-        {
-          "name": "Trina",
-          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
+          "name": "Kendra Jae",
+          "url": "https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P"
         }
       ],
-      "duration_ms": 183436,
-      "name": "Freaky Dancer (feat. Trina)",
-      "url": "https://open.spotify.com/track/7FQO72imUTztCiYfRGQDGZ"
+      "duration_ms": 160197,
+      "name": "BIG",
+      "url": "https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG"
     },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "Oh Shhh",
-        "url": "https://open.spotify.com/album/7LFgP2dk4qCLdec8accb1S"
+        "name": "Queen Elizabitch",
+        "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
       },
       "artists": [
         {
-          "name": "DreamDoll",
-          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
         }
       ],
-      "duration_ms": 93096,
-      "name": "Oh Shhh",
-      "url": "https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk"
-    },
-    {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Lick (with Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Lick (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X"
+      "duration_ms": 208463,
+      "name": "Cpr",
+      "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
     },
     {
       "added_at": "2021-10-22 04:00:00",
@@ -481,280 +481,40 @@
       "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
     },
     {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Soufside",
-        "url": "https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 110769,
-      "name": "Soufside",
-      "url": "https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "Pedi",
-        "url": "https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 125272,
-      "name": "Pedi",
-      "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
-    },
-    {
-      "added_at": "2021-11-12 05:35:11",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/52SDAY1Ky5h9gKOlxPYKiO"
-      },
-      "artists": [
-        {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s"
-    },
-    {
-      "added_at": "2022-01-11 16:02:49",
-      "album": {
-        "name": "Self Made",
-        "url": "https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl"
-      },
-      "artists": [
-        {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
-        }
-      ],
-      "duration_ms": 168986,
-      "name": "Self Made",
-      "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Queen Elizabitch",
-        "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
-      },
-      "artists": [
-        {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
-        }
-      ],
-      "duration_ms": 208463,
-      "name": "Cpr",
-      "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
-    },
-    {
       "added_at": "2021-11-19 05:00:00",
       "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
+        "name": "Icy Chain",
+        "url": "https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 110790,
+      "name": "Icy Chain",
+      "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "Lick (with Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 204763,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
-    },
-    {
-      "added_at": "2021-11-19 05:00:00",
-      "album": {
-        "name": "Pretty & Paid 2.0",
-        "url": "https://open.spotify.com/album/6yHcKJECGnk90MOSWSuId2"
-      },
-      "artists": [
-        {
-          "name": "Pap Chanel",
-          "url": "https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed"
-        }
-      ],
-      "duration_ms": 146497,
-      "name": "Apple Jacks",
-      "url": "https://open.spotify.com/track/3u3zxeCkxTwNnxOMGnxQ8K"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "Could Never (Remix) [feat. Moneybagg Yo]",
-        "url": "https://open.spotify.com/album/65a4xOJ9i58wpUnqy2Pyyj"
-      },
-      "artists": [
-        {
-          "name": "Jucee Froot",
-          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 208358,
-      "name": "Could Never (Remix) [feat. Moneybagg Yo]",
-      "url": "https://open.spotify.com/track/7nlH50E3IXShJtgb4gl3nz"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "BIG",
-        "url": "https://open.spotify.com/album/4mYgWeJ39gMlXqTPOUzASz"
-      },
-      "artists": [
-        {
-          "name": "Kendra Jae",
-          "url": "https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P"
-        }
-      ],
-      "duration_ms": 160197,
-      "name": "BIG",
-      "url": "https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG"
-    },
-    {
-      "added_at": "2021-09-24 04:00:00",
-      "album": {
-        "name": "Marge Simpson",
-        "url": "https://open.spotify.com/album/6fhWBYWOu0PNWt79ZAPBNi"
-      },
-      "artists": [
-        {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
-        }
-      ],
-      "duration_ms": 183983,
-      "name": "Marge Simpson",
-      "url": "https://open.spotify.com/track/4RdFyqzZSevigdQxH0iLOa"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Break The Bank",
-        "url": "https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv"
-      },
-      "artists": [
-        {
-          "name": "LightSkinKeisha",
-          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "What Ya Came For",
-      "url": "https://open.spotify.com/track/2smo1WyDkIgDtPQc7CYiWn"
-    },
-    {
-      "added_at": "2021-11-12 05:35:11",
-      "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/24lFjjePi1ey6ycLdW5WxZ"
-      },
-      "artists": [
-        {
-          "name": "Erica Banks",
-          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
-        }
-      ],
-      "duration_ms": 137806,
-      "name": "Designer",
-      "url": "https://open.spotify.com/track/4F0flTfcEU2ZcStYhJsaRy"
-    },
-    {
-      "added_at": "2021-11-19 05:05:23",
-      "album": {
-        "name": "Bruised (Soundtrack From and Inspired by the Netflix Film)",
-        "url": "https://open.spotify.com/album/02VIrw8ckjQhmHNVaX0icA"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bruised Soundtrack",
-          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
-        }
-      ],
-      "duration_ms": 160130,
-      "name": "Bet It - from the \"Bruised\" Soundtrack",
-      "url": "https://open.spotify.com/track/2qHaFxrDldxWUtIy9qaTM9"
-    },
-    {
-      "added_at": "2021-11-19 05:00:00",
-      "album": {
-        "name": "SMA",
-        "url": "https://open.spotify.com/album/0OYCEO9W7oXUfq5ELc8buI"
-      },
-      "artists": [
-        {
-          "name": "Kayla Nicole",
-          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
-        }
-      ],
-      "duration_ms": 138847,
-      "name": "SMA",
-      "url": "https://open.spotify.com/track/40gDaWBsieyvULRBTYECY4"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "Ice Baby",
-        "url": "https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 169679,
-      "name": "Ice Baby",
-      "url": "https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Christmas List",
-        "url": "https://open.spotify.com/album/1CL6OknqBdLxkmD1Ujv7XN"
-      },
-      "artists": [
-        {
-          "name": "Jucee Froot",
-          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
-        }
-      ],
-      "duration_ms": 108630,
-      "name": "Christmas List",
-      "url": "https://open.spotify.com/track/1otneYXhRPhMFXeFDj9qtj"
+      "duration_ms": 166875,
+      "name": "Lick (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X"
     },
     {
       "added_at": "2021-10-29 04:00:00",
@@ -777,52 +537,192 @@
       "url": "https://open.spotify.com/track/3zT7dmfVjHOMXnUgPl0AQe"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
+      "added_at": "2021-11-05 04:01:00",
       "album": {
-        "name": "Moncler Coat",
-        "url": "https://open.spotify.com/album/2Aatr5J5mRJxyeHydQyNxF"
+        "name": "Soufside",
+        "url": "https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg"
       },
       "artists": [
         {
-          "name": "Sally Sossa",
-          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 107554,
-      "name": "Moncler Coat",
-      "url": "https://open.spotify.com/track/6nDIfZcCj06dGLY1sckgaZ"
+      "duration_ms": 110769,
+      "name": "Soufside",
+      "url": "https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e"
+    },
+    {
+      "added_at": "2021-10-15 04:00:00",
+      "album": {
+        "name": "Break The Bank",
+        "url": "https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv"
+      },
+      "artists": [
+        {
+          "name": "LightSkinKeisha",
+          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
+        },
+        {
+          "name": "Trina",
+          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
+        }
+      ],
+      "duration_ms": 183436,
+      "name": "Freaky Dancer (feat. Trina)",
+      "url": "https://open.spotify.com/track/7FQO72imUTztCiYfRGQDGZ"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Oh Shhh",
+        "url": "https://open.spotify.com/album/7LFgP2dk4qCLdec8accb1S"
+      },
+      "artists": [
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        }
+      ],
+      "duration_ms": 93096,
+      "name": "Oh Shhh",
+      "url": "https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk"
     },
     {
       "added_at": "2021-11-19 05:00:00",
       "album": {
-        "name": "Icy Chain",
-        "url": "https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5"
+        "name": "Pretty & Paid 2.0",
+        "url": "https://open.spotify.com/album/6yHcKJECGnk90MOSWSuId2"
       },
       "artists": [
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "Pap Chanel",
+          "url": "https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed"
         }
       ],
-      "duration_ms": 110790,
-      "name": "Icy Chain",
-      "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
+      "duration_ms": 146497,
+      "name": "Apple Jacks",
+      "url": "https://open.spotify.com/track/3u3zxeCkxTwNnxOMGnxQ8K"
     },
     {
-      "added_at": "2021-12-03 05:00:00",
+      "added_at": "2021-09-24 04:00:00",
       "album": {
-        "name": "We Not Humping",
-        "url": "https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B"
+        "name": "Marge Simpson",
+        "url": "https://open.spotify.com/album/6fhWBYWOu0PNWt79ZAPBNi"
       },
       "artists": [
         {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
         }
       ],
-      "duration_ms": 144195,
-      "name": "We Not Humping",
-      "url": "https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P"
+      "duration_ms": 183983,
+      "name": "Marge Simpson",
+      "url": "https://open.spotify.com/track/4RdFyqzZSevigdQxH0iLOa"
+    },
+    {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "Could Never (Remix) [feat. Moneybagg Yo]",
+        "url": "https://open.spotify.com/album/65a4xOJ9i58wpUnqy2Pyyj"
+      },
+      "artists": [
+        {
+          "name": "Jucee Froot",
+          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 208358,
+      "name": "Could Never (Remix) [feat. Moneybagg Yo]",
+      "url": "https://open.spotify.com/track/7nlH50E3IXShJtgb4gl3nz"
+    },
+    {
+      "added_at": "2021-11-19 05:00:00",
+      "album": {
+        "name": "SMA",
+        "url": "https://open.spotify.com/album/0OYCEO9W7oXUfq5ELc8buI"
+      },
+      "artists": [
+        {
+          "name": "Kayla Nicole",
+          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
+        }
+      ],
+      "duration_ms": 138847,
+      "name": "SMA",
+      "url": "https://open.spotify.com/track/40gDaWBsieyvULRBTYECY4"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Don't Talk",
+        "url": "https://open.spotify.com/album/15HVlassGiyNROvxTxYoXx"
+      },
+      "artists": [
+        {
+          "name": "Cuban Doll",
+          "url": "https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc"
+        }
+      ],
+      "duration_ms": 135381,
+      "name": "Don't Talk",
+      "url": "https://open.spotify.com/track/02vPJzKJS04HU2cIvvRlN1"
+    },
+    {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "Pedi",
+        "url": "https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 125272,
+      "name": "Pedi",
+      "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
+    },
+    {
+      "added_at": "2021-11-19 05:05:23",
+      "album": {
+        "name": "Bruised (Soundtrack From and Inspired by the Netflix Film)",
+        "url": "https://open.spotify.com/album/02VIrw8ckjQhmHNVaX0icA"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bruised Soundtrack",
+          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
+        }
+      ],
+      "duration_ms": 160130,
+      "name": "Bet It - from the \"Bruised\" Soundtrack",
+      "url": "https://open.spotify.com/track/2qHaFxrDldxWUtIy9qaTM9"
+    },
+    {
+      "added_at": "2021-10-15 04:00:00",
+      "album": {
+        "name": "Break The Bank",
+        "url": "https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv"
+      },
+      "artists": [
+        {
+          "name": "LightSkinKeisha",
+          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "What Ya Came For",
+      "url": "https://open.spotify.com/track/2smo1WyDkIgDtPQc7CYiWn"
     },
     {
       "added_at": "2021-10-29 04:00:00",
@@ -841,6 +741,90 @@
       "url": "https://open.spotify.com/track/1hiouKTKyZ7CcKWAoofkkg"
     },
     {
+      "added_at": "2022-01-11 16:02:49",
+      "album": {
+        "name": "Self Made",
+        "url": "https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Self Made",
+      "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
+    },
+    {
+      "added_at": "2021-11-12 05:35:11",
+      "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/24lFjjePi1ey6ycLdW5WxZ"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "duration_ms": 137806,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/4F0flTfcEU2ZcStYhJsaRy"
+    },
+    {
+      "added_at": "2021-11-12 05:35:11",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/52SDAY1Ky5h9gKOlxPYKiO"
+      },
+      "artists": [
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Moncler Coat",
+        "url": "https://open.spotify.com/album/2Aatr5J5mRJxyeHydQyNxF"
+      },
+      "artists": [
+        {
+          "name": "Sally Sossa",
+          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
+        }
+      ],
+      "duration_ms": 107554,
+      "name": "Moncler Coat",
+      "url": "https://open.spotify.com/track/6nDIfZcCj06dGLY1sckgaZ"
+    },
+    {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "Ice Baby",
+        "url": "https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 169679,
+      "name": "Ice Baby",
+      "url": "https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2"
+    },
+    {
       "added_at": "2022-01-07 05:00:00",
       "album": {
         "name": "Chitty Bang",
@@ -857,20 +841,36 @@
       "url": "https://open.spotify.com/track/7eUarVRO7tNoJy6WZDhkoR"
     },
     {
-      "added_at": "2022-01-14 05:00:00",
+      "added_at": "2021-12-03 05:00:00",
       "album": {
-        "name": "Don't Talk",
-        "url": "https://open.spotify.com/album/15HVlassGiyNROvxTxYoXx"
+        "name": "We Not Humping",
+        "url": "https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B"
       },
       "artists": [
         {
-          "name": "Cuban Doll",
-          "url": "https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc"
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
         }
       ],
-      "duration_ms": 135381,
-      "name": "Don't Talk",
-      "url": "https://open.spotify.com/track/02vPJzKJS04HU2cIvvRlN1"
+      "duration_ms": 144195,
+      "name": "We Not Humping",
+      "url": "https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Christmas List",
+        "url": "https://open.spotify.com/album/1CL6OknqBdLxkmD1Ujv7XN"
+      },
+      "artists": [
+        {
+          "name": "Jucee Froot",
+          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+        }
+      ],
+      "duration_ms": 108630,
+      "name": "Christmas List",
+      "url": "https://open.spotify.com/track/1otneYXhRPhMFXeFDj9qtj"
     }
   ],
   "unique_name": "Feelin' Myself",

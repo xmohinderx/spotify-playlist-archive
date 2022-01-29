@@ -115,7 +115,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 148508,
       "name": "Around And Around",
       "url": "https://open.spotify.com/track/1rX6DkfNiuH3A9XNpwD7eP"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 120035,
       "name": "BeBe (feat. LC Levi)",
       "url": "https://open.spotify.com/track/18EsiBygSie4CIRBSZs1eG"
@@ -300,6 +300,28 @@
     },
     {
       "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4cy5H3elTd4senApZFBA1g"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179601,
+      "name": "Blood, Sweat & Tears (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/3ha7OXa3RZ4OFwltnd3QGK"
+    },
+    {
+      "album": {
         "name": "Bounce Out",
         "url": "https://open.spotify.com/album/1NL1LWbjMm9inP25ll9H1d"
       },
@@ -311,7 +333,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 154046,
       "name": "Bounce Out",
       "url": "https://open.spotify.com/track/0sGZ7fSjf9FwXwUMBMlD1W"
@@ -369,7 +391,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 116470,
       "name": "Caddy",
       "url": "https://open.spotify.com/track/0kTQcDTWmeSKp2EOHLK7AY"
@@ -391,7 +413,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 252000,
       "name": "Can't Contain (feat. Young Nudy)",
       "url": "https://open.spotify.com/track/3ErjMuP1DQSb5t7Cgw2skD"
@@ -543,7 +565,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 162002,
       "name": "Cool, Calm & Collected (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/5DA10wRfycixAJMmi1aKqt"
@@ -607,6 +629,32 @@
       "duration_ms": 280500,
       "name": "CULT",
       "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
+    },
+    {
+      "album": {
+        "name": "Dancing With The Devil",
+        "url": "https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Landstrip Chip",
+          "url": "https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "Dancing With The Devil",
+      "url": "https://open.spotify.com/track/1siBeqPJIFu48T8ZihxeuN"
     },
     {
       "album": {
@@ -730,6 +778,24 @@
     },
     {
       "album": {
+        "name": "Don't Miss",
+        "url": "https://open.spotify.com/album/5STr775eXjmZqssJIYBQCd"
+      },
+      "artists": [
+        {
+          "name": "SSGKobe",
+          "url": "https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186462,
+      "name": "Don't Miss",
+      "url": "https://open.spotify.com/track/4lR5He1ObQeQ1immUSL8oW"
+    },
+    {
+      "album": {
         "name": "Dope Game",
         "url": "https://open.spotify.com/album/3opfzTXEIwJxhXamjiAD7L"
       },
@@ -763,7 +829,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 172039,
       "name": "Draft Kings",
       "url": "https://open.spotify.com/track/5ls732Is7vd9xdFJjsSCU9"
@@ -1025,10 +1091,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 181898,
       "name": "Growing Up Gangsta",
       "url": "https://open.spotify.com/track/4jlpT1ZTTOcrwAyjJAND2e"
+    },
+    {
+      "album": {
+        "name": "Hawks vs. Bulls",
+        "url": "https://open.spotify.com/album/2h4rUPmYXOosVnCVX9hUEU"
+      },
+      "artists": [
+        {
+          "name": "3xbravo",
+          "url": "https://open.spotify.com/artist/0lPZJTNurUF05u2JHm48cH"
+        },
+        {
+          "name": "Lil Eazzyy",
+          "url": "https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139206,
+      "name": "Hawks vs. Bulls",
+      "url": "https://open.spotify.com/track/4AIdvuQ1DqqjOJHRjf10nx"
     },
     {
       "album": {
@@ -1065,7 +1153,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 194890,
       "name": "Huncho Fishscale (ft. Quavo)",
       "url": "https://open.spotify.com/track/5GzmaXXXJYVOKRQyaLZuJM"
@@ -1139,7 +1227,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 133224,
       "name": "I'm Hot (feat. Chi Chi & Nick Papz)",
       "url": "https://open.spotify.com/track/4MI8cQXM78e5DbgErePSL2"
@@ -1428,6 +1516,28 @@
     },
     {
       "album": {
+        "name": "Houligan Timing",
+        "url": "https://open.spotify.com/album/1Nu0bJTbWfEZCN7tI5mvh2"
+      },
+      "artists": [
+        {
+          "name": "Burna Bandz",
+          "url": "https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Love Don't Live Here",
+      "url": "https://open.spotify.com/track/0LOjQgoiOJNn4wlZO6VaL4"
+    },
+    {
+      "album": {
         "name": "Luigi (feat. Chief Keef)",
         "url": "https://open.spotify.com/album/6o58I8nVfoDw0MGhpG6amS"
       },
@@ -1483,7 +1593,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 173900,
       "name": "Margiela Man",
       "url": "https://open.spotify.com/track/5iGjfiQQIWPRhIu0OgBhSc"
@@ -1746,6 +1856,24 @@
     },
     {
       "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4cy5H3elTd4senApZFBA1g"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219971,
+      "name": "My Thoughts 3 / Pop's Prayer",
+      "url": "https://open.spotify.com/track/2jmvTtAdFIZcPxpX4dxuF9"
+    },
+    {
+      "album": {
         "name": "Never Fail (with Benny The Butcher)",
         "url": "https://open.spotify.com/album/4U7gKEk4Q7fdNPTdhobpRq"
       },
@@ -1957,7 +2085,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 182465,
       "name": "Ok Cool (Remix) (feat. Gunna)",
       "url": "https://open.spotify.com/track/143oP1kVjNcaQ9WTraAR9E"
@@ -1982,6 +2110,32 @@
     },
     {
       "album": {
+        "name": "OPP PARTY (feat. Nardo Wick & G Herbo)",
+        "url": "https://open.spotify.com/album/6f9Ybh8nheTL1SP9fay42H"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216121,
+      "name": "OPP PARTY (feat. Nardo Wick & G Herbo)",
+      "url": "https://open.spotify.com/track/0sQVPgee00O6WrP7b8E1ix"
+    },
+    {
+      "album": {
         "name": "LIVE.EVIL",
         "url": "https://open.spotify.com/album/2BAS4qtHxRitgAaHF4mLLR"
       },
@@ -1997,7 +2151,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 185330,
       "name": "OUTTAMYMIND! (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/3vs733LJpo6r1lxMBsMYal"
@@ -2027,6 +2181,28 @@
       "duration_ms": 131116,
       "name": "Overseas",
       "url": "https://open.spotify.com/track/4vs8wFsbctZBuuzJxZnmPz"
+    },
+    {
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/7yIAC9MyrWgVeWovHZ5LLT"
+      },
+      "artists": [
+        {
+          "name": "YSB Tril",
+          "url": "https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/1FMiq74MKAcEcbrlJpIMCI"
     },
     {
       "album": {
@@ -2121,10 +2297,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 285546,
       "name": "Real Real (feat. Kent Jamz)",
       "url": "https://open.spotify.com/track/2UagseAW7ztpQdFtrvLlzW"
+    },
+    {
+      "album": {
+        "name": "OH REALLY",
+        "url": "https://open.spotify.com/album/1XLtVyPsTQu5hvbhAF8i5W"
+      },
+      "artists": [
+        {
+          "name": "Doe Boy",
+          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126676,
+      "name": "REAL RECOGNIZE REAL (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7m8qJTT6WL540H2gnW5beX"
     },
     {
       "album": {
@@ -2143,6 +2341,24 @@
       "duration_ms": 148687,
       "name": "Retaliation",
       "url": "https://open.spotify.com/track/1NE8EEo8xpxTLAYHJbmsrY"
+    },
+    {
+      "album": {
+        "name": "Richer Than My Opps",
+        "url": "https://open.spotify.com/album/69vDeG5sZIVWLy2pAuFzKF"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179548,
+      "name": "Richer Than My Opps",
+      "url": "https://open.spotify.com/track/7reqlXtBk0OJLtRkUABUYa"
     },
     {
       "album": {
@@ -2244,6 +2460,42 @@
     },
     {
       "album": {
+        "name": "Sada Wada",
+        "url": "https://open.spotify.com/album/0kn3tfvllMrO22CzuXdl08"
+      },
+      "artists": [
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "Sada Wada",
+      "url": "https://open.spotify.com/track/3H3a7z10QCCrqAISXi3IU8"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/5SYCXuXbwIYJXzfY8wMdBx"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193595,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/6aW8tSerBes6ozQQHLMhCC"
+    },
+    {
+      "album": {
         "name": "Settle (feat. Seddy Hendrinx)",
         "url": "https://open.spotify.com/album/2OFIv4JASD85jXQCA1Xn0M"
       },
@@ -2321,7 +2573,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 131657,
       "name": "Skelly",
       "url": "https://open.spotify.com/track/05VcUOSLzbyxAAFiBNMFEe"
@@ -2622,6 +2874,24 @@
     },
     {
       "album": {
+        "name": "WITH OR WITHOUT YOU",
+        "url": "https://open.spotify.com/album/34SV634wGtLESb5QalBf32"
+      },
+      "artists": [
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153707,
+      "name": "USED2KNOW",
+      "url": "https://open.spotify.com/track/1AypGrF9hgXuCpvt2b8BEY"
+    },
+    {
+      "album": {
         "name": "VANISH",
         "url": "https://open.spotify.com/album/64SC9qBRHXTwA8bkN5yfVI"
       },
@@ -2695,6 +2965,24 @@
       "duration_ms": 175489,
       "name": "WHAT YOU NEED",
       "url": "https://open.spotify.com/track/1rmnTmLl06RQLJmEpe36ve"
+    },
+    {
+      "album": {
+        "name": "Who Hotter Than Gee",
+        "url": "https://open.spotify.com/album/19tP4MHwgVdq7NprIhIuIp"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135512,
+      "name": "Who Hotter Than Gee",
+      "url": "https://open.spotify.com/track/1VdWvwRPqiWfAUQrUjXIEt"
     },
     {
       "album": {
@@ -2819,6 +3107,28 @@
       "duration_ms": 154291,
       "name": "WOKEUPTHINKINBOUT",
       "url": "https://open.spotify.com/track/3HpRwCE2XIB9u1VXj5R6T9"
+    },
+    {
+      "album": {
+        "name": "YEET (feat. Yeat)",
+        "url": "https://open.spotify.com/album/7eOU7fB1ah7qgyX0LQDEG0"
+      },
+      "artists": [
+        {
+          "name": "Yung Kayo",
+          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "YEET (feat. Yeat)",
+      "url": "https://open.spotify.com/track/19b1RB0jrScAK1MKe3IRnk"
     },
     {
       "album": {

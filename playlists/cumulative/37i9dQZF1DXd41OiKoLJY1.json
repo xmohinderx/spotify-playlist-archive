@@ -378,6 +378,24 @@
     },
     {
       "album": {
+        "name": "F U",
+        "url": "https://open.spotify.com/album/7osZEu80iqISZxgUCUGw8w"
+      },
+      "artists": [
+        {
+          "name": "ise",
+          "url": "https://open.spotify.com/artist/6BIzoSKP2dHDQj9r5X9RjV"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181317,
+      "name": "F U",
+      "url": "https://open.spotify.com/track/5RU0z4eOXYR76fPpHBwCEK"
+    },
+    {
+      "album": {
         "name": "fallinloveagain",
         "url": "https://open.spotify.com/album/4Yi2mg9hG9ijCtMn5iNHV0"
       },
@@ -1715,6 +1733,44 @@
       "duration_ms": 271666,
       "name": "Umasa Pa",
       "url": "https://open.spotify.com/track/5WVZgtrZYW13ldnMpB5k7v"
+    },
+    {
+      "album": {
+        "name": "Walang Gana",
+        "url": "https://open.spotify.com/album/4ZChP6fEK6ulsuUjbSUhsF"
+      },
+      "artists": [
+        {
+          "name": "Zone 24Seven",
+          "url": "https://open.spotify.com/artist/3Y6Hv4el40evxRTUglk8uK"
+        },
+        {
+          "name": "Cisco",
+          "url": "https://open.spotify.com/artist/1hQJe9CyAmPBXJ8Cz0Krnq"
+        },
+        {
+          "name": "El Rios",
+          "url": "https://open.spotify.com/artist/3LDA3FS14KsKU5gv05sgE8"
+        },
+        {
+          "name": "CBAKE$",
+          "url": "https://open.spotify.com/artist/4gb1sxw9cTOxLcVrdshd3q"
+        },
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/2GyDGQ5U2bb2NcHaUXykkT"
+        },
+        {
+          "name": "Shao Lin",
+          "url": "https://open.spotify.com/artist/7mdiFBTvpw94abBvqa9xhW"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339000,
+      "name": "Walang Gana",
+      "url": "https://open.spotify.com/track/3q55zTn6l70JOZ5dDAh2jk"
     },
     {
       "album": {

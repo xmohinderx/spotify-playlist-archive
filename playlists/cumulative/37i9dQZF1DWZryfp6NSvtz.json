@@ -842,6 +842,24 @@
     },
     {
       "album": {
+        "name": "Dead Man's Dream",
+        "url": "https://open.spotify.com/album/1UT4dX7eAFJU7coodDgzvR"
+      },
+      "artists": [
+        {
+          "name": "Painted Shield",
+          "url": "https://open.spotify.com/artist/7kmm4Wi3pbsCHHIYqgYgX9"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Dead Man's Dream",
+      "url": "https://open.spotify.com/track/4UGNJoeYVM8oDd56dJv549"
+    },
+    {
+      "album": {
         "name": "Deadman",
         "url": "https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs"
       },
@@ -1717,16 +1735,16 @@
           "url": "https://open.spotify.com/artist/12MUwEBtTVLjYVsBByUiTc"
         },
         {
-          "name": "Billy Martin",
-          "url": "https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE"
-        },
-        {
           "name": "Zaia",
           "url": "https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz"
         },
         {
           "name": "boyband",
           "url": "https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D"
+        },
+        {
+          "name": "Billy Martin",
+          "url": "https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE"
         }
       ],
       "date_added": "2022-01-27",
@@ -1897,6 +1915,24 @@
       "duration_ms": 180674,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf"
+    },
+    {
+      "album": {
+        "name": "Teenage Ends",
+        "url": "https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Carwash",
+          "url": "https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135270,
+      "name": "I Don't Give A Shit",
+      "url": "https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex"
     },
     {
       "album": {

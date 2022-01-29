@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Terno Rei",
+  "description": "Novidades e destaques do indie nacional. Foto: belina",
   "name": "Indie Brasil",
   "published_playlist_ids": [
     "6JgS0nFYvZfSw5mDRlDbjL"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 217860,
       "name": "Bonan\u00e7a",
       "url": "https://open.spotify.com/track/1oRT7e0Vye8UjUw1ceabPl"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 175294,
       "name": "Certo",
       "url": "https://open.spotify.com/track/5bZpmlDIFiCEGiTLwoUr6A"
@@ -806,6 +806,24 @@
     },
     {
       "album": {
+        "name": "Manh\u00e3",
+        "url": "https://open.spotify.com/album/3DMOTpo9bk0QInn7SJrdD8"
+      },
+      "artists": [
+        {
+          "name": "Walfredo em Busca da Simbiose",
+          "url": "https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242677,
+      "name": "Manh\u00e3",
+      "url": "https://open.spotify.com/track/7IRFP25YUzoVPWuw9mN9KN"
+    },
+    {
+      "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/2Xaylkmc4GnUZIItxxwFD1"
       },
@@ -1044,6 +1062,24 @@
     },
     {
       "album": {
+        "name": "Ningu\u00e9m Me Perguntou",
+        "url": "https://open.spotify.com/album/1PgEp8TGHXMsxFDWcDqVQV"
+      },
+      "artists": [
+        {
+          "name": "lalalaura",
+          "url": "https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Ningu\u00e9m Me Perguntou",
+      "url": "https://open.spotify.com/track/5f0OwJ1g8pGJqPModI6GBC"
+    },
+    {
+      "album": {
         "name": "No Escuro",
         "url": "https://open.spotify.com/album/3SnTf4h0rOS9f6f31wr9P2"
       },
@@ -1142,6 +1178,24 @@
     },
     {
       "album": {
+        "name": "pieces",
+        "url": "https://open.spotify.com/album/66GR0d6Gi5IgzjzrnhwKej"
+      },
+      "artists": [
+        {
+          "name": "Gab Ferreira",
+          "url": "https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "pieces",
+      "url": "https://open.spotify.com/track/4iYclxeZPwL1tVgXkLSb1j"
+    },
+    {
+      "album": {
         "name": "piLLOW dREAMs",
         "url": "https://open.spotify.com/album/1aN7xp1dgvMyAft5llyoox"
       },
@@ -1171,10 +1225,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 206000,
       "name": "Por Enquanto",
       "url": "https://open.spotify.com/track/7Jqb8ZKO0cqj8fewm1A5e3"
+    },
+    {
+      "album": {
+        "name": "Fragmentos 2",
+        "url": "https://open.spotify.com/album/7tsqDAZfHq81EE3i81EOXG"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Pra Curar",
+      "url": "https://open.spotify.com/track/1DIBq09mcWCWuXc0TIqoOx"
     },
     {
       "album": {
@@ -1215,6 +1287,24 @@
       "duration_ms": 207600,
       "name": "Pulsar",
       "url": "https://open.spotify.com/track/75sJgyyoWq8Hz8793E1oIO"
+    },
+    {
+      "album": {
+        "name": "p\u00e9 na areia",
+        "url": "https://open.spotify.com/album/7KSE8ieGnZgM8gfDH0WyYR"
+      },
+      "artists": [
+        {
+          "name": "Matheus Who",
+          "url": "https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256625,
+      "name": "p\u00e9 na areia",
+      "url": "https://open.spotify.com/track/2n2NLaRHgCUNIK6vQIyVEu"
     },
     {
       "album": {
@@ -1323,7 +1413,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 179340,
       "name": "Ruka",
       "url": "https://open.spotify.com/track/5PVAuU1agtdRhqLGVJl72r"
@@ -1429,7 +1519,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 212500,
       "name": "Selvagem",
       "url": "https://open.spotify.com/track/5XN0BlnsNTaqIAytr4QNAe"
@@ -1597,6 +1687,24 @@
       "duration_ms": 267027,
       "name": "Teu Corre",
       "url": "https://open.spotify.com/track/7xxgsPQZJEha6c588wZSAi"
+    },
+    {
+      "album": {
+        "name": "belina",
+        "url": "https://open.spotify.com/album/5VDXgZ7XDtKsZwMWNPUA21"
+      },
+      "artists": [
+        {
+          "name": "belina",
+          "url": "https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "toda vez",
+      "url": "https://open.spotify.com/track/6eGRkZG3JJkzBm1QTGYpkX"
     },
     {
       "album": {

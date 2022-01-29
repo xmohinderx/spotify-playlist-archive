@@ -1,13 +1,45 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Nas",
-  "num_followers": 1019816,
+  "num_followers": 1020143,
   "original_name": "Mellow Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc0MTIwMCwwMDAwMDE5MDAwMDAwMTdlN2IwMTc1MzUwMDAwMDE3ZTMxNTZlODY4",
+  "snapshot_id": "MTY0MzQwMTgzNiwwMDAwMDE5MzAwMDAwMTdlYTI2MWY1ZTYwMDAwMDE3ZTMxNTZlODY4",
   "tracks": [
+    {
+      "added_at": "2022-01-28 20:27:54",
+      "album": {
+        "name": "vice city",
+        "url": "https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 220708,
+      "name": "vice city",
+      "url": "https://open.spotify.com/track/6MOst484piqXpzPPRRe8i5"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "From a Birds Eye View",
+        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 193168,
+      "name": "C Carter",
+      "url": "https://open.spotify.com/track/37kW9eEI0EJFM0ip2mf1Wy"
+    },
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
@@ -25,6 +57,26 @@
       "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
     },
     {
+      "added_at": "2022-01-28 20:30:35",
+      "album": {
+        "name": "Richer Than I Ever Been (Deluxe)",
+        "url": "https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 236799,
+      "name": "Not For Nothing (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE"
+    },
+    {
       "added_at": "2022-01-14 05:00:00",
       "album": {
         "name": "Lyrics to GO, Vol. 3",
@@ -39,22 +91,6 @@
       "duration_ms": 142281,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/72W07qFR4D8v0vcAuWoanj"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "From a Birds Eye View",
-        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
-      },
-      "artists": [
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 193168,
-      "name": "C Carter",
-      "url": "https://open.spotify.com/track/37kW9eEI0EJFM0ip2mf1Wy"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -87,6 +123,22 @@
       "duration_ms": 158050,
       "name": "RIP Young",
       "url": "https://open.spotify.com/track/6BiCjPFN5rM9JPy5eP5mCs"
+    },
+    {
+      "added_at": "2022-01-28 20:30:35",
+      "album": {
+        "name": "Walkin",
+        "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 280004,
+      "name": "Walkin",
+      "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -1851,54 +1903,6 @@
       "duration_ms": 191481,
       "name": "Peaks N Pitfalls",
       "url": "https://open.spotify.com/track/0tk5j9BcmGEzdRziv2U8aR"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "Cog In The Machine",
-        "url": "https://open.spotify.com/album/5ywReKkEKlEDlKA4FS7ivi"
-      },
-      "artists": [
-        {
-          "name": "Bobby Sessions",
-          "url": "https://open.spotify.com/artist/1URwpSLjCBhRjnw4SUwNyL"
-        }
-      ],
-      "duration_ms": 224118,
-      "name": "Cog In The Machine",
-      "url": "https://open.spotify.com/track/0eXWlSwrzgd7mtFZQr68LW"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "Meant To Put A Hook",
-        "url": "https://open.spotify.com/album/4KFqNsknXZpc62mTylzKgh"
-      },
-      "artists": [
-        {
-          "name": "Doley Bernays",
-          "url": "https://open.spotify.com/artist/16WMnfMmfhqT4XWD9bkPch"
-        }
-      ],
-      "duration_ms": 251935,
-      "name": "Meant To Put A Hook",
-      "url": "https://open.spotify.com/track/1rQiJnPlBpQX7KpZY3AgDL"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "TV Boy",
-        "url": "https://open.spotify.com/album/13qSQpWNff7wrA9oghJkJo"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        }
-      ],
-      "duration_ms": 146751,
-      "name": "TV Boy",
-      "url": "https://open.spotify.com/track/3JRFhq8N3N8sBlm6Y8upPm"
     }
   ],
   "unique_name": "Mellow Bars",

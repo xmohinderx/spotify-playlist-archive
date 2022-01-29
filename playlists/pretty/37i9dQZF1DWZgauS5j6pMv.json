@@ -1,13 +1,97 @@
 {
-  "description": "The best of today's funk. Cover: Thundercat",
-  "num_followers": 232295,
+  "description": "The best of today's funk. Cover: Tank and The Bangas",
+  "num_followers": 232661,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc0MTMyMCwwMDAwMDA2YjAwMDAwMTdlN2IwMzQ5OTIwMDAwMDE3ZDk1YTU4ZGY1",
+  "snapshot_id": "MTY0MzM5NzI5MCwwMDAwMDA2ZDAwMDAwMTdlYTIxYzlhMjcwMDAwMDE3ZTlkZjNlYjYw",
   "tracks": [
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "No ID",
+        "url": "https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 191088,
+      "name": "No ID",
+      "url": "https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Water 4 The Soul II",
+        "url": "https://open.spotify.com/album/7AjqMjfxFB7r5ZX1UyEMU9"
+      },
+      "artists": [
+        {
+          "name": "Gramatik",
+          "url": "https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5"
+        },
+        {
+          "name": "Stehreo",
+          "url": "https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9"
+        }
+      ],
+      "duration_ms": 215454,
+      "name": "Wagmi Express",
+      "url": "https://open.spotify.com/track/6i8fTrSzxLV9fEGZnOog8P"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Here You Are",
+        "url": "https://open.spotify.com/album/5FLfZyi6mP2tvQJjmcSqpL"
+      },
+      "artists": [
+        {
+          "name": "Lukas Setto",
+          "url": "https://open.spotify.com/artist/1qQsGVTeXPtTvAgvDd5SHZ"
+        }
+      ],
+      "duration_ms": 188841,
+      "name": "Here You Are",
+      "url": "https://open.spotify.com/track/6YcJnWoaxItHyPUNuYo1fr"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 193877,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/15tuK1pTwQdy3GQH0OaBJ8"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "henny & patron",
+        "url": "https://open.spotify.com/album/6vHrw5zCi73swThT9N4EIP"
+      },
+      "artists": [
+        {
+          "name": "Ben Yen",
+          "url": "https://open.spotify.com/artist/4IcZa7gtPIs352dbFVBjgZ"
+        }
+      ],
+      "duration_ms": 138840,
+      "name": "henny & patron",
+      "url": "https://open.spotify.com/track/4M2V3bNCMeOAgTCpAQckP5"
+    },
     {
       "added_at": "2022-01-07 05:02:00",
       "album": {
@@ -665,22 +749,6 @@
       "url": "https://open.spotify.com/track/7IHToAweRwCubhQLs0Vy48"
     },
     {
-      "added_at": "2021-07-23 04:01:00",
-      "album": {
-        "name": "Sgt Culpepper",
-        "url": "https://open.spotify.com/album/43mTFLfF5mNMhuA7MtDcSi"
-      },
-      "artists": [
-        {
-          "name": "Joel Culpepper",
-          "url": "https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs"
-        }
-      ],
-      "duration_ms": 257291,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/2m0fbba1YFzmXebHImHaNy"
-    },
-    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "Free the Night",
@@ -821,22 +889,6 @@
       "url": "https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA"
     },
     {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Mass Appeal",
-        "url": "https://open.spotify.com/album/4qFW7nJYWxpSjgcipscqv7"
-      },
-      "artists": [
-        {
-          "name": "Daron.",
-          "url": "https://open.spotify.com/artist/1VjgVjThC1RxttpTp9kT0i"
-        }
-      ],
-      "duration_ms": 177631,
-      "name": "Mass Appeal",
-      "url": "https://open.spotify.com/track/1o8M06Dkv4z2n2AOG1jMLM"
-    },
-    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "M\u00e9lange",
@@ -885,74 +937,6 @@
       "url": "https://open.spotify.com/track/5BzqDmHDbC8OFOiSiSf3mr"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Pocket",
-        "url": "https://open.spotify.com/album/4wwpEMqsM5iiNcvAi3kVZi"
-      },
-      "artists": [
-        {
-          "name": "KONL",
-          "url": "https://open.spotify.com/artist/4GqeovkUhMsSvFkHVshwS0"
-        }
-      ],
-      "duration_ms": 200986,
-      "name": "Pocket",
-      "url": "https://open.spotify.com/track/7a4uiLnvLP33EPvGDn5YXA"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/4peKAwsBT7Tct2QcZqAXtG"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        },
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 205429,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/43XQxLhbUFqqCtRYiKCdCx"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "HUH?",
-        "url": "https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "HUH?",
-      "url": "https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Pursuit of Happiness",
-        "url": "https://open.spotify.com/album/5Sz85muMZBfGGF07GzQkAn"
-      },
-      "artists": [
-        {
-          "name": "The Philharmonik",
-          "url": "https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi"
-        }
-      ],
-      "duration_ms": 257006,
-      "name": "Pursuit of Happiness",
-      "url": "https://open.spotify.com/track/0Kbf68ffqkVcoZXPqVpD9j"
-    },
-    {
       "added_at": "2021-09-24 04:02:00",
       "album": {
         "name": "Drunk",
@@ -987,94 +971,6 @@
       "duration_ms": 189357,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG"
-    },
-    {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "No Apologies",
-        "url": "https://open.spotify.com/album/3lmXNWYkfVeHb6hDQlzRf3"
-      },
-      "artists": [
-        {
-          "name": "Cocoa Sarai",
-          "url": "https://open.spotify.com/artist/5Rh6PMrlYoyU5xhR36YAfX"
-        }
-      ],
-      "duration_ms": 158645,
-      "name": "No Apologies",
-      "url": "https://open.spotify.com/track/34xXBHLrnUS2QzE6J5Et8G"
-    },
-    {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Back Home with U",
-        "url": "https://open.spotify.com/album/5Mau3t5Froziwhri1tNC1i"
-      },
-      "artists": [
-        {
-          "name": "Mark Evich",
-          "url": "https://open.spotify.com/artist/6d8SyjLbCID5uFLNsluXfk"
-        }
-      ],
-      "duration_ms": 195593,
-      "name": "Back Home with U",
-      "url": "https://open.spotify.com/track/0s7Nq5EQHDLivLKU7IWwF9"
-    },
-    {
-      "added_at": "2021-06-18 04:01:00",
-      "album": {
-        "name": "Moments We Share",
-        "url": "https://open.spotify.com/album/1etOlL757UIGiYb3kFKlFN"
-      },
-      "artists": [
-        {
-          "name": "Deep Aztec",
-          "url": "https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw"
-        }
-      ],
-      "duration_ms": 200151,
-      "name": "Moments We Share",
-      "url": "https://open.spotify.com/track/052gcgPQL6p1XXenRhDl4b"
-    },
-    {
-      "added_at": "2021-06-04 04:01:00",
-      "album": {
-        "name": "The Shave Experiment (Director's Cut)",
-        "url": "https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 218994,
-      "name": "It Won't Get Ya",
-      "url": "https://open.spotify.com/track/53KuZto0guJ4qCSoNHgFfW"
-    },
-    {
-      "added_at": "2021-06-04 04:01:00",
-      "album": {
-        "name": "Give It Up (Don't Take Part in the Madness) [Abstract Orchestra Remix]",
-        "url": "https://open.spotify.com/album/3ISsFYJgRBaxWdseqzBENc"
-      },
-      "artists": [
-        {
-          "name": "The Haggis Horns",
-          "url": "https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu"
-        },
-        {
-          "name": "Abstract Orchestra",
-          "url": "https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp"
-        },
-        {
-          "name": "John McCallum",
-          "url": "https://open.spotify.com/artist/7j7wBKS8M29EIYXsAPIoP4"
-        }
-      ],
-      "duration_ms": 257917,
-      "name": "Give It up (Don't Take Part in the Madness) - Abstract Orchestra Remix",
-      "url": "https://open.spotify.com/track/4JyAYQAtaexWAjvu1zFEqU"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -1125,22 +1021,6 @@
       "url": "https://open.spotify.com/track/4gcO8PD4skPOBneayOCBdE"
     },
     {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Speechless",
-        "url": "https://open.spotify.com/album/2QWhgvAIJJwt6HJCO5lwSh"
-      },
-      "artists": [
-        {
-          "name": "1Farshad",
-          "url": "https://open.spotify.com/artist/3wsKwPBWcpDMfNaVDUYpM0"
-        }
-      ],
-      "duration_ms": 266375,
-      "name": "Speechless",
-      "url": "https://open.spotify.com/track/02E9V5uxxsRT0uVtHY9SPA"
-    },
-    {
       "added_at": "2021-04-30 04:01:00",
       "album": {
         "name": "Justice",
@@ -1155,46 +1035,6 @@
       "duration_ms": 284005,
       "name": "Justice",
       "url": "https://open.spotify.com/track/0gQdWh2u1RqcRCVwmzKnjo"
-    },
-    {
-      "added_at": "2020-11-20 04:01:00",
-      "album": {
-        "name": "Dragonball Durag (Remix)",
-        "url": "https://open.spotify.com/album/4pjJMjf9P4ZrRoGuGrdUQg"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        }
-      ],
-      "duration_ms": 221098,
-      "name": "Dragonball Durag - Remix",
-      "url": "https://open.spotify.com/track/1PrVLmXkJjh2vEhmBEKLeM"
-    },
-    {
-      "added_at": "2021-05-28 04:00:00",
-      "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/3AqLlB80sloKlgipS9UJ1z"
-      },
-      "artists": [
-        {
-          "name": "Freekbass",
-          "url": "https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch"
-        }
-      ],
-      "duration_ms": 155748,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/3QWAJIKolXy48uNu5Arms2"
     },
     {
       "added_at": "2021-04-02 04:01:00",
@@ -1237,42 +1077,6 @@
       "url": "https://open.spotify.com/track/5otpV1DM4XIBHo77qnBAHd"
     },
     {
-      "added_at": "2021-05-07 04:01:00",
-      "album": {
-        "name": "Forever Isn't Long Enough",
-        "url": "https://open.spotify.com/album/25LHRDp5Wbc0fJilUkf04W"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 196039,
-      "name": "Wait, I Lied",
-      "url": "https://open.spotify.com/track/1INnYwu9Zn4odIzxyEAGqf"
-    },
-    {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "The Best [Thank Ya]",
-        "url": "https://open.spotify.com/album/4krcnptk9iREFAMDDUn6uq"
-      },
-      "artists": [
-        {
-          "name": "Darryl Jordan",
-          "url": "https://open.spotify.com/artist/07rLy29kxUhgrXwXL8p7jt"
-        },
-        {
-          "name": "Audiodidakt",
-          "url": "https://open.spotify.com/artist/70A1kkCuxeRQhLDNXxMEUO"
-        }
-      ],
-      "duration_ms": 264827,
-      "name": "The Best [Thank Ya]",
-      "url": "https://open.spotify.com/track/0bLitJYSlhJBXKcVU52Ra3"
-    },
-    {
       "added_at": "2021-04-23 04:01:00",
       "album": {
         "name": "Misbehavin",
@@ -1291,22 +1095,6 @@
       "duration_ms": 182000,
       "name": "Misbehavin",
       "url": "https://open.spotify.com/track/5UUri9iMQ2azakPfszxSmI"
-    },
-    {
-      "added_at": "2021-04-16 04:00:00",
-      "album": {
-        "name": "Wasting Time",
-        "url": "https://open.spotify.com/album/1l45FmdRw6IPM0jjDMd2fq"
-      },
-      "artists": [
-        {
-          "name": "Yun Head",
-          "url": "https://open.spotify.com/artist/3nIuVGstklsvoHOIvULcCe"
-        }
-      ],
-      "duration_ms": 133707,
-      "name": "Wasting Time",
-      "url": "https://open.spotify.com/track/6qwwMUQBq2yy2bqBejBCIc"
     },
     {
       "added_at": "2021-03-05 05:01:00",
@@ -1379,50 +1167,6 @@
       "duration_ms": 157963,
       "name": "twofaces",
       "url": "https://open.spotify.com/track/75BzES3PZtvAw3R09DpcCg"
-    },
-    {
-      "added_at": "2021-02-09 01:22:28",
-      "album": {
-        "name": "Homegrown",
-        "url": "https://open.spotify.com/album/6D701PBk88ecP19udi4EJj"
-      },
-      "artists": [
-        {
-          "name": "VanJess",
-          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
-        },
-        {
-          "name": "Phony Ppl",
-          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "Caught Up (feat. Phony Ppl)",
-      "url": "https://open.spotify.com/track/0rvxWzdAmOr6hzBPyLxFvR"
-    },
-    {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "common sense",
-        "url": "https://open.spotify.com/album/0dsFIldaIJMwx0eGeXE7N2"
-      },
-      "artists": [
-        {
-          "name": "d.r.w.s.",
-          "url": "https://open.spotify.com/artist/1M7hE1Aey8aOROKiJg847K"
-        },
-        {
-          "name": "KOLE",
-          "url": "https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8"
-        },
-        {
-          "name": "Ariza",
-          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
-        }
-      ],
-      "duration_ms": 214487,
-      "name": "common sense",
-      "url": "https://open.spotify.com/track/2hypebb8hlTmlR011pxf7k"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -1791,22 +1535,6 @@
     {
       "added_at": "2020-11-20 04:01:00",
       "album": {
-        "name": "Back to You",
-        "url": "https://open.spotify.com/album/3skjQkVXmsL0WH3ofwBC7F"
-      },
-      "artists": [
-        {
-          "name": "Relyae",
-          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
-        }
-      ],
-      "duration_ms": 158910,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/11jaQjvBZw1HR6bgtbcBNU"
-    },
-    {
-      "added_at": "2020-11-20 04:01:00",
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/4SBEvfxXZnMjzcUr5hi7ir"
       },
@@ -1843,50 +1571,6 @@
       "duration_ms": 192446,
       "name": "Thing for You",
       "url": "https://open.spotify.com/track/2OLD64kN8JzvNn3Aar7O26"
-    },
-    {
-      "added_at": "2020-11-20 04:01:00",
-      "album": {
-        "name": "Jam On",
-        "url": "https://open.spotify.com/album/2pf5YXATqLlqx7R0eMRKRg"
-      },
-      "artists": [
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Brandon \"TAZ\" Niederauer",
-          "url": "https://open.spotify.com/artist/2bmHKyjcdyqTMUxVbhZJth"
-        }
-      ],
-      "duration_ms": 302560,
-      "name": "Jam On",
-      "url": "https://open.spotify.com/track/0qDpUNoPqMV4aTiVepqXOQ"
-    },
-    {
-      "added_at": "2020-11-20 04:01:00",
-      "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 176036,
-      "name": "What Can We Do? (feat. Nate Dogg)",
-      "url": "https://open.spotify.com/track/0kOxmoYqRXjAnc5ZfQ6TIs"
     },
     {
       "added_at": "2020-11-20 04:01:00",
@@ -2031,22 +1715,6 @@
     {
       "added_at": "2020-11-20 04:01:00",
       "album": {
-        "name": "Now, Not Yet",
-        "url": "https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "arrow",
-      "url": "https://open.spotify.com/track/6HGDxEtcoUsztb2xeVOXTP"
-    },
-    {
-      "added_at": "2020-11-20 04:01:00",
-      "album": {
         "name": "you are simply magnificent",
         "url": "https://open.spotify.com/album/142xWFT6czL750LBQbpeHw"
       },
@@ -2107,26 +1775,6 @@
       "duration_ms": 256786,
       "name": "Sleeping On My Dreams",
       "url": "https://open.spotify.com/track/1hVogn7kHppd5WkaWvFHIK"
-    },
-    {
-      "added_at": "2020-11-20 04:01:00",
-      "album": {
-        "name": "Sankofa Song",
-        "url": "https://open.spotify.com/album/23tozi7NYHGQkjgH7URU8U"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ashong",
-          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
-        },
-        {
-          "name": "Kaidi Tatham",
-          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
-        }
-      ],
-      "duration_ms": 325672,
-      "name": "Sankofa Song",
-      "url": "https://open.spotify.com/track/1KJ15sDM1TVsTdLuV6pL4U"
     },
     {
       "added_at": "2020-11-20 04:01:00",

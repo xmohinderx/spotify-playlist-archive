@@ -1,12 +1,12 @@
 {
   "description": "shake it up and let it pop! cover: AJR",
-  "num_followers": 186954,
+  "num_followers": 187018,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc0MTIwMCwwMDAwMDA4ZjAwMDAwMTdlN2IwMTc1NDYwMDAwMDE3ZTdhMmJhMDAy",
+  "snapshot_id": "MTY0MzQwMDM2OSwwMDAwMDA5MTAwMDAwMTdlYTI0Yjk2M2IwMDAwMDE3ZTdhMmJhMDAy",
   "tracks": [
     {
       "added_at": "2022-01-14 20:45:04",
@@ -25,6 +25,42 @@
       "url": "https://open.spotify.com/track/5cBLBXhU9sf6kGvb2Dv2cl"
     },
     {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "After the Tone",
+        "url": "https://open.spotify.com/album/7MfUuta1xlJMFfNZh3TAPT"
+      },
+      "artists": [
+        {
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
+        },
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 142636,
+      "name": "After the Tone",
+      "url": "https://open.spotify.com/track/3JK6Fyd3DjaThmIjDAUPBm"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "26",
+        "url": "https://open.spotify.com/album/2pPSHoIampOxsEPMsah6RG"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "26",
+      "url": "https://open.spotify.com/track/0du67LyuJeUjQChxl8rTa8"
+    },
+    {
       "added_at": "2022-01-14 20:45:04",
       "album": {
         "name": "Shut Off The Lights",
@@ -41,20 +77,20 @@
       "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
+      "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "plz don't waste my youth",
-        "url": "https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp"
+        "name": "High",
+        "url": "https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP"
       },
       "artists": [
         {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         }
       ],
-      "duration_ms": 183730,
-      "name": "plz don't waste my youth",
-      "url": "https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X"
+      "duration_ms": 175163,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -73,6 +109,22 @@
       "url": "https://open.spotify.com/track/6FXQ9ghvyzV2zYlUEie5BH"
     },
     {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "How A Man Dies",
+        "url": "https://open.spotify.com/album/1lToLshywdyoNMqRqUWDHg"
+      },
+      "artists": [
+        {
+          "name": "FRENSHIP",
+          "url": "https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH"
+        }
+      ],
+      "duration_ms": 214225,
+      "name": "How A Man Dies",
+      "url": "https://open.spotify.com/track/0MiKxRkGK127P3liLJ8qYt"
+    },
+    {
       "added_at": "2022-01-14 20:45:04",
       "album": {
         "name": "GROWING UP IS _____",
@@ -89,6 +141,26 @@
       "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY"
     },
     {
+      "added_at": "2022-01-14 20:45:04",
+      "album": {
+        "name": "Record Player (with AJR)",
+        "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
+      },
+      "artists": [
+        {
+          "name": "Daisy the Great",
+          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
+        },
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Record Player (with AJR)",
+      "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
+    },
+    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "Someone To You",
@@ -103,6 +175,102 @@
       "duration_ms": 200111,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/0X48tmPQTHN2vtoyAnJK8M"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Dead Man Walking",
+        "url": "https://open.spotify.com/album/5d4OHlY3hciR9R7QKBK2vF"
+      },
+      "artists": [
+        {
+          "name": "Lost Stars",
+          "url": "https://open.spotify.com/artist/22LWBhZGE9ycuFtLV6jJYG"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/2ol8FEyh73HwRoirGIbNh8"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "plz don't waste my youth",
+        "url": "https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp"
+      },
+      "artists": [
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 183730,
+      "name": "plz don't waste my youth",
+      "url": "https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Cutie",
+        "url": "https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2"
+      },
+      "artists": [
+        {
+          "name": "COIN",
+          "url": "https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE"
+        }
+      ],
+      "duration_ms": 184315,
+      "name": "Cutie",
+      "url": "https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW"
+    },
+    {
+      "added_at": "2022-01-14 20:45:04",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-01-28 20:06:09",
+      "album": {
+        "name": "Ribbon Around The Bomb",
+        "url": "https://open.spotify.com/album/3VZZs7wrm6CME7Fk82NRyj"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 154466,
+      "name": "Ribbon Around The Bomb",
+      "url": "https://open.spotify.com/track/1xeUlQsm3i9aAry71kXbhY"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Icee Pop",
+        "url": "https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7"
+      },
+      "artists": [
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "duration_ms": 147555,
+      "name": "Icee Pop",
+      "url": "https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE"
     },
     {
       "added_at": "2022-01-14 20:45:04",
@@ -177,40 +345,20 @@
       "url": "https://open.spotify.com/track/697MdxMbVWn1Ajbw8iaPv5"
     },
     {
-      "added_at": "2022-01-14 20:45:04",
+      "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+        "name": "Apocalypse Whenever",
+        "url": "https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Bad Suns",
+          "url": "https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "Record Player (with AJR)",
-        "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
-      },
-      "artists": [
-        {
-          "name": "Daisy the Great",
-          "url": "https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB"
-        },
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Record Player (with AJR)",
-      "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
+      "duration_ms": 259323,
+      "name": "Symphony Of Lights",
+      "url": "https://open.spotify.com/track/65uoNTX681VJpRyuVSWSdd"
     },
     {
       "added_at": "2022-01-14 20:45:04",
@@ -493,22 +641,6 @@
       "url": "https://open.spotify.com/track/0mVN8iLSLo85x3dIeHWz7C"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
-      "album": {
-        "name": "Things In The Way",
-        "url": "https://open.spotify.com/album/3uZsMBgZ9xSJDHMmxPaTlJ"
-      },
-      "artists": [
-        {
-          "name": "Porsh Bet$",
-          "url": "https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4"
-        }
-      ],
-      "duration_ms": 159980,
-      "name": "Things In The Way",
-      "url": "https://open.spotify.com/track/1IgXO5HhDA3Cnxo5Et9Da8"
-    },
-    {
       "added_at": "2022-01-14 20:45:04",
       "album": {
         "name": "Win Anyway",
@@ -639,22 +771,6 @@
     {
       "added_at": "2022-01-14 20:45:04",
       "album": {
-        "name": "crush ep",
-        "url": "https://open.spotify.com/album/0wAREY5FAZoaJxOO4hMRRD"
-      },
-      "artists": [
-        {
-          "name": "goth gf",
-          "url": "https://open.spotify.com/artist/2ce5F0dH7nyfvn4nw0W5A1"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "come over",
-      "url": "https://open.spotify.com/track/02p62D2ipPf8gPBRco5IOu"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
         "name": "Die Right Here",
         "url": "https://open.spotify.com/album/5AYf4H1ZSeVznqc6nuPm89"
       },
@@ -747,26 +863,6 @@
       "duration_ms": 182475,
       "name": "Semi Pro",
       "url": "https://open.spotify.com/track/5pAEaufx5VFIl8ct3kWtOt"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "Worlds Unluckiest Guy",
-        "url": "https://open.spotify.com/album/4VcdfESFWY9Ay5f9CrQ6cS"
-      },
-      "artists": [
-        {
-          "name": "Swim Deep",
-          "url": "https://open.spotify.com/artist/2XddLUPFBmTonCFy8uB3uc"
-        },
-        {
-          "name": "Hatchie",
-          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
-        }
-      ],
-      "duration_ms": 245680,
-      "name": "Worlds Unluckiest Guy",
-      "url": "https://open.spotify.com/track/2mS2mLKQUqmP3i2I852i1M"
     },
     {
       "added_at": "2022-01-14 20:45:04",
@@ -915,22 +1011,6 @@
     {
       "added_at": "2022-01-14 20:45:04",
       "album": {
-        "name": "Wait Until Tomorrow",
-        "url": "https://open.spotify.com/album/3AmSSmr8GhByvmWa3VYUEF"
-      },
-      "artists": [
-        {
-          "name": "Wilmah",
-          "url": "https://open.spotify.com/artist/3alzUqwOo4TgcCuzQKME9J"
-        }
-      ],
-      "duration_ms": 186063,
-      "name": "Wait Until Tomorrow",
-      "url": "https://open.spotify.com/track/753YTuoNXuJjBcUo6yW9R6"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
         "name": "anxiety.",
         "url": "https://open.spotify.com/album/4jQXsSUMXkFzUBdUs1nRxa"
       },
@@ -1011,22 +1091,6 @@
       "duration_ms": 131408,
       "name": "spinnin",
       "url": "https://open.spotify.com/track/0yB9bFHPntWhj0iJoVFkDm"
-    },
-    {
-      "added_at": "2022-01-14 20:45:04",
-      "album": {
-        "name": "Just Kids",
-        "url": "https://open.spotify.com/album/3ZRCZAbU3XqFIZ8xxZI8oB"
-      },
-      "artists": [
-        {
-          "name": "Zach Hood",
-          "url": "https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U"
-        }
-      ],
-      "duration_ms": 144438,
-      "name": "Just Kids",
-      "url": "https://open.spotify.com/track/4jLiu89QIhVwAES7bvSpWk"
     },
     {
       "added_at": "2022-01-14 20:45:04",

@@ -2,7 +2,7 @@
 
 ### [Beats & Rhymes](https://open.spotify.com/playlist/5iCL6Bkh9tey5devRFvQcq)
 
-> The hottest Hip\-Hop of today all over the world\.  \(Cover: Rich Brian, Warren Hue\)
+> The hottest Hip\-Hop of today all over the world\.  \(Cover: Nigo, A$AP Rocky\)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [All Eyes On Me](https://open.spotify.com/track/3EgG8FCbyTpVBU0BgDpiMF) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [All Eyes On Me](https://open.spotify.com/album/29k0P1t3FOjhpQqBI1Ovza) | 4:00 | 2022-01-20 |  |
 | [ALL NIGHT](https://open.spotify.com/track/1kZs4gceUzWIvW2WIyqete) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp), [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [CHAPTER II: SELF](https://open.spotify.com/album/3RGxtqcYERL88PX0FmNw4A) | 2:41 | 2022-01-20 | 2022-01-28 |
 | [Apartment 308](https://open.spotify.com/track/33gReiJb6djL4Dq0ImETti) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA), [Young Jin](https://open.spotify.com/artist/5GEcTlDT5qgsxEBBMoKyhY) | [Apartment 308](https://open.spotify.com/album/3h6TXRBmzftPfqvKf0XuL3) | 3:28 | 2022-01-20 |  |
+| [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 | 2022-01-28 |  |
 | [Back It Up](https://open.spotify.com/track/4ooLeGJxmJ89FwaqojgI0D) | [Popp Hunna](https://open.spotify.com/artist/3fyhhXHbGVLuSHFk2SYx4I) | [Back It Up](https://open.spotify.com/album/1lIkzEoKntwg8tmg16xLXL) | 2:38 | 2022-01-20 |  |
 | [Bad Loves Business](https://open.spotify.com/track/2uGQCa5K0fY146EdbNM2eN) | [Januarta The Goat](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc), [Keilandboi](https://open.spotify.com/artist/556Ux8bsLTnvZtm8ZjuAIT) | [Bad Loves Business](https://open.spotify.com/album/15cdywQYEmLfBYHf1XNApI) | 3:20 | 2022-01-27 |  |
 | [Balance](https://open.spotify.com/track/7r3nBTiOQKtP8tZlYW7CNo) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n) | [Balance](https://open.spotify.com/album/6IfwwaK5dpDy5wme3Azmbt) | 3:10 | 2022-01-27 |  |
@@ -69,6 +70,7 @@
 | [Myself](https://open.spotify.com/track/7tsNi8goGCNC6evPolqs0b) | [FABD](https://open.spotify.com/artist/31oeYPedW4SdPumsV9936x), [Montrealways](https://open.spotify.com/artist/3m1PSRpCJ7tHzxKTQUBY97), [Amalia and Nino Flamenco](https://open.spotify.com/artist/3xxh1pZMrFmT10VBJyzhLq) | [Myself](https://open.spotify.com/album/3QysGsRLV0fS0hb9uuRdyS) | 3:18 | 2022-01-27 |  |
 | [Never Give Up \(feat\. Steven Zaire\)](https://open.spotify.com/track/6w0wpX2dZTZSdGpOeZKwgw) | [Lu\-Kusa Woe](https://open.spotify.com/artist/5DGeTDECSuzKX8gn0hccZE), [Steven Zaire](https://open.spotify.com/artist/4OL7u6UUq4rbttihL8AhBI) | [Never Give Up \(feat\. Steven Zaire\)](https://open.spotify.com/album/79NtppICeKqi1eW9qliQdD) | 3:19 | 2022-01-20 |  |
 | [NEW TRICKS: ART, AESTHETICS, AND MONEY](https://open.spotify.com/track/07kpHrIhO1NPGmU0qaAm60) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [NEW TRICKS: ART, AESTHETICS, AND MONEY](https://open.spotify.com/album/0ayS1mFnBoFAdcbEo0KTZs) | 3:09 | 2022-01-27 |  |
+| [Not For Nothing \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Richer Than I Ever Been \(Deluxe\)](https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH) | 3:56 | 2022-01-28 |  |
 | [Not The Same God As Mine](https://open.spotify.com/track/40UUA98SbhyPmhJJm3KgYs) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Not The Same God As Mine](https://open.spotify.com/album/6FOe6OxItoBp8M9uQKO6ke) | 2:44 | 2022-01-20 | 2022-01-28 |
 | [NOTHING LIKE IT](https://open.spotify.com/track/3osAg4pfAwOznQFH6wpsFs) | [RUNXGUN](https://open.spotify.com/artist/4o5J4GkzULwVnupOfcmRPI) | [SUPER C](https://open.spotify.com/album/3O2hQKdG8C4eIJJoHzhfVX) | 3:14 | 2022-01-20 |  |
 | [Numero Uno](https://open.spotify.com/track/2gw18LNTvCUs0ZTe9o5qA4) | [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Numero Uno](https://open.spotify.com/album/0J6j1u17JUkTGFqi9ccTiM) | 2:13 | 2022-01-20 |  |

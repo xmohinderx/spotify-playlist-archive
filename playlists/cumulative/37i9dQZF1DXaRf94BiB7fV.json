@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 258000,
       "name": "Baju Band",
       "url": "https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 179827,
       "name": "Bas Tera",
       "url": "https://open.spotify.com/track/7CSS0xHIkponmi2kJOr5qH"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 144750,
       "name": "games with my heart",
       "url": "https://open.spotify.com/track/4VRB0HAmowcN28VJOS8YQY"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 324000,
       "name": "Gaye Mausam",
       "url": "https://open.spotify.com/track/3tkw3LmAmZxjfUmIhUToVY"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 387962,
       "name": "Hope",
       "url": "https://open.spotify.com/track/300axL2BgjBWYPJpYjPYxm"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 208800,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/5FNT87UIyz9TehAbTpAdUW"
@@ -1519,7 +1519,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 311320,
       "name": "Kahaniya",
       "url": "https://open.spotify.com/track/3YrWCnT9NPKKFqd2JvBeVm"
@@ -1591,7 +1591,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 166707,
       "name": "Khwaabon",
       "url": "https://open.spotify.com/track/4uP0X4Q6RpUlQpbLwVpZAC"
@@ -1815,7 +1815,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 149463,
       "name": "Lilith's Daughter",
       "url": "https://open.spotify.com/track/7tj59KWpOBTTIi9lM7BWpO"
@@ -2073,7 +2073,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 229253,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m"
@@ -2127,7 +2127,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 223269,
       "name": "Naina",
       "url": "https://open.spotify.com/track/5SJ6qJaUj9jXLqRJzmUxQF"
@@ -2229,7 +2229,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 245454,
       "name": "One Time Paradise",
       "url": "https://open.spotify.com/track/5qE3rPpPIn27F8E6zadEHr"
@@ -2319,7 +2319,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 276205,
       "name": "Pehra",
       "url": "https://open.spotify.com/track/1MVhlOgfAGplNo91TmjSuA"
@@ -2409,7 +2409,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 299098,
       "name": "Raat Guzar Jayegi",
       "url": "https://open.spotify.com/track/7xeE7hMmfs3K3IgmYmNmZR"
@@ -2730,6 +2730,24 @@
     },
     {
       "album": {
+        "name": "Sarphira",
+        "url": "https://open.spotify.com/album/72G91MGoSt0p0pLZz6siU6"
+      },
+      "artists": [
+        {
+          "name": "Abhishek Toor",
+          "url": "https://open.spotify.com/artist/66J3N2wLvIaDL41HhdEJTu"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Sarphira",
+      "url": "https://open.spotify.com/track/1GQRJjhkgiU3QXMENyBLQl"
+    },
+    {
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/09dDyVfWJ54Pg7OBlvnx1y"
       },
@@ -2803,7 +2821,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 244071,
       "name": "Shampoo Bottle",
       "url": "https://open.spotify.com/track/2bKEG2fGHmWjdCfZAyfNdf"
@@ -2847,7 +2865,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 157996,
       "name": "Shmoyo",
       "url": "https://open.spotify.com/track/1WQP1or3glFCXXndPi3EbW"
@@ -2963,7 +2981,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 190199,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5bOwnBLmVtmhvCX4xH6aLa"
@@ -3079,7 +3097,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 205090,
       "name": "Tell me",
       "url": "https://open.spotify.com/track/6ajDLytZHTxhJ7Z2effAjs"
@@ -3101,6 +3119,28 @@
       "duration_ms": 198750,
       "name": "Tere Bin",
       "url": "https://open.spotify.com/track/5gcWdWnNbhePqIyuc1Ckha"
+    },
+    {
+      "album": {
+        "name": "The End of Us",
+        "url": "https://open.spotify.com/album/1sA712BXfxc4nlnYHKypXg"
+      },
+      "artists": [
+        {
+          "name": "Pyralid",
+          "url": "https://open.spotify.com/artist/3vfKOf2HvIzI5d1VV1YSc4"
+        },
+        {
+          "name": "The Fortune",
+          "url": "https://open.spotify.com/artist/0mCfhSsbnUKYjUzEV0Ljn6"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175951,
+      "name": "The End of Us",
+      "url": "https://open.spotify.com/track/49j6Zdk3fv1w9CZ6FrCDqN"
     },
     {
       "album": {
@@ -3471,7 +3511,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 195138,
       "name": "Wish I Could Forget Reggae Version",
       "url": "https://open.spotify.com/track/0eEvFRSDGk5zcnHdssCMqV"
@@ -3623,7 +3663,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 178800,
       "name": "Your Best",
       "url": "https://open.spotify.com/track/10XpcY7siZYCfmo5pTBqIo"

@@ -45,7 +45,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 872426,
       "name": "Air Pockets",
       "url": "https://open.spotify.com/track/1iC86rt5q2wHl2eS9UXX4t"
@@ -67,7 +67,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 291066,
       "name": "And Then There Was Peace",
       "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 415840,
       "name": "Awake Nu (Remastered)",
       "url": "https://open.spotify.com/track/1YlTuLs7h8VxqxImc1mh2l"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 359466,
       "name": "Box Step",
       "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Bugatti (\u00e9tude)",
+        "url": "https://open.spotify.com/album/3judRd8KJgyP9NVUDdGLJl"
+      },
+      "artists": [
+        {
+          "name": "Jameszoo",
+          "url": "https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254560,
+      "name": "Bugatti (\u00e9tude)",
+      "url": "https://open.spotify.com/track/1qt0cGs4U8qDpuhbJ0NxeW"
+    },
+    {
+      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/2DEbRTEPlHdqclwzhto4Aa"
       },
@@ -275,7 +293,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Canopy",
       "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
@@ -323,7 +341,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 310773,
       "name": "Charbon",
       "url": "https://open.spotify.com/track/1aAoU8KcgP5JQSkuWML8xG"
@@ -375,7 +393,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 399560,
       "name": "Composite",
       "url": "https://open.spotify.com/track/2IXxhyBkczi3kz6QRWuIsQ"
@@ -411,7 +429,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 369172,
       "name": "Dub Ting",
       "url": "https://open.spotify.com/track/3gUPTbCLSLW2kIi5SP6hf4"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 353400,
       "name": "Equidistant Between",
       "url": "https://open.spotify.com/track/69g1WfQZwIeyZQxBxdPOVg"
@@ -501,7 +519,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 468600,
       "name": "Explain It To Me",
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
@@ -531,7 +549,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 399882,
       "name": "Fast Forward",
       "url": "https://open.spotify.com/track/0ssTZCjpOLSJuGfDj7a9SV"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 165613,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/5CWLhuuIGwTl96DQsVfeml"
@@ -695,7 +713,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 335256,
       "name": "Haie d'eau II",
       "url": "https://open.spotify.com/track/40gD1hE47Zwows0Wy5JVI6"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 338213,
       "name": "Interface D",
       "url": "https://open.spotify.com/track/7alX7NDwQPzPXlxHH0tHNp"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 344640,
       "name": "Joe Btfsplk",
       "url": "https://open.spotify.com/track/2USetQp7MV5k6yWzvXDKsK"
@@ -909,7 +927,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 312626,
       "name": "Love",
       "url": "https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 261333,
       "name": "Maps - Instrumental",
       "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 271798,
       "name": "Melt All the Guns",
       "url": "https://open.spotify.com/track/4zpN6HASOz9T15MhpBvM4A"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 532640,
       "name": "New Age (Matrix) - Instrumental",
       "url": "https://open.spotify.com/track/0Gp5tGBCzRCXQyyKeXmWoq"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 329760,
       "name": "One Tree Found",
       "url": "https://open.spotify.com/track/7pR9ESwH8E0Y8z79PflnZY"
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 334762,
       "name": "Prometheus",
       "url": "https://open.spotify.com/track/1Rk7L0w2piutRt6onKrIdj"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 353746,
       "name": "Puzzle",
       "url": "https://open.spotify.com/track/6AfsQO3JDAW1Gc8se9lJ4N"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 378666,
       "name": "Round Trip",
       "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 297195,
       "name": "Song for the Snake Man",
       "url": "https://open.spotify.com/track/1PyppsTQBbIkefIUGyyI9O"
@@ -1463,7 +1481,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 477533,
       "name": "Waitin",
       "url": "https://open.spotify.com/track/0GKkrixGZCTZyMSZPQcBiQ"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 292373,
       "name": "Water Babies",
       "url": "https://open.spotify.com/track/097f4XZHrS0oMDBIm1DQpC"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 105358,
       "name": "WW5",
       "url": "https://open.spotify.com/track/20eRgezPfayeiPh1smIufM"
@@ -1553,7 +1571,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 606160,
       "name": "You've Got To Have Freedom",
       "url": "https://open.spotify.com/track/1rD9sOqJSlzvLHtpuEW4El"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 519041,
       "name": "Zero Tolerance",
       "url": "https://open.spotify.com/track/4aDlzHLLJPFGQxCyQkfkTu"

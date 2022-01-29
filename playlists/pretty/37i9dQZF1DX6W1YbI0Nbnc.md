@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 
 > 一起感受香港製造的女聲力量！\(cover: AGA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,877 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,878 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 16 | [第二次告白](https://open.spotify.com/track/1BT7O1m2DbPrEQ40xEZWxK) | [Lil’ Ashes](https://open.spotify.com/artist/61JmerIHrcyWpHtih0adVh) | [第二次告白](https://open.spotify.com/album/2Xm1IBBbdJs9sWC8v1hwM7) | 2:51 |
 | 17 | [兩個月亮 hirsk Remix](https://open.spotify.com/track/39DVBbBivh9J0uJxxg5AVb) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [兩個月亮 hirsk Remix](https://open.spotify.com/album/0e31QRXXBiJltLdFL2xZum) | 3:13 |
 | 18 | [Midsommar](https://open.spotify.com/track/5QlrGkuEC3vRSU147A9Urj) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [Midsommar](https://open.spotify.com/album/3RqSIvLM1Eq96zR6lHLfXg) | 4:31 |
-| 19 | [LOVELOST](https://open.spotify.com/track/4PEtmljaGQoAiohJWB4MxR) | [張蔓姿](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [LOVELOST](https://open.spotify.com/album/1f0iHWy57iLnZ24gval97V) | 3:42 |
+| 19 | [LOVELOST](https://open.spotify.com/track/4PEtmljaGQoAiohJWB4MxR) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [LOVELOST](https://open.spotify.com/album/1f0iHWy57iLnZ24gval97V) | 3:42 |
 | 20 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 |
 | 21 | [旁觀有罪](https://open.spotify.com/track/30OWg6pLbi8fupNYS5ZDnk) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [Honesty](https://open.spotify.com/album/4ikmdAhDo4AOmHmugvz1sT) | 3:53 |
 | 22 | [辛苦你了](https://open.spotify.com/track/07oBvxfhCbQoWEnT2cL9hv) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [薛丁格的貓](https://open.spotify.com/album/73ntd6cAsmKAifVFpljds3) | 4:19 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6W1YbI0Nbnc.md) - [plain]
 | 40 | [Neverland](https://open.spotify.com/track/7pO9B12E4T2E77osXssCm5) | [CHOR 鍾楚翹](https://open.spotify.com/artist/1suU5Q1KQaybOiJbBsNk51) | [Neverland](https://open.spotify.com/album/3Nnur1VDPCFr1sh6JoyTEa) | 3:36 |
 | 41 | [明明單身最開心](https://open.spotify.com/track/4IsqMYxUuwFmVhNfJB7g1f) | [麗英@小薯茄](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [明明單身最開心](https://open.spotify.com/album/1lMFKCkEHvt1WtvtwlPFEd) | 3:53 |
 | 42 | [醒](https://open.spotify.com/track/5IZ6EfN78mwBCpste2W0Q2) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [醒](https://open.spotify.com/album/0EXknrhwJtEI1A3xAUK4YP) | 3:38 |
-| 43 | [深夜浪漫](https://open.spotify.com/track/5V17L4QLIZpZ3sZtgHlmej) | [張蔓姿](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [深夜浪漫](https://open.spotify.com/album/3DfW1z9k62nYQ4s4XJh7Gi) | 3:16 |
+| 43 | [深夜浪漫](https://open.spotify.com/track/5V17L4QLIZpZ3sZtgHlmej) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [深夜浪漫](https://open.spotify.com/album/3DfW1z9k62nYQ4s4XJh7Gi) | 3:16 |
 | 44 | [你好嗎](https://open.spotify.com/track/78UjgHNRiFFjL9pgxic57h) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [你好嗎](https://open.spotify.com/album/1Ztu4bYqjnhm53sjM70cCI) | 5:33 |
 | 45 | [只想你記得](https://open.spotify.com/track/2CZDMyih2ayqPoe9Ccw2e7) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [只想你記得](https://open.spotify.com/album/28HSqRdjcCF4tHGwbXH10K) | 3:13 |
 | 46 | [一對一](https://open.spotify.com/track/3PBz91BGdmRVd02xIFiueK) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 3:09 |

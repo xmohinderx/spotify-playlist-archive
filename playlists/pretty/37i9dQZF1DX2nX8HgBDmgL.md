@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Desi music across borders and genres\. Cover: Twinjabi
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,766 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,781 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 9 | [Manzoor](https://open.spotify.com/track/3BhhplcKXDnZ8ZI5CmKUhp) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Manzoor](https://open.spotify.com/album/5UdzrqE7eV4Npo7E4tIQgw) | 2:50 |
 | 10 | [Dudh Chaa](https://open.spotify.com/track/0GOM1Lr482a5XGjOhzfvma) | [Ahmed Khan](https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp), [H\-Dhami](https://open.spotify.com/artist/0GgtsI54TB5WM3350rYpvK) | [29 Summers](https://open.spotify.com/album/2nU4RgpGtF6rnSzcx9EJuC) | 2:43 |
 | 11 | [After Party](https://open.spotify.com/track/1xzXdnoVhFLNVIFSxxfDCI) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Arjun](https://open.spotify.com/artist/5tvfyAT4aOIOkumo6vw1yL), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9) | [After Party](https://open.spotify.com/album/3VnubNDl7WjNDmXTjOdyXG) | 3:10 |
-| 12 | [Nakhre Tere](https://open.spotify.com/track/2ECV2fDtcmaNkIYvrzN6XB) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Hosai](https://open.spotify.com/artist/6PMr6l8zDjt7enAIND9wU7) | [Nakhre Tere](https://open.spotify.com/album/4AmSJpja7JUoWHtlNkSRdX) | 3:00 |
+| 12 | [Nakhre Tere ft\. Hosai](https://open.spotify.com/track/2ECV2fDtcmaNkIYvrzN6XB) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Hosai](https://open.spotify.com/artist/6PMr6l8zDjt7enAIND9wU7) | [Nakhre Tere ft\. Hosai](https://open.spotify.com/album/4AmSJpja7JUoWHtlNkSRdX) | 3:00 |
 | 13 | [Over You](https://open.spotify.com/track/7DIy5vxJsbvAQqtN6zIYvp) | [Rishi Rich](https://open.spotify.com/artist/2DpITTpb4v5SQtB3iA4A44), [Roach Killa](https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS), [Kiranee](https://open.spotify.com/artist/0A8jiUMRlCzO8eDWnvtE3Y) | [Over You](https://open.spotify.com/album/4qzK6pkjG3mO9AUz1Z7SQT) | 3:15 |
 | 14 | [Kaali Gaddi \(Black Car\)](https://open.spotify.com/track/7I1411KJ5hHUwuAGG7RwXQ) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Kaali Gaddi \(Black Car\)](https://open.spotify.com/album/4nIs3K8kEjN0J4bSwFCLAR) | 2:19 |
 | 15 | [Waqt](https://open.spotify.com/track/7ACSQpHGwFWqEBoygjPYeX) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Waqt](https://open.spotify.com/album/0tn5e3YPdGEnOk5k74miWa) | 3:22 |

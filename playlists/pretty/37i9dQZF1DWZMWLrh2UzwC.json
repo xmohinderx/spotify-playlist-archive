@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Lauv",
-  "num_followers": 58452,
+  "num_followers": 58454,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzI5OTIwMCwwMDAwMDQ1MDAwMDAwMTdlOWM0M2RjYTkwMDAwMDE3ZTliMDlhNjk5",
+  "snapshot_id": "MTY0MzM1NTc0MSwwMDAwMDQ1MTAwMDAwMTdlOWZhMjlmMDgwMDAwMDE3ZTliMDlhNjk5",
   "tracks": [
     {
       "added_at": "2022-01-27 16:00:00",
@@ -732,7 +732,7 @@
           "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
         }
       ],
-      "duration_ms": 212974,
+      "duration_ms": 219377,
       "name": "Nothing Holy",
       "url": "https://open.spotify.com/track/4aMUvgDqqPBHpV7KT5gbVY"
     },
@@ -748,7 +748,7 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 159315,
+      "duration_ms": 148459,
       "name": "Shinigami Eyes",
       "url": "https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k"
     },
@@ -1013,6 +1013,38 @@
       "url": "https://open.spotify.com/track/2WXelEIMTkDX8VENGdbHfk"
     },
     {
+      "added_at": "2022-01-28 07:42:21",
+      "album": {
+        "name": "The Way It Was Before",
+        "url": "https://open.spotify.com/album/21WzCHmaKB5boZZdxf4jRN"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "The Way It Was Before",
+      "url": "https://open.spotify.com/track/5MkeG5rfMXRthy1HtpO7Kx"
+    },
+    {
+      "added_at": "2022-01-28 07:42:21",
+      "album": {
+        "name": "Industry Baby",
+        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 231381,
+      "name": "Industry Baby",
+      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
+    },
+    {
       "added_at": "2022-01-27 16:00:00",
       "album": {
         "name": "Beyond",
@@ -1101,7 +1133,7 @@
         },
         {
           "name": "Luca",
-          "url": "https://open.spotify.com/artist/0RFEhHn9qb3lNXK8YlXHxE"
+          "url": "https://open.spotify.com/artist/15KItCRKdZFsvs1Cp3Ncv1"
         }
       ],
       "duration_ms": 202105,
@@ -1231,6 +1263,26 @@
     {
       "added_at": "2022-01-27 16:00:00",
       "album": {
+        "name": "Secret (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/2ZaWk8rzV26F4oPfbgHIff"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "Secret (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/2ozAOPkM0rYqQweAhuXMry"
+    },
+    {
+      "added_at": "2022-01-27 16:00:00",
+      "album": {
         "name": "In Your Arms (For An Angel)",
         "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
       },
@@ -1255,6 +1307,46 @@
       "duration_ms": 150476,
       "name": "In Your Arms (For An Angel)",
       "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
+    },
+    {
+      "added_at": "2022-01-27 16:00:00",
+      "album": {
+        "name": "Richer Than I Ever Been (Deluxe)",
+        "url": "https://open.spotify.com/album/5e01XtoCQVZ7gAEsZiv0xH"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 236799,
+      "name": "Not For Nothing (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5hVnFTUmD5oa7Pl4ltn6KE"
+    },
+    {
+      "added_at": "2022-01-27 16:00:00",
+      "album": {
+        "name": "Arya",
+        "url": "https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg"
+      },
+      "artists": [
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Arya (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7"
     },
     {
       "added_at": "2022-01-27 16:00:00",

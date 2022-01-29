@@ -512,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Get Back (Rooftop Performance)",
+        "url": "https://open.spotify.com/album/6emgUTDksZyhhWmtjM9FCs"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204186,
+      "name": "Get Back - Rooftop Performance / Take 2",
+      "url": "https://open.spotify.com/track/4z3RNAUb0whdaLAudM9EHE"
+    },
+    {
+      "album": {
         "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
         "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
       },

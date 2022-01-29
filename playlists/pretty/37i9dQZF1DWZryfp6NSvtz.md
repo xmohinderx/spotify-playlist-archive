@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: The Faim
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,597 likes - 48 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,878 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 17 | [Run](https://open.spotify.com/track/5UkIKoF94HoH6shIbyWP3O) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Spiritual Machines II](https://open.spotify.com/album/2oDx12QtIgZWoTR1utWFLz) | 2:57 |
 | 18 | [Piggy](https://open.spotify.com/track/5RoG0iXCoMzys5LHxw4KqE) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Piggy](https://open.spotify.com/album/5YQD1h6JKgfcVIYUGjChDW) | 2:37 |
 | 19 | [Games \(Tonight\)](https://open.spotify.com/track/328qgBCMLzTwqfet5CzBX4) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Games \(Tonight\)](https://open.spotify.com/album/06nyyWJGTzyWPwt7MqwArX) | 3:56 |
-| 20 | [Heartbreakers](https://open.spotify.com/track/1q1sdggBeX89KO1FuBPCKd) | [Rakeem Miles](https://open.spotify.com/artist/12MUwEBtTVLjYVsBByUiTc), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE), [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz), [boyband](https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D) | [Heartbreakers](https://open.spotify.com/album/3Hx8wgNweRN9DD4gtNCM74) | 3:31 |
+| 20 | [Heartbreakers](https://open.spotify.com/track/1q1sdggBeX89KO1FuBPCKd) | [Rakeem Miles](https://open.spotify.com/artist/12MUwEBtTVLjYVsBByUiTc), [Zaia](https://open.spotify.com/artist/1m0t5VYISq6TcyMo7UqLMz), [boyband](https://open.spotify.com/artist/4OxvOPeLvZWDxihwqtOC4D), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [Heartbreakers](https://open.spotify.com/album/3Hx8wgNweRN9DD4gtNCM74) | 3:31 |
 | 21 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 |
 | 22 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 |
 | 23 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 |
@@ -53,8 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 43 | [Sweet Tooth](https://open.spotify.com/track/0qkC6gkL9RK3RqeEOFb6DG) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Sweet Tooth](https://open.spotify.com/album/6xcxNvfN0PX8kw4yR5Yqjr) | 2:46 |
 | 44 | [Oh Lord, It Came To Me](https://open.spotify.com/track/2NtcpNBDXeuEwpc9QOVfq9) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Songs/Revolving](https://open.spotify.com/album/71QcqCUQr7EusqTXKhnZVy) | 5:32 |
 | 45 | [Woman That I Know](https://open.spotify.com/track/4DLb4geoc7Wm30KYRKOiWt) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Woman That I Know](https://open.spotify.com/album/0OQ4wk6bv1R1lzWGN75iCe) | 2:47 |
-| 46 | [Shovel](https://open.spotify.com/track/7hQCOA1P8ecNrFctOEAP40) | [We Are Not Robots](https://open.spotify.com/artist/7ceIeH4QrefVupokwOfhta) | [Shovel](https://open.spotify.com/album/1jSVZ0u52nHMi6MoFdPIA1) | 3:07 |
-| 47 | [Beware Of Birds](https://open.spotify.com/track/1IOz13EgqA22jojuSD4QAb) | [Jack and the bearded fishermen](https://open.spotify.com/artist/3dA2NIoEt8X4q0KU4QycgJ) | [Beware Of Birds](https://open.spotify.com/album/4KmuhLn1p7YYbWlltDuI4Z) | 3:10 |
-| 48 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 |
+| 46 | [Dead Man's Dream](https://open.spotify.com/track/4UGNJoeYVM8oDd56dJv549) | [Painted Shield](https://open.spotify.com/artist/7kmm4Wi3pbsCHHIYqgYgX9) | [Dead Man's Dream](https://open.spotify.com/album/1UT4dX7eAFJU7coodDgzvR) | 3:26 |
+| 47 | [Shovel](https://open.spotify.com/track/7hQCOA1P8ecNrFctOEAP40) | [We Are Not Robots](https://open.spotify.com/artist/7ceIeH4QrefVupokwOfhta) | [Shovel](https://open.spotify.com/album/1jSVZ0u52nHMi6MoFdPIA1) | 3:07 |
+| 48 | [Beware Of Birds](https://open.spotify.com/track/1IOz13EgqA22jojuSD4QAb) | [Jack and the bearded fishermen](https://open.spotify.com/artist/3dA2NIoEt8X4q0KU4QycgJ) | [Beware Of Birds](https://open.spotify.com/album/4KmuhLn1p7YYbWlltDuI4Z) | 3:10 |
+| 49 | [I Don't Give A Shit](https://open.spotify.com/track/6ZZ8iAhLsaHncTdniCOcex) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Teenage Ends](https://open.spotify.com/album/6fXiSACVJOeI0Gevc1nIBt) | 2:15 |
+| 50 | [Blacksnake Blues](https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Blacksnake Blues](https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz) | 11:14 |
 
-Snapshot ID: `MTY0MzMyNDUyMCwwMDAwMDJmZTAwMDAwMTdlOWRjNjM2YWMwMDAwMDE3ZThiMDA5ZTE5`
+Snapshot ID: `MTY0MzM1MTM1NiwwMDAwMDJmZjAwMDAwMTdlOWY1ZmIzMDEwMDAwMDE3ZThiMDA5ZTE5`

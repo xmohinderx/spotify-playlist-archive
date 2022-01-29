@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127644,
+  "num_followers": 127641,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzIxNSwyNWMxZTIyM2U2YzNmYjg4YmRkZmU0YjE1MjU2MzAxMzEzZWQzZTVm",
+  "snapshot_id": "MzIxOSxlYzNlNDI4ZTM0YWE3ZDk2MjY5ZmJkMzU5Yzg1YTIyNGY4MTliYzk0",
   "tracks": [
+    {
+      "added_at": "2022-01-28 17:20:43",
+      "album": {
+        "name": "Hold Up",
+        "url": "https://open.spotify.com/album/0EHxZE2tTIlOXkWuUSpXXJ"
+      },
+      "artists": [
+        {
+          "name": "Nick Smith",
+          "url": "https://open.spotify.com/artist/5W5JelsLmCytPXmzN5w8fc"
+        }
+      ],
+      "duration_ms": 179820,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/2Q0zaBd4u0mwEd7KNppKEf"
+    },
+    {
+      "added_at": "2022-01-28 17:20:35",
+      "album": {
+        "name": "Unfinished",
+        "url": "https://open.spotify.com/album/0S86doOPLnGVIlXtM4QoIH"
+      },
+      "artists": [
+        {
+          "name": "A.M.R",
+          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
+        },
+        {
+          "name": "Lumynesynth",
+          "url": "https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Unfinished",
+      "url": "https://open.spotify.com/track/7w9SaK5KiptI4BNdAEzTJk"
+    },
     {
       "added_at": "2022-01-27 16:42:14",
       "album": {
@@ -1095,46 +1131,6 @@
       "duration_ms": 178529,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/6EW5mHMHEcsL1RSpy1HQ6p"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/2MVqhgj8svqG19mBA0olva"
-      },
-      "artists": [
-        {
-          "name": "A.M.R",
-          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
-        },
-        {
-          "name": "Brandon Mignacca",
-          "url": "https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4L6ZciTfXvf4XWzIch8sw9"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Light of Mine",
-        "url": "https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "Jimorrow",
-          "url": "https://open.spotify.com/artist/06qfSjDnOB1ZMdkynif9lv"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "Light of Mine",
-      "url": "https://open.spotify.com/track/3jMeoTAxDrZfkVxMmWcWCg"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -1,12 +1,12 @@
 {
   "description": "and why aren't you in uniform?",
-  "num_followers": 389638,
+  "num_followers": 390125,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc4Mjg5NSwwMDAwMDA3MzAwMDAwMTdlN2Q3ZGFlNjkwMDAwMDE3YjE3N2MzMWU3",
+  "snapshot_id": "MTY0MzM0ODgyMCwwMDAwMDA3NDAwMDAwMTdlOWYzOTAwODQwMDAwMDE3YjE3N2MzMWU3",
   "tracks": [
     {
       "added_at": "2022-01-14 18:14:36",
@@ -169,6 +169,26 @@
       "url": "https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu"
     },
     {
+      "added_at": "2021-11-12 17:33:38",
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        },
+        {
+          "name": "Okthxbb",
+          "url": "https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6"
+        }
+      ],
+      "duration_ms": 224349,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9"
+    },
+    {
       "added_at": "2021-08-05 18:08:26",
       "album": {
         "name": "Kids",
@@ -269,6 +289,26 @@
       "url": "https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO"
     },
     {
+      "added_at": "2022-01-28 05:47:00",
+      "album": {
+        "name": "Favorite",
+        "url": "https://open.spotify.com/album/1hXhxCdpwgqCr7sUu26cS8"
+      },
+      "artists": [
+        {
+          "name": "Ru AREYOU",
+          "url": "https://open.spotify.com/artist/2pgUIUzteEqbNGO4v7kiJB"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 139805,
+      "name": "Favorite",
+      "url": "https://open.spotify.com/track/3FGj53xlCa43WHUQ4dDF6y"
+    },
+    {
       "added_at": "2022-01-21 16:34:55",
       "album": {
         "name": "tears in the club (feat. the weeknd)",
@@ -287,26 +327,6 @@
       "duration_ms": 196760,
       "name": "tears in the club (feat. the weeknd)",
       "url": "https://open.spotify.com/track/43zOaM9seVvQuWIdDf88yV"
-    },
-    {
-      "added_at": "2021-11-12 17:33:38",
-      "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/3qgzSXy4n3efYOUN0rd0aZ"
-      },
-      "artists": [
-        {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
-        },
-        {
-          "name": "Okthxbb",
-          "url": "https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6"
-        }
-      ],
-      "duration_ms": 224349,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/3L545updZMVxAsaYV6K8Z9"
     },
     {
       "added_at": "2022-01-11 22:45:43",

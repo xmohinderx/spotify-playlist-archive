@@ -1,13 +1,29 @@
 {
   "description": "Relax to the sound of jazz.",
-  "num_followers": 2359206,
+  "num_followers": 2359280,
   "original_name": "Coffee Table Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc0MTMyMCwwMDAwMDA4MzAwMDAwMTdlN2IwMzQ5OTYwMDAwMDE2ZDAwY2EyYTc2",
+  "snapshot_id": "MTY0MzM4NTI0NywwMDAwMDA4NTAwMDAwMTdlYTE2NGQ1MWEwMDAwMDE2ZDAwY2EyYTc2",
   "tracks": [
+    {
+      "added_at": "2022-01-28 15:53:24",
+      "album": {
+        "name": "The 7th Hand",
+        "url": "https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "duration_ms": 347911,
+      "name": "Fugitive Ritual, Selah",
+      "url": "https://open.spotify.com/track/31ZHADyvTbyRgQVw1u2SSW"
+    },
     {
       "added_at": "2022-01-07 05:02:00",
       "album": {
@@ -139,6 +155,22 @@
       "duration_ms": 434866,
       "name": "Theme for Ernie",
       "url": "https://open.spotify.com/track/6FTyd72Hx3B9jRogHKCty1"
+    },
+    {
+      "added_at": "2022-01-28 15:54:06",
+      "album": {
+        "name": "Song For Abdullah (Bonus)",
+        "url": "https://open.spotify.com/album/1kMu4gZ7JETRcICwMmJTdA"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "duration_ms": 371469,
+      "name": "Song For Abdullah - Bonus",
+      "url": "https://open.spotify.com/track/20qnvRo3H9PHXH6tn5EP6G"
     },
     {
       "added_at": "2021-11-26 05:01:00",

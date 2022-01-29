@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "Fingers Crossed (arr. piano)",
+        "url": "https://open.spotify.com/album/7kkjF3lRF4KtvIk95UNmpJ"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187948,
+      "name": "Fingers Crossed (arr. piano)",
+      "url": "https://open.spotify.com/track/0qoMHjrFq0g4QdMqxYhG9t"
+    },
+    {
+      "album": {
         "name": "Piano EP1",
         "url": "https://open.spotify.com/album/10Gvmhuqt3zXhtAAnM41Nu"
       },

@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Trap Latino. Foto: Eladio Carrion.",
-  "num_followers": 495150,
+  "num_followers": 495314,
   "original_name": "TRAPPERZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc0MTI2MCwwMDAwMDE2NDAwMDAwMTdlN2IwMjVmNmMwMDAwMDE3ZDdiN2FjMjM5",
+  "snapshot_id": "MTY0MzM0OTYwMCwwMDAwMDE2NTAwMDAwMTdlOWY0NGU3OTIwMDAwMDE3ZDdiN2FjMjM5",
   "tracks": [
     {
       "added_at": "2022-01-21 05:01:00",
@@ -123,6 +123,26 @@
       "duration_ms": 231586,
       "name": "Te Pue' Cuidar",
       "url": "https://open.spotify.com/track/2echCKqz515YJli33xrrad"
+    },
+    {
+      "added_at": "2022-01-28 06:00:00",
+      "album": {
+        "name": "Nikes, Diamantes y Skinnies",
+        "url": "https://open.spotify.com/album/3YyOGCZR0MOHPkxxLG57F6"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 180821,
+      "name": "Nikes, Diamantes y Skinnies",
+      "url": "https://open.spotify.com/track/5uN1KfOgIAEKcUjANVlHvM"
     },
     {
       "added_at": "2022-01-21 05:01:00",
@@ -533,6 +553,22 @@
       "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
     },
     {
+      "added_at": "2022-01-28 06:00:00",
+      "album": {
+        "name": "Flight 0006",
+        "url": "https://open.spotify.com/album/6AWzO7oPAcQnbhOdX2jOWb"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Flight 0006",
+      "url": "https://open.spotify.com/track/4nI5HHuZTJ9Os6oX7r91T9"
+    },
+    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Lambo (Remix)",
@@ -639,42 +675,6 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
-        "name": "Haciendo Dinero",
-        "url": "https://open.spotify.com/album/0o4cG9D0NkUgce5PoIJR0C"
-      },
-      "artists": [
-        {
-          "name": "Peke\u00f1o 77",
-          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
-        }
-      ],
-      "duration_ms": 200170,
-      "name": "Haciendo Dinero",
-      "url": "https://open.spotify.com/track/50J8By28XiPLTfXJ9MyuoG"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Habla Claro",
-        "url": "https://open.spotify.com/album/2pzQh6cUaDXAw2a96vcwVr"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Habla Claro",
-      "url": "https://open.spotify.com/track/1Ixi7vcTIvgyeFlbqy1QQ7"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
         "name": "De Museo",
         "url": "https://open.spotify.com/album/27ei92dKdKhBVhEVA2ziRR"
       },
@@ -707,6 +707,26 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
+        "name": "Habla Claro",
+        "url": "https://open.spotify.com/album/2pzQh6cUaDXAw2a96vcwVr"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Habla Claro",
+      "url": "https://open.spotify.com/track/1Ixi7vcTIvgyeFlbqy1QQ7"
+    },
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
         "name": "Hurac\u00e1n",
         "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
@@ -731,38 +751,6 @@
     {
       "added_at": "2022-01-21 05:01:00",
       "album": {
-        "name": "7/24",
-        "url": "https://open.spotify.com/album/3K8IckpQZC9te99XW0h3d2"
-      },
-      "artists": [
-        {
-          "name": "Kris Floyd",
-          "url": "https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "7/24",
-      "url": "https://open.spotify.com/track/6pu2BLOwSrsLIecnqGU64m"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "POST MORTEM",
-        "url": "https://open.spotify.com/album/39g3CsFBc9YK9Z6AbvvkgF"
-      },
-      "artists": [
-        {
-          "name": "Dillom",
-          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
-        }
-      ],
-      "duration_ms": 159326,
-      "name": "POST MORTEM",
-      "url": "https://open.spotify.com/track/7pkYsT6Nhtr9EfblK6Kffy"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
         "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
         "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
       },
@@ -779,38 +767,6 @@
       "duration_ms": 164895,
       "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
       "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "TRAP DE VERDAD",
-        "url": "https://open.spotify.com/album/340fOwgu4ResZDdUJKqV2K"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "CLUB HATS",
-          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
-        },
-        {
-          "name": "SPONSOR DIOS",
-          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
-        },
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        }
-      ],
-      "duration_ms": 237885,
-      "name": "INOLVIDABLE",
-      "url": "https://open.spotify.com/track/2YVd5KUxkBnTEtPuqFR5uc"
     },
     {
       "added_at": "2022-01-21 05:01:00",

@@ -1,13 +1,29 @@
 {
   "description": "Soulful, bluesy ballads. Cover: Lizz Wright",
-  "num_followers": 68712,
+  "num_followers": 68740,
   "original_name": "Blue Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwMjExMSwwMDAwMDAyNjAwMDAwMTdkOTYyZDliMjcwMDAwMDE3ZDk2MmQ3YWNj",
+  "snapshot_id": "MTY0MzM0NjA2MCwwMDAwMDAyNzAwMDAwMTdlOWYwZWUzNzkwMDAwMDE3ZDk2MmQ3YWNj",
   "tracks": [
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 290973,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/3VCttwuRuGlFuCY4bgZKDD"
+    },
     {
       "added_at": "2021-10-29 04:01:00",
       "album": {

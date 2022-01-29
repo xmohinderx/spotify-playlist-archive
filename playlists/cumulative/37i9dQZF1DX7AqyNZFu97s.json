@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Channell + 2b.Frank",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: MaZz",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 219293,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/1wff2E9wqGmO1NGHNdjmir"
@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "beginners' krav maga",
+        "url": "https://open.spotify.com/album/5U0iDRNChDuXvbRWtx7yKu"
+      },
+      "artists": [
+        {
+          "name": "deep tan",
+          "url": "https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158754,
+      "name": "beginners' krav maga",
+      "url": "https://open.spotify.com/track/73cVv3i5m47vfiNnhaxTQ8"
+    },
+    {
+      "album": {
         "name": "Beige",
         "url": "https://open.spotify.com/album/2ep49soIT8mJN77rwA0n78"
       },
@@ -272,6 +290,24 @@
     },
     {
       "album": {
+        "name": "blue peter",
+        "url": "https://open.spotify.com/album/3OCX6sUSr8x6t8kOjTFvNa"
+      },
+      "artists": [
+        {
+          "name": "Luke Royalty",
+          "url": "https://open.spotify.com/artist/0weBcU4Pkl2GPAWHraOEaR"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256500,
+      "name": "blue peter",
+      "url": "https://open.spotify.com/track/5G2gcK2K7RlIsmB0maaHAT"
+    },
+    {
+      "album": {
         "name": "Boundaries",
         "url": "https://open.spotify.com/album/6XrLOCO3orVn38879fnKUg"
       },
@@ -308,6 +344,24 @@
     },
     {
       "album": {
+        "name": "Crocodile Tears",
+        "url": "https://open.spotify.com/album/0J8D4KBXotsO9kGMQiZPMp"
+      },
+      "artists": [
+        {
+          "name": "Maczee P",
+          "url": "https://open.spotify.com/artist/6kP2mPOwcfLXbbHbZqYDLU"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160466,
+      "name": "Crocodile Tears",
+      "url": "https://open.spotify.com/track/7GnLlEPQSRTHvv7IXcvE4h"
+    },
+    {
+      "album": {
         "name": "Cure My Thoughts",
         "url": "https://open.spotify.com/album/695jvFNBMqo36OD0zKp7YO"
       },
@@ -337,7 +391,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 177273,
       "name": "Deep Fried",
       "url": "https://open.spotify.com/track/7yOLYFGoAfz1iIBmhgbSQK"
@@ -373,10 +427,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 179171,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/55vi3tti5JmyyYE21HVpBs"
+    },
+    {
+      "album": {
+        "name": "Delusion Spree",
+        "url": "https://open.spotify.com/album/2sqyfzGM5IQvupbRe7hr3X"
+      },
+      "artists": [
+        {
+          "name": "Eades",
+          "url": "https://open.spotify.com/artist/6GVy4NToodaTHYxlO6xuXX"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229993,
+      "name": "Delusion Spree",
+      "url": "https://open.spotify.com/track/0d4YnSZpQZQszNHz3hfx3a"
     },
     {
       "album": {
@@ -427,7 +499,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 193781,
       "name": "Eating",
       "url": "https://open.spotify.com/track/4t3D7cnJSd0geNiVxDgEWa"
@@ -463,7 +535,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 206813,
       "name": "everything looks darker now",
       "url": "https://open.spotify.com/track/5VymYMoYoOum1mV0Q7YvQz"
@@ -503,6 +575,28 @@
       "duration_ms": 190217,
       "name": "Feels Like Rain",
       "url": "https://open.spotify.com/track/4qt6gCrYbMHGGdiXN6tj6G"
+    },
+    {
+      "album": {
+        "name": "Floor Filler",
+        "url": "https://open.spotify.com/album/0655JtpDEEFx9PKTSUVLct"
+      },
+      "artists": [
+        {
+          "name": "Jack Wolff",
+          "url": "https://open.spotify.com/artist/0jJwMd4KznBZXi2p5f6RQI"
+        },
+        {
+          "name": "Ty Healy",
+          "url": "https://open.spotify.com/artist/2bgmIVNSG1wdRu0GfNmIH1"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152247,
+      "name": "Floor Filler",
+      "url": "https://open.spotify.com/track/0QL9woW24e68y3kX4m6pvG"
     },
     {
       "album": {
@@ -575,7 +669,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 206500,
       "name": "Get Like This",
       "url": "https://open.spotify.com/track/6fHER01tPJ8haziKUojE4C"
@@ -774,6 +868,24 @@
     },
     {
       "album": {
+        "name": "I Don't Know Why",
+        "url": "https://open.spotify.com/album/7oqr6xk4na7xIRYihgwsuv"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Thieves",
+          "url": "https://open.spotify.com/artist/6UwPoe3ZqpC4OUuKgIinVW"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "I Don't Know Why",
+      "url": "https://open.spotify.com/track/7b2EbQLn9X3jj82BfwMwij"
+    },
+    {
+      "album": {
         "name": "i don't like u",
         "url": "https://open.spotify.com/album/61Z84MIlImUOJuKW8iCyv2"
       },
@@ -915,7 +1027,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 199776,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/4xjVOnjX4WuKYLvOJRRH90"
@@ -958,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "KitKat",
+        "url": "https://open.spotify.com/album/02UwuXYk7XvWFG45Wim7jr"
+      },
+      "artists": [
+        {
+          "name": "Scuti",
+          "url": "https://open.spotify.com/artist/0U22PYRY87xqfpBJgRt4US"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "KitKat",
+      "url": "https://open.spotify.com/track/4MJFujlU2RTEw9c2qMqkRn"
+    },
+    {
+      "album": {
         "name": "happier, but still sad",
         "url": "https://open.spotify.com/album/5MItphTDdYuX77idfEaZiT"
       },
@@ -987,7 +1117,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 210480,
       "name": "Lanzarote Howl",
       "url": "https://open.spotify.com/track/6kaBmYQgjE8eOBq7pLLfV8"
@@ -1173,7 +1303,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 158620,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/5Z2dOXjVByx4J0yzMB2oPB"
@@ -1216,6 +1346,24 @@
     },
     {
       "album": {
+        "name": "Motorbike",
+        "url": "https://open.spotify.com/album/258NwwKO0b2JvDygo48XK4"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206883,
+      "name": "Motorbike",
+      "url": "https://open.spotify.com/track/0HTi9cUX5UO11fZbyu5KO9"
+    },
+    {
+      "album": {
         "name": "NAVIG8",
         "url": "https://open.spotify.com/album/3srIuYTxvTeOAeRvVY5rd6"
       },
@@ -1245,7 +1393,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 192789,
       "name": "Never That Easy",
       "url": "https://open.spotify.com/track/3Zj9zCiAiuyYdnIEasGRGQ"
@@ -1490,6 +1638,24 @@
     },
     {
       "album": {
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/48xlPLzqCr0WW7ZckaliBK"
+      },
+      "artists": [
+        {
+          "name": "Sunburn",
+          "url": "https://open.spotify.com/artist/16BNZHiTlD6vCCWewqSNUy"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197276,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/3SiiOPLforhEw10atQ7afO"
+    },
+    {
+      "album": {
         "name": "Rice And Peas",
         "url": "https://open.spotify.com/album/15Vvnll1Oi3325I4HzBjnT"
       },
@@ -1652,6 +1818,24 @@
     },
     {
       "album": {
+        "name": "something",
+        "url": "https://open.spotify.com/album/2yAZIUcZPvghGekV4qEZ1P"
+      },
+      "artists": [
+        {
+          "name": "Joey Knight",
+          "url": "https://open.spotify.com/artist/7kUaQMxJ7CtvpAGY1xwpjF"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169466,
+      "name": "something",
+      "url": "https://open.spotify.com/track/4G7DUuEH3L8P7Bi5ToYezi"
+    },
+    {
+      "album": {
         "name": "Soulo",
         "url": "https://open.spotify.com/album/4YbzriYiLfLhyWm9xgAF77"
       },
@@ -1689,7 +1873,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 174286,
       "name": "Starsigns",
       "url": "https://open.spotify.com/track/6FvONiMvj4TLK7EgOfNS7e"
@@ -1773,7 +1957,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 170600,
       "name": "The Only Way",
       "url": "https://open.spotify.com/track/6JRvFphzc5Vn6aX6Pralfb"
@@ -1910,6 +2094,24 @@
     },
     {
       "album": {
+        "name": "When U Call",
+        "url": "https://open.spotify.com/album/5TSnzljjpGs8RLK6VXoX33"
+      },
+      "artists": [
+        {
+          "name": "1-800 GIRLS",
+          "url": "https://open.spotify.com/artist/67yGrC4QoCSD0g7YMcGIgJ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352692,
+      "name": "When U Call",
+      "url": "https://open.spotify.com/track/0qWkinRmjxDo3rrECKsIQr"
+    },
+    {
+      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/5YalCz9nQenxa8iHuCvaD6"
       },
@@ -1951,6 +2153,24 @@
       "duration_ms": 279656,
       "name": "Wonderin'",
       "url": "https://open.spotify.com/track/3HenGKQ9HhXxhb8bH03DbD"
+    },
+    {
+      "album": {
+        "name": "You Don't Get Me High Anymore",
+        "url": "https://open.spotify.com/album/74USk7JkeC5AkbPZg3Eg7o"
+      },
+      "artists": [
+        {
+          "name": "Ziggy 2000",
+          "url": "https://open.spotify.com/artist/1QTanwqlZCwb5kbYbkFI2r"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245217,
+      "name": "You Don't Get Me High Anymore",
+      "url": "https://open.spotify.com/track/7EK3dE4L4eV6kfiQxDDQTh"
     },
     {
       "album": {

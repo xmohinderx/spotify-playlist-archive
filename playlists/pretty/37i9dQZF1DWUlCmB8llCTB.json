@@ -1,13 +1,33 @@
 {
-  "description": "Esto es un perreo a lo... Blessd, Justin Quiles & Lenny Tav\u00e1rez.",
-  "num_followers": 589482,
+  "description": "Esto es un perreo a lo... Santa Fe Klan & MC Davo.",
+  "num_followers": 589662,
   "original_name": "Perreo City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE2NzY4NCwwMDAwMDEyNjAwMDAwMTdlNThkMjRkZTgwMDAwMDE3ZTMxNzVjNWJh",
+  "snapshot_id": "MTY0MzQwOTA2MSwwMDAwMDEyODAwMDAwMTdlYTJkMDM4MjgwMDAwMDE3ZTlkOTc1ODky",
   "tracks": [
+    {
+      "added_at": "2022-01-28 06:00:00",
+      "album": {
+        "name": "Callejera",
+        "url": "https://open.spotify.com/album/1Q0pBlUdKI9x3ueSfFRIas"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Callejera",
+      "url": "https://open.spotify.com/track/6DoeuCz4P0NmD4aCghjgpf"
+    },
     {
       "added_at": "2022-01-14 13:41:24",
       "album": {
@@ -53,20 +73,60 @@
       "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
     },
     {
-      "added_at": "2022-01-14 13:41:24",
+      "added_at": "2022-01-28 06:00:00",
       "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+        "name": "Cositas de la USA",
+        "url": "https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs"
       },
       "artists": [
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 146815,
-      "name": "TOP 5",
-      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+      "duration_ms": 189015,
+      "name": "Cositas de la USA",
+      "url": "https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI"
+    },
+    {
+      "added_at": "2022-01-14 13:41:24",
+      "album": {
+        "name": "Chantaje",
+        "url": "https://open.spotify.com/album/0q8QW2ceM8XpkNRQRe5akg"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 238688,
+      "name": "Chantaje",
+      "url": "https://open.spotify.com/track/63XiGZGxNIWXA5CDz1dZ2l"
+    },
+    {
+      "added_at": "2022-01-28 06:00:00",
+      "album": {
+        "name": "Quien TV Remix",
+        "url": "https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 163708,
+      "name": "Quien TV Remix",
+      "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
     },
     {
       "added_at": "2022-01-14 13:41:24",
@@ -115,6 +175,22 @@
     {
       "added_at": "2022-01-14 13:41:24",
       "album": {
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+    },
+    {
+      "added_at": "2022-01-14 13:41:24",
+      "album": {
         "name": "Resaca",
         "url": "https://open.spotify.com/album/2SxzHKPlWLNmGgtLK9cZD2"
       },
@@ -155,6 +231,26 @@
       "duration_ms": 195506,
       "name": "Regres\u00e9",
       "url": "https://open.spotify.com/track/7mftg8God1V8NdHIukbGgx"
+    },
+    {
+      "added_at": "2022-01-28 06:00:00",
+      "album": {
+        "name": "Ni\u00f1a de Mis Sue\u00f1os",
+        "url": "https://open.spotify.com/album/1EXy8WlpTf6BU7J2XLyjVG"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Ni\u00f1a de Mis Sue\u00f1os",
+      "url": "https://open.spotify.com/track/5R70etCKr7FOqdTqnohNfT"
     },
     {
       "added_at": "2022-01-14 13:41:24",
@@ -225,6 +321,38 @@
       "url": "https://open.spotify.com/track/6Eclvq2hFXEJ83meyFDze0"
     },
     {
+      "added_at": "2022-01-28 06:00:00",
+      "album": {
+        "name": "C.U.L.O Remix",
+        "url": "https://open.spotify.com/album/27dEXi5d5DLq5jNxHnvov5"
+      },
+      "artists": [
+        {
+          "name": "Anonimus",
+          "url": "https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 279882,
+      "name": "C.U.L.O Remix",
+      "url": "https://open.spotify.com/track/7l8ahZGFqEVNZy0mI1qMdw"
+    },
+    {
       "added_at": "2022-01-14 13:41:24",
       "album": {
         "name": "La T\u00f3xica",
@@ -239,6 +367,46 @@
       "duration_ms": 171280,
       "name": "La T\u00f3xica",
       "url": "https://open.spotify.com/track/5lwNIm2sP8ixUpCkeoO9G9"
+    },
+    {
+      "added_at": "2022-01-28 22:31:01",
+      "album": {
+        "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
+        "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        },
+        {
+          "name": "Abhir Hathi",
+          "url": "https://open.spotify.com/artist/2D8UzkIVdg1bj0Iqz6gjk0"
+        },
+        {
+          "name": "Bejo",
+          "url": "https://open.spotify.com/artist/0adJG3bdFTHCkTY28NkY4u"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        },
+        {
+          "name": "EL IMA",
+          "url": "https://open.spotify.com/artist/00vsUIEaNHw6qoQnh8DQM2"
+        }
+      ],
+      "duration_ms": 413110,
+      "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
+      "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
     },
     {
       "added_at": "2022-01-14 13:41:24",
@@ -285,6 +453,30 @@
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
+      "added_at": "2022-01-28 06:00:00",
+      "album": {
+        "name": "La Vida Es As\u00ed",
+        "url": "https://open.spotify.com/album/4ApY38KVEw58DxrAAMxiig"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "duration_ms": 227232,
+      "name": "La Vida Es As\u00ed",
+      "url": "https://open.spotify.com/track/2X4CAuJnQIVQKG7YUwSXI9"
+    },
+    {
       "added_at": "2022-01-14 13:41:24",
       "album": {
         "name": "Cotidiano",
@@ -323,26 +515,6 @@
       "duration_ms": 202478,
       "name": "Mi Gata",
       "url": "https://open.spotify.com/track/0Z46SPLJZUC2aKDAggsMvr"
-    },
-    {
-      "added_at": "2022-01-14 13:41:24",
-      "album": {
-        "name": "Chantaje",
-        "url": "https://open.spotify.com/album/0q8QW2ceM8XpkNRQRe5akg"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 238688,
-      "name": "Chantaje",
-      "url": "https://open.spotify.com/track/63XiGZGxNIWXA5CDz1dZ2l"
     },
     {
       "added_at": "2022-01-14 13:41:24",
@@ -479,30 +651,6 @@
     {
       "added_at": "2022-01-14 13:41:24",
       "album": {
-        "name": "Rebotando",
-        "url": "https://open.spotify.com/album/0gUcZrn66ERS3JahEC6XXu"
-      },
-      "artists": [
-        {
-          "name": "ITHAN NY",
-          "url": "https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs"
-        },
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Rebotando",
-      "url": "https://open.spotify.com/track/1mdeAYnMYmXMw4fFSo5pdH"
-    },
-    {
-      "added_at": "2022-01-14 13:41:24",
-      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
       },
@@ -577,6 +725,22 @@
       "url": "https://open.spotify.com/track/4mz5eHbBc0p3lc2Unx1rpD"
     },
     {
+      "added_at": "2022-01-28 06:00:00",
+      "album": {
+        "name": "Bendecidos",
+        "url": "https://open.spotify.com/album/0xng3U8wYOaDWidTkmPwWv"
+      },
+      "artists": [
+        {
+          "name": "YoGambii",
+          "url": "https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD"
+        }
+      ],
+      "duration_ms": 190567,
+      "name": "Bendecidos",
+      "url": "https://open.spotify.com/track/7pk0dEO7AArCL34gHSpXxK"
+    },
+    {
       "added_at": "2022-01-14 13:41:24",
       "album": {
         "name": "Bendici\u00f3n",
@@ -627,22 +791,6 @@
     {
       "added_at": "2022-01-14 13:41:24",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/1F5zDyjWNyOXLBaOUDzVpf"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/4i1vORCFsX121xefJA7Fg6"
-    },
-    {
-      "added_at": "2022-01-14 13:41:24",
-      "album": {
         "name": "Dictadura",
         "url": "https://open.spotify.com/album/45dcycgr7aPRo5boag4A6h"
       },
@@ -655,22 +803,6 @@
       "duration_ms": 208007,
       "name": "Dictadura",
       "url": "https://open.spotify.com/track/4yoc5cUWk4OFvqOcvFvw0o"
-    },
-    {
-      "added_at": "2022-01-14 13:41:24",
-      "album": {
-        "name": "F\u00e1cil",
-        "url": "https://open.spotify.com/album/6bfyGhwirrN6QAAUWXpcEw"
-      },
-      "artists": [
-        {
-          "name": "Peke\u00f1o 77",
-          "url": "https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD"
-        }
-      ],
-      "duration_ms": 215715,
-      "name": "F\u00e1cil",
-      "url": "https://open.spotify.com/track/4KtRZ4ZQiCObBVBatJomRn"
     },
     {
       "added_at": "2022-01-14 13:41:24",
@@ -839,22 +971,6 @@
       "duration_ms": 282857,
       "name": "Noche En Medallo",
       "url": "https://open.spotify.com/track/5H7IIDhHvsI14nqchte71z"
-    },
-    {
-      "added_at": "2022-01-14 13:41:24",
-      "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/4GdsShGA3VRA8tXcxM5EFe"
-      },
-      "artists": [
-        {
-          "name": "Dielo",
-          "url": "https://open.spotify.com/artist/0rzDXstZA6ldNJaSgrxjvB"
-        }
-      ],
-      "duration_ms": 144842,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/5xQaovKfAD3o4NuHpCfOSL"
     },
     {
       "added_at": "2022-01-14 13:41:24",
@@ -1243,34 +1359,6 @@
       "duration_ms": 277693,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP"
-    },
-    {
-      "added_at": "2022-01-14 13:41:24",
-      "album": {
-        "name": "La Mano (feat. Tavo Rayo)",
-        "url": "https://open.spotify.com/album/2sFm2ViF2986w7ljTNKBoR"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Tavo Rayo",
-          "url": "https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp"
-        }
-      ],
-      "duration_ms": 187580,
-      "name": "La Mano (feat. Tavo Rayo)",
-      "url": "https://open.spotify.com/track/3YFt3sGjTaCL0kj3YfV4VG"
     },
     {
       "added_at": "2022-01-14 13:41:24",
@@ -1955,26 +2043,6 @@
     {
       "added_at": "2022-01-14 13:41:24",
       "album": {
-        "name": "Me Fije",
-        "url": "https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 202306,
-      "name": "Me Fije",
-      "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
-    },
-    {
-      "added_at": "2022-01-14 13:41:24",
-      "album": {
         "name": "ALMAS GEMELAS",
         "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
       },
@@ -2047,46 +2115,6 @@
       "duration_ms": 208000,
       "name": "TODO O NADA",
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
-    },
-    {
-      "added_at": "2022-01-14 13:41:24",
-      "album": {
-        "name": "Fragancia (with Jay Wheeler)",
-        "url": "https://open.spotify.com/album/6IvNKfgj37xVwthEmXHcMK"
-      },
-      "artists": [
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 237627,
-      "name": "Fragancia (with Jay Wheeler)",
-      "url": "https://open.spotify.com/track/3YNolHalg56UrvPabqw6JP"
-    },
-    {
-      "added_at": "2022-01-14 13:41:24",
-      "album": {
-        "name": "911 (Remix)",
-        "url": "https://open.spotify.com/album/57ppCWTeAnqooyrR4DzbwR"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 208631,
-      "name": "911 - Remix",
-      "url": "https://open.spotify.com/track/27RSJHEA99Y0Vsow7nA37A"
     },
     {
       "added_at": "2022-01-14 13:41:24",

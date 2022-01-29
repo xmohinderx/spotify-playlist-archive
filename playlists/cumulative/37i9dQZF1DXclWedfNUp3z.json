@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 315000,
       "name": "- - -",
       "url": "https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 364476,
       "name": "Absolute Sensitivity",
       "url": "https://open.spotify.com/track/6EgHKLUAPtLqfvAVYx5PMr"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 236746,
       "name": "Afterrain",
       "url": "https://open.spotify.com/track/2NceltBWeS2qRzVVvz5TuT"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 149142,
       "name": "Ailments",
       "url": "https://open.spotify.com/track/55HhJOp3tvLBBnCYKnRqt2"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 644500,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 134533,
       "name": "Caracas Night September 11, 1975",
       "url": "https://open.spotify.com/track/41eK0VAehccolm2ckwhPrF"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 193907,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/0gopaBSZjH3RrnN35lhwzu"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 86292,
       "name": "conversations with grandma",
       "url": "https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 292800,
       "name": "COT2ON",
       "url": "https://open.spotify.com/track/6lMcrN9rMYh0AKMGQbE30j"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 337265,
       "name": "Echo Affinity",
       "url": "https://open.spotify.com/track/42cbG4Op4sjhFEHagNsWqT"
@@ -1135,7 +1135,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 191413,
       "name": "Kalimba Heart",
       "url": "https://open.spotify.com/track/6zHLUchfVKSSvDOYqrQu4U"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 124000,
       "name": "La Tierra de la Culebra",
       "url": "https://open.spotify.com/track/3oV2LIPGCNA2HlygO7oivy"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 180447,
       "name": "Landsort",
       "url": "https://open.spotify.com/track/2FjbXhMV77Qux09fcSDJma"
@@ -1219,6 +1219,24 @@
       "duration_ms": 298694,
       "name": "Le danseur dans la bo\u00eete",
       "url": "https://open.spotify.com/track/0vGbsSDK7St7mNqbs19nUC"
+    },
+    {
+      "album": {
+        "name": "Jardin au fou",
+        "url": "https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV"
+      },
+      "artists": [
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268400,
+      "name": "Le jardin",
+      "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
     },
     {
       "album": {
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 401977,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J"
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 160000,
       "name": "Omprovo",
       "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 335000,
       "name": "Parlor Palm",
       "url": "https://open.spotify.com/track/6MQYIEGGDxg9stKxxqLo2S"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 171921,
       "name": "Piano Improvisation No. 7",
       "url": "https://open.spotify.com/track/5IqFZqj0rKubZoznHlENuG"
@@ -1745,10 +1763,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 938000,
       "name": "Plant Life I",
       "url": "https://open.spotify.com/track/1aLfDarAFvtFWnWcfbPbqH"
+    },
+    {
+      "album": {
+        "name": "Indoor Plant Life",
+        "url": "https://open.spotify.com/album/0fZ9wi4O7rQVeriYhbVSy1"
+      },
+      "artists": [
+        {
+          "name": "Ki Oni",
+          "url": "https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 989000,
+      "name": "Plant Life II",
+      "url": "https://open.spotify.com/track/13pfLHfoAHhkW8gDkNKSJr"
     },
     {
       "album": {
@@ -1799,7 +1835,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 132000,
       "name": "Rainforest Revival Shampoo Bar",
       "url": "https://open.spotify.com/track/6f4acBjqPs80P0Ttnp1rN1"
@@ -1871,7 +1907,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 269619,
       "name": "Reverie for Fragile Houseplants",
       "url": "https://open.spotify.com/track/2wA6lj5uEjfVVDflH5t3Ud"
@@ -1965,7 +2001,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 319666,
       "name": "SHEEP",
       "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
@@ -2023,7 +2059,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 316573,
       "name": "Silver Secrets",
       "url": "https://open.spotify.com/track/2OV2BllliHblN27N5I31Hq"
@@ -2059,10 +2095,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 341621,
       "name": "Sin\u00fa",
       "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje"
+      },
+      "artists": [
+        {
+          "name": "Facta",
+          "url": "https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209646,
+      "name": "Sistine (Plucks)",
+      "url": "https://open.spotify.com/track/6HmtbuPgCApFCDKPmciwAq"
     },
     {
       "album": {
@@ -2131,7 +2185,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 160515,
       "name": "Solo, Op. 1: No. 1",
       "url": "https://open.spotify.com/track/2HCtyKgeht2LC7jXhywJ1s"
@@ -2293,7 +2347,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 165000,
       "name": "The Lonely Island of Neopagan Practices",
       "url": "https://open.spotify.com/track/3JsRGgz1mChiwFTuSJ7dev"

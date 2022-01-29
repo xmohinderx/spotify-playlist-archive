@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Fred again.., Romy & HAAi",
+  "description": "The home for alternative electronic music. Cover: Leon Vynehall",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/2mz3UwcraODF5DIF7AnpDE"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219936,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/3fTxLcPR2i8b9yIrvNScuC"
+    },
+    {
+      "album": {
         "name": "Pete Tong + Friends: Ibiza Classics",
         "url": "https://open.spotify.com/album/6t9MecARSZoPZScE7kk3sP"
       },
@@ -241,6 +259,28 @@
       "duration_ms": 218803,
       "name": "All About Love - Edit",
       "url": "https://open.spotify.com/track/6MPAQZTnBh5NvR9cH0qCJS"
+    },
+    {
+      "album": {
+        "name": "to hell with it (Remixes)",
+        "url": "https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Anz",
+          "url": "https://open.spotify.com/artist/3vEAQROK0d2XQI0d50KAh8"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311066,
+      "name": "All my friends know - Anz Remix",
+      "url": "https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp"
     },
     {
       "album": {
@@ -443,7 +483,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 315888,
       "name": "BIAS JAPAN",
       "url": "https://open.spotify.com/track/6tXqraW4sHtYfRLf7LxwOZ"
@@ -523,7 +563,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 257305,
       "name": "Bring Me Back To You",
       "url": "https://open.spotify.com/track/7cGEb9OhDhndfBqNBvSjzy"
@@ -603,7 +643,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 233314,
       "name": "Cicada (feat. Arca)",
       "url": "https://open.spotify.com/track/1r4MvTc1gwfHdt2TuMMYx0"
@@ -665,6 +705,24 @@
       "duration_ms": 195905,
       "name": "Coming Back (feat. SZA)",
       "url": "https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ"
+    },
+    {
+      "album": {
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/6ssAIdfMYHAZL5V7K6K1NS"
+      },
+      "artists": [
+        {
+          "name": "Roska",
+          "url": "https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Count Me Out Fam",
+      "url": "https://open.spotify.com/track/7u5EZQDJKR5ZBaUPzSn2T0"
     },
     {
       "album": {
@@ -1027,7 +1085,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 263986,
       "name": "Got Me (feat. Julia Stone)",
       "url": "https://open.spotify.com/track/1EBDX2eMMsaUwLjWAde0Cm"
@@ -2308,6 +2366,24 @@
     },
     {
       "album": {
+        "name": "Sugar Slip (The Lick)",
+        "url": "https://open.spotify.com/album/4DXvADiZnbapIFym7sn9e7"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449655,
+      "name": "Sugar Slip (The Lick)",
+      "url": "https://open.spotify.com/track/1nVuOeLEhqNSopzOtd34Uu"
+    },
+    {
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/1QutN3qqbIejNNSCLw18ix"
       },
@@ -2331,7 +2407,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 196403,
       "name": "Sunlight (Edit) (feat. Lady Blackbird)",
       "url": "https://open.spotify.com/track/0V7ogB2hYyJfQyH02hiPis"
@@ -2468,6 +2544,24 @@
     },
     {
       "album": {
+        "name": "Projections",
+        "url": "https://open.spotify.com/album/1jLpg42UwBnazMOIgAZtRQ"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "The need to avoid",
+      "url": "https://open.spotify.com/track/25PIpJMhgUa85Yaz7nvUxV"
+    },
+    {
+      "album": {
         "name": "The Sun Made For A Soft Landing",
         "url": "https://open.spotify.com/album/3A5cWp5eGUjg993YKyVbgK"
       },
@@ -2479,7 +2573,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 270002,
       "name": "The Sun Made For A Soft Landing",
       "url": "https://open.spotify.com/track/18Y9Nx6jzGCyO70IJMNIZU"
@@ -2725,6 +2819,36 @@
       "duration_ms": 235842,
       "name": "With Light (feat. Novelist)",
       "url": "https://open.spotify.com/track/00SzJpuru4gLnbmCK6wnSe"
+    },
+    {
+      "album": {
+        "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
+        "url": "https://open.spotify.com/album/5gv2eRP8iQYnhQo7YaFUMn"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Dave Giles II",
+          "url": "https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw"
+        },
+        {
+          "name": "Cor.Ece",
+          "url": "https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv"
+        },
+        {
+          "name": "Mike Dunn",
+          "url": "https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181801,
+      "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
+      "url": "https://open.spotify.com/track/3OZUrZBtQCiMmpoZquu0BS"
     },
     {
       "album": {

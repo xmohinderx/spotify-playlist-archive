@@ -866,6 +866,24 @@
     },
     {
       "album": {
+        "name": "Bull\u2019s Eye",
+        "url": "https://open.spotify.com/album/7IPXNsZzeMWkgEAAOlGF3K"
+      },
+      "artists": [
+        {
+          "name": "Tom Kalani",
+          "url": "https://open.spotify.com/artist/19b5Zn4pI7sCFiHfSlRFSc"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150841,
+      "name": "Bull\u2019s Eye",
+      "url": "https://open.spotify.com/track/21gBsNMebPvrZ6jAD0FLBN"
+    },
+    {
+      "album": {
         "name": "Rest",
         "url": "https://open.spotify.com/album/0zR6lyMZuofipT1Mh4Glrn"
       },
@@ -953,6 +971,24 @@
       "duration_ms": 533826,
       "name": "Castles High, Marble Bright",
       "url": "https://open.spotify.com/track/4Yob5qJ8ZZWXbvtvLoAMMU"
+    },
+    {
+      "album": {
+        "name": "Catch a Breath",
+        "url": "https://open.spotify.com/album/2PPerclhpHwTZ08iASsku1"
+      },
+      "artists": [
+        {
+          "name": "Light of Sun",
+          "url": "https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216315,
+      "name": "Catch a Breath",
+      "url": "https://open.spotify.com/track/4XVFa7MhMILscQRd2MmreO"
     },
     {
       "album": {

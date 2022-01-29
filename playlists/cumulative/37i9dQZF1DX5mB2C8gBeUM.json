@@ -374,6 +374,24 @@
     },
     {
       "album": {
+        "name": "Bottled Up",
+        "url": "https://open.spotify.com/album/26hH9QAdCtRTBWQO5K5cHu"
+      },
+      "artists": [
+        {
+          "name": "Levi Hummon",
+          "url": "https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157516,
+      "name": "Bottled Up",
+      "url": "https://open.spotify.com/track/7ytcZJAveILPGewikd9BWS"
+    },
+    {
+      "album": {
         "name": "Bottom Of This Bottle",
         "url": "https://open.spotify.com/album/6Jwg4j56ovv2lKOOdaup4R"
       },
@@ -1209,6 +1227,24 @@
       "duration_ms": 181666,
       "name": "Here's to Anyone",
       "url": "https://open.spotify.com/track/7zG34GF8aBH9wH7b12dW09"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/2xbSaikAqmnjC9YuYjYPxM"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230775,
+      "name": "High",
+      "url": "https://open.spotify.com/track/6rRGtOgUxgARW5QXK2k9EY"
     },
     {
       "album": {

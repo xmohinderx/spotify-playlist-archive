@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 164093,
       "name": "12AM",
       "url": "https://open.spotify.com/track/0pl9fHyiXmEF7siRvdlNMe"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 188444,
       "name": "Cont\u00e1ndoles",
       "url": "https://open.spotify.com/track/0Vus5wQREmdEQw3dEPwb5c"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 190222,
       "name": "Dejarte Ir",
       "url": "https://open.spotify.com/track/1aaQt9QmSCjaXhiu5Ebl7f"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 180400,
       "name": "Ego\u00edsmo",
       "url": "https://open.spotify.com/track/1AXohCkuBPhh0RqTNqkXqa"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-29",
       "duration_ms": 262285,
       "name": "El Club de los Ojos Tristes",
       "url": "https://open.spotify.com/track/7ly4gf2Mh2MnSD3IUXHH6R"
@@ -487,6 +487,24 @@
       "duration_ms": 204327,
       "name": "Girasol",
       "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
+    },
+    {
+      "album": {
+        "name": "Harmless",
+        "url": "https://open.spotify.com/album/7zJbSr0ek4foS3h1CKClQa"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107200,
+      "name": "Harmful",
+      "url": "https://open.spotify.com/track/1DmyBKM2RhkCdfdr0wLPVd"
     },
     {
       "album": {
