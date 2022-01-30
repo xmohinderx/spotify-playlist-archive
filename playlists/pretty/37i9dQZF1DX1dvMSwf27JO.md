@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > and why aren't you in uniform?
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,125 likes - 94 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,638 likes - 94 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

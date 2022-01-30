@@ -634,6 +634,24 @@
     },
     {
       "album": {
+        "name": "D\u00e6tur",
+        "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "A\u00f0eins n\u00e6r",
+      "url": "https://open.spotify.com/track/5h23vDKwQdcIT1zTDk42Nm"
+    },
+    {
+      "album": {
         "name": "100 \u00edslensk j\u00f3lal\u00f6g",
         "url": "https://open.spotify.com/album/4o9fvc9DuQFKxqGcHM9g7Y"
       },
@@ -957,6 +975,24 @@
       "duration_ms": 190509,
       "name": "Black Hearted",
       "url": "https://open.spotify.com/track/25qk9xa71F1POdI4vj7rbi"
+    },
+    {
+      "album": {
+        "name": "D\u00e6tur",
+        "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231925,
+      "name": "Bleikur og bl\u00e1r",
+      "url": "https://open.spotify.com/track/3oqh1aMQniNyTPWZl6TC1a"
     },
     {
       "album": {
@@ -2201,7 +2237,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
@@ -2315,6 +2351,28 @@
       "duration_ms": 167498,
       "name": "Einn Bj\u00f3r (feat. TH\u00d8R & Bj\u00f8rn)",
       "url": "https://open.spotify.com/track/6zqvYKBBbEEQbKm9rmiwb2"
+    },
+    {
+      "album": {
+        "name": "D\u00e6tur",
+        "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        },
+        {
+          "name": "Hemmi Gunn",
+          "url": "https://open.spotify.com/artist/3vC04ef4uvXKfIS5Z9bKUp"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150720,
+      "name": "Einn dans vi\u00f0 mig",
+      "url": "https://open.spotify.com/track/0GDx2mPnwXcluMEAgaWdj4"
     },
     {
       "album": {
@@ -3655,7 +3713,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -4538,6 +4596,24 @@
     },
     {
       "album": {
+        "name": "D\u00e6tur",
+        "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198272,
+      "name": "Hv\u00edl\u00edkur dagur",
+      "url": "https://open.spotify.com/track/62NXm0eJkJoQj4anmSlBew"
+    },
+    {
+      "album": {
         "name": "Hv\u00edl\u00edkur dagur",
         "url": "https://open.spotify.com/album/05rfeYypa0ipne0krxcPsY"
       },
@@ -4955,7 +5031,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
@@ -5969,7 +6045,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
@@ -6139,7 +6215,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
@@ -6269,7 +6345,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
@@ -6339,6 +6415,24 @@
       "duration_ms": 228250,
       "name": "L\u00edfi\u00f0 fer \u00fe\u00e9r vel",
       "url": "https://open.spotify.com/track/3ufyPKeYsCNWFhZabEgcnD"
+    },
+    {
+      "album": {
+        "name": "D\u00e6tur",
+        "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192461,
+      "name": "L\u00edttu upp",
+      "url": "https://open.spotify.com/track/3j2aeHoDFivquMQFbbjKDP"
     },
     {
       "album": {
@@ -6793,7 +6887,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
@@ -7615,7 +7709,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 193506,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
@@ -8663,6 +8757,24 @@
       "duration_ms": 237750,
       "name": "Seg\u00f0u m\u00e9r",
       "url": "https://open.spotify.com/track/04ZMCgKlsRcTDrxGMKCrAx"
+    },
+    {
+      "album": {
+        "name": "D\u00e6tur",
+        "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237750,
+      "name": "Seg\u00f0u m\u00e9r",
+      "url": "https://open.spotify.com/track/0S0sVHlrsm90S2a7UU2SNM"
     },
     {
       "album": {
@@ -9722,6 +9834,24 @@
     },
     {
       "album": {
+        "name": "S\u00e6ki etta",
+        "url": "https://open.spotify.com/album/6KGurccoqjxhUwnAw75Jbl"
+      },
+      "artists": [
+        {
+          "name": "Yung Nigo Drippin'",
+          "url": "https://open.spotify.com/artist/6I8ljltXh3l5H8hgKMSeAG"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123097,
+      "name": "S\u00e6ki etta",
+      "url": "https://open.spotify.com/track/6mJkG3BDzxX716qOdqlT05"
+    },
+    {
+      "album": {
         "name": "Kve\u00f0ja, Br\u00edet",
         "url": "https://open.spotify.com/album/3LSoEqFvR1Z4ichisNDAJT"
       },
@@ -10346,6 +10476,24 @@
     },
     {
       "album": {
+        "name": "D\u00e6tur",
+        "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165365,
+      "name": "T\u00fdpan",
+      "url": "https://open.spotify.com/track/5E1wbZJiMNBx79K4GPxAwT"
+    },
+    {
+      "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
       },
@@ -10547,7 +10695,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 205533,
       "name": "Vogur",
       "url": "https://open.spotify.com/track/287Fa4maOumSHlDoPiGmv9"
@@ -10837,7 +10985,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 179426,
       "name": "What Else Can I Do?",
       "url": "https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG"
@@ -11662,6 +11810,24 @@
     },
     {
       "album": {
+        "name": "D\u00e6tur",
+        "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201969,
+      "name": "\u00d6rmagna",
+      "url": "https://open.spotify.com/track/0hPHAF0F67IQZZZ6Giis99"
+    },
+    {
+      "album": {
         "name": "\u00d8ve Os P\u00e5 Hinanden",
         "url": "https://open.spotify.com/album/4TWKMqtrWaLhZEpUVVyfY2"
       },
@@ -11797,6 +11963,24 @@
       "duration_ms": 147013,
       "name": "\u00deja\u0301st",
       "url": "https://open.spotify.com/track/0WqIO0kLoyuixqHTjs8zLJ"
+    },
+    {
+      "album": {
+        "name": "D\u00e6tur",
+        "url": "https://open.spotify.com/album/7rS3l0oBJpuGrSLn1m4A1o"
+      },
+      "artists": [
+        {
+          "name": "Fri\u00f0rik D\u00f3r",
+          "url": "https://open.spotify.com/artist/0hHSuSCpKFLU5twpJNTO3t"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192818,
+      "name": "\u00de\u00fa",
+      "url": "https://open.spotify.com/track/1TT73ojWlDoaUtMMVuhZn0"
     },
     {
       "album": {

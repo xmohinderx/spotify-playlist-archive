@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 242293,
       "name": "Almohada",
       "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "El Primer Amor",
       "url": "https://open.spotify.com/track/7gDmykuww1wLIlHgpBFW4Y"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 239412,
       "name": "En las Noches",
       "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
@@ -1519,7 +1519,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 199280,
       "name": "No Me Vuelvo a Enamorar",
       "url": "https://open.spotify.com/track/2su8ABoDsXbAXMIqLUgjnK"
@@ -1653,7 +1653,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 207334,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/4tR3vwB6mMlKonmvI5MZvX"
@@ -1689,7 +1689,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 210066,
       "name": "Palabras De Mujer",
       "url": "https://open.spotify.com/track/6dOuoQHcMfVum7s33Cj5u1"
@@ -1707,7 +1707,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 209040,
       "name": "Para Que Pides Perdon (Bonus Track)",
       "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
@@ -1725,7 +1725,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 209040,
       "name": "Para Que Pides Perdon - Bonus Track",
       "url": "https://open.spotify.com/track/1mL823LB8IlMK8KBSPRZkm"
@@ -2363,7 +2363,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 206520,
       "name": "Te Ofrezco",
       "url": "https://open.spotify.com/track/4HTteIyy5JZ9YhHmdGcTJA"
@@ -2585,6 +2585,28 @@
       "duration_ms": 217879,
       "name": "Veinte An\u0303os",
       "url": "https://open.spotify.com/track/1yzW4kYSLMNzmAd4XoQiJK"
+    },
+    {
+      "album": {
+        "name": "Volver a Ti",
+        "url": "https://open.spotify.com/album/0HsazH0VuWelGUY4BNhj0b"
+      },
+      "artists": [
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236501,
+      "name": "Volver a Ti",
+      "url": "https://open.spotify.com/track/68yyY1AqaMfKuGSRTCNrUN"
     },
     {
       "album": {

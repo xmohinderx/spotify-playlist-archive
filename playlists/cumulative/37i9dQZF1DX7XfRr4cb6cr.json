@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 171043,
       "name": "Before You Sleep",
       "url": "https://open.spotify.com/track/1KIC8wPFEZvACivBF5dy1y"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 435276,
       "name": "Bondage To Formula",
       "url": "https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 447034,
       "name": "Breakdown (The End of Chemical Romance)",
       "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 508000,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 436341,
       "name": "Fantas for Saxophone and Voice",
       "url": "https://open.spotify.com/track/6t7dqTSiUgR0WANDNLyHFC"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 236692,
       "name": "Genesis (Version)",
       "url": "https://open.spotify.com/track/5Akz6IbYaaIteC7kQkL9he"
@@ -875,10 +875,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 233968,
       "name": "Left On The Ice",
       "url": "https://open.spotify.com/track/2DhxltKaXEnhvKvCMyw4Xi"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/7bpTt6OXLkmtTJm51VxtYw"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Little One",
+      "url": "https://open.spotify.com/track/4ZWOPkS0VXZ00g4ZLxiHO6"
     },
     {
       "album": {
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 604544,
       "name": "Mend",
       "url": "https://open.spotify.com/track/116HZtuidLUHpGNIIgDcR9"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 197875,
       "name": "North",
       "url": "https://open.spotify.com/track/2YaxyF5xjcqFTgUb62sEPa"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 89302,
       "name": "notes of a crocodile",
       "url": "https://open.spotify.com/track/7DgYQpSRq8oKdstt80n0A4"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 564100,
       "name": "Saints And Sinners",
       "url": "https://open.spotify.com/track/1d2NFYfJCzOdv0wJal2ecV"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 653904,
       "name": "Spectacle Of Ritual",
       "url": "https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 304285,
       "name": "Stora vreden i Storvreta",
       "url": "https://open.spotify.com/track/1UN8NVjNxGpLj5bYs0m73h"
@@ -1649,7 +1667,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 108266,
       "name": "Supreme Monuments",
       "url": "https://open.spotify.com/track/7lyDRUzEWTELXc0Kec4i8X"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 474125,
       "name": "Thaw",
       "url": "https://open.spotify.com/track/6B37IfOOUpVWjxYXkW5Fir"
@@ -1804,6 +1822,24 @@
     },
     {
       "album": {
+        "name": "Toimetonna",
+        "url": "https://open.spotify.com/album/33f4xR6aZb6Z4Hl0xKLJlI"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6r Alltid",
+          "url": "https://open.spotify.com/artist/5aPyGWlpqRG3hlsbTDgPPu"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188906,
+      "name": "Toimetonna",
+      "url": "https://open.spotify.com/track/5XVbQfGCe3tYYZruCFXlUq"
+    },
+    {
+      "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/3mxilQQIyEb5YU8HVmATcH"
       },
@@ -1833,7 +1869,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 153052,
       "name": "Trees",
       "url": "https://open.spotify.com/track/0Q2ZAzvitoJyxvPfPt2Dz8"
@@ -1949,7 +1985,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 300521,
       "name": "Vi \u00e4r \u00f6verallt",
       "url": "https://open.spotify.com/track/1IMyiFwhS3ZIinvYEp2ivG"
@@ -2011,7 +2047,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "With Eyes Unclouded By Longing",
       "url": "https://open.spotify.com/track/6Bm1HcsOBtJEwxjnVQ7yE7"

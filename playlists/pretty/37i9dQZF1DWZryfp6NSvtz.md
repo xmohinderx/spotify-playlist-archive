@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: The Faim
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,878 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,039 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 23 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 |
 | 24 | [Plastic Heart](https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart](https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3) | 3:03 |
 | 25 | [Deadman](https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Deadman](https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs) | 3:29 |
-| 26 | [Lonewolf](https://open.spotify.com/track/3xLyoznRCxpiHesDvFuruO) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Stefan](https://open.spotify.com/artist/517s7engiN791R679LNatZ) | [Lonewolf](https://open.spotify.com/album/3tJkL5SWXHgmqyRcXhPR3n) | 3:11 |
+| 26 | [Lonewolf](https://open.spotify.com/track/3xLyoznRCxpiHesDvFuruO) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Stefan](https://open.spotify.com/artist/20Xs7JytmAIAtnNQ4Cqe0J) | [Lonewolf](https://open.spotify.com/album/3tJkL5SWXHgmqyRcXhPR3n) | 3:11 |
 | 27 | [A World in Tears](https://open.spotify.com/track/5f2GtU6iYeVHls8sfiBsyn) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [A World in Tears](https://open.spotify.com/album/7IQK6f51JQy46xwc5G6gT9) | 3:45 |
 | 28 | [Blow This Up](https://open.spotify.com/track/7Kms1Hb1waKJK0nz9P3AMq) | [Fox Royale](https://open.spotify.com/artist/3FddvE2NYrGSS0g0cMy8om) | [Blow This Up](https://open.spotify.com/album/5ACdT3qjErgv1FH1XVOoVK) | 2:51 |
 | 29 | [God Mode](https://open.spotify.com/track/3fKImW78YPG0o8lHYYo21l) | [Y!KES](https://open.spotify.com/artist/269b0NTPChA65Co1lCiMJm) | [God Mode](https://open.spotify.com/album/1GvslqXT34VyeA5kyHN9yK) | 4:22 |

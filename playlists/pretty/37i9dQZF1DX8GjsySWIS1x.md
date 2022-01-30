@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gaming music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,470 likes - 106 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,640 likes - 106 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 6 | [San Andreas Theme Song](https://open.spotify.com/track/5f7F8ovtEmFzOdyN5fTOKl) | [Young Maylay](https://open.spotify.com/artist/58zzaIQ8XVObJml8da0b2e) | [San Andreas Original Mixtape](https://open.spotify.com/album/5eH1GJwSmZXI4Xebe1A9X3) | 1:26 |
 | 7 | [Life By The Sea](https://open.spotify.com/track/1f466T8PHzdRdnWBwnvCB3) | [Tubbo](https://open.spotify.com/artist/4B1kkhDbhSyiS3VDgbKV2T), [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [Life By The Sea](https://open.spotify.com/album/2A2PsySYwEwfHOsnVNnNjm) | 3:52 |
 | 8 | [SugarCrash!](https://open.spotify.com/track/3FxPbp05KjMBa4HbhAJTH0) | [ElyOtto](https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW) | [SugarCrash!](https://open.spotify.com/album/0ONcqjwwNqJJgaPmQ7nC4y) | 1:20 |
-| 9 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:28 |
+| 9 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 |
 | 10 | [Roadtrip](https://open.spotify.com/track/4Agtk2MrapdZAVN7v6PuFO) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd), [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [Roadtrip](https://open.spotify.com/album/4nndDRqggBACyN5dw13kDI) | 2:13 |
 | 11 | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [HOT DEMON B!TCHES NEAR U ! ! !](https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3) | 1:36 |
 | 12 | [Legends Never Die](https://open.spotify.com/track/1FpVJ7HpZInE2GvhVE2TwT) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Legends Never Die](https://open.spotify.com/album/30gnisiaho0Y6KRWJ7gIaA) | 3:55 |

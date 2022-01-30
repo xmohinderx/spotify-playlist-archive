@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qK8ma5wgG1.md) - [plain]
 
 > Beautiful songs to break your heart...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,196 likes - 68 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,691 likes - 68 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

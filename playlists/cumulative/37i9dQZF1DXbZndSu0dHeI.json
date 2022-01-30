@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 281906,
       "name": "Attempt",
       "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 202226,
       "name": "Birdcage",
       "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 180706,
       "name": "Cheer Captain",
       "url": "https://open.spotify.com/track/1rW9uae4EZuui4vARG2IyI"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 207786,
       "name": "Circles In The Firing Line - Edit",
       "url": "https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 191281,
       "name": "Dino's",
       "url": "https://open.spotify.com/track/45Q4nigFbMgJiif53Fj0am"
@@ -601,6 +601,24 @@
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/78wvkEG8AhizCo20BeJjRF"
+    },
+    {
+      "album": {
+        "name": "Can't Take It Much Longer",
+        "url": "https://open.spotify.com/album/7GFrdDNSJkI1tvGacMKu5K"
+      },
+      "artists": [
+        {
+          "name": "Ulysses Wells",
+          "url": "https://open.spotify.com/artist/6QocqrfaLWT7k0WGCep9IB"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238040,
+      "name": "Drift On Out Of Sight",
+      "url": "https://open.spotify.com/track/7dKujVWZgXjZH36Ws7aFa0"
     },
     {
       "album": {
@@ -947,7 +965,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 206233,
       "name": "Guts",
       "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 161880,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/2B56sqgNauLMR9iqBMITwb"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 213886,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/2JU0uzd2D1JxsvYsfEwZEe"
@@ -1715,7 +1733,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 200000,
       "name": "Orange Yellow Orange",
       "url": "https://open.spotify.com/track/17jfYLXe142NlABSFWJpl3"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 134014,
       "name": "The Mersey Line",
       "url": "https://open.spotify.com/track/1CB9cgyrhcSfH3ppqLeMQV"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 214387,
       "name": "Victoria Falls",
       "url": "https://open.spotify.com/track/6SZgDG2pMgk1iZXYT1ZGPI"

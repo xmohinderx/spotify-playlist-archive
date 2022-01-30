@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 156880,
       "name": "Frida Kahlo",
       "url": "https://open.spotify.com/track/0CKEQRRvvvdcb7KMh493ky"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 204087,
       "name": "Got The Love",
       "url": "https://open.spotify.com/track/3Yz87ZZz3UbjBTE9d7QHD1"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 152331,
       "name": "I Know It",
       "url": "https://open.spotify.com/track/3tWizRkyZ5roQD6fqWZVuf"
@@ -1760,6 +1760,32 @@
     },
     {
       "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/2BkuqqT7CCE6ZZpKe3tp31"
+      },
+      "artists": [
+        {
+          "name": "aloe.401",
+          "url": "https://open.spotify.com/artist/0hCbj8C1be4UO4iFhzXtF6"
+        },
+        {
+          "name": "DAP The Contract",
+          "url": "https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73"
+        },
+        {
+          "name": "Truvi",
+          "url": "https://open.spotify.com/artist/1N8Iu7UNyNLPkpzdXClOvj"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190613,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/2zFmInJW8nn2O8hJRpgt0O"
+    },
+    {
+      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/5MkETrviQO7fINnC1NxDBx"
       },
@@ -1775,7 +1801,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 163539,
       "name": "Legend",
       "url": "https://open.spotify.com/track/1zabe8PVAoBuXV2SEX1vHh"
@@ -1793,7 +1819,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 163162,
       "name": "LENTO",
       "url": "https://open.spotify.com/track/5itlL5Er5CjSF7wvwXRWjf"
@@ -1967,7 +1993,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 170468,
       "name": "Made For Silence",
       "url": "https://open.spotify.com/track/7hRuYSwzGm8OifBoos0nG9"
@@ -2839,7 +2865,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 236733,
       "name": "Stand Up (Edit)",
       "url": "https://open.spotify.com/track/68C8fxu1EXWo0pSRWebRyk"
@@ -2887,7 +2913,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 220750,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6gbS82xMgpSQ1rZQrG5zxz"
@@ -3055,7 +3081,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 163509,
       "name": "Sweet Sensation",
       "url": "https://open.spotify.com/track/0JvAFT6V106SHfkyVwhf4J"
@@ -3201,7 +3227,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 200115,
       "name": "The Wheel",
       "url": "https://open.spotify.com/track/6Mm7nCTVVduH0uehfNfITB"
@@ -3727,7 +3753,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 97471,
       "name": "Woo Woo Woo",
       "url": "https://open.spotify.com/track/70kzEQyJxUyEvVD1a0Igy6"

@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 211817,
       "name": "Before We Knew",
       "url": "https://open.spotify.com/track/2tPXuksuhokCBYmAcKnx5B"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 225632,
       "name": "Before You Gotta Go",
       "url": "https://open.spotify.com/track/0KzBGWNhCWXU2PTG0LP5if"
@@ -1463,7 +1463,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 186672,
       "name": "Body And Mind",
       "url": "https://open.spotify.com/track/2dAHKe37uyUrB0v0PJrDDj"
@@ -5513,7 +5513,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 206343,
       "name": "Here",
       "url": "https://open.spotify.com/track/08PBBh7rPrqlFqeoNgHy2A"
@@ -5715,7 +5715,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 174862,
       "name": "Hole",
       "url": "https://open.spotify.com/track/6OOkbVOvc8umM48aIEA3aK"
@@ -5935,7 +5935,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 287441,
       "name": "How Can I Make It OK?",
       "url": "https://open.spotify.com/track/4esseJdxrcatxtl7Zk8Q5V"
@@ -6227,7 +6227,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 223533,
       "name": "I Don't Want to Talk",
       "url": "https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd"
@@ -6347,7 +6347,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 184534,
       "name": "I SEE IT COMING",
       "url": "https://open.spotify.com/track/4qDVck33icBULgnvP6WmPh"
@@ -7723,7 +7723,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 199639,
       "name": "Life Is Not The Same",
       "url": "https://open.spotify.com/track/53tKpMeDRvMq4xKvQzc6Ih"
@@ -8091,7 +8091,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 228715,
       "name": "Love Letter From A Red Roof Inn",
       "url": "https://open.spotify.com/track/6vZ2FTyBiKS5DfGz2Qe79j"
@@ -8109,7 +8109,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 220737,
       "name": "Love Me Like You Used To",
       "url": "https://open.spotify.com/track/6V5eKHRdQLaYLH7XPbtbOo"
@@ -9277,7 +9277,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 221826,
       "name": "No Choice",
       "url": "https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY"
@@ -9367,7 +9367,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 227156,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/0V6whmxgRbeeJpijQXUbDN"
@@ -10248,6 +10248,24 @@
     },
     {
       "album": {
+        "name": "Paper Vows",
+        "url": "https://open.spotify.com/album/1ZcOfxocy488paPa5HcE7h"
+      },
+      "artists": [
+        {
+          "name": "Mr Little Jeans",
+          "url": "https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222520,
+      "name": "Paper Vows",
+      "url": "https://open.spotify.com/track/7204dHwAw9v32ys7VCyWP5"
+    },
+    {
+      "album": {
         "name": "Sophie",
         "url": "https://open.spotify.com/album/3XKYPIKMJfJLVUz68XIwSF"
       },
@@ -10439,7 +10457,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 194096,
       "name": "Peach",
       "url": "https://open.spotify.com/track/44Y47AT30lSl5iPMZr6o83"
@@ -12441,7 +12459,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 175003,
       "name": "Stay - Spotify Singles",
       "url": "https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto"
@@ -13281,7 +13299,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
@@ -13443,7 +13461,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 184549,
       "name": "The Only Heartbreaker",
       "url": "https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0"
@@ -15281,7 +15299,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 156208,
       "name": "Wisdom Tooth",
       "url": "https://open.spotify.com/track/4L7LSrveE3uOM57YxtD2eS"
@@ -15407,7 +15425,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 168074,
       "name": "Write A List of Things To Look Forward To",
       "url": "https://open.spotify.com/track/3jE1H7U8EFjj8wcYPMtKuY"

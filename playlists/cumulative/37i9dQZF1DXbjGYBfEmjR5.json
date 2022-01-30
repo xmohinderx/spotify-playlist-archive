@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 230165,
       "name": "Better Ways",
       "url": "https://open.spotify.com/track/2Ip84kMNK6QFQQ8hffed25"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 235000,
       "name": "Dancing All Night",
       "url": "https://open.spotify.com/track/659mVnG0vnPHRcGLly0GyK"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 303148,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/2eP4eQuYULrcqqlqwcaPOX"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 226254,
       "name": "Frame Trap",
       "url": "https://open.spotify.com/track/76zRP3MrZZi3oLlwRoNHsD"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 192000,
       "name": "Gotta Go Crazy",
       "url": "https://open.spotify.com/track/6KZy61Sm4nT7u0klehF6OU"
@@ -1313,10 +1313,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 204020,
       "name": "I'LL DO ANYTHING FOR YOU BABY",
       "url": "https://open.spotify.com/track/6L9NVTz2Aa9RqrXvzd65Sd"
+    },
+    {
+      "album": {
+        "name": "If you want it",
+        "url": "https://open.spotify.com/album/6HERkibbnUIpfcL85i0QQW"
+      },
+      "artists": [
+        {
+          "name": "Shiruetto",
+          "url": "https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "If you want it",
+      "url": "https://open.spotify.com/track/3qjIreg2b4kQuuerzpd06w"
     },
     {
       "album": {
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 185806,
       "name": "Love & Affection",
       "url": "https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 221250,
       "name": "Love Affair",
       "url": "https://open.spotify.com/track/68bgd0hTguW8GtufImrhFh"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 187118,
       "name": "Mono",
       "url": "https://open.spotify.com/track/7rs3NuYZ7uQlEISOEKEu5x"
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 171000,
       "name": "Querelle",
       "url": "https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C"
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 238125,
       "name": "Rave Gum",
       "url": "https://open.spotify.com/track/1jpuKbtdRBWiFYWoi7DskT"
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 226909,
       "name": "Remember Summer Days (Night Tempo Showa Groove Mix)",
       "url": "https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE"
@@ -2395,7 +2413,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 209529,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC"
@@ -2580,6 +2598,24 @@
     },
     {
       "album": {
+        "name": "Shine Your Light",
+        "url": "https://open.spotify.com/album/3o63X4RjUDr5LY50KQbRD6"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lonade",
+          "url": "https://open.spotify.com/artist/1oI7fQB3WliumtkbkYuaNz"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177390,
+      "name": "Shine Your Light",
+      "url": "https://open.spotify.com/track/6kzBMV9KdD8ucdW0b5mtMU"
+    },
+    {
+      "album": {
         "name": "Shocking Smile",
         "url": "https://open.spotify.com/album/0AjFQicpRLm6gdahhesUO2"
       },
@@ -2703,7 +2739,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 228396,
       "name": "Square Two",
       "url": "https://open.spotify.com/track/7nGEutN0d98FkCfn25IjPS"
@@ -2949,7 +2985,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/0PaxDutmFOW1LBg3dcskVK"
@@ -2985,7 +3021,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 213423,
       "name": "This is Future Funk",
       "url": "https://open.spotify.com/track/0WdGwHFGmVHkXwdKVceNJL"
@@ -3021,7 +3057,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 248447,
       "name": "Together",
       "url": "https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0"
@@ -3079,7 +3115,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 194285,
       "name": "Too Close to Love (What's Your Addiction)",
       "url": "https://open.spotify.com/track/5Uqzkt89fQGV3DQkuZLUCi"

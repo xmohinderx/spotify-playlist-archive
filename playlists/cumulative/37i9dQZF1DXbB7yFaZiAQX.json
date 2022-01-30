@@ -203,7 +203,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 234040,
       "name": "Being Boiled - Fast Version / 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/2xN8RYKg69sdfoqtvYnwwM"
@@ -484,6 +484,24 @@
     },
     {
       "album": {
+        "name": "The Albums 1980-84",
+        "url": "https://open.spotify.com/album/1wcUzNKEL1R0CK1uD4yDIk"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "date_added": "2019-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249413,
+      "name": "Chant No. 1 (I Don't Need This Pressure On) - 2010 Remaster",
+      "url": "https://open.spotify.com/track/6rpsRJeWCZavmrmEmEEE7v"
+    },
+    {
+      "album": {
         "name": "Let's Dance (2018 Remaster)",
         "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
@@ -621,7 +639,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 248373,
       "name": "Deus",
       "url": "https://open.spotify.com/track/5rrjeDN8xEYAsI9g85q1Ad"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 239959,
       "name": "Living On The Ceiling",
       "url": "https://open.spotify.com/track/1LysqZOvGYyVNjPz0HYU7m"
@@ -1703,7 +1721,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 389666,
       "name": "Madam Butterfly (Un Bel Di Vedremo)",
       "url": "https://open.spotify.com/track/75SqjGbzUnlQzytV5UzKER"
@@ -1775,7 +1793,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 294240,
       "name": "Midnight Man",
       "url": "https://open.spotify.com/track/4NkNu6seQP1XttxabCJSx1"
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 218960,
       "name": "Play For Today",
       "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
@@ -3609,7 +3627,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 188133,
       "name": "Younger Days",
       "url": "https://open.spotify.com/track/1hEeRFUwynarsuHUzWXXzG"

@@ -262,6 +262,24 @@
     },
     {
       "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/59dOGXbgXlBHJl0SLSA11z"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179072,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/5SZFEal5SHqWk6KHDA1dyX"
+    },
+    {
+      "album": {
         "name": "trip (deluxe)",
         "url": "https://open.spotify.com/album/5B76QDHjmGhG96FOdZmNBx"
       },
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -3995,7 +4013,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -4353,6 +4371,24 @@
       "duration_ms": 214920,
       "name": "Giftgr\u00fcnes B",
       "url": "https://open.spotify.com/track/4FfPoqItp66sK2GL3GxNCl"
+    },
+    {
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153999,
+      "name": "Ginseng Strip 2002",
+      "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
     },
     {
       "album": {
@@ -5065,6 +5101,24 @@
       "duration_ms": 183500,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/2PDM9Byxz5crB2IXuh2Oal"
+    },
+    {
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175163,
+      "name": "High",
+      "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
     },
     {
       "album": {
@@ -5799,7 +5853,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
@@ -6675,7 +6729,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
@@ -7369,7 +7423,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -8155,6 +8209,24 @@
       "duration_ms": 229880,
       "name": "NDA's",
       "url": "https://open.spotify.com/track/4mIWLMi5SAeX6FhnlaOj1y"
+    },
+    {
+      "album": {
+        "name": "Nebel",
+        "url": "https://open.spotify.com/album/5fM8UmSpFTQwdzzc7RCYcb"
+      },
+      "artists": [
+        {
+          "name": "ART",
+          "url": "https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163626,
+      "name": "Nebel",
+      "url": "https://open.spotify.com/track/4n4iqZr6YRJJGykyBzTk66"
     },
     {
       "album": {
@@ -12204,6 +12276,24 @@
     },
     {
       "album": {
+        "name": "Verlasse dich",
+        "url": "https://open.spotify.com/album/3hbUHe8p4at7wD7paq1mRW"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170200,
+      "name": "Verlasse dich",
+      "url": "https://open.spotify.com/track/3jKji1xEdwXgXcTrKJYbcR"
+    },
+    {
+      "album": {
         "name": "Sampler 5",
         "url": "https://open.spotify.com/album/6vxv7hGXgjaUmMt9UyXFpG"
       },
@@ -12396,6 +12486,24 @@
     },
     {
       "album": {
+        "name": "Vorbei",
+        "url": "https://open.spotify.com/album/7mNWwwJd19DgjwtXKtzX1g"
+      },
+      "artists": [
+        {
+          "name": "Pietro Lombardi",
+          "url": "https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152546,
+      "name": "Vorbei",
+      "url": "https://open.spotify.com/track/7gIOmimvjeQqookDmLKOrK"
+    },
+    {
+      "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
       },
@@ -12567,7 +12675,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
@@ -12841,7 +12949,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 131563,
       "name": "Wenn ich will",
       "url": "https://open.spotify.com/track/4zj6uiKQ4oZh5Cgww2wEtx"
@@ -13195,7 +13303,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 186140,
       "name": "Young Right Now",
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"

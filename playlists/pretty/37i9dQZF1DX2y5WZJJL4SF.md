@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y5WZJJL4SF.md) - [plain]
 
 > Soft and calm renditions of songs for harp.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,175 likes - 125 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,183 likes - 125 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

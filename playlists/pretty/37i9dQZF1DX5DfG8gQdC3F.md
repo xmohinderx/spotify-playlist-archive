@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Grimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,011 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,112 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:28 |
+| 1 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 |
 | 2 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 |
 | 3 | [No Fuss](https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl) | [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [No Fuss](https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA) | 3:15 |
 | 4 | [DFMU](https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [DFMU](https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k) | 3:17 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 21 | [Fallin](https://open.spotify.com/track/4v3W97RqEN0kgaLAre1pbJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Fallin](https://open.spotify.com/album/3BNE2EslctMXmhiffyrVGt) | 2:01 |
 | 22 | [Tell Somebody](https://open.spotify.com/track/1ClHCOX8C1aB9RNtXJrQKO) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O) | [Tell Somebody](https://open.spotify.com/album/4bdbkfQjyuRdCsWR3UAj9C) | 3:19 |
 | 23 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 |
-| 24 | [Pick Me Up \- From ”Euphoria” An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Pick Me Up \(From ”Euphoria” An HBO Original Series\)](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
+| 24 | [\(Pick Me Up\) Euphoria \- From ”Euphoria” An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [\(Pick Me Up\) Euphoria \[From ”Euphoria” An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 25 | [Johnny P's Caddy](https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Johnny P's Caddy](https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM) | 3:45 |
 | 26 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 |
 | 27 | [Relay](https://open.spotify.com/track/21pOAGEaqatWYQpy18K9oc) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Fantasy](https://open.spotify.com/album/0glNhCYTMvVmnTwXZ1bgKA) | 2:47 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 64 | [Tribeca Nights](https://open.spotify.com/track/2cOjtf392yEyKdjk56VHaZ) | [Puffy L'z](https://open.spotify.com/artist/2XD4u7kuN3tfhR1mNdEFIy) | [Tribeca Nights](https://open.spotify.com/album/0g6TZedkxClPZI966LMzJJ) | 2:56 |
 | 65 | [One More Thing](https://open.spotify.com/track/6BzPNRduOs6Aoob2h3Tcjd) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA) | [Hustle Sold Separately](https://open.spotify.com/album/6TMiPKrgZIRysr7YAKBywM) | 2:48 |
 | 66 | [Blue World](https://open.spotify.com/track/2EQqbpuyUD4jwQHwoE6eQq) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Blue World](https://open.spotify.com/album/4px3NENks6BfQoYDXBI4lM) | 4:41 |
-| 67 | [Des Étoiles](https://open.spotify.com/track/6kv2fyvEXjSXlHvZ1JrVan) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Royauté](https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn) | 2:49 |
+| 67 | [Des Étoiles](https://open.spotify.com/track/6kv2fyvEXjSXlHvZ1JrVan) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Royauté](https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn) | 2:49 |
 | 68 | [The Night](https://open.spotify.com/track/3Pj3d9VxtjnO9QPjEoleYj) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless \(Deluxe Edition\)](https://open.spotify.com/album/2ptlvk4iUKk88X0DfEzBm7) | 4:20 |
 | 69 | [Symphony Of Lights](https://open.spotify.com/track/65uoNTX681VJpRyuVSWSdd) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Apocalypse Whenever](https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25) | 4:19 |
 | 70 | [Gasoline](https://open.spotify.com/track/5iMXlszZ6cagxuO0AhVYyx) | [Ralph](https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8) | [Gasoline](https://open.spotify.com/album/4rYabhSgc7ty0NZnjKEY8c) | 3:40 |

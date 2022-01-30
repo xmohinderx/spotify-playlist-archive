@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 240021,
       "name": "All I Have",
       "url": "https://open.spotify.com/track/5VB3K5qgvXlfkKaxUVMyvu"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 221136,
       "name": "Beijei",
       "url": "https://open.spotify.com/track/2vZmLR6tlYvTv8UJOtLijZ"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 206451,
       "name": "Comment vivre sans toi",
       "url": "https://open.spotify.com/track/0B2qVNmH4ngg1SpNH2zHzk"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "Don't Judge Me (Saxo-Kizomba)",
       "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 180007,
       "name": "Estragar o que Est\u00e1 Bom",
       "url": "https://open.spotify.com/track/0TeztqSxQL0OdnYR3XQV1R"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 233145,
       "name": "Evil Tarraxo",
       "url": "https://open.spotify.com/track/4jEswQpBN1ju5ioo12w3YF"
@@ -1425,7 +1425,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 202516,
       "name": "Magia",
       "url": "https://open.spotify.com/track/7ISGcym2XbHCaIMAfN3OSl"
@@ -1585,7 +1585,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 219218,
       "name": "Meu Marido",
       "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
@@ -1883,7 +1883,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 228325,
       "name": "N\u00e3o Posso",
       "url": "https://open.spotify.com/track/0wVFtfUnFotGMSxPlG56a7"
@@ -1901,7 +1901,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 181666,
       "name": "N\u00e3o P\u00e1ra",
       "url": "https://open.spotify.com/track/3XXtwKEHyPJsgHurZFMWMt"
@@ -1923,7 +1923,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 236192,
       "name": "N\u00e3o Tem Que Encantar",
       "url": "https://open.spotify.com/track/7zEFn5PC91OB6KYFjCxMHi"
@@ -2021,7 +2021,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 186308,
       "name": "Perde Voo",
       "url": "https://open.spotify.com/track/0iMHeQ3WI6bHzQBkb6JpFB"
@@ -2043,7 +2043,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 218718,
       "name": "Perigosa (feat. Anselmo Ralph)",
       "url": "https://open.spotify.com/track/0r2ZBAHKX36U3do2a3E0Vd"
@@ -2363,7 +2363,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 197956,
       "name": "Se Eu Pudesse",
       "url": "https://open.spotify.com/track/1Fpz7A3F56VQKfqz1KhGF5"
@@ -2684,6 +2684,24 @@
     },
     {
       "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/3OU2BXNEAWP74xw2FisAvE"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3os Verdades",
+          "url": "https://open.spotify.com/artist/1mlqcEb9dU0dPTM63Jhgmr"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213948,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5AAwjKOObk8GPQBv2nPUhy"
+    },
+    {
+      "album": {
         "name": "Te Amo Tanto",
         "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
       },
@@ -2797,7 +2815,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 246413,
       "name": "True Love_Kizomba Remix USA",
       "url": "https://open.spotify.com/track/7wGFAdXmj2yauEi3lALthW"
@@ -2929,7 +2947,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 256366,
       "name": "Uma Chance",
       "url": "https://open.spotify.com/track/3DLt9ps9wxm2eggczXShLM"
@@ -3005,7 +3023,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 223895,
       "name": "Vou Arriscar",
       "url": "https://open.spotify.com/track/7kVndwoIjvzkYxxbuoV2UM"

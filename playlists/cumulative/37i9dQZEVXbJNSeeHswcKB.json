@@ -634,6 +634,32 @@
     },
     {
       "album": {
+        "name": "SVR",
+        "url": "https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        },
+        {
+          "name": "Kalash Criminel",
+          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
+        },
+        {
+          "name": "Freeze corleone",
+          "url": "https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230800,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/479TjlDwB0JAyPjZjxFah8"
+    },
+    {
+      "album": {
         "name": "Small Town Boy (Track By Track)",
         "url": "https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF"
       },
@@ -1087,7 +1113,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -3682,6 +3708,24 @@
     },
     {
       "album": {
+        "name": "Ibiza Stories",
+        "url": "https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221227,
+      "name": "Ibiza Stories",
+      "url": "https://open.spotify.com/track/4YU0biJZXmOT2dWLyiTt5O"
+    },
+    {
+      "album": {
         "name": "Ik Ga Zwemmen",
         "url": "https://open.spotify.com/album/3EjQWN7jICXAxg5iL0ob7j"
       },
@@ -4110,6 +4154,28 @@
     },
     {
       "album": {
+        "name": "Ibiza Stories",
+        "url": "https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "JoeyAK",
+          "url": "https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144996,
+      "name": "Jongens Van Plein",
+      "url": "https://open.spotify.com/track/50xUHMCmsbBOp6aaihNYyg"
+    },
+    {
+      "album": {
         "name": "Le monde est m\u00e9chant",
         "url": "https://open.spotify.com/album/4htdMrekIHwLEHhyw4ArcX"
       },
@@ -4143,7 +4209,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 181111,
       "name": "Jour meilleur",
       "url": "https://open.spotify.com/track/6VOUfCrjmxH62oijWgbC6O"
@@ -9311,7 +9377,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 244004,
       "name": "Wrecked",
       "url": "https://open.spotify.com/track/149BxWeweaCqmsyedkNiiE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUWZIwpqsT3.md) - [plain]
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,306 likes - 78 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,582,619 likes - 78 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUWZIwpqsT3.md) - [plain]
 | 25 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Si Tu Vuelas \(Hadal Ahbek \[Alok Remix\]\)](https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM) | 3:17 |
 | 26 | [On & On](https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [On & On](https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn) | 2:27 |
 | 27 | [Party On My Own](https://open.spotify.com/track/49ifZncZRGpqKqx3B3DoSO) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu) | [Party On My Own](https://open.spotify.com/album/1NntTMz0L8e1Cc9U44UPLb) | 2:26 |
-| 28 | [Love Is Gone \- Alok Remix](https://open.spotify.com/track/1tpTV7D5TwPBKgb2JaciMm) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Love Is Gone \(Alok Remix\)](https://open.spotify.com/album/09oE5IJaXz157AqAoX6u4s) | 2:17 |
+| 28 | [Love Is Gone \- Alok Remix](https://open.spotify.com/track/1tpTV7D5TwPBKgb2JaciMm) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \- Alok Remix](https://open.spotify.com/album/09oE5IJaXz157AqAoX6u4s) | 2:17 |
 | 29 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
 | 30 | [Never Let Me Go](https://open.spotify.com/track/1yzBGun3xDY7WpHOIP9nNp) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Never Let Me Go](https://open.spotify.com/album/1JhicJyEqq12ezmUwYJ5or) | 3:04 |
 | 31 | [Ameno](https://open.spotify.com/track/5q7ejdXtFaxHUOybHdFee7) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Ameno](https://open.spotify.com/album/5pBSrDiMe8onek8N64bzNt) | 2:35 |

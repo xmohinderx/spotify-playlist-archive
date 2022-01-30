@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Adi\u00f3s Amor",
+        "url": "https://open.spotify.com/album/0XDiT3wvemIhWDfuBvAJWo"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227407,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/5rpQcu6N5omwxP8ai4UYmO"
+    },
+    {
+      "album": {
         "name": "Amapolas",
         "url": "https://open.spotify.com/album/7vFlsccgSanI5MxPbomwVY"
       },
@@ -113,7 +131,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 196266,
       "name": "Brillo Mio",
       "url": "https://open.spotify.com/track/7eCDfoEl8UGeWqcpRO5lgz"
@@ -315,7 +333,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 155956,
       "name": "De Una Vez",
       "url": "https://open.spotify.com/track/0HC6S4VpCGAZvyxTdrMRIQ"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 215872,
       "name": "la vida viene y va",
       "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
@@ -1228,6 +1246,24 @@
     },
     {
       "album": {
+        "name": "Suelo Pensarte",
+        "url": "https://open.spotify.com/album/2oyapOqRKFSxlKGifzhE4G"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192692,
+      "name": "Suelo Pensarte",
+      "url": "https://open.spotify.com/track/5swq6T052tEljbGGZ5yKqh"
+    },
+    {
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -1375,7 +1411,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 123000,
       "name": "Vete",
       "url": "https://open.spotify.com/track/1KIt07Xn6PVFVEyQnwCyCt"

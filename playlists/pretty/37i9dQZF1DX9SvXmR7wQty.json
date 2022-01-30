@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s francophones de la semaine. Photo: Pierre Kwenders",
-  "num_followers": 33564,
+  "num_followers": 33568,
   "original_name": "Nouveaut\u00e9s de la semaine Canada",
   "owner": {
     "name": "Spotify",
@@ -32,12 +32,12 @@
       },
       "artists": [
         {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
-        },
-        {
           "name": "Lost",
           "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        },
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
         }
       ],
       "duration_ms": 169844,

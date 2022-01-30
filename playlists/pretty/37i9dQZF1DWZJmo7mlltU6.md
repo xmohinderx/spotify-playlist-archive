@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Magdalena Bay
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,025 likes - 102 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,267 likes - 102 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

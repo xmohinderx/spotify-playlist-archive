@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 183799,
       "name": "Al Calor de Tu Vida",
       "url": "https://open.spotify.com/track/3cJY5WOnWeEoXn8P1a6Je4"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 165824,
       "name": "Amor Ferrari",
       "url": "https://open.spotify.com/track/3ViCo830vp2M3LIqf6Ye9t"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 179666,
       "name": "Ares Herido",
       "url": "https://open.spotify.com/track/2D68IRfHtph27wM8xrOGka"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 218493,
       "name": "Chica del Verano",
       "url": "https://open.spotify.com/track/6ydFgO4uHX1YH2LD3R51E5"
@@ -639,10 +639,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 213310,
       "name": "Ciclo Lunar",
       "url": "https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O"
+    },
+    {
+      "album": {
+        "name": "Como Quieras",
+        "url": "https://open.spotify.com/album/7iVDvrhP6V3JcChZCFJq7H"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188717,
+      "name": "Como Quieras",
+      "url": "https://open.spotify.com/track/7H1zvsLV2Wt8l6x9WyTqdb"
     },
     {
       "album": {
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 216670,
       "name": "C\u00f3smica",
       "url": "https://open.spotify.com/track/0cdk7aW3T86BCMyvACbbEu"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 278760,
       "name": "Debajo de la Superficie",
       "url": "https://open.spotify.com/track/4xs3x5ZAYHHFyxe9PcgeMl"
@@ -903,7 +921,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 206538,
       "name": "Domingo",
       "url": "https://open.spotify.com/track/5FgyIF4AvesAj5xws4gpdv"
@@ -925,7 +943,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 229253,
       "name": "Domingo Escarlata",
       "url": "https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 207809,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 220909,
       "name": "Gris",
       "url": "https://open.spotify.com/track/0GCosxfQOfRgSQBv3KL9RJ"
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 222466,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/2xWTpdIasfP9dRNY4Wi1lK"
@@ -1649,7 +1667,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 205522,
       "name": "Las Heridas",
       "url": "https://open.spotify.com/track/5tSRZ0kysfMalFuqqNT8XE"
@@ -1898,6 +1916,24 @@
     },
     {
       "album": {
+        "name": "Reconstrucci\u00f3n",
+        "url": "https://open.spotify.com/album/20NTZgsDfie7eJEHfhKnmh"
+      },
+      "artists": [
+        {
+          "name": "Soy Emilia",
+          "url": "https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215018,
+      "name": "Mala Intenci\u00f3n",
+      "url": "https://open.spotify.com/track/40DbHVC6i2J1X4lKSw0PwP"
+    },
+    {
+      "album": {
         "name": "Manual de una P\u00e9rdida",
         "url": "https://open.spotify.com/album/0LhbhAzSSCCq3Wg6u969gc"
       },
@@ -2087,7 +2123,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 214661,
       "name": "Mol\u00e9cula",
       "url": "https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y"
@@ -2159,7 +2195,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 177255,
       "name": "NO ME EST\u00c1S HACIENDO UN FAVOR",
       "url": "https://open.spotify.com/track/1OJU3D1A6adkaWdXAWo6iK"
@@ -2541,7 +2577,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 221333,
       "name": "Que te hizo ir",
       "url": "https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO"
@@ -2765,7 +2801,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
@@ -2819,7 +2855,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 192026,
       "name": "Si Fueras Lluvia",
       "url": "https://open.spotify.com/track/5caJvmpnwLPvsgxiFUZI3d"
@@ -3199,7 +3235,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 209333,
       "name": "Turista",
       "url": "https://open.spotify.com/track/5cBuCi1BUv9Tah6aBDwy27"
@@ -3235,7 +3271,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 195700,
       "name": "T\u00fa Detr\u00e1s de Todo",
       "url": "https://open.spotify.com/track/6CY2g39NtKYXmwLC2eu2n2"
@@ -3307,7 +3343,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 188133,
       "name": "Una Caricia",
       "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
@@ -3387,6 +3423,24 @@
       "duration_ms": 235866,
       "name": "V\u00e1monos de Viaje",
       "url": "https://open.spotify.com/track/2aoaTP39LTDPGHxSKj9OW5"
+    },
+    {
+      "album": {
+        "name": "X AMOR",
+        "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
+      },
+      "artists": [
+        {
+          "name": "FLORIAN",
+          "url": "https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242755,
+      "name": "X AMOR",
+      "url": "https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK"
     },
     {
       "album": {

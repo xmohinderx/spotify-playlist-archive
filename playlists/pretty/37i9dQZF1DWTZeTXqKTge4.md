@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Tizzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,716 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,724 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sans horaire](https://open.spotify.com/track/4xVQsPA32CgHu2v1fZbcTA) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy) | [Sans horaire](https://open.spotify.com/album/2WOwDw0iT1rkI4VM4l1Y3l) | 3:21 |
 | 2 | [300](https://open.spotify.com/track/7r5grL8qyyy0lmujA3pneU) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [300](https://open.spotify.com/album/3Z3fXpDs9XqGrHKlbLeAZp) | 2:47 |
-| 3 | [Des Étoiles](https://open.spotify.com/track/6kv2fyvEXjSXlHvZ1JrVan) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Royauté](https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn) | 2:49 |
+| 3 | [Des Étoiles](https://open.spotify.com/track/6kv2fyvEXjSXlHvZ1JrVan) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Royauté](https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn) | 2:49 |
 | 4 | [Nova](https://open.spotify.com/track/7upNugBM6AfbM77jKLgk95) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Nova](https://open.spotify.com/album/36y502QiSN08zEiF1ZQ7b5) | 2:31 |
 | 5 | [Comme les autres](https://open.spotify.com/track/6AH4v8wuUwvof6g3KUqrcU) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Comme les autres](https://open.spotify.com/album/4Vi693DCvcgERzHeRn4grk) | 2:46 |
 | 6 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 |

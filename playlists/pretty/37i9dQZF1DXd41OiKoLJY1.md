@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Jenn Clemena, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,830 likes - 86 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,854 likes - 86 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 2 | [Before You Leave My Heart](https://open.spotify.com/track/4SGJXiT5oEXsLCusmpS849) | [ANNA](https://open.spotify.com/artist/0kdRq6M9xM5QIw0NIfyEHN) | [Before You Leave My Heart](https://open.spotify.com/album/0eEAS5alAozUiNulHgx5bm) | 4:06 |
 | 3 | [The Long Way \(feat\. Sin Santos\)](https://open.spotify.com/track/67UZAWaykbnkqVwobhQYdy) | [Boy Graduate](https://open.spotify.com/artist/439SsPuTNabVbIb3eDAV0v), [Sin Santos](https://open.spotify.com/artist/6ObY07YC4aESI52KJ16vQ5) | [The Long Way \(feat\. Sin Santos\)](https://open.spotify.com/album/5lCiMBKhmzyiJYwPjnvjQb) | 3:19 |
 | 4 | [gtdi.](https://open.spotify.com/track/56QPeaCEdE0JhB8ErUHb0W) | [SLAY](https://open.spotify.com/artist/13MPBo5r9NlimN7vWZBnaF) | [Pick Ya Vibe](https://open.spotify.com/album/0NsXEDBYoNltzjjRWUZkIn) | 2:07 |
-| 5 | [KAPIT](https://open.spotify.com/track/75tc9X7ci8BXWIovx4nUph) | [Your Last Stanza](https://open.spotify.com/artist/6QlCiRw32XOoug3CPElS7l) | [KAPIT](https://open.spotify.com/album/2hLRdjqogO9ZTElg7xyPWm) | 4:33 |
+| 5 | [KAPIT](https://open.spotify.com/track/75tc9X7ci8BXWIovx4nUph) | [Your Last Stanza](https://open.spotify.com/artist/0ggtM5AULqBvlWuEnu565l) | [KAPIT](https://open.spotify.com/album/2hLRdjqogO9ZTElg7xyPWm) | 4:33 |
 | 6 | [F U](https://open.spotify.com/track/5RU0z4eOXYR76fPpHBwCEK) | [ise](https://open.spotify.com/artist/6BIzoSKP2dHDQj9r5X9RjV) | [F U](https://open.spotify.com/album/7osZEu80iqISZxgUCUGw8w) | 3:01 |
 | 7 | [The Orchard Tree \(Voice Memo\)](https://open.spotify.com/track/0tsa13Pm3HhXhiWgnspGVH) | [VENTT.](https://open.spotify.com/artist/3hj3jyvxEW3Xd8c3iTUNZP) | [The Orchard Tree \(Voice Memo\)](https://open.spotify.com/album/5w8Hj7xf4J3kdsIwuDbQLB) | 4:06 |
 | 8 | [Seasons](https://open.spotify.com/track/5GksdjFfW5kOvnZjoemvhn) | [Versus](https://open.spotify.com/artist/4y9OUwvKFJqN6HEJACgaFi) | [Seasons](https://open.spotify.com/album/6Yq2FjFDi7NaBci9PD6xk1) | 3:00 |

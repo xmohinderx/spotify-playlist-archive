@@ -67,7 +67,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 216346,
       "name": "5 fine fr\u00f8kner",
       "url": "https://open.spotify.com/track/2tFgv3sLFNc088KLtjxzVa"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 228013,
       "name": "Baby Baby",
       "url": "https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 163048,
       "name": "Beautiful People (feat. Khalid) - Jack Wins Remix",
       "url": "https://open.spotify.com/track/7fvUMiyapMsRRxr07cU8Ef"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -658,6 +658,28 @@
     },
     {
       "album": {
+        "name": "California Dreamin' (feat. High Jinx)",
+        "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "High Jinx",
+          "url": "https://open.spotify.com/artist/0XFmkmsCbCoR7wlqaZdt64"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196899,
+      "name": "California Dreamin' (feat. High Jinx)",
+      "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
+    },
+    {
+      "album": {
         "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/2ZcIGPPSC7LELS7zJ3JVSK"
       },
@@ -713,7 +735,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 168561,
       "name": "Call on Me - Radio Mix",
       "url": "https://open.spotify.com/track/0FeAEoSfI46jq2nhwhG6UP"
@@ -939,7 +961,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 239400,
       "name": "Dance With Somebody - Radio Version",
       "url": "https://open.spotify.com/track/3wWln2O18PeL860Ch2rdzf"
@@ -1157,7 +1179,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -1263,7 +1285,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 153333,
       "name": "Don't Call Me Up - R3HAB Remix",
       "url": "https://open.spotify.com/track/5UJI94psRjlSPyLztf7yQo"
@@ -1343,7 +1365,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 214789,
       "name": "Don't Worry (with Ray Dalton) - Radio Edit",
       "url": "https://open.spotify.com/track/63CSozvYUEudPp12679UVF"
@@ -1427,7 +1449,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 165767,
       "name": "Easier - Seeb Remix",
       "url": "https://open.spotify.com/track/6GIRtKNXokeu25nn7U6Hu8"
@@ -1569,7 +1591,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD"
@@ -1605,7 +1627,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 225733,
       "name": "Footloose",
       "url": "https://open.spotify.com/track/0TFp6nGwhfY1ratCI91yO2"
@@ -1627,7 +1649,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 183307,
       "name": "Forgive or Forget - R3HAB Remix",
       "url": "https://open.spotify.com/track/6bERyJwcB3qHDZMnT6Wy9p"
@@ -1737,7 +1759,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 170933,
       "name": "F\u00f6r stora f\u00f6r den h\u00e4r stan (feat. Mapei)",
       "url": "https://open.spotify.com/track/0Lt2O1YTuMvTXRrbp7JhlF"
@@ -1917,7 +1939,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 246520,
       "name": "Heaven Is a Place on Earth",
       "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
@@ -2169,7 +2191,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 194754,
       "name": "I Don't Care (with Justin Bieber) - Loud Luxury Remix",
       "url": "https://open.spotify.com/track/6f807x0ima9a1j3VPbc7VN"
@@ -2241,7 +2263,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
@@ -2343,7 +2365,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 188437,
       "name": "Impossible (feat. John Martin)",
       "url": "https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y"
@@ -2465,7 +2487,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "It's Raining Men",
       "url": "https://open.spotify.com/track/5TgD3Wh5ZUZnUU4tmVvJbx"
@@ -2519,7 +2541,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 257586,
       "name": "Jag \u00e4r en vampyr",
       "url": "https://open.spotify.com/track/1E2gUqxDIlfeokoeREsEmG"
@@ -2577,7 +2599,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 191868,
       "name": "Last Hurrah - David Guetta Remix",
       "url": "https://open.spotify.com/track/66wF9HWqR8RpQ47tiVQpgx"
@@ -2851,7 +2873,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 166066,
       "name": "Mikrofonk\u00e5t",
       "url": "https://open.spotify.com/track/0xjVgqTMOdT2dxPuXgSORm"
@@ -2931,7 +2953,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 217906,
       "name": "Move Your Body - Alan Walker Remix",
       "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
@@ -3113,7 +3135,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
@@ -3157,7 +3179,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 207094,
       "name": "No Sleep (feat. Bonn)",
       "url": "https://open.spotify.com/track/1ahVFh0ViDZr8LvkEVlq3B"
@@ -3293,7 +3315,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 197875,
       "name": "One Touch",
       "url": "https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ"
@@ -3699,7 +3721,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 211598,
       "name": "Run Run Run",
       "url": "https://open.spotify.com/track/29Xp9qXcl1LBpGMFtfUZ4O"
@@ -3853,7 +3875,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 259920,
       "name": "Shoreline",
       "url": "https://open.spotify.com/track/2nK30KDjrDHRedyIcHTOQS"
@@ -3951,7 +3973,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 174933,
       "name": "Solo Dance",
       "url": "https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa"
@@ -4021,7 +4043,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 204466,
       "name": "South of the Border (feat. Camila Cabello & Cardi B)",
       "url": "https://open.spotify.com/track/4vUmTMuQqjdnvlZmAH61Qk"
@@ -4689,7 +4711,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 249693,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/294vBlXfZYspeI29SXZaON"
@@ -4761,7 +4783,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 216533,
       "name": "We Are Family",
       "url": "https://open.spotify.com/track/0x3VuSP9TB6yHSpkHB2nPv"

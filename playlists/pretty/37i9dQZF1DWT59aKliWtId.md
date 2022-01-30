@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > A quality alternative blend\. Cover: St\. Paul & The Broken Bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,596 likes - 115 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,662 likes - 115 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

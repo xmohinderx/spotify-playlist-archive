@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > Featured Artist, Pritty, just dropped two new singles with us and has more new music coming this month\.  Listen to Poison &amp; John Cena here + a mix of songs everyone at Moving Castle are listening to lately
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,511 likes - 50 songs - 2 hr 55 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,510 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ascend \(Reload\)](https://open.spotify.com/track/6IB4pkRzElFPRudm6ANKpu) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Ascend \(Reload\)](https://open.spotify.com/album/6S4jvKUaVD3meKXB2nCwVm) | 5:37 |
 | 2 | [Sun & Moon \- Manila Killa Remix](https://open.spotify.com/track/1ulJG8ELvRv1za2KTYoPSP) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [10 Years of Group Therapy](https://open.spotify.com/album/23US2GpiBRMbvmVkPqZkRw) | 4:13 |
 | 3 | [Told U So](https://open.spotify.com/track/2TtyGbcqGEXUYQdwQfLtyL) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Told U So](https://open.spotify.com/album/1E73TM4PUI8mSKVlXwUIS3) | 2:43 |
-| 4 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/23SOvueHCnImFcoym7pqEd), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 |
+| 4 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 |
 | 5 | [To My White Boy Princess..\. ...](https://open.spotify.com/track/4D4pGGCBU81ms2ioTYuVO2) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [To My White Boy Princess..\. ...](https://open.spotify.com/album/5RIfRNNfJdLSwVQnJHQNHU) | 2:58 |
 | 6 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 |
 | 7 | [heart2](https://open.spotify.com/track/7wmK0PzL3OKD95k7EeEfof) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [heart2](https://open.spotify.com/album/1sooeixhvZQifV1d0cvlel) | 3:23 |

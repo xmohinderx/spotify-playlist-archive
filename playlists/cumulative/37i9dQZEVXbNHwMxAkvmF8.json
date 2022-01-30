@@ -1737,7 +1737,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -4024,6 +4024,24 @@
     },
     {
       "album": {
+        "name": "Oszt\u00e1lytal\u00e1lkoz\u00f3",
+        "url": "https://open.spotify.com/album/7yAkGODA0gSuoCXCvBnuXV"
+      },
+      "artists": [
+        {
+          "name": "Carson Coma",
+          "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245733,
+      "name": "Oszt\u00e1lytal\u00e1lkoz\u00f3",
+      "url": "https://open.spotify.com/track/0OHpTUsrI59etfssanq8SX"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -5057,7 +5075,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -5235,7 +5253,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 530690,
       "name": "Sz\u00edv",
       "url": "https://open.spotify.com/track/6Qg42mHmwZdqT4LpV3KnvP"

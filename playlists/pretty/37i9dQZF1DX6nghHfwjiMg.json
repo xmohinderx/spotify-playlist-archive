@@ -1,12 +1,12 @@
 {
   "description": "Descubre los nuevos talentos de Argentina, Chile y Uruguay. \nFoto: Sael.",
-  "num_followers": 50404,
+  "num_followers": 50401,
   "original_name": "Radar Al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzQxNjkwOCwwMDAwMDAwMDAyZWE3MDMwNTAzZWFjNWEwN2ZkMDNhNDEwMjkxNmJj",
+  "snapshot_id": "MTY0MzUwMzQ2MywwMDAwMDAwMDdhZjhiZjE5MDE4NDQ0OGM5Mjg3YTA2Yzg5OTc5Y2Mz",
   "tracks": [
     {
       "added_at": "2021-11-11 23:56:41",
@@ -175,26 +175,6 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "Me Ense\u00f1aste (Remix)",
-        "url": "https://open.spotify.com/album/5yIiJZNML36zpZwECrtRL9"
-      },
-      "artists": [
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 240362,
-      "name": "Me Ense\u00f1aste (Remix)",
-      "url": "https://open.spotify.com/track/2jQmMjSbzPPNpuJjQIw1m2"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
         "name": "Las Naik",
         "url": "https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3"
       },
@@ -211,6 +191,26 @@
       "duration_ms": 175258,
       "name": "Las Naik",
       "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Me Ense\u00f1aste (Remix)",
+        "url": "https://open.spotify.com/album/5yIiJZNML36zpZwECrtRL9"
+      },
+      "artists": [
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 240362,
+      "name": "Me Ense\u00f1aste (Remix)",
+      "url": "https://open.spotify.com/track/2jQmMjSbzPPNpuJjQIw1m2"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -247,18 +247,50 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "Lavandina",
-        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Igna",
+          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
         }
       ],
-      "duration_ms": 299192,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
+      "duration_ms": 185699,
+      "name": "Buen Rato",
+      "url": "https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 151839,
+      "name": "No Es As\u00ed",
+      "url": "https://open.spotify.com/track/6SryqFcrWrgjgKrUeZQ6NE"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Estoy Bien",
+        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Estoy Bien",
+      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -283,6 +315,130 @@
       "duration_ms": 194482,
       "name": "Big Cut",
       "url": "https://open.spotify.com/track/7pin8wDLL57efEYLvOpAAS"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Por Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0YPuDIug1i3522246t1BVO"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "duration_ms": 257431,
+      "name": "Nadir",
+      "url": "https://open.spotify.com/track/7hE9Q5k72F6b5qu2jrinpl"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Lo Que No Te Cont\u00e9",
+        "url": "https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7"
+      },
+      "artists": [
+        {
+          "name": "KMC",
+          "url": "https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4"
+        }
+      ],
+      "duration_ms": 222682,
+      "name": "Lo Que No Te Cont\u00e9",
+      "url": "https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Lavandina",
+        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 299192,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/0giRSV8h2BwG62oJV6AHxa"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        },
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4BpwcrTmvQUIPcjPVhS6ki"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u"
+      },
+      "artists": [
+        {
+          "name": "Anto Bosman",
+          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
+        }
+      ],
+      "duration_ms": 188076,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Emocional",
+        "url": "https://open.spotify.com/album/6TrcWCUDZuWU3Sf6YqHZAV"
+      },
+      "artists": [
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        },
+        {
+          "name": "Marlku",
+          "url": "https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5"
+        }
+      ],
+      "duration_ms": 172143,
+      "name": "Emocional (feat. Marlku)",
+      "url": "https://open.spotify.com/track/21wToWcFmf43bfuLHqDRls"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "City Girls",
+        "url": "https://open.spotify.com/album/0dTActaxiyZbWiN4qctJI4"
+      },
+      "artists": [
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 175781,
+      "name": "City Girls",
+      "url": "https://open.spotify.com/track/4m6hHJ9GlMAZO0w7IqDT6j"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -319,46 +475,6 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "Por Si Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/0YPuDIug1i3522246t1BVO"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        }
-      ],
-      "duration_ms": 257431,
-      "name": "Nadir",
-      "url": "https://open.spotify.com/track/7hE9Q5k72F6b5qu2jrinpl"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/0giRSV8h2BwG62oJV6AHxa"
-      },
-      "artists": [
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        },
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        },
-        {
-          "name": "Evar",
-          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4BpwcrTmvQUIPcjPVhS6ki"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
         "name": "Hace Rato",
         "url": "https://open.spotify.com/album/4hf7pMuHc0qnA5mWpten3n"
       },
@@ -371,42 +487,6 @@
       "duration_ms": 222857,
       "name": "Hace Rato",
       "url": "https://open.spotify.com/track/5MLM8Bnonrc3HlZ7OBU09C"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "La Casualidad",
-        "url": "https://open.spotify.com/album/0uj09wSpaUp58kWvYnZ7tw"
-      },
-      "artists": [
-        {
-          "name": "Metaling\u00fc\u00edstica",
-          "url": "https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3"
-        },
-        {
-          "name": "Diego Smith",
-          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "La Casualidad",
-      "url": "https://open.spotify.com/track/3rqoDD2GJTpde3VO83T0LY"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u"
-      },
-      "artists": [
-        {
-          "name": "Anto Bosman",
-          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
-        }
-      ],
-      "duration_ms": 188076,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -443,18 +523,18 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "M\u00e1gica",
-        "url": "https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ"
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
       "artists": [
         {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 136132,
-      "name": "M\u00e1gica",
-      "url": "https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf"
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -495,194 +575,22 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "Nafta",
-        "url": "https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl"
+        "name": "Shake It Up",
+        "url": "https://open.spotify.com/album/4DrsFB79n1wTqZ6e0wPT1C"
       },
       "artists": [
         {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 304943,
-      "name": "Veni Mir\u00e1",
-      "url": "https://open.spotify.com/track/4fDUAfzsQKszt09InZKRE4"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 151839,
-      "name": "No Es As\u00ed",
-      "url": "https://open.spotify.com/track/6SryqFcrWrgjgKrUeZQ6NE"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Estoy Bien",
-        "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
-      },
-      "artists": [
-        {
-          "name": "Panther",
-          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Estoy Bien",
-      "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi"
-      },
-      "artists": [
-        {
-          "name": "Igna",
-          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
-        }
-      ],
-      "duration_ms": 185699,
-      "name": "Buen Rato",
-      "url": "https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Ni Verte",
-        "url": "https://open.spotify.com/album/5JJsHeFcN9wIXe34cISJOS"
-      },
-      "artists": [
-        {
-          "name": "MATAHONEY",
-          "url": "https://open.spotify.com/artist/24qtxSIhOdH3vlGiqO8sBt"
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
         },
         {
-          "name": "Luqo",
-          "url": "https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN"
+          "name": "Nico Baby",
+          "url": "https://open.spotify.com/artist/523Q3hgqV3zr00ephVSfKX"
         }
       ],
-      "duration_ms": 183592,
-      "name": "Ni Verte",
-      "url": "https://open.spotify.com/track/4fID9Ebm9kK8D4SGZLz0Hg"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Emocional",
-        "url": "https://open.spotify.com/album/6TrcWCUDZuWU3Sf6YqHZAV"
-      },
-      "artists": [
-        {
-          "name": "Asan",
-          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
-        },
-        {
-          "name": "Marlku",
-          "url": "https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5"
-        }
-      ],
-      "duration_ms": 172143,
-      "name": "Emocional (feat. Marlku)",
-      "url": "https://open.spotify.com/track/21wToWcFmf43bfuLHqDRls"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "No Vengas a Cantarme Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/6uLDK6lG14DS9tW05xDyS7"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        },
-        {
-          "name": "Aleo",
-          "url": "https://open.spotify.com/artist/6zQ5RDRxvAEYVIrBaNz44N"
-        }
-      ],
-      "duration_ms": 168361,
-      "name": "No Vengas a Cantarme Reggaet\u00f3n",
-      "url": "https://open.spotify.com/track/2J5RgOh1NO7Lon7aLg2tWD"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Bulletproof",
-        "url": "https://open.spotify.com/album/6kiK8lgGM9ZniV9U3y9nZB"
-      },
-      "artists": [
-        {
-          "name": "Nihla",
-          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
-        }
-      ],
-      "duration_ms": 187060,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/3rDclQGRZehjHBpmOWgF5H"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "SAMURAI",
-        "url": "https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f"
-      },
-      "artists": [
-        {
-          "name": "K-efe",
-          "url": "https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq"
-        }
-      ],
-      "duration_ms": 200963,
-      "name": "SAMURAI",
-      "url": "https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "Tal Como Soy",
-        "url": "https://open.spotify.com/album/7LATzEUfsgsZ7UAw731bGS"
-      },
-      "artists": [
-        {
-          "name": "ADIONE",
-          "url": "https://open.spotify.com/artist/1I2pJ2vYfZH0WND1diKJ1l"
-        }
-      ],
-      "duration_ms": 217898,
-      "name": "Tal Como Soy",
-      "url": "https://open.spotify.com/track/5rw5RHbmi7BLGJqpDjbCSr"
-    },
-    {
-      "added_at": "2021-11-11 23:56:41",
-      "album": {
-        "name": "En Todas Partes",
-        "url": "https://open.spotify.com/album/30oK2FaiGSLDuRO2T9foTR"
-      },
-      "artists": [
-        {
-          "name": "Vlntna B",
-          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
-        }
-      ],
-      "duration_ms": 162485,
-      "name": "En Todas Partes",
-      "url": "https://open.spotify.com/track/1fBiySiu1fTmiFyPc4R8DD"
+      "duration_ms": 166800,
+      "name": "Shake It Up",
+      "url": "https://open.spotify.com/track/4IqBzJpsbE7fb8ocdX4ZZP"
     },
     {
       "added_at": "2021-11-11 23:56:41",
@@ -707,18 +615,110 @@
     {
       "added_at": "2021-11-11 23:56:41",
       "album": {
-        "name": "La Luna Y Las Melod\u00edas",
-        "url": "https://open.spotify.com/album/1JcK7fmGvIDfPqNgbb86eQ"
+        "name": "SAMURAI",
+        "url": "https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f"
       },
       "artists": [
         {
-          "name": "Christiane",
-          "url": "https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na"
+          "name": "K-efe",
+          "url": "https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq"
         }
       ],
-      "duration_ms": 199000,
-      "name": "La Luna Y Las Melod\u00edas",
-      "url": "https://open.spotify.com/track/4ZlwfAQkhzubvMHbwFSSpw"
+      "duration_ms": 200963,
+      "name": "SAMURAI",
+      "url": "https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Ni Verte",
+        "url": "https://open.spotify.com/album/5JJsHeFcN9wIXe34cISJOS"
+      },
+      "artists": [
+        {
+          "name": "MATAHONEY",
+          "url": "https://open.spotify.com/artist/24qtxSIhOdH3vlGiqO8sBt"
+        },
+        {
+          "name": "Luqo",
+          "url": "https://open.spotify.com/artist/0bSeMRiKgDwHur64WIOodN"
+        }
+      ],
+      "duration_ms": 183592,
+      "name": "Ni Verte",
+      "url": "https://open.spotify.com/track/4fID9Ebm9kK8D4SGZLz0Hg"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "No Vengas a Cantarme Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/6uLDK6lG14DS9tW05xDyS7"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        },
+        {
+          "name": "Aleo",
+          "url": "https://open.spotify.com/artist/6zQ5RDRxvAEYVIrBaNz44N"
+        }
+      ],
+      "duration_ms": 168361,
+      "name": "No Vengas a Cantarme Reggaet\u00f3n",
+      "url": "https://open.spotify.com/track/2J5RgOh1NO7Lon7aLg2tWD"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "La Oficial",
+        "url": "https://open.spotify.com/album/49qL6ootmx7M0oJ8RVaDNI"
+      },
+      "artists": [
+        {
+          "name": "Pily Garc\u00eda",
+          "url": "https://open.spotify.com/artist/39oW9XDNK2MidsoRAyjXeB"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "La Oficial",
+      "url": "https://open.spotify.com/track/74sIGoxUiqj5vLjry0zket"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "M\u00e1gica",
+        "url": "https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 136132,
+      "name": "M\u00e1gica",
+      "url": "https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf"
+    },
+    {
+      "added_at": "2021-11-11 23:56:41",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/7v8XaZJHFw83xKWjcrZdJR"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        },
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "duration_ms": 176246,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/1VRh6jQfaiiRkXfdxpjxd2"
     }
   ],
   "unique_name": "Radar Al Sur",

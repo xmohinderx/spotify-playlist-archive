@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 164081,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/3yiqi3ST0LSSQINadQWzmx"
@@ -1316,6 +1316,24 @@
     },
     {
       "album": {
+        "name": "I'm Just A Monster Underneath, My Darling",
+        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250344,
+      "name": "I'm Just A Monster Underneath, My Darling",
+      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
+    },
+    {
+      "album": {
         "name": "Prock House",
         "url": "https://open.spotify.com/album/6WmVszxhoZlftm89rz5FFq"
       },
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 293093,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "MAKE BELIEVE",
       "url": "https://open.spotify.com/track/2E1K4gYnfHGsZLldIQzucF"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 217714,
       "name": "No Fear",
       "url": "https://open.spotify.com/track/5TjFxHpoDtVtLxIRezZhbR"
@@ -2315,7 +2333,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 144275,
       "name": "REPEAT THE CYCLE",
       "url": "https://open.spotify.com/track/5ePoiZ6FCr4qwfVsptDv9A"
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 181666,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/11s8gbi7pqmvuREruilbJP"
@@ -2667,7 +2685,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 174000,
       "name": "Somebody's Idiot",
       "url": "https://open.spotify.com/track/4QinVyD0wdHBxyszMR9Ryn"

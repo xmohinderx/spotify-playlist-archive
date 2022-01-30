@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Blackbird",
+        "url": "https://open.spotify.com/album/5NF1os4zI0Ul7NTCDm8I14"
+      },
+      "artists": [
+        {
+          "name": "Almanacs",
+          "url": "https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343000,
+      "name": "A Black Bird Sat on My Window and Cried",
+      "url": "https://open.spotify.com/track/51kjApNxwEpctdm8d9GOLG"
+    },
+    {
+      "album": {
         "name": "Sollbruchstelle 1-3",
         "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
       },
@@ -125,7 +143,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 412000,
       "name": "Antec\u00e1mara",
       "url": "https://open.spotify.com/track/42RLy3PPI7zlf18MP095BC"
@@ -143,7 +161,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 189000,
       "name": "Approximate Bermeja",
       "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
@@ -335,7 +353,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 406264,
       "name": "Cero",
       "url": "https://open.spotify.com/track/2EWraP4hiHSp2bF6VW8yOH"
@@ -375,7 +393,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Circle 18",
       "url": "https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L"
@@ -549,6 +567,24 @@
       "duration_ms": 330000,
       "name": "Efflorescence",
       "url": "https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2"
+    },
+    {
+      "album": {
+        "name": "Empty House",
+        "url": "https://open.spotify.com/album/6DreRxZHfhlKNHYTLvqWdb"
+      },
+      "artists": [
+        {
+          "name": "Music is Love",
+          "url": "https://open.spotify.com/artist/7zIjtXdgvjqvKAZNbbFjvy"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Empty House",
+      "url": "https://open.spotify.com/track/44wMuVcGt4VkYpWGQEnq2C"
     },
     {
       "album": {
@@ -827,7 +863,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Low Voltage",
       "url": "https://open.spotify.com/track/0xqf2NDfzJKWzHQAfLl6mo"
@@ -979,7 +1015,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 223200,
       "name": "Novu Hisy",
       "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
@@ -1195,7 +1231,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 512742,
       "name": "sense",
       "url": "https://open.spotify.com/track/22MoPPtD3KKQSlC9TX4OeU"
@@ -1391,7 +1427,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 304093,
       "name": "Starethrough - Transition Mix",
       "url": "https://open.spotify.com/track/2eWzfakfq1LO1tE1luft3n"
@@ -1439,7 +1475,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/7oeoPQWwvxCSvJP3YFOhpz"
@@ -1681,7 +1717,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Meshuggah
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,034 likes - 99 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,292 likes - 99 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 24 | [Halos](https://open.spotify.com/track/6gyLJLstE1is7JyaOyHQ6o) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Death By Admiration](https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A) | 3:38 |
 | 25 | [Flames of Perdition](https://open.spotify.com/track/228ZZgf72cwDFmjquP1nyc) | [Dawn Of Solace](https://open.spotify.com/artist/7anjHetVbdSelRpDsZzWY7) | [Flames of Perdition](https://open.spotify.com/album/472FXBOq2B2LNZuH1NA5XF) | 5:20 |
 | 26 | [Of Clarity and Galactic Structures](https://open.spotify.com/track/58ySBRH53MkWrnwkuMkJGY) | [The Spirit](https://open.spotify.com/artist/1KLoISkEyIEt9Q6xMB83Ah) | [Of Clarity and Galactic Structures](https://open.spotify.com/album/41Hdee17qVkdIU0Z2BedWB) | 7:35 |
-| 27 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 |
+| 27 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 |
 | 28 | [Like A Villain](https://open.spotify.com/track/2yAfzkn1JFekLsqVDDualq) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Like A Villain](https://open.spotify.com/album/0MarSikaOlnWAKSfpDaC1g) | 3:30 |
 | 29 | [Church Burns](https://open.spotify.com/track/5a6VEGwYR8xM6daWuhml9j) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Church Burns](https://open.spotify.com/album/6Ox5BbUgNycErk1kekWaMB) | 3:03 |
 | 30 | [Turborider](https://open.spotify.com/track/07QtZcsiO25zCmq7oQ8utc) | [Reckless Love](https://open.spotify.com/artist/0Nkyv1Zj8Xh7Lux3KzIQCl) | [Turborider](https://open.spotify.com/album/70y2agF5G7fGqlnH8b76yc) | 4:25 |

@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 193000,
       "name": "A Little Less Bored",
       "url": "https://open.spotify.com/track/7Mf4X2WRdXV3GCCkc6dlk0"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 325975,
       "name": "An Ordinary Life",
       "url": "https://open.spotify.com/track/4aisUpHLCjQXjrv2ceJm5v"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 173006,
       "name": "Between Your Teeth",
       "url": "https://open.spotify.com/track/0bIgYIJimrHidCxFgYcgxT"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 216027,
       "name": "Comingback - Single Version",
       "url": "https://open.spotify.com/track/5gw6D0cBSEBGlv68liOrne"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 178626,
       "name": "Decimal",
       "url": "https://open.spotify.com/track/1uliNs1keVwYclj74JX44R"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 189234,
       "name": "Eyes of Stone",
       "url": "https://open.spotify.com/track/5BYdwKN4OJlNh0MW6Cso6g"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 226467,
       "name": "Gush",
       "url": "https://open.spotify.com/track/1KVmkJwGJqHWQkb1xg1zkg"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 224451,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1F03U5VIgelva5MHT2vTNc"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 114067,
       "name": "How Can You Tell If You Love Her?",
       "url": "https://open.spotify.com/track/5q1RkQhtzcc8N8jK5JWhZp"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "I Found Out When the Day Had Come",
       "url": "https://open.spotify.com/track/6WOqkXgBwL2pwyFlFlTDz4"
@@ -1461,7 +1461,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 265107,
       "name": "Out the Neighbourhood",
       "url": "https://open.spotify.com/track/6eApoyaNF3DBw1cZhnBBp6"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 204109,
       "name": "Powerlines",
       "url": "https://open.spotify.com/track/7MKHEwNOziXwWCtmd4QVRO"
@@ -1624,6 +1624,24 @@
     },
     {
       "album": {
+        "name": "Right Person, Wrong Time",
+        "url": "https://open.spotify.com/album/4AdWy46LuhYFE3b9v1zfMY"
+      },
+      "artists": [
+        {
+          "name": "Cj Pandit",
+          "url": "https://open.spotify.com/artist/1nj5nrlKa0trBmdgilmG8G"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210396,
+      "name": "Right Person, Wrong Time",
+      "url": "https://open.spotify.com/track/2JwgUy76BKFXbMVdoL6DZ2"
+    },
+    {
+      "album": {
         "name": "Roccastrada",
         "url": "https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2"
       },
@@ -1665,6 +1683,24 @@
       "duration_ms": 279613,
       "name": "Running Red Lights (feat. Rivers Cuomo & Pink Siifu)",
       "url": "https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN"
+    },
+    {
+      "album": {
+        "name": "so sad",
+        "url": "https://open.spotify.com/album/0LcgRpayGiKHRTz3M7oKkX"
+      },
+      "artists": [
+        {
+          "name": "iogi",
+          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267836,
+      "name": "so sad",
+      "url": "https://open.spotify.com/track/04wi6jJm7gAGpiqOZM7uiK"
     },
     {
       "album": {
@@ -1769,7 +1805,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 202003,
       "name": "Southwark",
       "url": "https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR"
@@ -1953,7 +1989,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 212020,
       "name": "True Stereo",
       "url": "https://open.spotify.com/track/7l2NAnYz0KJxQ3t28pfFTz"

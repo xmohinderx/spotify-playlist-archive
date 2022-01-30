@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Pierre Kwenders
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,564 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,568 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 |
-| 2 | [Des Étoiles](https://open.spotify.com/track/6kv2fyvEXjSXlHvZ1JrVan) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Royauté](https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn) | 2:49 |
+| 2 | [Des Étoiles](https://open.spotify.com/track/6kv2fyvEXjSXlHvZ1JrVan) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Royauté](https://open.spotify.com/album/2G5o5u1tPRBbHG0zK3H3dn) | 2:49 |
 | 3 | [Deux cœurs vagabonds](https://open.spotify.com/track/6wmSCqAYA4gO9jziPV2SRC) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Deux cœurs vagabonds](https://open.spotify.com/album/7ClSLWsd75Z35uuTmRNWJa) | 4:19 |
 | 4 | [Shooter](https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [SVR](https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy) | 2:43 |
 | 5 | [Demain](https://open.spotify.com/track/0U58UfCBhjdXBJpf2qJcwT) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Demain](https://open.spotify.com/album/6ZklkNHAqHpSrGqxsJQSyf) | 3:38 |

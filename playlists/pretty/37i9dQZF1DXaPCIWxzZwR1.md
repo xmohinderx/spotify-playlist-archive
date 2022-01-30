@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > before he was Elliot, Dominic Fike had us swooning over his music
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,934 likes - 105 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,010,604 likes - 105 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 43 | [sad4whattt \- From ”Euphoria” An HBO Original Series](https://open.spotify.com/track/3oM8s8hnrh6xjKv1iycJaZ) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [sad4whattt \(From ”Euphoria” An HBO Original Series\)](https://open.spotify.com/album/7y5qaNQg9AUbPAqRB4cinS) | 1:58 |
 | 44 | [Hate Me](https://open.spotify.com/track/08rB2a7jEmObJSsq0e41tg) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Hate Me](https://open.spotify.com/album/3QdA3ygxHkyPdGrFvN9mVj) | 2:51 |
 | 45 | [WISH U HELL](https://open.spotify.com/track/2OpUJfXLRo0Tk1q4Uo0iVu) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [WISH U HELL](https://open.spotify.com/album/5gWxq8KmRs1opcukXf7q5H) | 3:11 |
-| 46 | [Pick Me Up \- From ”Euphoria” An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Pick Me Up \(From ”Euphoria” An HBO Original Series\)](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
+| 46 | [\(Pick Me Up\) Euphoria \- From ”Euphoria” An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [\(Pick Me Up\) Euphoria \[From ”Euphoria” An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 47 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 |
 | 48 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 |
 | 49 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 |

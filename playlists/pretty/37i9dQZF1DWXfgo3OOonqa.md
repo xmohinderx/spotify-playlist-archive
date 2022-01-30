@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,534 likes - 77 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,607 likes - 77 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 6 | [Milli](https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [Milli](https://open.spotify.com/album/6CakrPkzkMk0W7KJwdugiG) | 2:07 |
 | 7 | [M5](https://open.spotify.com/track/5S3JUCSK7SAkjEW7yoqjlP) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Sin City](https://open.spotify.com/album/6j79aZFeGayGLwBGsAOE2C) | 2:24 |
 | 8 | [KOMMER & GÅR](https://open.spotify.com/track/5yLzXhTq6wZV0btxdtFxyu) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [KOMMER & GÅR](https://open.spotify.com/album/5UzQqu5ridQ89gWlemfEpv) | 2:13 |
-| 9 | [Top Dawgs](https://open.spotify.com/track/5ruFZdf4Gas5G7jxnbKRz5) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Top Dawgs](https://open.spotify.com/album/6ar7Olx8fj4Vkh5FvMKoyc) | 2:38 |
+| 9 | [Top Dawgs](https://open.spotify.com/track/5ruFZdf4Gas5G7jxnbKRz5) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h), [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [Top Dawgs](https://open.spotify.com/album/6ar7Olx8fj4Vkh5FvMKoyc) | 2:38 |
 | 10 | [The Town](https://open.spotify.com/track/0iHQD3mRm4QZMfLSZUQcwl) | [Moewgli](https://open.spotify.com/artist/2QQcLziAzX1VdysI6Mvsl0), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [The Town](https://open.spotify.com/album/0IVxLy1T3bsxSPDu9HAeuY) | 2:43 |
 | 11 | [Platsen](https://open.spotify.com/track/2WLSkmxXfc78plQDoNUiGx) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Platsen](https://open.spotify.com/album/2uQbGKfLFdOnXeRoQnJ7rE) | 2:08 |
 | 12 | [Fastna](https://open.spotify.com/track/0e9OD1TSS0d7rwb86TdDLD) | [RAHIMIC](https://open.spotify.com/artist/4rSe5VVdZX6GOPCcMYT7ZM), [Fatnassi](https://open.spotify.com/artist/6xuI6Kq903DjlnPrNhLwK5) | [Fastna](https://open.spotify.com/album/1JUAGepQ7gWg2fAAoyPGw5) | 3:29 |

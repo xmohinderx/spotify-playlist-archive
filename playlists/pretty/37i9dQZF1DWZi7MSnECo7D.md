@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: belina
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,999 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,052 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 11 | [Tu tem jeito de quem gosta](https://open.spotify.com/track/1xOpAC7Wv465c51iK4Tgkv) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Tu tem jeito de quem gosta](https://open.spotify.com/album/5vrKMwJ2laISjYY0nWzZ2o) | 2:37 |
 | 12 | [Pra Curar](https://open.spotify.com/track/1DIBq09mcWCWuXc0TIqoOx) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fragmentos 2](https://open.spotify.com/album/7tsqDAZfHq81EE3i81EOXG) | 3:06 |
 | 13 | [Quem somos nós](https://open.spotify.com/track/1GqXsiusqMiPmZtjnBfL6t) | [Playmoboys](https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw), [Oh! I Kill](https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI) | [Ressaca](https://open.spotify.com/album/3rkkLKfD5NpXDnwxQU79y3) | 3:41 |
-| 14 | [Ninguém Me Perguntou](https://open.spotify.com/track/5f0OwJ1g8pGJqPModI6GBC) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Ninguém Me Perguntou](https://open.spotify.com/album/1PgEp8TGHXMsxFDWcDqVQV) | 2:36 |
+| 14 | [ninguém me perguntou](https://open.spotify.com/track/5f0OwJ1g8pGJqPModI6GBC) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [ninguém me perguntou](https://open.spotify.com/album/1PgEp8TGHXMsxFDWcDqVQV) | 2:36 |
 | 15 | [Nada Mudou](https://open.spotify.com/track/56d5TRjEg3EhRCIGCQeVkw) | [Rosa Chá](https://open.spotify.com/artist/39WSXNixu2Y7AUCGSyWI0x), [Casulo](https://open.spotify.com/artist/0g7WzDKcyUqaVpmZDiQ4H2) | [Nada Mudou](https://open.spotify.com/album/37u6sGGBnmRuCgF65iVgK0) | 3:30 |
 | 16 | [Teoría del Cuerpo Enamorado](https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Teoría del Cuerpo Enamorado](https://open.spotify.com/album/3bLd5ak4vQm8TWleuhVX4j) | 5:53 |
 | 17 | [nada contra \(ciúme\)](https://open.spotify.com/track/1YGLrVineKYS0UzvBAA3gH) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/0GKDqWpEF0cRw9Q6Ha1zpH) | 2:22 |

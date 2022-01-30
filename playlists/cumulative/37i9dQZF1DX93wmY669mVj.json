@@ -994,36 +994,6 @@
     },
     {
       "album": {
-        "name": "Liszt: Piano Concertos Nos.1 & 2; Totentanz",
-        "url": "https://open.spotify.com/album/1IKSiDTwCfw2TUs9WjnQ8A"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Krystian Zimerman",
-          "url": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        },
-        {
-          "name": "Seiji Ozawa",
-          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
-        }
-      ],
-      "date_added": "2021-08-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 499133,
-      "name": "Piano Concerto No. 2 in A Major, S. 125: 2. Allegro moderato - Allegro deciso",
-      "url": "https://open.spotify.com/track/2lJWbOdU6gwvmuqXzPjyVv"
-    },
-    {
-      "album": {
         "name": "Liszt: Piano Concertos & Mal\u00e9diction",
         "url": "https://open.spotify.com/album/3Bmkmbwk7RXeEm1CvevRwK"
       },
@@ -1081,6 +1051,36 @@
       "duration_ms": 317773,
       "name": "Piano Concerto No. 2 in A Major, S. 125: I. Adagio sostenuto assai",
       "url": "https://open.spotify.com/track/6Mw7tm0M9vHlqIfUO8rTBD"
+    },
+    {
+      "album": {
+        "name": "Liszt: Piano Concertos Nos. 1 & 2; Totentanz",
+        "url": "https://open.spotify.com/album/1IKSiDTwCfw2TUs9WjnQ8A"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Krystian Zimerman",
+          "url": "https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "date_added": "2021-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499133,
+      "name": "Piano Concerto No. 2 in A Major, S. 125: II. Allegro moderato - Allegro deciso",
+      "url": "https://open.spotify.com/track/2lJWbOdU6gwvmuqXzPjyVv"
     },
     {
       "album": {

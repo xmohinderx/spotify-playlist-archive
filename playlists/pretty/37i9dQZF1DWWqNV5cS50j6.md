@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > not not pop\. featuring new music by AUDREY NUNA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,457 likes - 168 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,704 likes - 168 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

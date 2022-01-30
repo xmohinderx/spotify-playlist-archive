@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [How Long \- From ”Euphoria” An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From ”Euphoria” An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 |
-| 2 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:28 |
+| 2 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 |
 | 3 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:15 |
 | 4 | [Twice In A Lifetime](https://open.spotify.com/track/0RyFvkZdH7xRVOOZ3X4nyn) | [HYYTS](https://open.spotify.com/artist/14imaElr610tHxlaJpuQHq) | [Twice In A Lifetime](https://open.spotify.com/album/17JIffEHnTm3hqFRE3ZjUb) | 2:53 |
 | 5 | [STB x Boyfriend](https://open.spotify.com/track/21vtzFwskEueZcLzLBtKWk) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX) | [Boyology](https://open.spotify.com/album/2TxvFTdouxgjpGrIm1pypX) | 3:02 |

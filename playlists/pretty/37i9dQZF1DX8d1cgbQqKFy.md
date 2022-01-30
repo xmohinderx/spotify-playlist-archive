@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d1cgbQqKFy.md) - [plain]
 
 > Dive into the works of Noam Chomsky, beginning with his latest 2014 release, When Elites Fail.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,564 likes - 410 songs - 1 day 0 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,562 likes - 410 songs - 1 day 0 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

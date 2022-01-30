@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "4am",
       "url": "https://open.spotify.com/track/0DTDQgTl6dfdFCCr8ZdE7T"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 217389,
       "name": "All The Noise",
       "url": "https://open.spotify.com/track/6azay3H49DoX9pXZ97e4kb"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 410080,
       "name": "All We Have (feat. Lastlings)",
       "url": "https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 157216,
       "name": "At the Party",
       "url": "https://open.spotify.com/track/47WxJ89JybSnYFswKjpaxx"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 180693,
       "name": "Come and Go",
       "url": "https://open.spotify.com/track/4tN0ytPJ4ig51FVchYxHHB"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "complicated",
       "url": "https://open.spotify.com/track/27IVr9M62UTAYt6wR6NPWo"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 104470,
       "name": "Emotion",
       "url": "https://open.spotify.com/track/1WurdHYjLIZKqCCOLe9lQb"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 174062,
       "name": "Good Love 2.0",
       "url": "https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 154537,
       "name": "I Belong",
       "url": "https://open.spotify.com/track/7wMBGhGNboFnTAibRWA1Wj"
@@ -1120,6 +1120,24 @@
     },
     {
       "album": {
+        "name": "I WON'T STAY",
+        "url": "https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I"
+      },
+      "artists": [
+        {
+          "name": "Joplyn",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286423,
+      "name": "I WON'T STAY",
+      "url": "https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO"
+    },
+    {
+      "album": {
         "name": "goodnight moon (demos)",
         "url": "https://open.spotify.com/album/5Gqq6Ws85etAcUc1cZETNc"
       },
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 219348,
       "name": "I'm Every Woman - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
       "url": "https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 169796,
       "name": "Look At Me Now",
       "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 181040,
       "name": "Nobody Knows We Are Fun",
       "url": "https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 156909,
       "name": "One Time",
       "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 210000,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/5hfn3tbQM78sjfEp0yRTlC"
@@ -1945,7 +1963,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 198705,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/4wiTiQP1ZU5nTdU3Y8kx6Y"
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 209714,
       "name": "Unfamiliar Faces",
       "url": "https://open.spotify.com/track/5fgQ8FZ4bfTs9Pk4oG6imi"
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 158617,
       "name": "Working for the Knife",
       "url": "https://open.spotify.com/track/46OaeacE8RjnE49MB5B2Lt"

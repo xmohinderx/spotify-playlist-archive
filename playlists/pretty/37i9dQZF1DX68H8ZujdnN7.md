@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68H8ZujdnN7.md) - [plain]
 
 > Hair goals, spandex and epic guitar solos\. We got you\. Celebrating the life and legacy of Eddie Van Halen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,717,422 likes - 105 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,718,012 likes - 105 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

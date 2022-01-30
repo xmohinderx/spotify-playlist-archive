@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 148226,
       "name": "A Colossal Wreck",
       "url": "https://open.spotify.com/track/2MEsI0FQNG8L4s13vkPwK4"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 182530,
       "name": "A Serpent's Touch (feat. Emma Boster)",
       "url": "https://open.spotify.com/track/4V0H8J3nTvRZ2ZCyTORRwT"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 225853,
       "name": "Blackened Sun",
       "url": "https://open.spotify.com/track/3F0Mky7mgMfEZCkEWlIhfm"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 168586,
       "name": "Brutus",
       "url": "https://open.spotify.com/track/7I8vqZE2Vm4EqYIwCPhb0u"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 262880,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/4PZyMx0S5LQyi76JWOrXg0"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 153661,
       "name": "Chance",
       "url": "https://open.spotify.com/track/7KXQXLe2Ocz0bVvD6gjOqp"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 252468,
       "name": "Collapse",
       "url": "https://open.spotify.com/track/6oBjnOBqngXWsRuYY5eTnz"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 186849,
       "name": "Death from Above",
       "url": "https://open.spotify.com/track/5JThFNIo27sIaFDp3iw3OV"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 162439,
       "name": "Fortune Teller",
       "url": "https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi"
@@ -1562,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "Welcome to the West Coast",
+        "url": "https://open.spotify.com/album/15IZ0SjrSoX6dP9OOBu8gd"
+      },
+      "artists": [
+        {
+          "name": "Lionheart",
+          "url": "https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189985,
+      "name": "Lhhc",
+      "url": "https://open.spotify.com/track/1EOlB3kMbJ9Idp8Q8zqXRC"
+    },
+    {
+      "album": {
         "name": "Life Is Pain",
         "url": "https://open.spotify.com/album/3qTvTGPdWJlGZhMZmo4bz7"
       },
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 217960,
       "name": "ManiaCult",
       "url": "https://open.spotify.com/track/72YghcscYUxL9GyUWTsqZn"
@@ -1843,7 +1861,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 211807,
       "name": "No Brother, No Friend",
       "url": "https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV"
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 228572,
       "name": "Seeds of Hate",
       "url": "https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH"
@@ -3047,7 +3065,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 89867,
       "name": "You Will Never Be One of Us",
       "url": "https://open.spotify.com/track/3aYX2XUXs2JFmq03iqpcVl"

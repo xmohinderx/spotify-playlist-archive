@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > This is the new core at its finest\. Cover: Pridelands
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,452 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,524 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 19 | [Hush](https://open.spotify.com/track/65IszYMAcZBZ31WJeMkGx3) | [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Welcome Home](https://open.spotify.com/album/04O5F58s8VmMEGqJwQRfFu) | 3:37 |
 | 20 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 |
 | 21 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 |
-| 22 | [Lonewolf](https://open.spotify.com/track/3xLyoznRCxpiHesDvFuruO) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Stefan](https://open.spotify.com/artist/517s7engiN791R679LNatZ) | [Lonewolf](https://open.spotify.com/album/3tJkL5SWXHgmqyRcXhPR3n) | 3:11 |
+| 22 | [Lonewolf](https://open.spotify.com/track/3xLyoznRCxpiHesDvFuruO) | [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Stefan](https://open.spotify.com/artist/20Xs7JytmAIAtnNQ4Cqe0J) | [Lonewolf](https://open.spotify.com/album/3tJkL5SWXHgmqyRcXhPR3n) | 3:11 |
 | 23 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 |
 | 24 | [Erase My Mind](https://open.spotify.com/track/1Ea7F7xDdh4prxbcyGrWCM) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Home](https://open.spotify.com/album/78C5GqCXzU5aToERikJ00P) | 3:11 |
 | 25 | [Nigh to Silence](https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Nigh to Silence](https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH) | 5:04 |

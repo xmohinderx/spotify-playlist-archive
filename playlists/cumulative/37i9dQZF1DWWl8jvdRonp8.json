@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 265840,
       "name": "Como Tu Mujer - Banda",
       "url": "https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 203746,
       "name": "Cuando Regreses",
       "url": "https://open.spotify.com/track/6WoNr1cuIx6qWvAfxcCh4k"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 229851,
       "name": "Estar\u00e9 Contigo",
       "url": "https://open.spotify.com/track/2fZqON806pidhX4qeur2vq"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 231426,
       "name": "Necesito Una Compa\u00f1era",
       "url": "https://open.spotify.com/track/3C774e6E4KmqSFHk1b4GNY"
@@ -1815,7 +1815,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 273800,
       "name": "Se Va Muriendo Mi Alma",
       "url": "https://open.spotify.com/track/1NpT44WVlAuDFENtpLR6O3"
@@ -1913,7 +1913,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 287906,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/62qI8m0sXpzlSjYYx0nZ83"
@@ -2075,7 +2075,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 241866,
       "name": "Sigue Sin M\u00ed",
       "url": "https://open.spotify.com/track/1fo0j61NKGJ3WT89TrjQzq"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Sin \u00c9l",
       "url": "https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU"
@@ -2205,7 +2205,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 220253,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/6DplRnHW9J6ZACqZ2Fxi1Q"
@@ -2306,6 +2306,28 @@
     },
     {
       "album": {
+        "name": "Por Amor A Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210653,
+      "name": "Una Mujer Como T\u00fa",
+      "url": "https://open.spotify.com/track/5KT4EniEaaf3Mn6uAVL2sh"
+    },
+    {
+      "album": {
         "name": "Sin \u00c9l",
         "url": "https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK"
       },
@@ -2371,7 +2393,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 171160,
       "name": "Vi\u00e9ndolo Bien",
       "url": "https://open.spotify.com/track/4xz67gCRJvFPjYOWTwrquw"
@@ -2573,7 +2595,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 212192,
       "name": "Yo Te Necesito",
       "url": "https://open.spotify.com/track/4NTkJ9PXFZgyMLAYa82P1t"

@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 258306,
       "name": "Electrified Loser",
       "url": "https://open.spotify.com/track/2HWVQRoF34TqYpEdEo8Wx5"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 279333,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 173398,
       "name": "Hunted",
       "url": "https://open.spotify.com/track/11eP2bZWGjdbtTlc2ibdXV"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 198480,
       "name": "It\u2019s Electric",
       "url": "https://open.spotify.com/track/7mvQXgyVwWr9fYMVDoCMkY"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 178786,
       "name": "On To The Next",
       "url": "https://open.spotify.com/track/1hLebZRSvlJdTQ982UYvcw"
@@ -1613,7 +1613,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 336465,
       "name": "The King Welcomes You to Avatar Country",
       "url": "https://open.spotify.com/track/7rdz7pkwAfnl9M2X0ld2sr"
@@ -1653,6 +1653,24 @@
       "duration_ms": 252733,
       "name": "The Trooper - 2015 Remaster",
       "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
+    },
+    {
+      "album": {
+        "name": "Thrash Metal Cassette",
+        "url": "https://open.spotify.com/album/4uxoxIxiheMeKBzioMofHY"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Pile-Up",
+          "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "Thrash Metal Cassette",
+      "url": "https://open.spotify.com/track/2NSw8SOcQ6EVLf1QZFMH1h"
     },
     {
       "album": {
@@ -1775,7 +1793,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 152560,
       "name": "We Die Young",
       "url": "https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ"
@@ -1793,7 +1811,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 273866,
       "name": "We Rock",
       "url": "https://open.spotify.com/track/6qxi41lmbH35MT29bqlL4k"
@@ -1829,7 +1847,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 265082,
       "name": "Where the Wind Blows",
       "url": "https://open.spotify.com/track/2UQWjFMCOWaENx8sf2n5SC"

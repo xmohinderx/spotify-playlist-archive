@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2020-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 425453,
       "name": "Don't Stop Me Now",
       "url": "https://open.spotify.com/track/5ZR2kBtwXGvaB6naU8qGCJ"
@@ -2159,7 +2159,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "Nancy (With The Laughing Face)",
       "url": "https://open.spotify.com/track/6xXUcB3UuWfuaiExwlzY9Q"
@@ -2702,6 +2702,24 @@
     },
     {
       "album": {
+        "name": "The 7th Hand",
+        "url": "https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284529,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj"
+    },
+    {
+      "album": {
         "name": "Gerry Mulligan Meets Johnny Hodges",
         "url": "https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z"
       },
@@ -2979,7 +2997,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 442226,
       "name": "Strange Meadow Lark",
       "url": "https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax"
@@ -3487,7 +3505,7 @@
       ],
       "date_added": "2020-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 462106,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/3EeUl7XZAqrU2NoDTZjfdU"
@@ -3563,7 +3581,7 @@
       ],
       "date_added": "2020-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 356586,
       "name": "Vashkar",
       "url": "https://open.spotify.com/track/3Om7i5Xg1ORaABNTaCnF29"

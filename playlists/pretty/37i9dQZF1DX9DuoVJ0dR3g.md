@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9DuoVJ0dR3g.md) - [plain]
 
 > Generation defining music, one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,194 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,223 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

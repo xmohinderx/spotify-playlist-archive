@@ -1,29 +1,13 @@
 {
   "description": "These songs will make you feel better. Or maybe worse.",
-  "num_followers": 215896,
+  "num_followers": 215884,
   "original_name": "The PMS Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzQxNjQ2MSwwMDAwMDAwMDliMmQxY2RlZTI1NjUwNzA3ZWZmZTQ5OTZhYjdjYTVi",
+  "snapshot_id": "MTY0MzUwMzAzMCwwMDAwMDAwMDIyNmE3NzM1NmYxMjkzMGI2NjhkMTI4Njc1NWUyMzY5",
   "tracks": [
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Greatest Hits...So Far!!!",
-        "url": "https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "F**kin' Perfect",
-      "url": "https://open.spotify.com/track/4SEZthmPtszZPaktPLRX6J"
-    },
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 249146,
       "name": "If I Were a Boy",
       "url": "https://open.spotify.com/track/7cCulnTCDYdGiSmTKmvJJe"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Greatest Hits...So Far!!!",
+        "url": "https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "F**kin' Perfect",
+      "url": "https://open.spotify.com/track/4SEZthmPtszZPaktPLRX6J"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -59,18 +59,18 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Abba Gold Anniversary Edition",
-        "url": "https://open.spotify.com/album/00GMnZ71KyvmEnZfqcsFP4"
+        "name": "Fight Song - EP",
+        "url": "https://open.spotify.com/album/63L3vuRRfaEIsQXsVsQ8oQ"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
         }
       ],
-      "duration_ms": 234573,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/1MTF3KweV9ntqiOeP5KWt5"
+      "duration_ms": 204066,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/6bRbeEgg8v8BQ0HuVuPE7v"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -87,38 +87,6 @@
       "duration_ms": 262466,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Gypsy Heart",
-        "url": "https://open.spotify.com/album/3Gvp7hk4YWaWg2mF0XAauA"
-      },
-      "artists": [
-        {
-          "name": "Colbie Caillat",
-          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
-        }
-      ],
-      "duration_ms": 224573,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/7rWq6WfZNwilZgRvZUw6CQ"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Bills, Bills, Bills",
-      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -155,18 +123,34 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Fight Song - EP",
-        "url": "https://open.spotify.com/album/63L3vuRRfaEIsQXsVsQ8oQ"
+        "name": "Abba Gold Anniversary Edition",
+        "url": "https://open.spotify.com/album/00GMnZ71KyvmEnZfqcsFP4"
       },
       "artists": [
         {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 204066,
-      "name": "Fight Song",
-      "url": "https://open.spotify.com/track/6bRbeEgg8v8BQ0HuVuPE7v"
+      "duration_ms": 234573,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/1MTF3KweV9ntqiOeP5KWt5"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -183,6 +167,54 @@
       "duration_ms": 247840,
       "name": "Power",
       "url": "https://open.spotify.com/track/03Nor3UpgNjFpsv4rEQSgr"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Cause And Effect",
+        "url": "https://open.spotify.com/album/19sjW0E7E8RvOAmTMVufKT"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "All This Time (Pick-Me-Up Song)",
+      "url": "https://open.spotify.com/track/01Yr9fhjtAtFQDSx3GeXgv"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 221075,
+      "name": "Primadonna",
+      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Gypsy Heart",
+        "url": "https://open.spotify.com/album/3Gvp7hk4YWaWg2mF0XAauA"
+      },
+      "artists": [
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        }
+      ],
+      "duration_ms": 224573,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/7rWq6WfZNwilZgRvZUw6CQ"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -219,98 +251,18 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "Cause And Effect",
-        "url": "https://open.spotify.com/album/19sjW0E7E8RvOAmTMVufKT"
+        "name": "Ceremonials",
+        "url": "https://open.spotify.com/album/3gmm8Sd93oyjTWug7Ci0Fd"
       },
       "artists": [
         {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 191506,
-      "name": "All This Time (Pick-Me-Up Song)",
-      "url": "https://open.spotify.com/track/01Yr9fhjtAtFQDSx3GeXgv"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "PRISM (Deluxe)",
-        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 223546,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Tell Me You Love Me (Deluxe)",
-        "url": "https://open.spotify.com/album/1MI6gNg0plcEOgs8aezsjH"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Sorry Not Sorry",
-      "url": "https://open.spotify.com/track/7gvd8xj4QgPqbQSsn5pV7d"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Think Before I Talk",
-        "url": "https://open.spotify.com/album/0AZnZ7IuXAO9k6rYNKZSxg"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 184908,
-      "name": "Think Before I Talk",
-      "url": "https://open.spotify.com/track/4lszNcJSaz61QT6gpMhFU1"
+      "duration_ms": 277637,
+      "name": "Shake It Out",
+      "url": "https://open.spotify.com/track/7aliOjqVEBd3ZZ8NMkuifd"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -331,66 +283,18 @@
     {
       "added_at": "2019-10-04 13:59:10",
       "album": {
-        "name": "So Sick",
-        "url": "https://open.spotify.com/album/47bCQ6kDcgSp12bLW1LTEA"
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 206853,
-      "name": "So Sick",
-      "url": "https://open.spotify.com/track/7qAqXbEGXCT50QfZSmRJWx"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 210613,
-      "name": "Big Girls Cry",
-      "url": "https://open.spotify.com/track/75xgoXAGed7jiNDdV8TNOe"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Ceremonials",
-        "url": "https://open.spotify.com/album/3gmm8Sd93oyjTWug7Ci0Fd"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 277637,
-      "name": "Shake It Out",
-      "url": "https://open.spotify.com/track/7aliOjqVEBd3ZZ8NMkuifd"
-    },
-    {
-      "added_at": "2019-10-04 13:59:10",
-      "album": {
-        "name": "Ain't Your Mama",
-        "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 218234,
-      "name": "Ain't Your Mama",
-      "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
+      "duration_ms": 217946,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
     },
     {
       "added_at": "2019-10-04 13:59:10",
@@ -407,6 +311,102 @@
       "duration_ms": 245960,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/684W6NpKllEexqQlGqetCi"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/2rPE9A1vEgShuZxxzR2tZH"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Nervous System",
+        "url": "https://open.spotify.com/album/2jadjpIZfrJwIIlaJbTpHE"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Issues",
+      "url": "https://open.spotify.com/track/0xG0SHshCStMEyNbNC5d4k"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Tell Me You Love Me (Deluxe)",
+        "url": "https://open.spotify.com/album/1MI6gNg0plcEOgs8aezsjH"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/7gvd8xj4QgPqbQSsn5pV7d"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Robyn (Special Online Edition)",
+        "url": "https://open.spotify.com/album/266CFxboeTc5o0E5wQdCkt"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Be Mine!",
+      "url": "https://open.spotify.com/track/6w9AJrciVuob4llmqR7A7C"
+    },
+    {
+      "added_at": "2019-10-04 13:59:10",
+      "album": {
+        "name": "Think Before I Talk",
+        "url": "https://open.spotify.com/album/0AZnZ7IuXAO9k6rYNKZSxg"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 184908,
+      "name": "Think Before I Talk",
+      "url": "https://open.spotify.com/track/4lszNcJSaz61QT6gpMhFU1"
     }
   ],
   "unique_name": "The PMS Playlist",

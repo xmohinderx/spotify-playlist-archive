@@ -115,7 +115,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 199017,
       "name": "Around The World (feat. NOUMENN)",
       "url": "https://open.spotify.com/track/273n4aGEPcL1HrcdhpGGul"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
@@ -1182,7 +1182,7 @@
     },
     {
       "album": {
-        "name": "Love Is Gone",
+        "name": "Love Is Gone - Kaskade Remix",
         "url": "https://open.spotify.com/album/3DZ8e5ZJ8vN2jUBpLVgceZ"
       },
       "artists": [
@@ -1191,12 +1191,12 @@
           "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
         },
         {
-          "name": "Dylan Matthew",
-          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
-        },
-        {
           "name": "Kaskade",
           "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
         }
       ],
       "date_added": "2021-09-10",
@@ -1285,6 +1285,24 @@
       "duration_ms": 159344,
       "name": "Make It Good",
       "url": "https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM"
+    },
+    {
+      "album": {
+        "name": "H\u00e9ritage",
+        "url": "https://open.spotify.com/album/5Ry4TznOKaJjwA7nAPriKB"
+      },
+      "artists": [
+        {
+          "name": "Florian Picasso",
+          "url": "https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218437,
+      "name": "Make It Home",
+      "url": "https://open.spotify.com/track/0V4Qpos8Es6VdHalZ4GsqC"
     },
     {
       "album": {
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 182243,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/4iqmktYiX3g7jAwr73i6yC"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 171796,
       "name": "Save Me (feat. Violet Days) - Tungevaag Remix",
       "url": "https://open.spotify.com/track/45srzqej6QL7I5CQtorj0d"
@@ -1867,7 +1885,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Scared",
       "url": "https://open.spotify.com/track/2ktaGvlb0uE3tUQXy2oXoo"
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 263200,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/4pXG8Q82L8WvypAm5Wo86y"

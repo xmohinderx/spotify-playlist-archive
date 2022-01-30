@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > The hits of tomorrow are on Spotify today\. Cover: Lauv
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,410,643 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,411,422 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 84 | [2011](https://open.spotify.com/track/5GzpstdtupjJcu0JR5j3v6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [2011](https://open.spotify.com/album/15zabwPUdPTC2JLygT5blT) | 3:17 |
 | 85 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 |
 
-Snapshot ID: `MTY0MzM5MzY1NSwwMDAwMDVhMTAwMDAwMTdlYTFlNTI0NDUwMDAwMDE3ZTljM2FkYWVm`
+Snapshot ID: `MTY0MzQ5MjEzNSwwMDAwMDVhMjAwMDAwMTdlYTdjM2QzYTkwMDAwMDE3ZTljM2FkYWVm`

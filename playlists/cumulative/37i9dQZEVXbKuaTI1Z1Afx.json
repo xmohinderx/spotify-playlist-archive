@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 590000,
       "name": "Bat Out of Hell",
       "url": "https://open.spotify.com/track/0VafPclbphrwh36WraHWws"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 173182,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 721000,
       "name": "I'd Do Anything For Love (But I Won't Do That)",
       "url": "https://open.spotify.com/track/4UrgDocbHywDZv2f3mBhCq"
@@ -1680,6 +1680,24 @@
     },
     {
       "album": {
+        "name": "Mujeriego",
+        "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
+    },
+    {
+      "album": {
         "name": "My Humps",
         "url": "https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb"
       },
@@ -2034,6 +2052,24 @@
     },
     {
       "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/0fmGzKHkBWKWaqW5igMqfV"
+      },
+      "artists": [
+        {
+          "name": "IShowSpeed",
+          "url": "https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156850,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/2dCadlxRJkp3ktY01gFcEZ"
+    },
+    {
+      "album": {
         "name": "ISHOWSPEED",
         "url": "https://open.spotify.com/album/0A289AosxAJWEwIS8ILlqQ"
       },
@@ -2227,6 +2263,24 @@
       "duration_ms": 228613,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
+    },
+    {
+      "album": {
+        "name": "Strawberry Skies",
+        "url": "https://open.spotify.com/album/1WgMm5NRGKfWBGLdvTA1Ky"
+      },
+      "artists": [
+        {
+          "name": "Kid Travis",
+          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Strawberry Skies",
+      "url": "https://open.spotify.com/track/458EaCXcB9TRBoJEDVcdcr"
     },
     {
       "album": {
@@ -2513,7 +2567,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 324440,
       "name": "Two Out of Three Ain't Bad",
       "url": "https://open.spotify.com/track/6zYdoGQaG0LwePeZdTWkg3"
@@ -2689,7 +2743,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 304440,
       "name": "You Took the Words Right Out of My Mouth (Hot Summer Night)",
       "url": "https://open.spotify.com/track/1pwrk7g0CuWEyhcFEN72pv"

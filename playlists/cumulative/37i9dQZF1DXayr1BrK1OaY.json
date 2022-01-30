@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "acceptance",
+        "url": "https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs"
+      },
+      "artists": [
+        {
+          "name": "poolsideconvo",
+          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311978,
+      "name": "acceptance",
+      "url": "https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0"
+    },
+    {
+      "album": {
         "name": "Nights Like This",
         "url": "https://open.spotify.com/album/2C0dvkjangekkdKMCwT85f"
       },
@@ -161,7 +179,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 246506,
       "name": "Apricots",
       "url": "https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 200000,
       "name": "Missing U",
       "url": "https://open.spotify.com/track/5jhaaWjYuXOOjdcf8GePey"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-30",
       "duration_ms": 211250,
       "name": "Share a Little Love (feat. LOWES)",
       "url": "https://open.spotify.com/track/1rt1whcFaJIXfOMiFL0GZG"
