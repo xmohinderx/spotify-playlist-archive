@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Bakar
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,797 likes - 99 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,814 likes - 99 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

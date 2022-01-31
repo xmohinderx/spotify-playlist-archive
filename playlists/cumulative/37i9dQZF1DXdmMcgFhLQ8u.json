@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/4DkA3DNGcEAh5SztzpTxPh"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 199413,
       "name": "Drag It Out",
       "url": "https://open.spotify.com/track/06uF7nCt1WzRjZJrOhSMu8"
@@ -539,6 +539,24 @@
       "duration_ms": 186233,
       "name": "Far Boy (with Austin Burke)",
       "url": "https://open.spotify.com/track/72IZFSjcDbtrtqn4sfrIjR"
+    },
+    {
+      "album": {
+        "name": "Forgetting You",
+        "url": "https://open.spotify.com/album/2wxxVIPFHehCMJsUvRGCGc"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184760,
+      "name": "Forgetting You",
+      "url": "https://open.spotify.com/track/1jaG6JK3NRTHUiKmVbWw8e"
     },
     {
       "album": {
@@ -869,7 +887,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 197666,
       "name": "It Matters to Me",
       "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 169466,
       "name": "Last Cigarette",
       "url": "https://open.spotify.com/track/1B2NvOSBaQi5C2Lh1zLyVP"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 225693,
       "name": "Make You Miss Me",
       "url": "https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo"
@@ -1114,6 +1132,50 @@
     },
     {
       "album": {
+        "name": "Never Say Never (with Lainey Wilson)",
+        "url": "https://open.spotify.com/album/1aW42KGi7ll4z6ALSwfv70"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176146,
+      "name": "Never Say Never (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/03kCiUPjdAV9ur9ugm8PQT"
+    },
+    {
+      "album": {
+        "name": "Never Wanted To Be That Girl",
+        "url": "https://open.spotify.com/album/3dmVohUADaRH81z0AETGev"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214416,
+      "name": "Never Wanted To Be That Girl",
+      "url": "https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1"
       },
@@ -1197,7 +1259,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 222249,
       "name": "Remember It Wrong",
       "url": "https://open.spotify.com/track/3318vFlL0hNbf4Y7Vfaxxo"
@@ -1233,7 +1295,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 262053,
       "name": "She Don't Love You",
       "url": "https://open.spotify.com/track/1B17jo7XD3lJ9AtrdE9kUd"
@@ -1327,7 +1389,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 242573,
       "name": "Someday When I Stop Loving You",
       "url": "https://open.spotify.com/track/0FvYbfE2siVMEoXM8j0p5u"
@@ -1453,7 +1515,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 225266,
       "name": "The Bad Guy",
       "url": "https://open.spotify.com/track/0DR38qk3YmatNzC8U0tH2b"
@@ -1547,7 +1609,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 259733,
       "name": "Tonight I Wanna Cry",
       "url": "https://open.spotify.com/track/0BHNSNcbTxQSwxXNnr9oUw"
@@ -1829,7 +1891,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"

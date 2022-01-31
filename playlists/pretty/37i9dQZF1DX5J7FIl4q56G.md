@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Meshuggah
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,292 likes - 99 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,459 likes - 99 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 2 | [Planet Zero](https://open.spotify.com/track/3GL1RQKHV0TDRq8EXHMhGq) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo) | 3:42 |
 | 3 | [Plastic Heart](https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart](https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3) | 3:03 |
 | 4 | [Imaginary Fire \- feat\. Greg Puciato](https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Greg Puciato](https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi) | [Imaginary Fire](https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx) | 4:21 |
-| 5 | [Piggy](https://open.spotify.com/track/5RoG0iXCoMzys5LHxw4KqE) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Piggy](https://open.spotify.com/album/5YQD1h6JKgfcVIYUGjChDW) | 2:37 |
+| 5 | [On The Dark Waters](https://open.spotify.com/track/2ieTWHUMtiLaUhA0G9uTal) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [On The Dark Waters](https://open.spotify.com/album/6ihUByrh3f1BUgOKWbe1NN) | 4:47 |
 | 6 | [Plenty](https://open.spotify.com/track/6sBYUZjVuI9fOqoafHUfoN) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Plenty](https://open.spotify.com/album/6mwLefl2rByFbuVkV7kDwQ) | 3:40 |
-| 7 | [UPS AND DOWNS](https://open.spotify.com/track/2lKoPdYVhWsTiZpi23BBdH) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [UPS AND DOWNS](https://open.spotify.com/album/5rzvZkbnpeKjE8nBnvq7dL) | 3:14 |
-| 8 | [Deadman](https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Deadman](https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs) | 3:29 |
-| 9 | [On The Dark Waters](https://open.spotify.com/track/2ieTWHUMtiLaUhA0G9uTal) | [Amorphis](https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD) | [On The Dark Waters](https://open.spotify.com/album/6ihUByrh3f1BUgOKWbe1NN) | 4:47 |
+| 7 | [Piggy](https://open.spotify.com/track/5RoG0iXCoMzys5LHxw4KqE) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [Piggy](https://open.spotify.com/album/5YQD1h6JKgfcVIYUGjChDW) | 2:37 |
+| 8 | [UPS AND DOWNS](https://open.spotify.com/track/2lKoPdYVhWsTiZpi23BBdH) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [UPS AND DOWNS](https://open.spotify.com/album/5rzvZkbnpeKjE8nBnvq7dL) | 3:14 |
+| 9 | [Deadman](https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Deadman](https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs) | 3:29 |
 | 10 | [Yonder](https://open.spotify.com/track/3dKrtF8Vq3lyn4DagyZ1I9) | [Valiant Hearts](https://open.spotify.com/artist/23JfHao7GdCfsGkXw4jJl8), [Phil Bayer](https://open.spotify.com/artist/2heXNqa1Lzlblnv8WkQiY7) | [Yonder](https://open.spotify.com/album/5wAjC0ov0Qeaeq2aq4RruM) | 5:06 |
 | 11 | [Arkangel](https://open.spotify.com/track/07dXbgUPrylumB0XpFTULY) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Arkangel](https://open.spotify.com/album/3S8mn8c5yKRKAdE9eaD3pW) | 4:10 |
 | 12 | [Wilde Kinder](https://open.spotify.com/track/5j9LuICwwmUbts1A4rxmhu) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Wilde Kinder](https://open.spotify.com/album/1sdmnVWndpvGblDOcjbj1D) | 4:22 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 98 | [Dimorphous Display](https://open.spotify.com/track/2JjDl1YbzaBKlhSrUXZqNM) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Dimorphous Display](https://open.spotify.com/album/5jocUat4D4KpAUT9A8Zyk7) | 4:52 |
 | 99 | [Black Ink](https://open.spotify.com/track/7AlsIxffk4FHQ7geSUxLOE) | [As I May](https://open.spotify.com/artist/6RK7Xn39VaxdJNqhYVhVEk) | [Karu](https://open.spotify.com/album/1LUk4jMz426TXcyRvd6yoa) | 3:22 |
 
-Snapshot ID: `MTY0MzMyODA2MCwwMDAwMDRkYTAwMDAwMTdlOWRmYzNhYzgwMDAwMDE3ZTlhYzEzYTY0`
+Snapshot ID: `MTY0MzU1MjEzNCwwMDAwMDRkYjAwMDAwMTdlYWI1NzU2Y2MwMDAwMDE3ZTlhYzEzYTY0`

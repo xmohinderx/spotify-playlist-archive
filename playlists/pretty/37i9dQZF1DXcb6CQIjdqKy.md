@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  Elevation Worship
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,398,394 likes - 100 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,399,027 likes - 100 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Speak To The Mountains](https://open.spotify.com/track/2xlV4v4Z7N7X6JB15SeQTg) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Speak To The Mountains](https://open.spotify.com/album/0DarwZB6QqkYibYbA74XTT) | 5:04 |
 | 100 | [Precious](https://open.spotify.com/track/4PFArZky2W4NCAxAJ4LuA7) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Precious](https://open.spotify.com/album/4kPmrOm92X5Z9320B6IOsG) | 6:07 |
 
-Snapshot ID: `MTY0MzUwMzYxOCwwMDAwMDAwMDUxZWRkODc3YmYwNjVjOWQ2YWRjZGNmYmM2MWMzZGUw`
+Snapshot ID: `MTY0MzU4OTkxMiwwMDAwMDAwMDUxZWRkODc3YmYwNjVjOWQ2YWRjZGNmYmM2MWMzZGUw`

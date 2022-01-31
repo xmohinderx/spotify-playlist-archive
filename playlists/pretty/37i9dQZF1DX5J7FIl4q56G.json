@@ -1,12 +1,12 @@
 {
   "description": "The latest and greatest metal tracks. Cover: Meshuggah",
-  "num_followers": 568292,
+  "num_followers": 568459,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzMyODA2MCwwMDAwMDRkYTAwMDAwMTdlOWRmYzNhYzgwMDAwMDE3ZTlhYzEzYTY0",
+  "snapshot_id": "MTY0MzU1MjEzNCwwMDAwMDRkYjAwMDAwMTdlYWI1NzU2Y2MwMDAwMDE3ZTlhYzEzYTY0",
   "tracks": [
     {
       "added_at": "2022-01-28 00:01:00",
@@ -79,18 +79,18 @@
     {
       "added_at": "2022-01-28 00:01:00",
       "album": {
-        "name": "Piggy",
-        "url": "https://open.spotify.com/album/5YQD1h6JKgfcVIYUGjChDW"
+        "name": "On The Dark Waters",
+        "url": "https://open.spotify.com/album/6ihUByrh3f1BUgOKWbe1NN"
       },
       "artists": [
         {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+          "name": "Amorphis",
+          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
         }
       ],
-      "duration_ms": 157969,
-      "name": "Piggy",
-      "url": "https://open.spotify.com/track/5RoG0iXCoMzys5LHxw4KqE"
+      "duration_ms": 287506,
+      "name": "On The Dark Waters",
+      "url": "https://open.spotify.com/track/2ieTWHUMtiLaUhA0G9uTal"
     },
     {
       "added_at": "2022-01-28 00:01:00",
@@ -107,6 +107,22 @@
       "duration_ms": 220626,
       "name": "Plenty",
       "url": "https://open.spotify.com/track/6sBYUZjVuI9fOqoafHUfoN"
+    },
+    {
+      "added_at": "2022-01-28 00:01:00",
+      "album": {
+        "name": "Piggy",
+        "url": "https://open.spotify.com/album/5YQD1h6JKgfcVIYUGjChDW"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "duration_ms": 157969,
+      "name": "Piggy",
+      "url": "https://open.spotify.com/track/5RoG0iXCoMzys5LHxw4KqE"
     },
     {
       "added_at": "2022-01-28 00:01:00",
@@ -139,22 +155,6 @@
       "duration_ms": 209828,
       "name": "Deadman",
       "url": "https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga"
-    },
-    {
-      "added_at": "2022-01-28 00:01:00",
-      "album": {
-        "name": "On The Dark Waters",
-        "url": "https://open.spotify.com/album/6ihUByrh3f1BUgOKWbe1NN"
-      },
-      "artists": [
-        {
-          "name": "Amorphis",
-          "url": "https://open.spotify.com/artist/2UOVgpgiNTC6KK0vSC77aD"
-        }
-      ],
-      "duration_ms": 287506,
-      "name": "On The Dark Waters",
-      "url": "https://open.spotify.com/track/2ieTWHUMtiLaUhA0G9uTal"
     },
     {
       "added_at": "2022-01-28 00:01:00",

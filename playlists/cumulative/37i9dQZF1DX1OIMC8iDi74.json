@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 251775,
       "name": "Barrows Ballad",
       "url": "https://open.spotify.com/track/7lqwJUdXahWpA2lTb9FUNM"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 118522,
       "name": "Chicken Wang (feat. Diplo, Snappy Jit)",
       "url": "https://open.spotify.com/track/0cl5BEHLkh9BmJG2ElaUPK"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 155662,
       "name": "CRUISE N CRASH - Litek & RNDM Beats Refix Edition",
       "url": "https://open.spotify.com/track/49MzTVgUcivXDmSQyDbutH"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 155500,
       "name": "DDOKBOKKI",
       "url": "https://open.spotify.com/track/0yT0Ok6LxqSLEzM7UMWEsQ"
@@ -575,6 +575,24 @@
       "duration_ms": 211200,
       "name": "East Bridge",
       "url": "https://open.spotify.com/track/1ppxq2JdEEAUL5K8imMVTj"
+    },
+    {
+      "album": {
+        "name": "Echelon",
+        "url": "https://open.spotify.com/album/77ZmYo3i76tieicsQ5VmbR"
+      },
+      "artists": [
+        {
+          "name": "Levianth",
+          "url": "https://open.spotify.com/artist/1kTBGIBgFuqaxbdeXX3L6H"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182718,
+      "name": "Echelon",
+      "url": "https://open.spotify.com/track/6PXGhhC502UkxHSKKXQjaK"
     },
     {
       "album": {
@@ -739,7 +757,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 192158,
       "name": "Feel Sumthin",
       "url": "https://open.spotify.com/track/5A14hgy8soE0xFP9HGCJqr"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 188181,
       "name": "Front To Back - Bassnectar Remix",
       "url": "https://open.spotify.com/track/7e0fO3VlPSkbpha0A9olGS"
@@ -975,7 +993,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 121209,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/0lh5lqLvhqQyarqtL6rD8h"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 224000,
       "name": "Invasion",
       "url": "https://open.spotify.com/track/5i7bwIFZhhj90GjgJJnNvj"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 229863,
       "name": "Just Enough",
       "url": "https://open.spotify.com/track/6O7EqSCpQTiU8GECX1KDIA"
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 260087,
       "name": "Like That",
       "url": "https://open.spotify.com/track/7MFahU9vl5TWlei936k7n6"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 155142,
       "name": "Mars",
       "url": "https://open.spotify.com/track/0qe82vcK8qrhxysdMQpBrt"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 208400,
       "name": "Morph",
       "url": "https://open.spotify.com/track/6jwmIxjsBgCMIPCSQzv2R5"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 206086,
       "name": "Nothing Less",
       "url": "https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 210008,
       "name": "Octavia",
       "url": "https://open.spotify.com/track/5jvIE049KDxFEGJdbKOA7Q"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 268800,
       "name": "Switch It",
       "url": "https://open.spotify.com/track/3DLvDnN0C8pAHpCZK0H9kK"
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 409500,
       "name": "THE MOMENT",
       "url": "https://open.spotify.com/track/4eTJa7fDMwpeU0nu8ijVaW"
@@ -2847,7 +2865,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 140400,
       "name": "Used To Know Me",
       "url": "https://open.spotify.com/track/54qwl8mJQ45SmIeYKp6jZp"
@@ -2887,7 +2905,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 246400,
       "name": "Windows 10 - Trap Mix",
       "url": "https://open.spotify.com/track/14ZmWCuRUubceb4pEe8tUE"
@@ -2913,7 +2931,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 242102,
       "name": "Wrong Kind",
       "url": "https://open.spotify.com/track/4RsiHeY3G77kcmDygKtqda"

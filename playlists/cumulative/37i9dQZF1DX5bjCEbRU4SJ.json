@@ -984,6 +984,24 @@
     },
     {
       "album": {
+        "name": "Sprained Ankle",
+        "url": "https://open.spotify.com/album/4dRzxZm69k9s0nzKmKb8Gj"
+      },
+      "artists": [
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        }
+      ],
+      "date_added": "2018-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232550,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/1aoBqoZBJ2xuBoWnqV1XVt"
+    },
+    {
+      "album": {
         "name": "In The Ever",
         "url": "https://open.spotify.com/album/1yb3U8bjeyWWhpZBP3eka2"
       },
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 265160,
       "name": "Summer Song",
       "url": "https://open.spotify.com/track/0BnmlQwwBhffGlPtN0dNuT"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 257453,
       "name": "There Can Be Only One",
       "url": "https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2018-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 180133,
       "name": "Wave of Mutilation (UK Surf)",
       "url": "https://open.spotify.com/track/3uUWbdV7zvDnZc9IwdUc5T"

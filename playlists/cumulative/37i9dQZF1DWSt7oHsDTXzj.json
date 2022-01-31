@@ -88,6 +88,24 @@
     },
     {
       "album": {
+        "name": "All Night Long (Ain't That Rockin' all Night)",
+        "url": "https://open.spotify.com/album/7Gq70KoB38hDhzrH4037gJ"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230787,
+      "name": "All Night Long (Ain't That Rockin' all Night)",
+      "url": "https://open.spotify.com/track/2XuJYF4apbayrYwRABuXJB"
+    },
+    {
+      "album": {
         "name": "All You're Dreaming Of",
         "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
       },
@@ -171,7 +189,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 272266,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
@@ -189,7 +207,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 192440,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW"
@@ -279,7 +297,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 193379,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
@@ -315,7 +333,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 135020,
       "name": "Christmas Caller",
       "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
@@ -369,10 +387,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 211346,
       "name": "Christmas In April",
       "url": "https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty"
+    },
+    {
+      "album": {
+        "name": "Christmas Is Home",
+        "url": "https://open.spotify.com/album/6rp2bUeS3cbqItcbbvgYOI"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226393,
+      "name": "Christmas Is Home",
+      "url": "https://open.spotify.com/track/7ulgUfxA8oIGmaqQX6bRkX"
     },
     {
       "album": {
@@ -521,7 +557,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 186625,
       "name": "Christmas Trees In Rain",
       "url": "https://open.spotify.com/track/3LWDAisPvTSwPY1yDekJ4h"
@@ -539,7 +575,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 216014,
       "name": "Christmas Without You",
       "url": "https://open.spotify.com/track/267kRsUEcJoUyGHN7un0mo"
@@ -593,7 +629,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 133888,
       "name": "Christmastime Is Here",
       "url": "https://open.spotify.com/track/7Muh7s7M9WhO9Zg2FoCyHb"
@@ -611,7 +647,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 190062,
       "name": "Cross You Off My List",
       "url": "https://open.spotify.com/track/5aPV7kWtSzu3X6qA3xKaVH"
@@ -665,7 +701,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 221853,
       "name": "Driving Under Stars",
       "url": "https://open.spotify.com/track/0wwhVMPo09vXS4uGTgOS2d"
@@ -809,7 +845,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 315654,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/7EFAQ73Xs21BXMovH9qKr8"
@@ -827,7 +863,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 158346,
       "name": "hello (and it's christmas)",
       "url": "https://open.spotify.com/track/4iOY6He4lZz2yjoSPzHLgT"
@@ -845,7 +881,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 167837,
       "name": "Here We Come A-Caroling",
       "url": "https://open.spotify.com/track/7qCP7q2x6LgxFM9bTUDQT2"
@@ -863,7 +899,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 248449,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/1mrjKX3NVAtq1FGg7CzFbZ"
@@ -881,7 +917,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 240233,
       "name": "Home Alone, Too",
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
@@ -917,7 +953,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 202903,
       "name": "I Dream Of Christmas",
       "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
@@ -1011,7 +1047,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 231000,
       "name": "In The Bleak Midwinter",
       "url": "https://open.spotify.com/track/59vU9HvjJx09uWeAC7wai5"
@@ -1029,7 +1065,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 193448,
       "name": "It's All Gunna Go Wrong This Christmas",
       "url": "https://open.spotify.com/track/3nhFfJ2uGkKPW5AzU8YgNs"
@@ -1047,7 +1083,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 149080,
       "name": "It's Beginning to Look a Lot Like Christmas",
       "url": "https://open.spotify.com/track/7GBuc4Sh26BLDLCsLWuCde"
@@ -1119,7 +1155,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 188720,
       "name": "Just Like Christmas",
       "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
@@ -1191,7 +1227,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 216547,
       "name": "Last Christmas - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/0meX0Nl3ZjxecRS5oBvlU2"
@@ -1411,7 +1447,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 218170,
       "name": "Merry Christmas Everyone - Recorded at Parr Street Studios",
       "url": "https://open.spotify.com/track/5YDrnmiVzAmHmIUhLQqy6H"
@@ -1480,6 +1516,42 @@
     },
     {
       "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/2dYqxXKtKJigqTrCFuweqQ"
+      },
+      "artists": [
+        {
+          "name": "Don McCloskey",
+          "url": "https://open.spotify.com/artist/3sIOor80ttkEgpYFQu6NMH"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306411,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7GaUxiJvhyZRe16Pt4V8FZ"
+    },
+    {
+      "album": {
+        "name": "On Christmas Night",
+        "url": "https://open.spotify.com/album/67govfB9y8dX4ECr33I8DW"
+      },
+      "artists": [
+        {
+          "name": "Nelson Can",
+          "url": "https://open.spotify.com/artist/5pYHnsao4ARhkpGvHGTgHP"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209801,
+      "name": "On Christmas Night",
+      "url": "https://open.spotify.com/track/7AhwtvWWMdohC9G1n0LJH2"
+    },
+    {
+      "album": {
         "name": "Red River Rock",
         "url": "https://open.spotify.com/album/2oF0Uy7bSrLNm2GiCvZStu"
       },
@@ -1545,7 +1617,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 207706,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/7ud0O2AQDopiy12slERpWG"
@@ -1585,7 +1657,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 284906,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV"
@@ -1603,7 +1675,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 156453,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/1HjszJRd56C61Cv0B6xvBW"
@@ -1657,7 +1729,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 198026,
       "name": "That Was the Worst Christmas Ever!",
       "url": "https://open.spotify.com/track/6pL6TOmzoMq6ckBFGTaAT5"
@@ -1675,7 +1747,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 254057,
       "name": "The Blizzard",
       "url": "https://open.spotify.com/track/0442MxTJy5BBYDLYtTB3Gr"
@@ -1693,7 +1765,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 125534,
       "name": "The Christmas Song (Alternative Version)",
       "url": "https://open.spotify.com/track/5jQrmU5rPtQaaztvCXixje"
@@ -1711,7 +1783,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 317935,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5PLycideUdqJhZlNOn7DKh"
@@ -1747,7 +1819,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 213783,
       "name": "This December - slow",
       "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
@@ -1801,7 +1873,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 208000,
       "name": "ugly xmas sweater party",
       "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
@@ -1819,7 +1891,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 211010,
       "name": "Vegetarian Christmas",
       "url": "https://open.spotify.com/track/56iWDgPeaauhH7C3EWEE7l"
@@ -1837,7 +1909,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 257842,
       "name": "Walking in the Air",
       "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
@@ -1855,7 +1927,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 215933,
       "name": "We're The Lucky Ones",
       "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
@@ -1999,7 +2071,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 233717,
       "name": "Yellow Bike",
       "url": "https://open.spotify.com/track/7hfrRIQmymC8Otmm27BQdY"
@@ -2017,7 +2089,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 202500,
       "name": "You Won't Love Me by Christmas",
       "url": "https://open.spotify.com/track/52vkZq7gw5OHzlH1u0egjN"

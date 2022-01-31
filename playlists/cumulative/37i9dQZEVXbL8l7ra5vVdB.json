@@ -5659,7 +5659,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 122538,
       "name": "WARLORD",
       "url": "https://open.spotify.com/track/2BuT8Njor0vbZul2TfCoSP"
@@ -9447,7 +9447,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 153600,
       "name": "\u041c\u0430\u044f\u043a",
       "url": "https://open.spotify.com/track/67qZ7kBFpypXrJhL82kCDe"
@@ -10439,7 +10439,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 149333,
       "name": "\u043d\u043e\u0447\u044c",
       "url": "https://open.spotify.com/track/0Mfjy6p9vZsfzbQReWdooZ"
@@ -10831,6 +10831,28 @@
       "duration_ms": 200411,
       "name": "\u041f\u0435\u0439",
       "url": "https://open.spotify.com/track/6QSdiScKbhD47Dx52DvInx"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0440\u0430\u0437 (remix nevroz)",
+        "url": "https://open.spotify.com/album/3TQE19IPShe7ifbA29qN3F"
+      },
+      "artists": [
+        {
+          "name": "JojoHF",
+          "url": "https://open.spotify.com/artist/7xViKup0waKtypawDbsvrW"
+        },
+        {
+          "name": "nevroz",
+          "url": "https://open.spotify.com/artist/6tMQcfyQr03bk9zciP6fxb"
+        }
+      ],
+      "date_added": "2022-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69531,
+      "name": "\u041f\u0435\u0440\u0432\u044b\u0439 \u0440\u0430\u0437 - remix nevroz",
+      "url": "https://open.spotify.com/track/1zE2dRkxtOLEOubAmqcHX3"
     },
     {
       "album": {

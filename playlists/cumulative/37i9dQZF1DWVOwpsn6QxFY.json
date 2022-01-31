@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 217875,
       "name": "Alive",
       "url": "https://open.spotify.com/track/6lDeFVC7tCXEzdOcjnqTQj"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 325975,
       "name": "An Ordinary Life",
       "url": "https://open.spotify.com/track/4aisUpHLCjQXjrv2ceJm5v"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 226848,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/6V8IY1khSjXlgvG6mbIyXQ"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 173006,
       "name": "Between Your Teeth",
       "url": "https://open.spotify.com/track/0bIgYIJimrHidCxFgYcgxT"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 170150,
       "name": "Big One",
       "url": "https://open.spotify.com/track/6kcL3CIWLQ6RpvfRL5hoqH"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 205902,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/3JvSdMghhVpTkn30dRl6v0"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 233239,
       "name": "cold water",
       "url": "https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 226467,
       "name": "Gush",
       "url": "https://open.spotify.com/track/1KVmkJwGJqHWQkb1xg1zkg"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 224451,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1F03U5VIgelva5MHT2vTNc"
@@ -1010,6 +1010,24 @@
     },
     {
       "album": {
+        "name": "Hollow",
+        "url": "https://open.spotify.com/album/6d2yzyxps7g1RDp2j0DTko"
+      },
+      "artists": [
+        {
+          "name": "Wyldest",
+          "url": "https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184433,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/21gawnch3zw2cpWyHGTT9h"
+    },
+    {
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook"
       },
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 114067,
       "name": "How Can You Tell If You Love Her?",
       "url": "https://open.spotify.com/track/5q1RkQhtzcc8N8jK5JWhZp"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 203680,
       "name": "January Summers",
       "url": "https://open.spotify.com/track/3yO22faLpP5kU10HO5eBLQ"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 186000,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/3qGXA1STZ4yUVIJjxAT6we"
@@ -1461,10 +1479,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 265107,
       "name": "Out the Neighbourhood",
       "url": "https://open.spotify.com/track/6eApoyaNF3DBw1cZhnBBp6"
+    },
+    {
+      "album": {
+        "name": "Palindromes",
+        "url": "https://open.spotify.com/album/5NF1SvnG6LuLldMgwurXEW"
+      },
+      "artists": [
+        {
+          "name": "Max Bloom",
+          "url": "https://open.spotify.com/artist/1GGYIGWiUsbBL807lU0Ln7"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248173,
+      "name": "Palindromes",
+      "url": "https://open.spotify.com/track/4PFEIT5d6SxxyNHDMj8RGv"
     },
     {
       "album": {
@@ -1505,7 +1541,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 215793,
       "name": "Pick Apart",
       "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
@@ -1563,7 +1599,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 243666,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/6atMbXoRFejwytU6RgU3mT"
@@ -1635,7 +1671,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 210396,
       "name": "Right Person, Wrong Time",
       "url": "https://open.spotify.com/track/2JwgUy76BKFXbMVdoL6DZ2"
@@ -1653,7 +1689,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 272933,
       "name": "Roccastrada",
       "url": "https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT"
@@ -1697,7 +1733,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 267836,
       "name": "so sad",
       "url": "https://open.spotify.com/track/04wi6jJm7gAGpiqOZM7uiK"
@@ -1841,7 +1877,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/0pAyXGUIrNm2oISrdAzbsw"
@@ -1877,7 +1913,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 186746,
       "name": "The Ballad Of Joyce Vincent",
       "url": "https://open.spotify.com/track/77qOxCnfWeY1jKrYqMdvZd"

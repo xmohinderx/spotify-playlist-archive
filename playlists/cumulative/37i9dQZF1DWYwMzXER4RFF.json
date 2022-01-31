@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 209128,
       "name": "A Thing You Call Joy",
       "url": "https://open.spotify.com/track/6BVMPM8cIdCcuIzE9eaQlm"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 194693,
       "name": "Almost Had to Start a Fight/In and Out of Patience",
       "url": "https://open.spotify.com/track/0QAEc5JBdaZMdxqU3xL64H"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 204354,
       "name": "Best Behavior",
       "url": "https://open.spotify.com/track/3wb6i8PrbGwneMBvE6ZJis"
@@ -203,6 +203,24 @@
       "duration_ms": 105515,
       "name": "Big",
       "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
+    },
+    {
+      "album": {
+        "name": "Blank Canvas",
+        "url": "https://open.spotify.com/album/1Hv6rEHHmExavO8UA4913T"
+      },
+      "artists": [
+        {
+          "name": "Ephan",
+          "url": "https://open.spotify.com/artist/7cYw1IFI9Zgds0AtI6MTQn"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237383,
+      "name": "Blank Canvas",
+      "url": "https://open.spotify.com/track/5ZVOlsWUcyuEkbpGnIm2qG"
     },
     {
       "album": {
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 481813,
       "name": "Broke",
       "url": "https://open.spotify.com/track/7tNoESflewtLqMdvgUuE3e"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 226973,
       "name": "Courtesy Call",
       "url": "https://open.spotify.com/track/3abS9KDClZlCFY7n1g5HEZ"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 222840,
       "name": "Four Wheel Drive",
       "url": "https://open.spotify.com/track/17TtXWJsfYiRy3FUvdJWAT"
@@ -909,7 +927,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 246874,
       "name": "Friends On Ice",
       "url": "https://open.spotify.com/track/4UBIPQrnhqV0GOYYNTZCSB"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 230386,
       "name": "Get Yourself A Friend",
       "url": "https://open.spotify.com/track/6kwpiJvZLscW06vXl42jjr"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 157199,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/4p9oD9628pjRospq8ztiCU"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 157146,
       "name": "Gotta Do More Gotta Be More",
       "url": "https://open.spotify.com/track/6Ai1aNmJ2hMMcx7QQyNIom"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 235400,
       "name": "Head Sport Full Face",
       "url": "https://open.spotify.com/track/5vdG7m9JvJIulc1JoRSQtl"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 183922,
       "name": "hollow scene",
       "url": "https://open.spotify.com/track/3yZZhCSCVioLeUVPKs9mLI"
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 153414,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4r7cKo2Lp5sD6VcK1Gu3r4"
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 321506,
       "name": "Male Bonding",
       "url": "https://open.spotify.com/track/3Mef8dlql8ngrKhOt7IAoZ"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 330400,
       "name": "Miami Lounge",
       "url": "https://open.spotify.com/track/0k6aOvZvxHCvkrngINKWG5"
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 202000,
       "name": "Modern Job",
       "url": "https://open.spotify.com/track/0Bz4RD9u6sEJT29N7b4iRy"
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 239033,
       "name": "Nothing Feels Natural",
       "url": "https://open.spotify.com/track/7jFM0wZch8oJVRVQMl2nvV"
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 223067,
       "name": "NOTICE OF FORECLOSURE",
       "url": "https://open.spotify.com/track/2PCnHuNdckPK468Y3Gkm3a"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 241532,
       "name": "Petty Thieving",
       "url": "https://open.spotify.com/track/3dxAvrqRv4KENeZTpACrnJ"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 305899,
       "name": "Processed By The Boys",
       "url": "https://open.spotify.com/track/5iOgwvHcgvW7EMaMDt79aT"
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 108444,
       "name": "Rabbit",
       "url": "https://open.spotify.com/track/0u2kTKd00Jk9UEbn9CxrYj"
@@ -2177,7 +2195,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 223000,
       "name": "Rhythm Is Our Business - Edit",
       "url": "https://open.spotify.com/track/0nSKPt85T4Y3PFKe9U1AoJ"
@@ -2217,7 +2235,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 426057,
       "name": "Saintless",
       "url": "https://open.spotify.com/track/3Dq8NtMPkJAHTZs1BQZ5jL"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 168133,
       "name": "Shiny New Model",
       "url": "https://open.spotify.com/track/5Blr6wOtVsOujq4YsTDETf"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 165400,
       "name": "Sincerely Yours",
       "url": "https://open.spotify.com/track/681yJhwlkfzPd4ZRc9SUAF"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 336624,
       "name": "Slow (Loud)",
       "url": "https://open.spotify.com/track/0SFIzioQ4DRVYt58rSAPCs"
@@ -2451,7 +2469,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 300820,
       "name": "Sludge",
       "url": "https://open.spotify.com/track/6ghHPm0mXm9uqcdml2FaCy"
@@ -2491,7 +2509,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 236653,
       "name": "South",
       "url": "https://open.spotify.com/track/7pMZ71tatoBEvhpM5ZaIS2"
@@ -2639,7 +2657,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 276002,
       "name": "Sunglasses - Edit",
       "url": "https://open.spotify.com/track/449tx8bd5PFEw5dT0KPpLz"
@@ -2675,7 +2693,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 222840,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/1RESyaoEkLAUmX0NEjMfUS"
@@ -2697,7 +2715,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 268985,
       "name": "Switching On - IDLES Remix",
       "url": "https://open.spotify.com/track/5o351ccYqmwl4Nc5E7YE2z"
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 204786,
       "name": "This Heat",
       "url": "https://open.spotify.com/track/5zzfwhoMD6rRct8MTyeAFR"
@@ -2967,7 +2985,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 197192,
       "name": "To the Door",
       "url": "https://open.spotify.com/track/7g2lJm34prT5NF7FeQIfRQ"
@@ -3061,7 +3079,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 234560,
       "name": "Uber Alles",
       "url": "https://open.spotify.com/track/3gQpvTd6fWeAT5RuqgTwei"
@@ -3115,7 +3133,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 182413,
       "name": "Unsmart Lady",
       "url": "https://open.spotify.com/track/1D9OstlmYwAZx1PwJaxEkD"
@@ -3133,7 +3151,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 187626,
       "name": "Water in the Well",
       "url": "https://open.spotify.com/track/38UnguvFOM6pfME9l9zig4"
@@ -3151,7 +3169,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 265879,
       "name": "Wharf (ii)",
       "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"

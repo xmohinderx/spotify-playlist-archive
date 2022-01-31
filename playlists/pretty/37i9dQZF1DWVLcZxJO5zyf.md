@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça os hits do momento da música pop brasileira\. Foto: Os Barões Da Pisadinha, Parangolé, DJ Lucas Beat
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,301,432 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,302,024 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

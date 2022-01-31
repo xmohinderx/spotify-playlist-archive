@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a folksy mix of mood boosters!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,675 likes - 115 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,916,755 likes - 115 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

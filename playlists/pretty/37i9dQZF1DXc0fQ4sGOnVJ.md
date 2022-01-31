@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\.   Cover: Colt Ford
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,815 likes - 83 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,826 likes - 83 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Genre-less. Quality first always. Cover: Toro y Moi",
-  "num_followers": 1323747,
+  "num_followers": 1323768,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
@@ -95,37 +95,41 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "(Pick Me Up) Euphoria [From \u201dEuphoria\u201d An HBO Original Series]",
+        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
         "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
       },
       "artists": [
         {
           "name": "James Blake",
           "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
       "duration_ms": 195384,
-      "name": "(Pick Me Up) Euphoria - From \u201dEuphoria\u201d An HBO Original Series",
+      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
     },
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Favorite",
+        "name": "Favorite (feat. Duckwrth)",
         "url": "https://open.spotify.com/album/1hXhxCdpwgqCr7sUu26cS8"
       },
       "artists": [
         {
-          "name": "Ru AREYOU",
-          "url": "https://open.spotify.com/artist/2pgUIUzteEqbNGO4v7kiJB"
-        },
-        {
           "name": "Duckwrth",
           "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Ru AREYOU",
+          "url": "https://open.spotify.com/artist/2pgUIUzteEqbNGO4v7kiJB"
         }
       ],
       "duration_ms": 139805,
-      "name": "Favorite",
+      "name": "Favorite (feat. Duckwrth)",
       "url": "https://open.spotify.com/track/3FGj53xlCa43WHUQ4dDF6y"
     },
     {
@@ -445,7 +449,7 @@
         }
       ],
       "duration_ms": 155549,
-      "name": "Mascarade (feat. Lous and The Yakuza)",
+      "name": "Mascarade (feat. Lous and The Yakuza) - Radio Edit",
       "url": "https://open.spotify.com/track/45qyXu23cbQYUqfovmA3Yv"
     },
     {

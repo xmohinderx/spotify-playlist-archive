@@ -495,7 +495,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 163058,
       "name": "Apkabinti Prisiminimus",
       "url": "https://open.spotify.com/track/11zbNZboeEuCyCT5WtkB6f"
@@ -3148,6 +3148,24 @@
     },
     {
       "album": {
+        "name": "VORAI",
+        "url": "https://open.spotify.com/album/1AFKFZInAVmtnF517BWOGM"
+      },
+      "artists": [
+        {
+          "name": "FC Baseball",
+          "url": "https://open.spotify.com/artist/0C2U98NkIkyePhoocejsCD"
+        }
+      ],
+      "date_added": "2022-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290470,
+      "name": "Gyvenimas",
+      "url": "https://open.spotify.com/track/7fdCgaJHg5ozP9odQEmpO0"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -4491,6 +4509,28 @@
       "duration_ms": 179782,
       "name": "Kunigunda",
       "url": "https://open.spotify.com/track/4y8aCoEUWXCHAgKo0cDcNy"
+    },
+    {
+      "album": {
+        "name": "Kupranugaris",
+        "url": "https://open.spotify.com/album/7af8p6SHtFPiJ1dqZL9753"
+      },
+      "artists": [
+        {
+          "name": "Vidas Bareikis",
+          "url": "https://open.spotify.com/artist/2hpPSRCFwK2dKOMqW4M95u"
+        },
+        {
+          "name": "8 Kambarys",
+          "url": "https://open.spotify.com/artist/0T5UNkhytLQkUMkkAqhDzf"
+        }
+      ],
+      "date_added": "2022-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200713,
+      "name": "Kupranugaris",
+      "url": "https://open.spotify.com/track/0DxtfzzTxMsTSU6771s7y1"
     },
     {
       "album": {
@@ -6699,7 +6739,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 143987,
       "name": "oxy",
       "url": "https://open.spotify.com/track/22Qq6ZvA21sOYMcfBZdYRt"
@@ -9763,7 +9803,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 174240,
       "name": "u.",
       "url": "https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i"
@@ -10397,7 +10437,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"

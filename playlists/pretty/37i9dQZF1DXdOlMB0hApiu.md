@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOlMB0hApiu.md) - [plain]
 
 > "...when genuine passion moves you, say what you've got to say, and say it hot." Selected readings of D\. H\. Lawrence's poetry, novels, short stories, and letters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,394 likes - 84 songs - 18 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,392 likes - 84 songs - 18 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

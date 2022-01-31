@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 202779,
       "name": "A Collection Of Ceramic Vases (Yves Saint Laurent Buried In The Garden Of His Marrakesh Home)",
       "url": "https://open.spotify.com/track/1MwAwmw5LXeV2N5AtG9mYi"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 289327,
       "name": "Above below",
       "url": "https://open.spotify.com/track/3xe2mnK1su5rkjvGXs8hm6"
@@ -131,10 +131,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 162500,
       "name": "And A Twist",
       "url": "https://open.spotify.com/track/1OA0e38XJKFh8rcGhmHRLg"
+    },
+    {
+      "album": {
+        "name": "62000 | 62508",
+        "url": "https://open.spotify.com/album/4MxHMfindjyks5Qq4t8tR1"
+      },
+      "artists": [
+        {
+          "name": "Julian Gomez",
+          "url": "https://open.spotify.com/artist/5aPdwHVVmfNKqm4CcTZIIq"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/6BydEdGxofGj0FmP6BVG1E"
     },
     {
       "album": {
@@ -229,7 +247,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 457142,
       "name": "Beyond Entropia",
       "url": "https://open.spotify.com/track/3VC4vfxgf8ZacZCDy3Rnea"
@@ -247,7 +265,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 435276,
       "name": "Bondage To Formula",
       "url": "https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn"
@@ -265,7 +283,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 447034,
       "name": "Breakdown (The End of Chemical Romance)",
       "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
@@ -305,7 +323,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 508000,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws"
@@ -348,6 +366,28 @@
     },
     {
       "album": {
+        "name": "Dark Forces (Robot Koch Rework)",
+        "url": "https://open.spotify.com/album/0qE9e3IrcAUln0LiXUcB14"
+      },
+      "artists": [
+        {
+          "name": "The Allegorist",
+          "url": "https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8"
+        },
+        {
+          "name": "Robot Koch",
+          "url": "https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Dark Forces - Robot Koch Rework",
+      "url": "https://open.spotify.com/track/4IHPv1BTBH3wvYTskeN1dA"
+    },
+    {
+      "album": {
         "name": "Morals and Dogma",
         "url": "https://open.spotify.com/album/5V3rLsAGpM63kE3SLPAMDW"
       },
@@ -359,7 +399,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 1115023,
       "name": "Dead People's Things",
       "url": "https://open.spotify.com/track/1jQhHBdhnaZv5q67sHA1uK"
@@ -457,7 +497,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 436341,
       "name": "Fantas for Saxophone and Voice",
       "url": "https://open.spotify.com/track/6t7dqTSiUgR0WANDNLyHFC"
@@ -515,7 +555,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 176000,
       "name": "Floor Position",
       "url": "https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1"
@@ -537,7 +577,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 460178,
       "name": "Fundament (Part 1)",
       "url": "https://open.spotify.com/track/0NWuVsxbGEwS4qCiicGxBs"
@@ -591,7 +631,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 173798,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
@@ -627,7 +667,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 291051,
       "name": "Headflush",
       "url": "https://open.spotify.com/track/6CyTVrujXBuPEyNICbsOO8"
@@ -653,6 +693,28 @@
       "duration_ms": 479953,
       "name": "Hlj\u00f3\u00f0",
       "url": "https://open.spotify.com/track/0bA8nk6Ho0cElAoAOIh2Cs"
+    },
+    {
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        },
+        {
+          "name": "Noah Georgeson",
+          "url": "https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308662,
+      "name": "Horn in Deep Night",
+      "url": "https://open.spotify.com/track/6rsrcdXlac37j8YozUfHpT"
     },
     {
       "album": {
@@ -729,7 +791,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 183066,
       "name": "Introduction",
       "url": "https://open.spotify.com/track/0jVs5KrJ52rMzzsAy16ZSJ"
@@ -765,7 +827,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 212848,
       "name": "is this nature escape",
       "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
@@ -875,7 +937,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 233968,
       "name": "Left On The Ice",
       "url": "https://open.spotify.com/track/2DhxltKaXEnhvKvCMyw4Xi"
@@ -987,7 +1049,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 518000,
       "name": "Melts All Your Memories",
       "url": "https://open.spotify.com/track/34TdrxZdriLN477LSDuw5I"
@@ -1063,7 +1125,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 279529,
       "name": "M\u00e4lardynen",
       "url": "https://open.spotify.com/track/386aGHpZXtzvSMGy3gFqkX"
@@ -1117,7 +1179,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 89302,
       "name": "notes of a crocodile",
       "url": "https://open.spotify.com/track/7DgYQpSRq8oKdstt80n0A4"
@@ -1135,7 +1197,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 290813,
       "name": "Nuuk (Air)",
       "url": "https://open.spotify.com/track/2w9LpnDMhMxbeVkvZgFcoK"
@@ -1211,7 +1273,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 204358,
       "name": "Path of Devotion",
       "url": "https://open.spotify.com/track/6GfYaRGWjzvvakXv9okhjB"
@@ -1345,7 +1407,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 222373,
       "name": "Rakas",
       "url": "https://open.spotify.com/track/55Lz2Y0x9gu0Vh7yTIk6Dj"
@@ -1471,7 +1533,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 388000,
       "name": "Second Half",
       "url": "https://open.spotify.com/track/7CFziAj4VX4vspOI4ypY6f"
@@ -1489,7 +1551,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 123750,
       "name": "Seconds",
       "url": "https://open.spotify.com/track/3vXmJi22FQIryr1IpTHOnX"
@@ -1543,7 +1605,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 380819,
       "name": "Sista Dagen",
       "url": "https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA"
@@ -1641,7 +1703,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 304285,
       "name": "Stora vreden i Storvreta",
       "url": "https://open.spotify.com/track/1UN8NVjNxGpLj5bYs0m73h"
@@ -1685,7 +1747,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 474125,
       "name": "Thaw",
       "url": "https://open.spotify.com/track/6B37IfOOUpVWjxYXkW5Fir"
@@ -1833,7 +1895,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 188906,
       "name": "Toimetonna",
       "url": "https://open.spotify.com/track/5XVbQfGCe3tYYZruCFXlUq"
@@ -1869,7 +1931,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 153052,
       "name": "Trees",
       "url": "https://open.spotify.com/track/0Q2ZAzvitoJyxvPfPt2Dz8"
@@ -1931,7 +1993,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 326643,
       "name": "Under Hamnen",
       "url": "https://open.spotify.com/track/5xY2aih32s6PXblLdnvK5U"
@@ -1953,6 +2015,28 @@
       "duration_ms": 357973,
       "name": "Unearth",
       "url": "https://open.spotify.com/track/6Xi8YlrC0eGYuyjnJHWUVR"
+    },
+    {
+      "album": {
+        "name": "In a Sad Red Dusk, We Were Finally Leaving",
+        "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Ferreira",
+          "url": "https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB"
+        },
+        {
+          "name": "deer meadow",
+          "url": "https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292389,
+      "name": "Untitled, Saturday",
+      "url": "https://open.spotify.com/track/1yAG81LXyetlG4yrmowDGn"
     },
     {
       "album": {
@@ -2032,6 +2116,24 @@
     },
     {
       "album": {
+        "name": "Waves (Oliver Doerell & Helga Raimondi Rework)",
+        "url": "https://open.spotify.com/album/5t2W6cCG2GjfC1gRVZv1eB"
+      },
+      "artists": [
+        {
+          "name": "Vetle N\u00e6r\u00f8",
+          "url": "https://open.spotify.com/artist/1FjMgsUfnOoSWTHuVzAukf"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314454,
+      "name": "Waves - Oliver Doerell & Helga Raimondi Rework",
+      "url": "https://open.spotify.com/track/5oXGS29Qa8Pv7ITfKLm9X4"
+    },
+    {
+      "album": {
         "name": "Two Autumns",
         "url": "https://open.spotify.com/album/2UjsMXSHYW6oBzucy7Guqi"
       },
@@ -2069,7 +2171,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 309461,
       "name": "Woods of Admittance",
       "url": "https://open.spotify.com/track/7BEizNL6QesTGhUY7znR1B"

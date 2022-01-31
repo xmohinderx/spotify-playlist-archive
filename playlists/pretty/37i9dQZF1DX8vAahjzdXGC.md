@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Pamungkas
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,627 likes - 133 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,666 likes - 133 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 23 | [So Bad](https://open.spotify.com/track/3sll2IU8RcbmF1lqlqtRxp) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [So Bad](https://open.spotify.com/album/4Wd0HBIKjHlE0XlzWvHuNt) | 3:42 |
 | 24 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:15 |
 | 25 | [Joke](https://open.spotify.com/track/73EYYiYI71DplWLlVIvUMF) | [Just Stef](https://open.spotify.com/artist/42nUrC2xMrNMbO2gFyvIKD) | [Joke](https://open.spotify.com/album/64CZHSIQbf08kuKgJGIEtW) | 2:57 |
-| 26 | [How Long \- From ”Euphoria” An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From ”Euphoria” An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 |
+| 26 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 |
 | 27 | [DFMU](https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [DFMU](https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k) | 3:17 |
 | 28 | [Origami](https://open.spotify.com/track/4UUBDtYOLKtOhbnZ6YRRWA) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1), [YB](https://open.spotify.com/artist/7u6eYMzlO7UGHY4qvd8NXu) | [Origami](https://open.spotify.com/album/4nI39jpC7775fxEBod6gGl) | 2:18 |
 | 29 | [Hello](https://open.spotify.com/track/6ZpYu6DWCf1aNaGbtsbVm9) | [Sandy Canester](https://open.spotify.com/artist/7HMtM2L9TZanx0ogPl0bMI) | [Hello](https://open.spotify.com/album/75CYwOzst086zjeWOu3ziw) | 5:09 |
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 92 | [AM](https://open.spotify.com/track/61Pp7FSzuCZLqxd7wQzfWp) | [Moongazing And Her](https://open.spotify.com/artist/6Zo43jiGrri1Pq8tQNKodP) | [Turning 18](https://open.spotify.com/album/0X5T3tMushC8FYvfZUvMwy) | 3:19 |
 | 93 | [FRIENDS](https://open.spotify.com/track/7MO4YgX6ijdUuTCcxQyEnv) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [FRIENDS](https://open.spotify.com/album/4GPpoc1NWMrcBqltE4480o) | 3:34 |
 | 94 | [Bersamamu](https://open.spotify.com/track/0Jdky50eN6poGPwq7g92UU) | [Aradhana](https://open.spotify.com/artist/1DddVrAFmiy8i9P54DAQWz), [Kindi Sina Rais](https://open.spotify.com/artist/7C6FcZC9coI2qAiQiKl9gH), [The Balloon Boyz](https://open.spotify.com/artist/4DXVp1ew3kmnPIs8D7wikG) | [Bersamamu](https://open.spotify.com/album/62XC1nRjwhSdwkBVeCZrax) | 4:05 |
-| 95 | [\(Pick Me Up\) Euphoria \- From ”Euphoria” An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [\(Pick Me Up\) Euphoria \[From ”Euphoria” An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
+| 95 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
 | 96 | [Saling Menjaga Hati](https://open.spotify.com/track/0KUdCGLXxRWUhO24wTKkql) | [Michela Thea](https://open.spotify.com/artist/1G9pZxYP9Uf6bAWGUdcYS7) | [Saling Menjaga Hati](https://open.spotify.com/album/5HQ4YZkttD7EzP2XopC0DQ) | 3:44 |
 | 97 | [Lek Lekan \(G\-Tribe 1996\)](https://open.spotify.com/track/6uqG83RLBDd6Di3Nf27vCD) | [GNTZ](https://open.spotify.com/artist/4AbGx71Bh3RoPIKwqupFQt), [Stefanie Cindy](https://open.spotify.com/artist/4oYJPXc5witQI1SWBERSuc) | [Cak! Yo! Cuk!](https://open.spotify.com/album/2YtBuUM5nDDLdOzXxMKAWk) | 3:15 |
 | 98 | [Cinta \(Original Soundtrack Just Mom\)](https://open.spotify.com/track/1u9PuGXvbBn8QGihCMbrRr) | [Tiwu Rayie](https://open.spotify.com/artist/5s2WX0pNjFqj9dt5wKGleW) | [Cinta \(Original Soundtrack Just Mom\)](https://open.spotify.com/album/0KI9qFipZLbkBdVTcWm1PV) | 3:46 |

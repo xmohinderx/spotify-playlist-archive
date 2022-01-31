@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. <br/>Cover: Tucker Beathard
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,761 likes - 91 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,830 likes - 91 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

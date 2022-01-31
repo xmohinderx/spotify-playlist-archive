@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 143040,
       "name": "50 Days",
       "url": "https://open.spotify.com/track/0bLgmoLTwCWOausnxpHfGw"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 192402,
       "name": "Better When You're Gone",
       "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 170945,
       "name": "Fake Love",
       "url": "https://open.spotify.com/track/5ISfwjfxWQNmhMjenzmEcZ"
@@ -871,7 +871,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 326887,
       "name": "Five Hours",
       "url": "https://open.spotify.com/track/6r7FXNO57mlZCBY6PXcZZT"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 147093,
       "name": "How I Like It",
       "url": "https://open.spotify.com/track/7Djhup0pJRq54FX1LMx17L"
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 139354,
       "name": "Leave Me",
       "url": "https://open.spotify.com/track/4HwCOHAttt18YbphVEt2Tc"
@@ -1433,7 +1433,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 153303,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 174414,
       "name": "Muevelo",
       "url": "https://open.spotify.com/track/31CApjy3JI2EiR2FdYlVL7"
@@ -1513,7 +1513,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 158159,
       "name": "Not Your Kind",
       "url": "https://open.spotify.com/track/6KCtE4SdRP6FbXLQX4c4Ua"
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 169846,
       "name": "Oooh! (I Like It)!",
       "url": "https://open.spotify.com/track/0jWUJM3T8s6bkyjlKXCklk"
@@ -1713,7 +1713,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 227592,
       "name": "Quarters",
       "url": "https://open.spotify.com/track/3hbGUFRmdqoRHFMP7yutxN"
@@ -1753,7 +1753,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 216500,
       "name": "Ramen Machine",
       "url": "https://open.spotify.com/track/1QuNDRaNKEHNPrd75eBTpk"
@@ -1938,6 +1938,32 @@
     },
     {
       "album": {
+        "name": "Shout (le Shuuk Remix)",
+        "url": "https://open.spotify.com/album/4aGVUiUTh8VPXPXNYdVBoR"
+      },
+      "artists": [
+        {
+          "name": "Max Lean",
+          "url": "https://open.spotify.com/artist/4sOc3KgWiki8GMnvxYH8sh"
+        },
+        {
+          "name": "Ane",
+          "url": "https://open.spotify.com/artist/0832DbKyCSpPqX9lkf7aCj"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Shout - le Shuuk Remix",
+      "url": "https://open.spotify.com/track/1BmYhtZrAuhxcg8aOBhX3F"
+    },
+    {
+      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2g2SBkcTs9xneesZOBOimD"
       },
@@ -1979,7 +2005,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 278767,
       "name": "Show Me Love - Kryder & Tom Staar Remix",
       "url": "https://open.spotify.com/track/6iplImDoHCSM74kGVVKARL"
@@ -1997,7 +2023,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 125552,
       "name": "Slap That",
       "url": "https://open.spotify.com/track/5l1l4Iw31lCne4j63kCJ6c"
@@ -2243,7 +2269,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 228720,
       "name": "We Work",
       "url": "https://open.spotify.com/track/3KJqJL4fGTxAcP9TIsctui"
@@ -2265,10 +2291,28 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 207137,
       "name": "What They Want",
       "url": "https://open.spotify.com/track/3yL4QR1ivNHhI0YzzM7Nxq"
+    },
+    {
+      "album": {
+        "name": "What's Up Suckaz",
+        "url": "https://open.spotify.com/album/26Ii0K4367aR8WKk6GXQi9"
+      },
+      "artists": [
+        {
+          "name": "TJR",
+          "url": "https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "What's Up Suckaz",
+      "url": "https://open.spotify.com/track/3D5Or5cnuSQ9IBnRTdjhGX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Les nouveautés francophones de la semaine\. Photo: Pierre Kwenders
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,568 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,563 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 5 | [Demain](https://open.spotify.com/track/0U58UfCBhjdXBJpf2qJcwT) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Demain](https://open.spotify.com/album/6ZklkNHAqHpSrGqxsJQSyf) | 3:38 |
 | 6 | [Suis\-moi \(feat\. Ninho\)](https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ronisia](https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo) | 2:55 |
 | 7 | [Le calme](https://open.spotify.com/track/2RBRsOhmjwvPY5KcHEQxRV) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Le calme](https://open.spotify.com/album/4T6H2NDFAJcwPIyGcMj4Uz) | 3:54 |
-| 8 | [Mascarade \(feat\. Lous and The Yakuza\)](https://open.spotify.com/track/45qyXu23cbQYUqfovmA3Yv) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Mascarade \(feat\. Lous and The Yakuza\)](https://open.spotify.com/album/2YR8IS9wuFnWN8qIjXVmd2) | 2:35 |
+| 8 | [Mascarade \(feat\. Lous and The Yakuza\) \- Radio Edit](https://open.spotify.com/track/45qyXu23cbQYUqfovmA3Yv) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Mascarade \(feat\. Lous and The Yakuza\)](https://open.spotify.com/album/2YR8IS9wuFnWN8qIjXVmd2) | 2:35 |
 | 9 | [Mayo](https://open.spotify.com/track/2Iv8Dp0SvEp8GxVv9cvAG5) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT), [Dany Placard](https://open.spotify.com/artist/5sjde1NFxsXN9EjZyMbhHp) | [Mayo](https://open.spotify.com/album/0NkmWgsAGhJ7kJvoPHZTUW) | 3:08 |
 | 10 | [Le Lac](https://open.spotify.com/track/4qtOfkfpxGBkWpwRnIvqdT) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Le Lac](https://open.spotify.com/album/1WHCEWR98RfnMs6nu393uF) | 3:09 |
 | 11 | [Tu as tellement changé](https://open.spotify.com/track/7oo1p1UZoeNRLbFs07RrEM) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Tu as tellement changé \(avec Les Deuxluxes\)](https://open.spotify.com/album/2IeoVd4AaC5iUsuOojxHLM) | 3:14 |

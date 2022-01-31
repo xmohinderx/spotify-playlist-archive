@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,994 likes - 90 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,032 likes - 90 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Yo Ma](https://open.spotify.com/track/7A9XxAxvhWLmKIEVjowM9Y) | [Astrolith](https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Yo Ma](https://open.spotify.com/album/2urlO3qmSew5tEXa0tr5xO) | 3:19 |
+| 1 | [Yo Ma \(feat\. Cakes da Killa & Leikeli47\)](https://open.spotify.com/track/7A9XxAxvhWLmKIEVjowM9Y) | [Astrolith](https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Yo Ma \(feat\. Cakes da Killa & Leikeli47\)](https://open.spotify.com/album/2urlO3qmSew5tEXa0tr5xO) | 3:19 |
 | 2 | [Xtravaganza \- Radio Edit](https://open.spotify.com/track/0qOlJjXhjlNfQG1OUvIEAT) | [Naomi Leone](https://open.spotify.com/artist/6F0NV75fPzOq50SCX8b60x), [Velvet Code](https://open.spotify.com/artist/7EZWiujk2DXkuWUsSaUCKd) | [Xtravaganza](https://open.spotify.com/album/0jfpShFOEen1oUQpMyBEnH) | 2:56 |
 | 3 | [Just What They Want](https://open.spotify.com/track/62s3hLvgAt4gavLSMPGcLT) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Just What They Want](https://open.spotify.com/album/5NKFYyhUTlEh6RmgRJc5AY) | 3:12 |
 | 4 | [BBB](https://open.spotify.com/track/6iYyeyUc0zEXCOFm8kgKSA) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD), [Grove](https://open.spotify.com/artist/1ymLBAEb4VHg1sObM20pQ3) | [BBB](https://open.spotify.com/album/6DKpHRzwz47gcPyHFVpSgF) | 2:51 |

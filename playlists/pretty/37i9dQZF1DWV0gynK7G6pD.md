@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Joep Beving
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,846 likes - 69 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,162 likes - 69 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

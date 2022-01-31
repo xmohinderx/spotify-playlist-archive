@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 179893,
       "name": "Blue (Da Ba Dee) - Sound of Legend Version Edit",
       "url": "https://open.spotify.com/track/3JUxU3KohteqkLk9BOpQ1c"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 148571,
       "name": "Can't Be Me - Radio Edit",
       "url": "https://open.spotify.com/track/4n8sA1bwOUqPPv7sRYsdqS"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 136406,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/1V4KGRCZuPMEBUVnJMivVx"
@@ -1382,6 +1382,28 @@
     },
     {
       "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero]",
+        "url": "https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208316,
+      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+      "url": "https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua"
+    },
+    {
+      "album": {
         "name": "I Don't Like It, I Love It (feat. Robin Thicke & Verdine White) [Kasum Remix]",
         "url": "https://open.spotify.com/album/1Rpi0bWFI7RcqftCdCIqbs"
       },
@@ -1661,7 +1683,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 266680,
       "name": "Let Me Love You - Don Diablo Remix",
       "url": "https://open.spotify.com/track/7A0kyzZwkyztNsNeEsTiPX"
@@ -2083,7 +2105,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 219986,
       "name": "More - RedOne Jimmy Joker Remix",
       "url": "https://open.spotify.com/track/0aBKFfdyOD1Ttvgv0cfjjJ"
@@ -2149,7 +2171,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 173333,
       "name": "My Ecstasy - Ortox remix",
       "url": "https://open.spotify.com/track/4xEL14eOyz3tcCxqMYnjWD"
@@ -2237,7 +2259,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 208561,
       "name": "Nevada (feat. Cozi Zuehlsdorff)",
       "url": "https://open.spotify.com/track/5BIjJP1zlOa3iY65RSkXkr"
@@ -2561,7 +2583,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 202745,
       "name": "Places",
       "url": "https://open.spotify.com/track/6O85MfGECKBqAK2MgSbCaj"
@@ -3531,7 +3553,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 315470,
       "name": "Take Me Home - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/5aO8NoVDDUOkxWtv4lS5oM"

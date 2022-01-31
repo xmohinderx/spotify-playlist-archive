@@ -449,7 +449,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 390786,
       "name": "Don't Go - Dusky Remix",
       "url": "https://open.spotify.com/track/7tR8aX292Bvop3yIM1EAiy"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 233573,
       "name": "Gotta Let You Go",
       "url": "https://open.spotify.com/track/2Ter3spX4wzexYMtvAMZum"
@@ -568,6 +568,24 @@
     },
     {
       "album": {
+        "name": "House & Pressure",
+        "url": "https://open.spotify.com/album/5f36IdWpaugA1uQ5Yr6Zxu"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148571,
+      "name": "House & Pressure",
+      "url": "https://open.spotify.com/track/3W2bm5HR9tnS4ENFNJJ4XF"
+    },
+    {
+      "album": {
         "name": "Azari & III",
         "url": "https://open.spotify.com/album/7vd55snhAOrAXNsqxBqX1T"
       },
@@ -601,7 +619,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 288919,
       "name": "I <3 U SO - Skream's Made Zdar Feel Like He Was 20 Again Remix",
       "url": "https://open.spotify.com/track/0qnKGJgAZZXSKkUMcnAyIz"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 204026,
       "name": "Lights On (feat. Ms Dynamite) - Single Mix",
       "url": "https://open.spotify.com/track/7FNcb05eBgScWaEEvJRKiw"
@@ -1235,7 +1253,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 150703,
       "name": "The Renegade",
       "url": "https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK"

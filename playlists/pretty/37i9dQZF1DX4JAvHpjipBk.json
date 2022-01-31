@@ -1,6 +1,6 @@
 {
   "description": "New music from The Chainsmokers, Charli XCX. Rex Orange County, Lauv, and more! ",
-  "num_followers": 3860697,
+  "num_followers": 3860595,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
@@ -119,17 +119,21 @@
     {
       "added_at": "2022-01-28 05:00:15",
       "album": {
-        "name": "(Pick Me Up) Euphoria [From \u201dEuphoria\u201d An HBO Original Series]",
+        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
         "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
       },
       "artists": [
         {
           "name": "James Blake",
           "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
       "duration_ms": 195384,
-      "name": "(Pick Me Up) Euphoria - From \u201dEuphoria\u201d An HBO Original Series",
+      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
     },
     {
@@ -355,7 +359,7 @@
     {
       "added_at": "2022-01-28 05:00:15",
       "album": {
-        "name": "How Long (From \u201dEuphoria\u201d An HBO Original Series)",
+        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
       },
       "artists": [
@@ -365,7 +369,7 @@
         }
       ],
       "duration_ms": 199314,
-      "name": "How Long - From \u201dEuphoria\u201d An HBO Original Series",
+      "name": "How Long - From\"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
     },
     {
@@ -491,7 +495,7 @@
     {
       "added_at": "2022-01-28 05:00:15",
       "album": {
-        "name": "sad4whattt (From \u201dEuphoria\u201d An HBO Original Series)",
+        "name": "sad4whattt (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/7y5qaNQg9AUbPAqRB4cinS"
       },
       "artists": [
@@ -501,7 +505,7 @@
         }
       ],
       "duration_ms": 118670,
-      "name": "sad4whattt - From \u201dEuphoria\u201d An HBO Original Series",
+      "name": "sad4whattt - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/3oM8s8hnrh6xjKv1iycJaZ"
     },
     {
@@ -924,7 +928,7 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 195716,
+      "duration_ms": 190111,
       "name": "No Fuss",
       "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"
     },
@@ -1153,7 +1157,7 @@
         }
       ],
       "duration_ms": 155549,
-      "name": "Mascarade (feat. Lous and The Yakuza)",
+      "name": "Mascarade (feat. Lous and The Yakuza) - Radio Edit",
       "url": "https://open.spotify.com/track/45qyXu23cbQYUqfovmA3Yv"
     },
     {

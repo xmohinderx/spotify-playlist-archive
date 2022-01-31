@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqeiTvluC9o.md) - [plain]
 
 > There's nothing better than Country Music and Small Town livin'!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,196 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,209 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

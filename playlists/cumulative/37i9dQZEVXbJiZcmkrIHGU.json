@@ -493,7 +493,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 162370,
       "name": "Alexander III.",
       "url": "https://open.spotify.com/track/5joadQZj2gsjiazjynPY2X"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 154600,
       "name": "allein allein",
       "url": "https://open.spotify.com/track/0pA0BVXTONNqSldC9FdiaU"
@@ -1549,7 +1549,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 104613,
       "name": "Belgisches Viertel",
       "url": "https://open.spotify.com/track/1h3d2lvISrSIV6fS89U51S"
@@ -4079,7 +4079,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 130800,
       "name": "Engel ohne Fl\u00fcgel",
       "url": "https://open.spotify.com/track/4imwzIKE4hypf2Xq2T0slV"
@@ -5029,7 +5029,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 192357,
       "name": "Gabber Girl",
       "url": "https://open.spotify.com/track/4t3TPJTZr9AMEvjPgyZVsW"
@@ -5117,7 +5117,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 140384,
       "name": "Geisterstadt",
       "url": "https://open.spotify.com/track/0HK6kN5EjmHFxMdikQWi2b"
@@ -8285,7 +8285,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 145366,
       "name": "Letztes Mal",
       "url": "https://open.spotify.com/track/3f6lK3xZlgTKAxDVHHnufk"
@@ -10047,7 +10047,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -14413,7 +14413,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 150460,
       "name": "Unter die Haut",
       "url": "https://open.spotify.com/track/5Gf6qU9Ett00mOaQuXm9eM"
@@ -15055,6 +15055,24 @@
       "duration_ms": 136000,
       "name": "WEEE",
       "url": "https://open.spotify.com/track/5R2HaFZUDpMNo9RslRAkSf"
+    },
+    {
+      "album": {
+        "name": "Weg von mir",
+        "url": "https://open.spotify.com/album/2dPHSUPDfHS1lXNs7mu6yt"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "date_added": "2022-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Weg von mir",
+      "url": "https://open.spotify.com/track/123R3phQiND3XIiyuhPSLt"
     },
     {
       "album": {
@@ -15819,7 +15837,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 186140,
       "name": "Young Right Now",
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"
@@ -15899,7 +15917,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-31",
       "duration_ms": 214745,
       "name": "ZEITGEIST",
       "url": "https://open.spotify.com/track/0xChuBssZE1CprRyvkbQew"

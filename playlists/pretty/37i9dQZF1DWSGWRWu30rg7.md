@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Ressa\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,569 likes - 88 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,753 likes - 88 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
