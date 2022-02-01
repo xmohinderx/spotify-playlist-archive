@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Lauv
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,449 likes - 88 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,450 likes - 88 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

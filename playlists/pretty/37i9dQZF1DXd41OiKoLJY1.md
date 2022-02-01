@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Jenn Clemena, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,868 likes - 86 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,878 likes - 86 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

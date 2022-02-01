@@ -2532,6 +2532,32 @@
     },
     {
       "album": {
+        "name": "Start A Fire",
+        "url": "https://open.spotify.com/album/3TVQNtBHT21LU5SYTMdmml"
+      },
+      "artists": [
+        {
+          "name": "Adro",
+          "url": "https://open.spotify.com/artist/10a0MPE26mGGv05Exvb1uN"
+        },
+        {
+          "name": "24Bit",
+          "url": "https://open.spotify.com/artist/5BrzPCYkpTrKzXN2tQuvau"
+        },
+        {
+          "name": "Gaming Playlist",
+          "url": "https://open.spotify.com/artist/23Mfhfnb8nWudPtyzEO6F4"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196402,
+      "name": "Start A Fire",
+      "url": "https://open.spotify.com/track/3KFhOg2pjYHc0mOaFqsmCW"
+    },
+    {
+      "album": {
         "name": "1093",
         "url": "https://open.spotify.com/album/7tX0LuJuHqNFx9ucD9889K"
       },

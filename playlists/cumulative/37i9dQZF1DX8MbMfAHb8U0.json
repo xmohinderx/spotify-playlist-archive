@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Classic Neo-Soul, the songs you love, from the artists you love. Cover: Erykah Badu",
+  "description": "Celebrating the 25th anniversary of Baduizm by Erykah Badu.",
   "name": "I Love My Neo-Soul",
   "published_playlist_ids": [
     "55RU8oZjX8hltMj0iIsfn8"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 229773,
       "name": "Love Of My Life (An Ode To Hip Hop) - Radio Edit",
       "url": "https://open.spotify.com/track/4Gn8mSsXZANkqTWmXuVTXN"
@@ -1284,6 +1284,24 @@
     },
     {
       "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386626,
+      "name": "Next Lifetime",
+      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "album": {
         "name": "Islander",
         "url": "https://open.spotify.com/album/2CQoEMpJwCmowXcprCCKzN"
       },
@@ -1387,6 +1405,24 @@
       "duration_ms": 273200,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/57JKgPzcF9uyKHKVvbznR1"
+    },
+    {
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Rim Shot - Intro",
+      "url": "https://open.spotify.com/track/15QJXeFMsil7J8hHWaC8Ma"
     },
     {
       "album": {
@@ -1785,7 +1821,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 221866,
       "name": "Tyrone - Live Version",
       "url": "https://open.spotify.com/track/4r6ms4FegpNMmdCKTGAjKy"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU73wUKShGqj.md) - [plain]
 
 > "My candle burns at both ends; It will not last the night; But ah, my foes, and oh, my friends — It gives a lovely light!"
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,016 likes - 18 songs - 40 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,015 likes - 18 songs - 40 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Viva Latino](https://open.spotify.com/playlist/5BhGHTGbq4HOInzfEXtLEB)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: Luis Fonsi, Manuel Turizo
+> Today's top Latin hits, elevando nuestra música\. Cover: Sebastian Yatra
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

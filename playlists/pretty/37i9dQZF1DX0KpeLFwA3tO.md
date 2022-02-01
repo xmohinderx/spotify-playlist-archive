@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 ### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
 
-> The best new music from the wide world of punk\. Cover: Charlotte Sands
+> The best new music from the wide world of punk\. Cover: The Maine ft Taking Back Sunday & Charlotte Sands
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,708 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,903 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 78 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 |
 | 79 | [Panic Attack](https://open.spotify.com/track/3LI1iEaWR4oVIcCP4WH7Uw) | [Weatherstate](https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt) | [Panic Attack](https://open.spotify.com/album/35A5BlxNo9P89zsIQrAZ0x) | 3:10 |
 
-Snapshot ID: `MTY0MzMyODAwMCwwMDAwMDE5MjAwMDAwMTdlOWRmYjUwYjkwMDAwMDE3ZTljNmNjMzBk`
+Snapshot ID: `MTY0MzY1MTkxNywwMDAwMDE5MzAwMDAwMTdlYjE0OWU1ZTIwMDAwMDE3ZWIxNDk0NGUx`

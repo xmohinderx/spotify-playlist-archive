@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > The best in alt, folk, and indie rock\. Cover: Elvis Costello & The Imposters
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,947 likes - 105 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,993 likes - 105 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

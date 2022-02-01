@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 232895,
       "name": "A2, Angel",
       "url": "https://open.spotify.com/track/3IY1qerKnX532hoyhD5fOc"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 144878,
       "name": "Aesthetic.",
       "url": "https://open.spotify.com/track/4lRk8mHM5K5Bg3UPPeKD5c"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 232473,
       "name": "Anomaly",
       "url": "https://open.spotify.com/track/1N9xhwPDSx1A8SGPcD7M3k"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 309333,
       "name": "Astra Vision",
       "url": "https://open.spotify.com/track/07BBLGQENt9FePC6wJSYdH"
@@ -381,10 +381,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 297142,
       "name": "Bad Baby - Satin Sheets Remix",
       "url": "https://open.spotify.com/track/3HAphL6BtlyezG6mK7PDWe"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/22oMeDBaEUGjdgb3vq19ri"
+      },
+      "artists": [
+        {
+          "name": "Device Operator",
+          "url": "https://open.spotify.com/artist/0WgvFxGODaEBXwRSSprC9C"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185400,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/4wC5oQIQMqKk9ZodyVmRJ4"
     },
     {
       "album": {
@@ -457,7 +475,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 146181,
       "name": "Blue",
       "url": "https://open.spotify.com/track/550eMDZd8KgSxJLNwptidY"
@@ -605,7 +623,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 145240,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/1YcAQRuKsbB8hQ5zrJxVJb"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 228829,
       "name": "Closed System",
       "url": "https://open.spotify.com/track/0IH6eyM6DgtiGXCWuKfM5S"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 197000,
       "name": "Dillards",
       "url": "https://open.spotify.com/track/3jcJiuBKrGKQmdW4xdDiuW"
@@ -943,7 +961,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 208831,
       "name": "Epilogue (See You In My Dreams)",
       "url": "https://open.spotify.com/track/3LeiUqAE7RPjX3xoFphw6R"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 210000,
       "name": "Esprit.Wav",
       "url": "https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx"
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 227039,
       "name": "Eternal Sunset",
       "url": "https://open.spotify.com/track/1v1yko6vUBPJpph40kQ0An"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 164400,
       "name": "Floppy Disk Prism",
       "url": "https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "HAIRSALON",
       "url": "https://open.spotify.com/track/44k0k0RYix0BDTB9vHnmzy"
@@ -1364,6 +1382,24 @@
     },
     {
       "album": {
+        "name": "Things That Fade",
+        "url": "https://open.spotify.com/album/0WBW4pExpZITk6peWXzWlV"
+      },
+      "artists": [
+        {
+          "name": "Greeen Linez",
+          "url": "https://open.spotify.com/artist/1xpjdGNm3ipMNPZ9eRwH14"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251779,
+      "name": "Hibiscus Pacific",
+      "url": "https://open.spotify.com/track/212guZJYmzASElwy8HmVKx"
+    },
+    {
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/6z3d6pZwZOrtquT8pMR3AP"
       },
@@ -1375,7 +1411,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 245595,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/2TcwS9p7WCxNtr8bsrzHKk"
@@ -1451,7 +1487,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 207018,
       "name": "I Like You But I Just Wanna Dance",
       "url": "https://open.spotify.com/track/0J7NmdRiAxhRIhaufWCI1m"
@@ -1487,7 +1523,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 193669,
       "name": "I'm Not Yours",
       "url": "https://open.spotify.com/track/5zIH8kohBpfwFnYscRDWVC"
@@ -1505,7 +1541,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "Icaru",
       "url": "https://open.spotify.com/track/3rYl7iIaj2C14HkiUem1LX"
@@ -1777,7 +1813,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 246870,
       "name": "Make Me Love You",
       "url": "https://open.spotify.com/track/2Lnsbog85YcjdR9SHVOcR6"
@@ -1893,7 +1929,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 175384,
       "name": "my world",
       "url": "https://open.spotify.com/track/356kiqtGX0jX4jvz6RwBJJ"
@@ -1911,7 +1947,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 192034,
       "name": "Navigator, New Friend Request!",
       "url": "https://open.spotify.com/track/39ceqvFYbZHX5qyTdHaFL1"
@@ -1976,6 +2012,24 @@
     },
     {
       "album": {
+        "name": "Mind Murals",
+        "url": "https://open.spotify.com/album/18CYgqrwFy1Aj1tYpiCR1a"
+      },
+      "artists": [
+        {
+          "name": "Ahero",
+          "url": "https://open.spotify.com/artist/1hONUxozR8WgZbGQb0EwTv"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237640,
+      "name": "Next Steps",
+      "url": "https://open.spotify.com/track/5sQ54Kbu5mslasGVvMguBJ"
+    },
+    {
+      "album": {
         "name": "Night Cruising",
         "url": "https://open.spotify.com/album/6YGPMc3Re9AeOfAni0Dmu0"
       },
@@ -2009,7 +2063,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 235051,
       "name": "Night Patrol",
       "url": "https://open.spotify.com/track/1RWdqz1IQM8cBKAtSFaNfj"
@@ -2121,7 +2175,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 235200,
       "name": "Oh No (It's You)",
       "url": "https://open.spotify.com/track/0SykCgqWNRv00avukuFT0J"
@@ -2139,10 +2193,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 270043,
       "name": "OldBeat",
       "url": "https://open.spotify.com/track/47AMIjiXrydqupLrFNgPbJ"
+    },
+    {
+      "album": {
+        "name": "One Of These Nights",
+        "url": "https://open.spotify.com/album/6o1FDhVYOXE1lbs5atNGd0"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336494,
+      "name": "One Of These Nights",
+      "url": "https://open.spotify.com/track/5juwMwopZwXSoOud8lIrhy"
     },
     {
       "album": {
@@ -2197,7 +2269,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 247250,
       "name": "Opacity Field - FM Skyline Remix",
       "url": "https://open.spotify.com/track/0Niy78VGaKEv64l2fAsv15"
@@ -2255,7 +2327,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 123938,
       "name": "Out Of Your Life",
       "url": "https://open.spotify.com/track/2iTvkTf5p7WLISsIF1ezRe"
@@ -2381,7 +2453,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 107604,
       "name": "Playback",
       "url": "https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS"
@@ -2497,7 +2569,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 227333,
       "name": "Psychology of Desire",
       "url": "https://open.spotify.com/track/0ZvvQvDIQUKj30b1CwA6lP"
@@ -2545,7 +2617,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 210250,
       "name": "Rike Park - US Golf 95 Remix",
       "url": "https://open.spotify.com/track/1o7gYtpslW4y2rSwyvtyLu"
@@ -2701,7 +2773,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 163625,
       "name": "Sky Plaza - \u732b \u30b7 Corp. Remix",
       "url": "https://open.spotify.com/track/0sIYpMZwP09jCqw3rOiViu"
@@ -3055,7 +3127,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 258954,
       "name": "Sunset Highway (w channel select)",
       "url": "https://open.spotify.com/track/0XDUlFhcH8XGNP2iGbIIur"
@@ -3131,7 +3203,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 234765,
       "name": "Tampa (FM Skyline Remix) [7\" Version]",
       "url": "https://open.spotify.com/track/2XFu8tNnyQm2m8KNF0PNDz"
@@ -3185,7 +3257,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Temple of Null",
       "url": "https://open.spotify.com/track/6BN0SHZZkdksdMFXDhCvDT"
@@ -3203,7 +3275,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 306000,
       "name": "Tennis",
       "url": "https://open.spotify.com/track/5BBZrCQzJBKt3zLhlQFStc"
@@ -3264,6 +3336,24 @@
     },
     {
       "album": {
+        "name": "Buffywave",
+        "url": "https://open.spotify.com/album/1PoaQGlUpa2h2lZZQS1592"
+      },
+      "artists": [
+        {
+          "name": "Stream\u263eatcher",
+          "url": "https://open.spotify.com/artist/7DbVNXjSfE8mv7EXe6oh3k"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230232,
+      "name": "The Slayer",
+      "url": "https://open.spotify.com/track/1FmghzWQrzOiAoG1zXTI7T"
+    },
+    {
+      "album": {
         "name": "Doom Mix, Vol. V",
         "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
       },
@@ -3293,7 +3383,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 114012,
       "name": "This Girl",
       "url": "https://open.spotify.com/track/3jbvIVdfpdBBl0d1NmXMKT"
@@ -3329,7 +3419,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 187317,
       "name": "Time-Data. The Stars. The Essence. Love. Abstract Beauty. Desire. Ariseth, As The Sun.",
       "url": "https://open.spotify.com/track/3yrkXG1DGDivOKtXtbFGoi"
@@ -3377,7 +3467,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 214543,
       "name": "Tomorrow (Slowed & Reverb)",
       "url": "https://open.spotify.com/track/5f4JemFGhXM4755zhVElIi"
@@ -3395,7 +3485,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 214401,
       "name": "Training Day",
       "url": "https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1"
@@ -3507,7 +3597,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "Veranda",
       "url": "https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe"
@@ -3601,7 +3691,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 225000,
       "name": "Wavestation - instrumental",
       "url": "https://open.spotify.com/track/5v5fgP8r4iEpsSefhwkoOQ"
@@ -3619,7 +3709,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 196103,
       "name": "Welcome to the Afterlife",
       "url": "https://open.spotify.com/track/0fsDxSughWgVRYMLMAaJJZ"
@@ -3677,7 +3767,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 267692,
       "name": "You are godlike",
       "url": "https://open.spotify.com/track/5WQrLjQJS2snymeZyVQ9MN"
@@ -3735,7 +3825,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 357408,
       "name": "\u30b7\u30fc\u30b5\u30a4\u30c9 Passion",
       "url": "https://open.spotify.com/track/4iWNZZQzNUHtzBmvLv4xRF"

@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -2045,7 +2045,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
@@ -3651,7 +3651,7 @@
       ],
       "date_added": "2021-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 168565,
       "name": "gloria",
       "url": "https://open.spotify.com/track/6mBcS1PFMYrjK9e28I8Xvc"
@@ -5197,7 +5197,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 169805,
       "name": "j\u00e4\u00e4tis",
       "url": "https://open.spotify.com/track/65bVldI1hXRHzm6gXkqEr0"
@@ -5889,7 +5889,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
@@ -6197,7 +6197,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
@@ -8576,6 +8576,28 @@
     },
     {
       "album": {
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7LOowmGvjVKUxJAcbUDX6N"
+      },
+      "artists": [
+        {
+          "name": "Cartoon",
+          "url": "https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM"
+        },
+        {
+          "name": "Pluuto",
+          "url": "https://open.spotify.com/artist/3BtEY5R06YAu1KVF2rvNjg"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/2cVJq55ISQ7LNkWibZzRSY"
+    },
+    {
+      "album": {
         "name": "SALES LP",
         "url": "https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE"
       },
@@ -10357,7 +10379,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
@@ -12393,6 +12415,24 @@
       "duration_ms": 159053,
       "name": "\u041a\u0440\u0430\u0441\u043e\u0442\u0430 \u0438 \u0423\u0440\u043e\u0434\u0441\u0442\u0432\u043e",
       "url": "https://open.spotify.com/track/4XeBNnnoABfqa6x8dK27b8"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0410\u041b\u0418\u041d\u041e\u0412\u0410\u042f \u041b\u0410\u0414\u0410",
+        "url": "https://open.spotify.com/album/6U8jV8xU3eysZU4EJO7gkI"
+      },
+      "artists": [
+        {
+          "name": "GAYAZOV$ BROTHER$",
+          "url": "https://open.spotify.com/artist/0xTdDjeCoM89b7n9fLcZvR"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213124,
+      "name": "\u041c\u0410\u041b\u0418\u041d\u041e\u0412\u0410\u042f \u041b\u0410\u0414\u0410",
+      "url": "https://open.spotify.com/track/77B4S4jkrAkL3Ng5hEHoUU"
     },
     {
       "album": {

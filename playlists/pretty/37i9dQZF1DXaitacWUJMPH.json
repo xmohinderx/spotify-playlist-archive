@@ -1,33 +1,13 @@
 {
   "description": "24 songs dedicated to the Mamba & Mambacita. R.I.P. Kobe & Gianna Bryant.",
-  "num_followers": 354827,
+  "num_followers": 355122,
   "original_name": "2 . 24",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzU4OTg2NywwMDAwMDAwMDNkNDdkNzU1ZjQ3NmY2MWM2N2QyYmE4ZmZmYTdhMTFl",
+  "snapshot_id": "MTY0MzY3NjQzNiwwMDAwMDAwMGY3YWZkOWNjZmZhYjJlNjBkODVlNjIyMTMyZDk2MjUy",
   "tracks": [
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
-        "name": "24 (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "24 (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy"
-    },
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
@@ -55,6 +35,46 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
+        "name": "24 (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "24 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy"
+    },
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+    },
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
         "name": "MIDDLE CHILD",
         "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
       },
@@ -67,22 +87,6 @@
       "duration_ms": 213593,
       "name": "MIDDLE CHILD",
       "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
-    },
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 164579,
-      "name": "Got It On Me",
-      "url": "https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1"
     },
     {
       "added_at": "2021-08-13 05:52:42",
@@ -111,26 +115,6 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
         "name": "Straightenin",
         "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
       },
@@ -147,18 +131,34 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
-        "name": "Old Streets",
-        "url": "https://open.spotify.com/album/0ruXOKXuGUA9wtnOZ38ElT"
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
       "artists": [
         {
-          "name": "2KBABY",
-          "url": "https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 105600,
-      "name": "Old Streets",
-      "url": "https://open.spotify.com/track/7JVfHOV7ylgOUKaHnPMafs"
+      "duration_ms": 164579,
+      "name": "Got It On Me",
+      "url": "https://open.spotify.com/track/25zlnOAzbVoOzIeXSvQFf1"
+    },
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 175169,
+      "name": "Big Stepper",
+      "url": "https://open.spotify.com/track/6x0QNM6f0C2JEjK0hFF8Ca"
     },
     {
       "added_at": "2021-08-13 05:52:42",
@@ -199,70 +199,50 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
-        "name": "Beam Me Up Scotty",
-        "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
+        "name": "Starvation 5",
+        "url": "https://open.spotify.com/album/768dhdnqsbqb0iYiOb8NlM"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
+          "name": "Ace Hood",
+          "url": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
+        }
+      ],
+      "duration_ms": 188855,
+      "name": "4th Quarter",
+      "url": "https://open.spotify.com/track/7lbMFw3ZVx2orxwHP5blUb"
+    },
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
+        "name": "Dark Lane Demo Tapes",
+        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 339506,
-      "name": "Seeing Green (with Drake & Lil Wayne)",
-      "url": "https://open.spotify.com/track/1TZv3bujNaYz646eezRE91"
+      "duration_ms": 234782,
+      "name": "From Florida With Love",
+      "url": "https://open.spotify.com/track/0YkUwXxnTkeJBvt5upeEtP"
     },
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
-        "name": "Detroit 2",
-        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+        "name": "Old Streets",
+        "url": "https://open.spotify.com/album/0ruXOKXuGUA9wtnOZ38ElT"
       },
       "artists": [
         {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "2KBABY",
+          "url": "https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE"
         }
       ],
-      "duration_ms": 207243,
-      "name": "Respect It (with Hit-Boy feat. Young Thug)",
-      "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
-    },
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
-        "name": "2k",
-        "url": "https://open.spotify.com/album/5ArS7OdTk1ItCHwYdg1SHU"
-      },
-      "artists": [
-        {
-          "name": "Cuttino",
-          "url": "https://open.spotify.com/artist/4TNve23yQdpYvb7PC3OoTA"
-        },
-        {
-          "name": "Trap Beckham",
-          "url": "https://open.spotify.com/artist/5AK2gJtEA2SWI9lBywSZjN"
-        }
-      ],
-      "duration_ms": 258782,
-      "name": "2k",
-      "url": "https://open.spotify.com/track/0zLmCMhA8Ly30tZhSmUhAy"
+      "duration_ms": 105600,
+      "name": "Old Streets",
+      "url": "https://open.spotify.com/track/7JVfHOV7ylgOUKaHnPMafs"
     },
     {
       "added_at": "2021-08-13 05:52:42",
@@ -339,6 +319,26 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
+        "name": "Eternal Atake (Deluxe) - LUV vs. The World 2",
+        "url": "https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 238816,
+      "name": "Bean (Kobe) [feat. Chief Keef]",
+      "url": "https://open.spotify.com/track/0IpnZchq8ek2A6pGEP2Qb1"
+    },
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
         "name": "The New Toronto 3",
         "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
       },
@@ -371,74 +371,26 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
-        "name": "Forever Set In Stone",
-        "url": "https://open.spotify.com/album/42yk2Caf5N7T7jTbvrURqL"
+        "name": "Beam Me Up Scotty",
+        "url": "https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r"
       },
       "artists": [
         {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 176725,
-      "name": "Forever Set In Stone",
-      "url": "https://open.spotify.com/track/4heYgxcr1byQWoiFFG3Kvr"
-    },
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
-        "name": "Dark Lane Demo Tapes",
-        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
-      },
-      "artists": [
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 234782,
-      "name": "From Florida With Love",
-      "url": "https://open.spotify.com/track/0YkUwXxnTkeJBvt5upeEtP"
-    },
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
-        "name": "Zulu Man With Some Power",
-        "url": "https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         },
         {
-          "name": "Lil Gotit",
-          "url": "https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le"
-        },
-        {
-          "name": "Lil Keed",
-          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 234540,
-      "name": "Bookoo Bucks",
-      "url": "https://open.spotify.com/track/6zdVd206eHcQ5GuDvCSGcZ"
-    },
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 143152,
-      "name": "Woodlawn",
-      "url": "https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP"
+      "duration_ms": 339506,
+      "name": "Seeing Green (with Drake & Lil Wayne)",
+      "url": "https://open.spotify.com/track/1TZv3bujNaYz646eezRE91"
     },
     {
       "added_at": "2021-08-13 05:52:42",
@@ -463,6 +415,38 @@
       "duration_ms": 171273,
       "name": "Kobe (feat. Snoop Dogg & Derrick Milano)",
       "url": "https://open.spotify.com/track/6KNkwW52dda5lTGf10KLXn"
+    },
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
+      },
+      "artists": [
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "duration_ms": 143152,
+      "name": "Woodlawn",
+      "url": "https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP"
+    },
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
+        "name": "SYRE",
+        "url": "https://open.spotify.com/album/4IFpj2jyRcugt1yzH82m3E"
+      },
+      "artists": [
+        {
+          "name": "Jaden",
+          "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+        }
+      ],
+      "duration_ms": 220995,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b"
     }
   ],
   "unique_name": "2 . 24",

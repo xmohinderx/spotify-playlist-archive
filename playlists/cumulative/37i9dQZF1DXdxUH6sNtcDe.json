@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 276600,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/0nGzwlShUTBEQePuzMoUjN"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 281973,
       "name": "Come A Little Closer",
       "url": "https://open.spotify.com/track/6yFD0TSZvxydqGxLNDjZUO"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 229093,
       "name": "Help Pour Out the Rain (Lacey's Song)",
       "url": "https://open.spotify.com/track/4xWIqUIlfrusaaygS9RQsR"
@@ -1413,7 +1413,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 198960,
       "name": "My Give A Damn's Busted",
       "url": "https://open.spotify.com/track/3n8QTc8J3T72KurDsWo1b6"
@@ -1849,7 +1849,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 266920,
       "name": "She's Everything",
       "url": "https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 218853,
       "name": "Small Town USA",
       "url": "https://open.spotify.com/track/5pyB5WEAEwqwl18UaBLeBl"
@@ -1921,7 +1921,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 221425,
       "name": "Somebody's Hero",
       "url": "https://open.spotify.com/track/2iVkOIwx8qzVGlju9Hy4yY"
@@ -2047,7 +2047,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 245573,
       "name": "The Impossible",
       "url": "https://open.spotify.com/track/5vyVckEUyIogu3Fq7J3lBR"
@@ -2227,7 +2227,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 226226,
       "name": "We Danced",
       "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
@@ -2343,6 +2343,24 @@
       "duration_ms": 239240,
       "name": "Where I Come From",
       "url": "https://open.spotify.com/track/6ej1QJ8eIYmhsyTlvgDajy"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "Where The Blacktop Ends",
+      "url": "https://open.spotify.com/track/7qLQR9T8vL638MbPYCDAFk"
     },
     {
       "album": {

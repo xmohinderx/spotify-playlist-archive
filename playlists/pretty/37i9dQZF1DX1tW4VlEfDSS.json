@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 315112,
+  "num_followers": 315228,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzU4OTYyMCwwMDAwMDAwMDM0YmFjNmM4YTA2Y2Q1ZGQ0OWI2NTljMjY4ZjU3Mjc4",
+  "snapshot_id": "MTY0MzY3NjE3MSwwMDAwMDAwMDAwZDQ1MTBhMTI5NjE5MjA2YmI4MWQ4YzE2YTRiMGJi",
   "tracks": [
     {
       "added_at": "2021-12-07 11:33:24",
@@ -43,22 +43,26 @@
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Time (feat. Rhye)",
-        "url": "https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq"
+        "name": "So Much Love (feat. Lloyd Wade) [Soda State Remix]",
+        "url": "https://open.spotify.com/album/0uGKe7trLiVIJqBe0zofC4"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Owen Westlake",
+          "url": "https://open.spotify.com/artist/2OdSWlu6iOzT4YsRJuvC8I"
         },
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Soda State",
+          "url": "https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH"
+        },
+        {
+          "name": "Lloyd Wade",
+          "url": "https://open.spotify.com/artist/6lxTDIi9n3y6DWmL2w4nUs"
         }
       ],
-      "duration_ms": 259173,
-      "name": "Time (feat. Rhye)",
-      "url": "https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA"
+      "duration_ms": 263038,
+      "name": "So Much Love (feat. Lloyd Wade) - Soda State Remix",
+      "url": "https://open.spotify.com/track/08L01pJcsL4trIQrxSa8mj"
     },
     {
       "added_at": "2021-12-07 11:33:24",
@@ -139,18 +143,22 @@
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Silk Robe",
-        "url": "https://open.spotify.com/album/2cREL8DhgMw5f2VYC1I1Qv"
+        "name": "In Her Eyes (Korn\u00e9l Kovacs Remix)",
+        "url": "https://open.spotify.com/album/5s3iaEQDslds5DczxeEyP3"
       },
       "artists": [
         {
-          "name": "Flaurese",
-          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        },
+        {
+          "name": "Korn\u00e9l Kov\u00e1cs",
+          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Silk Robe",
-      "url": "https://open.spotify.com/track/1PLWMDuWR3gfsuBGMRUgY8"
+      "duration_ms": 231428,
+      "name": "In Her Eyes - Korn\u00e9l Kovacs Remix",
+      "url": "https://open.spotify.com/track/0ZO43yG1f0yKh2raZ3uEaO"
     },
     {
       "added_at": "2021-12-07 11:33:24",
@@ -171,6 +179,22 @@
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
+        "name": "Keep Moving",
+        "url": "https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/0RXi6MtsGtdUVydkhy8wNc"
       },
@@ -187,62 +211,70 @@
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
+        "name": "Time (feat. Rhye)",
+        "url": "https://open.spotify.com/album/6RHC0jz8QjvDWEEggbhwrq"
       },
       "artists": [
         {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 212313,
-      "name": "Riviera",
-      "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
+      "duration_ms": 259173,
+      "name": "Time (feat. Rhye)",
+      "url": "https://open.spotify.com/track/0XQypgwTXf0LS7ZGx13XTA"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "I Miss Having Someone To Talk To",
-        "url": "https://open.spotify.com/album/17PBUuvBGmmwD0L6CtKtPR"
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        },
-        {
-          "name": "Liv East",
-          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+          "name": "Sandy's Groove",
+          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
         }
       ],
-      "duration_ms": 223742,
-      "name": "I Miss Having Someone To Talk To",
-      "url": "https://open.spotify.com/track/0y5D6gtFl3WNx06rOXLWJ6"
+      "duration_ms": 240000,
+      "name": "On My Mind - Radio Mix",
+      "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Missing (feat. Andreya Triana & Ben Westbeech)",
-        "url": "https://open.spotify.com/album/3Ep5tB0DvvcSD7ixPVjA1n"
+        "name": "Do You Feel Like I Do?",
+        "url": "https://open.spotify.com/album/40HDOYAv6PM1ZCzHhUsbVH"
       },
       "artists": [
         {
-          "name": "The Vision",
-          "url": "https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        },
-        {
-          "name": "Ben Westbeech",
-          "url": "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
+          "name": "Another Chemical Love Story",
+          "url": "https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv"
         }
       ],
-      "duration_ms": 281200,
-      "name": "Missing (feat. Andreya Triana & Ben Westbeech)",
-      "url": "https://open.spotify.com/track/5tBKJQuTSZcT50MXdJ5HYu"
+      "duration_ms": 398095,
+      "name": "Do You Feel Like I Do?",
+      "url": "https://open.spotify.com/track/2xdstbWVKz1Q2XGiNLebuu"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/5eUitT6YJ0tKPE7VflH3HY"
+      },
+      "artists": [
+        {
+          "name": "CHEBO",
+          "url": "https://open.spotify.com/artist/3pVkPq0yX263AX3usK5HXz"
+        }
+      ],
+      "duration_ms": 192260,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4BerEwKV2FDiw50F7014Ik"
     },
     {
       "added_at": "2021-12-07 11:33:24",
@@ -267,54 +299,18 @@
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "LIFE",
-        "url": "https://open.spotify.com/album/6onzoXHe7wCWnrkWKtVXCX"
+        "name": "Seventies",
+        "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
       },
       "artists": [
         {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "Wuh Oh",
-          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
+          "name": "Theo Kottis",
+          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
         }
       ],
-      "duration_ms": 155525,
-      "name": "LIFE",
-      "url": "https://open.spotify.com/track/2OOb0wDmLyyhC2ViXembbS"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Do You Feel Like I Do?",
-        "url": "https://open.spotify.com/album/40HDOYAv6PM1ZCzHhUsbVH"
-      },
-      "artists": [
-        {
-          "name": "Another Chemical Love Story",
-          "url": "https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv"
-        }
-      ],
-      "duration_ms": 398095,
-      "name": "Do You Feel Like I Do?",
-      "url": "https://open.spotify.com/track/2xdstbWVKz1Q2XGiNLebuu"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Keep Moving",
-        "url": "https://open.spotify.com/album/65EO9bzFMe8Psq1nrR3938"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/5cHRRQ4JYlMW04DrwuG03b"
+      "duration_ms": 196035,
+      "name": "Seventies",
+      "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
     },
     {
       "added_at": "2021-12-07 11:33:24",
@@ -331,6 +327,90 @@
       "duration_ms": 164878,
       "name": "White Rabbit - Moxy Club Mix",
       "url": "https://open.spotify.com/track/2Zp0oCiV6xQZjLHUzrTJxv"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "At Last Un Briquet / Looks Like It Tastes",
+        "url": "https://open.spotify.com/album/60fDwIkf9sGiCqiXDG56wH"
+      },
+      "artists": [
+        {
+          "name": "Donny Rotten",
+          "url": "https://open.spotify.com/artist/542Fuv2U5rjcCdAu1ZCTaZ"
+        }
+      ],
+      "duration_ms": 223759,
+      "name": "At Last Un Briquet",
+      "url": "https://open.spotify.com/track/0vqpV8vk3oPPo3tjV49kx1"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Silk Robe",
+        "url": "https://open.spotify.com/album/2cREL8DhgMw5f2VYC1I1Qv"
+      },
+      "artists": [
+        {
+          "name": "Flaurese",
+          "url": "https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Silk Robe",
+      "url": "https://open.spotify.com/track/1PLWMDuWR3gfsuBGMRUgY8"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "It Is What It Is (feat. Elise LeGrow)",
+        "url": "https://open.spotify.com/album/1d08A5A1LezktJMhoWCqDq"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "It Is What It Is (feat. Elise LeGrow)",
+      "url": "https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Under The Yellow Arch",
+        "url": "https://open.spotify.com/album/6ngoLgezBzURPAgzcyXAZ5"
+      },
+      "artists": [
+        {
+          "name": "Adelphi Music Factory",
+          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
+        }
+      ],
+      "duration_ms": 201043,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/4zSTri8oBAAPhsQsPNfGue"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi"
+      },
+      "artists": [
+        {
+          "name": "NIMMO",
+          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu"
     },
     {
       "added_at": "2021-12-07 11:33:24",
@@ -355,50 +435,38 @@
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/7G1JFppuNI2Q0kSe2W2AkB"
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/52Aj733Z1QNSshBALGbFNP"
       },
       "artists": [
         {
-          "name": "Tom Everett",
-          "url": "https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK"
+          "name": "Mell Hall",
+          "url": "https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ"
+        },
+        {
+          "name": "Thandi Phoenix",
+          "url": "https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v"
         }
       ],
-      "duration_ms": 206447,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/0Ret48IIcgcQdB54orjZKS"
+      "duration_ms": 241225,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/70dmZtJ2NDuFsPdlQgdnbh"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "What Ya Here For?",
-        "url": "https://open.spotify.com/album/6z9WzYceZqPgG45iTxiYFf"
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
       },
       "artists": [
         {
-          "name": "Dj Streaks",
-          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
         }
       ],
-      "duration_ms": 260256,
-      "name": "What Ya Here For?",
-      "url": "https://open.spotify.com/track/27rjwJcRIohIoNI4GNewxo"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Under The Yellow Arch",
-        "url": "https://open.spotify.com/album/6ngoLgezBzURPAgzcyXAZ5"
-      },
-      "artists": [
-        {
-          "name": "Adelphi Music Factory",
-          "url": "https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe"
-        }
-      ],
-      "duration_ms": 201043,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/4zSTri8oBAAPhsQsPNfGue"
+      "duration_ms": 212313,
+      "name": "Riviera",
+      "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
     },
     {
       "added_at": "2021-12-07 11:33:24",
@@ -427,46 +495,6 @@
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "All For The Disco",
-        "url": "https://open.spotify.com/album/6ts93erLIrk0aRwE8h0ex0"
-      },
-      "artists": [
-        {
-          "name": "Louise DaCosta",
-          "url": "https://open.spotify.com/artist/3AyRl6kw1IiwpXPMyhdcR5"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "All For The Disco",
-      "url": "https://open.spotify.com/track/5cxHKq2KRxwq8v6xQUQJq3"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
-        "url": "https://open.spotify.com/album/67B57RL961NRFHyce5dYEK"
-      },
-      "artists": [
-        {
-          "name": "Wh0",
-          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Josh Barry",
-          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
-      "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL"
       },
@@ -483,70 +511,42 @@
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Voodoo? (Lazywax Remix)",
-        "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
+        "name": "Zissou Edits Best Vol. 1",
+        "url": "https://open.spotify.com/album/3LCza5PZcH60VdGQHnxvLn"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "duration_ms": 272903,
+      "name": "me with your <3 - Edit",
+      "url": "https://open.spotify.com/track/1FmpFPiqyvFgOZawC6Xrkl"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Missing (feat. Andreya Triana & Ben Westbeech)",
+        "url": "https://open.spotify.com/album/3Ep5tB0DvvcSD7ixPVjA1n"
+      },
+      "artists": [
+        {
+          "name": "The Vision",
+          "url": "https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I"
         },
         {
-          "name": "Lazywax",
-          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
-        }
-      ],
-      "duration_ms": 386443,
-      "name": "Voodoo? - Lazywax Remix",
-      "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Between Us",
-        "url": "https://open.spotify.com/album/3OMe9aeRljHkn2ZwYIGnP4"
-      },
-      "artists": [
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        },
         {
-          "name": "VIGI",
-          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+          "name": "Ben Westbeech",
+          "url": "https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM"
         }
       ],
-      "duration_ms": 343414,
-      "name": "Between Us",
-      "url": "https://open.spotify.com/track/71DdXlS1vWQhxsbKfbW3z0"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Voodoo Babe",
-        "url": "https://open.spotify.com/album/65JLPXyCU5zlSNBXZNseSs"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 249002,
-      "name": "Voodoo Babe",
-      "url": "https://open.spotify.com/track/6j7iBoA8Wt3ndo2qxSc552"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "You Are the Sun",
-        "url": "https://open.spotify.com/album/6SjcvByXu9QPvEJv01SI7Q"
-      },
-      "artists": [
-        {
-          "name": "TEE MANGO",
-          "url": "https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH"
-        }
-      ],
-      "duration_ms": 408889,
-      "name": "You Are the Sun - Sun Up Mix",
-      "url": "https://open.spotify.com/track/7LE9T4XBDParc9tDvNf29H"
+      "duration_ms": 281200,
+      "name": "Missing (feat. Andreya Triana & Ben Westbeech)",
+      "url": "https://open.spotify.com/track/5tBKJQuTSZcT50MXdJ5HYu"
     },
     {
       "added_at": "2021-12-07 11:33:24",
@@ -575,94 +575,38 @@
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Empty Heart",
-        "url": "https://open.spotify.com/album/2gUh3PFl8GzwzreFmxoFqQ"
+        "name": "Desert Island Disco",
+        "url": "https://open.spotify.com/album/2y9YJuqW1OpDtmjkNznvxy"
       },
       "artists": [
         {
-          "name": "Sean Roman",
-          "url": "https://open.spotify.com/artist/3v4eFdI9pxt9UdfwqDRe4c"
+          "name": "The Golden Boy",
+          "url": "https://open.spotify.com/artist/4sbnZxKTcrri3W099W0wuq"
+        }
+      ],
+      "duration_ms": 373831,
+      "name": "Desert Island Disco",
+      "url": "https://open.spotify.com/track/5tmOJqhC304q9aCBT77r9Z"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "What's Your World (feat. Gloria Ann Taylor)",
+        "url": "https://open.spotify.com/album/0B1JIgirhhCL0onK0olkc0"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         },
         {
-          "name": "Jim Junior",
-          "url": "https://open.spotify.com/artist/31Xf3cuuJ63CRNoxbW3rdu"
+          "name": "Gloria Ann Taylor",
+          "url": "https://open.spotify.com/artist/1xpBuU9oUPQIYw2bP0XOu8"
         }
       ],
-      "duration_ms": 352080,
-      "name": "Empty Heart",
-      "url": "https://open.spotify.com/track/7eDWOkSstRIObrzFGkcUE3"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Turn Around (Hey What\u2019s Wrong With You) [Remixes]",
-        "url": "https://open.spotify.com/album/2hx53vnNPRvQku4tAbWMSf"
-      },
-      "artists": [
-        {
-          "name": "Phats & Small",
-          "url": "https://open.spotify.com/artist/4WLGcWrkSExCqILxDk7ol6"
-        },
-        {
-          "name": "Robosonic",
-          "url": "https://open.spotify.com/artist/2XBuvmyzhH85j6sqv1fV3l"
-        }
-      ],
-      "duration_ms": 197243,
-      "name": "Turn Around (Hey What's Wrong With You) - Robosonic Remix",
-      "url": "https://open.spotify.com/track/17gnbzWdHVTpyZP6FUvo0E"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Come Back",
-        "url": "https://open.spotify.com/album/1cXkPZuXwZLqHZdGBlKgWi"
-      },
-      "artists": [
-        {
-          "name": "NIMMO",
-          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Come Back",
-      "url": "https://open.spotify.com/track/1l0MYkKzmFoBzlS9iZmvAu"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/3Gwd3lkWQToLPDwYEWxGaZ"
-      },
-      "artists": [
-        {
-          "name": "Birdee",
-          "url": "https://open.spotify.com/artist/3bSjUrJcV80nkkypJHElmv"
-        },
-        {
-          "name": "Andre Espeut",
-          "url": "https://open.spotify.com/artist/3KYR1NVEcMfJ657LhKRpJn"
-        }
-      ],
-      "duration_ms": 267187,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/6mV3L1waATvE15NeMHGtUy"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "The Best Rapper Alive",
-        "url": "https://open.spotify.com/album/0vviu7LR0I9gR9zfmQ3Kwm"
-      },
-      "artists": [
-        {
-          "name": "Dj Streaks",
-          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
-        }
-      ],
-      "duration_ms": 487619,
-      "name": "The Best Rapper Alive",
-      "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
+      "duration_ms": 273230,
+      "name": "What's Your World (feat. Gloria Ann Taylor)",
+      "url": "https://open.spotify.com/track/7ir78RK7dikfhptUV0S6kC"
     },
     {
       "added_at": "2021-12-07 11:33:24",
@@ -683,94 +627,142 @@
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "All I Do",
-        "url": "https://open.spotify.com/album/00zOAQMoEQOP8nhSKFNg6f"
+        "name": "Voodoo? (Lazywax Remix)",
+        "url": "https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9"
       },
       "artists": [
         {
-          "name": "Felix Da Housecat",
-          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         },
         {
-          "name": "Chris Trucher",
-          "url": "https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D"
+          "name": "Lazywax",
+          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
         }
       ],
-      "duration_ms": 171428,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/1q5XUAzuOJ6GXCFhePKu70"
+      "duration_ms": 386443,
+      "name": "Voodoo? - Lazywax Remix",
+      "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "In Her Eyes (Korn\u00e9l Kovacs Remix)",
-        "url": "https://open.spotify.com/album/5s3iaEQDslds5DczxeEyP3"
+        "name": "Bourgie Bourgie",
+        "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
       },
       "artists": [
         {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 392812,
+      "name": "Bourgie Bourgie",
+      "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Sneak Away With Me",
+        "url": "https://open.spotify.com/album/7GcPAdmhtF0duAlDydss28"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "duration_ms": 306000,
+      "name": "Sneak Away With Me",
+      "url": "https://open.spotify.com/track/0DnMu0Q9X3yCPMUD5PP3P9"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "You Are the Sun",
+        "url": "https://open.spotify.com/album/6SjcvByXu9QPvEJv01SI7Q"
+      },
+      "artists": [
+        {
+          "name": "TEE MANGO",
+          "url": "https://open.spotify.com/artist/67tocPg0kong7iBiBWQiFH"
+        }
+      ],
+      "duration_ms": 408889,
+      "name": "You Are the Sun - Sun Up Mix",
+      "url": "https://open.spotify.com/track/7LE9T4XBDParc9tDvNf29H"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Between Us",
+        "url": "https://open.spotify.com/album/3OMe9aeRljHkn2ZwYIGnP4"
+      },
+      "artists": [
+        {
+          "name": "VIGI",
+          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+        }
+      ],
+      "duration_ms": 343414,
+      "name": "Between Us",
+      "url": "https://open.spotify.com/track/71DdXlS1vWQhxsbKfbW3z0"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Why You (Funkin Matt Remix)",
+        "url": "https://open.spotify.com/album/56De2hpAP05AiZnkDFf24H"
+      },
+      "artists": [
+        {
+          "name": "KAPPEKOFF",
+          "url": "https://open.spotify.com/artist/5ka9pTngQTNPr4oWtFvgLJ"
         },
         {
-          "name": "Korn\u00e9l Kov\u00e1cs",
-          "url": "https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "In Her Eyes - Korn\u00e9l Kovacs Remix",
-      "url": "https://open.spotify.com/track/0ZO43yG1f0yKh2raZ3uEaO"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "You Ain't Love (feat. Teni Tinks)",
-        "url": "https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+          "name": "Jimmy Smash",
+          "url": "https://open.spotify.com/artist/3ziswS6VSBGwPzIlvEV2zQ"
         },
         {
-          "name": "Teni Tinks",
-          "url": "https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs"
+          "name": "Funkin Matt",
+          "url": "https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1"
         }
       ],
-      "duration_ms": 271475,
-      "name": "You Ain't Love (feat. Teni Tinks)",
-      "url": "https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN"
+      "duration_ms": 202000,
+      "name": "Why You - Funkin Matt Remix",
+      "url": "https://open.spotify.com/track/0fiLUTuGIXt733mRVK1evp"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Presentation - EP",
-        "url": "https://open.spotify.com/album/70E2zAMBIAk09Q9YlE9Zmi"
+        "name": "Voodoo Babe",
+        "url": "https://open.spotify.com/album/65JLPXyCU5zlSNBXZNseSs"
       },
       "artists": [
         {
-          "name": "Bruise",
-          "url": "https://open.spotify.com/artist/1cn4kgfW0aPv3te9YeT54s"
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
         }
       ],
-      "duration_ms": 313283,
-      "name": "Grand Hi",
-      "url": "https://open.spotify.com/track/5oMYXuBnP7sPVZ0aRtCMn0"
+      "duration_ms": 249002,
+      "name": "Voodoo Babe",
+      "url": "https://open.spotify.com/track/6j7iBoA8Wt3ndo2qxSc552"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/5eUitT6YJ0tKPE7VflH3HY"
+        "name": "Body",
+        "url": "https://open.spotify.com/album/6DDIXVjy8q4auRGcDRtFjv"
       },
       "artists": [
         {
-          "name": "CHEBO",
-          "url": "https://open.spotify.com/artist/3pVkPq0yX263AX3usK5HXz"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         }
       ],
-      "duration_ms": 192260,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4BerEwKV2FDiw50F7014Ik"
+      "duration_ms": 163308,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/5nbq4CyzheTl7BLPR3caJY"
     },
     {
       "added_at": "2021-12-07 11:33:24",
@@ -799,194 +791,202 @@
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "It Is What It Is (feat. Elise LeGrow)",
-        "url": "https://open.spotify.com/album/1d08A5A1LezktJMhoWCqDq"
+        "name": "What Ya Here For?",
+        "url": "https://open.spotify.com/album/6z9WzYceZqPgG45iTxiYFf"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Dj Streaks",
+          "url": "https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA"
+        }
+      ],
+      "duration_ms": 260256,
+      "name": "What Ya Here For?",
+      "url": "https://open.spotify.com/track/27rjwJcRIohIoNI4GNewxo"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/22GaT6kKhz98n3GRieuXte"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 147970,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/4KwWLMzhw4tA3hFCiMfhlB"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Primavera - Remix Drop I",
+        "url": "https://open.spotify.com/album/01wBF4jDnSqAmngbj8Mt3D"
+      },
+      "artists": [
+        {
+          "name": "PPJ",
+          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
         },
         {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "It Is What It Is (feat. Elise LeGrow)",
-      "url": "https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/5f3mOpY7rFaKCa7S6i5qWo"
-      },
-      "artists": [
-        {
-          "name": "LUXXURY",
-          "url": "https://open.spotify.com/artist/562q9ntuNSaVyt1bvPa77z"
-        }
-      ],
-      "duration_ms": 243870,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/0OM8IYqmWKoVPsWa1l2y9f"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/1wUQMc1v5gj9n5cqYlLup6"
-      },
-      "artists": [
-        {
-          "name": "Sandy's Groove",
-          "url": "https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "On My Mind - Radio Mix",
-      "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Lover 4 Now (feat. Todd Edwards) [Edit]",
-        "url": "https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa"
-      },
-      "artists": [
-        {
-          "name": "Groove Armada",
-          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+          "name": "Povoa",
+          "url": "https://open.spotify.com/artist/6K3ZMm8QvrVvEds0ZjKrwC"
         },
         {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
-        }
-      ],
-      "duration_ms": 202051,
-      "name": "Lover 4 Now (feat. Todd Edwards) - Edit",
-      "url": "https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Seventies",
-        "url": "https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ"
-      },
-      "artists": [
-        {
-          "name": "Theo Kottis",
-          "url": "https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO"
-        }
-      ],
-      "duration_ms": 196035,
-      "name": "Seventies",
-      "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "I Discover",
-        "url": "https://open.spotify.com/album/5IxqMn18v2DltVwchiRPpO"
-      },
-      "artists": [
-        {
-          "name": "Felix Da Housecat",
-          "url": "https://open.spotify.com/artist/4rC8J4M4aOqsQSCP4yoyJI"
+          "name": "Jerge",
+          "url": "https://open.spotify.com/artist/4irc3y7F0tnbvqhcxbolLT"
         },
         {
-          "name": "Chris Trucher",
-          "url": "https://open.spotify.com/artist/5qtuQoZI8KbbCx3hD0MQ5D"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "I Discover",
-      "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/0oh2LnOLNRPV7afhSSfJ6A"
-      },
-      "artists": [
-        {
-          "name": "Mangabey",
-          "url": "https://open.spotify.com/artist/0IySrk0S2gbAoxaYyPHEZD"
-        }
-      ],
-      "duration_ms": 357586,
-      "name": "No Misery",
-      "url": "https://open.spotify.com/track/0i4ab8bJX3a0v30coiUPfR"
-    },
-    {
-      "added_at": "2021-12-07 11:33:24",
-      "album": {
-        "name": "My Own Way",
-        "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
-      },
-      "artists": [
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+          "name": "P\u00e1ula",
+          "url": "https://open.spotify.com/artist/6WyiMho6QZd0LEcNqqTZNY"
         },
         {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+          "name": "Anna Prior",
+          "url": "https://open.spotify.com/artist/5MEm3oZhv8zkqd8iepxnCP"
         }
       ],
-      "duration_ms": 141000,
-      "name": "My Own Way",
-      "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
+      "duration_ms": 352000,
+      "name": "Primavera - Anna Prior Remix",
+      "url": "https://open.spotify.com/track/2TXEnQWG57LZ36ygqBigId"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/6LRy6sA127XQ8Y25aG1mUF"
+        "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
+        "url": "https://open.spotify.com/album/67B57RL961NRFHyce5dYEK"
       },
       "artists": [
         {
-          "name": "Tom Everett",
-          "url": "https://open.spotify.com/artist/3cqEzT9Vye9tH2wlY2pAZK"
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Josh Barry",
+          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
         }
       ],
-      "duration_ms": 177971,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/37EKnLlRqJcb8XMgYaAbCL"
+      "duration_ms": 149760,
+      "name": "Better Day (feat. Nile Rodgers & Josh Barry)",
+      "url": "https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Zissou Edits Best Vol. 1",
-        "url": "https://open.spotify.com/album/3LCza5PZcH60VdGQHnxvLn"
+        "name": "World",
+        "url": "https://open.spotify.com/album/0oDXrBB4UcZZSWsPMbnZdc"
       },
       "artists": [
         {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+          "name": "Soul Clap",
+          "url": "https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD"
+        },
+        {
+          "name": "Desmond 'DSP' Powell",
+          "url": "https://open.spotify.com/artist/4zFLlx7irg5GE7c9cluHFh"
         }
       ],
-      "duration_ms": 272903,
-      "name": "me with your <3 - Edit",
-      "url": "https://open.spotify.com/track/1FmpFPiqyvFgOZawC6Xrkl"
+      "duration_ms": 318900,
+      "name": "Back 2 Love (feat. Desmond 'DSP' Powell)",
+      "url": "https://open.spotify.com/track/6fjsLcQMJ0OfTMfy3wEYAs"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "R\u00f3is\u00edn Machine",
-        "url": "https://open.spotify.com/album/5WpDQt6EbpzXbqo9g9P0L6"
+        "name": "Make Love EP",
+        "url": "https://open.spotify.com/album/2JKIyG6307dWKNSYwpjQtU"
       },
       "artists": [
         {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+          "name": "Cozmic Cat",
+          "url": "https://open.spotify.com/artist/5VzgwnVckvQk1ET9tyGeN2"
         }
       ],
-      "duration_ms": 225494,
-      "name": "Incapable",
-      "url": "https://open.spotify.com/track/02CkWazM7YqypIxYKy3iSy"
+      "duration_ms": 261543,
+      "name": "The Fixer",
+      "url": "https://open.spotify.com/track/5Q3ez9AGCQZ99sZgoepUDB"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Empty Heart",
+        "url": "https://open.spotify.com/album/2gUh3PFl8GzwzreFmxoFqQ"
+      },
+      "artists": [
+        {
+          "name": "Sean Roman",
+          "url": "https://open.spotify.com/artist/3v4eFdI9pxt9UdfwqDRe4c"
+        },
+        {
+          "name": "Jim Junior",
+          "url": "https://open.spotify.com/artist/31Xf3cuuJ63CRNoxbW3rdu"
+        }
+      ],
+      "duration_ms": 352080,
+      "name": "Empty Heart",
+      "url": "https://open.spotify.com/track/7eDWOkSstRIObrzFGkcUE3"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "All For The Disco",
+        "url": "https://open.spotify.com/album/6ts93erLIrk0aRwE8h0ex0"
+      },
+      "artists": [
+        {
+          "name": "Louise DaCosta",
+          "url": "https://open.spotify.com/artist/3AyRl6kw1IiwpXPMyhdcR5"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "All For The Disco",
+      "url": "https://open.spotify.com/track/5cxHKq2KRxwq8v6xQUQJq3"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Everybody Dance (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Franklin",
+          "url": "https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 168289,
+      "name": "Everybody Dance (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/6D9zd2jPnkw0uTvElfIkdV"
+      },
+      "artists": [
+        {
+          "name": "Lxury",
+          "url": "https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf"
+        }
+      ],
+      "duration_ms": 300937,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/1RG6qg9ZX5Q4ZYWjJVtmaP"
     },
     {
       "added_at": "2021-12-07 11:33:24",
@@ -1011,98 +1011,118 @@
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Sneak Away With Me",
-        "url": "https://open.spotify.com/album/7GcPAdmhtF0duAlDydss28"
+        "name": "You & I (Demi Riqu\u00edsimo Remix)",
+        "url": "https://open.spotify.com/album/5uEQ9q7xXptNTeNICPIBbC"
       },
       "artists": [
         {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+          "name": "Elder Island",
+          "url": "https://open.spotify.com/artist/3EnbnmqrrvApHJs6FMvYik"
+        },
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
         }
       ],
-      "duration_ms": 306000,
-      "name": "Sneak Away With Me",
-      "url": "https://open.spotify.com/track/0DnMu0Q9X3yCPMUD5PP3P9"
+      "duration_ms": 459500,
+      "name": "You & I - Demi Riqu\u00edsimo Remix",
+      "url": "https://open.spotify.com/track/0vDpIjAQhbI0ZlmNH3NQVz"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Love And Dancing",
-        "url": "https://open.spotify.com/album/7yCIoLAcNR8xcR8CeNyWcd"
+        "name": "My Own Way",
+        "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
       },
       "artists": [
         {
-          "name": "Horse Meat Disco",
-          "url": "https://open.spotify.com/artist/5MnToV7aAt2Zy9ag3DAsna"
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
         },
         {
-          "name": "The Phenomenal Handclap Band",
-          "url": "https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO"
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
         }
       ],
-      "duration_ms": 335383,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/5xXGRExlDrPuYzhAj0BHxm"
+      "duration_ms": 141000,
+      "name": "My Own Way",
+      "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Bourgie Bourgie",
-        "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
+        "name": "Blue Steel EP",
+        "url": "https://open.spotify.com/album/2tc7QikvIpZDcBNfG8cYRf"
       },
       "artists": [
         {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+          "name": "Fouk",
+          "url": "https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe"
         }
       ],
-      "duration_ms": 392812,
-      "name": "Bourgie Bourgie",
-      "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
+      "duration_ms": 407688,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2owh0G4llO1sz8NsrUT4Nn"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "It\u2019s Alright",
-        "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
+        "name": "25 Minutes of Relaxing ASMR",
+        "url": "https://open.spotify.com/album/6jbwFqmwVH89xXyNKaRcgG"
       },
       "artists": [
         {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "George Smeddles",
-          "url": "https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2"
-        },
-        {
-          "name": "Paris Brightledge",
-          "url": "https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul"
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
         }
       ],
-      "duration_ms": 210181,
-      "name": "It\u2019s Alright",
-      "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
+      "duration_ms": 275131,
+      "name": "Chilli Heatwave",
+      "url": "https://open.spotify.com/track/0I5CXOrOHwCg13oTgG3TAr"
     },
     {
       "added_at": "2021-12-07 11:33:24",
       "album": {
-        "name": "Streets (Disclosure Remix)",
-        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
+        "name": "Lover 4 Now (feat. Todd Edwards) [Edit]",
+        "url": "https://open.spotify.com/album/0n6nUGLEa2MGv53Kqkm5sa"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
         },
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
         }
       ],
-      "duration_ms": 254280,
-      "name": "Streets - Disclosure Remix",
-      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
+      "duration_ms": 202051,
+      "name": "Lover 4 Now (feat. Todd Edwards) - Edit",
+      "url": "https://open.spotify.com/track/6ud7H9UWSMUf9MwUs70LW7"
+    },
+    {
+      "added_at": "2021-12-07 11:33:24",
+      "album": {
+        "name": "Don't Want It (Demi Riqu\u00edsimo Remix)",
+        "url": "https://open.spotify.com/album/62NpqGj03srpLZCoh68FIn"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        },
+        {
+          "name": "Tara Mcdonald",
+          "url": "https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct"
+        },
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        }
+      ],
+      "duration_ms": 273157,
+      "name": "Don't Want It - Demi Riqu\u00edsimo Remix",
+      "url": "https://open.spotify.com/track/7mg43R4xqV7ciIJyTknWld"
     }
   ],
   "unique_name": "Groove Theory",

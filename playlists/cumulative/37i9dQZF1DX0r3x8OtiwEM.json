@@ -139,7 +139,7 @@
       ],
       "date_added": "2020-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 520912,
       "name": "Agitation",
       "url": "https://open.spotify.com/track/6EZx0YpJHf6nwQT6bKXq1o"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 452867,
       "name": "Astronautin",
       "url": "https://open.spotify.com/track/4clBWumKdQ85EDbgYxv3Ow"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 413858,
       "name": "Avalanche - Joachim Pastor Remix",
       "url": "https://open.spotify.com/track/1SFWabVeCbM9cD7Gb2qBNo"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 422880,
       "name": "Awake",
       "url": "https://open.spotify.com/track/1CORvfu9nzmwexzWLsCK5S"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 346000,
       "name": "Balloons - Made in Paris Remix",
       "url": "https://open.spotify.com/track/6sHBpR20gmPQmsAiqhbhJe"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 324000,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/3gkChSNvZJeTegxz57szLt"
@@ -971,7 +971,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-20",
+      "date_removed": null,
       "duration_ms": 152542,
       "name": "Boys & Girls",
       "url": "https://open.spotify.com/track/4JWXOAxHSA6BQFHWvMwMcM"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 198676,
       "name": "Bring You Back - Edit",
       "url": "https://open.spotify.com/track/2Q3jcJsNmsbgwPjLAZccZz"
@@ -1715,7 +1715,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 171250,
       "name": "Dark Woods",
       "url": "https://open.spotify.com/track/23pxKVLwTeaBuzzwkLDF59"
@@ -1939,7 +1939,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 273442,
       "name": "Devon",
       "url": "https://open.spotify.com/track/3vSSYun94Bt4Al9j3X7Ftm"
@@ -2437,7 +2437,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 414326,
       "name": "Exhilaration",
       "url": "https://open.spotify.com/track/5JGCS3oySt8hnSQeMOqDGc"
@@ -3189,7 +3189,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 193623,
       "name": "Grouplove",
       "url": "https://open.spotify.com/track/3DMScvrPcnikiAR0CY4FFt"
@@ -3365,7 +3365,7 @@
       ],
       "date_added": "2019-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 374274,
       "name": "Heart Breaker",
       "url": "https://open.spotify.com/track/4WVuuNGFq9CusXUdaviYPd"
@@ -3459,7 +3459,7 @@
       ],
       "date_added": "2020-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 431162,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
@@ -3797,7 +3797,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 346785,
       "name": "Hypnotease",
       "url": "https://open.spotify.com/track/4v4yMDQ3eO8uVSYRysgcyQ"
@@ -4549,6 +4549,24 @@
       "duration_ms": 225000,
       "name": "Loss",
       "url": "https://open.spotify.com/track/1q1QCOUXm6Ipfowwst3mcf"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/5v0f0wnZ4qYN8pjhTAZwsy"
+      },
+      "artists": [
+        {
+          "name": "ALMA (GER)",
+          "url": "https://open.spotify.com/artist/6kYaUDGprOe3iZZ5bgxTgO"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413044,
+      "name": "Lost In The Stars - Original Mix",
+      "url": "https://open.spotify.com/track/3ODEf1vww4qljvqidfcqIU"
     },
     {
       "album": {
@@ -5653,7 +5671,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 294915,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/5EGQqzIfm4SelZGv24FjJn"
@@ -6247,7 +6265,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 257439,
       "name": "Protection",
       "url": "https://open.spotify.com/track/6gR1tZQ9cs1I6Ln7soMYLL"
@@ -6515,7 +6533,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 321995,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/1uyOpyskQrpOUR5FW0kt3E"
@@ -7265,7 +7283,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 279127,
       "name": "Something Was Missing - Made in Paris Remix",
       "url": "https://open.spotify.com/track/0B4XSKCFYzkfLXdX5cHE41"
@@ -7363,7 +7381,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Spicy (feat. Ginger) - Edit",
       "url": "https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH"
@@ -7533,7 +7551,7 @@
       ],
       "date_added": "2020-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 208138,
       "name": "Synthetic Blues",
       "url": "https://open.spotify.com/track/2ykjMnet1sBwPpmbTEqdYm"
@@ -7609,7 +7627,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 238537,
       "name": "Tarcu",
       "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
@@ -8289,7 +8307,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 298120,
       "name": "Toni",
       "url": "https://open.spotify.com/track/1pCKUgc3yk3F9Mt0MTX51o"
@@ -8583,7 +8601,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 255000,
       "name": "Undone",
       "url": "https://open.spotify.com/track/55lFHmln3ZnRINS6VcCfIo"
@@ -9089,7 +9107,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 223451,
       "name": "What Is Real",
       "url": "https://open.spotify.com/track/6FejG35GjXYmlHwJOdaChF"
@@ -9129,7 +9147,7 @@
       ],
       "date_added": "2020-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 232000,
       "name": "When Comes the Night",
       "url": "https://open.spotify.com/track/5T5DVG9Ym69motMYiVFgaL"
@@ -9303,7 +9321,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 462295,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/6ChwoTAhVHGyxyA3tyv5XI"

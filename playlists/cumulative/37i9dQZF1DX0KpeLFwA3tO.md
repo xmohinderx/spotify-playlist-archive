@@ -2,7 +2,7 @@
 
 ### [All New Punk](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
-> The best new music from the wide world of punk\. Cover: Charlotte Sands
+> The best new music from the wide world of punk\. Cover: The Maine ft Taking Back Sunday & Charlotte Sands
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

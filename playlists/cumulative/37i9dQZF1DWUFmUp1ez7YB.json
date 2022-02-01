@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 286306,
       "name": "Amor Traicionero",
       "url": "https://open.spotify.com/track/236m1GMOYO0k7WhbZ5Jdyq"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 307026,
       "name": "Bailamos Otra Vez",
       "url": "https://open.spotify.com/track/3oyeiHWxroNe5oaLnLUxCL"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 205813,
       "name": "Brujeria",
       "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 353253,
       "name": "Coraz\u00f3n Embusteros",
       "url": "https://open.spotify.com/track/527sYZvnJbG8z5ScW2DAVU"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 281040,
       "name": "Dicen Que Soy",
       "url": "https://open.spotify.com/track/6Lr6DGoVF77bNdHsfiwfPZ"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 214213,
       "name": "Dime Por Que",
       "url": "https://open.spotify.com/track/7zKdfPOyJvmtzVIgZYheGZ"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 327360,
       "name": "El Dia De Suerte",
       "url": "https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY"
@@ -965,7 +965,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 284653,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/60HG3jOvvG7XITdy6F06el"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 443480,
       "name": "Pedro Navaja",
       "url": "https://open.spotify.com/track/09PGyODYYlVsL49N7TR914"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 300265,
       "name": "Probablemente",
       "url": "https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra"
@@ -1849,7 +1849,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 298515,
       "name": "Un verano en Nueva York",
       "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
@@ -1875,6 +1875,24 @@
       "duration_ms": 259000,
       "name": "Usted Abus\u00f3",
       "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+    },
+    {
+      "album": {
+        "name": "Vacilando Rico Con Zaperoko",
+        "url": "https://open.spotify.com/album/3jwWgq2Ajd7BuMMiEUqGm9"
+      },
+      "artists": [
+        {
+          "name": "ZAPEROKO La Resistencia Salsera del Callao",
+          "url": "https://open.spotify.com/artist/2Wict4UYAJ0d0Lj6yasKif"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 849425,
+      "name": "Vacilando Rico Con Zaperoko",
+      "url": "https://open.spotify.com/track/3ZbDXbJIUCVCJz8APyIUYE"
     },
     {
       "album": {

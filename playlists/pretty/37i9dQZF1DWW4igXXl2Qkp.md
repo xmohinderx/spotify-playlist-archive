@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Saucy Santana, Artwork: Alfie Kungu
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,013 likes - 53 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,118 likes - 53 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

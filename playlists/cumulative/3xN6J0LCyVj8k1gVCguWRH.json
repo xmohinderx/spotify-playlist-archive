@@ -21664,6 +21664,24 @@
     },
     {
       "album": {
+        "name": "WAGMI",
+        "url": "https://open.spotify.com/album/2eq1IdDsUQy6QU7RpbnsMx"
+      },
+      "artists": [
+        {
+          "name": "jaye",
+          "url": "https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142537,
+      "name": "WAGMI",
+      "url": "https://open.spotify.com/track/4ZC9FJH7b9MsmQR9DowTjM"
+    },
+    {
+      "album": {
         "name": "Vide Noir",
         "url": "https://open.spotify.com/album/2oiJM8vFGpxrtGtFfJWhJv"
       },

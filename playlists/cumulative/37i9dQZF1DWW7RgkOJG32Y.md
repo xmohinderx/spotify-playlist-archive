@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
 
-> Top trending new and recent tracks from the last few weeks\.  Cover: Travis Denning
+> Top trending new and recent tracks from the last few months\.  Cover: Travis Denning
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

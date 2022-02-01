@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 174988,
+  "num_followers": 175033,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk2ODUyNzgwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk2OTQxNjY2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Half A Man",
+      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "STOR MAND",
         "url": "https://open.spotify.com/album/0ZjlCteIeQUApCh9TqoRPA"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/56Ua2ypj5HWnotoIF3lEHc"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "Half A Man",
-      "url": "https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/6e7KGsngU13kguy5hTvSxe"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Har Det Fucking Godt",
         "url": "https://open.spotify.com/album/2BmK8RyqMfaQiz0gRPfNAr"
@@ -77,39 +77,7 @@
       "url": "https://open.spotify.com/track/3NxlOtyM9V95ZhqRZGZdw7"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 155552,
-      "name": "Peligrosa",
-      "url": "https://open.spotify.com/track/0SYgFUs4mbY9iNUxmUZ9iX"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 266040,
-      "name": "Under Din Sne",
-      "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "From Paris to Berlin (feat. Branco & Jimilian)",
         "url": "https://open.spotify.com/album/76sA4WxmGHNNLUjQX2pbIQ"
@@ -133,7 +101,39 @@
       "url": "https://open.spotify.com/track/6bldUK7gjgeHbpxxoXd1xv"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 155552,
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/0SYgFUs4mbY9iNUxmUZ9iX"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 266040,
+      "name": "Under Din Sne",
+      "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/3pbqH8vafUbh1oqo8HYwK5"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/3a6GwXyS27Phmpr9XMv1h7"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Mere End Musik",
         "url": "https://open.spotify.com/album/1nwiXLlvr8dLlh5XVOrwD9"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/2GajeoOS17ifAmYX8xxPZw"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -245,7 +245,27 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -269,27 +289,7 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Light Switch",
         "url": "https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ"
@@ -353,23 +353,7 @@
       "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -389,23 +373,7 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "Taknemlig",
-        "url": "https://open.spotify.com/album/7oLxuTvw9wKRvrSHn4wXd1"
-      },
-      "artists": [
-        {
-          "name": "Ude Af Kontrol",
-          "url": "https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Taknemlig",
-      "url": "https://open.spotify.com/track/53uDo6T6ChHeI19uYLjA3K"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
@@ -421,23 +389,39 @@
       "url": "https://open.spotify.com/track/17y8YQMtDmaSKDvzBlHPD3"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "Taknemlig",
+        "url": "https://open.spotify.com/album/7oLxuTvw9wKRvrSHn4wXd1"
+      },
+      "artists": [
+        {
+          "name": "Ude Af Kontrol",
+          "url": "https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev"
+        }
+      ],
+      "duration_ms": 145520,
+      "name": "Taknemlig",
+      "url": "https://open.spotify.com/track/53uDo6T6ChHeI19uYLjA3K"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -465,7 +449,7 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
@@ -481,7 +465,39 @@
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 179170,
+      "name": "Ur\u00f8rlig",
+      "url": "https://open.spotify.com/track/2PzhOZXhOPwsN30xlK8hIt"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Held & Lykke Med At Komme Hjem",
         "url": "https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ"
@@ -501,7 +517,7 @@
       "url": "https://open.spotify.com/track/6BxGGPBdNexcy53euZsrga"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -517,7 +533,7 @@
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
@@ -537,23 +553,7 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 179170,
-      "name": "Ur\u00f8rlig",
-      "url": "https://open.spotify.com/track/2PzhOZXhOPwsN30xlK8hIt"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -573,23 +573,23 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
-        "name": "i morgen er der ogs\u00e5 en dag",
-        "url": "https://open.spotify.com/album/5XofcmugnKHnyCsFBI9nDl"
+        "name": "GHOST TOWN",
+        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
       },
       "artists": [
         {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 199235,
-      "name": "i morgen er der ogs\u00e5 en dag",
-      "url": "https://open.spotify.com/track/06h2UnXLG2B0d3gRubMGNI"
+      "duration_ms": 193733,
+      "name": "GHOST TOWN",
+      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
@@ -605,7 +605,39 @@
       "url": "https://open.spotify.com/track/0sJE2HD9YGU7nkJtg84IJv"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "Savnet Pt. II",
+        "url": "https://open.spotify.com/album/2YeA59Ba8x8WXft7mctVvP"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Savnet Pt. II",
+      "url": "https://open.spotify.com/track/14zbKdFRsPos1poo9J3aDp"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
@@ -629,7 +661,23 @@
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 166459,
+      "name": "Avantgarde",
+      "url": "https://open.spotify.com/track/5nB3zVeuHoAHmwHQuQqhzD"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Coming for You (feat. A1 x J1)",
         "url": "https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH"
@@ -649,87 +697,55 @@
       "url": "https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
-        "name": "Carnival",
-        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
       },
       "artists": [
         {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
         }
       ],
-      "duration_ms": 166459,
-      "name": "Avantgarde",
-      "url": "https://open.spotify.com/track/5nB3zVeuHoAHmwHQuQqhzD"
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
-        "name": "GHOST TOWN",
-        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 193733,
-      "name": "GHOST TOWN",
-      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+        "name": "i morgen er der ogs\u00e5 en dag",
+        "url": "https://open.spotify.com/album/5XofcmugnKHnyCsFBI9nDl"
       },
       "artists": [
         {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
         }
       ],
-      "duration_ms": 173186,
-      "name": "Emil",
-      "url": "https://open.spotify.com/track/0cDHgTZcDMFyFV5gTqVxEv"
+      "duration_ms": 199235,
+      "name": "i morgen er der ogs\u00e5 en dag",
+      "url": "https://open.spotify.com/track/06h2UnXLG2B0d3gRubMGNI"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "Savnet Pt. II",
-        "url": "https://open.spotify.com/album/2YeA59Ba8x8WXft7mctVvP"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Savnet Pt. II",
-      "url": "https://open.spotify.com/track/14zbKdFRsPos1poo9J3aDp"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 188746,
-      "name": "Krop Som En Sten",
-      "url": "https://open.spotify.com/track/2yZK8pNpn1mp2942A3bmpB"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "MCQUEEN",
         "url": "https://open.spotify.com/album/3xR1hy8mGx4dnWduHVY9NI"
@@ -749,39 +765,23 @@
       "url": "https://open.spotify.com/track/29s2dhQ00vpr6eTI00Kc77"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+        "name": "A Place We Knew",
+        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+      "duration_ms": 196493,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/5qrSlOut2rNAWv3ubArkNy"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Samma gamla vanliga (feat. Branco & Kamelen) [Remix]",
         "url": "https://open.spotify.com/album/0Yo9nhxBBW3vpl6HCfscS4"
@@ -805,59 +805,7 @@
       "url": "https://open.spotify.com/track/6BrXK35IO466yYtq7iGqVh"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "Motordrome",
-        "url": "https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "New Moon",
-      "url": "https://open.spotify.com/track/2WQUdOtqdAZm3qf5esD6x6"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
-      "album": {
-        "name": "One Right Now",
-        "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "One Right Now (with The Weeknd)",
-      "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
-    },
-    {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
@@ -877,23 +825,39 @@
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
       "album": {
-        "name": "A Place We Knew",
-        "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
         }
       ],
-      "duration_ms": 196493,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/5qrSlOut2rNAWv3ubArkNy"
+      "duration_ms": 188746,
+      "name": "Krop Som En Sten",
+      "url": "https://open.spotify.com/track/2yZK8pNpn1mp2942A3bmpB"
     },
     {
-      "added_at": "2022-01-30 10:13:00",
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
+      },
+      "artists": [
+        {
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
+        }
+      ],
+      "duration_ms": 173186,
+      "name": "Emil",
+      "url": "https://open.spotify.com/track/0cDHgTZcDMFyFV5gTqVxEv"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
       "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
@@ -907,6 +871,38 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "Motordrome",
+        "url": "https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/2WQUdOtqdAZm3qf5esD6x6"
+    },
+    {
+      "added_at": "2022-01-31 10:54:26",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     }
   ],
   "unique_name": "Top 50 - Denmark",

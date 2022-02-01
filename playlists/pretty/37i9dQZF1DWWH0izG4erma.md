@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS!!  <br/>Cover: Chris Stapleton
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,172 likes - 112 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,616 likes - 112 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 208347,
       "name": "Ense\u00f1ame",
       "url": "https://open.spotify.com/track/6KJDaCeFQ5Su8YGHpArwJ2"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 184447,
       "name": "MIDDLE OF THE NIGHT",
       "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 208694,
       "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
       "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
@@ -1346,6 +1346,24 @@
     },
     {
       "album": {
+        "name": "Pideme (En Vivo)",
+        "url": "https://open.spotify.com/album/3z04SLe9QAuB1wEtoH0PRt"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212688,
+      "name": "P\u00eddeme (En Vivo)",
+      "url": "https://open.spotify.com/track/6UJ953CDfkz114NhHWYE2D"
+    },
+    {
+      "album": {
         "name": "Que Bella",
         "url": "https://open.spotify.com/album/1Icd1BcnIoZrCWwPwr6RiT"
       },
@@ -1361,6 +1379,24 @@
       "duration_ms": 244123,
       "name": "Que Bella",
       "url": "https://open.spotify.com/track/3J19LpIaBLaF5bS6mkFInB"
+    },
+    {
+      "album": {
+        "name": "Estoy Vivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/63jSs8SeOPVqC2264XaCbm"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228613,
+      "name": "Qu\u00e9 Sufras M\u00e1s",
+      "url": "https://open.spotify.com/track/5896oDAbxu2P8PF6qKZze9"
     },
     {
       "album": {
@@ -1993,7 +2029,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 180000,
       "name": "T\u00fa No Eras As\u00ed",
       "url": "https://open.spotify.com/track/6h1UftIKsK3dn9RJXhx4G9"

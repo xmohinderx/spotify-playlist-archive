@@ -380,6 +380,24 @@
     },
     {
       "album": {
+        "name": "Motordrome",
+        "url": "https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181706,
+      "name": "Brad Pitt",
+      "url": "https://open.spotify.com/track/1305H2NYoSJJpRodGdh5yZ"
+    },
+    {
+      "album": {
         "name": "Brad Pitt / Goosebumps",
         "url": "https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR"
       },
@@ -391,7 +409,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 181706,
       "name": "Brad Pitt",
       "url": "https://open.spotify.com/track/603NmSpDReeERhC8heOeVB"

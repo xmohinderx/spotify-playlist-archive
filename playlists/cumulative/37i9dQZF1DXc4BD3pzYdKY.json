@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 196132,
       "name": "10K",
       "url": "https://open.spotify.com/track/5G2g7titQVbMK8jjRPWWr6"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 206773,
       "name": "All In - Remix",
       "url": "https://open.spotify.com/track/4OZNqZvv8o7Lh9tUDoZe2y"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 206847,
       "name": "All In Rap - Remix",
       "url": "https://open.spotify.com/track/0xseOtN2B8oVqRndr65KEX"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 197241,
       "name": "As I Went Down",
       "url": "https://open.spotify.com/track/0snyCglbmJqRxzuQBubLID"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 257842,
       "name": "Attributes of Mercy",
       "url": "https://open.spotify.com/track/4sZHFjBABsitGtUnjFdzxd"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 196056,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/6QsBP5ptf3kKdnGpuSqBir"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 248934,
       "name": "Baby Boy (feat. Kaeli Roselle)",
       "url": "https://open.spotify.com/track/3nxipxyGXTIU2yHAJbBeZA"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 275710,
       "name": "BackFromTheDEAD",
       "url": "https://open.spotify.com/track/78C9EoGlquveRwSxGTMYWz"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 229982,
       "name": "Bars Hill",
       "url": "https://open.spotify.com/track/3aPzoTiciNzXuqCaqzFzLp"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 202357,
       "name": "Beyonce",
       "url": "https://open.spotify.com/track/2R7qwPxoHUCH43gvwjfQPA"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Bible Going Viral",
       "url": "https://open.spotify.com/track/2e8BtzqjrkHkZrCovqCduc"
@@ -948,6 +948,32 @@
     },
     {
       "album": {
+        "name": "Bounce Back",
+        "url": "https://open.spotify.com/album/0zsk6tXiEZW7xRVWPzeFy2"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        },
+        {
+          "name": "1k Pson",
+          "url": "https://open.spotify.com/artist/3ex5lvW6vBEAbO0czNTIC2"
+        },
+        {
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        }
+      ],
+      "date_added": "2021-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184975,
+      "name": "Bounce Back",
+      "url": "https://open.spotify.com/track/5wjKuyljKfdfR6kicEvLnW"
+    },
+    {
+      "album": {
         "name": "Brand New Man (feat. Scootie Wop)",
         "url": "https://open.spotify.com/album/4WDiLeasKyJikzR5r6wO4k"
       },
@@ -963,7 +989,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 190166,
       "name": "Brand New Man (feat. Scootie Wop)",
       "url": "https://open.spotify.com/track/4T0MPixsCIy9a9pEV6fuWZ"
@@ -1011,7 +1037,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 145531,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/4Z6HsCbyWpWHsYKrzITKjw"
@@ -1033,7 +1059,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 214569,
       "name": "By Your Power (feat. Hulvey)",
       "url": "https://open.spotify.com/track/188vYbJMU4hbfLb2bWUTUA"
@@ -1205,7 +1231,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 266550,
       "name": "Clocked In (feat. Aklesso & Derek Minor)",
       "url": "https://open.spotify.com/track/4MR9wuxQ5Euw2Ng46ZpuiE"
@@ -1301,7 +1327,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 195744,
       "name": "Come Outside",
       "url": "https://open.spotify.com/track/7fFRNYrMtUGN4pMrE1hijE"
@@ -1341,7 +1367,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 161064,
       "name": "Conflict",
       "url": "https://open.spotify.com/track/689hiN4zK0kgiNEkXBWIB7"
@@ -1565,7 +1591,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 178257,
       "name": "Die For You - the warehouse sessions",
       "url": "https://open.spotify.com/track/3MBqpiYpy3UVAZfhYy8RLI"
@@ -1601,7 +1627,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 137250,
       "name": "Dime N a Nickel",
       "url": "https://open.spotify.com/track/2kcbZjGkiTr4PQMo6k8csp"
@@ -1689,7 +1715,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 200330,
       "name": "Drown",
       "url": "https://open.spotify.com/track/5tLPWQUcUHvR8kRr8k33cl"
@@ -1747,7 +1773,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "Edicius.",
       "url": "https://open.spotify.com/track/6qPZ3JckEYNbskPjLgiyBg"
@@ -1869,7 +1895,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 211636,
       "name": "Everybody Else",
       "url": "https://open.spotify.com/track/4OFaELbI7nZV7bPqk4WLPW"
@@ -1895,7 +1921,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 184271,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc"
@@ -1931,7 +1957,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 157826,
       "name": "Fair",
       "url": "https://open.spotify.com/track/6Q1UA2q17PA2I2wZCE2rMc"
@@ -1953,7 +1979,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 161816,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/766Qs72aW1J2A6LsSLwXRB"
@@ -2081,7 +2107,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 139841,
       "name": "First Of Many (feat. George.Rose)",
       "url": "https://open.spotify.com/track/0yiFuQgmMRhl5hVIZLMBGh"
@@ -2143,7 +2169,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 193808,
       "name": "Forever Grateful",
       "url": "https://open.spotify.com/track/2hz7YnCZKVbPdrDjXTQiDn"
@@ -2271,7 +2297,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 195004,
       "name": "FRONT ROW",
       "url": "https://open.spotify.com/track/2eKAGXhvlPxUsGe4PXVR73"
@@ -2315,7 +2341,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 208706,
       "name": "Glory On Me",
       "url": "https://open.spotify.com/track/5AZppquII76qli3EUyUy8M"
@@ -2421,7 +2447,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 180625,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/6bk3bPeIavAVuYhhKq6OTY"
@@ -2475,7 +2501,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Hard Life",
       "url": "https://open.spotify.com/track/1nwX36WCJWiPChGGIxswan"
@@ -2529,7 +2555,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 275121,
       "name": "Hit the Refresh",
       "url": "https://open.spotify.com/track/0GO1BeMk5m9R3imwp2Lhls"
@@ -2715,7 +2741,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 161101,
       "name": "i'm back",
       "url": "https://open.spotify.com/track/572pXfOyvkUs1oyO66IXtt"
@@ -2755,7 +2781,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 196981,
       "name": "In Awe",
       "url": "https://open.spotify.com/track/5AlFkTiWBzl4a8ORlMAtNH"
@@ -2905,7 +2931,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 167000,
       "name": "Joy in the Morning",
       "url": "https://open.spotify.com/track/0bJbPqnrrO6RYQtqHuJr3m"
@@ -3023,7 +3049,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 161818,
       "name": "Land Mines (feat. Aaron Cole)",
       "url": "https://open.spotify.com/track/11oYWcEKYqHOngt78zz1au"
@@ -3133,7 +3159,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 194882,
       "name": "Lift You Up (feat. Gabe De La Fuego)",
       "url": "https://open.spotify.com/track/2Yt7r11369VpzheY11DFRG"
@@ -3199,7 +3225,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 181014,
       "name": "lightning fast!",
       "url": "https://open.spotify.com/track/6FjMAPspuSxB6XtBcQZgAz"
@@ -3341,7 +3367,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 209302,
       "name": "Love Your Neighbor",
       "url": "https://open.spotify.com/track/3aCCPNjccDGxtvM78Y7s3F"
@@ -3407,7 +3433,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 184008,
       "name": "Mandela",
       "url": "https://open.spotify.com/track/7y4ykpunzPBmPB7jXeEGRR"
@@ -3433,7 +3459,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 153756,
       "name": "Manifest",
       "url": "https://open.spotify.com/track/2AsgM1cgy6lhb22ndAvGd7"
@@ -3481,7 +3507,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 187403,
       "name": "MIRACLE",
       "url": "https://open.spotify.com/track/1K6HOrE3e67HwlEq7ax9cR"
@@ -3499,7 +3525,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 106329,
       "name": "MLB (Juan Pierre)",
       "url": "https://open.spotify.com/track/4QLkyXq3ta5cqy1vuNWDnw"
@@ -3689,7 +3715,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 181558,
       "name": "Never Change",
       "url": "https://open.spotify.com/track/2nGr6tipAPJNYZbnShEB1y"
@@ -3711,7 +3737,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 217846,
       "name": "Never Going Back",
       "url": "https://open.spotify.com/track/3Xda2Z3ETpCPMdbeUXNudm"
@@ -4005,7 +4031,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 142545,
       "name": "On To Somethin",
       "url": "https://open.spotify.com/track/6NUOLU5ueaH0xObaascfXf"
@@ -4049,7 +4075,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 149021,
       "name": "One Call",
       "url": "https://open.spotify.com/track/1mZCwJiRpLc0Jv0941ixvo"
@@ -4071,7 +4097,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 202493,
       "name": "ONLY U (feat. Terrian)",
       "url": "https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg"
@@ -4111,7 +4137,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 200306,
       "name": "Open Heart",
       "url": "https://open.spotify.com/track/0Otxr7e5CYlOk2FkKARnHR"
@@ -4155,7 +4181,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 210921,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/3im4L4mmgryJoEoLLAhM95"
@@ -4173,7 +4199,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 180036,
       "name": "Outta Reach",
       "url": "https://open.spotify.com/track/5oImTA2OSoJZYJ9TWhm2bs"
@@ -4247,7 +4273,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 184956,
       "name": "Paid For It (Remix)",
       "url": "https://open.spotify.com/track/5i56CtffCGlvGXn0KdtaaB"
@@ -4309,7 +4335,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 172872,
       "name": "Patek",
       "url": "https://open.spotify.com/track/6cxg5uaRx7AAZQWTcDOH28"
@@ -4331,7 +4357,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 223636,
       "name": "Personal",
       "url": "https://open.spotify.com/track/7wzjV1g96YNN44Nfi6RFnl"
@@ -4361,7 +4387,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "PETER BAND$ (feat. Hulvey)",
       "url": "https://open.spotify.com/track/0LBVVvUKz6LwnvVNvWtgB1"
@@ -4479,7 +4505,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 162666,
       "name": "prove it",
       "url": "https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG"
@@ -4599,7 +4625,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 141048,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/2Vj4TYsbJsXr0pkVuxubdL"
@@ -4705,7 +4731,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 115445,
       "name": "Refocus",
       "url": "https://open.spotify.com/track/1k9XiG2GUPtWA9in6Tx1Mh"
@@ -4947,7 +4973,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 227000,
       "name": "Shots Fired",
       "url": "https://open.spotify.com/track/4LuZ1udBrza9sB2k1ngSKO"
@@ -4969,7 +4995,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 213791,
       "name": "Silence",
       "url": "https://open.spotify.com/track/3ah4rwiAyuL3VK29FFGYeb"
@@ -4987,7 +5013,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 157780,
       "name": "Single & I Love It",
       "url": "https://open.spotify.com/track/68MMQ3Gbf1n8uQqqNaNbuZ"
@@ -5273,7 +5299,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/7LAlNgKirDEsFESE0v3FAK"
@@ -5295,7 +5321,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 198367,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4piia9ZJGFIzCPVh9ZfG4f"
@@ -5415,7 +5441,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 219506,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/2khB2142tcviOUkramDWmK"
@@ -5433,7 +5459,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 174950,
       "name": "That's a Lie",
       "url": "https://open.spotify.com/track/6hacfZwhd7fdRwqae5MaLu"
@@ -5459,7 +5485,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 199736,
       "name": "That's a Lie - Remix",
       "url": "https://open.spotify.com/track/0j6XcCJz5QoX8iLroYmJ2W"
@@ -5587,7 +5613,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 233188,
       "name": "TIDAL WAVE",
       "url": "https://open.spotify.com/track/7LiqwJEzsr7wt0Fdsylc4M"
@@ -5613,7 +5639,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 189174,
       "name": "Time FR",
       "url": "https://open.spotify.com/track/50PzyyX7i53a6HEuhTPztP"
@@ -5759,7 +5785,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 229048,
       "name": "TRY AGAIN",
       "url": "https://open.spotify.com/track/5KqhLk0flQp4TM8QIMArAX"
@@ -5883,7 +5909,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 230400,
       "name": "Victory - Remix",
       "url": "https://open.spotify.com/track/4W1GYMpHYOpeK6iOkc6rfJ"
@@ -6045,7 +6071,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 223224,
       "name": "We All In (feat. Lecrae)",
       "url": "https://open.spotify.com/track/3M1iIXPHJUmiO5aTtdvZmA"
@@ -6107,7 +6133,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 118933,
       "name": "We Will Go",
       "url": "https://open.spotify.com/track/66ADl7724WUNkdXwJmln3X"
@@ -6129,7 +6155,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 194999,
       "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
       "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
@@ -6187,7 +6213,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 227004,
       "name": "Why Should I (feat. Quinten Coblentz)",
       "url": "https://open.spotify.com/track/5lQdppTJfzv9zqz0DUNm8u"
@@ -6271,7 +6297,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 167944,
       "name": "With Me Now",
       "url": "https://open.spotify.com/track/1l8yaeAZvUvz2pxVsimVRY"
@@ -6315,7 +6341,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 227379,
       "name": "Without You - Abe Parker Remix",
       "url": "https://open.spotify.com/track/4zSnb8fvewyGGV1U4R9Dx0"
@@ -6333,7 +6359,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 190480,
       "name": "Worship in the Moshpit",
       "url": "https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV"

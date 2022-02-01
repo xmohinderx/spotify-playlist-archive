@@ -1024,6 +1024,28 @@
     },
     {
       "album": {
+        "name": "Bli Hos Meg",
+        "url": "https://open.spotify.com/album/5r6poYKSPlGnknUSBxI83c"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145586,
+      "name": "Bli Hos Meg",
+      "url": "https://open.spotify.com/track/3bf30UMAYF7RhuTs9BJ3Ht"
+    },
+    {
+      "album": {
         "name": "BlimE! \u2013 Dynamitt",
         "url": "https://open.spotify.com/album/7d0pF7MVf4wBCpdmqtGBoL"
       },
@@ -1581,7 +1603,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 159522,
       "name": "Creme De La Creme",
       "url": "https://open.spotify.com/track/1beuDJXaekLPtvX1jQe0yx"
@@ -2609,6 +2631,28 @@
       "duration_ms": 173786,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/1ISMa0THMDKFBq2UMfm02e"
+    },
+    {
+      "album": {
+        "name": "Faller (Falter)",
+        "url": "https://open.spotify.com/album/0k3H512K4P7paMlkYdIWZN"
+      },
+      "artists": [
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188382,
+      "name": "Faller (Falter)",
+      "url": "https://open.spotify.com/track/4e7zJGvRa4Da4uutIgi9uI"
     },
     {
       "album": {
@@ -4213,7 +4257,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-01",
       "duration_ms": 197842,
       "name": "I just moved here",
       "url": "https://open.spotify.com/track/7eF7zN6bdzjajWQkYMx991"

@@ -1,12 +1,12 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? Cover: T1419 [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
-  "num_followers": 691476,
+  "num_followers": 691766,
   "original_name": "Hallyu Boy Bands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzU4OTYxMywwMDAwMDAwMGJlNDE2ODc4MTYyNzFkNDY2MWE4ZmU3OTJmZWNiZTAx",
+  "snapshot_id": "MTY0MzY3NjE2NCwwMDAwMDAwMGUxYjc3M2RjOTE5NGMxZTcxMzkzYzFjN2JkMzU5MTRk",
   "tracks": [
     {
       "added_at": "2022-01-27 09:26:47",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 207481,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/249gnXrbfmV8NG6jTEMSwD"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "Mixtape : OH",
+        "url": "https://open.spotify.com/album/58eyQYheJrsSlemmBeMkj7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "Mixtape : OH",
+      "url": "https://open.spotify.com/track/3lYHmpjkm95UbQz76S47xZ"
     },
     {
       "added_at": "2022-01-27 09:26:47",
@@ -139,66 +139,18 @@
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/2CJBaCutKdBiFrWmdzioPS"
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 183266,
-      "name": "Thunderous",
-      "url": "https://open.spotify.com/track/3ihf9gTcRUz7EvkFnoh5TW"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "ZERO : FEVER Part.3",
-        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 196670,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "NCT RESONANCE Pt. 1 - The 2nd Album",
-        "url": "https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4"
-      },
-      "artists": [
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Make A Wish (Birthday Song)",
-      "url": "https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 283160,
-      "name": "\uc608\ubee4\uc5b4 You Were Beautiful",
-      "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
       "added_at": "2022-01-27 09:26:47",
@@ -235,56 +187,40 @@
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "Hello Future - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+        "name": "ZERO : FEVER Part.3",
+        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 220920,
-      "name": "Hello Future",
-      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+      "duration_ms": 196670,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
     },
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "The Chaos Chapter: FREEZE",
-        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+        "name": "NCT RESONANCE Pt. 1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
         }
       ],
-      "duration_ms": 215188,
-      "name": "Anti-Romantic",
-      "url": "https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA"
+      "duration_ms": 229400,
+      "name": "Make A Wish (Birthday Song)",
+      "url": "https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia"
     },
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "WE:TH",
-        "url": "https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "Mixtape : OH",
-        "url": "https://open.spotify.com/album/58eyQYheJrsSlemmBeMkj7"
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/2CJBaCutKdBiFrWmdzioPS"
       },
       "artists": [
         {
@@ -292,25 +228,9 @@
           "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 212480,
-      "name": "Mixtape : OH",
-      "url": "https://open.spotify.com/track/3lYHmpjkm95UbQz76S47xZ"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 193260,
-      "name": "Drunk-Dazed",
-      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+      "duration_ms": 183266,
+      "name": "Thunderous",
+      "url": "https://open.spotify.com/track/3ihf9gTcRUz7EvkFnoh5TW"
     },
     {
       "added_at": "2022-01-27 09:26:47",
@@ -335,34 +255,34 @@
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "Beauty and the Beast",
-        "url": "https://open.spotify.com/album/1y4bPlGZWzzZtVCuHbQ8gS"
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
       "artists": [
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 264613,
-      "name": "Beauty and the Beast",
-      "url": "https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs"
+      "duration_ms": 193260,
+      "name": "Drunk-Dazed",
+      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
     },
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "Black Swan",
-        "url": "https://open.spotify.com/album/4RR8ROIGix5CbCGlXHA53I"
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 198260,
-      "name": "Black Swan",
-      "url": "https://open.spotify.com/track/24NuEDgyRIljwSyY0lsr7b"
+      "duration_ms": 215188,
+      "name": "Anti-Romantic",
+      "url": "https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA"
     },
     {
       "added_at": "2022-01-27 09:26:47",
@@ -383,40 +303,40 @@
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "BLUE FLAME",
-        "url": "https://open.spotify.com/album/4fjvLKlsbalQp5Z8gDpk4l"
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS"
       },
       "artists": [
         {
-          "name": "ASTRO",
-          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 194720,
-      "name": "Blue Flame",
-      "url": "https://open.spotify.com/track/6DTeLNeutILDk51f5IZN7d"
+      "duration_ms": 283160,
+      "name": "\uc608\ubee4\uc5b4 You Were Beautiful",
+      "url": "https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv"
     },
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
-        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+        "name": "Favorite - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
         }
       ],
-      "duration_ms": 199919,
-      "name": "LO$ER=LO\u2661ER",
-      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
+      "duration_ms": 215586,
+      "name": "Favorite (Vampire)",
+      "url": "https://open.spotify.com/track/3rR9kTA6mD9LbmsCE0QWEY"
     },
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "IN:VITE U",
-        "url": "https://open.spotify.com/album/5vxZM8rFJiNvjtAThYnwek"
+        "name": "WE:TH",
+        "url": "https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK"
       },
       "artists": [
         {
@@ -424,25 +344,25 @@
           "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
         }
       ],
-      "duration_ms": 167213,
-      "name": "Feelin' Like",
-      "url": "https://open.spotify.com/track/5Wll1i0Y8GGjyePcP83L3x"
+      "duration_ms": 189000,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS"
     },
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "BORDER : DAY ONE",
-        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+        "name": "Black Swan",
+        "url": "https://open.spotify.com/album/4RR8ROIGix5CbCGlXHA53I"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 183090,
-      "name": "Given-Taken",
-      "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
+      "duration_ms": 198260,
+      "name": "Black Swan",
+      "url": "https://open.spotify.com/track/24NuEDgyRIljwSyY0lsr7b"
     },
     {
       "added_at": "2022-01-27 09:26:47",
@@ -463,102 +383,6 @@
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        }
-      ],
-      "duration_ms": 212869,
-      "name": "Encore",
-      "url": "https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "EYES (from \u201cArmored Saurus\u201d)",
-        "url": "https://open.spotify.com/album/2yyyLbIoQWvZXudDHeUkOd"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 214197,
-      "name": "EYES (from \u201cArmored Saurus\u201d)",
-      "url": "https://open.spotify.com/track/2jENXjiYuPriGaFNLSmgO5"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "The 2nd Album \u2018Romanticize\u2019",
-        "url": "https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs"
-      },
-      "artists": [
-        {
-          "name": "NU'EST",
-          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "INSIDE OUT",
-      "url": "https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "MO' COMPLETE: HAVE A DREAM",
-        "url": "https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 219834,
-      "name": "CLOSE",
-      "url": "https://open.spotify.com/track/5CXbZ60u7fq4UjlLnOig5Q"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "LOVE or TAKE",
-        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "DO or NOT",
-      "url": "https://open.spotify.com/track/6AE0npeqcZIebU2EN7jMtL"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "SWITCH ON",
-        "url": "https://open.spotify.com/album/20UJy1ziViNvfJCzjGn5xr"
-      },
-      "artists": [
-        {
-          "name": "ASTRO",
-          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
-        }
-      ],
-      "duration_ms": 190798,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/35ylkTvU4CWnQVrYqsp2VQ"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
         "name": "TREASURE EPILOGUE : Action To Answer",
         "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
       },
@@ -575,8 +399,24 @@
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "The Dream Chapter: MAGIC",
-        "url": "https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv"
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 183090,
+      "name": "Given-Taken",
+      "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
       },
       "artists": [
         {
@@ -584,25 +424,57 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 211866,
-      "name": "9 and Three Quarters (Run Away)",
-      "url": "https://open.spotify.com/track/2MsNSKQNQNRklkKFxxvIav"
+      "duration_ms": 199919,
+      "name": "LO$ER=LO\u2661ER",
+      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
     },
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "IN LIFE",
-        "url": "https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft"
+        "name": "SEVENTEEN 4th Mini Album \u2018Al1\u2019",
+        "url": "https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 189286,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu"
+      "duration_ms": 203426,
+      "name": "Don't Wanna Cry",
+      "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Hello Future",
+      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw"
     },
     {
       "added_at": "2022-01-27 09:26:47",
@@ -623,40 +495,8 @@
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "4U : OUTSIDE",
-        "url": "https://open.spotify.com/album/6aS3GtElkkgThSwtC9usiA"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "Outsider",
-      "url": "https://open.spotify.com/track/3NIuhONwDFEwjcekOat7mL"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "MAP OF THE SOUL : PERSONA",
-        "url": "https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 226321,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/6KUE0HSSudAp9AOycaF6SH"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "Why Why Why",
-        "url": "https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q"
+        "name": "Return",
+        "url": "https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8"
       },
       "artists": [
         {
@@ -664,31 +504,79 @@
           "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
         }
       ],
-      "duration_ms": 206856,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd"
+      "duration_ms": 209648,
+      "name": "LOVE SCENARIO",
+      "url": "https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k"
     },
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/2sJsRFE2NrqsV7DYmrmlZz"
+        "name": "Brother Act.",
+        "url": "https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a"
       },
       "artists": [
         {
-          "name": "VICTON",
-          "url": "https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3"
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
         }
       ],
-      "duration_ms": 195733,
-      "name": "nostalgic night",
-      "url": "https://open.spotify.com/track/7MC2mQvMmir9PM3nAe2SuW"
+      "duration_ms": 236829,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF"
     },
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "SEVENTEEN 4th Mini Album \u2018Al1\u2019",
-        "url": "https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I"
+        "name": "IN LIFE",
+        "url": "https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 189286,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "9 and Three Quarters (Run Away)",
+      "url": "https://open.spotify.com/track/2MsNSKQNQNRklkKFxxvIav"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "Happy Death Day",
+        "url": "https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 220396,
+      "name": "Happy Death Day",
+      "url": "https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'",
+        "url": "https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT"
       },
       "artists": [
         {
@@ -696,9 +584,41 @@
           "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 203426,
-      "name": "Don't Wanna Cry",
-      "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
+      "duration_ms": 203731,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5TyCTVsBsHeeutZcU2uP5s"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "Don't Call Me - The 7th Album",
+        "url": "https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Don't Call Me",
+      "url": "https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "ZERO : FEVER Part.2",
+        "url": "https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 209574,
+      "name": "Fireworks (I'm The One)",
+      "url": "https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v"
     },
     {
       "added_at": "2022-01-27 09:26:47",
@@ -723,8 +643,56 @@
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "The Dream Chapter: ETERNITY",
-        "url": "https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora"
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/2sJsRFE2NrqsV7DYmrmlZz"
+      },
+      "artists": [
+        {
+          "name": "VICTON",
+          "url": "https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "nostalgic night",
+      "url": "https://open.spotify.com/track/7MC2mQvMmir9PM3nAe2SuW"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "Mixtape",
+        "url": "https://open.spotify.com/album/2vkaB3rUSU7S59iqy2pbj4"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Hellevator",
+      "url": "https://open.spotify.com/track/67LJNZyfDA1uaPCtlpyuKN"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "; [Semicolon]",
+        "url": "https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "HOME;RUN",
+      "url": "https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori",
+        "url": "https://open.spotify.com/album/2g6eRzETrUKRIBC8QnjAE1"
       },
       "artists": [
         {
@@ -732,25 +700,73 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 201445,
-      "name": "Can't You See Me?",
-      "url": "https://open.spotify.com/track/2qI0Uchpdc2RkzuhbRnnZ8"
+      "duration_ms": 205147,
+      "name": "0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori",
+      "url": "https://open.spotify.com/track/6jUqjExnh8QBGd7RtnAIJF"
     },
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "The Nocturne",
-        "url": "https://open.spotify.com/album/5j8qRyyqFwXkIH7boJ6m9N"
+        "name": "FATE NUMBER FOR",
+        "url": "https://open.spotify.com/album/5hmezEZaQ7D0ntBA9J76kb"
       },
       "artists": [
         {
-          "name": "NU'EST",
-          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+          "name": "WINNER",
+          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
         }
       ],
-      "duration_ms": 184200,
-      "name": "I'm in Trouble",
-      "url": "https://open.spotify.com/track/30iB3Vk6T4gAUfZ0OvmwxY"
+      "duration_ms": 203056,
+      "name": "REALLY REALLY",
+      "url": "https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "QUANTUM LEAP",
+        "url": "https://open.spotify.com/album/09sGMSeeP4bZQOCTpgKGX8"
+      },
+      "artists": [
+        {
+          "name": "X1",
+          "url": "https://open.spotify.com/artist/6C4irZ60X8G7UimMRQiCcg"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "FLASH",
+      "url": "https://open.spotify.com/track/1q3C6brbmRrULTyo2mseKF"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "duration_ms": 194707,
+      "name": "You Calling My Name",
+      "url": "https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ"
+    },
+    {
+      "added_at": "2022-01-27 09:26:47",
+      "album": {
+        "name": "TREASURE EP.3: One To All",
+        "url": "https://open.spotify.com/album/4Y8cigF15iNUSV1dhlQqRg"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
     },
     {
       "added_at": "2022-01-27 09:26:47",
@@ -771,18 +787,18 @@
     {
       "added_at": "2022-01-27 09:26:47",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8"
+        "name": "Verse 2",
+        "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
       },
       "artists": [
         {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+          "name": "JJ Project",
+          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
         }
       ],
-      "duration_ms": 209648,
-      "name": "LOVE SCENARIO",
-      "url": "https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k"
+      "duration_ms": 235068,
+      "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
+      "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
     },
     {
       "added_at": "2022-01-27 09:26:47",
@@ -799,22 +815,6 @@
       "duration_ms": 203893,
       "name": "Just Breath",
       "url": "https://open.spotify.com/track/68U6oSUCvqk4MiTULbYCEd"
-    },
-    {
-      "added_at": "2022-01-27 09:26:47",
-      "album": {
-        "name": "COMPLETE WITH YOU",
-        "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
-      },
-      "artists": [
-        {
-          "name": "AB6IX",
-          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
-        }
-      ],
-      "duration_ms": 212415,
-      "name": "1, 2, 3",
-      "url": "https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH"
     }
   ],
   "unique_name": "Hallyu Boy Bands",
