@@ -2,7 +2,7 @@
 
 ### [Country Latino](https://open.spotify.com/playlist/1WK5MqHO5idzyfqGcT0LRT)
 
-> Country music with a Latin flair\. Cover: Kat & Alex
+> Country music with a Latin flair\. Cover: Hayley Orrantia
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 291506,
       "name": "Babe",
       "url": "https://open.spotify.com/track/3jGTua1brraVUrUOioMqLS"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 291133,
       "name": "Cose della vita (Can't Stop Thinking of You)",
       "url": "https://open.spotify.com/track/63RAhyfI3l2612x8q53BOh"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 301493,
       "name": "Crash! Boom! Bang!",
       "url": "https://open.spotify.com/track/1eHt31KceBrXEDEV6zNXtT"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 200293,
       "name": "Crush",
       "url": "https://open.spotify.com/track/0wlU3AK6gdsJUcf6pvyaTp"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 258240,
       "name": "Falling Into You",
       "url": "https://open.spotify.com/track/1S1TItTK7HaRDnfj1vZ80Q"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 336160,
       "name": "Heaven For Everyone - Remastered 2011",
       "url": "https://open.spotify.com/track/3Klfd4rsRO53fYpxmdQmYV"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 255400,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/4xFxK0FXmNlUDRgCaIQCVn"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 262200,
       "name": "Home",
       "url": "https://open.spotify.com/track/4QwkQu5sOkGel6S2b7ZYn6"
@@ -1998,6 +1998,24 @@
     },
     {
       "album": {
+        "name": "Cooleyhighharmony - Expanded Edition",
+        "url": "https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168626,
+      "name": "It's So Hard To Say Goodbye To Yesterday",
+      "url": "https://open.spotify.com/track/264JdkdtNRAGL4M4PnDYHC"
+    },
+    {
+      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/3LYpJyN7wfDy7fTaYWwL2e"
       },
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 411146,
       "name": "Jesus to a Child",
       "url": "https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 229600,
       "name": "Love Ain't Here Anymore",
       "url": "https://open.spotify.com/track/3EAxCm4UFdPVxGggXGCL5B"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 221160,
       "name": "More Than Words - Radio Edit",
       "url": "https://open.spotify.com/track/4sagNFI6iRtqK0bYxZ1yQY"
@@ -3113,7 +3131,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 267133,
       "name": "Stay Another Day",
       "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
@@ -3131,7 +3149,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 370866,
       "name": "Still Got The Blues",
       "url": "https://open.spotify.com/track/0DnGfA1r8pAssJCuq4ojla"

@@ -1348,6 +1348,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/2KudKrwmWH9dsQILx8Kouk"
+      },
+      "artists": [
+        {
+          "name": "Mattiel",
+          "url": "https://open.spotify.com/artist/69ZtLNs4CNIFnf3Vq7wN5q"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223760,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/2h2bAydGjKeCW81EmbrOGs"
+    },
+    {
+      "album": {
         "name": "Long Way",
         "url": "https://open.spotify.com/album/138D9C9ojnHr0p8zPTELvd"
       },

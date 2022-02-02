@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Chris Ruediger, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,991 likes - 126 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,010 likes - 126 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

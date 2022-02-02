@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 249826,
       "name": "All I Need Is A Miracle",
       "url": "https://open.spotify.com/track/0iVXKGnD23wIulXZRit20N"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 383440,
       "name": "All Night Long (All Night)",
       "url": "https://open.spotify.com/track/7gaQtc0vrSpmRJpSMDiPEk"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 219413,
       "name": "And She Was - 2005 Remaster",
       "url": "https://open.spotify.com/track/5nNZTUzinBDsnj3U76NJFC"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 243693,
       "name": "As The Days Go By",
       "url": "https://open.spotify.com/track/6Db0KKhX0PyugOXLUrDqXH"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 335840,
       "name": "Back In The High Life Again",
       "url": "https://open.spotify.com/track/6zMFFCHNg2H5FdBWMfcBkZ"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 216533,
       "name": "Centerfold",
       "url": "https://open.spotify.com/track/1ynmMEK1fkyiZ6Z6F3ThEt"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 273720,
       "name": "Come On Eileen",
       "url": "https://open.spotify.com/track/5uzNa0SBGOe5pPnstWHMCt"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 251253,
       "name": "Dancing In The Storm",
       "url": "https://open.spotify.com/track/6XzWrZIxG83Cs6bM5BSMfr"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 226826,
       "name": "Footloose - From \"Footloose\" Soundtrack",
       "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 333506,
       "name": "Get Outta My Dreams, Get into My Car",
       "url": "https://open.spotify.com/track/3v8vsQfMQio7ohYqFrEsaZ"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 219133,
       "name": "Hot In The City",
       "url": "https://open.spotify.com/track/71mHuudrRg9RBLxdx1ccOV"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 183440,
       "name": "I'm Still Standing",
       "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 203920,
       "name": "Leaps And Bounds",
       "url": "https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp"
@@ -970,6 +970,24 @@
     },
     {
       "album": {
+        "name": "Kick (Remastered)",
+        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220160,
+      "name": "New Sensation",
+      "url": "https://open.spotify.com/track/2xcrseImDFEf8Urommws03"
+    },
+    {
+      "album": {
         "name": "Greatest Hits (Ten Years And Change 1979-1991)",
         "url": "https://open.spotify.com/album/5uCpkhmDHPnFTHh80VL1Rv"
       },
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 222866,
       "name": "One Summer",
       "url": "https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 274520,
       "name": "Rooms on Fire",
       "url": "https://open.spotify.com/track/0QVlQTzp10Tj4Xql9ZRJzo"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 247333,
       "name": "She Has to Be Loved",
       "url": "https://open.spotify.com/track/7J170T0QGtd18ii8vHXk2e"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 313533,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/029NqmIySn1kOY305AAhxT"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 329800,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 234333,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 246666,
       "name": "Valerie",
       "url": "https://open.spotify.com/track/5ZOUxrcH0VVDgTshD5QJri"
@@ -1557,7 +1575,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 296080,
       "name": "We Built This City",
       "url": "https://open.spotify.com/track/7aHRctaQ7vjxVTVmY8OhAA"

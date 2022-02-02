@@ -1190,6 +1190,42 @@
     },
     {
       "album": {
+        "name": "Back Stage to Front Stage",
+        "url": "https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm"
+      },
+      "artists": [
+        {
+          "name": "Vicky",
+          "url": "https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/4cQFpei7RioqdK8BVcUN7n"
+    },
+    {
+      "album": {
+        "name": "Back Stage to Front Stage",
+        "url": "https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm"
+      },
+      "artists": [
+        {
+          "name": "Vicky",
+          "url": "https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186166,
+      "name": "Video Call",
+      "url": "https://open.spotify.com/track/3lqOcc7LKwXwbbCAIihRPc"
+    },
+    {
+      "album": {
         "name": "What Ve",
         "url": "https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi"
       },

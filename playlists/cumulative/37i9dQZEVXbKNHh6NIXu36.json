@@ -1304,6 +1304,24 @@
     },
     {
       "album": {
+        "name": "Behute",
+        "url": "https://open.spotify.com/album/26AiaZEoKcmfADRHBpclRn"
+      },
+      "artists": [
+        {
+          "name": "Senidah",
+          "url": "https://open.spotify.com/artist/1C5jQlkf0TrFu6rmHZp2X5"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220750,
+      "name": "Behute",
+      "url": "https://open.spotify.com/track/7l4SCt0ebVQnbQNEXyH7F7"
+    },
+    {
+      "album": {
         "name": "Belgisches Viertel",
         "url": "https://open.spotify.com/album/6giaXxm0g5927v4ESbtzCt"
       },
@@ -4013,7 +4031,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -11817,6 +11835,10 @@
         {
           "name": "Jnr Choi",
           "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
+        },
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
       "date_added": "2022-01-27",

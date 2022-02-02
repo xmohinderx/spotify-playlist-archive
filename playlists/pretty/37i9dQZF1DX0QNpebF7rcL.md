@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,694 likes - 126 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,720 likes - 126 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

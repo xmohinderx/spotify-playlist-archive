@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHtdQ6c5H9.md) - [plain]
 
 > Banjo and guitar lessons care of folk hero Pete Seeger.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,269 likes - 65 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,268 likes - 65 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

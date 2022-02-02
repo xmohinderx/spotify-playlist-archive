@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Inte bara nytt år utan även ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,568 likes - 104 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,563 likes - 104 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

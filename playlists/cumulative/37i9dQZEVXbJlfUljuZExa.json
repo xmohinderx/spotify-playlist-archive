@@ -2433,7 +2433,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -4296,6 +4296,24 @@
     },
     {
       "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "album": {
         "name": "Mimpi",
         "url": "https://open.spotify.com/album/5H4dZtWgENGHe43E4nnysF"
       },
@@ -5593,7 +5611,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 249810,
       "name": "Secret Love Song (feat. Jason Derulo)",
       "url": "https://open.spotify.com/track/6KHL1En9v6iNWjcs44mcmU"
@@ -7216,6 +7234,60 @@
     },
     {
       "album": {
+        "name": "\u00dc\u864e\u52a0\u628a\u52b2",
+        "url": "https://open.spotify.com/album/0HkBVX9XNfNRxfE73wIPEI"
+      },
+      "artists": [
+        {
+          "name": "\u8427\u6167\u654f",
+          "url": "https://open.spotify.com/artist/5q14poHz6Y4vBPQuoIpW4P"
+        },
+        {
+          "name": "\u989c\u6c5f\u701a",
+          "url": "https://open.spotify.com/artist/7IbirpOtEB8tSt1J92hQgm"
+        },
+        {
+          "name": "\u6797\u5fb7\u8363",
+          "url": "https://open.spotify.com/artist/0xq3ysl29SzPlROwjoJ0Fa"
+        },
+        {
+          "name": "\u989c\u8587\u6069",
+          "url": "https://open.spotify.com/artist/5BrTrsV0XTDyGDbfMYI3wO"
+        },
+        {
+          "name": "\u53f6\u671d\u660e",
+          "url": "https://open.spotify.com/artist/4s2peokY3WrwOhO3qEhDnW"
+        },
+        {
+          "name": "\u5434\u5bb6\u6da6",
+          "url": "https://open.spotify.com/artist/3IynDDZJQtqPTaIgrohZHQ"
+        },
+        {
+          "name": "\u5e84\u6587\u6770",
+          "url": "https://open.spotify.com/artist/4FSeGTolOH6STKczPVvtSI"
+        },
+        {
+          "name": "\u66fd\u8000\u7956",
+          "url": "https://open.spotify.com/artist/4w8k8lC57cuGQaZ5UvxiEY"
+        },
+        {
+          "name": "\u51ef\u5fc3",
+          "url": "https://open.spotify.com/artist/1taywszKCOByNRndihMKu3"
+        },
+        {
+          "name": "\u6797\u9707\u524d",
+          "url": "https://open.spotify.com/artist/7E3MrvPLlCGdkAaZ6E8oc3"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "\u00dc\u864e\u52a0\u628a\u52b2",
+      "url": "https://open.spotify.com/track/6ii7HI5AbCIc7mmVriaz9n"
+    },
+    {
+      "album": {
         "name": "\u5982\u679c\u53ef\u4ee5 (\u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/6CGKNcn63JbPWljHtQi1L0"
       },
@@ -7227,10 +7299,36 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 274400,
       "name": "\u5982\u679c\u53ef\u4ee5 - \u96fb\u5f71\"\u6708\u8001\"\u4e3b\u984c\u66f2",
       "url": "https://open.spotify.com/track/72OVnXDzugvrCU25lMi9au"
+    },
+    {
+      "album": {
+        "name": "\u864e\u5e74\u65b0\u5e74\u5230",
+        "url": "https://open.spotify.com/album/5Y1y15xGD1N0CTL6Pma3Rf"
+      },
+      "artists": [
+        {
+          "name": "Jestinna Kuan",
+          "url": "https://open.spotify.com/artist/35UUUH8eyqBKGB8iS2eXz2"
+        },
+        {
+          "name": "Mskuan",
+          "url": "https://open.spotify.com/artist/2WEeVvBz7MuOGoMrpm55FK"
+        },
+        {
+          "name": "Perry K",
+          "url": "https://open.spotify.com/artist/6cTvfjoGBDGWta3T6GRoNo"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180795,
+      "name": "\u864e\u5e74\u65b0\u5e74\u5230",
+      "url": "https://open.spotify.com/track/6KXaoLSsKPDjlJYenqinqk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJlfUljuZExa"

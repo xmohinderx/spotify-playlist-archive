@@ -2,7 +2,7 @@
 
 ### [Young Nashville](https://open.spotify.com/playlist/3ZmZ8VTqhMzD1YGM4aAkJ4)
 
-> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Leah Marie Mason
+> Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Josh Kerr
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

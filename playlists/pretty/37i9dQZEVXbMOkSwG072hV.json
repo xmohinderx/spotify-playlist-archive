@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Brazil.",
-  "num_followers": 343842,
+  "num_followers": 343835,
   "original_name": "Viral 50 - Brazil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk2OTQ2NTk3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk3MDM3ODA5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Se Liga no Beat",
+        "url": "https://open.spotify.com/album/2CgQC1DGvhMhHo3Y364sUQ"
+      },
+      "artists": [
+        {
+          "name": "Furac\u00e3o Hit",
+          "url": "https://open.spotify.com/artist/2p5DEEpHgoW3OlsmBkSBXF"
+        }
+      ],
+      "duration_ms": 186798,
+      "name": "Senta Com Amor",
+      "url": "https://open.spotify.com/track/5axPfPSNybFFzhDOvCMhpP"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Public Displays Of Affection",
         "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
@@ -25,23 +41,71 @@
       "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
+        "name": "The Rumbling (TV Size)",
+        "url": "https://open.spotify.com/album/3Ri7zFBo3zWabQvOVN1DXu"
       },
       "artists": [
         {
-          "name": "GOT the beat",
-          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
         }
       ],
-      "duration_ms": 228613,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
+      "duration_ms": 90265,
+      "name": "The Rumbling (TV Size)",
+      "url": "https://open.spotify.com/track/0KCSJzsQVxkloxoT7dyrqV"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "PIRATA",
+        "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 153999,
+      "name": "Ginseng Strip 2002",
+      "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Vs Head Vs Heart",
+        "url": "https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8"
+      },
+      "artists": [
+        {
+          "name": "Emma Louise",
+          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
+        }
+      ],
+      "duration_ms": 202907,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "ESSE \u00c9 LADR\u00c3O",
         "url": "https://open.spotify.com/album/5RVAa6VkF8XRN9N6DLTtTF"
@@ -61,55 +125,7 @@
       "url": "https://open.spotify.com/track/5rz7ZQkMpQHGDXC62P2Axw"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "PIRATA",
-        "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Vs Head Vs Heart",
-        "url": "https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8"
-      },
-      "artists": [
-        {
-          "name": "Emma Louise",
-          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
-        }
-      ],
-      "duration_ms": 202907,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Melhor Plug do Mundo",
         "url": "https://open.spotify.com/album/2z7rZteJxAc31IE5Dnt0Cw"
@@ -129,39 +145,7 @@
       "url": "https://open.spotify.com/track/2i9kS134847LgKQYO2NxCx"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
-        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
-      },
-      "artists": [
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        }
-      ],
-      "duration_ms": 208694,
-      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
-      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "FIRST IMPACT",
-        "url": "https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA"
-      },
-      "artists": [
-        {
-          "name": "Kep1er",
-          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "WA DA DA",
-      "url": "https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "TE VI LEMBREI QUE TU ERA DA MINHA SALA TIKTOK",
         "url": "https://open.spotify.com/album/0CfbNDJpsZUsnMslOqOesM"
@@ -177,7 +161,55 @@
       "url": "https://open.spotify.com/track/4mkBdwv96cladzg1yRavnN"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
+      },
+      "artists": [
+        {
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+        }
+      ],
+      "duration_ms": 228613,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Mon Soleil (from \"Emily in Paris\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu"
+      },
+      "artists": [
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "duration_ms": 208694,
+      "name": "Mon Soleil - from \"Emily in Paris\" Soundtrack",
+      "url": "https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Encanto (Trilha Sonora Original em Portugu\u00eas)",
         "url": "https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe"
@@ -217,31 +249,79 @@
       "url": "https://open.spotify.com/track/4zUUkbANxHqIGNAtaQf0Qg"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
-        "name": "Rebelde la Serie (Official Soundtrack)",
-        "url": "https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS"
+        "name": "Mujeriego",
+        "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
       },
       "artists": [
         {
-          "name": "Rebelde la Serie",
-          "url": "https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj"
-        },
-        {
-          "name": "Andrea Chaparro",
-          "url": "https://open.spotify.com/artist/54rVzcHo1due7E5CS2ycy6"
-        },
-        {
-          "name": "Jeronimo Cantillo",
-          "url": "https://open.spotify.com/artist/6jMp7XIWalRTUdSvbF05Xu"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
         }
       ],
-      "duration_ms": 189772,
-      "name": "Pensando en Ti",
-      "url": "https://open.spotify.com/track/5c3Pi6KEjdicvnJzoQyLzH"
+      "duration_ms": 142500,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "FIRST IMPACT",
+        "url": "https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "WA DA DA",
+      "url": "https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Automotivo Toma Sequ\u00eancia De Rock N Roll",
+        "url": "https://open.spotify.com/album/1mHNOPXrjNLAqqkKE8Drd1"
+      },
+      "artists": [
+        {
+          "name": "DJ Marc\u00e3o 019",
+          "url": "https://open.spotify.com/artist/6faIprX4PUHAlDbC4SQt8v"
+        },
+        {
+          "name": "Mc Jl o Unico",
+          "url": "https://open.spotify.com/artist/3vLsNyfzPpGWdfWcoKKvDV"
+        },
+        {
+          "name": "Mc Rd",
+          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+        }
+      ],
+      "duration_ms": 202488,
+      "name": "Automotivo Toma Sequ\u00eancia De Rock N Roll",
+      "url": "https://open.spotify.com/track/0hNUd87zdA3Tv3nA2U7ao1"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Malvad\u00e3o 3",
         "url": "https://open.spotify.com/album/1XrBVMRctpsTGw189yBIsl"
@@ -265,7 +345,27 @@
       "url": "https://open.spotify.com/track/0NBgyml7T0IvUNbXIkcSpH"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Black Lan\u00e7a (Catucando Gostosinho)",
+        "url": "https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv"
+      },
+      "artists": [
+        {
+          "name": "MC Teteu",
+          "url": "https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1"
+        },
+        {
+          "name": "Dj Serpinha",
+          "url": "https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Black Lan\u00e7a (Catucando Gostosinho)",
+      "url": "https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -305,115 +405,43 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+        "name": "TO THE MOON",
+        "url": "https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6"
       },
       "artists": [
         {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Mujeriego",
-        "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "Mujeriego",
-      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Automotivo Toma Sequ\u00eancia De Rock N Roll",
-        "url": "https://open.spotify.com/album/1mHNOPXrjNLAqqkKE8Drd1"
-      },
-      "artists": [
-        {
-          "name": "DJ Marc\u00e3o 019",
-          "url": "https://open.spotify.com/artist/6faIprX4PUHAlDbC4SQt8v"
+          "name": "Jnr Choi",
+          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
         },
         {
-          "name": "Mc Jl o Unico",
-          "url": "https://open.spotify.com/artist/3vLsNyfzPpGWdfWcoKKvDV"
-        },
-        {
-          "name": "Mc Rd",
-          "url": "https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d"
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
         }
       ],
-      "duration_ms": 202488,
-      "name": "Automotivo Toma Sequ\u00eancia De Rock N Roll",
-      "url": "https://open.spotify.com/track/0hNUd87zdA3Tv3nA2U7ao1"
+      "duration_ms": 152137,
+      "name": "TO THE MOON",
+      "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
+        "name": "Novinha Malada do Insta",
+        "url": "https://open.spotify.com/album/0PysEJ0X0U5sP1uG4fxFVj"
       },
       "artists": [
         {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+          "name": "MC Josh",
+          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
         }
       ],
-      "duration_ms": 153999,
-      "name": "Ginseng Strip 2002",
-      "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
+      "duration_ms": 107076,
+      "name": "Novinha Malada do Insta",
+      "url": "https://open.spotify.com/track/0VF2XFdgeID7448iU2Vyg9"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Se Joga Novinha",
-        "url": "https://open.spotify.com/album/5KU8MBz1vAAbWxB8GHsFfR"
-      },
-      "artists": [
-        {
-          "name": "A Lancha",
-          "url": "https://open.spotify.com/artist/2wbcjJhdaJj8Y5ImNdRwVK"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "Festa do Bota",
-      "url": "https://open.spotify.com/track/5x42g1S83XeLCfuuPHnq62"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Black Lan\u00e7a (Catucando Gostosinho)",
-        "url": "https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv"
-      },
-      "artists": [
-        {
-          "name": "MC Teteu",
-          "url": "https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1"
-        },
-        {
-          "name": "Dj Serpinha",
-          "url": "https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Black Lan\u00e7a (Catucando Gostosinho)",
-      "url": "https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo"
@@ -433,87 +461,23 @@
       "url": "https://open.spotify.com/track/61YzdCCBPM5Pc7lIiD5i8C"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
-        "name": "INVEJOSO",
-        "url": "https://open.spotify.com/album/3EiBO5SSeSlDGKxLNqBCVy"
+        "name": "Se Joga Novinha",
+        "url": "https://open.spotify.com/album/5KU8MBz1vAAbWxB8GHsFfR"
       },
       "artists": [
         {
-          "name": "Distrito 23",
-          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
-        },
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        },
-        {
-          "name": "Chefin Oficial",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Jhowzin",
-          "url": "https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "A Lancha",
+          "url": "https://open.spotify.com/artist/2wbcjJhdaJj8Y5ImNdRwVK"
         }
       ],
-      "duration_ms": 300506,
-      "name": "INVEJOSO",
-      "url": "https://open.spotify.com/track/1yecpnQJ3PL2BtOt8Eon6O"
+      "duration_ms": 218453,
+      "name": "Festa do Bota",
+      "url": "https://open.spotify.com/track/5x42g1S83XeLCfuuPHnq62"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "TO THE MOON",
-        "url": "https://open.spotify.com/album/70uNWLPkbci5L1bZI1Mzp6"
-      },
-      "artists": [
-        {
-          "name": "Jnr Choi",
-          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "TO THE MOON",
-      "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Surface Pressure (From \"Encanto\")",
-        "url": "https://open.spotify.com/album/5IQviZiPOcXLBAd9eGo2sA"
-      },
-      "artists": [
-        {
-          "name": "Jessica Darrow",
-          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Surface Pressure - From \"Encanto\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/6K5ph5mq1qprHae3TrgTj5"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Encanto (Trilha Sonora Original em Portugu\u00eas)",
-        "url": "https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe"
-      },
-      "artists": [
-        {
-          "name": "Lara Suleiman",
-          "url": "https://open.spotify.com/artist/7H7eEvuNoXAokBLPmzYEZO"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Estou Nervosa",
-      "url": "https://open.spotify.com/track/4i8MoaTD2oqeviqAgMf0oD"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "2021 Winter SMTOWN : SMCU EXPRESS",
         "url": "https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ"
@@ -545,55 +509,7 @@
       "url": "https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Novinha Malada do Insta",
-        "url": "https://open.spotify.com/album/0PysEJ0X0U5sP1uG4fxFVj"
-      },
-      "artists": [
-        {
-          "name": "MC Josh",
-          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
-        }
-      ],
-      "duration_ms": 107076,
-      "name": "Novinha Malada do Insta",
-      "url": "https://open.spotify.com/track/0VF2XFdgeID7448iU2Vyg9"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Assalto Perigoso",
-        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
-      },
-      "artists": [
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 155417,
-      "name": "Assalto Perigoso",
-      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "The Wolf of Grape Street",
-        "url": "https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml"
-      },
-      "artists": [
-        {
-          "name": "03 Greedo",
-          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
-        }
-      ],
-      "duration_ms": 219834,
-      "name": "Substance",
-      "url": "https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Nunca Pare de Lutar (Ao Vivo)",
         "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
@@ -609,7 +525,191 @@
       "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Rebelde la Serie (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS"
+      },
+      "artists": [
+        {
+          "name": "Rebelde la Serie",
+          "url": "https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj"
+        },
+        {
+          "name": "Andrea Chaparro",
+          "url": "https://open.spotify.com/artist/54rVzcHo1due7E5CS2ycy6"
+        },
+        {
+          "name": "Alejandro Puente",
+          "url": "https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg"
+        }
+      ],
+      "duration_ms": 219169,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/2KazMPytQllwzQLF5CNdf3"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Surface Pressure (From \"Encanto\")",
+        "url": "https://open.spotify.com/album/5IQviZiPOcXLBAd9eGo2sA"
+      },
+      "artists": [
+        {
+          "name": "Jessica Darrow",
+          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Surface Pressure - From \"Encanto\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/6K5ph5mq1qprHae3TrgTj5"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "The Wolf of Grape Street",
+        "url": "https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml"
+      },
+      "artists": [
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "duration_ms": 219834,
+      "name": "Substance",
+      "url": "https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "INVEJOSO",
+        "url": "https://open.spotify.com/album/3EiBO5SSeSlDGKxLNqBCVy"
+      },
+      "artists": [
+        {
+          "name": "Distrito 23",
+          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Chefin Oficial",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Jhowzin",
+          "url": "https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "INVEJOSO",
+      "url": "https://open.spotify.com/track/1yecpnQJ3PL2BtOt8Eon6O"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Rebelde la Serie (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS"
+      },
+      "artists": [
+        {
+          "name": "Rebelde la Serie",
+          "url": "https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj"
+        },
+        {
+          "name": "Andrea Chaparro",
+          "url": "https://open.spotify.com/artist/54rVzcHo1due7E5CS2ycy6"
+        },
+        {
+          "name": "Jeronimo Cantillo",
+          "url": "https://open.spotify.com/artist/6jMp7XIWalRTUdSvbF05Xu"
+        }
+      ],
+      "duration_ms": 189772,
+      "name": "Pensando en Ti",
+      "url": "https://open.spotify.com/track/5c3Pi6KEjdicvnJzoQyLzH"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Encanto (Trilha Sonora Original em Portugu\u00eas)",
+        "url": "https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe"
+      },
+      "artists": [
+        {
+          "name": "Lara Suleiman",
+          "url": "https://open.spotify.com/artist/7H7eEvuNoXAokBLPmzYEZO"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Estou Nervosa",
+      "url": "https://open.spotify.com/track/4i8MoaTD2oqeviqAgMf0oD"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer-Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Rebelde la Serie (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS"
+      },
+      "artists": [
+        {
+          "name": "Rebelde la Serie",
+          "url": "https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj"
+        },
+        {
+          "name": "Andrea Chaparro",
+          "url": "https://open.spotify.com/artist/54rVzcHo1due7E5CS2ycy6"
+        },
+        {
+          "name": "Jeronimo Cantillo",
+          "url": "https://open.spotify.com/artist/6jMp7XIWalRTUdSvbF05Xu"
+        }
+      ],
+      "duration_ms": 153493,
+      "name": "Si una Vez",
+      "url": "https://open.spotify.com/track/6vrVXV89q3LKQtUhedVLOZ"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Assalto Perigoso",
+        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "duration_ms": 155417,
+      "name": "Assalto Perigoso",
+      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Maresia",
         "url": "https://open.spotify.com/album/0LeTsEVvfdJ86Hi7uE7CxK"
@@ -637,7 +737,7 @@
       "url": "https://open.spotify.com/track/14MmpI6ZOB9QaetEIPSzqB"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
@@ -657,43 +757,7 @@
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "ONDA DO BERIMBAU",
-        "url": "https://open.spotify.com/album/5SEGtDxPUrAIbegNhKHljb"
-      },
-      "artists": [
-        {
-          "name": "dj eduardo da favela do p\u00f3",
-          "url": "https://open.spotify.com/artist/0p95FDRp7XInSoqMSzu7G0"
-        },
-        {
-          "name": "MC MENOR MT",
-          "url": "https://open.spotify.com/artist/3PmeaztIZK8SxIPsv6bQdI"
-        }
-      ],
-      "duration_ms": 158307,
-      "name": "ONDA DO BERIMBAU",
-      "url": "https://open.spotify.com/track/7ypX1KnSLOXVykk0PnlUfV"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
-      },
-      "artists": [
-        {
-          "name": "Hensonn",
-          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
-        }
-      ],
-      "duration_ms": 171384,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Me Mama Ai, Oque Que Tem?",
         "url": "https://open.spotify.com/album/4S4DCjHuHzaorD68wgjVlP"
@@ -717,23 +781,23 @@
       "url": "https://open.spotify.com/track/5HHJE7JkqkWP7QeT7DHdSs"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
-        "name": "Baby Relaxa Encaixa Na Vibe",
-        "url": "https://open.spotify.com/album/4JVA8MCLqv98rDdkyYWJJE"
+        "name": "Imagina A Sentada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0SAMg0b9QbopaOj0ClEwiq"
       },
       "artists": [
         {
-          "name": "uaaiti",
-          "url": "https://open.spotify.com/artist/1eFC8dyprsive3jDwGxeQs"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 100507,
-      "name": "Baby Relaxa Encaixa Na Vibe",
-      "url": "https://open.spotify.com/track/1GEs0MIyXWiSfadbDyTmDz"
+      "duration_ms": 172639,
+      "name": "Imagina A Sentada - Ao Vivo",
+      "url": "https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/25yqPTm5X7FXx62mPnjcsC"
@@ -761,47 +825,43 @@
       "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
-        "name": "Imagina A Sentada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0SAMg0b9QbopaOj0ClEwiq"
+        "name": "Fa\u00e7a Dinheiro, Se Mantenha Vivo",
+        "url": "https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "KOPO",
+          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
         }
       ],
-      "duration_ms": 172639,
-      "name": "Imagina A Sentada - Ao Vivo",
-      "url": "https://open.spotify.com/track/0lxGtl0S9wO2LAFchHrEtM"
+      "duration_ms": 138918,
+      "name": "Fa\u00e7a Dinheiro, Se Mantenha Vivo",
+      "url": "https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
-        "name": "Encanto (Trilha Sonora Original em Portugu\u00eas)",
-        "url": "https://open.spotify.com/album/0B9nvTbt9fXq7Y6oQEYwRe"
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa"
       },
       "artists": [
         {
-          "name": "Mari Evangelista",
-          "url": "https://open.spotify.com/artist/65YOHobub7ySeHqMM6IN8D"
-        },
-        {
-          "name": "M\u00e1rcia Fernandes",
-          "url": "https://open.spotify.com/artist/6iHnkOy0Zub4BQqRU8hX4a"
-        },
-        {
-          "name": "Elenco de Encanto",
-          "url": "https://open.spotify.com/artist/7yunuNilTB1HH7WnIXcCnY"
+          "name": "Hensonn",
+          "url": "https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H"
         }
       ],
-      "duration_ms": 257213,
-      "name": "Fam\u00edlia Madrigal",
-      "url": "https://open.spotify.com/track/2GLRMpPuTiPXUQY40PfXTg"
+      "duration_ms": 171384,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
@@ -817,7 +877,39 @@
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 365826,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
+      "album": {
+        "name": "Baby Relaxa Encaixa Na Vibe",
+        "url": "https://open.spotify.com/album/4JVA8MCLqv98rDdkyYWJJE"
+      },
+      "artists": [
+        {
+          "name": "uaaiti",
+          "url": "https://open.spotify.com/artist/1eFC8dyprsive3jDwGxeQs"
+        }
+      ],
+      "duration_ms": 100507,
+      "name": "Baby Relaxa Encaixa Na Vibe",
+      "url": "https://open.spotify.com/track/1GEs0MIyXWiSfadbDyTmDz"
+    },
+    {
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Sem D\u00f3",
         "url": "https://open.spotify.com/album/3sQwZ1Bu0Qhzn2XeJwQW9E"
@@ -837,39 +929,7 @@
       "url": "https://open.spotify.com/track/2AQJRDfQJbfgmTf5e62Czl"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 192194,
-      "name": "ESS\u00caNCIA DE CRIA",
-      "url": "https://open.spotify.com/track/1iaPDgTbsKrlznVu13EWIf"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
         "name": "Summer (EP 1) [Ao vivo]",
         "url": "https://open.spotify.com/album/1ZQq76qlDn4sTfz8dZvxUs"
@@ -893,46 +953,26 @@
       "url": "https://open.spotify.com/track/5yRgMxdDhdYlbUQNCOlW3o"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
-        "name": "Fa\u00e7a Dinheiro, Se Mantenha Vivo",
-        "url": "https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4"
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
       "artists": [
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "KOPO",
-          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 138918,
-      "name": "Fa\u00e7a Dinheiro, Se Mantenha Vivo",
-      "url": "https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz"
+      "duration_ms": 184601,
+      "name": "Polaroid Love",
+      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
-        "name": "Se a Saudade Bater",
-        "url": "https://open.spotify.com/album/51uHuAo732iQYayjGwXWj5"
-      },
-      "artists": [
-        {
-          "name": "MC Tairon",
-          "url": "https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b"
-        }
-      ],
-      "duration_ms": 137076,
-      "name": "Se a Saudade Bater",
-      "url": "https://open.spotify.com/track/5WVsfMt8jKVuSGOr4iBFDu"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Rebelde la Serie (Official Soundtrack)",
-        "url": "https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS"
+        "name": "S\u00e1lvame (feat. Giovanna Grigio, Alejandro Puente, Franco Masini, Azul Guaita & Andrea Chaparro) [Balada Portuguesa]",
+        "url": "https://open.spotify.com/album/5GcUsXi2p0iMD2j7f19r9i"
       },
       "artists": [
         {
@@ -940,121 +980,49 @@
           "url": "https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj"
         },
         {
-          "name": "Azul Guaita",
-          "url": "https://open.spotify.com/artist/10omBm6UeCKHvKGuKMYc3G"
-        },
-        {
-          "name": "Sergio Mayer Mori",
-          "url": "https://open.spotify.com/artist/4rCSZPEF0LumxOPP9H4xeH"
-        },
-        {
-          "name": "Andrea Chaparro",
-          "url": "https://open.spotify.com/artist/54rVzcHo1due7E5CS2ycy6"
-        },
-        {
-          "name": "Jeronimo Cantillo",
-          "url": "https://open.spotify.com/artist/6jMp7XIWalRTUdSvbF05Xu"
-        },
-        {
-          "name": "Franco Masini",
-          "url": "https://open.spotify.com/artist/1HJiJRWmiSoFDZxXv6Evmy"
-        },
-        {
-          "name": "Selene",
-          "url": "https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS"
+          "name": "Giovanna Grigio",
+          "url": "https://open.spotify.com/artist/3xp09DOSzWRRJlxzWzomrh"
         },
         {
           "name": "Alejandro Puente",
           "url": "https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg"
         },
         {
-          "name": "Giovanna Grigio",
-          "url": "https://open.spotify.com/artist/3xp09DOSzWRRJlxzWzomrh"
+          "name": "Franco Masini",
+          "url": "https://open.spotify.com/artist/1HJiJRWmiSoFDZxXv6Evmy"
+        },
+        {
+          "name": "Azul Guaita",
+          "url": "https://open.spotify.com/artist/10omBm6UeCKHvKGuKMYc3G"
+        },
+        {
+          "name": "Andrea Chaparro",
+          "url": "https://open.spotify.com/artist/54rVzcHo1due7E5CS2ycy6"
         }
       ],
-      "duration_ms": 187387,
-      "name": "Rebelde (feat. Azul Guaita, Sergio Mayer Mori, Andrea Chaparro, Jeronimo Cantillo, Franco Masini, Selene, Alejandro Puente & Giovanna Grigio)",
-      "url": "https://open.spotify.com/track/2LtvLpviK7cVGgC5Q5gikJ"
+      "duration_ms": 201931,
+      "name": "S\u00e1lvame (feat. Giovanna Grigio, Alejandro Puente, Franco Masini, Azul Guaita & Andrea Chaparro) - Balada Portuguesa",
+      "url": "https://open.spotify.com/track/1UsPhjod4inlBnVdwcXSey"
     },
     {
-      "added_at": "2022-01-31 12:16:37",
+      "added_at": "2022-02-01 13:36:49",
       "album": {
-        "name": "Voltei pra Cachorrada",
-        "url": "https://open.spotify.com/album/0tNsjTh1mnsApOzQe9CBEc"
+        "name": "All For Us (from the HBO Original Series Euphoria)",
+        "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
       },
       "artists": [
         {
-          "name": "DJ Jeeh FDC",
-          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         },
         {
-          "name": "MC Meno Dani",
-          "url": "https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI"
-        },
-        {
-          "name": "DJ Cyclone",
-          "url": "https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi"
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 206811,
-      "name": "Voltei pra Cachorrada",
-      "url": "https://open.spotify.com/track/3bJ4nTkTXMYpYgM7zoUqPY"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 365826,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Vai L\u00e1 Em Casa Hoje",
-        "url": "https://open.spotify.com/album/2ULXBNAz2pgBQmwc3qODUz"
-      },
-      "artists": [
-        {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 191523,
-      "name": "Vai L\u00e1 Em Casa Hoje",
-      "url": "https://open.spotify.com/track/1c4htMHiolERc0YJvZNdlc"
-    },
-    {
-      "added_at": "2022-01-31 12:16:37",
-      "album": {
-        "name": "Pra Causar, Vol. 1",
-        "url": "https://open.spotify.com/album/2PIXNGrgExpvW4CFaBq1j6"
-      },
-      "artists": [
-        {
-          "name": "Pedro Libe",
-          "url": "https://open.spotify.com/artist/17BosX8iQj91SXOx7dsi5k"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "Nem Balancei",
-      "url": "https://open.spotify.com/track/24NagNNYz5OrAdbVAiaZtU"
+      "duration_ms": 192986,
+      "name": "All For Us - from the HBO Original Series Euphoria",
+      "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
     }
   ],
   "unique_name": "Viral 50 - Brazil",

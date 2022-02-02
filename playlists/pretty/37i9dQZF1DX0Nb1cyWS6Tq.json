@@ -1,13 +1,61 @@
 {
   "description": "Release The Bats! Cover: Siouxsie and the Banshees",
-  "num_followers": 365099,
+  "num_followers": 365494,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzY3NjEyNywwMDAwMDAwMDJjZjBkM2I4M2I0NDE5YTU0ZDdhYzQwMjhiNmZmMzY0",
+  "snapshot_id": "MTY0Mzc2MjU2MywwMDAwMDAwMGVkMzBiNGZlZmRiMzAzNzg5OWUyNTM5Y2Q4ZDJiMzI0",
   "tracks": [
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "The Bela Session",
+        "url": "https://open.spotify.com/album/6hOBzGBmyvoPu7ZFAoLP2m"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 576703,
+      "name": "Bela Lugosi's Dead (Official Version)",
+      "url": "https://open.spotify.com/track/7q5n3kuNbHCWx6LZOY1Z0r"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "The Best Of Siouxsie And The Banshees (Limited Edition)",
+        "url": "https://open.spotify.com/album/6ANNQwhAvnPE1EQRX38C7U"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 197533,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/5W8K2a4nCZ8df93uJm2pjI"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Staring At The Sea - The Singles",
+        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Charlotte Sometimes",
+      "url": "https://open.spotify.com/track/44fRzs75Tq5eaBjx3FCjem"
+    },
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
@@ -23,54 +71,6 @@
       "duration_ms": 356800,
       "name": "Swamp Thing",
       "url": "https://open.spotify.com/track/2pwdD26Y1GsIhrAOETKzQS"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Seventeen Seconds (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 354290,
-      "name": "A Forest",
-      "url": "https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Bauhaus - 1979-1983 Volume Two",
-        "url": "https://open.spotify.com/album/12U3k2UeDnmqE4id0G7uOb"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "She's In Parties",
-      "url": "https://open.spotify.com/track/1JhORTF6h6N2lpb3lLWeqv"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Eighties - 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -91,6 +91,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/7z7Q623XMKn7w6K6BWzOtO"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "Love Will Tear Us Apart",
+      "url": "https://open.spotify.com/track/4KIHjEYU1XLuS355XCKLvO"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Juju",
         "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
       },
@@ -107,18 +123,178 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Substance",
-        "url": "https://open.spotify.com/album/7z7Q623XMKn7w6K6BWzOtO"
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
         }
       ],
-      "duration_ms": 206866,
-      "name": "Love Will Tear Us Apart",
-      "url": "https://open.spotify.com/track/4KIHjEYU1XLuS355XCKLvO"
+      "duration_ms": 239280,
+      "name": "Eighties - 2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/21T9lWigjSIMg9uD6ZfRnQ"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Mask",
+        "url": "https://open.spotify.com/album/378ahhobt690RQEsyD8DaK"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "The Passion of Lovers",
+      "url": "https://open.spotify.com/track/3BnW7igjh4qezy645pckgX"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Seventeen Seconds (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7hhojBmp7o620ZSq1eP9a8"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 354290,
+      "name": "A Forest",
+      "url": "https://open.spotify.com/track/0T6kwiueP62ten2KLLmQS4"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "The Singles 1983-1995",
+        "url": "https://open.spotify.com/album/3ycsLfUjtUL3pjSk96bB3S"
+      },
+      "artists": [
+        {
+          "name": "Alien Sex Fiend",
+          "url": "https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ"
+        }
+      ],
+      "duration_ms": 291600,
+      "name": "I Walk The Line",
+      "url": "https://open.spotify.com/track/4c7JcQKPQP3o5ojUcrZ42B"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "The Nephilim",
+        "url": "https://open.spotify.com/album/7dP7YFzYlM4LlR4v9yu05m"
+      },
+      "artists": [
+        {
+          "name": "Fields Of The Nephilim",
+          "url": "https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs"
+        }
+      ],
+      "duration_ms": 340626,
+      "name": "Moonchild",
+      "url": "https://open.spotify.com/track/1ZqZbTxNG6iCA7GabNsvGr"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Sorted! The Best Of",
+        "url": "https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg"
+      },
+      "artists": [
+        {
+          "name": "Love and Rockets",
+          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+        }
+      ],
+      "duration_ms": 365706,
+      "name": "Holiday on the Moon",
+      "url": "https://open.spotify.com/track/5ND2AEOcEZX4xD1w0Mgl5W"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "First and Last and Always Collection",
+        "url": "https://open.spotify.com/album/0m2z3FmoowUGY4Gwu9y7nh"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 281826,
+      "name": "Black Planet",
+      "url": "https://open.spotify.com/track/5HjIGAZzqFZBLp3gfNz0Zr"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Beatrix",
+      "url": "https://open.spotify.com/track/5IR9k9SMKS0kuEHAVtZIhG"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Dear Prudence",
+      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Only Theatre of Pain",
+        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Romeo's Distress",
+      "url": "https://open.spotify.com/track/5guasiYhIKTJC84TNsazSm"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "The Sky's Gone Out",
+        "url": "https://open.spotify.com/album/0Hh7gRebN47X3Ls1dk0ZDV"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 232306,
+      "name": "All We Ever Wanted Was Everything",
+      "url": "https://open.spotify.com/track/5ZpXCWCfCL4S6lwrzkmMPQ"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -139,8 +315,8 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+        "name": "The Head On The Door",
+        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
       },
       "artists": [
         {
@@ -148,41 +324,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 218960,
-      "name": "Play For Today",
-      "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "The Bela Session",
-        "url": "https://open.spotify.com/album/6hOBzGBmyvoPu7ZFAoLP2m"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 576703,
-      "name": "Bela Lugosi's Dead (Official Version)",
-      "url": "https://open.spotify.com/track/7q5n3kuNbHCWx6LZOY1Z0r"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Talk About The Weather",
-        "url": "https://open.spotify.com/album/3uAvHdRx5uat8LE97Uq9c8"
-      },
-      "artists": [
-        {
-          "name": "Red Lorry Yellow Lorry",
-          "url": "https://open.spotify.com/artist/6ixeWfTvnU1VOVPEVP5Bcq"
-        }
-      ],
-      "duration_ms": 246453,
-      "name": "Talk About The Weather",
-      "url": "https://open.spotify.com/track/6yVkskW4Kehc095CIMAy4z"
+      "duration_ms": 256320,
+      "name": "A Night Like This",
+      "url": "https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -203,18 +347,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Bloody Kisses (Top Shelf Edition)",
-        "url": "https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG"
+        "name": "Best Of...",
+        "url": "https://open.spotify.com/album/6uiuucKurNcbu19yszkAaO"
       },
       "artists": [
         {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+          "name": "Skeletal Family",
+          "url": "https://open.spotify.com/artist/78OgxRnIdBCdFBmKhP2Fz2"
         }
       ],
-      "duration_ms": 675653,
-      "name": "Black No. 1 (Little Miss Scare -All)",
-      "url": "https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p"
+      "duration_ms": 291573,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/6iqQCvQ33Ss0SiAgl6MRnz"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -235,18 +379,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Crushed Velvet Apocalypse",
-        "url": "https://open.spotify.com/album/5nEQkSEKzKHefdY6w9nxKm"
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
       },
       "artists": [
         {
-          "name": "The Legendary Pink Dots",
-          "url": "https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5"
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
         }
       ],
-      "duration_ms": 466506,
-      "name": "Just a Lifetime",
-      "url": "https://open.spotify.com/track/7Bqz2cjdtsdFyMYiAdZdnK"
+      "duration_ms": 428800,
+      "name": "Love You to Death",
+      "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -283,8 +427,8 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Staring At The Sea - The Singles",
-        "url": "https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB"
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
       },
       "artists": [
         {
@@ -292,297 +436,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 253800,
-      "name": "Charlotte Sometimes",
-      "url": "https://open.spotify.com/track/44fRzs75Tq5eaBjx3FCjem"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Sorted! The Best Of",
-        "url": "https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg"
-      },
-      "artists": [
-        {
-          "name": "Love and Rockets",
-          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
-        }
-      ],
-      "duration_ms": 365706,
-      "name": "Holiday on the Moon",
-      "url": "https://open.spotify.com/track/5ND2AEOcEZX4xD1w0Mgl5W"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "The Sky's Gone Out",
-        "url": "https://open.spotify.com/album/0Hh7gRebN47X3Ls1dk0ZDV"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 232306,
-      "name": "All We Ever Wanted Was Everything",
-      "url": "https://open.spotify.com/track/5ZpXCWCfCL4S6lwrzkmMPQ"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Garlands",
-        "url": "https://open.spotify.com/album/1hOKdXqKBxmUPZWBGgTtnU"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Wax and Wane",
-      "url": "https://open.spotify.com/track/4BUCgw9DXRdbObkhgIARgV"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 293693,
-      "name": "Dead Souls",
-      "url": "https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Maria Dimension",
-        "url": "https://open.spotify.com/album/4JIs8fvvujGkjy5ieyYOYG"
-      },
-      "artists": [
-        {
-          "name": "The Legendary Pink Dots",
-          "url": "https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "Bella Donna",
-      "url": "https://open.spotify.com/track/7ELpiKwEBL3tBoGFgqnZBw"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 428800,
-      "name": "Love You to Death",
-      "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "The Best Of Siouxsie And The Banshees (Limited Edition)",
-        "url": "https://open.spotify.com/album/6ANNQwhAvnPE1EQRX38C7U"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 197533,
-      "name": "Spellbound",
-      "url": "https://open.spotify.com/track/5W8K2a4nCZ8df93uJm2pjI"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Tabula Rasa",
-        "url": "https://open.spotify.com/album/0IOEITeE0fxoObsnTFI2Kr"
-      },
-      "artists": [
-        {
-          "name": "Einst\u00fcrzende Neubauten",
-          "url": "https://open.spotify.com/artist/7KomCxZv6D5qCVvefwMnwB"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "The Interimlovers",
-      "url": "https://open.spotify.com/track/6IfWLGF3IOFJN836q5ATlV"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Mask",
-        "url": "https://open.spotify.com/album/378ahhobt690RQEsyD8DaK"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Kick in the Eye",
-      "url": "https://open.spotify.com/track/0Rrjl5kOxStwevpiiuDhDW"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "The Head On The Door",
-        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "A Night Like This",
-      "url": "https://open.spotify.com/track/5AQqtXvhgDKl3v4JzkdEsG"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Forever (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
-      },
-      "artists": [
-        {
-          "name": "Cranes",
-          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Jewel",
-      "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "The Waking Hour",
-        "url": "https://open.spotify.com/album/7HmNnZyCLb2tkxwdwDtpqd"
-      },
-      "artists": [
-        {
-          "name": "Dalis Car",
-          "url": "https://open.spotify.com/artist/26K835MEHI621LFChKL16Z"
-        }
-      ],
-      "duration_ms": 282666,
-      "name": "His Box",
-      "url": "https://open.spotify.com/track/4auQElRGeVu94YhwonIdek"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "The Nephilim",
-        "url": "https://open.spotify.com/album/7dP7YFzYlM4LlR4v9yu05m"
-      },
-      "artists": [
-        {
-          "name": "Fields Of The Nephilim",
-          "url": "https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs"
-        }
-      ],
-      "duration_ms": 340626,
-      "name": "Moonchild",
-      "url": "https://open.spotify.com/track/1ZqZbTxNG6iCA7GabNsvGr"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Dear Prudence",
-      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Dark Adapted Eye",
-        "url": "https://open.spotify.com/album/2Xdz7PbWOCyhgQV765rt0w"
-      },
-      "artists": [
-        {
-          "name": "Danielle Dax",
-          "url": "https://open.spotify.com/artist/6XsztleD1tEXyvMs6WJwhX"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "Cat House",
-      "url": "https://open.spotify.com/track/053m4id9rWaV51dCV5sqts"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "It Will Come to You",
-        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
-      },
-      "artists": [
-        {
-          "name": "ACTORS",
-          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Face Meets Glass",
-      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Best Of...",
-        "url": "https://open.spotify.com/album/6uiuucKurNcbu19yszkAaO"
-      },
-      "artists": [
-        {
-          "name": "Skeletal Family",
-          "url": "https://open.spotify.com/artist/78OgxRnIdBCdFBmKhP2Fz2"
-        }
-      ],
-      "duration_ms": 291573,
-      "name": "Promised Land",
-      "url": "https://open.spotify.com/track/6iqQCvQ33Ss0SiAgl6MRnz"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 398933,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
+      "duration_ms": 218960,
+      "name": "Play For Today",
+      "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -603,130 +459,66 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Eternal Deep",
-        "url": "https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs"
+        "name": "Selected Scenes from the End of the World",
+        "url": "https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN"
       },
       "artists": [
         {
-          "name": "Mephisto Walz",
-          "url": "https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU"
+          "name": "London After Midnight",
+          "url": "https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Painted Black",
-      "url": "https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh"
+      "duration_ms": 455853,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Chronology Of A Love-Affair",
-        "url": "https://open.spotify.com/album/5erkuut7VONegMMY60ahB9"
+        "name": "Garlands",
+        "url": "https://open.spotify.com/album/1hOKdXqKBxmUPZWBGgTtnU"
       },
       "artists": [
         {
-          "name": "Love Like Blood",
-          "url": "https://open.spotify.com/artist/24WRvSDW3TaWsPvJ9JwDTx"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 314426,
-      "name": "Lucretia My Reflection (The Sisters Of Mercy)",
-      "url": "https://open.spotify.com/track/6Ch9vz3lpMnW1ulTDojEjj"
+      "duration_ms": 244000,
+      "name": "Wax and Wane",
+      "url": "https://open.spotify.com/track/4BUCgw9DXRdbObkhgIARgV"
     },
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Only Theatre of Pain",
-        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+        "name": "Maria Dimension",
+        "url": "https://open.spotify.com/album/4JIs8fvvujGkjy5ieyYOYG"
       },
       "artists": [
         {
-          "name": "Christian Death",
-          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+          "name": "The Legendary Pink Dots",
+          "url": "https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5"
         }
       ],
-      "duration_ms": 196106,
-      "name": "Romeo's Distress",
-      "url": "https://open.spotify.com/track/5guasiYhIKTJC84TNsazSm"
+      "duration_ms": 247800,
+      "name": "Bella Donna",
+      "url": "https://open.spotify.com/track/7ELpiKwEBL3tBoGFgqnZBw"
     },
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
         }
       ],
-      "duration_ms": 317346,
-      "name": "Plainsong - Remastered",
-      "url": "https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Tocsin",
-        "url": "https://open.spotify.com/album/06yXOBC2Nc5cWprY03iB1U"
-      },
-      "artists": [
-        {
-          "name": "Xmal Deutschland",
-          "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
-        }
-      ],
-      "duration_ms": 303333,
-      "name": "Mondlicht",
-      "url": "https://open.spotify.com/track/6lOMb2emnIL0QNOrsPW4aq"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Elizium",
-        "url": "https://open.spotify.com/album/08udU6yfPDCUmNXfByjwtE"
-      },
-      "artists": [
-        {
-          "name": "Fields Of The Nephilim",
-          "url": "https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "For Her Light",
-      "url": "https://open.spotify.com/track/2bdlaYYLaXJIguKSSS63Lz"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "First and Last and Always Collection",
-        "url": "https://open.spotify.com/album/0m2z3FmoowUGY4Gwu9y7nh"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 281826,
-      "name": "Black Planet",
-      "url": "https://open.spotify.com/track/5HjIGAZzqFZBLp3gfNz0Zr"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Talk About The Weather",
-        "url": "https://open.spotify.com/album/3uAvHdRx5uat8LE97Uq9c8"
-      },
-      "artists": [
-        {
-          "name": "Red Lorry Yellow Lorry",
-          "url": "https://open.spotify.com/artist/6ixeWfTvnU1VOVPEVP5Bcq"
-        }
-      ],
-      "duration_ms": 219426,
-      "name": "Hollow Eyes",
-      "url": "https://open.spotify.com/track/1Vm4cPqMS50k2zM70viOOl"
+      "duration_ms": 293693,
+      "name": "Dead Souls",
+      "url": "https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -747,262 +539,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "In The Flat Field",
-        "url": "https://open.spotify.com/album/4aTnxFNp2RSddhkYf0VYeW"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 294200,
-      "name": "Double Dare",
-      "url": "https://open.spotify.com/track/5p2cYrF8OIGKfFNbybJDyn"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 448306,
-      "name": "Pictures Of You - Remastered",
-      "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 408826,
-      "name": "Love Like Blood",
-      "url": "https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "October Rust (Special Edition)",
-        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 325840,
-      "name": "Be My Druidess",
-      "url": "https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7oK1VXwgIGlm9PQFg2J67w"
-      },
-      "artists": [
-        {
-          "name": "Clan of Xymox",
-          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
-        }
-      ],
-      "duration_ms": 353973,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/7cWVuLuQrH3kqWeMAbIOPs"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Mask",
-        "url": "https://open.spotify.com/album/378ahhobt690RQEsyD8DaK"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "The Passion of Lovers",
-      "url": "https://open.spotify.com/track/3BnW7igjh4qezy645pckgX"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Top 100 80s",
-        "url": "https://open.spotify.com/album/3Pp6HVzCtzhYucPusBKb13"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 658999,
-      "name": "This Corrosion - (Remastered)",
-      "url": "https://open.spotify.com/track/1Wl1jzaf9XtCWlB5hDxiGz"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Starfish",
-        "url": "https://open.spotify.com/album/7pV5wWB234RArP1U3mf2QB"
-      },
-      "artists": [
-        {
-          "name": "The Church",
-          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "Under The Milky Way",
-      "url": "https://open.spotify.com/track/39Skq6MS8fFyrv5v02RDqO"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Sorted! The Best Of",
-        "url": "https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg"
-      },
-      "artists": [
-        {
-          "name": "Love and Rockets",
-          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
-        }
-      ],
-      "duration_ms": 306826,
-      "name": "Sweet Lover Hangover",
-      "url": "https://open.spotify.com/track/2UNKWKv1dLFPhNlQEbvC4r"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Lorelei",
-      "url": "https://open.spotify.com/track/1MwGbyzRmPXWABLIdW8tzG"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "III - Nyctophilian",
-        "url": "https://open.spotify.com/album/7AVvNgSuWnRAn8sRjUGRRM"
-      },
-      "artists": [
-        {
-          "name": "Then Comes Silence",
-          "url": "https://open.spotify.com/artist/7hM4i3NzOOZZ0IBAGY2hJy"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/59JCFnXKnbVDihSdhDpNa9"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Some Girls Wander by Mistake",
-        "url": "https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Alice",
-      "url": "https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "The Hanging Garden",
-      "url": "https://open.spotify.com/track/4aiCy98MqryFBPOKN8e9GP"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "In The Flat Field",
-        "url": "https://open.spotify.com/album/4aTnxFNp2RSddhkYf0VYeW"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Stigmata Martyr",
-      "url": "https://open.spotify.com/track/1tucajXMeuAA0xKRTvij7c"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Sorted! The Best Of",
-        "url": "https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg"
-      },
-      "artists": [
-        {
-          "name": "Love and Rockets",
-          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Mirror People '88 - (Single Edit)",
-      "url": "https://open.spotify.com/track/1RlfUlIEWWEzCwXfn5PVRM"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "The Botanic Verses",
-        "url": "https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh"
-      },
-      "artists": [
-        {
-          "name": "The March Violets",
-          "url": "https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19"
-        }
-      ],
-      "duration_ms": 246560,
-      "name": "Snake Dance",
-      "url": "https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Bloody Kisses (Top Shelf Edition)",
         "url": "https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG"
       },
@@ -1015,22 +551,6 @@
       "duration_ms": 538106,
       "name": "Christian Woman",
       "url": "https://open.spotify.com/track/3634aKisKlGdUfD9V3MOY5"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Seduction (The Society Collection)",
-        "url": "https://open.spotify.com/album/4f6Hjqi7kUeSkHqPZW0ALk"
-      },
-      "artists": [
-        {
-          "name": "The Danse Society",
-          "url": "https://open.spotify.com/artist/0WkypWGtWi9gAlB6aIKESl"
-        }
-      ],
-      "duration_ms": 312253,
-      "name": "We're So Happy",
-      "url": "https://open.spotify.com/track/3gjLdLHagRcSIbkQYI4zAe"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1051,6 +571,38 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Mask",
+        "url": "https://open.spotify.com/album/378ahhobt690RQEsyD8DaK"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Kick in the Eye",
+      "url": "https://open.spotify.com/track/0Rrjl5kOxStwevpiiuDhDW"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 272266,
+      "name": "The Hanging Garden",
+      "url": "https://open.spotify.com/track/4aiCy98MqryFBPOKN8e9GP"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Milk & Kisses",
         "url": "https://open.spotify.com/album/3w3hmie5WZ5H2MQrMCyRW6"
       },
@@ -1067,8 +619,136 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo"
+        "name": "Talk About The Weather",
+        "url": "https://open.spotify.com/album/3uAvHdRx5uat8LE97Uq9c8"
+      },
+      "artists": [
+        {
+          "name": "Red Lorry Yellow Lorry",
+          "url": "https://open.spotify.com/artist/6ixeWfTvnU1VOVPEVP5Bcq"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "Talk About The Weather",
+      "url": "https://open.spotify.com/track/6yVkskW4Kehc095CIMAy4z"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 408826,
+      "name": "Love Like Blood",
+      "url": "https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "In The Flat Field",
+        "url": "https://open.spotify.com/album/4aTnxFNp2RSddhkYf0VYeW"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Double Dare",
+      "url": "https://open.spotify.com/track/5p2cYrF8OIGKfFNbybJDyn"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Chronology Of A Love-Affair",
+        "url": "https://open.spotify.com/album/5erkuut7VONegMMY60ahB9"
+      },
+      "artists": [
+        {
+          "name": "Love Like Blood",
+          "url": "https://open.spotify.com/artist/24WRvSDW3TaWsPvJ9JwDTx"
+        }
+      ],
+      "duration_ms": 314426,
+      "name": "Lucretia My Reflection (The Sisters Of Mercy)",
+      "url": "https://open.spotify.com/track/6Ch9vz3lpMnW1ulTDojEjj"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "The Crushed Velvet Apocalypse",
+        "url": "https://open.spotify.com/album/5nEQkSEKzKHefdY6w9nxKm"
+      },
+      "artists": [
+        {
+          "name": "The Legendary Pink Dots",
+          "url": "https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5"
+        }
+      ],
+      "duration_ms": 466506,
+      "name": "Just a Lifetime",
+      "url": "https://open.spotify.com/track/7Bqz2cjdtsdFyMYiAdZdnK"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "It Will Come to You",
+        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
+      },
+      "artists": [
+        {
+          "name": "ACTORS",
+          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Face Meets Glass",
+      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "October Rust (Special Edition)",
+        "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 325840,
+      "name": "Be My Druidess",
+      "url": "https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "III - Nyctophilian",
+        "url": "https://open.spotify.com/album/7AVvNgSuWnRAn8sRjUGRRM"
+      },
+      "artists": [
+        {
+          "name": "Then Comes Silence",
+          "url": "https://open.spotify.com/artist/7hM4i3NzOOZZ0IBAGY2hJy"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/59JCFnXKnbVDihSdhDpNa9"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
       "artists": [
         {
@@ -1076,25 +756,281 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 402800,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/01Vrp6Y0VGOQALAshPxeGY"
+      "duration_ms": 398933,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/0tHOTQBn2M4CD2dcyHivth"
     },
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe"
+        "name": "Bauhaus - 1979-1983 Volume Two",
+        "url": "https://open.spotify.com/album/12U3k2UeDnmqE4id0G7uOb"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
         }
       ],
-      "duration_ms": 350413,
-      "name": "Heart and Soul",
-      "url": "https://open.spotify.com/track/4fokGJSBrxFIvt01vz1Fbe"
+      "duration_ms": 231066,
+      "name": "She's In Parties",
+      "url": "https://open.spotify.com/track/1JhORTF6h6N2lpb3lLWeqv"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Ivo",
+      "url": "https://open.spotify.com/track/0N4JIfesak2J82auEiirwa"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Prayer from Nowhere",
+        "url": "https://open.spotify.com/album/7GKyuDirKyXIf6MEVYz6vj"
+      },
+      "artists": [
+        {
+          "name": "Cold Cave",
+          "url": "https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad"
+        }
+      ],
+      "duration_ms": 303120,
+      "name": "Prayer From Nowhere",
+      "url": "https://open.spotify.com/track/0NraHcNqLpGi934K0KG7vh"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Seduction (The Society Collection)",
+        "url": "https://open.spotify.com/album/4f6Hjqi7kUeSkHqPZW0ALk"
+      },
+      "artists": [
+        {
+          "name": "The Danse Society",
+          "url": "https://open.spotify.com/artist/0WkypWGtWi9gAlB6aIKESl"
+        }
+      ],
+      "duration_ms": 260746,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/6AqzHdj8Wlokm62tmFwG1D"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Lovesong - Remastered",
+      "url": "https://open.spotify.com/track/2mIrfke7vosXAEWfz6ucyo"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "\u041d\u0435 \u0421\u043c\u0435\u0448\u043d\u043e / Ne Smeshno",
+        "url": "https://open.spotify.com/album/1BYaxLhuunY9xKD0TnAhTV"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "\u041d\u0435 \u0421\u043c\u0435\u0448\u043d\u043e / Ne Smeshno",
+      "url": "https://open.spotify.com/track/24RPhi9gOU8iLh6f1BDla3"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Stone",
+          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Starfish",
+        "url": "https://open.spotify.com/album/7pV5wWB234RArP1U3mf2QB"
+      },
+      "artists": [
+        {
+          "name": "The Church",
+          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "Under The Milky Way",
+      "url": "https://open.spotify.com/track/39Skq6MS8fFyrv5v02RDqO"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Burning From The Inside",
+        "url": "https://open.spotify.com/album/7f94C8L3mdtdSZzQ0rH8nV"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "The Sanity Assassin",
+      "url": "https://open.spotify.com/track/3YOq3S4v776CYTWru41U4V"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Sorted! The Best Of",
+        "url": "https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg"
+      },
+      "artists": [
+        {
+          "name": "Love and Rockets",
+          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Mirror People '88 - (Single Edit)",
+      "url": "https://open.spotify.com/track/1RlfUlIEWWEzCwXfn5PVRM"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/5N2tixSCaFkwdtJIG0jQmi"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Lorelei",
+      "url": "https://open.spotify.com/track/1MwGbyzRmPXWABLIdW8tzG"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Bloody Kisses (Top Shelf Edition)",
+        "url": "https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 675653,
+      "name": "Black No. 1 (Little Miss Scare -All)",
+      "url": "https://open.spotify.com/track/710B9xFjNOisQtKtppZE9p"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 317346,
+      "name": "Plainsong - Remastered",
+      "url": "https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "The Waking Hour",
+        "url": "https://open.spotify.com/album/7HmNnZyCLb2tkxwdwDtpqd"
+      },
+      "artists": [
+        {
+          "name": "Dalis Car",
+          "url": "https://open.spotify.com/artist/26K835MEHI621LFChKL16Z"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "His Box",
+      "url": "https://open.spotify.com/track/4auQElRGeVu94YhwonIdek"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Thalia",
+        "url": "https://open.spotify.com/album/7nvZE7znYOXL1DT1NtQ5wJ"
+      },
+      "artists": [
+        {
+          "name": "Mephisto Walz",
+          "url": "https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "Mephisto Waltz",
+      "url": "https://open.spotify.com/track/6tK79x1EWm9JjRRfRM2FJz"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Elizium",
+        "url": "https://open.spotify.com/album/08udU6yfPDCUmNXfByjwtE"
+      },
+      "artists": [
+        {
+          "name": "Fields Of The Nephilim",
+          "url": "https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "For Her Light",
+      "url": "https://open.spotify.com/track/2bdlaYYLaXJIguKSSS63Lz"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Seduction (The Society Collection)",
+        "url": "https://open.spotify.com/album/4f6Hjqi7kUeSkHqPZW0ALk"
+      },
+      "artists": [
+        {
+          "name": "The Danse Society",
+          "url": "https://open.spotify.com/artist/0WkypWGtWi9gAlB6aIKESl"
+        }
+      ],
+      "duration_ms": 312253,
+      "name": "We're So Happy",
+      "url": "https://open.spotify.com/track/3gjLdLHagRcSIbkQYI4zAe"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1131,66 +1067,34 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Starfish",
-        "url": "https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x"
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7oK1VXwgIGlm9PQFg2J67w"
       },
       "artists": [
         {
-          "name": "The Church",
-          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
+          "name": "Clan of Xymox",
+          "url": "https://open.spotify.com/artist/1wHmR7I0UlF58WFQexCPha"
         }
       ],
-      "duration_ms": 295973,
-      "name": "Reptile",
-      "url": "https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT"
+      "duration_ms": 353973,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/7cWVuLuQrH3kqWeMAbIOPs"
     },
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "The Singles 1983-1995",
-        "url": "https://open.spotify.com/album/3ycsLfUjtUL3pjSk96bB3S"
+        "name": "Forever (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
       },
       "artists": [
         {
-          "name": "Alien Sex Fiend",
-          "url": "https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ"
+          "name": "Cranes",
+          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
         }
       ],
-      "duration_ms": 291600,
-      "name": "I Walk The Line",
-      "url": "https://open.spotify.com/track/4c7JcQKPQP3o5ojUcrZ42B"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "The Lovecats",
-      "url": "https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Isn\u2019t Anything",
-        "url": "https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g"
+      "duration_ms": 185226,
+      "name": "Jewel",
+      "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1211,40 +1115,56 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Deep",
-        "url": "https://open.spotify.com/album/4evNdyZjrJGLHWf2azyaCh"
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
       "artists": [
         {
-          "name": "Peter Murphy",
-          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 249773,
-      "name": "Deep Ocean Vast Sea",
-      "url": "https://open.spotify.com/track/0K1ThRqu3v8H4fj6I5rbhZ"
+      "duration_ms": 448306,
+      "name": "Pictures Of You - Remastered",
+      "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
     },
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Victorialand",
-        "url": "https://open.spotify.com/album/6Zv1yOKTpAHX0S0qOv2HRu"
+        "name": "Sorted! The Best Of",
+        "url": "https://open.spotify.com/album/2XJblHmHQJiopDHW3aUaWg"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+          "name": "Love and Rockets",
+          "url": "https://open.spotify.com/artist/09mvgMBvJkxarNIDGdwPWg"
         }
       ],
-      "duration_ms": 196466,
-      "name": "Whales Tails",
-      "url": "https://open.spotify.com/track/4t6iatAzX7ZGvte1zEbejl"
+      "duration_ms": 306826,
+      "name": "Sweet Lover Hangover",
+      "url": "https://open.spotify.com/track/2UNKWKv1dLFPhNlQEbvC4r"
     },
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Tocsin",
-        "url": "https://open.spotify.com/album/06yXOBC2Nc5cWprY03iB1U"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Stone",
+          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
+        }
+      ],
+      "duration_ms": 180107,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/3wnntc87QqNIh12CUsuqzq"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Fetisch",
+        "url": "https://open.spotify.com/album/7lpnhj5UdLW5sf4cj4cve2"
       },
       "artists": [
         {
@@ -1252,31 +1172,31 @@
           "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
         }
       ],
-      "duration_ms": 285160,
-      "name": "Incubus Succubus II",
-      "url": "https://open.spotify.com/track/7zcicu8dsRMCOxzdcMyIYK"
+      "duration_ms": 228800,
+      "name": "Qual",
+      "url": "https://open.spotify.com/track/2BkhhBIOuX5Nqu5T5ILLf6"
     },
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Evermore",
-        "url": "https://open.spotify.com/album/7KYGSaSbEZww6PMU8DCVgQ"
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe"
       },
       "artists": [
         {
-          "name": "hackedepicciotto",
-          "url": "https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s"
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
         }
       ],
-      "duration_ms": 175335,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/6DHIEgsV6r6GQ0djl6mL6k"
+      "duration_ms": 350413,
+      "name": "Heart and Soul",
+      "url": "https://open.spotify.com/track/4fokGJSBrxFIvt01vz1Fbe"
     },
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Burning From The Inside",
-        "url": "https://open.spotify.com/album/7f94C8L3mdtdSZzQ0rH8nV"
+        "name": "In The Flat Field",
+        "url": "https://open.spotify.com/album/4aTnxFNp2RSddhkYf0VYeW"
       },
       "artists": [
         {
@@ -1284,9 +1204,89 @@
           "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
         }
       ],
-      "duration_ms": 245466,
-      "name": "The Sanity Assassin",
-      "url": "https://open.spotify.com/track/3YOq3S4v776CYTWru41U4V"
+      "duration_ms": 226400,
+      "name": "Stigmata Martyr",
+      "url": "https://open.spotify.com/track/1tucajXMeuAA0xKRTvij7c"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Za Bakdaz: The Unfinished Opera",
+        "url": "https://open.spotify.com/album/1BEVLMVUfXD67pbKqh56z5"
+      },
+      "artists": [
+        {
+          "name": "Klaus Nomi",
+          "url": "https://open.spotify.com/artist/1uFG5Tg7iA7wd56RchxvWw"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "Valentine's Day",
+      "url": "https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Famous Monsters",
+        "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 199944,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Only Theatre of Pain",
+        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Spiritual Cramp",
+      "url": "https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Some Girls Wander by Mistake",
+        "url": "https://open.spotify.com/album/42HVWb7R8TxLHgVjc2OOIV"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "The Lovecats",
+      "url": "https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84"
     }
   ],
   "unique_name": "Dark & Gothic",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > Raw and unfiltered\. Cover: Softcult
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,862 likes - 58 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,004 likes - 58 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Elis Mraz",
+  "description": "\u017deny v pln\u00e9 s\u00edle. Poslouchej EQUAL CZ&SK. Cover: Pam Rabbit",
   "name": "EQUAL CZ&SK",
   "published_playlist_ids": [
     "0SBZE5WqIPIEhAB3YQXr14"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "10 Oceans",
+        "url": "https://open.spotify.com/album/6XtLw9KEuNFqBjEmccaDrb"
+      },
+      "artists": [
+        {
+          "name": "Evvie",
+          "url": "https://open.spotify.com/artist/0aUemj8TRmO7rCYc2xqulu"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220826,
+      "name": "10 Oceans",
+      "url": "https://open.spotify.com/track/5FUGMqXyZIv2t06I2R7GJl"
+    },
     {
       "album": {
         "name": "19 Minutes",
@@ -37,10 +55,28 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 203242,
       "name": "400 Miles",
       "url": "https://open.spotify.com/track/5CREOJS7dM2XYrHR9CLlyY"
+    },
+    {
+      "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/5GNZUz9HCl5bF4unXNwIAA"
+      },
+      "artists": [
+        {
+          "name": "Aiko",
+          "url": "https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168672,
+      "name": "Alter Ego",
+      "url": "https://open.spotify.com/track/275xXbu1bAryi3n5H65EQ2"
     },
     {
       "album": {
@@ -62,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Vzpomn\u011bnky",
+        "url": "https://open.spotify.com/album/5fp5UTrsmABvoTEKoKRSNS"
+      },
+      "artists": [
+        {
+          "name": "Barbara Kanyzov\u00e1",
+          "url": "https://open.spotify.com/artist/3XTgXJI96qMpTbrwSbTEdo"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158403,
+      "name": "Babi\u010dka",
+      "url": "https://open.spotify.com/track/6brcN6QHs2PJTbXNbKZ92H"
+    },
+    {
+      "album": {
         "name": "Belong",
         "url": "https://open.spotify.com/album/6Fjpsj6qLPerIGlKCVBWMx"
       },
@@ -73,7 +127,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 176000,
       "name": "Belong",
       "url": "https://open.spotify.com/track/4HRoBnxyJa0BHoNMx5AMW9"
@@ -199,7 +253,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 246659,
       "name": "D\u00fdchej",
       "url": "https://open.spotify.com/track/6BUTknxoqPN1lNa0oTKU03"
@@ -235,10 +289,46 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 135492,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/4k8SqR93aPycSqxBYVwOU8"
+    },
+    {
+      "album": {
+        "name": "Gentle",
+        "url": "https://open.spotify.com/album/3fiZkPky4bC9GSmEaDY5yp"
+      },
+      "artists": [
+        {
+          "name": "Tolstoys",
+          "url": "https://open.spotify.com/artist/19eCt7jL2g5BAktLU1KI2J"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173454,
+      "name": "Gentle",
+      "url": "https://open.spotify.com/track/3Ct7xzXkaaS36XX2BuoSJh"
+    },
+    {
+      "album": {
+        "name": "Hey Pretty Girl",
+        "url": "https://open.spotify.com/album/2Fep9sXn34nhBu9nchd1jt"
+      },
+      "artists": [
+        {
+          "name": "Tamara",
+          "url": "https://open.spotify.com/artist/3v3uUwstv0JcK3qglgcr4c"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158610,
+      "name": "Hey Pretty Girl",
+      "url": "https://open.spotify.com/track/6j88qCaGXIGKfO4npS3Zjd"
     },
     {
       "album": {
@@ -304,6 +394,24 @@
     },
     {
       "album": {
+        "name": "Time And Fate",
+        "url": "https://open.spotify.com/album/7aDh92lgDBbFosDaDCgAFg"
+      },
+      "artists": [
+        {
+          "name": "Barbora Cihak",
+          "url": "https://open.spotify.com/artist/5tkvY8D1HckGsCX6YYKfCy"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133745,
+      "name": "I'll See You In The Next Life",
+      "url": "https://open.spotify.com/track/2cWiSlDby0VTldzK7j6wwP"
+    },
+    {
+      "album": {
         "name": "Iba ja a ty",
         "url": "https://open.spotify.com/album/7bJioMZzR9m9vmFfy59ji5"
       },
@@ -337,6 +445,24 @@
       "duration_ms": 168000,
       "name": "IMMA BE",
       "url": "https://open.spotify.com/track/64GCdK3N6zXabQjYDJ1cWy"
+    },
+    {
+      "album": {
+        "name": "Jant\u00e1r",
+        "url": "https://open.spotify.com/album/3ZrYnpwjHYptsx4fIeGtsX"
+      },
+      "artists": [
+        {
+          "name": "Vrana Marianna",
+          "url": "https://open.spotify.com/artist/0DsfG49VRKY0FmlvS5MtnX"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168333,
+      "name": "Jant\u00e1r",
+      "url": "https://open.spotify.com/track/6jtCo1ziArPzJEtxsNSRDq"
     },
     {
       "album": {
@@ -377,6 +503,24 @@
       "duration_ms": 179500,
       "name": "Jezinky (acapela)",
       "url": "https://open.spotify.com/track/4XGxWLRQWGfsW3IA1ggJf3"
+    },
+    {
+      "album": {
+        "name": "Just Another Dream",
+        "url": "https://open.spotify.com/album/517LIc9zu3bC3oIqZMgaiF"
+      },
+      "artists": [
+        {
+          "name": "Anika Iris",
+          "url": "https://open.spotify.com/artist/6qwBbYT3f2M1pZ1SKcsBDc"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191094,
+      "name": "Just Another Dream",
+      "url": "https://open.spotify.com/track/39oWADXTHbyBXMaB9eQ1Uv"
     },
     {
       "album": {
@@ -482,6 +626,24 @@
     },
     {
       "album": {
+        "name": "looking at porn",
+        "url": "https://open.spotify.com/album/1v1VzddkiTxhqEaDhqtkdC"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160804,
+      "name": "looking at porn",
+      "url": "https://open.spotify.com/track/2WLH4kW5gS9G5nPtoo8qGg"
+    },
+    {
+      "album": {
         "name": "MAJSA",
         "url": "https://open.spotify.com/album/4OrhdjxUqc0cwvmj6TnDxT"
       },
@@ -497,7 +659,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 173133,
       "name": "MAJSA",
       "url": "https://open.spotify.com/track/6iSuFJfbMvQ6rqFPuD2KsQ"
@@ -533,7 +695,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 288891,
       "name": "M\u011bsto",
       "url": "https://open.spotify.com/track/3tIPzCiSlIgaEpBB2fpyw4"
@@ -559,6 +721,24 @@
       "duration_ms": 234624,
       "name": "M\u016fj st\u00edn",
       "url": "https://open.spotify.com/track/1K9RFPgMTTfCCmJvqvk6ZE"
+    },
+    {
+      "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/5iF5L0NHHOXCU6alL6KKk6"
+      },
+      "artists": [
+        {
+          "name": "SKY",
+          "url": "https://open.spotify.com/artist/2t9UZylDmWjXRjgbJlSqS5"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148651,
+      "name": "Nie sme triezvy",
+      "url": "https://open.spotify.com/track/0S2hh9GRIl6SmJfe24aCrs"
     },
     {
       "album": {
@@ -634,6 +814,24 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/3hxtaqMnSaHmYiuwVeL5eD"
+      },
+      "artists": [
+        {
+          "name": "TIMEA",
+          "url": "https://open.spotify.com/artist/6r2KeAcGJeDDXmQoFdlcw1"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236017,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/4dRuSzS3c1bYWaqEnuiItC"
+    },
+    {
+      "album": {
         "name": "Personal Darkness",
         "url": "https://open.spotify.com/album/3LJVId1DQcgbYO3u2lMZws"
       },
@@ -645,7 +843,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 154670,
       "name": "Personal Darkness",
       "url": "https://open.spotify.com/track/5GuX8sMyN1VvUJnkPQ21VP"
@@ -663,7 +861,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 215722,
       "name": "Pozhas\u00ednej",
       "url": "https://open.spotify.com/track/5A4cs8sDnrbp0SvTVcfJrb"
@@ -681,10 +879,46 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 205000,
       "name": "Problems",
       "url": "https://open.spotify.com/track/1KIls6x8qiETtlIycugni0"
+    },
+    {
+      "album": {
+        "name": "Mom, I\u2019m Lost",
+        "url": "https://open.spotify.com/album/3oNFHLzr3qCJTNaXTzEOzA"
+      },
+      "artists": [
+        {
+          "name": "Pam Rabbit",
+          "url": "https://open.spotify.com/artist/60jJZhMQOPHeCvoBosXVWU"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176088,
+      "name": "pull the trigger",
+      "url": "https://open.spotify.com/track/7KAVS6tR9EXj5nZ53elV20"
+    },
+    {
+      "album": {
+        "name": "Roztomil\u00e1 Holka",
+        "url": "https://open.spotify.com/album/5o0wvWo4Awr6SSuHoZI0c3"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaverkov\u00e1",
+          "url": "https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149294,
+      "name": "Roztomil\u00e1 Holka",
+      "url": "https://open.spotify.com/track/3I2lMpY9rwDQD9mHtWuqk0"
     },
     {
       "album": {
@@ -782,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/2nnc0uhfe33S2GZzCQjRr7"
+      },
+      "artists": [
+        {
+          "name": "&Tilly",
+          "url": "https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338079,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/73hWEDICEG0qtXFt8tvHYq"
+    },
+    {
+      "album": {
         "name": "S\u00edla v n\u00e1s",
         "url": "https://open.spotify.com/album/07d2rb8Y4CH8JibOKfYvE9"
       },
@@ -793,7 +1045,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 230338,
       "name": "S\u00edla v n\u00e1s",
       "url": "https://open.spotify.com/track/0XJKdltXCBWwedagg3vEO1"
@@ -811,7 +1063,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 270165,
       "name": "Tears of Joy",
       "url": "https://open.spotify.com/track/44ZOAFNdsbBNSJWKVtvjJu"
@@ -901,7 +1153,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 185000,
       "name": "Ve starym dome",
       "url": "https://open.spotify.com/track/2ZMIbhdBRTEM02ooDzbs0d"
@@ -919,7 +1171,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 222453,
       "name": "Verze 02",
       "url": "https://open.spotify.com/track/521yq4a5Z6Q7WE9JsHyW4g"
@@ -991,7 +1243,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 152233,
       "name": "we're friends, right?",
       "url": "https://open.spotify.com/track/31TlnbOPX5NoA50FoLj2xT"
@@ -1038,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Umami",
+        "url": "https://open.spotify.com/album/2jbsQzyMviDICk8oxzMMWy"
+      },
+      "artists": [
+        {
+          "name": "Ewa Farna",
+          "url": "https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "Zkraceno v p\u0159ekladu",
+      "url": "https://open.spotify.com/track/3RiYzSJtBvepIaG2kPp7w7"
+    },
+    {
+      "album": {
         "name": "Ztracen\u00fd p\u0159\u00edpad",
         "url": "https://open.spotify.com/album/63mD3mVlybWpSahrH9amKn"
       },
@@ -1049,7 +1319,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 154909,
       "name": "Ztracen\u00fd p\u0159\u00edpad",
       "url": "https://open.spotify.com/track/4HKiAhlmqOYBTk9Si5oN9G"

@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 312240,
       "name": "A Letter To Elise",
       "url": "https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 268306,
       "name": "All I Need (feat. Beth Hirsch)",
       "url": "https://open.spotify.com/track/7jOM0KIKgIppqIEvEjixaj"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 217293,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 248933,
       "name": "Bluetonic",
       "url": "https://open.spotify.com/track/2JOi5i2Lm8VBpxk3IoyTEr"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 276600,
       "name": "Born Of Frustration",
       "url": "https://open.spotify.com/track/7LbvpO06tNJzVpbbj96puU"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 140480,
       "name": "Connection",
       "url": "https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 249266,
       "name": "Corpses In Their Mouths",
       "url": "https://open.spotify.com/track/3kkDPzmtGVHhmedF3v9k7v"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 236826,
       "name": "Hit",
       "url": "https://open.spotify.com/track/08o1UvE9Jp18ZfGg5NiCnm"
@@ -971,6 +971,24 @@
       "duration_ms": 254760,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/2qdRHMosT8YO3zfEJQXHsW"
+    },
+    {
+      "album": {
+        "name": "Purple",
+        "url": "https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193613,
+      "name": "Interstate Love Song",
+      "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
     },
     {
       "album": {
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 210933,
       "name": "Nancy Boy",
       "url": "https://open.spotify.com/track/1ZOeXUr9ieWw80zs1T6pkp"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/1bSpwPhAxZwlR2enJJsv7U"
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 325173,
       "name": "Olympian",
       "url": "https://open.spotify.com/track/0w3xM9vQtoAn05Iqf7MyGb"
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 250440,
       "name": "On & On",
       "url": "https://open.spotify.com/track/2AVRiqNBp1cMVL7PQNzLc4"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 269840,
       "name": "One To Another",
       "url": "https://open.spotify.com/track/5nvy5ir4RWTgI4hC8dnsQP"
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 235093,
       "name": "Pretend We're Dead",
       "url": "https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 308386,
       "name": "Road Rage",
       "url": "https://open.spotify.com/track/1A7pz58VR2Lpc19c58QdSo"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 322946,
       "name": "Rock \u2018n\u2019 Roll Star - Remastered",
       "url": "https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67"
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 222278,
       "name": "She Don't Use Jelly",
       "url": "https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv"
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 264066,
       "name": "She Said",
       "url": "https://open.spotify.com/track/5J7l2wE9wxqod7xIP0jyAB"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 225786,
       "name": "Shiny Happy People",
       "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
@@ -2073,7 +2091,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 195800,
       "name": "Sparky's Dream",
       "url": "https://open.spotify.com/track/1yRvKs56kf5QzWelHfKAS8"
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 258533,
       "name": "Stupid Girl",
       "url": "https://open.spotify.com/track/7fI96JHMnvd3Ft70Zzv74G"
@@ -2109,7 +2127,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 223800,
       "name": "Susan's House",
       "url": "https://open.spotify.com/track/6DJGcxLJlkK7egBtb8iu8o"
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 245946,
       "name": "Trash",
       "url": "https://open.spotify.com/track/0eyTLxTwEYvqWm6NYSvA01"
@@ -2397,7 +2415,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 220333,
       "name": "Velouria",
       "url": "https://open.spotify.com/track/74zx7Xg9U6e5zE1titeKU5"
@@ -2415,7 +2433,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 195600,
       "name": "Waking Up",
       "url": "https://open.spotify.com/track/70LIe5IYE2TI8qqxePAoOR"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 231733,
       "name": "Walkaway",
       "url": "https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7"
@@ -2487,7 +2505,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 271106,
       "name": "Wide Open Space",
       "url": "https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik"
@@ -2505,7 +2523,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 293893,
       "name": "Yes - Full Version",
       "url": "https://open.spotify.com/track/6joAGL5IuD66Qgcz049ObW"
@@ -2541,7 +2559,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 300773,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"

@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 222040,
       "name": "A Pair Of Brown Eyes",
       "url": "https://open.spotify.com/track/6ayUfc9EndL7Eg9VYApdHC"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 173981,
       "name": "Ain't That The Way",
       "url": "https://open.spotify.com/track/0g31ynVt7Zy2cmYmTQfyjr"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 125830,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 236000,
       "name": "Are You Here For The Festival",
       "url": "https://open.spotify.com/track/0C91J60J0Z3kT2UmsZJges"
@@ -279,6 +279,24 @@
       "duration_ms": 208186,
       "name": "Around Again",
       "url": "https://open.spotify.com/track/0aJYQMcaTllmYx0w1Muym2"
+    },
+    {
+      "album": {
+        "name": "Draw Down The Moon",
+        "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
+      },
+      "artists": [
+        {
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181546,
+      "name": "At Least We Found The Floor",
+      "url": "https://open.spotify.com/track/4bnt9TTY4Q4h2ajlIRR6gs"
     },
     {
       "album": {
@@ -435,7 +453,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 174680,
       "name": "Bereft of the Myth",
       "url": "https://open.spotify.com/track/3TmV1nkm4IhIdKDhAWdHCM"
@@ -579,7 +597,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 250386,
       "name": "Bullet Proof",
       "url": "https://open.spotify.com/track/2bgBA5NPkIzokTUBlHNnJl"
@@ -597,7 +615,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 179713,
       "name": "Burn Too Bright",
       "url": "https://open.spotify.com/track/7zADZr2fslOAQg0gG058bA"
@@ -731,7 +749,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 224106,
       "name": "Can\u2019t Do Much",
       "url": "https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 116794,
       "name": "Colors",
       "url": "https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 266027,
       "name": "Dirty River",
       "url": "https://open.spotify.com/track/098PK6UQu7cXdSpkRnxBnC"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 269853,
       "name": "Don\u2019t Slow Me Down (feat. Bonnie Prince Billy)",
       "url": "https://open.spotify.com/track/21dLiJG5xpbs4CBkV9RZiI"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 277000,
       "name": "Easy Way Out",
       "url": "https://open.spotify.com/track/3oOv0oaIqTwJhTNqA1HiGP"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 328120,
       "name": "Everything Looks Better (In Hindsight)",
       "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
@@ -1321,10 +1339,50 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 283096,
       "name": "Farm",
       "url": "https://open.spotify.com/track/0XYOOO2116SufLpAN4XYoC"
+    },
+    {
+      "album": {
+        "name": "Favorite Part / Popularity",
+        "url": "https://open.spotify.com/album/4tRy1IKOZ6NHj9iaTyBlnj"
+      },
+      "artists": [
+        {
+          "name": "Anna Ash",
+          "url": "https://open.spotify.com/artist/1QyjHJQb3WeWFxXaNLpLOw"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197906,
+      "name": "Favorite Part",
+      "url": "https://open.spotify.com/track/5RjiNm4c0itCWYQQd3br2U"
+    },
+    {
+      "album": {
+        "name": "Feel (with Kyson)",
+        "url": "https://open.spotify.com/album/7ag6US432XEiupeaKuQIcD"
+      },
+      "artists": [
+        {
+          "name": "YUUL",
+          "url": "https://open.spotify.com/artist/5JDHEnjHZtQdcSkMY6mWqN"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Feel - with Kyson",
+      "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
     },
     {
       "album": {
@@ -1447,7 +1505,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 181754,
       "name": "God Knows Why",
       "url": "https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2"
@@ -1881,7 +1939,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 440746,
       "name": "In Color",
       "url": "https://open.spotify.com/track/5lV39Mj6PNBE3wIA77ojN9"
@@ -2091,7 +2149,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 279880,
       "name": "Least Expected",
       "url": "https://open.spotify.com/track/3OfiWPF0YcLW65gKUwZmAm"
@@ -2149,7 +2207,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 143674,
       "name": "Lincoln, Nebraska",
       "url": "https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi"
@@ -2297,7 +2355,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 208854,
       "name": "Market and Black (feat. Tennis)",
       "url": "https://open.spotify.com/track/7bSOlKTFSgS1zTRfPNaOZw"
@@ -2315,7 +2373,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 240954,
       "name": "Masterpiece - (solo)",
       "url": "https://open.spotify.com/track/5cic8eTn6twPA0ArO8zcjR"
@@ -2333,7 +2391,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 238515,
       "name": "May",
       "url": "https://open.spotify.com/track/3kfXRPnEqfAEOeKKX4UszE"
@@ -2615,7 +2673,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Pain Shifter",
       "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
@@ -2633,7 +2691,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 195494,
       "name": "Paula Collins",
       "url": "https://open.spotify.com/track/3haHJcTZKjxgnMT9XfCU3D"
@@ -2695,7 +2753,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 213373,
       "name": "Raising the Dead",
       "url": "https://open.spotify.com/track/79T4cBOstvsj4P7oJRo726"
@@ -2789,7 +2847,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 154693,
       "name": "Resist the Urge",
       "url": "https://open.spotify.com/track/1ibmvtXJCzpo9LRbzBc3NZ"
@@ -2879,7 +2937,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 198373,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
@@ -2915,7 +2973,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 241640,
       "name": "Savior Complex",
       "url": "https://open.spotify.com/track/4BNew3AqFCvABdFsYMRiyB"
@@ -3323,7 +3381,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
@@ -3561,7 +3619,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 192981,
       "name": "This Is What You Did",
       "url": "https://open.spotify.com/track/35e4UTDLUpqOzGqjWz3AoT"
@@ -3705,7 +3763,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 233333,
       "name": "Victory",
       "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
@@ -3763,7 +3821,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 192160,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0OgN6FQsmQV8xaFaOWF9LX"
@@ -3871,7 +3929,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
@@ -4015,7 +4073,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 249322,
       "name": "Worship the Sun",
       "url": "https://open.spotify.com/track/3Seg3sd8Hm9YLA80TuCrvg"
@@ -4113,7 +4171,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 204333,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/4LSi50PwwZFOpkusSFu9Pd"
@@ -4131,7 +4189,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 191813,
       "name": "\u00c9migr\u00e9",
       "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"

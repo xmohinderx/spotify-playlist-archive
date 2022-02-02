@@ -1306,6 +1306,24 @@
     },
     {
       "album": {
+        "name": "I Look Good",
+        "url": "https://open.spotify.com/album/2AqcOLyhqhrNMLCawOsMpo"
+      },
+      "artists": [
+        {
+          "name": "O.T. Genasis",
+          "url": "https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101635,
+      "name": "I Look Good",
+      "url": "https://open.spotify.com/track/79aQX5Uq6t8apowFe5uueL"
+    },
+    {
+      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/3h4aKAY35vJTr0GFpbB03r"
       },

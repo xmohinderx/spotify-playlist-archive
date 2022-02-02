@@ -2,14 +2,15 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
-> Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Mỹ Tâm
+> Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: AMEE
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24h](https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [24h](https://open.spotify.com/album/4LO3n3uH8Iu6xi09nh2u9i) | 4:17 | 2021-12-07 |  |
 | [Bởi Vì Là Khi Yêu](https://open.spotify.com/track/57idtlQlKCv3toIDtx5LaX) | [Lyly](https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx) | [Bởi Vì Là Khi Yêu](https://open.spotify.com/album/3pAb4r4EzKQNUqjrt8HCoe) | 4:12 | 2021-12-07 |  |
-| [Bởi Vì Yêu](https://open.spotify.com/track/74C7vazAOSPwpVGxx21n5l) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Bởi Vì Yêu](https://open.spotify.com/album/7wgd9XeERTsnRGmBi1hIzU) | 3:26 | 2021-12-07 |  |
+| [Bởi Vì Yêu](https://open.spotify.com/track/74C7vazAOSPwpVGxx21n5l) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Bởi Vì Yêu](https://open.spotify.com/album/7wgd9XeERTsnRGmBi1hIzU) | 3:26 | 2021-12-07 | 2022-02-02 |
 | [Chúng Ta Không Còn Chúng Ta](https://open.spotify.com/track/7m1oQAMUZuy9Yf8Ud2MyuH) | [Phạm Quỳnh Anh](https://open.spotify.com/artist/033tY0EKEVdDtzoeEMMCJC) | [Chúng Ta Không Còn Chúng Ta](https://open.spotify.com/album/0RsPSzRrGy8j7Qd1QSk2yB) | 4:48 | 2021-12-07 |  |
+| [Con Đã Về](https://open.spotify.com/track/17rXZKbGKVWA4ZudeyFKy8) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3) | [Con Đã Về](https://open.spotify.com/album/68sqNGevSOeTj9PixQQSev) | 4:26 | 2022-02-01 |  |
 | [Có Một Người Từng Là Tất Cả](https://open.spotify.com/track/0zvG8nb0KNKhNUS1cIn4MV) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn) | [Có Một Người Từng Là Tất Cả](https://open.spotify.com/album/2m0ag1i8rTNo1hRqsnwBhZ) | 4:59 | 2021-12-07 |  |
 | [cô đơn sớm tối](https://open.spotify.com/track/6nwPpjXk97fYF2aOUq2fcp) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [cô đơn sớm tối](https://open.spotify.com/album/4qYvvuBK3FkOVg1Qw0liko) | 4:21 | 2021-12-07 | 2021-12-31 |
 | [Cầu Hôn \- Happy Version](https://open.spotify.com/track/4p0oGfPJqrrmdBC2GG6iK2) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm) | [hương](https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq) | 4:04 | 2021-12-07 |  |
@@ -49,7 +50,7 @@
 | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/track/3i02vLHwlt14hNJtdXmeM7) | [Juky San](https://open.spotify.com/artist/51wGpVg4Z3lv1IjuZAQjXn), [REDT](https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz) | [Phải Chăng Em Đã Yêu? \(feat\. RedT\)](https://open.spotify.com/album/6oLvir8rZVaQRF3z2mp0rG) | 3:10 | 2021-12-07 |  |
 | [Phận Hoa Rơi](https://open.spotify.com/track/6dkCXQoMZoEonJbbFYH83r) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq), [Vicky Nhung](https://open.spotify.com/artist/0OECMkZp1koXqQLQrMizHb) | [Phận Hoa Rơi](https://open.spotify.com/album/4Dgjy81XR40QJQ7ilXUkPu) | 3:56 | 2021-12-07 | 2021-12-30 |
 | [Phố Đã Lên Đèn](https://open.spotify.com/track/47Y12sZlWlug3AceKoS5Hh) | [Huyền Tâm Môn](https://open.spotify.com/artist/5udW05zLTeswVyS7fTHdlc) | [Phố Đã Lên Đèn](https://open.spotify.com/album/1JHWAfIDkPEz3Cs10s8nuR) | 4:46 | 2021-12-07 |  |
-| [Quá Non](https://open.spotify.com/track/54ALpltRItn7C0DWJNjLAb) | [The Fillin](https://open.spotify.com/artist/5W890TKSqnIFLIULvfkAzW), [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Quá Non](https://open.spotify.com/album/2jCy87EiceLYBY2ktDg0rf) | 3:28 | 2021-12-30 |  |
+| [Quá Non](https://open.spotify.com/track/54ALpltRItn7C0DWJNjLAb) | [The Fillin](https://open.spotify.com/artist/5W890TKSqnIFLIULvfkAzW), [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9) | [Quá Non](https://open.spotify.com/album/2jCy87EiceLYBY2ktDg0rf) | 3:28 | 2021-12-30 | 2022-02-02 |
 | [Real Love \- The Heroes Version](https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8) | [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [Khắc Hưng](https://open.spotify.com/artist/2mx5AAdmlMxMcrcd7AQh1j) | [Real Love \(The Heroes Version\)](https://open.spotify.com/album/1QkxoTESjfTccBQqMG08Bb) | 4:03 | 2021-12-07 |  |
 | [Sau Nay, Hay Gap Lai Nhau Khi Hoa No](https://open.spotify.com/track/6F61DTypUBPZiZqgd76Sjn) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Hom Qua Hom Nay Va Sau Nay](https://open.spotify.com/album/4QV5oU2eIMfPob4hLC3yar) | 4:36 | 2021-12-07 |  |
 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 | 2021-12-07 |  |
@@ -58,6 +59,7 @@
 | [trời giấu trời mang đi](https://open.spotify.com/track/1ecVks3GJX8U67DvhVDVBn) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 4:13 | 2021-12-07 |  |
 | [Tìm Hành Tinh Khác \- Chill Version](https://open.spotify.com/track/08z0xgKfSQ4f9hfnCSPLHw) | [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Tìm Hành Tinh Khác \(Chill Version\)](https://open.spotify.com/album/4TjnVBXFRxvC4Yea3DDbkW) | 2:28 | 2021-12-07 | 2022-01-05 |
 | [Xin Lỗi](https://open.spotify.com/track/2XowCGRbycR53BUf8Y5b4d) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Xin Lỗi](https://open.spotify.com/album/5oaGXglA49juUjE5WwLCZS) | 4:04 | 2021-12-07 |  |
+| [Yêu Không Cần Ép](https://open.spotify.com/track/5bxenPd3w5OMPP7KY7sGlc) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Yêu Không Cần Ép](https://open.spotify.com/album/4XTHKdB74r0kYknx32x974) | 3:15 | 2022-02-01 |  |
 | [yêu thì yêu không yêu thì yêu](https://open.spotify.com/track/79xFFmGKtEyky0I2G9U9Jg) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:10 | 2021-12-07 |  |
 | [Yêu Thầm](https://open.spotify.com/track/7dJVE53hGAX9TcKH0abFic) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [TDK](https://open.spotify.com/artist/30x6rCQm4CuabePneJLGj7) | [Yêu Thầm](https://open.spotify.com/album/36CB3L3Wjw0VfgYx4xSqfa) | 4:12 | 2021-12-07 |  |
 | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/track/4g05dGhnA69TG6AJljEcL6) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/album/4O5Y2CJavAsV8AkPZQqXrt) | 5:22 | 2021-12-07 |  |

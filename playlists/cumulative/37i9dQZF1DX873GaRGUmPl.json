@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 213000,
       "name": "33 \u201cGOD\u201d",
       "url": "https://open.spotify.com/track/1LfWibYjk0TD8YNPtzym9A"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 196560,
       "name": "Archie, Marry Me",
       "url": "https://open.spotify.com/track/3XpXhVtZwqh2eM5d9ieXT5"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 281170,
       "name": "Baby Blu",
       "url": "https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 202843,
       "name": "Bobbi's Second World",
       "url": "https://open.spotify.com/track/36jrkSaoMja4gKYTuZrpV4"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 231723,
       "name": "Chamber Of Reflection",
       "url": "https://open.spotify.com/track/1MJ5f5EYBC92ADD6xcz7nb"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 209021,
       "name": "Come For Me",
       "url": "https://open.spotify.com/track/0p3Gm7ZEqV4jdsMKWsPJ8O"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 252818,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/6dux5viG3Ku3IefPx3gFNT"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 244506,
       "name": "Fill in the Blank",
       "url": "https://open.spotify.com/track/6En18WkJJ7xjxfc2tm7ZrF"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 163292,
       "name": "I Don't Wanna Be Funny Anymore",
       "url": "https://open.spotify.com/track/0kwBATkVUAG7JRMEosNUUs"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 229586,
       "name": "I Feel",
       "url": "https://open.spotify.com/track/3GkIeUXutIw8XnW9ZC3hJ3"
@@ -1115,7 +1115,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 253866,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/52E1427pP2darugrmmbW6k"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 213173,
       "name": "I Was A Fool",
       "url": "https://open.spotify.com/track/4vRf8lasPrZOytGizPT06B"
@@ -1173,6 +1173,24 @@
       "duration_ms": 301960,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/0Ss9wcXyyL86SgTJg1r9dI"
+    },
+    {
+      "album": {
+        "name": "Port Of Morrow",
+        "url": "https://open.spotify.com/album/7bRzPsZ5ODf8STVgpFIQsS"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241613,
+      "name": "It's Only Life",
+      "url": "https://open.spotify.com/track/578fUsSLc9Kp5Ob0MVjpbD"
     },
     {
       "album": {
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/126TblwXGNTUZ7RPMnThkU"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 230388,
       "name": "Like An Animal",
       "url": "https://open.spotify.com/track/6WnZhhLoCQBVSKqkRPNF7a"
@@ -1569,7 +1587,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 192695,
       "name": "On the Luna",
       "url": "https://open.spotify.com/track/0Sfj5fPqZzCq9o3f1NNphz"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 232760,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 355174,
       "name": "Press Enter To Exit",
       "url": "https://open.spotify.com/track/79TbiUxFgg5HBkeXbVrwQl"
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 196324,
       "name": "Real Tight",
       "url": "https://open.spotify.com/track/3TohsRo77vDtjKi1t8mqze"
@@ -1839,7 +1857,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 207106,
       "name": "She Plays Bass",
       "url": "https://open.spotify.com/track/53vFEC7MHFKctetVsD19S4"
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 161646,
       "name": "She's a Witch",
       "url": "https://open.spotify.com/track/2GogU93UlhQPpctpKfgcVR"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 235293,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 165329,
       "name": "Slip Away",
       "url": "https://open.spotify.com/track/3Gda1sTo2ZjbztjjsnAsP3"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 241120,
       "name": "Something Tells Me",
       "url": "https://open.spotify.com/track/6yWn9RKfL1il1b4hFe6H1i"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 204080,
       "name": "Starstruck - Single Version",
       "url": "https://open.spotify.com/track/61WB7JcbfXjDpt5WLM2ymI"
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 251626,
       "name": "Step",
       "url": "https://open.spotify.com/track/78J9MBkAoqfvyeEpQKJDzD"
@@ -2073,7 +2091,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 166291,
       "name": "Super Sad Generation",
       "url": "https://open.spotify.com/track/2yWiiFMjGoNoOxLKbuTlsF"
@@ -2433,7 +2451,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 205048,
       "name": "Withorwithout",
       "url": "https://open.spotify.com/track/1Avnd5xLg7HmaNofmYk7RQ"

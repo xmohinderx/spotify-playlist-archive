@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQEbc2LcIWO.md) - [plain]
 | 24 | [Misery Business \- Acoustic Version](https://open.spotify.com/track/3CFIo5d0MJM4xergOijeYD) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:14 |
 | 25 | [Ocean Avenue Acoustic](https://open.spotify.com/track/4s53Uc7CoEtES0wHmr3peN) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue Acoustic](https://open.spotify.com/album/2hklYAaBxY3QjqoBM9pSAh) | 3:39 |
 
-Snapshot ID: `MTU2NzY3NTYzOCwwMDAwMDAwNjAwMDAwMTVlNTNiYjlmNTAwMDAwMDE2ZDAwYmZlMjhj`
+Snapshot ID: `MTY0Mzc1NTI0MSwwMDAwMDAwNzAwMDAwMTdlYjc3MjdmODAwMDAwMDE2ZDAwYmZlMjhj`

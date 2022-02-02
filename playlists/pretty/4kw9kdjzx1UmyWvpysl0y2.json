@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127636,
+  "num_followers": 127639,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzIxOSxlYzNlNDI4ZTM0YWE3ZDk2MjY5ZmJkMzU5Yzg1YTIyNGY4MTliYzk0",
+  "snapshot_id": "MzIyMSxjOTQ0YWNkNGNmZWJmMTcwOThjMTc0OGFmYjY0MmM1OGZlNmQyNTA3",
   "tracks": [
+    {
+      "added_at": "2022-02-01 21:44:46",
+      "album": {
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4"
+      },
+      "artists": [
+        {
+          "name": "Bishu",
+          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
+        }
+      ],
+      "duration_ms": 145161,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK"
+    },
+    {
+      "added_at": "2022-02-01 21:12:06",
+      "album": {
+        "name": "Between the Lines",
+        "url": "https://open.spotify.com/album/2ZfG7t9gQhlSA9fHvyqvta"
+      },
+      "artists": [
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "duration_ms": 275862,
+      "name": "Between the Lines",
+      "url": "https://open.spotify.com/track/4i3yA5Fw7yDsm7WtXXbFKK"
+    },
     {
       "added_at": "2022-01-28 17:20:43",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,493,716 likes - 252 songs - 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,494,336 likes - 252 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 10 | [Half Full](https://open.spotify.com/track/40GGIMSbrdezThttyrdTr7) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Half Full](https://open.spotify.com/album/6JyTESYhRGMqYZa7Qx8Pli) | 3:48 |
 | 11 | [Hallowed](https://open.spotify.com/track/7F5hM0cyofRFOFPvIzcRfd) | [Superiors](https://open.spotify.com/artist/0wP28uWYOdpcMbUgOotRS4) | [Le Murmure de Papeete](https://open.spotify.com/album/7knm1iMUlIIFMvXft32QQD) | 3:08 |
 | 12 | [The Road Back](https://open.spotify.com/track/75awJg9Xgn3cRJrPFihiV4) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [The Road Back](https://open.spotify.com/album/6yXBd5kQQujRewckYFsupC) | 4:06 |
-| 13 | [Grateful](https://open.spotify.com/track/7lCWa3w5ZfuaL1vF1HyJ2J) | [Nathalie J](https://open.spotify.com/artist/6agLJVI4c9rD8hwGydy18U) | [Grateful](https://open.spotify.com/album/3OUTNb2D5vBitZSIKK8h0C) | 4:24 |
+| 13 | [Grateful](https://open.spotify.com/track/7lCWa3w5ZfuaL1vF1HyJ2J) | [Nathalie J](https://open.spotify.com/artist/54gLxB9PQp26E1NsXCPsOb) | [Grateful](https://open.spotify.com/album/3OUTNb2D5vBitZSIKK8h0C) | 4:24 |
 | 14 | [Changes](https://open.spotify.com/track/7LN8q1j8AvipS8Rd17SZh8) | [Jon Laer](https://open.spotify.com/artist/3XZArTk2vsNiSzawsfi3XW) | [Changes](https://open.spotify.com/album/2AJCLt8HmnHefCJOOcqNtT) | 3:08 |
 | 15 | [Glaciers](https://open.spotify.com/track/77VlInzvpsNl69mz2bVB5W) | [Clay Edwards](https://open.spotify.com/artist/2vmXrZiuBbcPV8K7fBclWC) | [Glaciers](https://open.spotify.com/album/0BDgPFL7CTLC6t0IoyzwJS) | 2:53 |
 | 16 | [Comfort Zone](https://open.spotify.com/track/3QjA9DSJn9hEIkfiRYMBZB) | [Sounds And Beyond](https://open.spotify.com/artist/751p5MqwmdTxiqWVg0J46Y) | [Comfort Zone](https://open.spotify.com/album/1svkSAU7m4SXST5rh8a7xw) | 2:34 |

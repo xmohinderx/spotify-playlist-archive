@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 31 | [something](https://open.spotify.com/track/1cJ5ZXrClkc5sJElFQGKKC) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [something](https://open.spotify.com/album/7nmHTnA1cngSTs4HHmCBnw) | 2:48 |
 | 32 | [Recovery](https://open.spotify.com/track/5Tzum6abyRqlGk0dElTwoL) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:58 |
 | 33 | [Howl](https://open.spotify.com/track/3u1w9G4MYMG5EnfoOjaM3j) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:53 |
-| 34 | [Borrow My Heart](https://open.spotify.com/track/0bNKoOshkbM0HmS3KXeM89) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Taylor Henderson](https://open.spotify.com/album/4MCld6WjAzS4chIDFJL9en) | 3:32 |
-| 35 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 |
+| 34 | [I wanna love you but I don’t](https://open.spotify.com/track/7JQtczk2YMbVd9u176ltvl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:24 |
+| 35 | [Borrow My Heart](https://open.spotify.com/track/0bNKoOshkbM0HmS3KXeM89) | [Taylor Henderson](https://open.spotify.com/artist/40usJiKvNyNHy3GAcNXSWx) | [Taylor Henderson](https://open.spotify.com/album/4MCld6WjAzS4chIDFJL9en) | 3:32 |
 | 36 | [No More Suckers](https://open.spotify.com/track/19w92goxgjCj0uSdcu7541) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Love + Fear](https://open.spotify.com/album/0CUxS3KfHNuDpUUjbAewV3) | 3:14 |
 | 37 | [Your Eyes](https://open.spotify.com/track/38E4VJoyNGh2sBQFXLGl7X) | [Jai Waetford](https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3) | [Jai Waetford EP](https://open.spotify.com/album/57JXo4mMPYyKL31qorxv70) | 3:52 |
 | 38 | [Right Words Wrong Time](https://open.spotify.com/track/0pn8Vl8oFmIp0r21Zwpb76) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Dedicated](https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu) | 3:20 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 83 | [Lose Myself](https://open.spotify.com/track/5GiQpCHV469WHEbhef3EVB) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [Reset \(Deluxe Edition\)](https://open.spotify.com/album/6ggDEFRZIVCxKjgdqe1qxG) | 3:50 |
 | 84 | [feather](https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [i hate rollercoasters](https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9) | 2:27 |
 
-Snapshot ID: `MjczOTQ1NTksMDAwMDAwMDA4Y2U0OTgxOWFiYWEzYWMxNjgzZTMxZTlkYTU3NTM0MA==`
+Snapshot ID: `MjczOTYwMDEsMDAwMDAwMDBhZDcyZDEyZDNkMTU2NmMyYzUwZDI4Njk0YjIzZDlkZg==`

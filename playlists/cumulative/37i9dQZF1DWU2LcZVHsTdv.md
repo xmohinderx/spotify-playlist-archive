@@ -2,7 +2,7 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/6cE3SvtvS08f7zxJyG9uyM)
 
-> The country way of testifying\. <br/>Cover: Tucker Beathard
+> The country way of testifying\. <br/>Cover: Tenille Townes
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

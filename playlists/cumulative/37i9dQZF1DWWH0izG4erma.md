@@ -2,7 +2,7 @@
 
 ### [Country Rocks](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
-> Country Music that ROCKS!!  <br/>Cover: Chris Stapleton
+> Country Music that ROCKS!!  <br/>Cover: Brothers Osborne
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop & R&B\. Cover: <a href="https://open.spotify.com/artist/6P3y4aW1ODoascqxL48u7Y?si=YkvtIkePT1eVzOCFNAER\-w">Patty Monroe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,876 likes - 65 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,891 likes - 65 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

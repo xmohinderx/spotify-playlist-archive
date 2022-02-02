@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 269365,
       "name": "A CYBER'S WORLD? (From \"Deltarune\") - Electro House Version",
       "url": "https://open.spotify.com/track/7s9VjAWhf8ypPqdOCR3hcn"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 161800,
       "name": "Away With Me",
       "url": "https://open.spotify.com/track/5N0KyNZkYbA3wCgs09cVMm"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 259396,
       "name": "Back To U - Matrix & Futurebound Remix",
       "url": "https://open.spotify.com/track/588TIiNqDWazxZcxe2hRIE"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 243000,
       "name": "Be Your Angel (Android52 REMIX)",
       "url": "https://open.spotify.com/track/7u2nehnHDXBbgeV3DgvBZP"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Carbonara",
       "url": "https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 184687,
       "name": "Channel 43 - Radio Edit",
       "url": "https://open.spotify.com/track/2m9ryxnEcVoQNr22KRxe09"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 233566,
       "name": "Charisma",
       "url": "https://open.spotify.com/track/1pAbqGUiV6lQwofu1m31b3"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 214930,
       "name": "do-re-mi-fa-so-la-ti-do",
       "url": "https://open.spotify.com/track/6MDBkIEBEodrBPG5CPb8IG"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 259049,
       "name": "Dracodraco",
       "url": "https://open.spotify.com/track/1989YquYFYsPa4PutqJunf"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 205935,
       "name": "Drowning",
       "url": "https://open.spotify.com/track/3Tz5z68t6Ii4rf6bTMJHyo"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 207785,
       "name": "Electric Soul",
       "url": "https://open.spotify.com/track/4P2thFDOvuO497xWkyPUG0"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 228562,
       "name": "Finally Find You",
       "url": "https://open.spotify.com/track/0fEg3weP8yuyHlcPpb8fKm"
@@ -919,7 +919,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 171904,
       "name": "Find You",
       "url": "https://open.spotify.com/track/7oeUIg8gSKPTe6TYhpf8Lp"
@@ -999,6 +999,32 @@
       "duration_ms": 209454,
       "name": "Fork in the Road - unlucksi Remix",
       "url": "https://open.spotify.com/track/49KAyPvgs18DMQ5aV8y2OB"
+    },
+    {
+      "album": {
+        "name": "Found Me (yuigot Remix)",
+        "url": "https://open.spotify.com/album/04JshYBSgHVzGjKT5xY9k9"
+      },
+      "artists": [
+        {
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        },
+        {
+          "name": "yuigot",
+          "url": "https://open.spotify.com/artist/6JpGvdWdOnLTKuNWqOpYT0"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191997,
+      "name": "Found Me - yuigot Remix",
+      "url": "https://open.spotify.com/track/2sRKVHD3tF6t9t0U9CZYNY"
     },
     {
       "album": {
@@ -1089,7 +1115,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 206400,
       "name": "Geist",
       "url": "https://open.spotify.com/track/7KhkLJhPnrym8A989786NP"
@@ -1147,7 +1173,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 260344,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/7bT32pu1rHEiS6OGvbZwNV"
@@ -1315,7 +1341,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 288545,
       "name": "Hypervelocity (from HARDCORE UTOPIA 2)",
       "url": "https://open.spotify.com/track/7aSAkpmPssSngNdpuod8Dh"
@@ -1377,7 +1403,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 136000,
       "name": "if u want my love - floopy flip",
       "url": "https://open.spotify.com/track/3GzKv75h5Gr6dP7OuNqKvy"
@@ -1483,7 +1509,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 198684,
       "name": "Let Love Win",
       "url": "https://open.spotify.com/track/5jB0IkgKoNeHcCObpZuPXP"
@@ -1709,7 +1735,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 198339,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1gVIjLDPRFNJfv7TAKubnr"
@@ -1763,7 +1789,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 199399,
       "name": "Mike Tyson",
       "url": "https://open.spotify.com/track/7c1nwQG909uEAphCBqXdIy"
@@ -1799,7 +1825,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 229600,
       "name": "Miss Ya",
       "url": "https://open.spotify.com/track/625S4t7RE31ZlTkY7AzMsD"
@@ -1817,7 +1843,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 192000,
       "name": "Missin U",
       "url": "https://open.spotify.com/track/0oT0gQYC6YCpEL4CeVI6Xh"
@@ -2021,7 +2047,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 162010,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/1uF17IZKWZ4bQdNzH7CJM0"
@@ -2043,7 +2069,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 171789,
       "name": "Ocean's End",
       "url": "https://open.spotify.com/track/3L7eNE6i3bCJxX9xUHNp0X"
@@ -2065,7 +2091,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 245624,
       "name": "Orange - Milkoi Remix",
       "url": "https://open.spotify.com/track/3w4VtRRmZVPH3ooIXEhptZ"
@@ -2127,7 +2153,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 268000,
       "name": "Overthinker",
       "url": "https://open.spotify.com/track/4K9xid96G3YmIvQZXN9SXg"
@@ -2291,7 +2317,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 185276,
       "name": "QUESTIONS",
       "url": "https://open.spotify.com/track/1meEjEL51PAhzfotkDrW0s"
@@ -2375,7 +2401,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 208056,
       "name": "Raver Boi",
       "url": "https://open.spotify.com/track/5IuN6LwcS9rgqda4XrrnwX"
@@ -2477,7 +2503,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 144285,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/04wJvtcz0bjaCr8bwoaFjm"
@@ -2721,7 +2747,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 246177,
       "name": "Someone Else\u2019s Dream (CASTLE. Edit)",
       "url": "https://open.spotify.com/track/56oC5buLanioZDYpK2q94t"
@@ -2891,7 +2917,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 171710,
       "name": "sunlight",
       "url": "https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE"
@@ -2927,7 +2953,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 133333,
       "name": "SWEETHEART",
       "url": "https://open.spotify.com/track/1pm53W5JpBdkVyE72mm7W3"
@@ -2971,7 +2997,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 227170,
       "name": "talk - KOTONOHOUSE Remix",
       "url": "https://open.spotify.com/track/7oUKu47V3HhOOyqkGK4F4E"
@@ -3087,7 +3113,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 235764,
       "name": "Trust",
       "url": "https://open.spotify.com/track/0p8ipvANNRIp3r1chW6IBy"
@@ -3271,7 +3297,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 140967,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/2hGRadiwY5G6HhI25AzZrq"
@@ -3377,7 +3403,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 232296,
       "name": "Worlds Away",
       "url": "https://open.spotify.com/track/7oN714ES39BtIurjS46BQt"
@@ -3399,7 +3425,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 281614,
       "name": "You Make It Look So Easy - S.M.I.L.E.Y",
       "url": "https://open.spotify.com/track/00k4OQ83GU3zlGINUJngQA"

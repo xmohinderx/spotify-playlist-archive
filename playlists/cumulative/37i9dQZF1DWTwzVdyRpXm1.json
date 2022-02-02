@@ -676,6 +676,24 @@
     },
     {
       "album": {
+        "name": "8 Chances",
+        "url": "https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R"
+      },
+      "artists": [
+        {
+          "name": "Harnoor",
+          "url": "https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189429,
+      "name": "Jatta",
+      "url": "https://open.spotify.com/track/11lHthXPloRp8YMBx69ite"
+    },
+    {
+      "album": {
         "name": "Jugnu",
         "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
       },

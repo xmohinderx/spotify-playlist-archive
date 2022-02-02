@@ -143,7 +143,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 250666,
       "name": "Azan Nan Kpe",
       "url": "https://open.spotify.com/track/4ddVa6ZSL8uMuJfGAOdote"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 242906,
       "name": "Do Yourself",
       "url": "https://open.spotify.com/track/2yNfqf0Sty6D2INZFohjHc"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 232400,
       "name": "Logozo",
       "url": "https://open.spotify.com/track/0sVLGPd6FxdNyCOURUtiDn"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 204240,
       "name": "Salala",
       "url": "https://open.spotify.com/track/1AwNQDoTIfpJ2GxwRvyPUN"
@@ -1137,6 +1137,24 @@
       "duration_ms": 248466,
       "name": "The Great Curve",
       "url": "https://open.spotify.com/track/0Fi5C4uBEW6kNG6UF2ahm0"
+    },
+    {
+      "album": {
+        "name": "Fifa",
+        "url": "https://open.spotify.com/album/5giLSbodWJ1gDHPgJIKVLm"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298840,
+      "name": "The Sound Of The Drums",
+      "url": "https://open.spotify.com/track/3fMxN0fDKOhSvZqU3f7BPb"
     },
     {
       "album": {
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 220493,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/6EoOCVMcsU0Lt0TssHR7CY"

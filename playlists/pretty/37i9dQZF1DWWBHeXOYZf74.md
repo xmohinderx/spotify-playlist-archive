@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Toro y Moi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,323,756 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,323,784 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 14 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 |
 | 15 | [Freaky \(RGB\)](https://open.spotify.com/track/0tPgSBLHa0fPOVdCeOzLQS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Freaky \(RGB\)](https://open.spotify.com/album/4WJAlch8fMN9DU2lRo5bsX) | 1:49 |
 | 16 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
-| 17 | [Dark \(feat\. Greentea Peng\)](https://open.spotify.com/track/3xePjjNarqGa0Gn4XnkUmu) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Dark](https://open.spotify.com/album/0YBlt6P06C3fJ2OOJiBywd) | 3:57 |
+| 17 | [Dark \(feat\. Greentea Peng\)](https://open.spotify.com/track/3xePjjNarqGa0Gn4XnkUmu) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M), [James Davidson](https://open.spotify.com/artist/1eyorkwMy8ypw2tA5SzIXy), [Subjective](https://open.spotify.com/artist/4klCXFX14JSVZNQ2vEaLwH), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Dark \(feat\. Greentea Peng\)](https://open.spotify.com/album/0YBlt6P06C3fJ2OOJiBywd) | 3:57 |
 | 18 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
 | 19 | [Lights Out](https://open.spotify.com/track/5UatawMsGULDVG2h8wE1KS) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Lights Out](https://open.spotify.com/album/4q2ICY0OEEblDgkjKHkwPE) | 4:48 |
 | 20 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 |

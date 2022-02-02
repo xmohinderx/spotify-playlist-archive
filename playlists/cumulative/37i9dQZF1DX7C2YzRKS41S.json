@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 182058,
       "name": "3 da Manh\u00e3",
       "url": "https://open.spotify.com/track/3NCpBBT9G5eIDQxTRMacBm"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 219200,
       "name": "A Vida \u00c9 Foda - Ao Vivo",
       "url": "https://open.spotify.com/track/5gMiJqTKNyPcDhb7wX3fsW"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 196311,
       "name": "A Volta Que o Mundo Deu",
       "url": "https://open.spotify.com/track/5KqDsz2SIUvzOCUAFdvqUE"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 236250,
       "name": "Amanh\u00e3 Far\u00e1 Sorrir",
       "url": "https://open.spotify.com/track/3VQoJKND4uspzkNAlzq7IO"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 218923,
       "name": "Ameno",
       "url": "https://open.spotify.com/track/5xOceLdXjI6xdDiN0z33QU"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 220141,
       "name": "CACHOEIRA",
       "url": "https://open.spotify.com/track/57l9vK3s0roL97GOIvbrbw"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 186400,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 284693,
       "name": "Casca do Ovo",
       "url": "https://open.spotify.com/track/21UV3qUvsDenzdvTbXg4Nc"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 146375,
       "name": "Cheiro de Filho",
       "url": "https://open.spotify.com/track/6Ty26C5oLsOS68yA5ZCk6g"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 232293,
       "name": "Conta Comigo, Maria",
       "url": "https://open.spotify.com/track/6jZ3P1jDmLO3VYpuhPIktR"
@@ -895,10 +895,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "cora\u00e7\u00e3o (ERA VOC\u00ca)",
       "url": "https://open.spotify.com/track/2fai4wWKtlbmZgPX0qpwIt"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o S\u00f3",
+        "url": "https://open.spotify.com/album/4VfM5sTPtqjFxNiFbfp1ob"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234609,
+      "name": "Cora\u00e7\u00e3o S\u00f3",
+      "url": "https://open.spotify.com/track/2hzXAadS21ZYmDXE3sVUxg"
     },
     {
       "album": {
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 187928,
       "name": "DOIS",
       "url": "https://open.spotify.com/track/5tQmsgA4JxLZHxxmCp49wc"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 176438,
       "name": "Estou Vivo",
       "url": "https://open.spotify.com/track/0E4MQi6lcBOBwy2wxfxbc3"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 177665,
       "name": "Eu Sou Sentimental",
       "url": "https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD"
@@ -1343,7 +1361,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 175500,
       "name": "Fantasia - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4nnKcnDaW7iqkNNgVn5DVM"
@@ -1361,7 +1379,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 285222,
       "name": "Feito Amor",
       "url": "https://open.spotify.com/track/7h1CZsqQb3TCmEs1h8ISKN"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 180242,
       "name": "Fortuna e Paz",
       "url": "https://open.spotify.com/track/76QfrFK7OiK82C51iqWNu7"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 247001,
       "name": "Home",
       "url": "https://open.spotify.com/track/3X01VeoR0GckfiXlFRrJmF"
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 227230,
       "name": "Ilustra\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/67gKjKI5PMBgUWTYmXa2Yf"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 245500,
       "name": "Lariar",
       "url": "https://open.spotify.com/track/0QR8GS6CboYwlUV2RDAY2S"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 217243,
       "name": "Mais uma Vez",
       "url": "https://open.spotify.com/track/0VCfqWbvivWE0fnBY6joCF"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 182559,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/5DYfPDg2pEUv7UKZ2knpAW"
@@ -1879,7 +1897,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 242567,
       "name": "Na Curva Desse Rio",
       "url": "https://open.spotify.com/track/4lG6rUcs88C13OUWYnzW9o"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 167900,
       "name": "Nossa Bagun\u00e7a",
       "url": "https://open.spotify.com/track/1xdNhvGDPAv7IzUweczZ9y"
@@ -2003,7 +2021,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 204988,
       "name": "Nunca Fui Desse Lugar (feat. Lagum)",
       "url": "https://open.spotify.com/track/7mp85jFaa7DBmRcyUZ4YPc"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 191485,
       "name": "Nuvem Passageira",
       "url": "https://open.spotify.com/track/3pWXxtwyV4RHkNxD8fGvj4"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 184752,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/0Y4XHz6eHG8uYf1xgZvfxN"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 248760,
       "name": "Olhando Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/0ynCBNl6NcbsnwG9cSvQHv"
@@ -2275,7 +2293,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 227250,
       "name": "Outra Reza",
       "url": "https://open.spotify.com/track/6uDb9uEjjHMziYpH0XxqBw"
@@ -2315,7 +2333,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 197400,
       "name": "Parece V\u00edcio",
       "url": "https://open.spotify.com/track/40Jxk3ML7GVFbQ6cvoJVfe"
@@ -2373,7 +2391,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 141177,
       "name": "Pela Janela",
       "url": "https://open.spotify.com/track/3vxM6AQVRD2Hsw8YrRDQb3"
@@ -2421,7 +2439,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 193455,
       "name": "Perde Tudo",
       "url": "https://open.spotify.com/track/5Gk06ewtT8rdy8Qt5tzBXE"
@@ -2464,6 +2482,24 @@
     },
     {
       "album": {
+        "name": "Por um Triz",
+        "url": "https://open.spotify.com/album/5ba7Wm7m1cpWrtMcZrHHlh"
+      },
+      "artists": [
+        {
+          "name": "Luamarte",
+          "url": "https://open.spotify.com/artist/2QmfV9MglC4HiG5zzXmrmz"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230693,
+      "name": "Por um Triz",
+      "url": "https://open.spotify.com/track/5BtnfpdkVttGGSUUw3VjtY"
+    },
+    {
+      "album": {
         "name": "O Que Te Faz Sentir",
         "url": "https://open.spotify.com/album/0nADgMSO5BqMPOUjPzQZzz"
       },
@@ -2475,7 +2511,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 183568,
       "name": "Pra N\u00e3o Esquecer",
       "url": "https://open.spotify.com/track/7AOMtxV8loRbNU0CCowKg5"
@@ -2529,7 +2565,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 203369,
       "name": "Pro Mundo Que Vir\u00e1",
       "url": "https://open.spotify.com/track/3Z8wkGzmV0tD1zIQt1CrjH"
@@ -2609,7 +2645,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 394706,
       "name": "Quando Bate Aquela Saudade",
       "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
@@ -2717,7 +2753,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 208368,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/7pyj2l80Wwz3LnAstQK1dE"
@@ -2753,7 +2789,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 221811,
       "name": "Respirar - Ao Vivo",
       "url": "https://open.spotify.com/track/23ywwCrGJvTErBwZSXZDX0"
@@ -2975,7 +3011,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 215556,
       "name": "Slowmotion Cameraman",
       "url": "https://open.spotify.com/track/6nAJoXxWKSp7OsE10n3pOo"
@@ -3051,7 +3087,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 174196,
       "name": "S\u00f3 Penso em Voc\u00ea",
       "url": "https://open.spotify.com/track/4gfxor1ZE1jhQky49hMbCf"
@@ -3109,7 +3145,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 203824,
       "name": "Tem Dias Que S\u00e3o Noites",
       "url": "https://open.spotify.com/track/3fiXljuEWAantUUnIYyLLQ"
@@ -3181,7 +3217,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 245884,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/4svyWPcXznHkdtWspiKJaI"
@@ -3199,7 +3235,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 223192,
       "name": "Todas As Cores - Vers\u00e3o Ac\u00fastica",
       "url": "https://open.spotify.com/track/4xiAj5nbQAcQhcqXiqNAg3"
@@ -3221,7 +3257,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 235000,
       "name": "Tolo",
       "url": "https://open.spotify.com/track/3tSCASsxRHEzUsePqBqNx0"
@@ -3333,7 +3369,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 217767,
       "name": "Um Tanto",
       "url": "https://open.spotify.com/track/1BQhXbN8AzvHQrS7SvH58x"
@@ -3351,7 +3387,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 276870,
       "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
       "url": "https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1"
@@ -3463,7 +3499,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 193265,
       "name": "V\u00edrgula",
       "url": "https://open.spotify.com/track/3hfSi8c18dgL3lO0u1HRDw"

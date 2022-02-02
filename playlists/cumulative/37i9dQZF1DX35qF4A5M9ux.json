@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 297333,
       "name": "Cachondea",
       "url": "https://open.spotify.com/track/60Fl49DuNUh6LIUwHM7Mni"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 321706,
       "name": "Caricias Prohibidas",
       "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 287786,
       "name": "Desn\u00fadate Mujer",
       "url": "https://open.spotify.com/track/4xsTdpKwm0jlanaF6CmBy2"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 278871,
       "name": "Detalles",
       "url": "https://open.spotify.com/track/21d6EkqWaoA2hPDBUp2u8H"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 212138,
       "name": "Dime Qu\u00e9 Paso",
       "url": "https://open.spotify.com/track/6KdVQNCUSnik4BfxNubvqR"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 626880,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/5Uve0jm1RgxKWzdSvncBDO"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 414706,
       "name": "El Gran Varon",
       "url": "https://open.spotify.com/track/27n9VDbbjFnEJsgjYTnwTM"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 305053,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 354973,
       "name": "Gotas De Lluvia",
       "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
@@ -869,6 +869,24 @@
       "duration_ms": 289097,
       "name": "Gracias Amor",
       "url": "https://open.spotify.com/track/09zJAF4Z2v55rU9XXZfA9N"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302866,
+      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
     },
     {
       "album": {
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 296920,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 294746,
       "name": "Mi Media Mitad",
       "url": "https://open.spotify.com/track/2fE90eADYBcYLG3MSQRN3w"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 283733,
       "name": "M\u00eda",
       "url": "https://open.spotify.com/track/6RCHqUodOWBkMBPiKYzJhP"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 283272,
       "name": "Persona Ideal",
       "url": "https://open.spotify.com/track/0u2LbmKA70atp4J59QUnHW"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 272666,
       "name": "Procura",
       "url": "https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8"
@@ -1615,7 +1633,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 298346,
       "name": "Qu\u00e9 Hay de Malo",
       "url": "https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf"
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 302946,
       "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
       "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 242964,
       "name": "Se Acabo El Amor",
       "url": "https://open.spotify.com/track/6vYGqxYCAcj4gfyrGcqN3i"
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 194472,
       "name": "Sin Esencia",
       "url": "https://open.spotify.com/track/4UI57hmBDGt4mnTzMRsTZr"
@@ -1867,7 +1885,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 294280,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 266493,
       "name": "Tengo Ganas",
       "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
@@ -2011,7 +2029,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 251253,
       "name": "Tu Cari\u00f1ito",
       "url": "https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp"
@@ -2191,7 +2209,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 316093,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
@@ -2281,7 +2299,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 273738,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/4ae223xfO5QUzbDWqLJMag"
@@ -2317,7 +2335,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 388360,
       "name": "Y Hubo Alguien",
       "url": "https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj"
@@ -2335,7 +2353,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 303178,
       "name": "Y Que Me Pasa",
       "url": "https://open.spotify.com/track/3ygYBj0eUkIN560nuhTMb9"

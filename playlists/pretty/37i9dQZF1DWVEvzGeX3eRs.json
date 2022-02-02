@@ -1,28 +1,44 @@
 {
   "description": "What we're gonna do right now is go back\u2014back in time. Here are all your favorite '90s R&B slow jams!",
-  "num_followers": 1362916,
+  "num_followers": 1363283,
   "original_name": "'90s Baby Makers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzY3NTk3OSwwMDAwMDAwMDEwYTAxNjQwNGNiNzJhMTkzOGRhMTU2Nzc1YTdjYzgw",
+  "snapshot_id": "MTY0Mzc2MjQxNCwwMDAwMDAwMGQzYmYwNjA5ODUxMDA2M2MyZGM1Nzc1MGYxZDdmYjhk",
   "tracks": [
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "It's About Time",
-        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
       },
       "artists": [
         {
-          "name": "SWV",
-          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
         }
       ],
-      "duration_ms": 317360,
-      "name": "You're Always On My Mind",
-      "url": "https://open.spotify.com/track/4zAxfkmJqsaHqFu1YPMS5a"
+      "duration_ms": 324280,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "The Velvet Rope",
+        "url": "https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 317560,
+      "name": "I Get Lonely",
+      "url": "https://open.spotify.com/track/5xLDmkobOw674TLTBBmnuN"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -59,18 +75,34 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
       },
       "artists": [
         {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
         }
       ],
-      "duration_ms": 324280,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
+      "duration_ms": 290066,
+      "name": "Love U 4 Life",
+      "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "duration_ms": 317360,
+      "name": "You're Always On My Mind",
+      "url": "https://open.spotify.com/track/4zAxfkmJqsaHqFu1YPMS5a"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -107,34 +139,22 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Velvet Rope",
-        "url": "https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ"
+        "name": "Keith Sweat",
+        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 317560,
-      "name": "I Get Lonely",
-      "url": "https://open.spotify.com/track/5xLDmkobOw674TLTBBmnuN"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
-      },
-      "artists": [
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        },
         {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+          "name": "Athena Cage",
+          "url": "https://open.spotify.com/artist/2kqVmaPdvLEcfaT9oibK27"
         }
       ],
-      "duration_ms": 290066,
-      "name": "Love U 4 Life",
-      "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
+      "duration_ms": 264773,
+      "name": "Nobody (feat. Athena Cage)",
+      "url": "https://open.spotify.com/track/4SF1747p541umnykBp352Q"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -183,38 +203,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Total",
-        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+        "name": "Traces Of My Lipstick",
+        "url": "https://open.spotify.com/album/2vURwAnzdxnAlocCPmLG95"
       },
       "artists": [
         {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+          "name": "Xscape",
+          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
         }
       ],
-      "duration_ms": 282333,
-      "name": "Kissin' You",
-      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "If I Ever Fall In Love",
-        "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
-      },
-      "artists": [
-        {
-          "name": "Shai",
-          "url": "https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3"
-        },
-        {
-          "name": "Bill Appleberry",
-          "url": "https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ"
-        }
-      ],
-      "duration_ms": 289693,
-      "name": "If I Ever Fall In Love",
-      "url": "https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW"
+      "duration_ms": 256720,
+      "name": "Softest Place On Earth",
+      "url": "https://open.spotify.com/track/19asXa48FNoDzO8PaQm9MN"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -235,34 +235,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Fever for da Flavor",
-        "url": "https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd"
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
       "artists": [
         {
-          "name": "H-Town",
-          "url": "https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 330945,
-      "name": "Knockin' da Boots",
-      "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Traces Of My Lipstick",
-        "url": "https://open.spotify.com/album/2vURwAnzdxnAlocCPmLG95"
-      },
-      "artists": [
-        {
-          "name": "Xscape",
-          "url": "https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0"
-        }
-      ],
-      "duration_ms": 256720,
-      "name": "Softest Place On Earth",
-      "url": "https://open.spotify.com/track/19asXa48FNoDzO8PaQm9MN"
+      "duration_ms": 331200,
+      "name": "Whip Appeal",
+      "url": "https://open.spotify.com/track/3KwBXx4v79jKrITc0WBw6H"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -283,26 +267,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Keith Sweat",
-        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
-      },
-      "artists": [
-        {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
-        },
-        {
-          "name": "Athena Cage",
-          "url": "https://open.spotify.com/artist/2kqVmaPdvLEcfaT9oibK27"
-        }
-      ],
-      "duration_ms": 264773,
-      "name": "Nobody (feat. Athena Cage)",
-      "url": "https://open.spotify.com/track/4SF1747p541umnykBp352Q"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Best Of SWV",
         "url": "https://open.spotify.com/album/2QHtc53nHnTTQip9d3VmoP"
       },
@@ -319,34 +283,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Personal Conversation",
-        "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
+        "name": "Michel'le",
+        "url": "https://open.spotify.com/album/2PngFAB0v6216314TZRcGb"
       },
       "artists": [
         {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+          "name": "Michel'le",
+          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Happily Ever After",
-      "url": "https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "The Very Best Of After 7",
-        "url": "https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7"
-      },
-      "artists": [
-        {
-          "name": "After 7",
-          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
-        }
-      ],
-      "duration_ms": 272333,
-      "name": "Sara Smile",
-      "url": "https://open.spotify.com/track/0aqVhoenCvorCVcEZEfiLS"
+      "duration_ms": 353000,
+      "name": "Something in My Heart",
+      "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -371,18 +319,34 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "From The Mint Factory",
-        "url": "https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe"
+        "name": "Toni Braxton",
+        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
       },
       "artists": [
         {
-          "name": "Mint Condition",
-          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 314537,
-      "name": "U Send Me Swingin'",
-      "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
+      "duration_ms": 288093,
+      "name": "How Many Ways",
+      "url": "https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Total",
+        "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 282333,
+      "name": "Kissin' You",
+      "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -403,34 +367,34 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Michel'le",
-        "url": "https://open.spotify.com/album/2PngFAB0v6216314TZRcGb"
+        "name": "The Very Best Of After 7",
+        "url": "https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7"
       },
       "artists": [
         {
-          "name": "Michel'le",
-          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
+          "name": "After 7",
+          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
         }
       ],
-      "duration_ms": 353000,
-      "name": "Something in My Heart",
-      "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
+      "duration_ms": 272333,
+      "name": "Sara Smile",
+      "url": "https://open.spotify.com/track/0aqVhoenCvorCVcEZEfiLS"
     },
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+        "name": "Fever for da Flavor",
+        "url": "https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+          "name": "H-Town",
+          "url": "https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ"
         }
       ],
-      "duration_ms": 331200,
-      "name": "Whip Appeal",
-      "url": "https://open.spotify.com/track/3KwBXx4v79jKrITc0WBw6H"
+      "duration_ms": 330945,
+      "name": "Knockin' da Boots",
+      "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -467,18 +431,18 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Brown Sugar",
-        "url": "https://open.spotify.com/album/1Owp8VOaFEk4r7zkvGOHmE"
+        "name": "Personal Conversation",
+        "url": "https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
         }
       ],
-      "duration_ms": 384666,
-      "name": "Cruisin' - Carl Mackintosh Mix",
-      "url": "https://open.spotify.com/track/6xYd4zCVeSp80Un2Rl9wDs"
+      "duration_ms": 276000,
+      "name": "Happily Ever After",
+      "url": "https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -499,66 +463,38 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Radio Waves Of The '90s: Urban Hits",
-        "url": "https://open.spotify.com/album/6lnkKUssdkeFx4jFng3L6C"
+        "name": "If I Ever Fall In Love",
+        "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
       },
       "artists": [
         {
-          "name": "Lokey",
-          "url": "https://open.spotify.com/artist/4bidFqFLzQ6OBICstJbr05"
+          "name": "Shai",
+          "url": "https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3"
+        },
+        {
+          "name": "Bill Appleberry",
+          "url": "https://open.spotify.com/artist/3XDOHFgZoRPljL3nSeYJtJ"
         }
       ],
-      "duration_ms": 257399,
-      "name": "I Got A Thang 4 Ya!",
-      "url": "https://open.spotify.com/track/4OXAYBy41owXhbOoi932y0"
+      "duration_ms": 289693,
+      "name": "If I Ever Fall In Love",
+      "url": "https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW"
     },
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Tony! Toni! Tone'! Greatest Hits",
-        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
+        "name": "From The Mint Factory",
+        "url": "https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe"
       },
       "artists": [
         {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+          "name": "Mint Condition",
+          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
         }
       ],
-      "duration_ms": 296306,
-      "name": "It Never Rains (In Southern California)",
-      "url": "https://open.spotify.com/track/6ygcYdLszK2DJUU7BWuCxx"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "The Very Best Of After 7",
-        "url": "https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7"
-      },
-      "artists": [
-        {
-          "name": "After 7",
-          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/78fii1y8vrGtn5YtHEnpaN"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
-        "name": "Toni Braxton",
-        "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 288093,
-      "name": "How Many Ways",
-      "url": "https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012"
+      "duration_ms": 314537,
+      "name": "U Send Me Swingin'",
+      "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -579,50 +515,50 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Diamonds and Pearls",
-        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
+        "name": "The Very Best Of After 7",
+        "url": "https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "After 7",
+          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
         }
       ],
-      "duration_ms": 399666,
-      "name": "Insatiable",
-      "url": "https://open.spotify.com/track/2cXdUg5c57C4b2qLCqHAOX"
+      "duration_ms": 272933,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/78fii1y8vrGtn5YtHEnpaN"
     },
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
+        "name": "Brown Sugar",
+        "url": "https://open.spotify.com/album/1Owp8VOaFEk4r7zkvGOHmE"
       },
       "artists": [
         {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/3wVllS5itPK6rpHwfvNce4"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 314866,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/2PtwvKN5m8B0HVel2kOdoX"
+      "duration_ms": 384666,
+      "name": "Cruisin' - Carl Mackintosh Mix",
+      "url": "https://open.spotify.com/track/6xYd4zCVeSp80Un2Rl9wDs"
     },
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Tamia",
-        "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
+        "name": "Radio Waves Of The '90s: Urban Hits",
+        "url": "https://open.spotify.com/album/6lnkKUssdkeFx4jFng3L6C"
       },
       "artists": [
         {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+          "name": "Lokey",
+          "url": "https://open.spotify.com/artist/4bidFqFLzQ6OBICstJbr05"
         }
       ],
-      "duration_ms": 372640,
-      "name": "You Put a Move on My Heart",
-      "url": "https://open.spotify.com/track/3bhZuw0gZRLEOGeggjWzpP"
+      "duration_ms": 257399,
+      "name": "I Got A Thang 4 Ya!",
+      "url": "https://open.spotify.com/track/4OXAYBy41owXhbOoi932y0"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -643,34 +579,34 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Cooleyhighharmony - Expanded Edition",
-        "url": "https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO"
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
       },
       "artists": [
         {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 228866,
-      "name": "Uhh Ahh",
-      "url": "https://open.spotify.com/track/0MrD47wtvAu6igsy8vqUzN"
+      "duration_ms": 399666,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/2cXdUg5c57C4b2qLCqHAOX"
     },
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Best of Tevin Campbell",
-        "url": "https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN"
+        "name": "Tony! Toni! Tone'! Greatest Hits",
+        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
       },
       "artists": [
         {
-          "name": "Tevin Campbell",
-          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 294800,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/3xWWs8xnzh3sg7F6KlhfSC"
+      "duration_ms": 296306,
+      "name": "It Never Rains (In Southern California)",
+      "url": "https://open.spotify.com/track/6ygcYdLszK2DJUU7BWuCxx"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -691,6 +627,54 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
+        "name": "Tamia",
+        "url": "https://open.spotify.com/album/3PFEg7sWLEMuS3nyTIguEV"
+      },
+      "artists": [
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 372640,
+      "name": "You Put a Move on My Heart",
+      "url": "https://open.spotify.com/track/3bhZuw0gZRLEOGeggjWzpP"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
+      },
+      "artists": [
+        {
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/3wVllS5itPK6rpHwfvNce4"
+        }
+      ],
+      "duration_ms": 314866,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/2PtwvKN5m8B0HVel2kOdoX"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "The Best of Tevin Campbell",
+        "url": "https://open.spotify.com/album/3hwPsvBmnFXv5qFueDDUjN"
+      },
+      "artists": [
+        {
+          "name": "Tevin Campbell",
+          "url": "https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE"
+        }
+      ],
+      "duration_ms": 294800,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/3xWWs8xnzh3sg7F6KlhfSC"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
         "name": "Funky Divas",
         "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
@@ -707,34 +691,34 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+        "name": "For The Cool In You",
+        "url": "https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 274000,
-      "name": "Take Our Time",
-      "url": "https://open.spotify.com/track/44QrzYVAHFC9WMN91GEo9H"
+      "duration_ms": 229600,
+      "name": "When Can I See You",
+      "url": "https://open.spotify.com/track/2zItQNJrVrTioXTXWiI2ed"
     },
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
+        "name": "Cooleyhighharmony - Expanded Edition",
+        "url": "https://open.spotify.com/album/7JnLsJWNUf50DGZ5JhBgbO"
       },
       "artists": [
         {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/3wVllS5itPK6rpHwfvNce4"
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
         }
       ],
-      "duration_ms": 274533,
-      "name": "Freak Me",
-      "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
+      "duration_ms": 228866,
+      "name": "Uhh Ahh",
+      "url": "https://open.spotify.com/track/0MrD47wtvAu6igsy8vqUzN"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -755,18 +739,34 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "True to Myself",
-        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1ujRHjYVLKXK7do7CnahUQ"
       },
       "artists": [
         {
-          "name": "Eric Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/3wVllS5itPK6rpHwfvNce4"
         }
       ],
-      "duration_ms": 286973,
-      "name": "Let's Stay Together - Midnight Mix",
-      "url": "https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH"
+      "duration_ms": 274533,
+      "name": "Freak Me",
+      "url": "https://open.spotify.com/track/5CdJveJgiGXoGwDFqF6afp"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 375706,
+      "name": "Scandalous",
+      "url": "https://open.spotify.com/track/2dnPoLlcwJFtFm1pps3Bm0"
     },
     {
       "added_at": "2021-03-05 00:03:16",

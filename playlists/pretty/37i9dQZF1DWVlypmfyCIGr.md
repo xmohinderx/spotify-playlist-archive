@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ミオヤマザキ
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,819 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,840 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [有ルモノネダリ](https://open.spotify.com/track/3gA13XBjcdN8VyM4sPyJlo) | [Mio Yamazaki](https://open.spotify.com/artist/2RN5euWwgrbUGgNjhimw0y) | [有ルモノネダリ](https://open.spotify.com/album/0EGg1JuQELCpRAUSiTY4b2) | 3:54 |
 | 2 | [花火](https://open.spotify.com/track/445ClT4e6nCWUb8GzUXGjs) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:32 |
-| 3 | [Still Dreamin’](https://open.spotify.com/track/3kS5u2QrXPiX15KNBwc1zk) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Still Dreamin'](https://open.spotify.com/album/4FnSdO9Au9DBEYoVTKcQrY) | 4:02 |
+| 3 | [Do you wanna dance?](https://open.spotify.com/track/4M2sfOnI5o3VU6GyYoKPOf) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Still Dreamin'](https://open.spotify.com/album/470wDFggB1BlolvYXsLFvj) | 4:26 |
 | 4 | [鬼 remixed by 佐藤優介](https://open.spotify.com/track/5hwHSmE4tAWtERZJxl3nyn) | [Kayoko Yoshizawa](https://open.spotify.com/artist/7tBabqiwVyDG4VNrijrhE0) | [鬼 remixed by 佐藤優介](https://open.spotify.com/album/073V8a7YAYR9dImEy5cvbD) | 3:06 |
 | 5 | [Shinjuku no Nekomae](https://open.spotify.com/track/3P5fdhIdXBvAt0c1i8KBYP) | [RAKURA](https://open.spotify.com/artist/3voKaAQ6dZPw9gMA7KOTcP) | [Shinjuku no Nekomae](https://open.spotify.com/album/6DP36MfHmYACsqAlaKpzHn) | 4:20 |
 | 6 | [希望の河](https://open.spotify.com/track/4gs7OWHFtH5htZfa9iIciS) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [浮気なぼくら&インストゥルメンタル](https://open.spotify.com/album/6gpNNlsGVOd3dv3CIaARJ8) | 4:40 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Plus You\(Just For Me\)](https://open.spotify.com/track/1upOA38JMeTpW5ZtW8gAFR) | [掛 優大](https://open.spotify.com/artist/2aFeDBBtDXb8xc6pao5Pfj) | [Self Care](https://open.spotify.com/album/5XzIMhNrAgUii2S35Uf7sE) | 3:44 |
 | 80 | [君のことを歌おう](https://open.spotify.com/track/5df6RqFRl1MJyuKtlYIc58) | [Nyanzonu Deshi](https://open.spotify.com/artist/1SvVh1zDPdsm49YyhmsqTX) | [君のことを歌おう](https://open.spotify.com/album/1yCEIyQYUSApVOA53oIkSq) | 5:12 |
 
-Snapshot ID: `MTY0MzY0MTIwMCwwMDAwMDEzYTAwMDAwMTdlYjBhNjVkZjUwMDAwMDE3ZWFmMzIyNGVh`
+Snapshot ID: `MTY0MzY4Mzg2NywwMDAwMDEzYjAwMDAwMTdlYjMzMTZiOTIwMDAwMDE3ZWFmMzIyNGVh`

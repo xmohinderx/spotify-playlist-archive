@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 
 > These women rock our worlds with their music and influence\. Cover: Stevie Nicks
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,674 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,218 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0ZFXhY0CRF.md) - [plain]
 | 99 | [California Friends](https://open.spotify.com/track/6QKtCL5SUseSpvEMJpJPOa) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [California Friends](https://open.spotify.com/album/1QZ812AcNas8yxLJuxFgJp) | 3:34 |
 | 100 | [This Woman's Work](https://open.spotify.com/track/4F6ihtOUcj1uLWdSkc1RzG) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World](https://open.spotify.com/album/4ZeZ9B0IZHk0zXB9lxZaGR) | 3:34 |
 
-Snapshot ID: `MTYyMDM2MDA2MCwwMDAwMDAzNTAwMDAwMTc5NDRmYzVjZWEwMDAwMDE3NGUxMDJjN2Ri`
+Snapshot ID: `MTY0Mzc1NTI4OSwwMDAwMDAzNjAwMDAwMTdlYjc3MzNiZTIwMDAwMDE3NGUxMDJjN2Ri`

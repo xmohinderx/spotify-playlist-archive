@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 972,865 likes - 324 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,049 likes - 324 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -283,7 +283,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 273 | [Somewhere Around Here](https://open.spotify.com/track/57a2PeuLm9V53lgurUzzMh) | [Fires In The Dark](https://open.spotify.com/artist/4gFdKcBLSzdrCQpp5XUbCY) | [Somewhere Around Here](https://open.spotify.com/album/4w59HpHcpRyKY0hlFutcps) | 2:59 |
 | 274 | [Love and Monsters](https://open.spotify.com/track/5RfuVEIaZNxb7ubrYrYrpt) | [Pante H á](https://open.spotify.com/artist/3Wg0M8lS9TkJqSHgSotvGf) | [Love and Monsters](https://open.spotify.com/album/5Of6mG0ssB68DJfEBgAcgi) | 1:23 |
 | 275 | [thyme](https://open.spotify.com/track/01u7mnb7IIIPwzyS2JMLkr) | [halfv](https://open.spotify.com/artist/39uoKVa0crMraoZRzL5sPQ) | [thyme](https://open.spotify.com/album/19By3kTebpVXN7WLzpUZx4) | 2:03 |
-| 276 | [Summer Fling](https://open.spotify.com/track/4qrCkRPyWcwF49CL17TPgn) | [Kang](https://open.spotify.com/artist/1Vqhp3d1v0fUgtLOj1XsjV) | [Summer Fling](https://open.spotify.com/album/2qQTG50GW631CzTxifRbOs) | 2:21 |
+| 276 | [Summer Fling](https://open.spotify.com/track/4qrCkRPyWcwF49CL17TPgn) | [Kang](https://open.spotify.com/artist/1kEdK5L1BLpMjtPu1gGxPI) | [Summer Fling](https://open.spotify.com/album/2qQTG50GW631CzTxifRbOs) | 2:21 |
 | 277 | [Mombasa Night](https://open.spotify.com/track/2lGx79WyAqEyJcxtqqOaEb) | [Idris Jem](https://open.spotify.com/artist/0TsDkwnB2mr1kbQKAU4XcY) | [Mombasa Night](https://open.spotify.com/album/2fk273nfng9SzpuYWygQRo) | 2:09 |
 | 278 | [Lo\-Fi Script](https://open.spotify.com/track/3lgZiAGYdOZt7oY4kF6Zhh) | [Blue Motyl](https://open.spotify.com/artist/0xOHCFbX8RDbK6CHogBjfS) | [Joy Fever](https://open.spotify.com/album/34GqgZ2dZ2ewfyK1kIiNpA) | 2:02 |
 | 279 | [On a rainy day](https://open.spotify.com/track/1a2eyk0rpzugi4FigKkLOq) | [Boredoom](https://open.spotify.com/artist/4Z6uWpbUphWlLHvmsqAb8W) | [On a rainy day](https://open.spotify.com/album/4Xs6L1zNR8gBSNlJy9jv68) | 1:39 |

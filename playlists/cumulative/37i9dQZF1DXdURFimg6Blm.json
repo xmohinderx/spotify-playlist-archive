@@ -137,7 +137,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 184153,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/17R5hvs1krffl3SAVtkY8B"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 134812,
       "name": "Dead Or Alive",
       "url": "https://open.spotify.com/track/4ebye8oxJ3SaTi3MD50lbn"
@@ -847,6 +847,24 @@
       "duration_ms": 174193,
       "name": "Dopamine (feat. Eyelar) [John Summit Remix]",
       "url": "https://open.spotify.com/track/0np5Q0HCkLlUU9NVUCbqHv"
+    },
+    {
+      "album": {
+        "name": "Down",
+        "url": "https://open.spotify.com/album/6FzpGsnMM5OMVw2xY8tCm5"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192470,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/3E7NvHQfe0GNagcVW3fzlm"
     },
     {
       "album": {
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 201204,
       "name": "Flames",
       "url": "https://open.spotify.com/track/4BEsc7EIzOYFiClFnV8weP"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 188920,
       "name": "Freedom (You Bring Me)",
       "url": "https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 318720,
       "name": "G Spot",
       "url": "https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 238306,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/2yCyr5ZJHDm9CzpPRdduJ9"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 219193,
       "name": "Honey",
       "url": "https://open.spotify.com/track/6xMb0wjwc0jaW4jUEBFCJp"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 145785,
       "name": "I Came to Dance",
       "url": "https://open.spotify.com/track/5KsqavNwpQsiqzlkW2r0aI"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 187086,
       "name": "Jack Machine",
       "url": "https://open.spotify.com/track/1239Sq2SqVR55dY3jrDMQx"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 204761,
       "name": "Life Of Sin (feat. Ranger Trucco)",
       "url": "https://open.spotify.com/track/5CB3JnLsxjDJj2EUabWcuj"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 175000,
       "name": "Love You Like That",
       "url": "https://open.spotify.com/track/6QNOYe6I5Dt7oHtcIkmYZ5"
@@ -2247,7 +2265,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 130757,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/6X6CUqG6rW8rtGXdzyCOJH"
@@ -2273,7 +2291,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 210624,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/59EZP9EeX60qeXpYuYkyZY"
@@ -2623,7 +2641,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 220082,
       "name": "Patience (feat. Kayla Rose)",
       "url": "https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox"
@@ -2703,7 +2721,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 245542,
       "name": "Player Of Games",
       "url": "https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2"
@@ -2953,7 +2971,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 225218,
       "name": "Say Yeah",
       "url": "https://open.spotify.com/track/7diiW6RSbOz0o1P7BWGmut"
@@ -2979,6 +2997,28 @@
       "duration_ms": 210875,
       "name": "Searching",
       "url": "https://open.spotify.com/track/1yLFszi3D4sq3ECcDxxPM6"
+    },
+    {
+      "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/1cQwMGOrpiXTdeot0bdplB"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Laura White",
+          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg"
     },
     {
       "album": {
@@ -3273,7 +3313,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 175312,
       "name": "Tell It To My Heart (feat. Hozier) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI"
@@ -3313,7 +3353,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 168251,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/1mA59ka5t7zodO1FO0Xzzj"
@@ -3331,7 +3371,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 143765,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/5cqMUOZZkY7o5b5fupnxvh"
@@ -3393,7 +3433,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 206666,
       "name": "To L.A.",
       "url": "https://open.spotify.com/track/0l8y6oPQbVonLvicE34SC9"
@@ -3463,6 +3503,32 @@
       "duration_ms": 189076,
       "name": "Try Again (feat. Lauv)",
       "url": "https://open.spotify.com/track/0DHh3p0g7qmNNfNdRNwL6N"
+    },
+    {
+      "album": {
+        "name": "Turn Off The Lights (Cloonee Remix)",
+        "url": "https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Alexis Roberts",
+          "url": "https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198754,
+      "name": "Turn Off The Lights - Cloonee Remix",
+      "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
     },
     {
       "album": {
@@ -3771,7 +3837,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 217261,
       "name": "Won\u2019t Let You Go",
       "url": "https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"

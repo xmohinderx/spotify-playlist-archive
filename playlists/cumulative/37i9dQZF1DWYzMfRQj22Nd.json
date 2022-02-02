@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 277241,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0RpsN5i29wzKUXUBRX0AVO"
@@ -445,7 +445,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 308940,
       "name": "Behind The Glass",
       "url": "https://open.spotify.com/track/3Dd0R86fWYsKSk70EhBZ8v"
@@ -625,7 +625,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 323657,
       "name": "Changing Form",
       "url": "https://open.spotify.com/track/6WHA7XfZ15jNUJdb2jbPJA"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 184871,
       "name": "Chicane - Kumarion Remix",
       "url": "https://open.spotify.com/track/7gULomk5ka4EC5EapKWWBj"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Collide - Bensley Remix",
       "url": "https://open.spotify.com/track/2DXL4PdMgc8VtoNWQIH17k"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 190344,
       "name": "Devotion (ft. Cameron Hayes)",
       "url": "https://open.spotify.com/track/5TGdeBW6v7BuGYjtiFKwyC"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 230007,
       "name": "Energy",
       "url": "https://open.spotify.com/track/2xyG0785QU6hEQRDmKA29U"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 299530,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/6eim9waz372dV7a13FvQ7r"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 230984,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/1MKUYM2oiCX4AtyuEocHBe"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 228538,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/6aXRILTdr65hT9dZRpYOJ7"
@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -1655,7 +1655,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 271724,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/3xHyg6aNGOQawpeKeI1rFK"
@@ -1717,7 +1717,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 208446,
       "name": "High On You - Sigma VIP",
       "url": "https://open.spotify.com/track/4l8pRrklNaqv7H1Tah1M5v"
@@ -1823,7 +1823,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 190909,
       "name": "Holding On (feat. Leo The Kind)",
       "url": "https://open.spotify.com/track/6qa8nhtZCylZU8qBD2KzTU"
@@ -1907,6 +1907,24 @@
       "duration_ms": 216551,
       "name": "I Need To Feel",
       "url": "https://open.spotify.com/track/5NOds8na1gzgwXlAo1eGoh"
+    },
+    {
+      "album": {
+        "name": "I'm Just A Monster Underneath, My Darling",
+        "url": "https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250344,
+      "name": "I'm Just A Monster Underneath, My Darling",
+      "url": "https://open.spotify.com/track/5CkicabyzDs7F7Froa503f"
     },
     {
       "album": {
@@ -2035,7 +2053,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 299030,
       "name": "Just Hold On - Sub Focus & Wilkinson vs. Pola & Bryson Remix",
       "url": "https://open.spotify.com/track/02ldG2CqO7n11n8A2XYjuD"
@@ -2473,7 +2491,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 204827,
       "name": "Miracle - REAPER Remix",
       "url": "https://open.spotify.com/track/41JyOI4feB5z5vK6asNeo5"
@@ -2539,7 +2557,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 318171,
       "name": "MONSTERS - K Motionz Remix",
       "url": "https://open.spotify.com/track/5c1trjKGPsdfInFtO4jdkQ"
@@ -2579,7 +2597,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 203660,
       "name": "Moving Forward",
       "url": "https://open.spotify.com/track/3UEOWV4zDH0b1cZqSJXHNW"
@@ -2663,7 +2681,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 194882,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/1QgYm6U7EX2Bhpj3BOTLHQ"
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 295372,
       "name": "Nova",
       "url": "https://open.spotify.com/track/0Me1TVXnyI1jfmhF1bfpys"
@@ -2879,7 +2897,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 209651,
       "name": "Payback",
       "url": "https://open.spotify.com/track/0UHeE47Px036a6hiMfUd3C"
@@ -3197,7 +3215,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 402326,
       "name": "Red Sun",
       "url": "https://open.spotify.com/track/36tSyKYCVlhSvEhZl1fB8h"
@@ -3321,7 +3339,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 275862,
       "name": "Run Tings",
       "url": "https://open.spotify.com/track/0pTPFRllyljfjmAXRhmmNl"
@@ -3343,7 +3361,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 209137,
       "name": "RUNAWAY (feat. Josh Rubin)",
       "url": "https://open.spotify.com/track/16Df0dHOZk8miL46zPDaZ5"
@@ -3401,7 +3419,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 218470,
       "name": "Scared",
       "url": "https://open.spotify.com/track/7DTk1207Efq0HBUEYmbcTB"
@@ -3423,7 +3441,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 223143,
       "name": "Secret",
       "url": "https://open.spotify.com/track/2CKvhcxC6vuommXliI7CTJ"
@@ -3481,7 +3499,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 223526,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/3q2uX1BAjCiKmhEQiqWZTD"
@@ -3813,7 +3831,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 243601,
       "name": "Surfing The Anxiety Waves",
       "url": "https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1"
@@ -3923,7 +3941,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 186206,
       "name": "The Step - Pola & Bryson Remix",
       "url": "https://open.spotify.com/track/4OJL3pgbQFEBS5jnv1ejqh"
@@ -3945,7 +3963,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 180790,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/14m8zaNe63k0jBzsCs1Flv"
@@ -3985,7 +4003,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 353103,
       "name": "There for You - LSB Remix",
       "url": "https://open.spotify.com/track/6jLWsTbWniLvGEDSCQPin9"
@@ -4091,6 +4109,28 @@
       "duration_ms": 226206,
       "name": "Used to This",
       "url": "https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v"
+    },
+    {
+      "album": {
+        "name": "The Reworks",
+        "url": "https://open.spotify.com/album/3QZHRDBNh1GHDY6MCBULQp"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400574,
+      "name": "Vault - Moby Remix",
+      "url": "https://open.spotify.com/track/5aXFnB1DE5d9IJVsrpzT7X"
     },
     {
       "album": {

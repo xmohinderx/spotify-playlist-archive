@@ -427,7 +427,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 169420,
       "name": "Eat It",
       "url": "https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW"
@@ -800,7 +800,7 @@
     },
     {
       "album": {
-        "name": "Interestelar",
+        "name": "INTERESTELAR",
         "url": "https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM"
       },
       "artists": [
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 273853,
       "name": "Los Bandoleros",
       "url": "https://open.spotify.com/track/6PxRarQMMrZnB9m0vRhMW0"
@@ -1155,7 +1155,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 113429,
       "name": "Megan's Piano",
       "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 195320,
       "name": "NEW MAGIC WAND",
       "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
@@ -1694,6 +1694,28 @@
     },
     {
       "album": {
+        "name": "Roadtrip",
+        "url": "https://open.spotify.com/album/4nndDRqggBACyN5dw13kDI"
+      },
+      "artists": [
+        {
+          "name": "Dream",
+          "url": "https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd"
+        },
+        {
+          "name": "PmBata",
+          "url": "https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133661,
+      "name": "Roadtrip",
+      "url": "https://open.spotify.com/track/4Agtk2MrapdZAVN7v6PuFO"
+    },
+    {
+      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -1765,6 +1787,24 @@
       "duration_ms": 177857,
       "name": "Salimo de Noche",
       "url": "https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M"
+    },
+    {
+      "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Sauce Boy Freestyle 5",
+      "url": "https://open.spotify.com/track/69L3B6ZuwodK4NL8bAPgJc"
     },
     {
       "album": {

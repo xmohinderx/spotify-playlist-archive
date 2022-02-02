@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 218848,
       "name": "Argent\u00edgena",
       "url": "https://open.spotify.com/track/0ZchY9PPDrUCIexK7FxnOH"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 269760,
       "name": "Balada para el",
       "url": "https://open.spotify.com/track/03fOQBpMpTkb5L2KBMuKv1"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 178386,
       "name": "Che bandoneon",
       "url": "https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 209866,
       "name": "Fruta Amarga",
       "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 132540,
       "name": "India de Tango",
       "url": "https://open.spotify.com/track/6Gw79GdafladbPqbXPW2A9"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 258529,
       "name": "La \u00daltima Curda",
       "url": "https://open.spotify.com/track/6wTRZqGXcMRXCXYFUAqXL4"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 133000,
       "name": "Malena",
       "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 213476,
       "name": "Mano a Mano",
       "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 232930,
       "name": "Milonga del Desocupado",
       "url": "https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 249481,
       "name": "O Mundo",
       "url": "https://open.spotify.com/track/0ecuK8cOglsgeUYCcnDttb"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 165637,
       "name": "Rosas de Oto\u00f1o",
       "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
@@ -1190,6 +1190,24 @@
     },
     {
       "album": {
+        "name": "Desborde",
+        "url": "https://open.spotify.com/album/3DYnE5s0vrLYftm3IBu1rk"
+      },
+      "artists": [
+        {
+          "name": "Chifladas Tango",
+          "url": "https://open.spotify.com/artist/6ECEEja2Mu2I8UxShoTgfB"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159584,
+      "name": "Sin P\u00e9talos",
+      "url": "https://open.spotify.com/track/6h9GkF9LC4WYQVjpC29KXy"
+    },
+    {
+      "album": {
         "name": "Soledad",
         "url": "https://open.spotify.com/album/0tXKqVJN1KMDjzcWW7dgQj"
       },
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 231373,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/1BlKIFOIPRWYoaZaVM1GRC"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 178706,
       "name": "Tango Negro",
       "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"

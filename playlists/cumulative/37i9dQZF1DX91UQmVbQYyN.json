@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 138223,
       "name": "A letter to my younger self",
       "url": "https://open.spotify.com/track/325e3Lkx4AodxGNsqHiaG4"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 156145,
       "name": "A Pearl",
       "url": "https://open.spotify.com/track/3udrjWCXCBotzU2uQ05Zmx"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 196082,
       "name": "Call Your Name",
       "url": "https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 192360,
       "name": "Cherry Ice Cream Sundae",
       "url": "https://open.spotify.com/track/2kp5QEtvCuWmDmc7prlDJq"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 237480,
       "name": "Delete Forever",
       "url": "https://open.spotify.com/track/6pBaH4u4WIFDxzwDaazekR"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 237493,
       "name": "Delete Forever",
       "url": "https://open.spotify.com/track/5B1qeFOEeUCMudPEVeasHp"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 229952,
       "name": "desastre natural",
       "url": "https://open.spotify.com/track/5MFYjx5Ba0NuyL1TUQVI69"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 231670,
       "name": "Drown",
       "url": "https://open.spotify.com/track/1OkCqIuPJeaLksbOcZXVaz"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 164524,
       "name": "El Astronauta",
       "url": "https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 206165,
       "name": "GO",
       "url": "https://open.spotify.com/track/6W8XOCAudICxfCjiNgH35p"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 164465,
       "name": "Hide n Seek",
       "url": "https://open.spotify.com/track/0YqBRZmOpq4i30fqldKhOT"
@@ -1083,6 +1083,24 @@
       "duration_ms": 169257,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/5AxmkkmUSGjEOqYYU5RlNb"
+    },
+    {
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/30bFyVsboSI6Nb7roQCgq8"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206320,
+      "name": "I Don't Even Smoke Weed",
+      "url": "https://open.spotify.com/track/4AcjZoKIpV3s1jWdkSGWnJ"
     },
     {
       "album": {
@@ -1263,6 +1281,24 @@
       "duration_ms": 168906,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/5byMYiGxEFH2UzqNWOztGW"
+    },
+    {
+      "album": {
+        "name": "Crawl Space",
+        "url": "https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199301,
+      "name": "Keep Running",
+      "url": "https://open.spotify.com/track/1iEW4lIeD5IuGDo9zP9lHW"
     },
     {
       "album": {
@@ -1501,7 +1537,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 197426,
       "name": "Masseduction",
       "url": "https://open.spotify.com/track/4L7kaptgY6py2G3nRW9BVQ"
@@ -1621,7 +1657,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 239295,
       "name": "My Love",
       "url": "https://open.spotify.com/track/4mDAxQGyDdpju78hGsACwn"
@@ -1765,7 +1801,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 242143,
       "name": "Not but for You, Bunny",
       "url": "https://open.spotify.com/track/2J2kGyvyVyOKEJgBCPE1oO"
@@ -1783,7 +1819,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 205893,
       "name": "Now & Then",
       "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
@@ -1927,7 +1963,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 298720,
       "name": "Paper Thin",
       "url": "https://open.spotify.com/track/1rV59uezLaLErSyjNHPhTJ"
@@ -2071,7 +2107,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 207394,
       "name": "Quake",
       "url": "https://open.spotify.com/track/7osHG7ptHSaprButptKH3d"
@@ -2277,7 +2313,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1"

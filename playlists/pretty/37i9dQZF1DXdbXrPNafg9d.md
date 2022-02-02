@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: The Smile
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182,906 likes - 217 songs - 12 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183,168 likes - 217 songs - 12 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

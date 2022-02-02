@@ -2,7 +2,7 @@
 
 ### [Wild Country](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
-> Country gone wild! You never know what you're gonna get\.  Artist: Wrabel and Cam
+> Country gone wild! You never know what you're gonna get\.  Artist: Walker Hayes
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u062a\u0627\u0645\u0631 \u0639\u0627\u0634\u0648\u0631",
-  "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
+  "description": "\u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u062d\u0645\u062f \u0643\u0627\u0645\u0644",
+  "name": "\u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a",
   "published_playlist_ids": [
     "5Fhjc5ZL4Nmtc864W7gKN4"
   ],
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 162720,
       "name": "Dars Hayaty",
       "url": "https://open.spotify.com/track/7nDgc4FJD4EUyGJAVjbVHP"
@@ -456,6 +456,24 @@
     },
     {
       "album": {
+        "name": "Eshrit Sinin",
+        "url": "https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246613,
+      "name": "Eshrit Sinin",
+      "url": "https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo"
+    },
+    {
+      "album": {
         "name": "Falatet Meny",
         "url": "https://open.spotify.com/album/1agL1E9aXaPcwxDnI6oe5x"
       },
@@ -569,7 +587,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 230058,
       "name": "Ghayart El Tarekh",
       "url": "https://open.spotify.com/track/7KKXMHZZbl3j2u6NgMKnrq"
@@ -883,6 +901,24 @@
       "duration_ms": 298681,
       "name": "Layali Taweela",
       "url": "https://open.spotify.com/track/0hA2CXgMOXTAuwV9iDNZEq"
+    },
+    {
+      "album": {
+        "name": "Le3btek",
+        "url": "https://open.spotify.com/album/4hnF2534JU5IlbhiLFjAzC"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Kamel",
+          "url": "https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Le3btek",
+      "url": "https://open.spotify.com/track/4639bUl0D2CTpXDBKUdSRQ"
     },
     {
       "album": {
@@ -1482,6 +1518,24 @@
     },
     {
       "album": {
+        "name": "Ye'zeek",
+        "url": "https://open.spotify.com/album/0IdEgfAZnIdRLaoje0yEmK"
+      },
+      "artists": [
+        {
+          "name": "Haytham Shaker",
+          "url": "https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278873,
+      "name": "Ye'zeek",
+      "url": "https://open.spotify.com/track/7kqEwWWW4pseVr6AsXT0zz"
+    },
+    {
+      "album": {
         "name": "\u0627\u0633\u062a\u0646\u0649 \u0644\u064a\u0647 \u0628\u0642\u0649",
         "url": "https://open.spotify.com/album/0oLm76ZSd5hNSDnUNYHevK"
       },
@@ -1587,7 +1641,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 190915,
       "name": "\u0633\u064a\u0631\u0643 \u0627\u0644\u062d\u064a\u0627\u0647",
       "url": "https://open.spotify.com/track/5OortLPZ3VTCDjL01kuya0"

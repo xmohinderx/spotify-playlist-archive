@@ -1196,6 +1196,32 @@
     },
     {
       "album": {
+        "name": "Between Sat & Sun",
+        "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235893,
+      "name": "Black Heart (Feat. leellamarz, BE\u2032O)",
+      "url": "https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK"
+    },
+    {
+      "album": {
         "name": "Black Mamba",
         "url": "https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7"
       },
@@ -3803,7 +3829,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 175163,
       "name": "High",
       "url": "https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR"
@@ -6747,7 +6773,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 193506,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
@@ -9639,6 +9665,32 @@
       "duration_ms": 370533,
       "name": "Wake Up (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/3ijq6sRH7PgRabMb83VvQO"
+    },
+    {
+      "album": {
+        "name": "Between Sat & Sun",
+        "url": "https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188920,
+      "name": "walk again (Feat. Heize, BIG Naughty)",
+      "url": "https://open.spotify.com/track/2bPyA0ZFM6CkRURyVcUYWm"
     },
     {
       "album": {

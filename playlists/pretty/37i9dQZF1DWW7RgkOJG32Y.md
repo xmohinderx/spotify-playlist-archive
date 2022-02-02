@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending new and recent tracks from the last few months\.  Cover: Travis Denning
+> Top trending new and recent tracks from the last few months\.  Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,193 likes - 84 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,295 likes - 84 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 |
-| 2 | [Dirt Road Down](https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Dirt Road Down](https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18) | 2:45 |
-| 3 | [Close to You](https://open.spotify.com/track/6wF6oModvfcuEKNdB0f0Er) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Close to You](https://open.spotify.com/album/40cbsi8Xa1QwomJacJR8EQ) | 3:45 |
+| 1 | [I Don't Wanna Go To Heaven](https://open.spotify.com/track/55lJN2gIzJM9SCfwzxAEjf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven](https://open.spotify.com/album/34SxCd3VfttsdTekzG6ROb) | 3:21 |
+| 2 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
+| 3 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 |
 | 4 | [Solo](https://open.spotify.com/track/1XsUBzfpNsho6etkFNLcpR) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 2:48 |
-| 5 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 |
-| 6 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
+| 5 | [Backroad Flyin'](https://open.spotify.com/track/73VO2Gy5FMTpmeQl0jFeZl) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf) | [Backroad Flyin'](https://open.spotify.com/album/5URlnunYAmVeQcjW8XJW9y) | 3:12 |
+| 6 | [Good Beer](https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Good Beer](https://open.spotify.com/album/3PuVtau24hELLklY6dcd3q) | 2:54 |
 | 7 | [You Didn’t](https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Weekends Look A Little Different These Days](https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX) | 3:45 |
-| 8 | [Backroad Flyin'](https://open.spotify.com/track/73VO2Gy5FMTpmeQl0jFeZl) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf) | [Backroad Flyin'](https://open.spotify.com/album/5URlnunYAmVeQcjW8XJW9y) | 3:12 |
+| 8 | [Close to You](https://open.spotify.com/track/6wF6oModvfcuEKNdB0f0Er) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Close to You](https://open.spotify.com/album/40cbsi8Xa1QwomJacJR8EQ) | 3:45 |
 | 9 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 |
-| 10 | [Never Mine](https://open.spotify.com/track/7nJwTkNBEn1dXEyjf7IGN3) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Never Mine](https://open.spotify.com/album/0NVtxdYBHQerKSwjMSdSzS) | 3:00 |
-| 11 | [24](https://open.spotify.com/track/520NKSFkKbELWUV5XQfIG9) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [24](https://open.spotify.com/album/5T9VoZ9HYeDUhlr7NTjHfH) | 3:03 |
-| 12 | [Why Don't We](https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK) | [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Why Don't We](https://open.spotify.com/album/4PywMvltuqO7wSGwFxSmfY) | 3:00 |
-| 13 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 |
-| 14 | [Any Day Now](https://open.spotify.com/track/5agWi0xnqABWE51rrBz9oz) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:13 |
-| 15 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 |
-| 16 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 |
+| 10 | [Pickup](https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Pickup](https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X) | 2:48 |
+| 11 | [Never Mine](https://open.spotify.com/track/7nJwTkNBEn1dXEyjf7IGN3) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Never Mine](https://open.spotify.com/album/0NVtxdYBHQerKSwjMSdSzS) | 3:00 |
+| 12 | [24](https://open.spotify.com/track/520NKSFkKbELWUV5XQfIG9) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [24](https://open.spotify.com/album/5T9VoZ9HYeDUhlr7NTjHfH) | 3:03 |
+| 13 | [Why Don't We](https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK) | [Zack Dyer](https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2) | [Why Don't We](https://open.spotify.com/album/4PywMvltuqO7wSGwFxSmfY) | 3:00 |
+| 14 | [Break My Heart Again](https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Break My Heart Again](https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q) | 3:21 |
+| 15 | [Any Day Now](https://open.spotify.com/track/5agWi0xnqABWE51rrBz9oz) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Comeback](https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC) | 3:13 |
+| 16 | [When You Don't](https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3) | [Chris Ruediger](https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7) | [When You Don't](https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE) | 3:33 |
 | 17 | [Tailgate To Heaven \(feat\. Chris Lane\)](https://open.spotify.com/track/0tXjb5mxi1ALIaagFuWxkb) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Tailgate To Heaven \(feat\. Chris Lane\)](https://open.spotify.com/album/0L93smV9MjarVHPfB6vZia) | 3:05 |
 | 18 | [Don't Hate the Idea](https://open.spotify.com/track/6rXJzWMwP9VDEb8zuI2bou) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Don't Hate the Idea](https://open.spotify.com/album/5NT1zohs6dRjUVT248QRxT) | 3:00 |
 | 19 | [Whiskey Can't](https://open.spotify.com/track/583kGzEQ7eZRrQCeGNfiUk) | [Teddy Robb](https://open.spotify.com/artist/64IzKvcuvD2Q06UGawFiuO) | [Whiskey Can't](https://open.spotify.com/album/4sERtXmIt0fusA9kmRcrNT) | 2:52 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 57 | [Get That All The Time \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/track/3hfEwSKgFMMhZJBaPpR41e) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Get That All The Time \(feat\. Mitchell Tenpenny\)](https://open.spotify.com/album/3nD5gS9oxfsp4JjpmcO41B) | 2:58 |
 | 58 | [Right About Me](https://open.spotify.com/track/2BHs75vAJMEf8PHZ0ZUOwU) | [Nate Barnes](https://open.spotify.com/artist/2BtTAfI93v4WeSEubKCL6h) | [Right About Me](https://open.spotify.com/album/2QtjobcXYEhMe3h19tR8Mp) | 3:09 |
 | 59 | [Just Drive](https://open.spotify.com/track/1puprgnIxARMj8gR3Jj4B2) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Just Drive](https://open.spotify.com/album/5Pi5rw478LMuMAOFzecWt4) | 2:27 |
-| 60 | [I Don't Wanna Go To Heaven](https://open.spotify.com/track/55lJN2gIzJM9SCfwzxAEjf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven](https://open.spotify.com/album/34SxCd3VfttsdTekzG6ROb) | 3:21 |
+| 60 | [Dirt Road Down](https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Dirt Road Down](https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18) | 2:45 |
 | 61 | [Intertwined](https://open.spotify.com/track/6CEpat1VI4pDz57r9CxVm5) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [Intertwined](https://open.spotify.com/album/5S2n9RJ2VwNFXwHdPJSjQD) | 3:02 |
 | 62 | [Girl Who Didn't Care](https://open.spotify.com/track/4XCDqYCoYUOc468PUKHgiQ) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Girl Who Didn't Care](https://open.spotify.com/album/40Y4YFAKYGg0vP0gvG7M90) | 3:12 |
 | 63 | [Lost My Heartbreak](https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4) | 2:37 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 | 83 | [Zero Trucks](https://open.spotify.com/track/3bF0cfm6aZ7rQlZAyklEeb) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Zero Trucks](https://open.spotify.com/album/1zVnFzjzIPZzijLT6ibqKi) | 2:42 |
 | 84 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 |
 
-Snapshot ID: `MTY0MzY1MTUxMCwwMDAwMDIwNzAwMDAwMTdlYjE0M2IwNWYwMDAwMDE3ZTEyN2ZmNGM0`
+Snapshot ID: `MTY0MzY5MTYwMCwwMDAwMDIwODAwMDAwMTdlYjNhNzY5MmMwMDAwMDE3ZWIyOGQwZjk0`

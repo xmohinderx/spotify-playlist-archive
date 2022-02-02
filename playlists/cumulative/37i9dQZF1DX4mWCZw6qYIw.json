@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 145000,
       "name": "Already Mine",
       "url": "https://open.spotify.com/track/1KKMr0ZDhEdbaB7YfI61Te"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 196453,
       "name": "Angels Like You",
       "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/24BRafI99TuTMGHUOWdXEE"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195401,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/0FerZPepEX2Q1UaVeMOlMx"
+    },
+    {
+      "album": {
         "name": "evermore (deluxe version)",
         "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
       },
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 186129,
       "name": "Come Here and Leave Me Alone",
       "url": "https://open.spotify.com/track/2AirVCqXkrvrqs6WkN4bgp"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 237720,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 154274,
       "name": "Is It Just Me? (feat. Charlie Puth)",
       "url": "https://open.spotify.com/track/5tqNWWiySiABLrGAvSWsO5"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 208969,
       "name": "Jigsaw",
       "url": "https://open.spotify.com/track/1WzOonguDKuWQrTTf5yR0D"
@@ -1087,7 +1105,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 286928,
       "name": "Malibu Nights",
       "url": "https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 220918,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1XpAZlfENlrHalIvuhAp9R"
@@ -1420,6 +1438,24 @@
     },
     {
       "album": {
+        "name": "tired of me",
+        "url": "https://open.spotify.com/album/1pssJQN76a3Kohwu3rIHxg"
+      },
+      "artists": [
+        {
+          "name": "Karina Grace",
+          "url": "https://open.spotify.com/artist/1AdlTCptosPR3D2zT18GwI"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "tired of me",
+      "url": "https://open.spotify.com/track/3ohXJ2Ti6Rl8pGKYmSmZXT"
+    },
+    {
+      "album": {
         "name": "Flying Solo",
         "url": "https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4"
       },
@@ -1449,7 +1485,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 208826,
       "name": "Train Wreck",
       "url": "https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H"

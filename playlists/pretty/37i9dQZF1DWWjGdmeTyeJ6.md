@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: flowerovlove, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 880,984 likes - 67 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,999 likes - 67 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,13 +1,29 @@
 {
-  "description": "From the Dance Halls and Honky Tonks across America to the World! Formerly Texas Music Now. Cover: Wade Bowen",
-  "num_followers": 369732,
+  "description": "From the Dance Halls and Honky Tonks across America to the World! Formerly Texas Music Now. Cover: Corey Kent",
+  "num_followers": 369792,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjAwMCwwMDAwMDBmMjAwMDAwMTdlOWYwZGY5NDQwMDAwMDE3ZTEyOGI1ZTRk",
+  "snapshot_id": "MTY0MzY5MTYwMCwwMDAwMDBmMzAwMDAwMTdlYjNhNzY5MmMwMDAwMDE3ZWIyYTAxYzVh",
   "tracks": [
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "'21",
+        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 169813,
+      "name": "There's Always Next Year",
+      "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
+    },
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {
@@ -143,46 +159,6 @@
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Meet Me in Texas (feat. Graycie York)",
-        "url": "https://open.spotify.com/album/6gf38KGaKKYZL4BTSyntMB"
-      },
-      "artists": [
-        {
-          "name": "Palmer Anthony",
-          "url": "https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s"
-        },
-        {
-          "name": "Graycie York",
-          "url": "https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552"
-        }
-      ],
-      "duration_ms": 201232,
-      "name": "Meet Me in Texas (feat. Graycie York)",
-      "url": "https://open.spotify.com/track/4PrAYzzAdz8XJoMFe1Ejpj"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Ain't My Day",
-        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        },
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "Ain't My Day",
-      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
         "name": "Crash Landing",
         "url": "https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG"
       },
@@ -215,18 +191,42 @@
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "'21",
-        "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
+        "name": "Ain't My Day",
+        "url": "https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61"
       },
       "artists": [
         {
           "name": "Corey Kent",
           "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
         }
       ],
-      "duration_ms": 169813,
-      "name": "There's Always Next Year",
-      "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"
+      "duration_ms": 201480,
+      "name": "Ain't My Day",
+      "url": "https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Meet Me in Texas (feat. Graycie York)",
+        "url": "https://open.spotify.com/album/6gf38KGaKKYZL4BTSyntMB"
+      },
+      "artists": [
+        {
+          "name": "Palmer Anthony",
+          "url": "https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s"
+        },
+        {
+          "name": "Graycie York",
+          "url": "https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552"
+        }
+      ],
+      "duration_ms": 201232,
+      "name": "Meet Me in Texas (feat. Graycie York)",
+      "url": "https://open.spotify.com/track/4PrAYzzAdz8XJoMFe1Ejpj"
     },
     {
       "added_at": "2022-01-28 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > For those who like the newest songs loud\. Very loud\. Cover: Shinedown
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,881 likes - 149 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,109 likes - 149 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

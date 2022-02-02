@@ -2,7 +2,7 @@
 
 ### [Still Hot](https://open.spotify.com/playlist/0TBZn7zfejqBGy43W0aTCF)
 
-> Recent tracks from the Hot Country playlist that are still smokin'\.  Cover: Ryan Hurd and Maren Morris
+> Recent tracks from the Hot Country playlist that are still smokin'\.  Cover: Carrie Underwood and Jason Aldean
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 | [Another](https://open.spotify.com/track/16ayXVtAftZYobyrNsZUQv) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another](https://open.spotify.com/album/34lbLOjW3ub1GbC6fW6bUh) | 3:08 | 2021-12-31 |  |
 | [Back Then, Right Now](https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Back Then, Right Now](https://open.spotify.com/album/2u0a18UWbvHn1shNtkNbJD) | 3:02 | 2021-12-31 |  |
 | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/track/5YsPrfAtcCzMIc4BHTsxP5) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/album/5YGntXPD5Z5QsZGC1BHLxy) | 2:56 | 2022-01-07 |  |
-| [Better Than You’re Used To](https://open.spotify.com/track/7stizS5H8h8ABU390mkhZC) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Better Than You're Used To](https://open.spotify.com/album/37GJGzAddc4qHBq4UySNLS) | 3:18 | 2021-12-31 |  |
+| [Better Than You’re Used To](https://open.spotify.com/track/7stizS5H8h8ABU390mkhZC) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK) | [Better Than You're Used To](https://open.spotify.com/album/37GJGzAddc4qHBq4UySNLS) | 3:18 | 2021-12-31 | 2022-02-02 |
 | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/track/2OqlfzJ5w5NHkcjXJm5997) | [Roman Alexander](https://open.spotify.com/artist/55snOo1hCfZ7FC9ogPpGnH), [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Between You & Me \(feat\. Ashley Cooke\)](https://open.spotify.com/album/5sSVCvQnB0WkzXH3X8HpGe) | 2:49 | 2021-12-31 |  |
 | [Blame It On You](https://open.spotify.com/track/2CwG4BXIlGmmYLDmDvwMTH) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [9](https://open.spotify.com/album/2f0DzdU6QbWtZqSlN7s1s5) | 3:35 | 2021-12-31 |  |
 | [Breaking Up Was Easy In The 90's](https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:35 | 2021-12-31 |  |
@@ -48,7 +48,7 @@
 | [Memory I Don't Mess With](https://open.spotify.com/track/7BQE1P0NUalHSvFtrxasx9) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Memory I Don't Mess With](https://open.spotify.com/album/2HDp9JJaUtB2xU02QGlUif) | 3:00 | 2021-12-31 |  |
 | [My Boy](https://open.spotify.com/track/0PjXFoTUNltAvf4IN0N3Xx) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [My Boy](https://open.spotify.com/album/1KMNV3TwzyaD0ongzMHjVQ) | 3:23 | 2021-12-31 |  |
 | [Next Girl](https://open.spotify.com/track/4QpWhd7l2NrmGmfw4qGlpa) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Next Girl](https://open.spotify.com/album/6H1IElgVZIcO8HCsj3kAnk) | 2:44 | 2021-12-31 |  |
-| [NO SAD SONGS](https://open.spotify.com/track/58J6FWRdf7PSUIDe9rbqdi) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [NO SAD SONGS](https://open.spotify.com/album/0A0XLrwzkiXewwPPdEoWOA) | 2:52 | 2021-12-31 |  |
+| [NO SAD SONGS](https://open.spotify.com/track/58J6FWRdf7PSUIDe9rbqdi) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [NO SAD SONGS](https://open.spotify.com/album/0A0XLrwzkiXewwPPdEoWOA) | 2:52 | 2021-12-31 | 2022-02-02 |
 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:40 | 2021-12-31 |  |
 | [Not Yet](https://open.spotify.com/track/0WVvn1HeAGVcnMnQcKPAQg) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Not Yet](https://open.spotify.com/album/5yhE9I7y2sfvB83vBkIRVJ) | 2:54 | 2021-12-31 |  |
 | [Old School](https://open.spotify.com/track/0QlVTCl7DKwI4pxuHgJtLo) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Old School](https://open.spotify.com/album/04del8uubDhGl0xMyWUfQu) | 3:13 | 2021-12-31 |  |

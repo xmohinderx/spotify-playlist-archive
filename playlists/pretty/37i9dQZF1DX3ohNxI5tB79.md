@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,665 likes - 90 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,901 likes - 90 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 6 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
 | 7 | [Elusive](https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [David Ngyah](https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c) | [Elusive](https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK) | 3:42 |
 | 8 | [You](https://open.spotify.com/track/5wUBONclIQRIFrsPzW5TiY) | [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [You](https://open.spotify.com/album/6ByZxyEnEtLSFqJUmXVdTP) | 3:26 |
-| 9 | [honest](https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Sintha](https://open.spotify.com/album/5nnsr7zbNqhtBUXl0vlQUU) | 3:53 |
+| 9 | [honest](https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [SINTHA](https://open.spotify.com/album/5nnsr7zbNqhtBUXl0vlQUU) | 3:53 |
 | 10 | [Molly](https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Belly](https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq) | 2:03 |
 | 11 | [Oil Slick](https://open.spotify.com/track/4dLMspbmxpSvjG2rH0uofK) | [Duoya](https://open.spotify.com/artist/1flwnAZl5wFL9AforlVMDd) | [Oil Slick](https://open.spotify.com/album/1Asx3fZ3sQVDwzqiuwSKbO) | 3:01 |
 | 12 | [With You](https://open.spotify.com/track/3JPFtBDSWygqLCZ07DVsNQ) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Bussin'](https://open.spotify.com/album/5ZOHGWB0OgDwVMojCv2vNR) | 4:07 |

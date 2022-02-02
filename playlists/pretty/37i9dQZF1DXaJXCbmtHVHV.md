@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 ### [Big Country](https://open.spotify.com/playlist/37i9dQZF1DXaJXCbmtHVHV)
 
-> The top country hits of the week across America! Cover: Blake Shelton
+> The top country hits of the week across America! Cover: Kelsea Ballerini
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,808 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,938 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 49 | [Fill Them Boots](https://open.spotify.com/track/4RBcYEl3yD9gYQE94LxFmE) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Fill Them Boots](https://open.spotify.com/album/1rhBNy4oRZFuh5CVME8snu) | 2:42 |
 | 50 | [Sunrise Tells The Story](https://open.spotify.com/track/7fCHWKWhCKPlAKmTqOEMM4) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort](https://open.spotify.com/album/2Dn1ksd9NBbnM7jLhF8ou2) | 3:28 |
 
-Snapshot ID: `MTY0MzY2NzIxNiwwMDAwMDBhNDAwMDAwMTdlYjIzMzU2ZjcwMDAwMDE3ZDcyNTY4Mzg5`
+Snapshot ID: `MTY0MzY5MTYwMCwwMDAwMDBhNTAwMDAwMTdlYjNhNzY5MjYwMDAwMDE3ZWIyOTMwYmFi`

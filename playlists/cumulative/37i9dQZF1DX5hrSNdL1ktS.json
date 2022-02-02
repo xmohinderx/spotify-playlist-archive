@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Escondidas",
+        "url": "https://open.spotify.com/album/5AVKaP9muBWh1HFmeWW9dL"
+      },
+      "artists": [
+        {
+          "name": "Cala Vera",
+          "url": "https://open.spotify.com/artist/3eSEdtHL36adsA9SDrvVuF"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221120,
+      "name": "A Escondidas",
+      "url": "https://open.spotify.com/track/2BwHStCcFVQ8DxnncSdMoq"
+    },
+    {
+      "album": {
         "name": "ALGO TRANQUI",
         "url": "https://open.spotify.com/album/46yKLRJizMTGso4JYfNVdQ"
       },
@@ -344,6 +362,24 @@
     },
     {
       "album": {
+        "name": "Ir por Ti",
+        "url": "https://open.spotify.com/album/6CmrNA7Brd2b1f00bYNkqS"
+      },
+      "artists": [
+        {
+          "name": "Dianuka Yogi",
+          "url": "https://open.spotify.com/artist/59GCKFXfP1wbxvQ0voGjs2"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198058,
+      "name": "Ir por Ti",
+      "url": "https://open.spotify.com/track/65S5ZhV3ATRA4iHrTIj6mz"
+    },
+    {
+      "album": {
         "name": "KRMA",
         "url": "https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ"
       },
@@ -541,7 +577,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 177360,
       "name": "Mala",
       "url": "https://open.spotify.com/track/3zJzmTv0WxHCXIT5GT84S3"
@@ -563,7 +599,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 169378,
       "name": "Mami Mamacita",
       "url": "https://open.spotify.com/track/0O5nMKufxtdGryO2p7exyz"

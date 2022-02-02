@@ -779,7 +779,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 248181,
       "name": "Go Easy, Kid",
       "url": "https://open.spotify.com/track/7AeffRBhIZel7deJBbra5D"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 195044,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w"
@@ -1226,6 +1226,24 @@
     },
     {
       "album": {
+        "name": "French Exit",
+        "url": "https://open.spotify.com/album/6WrxgVbi9Q96gV8tZMq3FH"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "Lovers Rock",
+      "url": "https://open.spotify.com/track/1H7zdcRD0gLGQY0w5ejGgX"
+    },
+    {
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/2XtDVJNzLpqWD1KpzgePzb"
       },
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 180028,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 210360,
       "name": "Mol y Sol",
       "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
@@ -1447,6 +1465,24 @@
       "duration_ms": 234645,
       "name": "peas",
       "url": "https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53"
+    },
+    {
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/4JeJPyNnsB3tqnHR7RL5v5"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221874,
+      "name": "Perfect Places",
+      "url": "https://open.spotify.com/track/1wC93sZRGcTgKLN2UWRSwW"
     },
     {
       "album": {
@@ -1605,7 +1641,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 201053,
       "name": "Show Up",
       "url": "https://open.spotify.com/track/1p17XN8yqoY5LHEG0Inqam"
@@ -1789,6 +1825,24 @@
       "duration_ms": 192896,
       "name": "Take Me Where Your Heart Is",
       "url": "https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI"
+    },
+    {
+      "album": {
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309053,
+      "name": "The Adults Are Talking",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW"
     },
     {
       "album": {

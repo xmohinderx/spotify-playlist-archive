@@ -1,44 +1,44 @@
 {
-  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum.  Cover: Leah Marie Mason",
-  "num_followers": 18735,
+  "description": "Music from Nashville's emerging Singers and Songwriters across the musical spectrum.  Cover: Josh Kerr",
+  "num_followers": 18737,
   "original_name": "Young Nashville",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjAwMCwwMDAwMDQwMDAwMDAwMTdlOWYwZGY5NDkwMDAwMDE3ZTEyOTljMmFk",
+  "snapshot_id": "MTY0MzY5MTYwMCwwMDAwMDQwMTAwMDAwMTdlYjNhNzY5MzIwMDAwMDE3ZWIyYWU3M2I2",
   "tracks": [
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "If It Weren't For You",
-        "url": "https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t"
+        "name": "Same Team",
+        "url": "https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs"
       },
       "artists": [
         {
-          "name": "FINMAR",
-          "url": "https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge"
+          "name": "Josh Kerr",
+          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
         }
       ],
-      "duration_ms": 196312,
-      "name": "If It Weren't For You",
-      "url": "https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb"
+      "duration_ms": 174915,
+      "name": "Same Team",
+      "url": "https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0"
     },
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Miss Us Then",
-        "url": "https://open.spotify.com/album/4NmOlKfPRKxL8Oe1pFKnnw"
+        "name": "Growing Old With You",
+        "url": "https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ"
       },
       "artists": [
         {
-          "name": "Leah Marie Mason",
-          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
         }
       ],
-      "duration_ms": 193610,
-      "name": "Miss Us Then",
-      "url": "https://open.spotify.com/track/3v7t1HDVDKCwa5QB9GUy4I"
+      "duration_ms": 196007,
+      "name": "Growing Old With You",
+      "url": "https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -55,6 +55,38 @@
       "duration_ms": 172440,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/0B1lajXBzwHLTihUW19xEh"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "We'll Be",
+        "url": "https://open.spotify.com/album/5VbKG5rT9ElKh5Qh0xS8NI"
+      },
+      "artists": [
+        {
+          "name": "Filmore",
+          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
+        }
+      ],
+      "duration_ms": 227128,
+      "name": "We'll Be",
+      "url": "https://open.spotify.com/track/6nf5AVgf4Y4N9d21dolwpB"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Miss Us Then",
+        "url": "https://open.spotify.com/album/4NmOlKfPRKxL8Oe1pFKnnw"
+      },
+      "artists": [
+        {
+          "name": "Leah Marie Mason",
+          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+        }
+      ],
+      "duration_ms": 193610,
+      "name": "Miss Us Then",
+      "url": "https://open.spotify.com/track/3v7t1HDVDKCwa5QB9GUy4I"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -139,38 +171,6 @@
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "We'll Be",
-        "url": "https://open.spotify.com/album/5VbKG5rT9ElKh5Qh0xS8NI"
-      },
-      "artists": [
-        {
-          "name": "Filmore",
-          "url": "https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG"
-        }
-      ],
-      "duration_ms": 227128,
-      "name": "We'll Be",
-      "url": "https://open.spotify.com/track/6nf5AVgf4Y4N9d21dolwpB"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Growing Old With You",
-        "url": "https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ"
-      },
-      "artists": [
-        {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
-        }
-      ],
-      "duration_ms": 196007,
-      "name": "Growing Old With You",
-      "url": "https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
         "name": "Take It In",
         "url": "https://open.spotify.com/album/70MvUsZkuv2Nn4XMEYsHkg"
       },
@@ -251,22 +251,6 @@
       "duration_ms": 205714,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/1I0feQSDS1NraRdSFTpAIO"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Same Team",
-        "url": "https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs"
-      },
-      "artists": [
-        {
-          "name": "Josh Kerr",
-          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "Same Team",
-      "url": "https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -571,6 +555,22 @@
       "duration_ms": 225889,
       "name": "Pretty Damn Close",
       "url": "https://open.spotify.com/track/4GEP4c32r8w23n7vOTrSUD"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "If It Weren't For You",
+        "url": "https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t"
+      },
+      "artists": [
+        {
+          "name": "FINMAR",
+          "url": "https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge"
+        }
+      ],
+      "duration_ms": 196312,
+      "name": "If It Weren't For You",
+      "url": "https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb"
     },
     {
       "added_at": "2022-01-28 05:00:00",

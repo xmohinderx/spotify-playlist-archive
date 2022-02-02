@@ -1420,6 +1420,24 @@
     },
     {
       "album": {
+        "name": "Guitar Serenade",
+        "url": "https://open.spotify.com/album/3X86hB3CyzqmkWP18Gp0jJ"
+      },
+      "artists": [
+        {
+          "name": "Samuel T. Wesley",
+          "url": "https://open.spotify.com/artist/5v9utvxIaiOg8XKnUge42h"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88008,
+      "name": "Guitar Serenade",
+      "url": "https://open.spotify.com/track/3BhgiGAwSs7PLGyW0ErORB"
+    },
+    {
+      "album": {
         "name": "back in time",
         "url": "https://open.spotify.com/album/1iZlR1EQhzM6itJ396l41C"
       },
@@ -1503,7 +1521,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 239886,
       "name": "in den Bergen",
       "url": "https://open.spotify.com/track/4q2wB8Fkc6R6V03oksaiaI"
@@ -2004,6 +2022,24 @@
     },
     {
       "album": {
+        "name": "Lovelight",
+        "url": "https://open.spotify.com/album/1E7UDTzbiqvLmpuR7wymWB"
+      },
+      "artists": [
+        {
+          "name": "Geoff Henzel",
+          "url": "https://open.spotify.com/artist/1GEOzSfLdNej1BIxdMQWN5"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113038,
+      "name": "Lovelight",
+      "url": "https://open.spotify.com/track/17c3bS1IscSItKzhhzdc4N"
+    },
+    {
+      "album": {
         "name": "Lovers",
         "url": "https://open.spotify.com/album/2NKE6ENQqre2SzfA4NAy8E"
       },
@@ -2127,6 +2163,24 @@
       "duration_ms": 112402,
       "name": "Milano",
       "url": "https://open.spotify.com/track/09Z0fc2bC2g5X5fhOklDbF"
+    },
+    {
+      "album": {
+        "name": "Misty Midnight",
+        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
+      },
+      "artists": [
+        {
+          "name": "Alina Hussain",
+          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134498,
+      "name": "Misty Midnight",
+      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
     },
     {
       "album": {

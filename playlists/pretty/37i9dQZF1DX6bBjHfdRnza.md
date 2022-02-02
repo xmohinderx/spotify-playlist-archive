@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic music by independent artists and labels\. Updates every Wednesday\. Cover: Ben Miller \(Aus\), Artwork: Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,204 likes - 56 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,272 likes - 56 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

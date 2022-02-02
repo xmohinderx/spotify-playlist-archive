@@ -234,6 +234,24 @@
     },
     {
       "album": {
+        "name": "bowl (live)",
+        "url": "https://open.spotify.com/album/7ceeIAPMjnn0Uce7XPd01V"
+      },
+      "artists": [
+        {
+          "name": "Aisa",
+          "url": "https://open.spotify.com/artist/0YBEhX6xbkcMuhH3OD6D9L"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "bowl - live",
+      "url": "https://open.spotify.com/track/7ulbzUYHu6nJNHVjxY56rK"
+    },
+    {
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42"
       },

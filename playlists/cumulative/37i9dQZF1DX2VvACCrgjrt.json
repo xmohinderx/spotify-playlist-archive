@@ -479,7 +479,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 216960,
       "name": "Big Bass",
       "url": "https://open.spotify.com/track/0cZNioy7IGLvLrqqI2JW3z"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 170624,
       "name": "Boom",
       "url": "https://open.spotify.com/track/0MQZi4FRmLn45J0wkjVE5J"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 190080,
       "name": "Booty Moove",
       "url": "https://open.spotify.com/track/7u9XxMJfDTu4xhopetwCrd"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 213752,
       "name": "Boozy VIP",
       "url": "https://open.spotify.com/track/39KBeiL5DOWnoXpSJR13et"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 193920,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1sykacKdaCW4KE0AtRglRu"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 160955,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/1GdjigQo4MbNYSFUX7ctNH"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -1381,7 +1381,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 161932,
       "name": "Eat That",
       "url": "https://open.spotify.com/track/3wAZSNBuAlgA0fHELUvjMF"
@@ -1403,7 +1403,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/3nC4P5WWwg7wT9LN3wi9M1"
@@ -2625,7 +2625,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 213543,
       "name": "Miniskirt",
       "url": "https://open.spotify.com/track/2DE6qfjcw3kCh9LQlwCItw"
@@ -2731,7 +2731,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 200366,
       "name": "Next Level - Habstrakt Remix",
       "url": "https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT"
@@ -2749,7 +2749,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 186240,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/5odJuVd3QpK7A96wfdf421"
@@ -3193,7 +3193,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 182857,
       "name": "Scars",
       "url": "https://open.spotify.com/track/5t0EAqNTV7MmQI6tvlrqmk"
@@ -3372,6 +3372,24 @@
     },
     {
       "album": {
+        "name": "Sound Of The Bass",
+        "url": "https://open.spotify.com/album/22NPR2HmovEiEMb8cKrC0Q"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197073,
+      "name": "Sound Of The Bass",
+      "url": "https://open.spotify.com/track/5KeWNOjXTGZd2qATxVBLF8"
+    },
+    {
+      "album": {
         "name": "Spirit Animal EP",
         "url": "https://open.spotify.com/album/6K1hRfRYYYaH7KlxLGAqM1"
       },
@@ -3409,7 +3427,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 172380,
       "name": "Stylin (feat. Dread Mc)",
       "url": "https://open.spotify.com/track/4CkNZ89V4ojzlrotfcBR2M"
@@ -3701,7 +3719,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 155884,
       "name": "The Tempo",
       "url": "https://open.spotify.com/track/3BYWIYlgpnW18iaMga2E0u"
@@ -3759,7 +3777,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 206666,
       "name": "To L.A.",
       "url": "https://open.spotify.com/track/0l8y6oPQbVonLvicE34SC9"
@@ -3971,7 +3989,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 158735,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/2fkPBzNXh8a8vuJWVqdlxl"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "EDM is blowing up in India, thanks to these artists. Cover: Dj Snake & Dhee",
+  "description": "EDM is blowing up in India, thanks to these artists. Cover: Alan Walker",
   "name": "mint India",
   "published_playlist_ids": [
     "4LmBKe4LSrS4bT8FvFonit"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 191418,
       "name": "1 More Mile",
       "url": "https://open.spotify.com/track/1nC3J0vU5yV86pQdjzOj9n"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 169616,
       "name": "A Dream",
       "url": "https://open.spotify.com/track/52E7qutei1inKrIAcBYp89"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 175893,
       "name": "Burnin",
       "url": "https://open.spotify.com/track/5D246C2tLKCTeZgcsRfvcA"
@@ -150,6 +150,32 @@
     },
     {
       "album": {
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/2T874FXcRt9kwIags5Zckc"
       },
@@ -173,6 +199,28 @@
       "duration_ms": 210000,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/7K1fqeaZKX2fGH2ddOfPUC"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/1RDus4fqaHwhQzqRiidAEY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198703,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/5w7sO0tWXMmctwKnJZu24v"
     },
     {
       "album": {
@@ -221,6 +269,32 @@
       "duration_ms": 172039,
       "name": "DRXGS",
       "url": "https://open.spotify.com/track/0HWJbGrwVbmXWelYMDJtid"
+    },
+    {
+      "album": {
+        "name": "Echo (with KSHMR)",
+        "url": "https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192352,
+      "name": "Echo (with KSHMR)",
+      "url": "https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL"
     },
     {
       "album": {
@@ -291,7 +365,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 161781,
       "name": "Feel Me Your Lips",
       "url": "https://open.spotify.com/track/3XLz74BV4j6jEUsPMnlG7z"
@@ -317,7 +391,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 200015,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/3JhTqa080FiJORsvJ2elUy"
@@ -339,6 +413,28 @@
       "duration_ms": 212877,
       "name": "Float",
       "url": "https://open.spotify.com/track/1LKo1pAertanzWdCwjykFB"
+    },
+    {
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169672,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
     },
     {
       "album": {
@@ -365,10 +461,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
+    },
+    {
+      "album": {
+        "name": "Fuck U Love U",
+        "url": "https://open.spotify.com/album/7fZwgv7wRTEShKzeF6GA0w"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198102,
+      "name": "Fuck U Love U",
+      "url": "https://open.spotify.com/track/7AcfLjRYL1LeiUHUU302Fm"
     },
     {
       "album": {
@@ -427,7 +541,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 159198,
       "name": "Good On You",
       "url": "https://open.spotify.com/track/3BMpJkaH1nSLqlw7Vr2THM"
@@ -445,7 +559,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 163208,
       "name": "Goosebumps",
       "url": "https://open.spotify.com/track/20McUFi8KCIVdNDLrkTDuZ"
@@ -489,7 +603,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 163200,
       "name": "Hurts Like Hell",
       "url": "https://open.spotify.com/track/7gRsUcRZ58H4quVboUILDU"
@@ -511,10 +625,80 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 173950,
       "name": "I Admit It (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am"
+    },
+    {
+      "album": {
+        "name": "I Wanna Run Away",
+        "url": "https://open.spotify.com/album/33N30g1JmlblkIJ9fVr4aY"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "I Wanna Run Away",
+      "url": "https://open.spotify.com/track/6QHKcbL8vrX0Ra3kKpNTVs"
+    },
+    {
+      "album": {
+        "name": "I Wish (feat. Mabel)",
+        "url": "https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181728,
+      "name": "I Wish (feat. Mabel)",
+      "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
+    },
+    {
+      "album": {
+        "name": "In Da Getto",
+        "url": "https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131065,
+      "name": "In Da Getto",
+      "url": "https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ"
     },
     {
       "album": {
@@ -537,10 +721,36 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 163846,
       "name": "Jadi Buti",
       "url": "https://open.spotify.com/track/5MZ3ZUvMFbS0zKis6DwmAM"
+    },
+    {
+      "album": {
+        "name": "Jalebi Baby (Tesher x Jason Derulo) [DallasK Remix]",
+        "url": "https://open.spotify.com/album/7Gz8KFyOaJ67RTRicF5n7F"
+      },
+      "artists": [
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161061,
+      "name": "Jalebi Baby (Tesher x Jason Derulo) [DallasK Remix]",
+      "url": "https://open.spotify.com/track/4zKTu2n2ExlcLkx9KHUpeb"
     },
     {
       "album": {
@@ -637,7 +847,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 166666,
       "name": "Light It Up - Ritviz Diwali Edition",
       "url": "https://open.spotify.com/track/4Axp88RMDyQl3OYfp7gf4j"
@@ -666,6 +876,28 @@
     },
     {
       "album": {
+        "name": "Love Again (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Love Again - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
+    },
+    {
+      "album": {
         "name": "Love Me Better",
         "url": "https://open.spotify.com/album/1FCqo8PHzNgQsxpFUd7VeZ"
       },
@@ -685,7 +917,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 150771,
       "name": "Love Me Better (with Shift K3Y & Marc E. Bassy)",
       "url": "https://open.spotify.com/track/5zHRrkIk98Adfqh25kMZFU"
@@ -733,10 +965,32 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 172901,
       "name": "Mai Ni Meriye",
       "url": "https://open.spotify.com/track/0zFcYzwaLbJAhg7bvSVavv"
+    },
+    {
+      "album": {
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178625,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
     },
     {
       "album": {
@@ -755,7 +1009,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 149433,
       "name": "Mehndi Te Vavi",
       "url": "https://open.spotify.com/track/1yBbcWXOsl2tCcNg2prkEh"
@@ -777,10 +1031,54 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 217500,
       "name": "Modern Loneliness - Ritviz Remix",
       "url": "https://open.spotify.com/track/7yqGJP1pQ1jc4MNAdZW4gR"
+    },
+    {
+      "album": {
+        "name": "Moth To A Flame",
+        "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Moth To A Flame (with The Weeknd)",
+      "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
+    },
+    {
+      "album": {
+        "name": "Move Your Body",
+        "url": "https://open.spotify.com/album/4l9wMVL4XAM5jPMXP5RAbL"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157444,
+      "name": "Move Your Body",
+      "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
     },
     {
       "album": {
@@ -795,7 +1093,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 206880,
       "name": "Must Be Love",
       "url": "https://open.spotify.com/track/5eVhs1dI2DDy4syEyF312W"
@@ -857,7 +1155,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 222400,
       "name": "Nightlight",
       "url": "https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ"
@@ -883,7 +1181,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 158446,
       "name": "Noor",
       "url": "https://open.spotify.com/track/3p2WQ8mlRhETkOxcn8tVDc"
@@ -909,7 +1207,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 185483,
       "name": "OK Not To Be OK - Lost Stories Remix",
       "url": "https://open.spotify.com/track/4Uxcm6gWvxoqUdgnxKw41H"
@@ -931,7 +1229,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 145320,
       "name": "One More Dance (with Alida)",
       "url": "https://open.spotify.com/track/2aOK6TRYn4DneIBHJOAQ4r"
@@ -949,7 +1247,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 222893,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/2XZn85D188f2bGdV3zmmrF"
@@ -971,7 +1269,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 167903,
       "name": "Paradise (feat. Dermot Kennedy)",
       "url": "https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr"
@@ -1081,7 +1379,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 216000,
       "name": "Reveal Yourself | Studio B",
       "url": "https://open.spotify.com/track/6DdRn0VQhpUBdpGhtGEVih"
@@ -1146,6 +1444,28 @@
     },
     {
       "album": {
+        "name": "Shivers (Dillon Francis Remix)",
+        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127766,
+      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
+      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
+    },
+    {
+      "album": {
         "name": "Sicko Drop",
         "url": "https://open.spotify.com/album/19WhhSvX9yW51l5R2yrJmS"
       },
@@ -1194,6 +1514,24 @@
     },
     {
       "album": {
+        "name": "Somebody To Use",
+        "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154031,
+      "name": "Somebody To Use",
+      "url": "https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13"
+    },
+    {
+      "album": {
         "name": "Space Melody (Edward Artemyev) (feat. Leony)",
         "url": "https://open.spotify.com/album/2KQatLV1j4JssrVeVnvf2K"
       },
@@ -1217,7 +1555,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 180151,
       "name": "Space Melody (Edward Artemyev) (feat. Leony)",
       "url": "https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR"
@@ -1239,7 +1577,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 254280,
       "name": "Streets - Disclosure Remix",
       "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
@@ -1261,7 +1599,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 215384,
       "name": "Sunset Sketch",
       "url": "https://open.spotify.com/track/2zRyLE4ZBBtphK9IQiiwpm"
@@ -1290,6 +1628,28 @@
     },
     {
       "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "album": {
         "name": "COLLABS VOL. 1 (INT\u2019L VER.)",
         "url": "https://open.spotify.com/album/4gG7E1oREuA5rNKvyj7zXE"
       },
@@ -1309,7 +1669,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 206400,
       "name": "Thing You Want (Hindi)",
       "url": "https://open.spotify.com/track/1QaTzmmY3Sxu4hwxhqnT0O"
@@ -1383,7 +1743,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 165704,
       "name": "Too Much (feat. Usher)",
       "url": "https://open.spotify.com/track/39umHdGKfpnjY4TFtnoQ51"
@@ -1405,7 +1765,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 147260,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/27bZ77uG7mEhydpaPvThR6"
@@ -1453,7 +1813,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 145792,
       "name": "We Know It",
       "url": "https://open.spotify.com/track/6mSJiQSp7OI0uCn7HUeJ2Z"
@@ -1497,7 +1857,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 197333,
       "name": "When I Was Me - ShiShi Remix",
       "url": "https://open.spotify.com/track/6HoXpEnhzeDpz7gYgGaYF0"
@@ -1523,7 +1883,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 171290,
       "name": "Why Do You Lie To Me",
       "url": "https://open.spotify.com/track/3vNsOdrDl6UbCv03oqLvUx"
@@ -1549,6 +1909,32 @@
       "duration_ms": 210434,
       "name": "Winners Anthem",
       "url": "https://open.spotify.com/track/2kQvw0jH3JKKWVBccDPK9Y"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t Let You Go",
+        "url": "https://open.spotify.com/album/4QxfiUo90NEmUnyNHE1x8h"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217261,
+      "name": "Won\u2019t Let You Go",
+      "url": "https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"
     },
     {
       "album": {

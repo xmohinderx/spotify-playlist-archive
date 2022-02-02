@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,337,827 likes - 210 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339,136 likes - 210 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 26 | [Passage](https://open.spotify.com/track/7p5F5sN8xdUSxMjUw8Kyk2) | [The Nowhows](https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1) | [Passage](https://open.spotify.com/album/6lO2gCJPT56elqfM5JXpXM) | 2:57 |
 | 27 | [Tawelwch](https://open.spotify.com/track/3dQv95YPj2n9tesVZKN4FT) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Tawelwch](https://open.spotify.com/album/0QlsWt0H3rYHW0nTmuvzIR) | 2:50 |
 | 28 | [Calm](https://open.spotify.com/track/2LxskIBEuhVXVpl0w4WLne) | [Amber Glow](https://open.spotify.com/artist/20V6s9VAMU5cW2u2r8v6dJ) | [Calm](https://open.spotify.com/album/2Gq3PzfqwVrFHOCyWMEQNP) | 2:59 |
-| 29 | [Grateful](https://open.spotify.com/track/7lCWa3w5ZfuaL1vF1HyJ2J) | [Nathalie J](https://open.spotify.com/artist/6agLJVI4c9rD8hwGydy18U) | [Grateful](https://open.spotify.com/album/3OUTNb2D5vBitZSIKK8h0C) | 4:24 |
+| 29 | [Grateful](https://open.spotify.com/track/7lCWa3w5ZfuaL1vF1HyJ2J) | [Nathalie J](https://open.spotify.com/artist/54gLxB9PQp26E1NsXCPsOb) | [Grateful](https://open.spotify.com/album/3OUTNb2D5vBitZSIKK8h0C) | 4:24 |
 | 30 | [The Road Back](https://open.spotify.com/track/75awJg9Xgn3cRJrPFihiV4) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [The Road Back](https://open.spotify.com/album/6yXBd5kQQujRewckYFsupC) | 4:06 |
 | 31 | [Comfort Zone](https://open.spotify.com/track/3QjA9DSJn9hEIkfiRYMBZB) | [Sounds And Beyond](https://open.spotify.com/artist/751p5MqwmdTxiqWVg0J46Y) | [Comfort Zone](https://open.spotify.com/album/1svkSAU7m4SXST5rh8a7xw) | 2:34 |
 | 32 | [Aevitas](https://open.spotify.com/track/5Y3ePUhdXzPDI8nSCIe7bb) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Neoterikoi](https://open.spotify.com/album/4VWwAEVZ3wnjDt9yy12o5h) | 2:20 |

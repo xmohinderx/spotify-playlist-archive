@@ -988,6 +988,24 @@
     },
     {
       "album": {
+        "name": "Back Stage to Front Stage",
+        "url": "https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm"
+      },
+      "artists": [
+        {
+          "name": "Vicky",
+          "url": "https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Lv",
+      "url": "https://open.spotify.com/track/4XvN6Ft0qGBbtRpsQ7ifdY"
+    },
+    {
+      "album": {
         "name": "Ma Belle",
         "url": "https://open.spotify.com/album/0q6ZMd3ScXa3Uql600gmcA"
       },
@@ -1855,6 +1873,24 @@
       "duration_ms": 160008,
       "name": "Tabiat",
       "url": "https://open.spotify.com/track/7pBrCHgaC8Sch4TYuvOQDY"
+    },
+    {
+      "album": {
+        "name": "Back Stage to Front Stage",
+        "url": "https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm"
+      },
+      "artists": [
+        {
+          "name": "Vicky",
+          "url": "https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153666,
+      "name": "Tasali",
+      "url": "https://open.spotify.com/track/4DFrhdXZU0zlW2ImuZ970f"
     },
     {
       "album": {

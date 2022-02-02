@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 60064,
+  "num_followers": 60079,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzY3NjAzOSwwMDAwMDAwMDE5YzIyMjJhYzM3ZGRjZDJjYmU1NzQxNWNkZTIyMmM5",
+  "snapshot_id": "MTY0Mzc2MjQ3MywwMDAwMDAwMGQ5NTI5YmRmYTkwYWViMGNkMjI3NWRmZjY5YmRmYzJj",
   "tracks": [
     {
       "added_at": "2022-01-27 23:02:00",
@@ -47,6 +47,22 @@
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
+        "name": "Mosaikk (16 Biter)",
+        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
+      },
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+        }
+      ],
+      "duration_ms": 231226,
+      "name": "N\u00e5r himmelen faller ned",
+      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
         "name": "Og s\u00e5 kom resten av livet",
         "url": "https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN"
       },
@@ -59,6 +75,38 @@
       "duration_ms": 311453,
       "name": "E du nord",
       "url": "https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "M\u00e5nesinn",
+        "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
+      },
+      "artists": [
+        {
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        }
+      ],
+      "duration_ms": 171640,
+      "name": "Fordi eg elskar deg",
+      "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Historien om et band",
+        "url": "https://open.spotify.com/album/2NIUZrmE3Wchk32sQHed1e"
+      },
+      "artists": [
+        {
+          "name": "Jo Nesb\u00f8",
+          "url": "https://open.spotify.com/artist/1KcYLo3wUtAqUsLfhZ5iA4"
+        }
+      ],
+      "duration_ms": 336000,
+      "name": "H\u00e5p",
+      "url": "https://open.spotify.com/track/0eVz2IPvC2FrIOHMQbi01j"
     },
     {
       "added_at": "2022-01-27 23:02:00",
@@ -83,86 +131,54 @@
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "M\u00e5nesinn",
-        "url": "https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7"
+        "name": "Bestevenn (Bonus Version)",
+        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
       },
       "artists": [
         {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
         }
       ],
-      "duration_ms": 171640,
-      "name": "Fordi eg elskar deg",
-      "url": "https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT"
+      "duration_ms": 225800,
+      "name": "Ein farfar i livet",
+      "url": "https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f"
     },
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+        "name": "De N\u00e6re Ting",
+        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
       "artists": [
         {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+          "name": "Ingrid Olava",
+          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
         }
       ],
-      "duration_ms": 253946,
-      "name": "Gressholmen",
-      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
+      "duration_ms": 138412,
+      "name": "De N\u00e6re Ting",
+      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
     },
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "Sangen om de glemte",
-        "url": "https://open.spotify.com/album/3akUg2kUHMihEIYsxS3tsG"
+        "name": "Hjem",
+        "url": "https://open.spotify.com/album/6QWsi5qGR8wr4v7xCQC5de"
       },
       "artists": [
         {
-          "name": "Vegar Dahl",
-          "url": "https://open.spotify.com/artist/1gFiOO92niZKa5qjuLEDBr"
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
         },
         {
-          "name": "Ole Paus",
-          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
+          "name": "Jonas Fjeld",
+          "url": "https://open.spotify.com/artist/7pocZafsod6agMyzxt90iD"
         }
       ],
-      "duration_ms": 218640,
-      "name": "Sangen om de glemte",
-      "url": "https://open.spotify.com/track/4UfaAnu4XTEA0ZOqtJD5is"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Mosaikk (16 Biter)",
-        "url": "https://open.spotify.com/album/7rtosLI7Lqa0XoYLKdCjKO"
-      },
-      "artists": [
-        {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
-        }
-      ],
-      "duration_ms": 231226,
-      "name": "N\u00e5r himmelen faller ned",
-      "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Bru over m\u00f8rke b\u00f8lger",
-        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
-      },
-      "artists": [
-        {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Bru over m\u00f8rke b\u00f8lger",
-      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
+      "duration_ms": 205098,
+      "name": "Hjem",
+      "url": "https://open.spotify.com/track/3FxG5apYswIMtnYIZN5RKH"
     },
     {
       "added_at": "2022-01-27 23:02:00",
@@ -191,22 +207,6 @@
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "Spindelvevriff",
-        "url": "https://open.spotify.com/album/5AkevgUX9GarMJnqW8xV3F"
-      },
-      "artists": [
-        {
-          "name": "Janove",
-          "url": "https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI"
-        }
-      ],
-      "duration_ms": 274124,
-      "name": "Bak En Sky Heim",
-      "url": "https://open.spotify.com/track/4tNknyVhJDxgQxjCZEoqfN"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/5e7B4Rq4GNGljS9urNEfpj"
       },
@@ -219,110 +219,6 @@
       "duration_ms": 201280,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/5TiMZq3QvG2fldTFmxy1S4"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Til deg (Single Version)",
-        "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
-      },
-      "artists": [
-        {
-          "name": "Marthe Wang",
-          "url": "https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "Til deg - Single Version",
-      "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Bror",
-        "url": "https://open.spotify.com/album/3Md4sOQ6TuqSouOgzIqcVP"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 193425,
-      "name": "Bror",
-      "url": "https://open.spotify.com/track/5TWg0DczP5O3aJyVyD0mlh"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Hver gang vi m\u00f8tes - Sesong 2 - Ole Paus' dag",
-        "url": "https://open.spotify.com/album/5xPVoxx10SsUeKrb7VbE7K"
-      },
-      "artists": [
-        {
-          "name": "Anita Skorgan",
-          "url": "https://open.spotify.com/artist/4dTqh57h7Qc97TWARfoVD4"
-        }
-      ],
-      "duration_ms": 193079,
-      "name": "Det begynner \u00e5 bli et liv",
-      "url": "https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Hjem",
-        "url": "https://open.spotify.com/album/6QWsi5qGR8wr4v7xCQC5de"
-      },
-      "artists": [
-        {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
-        },
-        {
-          "name": "Jonas Fjeld",
-          "url": "https://open.spotify.com/artist/7pocZafsod6agMyzxt90iD"
-        }
-      ],
-      "duration_ms": 205098,
-      "name": "Hjem",
-      "url": "https://open.spotify.com/track/3FxG5apYswIMtnYIZN5RKH"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Julinetter",
-        "url": "https://open.spotify.com/album/3TnJRJMmG55xg5iuTzS4sZ"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 339546,
-      "name": "Julinetter",
-      "url": "https://open.spotify.com/track/3i6Rpq73XBlzSwFtltygLm"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Veien (feat. Kapteinen)",
-        "url": "https://open.spotify.com/album/0eTSDSVIJ2qX76TwGDWWA8"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Kapteinen",
-          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
-        }
-      ],
-      "duration_ms": 249557,
-      "name": "Veien (feat. Kapteinen)",
-      "url": "https://open.spotify.com/track/36Ohx2M4j4l3smfS1VNU6j"
     },
     {
       "added_at": "2022-01-27 23:02:00",
@@ -343,54 +239,6 @@
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "Ta Meg Med",
-        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
-      },
-      "artists": [
-        {
-          "name": "Olav Stedje",
-          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
-        }
-      ],
-      "duration_ms": 194506,
-      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
-      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "V\u00e5r beste dag",
-        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 202588,
-      "name": "V\u00e5r beste dag",
-      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Historien om et band",
-        "url": "https://open.spotify.com/album/2NIUZrmE3Wchk32sQHed1e"
-      },
-      "artists": [
-        {
-          "name": "Jo Nesb\u00f8",
-          "url": "https://open.spotify.com/artist/1KcYLo3wUtAqUsLfhZ5iA4"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "H\u00e5p",
-      "url": "https://open.spotify.com/track/0eVz2IPvC2FrIOHMQbi01j"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
         "name": "Berre meg",
         "url": "https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN"
       },
@@ -407,34 +255,98 @@
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "De N\u00e6re Ting",
-        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
+        "name": "Ta Meg Med",
+        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
       },
       "artists": [
         {
-          "name": "Ingrid Olava",
-          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
+          "name": "Olav Stedje",
+          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
         }
       ],
-      "duration_ms": 138412,
-      "name": "De N\u00e6re Ting",
-      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+      "duration_ms": 194506,
+      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
+      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
     },
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "Aldri i livet",
-        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
+        "name": "1988 EP",
+        "url": "https://open.spotify.com/album/2TiHYiHT0RWXmkRc8RhNSw"
       },
       "artists": [
         {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+          "name": "Daniel Kvammen",
+          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
         }
       ],
-      "duration_ms": 188796,
-      "name": "Aldri i livet",
-      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
+      "duration_ms": 257906,
+      "name": "Du fortenar ein som meg - klineversjon",
+      "url": "https://open.spotify.com/track/5hchDR7T3AwFfTe89Lh9O5"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "S\u00f8tten \u00e5r",
+        "url": "https://open.spotify.com/album/0NPTQWIsR2doVbxKgmdZcz"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "duration_ms": 285653,
+      "name": "S\u00f8tten \u00e5r",
+      "url": "https://open.spotify.com/track/4gYmhjHmokTmLfBO13wIg3"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Spindelvevriff",
+        "url": "https://open.spotify.com/album/5AkevgUX9GarMJnqW8xV3F"
+      },
+      "artists": [
+        {
+          "name": "Janove",
+          "url": "https://open.spotify.com/artist/43EvPY5EelfMkyqqJ9woOI"
+        }
+      ],
+      "duration_ms": 274124,
+      "name": "Bak En Sky Heim",
+      "url": "https://open.spotify.com/track/4tNknyVhJDxgQxjCZEoqfN"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Gressholmen",
+      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+      },
+      "artists": [
+        {
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+        }
+      ],
+      "duration_ms": 258638,
+      "name": "Sommerfuggel I Vinterland",
+      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
     },
     {
       "added_at": "2022-01-27 23:02:00",
@@ -448,61 +360,61 @@
           "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
         }
       ],
-      "duration_ms": 225800,
-      "name": "Ein farfar i livet",
-      "url": "https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f"
+      "duration_ms": 244120,
+      "name": "Bestevenn",
+      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
     },
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "Det Hainnle Om \u00c5 Leve - Mellom Anna",
-        "url": "https://open.spotify.com/album/1J6HpgChGfFx3Syl6JvObp"
+        "name": "Godmorgen, s\u00f8ster",
+        "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
       },
       "artists": [
         {
-          "name": "Kine Hellebust",
-          "url": "https://open.spotify.com/artist/1xt1wtsor2VKjhcQebd9Ec"
-        }
-      ],
-      "duration_ms": 254380,
-      "name": "Det Hainnle Om \u00c5 Leve",
-      "url": "https://open.spotify.com/track/2WJ14O84lqRcgjPOSgf6tI"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Adams Sang (feat. Myra)",
-        "url": "https://open.spotify.com/album/3s7wpsEiUTSvJwSQ7L3G5Z"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
         },
         {
-          "name": "Myra",
-          "url": "https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5"
+          "name": "Rita Eriksen",
+          "url": "https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da"
         }
       ],
-      "duration_ms": 267666,
-      "name": "Adams Sang (feat. Myra)",
-      "url": "https://open.spotify.com/track/6HNnIJeTCjp3t3oj30nuW3"
+      "duration_ms": 270693,
+      "name": "Tir n'a Noir",
+      "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
     },
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "Kamilla Og Tyven",
-        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
+        "name": "I ungdommen",
+        "url": "https://open.spotify.com/album/59rrLxBYfqVcdzEzZQadPa"
       },
       "artists": [
         {
-          "name": "Morten Harket",
-          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
         }
       ],
-      "duration_ms": 214186,
-      "name": "Kamilla Og Tyven",
-      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+      "duration_ms": 173798,
+      "name": "I ungdommen",
+      "url": "https://open.spotify.com/track/5XPqE4SyHOXygx8vLFmV8p"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Svarte Skyer",
+        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
+      },
+      "artists": [
+        {
+          "name": "Hanne S\u00f8rvaag",
+          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
+        }
+      ],
+      "duration_ms": 180328,
+      "name": "Svarte Skyer",
+      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
     },
     {
       "added_at": "2022-01-27 23:02:00",
@@ -527,210 +439,6 @@
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "Jeg ror alene",
-        "url": "https://open.spotify.com/album/3lXlqG2xOV9fpREw4nfJsx"
-      },
-      "artists": [
-        {
-          "name": "Hanne Krogh",
-          "url": "https://open.spotify.com/artist/3uVksNHrN6QwS2m0wzqkWY"
-        },
-        {
-          "name": "Jan Thomas",
-          "url": "https://open.spotify.com/artist/3p1BYcJhXCb3WvHLriHIHS"
-        }
-      ],
-      "duration_ms": 233980,
-      "name": "Jeg ror alene",
-      "url": "https://open.spotify.com/track/2FvoA1uCruAwjV49IXQgQz"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Den St\u00f8rste Reisen",
-        "url": "https://open.spotify.com/album/3tvpaisrdoJlVNKcOexM8w"
-      },
-      "artists": [
-        {
-          "name": "Benny Borg",
-          "url": "https://open.spotify.com/artist/3eYsDUyn51BM8warjE2uX0"
-        },
-        {
-          "name": "Sigmund Groven",
-          "url": "https://open.spotify.com/artist/35he9yh8ik3SiRr3RnafUT"
-        }
-      ],
-      "duration_ms": 248303,
-      "name": "God morgen, min kj\u00e6re",
-      "url": "https://open.spotify.com/track/1y7t76EK1A3lsh6iLQwqH8"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Bestevenn (Bonus Version)",
-        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Bestevenn",
-      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "I ungdommen",
-        "url": "https://open.spotify.com/album/59rrLxBYfqVcdzEzZQadPa"
-      },
-      "artists": [
-        {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        }
-      ],
-      "duration_ms": 173798,
-      "name": "I ungdommen",
-      "url": "https://open.spotify.com/track/5XPqE4SyHOXygx8vLFmV8p"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "3 sanger",
-        "url": "https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s"
-      },
-      "artists": [
-        {
-          "name": "Kari Bremnes",
-          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
-        }
-      ],
-      "duration_ms": 281955,
-      "name": "S\u00e5 fullt av ja",
-      "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "St\u00f8v Og Stjerner",
-        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
-      },
-      "artists": [
-        {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "V\u00e5r Beste Dag",
-      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Vit at det ga\u030ar \u00f8ve",
-        "url": "https://open.spotify.com/album/4WvZPJICxM0vvhjvMvbZBf"
-      },
-      "artists": [
-        {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Vit at det g\u00e5r \u00f8ve",
-      "url": "https://open.spotify.com/track/3eCQqf58kxhCSvTr3XCZFC"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Alt det som skinner",
-        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
-      },
-      "artists": [
-        {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
-        }
-      ],
-      "duration_ms": 250403,
-      "name": "Alt det som skinner",
-      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Der var du",
-        "url": "https://open.spotify.com/album/5keKiJy2GPTMWWWHX1Exjf"
-      },
-      "artists": [
-        {
-          "name": "Kim Rysstad",
-          "url": "https://open.spotify.com/artist/0k5dfZ7J3tg2cvsjkTX796"
-        }
-      ],
-      "duration_ms": 216367,
-      "name": "Der var du",
-      "url": "https://open.spotify.com/track/67pRxxw4HUnATsrcVlhcAK"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "CoolTur",
-        "url": "https://open.spotify.com/album/0S2qo4ezoborqQTJnzdsc6"
-      },
-      "artists": [
-        {
-          "name": "Hellbillies",
-          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "Den finast eg veit",
-      "url": "https://open.spotify.com/track/3NQDZSM47zCMao3GFkcqaV"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Tru",
-        "url": "https://open.spotify.com/album/24bEVRFOtWz8JgNQD07PWM"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        },
-        {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        }
-      ],
-      "duration_ms": 251429,
-      "name": "Tru",
-      "url": "https://open.spotify.com/track/78OG4KeOteCs5a91xWDBHi"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Ei kvinnehand",
-        "url": "https://open.spotify.com/album/16xFeS64qgOjf0L6v0Nugg"
-      },
-      "artists": [
-        {
-          "name": "Maria Solheim",
-          "url": "https://open.spotify.com/artist/50dO3ZgIhCt8OEmmMougtn"
-        }
-      ],
-      "duration_ms": 244386,
-      "name": "Ei kvinnehand",
-      "url": "https://open.spotify.com/track/2uelFmwzrlRwkbfdcoPDTO"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
         "name": "Linedans",
         "url": "https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU"
       },
@@ -751,90 +459,34 @@
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "1988 EP",
-        "url": "https://open.spotify.com/album/2TiHYiHT0RWXmkRc8RhNSw"
+        "name": "V\u00e5r beste dag",
+        "url": "https://open.spotify.com/album/72dAuYKSanaCXmsLzS7eUN"
       },
       "artists": [
         {
-          "name": "Daniel Kvammen",
-          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
         }
       ],
-      "duration_ms": 257906,
-      "name": "Du fortenar ein som meg - klineversjon",
-      "url": "https://open.spotify.com/track/5hchDR7T3AwFfTe89Lh9O5"
+      "duration_ms": 202588,
+      "name": "V\u00e5r beste dag",
+      "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"
     },
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "Mellom disse 4 vegger",
-        "url": "https://open.spotify.com/album/7xvVHqMGHBrDBYPdMuVTkt"
+        "name": "N\u00e5r det er natt",
+        "url": "https://open.spotify.com/album/6edLhz29gflzs0AFYiWqoC"
       },
       "artists": [
         {
-          "name": "Marion Ravn",
-          "url": "https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt"
-        },
-        {
-          "name": "Magnus Gr\u00f8nneberg",
-          "url": "https://open.spotify.com/artist/3V9H1F7vYbeggiAlp0RIxM"
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
         }
       ],
-      "duration_ms": 268366,
-      "name": "Ikke deg",
-      "url": "https://open.spotify.com/track/6CWyZcIAv53L2x8Nv1eu5N"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Takk for alt",
-        "url": "https://open.spotify.com/album/5HLEnWtZBEtsfXXJK8Cbhq"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        }
-      ],
-      "duration_ms": 215120,
-      "name": "Takk for alt",
-      "url": "https://open.spotify.com/track/54R6o5mqK9bNT69ZACtAFH"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Ved Sengekanten",
-        "url": "https://open.spotify.com/album/77LUUJWapj666rvWseXTAy"
-      },
-      "artists": [
-        {
-          "name": "Inger Lise Rypdal",
-          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
-        }
-      ],
-      "duration_ms": 113400,
-      "name": "Kvelden Lister Seg P\u00e5 T\u00e5",
-      "url": "https://open.spotify.com/track/3aAlj4WfClIgNtli1nBnBm"
-    },
-    {
-      "added_at": "2022-01-27 23:02:00",
-      "album": {
-        "name": "Halvveis rundt jorden",
-        "url": "https://open.spotify.com/album/1u5oX5Strf7ELcaOaM833O"
-      },
-      "artists": [
-        {
-          "name": "deLillos",
-          "url": "https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N"
-        },
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 240160,
-      "name": "Halvveis rundt jorden",
-      "url": "https://open.spotify.com/track/1QQsomZh4unathI9P0c4Qn"
+      "duration_ms": 208066,
+      "name": "N\u00e5r Det Er Natt",
+      "url": "https://open.spotify.com/track/3YiYknBwDPD3TctjA81hye"
     },
     {
       "added_at": "2022-01-27 23:02:00",
@@ -859,18 +511,354 @@
     {
       "added_at": "2022-01-27 23:02:00",
       "album": {
-        "name": "Blue Sky Blue",
-        "url": "https://open.spotify.com/album/4sfHf8C3gtRkGS4eX1tB0X"
+        "name": "Alt det som skinner",
+        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
       },
       "artists": [
         {
-          "name": "Anne Marie Almedal",
-          "url": "https://open.spotify.com/artist/49nP0U2x9Egz06cjDphoez"
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
         }
       ],
-      "duration_ms": 227342,
-      "name": "Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/76aHRAWLLROERsUoj7qxaR"
+      "duration_ms": 250403,
+      "name": "Alt det som skinner",
+      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Heim igjen",
+        "url": "https://open.spotify.com/album/1roeS2EV5XHBorIbHg6vxO"
+      },
+      "artists": [
+        {
+          "name": "Ida Jenshus",
+          "url": "https://open.spotify.com/artist/15qMqM0HdFCZ6IKVNfLGNd"
+        }
+      ],
+      "duration_ms": 260425,
+      "name": "Heim igjen",
+      "url": "https://open.spotify.com/track/1fbdwwnIq1J1dfySdyJqAK"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Kamilla Og Tyven",
+        "url": "https://open.spotify.com/album/31yk847bN0MUuhwNQbfsNC"
+      },
+      "artists": [
+        {
+          "name": "Morten Harket",
+          "url": "https://open.spotify.com/artist/08t5VdmH6cpxHXUmb9bFeP"
+        }
+      ],
+      "duration_ms": 214186,
+      "name": "Kamilla Og Tyven",
+      "url": "https://open.spotify.com/track/5S3iampR4PvPov7fvN2Mt7"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Der var du",
+        "url": "https://open.spotify.com/album/5keKiJy2GPTMWWWHX1Exjf"
+      },
+      "artists": [
+        {
+          "name": "Kim Rysstad",
+          "url": "https://open.spotify.com/artist/0k5dfZ7J3tg2cvsjkTX796"
+        }
+      ],
+      "duration_ms": 216367,
+      "name": "Der var du",
+      "url": "https://open.spotify.com/track/67pRxxw4HUnATsrcVlhcAK"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Varme Ut Av Is",
+        "url": "https://open.spotify.com/album/0UgIhsI11cvJrrQb5iBqwp"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rn Hoel",
+          "url": "https://open.spotify.com/artist/6WGO9mdAxgwVQxui0t98DC"
+        }
+      ],
+      "duration_ms": 234466,
+      "name": "Har En Dr\u00f8m",
+      "url": "https://open.spotify.com/track/4gxOSJI3TBLv7YK0h2HO9Q"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Tru",
+        "url": "https://open.spotify.com/album/24bEVRFOtWz8JgNQD07PWM"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        },
+        {
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
+        }
+      ],
+      "duration_ms": 251429,
+      "name": "Tru",
+      "url": "https://open.spotify.com/track/78OG4KeOteCs5a91xWDBHi"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "3 sanger",
+        "url": "https://open.spotify.com/album/3xjsMLjW25DMe5K09x522s"
+      },
+      "artists": [
+        {
+          "name": "Kari Bremnes",
+          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
+        }
+      ],
+      "duration_ms": 281955,
+      "name": "S\u00e5 fullt av ja",
+      "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Adams Sang (feat. Myra)",
+        "url": "https://open.spotify.com/album/3s7wpsEiUTSvJwSQ7L3G5Z"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Myra",
+          "url": "https://open.spotify.com/artist/6dKpd69v7biGUV6qlwnHm5"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Adams Sang (feat. Myra)",
+      "url": "https://open.spotify.com/track/6HNnIJeTCjp3t3oj30nuW3"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Bru over m\u00f8rke b\u00f8lger",
+        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Bru over m\u00f8rke b\u00f8lger",
+      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+      },
+      "artists": [
+        {
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "Kj\u00e6rlighetsvisa",
+      "url": "https://open.spotify.com/track/5RWXXhXRGhw7BHcVdwLpEs"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Kr\u00e5keviks Songbok",
+        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
+      },
+      "artists": [
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        }
+      ],
+      "duration_ms": 178760,
+      "name": "Den Fyrste Song",
+      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Aldri i livet",
+        "url": "https://open.spotify.com/album/4PWBw7XicuhaR6f6D5T36r"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 188796,
+      "name": "Aldri i livet",
+      "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Til deg (Single Version)",
+        "url": "https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2"
+      },
+      "artists": [
+        {
+          "name": "Marthe Wang",
+          "url": "https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "Til deg - Single Version",
+      "url": "https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/3dZvVLGKN6rDgnZGnbNVyW"
+      },
+      "artists": [
+        {
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+        }
+      ],
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/6SlE2MU3PsOO7NrPIIFRHm"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "St\u00f8v Og Stjerner",
+        "url": "https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X"
+      },
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "V\u00e5r Beste Dag",
+      "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Den St\u00f8rste Reisen",
+        "url": "https://open.spotify.com/album/3tvpaisrdoJlVNKcOexM8w"
+      },
+      "artists": [
+        {
+          "name": "Benny Borg",
+          "url": "https://open.spotify.com/artist/3eYsDUyn51BM8warjE2uX0"
+        },
+        {
+          "name": "Sigmund Groven",
+          "url": "https://open.spotify.com/artist/35he9yh8ik3SiRr3RnafUT"
+        }
+      ],
+      "duration_ms": 248303,
+      "name": "God morgen, min kj\u00e6re",
+      "url": "https://open.spotify.com/track/1y7t76EK1A3lsh6iLQwqH8"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Imellom To Evigheter",
+        "url": "https://open.spotify.com/album/4r6KQy5OW5lx9bGXN570Ut"
+      },
+      "artists": [
+        {
+          "name": "Finn Kalvik",
+          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+        },
+        {
+          "name": "Cajsa Stina \u00c5kerstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7"
+        }
+      ],
+      "duration_ms": 254680,
+      "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
+      "url": "https://open.spotify.com/track/42ABcWYV6yzewALbyw4eEF"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Kommer du snart hjem",
+        "url": "https://open.spotify.com/album/01TKLXHh77apQPHag1FgAZ"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "duration_ms": 256239,
+      "name": "Kommer du snart hjem",
+      "url": "https://open.spotify.com/track/5H3qr0j1gHk6VOyFwqtbfn"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "La oss ta en idealist",
+        "url": "https://open.spotify.com/album/5ojGw9GLoqjqfb0hLJGb45"
+      },
+      "artists": [
+        {
+          "name": "Doddo",
+          "url": "https://open.spotify.com/artist/7gWtJcbCpqPRWhvtGo9n1k"
+        }
+      ],
+      "duration_ms": 250750,
+      "name": "La oss ta en idealist",
+      "url": "https://open.spotify.com/track/7sW9cHKbqoR9e8eL8M5uP0"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Det Hainnle Om \u00c5 Leve - Mellom Anna",
+        "url": "https://open.spotify.com/album/1J6HpgChGfFx3Syl6JvObp"
+      },
+      "artists": [
+        {
+          "name": "Kine Hellebust",
+          "url": "https://open.spotify.com/artist/1xt1wtsor2VKjhcQebd9Ec"
+        }
+      ],
+      "duration_ms": 254380,
+      "name": "Det Hainnle Om \u00c5 Leve",
+      "url": "https://open.spotify.com/track/2WJ14O84lqRcgjPOSgf6tI"
+    },
+    {
+      "added_at": "2022-01-27 23:02:00",
+      "album": {
+        "name": "Det roliga regnet",
+        "url": "https://open.spotify.com/album/6B3kwvGJr1aGsrJpyzIF0O"
+      },
+      "artists": [
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "Det roliga regnet",
+      "url": "https://open.spotify.com/track/3hGyoBKZjhnuH6Q3d9e0a1"
     }
   ],
   "unique_name": "Norske viser",

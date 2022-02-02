@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 188855,
       "name": "4th Quarter",
       "url": "https://open.spotify.com/track/7lbMFw3ZVx2orxwHP5blUb"
@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 175169,
       "name": "Big Stepper",
       "url": "https://open.spotify.com/track/6x0QNM6f0C2JEjK0hFF8Ca"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 234540,
       "name": "Bookoo Bucks",
       "url": "https://open.spotify.com/track/6zdVd206eHcQ5GuDvCSGcZ"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 176725,
       "name": "Forever Set In Stone",
       "url": "https://open.spotify.com/track/4heYgxcr1byQWoiFFG3Kvr"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 220995,
       "name": "Icon",
       "url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 171273,
       "name": "Kobe (feat. Snoop Dogg & Derrick Milano)",
       "url": "https://open.spotify.com/track/6KNkwW52dda5lTGf10KLXn"
@@ -751,10 +751,32 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 286421,
       "name": "Kurupt",
       "url": "https://open.spotify.com/track/3PNWSxGWXZoPtbBlx2iKOb"
+    },
+    {
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/3JNsYDf4AFTWtKdqvsg09Z"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184508,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/6Bps1YWIAbvLtJos0eGQbr"
     },
     {
       "album": {
@@ -791,7 +813,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 211680,
       "name": "Love Yourz",
       "url": "https://open.spotify.com/track/4gkl7QbQvBd3TM9PhlWFkI"
@@ -1225,7 +1247,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 311960,
       "name": "Views",
       "url": "https://open.spotify.com/track/7MjSipTto9QljYzZnloXOn"

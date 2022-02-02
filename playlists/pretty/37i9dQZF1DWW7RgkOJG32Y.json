@@ -1,13 +1,45 @@
 {
-  "description": "Top trending new and recent tracks from the last few months.  Cover: Travis Denning",
-  "num_followers": 235193,
+  "description": "Top trending new and recent tracks from the last few months.  Cover: Nate Smith",
+  "num_followers": 235295,
   "original_name": "Breakout Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzY1MTUxMCwwMDAwMDIwNzAwMDAwMTdlYjE0M2IwNWYwMDAwMDE3ZTEyN2ZmNGM0",
+  "snapshot_id": "MTY0MzY5MTYwMCwwMDAwMDIwODAwMDAwMTdlYjNhNzY5MmMwMDAwMDE3ZWIyOGQwZjk0",
   "tracks": [
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "I Don't Wanna Go To Heaven",
+        "url": "https://open.spotify.com/album/34SxCd3VfttsdTekzG6ROb"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 201294,
+      "name": "I Don't Wanna Go To Heaven",
+      "url": "https://open.spotify.com/track/55lJN2gIzJM9SCfwzxAEjf"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "29: Written In Stone",
+        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "What He Didn't Do",
+      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
+    },
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {
@@ -31,38 +63,6 @@
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Dirt Road Down",
-        "url": "https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18"
-      },
-      "artists": [
-        {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
-        }
-      ],
-      "duration_ms": 165920,
-      "name": "Dirt Road Down",
-      "url": "https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Close to You",
-        "url": "https://open.spotify.com/album/40cbsi8Xa1QwomJacJR8EQ"
-      },
-      "artists": [
-        {
-          "name": "Jaden Michaels",
-          "url": "https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "Close to You",
-      "url": "https://open.spotify.com/track/6wF6oModvfcuEKNdB0f0Er"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
         "name": "Coyote Cry",
         "url": "https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId"
       },
@@ -75,6 +75,22 @@
       "duration_ms": 168131,
       "name": "Solo",
       "url": "https://open.spotify.com/track/1XsUBzfpNsho6etkFNLcpR"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Backroad Flyin'",
+        "url": "https://open.spotify.com/album/5URlnunYAmVeQcjW8XJW9y"
+      },
+      "artists": [
+        {
+          "name": "Luke and Kaylee",
+          "url": "https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf"
+        }
+      ],
+      "duration_ms": 192921,
+      "name": "Backroad Flyin'",
+      "url": "https://open.spotify.com/track/73VO2Gy5FMTpmeQl0jFeZl"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -99,22 +115,6 @@
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Pickup",
-        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
-      },
-      "artists": [
-        {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
-        }
-      ],
-      "duration_ms": 168447,
-      "name": "Pickup",
-      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
         "name": "Weekends Look A Little Different These Days",
         "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
       },
@@ -131,18 +131,18 @@
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "Backroad Flyin'",
-        "url": "https://open.spotify.com/album/5URlnunYAmVeQcjW8XJW9y"
+        "name": "Close to You",
+        "url": "https://open.spotify.com/album/40cbsi8Xa1QwomJacJR8EQ"
       },
       "artists": [
         {
-          "name": "Luke and Kaylee",
-          "url": "https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf"
+          "name": "Jaden Michaels",
+          "url": "https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs"
         }
       ],
-      "duration_ms": 192921,
-      "name": "Backroad Flyin'",
-      "url": "https://open.spotify.com/track/73VO2Gy5FMTpmeQl0jFeZl"
+      "duration_ms": 225230,
+      "name": "Close to You",
+      "url": "https://open.spotify.com/track/6wF6oModvfcuEKNdB0f0Er"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -159,6 +159,22 @@
       "duration_ms": 213207,
       "name": "Steady Heart",
       "url": "https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T"
+    },
+    {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Pickup",
+        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "duration_ms": 168447,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -211,18 +227,18 @@
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "29: Written In Stone",
-        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
+        "name": "Break My Heart Again",
+        "url": "https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
         }
       ],
-      "duration_ms": 191226,
-      "name": "What He Didn't Do",
-      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
+      "duration_ms": 201256,
+      "name": "Break My Heart Again",
+      "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -255,22 +271,6 @@
       "duration_ms": 213784,
       "name": "When You Don't",
       "url": "https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Break My Heart Again",
-        "url": "https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 201256,
-      "name": "Break My Heart Again",
-      "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
     },
     {
       "added_at": "2022-01-28 05:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "I Don't Wanna Go To Heaven",
-        "url": "https://open.spotify.com/album/34SxCd3VfttsdTekzG6ROb"
+        "name": "Dirt Road Down",
+        "url": "https://open.spotify.com/album/0It8BS2aYEgexa65TJbp18"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
         }
       ],
-      "duration_ms": 201294,
-      "name": "I Don't Wanna Go To Heaven",
-      "url": "https://open.spotify.com/track/55lJN2gIzJM9SCfwzxAEjf"
+      "duration_ms": 165920,
+      "name": "Dirt Road Down",
+      "url": "https://open.spotify.com/track/5gTQD1FjKMqUisgSD0uyb1"
     },
     {
       "added_at": "2022-01-28 05:00:00",

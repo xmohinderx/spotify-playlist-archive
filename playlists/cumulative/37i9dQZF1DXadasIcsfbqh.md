@@ -2,7 +2,7 @@
 
 ### [PopCo](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
 
-> Pop country hits of today and tomorrow\. Cover: MacKenzie Porter
+> Pop country hits of today and tomorrow\. Cover: Maren Morris
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

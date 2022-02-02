@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 245133,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 226440,
       "name": "Award Tour",
       "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 256866,
       "name": "Big Momma Thang",
       "url": "https://open.spotify.com/track/0JRB0l3igltUQX1OmKyORy"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 252746,
       "name": "Big Poppa - 2005 Remaster",
       "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 206693,
       "name": "Da Joint",
       "url": "https://open.spotify.com/track/4opGTspdCCVK9IG1b4k8yp"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 136093,
       "name": "Da Rockwilder",
       "url": "https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR"
@@ -652,6 +652,28 @@
     },
     {
       "album": {
+        "name": "Pieces Of A Man",
+        "url": "https://open.spotify.com/album/0UoIEoMO8GchrDZQRSIzmI"
+      },
+      "artists": [
+        {
+          "name": "AZ",
+          "url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270733,
+      "name": "How Ya Livin' featuring Nas",
+      "url": "https://open.spotify.com/track/4z1swK8bYaJUUEHESWqPbG"
+    },
+    {
+      "album": {
         "name": "It's Dark And Hell Is Hot",
         "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
       },
@@ -721,7 +743,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 178600,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/6Ag4SYLUGFdnJrCwUIb4mT"
@@ -795,7 +817,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 282373,
       "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
       "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
@@ -895,10 +917,28 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 172933,
       "name": "It's So Hard (featuring Donell Jones) (feat. Donnell Jones)",
       "url": "https://open.spotify.com/track/5NQdweL8O7nGdM7e4IS1lf"
+    },
+    {
+      "album": {
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240626,
+      "name": "Izzo (H.O.V.A.)",
+      "url": "https://open.spotify.com/track/4h5KBcltGefua73AUPYps7"
     },
     {
       "album": {
@@ -1004,6 +1044,42 @@
     },
     {
       "album": {
+        "name": "Uptown Saturday Night",
+        "url": "https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E"
+      },
+      "artists": [
+        {
+          "name": "Camp Lo",
+          "url": "https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240093,
+      "name": "Luchini AKA This Is It - Album, Single",
+      "url": "https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256226,
+      "name": "Many Men (Wish Death)",
+      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
+    },
+    {
+      "album": {
         "name": "Hard To Earn",
         "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
       },
@@ -1067,7 +1143,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 270493,
       "name": "Money, Power & Respect (feat. DMX & Lil' Kim)",
       "url": "https://open.spotify.com/track/3MbBa8FMMgp9D39s7Cozl9"
@@ -1125,7 +1201,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 322066,
       "name": "Nappy Heads - Remix",
       "url": "https://open.spotify.com/track/0hKr166QnNZ0a37G4UO0VY"
@@ -1183,7 +1259,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 297906,
       "name": "Oochie Wally - Remix",
       "url": "https://open.spotify.com/track/56DPW47j6NZnRye792oACa"
@@ -1259,7 +1335,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 261266,
       "name": "Rebirth Of Slick (Cool Like Dat)",
       "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
@@ -1397,7 +1473,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 161400,
       "name": "Shimmy Shimmy Ya",
       "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
@@ -1451,7 +1527,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 389866,
       "name": "Special Delivery",
       "url": "https://open.spotify.com/track/5pkODNs3tEe8DMqjorjR8c"
@@ -1739,7 +1815,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 357200,
       "name": "What They Do",
       "url": "https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE"

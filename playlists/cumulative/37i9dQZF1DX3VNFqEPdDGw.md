@@ -63,6 +63,8 @@
 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 | 2021-12-18 |  |
 | [Umbrella](https://open.spotify.com/track/7fBeejW1BoZFTd4hTP6JvV) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp) | [Umbrella](https://open.spotify.com/album/3S3ekcemSjVZ6Pi3ojBEhq) | 3:13 | 2021-12-18 | 2022-01-11 |
 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 | 2021-12-18 |  |
+| [Vibe](https://open.spotify.com/track/4cQFpei7RioqdK8BVcUN7n) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 2:50 | 2022-02-01 |  |
+| [Video Call](https://open.spotify.com/track/3lqOcc7LKwXwbbCAIihRPc) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 3:06 | 2022-02-01 |  |
 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 | 2022-01-10 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

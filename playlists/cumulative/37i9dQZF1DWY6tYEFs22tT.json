@@ -208,6 +208,28 @@
     },
     {
       "album": {
+        "name": "Arya",
+        "url": "https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg"
+      },
+      "artists": [
+        {
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "Arya (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7"
+    },
+    {
+      "album": {
         "name": "ALIVE (Deluxe)",
         "url": "https://open.spotify.com/album/1ThGGXmoSFxHIQLhE4vy7M"
       },
@@ -445,7 +467,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 146597,
       "name": "CAN'T TOUCH THIS",
       "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"

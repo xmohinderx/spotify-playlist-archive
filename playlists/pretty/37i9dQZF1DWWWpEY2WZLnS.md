@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Lo mas pegao en Dembow\. <br/>Foto: El Alfa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,272 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,618 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 27 | [Vamo Pal Bronx \- Remix](https://open.spotify.com/track/2TqVjbeByxcIk3bXrksRQq) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Jaudy](https://open.spotify.com/artist/482w6SuAShFPgge3PuRmO3), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Menor Bronx](https://open.spotify.com/artist/27vVGBA5f8N22Jmdf8Gs09), [kenser](https://open.spotify.com/artist/0LkUf4EevVseUbsW2hW9ux) | [Vamo Pal Bronx \(Remix\)](https://open.spotify.com/album/6fKuJp47EKn3OUxXSRu398) | 5:09 |
 | 28 | [Solteroski](https://open.spotify.com/track/0ETRyccZjuZBXoStGB5kc6) | [Los Solteroski](https://open.spotify.com/artist/3sDjufdk7xwwPnx7NNKE63), [Ariel Fortuna](https://open.spotify.com/artist/5z6MxAY9F3Mlgda8GJZHdT), [Yeral](https://open.spotify.com/artist/3dG1x1W45XaKRHkIwQpZlW) | [Solteroski](https://open.spotify.com/album/53E6nAATsQheECjMF5IzGL) | 3:20 |
 | 29 | [Los Bobo Son Mio](https://open.spotify.com/track/0CPwDsfPXKLigbah6wLCs7) | [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Los Bobo Son Mio](https://open.spotify.com/album/0XZwEGuc5TfJ7cv0a8yWxm) | 2:11 |
-| 30 | [Tukuntaso](https://open.spotify.com/track/0EaBXOqo6TNIIhHctCbQPi) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY) | [Tukuntazo](https://open.spotify.com/album/1YffA4MCsDxDIPCDwnzAcZ) | 3:17 |
+| 30 | [Tukuntazo](https://open.spotify.com/track/0EaBXOqo6TNIIhHctCbQPi) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Haraca Kiko](https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh) | [Tukuntazo](https://open.spotify.com/album/1YffA4MCsDxDIPCDwnzAcZ) | 3:17 |
 | 31 | [Chivirika](https://open.spotify.com/track/0cGy3K7zTivPgk3iUC91nz) | [El Villanord](https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Chivirika](https://open.spotify.com/album/2i858xsBfzp0M9AFJUhXts) | 3:32 |
 | 32 | [Elma Maria](https://open.spotify.com/track/2X0ZB9z924BusDXia6yYiw) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [Elma Maria](https://open.spotify.com/album/1uCTg0kVU6LzfFeBjK7CR7) | 3:16 |
 | 33 | [Cooperas Con los Federicos](https://open.spotify.com/track/5FzJJHLpEDf39ZSbRnQYSK) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Cooperas Con los Federicos](https://open.spotify.com/album/3P8uMdPghm5rMXsac9cbbU) | 2:58 |

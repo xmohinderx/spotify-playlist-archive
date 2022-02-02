@@ -63,7 +63,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 551025,
       "name": "Ala Moj Al Bahr (JAVID Remix)",
       "url": "https://open.spotify.com/track/5DHrTSqpv4g6AJoHlE3oiw"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 194754,
       "name": "Belly Dance",
       "url": "https://open.spotify.com/track/7cYuWkbHyld3zWV9jx5vTQ"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 186017,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 405538,
       "name": "Delichones",
       "url": "https://open.spotify.com/track/6qiwOC5TeKXK4pDonIZxgR"
@@ -879,7 +879,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 341386,
       "name": "Eibada",
       "url": "https://open.spotify.com/track/2DB1K7RbZbFGACY9yiLLqH"
@@ -909,6 +909,24 @@
       "duration_ms": 347855,
       "name": "El Hawa",
       "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
+    },
+    {
+      "album": {
+        "name": "Escuro",
+        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
+      },
+      "artists": [
+        {
+          "name": "Cut Off",
+          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285913,
+      "name": "Escuro",
+      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
     },
     {
       "album": {
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2020-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 176350,
       "name": "Helwa Belady El Samra (Kharma Remix)",
       "url": "https://open.spotify.com/track/5usGKrykRENg5c3DAOEEIN"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "Letting Go - Radio Edit",
       "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 170228,
       "name": "Magic",
       "url": "https://open.spotify.com/track/0jqczwiW0nZS9nbHcP53zH"
@@ -1955,7 +1973,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 224262,
       "name": "Mra ou Mermora",
       "url": "https://open.spotify.com/track/2Ld7QaXg2yP2L3yAz3QFgv"
@@ -2073,7 +2091,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 152380,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/1drJPCR41J9gdpln5VxdIa"
@@ -2303,7 +2321,7 @@
       ],
       "date_added": "2020-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 435187,
       "name": "OUD",
       "url": "https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl"
@@ -2533,7 +2551,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 178153,
       "name": "Roots",
       "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
@@ -2759,7 +2777,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 377156,
       "name": "Sophia",
       "url": "https://open.spotify.com/track/1cNpthOJnJS9fx79Q6ulIz"
@@ -2985,7 +3003,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 304091,
       "name": "The Long March - Remix",
       "url": "https://open.spotify.com/track/3Ufh9OCrtsLGduyRDPvn1P"
@@ -3157,7 +3175,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 217211,
       "name": "Ya Ghayeb",
       "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"

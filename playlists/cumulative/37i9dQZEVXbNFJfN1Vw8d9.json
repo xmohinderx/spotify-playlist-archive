@@ -1016,6 +1016,24 @@
     },
     {
       "album": {
+        "name": "Calle de la Llorer\u00eda",
+        "url": "https://open.spotify.com/album/6TVBhP0E5CX0DLvyjK21Tb"
+      },
+      "artists": [
+        {
+          "name": "Rayden",
+          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Calle de la Llorer\u00eda",
+      "url": "https://open.spotify.com/track/74xJ93SJIeY3yunnJ3lbGm"
+    },
+    {
+      "album": {
         "name": "Canci\u00f3n Bonita",
         "url": "https://open.spotify.com/album/0MykRhKNiatX85K4bCHL8U"
       },
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 222798,
       "name": "Cuando Ella Sale",
       "url": "https://open.spotify.com/track/0bxzF2Kyql0pQ58Mymztue"

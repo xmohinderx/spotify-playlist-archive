@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 187804,
       "name": "6 A.M (Slowed and Reverb)",
       "url": "https://open.spotify.com/track/75LBctBE74I7q9jKyq8JPb"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 319860,
       "name": "Aesthetic Girl (Slowed + Reverb) [Love Making Ver]",
       "url": "https://open.spotify.com/track/5077oyWMFY3CVOX53UfPpd"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 174886,
       "name": "floral notes - slowed + reverbed",
       "url": "https://open.spotify.com/track/64WvcIKpNx95kiHPTiijYI"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
@@ -1228,6 +1228,24 @@
     },
     {
       "album": {
+        "name": "Peli (slowed version)",
+        "url": "https://open.spotify.com/album/11RK1e9FVJSQ2s9mQCFsmw"
+      },
+      "artists": [
+        {
+          "name": "Corsario.",
+          "url": "https://open.spotify.com/artist/7xc7P35Qr6eNKSGdL4zxix"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226530,
+      "name": "Peli - slowed version",
+      "url": "https://open.spotify.com/track/7IerycLUFnFc2IhNpDPFC5"
+    },
+    {
+      "album": {
         "name": "Presentere Fine Design (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 134013,
       "name": "Shhh (Pew Pew) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/24HKaFw0tAfvGiq03KRNje"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 214439,
       "name": "vaping in the hood // slowed + reverbed",
       "url": "https://open.spotify.com/track/15G4SDc25JnGW3Re0j8cZn"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 131129,
       "name": "Your voice. (Slowed and reverbed.)",
       "url": "https://open.spotify.com/track/7l2QKC0ViJNxAJyeTpTurs"

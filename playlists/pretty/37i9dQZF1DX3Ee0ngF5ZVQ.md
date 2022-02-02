@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> From the Dance Halls and Honky Tonks across America to the World! Formerly Texas Music Now\. Cover: Wade Bowen
+> From the Dance Halls and Honky Tonks across America to the World! Formerly Texas Music Now\. Cover: Corey Kent
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,732 likes - 149 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,792 likes - 149 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 |
-| 2 | [Phones Don't Work](https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Where Phones Don't Work](https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ) | 3:33 |
-| 3 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 |
-| 4 | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC) | 3:44 |
-| 5 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
-| 6 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 |
-| 7 | [What's Your Drinkin' Song](https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [What's Your Drinkin' Song](https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q) | 3:45 |
-| 8 | [Picture Frames](https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Picture Frames](https://open.spotify.com/album/2EMEIbtBzUveg1CJIFrtXD) | 3:16 |
-| 9 | [Meet Me in Texas \(feat\. Graycie York\)](https://open.spotify.com/track/4PrAYzzAdz8XJoMFe1Ejpj) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s), [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Meet Me in Texas \(feat\. Graycie York\)](https://open.spotify.com/album/6gf38KGaKKYZL4BTSyntMB) | 3:21 |
-| 10 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
-| 11 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 |
-| 12 | [Whiskey Miss Me](https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz) | [Hannah Kay](https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc) | [Whiskey Miss Me](https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6) | 3:00 |
-| 13 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 |
+| 1 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 |
+| 2 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 |
+| 3 | [Phones Don't Work](https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Where Phones Don't Work](https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ) | 3:33 |
+| 4 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 |
+| 5 | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/track/4VyZr1v1MNeZbl6eV8ZJGh) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Happier Alone \(feat\. Koe Wetzel\)](https://open.spotify.com/album/3FMpvDKoq0GAMYKn72pqlC) | 3:44 |
+| 6 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
+| 7 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 |
+| 8 | [What's Your Drinkin' Song](https://open.spotify.com/track/3oxNPAlVwXNOCHEEvntITl) | [Kyle Park](https://open.spotify.com/artist/5uZZpd0gd1c36OcQBGxgGC) | [What's Your Drinkin' Song](https://open.spotify.com/album/2FKfzCrl5q6vskYTUHqY9Q) | 3:45 |
+| 9 | [Picture Frames](https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Picture Frames](https://open.spotify.com/album/2EMEIbtBzUveg1CJIFrtXD) | 3:16 |
+| 10 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 |
+| 11 | [Whiskey Miss Me](https://open.spotify.com/track/20ZFbsmpYhFYNIMrBPKCMz) | [Hannah Kay](https://open.spotify.com/artist/1lqIzlQxMBRSQt5A5hx0Sc) | [Whiskey Miss Me](https://open.spotify.com/album/5YeXMUcKBluvCPtNFYUbk6) | 3:00 |
+| 12 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
+| 13 | [Meet Me in Texas \(feat\. Graycie York\)](https://open.spotify.com/track/4PrAYzzAdz8XJoMFe1Ejpj) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s), [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Meet Me in Texas \(feat\. Graycie York\)](https://open.spotify.com/album/6gf38KGaKKYZL4BTSyntMB) | 3:21 |
 | 14 | [I Will Find You](https://open.spotify.com/track/05KJqisYJmofxTbwY5qWWM) | [Walt Wilkins](https://open.spotify.com/artist/7ibIGIariNNiQyafUQ6Oqg), [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [I Will Find You](https://open.spotify.com/album/2n5ktGzFUxyj8zOogB0929) | 3:24 |
 | 15 | [Drink to That](https://open.spotify.com/track/5bS0EQrItTRmdNCAmdTIpG) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Drink to That](https://open.spotify.com/album/6JBWJvkpMTe4vxTQRT5Kqe) | 3:47 |
 | 16 | [Beaumont](https://open.spotify.com/track/024K3TtiidXB4YBqiVEfD2) | [Parker Ryan](https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG) | [Parker Ryan](https://open.spotify.com/album/4iCyyEW61JDJimz3pvU03j) | 3:59 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 148 | [May Peace Find You Tonight](https://open.spotify.com/track/5I2rq5XxezXS8V40TuZYli) | [Reckless Kelly](https://open.spotify.com/artist/0jmPjksXqVrO92Urmx58vg) | [May Peace Find You Tonight](https://open.spotify.com/album/2Je9X6mLnFyaz4Zk1wo1uH) | 3:54 |
 | 149 | [The Letter That Johnny Walker Read \(feat\. Lee Ann Womack\)](https://open.spotify.com/track/05dkkp51ZkuPj98URZSG8l) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Half a Hundred Years](https://open.spotify.com/album/6SpBTmlOgevRZFjXT1kNWG) | 3:37 |
 
-Snapshot ID: `MTY0MzM0NjAwMCwwMDAwMDBmMjAwMDAwMTdlOWYwZGY5NDQwMDAwMDE3ZTEyOGI1ZTRk`
+Snapshot ID: `MTY0MzY5MTYwMCwwMDAwMDBmMzAwMDAwMTdlYjNhNzY5MmMwMDAwMDE3ZWIyYTAxYzVh`

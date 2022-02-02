@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados, con Anitta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,558 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,577 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 8 | [Callejera](https://open.spotify.com/track/6DoeuCz4P0NmD4aCghjgpf) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Callejera](https://open.spotify.com/album/1Q0pBlUdKI9x3ueSfFRIas) | 3:43 |
 | 9 | [Maki](https://open.spotify.com/track/5HpD4DWQegIhaZlMCBTTEV) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Maki](https://open.spotify.com/album/0TSNlfj9WQD3NwiqcjaUwb) | 3:00 |
 | 10 | [Háblame Bajito](https://open.spotify.com/track/4bc6x3pLRUvC0nowQEhhCf) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Háblame Bajito](https://open.spotify.com/album/73ocQhUawW0cwQEKJGlpv7) | 3:36 |
-| 11 | [INTERESTELAR](https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Interestelar](https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM) | 2:53 |
+| 11 | [INTERESTELAR](https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [INTERESTELAR](https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM) | 2:53 |
 | 12 | [Al Punto de Sal](https://open.spotify.com/track/2wbCWSEma9xL0QU1pYHhHU) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4) | [Al Punto de Sal](https://open.spotify.com/album/50uiNwnoIllQuMMCQYd7TP) | 2:58 |
 | 13 | [C.U.L.O Remix](https://open.spotify.com/track/7l8ahZGFqEVNZy0mI1qMdw) | [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D) | [C.U.L.O Remix](https://open.spotify.com/album/27dEXi5d5DLq5jNxHnvov5) | 4:39 |
 | 14 | [Pacto](https://open.spotify.com/track/6wYP9kb4lxaj7GL6Khf3X9) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Pacto](https://open.spotify.com/album/4gkZxIXnqQlUYYWdHMTjuZ) | 2:31 |

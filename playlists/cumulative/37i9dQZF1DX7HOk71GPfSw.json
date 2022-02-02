@@ -11632,6 +11632,24 @@
     },
     {
       "album": {
+        "name": "LOVE IS VIOLENCE",
+        "url": "https://open.spotify.com/album/3wrX9MJvRVrCEJGHGwNvH9"
+      },
+      "artists": [
+        {
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157933,
+      "name": "LOVE IS VIOLENCE",
+      "url": "https://open.spotify.com/track/5Bii5cjilhQ9v3BSeSEhnM"
+    },
+    {
+      "album": {
         "name": "love me",
         "url": "https://open.spotify.com/album/6R2tK2Kz7LsGZPswqfDpGd"
       },

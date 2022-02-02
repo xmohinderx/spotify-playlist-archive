@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,634 likes - 95 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,683 likes - 95 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 7 | [Spain](https://open.spotify.com/track/5RrJCusmR1J54b5ivqdWIu) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Return To Forever](https://open.spotify.com/artist/1txWOvvuItlRlkB4rM0cUK) | [Light As A Feather](https://open.spotify.com/album/2b53ZhXIiCGr3rPTYkpVeF) | 9:50 |
 | 8 | [The New Heritage](https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Kosie](https://open.spotify.com/artist/0xRl5ErvGBkJZaOTyOnVEb), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [David James](https://open.spotify.com/artist/3IuaZcLJ7Y43k5rF4EtP5U) | [The New Heritage](https://open.spotify.com/album/2wybYLaccS7y16e0bqr1zK) | 2:25 |
 | 9 | [Mayday](https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Mayday](https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N) | 4:48 |
-| 10 | [One More !!?!??](https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT) | [Mathieu Fiset](https://open.spotify.com/artist/07icU8dCi2MTeBGuvN8NyL), [Larnell Lewis](https://open.spotify.com/artist/30bEdA2CsbSiID0KykWvkc), [Jordan Rudess](https://open.spotify.com/artist/7gCuEDDLkP88rX2pk2XaZV) | [One More !!?!??](https://open.spotify.com/album/394rQAMc6iNZIzLyelepRf) | 4:08 |
+| 10 | [One More !!?!??](https://open.spotify.com/track/5F8tuVZJ3271tRNO7IR0uT) | [Mathieu Fiset](https://open.spotify.com/artist/07icU8dCi2MTeBGuvN8NyL), [Larnell Lewis](https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U), [Jordan Rudess](https://open.spotify.com/artist/7gCuEDDLkP88rX2pk2XaZV) | [One More !!?!??](https://open.spotify.com/album/394rQAMc6iNZIzLyelepRf) | 4:08 |
 | 11 | [TB](https://open.spotify.com/track/3hPVtMhgSYWioG9Q8ikl4N) | [Matt Twaddle](https://open.spotify.com/artist/0xNiJqc5OTckg9UswHJzDq), [Brainspark](https://open.spotify.com/artist/1QDrQQZM7ilcweQNNccVpI), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [You've All](https://open.spotify.com/artist/0by2PhziaaisEP9bZZSL6k) | [TB](https://open.spotify.com/album/467iOIkzg7tTQs3I6xqSrF) | 4:52 |
 | 12 | [Far And Distant Things \(feat\. Frank Gambale\)](https://open.spotify.com/track/7hUfeFl3SpwWli75e0VA1j) | [Benjamin Croft](https://open.spotify.com/artist/6DrVJByeJgHqJ7A3SsBnFE), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [Far and Distant Things \(feat\. Frank Gambale\)](https://open.spotify.com/album/39Opdt7XBmjgKFfbdlH8De) | 6:13 |
 | 13 | [The Nightbus](https://open.spotify.com/track/45GLV5lorbBlvcen01tNwp) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [The Nightbus](https://open.spotify.com/album/3niNqIPnj4qyJMrVO9UjwI) | 4:55 |

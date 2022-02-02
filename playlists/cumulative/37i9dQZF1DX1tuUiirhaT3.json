@@ -1446,6 +1446,24 @@
     },
     {
       "album": {
+        "name": "Mane Fluctus",
+        "url": "https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15"
+      },
+      "artists": [
+        {
+          "name": "Somnum Magnam",
+          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160959,
+      "name": "Mane Fluctus",
+      "url": "https://open.spotify.com/track/15CHR9OtnnMp4bS2qhN47G"
+    },
+    {
+      "album": {
         "name": "Marigold Chain",
         "url": "https://open.spotify.com/album/3WQnhPBzeoPFZnMidaKMEA"
       },
@@ -2405,6 +2423,24 @@
       "duration_ms": 210583,
       "name": "Solemn Flight",
       "url": "https://open.spotify.com/track/0krOu7GP4oAfj5dQUxvUcM"
+    },
+    {
+      "album": {
+        "name": "Soothing the Ocean",
+        "url": "https://open.spotify.com/album/26sn9bQUdYBJpalMa9Fikl"
+      },
+      "artists": [
+        {
+          "name": "Zonestays",
+          "url": "https://open.spotify.com/artist/7qrpF6gvKx1zA0dGofJVdh"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161796,
+      "name": "Soothing the Ocean",
+      "url": "https://open.spotify.com/track/2dGwmaVEeKceZET2Tw1UvK"
     },
     {
       "album": {

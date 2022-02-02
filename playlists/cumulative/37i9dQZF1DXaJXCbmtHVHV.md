@@ -2,7 +2,7 @@
 
 ### [Big Country](https://open.spotify.com/playlist/78pqwl0BWOSiN7uMej6HJy)
 
-> The top country hits of the week across America! Cover: Blake Shelton
+> The top country hits of the week across America! Cover: Kelsea Ballerini
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

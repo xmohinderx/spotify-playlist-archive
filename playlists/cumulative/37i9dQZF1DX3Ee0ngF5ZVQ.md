@@ -2,7 +2,7 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
-> From the Dance Halls and Honky Tonks across America to the World! Formerly Texas Music Now\. Cover: Wade Bowen
+> From the Dance Halls and Honky Tonks across America to the World! Formerly Texas Music Now\. Cover: Corey Kent
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

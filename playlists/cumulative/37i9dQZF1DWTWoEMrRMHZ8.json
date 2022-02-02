@@ -237,7 +237,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 233483,
       "name": "Avarandado",
       "url": "https://open.spotify.com/track/4HW3qBemcKJYaoW0iFqGJV"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 278139,
       "name": "Caminho de Santiago",
       "url": "https://open.spotify.com/track/0xTjK7Ko62EgY5m3KaqlH9"
@@ -447,7 +447,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 182656,
       "name": "Capricorniana",
       "url": "https://open.spotify.com/track/7xTsr6XMJJVF2sQQeWWiHq"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 209645,
       "name": "Elo",
       "url": "https://open.spotify.com/track/0ieQVijx2su3EexZRxoriA"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 128856,
       "name": "Fim de Mundo",
       "url": "https://open.spotify.com/track/5hObX2Qx6de7otHwqkNM4G"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 244469,
       "name": "Masculino e Feminino",
       "url": "https://open.spotify.com/track/6odvYNGB1347cca6Adij16"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 178636,
       "name": "Perto Daqui",
       "url": "https://open.spotify.com/track/0r91YgYOU82v403rvMYUMK"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 208642,
       "name": "Por A\u00ed",
       "url": "https://open.spotify.com/track/70nku2OHeoNghoWKf8juXj"
@@ -1497,7 +1497,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 145714,
       "name": "Pra Te Dizer Que T\u00f4 Feliz Assim",
       "url": "https://open.spotify.com/track/4VggEXSKwqd0ifaWStu9wz"
@@ -1671,7 +1671,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 153125,
       "name": "Quando o Ver\u00e3o Chegar",
       "url": "https://open.spotify.com/track/55iPmc0vf50RVte1sY2dui"
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 202895,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/6NqoBGFX80qwT7mXa2PGAG"
@@ -2078,6 +2078,28 @@
     },
     {
       "album": {
+        "name": "Tudo Bateu",
+        "url": "https://open.spotify.com/album/2JPBsl0RmL0koMHG8hzE3Z"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228329,
+      "name": "Tudo Bateu",
+      "url": "https://open.spotify.com/track/73V4hpSoL889KOpT22uO49"
+    },
+    {
+      "album": {
         "name": "Um Minuto",
         "url": "https://open.spotify.com/album/0cegLRPOaPnaRJmMIrhRRI"
       },
@@ -2089,7 +2111,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 202758,
       "name": "Um Minuto",
       "url": "https://open.spotify.com/track/5DrQiLk5UmSD6y47DtJuw9"
@@ -2107,7 +2129,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-02",
       "duration_ms": 202127,
       "name": "Um M\u00f3bile No Furac\u00e3o",
       "url": "https://open.spotify.com/track/552BKS7Q74yZTmsleMp1pq"
