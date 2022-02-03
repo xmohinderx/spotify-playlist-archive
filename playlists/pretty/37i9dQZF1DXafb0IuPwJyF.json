@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: Ado",
-  "num_followers": 563945,
+  "num_followers": 564292,
   "original_name": "Tokyo Super Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzU1NDgwMCwwMDAwMDJmMjAwMDAwMTdlYWI4MDAxZjgwMDAwMDE3ZWE5NzkwNTM4",
+  "snapshot_id": "MTY0Mzc4NDM3OSwwMDAwMDJmNDAwMDAwMTdlYjkyZjFlMzkwMDAwMDE3ZWE5NzkwNTM4",
   "tracks": [
     {
       "added_at": "2022-01-30 15:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-01-30 15:00:00",
       "album": {
+        "name": "\u60aa\u9b54\u306e\u5b50",
+        "url": "https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "duration_ms": 227679,
+      "name": "\u60aa\u9b54\u306e\u5b50",
+      "url": "https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp"
+    },
+    {
+      "added_at": "2022-01-30 15:00:00",
+      "album": {
         "name": "\u300c\u77e5\u308a\u305f\u304f\u306a\u304b\u3063\u305f\u3001\u5931\u3046\u306e\u306a\u3089\u300d (feat. \u7d14\u7325\u8ac7)",
         "url": "https://open.spotify.com/album/784bIaXrItzmMWrAGWcRFC"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 280000,
       "name": "\u539f\u7f6a\u3068\u798f\u97f3",
       "url": "https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9"
-    },
-    {
-      "added_at": "2022-01-30 15:00:00",
-      "album": {
-        "name": "\u60aa\u9b54\u306e\u5b50",
-        "url": "https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg"
-      },
-      "artists": [
-        {
-          "name": "Ai Higuchi",
-          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
-        }
-      ],
-      "duration_ms": 227679,
-      "name": "\u60aa\u9b54\u306e\u5b50",
-      "url": "https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp"
     },
     {
       "added_at": "2022-01-30 15:00:00",
@@ -667,6 +667,38 @@
     {
       "added_at": "2022-01-30 15:00:00",
       "album": {
+        "name": "YONA YONA DANCE (\u30d5\u30ec\u30c7\u30ea\u30ba\u30e0 Ver.)",
+        "url": "https://open.spotify.com/album/6JHbg9ff2XMv36z7SKi5yj"
+      },
+      "artists": [
+        {
+          "name": "frederic",
+          "url": "https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW"
+        }
+      ],
+      "duration_ms": 229201,
+      "name": "YONA YONA DANCE - \u30d5\u30ec\u30c7\u30ea\u30ba\u30e0 Ver.",
+      "url": "https://open.spotify.com/track/1mdlF75ac2fDG5b4TtmUx0"
+    },
+    {
+      "added_at": "2022-01-30 15:00:00",
+      "album": {
+        "name": "\u541b\u306b\u89e6\u308c\u305f\u6642\u304b\u3089",
+        "url": "https://open.spotify.com/album/2ofD9WKTOIyWJnjwAk4Kys"
+      },
+      "artists": [
+        {
+          "name": "Nissy",
+          "url": "https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q"
+        }
+      ],
+      "duration_ms": 217166,
+      "name": "\u541b\u306b\u89e6\u308c\u305f\u6642\u304b\u3089",
+      "url": "https://open.spotify.com/track/0HySSZyKbJG9MDIQnS9ivD"
+    },
+    {
+      "added_at": "2022-01-30 15:00:00",
+      "album": {
         "name": "EVERBLUE",
         "url": "https://open.spotify.com/album/2TWOBBZ8C8mqkNGerg2C5f"
       },
@@ -735,22 +767,6 @@
       "duration_ms": 195857,
       "name": "FLN",
       "url": "https://open.spotify.com/track/6mBNGsS8tPt8IqRIev50lY"
-    },
-    {
-      "added_at": "2022-01-30 15:00:00",
-      "album": {
-        "name": "YONA YONA DANCE (\u30d5\u30ec\u30c7\u30ea\u30ba\u30e0 Ver.)",
-        "url": "https://open.spotify.com/album/6JHbg9ff2XMv36z7SKi5yj"
-      },
-      "artists": [
-        {
-          "name": "frederic",
-          "url": "https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW"
-        }
-      ],
-      "duration_ms": 229201,
-      "name": "YONA YONA DANCE - \u30d5\u30ec\u30c7\u30ea\u30ba\u30e0 Ver.",
-      "url": "https://open.spotify.com/track/1mdlF75ac2fDG5b4TtmUx0"
     },
     {
       "added_at": "2022-01-30 15:00:00",
@@ -835,22 +851,6 @@
       "duration_ms": 215913,
       "name": "AURORA TOKIO",
       "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
-    },
-    {
-      "added_at": "2022-01-30 15:00:00",
-      "album": {
-        "name": "\u541b\u306b\u89e6\u308c\u305f\u6642\u304b\u3089",
-        "url": "https://open.spotify.com/album/2ofD9WKTOIyWJnjwAk4Kys"
-      },
-      "artists": [
-        {
-          "name": "Nissy",
-          "url": "https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q"
-        }
-      ],
-      "duration_ms": 217166,
-      "name": "\u541b\u306b\u89e6\u308c\u305f\u6642\u304b\u3089",
-      "url": "https://open.spotify.com/track/0HySSZyKbJG9MDIQnS9ivD"
     }
   ],
   "unique_name": "Tokyo Super Hits!",

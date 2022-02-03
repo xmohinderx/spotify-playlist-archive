@@ -1,12 +1,12 @@
 {
   "description": "and why aren't you in uniform?",
-  "num_followers": 391988,
+  "num_followers": 392251,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzczMTA5NCwwMDAwMDA3NTAwMDAwMTdlYjYwMjBkYmMwMDAwMDE3YjE3N2MzMWU3",
+  "snapshot_id": "MTY0MzgyNDAzNiwwMDAwMDA3NjAwMDAwMTdlYmI4YzNjNDcwMDAwMDE3YjE3N2MzMWU3",
   "tracks": [
     {
       "added_at": "2022-01-11 14:57:38",
@@ -135,6 +135,22 @@
       "duration_ms": 131883,
       "name": "Charmander",
       "url": "https://open.spotify.com/track/4NP3gHruXgIo4YSJSNDRBz"
+    },
+    {
+      "added_at": "2022-02-02 17:47:16",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5"
+      },
+      "artists": [
+        {
+          "name": "Jay Safari",
+          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
+        }
+      ],
+      "duration_ms": 165485,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK"
     },
     {
       "added_at": "2022-01-14 18:14:36",

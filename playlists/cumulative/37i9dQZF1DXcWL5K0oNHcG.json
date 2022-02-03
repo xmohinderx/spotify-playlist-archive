@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Nathaniel Cross. Artwork: Joy Yamusangie",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Nathan-Paul. Artwork: Joy Yamusangie",
   "name": "Fresh Finds Jazz",
   "published_playlist_ids": [
     "0wb3k7kBCUHVvVA8CRqr8x"
@@ -322,7 +322,7 @@
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 340138,
+      "duration_ms": 337898,
       "name": "Camino",
       "url": "https://open.spotify.com/track/327YUydMmUz48OoknIRGYJ"
     },
@@ -343,6 +343,24 @@
       "duration_ms": 164000,
       "name": "Can We? Take A Break",
       "url": "https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9"
+    },
+    {
+      "album": {
+        "name": "Canopy Of Trees",
+        "url": "https://open.spotify.com/album/7nTmxRQezaPypHC0dYX2mx"
+      },
+      "artists": [
+        {
+          "name": "Brian Landrus",
+          "url": "https://open.spotify.com/artist/6tuV2Ec8WnYyWORBBaU7me"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266551,
+      "name": "Canopy Of Trees",
+      "url": "https://open.spotify.com/track/0RcU3YtBQRSIQuJRbg35H6"
     },
     {
       "album": {
@@ -614,6 +632,24 @@
     },
     {
       "album": {
+        "name": "Flying Tale",
+        "url": "https://open.spotify.com/album/1i4rObszmxIORt7pOj1pXd"
+      },
+      "artists": [
+        {
+          "name": "Donatas Petreikis",
+          "url": "https://open.spotify.com/artist/2GohawNLmXECVv5UOhQYM2"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348160,
+      "name": "Flying Tale",
+      "url": "https://open.spotify.com/track/6NJXVRIgEqqLMEsirzBUGT"
+    },
+    {
+      "album": {
         "name": "Dance Little Lady, Dance Little Man",
         "url": "https://open.spotify.com/album/0bTLZkVRYqA408OD2dOpIw"
       },
@@ -827,6 +863,28 @@
       "duration_ms": 324224,
       "name": "Ink",
       "url": "https://open.spotify.com/track/7C6HPH84Im6Qiw9D82pKja"
+    },
+    {
+      "album": {
+        "name": "Dancing Shadows",
+        "url": "https://open.spotify.com/album/0NpaArGFNOrGJPP77kNyBE"
+      },
+      "artists": [
+        {
+          "name": "Tyler Mitchell",
+          "url": "https://open.spotify.com/artist/2wrnxn3SOIjiMGlIXX8KDT"
+        },
+        {
+          "name": "Marshall Allen",
+          "url": "https://open.spotify.com/artist/32QaUUUSNwRfshZ10Zxp58"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444843,
+      "name": "Interstellar Lowways",
+      "url": "https://open.spotify.com/track/1A88CCfUoTx1nxWFCEBNUH"
     },
     {
       "album": {
@@ -1058,6 +1116,24 @@
     },
     {
       "album": {
+        "name": "The Space Between",
+        "url": "https://open.spotify.com/album/3rrXnl3nTiCQRe7bMhVAtM"
+      },
+      "artists": [
+        {
+          "name": "Alexander Flood",
+          "url": "https://open.spotify.com/artist/07xBnzShNUrWwaVf9S7DUz"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448974,
+      "name": "LDN",
+      "url": "https://open.spotify.com/track/6kvg46WxVlk7ebhNEWlVuk"
+    },
+    {
+      "album": {
         "name": "Darr's Lane",
         "url": "https://open.spotify.com/album/2VvHRyKp8azid9MfmiDySB"
       },
@@ -1116,6 +1192,28 @@
     },
     {
       "album": {
+        "name": "Midas",
+        "url": "https://open.spotify.com/album/3lpWrWdk1a3ZsiUBMAdTVR"
+      },
+      "artists": [
+        {
+          "name": "Junior Patreze",
+          "url": "https://open.spotify.com/artist/6S4wTvztnTaRnHyMm8FDGZ"
+        },
+        {
+          "name": "Quarteto Inspiramental",
+          "url": "https://open.spotify.com/artist/0nCY46usWmFyZEAsI7N4YG"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218254,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/5dsCKO6g6lXjnN6y4v9NAC"
+    },
+    {
+      "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/5fJm4gPlj9bru9tfSPA3PU"
       },
@@ -1171,6 +1269,24 @@
       "duration_ms": 160710,
       "name": "Moanin'",
       "url": "https://open.spotify.com/track/6tqcZo9UJKIyUQRHk2TdeK"
+    },
+    {
+      "album": {
+        "name": "Momento",
+        "url": "https://open.spotify.com/album/7rIk8jTnSK05mfIUYyXlTT"
+      },
+      "artists": [
+        {
+          "name": "Sunna Gunnlaugs",
+          "url": "https://open.spotify.com/artist/6Zg458imiorm05RF66nZXh"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369906,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/5yZx5SoMp99qe3eprfAKWf"
     },
     {
       "album": {
@@ -1259,6 +1375,42 @@
       "duration_ms": 265069,
       "name": "Ornette",
       "url": "https://open.spotify.com/track/6YAV6eiIWkzTJVMWV3XQ2h"
+    },
+    {
+      "album": {
+        "name": "Triangle",
+        "url": "https://open.spotify.com/album/73wwsoV7GrO5qacgeTAit2"
+      },
+      "artists": [
+        {
+          "name": "L'Orage",
+          "url": "https://open.spotify.com/artist/1ibLxKta6pYMM58vHaa9Yx"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368666,
+      "name": "Pentatetrahydratonic",
+      "url": "https://open.spotify.com/track/5FpNv4SWZNTRswFF7y2Sdy"
+    },
+    {
+      "album": {
+        "name": "Press Start",
+        "url": "https://open.spotify.com/album/5zbognXVIVPduH2tHKw40s"
+      },
+      "artists": [
+        {
+          "name": "Mad Keys",
+          "url": "https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107968,
+      "name": "Press Start",
+      "url": "https://open.spotify.com/track/59OPrWGtvJHCa6BOj8pVuN"
     },
     {
       "album": {
@@ -1448,6 +1600,24 @@
     },
     {
       "album": {
+        "name": "So It Goes",
+        "url": "https://open.spotify.com/album/2gBYGIVBecT7vo2sfuunRe"
+      },
+      "artists": [
+        {
+          "name": "Dave Bristow Quintet",
+          "url": "https://open.spotify.com/artist/3fHu5s0xwqJwHDqe13Sh21"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199506,
+      "name": "So It Goes",
+      "url": "https://open.spotify.com/track/7CXZXvUCFKAUF1lQXb7OPY"
+    },
+    {
+      "album": {
         "name": "Atemporal",
         "url": "https://open.spotify.com/album/3TcCjMjxIemIFl5CjJ2PJY"
       },
@@ -1463,6 +1633,24 @@
       "duration_ms": 294871,
       "name": "Sobre el Agua",
       "url": "https://open.spotify.com/track/4zAEX45QVD6zeOYN8b2cHx"
+    },
+    {
+      "album": {
+        "name": "Someday, Somewhere",
+        "url": "https://open.spotify.com/album/0QEeUVA6Ou9xXcQFpbgU6m"
+      },
+      "artists": [
+        {
+          "name": "EYRIE",
+          "url": "https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353895,
+      "name": "Someday, Somewhere",
+      "url": "https://open.spotify.com/track/4tAWL6g4wMFJ20QpjCeIpy"
     },
     {
       "album": {
@@ -1511,6 +1699,32 @@
       "duration_ms": 274230,
       "name": "Take 50",
       "url": "https://open.spotify.com/track/6e6vZ47BF8pnP9Ve6kUHko"
+    },
+    {
+      "album": {
+        "name": "Textures",
+        "url": "https://open.spotify.com/album/6dF4z28EZgdvJLfAMbvSPO"
+      },
+      "artists": [
+        {
+          "name": "Romain Pilon",
+          "url": "https://open.spotify.com/artist/0Kqaw0Sfja1feSl9iDmw4z"
+        },
+        {
+          "name": "Yoni Zelnik",
+          "url": "https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs"
+        },
+        {
+          "name": "Jeff Ballard",
+          "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339640,
+      "name": "Textures",
+      "url": "https://open.spotify.com/track/2QRQlpdtB9muofjlirBBaR"
     },
     {
       "album": {
@@ -1867,7 +2081,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 333973,
       "name": "Universal",
       "url": "https://open.spotify.com/track/1yHzvWNx9vVBK5R82TyaHr"
@@ -1957,7 +2171,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 195000,
       "name": "zone",
       "url": "https://open.spotify.com/track/3srTk3CSCipsClcQe19Zdc"

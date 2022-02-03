@@ -2,7 +2,7 @@
 
 ### [EQUAL Colombia](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
-> ¡Mujeres colombianas a todo volumen! En portada: Catalina García \(Monsieur Periné\)
+> ¡Mujeres colombianas a todo volumen! En portada: Kali Uchis
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Niebla](https://open.spotify.com/track/44kB5zEuaAbUxdfruJ6xRL) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q) | [Niebla](https://open.spotify.com/album/2Tl3JRmsdLG1nOg5rOE47x) | 2:46 | 2022-01-05 |  |
 | [No Hay una Vida Que No Nos Duela](https://open.spotify.com/track/1p0wuVjISHjF45zzjvVBJ5) | [Adriana Lucia](https://open.spotify.com/artist/5u4ozdMUTJLCJPYkFVoy0o) | [No Hay una Vida Que No Nos Duela](https://open.spotify.com/album/6In5wZ5nybOTglfJc5740c) | 3:37 | 2022-01-05 |  |
 | [No Soy de Callar](https://open.spotify.com/track/47U6WT9IaozynJQQn4cfHb) | [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7) | [Amor Profundo](https://open.spotify.com/album/785Bp0IlD9sB1WrXXqI1Jf) | 3:04 | 2022-01-05 |  |
-| [No Te Pido Más](https://open.spotify.com/track/71tVAHlntYm49TTYwhe8uG) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [No Te Pido Más](https://open.spotify.com/album/0yE1wk2NYPTO47P1Tozbz1) | 3:19 | 2022-01-05 |  |
+| [No Te Pido Más](https://open.spotify.com/track/71tVAHlntYm49TTYwhe8uG) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [No Te Pido Más](https://open.spotify.com/album/0yE1wk2NYPTO47P1Tozbz1) | 3:19 | 2022-01-05 | 2022-02-03 |
 | [Ojos Noche](https://open.spotify.com/track/7fNPXeqDaUjWiZhiPHTG6y) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/1KwZSjF1emfRRgxG4AQeeL) | 4:00 | 2022-01-05 |  |
 | [Ovarios](https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Ovarios](https://open.spotify.com/album/277fN3hslccaJCKC6Evvnk) | 4:09 | 2022-01-05 |  |
 | [Para No Esperarte Más](https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Para No Esperarte Más](https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6) | 2:58 | 2022-01-05 |  |
@@ -65,6 +65,7 @@
 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana Velasquez](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 | 2022-01-05 |  |
 | [Te Creí](https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Te Creí](https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW) | 4:02 | 2022-01-05 |  |
 | [Te Quería \- Chancha Vía Circuito Remix](https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Te Quería \(Chancha Vía Circuito Remix\)](https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML) | 4:05 | 2022-01-05 |  |
+| [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2022-02-02 |  |
 | [Tiempo \- Duck Sessions Live](https://open.spotify.com/track/51Sjs3Azn13gEMizzZg1z2) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Tiempo \(Duck Sessions Live\)](https://open.spotify.com/album/1v2AjOZPsTPsqAY0aFiYjf) | 3:36 | 2022-01-05 |  |
 | [Todo por Decir](https://open.spotify.com/track/3zGWhNp4OPM0lWA0EU6sIn) | [Catalina Avila](https://open.spotify.com/artist/0LB0EI1TU5WBU2tI0aXDaK), [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Todo por Decir](https://open.spotify.com/album/1du3Ki9h7sUNzoKgggKrDy) | 3:12 | 2022-01-05 |  |
 | [Totó Remix: la Candela Viva / Adiós Fulana / Mapalé / Goza Plinio Sierra \(Radio Edit\)](https://open.spotify.com/track/1XBsBgbxKbdDeY6fN8QqjF) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Gaitas y Tambores](https://open.spotify.com/album/0uoDct7NFsOKhiOMnbTQ1u) | 4:53 | 2022-01-05 |  |

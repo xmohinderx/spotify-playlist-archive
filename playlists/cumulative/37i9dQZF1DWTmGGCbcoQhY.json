@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 207746,
       "name": "Amor Pirata",
       "url": "https://open.spotify.com/track/1R9JnADAGmTTKm2fXDMgDi"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 260928,
       "name": "Amor T\u00f3xico",
       "url": "https://open.spotify.com/track/62y5VJHI9Y5udjRmtrW85E"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 202200,
       "name": "Cumbia de las Flores",
       "url": "https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 194506,
       "name": "El Viejo Panz\u00f3n",
       "url": "https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 169600,
       "name": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
       "url": "https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 271333,
       "name": "Las Mujeres No Se Acaban",
       "url": "https://open.spotify.com/track/76JtOI0FWWI1KhM0Gyj3rJ"
@@ -1439,7 +1439,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 249861,
       "name": "No Me Amenaces Que Te Vas",
       "url": "https://open.spotify.com/track/74oNx0I4ZJsC4K9PwlRz6T"
@@ -1519,7 +1519,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 232756,
       "name": "No Te Voy A Perdonar",
       "url": "https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG"
@@ -1747,7 +1747,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 196586,
       "name": "Princesa Talibana",
       "url": "https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X"
@@ -1801,7 +1801,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 234736,
       "name": "Reyna de Mi Vida",
       "url": "https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb"
@@ -1931,6 +1931,24 @@
       "duration_ms": 272471,
       "name": "Te Vas Con el o Te Vas Conmigo",
       "url": "https://open.spotify.com/track/3zjZmzojgpq1vxf6Y9eTE0"
+    },
+    {
+      "album": {
+        "name": "Te Voy a Olvidar",
+        "url": "https://open.spotify.com/album/7xBqz6rLLFHoWSKyGwp6Qf"
+      },
+      "artists": [
+        {
+          "name": "Los Telez",
+          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225490,
+      "name": "Te Voy a Olvidar",
+      "url": "https://open.spotify.com/track/0msACNON5NL1T1qNnh1hZE"
     },
     {
       "album": {
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 186801,
       "name": "Un Poblano en NY",
       "url": "https://open.spotify.com/track/7jNnWvAwYZQWfenuEBv7M9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,294 likes - 100 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,451 likes - 100 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 13 | [Chitlins Con Carne](https://open.spotify.com/track/18A1V1vsy5YgHFqb4galTw) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 5:30 |
 | 14 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 |
 | 15 | [LLL](https://open.spotify.com/track/7F2GCFOBnFoNyE2qfYUR3A) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 6:10 |
-| 16 | [Grace And Mercy](https://open.spotify.com/track/6AFJ6v57ZevcNCR2mJHDKf) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [Omega](https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0) | 6:49 |
+| 16 | [Shadow](https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 4:44 |
 | 17 | [Search For Peace](https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 6:32 |
 | 18 | [Second Light](https://open.spotify.com/track/51pE38tcmotzrDe6DZ8JDm) | [Blue Note All\-Stars](https://open.spotify.com/artist/1NOtlIr1BeewiY7mrOrfFV) | [Our Point Of View](https://open.spotify.com/album/5AxDs9B9A7pnsnxPXHFfnV) | 5:40 |
 | 19 | [Frank's Tune](https://open.spotify.com/track/6ATGPaFs4mMNemqPxyGteB) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Frank's Tune](https://open.spotify.com/album/5j3BQApLCKTlaFjsslOdlq) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 99 | [G.G.](https://open.spotify.com/track/4cirs0aWDKwYw1ehlRy30v) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Mr\. Jones](https://open.spotify.com/album/226bVJEQsu9W1nUvSefYJc) | 5:46 |
 | 100 | [The Bed We Made](https://open.spotify.com/track/6AplJffmm6vaEltCayfGLV) | [Nels Cline](https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp) | [Lovers](https://open.spotify.com/album/2oFwmxCUzVmP8pZxV1sdfN) | 3:25 |
 
-Snapshot ID: `MTYzODQ4NjEyMCwwMDAwMDAyZjAwMDAwMTdkN2Q2MjE2ZDgwMDAwMDE3ZDc1NGVhYzRl`
+Snapshot ID: `MTY0Mzc5MTg3MCwwMDAwMDAzMDAwMDAwMTdlYjlhMTZhNGYwMDAwMDE3ZDc1NGVhYzRl`

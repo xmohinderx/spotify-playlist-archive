@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,073 likes - 85 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,123 likes - 85 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 39 | [Cross My Heart](https://open.spotify.com/track/4RxTUxyNf3NFE4eqZqIfcf) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [Emmie Lee](https://open.spotify.com/artist/4fFlpk8hS56rPSExrMiiLW) | [Cross My Heart](https://open.spotify.com/album/4yTrSLs99kcWGXEUCPfp7C) | 2:48 |
 | 40 | [CAN'T TOUCH THIS \- R3HAB Remix](https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [CAN'T TOUCH THIS \(R3HAB Remix\)](https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC) | 2:03 |
 | 41 | [State of Mind](https://open.spotify.com/track/0aE9iWVdcwjffBjuydP2Em) | [Konn](https://open.spotify.com/artist/6lJjChvxVQwo0IzldUOYUe) | [State of Mind](https://open.spotify.com/album/4yvTLnl0rRcKxDDnp0iGPq) | 2:51 |
-| 42 | [Dance With You](https://open.spotify.com/track/4fvcOHfqC8yEBQphZjFud6) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Dance With You](https://open.spotify.com/album/26Za5pnbPVRxLEV85dCP16) | 2:43 |
+| 42 | [Dance With You \(with Grey\)](https://open.spotify.com/track/4fvcOHfqC8yEBQphZjFud6) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl) | [Dance With You \(with Grey\)](https://open.spotify.com/album/26Za5pnbPVRxLEV85dCP16) | 2:43 |
 | 43 | [UP](https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [UP](https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy) | 2:28 |
 | 44 | [Discoteca](https://open.spotify.com/track/7hmebsI3sCMzANWFcNiCMh) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Discoteca](https://open.spotify.com/album/7r6a9NnWydms4uIjf9bH5C) | 3:45 |
 | 45 | [Brooklyn](https://open.spotify.com/track/6VcBDMF2ykm5HDcJMVLRZW) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Brooklyn](https://open.spotify.com/album/5wZuxZwyDfLnpIFvX4g90B) | 3:02 |

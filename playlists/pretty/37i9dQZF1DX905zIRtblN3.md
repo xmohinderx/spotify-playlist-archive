@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las poderosas y llegadoras de nuestra música! Al millón con Luis Alfonso Partida El Yaki & Grupo Firme, al millón con La Reina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,280,849 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,282,379 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

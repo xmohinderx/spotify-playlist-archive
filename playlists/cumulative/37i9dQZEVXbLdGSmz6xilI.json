@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 170344,
       "name": "At My Worst",
       "url": "https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 272152,
       "name": "Chuy\u1ec7n R\u1eb1ng",
       "url": "https://open.spotify.com/track/7oBUoEbCDF748UkHnLusUB"
@@ -1803,6 +1803,24 @@
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "album": {
+        "name": "Em Ch\u00e0o T\u1ebft",
+        "url": "https://open.spotify.com/album/5nv8UWVGkqEuI4lxJwuy1V"
+      },
+      "artists": [
+        {
+          "name": "Bich Phuong",
+          "url": "https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188588,
+      "name": "Em Ch\u00e0o T\u1ebft",
+      "url": "https://open.spotify.com/track/3pbbEjmAWUHbGgWV8evyfd"
     },
     {
       "album": {
@@ -2493,6 +2511,24 @@
       "duration_ms": 276777,
       "name": "G\u1eb7p Nh\u01b0ng Kh\u00f4ng \u1ede L\u1ea1i",
       "url": "https://open.spotify.com/track/3pyHABNUu0QxeyH1x8p7yf"
+    },
+    {
+      "album": {
+        "name": "Hanh Phuc Xuan Ngoi",
+        "url": "https://open.spotify.com/album/0IepIa89MUjamb63yJ17kI"
+      },
+      "artists": [
+        {
+          "name": "Noo Ph\u01b0\u1edbc Th\u1ecbnh",
+          "url": "https://open.spotify.com/artist/3mibIJiduF0MVLLAvHZAxw"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234540,
+      "name": "Hanh Phuc Xuan Ngoi",
+      "url": "https://open.spotify.com/track/2bCmM1oT89JOpA8EdDJ51g"
     },
     {
       "album": {
@@ -3287,7 +3323,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 207481,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
@@ -4153,6 +4189,24 @@
       "duration_ms": 193049,
       "name": "Nghe Nh\u01b0 T\u00ecnh Y\u00eau",
       "url": "https://open.spotify.com/track/769IjpjHNrN36SPvj2ZBKu"
+    },
+    {
+      "album": {
+        "name": "Bao Gi\u1edd L\u1ea5y Ch\u1ed3ng",
+        "url": "https://open.spotify.com/album/2Pa2EuROBTLvyyAUZTIJvZ"
+      },
+      "artists": [
+        {
+          "name": "Bich Phuong",
+          "url": "https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230269,
+      "name": "Ng\u00e0y Xu\u00e2n Long Ph\u1ee5ng Sum V\u1ea7y",
+      "url": "https://open.spotify.com/track/0V0dOlfZ3tuZwHnL2eZ9Al"
     },
     {
       "album": {
@@ -5077,7 +5131,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -5305,7 +5359,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 247058,
       "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
       "url": "https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz"
@@ -6271,6 +6325,42 @@
       "duration_ms": 200000,
       "name": "\u0110i V\u1ec1 Nh\u00e0",
       "url": "https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt"
+    },
+    {
+      "album": {
+        "name": "\u0110i \u0110\u1ec3 Tr\u1edf V\u1ec1",
+        "url": "https://open.spotify.com/album/5cXoSfpsGOLvsnTSOuAeEi"
+      },
+      "artists": [
+        {
+          "name": "Soobin Hoang Son",
+          "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202084,
+      "name": "\u0110i \u0110\u1ec3 Tr\u1edf V\u1ec1",
+      "url": "https://open.spotify.com/track/2qc4FFBylFT5YhvMJMX50R"
+    },
+    {
+      "album": {
+        "name": "Bao Gi\u1edd L\u1ea5y Ch\u1ed3ng",
+        "url": "https://open.spotify.com/album/2Pa2EuROBTLvyyAUZTIJvZ"
+      },
+      "artists": [
+        {
+          "name": "Bich Phuong",
+          "url": "https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205505,
+      "name": "\u0110o\u1ea3n Xu\u00e2n Ca",
+      "url": "https://open.spotify.com/track/5wfu0LbQ8fvPStnWmIOfos"
     },
     {
       "album": {

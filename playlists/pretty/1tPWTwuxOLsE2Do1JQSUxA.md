@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 
 > The biggest 2010s throwback anthems of the decade from Beyoncé, Alicia Keys, John Legend and many more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 462,603 likes - 94 songs - 5 hr 54 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 462,550 likes - 94 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 | 93 | [TiK ToK](https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Animal \(Expanded Edition\)](https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F) | 3:19 |
 | 94 | [Skin](https://open.spotify.com/track/6y2Kaz9QI01XBKJ8mTb7Pf) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:59 |
 
-Snapshot ID: `MjI1OSw5OTcyMTU0NmFmMmU3MjVjYWJmOWFkNDU2N2JmNGFmNTkwMGY1MjVl`
+Snapshot ID: `MjI2MCw0MzE3ZGM1NzE5OWY3NjJlMGQyNjQ1OGNlNmY5YTc3M2RmYjhjNGY5`

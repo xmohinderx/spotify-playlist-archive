@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Simone & Simaria, Anitta, LUDMILLA e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,717,268 likes - 101 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,717,572 likes - 101 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 89 | [Encosta na Saveiro](https://open.spotify.com/track/5BDL1WrnDbAYWvnTtsCVCt) | [MC Rozi](https://open.spotify.com/artist/3I6q33SLsCOvIgfmdwBCeP), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Encosta na Saveiro](https://open.spotify.com/album/2EYnSEQj93BKgji7GcpOGw) | 2:19 |
 | 90 | [Mais](https://open.spotify.com/track/2oYZ2lqAp5QOTPHtPqyoIx) | [Marcelo Perdido](https://open.spotify.com/artist/2WR3bb5fUKqJ65TPcu3dIt), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Mais](https://open.spotify.com/album/1cdVoJnbHKkyNIka9JsZRO) | 2:28 |
 | 91 | [Flutuar \- Acústico](https://open.spotify.com/track/5vy6OsbPW9wYkJjFwUCsZT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [O Melhor de Nós](https://open.spotify.com/album/7hk4rtzUoxkzRMpusuEgEq) | 2:50 |
-| 92 | [Baile de Máscaras \(Recarnaval\)](https://open.spotify.com/track/1oTngaVK9gmKCyFaGsnDdl) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH) | [SIM SIM SIM](https://open.spotify.com/album/20dEyKswRqD5YvMO1da8DZ) | 5:03 |
+| 92 | [Baile de Máscaras \(Recarnaval\)](https://open.spotify.com/track/1oTngaVK9gmKCyFaGsnDdl) | [Bala Desejo](https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH), [Dora Morelenbaum](https://open.spotify.com/artist/6xt7x7TG8ExdvWM3R15cmE), [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [SIM SIM SIM](https://open.spotify.com/album/20dEyKswRqD5YvMO1da8DZ) | 5:03 |
 | 93 | [DISCÓRDIA](https://open.spotify.com/track/3uJ7nGe0COVBFMWcoUvTmD) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [DISCÓRDIA](https://open.spotify.com/album/31fDcR8XivjpJ9AK7kNjGt) | 3:23 |
 | 94 | [Vilão](https://open.spotify.com/track/6JRqnc3JpOCrgPUCVmZDsb) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V), [Volp](https://open.spotify.com/artist/6fFgNVTo4bxMf2eswaar7Z) | [Vilão](https://open.spotify.com/album/5H3zlRcx8DfA8yn7tacFZs) | 2:04 |
 | 95 | [Os fuzilzão tá no óleo](https://open.spotify.com/track/0xJNGiovFIQGsUZ3vINXDD) | [MC Negão da BL](https://open.spotify.com/artist/6AfahUc7TbvGBfpl0Ppvfq) | [Os fuzilzão tá no óleo](https://open.spotify.com/album/6MwBGzKhdu2nWHNSuZdE3a) | 2:57 |

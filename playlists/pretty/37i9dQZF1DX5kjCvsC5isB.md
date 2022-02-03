@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Siiickbrain
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,153 likes - 134 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,317 likes - 134 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 25 | [Not Dead Yet](https://open.spotify.com/track/4OpjCYRi3joROpjBZUNFwv) | [DEVORA](https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY) | [Not Dead Yet](https://open.spotify.com/album/2DXUrAR46Rh2HDe8CKsvbm) | 4:12 |
 | 26 | [I'm Somebody Else](https://open.spotify.com/track/0MjRbB8nGFHDeK1KNsRAIF) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [I'm Somebody Else](https://open.spotify.com/album/1jORd3UymvwdoX5ZUXPOsA) | 2:37 |
 | 27 | [Hero](https://open.spotify.com/track/0Uh9ks0HAyQRIPG4hJFncV) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Hero / Island](https://open.spotify.com/album/0U4UXfPMmTyGJZI6kZdnYr) | 2:28 |
-| 28 | [F U Anthem](https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:35 |
+| 28 | [F U Anthem \(Fuck You Anthem\)](https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:35 |
 | 29 | [Angels](https://open.spotify.com/track/5YcnOx0WQ5rZdu4iA79Ick) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Angels](https://open.spotify.com/album/3Y8XZKT1Vky7DPCaufbInp) | 3:39 |
 | 30 | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/track/4eAB96x6wsijid73UsHfbO) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [FLAG \(Feel Like A Girl\)](https://open.spotify.com/album/7sc5khfJr42LvwdVVWiKjv) | 2:48 |
 | 31 | [The Hand That Feeds](https://open.spotify.com/track/4BgPztdHQ15vB5Ri8ANfRq) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [The Hand That Feeds](https://open.spotify.com/album/1bgHW8a8OZS0PPn3ENnXkh) | 3:25 |

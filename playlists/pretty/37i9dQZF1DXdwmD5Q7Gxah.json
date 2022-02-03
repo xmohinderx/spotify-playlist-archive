@@ -1,13 +1,29 @@
 {
-  "description": "some beautiful things this week. cover: tobias drayyyyyyyyyyy",
-  "num_followers": 911257,
+  "description": "tune into lorem greenroom  6pm PST WEDS FEB 2nd to chat w/ Rachel Chinouriri, Dev Lemonade & Max the Mostley. cover: tobias drayyyyyyyyyyy",
+  "num_followers": 911405,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzMxNTQ0MiwwMDAwMDMzNDAwMDAwMTdlOWQzYmIzMmEwMDAwMDE3ZTdkMzA0MTZj",
+  "snapshot_id": "MTY0Mzc3MTI5MiwwMDAwMDMzNTAwMDAwMTdlYjg2NzZkMTcwMDAwMDE3ZTdkMzA0MTZj",
   "tracks": [
+    {
+      "added_at": "2022-01-14 18:34:29",
+      "album": {
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
+    },
     {
       "added_at": "2022-01-27 16:06:19",
       "album": {
@@ -25,6 +41,22 @@
       "url": "https://open.spotify.com/track/2VKbUViTadYv4fH8JRPHDc"
     },
     {
+      "added_at": "2022-02-02 03:08:12",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/5S2gRbLH5KRNXfcGd6o8oL"
+      },
+      "artists": [
+        {
+          "name": "Hamond",
+          "url": "https://open.spotify.com/artist/2UnmGif8M5Hb5doxZIIDKR"
+        }
+      ],
+      "duration_ms": 188517,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/4njrQ9asHe2mqoy5VwrDYN"
+    },
+    {
       "added_at": "2022-01-27 16:49:48",
       "album": {
         "name": "KEEP IT UP",
@@ -39,6 +71,74 @@
       "duration_ms": 183000,
       "name": "KEEP IT UP",
       "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
+    },
+    {
+      "added_at": "2022-02-02 03:08:12",
+      "album": {
+        "name": "Softly",
+        "url": "https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 188780,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM"
+    },
+    {
+      "added_at": "2022-02-02 03:08:12",
+      "album": {
+        "name": "Silver Into Rain",
+        "url": "https://open.spotify.com/album/6JlD7QPsUqPZQDoiYmENzd"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 201869,
+      "name": "Silver Into Rain",
+      "url": "https://open.spotify.com/track/7IBI2S33PMaIM9pARvpIJY"
+    },
+    {
+      "added_at": "2022-01-27 16:49:48",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/05BU6nCwg6DYnqwEqMnn7E"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 153315,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/3btdtLMTyYRF69baTCeTyQ"
+    },
+    {
+      "added_at": "2022-02-02 03:08:12",
+      "album": {
+        "name": "Lightning Of July",
+        "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Lightning Of July",
+      "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
     },
     {
       "added_at": "2022-01-21 16:55:22",
@@ -73,22 +173,6 @@
       "url": "https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l"
     },
     {
-      "added_at": "2022-01-14 18:34:29",
-      "album": {
-        "name": "So My Darling (Acoustic)",
-        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "So My Darling - Acoustic",
-      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
-    },
-    {
       "added_at": "2022-01-07 16:47:25",
       "album": {
         "name": "HMU",
@@ -103,6 +187,38 @@
       "duration_ms": 118821,
       "name": "HMU",
       "url": "https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi"
+    },
+    {
+      "added_at": "2022-02-02 03:08:12",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196730,
+      "name": "Billie Bossa Nova",
+      "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
+    },
+    {
+      "added_at": "2022-01-10 22:28:07",
+      "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
     },
     {
       "added_at": "2022-01-27 16:49:48",
@@ -137,20 +253,20 @@
       "url": "https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt"
     },
     {
-      "added_at": "2022-01-27 16:49:48",
+      "added_at": "2022-01-21 16:55:22",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/05BU6nCwg6DYnqwEqMnn7E"
+        "name": "Baby Tonight",
+        "url": "https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q"
       },
       "artists": [
         {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+          "name": "Black Polish",
+          "url": "https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP"
         }
       ],
-      "duration_ms": 153315,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/3btdtLMTyYRF69baTCeTyQ"
+      "duration_ms": 198624,
+      "name": "Baby Tonight",
+      "url": "https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt"
     },
     {
       "added_at": "2022-01-21 16:55:22",
@@ -383,38 +499,6 @@
       "duration_ms": 259746,
       "name": "NO HALO",
       "url": "https://open.spotify.com/track/694vvR5o19xHPhhJ5QdLN7"
-    },
-    {
-      "added_at": "2022-01-10 22:28:07",
-      "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
-    },
-    {
-      "added_at": "2022-01-21 16:55:22",
-      "album": {
-        "name": "Baby Tonight",
-        "url": "https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q"
-      },
-      "artists": [
-        {
-          "name": "Black Polish",
-          "url": "https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP"
-        }
-      ],
-      "duration_ms": 198624,
-      "name": "Baby Tonight",
-      "url": "https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt"
     },
     {
       "added_at": "2022-01-14 18:34:29",

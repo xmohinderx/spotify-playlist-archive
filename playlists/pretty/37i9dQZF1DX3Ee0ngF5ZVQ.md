@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > From the Dance Halls and Honky Tonks across America to the World! Formerly Texas Music Now\. Cover: Corey Kent
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,792 likes - 149 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,825 likes - 149 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

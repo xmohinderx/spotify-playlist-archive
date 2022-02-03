@@ -1,13 +1,309 @@
 {
   "description": "The best new indie tracks by independent artists and labels. Updates every Wednesday. Cover: Delaney Bailey Artwork: Robin Clifford Ellis",
-  "num_followers": 129976,
+  "num_followers": 130482,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE2NTIxNSwwMDAwMDBjNjAwMDAwMTdlOTQ0NzY5NWYwMDAwMDE3ZTRlZjMyODg3",
+  "snapshot_id": "MTY0MzgyNzM3MSwwMDAwMDBjNzAwMDAwMTdlYmJiZjFkZGQwMDAwMDE3ZTRlZjMyODg3",
   "tracks": [
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5HgXtVfcWI2BoxHUh1TWFq"
+      },
+      "artists": [
+        {
+          "name": "The Mad Ones",
+          "url": "https://open.spotify.com/artist/4CYm8KfdRQXmljSRl8lJAO"
+        },
+        {
+          "name": "Georgi Kay",
+          "url": "https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj"
+        }
+      ],
+      "duration_ms": 210158,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1CDvKCXfwqwPhU4BSdGM7P"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "I Love This Song",
+        "url": "https://open.spotify.com/album/4I5XWDLmyLUaNsJFulMhh7"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 206472,
+      "name": "I Love This Song",
+      "url": "https://open.spotify.com/track/2VKbUViTadYv4fH8JRPHDc"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Artifacts of Summer",
+        "url": "https://open.spotify.com/album/5Hr9XshNla8vcCNtvEQYsN"
+      },
+      "artists": [
+        {
+          "name": "Veni Sun",
+          "url": "https://open.spotify.com/artist/2FLqR4YXPurY27vtZEIwqB"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Redwoods",
+      "url": "https://open.spotify.com/track/14FWm9OKkbfQbnlOVmX4sJ"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Magnolia",
+        "url": "https://open.spotify.com/album/3U91iBASUQNpKVX5bAk2To"
+      },
+      "artists": [
+        {
+          "name": "PROM",
+          "url": "https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb"
+        }
+      ],
+      "duration_ms": 192954,
+      "name": "Never There Enough",
+      "url": "https://open.spotify.com/track/0MDGgeylX7wx9Ae9bzcVqk"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "what's it gonna take",
+        "url": "https://open.spotify.com/album/0vYhkaPKvgd4KwDp6Hu7b4"
+      },
+      "artists": [
+        {
+          "name": "Biyo",
+          "url": "https://open.spotify.com/artist/4dI7obVTFWgW4kL5yUkL7f"
+        }
+      ],
+      "duration_ms": 187637,
+      "name": "what's it gonna take",
+      "url": "https://open.spotify.com/track/40GIFoo3ZyRkJ3fLZrftw4"
+    },
+    {
+      "added_at": "2022-01-12 15:48:01",
+      "album": {
+        "name": "Baby Tonight",
+        "url": "https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q"
+      },
+      "artists": [
+        {
+          "name": "Black Polish",
+          "url": "https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP"
+        }
+      ],
+      "duration_ms": 198624,
+      "name": "Baby Tonight",
+      "url": "https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "rainbows n butterflies",
+        "url": "https://open.spotify.com/album/4Xe5zyJ6gCcLHRrMfKsjC0"
+      },
+      "artists": [
+        {
+          "name": "Kashbocks",
+          "url": "https://open.spotify.com/artist/3oDBh0mJjAvInc5heMl7ws"
+        }
+      ],
+      "duration_ms": 122739,
+      "name": "rainbows n butterflies",
+      "url": "https://open.spotify.com/track/3Wu3ASUGVC29cyliW6yLN7"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/549bnGNWELv0hpPC1aydth"
+      },
+      "artists": [
+        {
+          "name": "dee holt",
+          "url": "https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL"
+        }
+      ],
+      "duration_ms": 171636,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/5B9RzNWxGMtSi5ippoDmSY"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Menthol",
+        "url": "https://open.spotify.com/album/3uohNYUAikphvznJlxcqnB"
+      },
+      "artists": [
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        },
+        {
+          "name": "Allie Kelly",
+          "url": "https://open.spotify.com/artist/0gKECB5Bx3IyzmQmoaPkac"
+        }
+      ],
+      "duration_ms": 187288,
+      "name": "Menthol",
+      "url": "https://open.spotify.com/track/3KqQ1OgIpyxIR0lQ9By9tE"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "My Best Years",
+        "url": "https://open.spotify.com/album/3TnAwH4r1FGvHQ8ehbfNTz"
+      },
+      "artists": [
+        {
+          "name": "jackie",
+          "url": "https://open.spotify.com/artist/3NzCozHmvMqMMLDeTnCYwA"
+        }
+      ],
+      "duration_ms": 224213,
+      "name": "My Best Years",
+      "url": "https://open.spotify.com/track/1WiiIKFplfzm9OkzHkxc3Z"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Blue Arcade",
+        "url": "https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd"
+      },
+      "artists": [
+        {
+          "name": "Caroline Loveglow",
+          "url": "https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr"
+        }
+      ],
+      "duration_ms": 217647,
+      "name": "Blue Arcade",
+      "url": "https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Loving Me, Hurting You",
+        "url": "https://open.spotify.com/album/1lbO75vQsFcKaJs6sNVspC"
+      },
+      "artists": [
+        {
+          "name": "Kyle Stibbs",
+          "url": "https://open.spotify.com/artist/6vcLlcsPltiXegQJUnoNob"
+        }
+      ],
+      "duration_ms": 118674,
+      "name": "Loving Me, Hurting You",
+      "url": "https://open.spotify.com/track/3oTLIXy6Q801vAmAM6xAJu"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4CwVhFTHsaOHXE0J5ORLlk"
+      },
+      "artists": [
+        {
+          "name": "Hater",
+          "url": "https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz"
+        }
+      ],
+      "duration_ms": 220410,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/3ohuxSs5rhuf0akfTV2P0P"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "can't hate myself into a different shape",
+        "url": "https://open.spotify.com/album/6bNdeCQsdAIhcUdBnRpK7H"
+      },
+      "artists": [
+        {
+          "name": "Brimheim",
+          "url": "https://open.spotify.com/artist/2ROf9t2bzHTnVuf8btRd5J"
+        }
+      ],
+      "duration_ms": 218625,
+      "name": "can't hate myself into a different shape",
+      "url": "https://open.spotify.com/track/1VZ9JsbzOrsRLqJ349efdE"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Lonely After Curfew",
+        "url": "https://open.spotify.com/album/5dqirXlH3pXhHFTQyenzEm"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "duration_ms": 256058,
+      "name": "Lonely After Curfew",
+      "url": "https://open.spotify.com/track/4ErvUEwmVOhidQ8wKgvHtt"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "For The Greater Good",
+        "url": "https://open.spotify.com/album/1AWPMwxr52Fq7Bst7EYXbd"
+      },
+      "artists": [
+        {
+          "name": "Common People Like You",
+          "url": "https://open.spotify.com/artist/485LFmKmOvxKT55DHC3Njm"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "NOTLOVENOTLOVE",
+      "url": "https://open.spotify.com/track/2ff1udjxCRpzwvYqd4vmNX"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "talon",
+        "url": "https://open.spotify.com/album/1q2hwLH7GEejz2dXyqcgwf"
+      },
+      "artists": [
+        {
+          "name": "elkyn",
+          "url": "https://open.spotify.com/artist/5qlnbZjig0IqfxA0qGRwpM"
+        }
+      ],
+      "duration_ms": 208453,
+      "name": "talon",
+      "url": "https://open.spotify.com/track/5I3MmvKl2qtXcNRntQfUEg"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Star Signs",
+        "url": "https://open.spotify.com/album/2FHrVV45Kc7pSUFE26gtKq"
+      },
+      "artists": [
+        {
+          "name": "roman around",
+          "url": "https://open.spotify.com/artist/18pfB891JbZKKn0bCueMvY"
+        }
+      ],
+      "duration_ms": 238376,
+      "name": "Star Signs",
+      "url": "https://open.spotify.com/track/5aC4aoeeahZuCDc99phOHn"
+    },
     {
       "added_at": "2022-01-26 02:42:51",
       "album": {
@@ -25,20 +321,108 @@
       "url": "https://open.spotify.com/track/1LHqCzvTzaUbniU02s0AZ0"
     },
     {
-      "added_at": "2022-01-12 15:48:01",
+      "added_at": "2022-02-02 18:42:51",
       "album": {
-        "name": "Baby Tonight",
-        "url": "https://open.spotify.com/album/3SM9QgboyYT7LbJ73HHG3q"
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/0JnhJkLraEkcHcIQNYuTvs"
       },
       "artists": [
         {
-          "name": "Black Polish",
-          "url": "https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP"
+          "name": "Mikayla McVey",
+          "url": "https://open.spotify.com/artist/0EG8z93TSrPjSOi1dYVxtb"
         }
       ],
-      "duration_ms": 198624,
-      "name": "Baby Tonight",
-      "url": "https://open.spotify.com/track/6iQNowW9ulIf5rQuMCSLFt"
+      "duration_ms": 361640,
+      "name": "New Year",
+      "url": "https://open.spotify.com/track/1bEhCWi5UlHfCLExsoBCiJ"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "So I Can See You",
+        "url": "https://open.spotify.com/album/4AdoFQimbY3gcdcmxpgu1X"
+      },
+      "artists": [
+        {
+          "name": "TONE",
+          "url": "https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei"
+        },
+        {
+          "name": "Coby Sey",
+          "url": "https://open.spotify.com/artist/0d0XAaRW0dxgAtvZ1clgLX"
+        }
+      ],
+      "duration_ms": 184856,
+      "name": "So I Can See You",
+      "url": "https://open.spotify.com/track/7I4wIRgkB7sAYZExghOj5n"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Cut",
+        "url": "https://open.spotify.com/album/06J33FAquqgy9qYCd9BU92"
+      },
+      "artists": [
+        {
+          "name": "wylie hopkins",
+          "url": "https://open.spotify.com/artist/4os4J8PaDrqHAsBfO2xDn9"
+        }
+      ],
+      "duration_ms": 221962,
+      "name": "Cut",
+      "url": "https://open.spotify.com/track/207FZMdh8fRkAY5PzCnjjP"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Dancing",
+        "url": "https://open.spotify.com/album/5aQPWEceFaq8Wjb9p5hFrU"
+      },
+      "artists": [
+        {
+          "name": "Sage",
+          "url": "https://open.spotify.com/artist/3nHkxuNpyDPlRJENdfQVJb"
+        }
+      ],
+      "duration_ms": 240554,
+      "name": "Dancing",
+      "url": "https://open.spotify.com/track/669QiOV1dqhbskKAFonj2f"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "2 Know U Betta",
+        "url": "https://open.spotify.com/album/18531g2yRy8CPDCM40rfY5"
+      },
+      "artists": [
+        {
+          "name": "SOFT LAD",
+          "url": "https://open.spotify.com/artist/0WE9kvKBrggBIadAiW3Ltm"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "2 Know U Betta",
+      "url": "https://open.spotify.com/track/06WzGelb9HM5lBmwQlCvUK"
+    },
+    {
+      "added_at": "2022-02-02 18:42:51",
+      "album": {
+        "name": "Unionsquarepark (ADLR Remix)",
+        "url": "https://open.spotify.com/album/1N6wF1rv6gsTldexycR3Ip"
+      },
+      "artists": [
+        {
+          "name": "ADLR",
+          "url": "https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr"
+        },
+        {
+          "name": "MOZIAH",
+          "url": "https://open.spotify.com/artist/1e8LCE63Bot5qj6D4g1keE"
+        }
+      ],
+      "duration_ms": 260624,
+      "name": "Unionsquarepark (ADLR Remix)",
+      "url": "https://open.spotify.com/track/5PiqAqrgS1XPvtFHjs5DGJ"
     },
     {
       "added_at": "2022-01-26 02:42:51",

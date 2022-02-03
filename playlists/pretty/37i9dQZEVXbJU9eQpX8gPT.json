@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
-  "num_followers": 12429,
+  "num_followers": 12460,
   "original_name": "Top 50 - Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk3MDMxODI5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk3MTEzMTcyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "BREDA",
         "url": "https://open.spotify.com/album/6tuj2U86XeDObr6qayHusm"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6mKrkIikIDiBRC9ZqjbeNl"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Salade Coco",
         "url": "https://open.spotify.com/album/4WMyOG6VuYgUJABGPES4iA"
@@ -41,7 +41,27 @@
       "url": "https://open.spotify.com/track/2BJh2IoGeq0UQVsLHUcbrK"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        },
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "Lbaroud",
+      "url": "https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "How high",
         "url": "https://open.spotify.com/album/1Voch8KXvFMkplsDGOxxF5"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/6ENLajiEU6MkPq4SvXHXtW"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Chill",
         "url": "https://open.spotify.com/album/6Nsop9onhJBLRsoQShepX8"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/5NwA0hLKYsFcU3FVD5hD03"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
         "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
@@ -101,27 +121,7 @@
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        },
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "Lbaroud",
-      "url": "https://open.spotify.com/track/1gq11LOJxrQob0EsPRwAMm"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "7elmet Ado 5",
         "url": "https://open.spotify.com/album/2CDQGSeTetaCBUJFEev8bC"
@@ -137,23 +137,7 @@
       "url": "https://open.spotify.com/track/6MvBKF1zyjUnnUUgfndWjF"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Price",
-        "url": "https://open.spotify.com/album/67dnJZv8YOfVFf7UYCYA28"
-      },
-      "artists": [
-        {
-          "name": "Smallx",
-          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
-        }
-      ],
-      "duration_ms": 154909,
-      "name": "Price",
-      "url": "https://open.spotify.com/track/5e7lnZhpnMB6qRjsCkI7B0"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "J'en ai marre !",
         "url": "https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX"
@@ -173,55 +157,39 @@
       "url": "https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
-        "name": "Nadi Canadi",
-        "url": "https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE"
+        "name": "Price",
+        "url": "https://open.spotify.com/album/67dnJZv8YOfVFf7UYCYA28"
       },
       "artists": [
         {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
         }
       ],
-      "duration_ms": 221379,
-      "name": "Nadi Canadi",
-      "url": "https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q"
+      "duration_ms": 154909,
+      "name": "Price",
+      "url": "https://open.spotify.com/track/5e7lnZhpnMB6qRjsCkI7B0"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
-        "name": "Haram (Pablo II)",
-        "url": "https://open.spotify.com/album/0yailt9L3LXP8gaHCW5gnD"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
         }
       ],
-      "duration_ms": 266533,
-      "name": "Haram (Pablo II)",
-      "url": "https://open.spotify.com/track/6AFbOjmJNeCHXmoh1Ve1XM"
+      "duration_ms": 196000,
+      "name": "Sac",
+      "url": "https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Cam\u00e9l\u00e9on",
-        "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Mghayer",
-      "url": "https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Li fate",
         "url": "https://open.spotify.com/album/6buA2U8XHPKRsut3IDiBki"
@@ -237,7 +205,55 @@
       "url": "https://open.spotify.com/track/1J2zExGwx6NLQVG47KExDK"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Nadi Canadi",
+        "url": "https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "duration_ms": 221379,
+      "name": "Nadi Canadi",
+      "url": "https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Cam\u00e9l\u00e9on",
+        "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Mghayer",
+      "url": "https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Haram (Pablo II)",
+        "url": "https://open.spotify.com/album/0yailt9L3LXP8gaHCW5gnD"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 266533,
+      "name": "Haram (Pablo II)",
+      "url": "https://open.spotify.com/track/6AFbOjmJNeCHXmoh1Ve1XM"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "TRAP ROUMI V3",
         "url": "https://open.spotify.com/album/4W3m38nSMZmQcjxEopmMss"
@@ -253,7 +269,23 @@
       "url": "https://open.spotify.com/track/07yjOxOAi1cxhO2FALf861"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Iori 4",
+        "url": "https://open.spotify.com/album/4ptNJwxaU4mzYHjzOtdjV0"
+      },
+      "artists": [
+        {
+          "name": "Mons",
+          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
+        }
+      ],
+      "duration_ms": 254769,
+      "name": "Iori 4",
+      "url": "https://open.spotify.com/track/2947MtC8aKk9mwbw4bjC6A"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Polygamie",
         "url": "https://open.spotify.com/album/29naWP00flAdzNNi60yohv"
@@ -273,39 +305,7 @@
       "url": "https://open.spotify.com/track/18ICzd2SoSH7ymhAezZbiy"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Sac",
-      "url": "https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Iori 4",
-        "url": "https://open.spotify.com/album/4ptNJwxaU4mzYHjzOtdjV0"
-      },
-      "artists": [
-        {
-          "name": "Mons",
-          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
-        }
-      ],
-      "duration_ms": 254769,
-      "name": "Iori 4",
-      "url": "https://open.spotify.com/track/2947MtC8aKk9mwbw4bjC6A"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
@@ -321,23 +321,7 @@
       "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Khalass",
-        "url": "https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7"
-      },
-      "artists": [
-        {
-          "name": "Mocci",
-          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
-        }
-      ],
-      "duration_ms": 200216,
-      "name": "Khalass",
-      "url": "https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "HKAYA",
         "url": "https://open.spotify.com/album/54y1EG96sXi5keBwd8kpgw"
@@ -353,55 +337,23 @@
       "url": "https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
-        "name": "Arabi",
-        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
+        "name": "Khalass",
+        "url": "https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7"
       },
       "artists": [
         {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
         }
       ],
-      "duration_ms": 165714,
-      "name": "7ali Ya 7ali",
-      "url": "https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo"
+      "duration_ms": 200216,
+      "name": "Khalass",
+      "url": "https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Stylo warqa",
-        "url": "https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc"
-      },
-      "artists": [
-        {
-          "name": "RYM",
-          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Stylo warqa",
-      "url": "https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Vangogh",
-        "url": "https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j"
-      },
-      "artists": [
-        {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 251734,
-      "name": "La rwina",
-      "url": "https://open.spotify.com/track/1qmQtjLHkjwrRzuFmP9smG"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Vangogh",
         "url": "https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j"
@@ -417,7 +369,23 @@
       "url": "https://open.spotify.com/track/5LyViLHbmjbJgQwwNgKEEH"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Arabi",
+        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "7ali Ya 7ali",
+      "url": "https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "MILANO",
         "url": "https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ"
@@ -433,7 +401,59 @@
       "url": "https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Vangogh",
+        "url": "https://open.spotify.com/album/4VkMKMS72gTlzFGlIiQp9j"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 251734,
+      "name": "La rwina",
+      "url": "https://open.spotify.com/track/1qmQtjLHkjwrRzuFmP9smG"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Stylo warqa",
+        "url": "https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Stylo warqa",
+      "url": "https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "R&B KINGZ",
+        "url": "https://open.spotify.com/album/3568mNTIRB9KzRLFBYWCBh"
+      },
+      "artists": [
+        {
+          "name": "Klass-A",
+          "url": "https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ"
+        },
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "Ayay",
+      "url": "https://open.spotify.com/track/44DBAjWwzFlUY2361xh6BW"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Polygamie",
         "url": "https://open.spotify.com/album/29naWP00flAdzNNi60yohv"
@@ -457,7 +477,7 @@
       "url": "https://open.spotify.com/track/0wm3Tuie0LfHwRSNI1bqOn"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Jackpot",
         "url": "https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd"
@@ -481,27 +501,7 @@
       "url": "https://open.spotify.com/track/48Xx8tDQ2yNp3aHbGrKXxc"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "R&B KINGZ",
-        "url": "https://open.spotify.com/album/3568mNTIRB9KzRLFBYWCBh"
-      },
-      "artists": [
-        {
-          "name": "Klass-A",
-          "url": "https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ"
-        },
-        {
-          "name": "kouz1",
-          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "Ayay",
-      "url": "https://open.spotify.com/track/44DBAjWwzFlUY2361xh6BW"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Enty Hayaty",
         "url": "https://open.spotify.com/album/6xcvw1ccUgfmlOqh55D2yN"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Marfoud",
         "url": "https://open.spotify.com/album/0xaytxkgDNmIjvnh1pCQ9p"
@@ -537,7 +537,23 @@
       "url": "https://open.spotify.com/track/56Bs6dWaxizARR9y1Ghs5y"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "ORCA",
+        "url": "https://open.spotify.com/album/2ArHCjoNwKWwLi3LLkGMbL"
+      },
+      "artists": [
+        {
+          "name": "Pause",
+          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
+        }
+      ],
+      "duration_ms": 184390,
+      "name": "ORCA",
+      "url": "https://open.spotify.com/track/4xP2e6Kcn3yUwbiqbvDYnk"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Deghri Deghri",
         "url": "https://open.spotify.com/album/3WcHikXDcd7HopAj1IVD7j"
@@ -553,39 +569,7 @@
       "url": "https://open.spotify.com/track/2DPkmFqCCEIJGjlVnsPU7A"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Hors Album",
-        "url": "https://open.spotify.com/album/21ETSekddGp8CPL5QehSvA"
-      },
-      "artists": [
-        {
-          "name": "LFERDA",
-          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
-        }
-      ],
-      "duration_ms": 172547,
-      "name": "Hors Album",
-      "url": "https://open.spotify.com/track/222gQND7zp53Uad6BYkCI6"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "RS3",
         "url": "https://open.spotify.com/album/2OsLIuY9JqqkpI0f9KTflW"
@@ -601,7 +585,115 @@
       "url": "https://open.spotify.com/track/2fe4vq7z5vXpZoFBPtlDaU"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Arabi",
+        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        },
+        {
+          "name": "Nouvo",
+          "url": "https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Moral",
+      "url": "https://open.spotify.com/track/2yGcGAhdIGiObLOnmsAoFT"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "\u0643\u064a\u0641\u0627\u0634 \u0646\u062e\u0644\u064a\u0643",
+        "url": "https://open.spotify.com/album/3gcdxxzWkBdzLL7fxkXopA"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Rifai",
+          "url": "https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W"
+        },
+        {
+          "name": "Hind Sdassi",
+          "url": "https://open.spotify.com/artist/2P8fLcz5pRfOH5gb6oYLSm"
+        }
+      ],
+      "duration_ms": 239253,
+      "name": "\u0643\u064a\u0641\u0627\u0634 \u0646\u062e\u0644\u064a\u0643",
+      "url": "https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Hors Album",
+        "url": "https://open.spotify.com/album/21ETSekddGp8CPL5QehSvA"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "duration_ms": 172547,
+      "name": "Hors Album",
+      "url": "https://open.spotify.com/track/222gQND7zp53Uad6BYkCI6"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Sucr\u00e9 Sal\u00e9",
+        "url": "https://open.spotify.com/album/4Dtmqw1CiozN3bFYyiuuZj"
+      },
+      "artists": [
+        {
+          "name": "L'morphine",
+          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
+        }
+      ],
+      "duration_ms": 140457,
+      "name": "Sucr\u00e9 Sal\u00e9",
+      "url": "https://open.spotify.com/track/4zYbjpZN7B298nBrKbXeyr"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -629,43 +721,7 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Arabi",
-        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
-      },
-      "artists": [
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        },
-        {
-          "name": "Nouvo",
-          "url": "https://open.spotify.com/artist/5K0gCO6NzUMHZWBFLMq2Ta"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Moral",
-      "url": "https://open.spotify.com/track/2yGcGAhdIGiObLOnmsAoFT"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "ORCA",
-        "url": "https://open.spotify.com/album/2ArHCjoNwKWwLi3LLkGMbL"
-      },
-      "artists": [
-        {
-          "name": "Pause",
-          "url": "https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5"
-        }
-      ],
-      "duration_ms": 184390,
-      "name": "ORCA",
-      "url": "https://open.spotify.com/track/4xP2e6Kcn3yUwbiqbvDYnk"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Arabi",
         "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
@@ -681,7 +737,7 @@
       "url": "https://open.spotify.com/track/7tbdg8jBXvkdqo1LiuKZ2l"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Polygamie",
         "url": "https://open.spotify.com/album/29naWP00flAdzNNi60yohv"
@@ -701,43 +757,7 @@
       "url": "https://open.spotify.com/track/1Kap7pOTKwcwBGGlGXdfq7"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "\u0643\u064a\u0641\u0627\u0634 \u0646\u062e\u0644\u064a\u0643",
-        "url": "https://open.spotify.com/album/3gcdxxzWkBdzLL7fxkXopA"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Rifai",
-          "url": "https://open.spotify.com/artist/4wc2KdcoFnLiGN9dJgu89W"
-        },
-        {
-          "name": "Hind Sdassi",
-          "url": "https://open.spotify.com/artist/2P8fLcz5pRfOH5gb6oYLSm"
-        }
-      ],
-      "duration_ms": 239253,
-      "name": "\u0643\u064a\u0641\u0627\u0634 \u0646\u062e\u0644\u064a\u0643",
-      "url": "https://open.spotify.com/track/0oaCbb3lplo9YIjdlwLspn"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Sucr\u00e9 Sal\u00e9",
-        "url": "https://open.spotify.com/album/4Dtmqw1CiozN3bFYyiuuZj"
-      },
-      "artists": [
-        {
-          "name": "L'morphine",
-          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
-        }
-      ],
-      "duration_ms": 140457,
-      "name": "Sucr\u00e9 Sal\u00e9",
-      "url": "https://open.spotify.com/track/4zYbjpZN7B298nBrKbXeyr"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Laar Ya Laar",
         "url": "https://open.spotify.com/album/4cpHlMvyOBWGHGAa9sufhw"
@@ -757,27 +777,7 @@
       "url": "https://open.spotify.com/track/6p1nVQXxuS3bI5jXxwZnnF"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Ya Hmed",
         "url": "https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf"
@@ -797,39 +797,7 @@
       "url": "https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "KNZ",
-        "url": "https://open.spotify.com/album/31YwWDm009EZqc9penbagV"
-      },
-      "artists": [
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        }
-      ],
-      "duration_ms": 247690,
-      "name": "KNZ",
-      "url": "https://open.spotify.com/track/3YqEI4fpQFI8cYZiZzOyFj"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
-      "album": {
-        "name": "Lili",
-        "url": "https://open.spotify.com/album/5UBFKS0W4dd1rxEk9psKwr"
-      },
-      "artists": [
-        {
-          "name": "Plylist",
-          "url": "https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW"
-        }
-      ],
-      "duration_ms": 183770,
-      "name": "Lili",
-      "url": "https://open.spotify.com/track/7jXw9LPDWtOJO4cycQ9Wh1"
-    },
-    {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Trap Roumi V2",
         "url": "https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly"
@@ -845,7 +813,7 @@
       "url": "https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Sfina",
         "url": "https://open.spotify.com/album/23dQw5Xou7F6y3GGWAgZPS"
@@ -861,7 +829,39 @@
       "url": "https://open.spotify.com/track/3LpN2cysYRb35wZmGmCyjR"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "KNZ",
+        "url": "https://open.spotify.com/album/31YwWDm009EZqc9penbagV"
+      },
+      "artists": [
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 247690,
+      "name": "KNZ",
+      "url": "https://open.spotify.com/track/3YqEI4fpQFI8cYZiZzOyFj"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
+      "album": {
+        "name": "Lili",
+        "url": "https://open.spotify.com/album/5UBFKS0W4dd1rxEk9psKwr"
+      },
+      "artists": [
+        {
+          "name": "Plylist",
+          "url": "https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW"
+        }
+      ],
+      "duration_ms": 183770,
+      "name": "Lili",
+      "url": "https://open.spotify.com/track/7jXw9LPDWtOJO4cycQ9Wh1"
+    },
+    {
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Cam\u00e9l\u00e9on",
         "url": "https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/2FkCxMgyjqvKwV0wqKb3vF"
     },
     {
-      "added_at": "2022-02-01 11:57:09",
+      "added_at": "2022-02-02 10:32:52",
       "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"

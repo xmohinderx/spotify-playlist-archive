@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest Island infused pop music from the Caribbean where Pop, Reggae, Soca & Dancehall become one\. Cover: Stalk Ashley
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,450 likes - 67 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,597 likes - 67 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 11 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 |
 | 12 | [Just Like That](https://open.spotify.com/track/20tHO9IvBzrUCAVrWKvDxI) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Sun Roof Riddim](https://open.spotify.com/album/5e17Hox0IiEaQ2A2CldE9A) | 2:23 |
 | 13 | [Gal Policy](https://open.spotify.com/track/7yJG5oJwYfom8AVXDcgFLx) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Gal Policy](https://open.spotify.com/album/5x1BzHxHcnvjru9T9iA4R8) | 2:16 |
-| 14 | [Rise Up](https://open.spotify.com/track/6suoQRZBxFn45KDsw5Prr0) | [rudeboy](https://open.spotify.com/artist/2BWrNBIbkjvzFgBKEX5Pn6), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Rise Up](https://open.spotify.com/album/1qXVWGdVOTXXg9b4cdJEn7) | 1:13 |
+| 14 | [Rise Up](https://open.spotify.com/track/6suoQRZBxFn45KDsw5Prr0) | [rudeboy](https://open.spotify.com/artist/2BWrNBIbkjvzFgBKEX5Pn6), [Kes](https://open.spotify.com/artist/3QMA5etC5fcCviDTg5oNTF) | [Rise Up](https://open.spotify.com/album/1qXVWGdVOTXXg9b4cdJEn7) | 1:13 |
 | 15 | [Catch 22](https://open.spotify.com/track/1cc282JtAEefN7O792U5P5) | [Prince Swanny](https://open.spotify.com/artist/2Jv0w50BNaGlwnXpq69HGm) | [Catch 22](https://open.spotify.com/album/7yqsulxhfk6aZNsioUcroO) | 4:10 |
 | 16 | [Happy Papi](https://open.spotify.com/track/39YdhPUMInQJYoUN10pXV6) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happy Papi](https://open.spotify.com/album/2toHXbny2GgQQtVcj7kEud) | 3:00 |
 | 17 | [Stay So](https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Gold 2018: 25th Anniversary](https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8) | 3:40 |

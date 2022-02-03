@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 203866,
       "name": "All My Love - Korean Ver.",
       "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 226960,
       "name": "Alone",
       "url": "https://open.spotify.com/track/133kp8Z4SADHKea8OYyzgt"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 238066,
       "name": "Autumn Memories (with Lee Seok Hoon)",
       "url": "https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 250746,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/4VsjMhMOhz9XGDNIzFNGgr"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 230969,
       "name": "Beautiful My Love",
       "url": "https://open.spotify.com/track/6lAFMbiZ00wBYwvDGA5PmB"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 249640,
       "name": "But I'll Miss You",
       "url": "https://open.spotify.com/track/7AyxUdou9NrGU64bTc9dsT"
@@ -498,6 +498,24 @@
     },
     {
       "album": {
+        "name": "bye bye i finally disappear from your life",
+        "url": "https://open.spotify.com/album/32vU9jUYjAYzyESFDDrJNs"
+      },
+      "artists": [
+        {
+          "name": "msftz",
+          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207893,
+      "name": "bye bye i finally disappear from your life",
+      "url": "https://open.spotify.com/track/7yDkk7GZ9GemJcAG0JD0G9"
+    },
+    {
+      "album": {
         "name": "Camellia",
         "url": "https://open.spotify.com/album/1IKUHtQ7OFl1NxHbefAXa8"
       },
@@ -535,7 +553,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 255746,
       "name": "Can Love Be Fair",
       "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
@@ -571,7 +589,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 236986,
       "name": "Can't fall in love again",
       "url": "https://open.spotify.com/track/4vzuBz7765BZkWebmI69gk"
@@ -777,7 +795,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 222415,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 222454,
       "name": "Everybody Has",
       "url": "https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn"
@@ -951,7 +969,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9"
@@ -969,7 +987,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 236146,
       "name": "First Loss",
       "url": "https://open.spotify.com/track/4cOxx9vS7Zda7m0RzAsGMG"
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 263640,
       "name": "Fixed On You",
       "url": "https://open.spotify.com/track/4ySfsrGG2VLMEllTC1QYfI"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 239122,
       "name": "Flower Way",
       "url": "https://open.spotify.com/track/6Jstg15yIAoAP7rAgFrYYH"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 298173,
       "name": "Forever (\uc57d\uc18d)",
       "url": "https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 280360,
       "name": "Give You My Heart",
       "url": "https://open.spotify.com/track/6dGsBRuavumBs5BghcXF3D"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 244451,
       "name": "Here We Are",
       "url": "https://open.spotify.com/track/7MjaIOqmlq83z04h7kdhdq"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 210240,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7"
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 238640,
       "name": "I want to be happy",
       "url": "https://open.spotify.com/track/7228vjb4e06cqzLv8Fqffi"
@@ -1555,7 +1573,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 259713,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/2BzHlLKQyUVuvREaJikvmm"
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 183440,
       "name": "Introduce me a good person",
       "url": "https://open.spotify.com/track/2CHk9VD0glOknemRMFEQfH"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 187160,
       "name": "Lazy Me",
       "url": "https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 229867,
       "name": "Linger On",
       "url": "https://open.spotify.com/track/6foDgrZtjOAJektiejSJI3"
@@ -1833,7 +1851,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 279026,
       "name": "Looking at the Photo",
       "url": "https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 261720,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE"
@@ -1927,6 +1945,28 @@
       "duration_ms": 280358,
       "name": "Me After You",
       "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6cicBDN7VCijeMLd0qqyKD"
+      },
+      "artists": [
+        {
+          "name": "KIM WOO SEOK",
+          "url": "https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2"
+        },
+        {
+          "name": "Lee Eun Sang",
+          "url": "https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171720,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4brbKf89m6T7sul0VIV5cY"
     },
     {
       "album": {
@@ -2003,6 +2043,24 @@
       "duration_ms": 193930,
       "name": "My Love",
       "url": "https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n"
+    },
+    {
+      "album": {
+        "name": "My Love (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/6DCtAzGInnSIffWpJhG7bO"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208413,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3HxEHyCJPT9o9nsGn5pJkl"
     },
     {
       "album": {
@@ -2313,7 +2371,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 207106,
       "name": "Plant",
       "url": "https://open.spotify.com/track/3oTeu6YzKhXQIogBgzJr9w"
@@ -2573,7 +2631,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 241080,
       "name": "Slowly Fall",
       "url": "https://open.spotify.com/track/20iKxZ9WfxHgTB2GVXpQMk"
@@ -2775,7 +2833,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 220996,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
@@ -2833,7 +2891,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 235392,
       "name": "The day was beautiful",
       "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
@@ -3021,7 +3079,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
@@ -3075,7 +3133,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 267893,
       "name": "Two People",
       "url": "https://open.spotify.com/track/7yxdDkL1ar39CWTX4hMRFk"
@@ -3147,7 +3205,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 246320,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
@@ -3313,7 +3371,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 253045,
       "name": "With My Tears",
       "url": "https://open.spotify.com/track/2ocf3TyvsHPvXQ1vwbavQE"

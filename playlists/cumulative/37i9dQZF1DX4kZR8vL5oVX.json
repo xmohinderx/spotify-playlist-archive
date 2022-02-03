@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/6EZJOktadaCScpgrePUlGV"
+      },
+      "artists": [
+        {
+          "name": "Maud Geffray",
+          "url": "https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229984,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/0mrvIcsZNy6cwhfDe5KGdX"
+    },
+    {
+      "album": {
         "name": "Br\u00fble",
         "url": "https://open.spotify.com/album/6LajhxKwAVoXw7Lix5BiMV"
       },

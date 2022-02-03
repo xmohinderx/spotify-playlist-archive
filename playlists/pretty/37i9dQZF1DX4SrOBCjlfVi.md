@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring NLE Choppa, Benny The Butcher, and more\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,814 likes - 51 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,061 likes - 51 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 30 | [Set Me Free](https://open.spotify.com/track/6aW8tSerBes6ozQQHLMhCC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Set Me Free](https://open.spotify.com/album/5SYCXuXbwIYJXzfY8wMdBx) | 3:13 |
 | 31 | [Free Mason](https://open.spotify.com/track/4kisEdLXmdb4MVr25XZV9B) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [Free Mason](https://open.spotify.com/album/2x1eDK721WNTGKXMVNcLKi) | 2:10 |
 | 32 | [Money](https://open.spotify.com/track/0XgnXsUlzkpqrcdKx002IT) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2) | [Money](https://open.spotify.com/album/22QaAcWSzIdOWtCgaca1un) | 2:56 |
-| 33 | [Company](https://open.spotify.com/track/5x5xVKKT0jltPqjtWfmJTn) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [BIGBABYGUCCI](https://open.spotify.com/artist/4MX3W5awGKZnb96XjqDhVk) | [Company](https://open.spotify.com/album/1t0NQ9kXjNVFmWRwV1iDcg) | 2:35 |
+| 33 | [Company](https://open.spotify.com/track/5x5xVKKT0jltPqjtWfmJTn) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s), [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [Company](https://open.spotify.com/album/1t0NQ9kXjNVFmWRwV1iDcg) | 2:35 |
 | 34 | [HIT](https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [HIT](https://open.spotify.com/album/03ckoZhTfbWybngUkIHqWv) | 2:05 |
 | 35 | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Flossin’ \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/album/5SzQj9rNCNbXcp1jyr9LWb) | 2:48 |
 | 36 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 |

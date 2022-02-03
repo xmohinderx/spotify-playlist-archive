@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Chris Ruediger, Artwork: Fan\u00e9lie Muselier",
+  "description": "Fresh country music by independent artists every Wednesday. Cover: Matt Schuster, Artwork: Fan\u00e9lie Muselier",
   "name": "Fresh Finds Country",
   "published_playlist_ids": [
     "6mwEcxK6QfboeMswgDS0cE"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 186826,
       "name": "about me.",
       "url": "https://open.spotify.com/track/4k3GSjOrsfKexMd04JgGZ9"
@@ -207,6 +207,24 @@
       "duration_ms": 235692,
       "name": "All My Dances",
       "url": "https://open.spotify.com/track/7hZdz3S7Wmsgk0VkoWRaky"
+    },
+    {
+      "album": {
+        "name": "Another Man's Treasure",
+        "url": "https://open.spotify.com/album/53P5lnqKrA9aZyELFHvRKr"
+      },
+      "artists": [
+        {
+          "name": "Josh Bricker",
+          "url": "https://open.spotify.com/artist/1P4Sq4Ga7dr8CKoydgVpHP"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197036,
+      "name": "Another Man's Treasure",
+      "url": "https://open.spotify.com/track/2YDq00OI1WubK6HWWlURnk"
     },
     {
       "album": {
@@ -553,7 +571,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 209516,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/1WYA58rWzfDGcVtgLIY938"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 165969,
       "name": "Can't Drink Straight",
       "url": "https://open.spotify.com/track/1cuamx0tkcCMXsJVAin3ef"
@@ -1014,6 +1032,24 @@
     },
     {
       "album": {
+        "name": "Cowboy",
+        "url": "https://open.spotify.com/album/43nbnIDcdVU0ky255QCq9K"
+      },
+      "artists": [
+        {
+          "name": "Emma White",
+          "url": "https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188081,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/76dft06UMtOBvXRcnQp5AP"
+    },
+    {
+      "album": {
         "name": "Cowboy Song",
         "url": "https://open.spotify.com/album/3VnG4VtuebW32D1LqvfSxY"
       },
@@ -1097,7 +1133,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 185744,
       "name": "Damn I Need a Drink",
       "url": "https://open.spotify.com/track/39o414yDjRtRy5la1JSoUA"
@@ -1439,7 +1475,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 184153,
       "name": "Falling Apartment",
       "url": "https://open.spotify.com/track/7xRVObMJJXBk5nOQttygYC"
@@ -1461,6 +1497,24 @@
       "duration_ms": 186233,
       "name": "Far Boy",
       "url": "https://open.spotify.com/track/3pRnKj78QBhMMUztog2pf7"
+    },
+    {
+      "album": {
+        "name": "True Stories",
+        "url": "https://open.spotify.com/album/7dP7birbQvtZn13VEEolvt"
+      },
+      "artists": [
+        {
+          "name": "Jordan Fletcher",
+          "url": "https://open.spotify.com/artist/43U27Vp3DiU94H7FJx804a"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177840,
+      "name": "Firebird",
+      "url": "https://open.spotify.com/track/0XfZNb9FbKuR8K7XkvjMAq"
     },
     {
       "album": {
@@ -1497,6 +1551,24 @@
       "duration_ms": 188239,
       "name": "First Time",
       "url": "https://open.spotify.com/track/3CusVXKAMVGcxv9NcB4mHP"
+    },
+    {
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/1UUV1hZtczlx2uFDG8XyrF"
+      },
+      "artists": [
+        {
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4QqnvcRSmylDaB135aWjun"
     },
     {
       "album": {
@@ -1573,6 +1645,24 @@
       "duration_ms": 201056,
       "name": "Getaway Car",
       "url": "https://open.spotify.com/track/28cjYUKmctVIA7wcg9QTCa"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/4xjCemS8N2VvVmpuKyTUk2"
+      },
+      "artists": [
+        {
+          "name": "Hunter Jordan",
+          "url": "https://open.spotify.com/artist/1jXNRIUmYp5nKQ96Szehou"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172987,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7wNNEj0ntJW3QPx0PWwaFJ"
     },
     {
       "album": {
@@ -2067,7 +2157,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 166158,
       "name": "House and Home",
       "url": "https://open.spotify.com/track/2XBg3BCtxrenmOU0Yb5L5j"
@@ -2161,7 +2251,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 212691,
       "name": "I Can't Count That High",
       "url": "https://open.spotify.com/track/1wwvai22aCAFvxKCftFzEM"
@@ -2276,6 +2366,24 @@
     },
     {
       "album": {
+        "name": "I See You",
+        "url": "https://open.spotify.com/album/2Tq0xtWB6rqCemzGCf9yUG"
+      },
+      "artists": [
+        {
+          "name": "Nick Hedden",
+          "url": "https://open.spotify.com/artist/7CVnE1UwEbTTuWhYavL0kT"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177954,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/7IDetZHdCwlHgjMeCelWZI"
+    },
+    {
+      "album": {
         "name": "I Think About You",
         "url": "https://open.spotify.com/album/2uF5SkbBCH2GFnBLUGNYMr"
       },
@@ -2363,6 +2471,24 @@
       "duration_ms": 195395,
       "name": "I'm Drinkin' She's Drivin'",
       "url": "https://open.spotify.com/track/38GeL4oaWQR0YZTpRPDS6c"
+    },
+    {
+      "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/07nKtzGWsenkcW2AQUfqY3"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Bridges",
+          "url": "https://open.spotify.com/artist/5AojaUBsu5zFnsrk3lzWwg"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180432,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/1Sk9xv3Cv5z7f0TFl4EUQO"
     },
     {
       "album": {
@@ -2604,6 +2730,24 @@
     },
     {
       "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/2FR7gaT9MkZ8nw135URdyC"
+      },
+      "artists": [
+        {
+          "name": "Kali Arcaris",
+          "url": "https://open.spotify.com/artist/6GLZpLl64nlqfxnnP1Czjg"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206624,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/2BRlhxcuUsGP8xkYlNy3mY"
+    },
+    {
+      "album": {
         "name": "Last Place I Want To Be",
         "url": "https://open.spotify.com/album/3RYYiRLySMiNcYVGtUNt9a"
       },
@@ -2712,6 +2856,24 @@
     },
     {
       "album": {
+        "name": "Like a Broken Record",
+        "url": "https://open.spotify.com/album/3Kq692hrHkTk8EBqpN2b5w"
+      },
+      "artists": [
+        {
+          "name": "Gracee Shriver",
+          "url": "https://open.spotify.com/artist/2dn03VbHARxzUqbTrx0Rw1"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219143,
+      "name": "Like a Broken Record",
+      "url": "https://open.spotify.com/track/3yL9Tp6I8SRb2hzBVwBQpL"
+    },
+    {
+      "album": {
         "name": "Like Tomorrow's Gone",
         "url": "https://open.spotify.com/album/7LrcBCH2gXiJpEQtvZHuiW"
       },
@@ -2781,7 +2943,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 243094,
       "name": "Lose Somebody You Love",
       "url": "https://open.spotify.com/track/7EqJ06QvfGhvXcHPldhTa8"
@@ -3062,6 +3224,24 @@
     },
     {
       "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/3u0p3sbi4mWFXBoiyYmNcQ"
+      },
+      "artists": [
+        {
+          "name": "Erin Gibney",
+          "url": "https://open.spotify.com/artist/6T2lvnNVmGWVzbmmMAH4TF"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208175,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/31Ptw3pIczChzLahyqzUXC"
+    },
+    {
+      "album": {
         "name": "Never Been in Love",
         "url": "https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G"
       },
@@ -3113,6 +3293,24 @@
       "duration_ms": 160750,
       "name": "never mind, let's break up",
       "url": "https://open.spotify.com/track/6vL6Y6FtrdOt02J4IwniTu"
+    },
+    {
+      "album": {
+        "name": "New to Nashville",
+        "url": "https://open.spotify.com/album/6Z1w92eoJA2mBXMsKazPvF"
+      },
+      "artists": [
+        {
+          "name": "Raleigh Keegan",
+          "url": "https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162533,
+      "name": "New to Nashville",
+      "url": "https://open.spotify.com/track/6LZQA5ImU238R1GZPWw3Rs"
     },
     {
       "album": {
@@ -3243,6 +3441,24 @@
       "duration_ms": 198795,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/46cIitgOL5fc6SqYvl0WmZ"
+    },
+    {
+      "album": {
+        "name": "Overdrinkin'",
+        "url": "https://open.spotify.com/album/52Ih2SKMgZwUMFhmalJRzG"
+      },
+      "artists": [
+        {
+          "name": "Victoria Rylee",
+          "url": "https://open.spotify.com/artist/2TbrklX3pW3sq5gjQUzTNR"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210810,
+      "name": "Overdrinkin'",
+      "url": "https://open.spotify.com/track/5vpRMVrGckWyZ1tV0Byodu"
     },
     {
       "album": {
@@ -3545,7 +3761,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 206740,
       "name": "She's Gonna Be a Song",
       "url": "https://open.spotify.com/track/0ThPck1tugo2TXvobasNM0"
@@ -3841,7 +4057,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 178730,
       "name": "Something in the Whiskey",
       "url": "https://open.spotify.com/track/6cF9cMJ70NKWN7Db7cAp9p"
@@ -4302,6 +4518,24 @@
     },
     {
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/5970tU5hee5HwYy4fJbYgD"
+      },
+      "artists": [
+        {
+          "name": "Darlinghurst",
+          "url": "https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210810,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/3iGJtZHxtI3O8qD3Iy4vjv"
+    },
+    {
+      "album": {
         "name": "Him",
         "url": "https://open.spotify.com/album/6aPNDVZoiGIRzGoU8YGDwv"
       },
@@ -4313,7 +4547,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 205360,
       "name": "Upx2",
       "url": "https://open.spotify.com/track/54I6A0jhRYW3tzxluW6ChC"
@@ -4403,7 +4637,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 231449,
       "name": "What If We Never Met",
       "url": "https://open.spotify.com/track/4qao4AOEDlrKRL8HVsSrp6"
@@ -4461,6 +4695,24 @@
       "duration_ms": 199002,
       "name": "When You Love Me",
       "url": "https://open.spotify.com/track/3RpdH8sAYCUw8sGNSTIEsm"
+    },
+    {
+      "album": {
+        "name": "Whiskey and You",
+        "url": "https://open.spotify.com/album/41LxH8SZoqhpjdyHv7X9i3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Ingle",
+          "url": "https://open.spotify.com/artist/5Y89Lian0H5o3KAyFysG35"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224743,
+      "name": "Whiskey and You",
+      "url": "https://open.spotify.com/track/4OV3UQwaTCjKJjCqoI6FN8"
     },
     {
       "album": {
@@ -4583,7 +4835,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 158727,
       "name": "Worth The Trouble",
       "url": "https://open.spotify.com/track/5zcg33W6SgPymegTUVI8uo"
@@ -4673,7 +4925,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 225000,
       "name": "You Just Missed Me",
       "url": "https://open.spotify.com/track/2ywVPLcWjXaWUiQqmvjNpm"

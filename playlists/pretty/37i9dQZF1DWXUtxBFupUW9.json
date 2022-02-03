@@ -1,12 +1,12 @@
 {
   "description": "Exercise together with classic uplifting soul music.",
-  "num_followers": 238948,
+  "num_followers": 239064,
   "original_name": "Body & Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MjQ4MywwMDAwMDAwMDNmYWE1MTBjNmY5MWI5NDIzODhlMTUzNTlhNjQ2MGQz",
+  "snapshot_id": "MTY0Mzg0ODczMywwMDAwMDAwMDQ1YTZhNTA5ODM5ZjBhYThhNTY2YjE1ODNjYTZmYjcy",
   "tracks": [
     {
       "added_at": "2022-01-21 10:03:10",
@@ -43,34 +43,18 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+        "name": "Four Tops Second Album",
+        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "Golden Moments",
-        "url": "https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 172640,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/5Gird0FlC1rfCDujzz0C4N"
+      "duration_ms": 160280,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
     },
     {
       "added_at": "2022-01-21 10:03:10",
@@ -91,34 +75,18 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+        "name": "Golden Moments",
+        "url": "https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR"
       },
       "artists": [
         {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
         }
       ],
-      "duration_ms": 220560,
-      "name": "Best of My Love",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "Four Tops Second Album",
-        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+      "duration_ms": 172640,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/5Gird0FlC1rfCDujzz0C4N"
     },
     {
       "added_at": "2022-01-21 10:03:10",
@@ -135,6 +103,22 @@
       "duration_ms": 178400,
       "name": "Love Train",
       "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2022-01-21 10:03:10",
@@ -171,6 +155,38 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Best of My Love",
+      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "Soul Manifesto: 1964-1970",
-        "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Hard to Handle",
-      "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best of The Isley Brothers-The Motown Years",
         "url": "https://open.spotify.com/album/57CNwGt0hsLPUlMMNuxtRS"
       },
@@ -219,6 +219,22 @@
       "duration_ms": 175893,
       "name": "This Old Heart Of Mine (Is Weak For You) - Single Version / Mono",
       "url": "https://open.spotify.com/track/0CPwNXw5qD9588d86nropo"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "Soul Manifesto: 1964-1970",
+        "url": "https://open.spotify.com/album/0JwIILToCGqGm6jElmWRHZ"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Hard to Handle",
+      "url": "https://open.spotify.com/track/3AW8RH8wosGLxd6ZojTGBe"
     },
     {
       "added_at": "2022-01-21 10:03:10",
@@ -239,34 +255,18 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "Move on Up",
-        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
+        "name": "Rock Your Baby",
+        "url": "https://open.spotify.com/album/5zPXX4trT1w21DXo1M66lv"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
         }
       ],
-      "duration_ms": 165789,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+      "duration_ms": 199293,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/5bSgarDpObM6V8PJcXo9pz"
     },
     {
       "added_at": "2022-01-21 10:03:10",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
         "name": "Twistin' the Night Away (Classic Album - Gold Edition)",
         "url": "https://open.spotify.com/album/5tTtfbF5NOceHLjzjWywYC"
       },
@@ -331,6 +315,38 @@
       "duration_ms": 162173,
       "name": "Twistin' the Night Away",
       "url": "https://open.spotify.com/track/4pHLMH4f3NKP5cBRfPlIZb"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "Rhino Hi-Five: Arthur Conley",
+        "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
+      },
+      "artists": [
+        {
+          "name": "Arthur Conley",
+          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+        }
+      ],
+      "duration_ms": 141066,
+      "name": "Sweet Soul Music",
+      "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2022-01-21 10:03:10",
@@ -355,50 +371,50 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "Rhino Hi-Five: Arthur Conley",
-        "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
+        "name": "The Ultimate Collection: Four Tops",
+        "url": "https://open.spotify.com/album/7pSmOdR07xSmTJBcwKKF0v"
       },
       "artists": [
         {
-          "name": "Arthur Conley",
-          "url": "https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 141066,
-      "name": "Sweet Soul Music",
-      "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
+      "duration_ms": 179666,
+      "name": "Reach Out I'll Be There - Single Version / Mono",
+      "url": "https://open.spotify.com/track/2VwRmAIjgmwNPDh4eMK1EH"
     },
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
         }
       ],
-      "duration_ms": 153333,
-      "name": "Where Did Our Love Go",
-      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "Rock Your Baby",
-        "url": "https://open.spotify.com/album/5zPXX4trT1w21DXo1M66lv"
+        "name": "Move on Up",
+        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
       },
       "artists": [
         {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 199293,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/5bSgarDpObM6V8PJcXo9pz"
+      "duration_ms": 165789,
+      "name": "Move on Up",
+      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
       "added_at": "2022-01-21 10:03:10",
@@ -419,18 +435,34 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "The Best of Sister Sledge (1973-1985)",
-        "url": "https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt"
+        "name": "Risqu\u00e9",
+        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
       },
       "artists": [
         {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
         }
       ],
-      "duration_ms": 287440,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2"
+      "duration_ms": 495400,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Where Did Our Love Go",
+      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
     },
     {
       "added_at": "2022-01-21 10:03:10",
@@ -451,134 +483,6 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "Going To A Go-Go",
-        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "The Tracks Of My Tears",
-      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 - 1963",
-        "url": "https://open.spotify.com/album/0cM9qP6HmXg0JaAuAFdGeo"
-      },
-      "artists": [
-        {
-          "name": "James Ray",
-          "url": "https://open.spotify.com/artist/5DG3ZUxWmaQySIbGHdq03J"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "I've Got My Mind Set On You",
-      "url": "https://open.spotify.com/track/0qPeLt28yVM4wScp8qt8xY"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "Risqu\u00e9",
-        "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 495400,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0G3fbPbE1vGeABDEZF0jeG"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "The Ultimate Collection: Four Tops",
-        "url": "https://open.spotify.com/album/7pSmOdR07xSmTJBcwKKF0v"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Reach Out I'll Be There - Single Version / Mono",
-      "url": "https://open.spotify.com/track/2VwRmAIjgmwNPDh4eMK1EH"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi"
-      },
-      "artists": [
-        {
-          "name": "Barrett Strong",
-          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Money (That's What I Want) - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
         "name": "The Ultimate Collection: Smokey Robinson & The Miracles",
         "url": "https://open.spotify.com/album/7l5GOg4aHNyQfR8npvIACV"
       },
@@ -595,82 +499,18 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "The Hits Of Edwin Starr",
-        "url": "https://open.spotify.com/album/5Lj0voE6hpEZ9zTms5i4Z2"
+        "name": "The Best of Sister Sledge (1973-1985)",
+        "url": "https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt"
       },
       "artists": [
         {
-          "name": "Edwin Starr",
-          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
         }
       ],
-      "duration_ms": 196333,
-      "name": "Twenty Five Miles",
-      "url": "https://open.spotify.com/track/6zpOu65vJLr3v6Wl6PbDHo"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "At Last The Very Best Of",
-        "url": "https://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 188093,
-      "name": "I Just Want To Make Love To You",
-      "url": "https://open.spotify.com/track/7EfLlY6Gen7TCbyZ3f0CM1"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "Dance The Cool Jerk",
-        "url": "https://open.spotify.com/album/4tunfFO1SffujlRfanDyZI"
-      },
-      "artists": [
-        {
-          "name": "The Capitols",
-          "url": "https://open.spotify.com/artist/2AYmrUFn1ATSfFSx3B4tvb"
-        }
-      ],
-      "duration_ms": 166746,
-      "name": "Cool Jerk",
-      "url": "https://open.spotify.com/track/1CQHMHRCDs1qioeseVTbaR"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "Freedom Highway",
-        "url": "https://open.spotify.com/album/5613XvsC5XhGi3gfNWXpjg"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 176933,
-      "name": "Wade In The Water",
-      "url": "https://open.spotify.com/track/3cuvHbi1A18vg58oi4CEfV"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 163093,
-      "name": "Come See About Me",
-      "url": "https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU"
+      "duration_ms": 287440,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2"
     },
     {
       "added_at": "2022-01-21 10:03:10",
@@ -691,6 +531,22 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
+        "name": "Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 - 1963",
+        "url": "https://open.spotify.com/album/0cM9qP6HmXg0JaAuAFdGeo"
+      },
+      "artists": [
+        {
+          "name": "James Ray",
+          "url": "https://open.spotify.com/artist/5DG3ZUxWmaQySIbGHdq03J"
+        }
+      ],
+      "duration_ms": 206093,
+      "name": "I've Got My Mind Set On You",
+      "url": "https://open.spotify.com/track/0qPeLt28yVM4wScp8qt8xY"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
         "name": "Rhino Hi-Five: Wilson Pickett",
         "url": "https://open.spotify.com/album/3R7ZC37Ur3zx40M06RLMMd"
       },
@@ -707,18 +563,50 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "Choice Cuts",
-        "url": "https://open.spotify.com/album/7Ezb6ruoLgHkUnDTPwo39u"
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
       },
       "artists": [
         {
-          "name": "King Floyd",
-          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 184466,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/6Ev3WGbBVBiftMGcBV5Bhg"
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/0ZjG7lMUm7k920ZgEL2pmi"
+      },
+      "artists": [
+        {
+          "name": "Barrett Strong",
+          "url": "https://open.spotify.com/artist/3MKwHkhEjcvzva2rasZeWD"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Money (That's What I Want) - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6OsefWNJtsWqO7myze1HEX"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
       "added_at": "2022-01-21 10:03:10",
@@ -739,6 +627,38 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
+        "name": "Going To A Go-Go",
+        "url": "https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "The Tracks Of My Tears",
+      "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "Dance The Cool Jerk",
+        "url": "https://open.spotify.com/album/4tunfFO1SffujlRfanDyZI"
+      },
+      "artists": [
+        {
+          "name": "The Capitols",
+          "url": "https://open.spotify.com/artist/2AYmrUFn1ATSfFSx3B4tvb"
+        }
+      ],
+      "duration_ms": 166746,
+      "name": "Cool Jerk",
+      "url": "https://open.spotify.com/track/1CQHMHRCDs1qioeseVTbaR"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
         "name": "50 Summer Hits",
         "url": "https://open.spotify.com/album/4iRt5STyQudfgvq3Gt2ki6"
       },
@@ -751,6 +671,86 @@
       "duration_ms": 251693,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/2uxrnrPd9LaIs86FNudcjT"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "At Last The Very Best Of",
+        "url": "https://open.spotify.com/album/5mKhSxFMOBFtf76VHaMyRS"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 188093,
+      "name": "I Just Want To Make Love To You",
+      "url": "https://open.spotify.com/track/7EfLlY6Gen7TCbyZ3f0CM1"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "Choice Cuts",
+        "url": "https://open.spotify.com/album/7Ezb6ruoLgHkUnDTPwo39u"
+      },
+      "artists": [
+        {
+          "name": "King Floyd",
+          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/6Ev3WGbBVBiftMGcBV5Bhg"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 163093,
+      "name": "Come See About Me",
+      "url": "https://open.spotify.com/track/307kcWJQNMdiYYKj1LgClU"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "Cold Sweat & Other Soul Classics: James Brown",
+        "url": "https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "Get Up Offa That Thing",
+      "url": "https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv"
     },
     {
       "added_at": "2022-01-21 10:03:10",
@@ -771,34 +771,18 @@
     {
       "added_at": "2022-01-21 10:03:10",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/4zjzKwovnTwVxg4ckO6YGU"
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
       "artists": [
         {
-          "name": "Diana Ross & The Supremes",
-          "url": "https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 169893,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/4QNviFJLZ8SrjhkTkDbvyU"
-    },
-    {
-      "added_at": "2022-01-21 10:03:10",
-      "album": {
-        "name": "Turn Back The Hands Of Time",
-        "url": "https://open.spotify.com/album/1Ib7i6dWJatZaCIzABbtZi"
-      },
-      "artists": [
-        {
-          "name": "Tyrone Davis",
-          "url": "https://open.spotify.com/artist/76agLI5oSCFbmZnBqKcBJd"
-        }
-      ],
-      "duration_ms": 178653,
-      "name": "Turn Back The Hands Of Time",
-      "url": "https://open.spotify.com/track/5o3qMny3Ym8O512RKrNoLw"
+      "duration_ms": 181640,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
     },
     {
       "added_at": "2022-01-21 10:03:10",
@@ -815,6 +799,26 @@
       "duration_ms": 154573,
       "name": "My Man, a Sweet Man",
       "url": "https://open.spotify.com/track/2SQcpV8DdTbnMOhecspYEl"
+    },
+    {
+      "added_at": "2022-01-21 10:03:10",
+      "album": {
+        "name": "The Blues Brothers Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4cO51KBYsdsbmSZleoNEGH"
+      },
+      "artists": [
+        {
+          "name": "The Blues Brothers",
+          "url": "https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g"
+        },
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/6kie23fo40j9gBNWGWg5Dc"
     }
   ],
   "unique_name": "Body & Soul",

@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/1lBJzs7vKo2p5HL78MpvPD"
+      },
+      "artists": [
+        {
+          "name": "Eu Nice",
+          "url": "https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139777,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/44jnGxgCSoyxygFmpyCiPy"
+    },
+    {
+      "album": {
         "name": "Armonikos",
         "url": "https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz"
       },
@@ -444,6 +462,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9sir",
+        "url": "https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t"
+      },
+      "artists": [
+        {
+          "name": "Valerie Renaud",
+          "url": "https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163479,
+      "name": "D\u00e9sir",
+      "url": "https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z"
+    },
+    {
+      "album": {
         "name": "Emotion",
         "url": "https://open.spotify.com/album/5qBzrhSYA2oc8GUJgty2Pp"
       },
@@ -527,10 +563,28 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 176000,
       "name": "Finalement",
       "url": "https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83"
+    },
+    {
+      "album": {
+        "name": "Finding The Heavens",
+        "url": "https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167063,
+      "name": "Finding The Heavens",
+      "url": "https://open.spotify.com/track/5iVgHr0hrCFOvem4Yc75Gc"
     },
     {
       "album": {
@@ -797,7 +851,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 165600,
       "name": "Lonely Hearts",
       "url": "https://open.spotify.com/track/2NHvznYFCm8Fx7UE7sTZGa"
@@ -966,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/3dJXtRJiMVUE4kzgAkW7xU"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180057,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/4KqlBCbME4kSBDKfogDerG"
+    },
+    {
+      "album": {
         "name": "Miyuki",
         "url": "https://open.spotify.com/album/5XRxHNzzfFDKEEeDbW9Pmk"
       },
@@ -995,7 +1067,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 168374,
       "name": "My Angel",
       "url": "https://open.spotify.com/track/4fvAPq4DVXfQG5FbLwlvk5"

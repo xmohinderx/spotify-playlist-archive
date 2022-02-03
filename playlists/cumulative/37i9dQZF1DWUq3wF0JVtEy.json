@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 171362,
       "name": "Be Good",
       "url": "https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 165245,
       "name": "Better Off (feat. Sara Diamond)",
       "url": "https://open.spotify.com/track/0axSINcrVVrNfHXMRTsTKF"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 201428,
       "name": "Big Racks",
       "url": "https://open.spotify.com/track/3Hmsr9kGbncO4TQhsJaFV8"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 191612,
       "name": "Black Out",
       "url": "https://open.spotify.com/track/7s9GCH2s1koH3AwgQHRwYh"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 184687,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 206803,
       "name": "Collect Check (feat. EMIDA)",
       "url": "https://open.spotify.com/track/0vQukqQmHy0ZesKFssyvEW"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 202926,
       "name": "Daybreak",
       "url": "https://open.spotify.com/track/4VgZlIY58oEZPLKahmLbeP"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 280000,
       "name": "DRIVE",
       "url": "https://open.spotify.com/track/3v6cqJNWyYT1A2xsaVnO2r"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 162347,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/6U8x4X0uYBN6lzQWwtyO4l"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 187894,
       "name": "Fake Fake Fake",
       "url": "https://open.spotify.com/track/7wf4U3ElL3a1KY9qSRViuP"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 194262,
       "name": "Fool for You",
       "url": "https://open.spotify.com/track/2tt4GTCzZdV3yP2PZQjrbr"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 160476,
       "name": "Get Back (feat. TITUS)",
       "url": "https://open.spotify.com/track/2636BVOgTRI8QQ3f1GsA41"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 186239,
       "name": "Girls",
       "url": "https://open.spotify.com/track/3bT1QiVx8FcObFcDuBArth"
@@ -1105,7 +1105,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 155370,
       "name": "Good Catch",
       "url": "https://open.spotify.com/track/4o0DR32ubkdQCPT1onM18W"
@@ -1215,10 +1215,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 127680,
       "name": "Gucci Fendi Prada - BYOR Remix",
       "url": "https://open.spotify.com/track/7FYV4Nq4IW08XDssxctuyR"
+    },
+    {
+      "album": {
+        "name": "Hardcore Vibes",
+        "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Hardcore Vibes - Radio Edit",
+      "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
     },
     {
       "album": {
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 170329,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4TCfzdejg8xdFYZjzTOA4A"
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 216340,
       "name": "Joi",
       "url": "https://open.spotify.com/track/3olgZmF1O7MHpv76iHmDDf"
@@ -1545,6 +1563,24 @@
       "duration_ms": 156612,
       "name": "Kush",
       "url": "https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu"
+    },
+    {
+      "album": {
+        "name": "Leave Your Mind Behind",
+        "url": "https://open.spotify.com/album/3zPG0oOh6G8XicQDp4HX0z"
+      },
+      "artists": [
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186190,
+      "name": "Leave Your Mind Behind",
+      "url": "https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK"
     },
     {
       "album": {
@@ -1757,7 +1793,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 151475,
       "name": "Loose",
       "url": "https://open.spotify.com/track/5c2KynltsWD6agVEbaHwof"
@@ -1823,7 +1859,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 169252,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/0kbd4eKn7jyHTjdIBX6aZk"
@@ -1867,7 +1903,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 203520,
       "name": "Lost Cowboys",
       "url": "https://open.spotify.com/track/3W09VqxOJ4CcClolPt8kcQ"
@@ -2135,7 +2171,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 200079,
       "name": "No Time",
       "url": "https://open.spotify.com/track/1UApNNulZJm0alYFXerYMw"
@@ -2157,7 +2193,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 146372,
       "name": "Nobody To Love (with Loren Gray)",
       "url": "https://open.spotify.com/track/0SSIu4CcGITHdatDmjlA6H"
@@ -2245,7 +2281,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 158300,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/1Ti5Px7jctKkMuXbx4kTdA"
@@ -2377,7 +2413,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 209280,
       "name": "Pump Up The Jam (with MOTi)",
       "url": "https://open.spotify.com/track/1uNKDCkSaGNqIsMtvfsr2O"
@@ -2413,7 +2449,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 138750,
       "name": "Push And Pull",
       "url": "https://open.spotify.com/track/5wJ7NwX3rC57OWT7A07iv0"
@@ -2687,7 +2723,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 133000,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/6Htqsoq5u7Z4a8hqWfMRXY"
@@ -2895,7 +2931,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 198571,
       "name": "stop",
       "url": "https://open.spotify.com/track/6BM9s0Pqmj5mvHsrDvLozu"
@@ -3049,7 +3085,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 203522,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6gOR8xTSQWEMfEJa7r52k7"
@@ -3129,7 +3165,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 249919,
       "name": "Too Soon",
       "url": "https://open.spotify.com/track/0ybwuh7d9YF7dVWBqDgpzd"
@@ -3291,7 +3327,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 184271,
       "name": "Whisper (with James Yuill) - John Summit Remix",
       "url": "https://open.spotify.com/track/04mYhQGTujxxPjPzxRrgTL"

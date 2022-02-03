@@ -394,6 +394,24 @@
     },
     {
       "album": {
+        "name": "CHOCOLATE100x",
+        "url": "https://open.spotify.com/album/0BZQH6xiNjw0xhOucCmmNQ"
+      },
+      "artists": [
+        {
+          "name": "jackwoods",
+          "url": "https://open.spotify.com/artist/5Jq1Pr7kLEm3h5RlkSiQ5z"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121659,
+      "name": "CHOCOLATE100x",
+      "url": "https://open.spotify.com/track/1R6HnaqowOC7hAVfdd7dm1"
+    },
+    {
+      "album": {
         "name": "Harmony House",
         "url": "https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle"
       },
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 146390,
       "name": "Goodie Bag",
       "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 162608,
       "name": "Just A Little While",
       "url": "https://open.spotify.com/track/3CL0eXel8usNNSCQ6OT7KJ"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 147560,
       "name": "NO WAY!",
       "url": "https://open.spotify.com/track/6mh1v2YKd7cMe7ra7m37SB"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 233960,
       "name": "NW3",
       "url": "https://open.spotify.com/track/06mXSNndoxDKhzwFqt1GP6"
@@ -1599,7 +1617,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 147306,
       "name": "Slow",
       "url": "https://open.spotify.com/track/1V6SxaQW5X4WBWwMpGepof"

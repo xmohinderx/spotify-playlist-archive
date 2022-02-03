@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 267666,
       "name": "Acar\u00edciame",
       "url": "https://open.spotify.com/track/4drGRFC2Y197G9ZUty4wgW"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 145962,
       "name": "Amanecidas",
       "url": "https://open.spotify.com/track/0x5tlzZojby71L614PGzvo"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 185781,
       "name": "Apur\u00e9 Mi Caf\u00e9 - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/7tbablwEgks4a625msS2i2"
@@ -396,6 +396,24 @@
     },
     {
       "album": {
+        "name": "Como Tu Mujer",
+        "url": "https://open.spotify.com/album/061yihcD0WUCeOB1VmgdkW"
+      },
+      "artists": [
+        {
+          "name": "Tania Mondragon",
+          "url": "https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183549,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/46eGIBluKigQSjAiUhSxK2"
+    },
+    {
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
       },
@@ -533,7 +551,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 166066,
       "name": "Desaparecer",
       "url": "https://open.spotify.com/track/2nhIWTReHbwWJQaB0AJ5lh"
@@ -587,7 +605,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 185070,
       "name": "El \u00daltimo Trago",
       "url": "https://open.spotify.com/track/4FfxvqOOvnMTohiuI97IOr"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 177053,
       "name": "En Toda La Chapa",
       "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 192827,
       "name": "Hoy Dame el Gusto",
       "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "Las Mexicanas",
       "url": "https://open.spotify.com/track/6bNHCe28nsHobXYTIM1vHd"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 166933,
       "name": "Mala Racha",
       "url": "https://open.spotify.com/track/3Skq5ppANsqiSN6H6JAp3C"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 183946,
       "name": "Me Termin\u00e9 Enamorando",
       "url": "https://open.spotify.com/track/47vgK6LmWhBnfku8IywMm1"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 175688,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/4EJdS2IlMtkH9GHv9SAcze"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 216096,
       "name": "Mejor Me Voy",
       "url": "https://open.spotify.com/track/2nfZf1zElT1Us3mF9lXnhe"
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 267413,
       "name": "Mi Enemigo El Amor",
       "url": "https://open.spotify.com/track/4O1FsTNRMbwI5xm6ictTM3"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 215893,
       "name": "Mi Religi\u00f3n",
       "url": "https://open.spotify.com/track/6vYyt9OYS6HBT6wI3JP52s"
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 206000,
       "name": "Mi \u00danico Regalo",
       "url": "https://open.spotify.com/track/0Wl9IzjERfhblhfC9n4Cq3"
@@ -1527,7 +1545,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 183986,
       "name": "Ni Dios Lo Quiera",
       "url": "https://open.spotify.com/track/2YSFeITUSjryNJA9ERQMMP"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 151320,
       "name": "No Cualquiera",
       "url": "https://open.spotify.com/track/4Vz4r4bWkhkgQUjhs6huhM"
@@ -1617,7 +1635,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 182280,
       "name": "No Lo Vi Venir",
       "url": "https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 189964,
       "name": "No que no",
       "url": "https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP"
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 193066,
       "name": "No Te Dejes Enga\u00f1ar",
       "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 263546,
       "name": "Nos Equivocamos",
       "url": "https://open.spotify.com/track/3VWXZ8sDfUqviwRdK7NoBx"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 172013,
       "name": "Ovarios",
       "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
@@ -1881,7 +1899,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 144531,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/0VGHUbRgbbiMNcsE5QErKG"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 198102,
       "name": "Pobre Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 180160,
       "name": "Ponte Las Pilas",
       "url": "https://open.spotify.com/track/6iZ1Fd3YjhDek7nWZub395"
@@ -1993,7 +2011,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 156329,
       "name": "Que Facilito",
       "url": "https://open.spotify.com/track/1TW2q02eRkvbAol6smqoCC"

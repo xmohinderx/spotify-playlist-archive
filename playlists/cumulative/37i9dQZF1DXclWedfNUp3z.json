@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Timekeeper",
+        "url": "https://open.spotify.com/album/4xBGAlIlejqITTgDkOBDIy"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "1:17 PM",
+      "url": "https://open.spotify.com/track/7sX3ulXwDyyE5q5g8z3yUN"
+    },
+    {
+      "album": {
         "name": "Cicada Waves",
         "url": "https://open.spotify.com/album/4x027fiQuq8CqSCz02eTNp"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 382160,
       "name": "8pm Crickets",
       "url": "https://open.spotify.com/track/554sCd11tHjsLk57OkM6Dh"
@@ -77,7 +95,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 151764,
       "name": "A Ritual Study of the Phong Nha Cave",
       "url": "https://open.spotify.com/track/1iGnt81GTY848mNQhaFwCs"
@@ -113,7 +131,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 364476,
       "name": "Absolute Sensitivity",
       "url": "https://open.spotify.com/track/6EgHKLUAPtLqfvAVYx5PMr"
@@ -131,7 +149,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 236746,
       "name": "Afterrain",
       "url": "https://open.spotify.com/track/2NceltBWeS2qRzVVvz5TuT"
@@ -261,7 +279,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 644500,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 193907,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/0gopaBSZjH3RrnN35lhwzu"
@@ -561,7 +579,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 292800,
       "name": "COT2ON",
       "url": "https://open.spotify.com/track/6lMcrN9rMYh0AKMGQbE30j"
@@ -615,7 +633,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 95027,
       "name": "Descanso",
       "url": "https://open.spotify.com/track/4BpFpfhvmc76mQ4xsoHRma"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 311180,
       "name": "Dream World",
       "url": "https://open.spotify.com/track/7nm3diBRCGqzLMNT9aJPPQ"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 337265,
       "name": "Echo Affinity",
       "url": "https://open.spotify.com/track/42cbG4Op4sjhFEHagNsWqT"
@@ -875,7 +893,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 155653,
       "name": "Following The River",
       "url": "https://open.spotify.com/track/0rrzl2wTpwlNBAnVkYfhQE"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 93000,
       "name": "Forevertime Journeys",
       "url": "https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW"
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 188697,
       "name": "Gradual of Image",
       "url": "https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf"
@@ -1160,6 +1178,24 @@
     },
     {
       "album": {
+        "name": "Plant Music, Vol. 1",
+        "url": "https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Japanese Maple in the Afternoon (Raag Bhoopali)",
+      "url": "https://open.spotify.com/track/4qFElgC2kyt1KmSvPB43Hy"
+    },
+    {
+      "album": {
         "name": "Sleep Through the Storm",
         "url": "https://open.spotify.com/album/2cJUkDSiyikvlTBtM3Dekx"
       },
@@ -1243,7 +1279,7 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 180447,
       "name": "Landsort",
       "url": "https://open.spotify.com/track/2FjbXhMV77Qux09fcSDJma"
@@ -1287,10 +1323,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 268400,
       "name": "Le jardin",
       "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
+    },
+    {
+      "album": {
+        "name": "Lejano Oeste",
+        "url": "https://open.spotify.com/album/2i3Ax4EqW8pjtO4BXM81s2"
+      },
+      "artists": [
+        {
+          "name": "Datiles",
+          "url": "https://open.spotify.com/artist/0W6tQkNFv6a4j9Kpf5LFKv"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244540,
+      "name": "Lejano Oeste",
+      "url": "https://open.spotify.com/track/24n9wKgXFz07NdRQloaqiW"
     },
     {
       "album": {
@@ -1357,7 +1411,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 233200,
       "name": "Mandragora",
       "url": "https://open.spotify.com/track/2HNdhyCuwK8co2WJh5VvHT"
@@ -1375,7 +1429,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 224826,
       "name": "Mariposas",
       "url": "https://open.spotify.com/track/5z8GDA5pxCUPLtNY7ykAqw"
@@ -1429,7 +1483,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 401977,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/1C8TMLXojWgI87vacwQD3J"
@@ -1553,7 +1607,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 413993,
       "name": "Night Bunny",
       "url": "https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP"
@@ -1575,7 +1629,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 193937,
       "name": "Night Sky",
       "url": "https://open.spotify.com/track/6JQNc3kdDUTuSN4QpN9llS"
@@ -1687,7 +1741,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 321549,
       "name": "Passaddhi",
       "url": "https://open.spotify.com/track/75IhxSXhjzvi34ujxUiEwo"
@@ -1759,7 +1813,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 163000,
       "name": "Perennial Bloom",
       "url": "https://open.spotify.com/track/3DA8rIHh0707C3pwsbbuwH"
@@ -1795,7 +1849,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 678013,
       "name": "PHANTOM BRICKWORKS IV",
       "url": "https://open.spotify.com/track/4mxVWv4FnG2LMnD4pWNB0u"
@@ -1871,7 +1925,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 258777,
       "name": "Postscript",
       "url": "https://open.spotify.com/track/2IzGJOFFpV8C5MrIN4JEWr"
@@ -1889,7 +1943,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 688557,
       "name": "Pure Water",
       "url": "https://open.spotify.com/track/7jrLokdbNspz0vKkSHqiJx"
@@ -1997,7 +2051,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 577500,
       "name": "Roses Are Blue",
       "url": "https://open.spotify.com/track/3wUxE9yh357hRzB56zFGbD"
@@ -2015,7 +2069,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 257142,
       "name": "Royal Fern",
       "url": "https://open.spotify.com/track/7zPBfIRr0PWSkc2SO6xIJM"
@@ -2091,7 +2145,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 246781,
       "name": "Searching For Joy In The Season of Sorrow",
       "url": "https://open.spotify.com/track/03kU6xt9ejon33VJyn0hEH"
@@ -2127,7 +2181,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Silken Pt. 2.1",
       "url": "https://open.spotify.com/track/6rzDeRJStPBNFRho5sduJG"
@@ -2221,7 +2275,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 209646,
       "name": "Sistine (Plucks)",
       "url": "https://open.spotify.com/track/6HmtbuPgCApFCDKPmciwAq"
@@ -2239,7 +2293,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 182000,
       "name": "Social Fabric",
       "url": "https://open.spotify.com/track/6vg29wum2IoJmTUTF7ywKN"
@@ -2293,7 +2347,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 250648,
       "name": "Solar",
       "url": "https://open.spotify.com/track/4Mgq8E9ehbpUFAFxiEcwss"
@@ -2383,7 +2437,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 421463,
       "name": "Suite Pour L'invisible",
       "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
@@ -2527,7 +2581,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 159158,
       "name": "The Pillow Sisters",
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
@@ -2553,7 +2607,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 211920,
       "name": "Thus",
       "url": "https://open.spotify.com/track/6Kuue6voczzBMIbSBSinJ0"
@@ -2625,7 +2679,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 238235,
       "name": "Ultra Marine",
       "url": "https://open.spotify.com/track/2LJvEAXalgDaUvIKELmP8x"
@@ -2643,7 +2697,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 150588,
       "name": "Underwater Temples of Mahabalipuram",
       "url": "https://open.spotify.com/track/17D02dGk9OaLePiabFtJFf"
@@ -2665,7 +2719,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 133120,
       "name": "Unmo",
       "url": "https://open.spotify.com/track/2wQpl8D5EExuyARWBaoH1M"
@@ -2683,7 +2737,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 270870,
       "name": "Wake Me Softly",
       "url": "https://open.spotify.com/track/7JPzLU6ako27gbSXZGjQ62"
@@ -2723,7 +2777,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 264720,
       "name": "Wenn der s\u00fcdwind weht",
       "url": "https://open.spotify.com/track/4ypG73pPFsQAruIJyJbqSj"
@@ -2759,7 +2813,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 364114,
       "name": "Wind Tempos",
       "url": "https://open.spotify.com/track/4GKSQD4lm08ORPorzi2wOb"

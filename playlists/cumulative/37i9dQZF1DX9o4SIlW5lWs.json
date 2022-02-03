@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 207700,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 235767,
       "name": "Coraz\u00f3n, Corazoncito",
       "url": "https://open.spotify.com/track/4CpaWEOZCa4RA8ow8B75O2"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 243882,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/0rjqLLOngwqS41api7EipQ"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 202666,
       "name": "Ella Es Mi Todo",
       "url": "https://open.spotify.com/track/7MLFa0eKyW4FfDjXNY4Qnr"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 177533,
       "name": "Esa Malvada",
       "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
@@ -897,6 +897,24 @@
       "duration_ms": 189426,
       "name": "Escapate Conmigo",
       "url": "https://open.spotify.com/track/1qArUAxHiNOkigGwOLoMAF"
+    },
+    {
+      "album": {
+        "name": "Esperandote",
+        "url": "https://open.spotify.com/album/30lzvxFlN1pmaa0NqUSvZ1"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228401,
+      "name": "Esperandote",
+      "url": "https://open.spotify.com/track/1p8dnCh9eOPVARLbIrpPWV"
     },
     {
       "album": {
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 183066,
       "name": "Fuiste",
       "url": "https://open.spotify.com/track/4El1IIpdwvw1keVLr2oAnw"
@@ -1013,6 +1031,24 @@
       "duration_ms": 169213,
       "name": "Grabada en Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5QfJefR5mjd95r2764uMmV"
+    },
+    {
+      "album": {
+        "name": "Hasta el Amanecer",
+        "url": "https://open.spotify.com/album/6PmzZJxtyxQrlPIwzyPeyv"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes del Penal",
+          "url": "https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228472,
+      "name": "Hasta el Amanecer",
+      "url": "https://open.spotify.com/track/6sOxNeps1ULMAiIJRE1EJu"
     },
     {
       "album": {
@@ -1107,7 +1143,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 234257,
       "name": "La Almohada",
       "url": "https://open.spotify.com/track/12CKvZLUeSWW8YLKNmRmPo"
@@ -1259,7 +1295,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 211896,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
@@ -1385,7 +1421,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 236801,
       "name": "Muero por T\u00ed",
       "url": "https://open.spotify.com/track/6m4NW0zaih9VGpRDnsTbp4"
@@ -1475,7 +1511,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 190266,
       "name": "No Es Mi Despedida",
       "url": "https://open.spotify.com/track/4Eyw6tmKn3JHAlOBo60iQU"
@@ -1497,7 +1533,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 228565,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
@@ -1551,7 +1587,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 158600,
       "name": "No Me Digas Adios",
       "url": "https://open.spotify.com/track/3Q4WdLlnbft9r8RW4dR5Xs"
@@ -1905,7 +1941,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 248600,
       "name": "Se Que Llorar\u00e1s",
       "url": "https://open.spotify.com/track/1BK2BOFeuMd6RTTn38xzUE"
@@ -2129,7 +2165,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 79594,
       "name": "Tiene Espinas el Rosal",
       "url": "https://open.spotify.com/track/6p3lVBHIY9nHJgVaOoMLU6"
@@ -2147,7 +2183,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 191333,
       "name": "Tonta",
       "url": "https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU"
@@ -2237,7 +2273,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 205043,
       "name": "Un So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/50pB6rEpZ1aDV2clo97wvf"
@@ -2363,7 +2399,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 188966,
       "name": "Vengo de la Casa de Ella",
       "url": "https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC"
@@ -2641,7 +2677,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 208042,
       "name": "\u00bfQuieres Ser Mi Amante?",
       "url": "https://open.spotify.com/track/3j8KqAjYT9nA993cJbcbQi"

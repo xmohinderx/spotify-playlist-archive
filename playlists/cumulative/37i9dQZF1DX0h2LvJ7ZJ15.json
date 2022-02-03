@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 187804,
       "name": "6 A.M (Slowed and Reverb)",
       "url": "https://open.spotify.com/track/75LBctBE74I7q9jKyq8JPb"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 204000,
       "name": "Are You Lying To Your Therapist About Being Sober Again? Yes. - slowed + reverb",
       "url": "https://open.spotify.com/track/1OXZ6BMqdf1KOIIzMiY014"
@@ -291,7 +291,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153264,
-      "name": "Bananza (Belly Dancer) - Xxtristanxo Slowed Remix",
+      "name": "Bananza (Belly Dancer) - Slowed",
       "url": "https://open.spotify.com/track/5lEx9Oo3tMyP85ppH43Uar"
     },
     {
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 60099,
       "name": "beauty bomb (slowed + reverbed)",
       "url": "https://open.spotify.com/track/53NzMfJ0LsqG4myQp28ETk"
@@ -590,6 +590,28 @@
     },
     {
       "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/2WjTieDvN4poKvJMyQcAP5"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Chill Fruits Music",
+          "url": "https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/2VQa5cBJCYWrmqZYg17ii3"
+    },
+    {
+      "album": {
         "name": "edibles (slowed + reverb)",
         "url": "https://open.spotify.com/album/7afDTNgtfVUFiKG3d0SSys"
       },
@@ -841,7 +863,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 237361,
       "name": "Happy Endings (feat. iann dior and UPSAHL) - slowed + reverb",
       "url": "https://open.spotify.com/track/0YhbiKLcr7Qd0rnpeamGNX"
@@ -921,7 +943,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
@@ -1203,7 +1225,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 177080,
       "name": "Not Into You {slow//reverb} - Remix",
       "url": "https://open.spotify.com/track/3jQkpibAH6KQi0Nmq5Js5D"
@@ -1239,7 +1261,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 226530,
       "name": "Peli - slowed version",
       "url": "https://open.spotify.com/track/7IerycLUFnFc2IhNpDPFC5"
@@ -1283,7 +1305,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 83345,
       "name": "psychic (reverbed)",
       "url": "https://open.spotify.com/track/6gcMjqMoz73UzHVquPHWt7"
@@ -1451,7 +1473,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 134013,
       "name": "Shhh (Pew Pew) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/24HKaFw0tAfvGiq03KRNje"

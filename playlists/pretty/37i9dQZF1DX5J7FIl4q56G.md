@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Meshuggah
 
-[Spotify](https://open.spotify.com/user/spotify) - 568,825 likes - 99 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 568,980 likes - 99 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

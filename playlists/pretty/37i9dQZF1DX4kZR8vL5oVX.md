@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Vendredi sur Mer
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,026 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,243 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,6 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 46 | [Bye\-Bye Baby](https://open.spotify.com/track/2nRcjVMtrSDMSqj4LFTjHt) | [PHILEMONE](https://open.spotify.com/artist/3LOWKRgEP5aPBmcLvaIqu4) | [Bye\-Bye Baby](https://open.spotify.com/album/3o4vcT39rDPfJPkFNtGQjD) | 2:57 |
 | 47 | [L'éternité](https://open.spotify.com/track/3HXsqFzc0FNHlUeixRwNbm) | [Maud Lübeck](https://open.spotify.com/artist/4IBVixLpdQQyQjvB1PIAoj) | [L'éternité](https://open.spotify.com/album/0mxOdzoS027e2UcAa4VAvR) | 3:03 |
 | 48 | [J'me disais bien](https://open.spotify.com/track/5ZUCvczOjSlub3x6Kz84T6) | [Maddly](https://open.spotify.com/artist/1fjyUw7rcYwd8hud3euR1t) | [J'me disais bien](https://open.spotify.com/album/4Y2EyLO3mOzbL1G31mvThx) | 4:10 |
-| 49 | [See Me Now](https://open.spotify.com/track/3G3Cw4ktGVreHis8mNfrg8) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [See Me Now](https://open.spotify.com/album/03xP1ERab9Fzl2Wpww944P) | 3:31 |
+| 49 | [Break](https://open.spotify.com/track/0mrvIcsZNy6cwhfDe5KGdX) | [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [Break](https://open.spotify.com/album/6EZJOktadaCScpgrePUlGV) | 3:49 |
+| 50 | [See Me Now](https://open.spotify.com/track/3G3Cw4ktGVreHis8mNfrg8) | [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [See Me Now](https://open.spotify.com/album/03xP1ERab9Fzl2Wpww944P) | 3:31 |
 
 Snapshot ID: `MTY0Mzc1NjQwMCwwMDAwMDA2ZTAwMDAwMTdlYjc4NDJkZGMwMDAwMDE3ZTU3M2FhOTAw`

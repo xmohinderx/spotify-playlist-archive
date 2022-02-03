@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 262960,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/0gTFo2Va6oImBxUZOEOg9T"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 262800,
       "name": "Dance Into The Light",
       "url": "https://open.spotify.com/track/4oKHWJpgJKHcBvqyUNYQey"
@@ -600,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227266,
+      "name": "Men In Black - From \"Men In Black\" Soundtrack",
+      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+    },
+    {
+      "album": {
         "name": "Like The Deserts Miss The Rain",
         "url": "https://open.spotify.com/album/3fZbJRKdX4TAoC43xo5kWK"
       },
@@ -629,7 +647,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 315280,
       "name": "New York City Boy - 2017 Remaster",
       "url": "https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 258200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
@@ -687,7 +705,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 283426,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9"
@@ -741,7 +759,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 240493,
       "name": "Sight for Sore Eyes",
       "url": "https://open.spotify.com/track/0EHIEIJq0Tskc6YPNViMFv"
@@ -939,7 +957,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 224933,
       "name": "Too Funky - Single Edit",
       "url": "https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi"

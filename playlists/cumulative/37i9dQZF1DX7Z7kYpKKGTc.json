@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 394600,
       "name": "Bed Of Roses",
       "url": "https://open.spotify.com/track/5MWfGxvRpRrcOw21rqoJUP"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 235826,
       "name": "Here for You",
       "url": "https://open.spotify.com/track/2HHF8es4MShLvMiDgOq3Z5"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 288266,
       "name": "I Don't Want to Talk About It - 2008 Remaster",
       "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 293306,
       "name": "I Won't Hold You Back",
       "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
@@ -960,6 +960,24 @@
     },
     {
       "album": {
+        "name": "Edge Of The Century",
+        "url": "https://open.spotify.com/album/6dLlnu5TPxD74g7w8SfnqF"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277173,
+      "name": "Show Me The Way",
+      "url": "https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD"
+    },
+    {
+      "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 252600,
       "name": "Will You Still Love Me? - 2003 Remaster",
       "url": "https://open.spotify.com/track/3dn6qXlHYAQpOqMTWxkGOR"

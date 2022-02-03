@@ -48,20 +48,24 @@
     },
     {
       "album": {
-        "name": "Antarktyda",
+        "name": "Antarktyda (prod. sedguy)",
         "url": "https://open.spotify.com/album/57amdXj0xAZGNpRYrnt9ti"
       },
       "artists": [
         {
           "name": "bryska",
           "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        },
+        {
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
         }
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 172038,
-      "name": "Antarktyda",
+      "name": "Antarktyda (prod. sedguy)",
       "url": "https://open.spotify.com/track/5m09LYwV7dSwkt36aVHJiq"
     },
     {

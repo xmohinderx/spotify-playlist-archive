@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: MaZz",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Theo Bleak",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -23,6 +23,24 @@
       "duration_ms": 228798,
       "name": "5am in tokyo",
       "url": "https://open.spotify.com/track/6QUvXswOZGneJSqGnKSJCe"
+    },
+    {
+      "album": {
+        "name": "acceptance",
+        "url": "https://open.spotify.com/album/2kmkFFCsPR5G9HpelajrXs"
+      },
+      "artists": [
+        {
+          "name": "poolsideconvo",
+          "url": "https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311978,
+      "name": "acceptance",
+      "url": "https://open.spotify.com/track/0hXKwRpwWlhq1wKvntu6j0"
     },
     {
       "album": {
@@ -167,7 +185,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 219266,
       "name": "anybody else but u",
       "url": "https://open.spotify.com/track/1nGjkxMWBfQCQXN1qFOkas"
@@ -373,7 +391,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 164108,
       "name": "Cure My Thoughts",
       "url": "https://open.spotify.com/track/1rJnfPXBVSOMG22LoRjpd4"
@@ -571,7 +589,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 190217,
       "name": "Feels Like Rain",
       "url": "https://open.spotify.com/track/4qt6gCrYbMHGGdiXN6tj6G"
@@ -742,6 +760,24 @@
     },
     {
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Oakley",
+          "url": "https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226761,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm"
+    },
+    {
+      "album": {
         "name": "Good Grief",
         "url": "https://open.spotify.com/album/7AzUeGELGXMH5zj6ZwJaYf"
       },
@@ -832,6 +868,24 @@
     },
     {
       "album": {
+        "name": "Hope That You Know",
+        "url": "https://open.spotify.com/album/7spvHspcAR3gji9Yf54zdD"
+      },
+      "artists": [
+        {
+          "name": "Rosesleeves",
+          "url": "https://open.spotify.com/artist/6C5SxIdYMB0Yw8eLjlVtX4"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176223,
+      "name": "Hope That You Know",
+      "url": "https://open.spotify.com/track/2M2b0V0CvV8KtwI9kEqaYk"
+    },
+    {
+      "album": {
         "name": "House of Cards",
         "url": "https://open.spotify.com/album/7Ar5VPj9yQRgSSj2wrS4B4"
       },
@@ -865,6 +919,24 @@
       "duration_ms": 240775,
       "name": "Howl",
       "url": "https://open.spotify.com/track/0nrFn1cwR9bzTbtwvWZQ0F"
+    },
+    {
+      "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/5nxNSzL9SrsCgJ5Qy3SlIg"
+      },
+      "artists": [
+        {
+          "name": "Izzi De-Rosa",
+          "url": "https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142013,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/7jBx0JhLqK0g3bYvL61f3U"
     },
     {
       "album": {
@@ -933,7 +1005,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 172785,
       "name": "I thought this would be a love song",
       "url": "https://open.spotify.com/track/1fNeZaIvC7qqCjV9UUvCrY"
@@ -973,6 +1045,24 @@
       "duration_ms": 170657,
       "name": "In my bed",
       "url": "https://open.spotify.com/track/6DYoBEquvxExgjZqvwM2Zq"
+    },
+    {
+      "album": {
+        "name": "Inmymind",
+        "url": "https://open.spotify.com/album/3PyqCDkVxctYNvtX8ad4t6"
+      },
+      "artists": [
+        {
+          "name": "rebel",
+          "url": "https://open.spotify.com/artist/3XSsYrlyLvgQWSZeQgtSCh"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "Inmymind",
+      "url": "https://open.spotify.com/track/08pxqMFDdYJE67t895B9BU"
     },
     {
       "album": {
@@ -1285,10 +1375,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 174000,
       "name": "Maybe I Could Tell You",
       "url": "https://open.spotify.com/track/6OezoHtPWWnBoT3zJBuGIe"
+    },
+    {
+      "album": {
+        "name": "Meat Teeth",
+        "url": "https://open.spotify.com/album/4Zp4EmO3JWb6iVkkJgded3"
+      },
+      "artists": [
+        {
+          "name": "Benefits",
+          "url": "https://open.spotify.com/artist/5nrO8X72nFeyu3sqYIkskQ"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246680,
+      "name": "Meat Teeth",
+      "url": "https://open.spotify.com/track/36bxycOoxHjSIZasoQ5T2b"
     },
     {
       "album": {
@@ -1364,6 +1472,42 @@
     },
     {
       "album": {
+        "name": "Mountaineer",
+        "url": "https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7"
+      },
+      "artists": [
+        {
+          "name": "Arliston",
+          "url": "https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221875,
+      "name": "Mountaineer",
+      "url": "https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3"
+    },
+    {
+      "album": {
+        "name": "Mulan",
+        "url": "https://open.spotify.com/album/5o9dIQWCjJUKvpupBJI3I6"
+      },
+      "artists": [
+        {
+          "name": "DEJA",
+          "url": "https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125124,
+      "name": "Mulan",
+      "url": "https://open.spotify.com/track/6qFXKHzPTS4gb8YDpcbBDT"
+    },
+    {
+      "album": {
         "name": "NAVIG8",
         "url": "https://open.spotify.com/album/3srIuYTxvTeOAeRvVY5rd6"
       },
@@ -1375,7 +1519,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 240881,
       "name": "NAVIG8",
       "url": "https://open.spotify.com/track/0I6nogmnP5r3P2CROkREGE"
@@ -1526,6 +1670,24 @@
     },
     {
       "album": {
+        "name": "PEACE",
+        "url": "https://open.spotify.com/album/0puny5TtbVy1B1fw9i2o8X"
+      },
+      "artists": [
+        {
+          "name": "Distance Learning",
+          "url": "https://open.spotify.com/artist/0QYMpYHo80SIAEdOJ70GPd"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157840,
+      "name": "PEACE",
+      "url": "https://open.spotify.com/track/2JhvPbdeynxzLYRPtX5GH1"
+    },
+    {
+      "album": {
         "name": "Perfect Guy",
         "url": "https://open.spotify.com/album/3NCJ8XlsTjzgZPskC7TBbM"
       },
@@ -1544,6 +1706,42 @@
     },
     {
       "album": {
+        "name": "Pizza",
+        "url": "https://open.spotify.com/album/2JDNf4nxadDaFrIxrwQR8Q"
+      },
+      "artists": [
+        {
+          "name": "RALFY",
+          "url": "https://open.spotify.com/artist/7yWj2uwUg97MWT22i1GmWy"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210750,
+      "name": "Pizza",
+      "url": "https://open.spotify.com/track/1x40V7AwLM9deNunj9bwU9"
+    },
+    {
+      "album": {
+        "name": "Precision",
+        "url": "https://open.spotify.com/album/3wCuypR5b9GBhrK2f1hGay"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179337,
+      "name": "Precision",
+      "url": "https://open.spotify.com/track/6LiymK22664km6IxxgQ5w5"
+    },
+    {
+      "album": {
         "name": "Purpose",
         "url": "https://open.spotify.com/album/4XpA1UvAGMmiiLxiSZ8KHK"
       },
@@ -1555,7 +1753,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 209999,
       "name": "Purpose",
       "url": "https://open.spotify.com/track/44lqF8svQ9RtrFUma11KVf"
@@ -1595,7 +1793,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 217800,
       "name": "R U Down?",
       "url": "https://open.spotify.com/track/1WEmTxKp74BdR7BC88enrH"
@@ -1613,7 +1811,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 184298,
       "name": "R$ch B$tch",
       "url": "https://open.spotify.com/track/336ch5UuYMLx0IK8HN9mvp"
@@ -1793,7 +1991,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 144347,
       "name": "SMOKING KILLS",
       "url": "https://open.spotify.com/track/78rxyYb4ZaW3gtzgFANyCJ"
@@ -1847,7 +2045,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 354000,
       "name": "Soulo",
       "url": "https://open.spotify.com/track/27glZwjryJw1w2Zh2RlfnU"
@@ -2029,7 +2227,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 125638,
       "name": "U Got Me",
       "url": "https://open.spotify.com/track/6emGrwPWPyhElz48KkWiaz"
@@ -2171,6 +2369,24 @@
       "duration_ms": 245217,
       "name": "You Don't Get Me High Anymore",
       "url": "https://open.spotify.com/track/7EK3dE4L4eV6kfiQxDDQTh"
+    },
+    {
+      "album": {
+        "name": "You're Not Even Really Here",
+        "url": "https://open.spotify.com/album/5MyxkyoaehKqtH6HdIjDr3"
+      },
+      "artists": [
+        {
+          "name": "Theo Bleak",
+          "url": "https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234840,
+      "name": "You're Not Even Really Here",
+      "url": "https://open.spotify.com/track/1MlmQpio9djJPaSzUFD2gc"
     },
     {
       "album": {

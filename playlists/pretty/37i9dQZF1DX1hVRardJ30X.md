@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Ricky Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,887 likes - 55 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,919 likes - 55 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 38 | [Mi Corrido](https://open.spotify.com/track/5l6eB9hu5ymOl7nrk864qy) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Mi Corrido](https://open.spotify.com/album/4fXcpTffHRB8EwUUeG22dn) | 3:38 |
 | 39 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
 | 40 | [Piedra, Papel o Tijera](https://open.spotify.com/track/7qnVHPRWUBTR7f9nMvQG9S) | [Malucci](https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO) | [Piedra, Papel o Tijera](https://open.spotify.com/album/3tlVRO1Qf78bQNb4cYRaX3) | 2:54 |
-| 41 | [STEPHANIE](https://open.spotify.com/track/4yw1WSGOuFJoXlB6nYykSV) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [JC Arcila](https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV), [Baztez](https://open.spotify.com/artist/7uo0tMv26OTwTColxEqotB), [Jaudy](https://open.spotify.com/artist/482w6SuAShFPgge3PuRmO3) | [STEPHANIE](https://open.spotify.com/album/734tYKjNzK9lrOm4vJazBi) | 4:30 |
+| 41 | [STEPHANIE](https://open.spotify.com/track/4yw1WSGOuFJoXlB6nYykSV) | [DJ PEREIRA](https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD), [JC Arcila](https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV), [Jaudy](https://open.spotify.com/artist/482w6SuAShFPgge3PuRmO3), [Baztez](https://open.spotify.com/artist/7uo0tMv26OTwTColxEqotB) | [STEPHANIE](https://open.spotify.com/album/734tYKjNzK9lrOm4vJazBi) | 4:30 |
 | 42 | [Si Fueras](https://open.spotify.com/track/55IpebbHpOQx9ezis0bcew) | [Crazy Rocco](https://open.spotify.com/artist/6INXV4Htqpyz5NyHquSKxd), [GRECIA](https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw) | [Si Fueras](https://open.spotify.com/album/3s9aDgVnM11WzwV7hdq1lK) | 3:15 |
 | 43 | [Asesino \(feat\. Puri\)](https://open.spotify.com/track/2BsAjEvuw3PBoRr1T83hdH) | [Elpatron970](https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [MULTIPLICA](https://open.spotify.com/artist/0xpeO4zfSgXtpZi7NdId69), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Asesino \(feat\. Puri\)](https://open.spotify.com/album/6Hs1A0vzKFvnHn6I7Fe0Vl) | 2:46 |
 | 44 | [Sacudelo Challenge](https://open.spotify.com/track/3AGtdnpqqwBgSbHosi4CGl) | [R.K.M.](https://open.spotify.com/artist/1g9s0VQvScNH2eh7JCbzUu) | [Sacudelo Challenge](https://open.spotify.com/album/4vjFxyxIEReFKnqf6fuiBm) | 2:39 |

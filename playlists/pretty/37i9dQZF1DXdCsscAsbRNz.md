@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 
 > Peaceful instrumentals to help you keep calm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,394 likes - 280 songs - 13 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,437 likes - 280 songs - 13 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdCsscAsbRNz.md) - [plain]
 | 117 | [Alteration For Life](https://open.spotify.com/track/3T8EFeyuU6WEKgF4tpggDd) | [Penny Layn](https://open.spotify.com/artist/5vdwMnlyiOSVdpoabkKwjy) | [Days of Tomorrow](https://open.spotify.com/album/7J0vzQvMdrRP04BNHge7pH) | 2:46 |
 | 118 | [Saorsa](https://open.spotify.com/track/0wmllTG9uDe4kCBwGsQi7C) | [Zoltan Granosh](https://open.spotify.com/artist/2Gsns5NInNwsauuIXU3T4g) | [Xyst](https://open.spotify.com/album/4n7NhKvTUcsW8MXhlCp0CB) | 2:31 |
 | 119 | [Ocean Deep](https://open.spotify.com/track/7uHM2BSftyHsPLIOGB9oY7) | [MAVALA](https://open.spotify.com/artist/7v6MC0U94altKRU8VGL0j8) | [Ocean Deep](https://open.spotify.com/album/341k8e5u1rQ6xuDPqOIc2u) | 2:35 |
-| 120 | [Promise of Sleep](https://open.spotify.com/track/2QEHcsBQREcE989pKQPviK) | [Majestic Sleep](https://open.spotify.com/artist/1AmJvY5Oy8pwejhrUMqB0o) | [Magnificent Beauty](https://open.spotify.com/album/2y6AU22qgrZOJgBqs9bONp) | 2:50 |
+| 120 | [Promise of Sleep](https://open.spotify.com/track/2QEHcsBQREcE989pKQPviK) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Magnificent Beauty](https://open.spotify.com/album/2y6AU22qgrZOJgBqs9bONp) | 2:50 |
 | 121 | [Sailing Through Our Night](https://open.spotify.com/track/0vbKO2YqTAoyjBzjLMpIOX) | [Milford Keynes](https://open.spotify.com/artist/7q7lOOGnChjRBjZ8yDGSC1) | [Sailing Through Our Night](https://open.spotify.com/album/3EQXfScxlCCbJLlH3CVRFn) | 2:13 |
 | 122 | [Phosphenes](https://open.spotify.com/track/7zCXE5rdGmk2YzsSWuhO8I) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Phosphenes](https://open.spotify.com/album/5gjWfsOxuWUuxt63LiuuAh) | 3:00 |
 | 123 | [Little Nocturne](https://open.spotify.com/track/0kCPKFSme4AMah0o6CJMPz) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Siesta](https://open.spotify.com/album/4e1cIbl8RzlZTekDctsAwm) | 1:38 |

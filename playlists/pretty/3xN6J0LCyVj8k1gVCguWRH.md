@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes 2020 edition &amp; bonuses\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,217 likes - 116 songs - 7 hr 20 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,201 likes - 116 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

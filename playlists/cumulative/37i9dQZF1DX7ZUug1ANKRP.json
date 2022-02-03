@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Peak-time bangers and emerging future hits. Cover: Harris & Ford",
+  "description": "Peak-time bangers and emerging future hits. Cover: Luude",
   "name": "Main Stage",
   "published_playlist_ids": [
     "4Sc3vClwMPjm8ROhpN4cCx"
@@ -380,6 +380,28 @@
     },
     {
       "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/7n8VDH3a8qu9yB8JfagRpO"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174154,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4zLdEpeSd3PxfkZzkZb46C"
+    },
+    {
+      "album": {
         "name": "Dead Or Alive",
         "url": "https://open.spotify.com/album/1iELNSuo6I77ZYPo8BJl3o"
       },
@@ -718,6 +740,36 @@
     },
     {
       "album": {
+        "name": "In Your Arms (For An Angel)",
+        "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        },
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150476,
+      "name": "In Your Arms (For An Angel)",
+      "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
+    },
+    {
+      "album": {
         "name": "kunterbunt",
         "url": "https://open.spotify.com/album/76JWwHeDCQYMUdj9dl1lBO"
       },
@@ -821,7 +873,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 157894,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/4fkFsB17kyzq27QhOVt19V"
@@ -1023,7 +1075,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 147310,
       "name": "OMG",
       "url": "https://open.spotify.com/track/56ZD9IVl8khgd6GVDN0ic4"
@@ -1452,6 +1504,28 @@
     },
     {
       "album": {
+        "name": "The Lone Ranger",
+        "url": "https://open.spotify.com/album/3tkyV2SZsHRE8GZ9SkCIVP"
+      },
+      "artists": [
+        {
+          "name": "NWYR",
+          "url": "https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156923,
+      "name": "The Lone Ranger",
+      "url": "https://open.spotify.com/track/12KMoAMzaeBFh91O5sxP2o"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -1559,7 +1633,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 141312,
       "name": "Typical (feat. Lars Martin)",
       "url": "https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob"

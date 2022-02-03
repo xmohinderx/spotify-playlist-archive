@@ -61,7 +61,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 422053,
       "name": "African Blues",
       "url": "https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV"
@@ -79,7 +79,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 408189,
       "name": "Ali Ben Hamdouch",
       "url": "https://open.spotify.com/track/6n2yPHqYi8k5mR8sUhTqJ4"
@@ -115,7 +115,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 324205,
       "name": "Allah ya so",
       "url": "https://open.spotify.com/track/16KO2soQytOZYMKzEtopOw"
@@ -212,6 +212,28 @@
     },
     {
       "album": {
+        "name": "Oulad Lghaba",
+        "url": "https://open.spotify.com/album/7KFO8lh8gdpTcVdHv3UFKN"
+      },
+      "artists": [
+        {
+          "name": "Asmaa Hamzaoui",
+          "url": "https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k"
+        },
+        {
+          "name": "Bnat Timbouktou",
+          "url": "https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337693,
+      "name": "Bala Yourki",
+      "url": "https://open.spotify.com/track/5DV8zNhA6TAE8NWInyJD5x"
+    },
+    {
+      "album": {
         "name": "Exile",
         "url": "https://open.spotify.com/album/6OZheEwdy4ckrFIYUM6X2C"
       },
@@ -223,7 +245,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 179640,
       "name": "Bambala",
       "url": "https://open.spotify.com/track/1MRufqwOqcz0tVPlymfIEi"
@@ -263,7 +285,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 323615,
       "name": "Bangara",
       "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
@@ -341,7 +363,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 379744,
       "name": "Baniya",
       "url": "https://open.spotify.com/track/0dL5X4UqGdw2jt3DNDUj6T"
@@ -359,7 +381,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 323848,
       "name": "Baniyorkoy",
       "url": "https://open.spotify.com/track/6ISbel4AdYheOCO65DX94A"
@@ -507,7 +529,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 832840,
       "name": "Chorfa",
       "url": "https://open.spotify.com/track/0nmDCBvIy4gDP1fyDInu1I"
@@ -525,7 +547,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 474333,
       "name": "El Ghaba",
       "url": "https://open.spotify.com/track/1nY3pSoPw1OisHDjoPGXNa"
@@ -579,7 +601,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 400744,
       "name": "Finkoum Ya Albouhala",
       "url": "https://open.spotify.com/track/3tasYylFyl52FR6Py5lPAB"
@@ -821,7 +843,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 292520,
       "name": "Marhaba",
       "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"
@@ -953,7 +975,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 362093,
       "name": "Mrahba",
       "url": "https://open.spotify.com/track/2zKuTLrINginlVwg75onMg"
@@ -975,7 +997,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-03",
       "duration_ms": 541653,
       "name": "Salat al Nabi",
       "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
@@ -1139,7 +1161,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 294763,
       "name": "Soudani Manayou",
       "url": "https://open.spotify.com/track/2erBxmWBvqxXqQiGo4Sp8q"
@@ -1157,7 +1179,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 293600,
       "name": "Tabey Tarate",
       "url": "https://open.spotify.com/track/5AufVqlW1U4T81LZkQ1KRA"

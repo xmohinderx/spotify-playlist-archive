@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Listen to Greek women at full volume\. Cover: Eleonora Zouganeli
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,695 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,709 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Paraxeni Vrohi \(Soma Ypotagis\)](https://open.spotify.com/track/6b9bCWsSFlTaMfhtKoCQcW) | [Eleonora Zouganeli](https://open.spotify.com/artist/0vLoXqcGEpgOgmCYshRsKt) | [Parto Allios](https://open.spotify.com/album/1t0U4f1m1msA1rYojRAvXp) | 3:50 |
+| 1 | [Petaxa](https://open.spotify.com/track/7HrGEamsnOrk71JWLKWYo3) | [Eleonora Zouganeli](https://open.spotify.com/artist/0vLoXqcGEpgOgmCYshRsKt) | [Petaxa](https://open.spotify.com/album/4NF6j1nQ3XbWCtj4KEY4mZ) | 4:11 |
 | 2 | [Amarties](https://open.spotify.com/track/7AaxFtkinG6n5fw6ZUuxHE) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Amarties](https://open.spotify.com/album/0NkYD3ByHYn3i0iTMPzHHu) | 2:45 |
 | 3 | [Wait No More](https://open.spotify.com/track/2RL7cyEnYih7ijPyFKrvOu) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [Wait No More](https://open.spotify.com/album/7jE8K2wH3tBBGSXJhfa5lb) | 2:24 |
 | 4 | [Of Time](https://open.spotify.com/track/1sTCddu1UJUspP9kNrBwa3) | [Katerine Duska](https://open.spotify.com/artist/40tNdcLMkz7RoHcykLSNwB) | [Of Time](https://open.spotify.com/album/4uKvM9Y5cKwS882IH55qUb) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Gia Pia Agapi](https://open.spotify.com/track/6GlFoaOI72lxrmhWBOtFu5) | [Helena Paparizou](https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK) | [Gia Pia Agapi](https://open.spotify.com/album/1ojT65aRHA2q8UY4xfsFbb) | 3:26 |
 | 50 | [Ki As Ehis Figi](https://open.spotify.com/track/3wv3UGKZuJ3IziGonyG2SK) | [Despina Olympiou](https://open.spotify.com/artist/30hCtgi8aveay3j5jdN5bI) | [Ki As Ehis Figi](https://open.spotify.com/album/2Cltoh1PPKsrrMHWwqSIzN) | 3:12 |
 
-Snapshot ID: `MTY0Mzc1MjgwMCwwMDAwMDAxMjAwMDAwMTdlYjc0ZDQxMzIwMDAwMDE3ZTFmOWVlMjc5`
+Snapshot ID: `MTY0Mzc5ODY3OCwwMDAwMDAxMzAwMDAwMTdlYmEwOTRiYmIwMDAwMDE3ZTFmOWVlMjc5`

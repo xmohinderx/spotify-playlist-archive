@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Mx8sjx0nW.md) - [plain]
 
 > Current country music and artists making noise on Spotify\. Featuring: Dalton Dover
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,626 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,623 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

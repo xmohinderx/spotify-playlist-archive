@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Sarsa
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,019 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,147 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 2 | [Nucę to od lat](https://open.spotify.com/track/4pPj5faueYByaemvbKViEA) | [Klaudia Szafrańska](https://open.spotify.com/artist/5KQOO1nMW2y16wX56EDZep), [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [Nucę to od lat](https://open.spotify.com/album/7zgk0fonkCMcxC78y0RzgY) | 3:14 |
 | 3 | [Wystarczy \(ING \| Projekt Zero Waste\)](https://open.spotify.com/track/0SKhzClnBWlBL84JHMWfjP) | [Nosowska](https://open.spotify.com/artist/0GykMtlKoc68Hj2jwZLXul) | [Wystarczy \(ING \| Projekt Zero Waste\)](https://open.spotify.com/album/4axRFgPiBDvXQcBrbLcEOU) | 2:02 |
 | 4 | [Na skróty](https://open.spotify.com/track/1eD30CVBMjfXnhFTPcNyOn) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Na skróty](https://open.spotify.com/album/0RHBRDZZinBgu9n3J28op5) | 2:27 |
-| 5 | [Antarktyda](https://open.spotify.com/track/5m09LYwV7dSwkt36aVHJiq) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Antarktyda](https://open.spotify.com/album/57amdXj0xAZGNpRYrnt9ti) | 2:52 |
+| 5 | [Antarktyda \(prod\. sedguy\)](https://open.spotify.com/track/5m09LYwV7dSwkt36aVHJiq) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh), [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Antarktyda \(prod\. sedguy\)](https://open.spotify.com/album/57amdXj0xAZGNpRYrnt9ti) | 2:52 |
 | 6 | [Pętla](https://open.spotify.com/track/3U0RksRf5UWIbNyOZdcDs9) | [Natalia Nykiel](https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj) | [Pętla](https://open.spotify.com/album/56Ltk6jRklV7ELFLFCRyrQ) | 3:35 |
 | 7 | [Mętlik](https://open.spotify.com/track/44fKOwxgepvQoL170ffP9F) | [Sophie Szklarska](https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan) | [Mętlik](https://open.spotify.com/album/0FcDuooVZS7mab210eXuZk) | 3:20 |
 | 8 | [Zew](https://open.spotify.com/track/1rXTQ8TgC9R6ENxFwXMZyK) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x) | [Zew](https://open.spotify.com/album/6GDQXxPZPfJhi5qrsYkMYS) | 3:46 |
