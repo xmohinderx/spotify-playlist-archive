@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 124979,
       "name": "Abbotsbury",
       "url": "https://open.spotify.com/track/3pagZPFqFtaunRgnimseRR"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 192409,
       "name": "Amaprinces Bend",
       "url": "https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 197555,
       "name": "Beneath the Surface",
       "url": "https://open.spotify.com/track/5JadUKeKPDTwUXQL0p3GwJ"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 153000,
       "name": "Creeks",
       "url": "https://open.spotify.com/track/2C6ljUnXSMfkcXlExb7xia"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 162478,
       "name": "More than Close",
       "url": "https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2"
@@ -1179,7 +1179,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 152500,
       "name": "Placid",
       "url": "https://open.spotify.com/track/1u3h3PCvrzTSCSPhCiQH3Q"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 141124,
       "name": "Progression",
       "url": "https://open.spotify.com/track/4GkIVom3wSy41JEql2fQ72"
@@ -1467,7 +1467,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 131572,
       "name": "Sehnsucht",
       "url": "https://open.spotify.com/track/0RHryrCt4Ocibra3gYkF7v"
@@ -1525,7 +1525,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 135250,
       "name": "Sol",
       "url": "https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C"
@@ -1835,10 +1835,28 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 101048,
       "name": "Theme from Lazarus",
       "url": "https://open.spotify.com/track/0kaL2ZHjstKZWu9MxWt3mb"
+    },
+    {
+      "album": {
+        "name": "To Be Loved",
+        "url": "https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS"
+      },
+      "artists": [
+        {
+          "name": "Day Blue",
+          "url": "https://open.spotify.com/artist/1QIarBiWF3tRs6a1CXzN5w"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE"
     },
     {
       "album": {
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 124029,
       "name": "Valverde",
       "url": "https://open.spotify.com/track/5G1xgH1zCwWF4f5aIOUksB"

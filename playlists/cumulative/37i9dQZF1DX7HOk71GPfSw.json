@@ -7214,6 +7214,24 @@
     },
     {
       "album": {
+        "name": "witchpop",
+        "url": "https://open.spotify.com/album/0Eh9Wxiz3Jdj4ciWb0MvNC"
+      },
+      "artists": [
+        {
+          "name": "Siouxxie",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "girl online",
+      "url": "https://open.spotify.com/track/3BMaGHQximpMug2xrp6TdI"
+    },
+    {
+      "album": {
         "name": "Girlboss",
         "url": "https://open.spotify.com/album/5GghlFmwRaWiKx00Qmgp2m"
       },

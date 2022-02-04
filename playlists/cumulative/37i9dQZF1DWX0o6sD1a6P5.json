@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover:  Tayc",
+  "description": "Feel-good Afropop from Europe and Africa. Cover:  1da Banton",
   "name": "Afro Hits",
   "published_playlist_ids": [
     "1dEBeASsRuQMcB6nFV6Y3W"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 365320,
       "name": "C\u0153ur de pirate",
       "url": "https://open.spotify.com/track/6EGBu77U6DUhYvdHyuo0c8"
@@ -648,6 +648,24 @@
     },
     {
       "album": {
+        "name": "LCLM :Pr\u00e9lude",
+        "url": "https://open.spotify.com/album/5Smc7egcDfbXo06o1nqFXz"
+      },
+      "artists": [
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187546,
+      "name": "Es-tu pr\u00eate",
+      "url": "https://open.spotify.com/track/76CfecqLieILwUiABOrGQv"
+    },
+    {
+      "album": {
         "name": "Everyday (feat. Driks)",
         "url": "https://open.spotify.com/album/5uOY2WSj7m275wjFJf31cP"
       },
@@ -754,6 +772,32 @@
     },
     {
       "album": {
+        "name": "Intentionally (Remix)",
+        "url": "https://open.spotify.com/album/6TyDoGRE4MPi5pAoQV8U5F"
+      },
+      "artists": [
+        {
+          "name": "Ycee",
+          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Smyley",
+          "url": "https://open.spotify.com/artist/2NdYp7UDkJLbpJU7mSSprx"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205142,
+      "name": "Intentionally - Remix",
+      "url": "https://open.spotify.com/track/1uEgtxDYgAkGMwTxc4dOAA"
+    },
+    {
+      "album": {
         "name": "Jolene",
         "url": "https://open.spotify.com/album/3S8m8x31vQLl4I4R4gqA88"
       },
@@ -809,7 +853,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 156600,
       "name": "Lie",
       "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
@@ -889,10 +933,32 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 278167,
       "name": "Nzoto",
       "url": "https://open.spotify.com/track/2TXxYgXnKnq3qJTXclJHTj"
+    },
+    {
+      "album": {
+        "name": "Ozumba Mbadiwe (Remix)",
+        "url": "https://open.spotify.com/album/656VMGOU4NL8RpviUz5IYF"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211636,
+      "name": "Ozumba Mbadiwe - Remix",
+      "url": "https://open.spotify.com/track/0WZv29OGhRABeryXBPMAV6"
     },
     {
       "album": {
@@ -1157,6 +1223,28 @@
       "duration_ms": 206775,
       "name": "Snapchat",
       "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
+    },
+    {
+      "album": {
+        "name": "Sometimes (Remix)",
+        "url": "https://open.spotify.com/album/0CP8QDMjNwtWkIcQ30P2pc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188943,
+      "name": "Sometimes - Remix",
+      "url": "https://open.spotify.com/track/6rDbIKxHWteL6TnhLtj634"
     },
     {
       "album": {

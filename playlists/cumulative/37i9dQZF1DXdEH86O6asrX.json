@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 261173,
       "name": "A Christmas Carol Main Title",
       "url": "https://open.spotify.com/track/1swBDEKTSMyTbhNc3KVwSZ"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 100133,
       "name": "Angels We Have Heard on High (From \"Noel\")",
       "url": "https://open.spotify.com/track/0sTYQXgmGlURH5y3T1RvDb"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 125026,
       "name": "Beautiful New World / Home Sweet Home",
       "url": "https://open.spotify.com/track/5m0IMOABiK4ruFr4HQSdgM"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 175533,
       "name": "Christmas at Hogwarts",
       "url": "https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 97746,
       "name": "Christmas Hymn",
       "url": "https://open.spotify.com/track/2ullX9ZmHMWg8hfNqIZDTd"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 98866,
       "name": "E.T.'s New Home - Soundtrack Reissue (2002)",
       "url": "https://open.spotify.com/track/1a6Hhl3NoIXWrilyz0D7ah"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 253800,
       "name": "Easy",
       "url": "https://open.spotify.com/track/471eUUcbGi51YG8mooiuYF"
@@ -399,7 +399,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 97160,
       "name": "Etiquette Lesson",
       "url": "https://open.spotify.com/track/1EnAkv2DGgHHNwENIpsgoZ"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 243777,
       "name": "Goodnight Moon",
       "url": "https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul"
@@ -601,7 +601,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 167520,
       "name": "Immigrant Song - Karen O with Trent Reznor",
       "url": "https://open.spotify.com/track/4490WK2mSNXqH5GujXyHGj"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 184777,
       "name": "Let It Snow, Let It Snow, Let It Snow",
       "url": "https://open.spotify.com/track/0GEQ0otjCdvAelfJqGifX1"
@@ -801,7 +801,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 243746,
       "name": "Little Drummer Boy",
       "url": "https://open.spotify.com/track/5ipoCYBHodCC5A0JBAfsej"
@@ -819,10 +819,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 396293,
       "name": "Lo Boob Oscillator",
       "url": "https://open.spotify.com/track/2pjwjVb9frn1VyOvEQF4hY"
+    },
+    {
+      "album": {
+        "name": "Call Me By Your Name (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7K0x1O9gqMQlDwbMkyCCIM"
+      },
+      "artists": [
+        {
+          "name": "The Psychedelic Furs",
+          "url": "https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213173,
+      "name": "Love My Way",
+      "url": "https://open.spotify.com/track/3GITxE9ghA1r7iOZXRbS6O"
     },
     {
       "album": {
@@ -837,7 +855,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 195773,
       "name": "Loved Ones and Leaving",
       "url": "https://open.spotify.com/track/31DXqy0L60lvzl37OMcEoA"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 237866,
       "name": "Making Christmas",
       "url": "https://open.spotify.com/track/60lpxsz5DjjZAChH8dzFDt"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 309386,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 89120,
       "name": "Opening",
       "url": "https://open.spotify.com/track/2gejSp0GzWcA4lWn3TqVJu"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 149040,
       "name": "Overture",
       "url": "https://open.spotify.com/track/6BVCXnUKFEuIKMggkFVH8a"
@@ -1105,7 +1123,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 144186,
       "name": "Rebel Rebel",
       "url": "https://open.spotify.com/track/2Zw8XSF8vSPeDHUNCmjLgi"
@@ -1123,7 +1141,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 308200,
       "name": "Reunion of Friends",
       "url": "https://open.spotify.com/track/0rpSIjKSmZ2SFO6vmLJpXl"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 206506,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
@@ -1231,7 +1249,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 145640,
       "name": "Skating",
       "url": "https://open.spotify.com/track/7hK9jnESeCfc5fIHH76jKh"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 155200,
       "name": "Storytime",
       "url": "https://open.spotify.com/track/2k8gwTGsi3IwKp3xqaddbe"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 345613,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/0u3U5RQBk1VHOnVfuBd2BF"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 234053,
       "name": "The First Noel",
       "url": "https://open.spotify.com/track/0UXYfc0Xvo3bO55UdLl8BV"
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 203226,
       "name": "The Polar Express",
       "url": "https://open.spotify.com/track/1Gi37i20j7uydKwNnNcbkz"
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 163573,
       "name": "Toys - Soundtrack Reissue (2002)",
       "url": "https://open.spotify.com/track/0Zl862DhFbS6kHRK0DzNXx"
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 210466,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/0yalffTE6fOvQaebMd8cvq"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 185573,
       "name": "What's This?",
       "url": "https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Jordan Fletcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,556 likes - 149 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,560 likes - 149 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Novaa",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Schmyt",
   "name": "RADAR GSA",
   "published_playlist_ids": [
     "7r16QFa0iXKPXTVCB31T4J"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 160895,
       "name": "Ich w\u00fcnschte, du w\u00e4rst verloren",
       "url": "https://open.spotify.com/track/40eThGfQt1VehllIdIsQdr"
@@ -689,6 +689,24 @@
       "duration_ms": 230568,
       "name": "leave a light on",
       "url": "https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8"
+    },
+    {
+      "album": {
+        "name": "Liebe verloren",
+        "url": "https://open.spotify.com/album/6tvIFoZemFu3eSK1SCx5aF"
+      },
+      "artists": [
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193090,
+      "name": "Liebe verloren",
+      "url": "https://open.spotify.com/track/5gMifIJnth5mZIBvzqPVIW"
     },
     {
       "album": {

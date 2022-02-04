@@ -2,7 +2,7 @@
 
 ### [Urbano Fresh](https://open.spotify.com/playlist/6RzVtYvMkpHUbB3BgVfauO)
 
-> Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Kim Loaiza
+> Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Kim Loaiza, Ely Blancarte
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [POP \(feat\. Jae S\)](https://open.spotify.com/track/3qkDTmEGzViHrJu39B6W4l) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [V'nney](https://open.spotify.com/artist/41J0diHzl4hRdEg8cc4mC5), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf), [Jae S](https://open.spotify.com/artist/2bWodbZbC7imuhp3lrOsRg) | [POP \(feat\. Jae S\)](https://open.spotify.com/album/4oDOSThgM71p7MkRtsaASD) | 3:47 | 2022-01-07 |  |
 | [Quítame la Ropa](https://open.spotify.com/track/5Ug2KohB2nlqtkmzZ9bwoI) | [Kaden](https://open.spotify.com/artist/67G6NpRTWYIHTt884Xaq3J) | [Quítame la Ropa](https://open.spotify.com/album/6hBN8spSvvJ5bQocsfLQpg) | 3:12 | 2022-01-07 |  |
 | [Rod Roast Yourself](https://open.spotify.com/track/2nK9x8iEcQkErqeAd4sf7C) | [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y) | [Rod Roast Yourself](https://open.spotify.com/album/4UONB3S62FKphnrMeLowQa) | 2:30 | 2022-01-07 |  |
+| [Salvaje](https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2) | [Salvaje](https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb) | 2:57 | 2022-02-03 |  |
 | [Se Siente Bien](https://open.spotify.com/track/1XEmFjZdshi5oQ6qsV44TQ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Gitana Kamp](https://open.spotify.com/artist/55SWiLP14cnNXQKVJj36ps) | [Gitana Kamp, Vol\. I](https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2) | 2:26 | 2022-01-07 |  |
 | [Señales](https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [Señales](https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB) | 3:03 | 2022-01-07 |  |
 | [Shot de Tequila](https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Shot de Tequila](https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc) | 3:31 | 2022-01-07 |  |

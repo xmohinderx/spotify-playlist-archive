@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 125454,
       "name": "2020 Christmas",
       "url": "https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A"
@@ -115,7 +115,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 177600,
       "name": "Bird Machine - Jingle Bells Version",
       "url": "https://open.spotify.com/track/6t0KVCE10aI5wUeodIHhmW"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 194584,
       "name": "Christmas Baby",
       "url": "https://open.spotify.com/track/6jUKWIoL85GjDhKsGyRIdJ"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 167373,
       "name": "Christmas is Here (feat. Late Night Alumni)",
       "url": "https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 145029,
       "name": "Christmas Rave",
       "url": "https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 193213,
       "name": "Deck the Halls (feat. Erika Sirola)",
       "url": "https://open.spotify.com/track/5D1oXvC7GD8FEXiFFCmDXj"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 175920,
       "name": "Do They Know It's Christmas",
       "url": "https://open.spotify.com/track/0JJbG4ZjiJU7GsybxcLs2r"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 233060,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/5McQ19B5AjkZose1EQURIW"
@@ -452,6 +452,28 @@
     },
     {
       "album": {
+        "name": "Kaskade Christmas",
+        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Debra Fotheringham",
+          "url": "https://open.spotify.com/artist/77SE4sIUzZE0HAk5VxTHpd"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177106,
+      "name": "God Rest Ye (feat. Debra Fotheringham)",
+      "url": "https://open.spotify.com/track/2PbPBOzBmm3jU02CpBHbEq"
+    },
+    {
+      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/4jPnSXA5LhdzR8Cz9ZGa3D"
       },
@@ -463,7 +485,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 144440,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
@@ -485,7 +507,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 207315,
       "name": "Have Yourself A Merry Little Christmas - Auxjack Remix",
       "url": "https://open.spotify.com/track/7kHfwWZGNpO6BlunidRzd0"
@@ -701,7 +723,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 200595,
       "name": "I Wish (feat. Mabel) - Christmas Version",
       "url": "https://open.spotify.com/track/6JfqJNzpto4mRuNBfL1prF"
@@ -745,7 +767,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 156046,
       "name": "I've Got My Love To Keep Me Warm - Somni Remix",
       "url": "https://open.spotify.com/track/5MMZCaKWXT9yRPBCNgOAhH"
@@ -807,7 +829,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 203103,
       "name": "It's Christmas Time (with Michael Bolton)",
       "url": "https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN"
@@ -905,7 +927,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 165960,
       "name": "Jingle Bells - Bass",
       "url": "https://open.spotify.com/track/49yqMGuhxv3PdgDFamDC9b"
@@ -927,7 +949,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 157972,
       "name": "Jingle Bells x Deck The Halls",
       "url": "https://open.spotify.com/track/4aCszkXcIJPScNYLRtawGX"
@@ -967,7 +989,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 224516,
       "name": "Lover for the Holidays",
       "url": "https://open.spotify.com/track/0HXAk2NyaZ3Fh3Ij264oiA"
@@ -989,7 +1011,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 157440,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/4L87Y4Eo5kyYZ3J2odyUEJ"
@@ -1011,7 +1033,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 225066,
       "name": "My Heart Is Heading Home (This Christmas) - 7th Heaven's Xmas Overload Radio Edit",
       "url": "https://open.spotify.com/track/5jrXGISvLdnGLNR2Kd9kQq"
@@ -1033,7 +1055,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 174800,
       "name": "O Come Emmanuel (feat. Skylar Grey)",
       "url": "https://open.spotify.com/track/6QAlt0FPCGGxgsUodwLF1u"
@@ -1077,7 +1099,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Rock Them Bells",
       "url": "https://open.spotify.com/track/0epMkNX1trzXudrhMzgXxj"
@@ -1125,7 +1147,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 153023,
       "name": "Rudolph the Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/7369sadyMpc7FGBiQPImg4"
@@ -1147,7 +1169,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 199866,
       "name": "Santa Baby (feat. Jane X\u00d8)",
       "url": "https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6"
@@ -1169,7 +1191,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 125039,
       "name": "Santa Claus is Coming to Town",
       "url": "https://open.spotify.com/track/6ppTKW0ZDkuf18ckdpMOel"
@@ -1289,7 +1311,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 233266,
       "name": "The First Noel (feat. Gabrielle Current)",
       "url": "https://open.spotify.com/track/56iX5gfP8z8fhPiYNNysjF"
@@ -1333,7 +1355,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 241875,
       "name": "Tropical Holiday",
       "url": "https://open.spotify.com/track/7lRGYkzXuyIX0rM4ADWcSu"
@@ -1387,7 +1409,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 218244,
       "name": "Whim",
       "url": "https://open.spotify.com/track/6PAWxLsMLFV7yNinpK6eJY"
@@ -1405,7 +1427,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 368918,
       "name": "White Christmas - Original Mix",
       "url": "https://open.spotify.com/track/7mIf5heujHBQPOi6cnDDBF"
@@ -1423,7 +1445,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 194346,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9"
@@ -1441,7 +1463,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 178739,
       "name": "Winter Wonderland ^Bsiide",
       "url": "https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE"

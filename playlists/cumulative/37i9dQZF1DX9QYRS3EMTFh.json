@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment.Photo : Stefflon Don",
+  "description": "Les hits dancehall du moment.Photo : JmaX",
   "name": "Dancehall Station",
   "published_playlist_ids": [
     "5EUHHXJOLrkgmRGE7o9Fvs"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 185400,
       "name": "Jaye Pro",
       "url": "https://open.spotify.com/track/21CmrXsUPT0BRGbix3so9W"
@@ -832,6 +832,46 @@
     },
     {
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171092,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
+    },
+    {
+      "album": {
+        "name": "PVDV",
+        "url": "https://open.spotify.com/album/0Obzppmpm8XdZ2Um3lG90m"
+      },
+      "artists": [
+        {
+          "name": "Young Chang MC",
+          "url": "https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1"
+        },
+        {
+          "name": "Reyel Ay",
+          "url": "https://open.spotify.com/artist/7ArndI9V96Y7AXKQ4O54FH"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "PVDV",
+      "url": "https://open.spotify.com/track/5Bnh17R2tIfcNCwQ0HR1RD"
+    },
+    {
+      "album": {
         "name": "Rayi",
         "url": "https://open.spotify.com/album/4hWzXmzOBcbjc6a3QrON66"
       },
@@ -1111,7 +1151,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 160085,
       "name": "Wah Gwaan Mad Head",
       "url": "https://open.spotify.com/track/5bgkyfJDDw6QkoKLerBJIs"

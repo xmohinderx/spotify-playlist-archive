@@ -104,6 +104,6 @@
 | [Va\-t'en](https://open.spotify.com/track/19OS2acFV7qpcjPKMlktdf) | [Irma](https://open.spotify.com/artist/7KTLYKJhcUOMgNgayxBj9f) | [Va\-t'en](https://open.spotify.com/album/6iKVpux4lTXgtyGKgpl09f) | 2:50 | 2022-01-05 | 2022-02-02 |
 | [Vallée de Siddim](https://open.spotify.com/track/2kn06tH2KFbqUNQJL5gulk) | [The Rodeo](https://open.spotify.com/artist/66g3ybCzTYusaxjoARIBEw) | [Podium numéro un \(Une compilation Finalistes et La Souterraine\)](https://open.spotify.com/album/6QVjvOFL2Dp67aC6FPmJ0n) | 4:21 | 2022-01-05 | 2022-02-02 |
 | [Verre D'eau](https://open.spotify.com/track/5p8vq37UsDzRP0gyUuAUQz) | [SKIA](https://open.spotify.com/artist/1LWNlonORpAMLWHJCaCwtE) | [Sensible](https://open.spotify.com/album/4bEj8Pmu4i0oUY3ZukQcPg) | 3:08 | 2022-02-01 |  |
-| [Where Would You Be Now](https://open.spotify.com/track/2JkWQJQWhaARpQyQHmfDQk) | [FM LAETI](https://open.spotify.com/artist/4xI4b5xdfrhshv5cMP87zK) | [Where Would You Be Now?](https://open.spotify.com/album/3yUNHtmmQcWfOZG7ihOgny) | 4:24 | 2022-02-01 |  |
+| [Where Would You Be Now?](https://open.spotify.com/track/2JkWQJQWhaARpQyQHmfDQk) | [FM LAETI](https://open.spotify.com/artist/4xI4b5xdfrhshv5cMP87zK) | [Where Would You Be Now?](https://open.spotify.com/album/3yUNHtmmQcWfOZG7ihOgny) | 4:24 | 2022-02-01 |  |
 
 \*This playlist was first scraped on 2022-01-21. Prior content cannot be recovered.

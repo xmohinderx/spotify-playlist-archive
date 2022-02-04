@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/1UsK1kap4qYLNaSYwBlxxB"
+      },
+      "artists": [
+        {
+          "name": "wAFF",
+          "url": "https://open.spotify.com/artist/4OHSon9N7JAfxkjlH8nKDb"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482109,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1hLwiZ6lfbPIrxHXrcpWJC"
+    },
+    {
+      "album": {
         "name": "Conversations",
         "url": "https://open.spotify.com/album/6QMonW4NPvGVgqKy6uwtrf"
       },

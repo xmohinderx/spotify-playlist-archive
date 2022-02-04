@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Mx8sjx0nW.md) - [plain]
 
 > Current country music and artists making noise on Spotify\. Featuring: Dalton Dover
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,623 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,625 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Mx8sjx0nW.md) - [plain]
 | 49 | [Blue Eyes](https://open.spotify.com/track/232kkQ6vbOzY4kE2JkrBpp) | [Pierre Alexander](https://open.spotify.com/artist/55TMBUBKkjVqu2EipyfY9z) | [Blue Eyes](https://open.spotify.com/album/5gZP9GdBmQljja486HZYa0) | 3:49 |
 | 50 | [24](https://open.spotify.com/track/520NKSFkKbELWUV5XQfIG9) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [24](https://open.spotify.com/album/5T9VoZ9HYeDUhlr7NTjHfH) | 3:03 |
 
-Snapshot ID: `MTY0MzY5MTYwMCwwMDAwMDNhMTAwMDAwMTdlYjNhNzY5MjQwMDAwMDE3ZWIyYzMxNzQy`
+Snapshot ID: `MTY0MzkwNDE1MSwwMDAwMDNhMjAwMDAwMTdlYzA1MmFmOTgwMDAwMDE3ZWMwNTIxNjZk`

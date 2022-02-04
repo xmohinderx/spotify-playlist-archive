@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: Blithe\. Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,666 likes - 143 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,796 likes - 143 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 29 | [Innerbloom](https://open.spotify.com/track/4Bbc2s8QbFqs0yVX2NYS2h) | [Charly Jordan](https://open.spotify.com/artist/56uvfLPkO79ftiwRlb4KDT), [Zekey](https://open.spotify.com/artist/3hHPnggcxDaU07Tc91RXAA) | [Innerbloom](https://open.spotify.com/album/3MxayD7gSRSUHqmeV1QBbb) | 2:31 |
 | 30 | [Fake Friends](https://open.spotify.com/track/68GSPUt7e0nt7ItrYw3mM7) | [Ann@lise](https://open.spotify.com/artist/1JQiDKAjs1L29s18Uttcuo) | [Fake Friends](https://open.spotify.com/album/0uAr8V4yOOIArQnYmD7BYq) | 2:54 |
 | 31 | [I Am Sin](https://open.spotify.com/track/2eVGcdvIl5Yb4uZWk7cZxI) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA) | [I Am Sin](https://open.spotify.com/album/3jsrBcKlU57p5WDXokbAik) | 3:11 |
-| 32 | [Hit the Lights](https://open.spotify.com/track/6kmQrIkFxq2DuKQtwZA3zT) | [Jon Rivera](https://open.spotify.com/artist/34y32pDipyh4aj4SeUKz2d) | [Hit the Lights](https://open.spotify.com/album/5Zoflv3Rf9chDohfWDlD1P) | 3:20 |
+| 32 | [Hit the Lights](https://open.spotify.com/track/6kmQrIkFxq2DuKQtwZA3zT) | [JT Soul](https://open.spotify.com/artist/34y32pDipyh4aj4SeUKz2d) | [Hit the Lights](https://open.spotify.com/album/5Zoflv3Rf9chDohfWDlD1P) | 3:20 |
 | 33 | [Tennis](https://open.spotify.com/track/2kCICk564mOS1ZcTxkByBh) | [Molly Annelle](https://open.spotify.com/artist/3mgxzlrTPRjDZ5qn93i5vz) | [Tennis x Time to Time](https://open.spotify.com/album/3lRFugAM4uKw4HtMbQ8G40) | 2:49 |
 | 34 | [GORGEOUS](https://open.spotify.com/track/0cYSvUNMzEltRY0RirjUNp) | [Olivia Knox](https://open.spotify.com/artist/6nR3bxU4P6KV6678GbfhLk) | [GORGEOUS](https://open.spotify.com/album/2Clmd4k6a7tTdIa7vxGdGN) | 2:53 |
 | 35 | [my fuckin birthday](https://open.spotify.com/track/5I6VzAAwuPtbHmnwODDb50) | [sreedhanya](https://open.spotify.com/artist/7Lp4zS3we1Dwh1dqMD0GEO) | [my fuckin birthday](https://open.spotify.com/album/3qLe2UuUhONvPtMBBe0W1u) | 1:54 |

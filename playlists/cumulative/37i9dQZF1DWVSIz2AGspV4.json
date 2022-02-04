@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 188101,
       "name": "Aalamiya",
       "url": "https://open.spotify.com/track/2sfGtyULy9LBSWeXrtsAIJ"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 226153,
       "name": "Halfatra",
       "url": "https://open.spotify.com/track/7l6G8GPGHbyobhz4RNAFQH"
@@ -882,6 +882,24 @@
     },
     {
       "album": {
+        "name": "La Yalbukht",
+        "url": "https://open.spotify.com/album/4hWmhWJk8VZeoIfl8nesys"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Al Maslawi",
+          "url": "https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203920,
+      "name": "La Yalbukht",
+      "url": "https://open.spotify.com/track/3q6f7xBrpHwt8PvmWCMuXZ"
+    },
+    {
+      "album": {
         "name": "Lo Bdali",
         "url": "https://open.spotify.com/album/6ZVzhlLAa79Og3pvyihTXm"
       },
@@ -1023,6 +1041,24 @@
       "duration_ms": 190200,
       "name": "Qadari",
       "url": "https://open.spotify.com/track/4cftB4jTWjhryKW4krWLUv"
+    },
+    {
+      "album": {
+        "name": "Rah Teshoofni",
+        "url": "https://open.spotify.com/album/56AYOsPwukW0TSGTpobwxM"
+      },
+      "artists": [
+        {
+          "name": "Jafar Al Ghazal",
+          "url": "https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223600,
+      "name": "Rah Teshoofni",
+      "url": "https://open.spotify.com/track/7cp9tzF6U2s4HVq0ehiki2"
     },
     {
       "album": {

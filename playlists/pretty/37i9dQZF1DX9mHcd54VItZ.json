@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest out now in South African Rock and Punk. Cover: <a href=\"https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU?si=Xh_ZEAULQWeNrhQhjJb4PQ\">Dangerfields</a>",
-  "num_followers": 9740,
+  "num_followers": 9746,
   "original_name": "SA Rock Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc1NzQ0MSwwMDAwMDJhZDAwMDAwMTdlN2JmOTQ5MjcwMDAwMDE3ZTdiZjg3ZTI0",
+  "snapshot_id": "MTY0MzkyNTU0MCwwMDAwMDJhZTAwMDAwMTdlYzE5OTBkMTEwMDAwMDE3ZWMxOTM4OWNi",
   "tracks": [
     {
       "added_at": "2022-01-21 09:30:41",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/5DyMpoB5hqmjkwPBnTPxFw"
     },
     {
-      "added_at": "2021-12-09 21:59:00",
-      "album": {
-        "name": "Always Remember",
-        "url": "https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9"
-      },
-      "artists": [
-        {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
-        }
-      ],
-      "duration_ms": 229050,
-      "name": "Always Remember",
-      "url": "https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx"
-    },
-    {
       "added_at": "2021-09-02 21:59:00",
       "album": {
         "name": "Silwer",
@@ -55,6 +39,22 @@
       "duration_ms": 221715,
       "name": "Silwer",
       "url": "https://open.spotify.com/track/4UFuCgW8yugNXB5SMn3MQs"
+    },
+    {
+      "added_at": "2021-12-09 21:59:00",
+      "album": {
+        "name": "Always Remember",
+        "url": "https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "duration_ms": 229050,
+      "name": "Always Remember",
+      "url": "https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx"
     },
     {
       "added_at": "2022-01-21 09:30:41",
@@ -77,22 +77,6 @@
       "url": "https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ"
     },
     {
-      "added_at": "2022-01-06 21:59:00",
-      "album": {
-        "name": "Skylight",
-        "url": "https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Aplin",
-          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
-        }
-      ],
-      "duration_ms": 240449,
-      "name": "Skylight",
-      "url": "https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68"
-    },
-    {
       "added_at": "2021-11-18 21:59:00",
       "album": {
         "name": "Dapper",
@@ -113,6 +97,22 @@
       "url": "https://open.spotify.com/track/22mVe2AVZRBmAnveENz9qn"
     },
     {
+      "added_at": "2022-01-06 21:59:00",
+      "album": {
+        "name": "Skylight",
+        "url": "https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Aplin",
+          "url": "https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ"
+        }
+      ],
+      "duration_ms": 240449,
+      "name": "Skylight",
+      "url": "https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68"
+    },
+    {
       "added_at": "2022-01-21 09:30:41",
       "album": {
         "name": "Last Tear",
@@ -129,22 +129,6 @@
       "url": "https://open.spotify.com/track/7KXty1ex5eJ9sMgJRdTDXf"
     },
     {
-      "added_at": "2021-12-09 21:59:00",
-      "album": {
-        "name": "ohmygosh (Acoustic)",
-        "url": "https://open.spotify.com/album/2hEBqU7NAneCBKhh7SUoJ9"
-      },
-      "artists": [
-        {
-          "name": "Matthew Mole",
-          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
-        }
-      ],
-      "duration_ms": 252375,
-      "name": "ohmygosh - Acoustic",
-      "url": "https://open.spotify.com/track/3ANoysTDtk5sUv54J5esM5"
-    },
-    {
       "added_at": "2021-07-29 21:59:00",
       "album": {
         "name": "Wasteland - The Purgatory EP",
@@ -159,6 +143,22 @@
       "duration_ms": 289320,
       "name": "What Would You Do?",
       "url": "https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q"
+    },
+    {
+      "added_at": "2021-12-09 21:59:00",
+      "album": {
+        "name": "ohmygosh (Acoustic)",
+        "url": "https://open.spotify.com/album/2hEBqU7NAneCBKhh7SUoJ9"
+      },
+      "artists": [
+        {
+          "name": "Matthew Mole",
+          "url": "https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86"
+        }
+      ],
+      "duration_ms": 252375,
+      "name": "ohmygosh - Acoustic",
+      "url": "https://open.spotify.com/track/3ANoysTDtk5sUv54J5esM5"
     },
     {
       "added_at": "2022-01-21 09:30:41",
@@ -179,6 +179,22 @@
       "duration_ms": 125142,
       "name": "Demons",
       "url": "https://open.spotify.com/track/1ks9wTTBtoKDviVn0UzU0e"
+    },
+    {
+      "added_at": "2022-02-03 21:59:00",
+      "album": {
+        "name": "Country in Me",
+        "url": "https://open.spotify.com/album/14TyyqNVDqZ7i1X60CNE0J"
+      },
+      "artists": [
+        {
+          "name": "Jono Grayson",
+          "url": "https://open.spotify.com/artist/2A91hKSHbGC0awW297Plqi"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Country in Me",
+      "url": "https://open.spotify.com/track/5s0aFRBOpQzWBivW8EHiZK"
     },
     {
       "added_at": "2021-11-25 21:59:00",
@@ -227,6 +243,22 @@
       "duration_ms": 42624,
       "name": "The Naughty List",
       "url": "https://open.spotify.com/track/3EKFkwbeXhcyZkdBOQOokp"
+    },
+    {
+      "added_at": "2022-02-03 21:59:00",
+      "album": {
+        "name": "Until I Forget You",
+        "url": "https://open.spotify.com/album/5FLo5HPAAhRiKtNnpxuvqg"
+      },
+      "artists": [
+        {
+          "name": "Wayne Cumming",
+          "url": "https://open.spotify.com/artist/7yOrr8uio6byKlQC6NLufS"
+        }
+      ],
+      "duration_ms": 212718,
+      "name": "Until I Forget You",
+      "url": "https://open.spotify.com/track/505KIwDfwJFpwVpza70TmC"
     },
     {
       "added_at": "2021-09-02 21:59:00",
@@ -553,22 +585,6 @@
       "url": "https://open.spotify.com/track/4LSR4g2XMq2jbZtYUxhbUo"
     },
     {
-      "added_at": "2021-05-06 21:59:00",
-      "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/0fRN2TVobFPEhOBfpU12tg"
-      },
-      "artists": [
-        {
-          "name": "Watershed",
-          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
-        }
-      ],
-      "duration_ms": 310500,
-      "name": "Elephant in the Room",
-      "url": "https://open.spotify.com/track/0fIpv8JGDaKwtlFfAAcUnS"
-    },
-    {
       "added_at": "2021-08-13 05:55:43",
       "album": {
         "name": "Towards The Sun",
@@ -605,38 +621,6 @@
       "url": "https://open.spotify.com/track/7tAo2VzcrgL4a0KAZsU2HV"
     },
     {
-      "added_at": "2021-08-05 21:59:00",
-      "album": {
-        "name": "Emerging Submarines",
-        "url": "https://open.spotify.com/album/2t0uNfOp9TPHcuapmhFH09"
-      },
-      "artists": [
-        {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
-        }
-      ],
-      "duration_ms": 268713,
-      "name": "Emerging Submarines",
-      "url": "https://open.spotify.com/track/0EYUcHeJoy86VDc7xKJifF"
-    },
-    {
-      "added_at": "2021-11-11 21:59:00",
-      "album": {
-        "name": "Invisible Visitor",
-        "url": "https://open.spotify.com/album/5rMsebBa22S17tSHVcgUGP"
-      },
-      "artists": [
-        {
-          "name": "Far from Who We Are",
-          "url": "https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO"
-        }
-      ],
-      "duration_ms": 231714,
-      "name": "Invisible Visitor",
-      "url": "https://open.spotify.com/track/4NjEqKPBOXbKI88kdDPA9s"
-    },
-    {
       "added_at": "2021-01-21 22:00:00",
       "album": {
         "name": "Everlasting",
@@ -653,24 +637,52 @@
       "url": "https://open.spotify.com/track/7h7BQnUpWSdhSmrlaXBZuW"
     },
     {
-      "added_at": "2021-10-14 21:59:00",
+      "added_at": "2021-05-06 21:59:00",
       "album": {
-        "name": "Count the Days (2021)",
-        "url": "https://open.spotify.com/album/1IHFQbyWTiJ3krUJRUCdyq"
+        "name": "Psycho Killer",
+        "url": "https://open.spotify.com/album/7cTCOfxcE0S8iHCGCCrdXG"
       },
       "artists": [
         {
-          "name": "Zayn Adams",
-          "url": "https://open.spotify.com/artist/3CJMRrR9xQ11XG7RFUWOfd"
-        },
-        {
-          "name": "Tully Mc Cully",
-          "url": "https://open.spotify.com/artist/3zfnLnN1wMxn2av8BygIQJ"
+          "name": "The Medicine Dolls",
+          "url": "https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese"
         }
       ],
-      "duration_ms": 199848,
-      "name": "Count the Days (Count the Nights)",
-      "url": "https://open.spotify.com/track/60knTkjc5HZHkPVQjq3JMO"
+      "duration_ms": 239500,
+      "name": "Psycho Killer - Single Version",
+      "url": "https://open.spotify.com/track/52pS1roeMc4TUNkBDiSUYW"
+    },
+    {
+      "added_at": "2021-05-06 21:59:00",
+      "album": {
+        "name": "Elephant in the Room",
+        "url": "https://open.spotify.com/album/0fRN2TVobFPEhOBfpU12tg"
+      },
+      "artists": [
+        {
+          "name": "Watershed",
+          "url": "https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW"
+        }
+      ],
+      "duration_ms": 310500,
+      "name": "Elephant in the Room",
+      "url": "https://open.spotify.com/track/0fIpv8JGDaKwtlFfAAcUnS"
+    },
+    {
+      "added_at": "2021-08-05 21:59:00",
+      "album": {
+        "name": "Emerging Submarines",
+        "url": "https://open.spotify.com/album/2t0uNfOp9TPHcuapmhFH09"
+      },
+      "artists": [
+        {
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+        }
+      ],
+      "duration_ms": 268713,
+      "name": "Emerging Submarines",
+      "url": "https://open.spotify.com/track/0EYUcHeJoy86VDc7xKJifF"
     },
     {
       "added_at": "2021-09-23 22:02:15",
@@ -695,22 +707,6 @@
     {
       "added_at": "2021-11-11 21:59:00",
       "album": {
-        "name": "The Aviary (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/77lEYneVqteKZOJjzi88MZ"
-      },
-      "artists": [
-        {
-          "name": "Evert Snyman",
-          "url": "https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk"
-        }
-      ],
-      "duration_ms": 217677,
-      "name": "Nothing to Show - Bonus Track",
-      "url": "https://open.spotify.com/track/0a9srDwDH1sSIp9jvSP9rX"
-    },
-    {
-      "added_at": "2021-11-11 21:59:00",
-      "album": {
         "name": "Hunted Women",
         "url": "https://open.spotify.com/album/1NLDUu7ubHfSYJhJG8nEUp"
       },
@@ -723,74 +719,6 @@
       "duration_ms": 188000,
       "name": "Raise a Glass",
       "url": "https://open.spotify.com/track/27RgZXuRhyJpxhomzhFi70"
-    },
-    {
-      "added_at": "2021-09-02 21:59:00",
-      "album": {
-        "name": "The Art of Escape / The Escape of Art",
-        "url": "https://open.spotify.com/album/3IdU7v0EYjbZgfztsrZCKl"
-      },
-      "artists": [
-        {
-          "name": "Soul Suture",
-          "url": "https://open.spotify.com/artist/1GKLeylQc3yEtf4ulo0fmA"
-        },
-        {
-          "name": "Fred Honig",
-          "url": "https://open.spotify.com/artist/3BJIJ0jOquRFcoRJn5yPAf"
-        }
-      ],
-      "duration_ms": 243498,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/629X30psE0HDVwMflpkOKm"
-    },
-    {
-      "added_at": "2021-11-11 21:59:00",
-      "album": {
-        "name": "Sick & Tired",
-        "url": "https://open.spotify.com/album/74orOdhwPWJdySoAUoQXYE"
-      },
-      "artists": [
-        {
-          "name": "Dyluded",
-          "url": "https://open.spotify.com/artist/1cyrURNf08hhvsfg6nltEW"
-        }
-      ],
-      "duration_ms": 152634,
-      "name": "Sick & Tired",
-      "url": "https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF"
-    },
-    {
-      "added_at": "2021-11-11 21:59:00",
-      "album": {
-        "name": "Monkey Mind",
-        "url": "https://open.spotify.com/album/5sk24XesYQp0EHH4HzBa0J"
-      },
-      "artists": [
-        {
-          "name": "The Vast Oddity",
-          "url": "https://open.spotify.com/artist/0s9M3dghDINHO5fCiS3SsO"
-        }
-      ],
-      "duration_ms": 176143,
-      "name": "Monkey Mind",
-      "url": "https://open.spotify.com/track/05PILc8wNotPdvMeukiElo"
-    },
-    {
-      "added_at": "2020-10-29 21:59:00",
-      "album": {
-        "name": "Time on Your Hands",
-        "url": "https://open.spotify.com/album/77SGuvGaRB65ppI3VgMsgD"
-      },
-      "artists": [
-        {
-          "name": "Southern Wild",
-          "url": "https://open.spotify.com/artist/0W3lLIp2r8prEH0oejxBTi"
-        }
-      ],
-      "duration_ms": 278521,
-      "name": "Time on Your Hands",
-      "url": "https://open.spotify.com/track/3ureghWhTV5UkMP2Bk1qFP"
     },
     {
       "added_at": "2021-09-23 22:02:15",
@@ -807,22 +735,6 @@
       "duration_ms": 284573,
       "name": "In Search of Better Days",
       "url": "https://open.spotify.com/track/3jywquF2vpOwQoKfQ5Nv2Y"
-    },
-    {
-      "added_at": "2021-06-24 21:59:00",
-      "album": {
-        "name": "Swine Tooth Grin",
-        "url": "https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT"
-      },
-      "artists": [
-        {
-          "name": "Ruff Majik",
-          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
-        }
-      ],
-      "duration_ms": 213252,
-      "name": "Swine Tooth Grin - Single Mix",
-      "url": "https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc"
     },
     {
       "added_at": "2021-10-14 21:59:00",
@@ -857,22 +769,6 @@
       "url": "https://open.spotify.com/track/4TQhP05KvdqaCBy6zT5oSk"
     },
     {
-      "added_at": "2021-06-24 21:59:00",
-      "album": {
-        "name": "Doesn't Mean You",
-        "url": "https://open.spotify.com/album/1NfCO8NeE7wSUh67usuAIY"
-      },
-      "artists": [
-        {
-          "name": "Gary Collocott",
-          "url": "https://open.spotify.com/artist/0dO6phXesjIuCd0nr1EKvO"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Doesn't Mean You",
-      "url": "https://open.spotify.com/track/5p71LSQigxqHmzCFh4EhjZ"
-    },
-    {
       "added_at": "2021-07-29 21:59:00",
       "album": {
         "name": "Wyrd Syster",
@@ -889,36 +785,20 @@
       "url": "https://open.spotify.com/track/7aDCtvjXgzlY5w7pH6Ejve"
     },
     {
-      "added_at": "2021-05-06 21:59:00",
+      "added_at": "2021-06-10 21:59:00",
       "album": {
-        "name": "Psycho Killer",
-        "url": "https://open.spotify.com/album/7cTCOfxcE0S8iHCGCCrdXG"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3gsHYTOr6ItG0LhHhj6S4J"
       },
       "artists": [
         {
-          "name": "The Medicine Dolls",
-          "url": "https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese"
+          "name": "James Deacon",
+          "url": "https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx"
         }
       ],
-      "duration_ms": 239500,
-      "name": "Psycho Killer - Single Version",
-      "url": "https://open.spotify.com/track/52pS1roeMc4TUNkBDiSUYW"
-    },
-    {
-      "added_at": "2021-09-02 21:59:00",
-      "album": {
-        "name": "It's Hard",
-        "url": "https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM"
-      },
-      "artists": [
-        {
-          "name": "No Handshake",
-          "url": "https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "It's Hard",
-      "url": "https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj"
+      "duration_ms": 214520,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4MVv8yUbBY2ISaZnCXSp1c"
     },
     {
       "added_at": "2021-07-15 21:59:00",
@@ -935,6 +815,110 @@
       "duration_ms": 273226,
       "name": "Feast Or Famine",
       "url": "https://open.spotify.com/track/6fKV6whgdABjr9iJBlhJAa"
+    },
+    {
+      "added_at": "2021-09-02 21:59:00",
+      "album": {
+        "name": "The Art of Escape / The Escape of Art",
+        "url": "https://open.spotify.com/album/3IdU7v0EYjbZgfztsrZCKl"
+      },
+      "artists": [
+        {
+          "name": "Soul Suture",
+          "url": "https://open.spotify.com/artist/1GKLeylQc3yEtf4ulo0fmA"
+        },
+        {
+          "name": "Fred Honig",
+          "url": "https://open.spotify.com/artist/3BJIJ0jOquRFcoRJn5yPAf"
+        }
+      ],
+      "duration_ms": 243498,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/629X30psE0HDVwMflpkOKm"
+    },
+    {
+      "added_at": "2021-11-11 21:59:00",
+      "album": {
+        "name": "Invisible Visitor",
+        "url": "https://open.spotify.com/album/5rMsebBa22S17tSHVcgUGP"
+      },
+      "artists": [
+        {
+          "name": "Far from Who We Are",
+          "url": "https://open.spotify.com/artist/5942rdEHlZewFlsd3ThJvO"
+        }
+      ],
+      "duration_ms": 231714,
+      "name": "Invisible Visitor",
+      "url": "https://open.spotify.com/track/4NjEqKPBOXbKI88kdDPA9s"
+    },
+    {
+      "added_at": "2021-10-14 21:59:00",
+      "album": {
+        "name": "Count the Days (2021)",
+        "url": "https://open.spotify.com/album/1IHFQbyWTiJ3krUJRUCdyq"
+      },
+      "artists": [
+        {
+          "name": "Zayn Adams",
+          "url": "https://open.spotify.com/artist/3CJMRrR9xQ11XG7RFUWOfd"
+        },
+        {
+          "name": "Tully Mc Cully",
+          "url": "https://open.spotify.com/artist/3zfnLnN1wMxn2av8BygIQJ"
+        }
+      ],
+      "duration_ms": 199848,
+      "name": "Count the Days (Count the Nights)",
+      "url": "https://open.spotify.com/track/60knTkjc5HZHkPVQjq3JMO"
+    },
+    {
+      "added_at": "2021-11-11 21:59:00",
+      "album": {
+        "name": "Sick & Tired",
+        "url": "https://open.spotify.com/album/74orOdhwPWJdySoAUoQXYE"
+      },
+      "artists": [
+        {
+          "name": "Dyluded",
+          "url": "https://open.spotify.com/artist/1cyrURNf08hhvsfg6nltEW"
+        }
+      ],
+      "duration_ms": 152634,
+      "name": "Sick & Tired",
+      "url": "https://open.spotify.com/track/31VzttOuHMtdhoZLwPyPLF"
+    },
+    {
+      "added_at": "2020-10-29 21:59:00",
+      "album": {
+        "name": "Time on Your Hands",
+        "url": "https://open.spotify.com/album/77SGuvGaRB65ppI3VgMsgD"
+      },
+      "artists": [
+        {
+          "name": "Southern Wild",
+          "url": "https://open.spotify.com/artist/0W3lLIp2r8prEH0oejxBTi"
+        }
+      ],
+      "duration_ms": 278521,
+      "name": "Time on Your Hands",
+      "url": "https://open.spotify.com/track/3ureghWhTV5UkMP2Bk1qFP"
+    },
+    {
+      "added_at": "2021-06-24 21:59:00",
+      "album": {
+        "name": "Swine Tooth Grin",
+        "url": "https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT"
+      },
+      "artists": [
+        {
+          "name": "Ruff Majik",
+          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
+        }
+      ],
+      "duration_ms": 213252,
+      "name": "Swine Tooth Grin - Single Mix",
+      "url": "https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc"
     },
     {
       "added_at": "2021-11-05 05:23:44",
@@ -969,22 +953,6 @@
       "url": "https://open.spotify.com/track/5xtq7iINMAphuyAaimsut7"
     },
     {
-      "added_at": "2021-06-10 21:59:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3gsHYTOr6ItG0LhHhj6S4J"
-      },
-      "artists": [
-        {
-          "name": "James Deacon",
-          "url": "https://open.spotify.com/artist/7GobSJDCoe66J6XytXZfLx"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/4MVv8yUbBY2ISaZnCXSp1c"
-    },
-    {
       "added_at": "2021-05-05 11:25:00",
       "album": {
         "name": "Lonely Road",
@@ -999,6 +967,70 @@
       "duration_ms": 195451,
       "name": "Lonely Road",
       "url": "https://open.spotify.com/track/7c5dtWi2N1DBmEwIBWangX"
+    },
+    {
+      "added_at": "2021-09-02 21:59:00",
+      "album": {
+        "name": "It's Hard",
+        "url": "https://open.spotify.com/album/1v8tCzFlpw6f2VRAj6xgVM"
+      },
+      "artists": [
+        {
+          "name": "No Handshake",
+          "url": "https://open.spotify.com/artist/4RPJk5WdHHuekc4UbGRErk"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "It's Hard",
+      "url": "https://open.spotify.com/track/3EngfC1jCb8CtLQK1eWiWj"
+    },
+    {
+      "added_at": "2021-11-11 21:59:00",
+      "album": {
+        "name": "The Aviary (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/77lEYneVqteKZOJjzi88MZ"
+      },
+      "artists": [
+        {
+          "name": "Evert Snyman",
+          "url": "https://open.spotify.com/artist/7eZQ5Rf4ySRcuaYpILlZKk"
+        }
+      ],
+      "duration_ms": 217677,
+      "name": "Nothing to Show - Bonus Track",
+      "url": "https://open.spotify.com/track/0a9srDwDH1sSIp9jvSP9rX"
+    },
+    {
+      "added_at": "2021-11-11 21:59:00",
+      "album": {
+        "name": "Monkey Mind",
+        "url": "https://open.spotify.com/album/5sk24XesYQp0EHH4HzBa0J"
+      },
+      "artists": [
+        {
+          "name": "The Vast Oddity",
+          "url": "https://open.spotify.com/artist/0s9M3dghDINHO5fCiS3SsO"
+        }
+      ],
+      "duration_ms": 176143,
+      "name": "Monkey Mind",
+      "url": "https://open.spotify.com/track/05PILc8wNotPdvMeukiElo"
+    },
+    {
+      "added_at": "2021-06-24 21:59:00",
+      "album": {
+        "name": "Doesn't Mean You",
+        "url": "https://open.spotify.com/album/1NfCO8NeE7wSUh67usuAIY"
+      },
+      "artists": [
+        {
+          "name": "Gary Collocott",
+          "url": "https://open.spotify.com/artist/0dO6phXesjIuCd0nr1EKvO"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Doesn't Mean You",
+      "url": "https://open.spotify.com/track/5p71LSQigxqHmzCFh4EhjZ"
     }
   ],
   "unique_name": "SA Rock Essentials",

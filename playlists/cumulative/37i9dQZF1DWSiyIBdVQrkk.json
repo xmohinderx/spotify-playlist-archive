@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 175626,
       "name": "Africa Unite",
       "url": "https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 238160,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/3xyC7nabfT7TgqrTiTcpve"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 183409,
       "name": "Allow Me to Live",
       "url": "https://open.spotify.com/track/2ocgbHELlfQPXMFwQhIblw"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 163920,
       "name": "Better Must Come",
       "url": "https://open.spotify.com/track/0npA0d5jbB01k53LMRccKP"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 233216,
       "name": "Bit Too Shy",
       "url": "https://open.spotify.com/track/74Yf1fyltgX7ahvxMx0ElN"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 214213,
       "name": "Come Inna The Dance",
       "url": "https://open.spotify.com/track/6PypmvbTpaIMtrnd1IDGta"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 234800,
       "name": "Cool Runnings",
       "url": "https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 236712,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/3qiAxasIFurgBRkOfaALAU"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 230106,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 290453,
       "name": "Dubbing Is a Must Part 1 - 2010 Remastered Version",
       "url": "https://open.spotify.com/track/6KNlbrsKfea9WAwOi2yq84"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 253866,
       "name": "Firehouse Rock",
       "url": "https://open.spotify.com/track/2aEo5sPcclxVbA2vXFBi9M"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 304768,
       "name": "First Time I Fall",
       "url": "https://open.spotify.com/track/5fvo8kNKsnVLpsNA1rVJN5"
@@ -928,6 +928,24 @@
     },
     {
       "album": {
+        "name": "Good Thing Going",
+        "url": "https://open.spotify.com/album/0ebppSJmLI1w6eaq1SnkSR"
+      },
+      "artists": [
+        {
+          "name": "Sugar Minott",
+          "url": "https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Good Thing Going",
+      "url": "https://open.spotify.com/track/4MM4UlT0j7MePs9bMoi34N"
+    },
+    {
+      "album": {
         "name": "Green Apple (Remastered)",
         "url": "https://open.spotify.com/album/5nBsDefsxr6HsxgWy3D8wC"
       },
@@ -965,7 +983,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 255800,
       "name": "Hail H.I.M - 2002 Remastered Version",
       "url": "https://open.spotify.com/track/155vJ1VsYZ87Gldi1gNss8"
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 232025,
       "name": "Helping Hand",
       "url": "https://open.spotify.com/track/0buhlFr2Fg6SHQy4jxA0E6"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 241568,
       "name": "Herb Dream",
       "url": "https://open.spotify.com/track/3SAhs863PsnHMnakY5JXRa"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 182784,
       "name": "I Spy",
       "url": "https://open.spotify.com/track/0zfNtF8NXVJXqkSil15J0v"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 256638,
       "name": "If Not Today",
       "url": "https://open.spotify.com/track/6l3N5PqwZlGBRTMljrX923"
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 230733,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/5QTEEImISE4USGEwqAci8O"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 192322,
       "name": "It's Just You And I - Remastered",
       "url": "https://open.spotify.com/track/1I1XhYic51dkEK1f7dTiio"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Jamming",
       "url": "https://open.spotify.com/track/1N33JzVusZ8awiZo6kcldO"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 195733,
       "name": "Kaya",
       "url": "https://open.spotify.com/track/5cr8A9dW3sFpGswVgZmiKx"
@@ -1557,7 +1575,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 212961,
       "name": "Ma'at (Each Man)",
       "url": "https://open.spotify.com/track/1QqhHG1fdZUG5slcMT4CNm"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 192284,
       "name": "Make Me Feel (feat. Rick Ross & Ari Lennox)",
       "url": "https://open.spotify.com/track/683pmH1N542FzPKKvs0Aqs"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 276439,
       "name": "Mama Lives",
       "url": "https://open.spotify.com/track/27TAB4E9Rdzyjht5TLh5h6"
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 200456,
       "name": "Masa",
       "url": "https://open.spotify.com/track/2MPHANK4pKwDFskGqirazp"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 191555,
       "name": "Million Times",
       "url": "https://open.spotify.com/track/3uk44fP88XJZ9rCqZicsXV"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 192861,
       "name": "Need Me (feat. Naomi Cowan)",
       "url": "https://open.spotify.com/track/178OsZmRE1RLsKp3R9krds"
@@ -2031,7 +2049,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 263289,
       "name": "Nzola",
       "url": "https://open.spotify.com/track/3kVhNdLKznwDBe2hFLkaD3"
@@ -2071,7 +2089,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 265626,
       "name": "One Draw",
       "url": "https://open.spotify.com/track/5X13b4CYce5Y6NYPfmYsXr"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 231773,
       "name": "One Drop",
       "url": "https://open.spotify.com/track/0lzOFW7ELjXom0Jua03stq"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 207341,
       "name": "One Love (in support of UNICEF)",
       "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 232160,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/2hkMWF9Ia7v6FW2HUE8mNd"
@@ -2357,7 +2375,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 142307,
       "name": "Planters Paradise (with Collie Buddz)",
       "url": "https://open.spotify.com/track/1LzeNuAVEpwx6vjHu5pedN"
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 177060,
       "name": "Push Time",
       "url": "https://open.spotify.com/track/45B7HWbHqhq4paZE8lgJ66"
@@ -2547,7 +2565,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 197121,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0zwnch3nbjis63CDaLHaNY"
@@ -2601,7 +2619,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 323853,
       "name": "Row Fisherman",
       "url": "https://open.spotify.com/track/3GpgLptxcPrmMb5fI7LKDr"
@@ -2787,7 +2805,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 181394,
       "name": "Sky Larking",
       "url": "https://open.spotify.com/track/5xMGVCPC8fptCrhBGqeFxa"
@@ -2911,7 +2929,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 177662,
       "name": "So Dangerous - Dub Mix",
       "url": "https://open.spotify.com/track/7juk6oXn7OuLZofybwUJGe"
@@ -3089,7 +3107,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 209546,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4smyzd6JsDctqs5Fy104LL"
@@ -3165,7 +3183,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 279382,
       "name": "Tell Me What a Gwan",
       "url": "https://open.spotify.com/track/5l7O8Wh0hHlX6QxgJWJGiX"
@@ -3263,7 +3281,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 200960,
       "name": "The International Herb",
       "url": "https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te"
@@ -3431,7 +3449,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 346302,
       "name": "Turn Your Lights Down Low",
       "url": "https://open.spotify.com/track/1ILZVxd4FCgURhwRRNKQ85"
@@ -3453,7 +3471,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 245173,
       "name": "Turn Your Lights Down Low - Exodus 40 Mix",
       "url": "https://open.spotify.com/track/5TeRGtKEdsBrAqChZBPfts"
@@ -3489,7 +3507,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 273426,
       "name": "Untold Stories",
       "url": "https://open.spotify.com/track/6Z0YMxE0W5mujDxXBNlGUN"
@@ -3547,7 +3565,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 192295,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4sCpwo7HL96gN54haNWGvv"

@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 219686,
       "name": "Doobey (From \"Gehraiyaan\")",
       "url": "https://open.spotify.com/track/7MBqVOzb8C3f0FXr2LBLiq"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 299821,
       "name": "Humraah (From \"Malang - Unleash The Madness\")",
       "url": "https://open.spotify.com/track/4xmkpE1Si5JL7NFxWrhV0S"
@@ -2335,7 +2335,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 181500,
       "name": "Radhe Title Track",
       "url": "https://open.spotify.com/track/2gyhvzmMPvwF9ZBKYhyuu9"
@@ -2369,6 +2369,28 @@
       "duration_ms": 219079,
       "name": "Rammo Rammo (From \"Bhuj The Pride Of India\")",
       "url": "https://open.spotify.com/track/7HbGfvqZKnxkbWDLHe6gso"
+    },
+    {
+      "album": {
+        "name": "Saami Saami (From \"Pushpa The Rise Part - 01\")",
+        "url": "https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227160,
+      "name": "Saami Saami (From \"Pushpa The Rise Part - 01\")",
+      "url": "https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF"
     },
     {
       "album": {

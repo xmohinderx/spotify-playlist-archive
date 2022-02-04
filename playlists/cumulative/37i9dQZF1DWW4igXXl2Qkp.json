@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: Saucy Santana, Artwork: Alfie Kungu\n",
+  "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: YSN Fab\n, Artwork: Alfie Kungu\n",
   "name": "Fresh Finds Hip-Hop",
   "published_playlist_ids": [
     "7ACRaTvmzFFb0E4bv2Gefa"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "2.22",
+        "url": "https://open.spotify.com/album/1QE0hjcBpz0mAEVLsQIBdL"
+      },
+      "artists": [
+        {
+          "name": "Wale the Sage",
+          "url": "https://open.spotify.com/artist/4alndwWPbM9ApMYLjg19oD"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "2.22",
+      "url": "https://open.spotify.com/track/20DGjoAcmyXTmEwn0rqyNx"
+    },
     {
       "album": {
         "name": "Enjoymenting",
@@ -325,6 +343,24 @@
       "duration_ms": 148645,
       "name": "BACC WEST",
       "url": "https://open.spotify.com/track/4NPMw50wQZHINMjzGYs4xr"
+    },
+    {
+      "album": {
+        "name": "Uncommon",
+        "url": "https://open.spotify.com/album/5uAoxq451k7pjHJrNlKxAy"
+      },
+      "artists": [
+        {
+          "name": "Kyle Banks",
+          "url": "https://open.spotify.com/artist/7fCkVWEYTo1f7hLsAyVaWE"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154136,
+      "name": "Bad Bih",
+      "url": "https://open.spotify.com/track/4wV8XlmqCVMH0ogyVUqe5Q"
     },
     {
       "album": {
@@ -654,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Burden Of The Divine",
+        "url": "https://open.spotify.com/album/7ApmpcQeRxuZhETLFiPOHF"
+      },
+      "artists": [
+        {
+          "name": "Kaos the Baker",
+          "url": "https://open.spotify.com/artist/5yQUWwTjk4VvhzshMkq5o4"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139481,
+      "name": "Burden Of The Divine",
+      "url": "https://open.spotify.com/track/7a7Cv0Prb7ZRPeav9ereGa"
+    },
+    {
+      "album": {
         "name": "Buss A Move",
         "url": "https://open.spotify.com/album/219JhC0FGKfLSaV2Ew9vCi"
       },
@@ -807,6 +861,24 @@
       "duration_ms": 122686,
       "name": "Conniving",
       "url": "https://open.spotify.com/track/5EYL9q1bReeJ67DwkSsGey"
+    },
+    {
+      "album": {
+        "name": "Covenant",
+        "url": "https://open.spotify.com/album/0COAiol8gZ3kcdlviRKzOz"
+      },
+      "artists": [
+        {
+          "name": "Rory Fresco",
+          "url": "https://open.spotify.com/artist/2R7Qt4vj8nbZzPDGv8sTqv"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151808,
+      "name": "Covenant",
+      "url": "https://open.spotify.com/track/7L9ype3HUCdH1AjJ3lyA8I"
     },
     {
       "album": {
@@ -1182,6 +1254,24 @@
     },
     {
       "album": {
+        "name": "Foreigns & Trackhawks",
+        "url": "https://open.spotify.com/album/7GgC2L1qY2y3twExhtYYK2"
+      },
+      "artists": [
+        {
+          "name": "Taleban Dooda",
+          "url": "https://open.spotify.com/artist/7aCA2LCzNmtAua4JrMvDb0"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146014,
+      "name": "Foreigns & Trackhawks",
+      "url": "https://open.spotify.com/track/4UfLpe2coVsWjywb1phLgL"
+    },
+    {
+      "album": {
         "name": "Four Walls",
         "url": "https://open.spotify.com/album/4OkCI1jrBlEzJ1KBNWP9QY"
       },
@@ -1197,6 +1287,28 @@
       "duration_ms": 103201,
       "name": "Four Walls",
       "url": "https://open.spotify.com/track/05VTU3Txslze8gIkvyi1Aw"
+    },
+    {
+      "album": {
+        "name": "Frozen Heart",
+        "url": "https://open.spotify.com/album/4ukHfwdXnAnYnPRetRk0ji"
+      },
+      "artists": [
+        {
+          "name": "Gusto",
+          "url": "https://open.spotify.com/artist/1iB58e5V9WVqwObrf2e6hu"
+        },
+        {
+          "name": "ZayZayy",
+          "url": "https://open.spotify.com/artist/3eTbd607L5kUrGe8MTWRFY"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169368,
+      "name": "Frozen Heart",
+      "url": "https://open.spotify.com/track/167jgkqsqeghnZ84FK8NZ2"
     },
     {
       "album": {
@@ -1501,7 +1613,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 129048,
       "name": "Hit My Cup",
       "url": "https://open.spotify.com/track/5M2Y4A2VH3cqO60dUbt2TW"
@@ -2920,6 +3032,24 @@
     },
     {
       "album": {
+        "name": "Time Away",
+        "url": "https://open.spotify.com/album/0Tk1KpRvKLUC00wWoayxVj"
+      },
+      "artists": [
+        {
+          "name": "YSN Fab",
+          "url": "https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197449,
+      "name": "Time Away",
+      "url": "https://open.spotify.com/track/7mJFpjuA85IyMmsHflTwX3"
+    },
+    {
+      "album": {
         "name": "TO THE MOON",
         "url": "https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt"
       },
@@ -2989,6 +3119,24 @@
       "duration_ms": 145423,
       "name": "Top Floor",
       "url": "https://open.spotify.com/track/625AFKib80nrvDSzIRqvOU"
+    },
+    {
+      "album": {
+        "name": "Trade It All",
+        "url": "https://open.spotify.com/album/4Hyw9B3QDXQ6SxBGgyVRZ5"
+      },
+      "artists": [
+        {
+          "name": "Jordan May",
+          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Trade It All",
+      "url": "https://open.spotify.com/track/7ss4s3jFOUjMUqNZXaUkWn"
     },
     {
       "album": {
@@ -3064,6 +3212,24 @@
     },
     {
       "album": {
+        "name": "Who Tf is Airplane James 2",
+        "url": "https://open.spotify.com/album/7o2cerUXwC4dLkIdQwZWeO"
+      },
+      "artists": [
+        {
+          "name": "Airplane James",
+          "url": "https://open.spotify.com/artist/1JhNLx2aikUAHfnzuwVw4q"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135815,
+      "name": "W T F 2",
+      "url": "https://open.spotify.com/track/3Q8i1SZH8MlWBhz6nzn3b6"
+    },
+    {
+      "album": {
         "name": "WADDUP BITCH",
         "url": "https://open.spotify.com/album/2Z9PYRbyzZ2fvl7h2nCAvy"
       },
@@ -3122,6 +3288,24 @@
     },
     {
       "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/5K3nW7r2TR5BE0ws6Xpats"
+      },
+      "artists": [
+        {
+          "name": "Jesse Boone",
+          "url": "https://open.spotify.com/artist/6aQVqPrSgYTlUKGI5lD5NO"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/3M2gIudnbke08mHonTJE4h"
+    },
+    {
+      "album": {
         "name": "Where I Come From",
         "url": "https://open.spotify.com/album/3ne81fhS9dI3WWtPTMzRJi"
       },
@@ -3173,6 +3357,42 @@
       "duration_ms": 154291,
       "name": "WOKEUPTHINKINBOUT",
       "url": "https://open.spotify.com/track/3HpRwCE2XIB9u1VXj5R6T9"
+    },
+    {
+      "album": {
+        "name": "Wootie Woot",
+        "url": "https://open.spotify.com/album/0345lMclCJhZWL1ygVEGZK"
+      },
+      "artists": [
+        {
+          "name": "A1 LaFlare",
+          "url": "https://open.spotify.com/artist/26Omwdwb4DkXvFtWEXtnb6"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172344,
+      "name": "Wootie Woot",
+      "url": "https://open.spotify.com/track/68zJpwbumV8Lx9DYb58rSO"
+    },
+    {
+      "album": {
+        "name": "You Again",
+        "url": "https://open.spotify.com/album/073EQPQAZCduQsVlppMv2J"
+      },
+      "artists": [
+        {
+          "name": "Joey Melrose",
+          "url": "https://open.spotify.com/artist/6b29OPfOOGNOsUOFLfxRrc"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130115,
+      "name": "You Again",
+      "url": "https://open.spotify.com/track/5Kfn8EXu3UyzUuLk6PK4Og"
     },
     {
       "album": {

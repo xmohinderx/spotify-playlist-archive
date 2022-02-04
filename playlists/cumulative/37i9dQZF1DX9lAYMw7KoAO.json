@@ -1018,6 +1018,24 @@
     },
     {
       "album": {
+        "name": "Taking care (Live at Bliss Experience)",
+        "url": "https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310278,
+      "name": "Taking care - Live at Bliss Experience",
+      "url": "https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo"
+    },
+    {
+      "album": {
         "name": "The Great Shepherd",
         "url": "https://open.spotify.com/album/33eY0hoLeLU58nPAFtDKiM"
       },
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 266000,
       "name": "Ti Oluwa ni ile",
       "url": "https://open.spotify.com/track/5AMDNyqqeOaskNITsQ65Mb"

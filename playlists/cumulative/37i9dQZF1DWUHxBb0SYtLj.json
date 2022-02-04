@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 165957,
       "name": "Caramelle",
       "url": "https://open.spotify.com/track/1BdRVY0Vw2LNWARt4CBzVn"
@@ -275,6 +275,28 @@
       "duration_ms": 188017,
       "name": "Chiara",
       "url": "https://open.spotify.com/track/2Ov7q88ry0QKbCzyKBlsGi"
+    },
+    {
+      "album": {
+        "name": "Chimica",
+        "url": "https://open.spotify.com/album/2DBfhRyn8ujtwUp3pTYvgc"
+      },
+      "artists": [
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        },
+        {
+          "name": "Donatella Rettore",
+          "url": "https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181312,
+      "name": "Chimica",
+      "url": "https://open.spotify.com/track/5u4WqrYhQA5BUvqN5syYil"
     },
     {
       "album": {
@@ -535,7 +557,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 241010,
       "name": "Feels",
       "url": "https://open.spotify.com/track/4EdWeGxr5dg4S2OKmsJPOq"
@@ -1113,7 +1135,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 161283,
       "name": "NOME",
       "url": "https://open.spotify.com/track/32LQPrBk6plmmLGY5e7mjw"
@@ -1171,6 +1193,42 @@
       "duration_ms": 180688,
       "name": "Numeri",
       "url": "https://open.spotify.com/track/7gSnlPaGSosD3JyDVGZ8VQ"
+    },
+    {
+      "album": {
+        "name": "Ritorno Al Futuro / Back To The Future",
+        "url": "https://open.spotify.com/album/216e0tvA3vyEZhzMAxJ0an"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233577,
+      "name": "O Forse Sei Tu",
+      "url": "https://open.spotify.com/track/6KmAKMya9pOL5RUl0FS46a"
+    },
+    {
+      "album": {
+        "name": "Ogni Volta \u00c8 Cos\u00ec",
+        "url": "https://open.spotify.com/album/1p4s0XUTVe2qfTZ07ojZdw"
+      },
+      "artists": [
+        {
+          "name": "Emma",
+          "url": "https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206857,
+      "name": "Ogni Volta \u00c8 Cos\u00ec",
+      "url": "https://open.spotify.com/track/2YqCCbTVa9ODiS754EXKxR"
     },
     {
       "album": {
@@ -1593,7 +1651,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 191181,
       "name": "Sud America",
       "url": "https://open.spotify.com/track/59bkQwuJTn6JYkjhFUrLA0"
@@ -1767,6 +1825,24 @@
       "duration_ms": 136363,
       "name": "Via Sicilia (feat. M\u00e8sa)",
       "url": "https://open.spotify.com/track/59kepW0qZOALiUmKFLdNWn"
+    },
+    {
+      "album": {
+        "name": "Voglio amarti",
+        "url": "https://open.spotify.com/album/5MXxiwMvnlzfWgpdp3EUxh"
+      },
+      "artists": [
+        {
+          "name": "Iva Zanicchi",
+          "url": "https://open.spotify.com/artist/06WyIm2la1sB8sKdfWAvU9"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Voglio amarti",
+      "url": "https://open.spotify.com/track/6UNuErV8ejuYcWyVDDGntN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUHxBb0SYtLj"

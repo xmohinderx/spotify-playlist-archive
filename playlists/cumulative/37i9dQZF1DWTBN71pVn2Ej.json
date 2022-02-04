@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Buds",
+        "url": "https://open.spotify.com/album/3aPtrtMapoYJdzVa7Jkc3M"
+      },
+      "artists": [
+        {
+          "name": "Ovlov",
+          "url": "https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97543,
+      "name": "Baby Shea",
+      "url": "https://open.spotify.com/track/1rfPkAinCwapsCXV5KTTGq"
+    },
+    {
+      "album": {
         "name": "Babysitter",
         "url": "https://open.spotify.com/album/7qBHkSXqErEPGGzKsz5k6N"
       },
@@ -188,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Bubblegum Infinity",
+        "url": "https://open.spotify.com/album/1sIkmuMAHX0LDBwDOmr8QE"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190543,
+      "name": "Bubblegum Infinity",
+      "url": "https://open.spotify.com/track/5tJFhreXnGMbEzobeAnHTI"
+    },
+    {
+      "album": {
         "name": "Budd Dwyer",
         "url": "https://open.spotify.com/album/1JIVqdJwKrH9aQla7vIYwj"
       },
@@ -199,7 +235,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 209428,
       "name": "Budd Dwyer",
       "url": "https://open.spotify.com/track/3gHYnjMwFgCQ5Xb7iUkn1j"
@@ -383,6 +419,24 @@
       "duration_ms": 176040,
       "name": "Cough Up Cherries",
       "url": "https://open.spotify.com/track/4Xyid6RWXc6zvgE20hQ2A6"
+    },
+    {
+      "album": {
+        "name": "Digital Atlas",
+        "url": "https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8"
+      },
+      "artists": [
+        {
+          "name": "Daisy Brain",
+          "url": "https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Digital Atlas",
+      "url": "https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl"
     },
     {
       "album": {
@@ -602,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186465,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY"
+    },
+    {
+      "album": {
         "name": "Retriever",
         "url": "https://open.spotify.com/album/7mWI8Asn8rQqYX0lXgHNhk"
       },
@@ -613,7 +685,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 198080,
       "name": "Hey Sis",
       "url": "https://open.spotify.com/track/18BngYNbP0xadmssigycDH"
@@ -671,6 +743,28 @@
       "duration_ms": 216976,
       "name": "I.W.G.F.U.",
       "url": "https://open.spotify.com/track/6nIsw8hm5Qwna1iwJYTwXc"
+    },
+    {
+      "album": {
+        "name": "Imaginary Fire",
+        "url": "https://open.spotify.com/album/0ZpAiTmi2EpqUqKYlWkfAx"
+      },
+      "artists": [
+        {
+          "name": "Carpenter Brut",
+          "url": "https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP"
+        },
+        {
+          "name": "Greg Puciato",
+          "url": "https://open.spotify.com/artist/3seAlZdPsUKKveZltRG7wi"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261186,
+      "name": "Imaginary Fire - feat. Greg Puciato",
+      "url": "https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll"
     },
     {
       "album": {
@@ -743,7 +837,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 241859,
       "name": "Lava Lamp Pisco",
       "url": "https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE"
@@ -779,7 +873,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 143952,
       "name": "Lightning Field",
       "url": "https://open.spotify.com/track/76EZdckv7V2EIyvSu6hpx8"
@@ -988,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/0GBaXfDNx3iAuOLsw9szJ6"
+      },
+      "artists": [
+        {
+          "name": "The Dead Love",
+          "url": "https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195453,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3lG1KQ70mUNVbYoOF21oUl"
+    },
+    {
+      "album": {
         "name": "Royal Blue",
         "url": "https://open.spotify.com/album/2dVUZqatr2wPgg1M8r0DRz"
       },
@@ -1071,7 +1183,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 200502,
       "name": "That Dress",
       "url": "https://open.spotify.com/track/2Ymkbl3dvodVlGeGOnCSYU"
@@ -1161,7 +1273,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 223567,
       "name": "Time Won't Wait",
       "url": "https://open.spotify.com/track/2mw4vltQ8uDvLo6cbYvRt7"

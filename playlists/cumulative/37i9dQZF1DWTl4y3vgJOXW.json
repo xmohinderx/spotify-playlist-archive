@@ -115,7 +115,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 179387,
       "name": "100 Bands (feat. Quavo, 21 Savage, YG & Meek Mill)",
       "url": "https://open.spotify.com/track/5duCElafuovM4ZSmkQL4hn"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 195720,
       "name": "8 Out Of 10",
       "url": "https://open.spotify.com/track/0zqy3ss4CwD6u4QPksS0nI"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 192968,
       "name": "Banana Split (with YNW Melly feat. Lil Durk)",
       "url": "https://open.spotify.com/track/57Lw4YmOvpighLOnwqiuKr"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 149040,
       "name": "Bop It (feat. Polo G)",
       "url": "https://open.spotify.com/track/0ASHuncZLdgqTcoGMIgUxR"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 180753,
       "name": "Both Sides (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/34xlXbZ4Ws3GGpUKeimDu5"
@@ -2271,7 +2271,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 195428,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt"
@@ -2768,6 +2768,28 @@
     },
     {
       "album": {
+        "name": "Nobody Safe",
+        "url": "https://open.spotify.com/album/1w3bK9CG80xsuDPlrz5EV7"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141692,
+      "name": "No Flash",
+      "url": "https://open.spotify.com/track/3DhQknNJsPtkRj1D7bxjvl"
+    },
+    {
+      "album": {
         "name": "No No No (feat. A Boogie Wit Da Hoodie)",
         "url": "https://open.spotify.com/album/6GL2N8tHwIQDWSMuHsrKWL"
       },
@@ -3085,7 +3107,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 193733,
       "name": "Pleading The Fifth (feat. Quavo)",
       "url": "https://open.spotify.com/track/3LUPftNsM4KOk7kINY8keB"
@@ -3257,7 +3279,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 195257,
       "name": "Put a Date On It (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/6PRh0ilIMEP1xlUHqalnkD"
@@ -4247,7 +4269,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 221226,
       "name": "Through The Wire",
       "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
@@ -4437,7 +4459,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 138541,
       "name": "Twerkulator",
       "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
@@ -4797,7 +4819,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 213890,
       "name": "Won't Forget",
       "url": "https://open.spotify.com/track/5B9pXIaMAAYqR85Ktec6u8"

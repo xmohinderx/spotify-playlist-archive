@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 228986,
       "name": "A Toast to the future kids!",
       "url": "https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 194906,
       "name": "All It Takes For Your Dreams To Come True",
       "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 358813,
       "name": "Blindfolds Aside",
       "url": "https://open.spotify.com/track/1DFkUwdatSC8hISBU0X1yV"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 197626,
       "name": "Decoration - Rock Version",
       "url": "https://open.spotify.com/track/6b9zC4tbdV3jmRtpErsKP1"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 287866,
       "name": "Devil In Jersey City",
       "url": "https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 220786,
       "name": "Die Romantic",
       "url": "https://open.spotify.com/track/3t9OWuyMpQclTWD6ABjqXj"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 276333,
       "name": "Failure On My Lips",
       "url": "https://open.spotify.com/track/7olQs21wmZmKQBuo9liALF"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 216853,
       "name": "Juneau",
       "url": "https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 256600,
       "name": "Let Live",
       "url": "https://open.spotify.com/track/68mQv5RUC8yKiBQxlSl0I4"
@@ -1085,7 +1085,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 200680,
       "name": "Let The Evil Go East",
       "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 224346,
       "name": "Mouths Like Sidewinder Misssles",
       "url": "https://open.spotify.com/track/0AlCpQIejCPdDNo4TCdVVq"
@@ -1283,7 +1283,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 265409,
       "name": "No Stars over Bethlehem",
       "url": "https://open.spotify.com/track/4Mqs6irS9aCNTjXznGfRbe"
@@ -1362,6 +1362,24 @@
     },
     {
       "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/6wXAqWSjKlf2NTWUhu6pdC"
+      },
+      "artists": [
+        {
+          "name": "Close to Home",
+          "url": "https://open.spotify.com/artist/1NgynHOx23zTkveKFZC7lu"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194520,
+      "name": "Pirates Belong At Sea",
+      "url": "https://open.spotify.com/track/2jLBZJ4KsYt0FTxhn2Kgmg"
+    },
+    {
+      "album": {
         "name": "Between the Heart and the Synapse",
         "url": "https://open.spotify.com/album/1M5DYiubn2ko8OpUs0lhEt"
       },
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 162920,
       "name": "Ravenous, Ravenous Rhinos",
       "url": "https://open.spotify.com/track/1YT8RiexjSXtUcLjD92N8V"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 565973,
       "name": "Short Stories With Tragic Endings",
       "url": "https://open.spotify.com/track/4eRtGBzP92gjIMOtal2kNB"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 222040,
       "name": "Standing on the Edge of Summer",
       "url": "https://open.spotify.com/track/5l2P0TBREso46wxFq4jQrI"
@@ -2039,7 +2057,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 266733,
       "name": "This War Is Ours (The Guillotine II)",
       "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
@@ -2367,7 +2385,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 217826,
       "name": "Young Cardinals",
       "url": "https://open.spotify.com/track/17H3w82ezx4QYYH6WnMmfr"

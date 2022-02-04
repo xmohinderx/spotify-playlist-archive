@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアーティスト: 4s4ki
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,186 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,213 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [space coaster](https://open.spotify.com/track/1Pu1l9IEPLIztN7DVDphE7) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Here or Heaven](https://open.spotify.com/album/7DFg0UhCaR6ZhWWLHSBsJm) | 2:27 |
+| 1 | [0h G0D!!](https://open.spotify.com/track/4UKQxrhRbEK4EoPhogImyX) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [0h G0D!!](https://open.spotify.com/album/3c36frCgAtPLhG6NRafhRL) | 2:40 |
 | 2 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 |
 | 3 | [you too](https://open.spotify.com/track/0DMcyN8eYoh9RpcpMohTHf) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [you too](https://open.spotify.com/album/0b4L8kSanI94EiIfxT6tNs) | 4:03 |
 | 4 | [まるごと](https://open.spotify.com/track/5i0AInYjZh8TuG16HyJDMZ) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [まるごと](https://open.spotify.com/album/0do13T8rlL2pjpvWCpx9R7) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [short pants](https://open.spotify.com/track/00fzV0xE0X7u04Ii5DeImF) | [uyuni](https://open.spotify.com/artist/2RKWObN13uSEWLSr866rSn), [Maphie](https://open.spotify.com/artist/38oAzEhxXOHHI96zBA29WP) | [short pants](https://open.spotify.com/album/5yUGxjWsmeSgiEKUIPm1UK) | 3:14 |
 | 50 | [デコイ](https://open.spotify.com/track/0tWMnqGsfZhXtD4z40pwUM) | [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [デコイ](https://open.spotify.com/album/2Sv0noxXPQNMDgvprcPqGC) | 3:13 |
 
-Snapshot ID: `MTY0MzczMjA5NSwwMDAwMDAxMjAwMDAwMTdlYjYxMTUwODgwMDAwMDE3ZWI1OTRhNTA5`
+Snapshot ID: `MTY0MzkwMDQwMCwwMDAwMDAxMzAwMDAwMTdlYzAxOTcyMWIwMDAwMDE3ZWI1OTRhNTA5`

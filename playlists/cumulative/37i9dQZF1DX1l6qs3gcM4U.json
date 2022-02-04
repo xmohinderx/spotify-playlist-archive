@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 228969,
       "name": "A Tua Boca",
       "url": "https://open.spotify.com/track/1ouCqdGHx92VMOXXbpyVSU"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 214353,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 206451,
       "name": "Comment vivre sans toi",
       "url": "https://open.spotify.com/track/0B2qVNmH4ngg1SpNH2zHzk"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 217276,
       "name": "Dem\u00f3nio da Tarraxinha",
       "url": "https://open.spotify.com/track/1lynGSW6MMqxWXNXJIXPSu"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 296000,
       "name": "Don't Judge Me (Saxo-Kizomba)",
       "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 174003,
       "name": "Dpos D'Quarentena",
       "url": "https://open.spotify.com/track/0ccb5rbfpzKAgfKmZNfzeN"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 204531,
       "name": "Escola",
       "url": "https://open.spotify.com/track/1WpDYqttO9wySpUvvk9tXG"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 283398,
       "name": "Eu Fa\u00e7o Tudo",
       "url": "https://open.spotify.com/track/0kERTymm6JXyMgKGMXCygE"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 233145,
       "name": "Evil Tarraxo",
       "url": "https://open.spotify.com/track/4jEswQpBN1ju5ioo12w3YF"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 195164,
       "name": "If You Don't Know",
       "url": "https://open.spotify.com/track/6pYBjiuWk8coTvo3shvcWw"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Insistir Porqu\u00ea - Saxo-Kizomba Remix",
       "url": "https://open.spotify.com/track/1T6FLxnygwAYRqBq02fZO0"
@@ -1661,7 +1661,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 211920,
       "name": "Milagre",
       "url": "https://open.spotify.com/track/1tekQ79Ve4kYKdtApLu6wX"
@@ -1704,6 +1704,24 @@
     },
     {
       "album": {
+        "name": "Novelas",
+        "url": "https://open.spotify.com/album/4SgROO0cwGappbjyiztgHZ"
+      },
+      "artists": [
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220995,
+      "name": "Mulher\u00e3o",
+      "url": "https://open.spotify.com/track/1Nw8yLoy7G0IObfjvAsfcI"
+    },
+    {
+      "album": {
         "name": "Na Bo Mon",
         "url": "https://open.spotify.com/album/72mZfjW41yycIsoeRfXoox"
       },
@@ -1741,7 +1759,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 151456,
       "name": "Na tua Back - Afro Love Remix",
       "url": "https://open.spotify.com/track/3WCKvFMwZvSlktfxRWyvq2"
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 244929,
       "name": "Nubian Queen",
       "url": "https://open.spotify.com/track/0ZWU5lJs0mA085Phf8PJA2"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 181666,
       "name": "N\u00e3o P\u00e1ra",
       "url": "https://open.spotify.com/track/3XXtwKEHyPJsgHurZFMWMt"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 236192,
       "name": "N\u00e3o Tem Que Encantar",
       "url": "https://open.spotify.com/track/7zEFn5PC91OB6KYFjCxMHi"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 186308,
       "name": "Perde Voo",
       "url": "https://open.spotify.com/track/0iMHeQ3WI6bHzQBkb6JpFB"
@@ -2269,7 +2287,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "Pronto Para Te Dar - Saxo-Kizomba Remix",
       "url": "https://open.spotify.com/track/5eHQKIHxF3G9BW8qpKpk3k"
@@ -2421,7 +2439,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 197956,
       "name": "Se Eu Pudesse",
       "url": "https://open.spotify.com/track/1Fpz7A3F56VQKfqz1KhGF5"
@@ -2501,7 +2519,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 192702,
       "name": "Sentimento",
       "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
@@ -2523,7 +2541,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 205785,
       "name": "Ser Feliz",
       "url": "https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I"
@@ -2593,7 +2611,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 202397,
       "name": "Sinto Falta",
       "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
@@ -2611,7 +2629,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 201780,
       "name": "So Nos",
       "url": "https://open.spotify.com/track/1BYeVkjrSN7APBly0piieC"
@@ -2629,7 +2647,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 226363,
       "name": "So Observo",
       "url": "https://open.spotify.com/track/4DRvNUiiqMcAffIwUJ6iAl"
@@ -2753,7 +2771,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 213948,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5AAwjKOObk8GPQBv2nPUhy"
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 206290,
       "name": "Tudo por Amor",
       "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
@@ -3125,7 +3143,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 261407,
       "name": "Water",
       "url": "https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X"

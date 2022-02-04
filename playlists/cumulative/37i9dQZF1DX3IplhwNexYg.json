@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Raw and unfiltered. Cover: Softcult",
+  "description": "Raw and unfiltered. Cover: The Linda Lindas",
   "name": "pulp",
   "published_playlist_ids": [
     "6icr08W6LxkqPUtZpmcgvv"
@@ -23,6 +23,24 @@
       "duration_ms": 141133,
       "name": "(You're Better) Than Ever",
       "url": "https://open.spotify.com/track/4oZbuLXzaXBHKLrMJQq3Ie"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/2R7HViCC1W5fNTEVYbWVog"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193117,
+      "name": "17",
+      "url": "https://open.spotify.com/track/6M6B25BFwE2h7W5izrDYmD"
     },
     {
       "album": {
@@ -289,7 +307,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 179784,
       "name": "Bet My Blood",
       "url": "https://open.spotify.com/track/1VkDsso47HItKLQh98kGfL"
@@ -678,6 +696,24 @@
     },
     {
       "album": {
+        "name": "Digital Atlas",
+        "url": "https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8"
+      },
+      "artists": [
+        {
+          "name": "Daisy Brain",
+          "url": "https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Digital Atlas",
+      "url": "https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl"
+    },
+    {
+      "album": {
         "name": "Dutch Courage",
         "url": "https://open.spotify.com/album/02f6WXw7JMV9NLf0Z7Evza"
       },
@@ -797,7 +833,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 183041,
       "name": "Finally Trying",
       "url": "https://open.spotify.com/track/6uHdG26Q6sU3nNRhkw1kj2"
@@ -905,7 +941,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 173314,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
@@ -1017,6 +1053,24 @@
       "duration_ms": 191493,
       "name": "Grow into a Ghost",
       "url": "https://open.spotify.com/track/18ZeOzEzTE49j59dOH84be"
+    },
+    {
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186465,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY"
     },
     {
       "album": {
@@ -1373,7 +1427,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 142760,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/0FGRPpBeQxkGEpnIChlnf8"
@@ -1427,7 +1481,7 @@
       ],
       "date_added": "2021-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 99761,
       "name": "Lux",
       "url": "https://open.spotify.com/track/3OBlUMdio4gMywyU63AhT9"
@@ -1900,6 +1954,24 @@
     },
     {
       "album": {
+        "name": "Show & Tell",
+        "url": "https://open.spotify.com/album/6rlVrcewSVgwBENyMbu5Hj"
+      },
+      "artists": [
+        {
+          "name": "Queen Cult",
+          "url": "https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207813,
+      "name": "Show & Tell",
+      "url": "https://open.spotify.com/track/5lKLRqfjytzxOGJtqOZqxF"
+    },
+    {
+      "album": {
         "name": "Octubre",
         "url": "https://open.spotify.com/album/1GMAtZzE5QxNlRoAnMH3f3"
       },
@@ -2023,6 +2095,24 @@
       "duration_ms": 183560,
       "name": "Strange Moments",
       "url": "https://open.spotify.com/track/3x24pZqzuOjUlWIoiM28Iz"
+    },
+    {
+      "album": {
+        "name": "Stranger Days",
+        "url": "https://open.spotify.com/album/1TaRqKa2nsaqSYMJgAwuvT"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251520,
+      "name": "Stranger Days",
+      "url": "https://open.spotify.com/track/2YrFwJC9jDaI0BoxtKRI9K"
     },
     {
       "album": {
@@ -2156,6 +2246,24 @@
     },
     {
       "album": {
+        "name": "The Way It Shatters",
+        "url": "https://open.spotify.com/album/4LGidB7kQRA1vAKEizMotl"
+      },
+      "artists": [
+        {
+          "name": "Rolling Blackouts Coastal Fever",
+          "url": "https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262105,
+      "name": "The Way It Shatters",
+      "url": "https://open.spotify.com/track/1TGXiKyuajqiA242dBji7H"
+    },
+    {
+      "album": {
         "name": "The Year I Broke",
         "url": "https://open.spotify.com/album/4MWAP25bhaNgK9ANcplc9J"
       },
@@ -2207,6 +2315,24 @@
       "duration_ms": 220285,
       "name": "TV or Not TV",
       "url": "https://open.spotify.com/track/69yLIX3dwFMpoAqW1a98O2"
+    },
+    {
+      "album": {
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211321,
+      "name": "Uzumaki",
+      "url": "https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Ricky Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,919 likes - 55 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,968 likes - 55 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 11 | [COCO](https://open.spotify.com/track/79ZVMS5alD90Gn8IcqNqWJ) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [COCO](https://open.spotify.com/album/5xmtZjDddcyk18H2nJFXxL) | 2:37 |
 | 12 | [Pacto](https://open.spotify.com/track/6wYP9kb4lxaj7GL6Khf3X9) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Pacto](https://open.spotify.com/album/4gkZxIXnqQlUYYWdHMTjuZ) | 2:31 |
 | 13 | [Al Punto de Sal](https://open.spotify.com/track/2wbCWSEma9xL0QU1pYHhHU) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4) | [Al Punto de Sal](https://open.spotify.com/album/50uiNwnoIllQuMMCQYd7TP) | 2:58 |
-| 14 | [Better Days \(feat\. Polo G\)](https://open.spotify.com/track/2psUZ3pOZZ95FHLgPvWv05) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days](https://open.spotify.com/album/4mxZdVQB1gMNYML5VTNJTo) | 3:42 |
+| 14 | [Better Days \(NEIKED x Mae Muller x J Balvin x Polo G\)](https://open.spotify.com/track/2psUZ3pOZZ95FHLgPvWv05) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days](https://open.spotify.com/album/4mxZdVQB1gMNYML5VTNJTo) | 3:42 |
 | 15 | [Callejera](https://open.spotify.com/track/6DoeuCz4P0NmD4aCghjgpf) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Callejera](https://open.spotify.com/album/1Q0pBlUdKI9x3ueSfFRIas) | 3:43 |
 | 16 | [Kriño](https://open.spotify.com/track/53y5byq0942aVeWaxU6mPa) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Kriño](https://open.spotify.com/album/4K7R30uuoDZeydb8wCMZTz) | 2:45 |
 | 17 | [Me Dejé Llevar](https://open.spotify.com/track/3Mc2Y3qgBL5WsQWjch3VVK) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Me Dejé Llevar](https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e) | 2:24 |

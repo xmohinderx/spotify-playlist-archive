@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: The Maine ft Taking Back Sunday & Charlotte Sands",
+  "description": "The best new music from the wide world of punk. Cover: AS IT IS",
   "name": "All New Punk",
   "published_playlist_ids": [
     "2haHBtUGc1WwW279RE9x3F"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d"
+      },
+      "artists": [
+        {
+          "name": "Aryia",
+          "url": "https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191145,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4"
+    },
     {
       "album": {
         "name": "2AM (And I Did It Again)",
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 195782,
       "name": "2AM (And I Did It Again)",
       "url": "https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm"
@@ -239,7 +257,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 169720,
       "name": "Brand New Day",
       "url": "https://open.spotify.com/track/1oQGm84reasoHKJFqkpqJ6"
@@ -430,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Couleurs G\u00e2t\u00e9es",
+        "url": "https://open.spotify.com/album/0cMuYvQJZ65V3PODhMHzBD"
+      },
+      "artists": [
+        {
+          "name": "Dolores Riposte",
+          "url": "https://open.spotify.com/artist/4icS5RWrIOlXZRVbJiE04D"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191875,
+      "name": "Couleurs G\u00e2t\u00e9es",
+      "url": "https://open.spotify.com/track/5WS3l2zz9chy6i9CJs4pEJ"
+    },
+    {
+      "album": {
         "name": "CRAWLER",
         "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
       },
@@ -481,6 +517,24 @@
       "duration_ms": 213746,
       "name": "Cupid's Arrow",
       "url": "https://open.spotify.com/track/4oHec8AQcjVR2EadYf5YPO"
+    },
+    {
+      "album": {
+        "name": "Demolition Row",
+        "url": "https://open.spotify.com/album/5yFJMmjk4FWPRWT8Bg2IBG"
+      },
+      "artists": [
+        {
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258250,
+      "name": "Demolition Row",
+      "url": "https://open.spotify.com/track/6xvVzP72OBjvUXkEvq9Gzg"
     },
     {
       "album": {
@@ -571,7 +625,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 243410,
       "name": "For Me This Is Heaven",
       "url": "https://open.spotify.com/track/52TEZQ5bTDa5qhnHD0hLQb"
@@ -625,7 +679,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 202098,
       "name": "GDP",
       "url": "https://open.spotify.com/track/4BXWW6fa5E2K7S1zBenkCx"
@@ -713,6 +767,24 @@
       "duration_ms": 160471,
       "name": "Green Squirrel in Pretty Bad Shape",
       "url": "https://open.spotify.com/track/33r1jonOpYUyWrk30ZeKHj"
+    },
+    {
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186465,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY"
     },
     {
       "album": {
@@ -806,6 +878,24 @@
     },
     {
       "album": {
+        "name": "I WENT TO HELL AND BACK",
+        "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177510,
+      "name": "I HATE ME TOO",
+      "url": "https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm"
+    },
+    {
+      "album": {
         "name": "I Just Wanna Be Silent",
         "url": "https://open.spotify.com/album/19cnCnUEYHC3rj71L1VgnQ"
       },
@@ -853,7 +943,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 203800,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
@@ -1094,6 +1184,24 @@
     },
     {
       "album": {
+        "name": "Disposable Life",
+        "url": "https://open.spotify.com/album/5gqYeI142C7UdF0eD8ZRLi"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197098,
+      "name": "Lonely Island",
+      "url": "https://open.spotify.com/track/0l0hy8NAZPk5qCzS2UTgu6"
+    },
+    {
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/3mXRDtSoMDVNKnJLuKBfP4"
       },
@@ -1178,6 +1286,24 @@
     },
     {
       "album": {
+        "name": "Mannequin Man",
+        "url": "https://open.spotify.com/album/66SfEAJkuQIKC9FUVYN4bh"
+      },
+      "artists": [
+        {
+          "name": "Panic Shack",
+          "url": "https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153515,
+      "name": "Mannequin Man",
+      "url": "https://open.spotify.com/track/3TLmInnvL9NKCvKYLMvxpx"
+    },
+    {
+      "album": {
         "name": "Million Miles of Fun",
         "url": "https://open.spotify.com/album/1VhAqOMUGqdwvDor4Q2gFx"
       },
@@ -1189,7 +1315,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 130399,
       "name": "Million Miles of Fun",
       "url": "https://open.spotify.com/track/7DSMyHPif7HO6qJCVGDw4n"
@@ -1373,7 +1499,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 190792,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/3LI1iEaWR4oVIcCP4WH7Uw"
@@ -1633,7 +1759,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 103529,
       "name": "Scared?",
       "url": "https://open.spotify.com/track/0vBejLwuDFquvttNH3JL73"
@@ -1712,7 +1838,7 @@
     },
     {
       "album": {
-        "name": "POP PUNK PONZI SCHEME",
+        "name": "POP PUNK PONZI SCHEME!!!",
         "url": "https://open.spotify.com/album/0rkZSgDbzpQA6elsUSzy8e"
       },
       "artists": [
@@ -1797,7 +1923,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 186371,
       "name": "sober",
       "url": "https://open.spotify.com/track/7qhIVH6Vov1CxFX7X7s8RM"
@@ -2140,6 +2266,24 @@
     },
     {
       "album": {
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/67C8VTP0JnMp3uYzVf09od"
+      },
+      "artists": [
+        {
+          "name": "Shoreline",
+          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125253,
+      "name": "White Boys Club",
+      "url": "https://open.spotify.com/track/7dAG2BCaz2fZQZoHQBH07i"
+    },
+    {
+      "album": {
         "name": "wondering how",
         "url": "https://open.spotify.com/album/2LtlOTWQmX9YYCVJ1VeNx9"
       },
@@ -2217,6 +2361,24 @@
       "duration_ms": 155300,
       "name": "Yellow Green",
       "url": "https://open.spotify.com/track/5JJcKhUALMKWz9VDUInNld"
+    },
+    {
+      "album": {
+        "name": "YOU DONT EVEN SURF HERE",
+        "url": "https://open.spotify.com/album/7Jq8Qi0zcMMUsUf7NfrcyT"
+      },
+      "artists": [
+        {
+          "name": "Destructo Disk",
+          "url": "https://open.spotify.com/artist/2kc0DEfYci8CKkvQmnivj9"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154918,
+      "name": "YOU DONT EVEN SURF HERE",
+      "url": "https://open.spotify.com/track/1bP1YIIORwvDEFx9hPEBzc"
     },
     {
       "album": {

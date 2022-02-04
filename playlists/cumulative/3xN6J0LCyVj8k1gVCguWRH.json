@@ -868,6 +868,24 @@
     },
     {
       "album": {
+        "name": "All of Me (Violin Cover)",
+        "url": "https://open.spotify.com/album/2nuESQoEZxXOXb620wUi6u"
+      },
+      "artists": [
+        {
+          "name": "Ana Done",
+          "url": "https://open.spotify.com/artist/6anugGmqslouP9IJwime7k"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275322,
+      "name": "All of Me - Violin Cover",
+      "url": "https://open.spotify.com/track/70YY5jN249Eq2lXijO8zsK"
+    },
+    {
+      "album": {
         "name": "The Great American Songbook",
         "url": "https://open.spotify.com/album/51TpP3EhivrdvCps2l5rgr"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw?si=GzY_u4r5SnWkuO2wT303eQ\">Malome Vector</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=-xYSyGAXTneDpoo8_IoajQ\">Makhadzi</a>",
   "name": "Made In South Africa",
   "published_playlist_ids": [
     "6BghGTymCVTsnBj72SFGI9"
@@ -326,6 +326,24 @@
     },
     {
       "album": {
+        "name": "Ngoku",
+        "url": "https://open.spotify.com/album/5EFVPzXx88teAhccDWYkWc"
+      },
+      "artists": [
+        {
+          "name": "Viwe",
+          "url": "https://open.spotify.com/artist/3Q0MK38M8FGQrpZ1dnh6k1"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127111,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/2BdVXGDBqMBLF8PCEqfYrL"
+    },
+    {
+      "album": {
         "name": "Fetch Your Life II",
         "url": "https://open.spotify.com/album/5OYCS95I7uk5MzjxbqRDgJ"
       },
@@ -385,6 +403,24 @@
       "duration_ms": 221201,
       "name": "Hold Me Down (feat. Msaki)",
       "url": "https://open.spotify.com/track/6J1TVC5SoFzRdrW0qLXeMA"
+    },
+    {
+      "album": {
+        "name": "A Stranger's Love",
+        "url": "https://open.spotify.com/album/4s7pUkiKwtwSshDa2rKAqf"
+      },
+      "artists": [
+        {
+          "name": "Harrison Mkhize",
+          "url": "https://open.spotify.com/artist/5h8373IjaJ4LHlcOGdky8w"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238826,
+      "name": "I'm gonna be alright",
+      "url": "https://open.spotify.com/track/6ZxZCtgXbgMhlnOA6zbHIX"
     },
     {
       "album": {
@@ -465,6 +501,28 @@
       "duration_ms": 341333,
       "name": "Izimpi",
       "url": "https://open.spotify.com/track/5HivUEOLwjCIpJQsXj0S9r"
+    },
+    {
+      "album": {
+        "name": "Kulakwe",
+        "url": "https://open.spotify.com/album/5WQ2GfzPnf3YN6vfI4Bmrv"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321435,
+      "name": "Kulakwe",
+      "url": "https://open.spotify.com/track/6aUiXtqc9Qu1nQcousv2pa"
     },
     {
       "album": {
@@ -587,6 +645,32 @@
       "duration_ms": 421751,
       "name": "Langa Elihle (feat. Spizzy & LeeMcKrazy)",
       "url": "https://open.spotify.com/track/3bi3IfHXusSIlCTC9ZIsr2"
+    },
+    {
+      "album": {
+        "name": "Langa Linye",
+        "url": "https://open.spotify.com/album/5SmgVjY1nTnyK8wil50fLx"
+      },
+      "artists": [
+        {
+          "name": "Mduduzi Ncube",
+          "url": "https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh"
+        },
+        {
+          "name": "Zakwe",
+          "url": "https://open.spotify.com/artist/53tX0k8tF3LaZYncnfpCtd"
+        },
+        {
+          "name": "Zamo Cofi",
+          "url": "https://open.spotify.com/artist/3NvuFbzWW4pgjO4L7uUEPv"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293540,
+      "name": "Langa Linye",
+      "url": "https://open.spotify.com/track/56OeFbi7h1lX31zXpLc5yh"
     },
     {
       "album": {
@@ -1110,6 +1194,28 @@
     },
     {
       "album": {
+        "name": "Se Mphuralele",
+        "url": "https://open.spotify.com/album/0Lk116yd9cfG7xhI2Vincx"
+      },
+      "artists": [
+        {
+          "name": "John Lundun",
+          "url": "https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk"
+        },
+        {
+          "name": "Filipo",
+          "url": "https://open.spotify.com/artist/3NhTyn2Veg6o9yaolJzv0t"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291504,
+      "name": "Se Mphuralele",
+      "url": "https://open.spotify.com/track/5ESamHUv2s6d7xhF9UqRe1"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/2gzo5OG9jbP3f6K6iF0vp5"
       },
@@ -1125,6 +1231,28 @@
       "duration_ms": 227480,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/3gmKj3ulv2GGeW4JkmphHE"
+    },
+    {
+      "album": {
+        "name": "Shiluba",
+        "url": "https://open.spotify.com/album/1K1iYTf9I7vQwVaplgJgay"
+      },
+      "artists": [
+        {
+          "name": "King-Mono",
+          "url": "https://open.spotify.com/artist/2R5nSmcYWwGBuIVk4FbA3z"
+        },
+        {
+          "name": "Austin Cal\u00e9b",
+          "url": "https://open.spotify.com/artist/3k7ci1OgUJLHxuy6zN6MXb"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210180,
+      "name": "Shiluba",
+      "url": "https://open.spotify.com/track/7h9v1OoKXTlu7nba8HBhfv"
     },
     {
       "album": {
@@ -1150,6 +1278,32 @@
     },
     {
       "album": {
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/3YMLijO64U5DnSopFGZHnO"
+      },
+      "artists": [
+        {
+          "name": "Shuga Cane",
+          "url": "https://open.spotify.com/artist/7sGQ4ofwoOfiwtDCZJY7tV"
+        },
+        {
+          "name": "Touchline",
+          "url": "https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz"
+        },
+        {
+          "name": "Daskidoh",
+          "url": "https://open.spotify.com/artist/0kja8d7Y2jmEMPREkWJf8U"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254768,
+      "name": "SMS",
+      "url": "https://open.spotify.com/track/2TBYp17F3QE4NfkpdY3X1T"
+    },
+    {
+      "album": {
         "name": "The Knowing",
         "url": "https://open.spotify.com/album/16j2tCVRkwBZttAiG8nQuJ"
       },
@@ -1165,6 +1319,24 @@
       "duration_ms": 152500,
       "name": "The Knowing",
       "url": "https://open.spotify.com/track/4wdJIe44V9G4zj5uj1hUjW"
+    },
+    {
+      "album": {
+        "name": "Ngoku",
+        "url": "https://open.spotify.com/album/5EFVPzXx88teAhccDWYkWc"
+      },
+      "artists": [
+        {
+          "name": "Viwe",
+          "url": "https://open.spotify.com/artist/3Q0MK38M8FGQrpZ1dnh6k1"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247536,
+      "name": "Two Strokes",
+      "url": "https://open.spotify.com/track/42S5AtrSNY05sTksB2p5o7"
     },
     {
       "album": {
@@ -1187,6 +1359,28 @@
       "duration_ms": 209413,
       "name": "Uhambo",
       "url": "https://open.spotify.com/track/0UQiDKv1PxequtKI6sp2Ia"
+    },
+    {
+      "album": {
+        "name": "Ukukhanya",
+        "url": "https://open.spotify.com/album/6qvWPfJ7gW3lddM6jdBo8D"
+      },
+      "artists": [
+        {
+          "name": "Eves Manxeba",
+          "url": "https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB"
+        },
+        {
+          "name": "May Jack",
+          "url": "https://open.spotify.com/artist/5n1fHEdqrwWfXCJQI1wQnO"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223520,
+      "name": "Ukukhanya",
+      "url": "https://open.spotify.com/track/21zXbMOdDs7BterIteBmvU"
     },
     {
       "album": {
@@ -1329,6 +1523,28 @@
       "duration_ms": 222786,
       "name": "Yelele",
       "url": "https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa"
+    },
+    {
+      "album": {
+        "name": "African Queen",
+        "url": "https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Jon Delinger",
+          "url": "https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275408,
+      "name": "Zwivhuya",
+      "url": "https://open.spotify.com/track/3YTPfXzK9TQOEODJD05cCj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L"

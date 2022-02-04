@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: James Hype
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,105 likes - 77 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,202 likes - 78 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,6 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 74 | [Make It Through](https://open.spotify.com/track/10y2Bcx3Xl6U4sQVjDYchn) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob) | [Make It Through](https://open.spotify.com/album/7fEghh7gpBc1CrY3DFTycI) | 3:34 |
 | 75 | [Illusions](https://open.spotify.com/track/70nUQ9n4i1jJiZLlo6OtR8) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Illusions](https://open.spotify.com/album/4oq6mGyGUEH6sG9oShCOrU) | 4:00 |
 | 76 | [Gift of Life](https://open.spotify.com/track/7hYvu99xJfuoxIHkNmFrXu) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Falling / Gift of Life](https://open.spotify.com/album/3JqnHutKl8g9uBGNsLasuF) | 3:54 |
-| 77 | [What We Do \- Radio Edit](https://open.spotify.com/track/5pT4oCTVYmkOHM39MSGF2O) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq), [Cami Jones](https://open.spotify.com/artist/1sW1zoUjNUrcs9eX7n2yE3) | [What We Do](https://open.spotify.com/album/2yoGvoRovYCuAGR6481FSU) | 3:35 |
+| 77 | [Colours](https://open.spotify.com/track/1hLwiZ6lfbPIrxHXrcpWJC) | [wAFF](https://open.spotify.com/artist/4OHSon9N7JAfxkjlH8nKDb) | [Colours](https://open.spotify.com/album/1UsK1kap4qYLNaSYwBlxxB) | 8:02 |
+| 78 | [What We Do \- Radio Edit](https://open.spotify.com/track/5pT4oCTVYmkOHM39MSGF2O) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq), [Cami Jones](https://open.spotify.com/artist/1sW1zoUjNUrcs9eX7n2yE3) | [What We Do](https://open.spotify.com/album/2yoGvoRovYCuAGR6481FSU) | 3:35 |
 
 Snapshot ID: `MTY0MzM4ODY5NiwwMDAwMDI1ZTAwMDAwMTdlYTE5OTc2ZDcwMDAwMDE3ZTljMDg0NzFl`

@@ -1,12 +1,12 @@
 {
   "description": "Sweet dreams are made of this. Relajate, es hora de dormir.",
-  "num_followers": 162646,
+  "num_followers": 162657,
   "original_name": "Buenas Noches",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg0ODY3MCwwMDAwMDAwMDdlYmEzYjYwOTFhNGUyNGI2Y2MwMDk1Y2I3Y2MzYWE2",
+  "snapshot_id": "MTY0MzkzNTEzNywwMDAwMDAwMDQzMjFkMmQzZTVlNTQ1Nzk1OTRkZWIxZjJkY2UzNTVh",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -23,26 +23,6 @@
       "duration_ms": 237840,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/6wzJmHese9OsbRsL6fE40u"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
-        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 197986,
-      "name": "Vals Po\u00e9tico (feat. Los Macorinos) - Instrumental",
-      "url": "https://open.spotify.com/track/1nFFFMgrtKN4Tq8WL28qlm"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -67,22 +47,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/51ng5rSLiaHnqrsCnMmLfC"
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
       },
       "artists": [
         {
-          "name": "Andre Corea",
-          "url": "https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         },
         {
-          "name": "AAESPO",
-          "url": "https://open.spotify.com/artist/6zhjVmPJZu9cmiv82lQv5D"
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/4efssYq66sMZusM0f9habM"
+      "duration_ms": 197986,
+      "name": "Vals Po\u00e9tico (feat. Los Macorinos) - Instrumental",
+      "url": "https://open.spotify.com/track/1nFFFMgrtKN4Tq8WL28qlm"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -119,66 +99,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Luc\u00eda y el Sexo (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv"
+        "name": "Sonidos Latinos",
+        "url": "https://open.spotify.com/album/0zsYRUl4gqxe6vggFXsk9h"
       },
       "artists": [
         {
-          "name": "Alberto Iglesias",
-          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
-        }
-      ],
-      "duration_ms": 76560,
-      "name": "Fotos",
-      "url": "https://open.spotify.com/track/5wpkn1RScqLvmUPaWVqtHy"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Fuente Y Caudal",
-        "url": "https://open.spotify.com/album/0pHfPUHHm4Ddy2ny04Xn0C"
-      },
-      "artists": [
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
         {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+          "name": "David Russell",
+          "url": "https://open.spotify.com/artist/1Ni1doOFD6ATODkZJSRT70"
         }
       ],
-      "duration_ms": 234026,
-      "name": "Reflejo De Luna - Instrumental",
-      "url": "https://open.spotify.com/track/4fuPIdKFxyt5w2KYbmpvWC"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Harp Guitar Christmas",
-        "url": "https://open.spotify.com/album/2PVJISam5pbin1Bt99zuO0"
-      },
-      "artists": [
-        {
-          "name": "Muriel Anderson",
-          "url": "https://open.spotify.com/artist/4YzYewhzHdLKLj8xdjaJVC"
-        }
-      ],
-      "duration_ms": 192293,
-      "name": "El Noi De La Mare - The Son Of Mary",
-      "url": "https://open.spotify.com/track/7IwbrFYIDqKuZy3L1oWTyl"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Yu Yi",
-        "url": "https://open.spotify.com/album/0CYQ8uAttBcTTf3EzEuan6"
-      },
-      "artists": [
-        {
-          "name": "Andre Corea",
-          "url": "https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe"
-        }
-      ],
-      "duration_ms": 281850,
-      "name": "Yu Yi",
-      "url": "https://open.spotify.com/track/29qHzM3DxQloBfrM5PIaOH"
+      "duration_ms": 154560,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/2yw3zRz46K4FE9lZf3tfwb"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -203,18 +139,38 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Camino",
-        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/51ng5rSLiaHnqrsCnMmLfC"
       },
       "artists": [
         {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+          "name": "Andre Corea",
+          "url": "https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe"
+        },
+        {
+          "name": "AAESPO",
+          "url": "https://open.spotify.com/artist/6zhjVmPJZu9cmiv82lQv5D"
         }
       ],
-      "duration_ms": 154906,
-      "name": "Alma",
-      "url": "https://open.spotify.com/track/4TKIm82qgyDWDHizsayzs1"
+      "duration_ms": 240000,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/4efssYq66sMZusM0f9habM"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Fuente Y Caudal",
+        "url": "https://open.spotify.com/album/0pHfPUHHm4Ddy2ny04Xn0C"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Reflejo De Luna - Instrumental",
+      "url": "https://open.spotify.com/track/4fuPIdKFxyt5w2KYbmpvWC"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -231,74 +187,6 @@
       "duration_ms": 257279,
       "name": "Planetarium",
       "url": "https://open.spotify.com/track/70RecAVg5QudOXfJs64sM5"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Sonidos Latinos",
-        "url": "https://open.spotify.com/album/0zsYRUl4gqxe6vggFXsk9h"
-      },
-      "artists": [
-        {
-          "name": "Manuel Ponce",
-          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
-        },
-        {
-          "name": "David Russell",
-          "url": "https://open.spotify.com/artist/1Ni1doOFD6ATODkZJSRT70"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/2yw3zRz46K4FE9lZf3tfwb"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Klexos",
-        "url": "https://open.spotify.com/album/4rWBjdfcie7h51l3lbDfoJ"
-      },
-      "artists": [
-        {
-          "name": "Andre Corea",
-          "url": "https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe"
-        }
-      ],
-      "duration_ms": 194364,
-      "name": "Klexos",
-      "url": "https://open.spotify.com/track/0wZAoM90syxxV83rvNCRvi"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Luc\u00eda y el Sexo (Banda Sonora Original)",
-        "url": "https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv"
-      },
-      "artists": [
-        {
-          "name": "Alberto Iglesias",
-          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
-        }
-      ],
-      "duration_ms": 116693,
-      "name": "Luc\u00eda",
-      "url": "https://open.spotify.com/track/1Bq0ca1doheGTHw83KBwPW"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Interstellar (Original Motion Picture Soundtrack) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1IXbQTfzPJiozrzpjBEbcf"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        }
-      ],
-      "duration_ms": 126959,
-      "name": "Cornfield Chase",
-      "url": "https://open.spotify.com/track/74qOrLoRGaAMJu0DXAsvqY"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -327,6 +215,158 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Arbitrage",
+        "url": "https://open.spotify.com/album/0yJYeEClw7pElTuqSN0ZqV"
+      },
+      "artists": [
+        {
+          "name": "Robi Botos",
+          "url": "https://open.spotify.com/artist/5jU6gDs60eyTyeB2nFxyuY"
+        }
+      ],
+      "duration_ms": 310320,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/13D0uDQBuE45fMoPhHGJ1o"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Luc\u00eda y el Sexo (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "duration_ms": 76560,
+      "name": "Fotos",
+      "url": "https://open.spotify.com/track/5wpkn1RScqLvmUPaWVqtHy"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "duration_ms": 84146,
+      "name": "Riding Horses",
+      "url": "https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Carlos Guastavino: Melodias Argentinas",
+        "url": "https://open.spotify.com/album/1AH1QP1VSX7V4mLbmvfP2n"
+      },
+      "artists": [
+        {
+          "name": "Carlos Guastavino",
+          "url": "https://open.spotify.com/artist/5tsUYkQxnLGOzfj31dWmvL"
+        },
+        {
+          "name": "Marcela Roggeri",
+          "url": "https://open.spotify.com/artist/7eHNjAADUow33FO8ZXTnja"
+        },
+        {
+          "name": "Florent H\u00e9au",
+          "url": "https://open.spotify.com/artist/3TIlkDLL5iVkwYjKo5KUQZ"
+        }
+      ],
+      "duration_ms": 107213,
+      "name": "Encantamiento (Seis Canciones de Cuna)",
+      "url": "https://open.spotify.com/track/0uFjSoOR9qGHfuS5Q1GFai"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/22A1qdhN1QsqpjYYRxSZEJ"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "Manh\u00e3 de Carnaval",
+      "url": "https://open.spotify.com/track/4lxOxd28qMjBDD7yY1flvm"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Il Postino",
+        "url": "https://open.spotify.com/album/1D2qHrYOMQUfChDujPByh0"
+      },
+      "artists": [
+        {
+          "name": "Luis Bacalov",
+          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
+        }
+      ],
+      "duration_ms": 140693,
+      "name": "Madreselva - Instrumental version",
+      "url": "https://open.spotify.com/track/4gIn078UAr5uSha7gZmZmU"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Yu Yi",
+        "url": "https://open.spotify.com/album/0CYQ8uAttBcTTf3EzEuan6"
+      },
+      "artists": [
+        {
+          "name": "Andre Corea",
+          "url": "https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe"
+        }
+      ],
+      "duration_ms": 281850,
+      "name": "Yu Yi",
+      "url": "https://open.spotify.com/track/29qHzM3DxQloBfrM5PIaOH"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Luc\u00eda y el Sexo (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "duration_ms": 116693,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/1Bq0ca1doheGTHw83KBwPW"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Harp Guitar Christmas",
+        "url": "https://open.spotify.com/album/2PVJISam5pbin1Bt99zuO0"
+      },
+      "artists": [
+        {
+          "name": "Muriel Anderson",
+          "url": "https://open.spotify.com/artist/4YzYewhzHdLKLj8xdjaJVC"
+        }
+      ],
+      "duration_ms": 192293,
+      "name": "El Noi De La Mare - The Son Of Mary",
+      "url": "https://open.spotify.com/track/7IwbrFYIDqKuZy3L1oWTyl"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "At the Movies",
         "url": "https://open.spotify.com/album/6gaiQ9lS2tcaVcs6JRNtu1"
       },
@@ -339,6 +379,98 @@
       "duration_ms": 224000,
       "name": "Love Theme (from \"Romeo and Juliet\")",
       "url": "https://open.spotify.com/track/0ntuV7nRcyEH9tigFIV0du"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "De Cerca",
+        "url": "https://open.spotify.com/album/2AaigSjWA8IIk1Gp9Ir0fi"
+      },
+      "artists": [
+        {
+          "name": "Josemi Carmona",
+          "url": "https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh"
+        },
+        {
+          "name": "Javier Colina",
+          "url": "https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW"
+        },
+        {
+          "name": "Bandolero",
+          "url": "https://open.spotify.com/artist/6niTO70iITOLZSrBscslVN"
+        }
+      ],
+      "duration_ms": 403000,
+      "name": "Morente Habichuela - Alegrias",
+      "url": "https://open.spotify.com/track/1gugdb6z5gqgFrJF7BCLnB"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1cYIgSWWkA7N5Wo0Sg5TTZ"
+      },
+      "artists": [
+        {
+          "name": "Emile Pandolfi",
+          "url": "https://open.spotify.com/artist/5BcEbeQq5n2fz8HbhI9CWU"
+        }
+      ],
+      "duration_ms": 252253,
+      "name": "Once Upon a December (from Anastasia)",
+      "url": "https://open.spotify.com/track/2PCTrOWob0vs0io6pfGOYS"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "The Complete Solo Guitar Music: Heitor Villa-Lobos",
+        "url": "https://open.spotify.com/album/1ULTJVkLSizWYzz9PqKFFa"
+      },
+      "artists": [
+        {
+          "name": "Fabio Zanon",
+          "url": "https://open.spotify.com/artist/7CxgDz8p96NJV3OVwDfwJ9"
+        },
+        {
+          "name": "Heitor Villa-Lobos",
+          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Five Preludes, No. 1 In E Minor",
+      "url": "https://open.spotify.com/track/0hyB8nQAuNkjO4djeVbkA8"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Klexos",
+        "url": "https://open.spotify.com/album/4rWBjdfcie7h51l3lbDfoJ"
+      },
+      "artists": [
+        {
+          "name": "Andre Corea",
+          "url": "https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe"
+        }
+      ],
+      "duration_ms": 194364,
+      "name": "Klexos",
+      "url": "https://open.spotify.com/track/0wZAoM90syxxV83rvNCRvi"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Volver: M\u00fasica De La Pel\u00edcula De Pedro Almodovar",
+        "url": "https://open.spotify.com/album/0jVz9VNj1IkCYGtHFd7S21"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "duration_ms": 257613,
+      "name": "Tema Llor\u00f3n",
+      "url": "https://open.spotify.com/track/6osLoxQ19YzcocFqDyEmzU"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -371,8 +503,8 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
       },
       "artists": [
         {
@@ -380,129 +512,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 84146,
-      "name": "Riding Horses",
-      "url": "https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Los R\u00edos de Alice (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/6C7Q2J5RKfLqcxmzzILwoN"
-      },
-      "artists": [
-        {
-          "name": "Vetusta Morla",
-          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
-        }
-      ],
-      "duration_ms": 120129,
-      "name": "Marea Baja",
-      "url": "https://open.spotify.com/track/2Ub9vJwzAd4bVMeVCWF9Rh"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/1cYIgSWWkA7N5Wo0Sg5TTZ"
-      },
-      "artists": [
-        {
-          "name": "Emile Pandolfi",
-          "url": "https://open.spotify.com/artist/5BcEbeQq5n2fz8HbhI9CWU"
-        }
-      ],
-      "duration_ms": 252253,
-      "name": "Once Upon a December (from Anastasia)",
-      "url": "https://open.spotify.com/track/2PCTrOWob0vs0io6pfGOYS"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Volver: M\u00fasica De La Pel\u00edcula De Pedro Almodovar",
-        "url": "https://open.spotify.com/album/0jVz9VNj1IkCYGtHFd7S21"
-      },
-      "artists": [
-        {
-          "name": "Alberto Iglesias",
-          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
-        }
-      ],
-      "duration_ms": 257613,
-      "name": "Tema Llor\u00f3n",
-      "url": "https://open.spotify.com/track/6osLoxQ19YzcocFqDyEmzU"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Up \u2022 Ratatouille \u2022 The Incredibles - Music from the Walt Disney/Pixar Films for Solo Piano by Michael Giacchino",
-        "url": "https://open.spotify.com/album/2hHgm01YtJ5OaMQ4x9hCeQ"
-      },
-      "artists": [
-        {
-          "name": "Mark Northam",
-          "url": "https://open.spotify.com/artist/4weansSvkFXZmnwOKGHMSg"
-        }
-      ],
-      "duration_ms": 275335,
-      "name": "Married Life",
-      "url": "https://open.spotify.com/track/2etvG88hi5pgMyjcFMjOaY"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "De Cerca",
-        "url": "https://open.spotify.com/album/2AaigSjWA8IIk1Gp9Ir0fi"
-      },
-      "artists": [
-        {
-          "name": "Josemi Carmona",
-          "url": "https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh"
-        },
-        {
-          "name": "Javier Colina",
-          "url": "https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW"
-        },
-        {
-          "name": "Bandolero",
-          "url": "https://open.spotify.com/artist/6niTO70iITOLZSrBscslVN"
-        }
-      ],
-      "duration_ms": 403000,
-      "name": "Morente Habichuela - Alegrias",
-      "url": "https://open.spotify.com/track/1gugdb6z5gqgFrJF7BCLnB"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Flamenco Guitar: Flamenco Dance Chillout Music",
-        "url": "https://open.spotify.com/album/3RUanqBy5GAOHjr08irUEz"
-      },
-      "artists": [
-        {
-          "name": "Flamenco Music Musica Flamenca Chill Out",
-          "url": "https://open.spotify.com/artist/6Rc650o8FvccjudHys09Vr"
-        }
-      ],
-      "duration_ms": 231500,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/1HLjEoE0Ltos1wfzDTAHUX"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Il Postino",
-        "url": "https://open.spotify.com/album/1D2qHrYOMQUfChDujPByh0"
-      },
-      "artists": [
-        {
-          "name": "Luis Bacalov",
-          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
-        }
-      ],
-      "duration_ms": 140693,
-      "name": "Madreselva - Instrumental version",
-      "url": "https://open.spotify.com/track/4gIn078UAr5uSha7gZmZmU"
+      "duration_ms": 154906,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/4TKIm82qgyDWDHizsayzs1"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -523,24 +535,80 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Cascade Street",
-        "url": "https://open.spotify.com/album/3BHCDMeKEafTuyRoKb7NeQ"
+        "name": "Los R\u00edos de Alice (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6C7Q2J5RKfLqcxmzzILwoN"
       },
       "artists": [
         {
-          "name": "Yann Tiersen",
-          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+          "name": "Vetusta Morla",
+          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
         }
       ],
-      "duration_ms": 133666,
-      "name": "Summer Nursery Rhyme, No. 2",
-      "url": "https://open.spotify.com/track/6POheCDFPmnlAvO0ZWhOJN"
+      "duration_ms": 120129,
+      "name": "Marea Baja",
+      "url": "https://open.spotify.com/track/2Ub9vJwzAd4bVMeVCWF9Rh"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Ronroco",
-        "url": "https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9"
+        "name": "Piazzolla / Five Tango Sensations",
+        "url": "https://open.spotify.com/album/2bTSNmLE1THh68IfCqb0wO"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "Bandone\u00f3n",
+          "url": "https://open.spotify.com/artist/2y96EwnUYgJlJ2Xk8fEVex"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "duration_ms": 328573,
+      "name": "Five Tango Sensations: Asleep - Dreaming",
+      "url": "https://open.spotify.com/track/5DMk4aG97MCz8WhrtUQJ4y"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1IXbQTfzPJiozrzpjBEbcf"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "duration_ms": 126959,
+      "name": "Cornfield Chase",
+      "url": "https://open.spotify.com/track/74qOrLoRGaAMJu0DXAsvqY"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Up \u2022 Ratatouille \u2022 The Incredibles - Music from the Walt Disney/Pixar Films for Solo Piano by Michael Giacchino",
+        "url": "https://open.spotify.com/album/2hHgm01YtJ5OaMQ4x9hCeQ"
+      },
+      "artists": [
+        {
+          "name": "Mark Northam",
+          "url": "https://open.spotify.com/artist/4weansSvkFXZmnwOKGHMSg"
+        }
+      ],
+      "duration_ms": 275335,
+      "name": "Married Life",
+      "url": "https://open.spotify.com/track/2etvG88hi5pgMyjcFMjOaY"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "On The Road [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1lxrEDfl1a8ZvhD5ZqmXLV"
       },
       "artists": [
         {
@@ -548,57 +616,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 199106,
-      "name": "Coyita",
-      "url": "https://open.spotify.com/track/016vA5iOfrn9LdFWpoIYr3"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Entre Dos Aguas",
-        "url": "https://open.spotify.com/album/3pWmGwLDx5CRtha5fhPdOS"
-      },
-      "artists": [
-        {
-          "name": "Paco de Luc\u00eda",
-          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
-        }
-      ],
-      "duration_ms": 362093,
-      "name": "Entre Dos Aguas",
-      "url": "https://open.spotify.com/track/7KKx4INB8LyGUeNXKiqQHK"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Tapas: Le balbum (L'honneur de ceux qui le font, le bonheur de ceux qui l'ont - Musique du monde et d'ailleurs)",
-        "url": "https://open.spotify.com/album/3yaI16gHYK3yMlCdeIqeXR"
-      },
-      "artists": [
-        {
-          "name": "Accordz\u00eaam",
-          "url": "https://open.spotify.com/artist/0YipPOM5AooNU5bq9F1v0h"
-        }
-      ],
-      "duration_ms": 340506,
-      "name": "Natzurka",
-      "url": "https://open.spotify.com/track/01KKzUvn5d4MHoMcIqnJEy"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Brendan et le secret de Kells",
-        "url": "https://open.spotify.com/album/2KXh9luUpayBMucDcdIrWl"
-      },
-      "artists": [
-        {
-          "name": "Bruno Coulais",
-          "url": "https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R"
-        }
-      ],
-      "duration_ms": 295025,
-      "name": "The Book of Kells",
-      "url": "https://open.spotify.com/track/1SrIqVTPCu442WhQA6A9tU"
+      "duration_ms": 332346,
+      "name": "Lovin' IT",
+      "url": "https://open.spotify.com/track/4X8aAsQvxASw4qky3hfFRg"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -619,82 +639,50 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "RE-FOC",
-        "url": "https://open.spotify.com/album/5lQCvQ48pbjcODGawER5gj"
+        "name": "Cascade Street",
+        "url": "https://open.spotify.com/album/3BHCDMeKEafTuyRoKb7NeQ"
       },
       "artists": [
         {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
         }
       ],
-      "duration_ms": 254933,
-      "name": "30 De Marzo",
-      "url": "https://open.spotify.com/track/0GMT9zHQXBtose5Nz5vytZ"
+      "duration_ms": 133666,
+      "name": "Summer Nursery Rhyme, No. 2",
+      "url": "https://open.spotify.com/track/6POheCDFPmnlAvO0ZWhOJN"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Bistro Fada",
-        "url": "https://open.spotify.com/album/5mTSSRzpn80KfvSBitxemy"
+        "name": "Entre Dos Aguas",
+        "url": "https://open.spotify.com/album/3pWmGwLDx5CRtha5fhPdOS"
       },
       "artists": [
         {
-          "name": "Stephane Wrembel",
-          "url": "https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm"
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
         }
       ],
-      "duration_ms": 234188,
-      "name": "Big Brother (from the Motion Picture \"Vicky Cristina Barcelona\")",
-      "url": "https://open.spotify.com/track/0vNtHflJNrmP6EIdtolEs4"
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/7KKx4INB8LyGUeNXKiqQHK"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Los R\u00edos de Alice (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/6C7Q2J5RKfLqcxmzzILwoN"
+        "name": "Flamenco Guitar: Flamenco Dance Chillout Music",
+        "url": "https://open.spotify.com/album/3RUanqBy5GAOHjr08irUEz"
       },
       "artists": [
         {
-          "name": "Vetusta Morla",
-          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
+          "name": "Flamenco Music Musica Flamenca Chill Out",
+          "url": "https://open.spotify.com/artist/6Rc650o8FvccjudHys09Vr"
         }
       ],
-      "duration_ms": 148929,
-      "name": "Los R\u00edos de Alice",
-      "url": "https://open.spotify.com/track/6Q7dyS0dLXNHaBj2esXTi6"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Viajero",
-        "url": "https://open.spotify.com/album/22A1qdhN1QsqpjYYRxSZEJ"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hanlon",
-          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Manh\u00e3 de Carnaval",
-      "url": "https://open.spotify.com/track/4lxOxd28qMjBDD7yY1flvm"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "On The Road [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/1lxrEDfl1a8ZvhD5ZqmXLV"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        }
-      ],
-      "duration_ms": 332346,
-      "name": "Lovin' IT",
-      "url": "https://open.spotify.com/track/4X8aAsQvxASw4qky3hfFRg"
+      "duration_ms": 231500,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/1HLjEoE0Ltos1wfzDTAHUX"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -723,18 +711,34 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Arbitrage",
-        "url": "https://open.spotify.com/album/0yJYeEClw7pElTuqSN0ZqV"
+        "name": "RE-FOC",
+        "url": "https://open.spotify.com/album/5lQCvQ48pbjcODGawER5gj"
       },
       "artists": [
         {
-          "name": "Robi Botos",
-          "url": "https://open.spotify.com/artist/5jU6gDs60eyTyeB2nFxyuY"
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
         }
       ],
-      "duration_ms": 310320,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/13D0uDQBuE45fMoPhHGJ1o"
+      "duration_ms": 254933,
+      "name": "30 De Marzo",
+      "url": "https://open.spotify.com/track/0GMT9zHQXBtose5Nz5vytZ"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Los R\u00edos de Alice (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6C7Q2J5RKfLqcxmzzILwoN"
+      },
+      "artists": [
+        {
+          "name": "Vetusta Morla",
+          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
+        }
+      ],
+      "duration_ms": 148929,
+      "name": "Los R\u00edos de Alice",
+      "url": "https://open.spotify.com/track/6Q7dyS0dLXNHaBj2esXTi6"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -763,62 +767,82 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "The Complete Solo Guitar Music: Heitor Villa-Lobos",
-        "url": "https://open.spotify.com/album/1ULTJVkLSizWYzz9PqKFFa"
+        "name": "Bistro Fada",
+        "url": "https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ"
       },
       "artists": [
         {
-          "name": "Fabio Zanon",
-          "url": "https://open.spotify.com/artist/7CxgDz8p96NJV3OVwDfwJ9"
-        },
-        {
-          "name": "Heitor Villa-Lobos",
-          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+          "name": "Stephane Wrembel",
+          "url": "https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm"
         }
       ],
-      "duration_ms": 278693,
-      "name": "Five Preludes, No. 1 In E Minor",
-      "url": "https://open.spotify.com/track/0hyB8nQAuNkjO4djeVbkA8"
+      "duration_ms": 182933,
+      "name": "Bistro Fada",
+      "url": "https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Carlos Guastavino: Melodias Argentinas",
-        "url": "https://open.spotify.com/album/1AH1QP1VSX7V4mLbmvfP2n"
+        "name": "Motorcycle Diaries",
+        "url": "https://open.spotify.com/album/58pSUpShA89C9by7g4SSIV"
       },
       "artists": [
         {
-          "name": "Carlos Guastavino",
-          "url": "https://open.spotify.com/artist/5tsUYkQxnLGOzfj31dWmvL"
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         },
         {
-          "name": "Marcela Roggeri",
-          "url": "https://open.spotify.com/artist/7eHNjAADUow33FO8ZXTnja"
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
         },
         {
-          "name": "Florent H\u00e9au",
-          "url": "https://open.spotify.com/artist/3TIlkDLL5iVkwYjKo5KUQZ"
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
         }
       ],
-      "duration_ms": 107213,
-      "name": "Encantamiento (Seis Canciones de Cuna)",
-      "url": "https://open.spotify.com/track/0uFjSoOR9qGHfuS5Q1GFai"
+      "duration_ms": 187466,
+      "name": "Leyendo en el Hospital",
+      "url": "https://open.spotify.com/track/6XRfJvxL5hIZwPWDJK7Obr"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Gypsy Rumble",
-        "url": "https://open.spotify.com/album/3e39bLX6BgsDCaiQmqrlBt"
+        "name": "Brendan et le secret de Kells",
+        "url": "https://open.spotify.com/album/2KXh9luUpayBMucDcdIrWl"
       },
       "artists": [
         {
-          "name": "The Stephane Wrembel Trio With David Grisman",
-          "url": "https://open.spotify.com/artist/2avaXPIQz3YqYar1jwF0yz"
+          "name": "Bruno Coulais",
+          "url": "https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R"
         }
       ],
-      "duration_ms": 204840,
-      "name": "Les Deux Guitares",
-      "url": "https://open.spotify.com/track/6UJQTS2H8ZuuIdP1GU4oYa"
+      "duration_ms": 295025,
+      "name": "The Book of Kells",
+      "url": "https://open.spotify.com/track/1SrIqVTPCu442WhQA6A9tU"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Tapas: Le balbum (L'honneur de ceux qui le font, le bonheur de ceux qui l'ont - Musique du monde et d'ailleurs)",
+        "url": "https://open.spotify.com/album/3yaI16gHYK3yMlCdeIqeXR"
+      },
+      "artists": [
+        {
+          "name": "Accordz\u00eaam",
+          "url": "https://open.spotify.com/artist/0YipPOM5AooNU5bq9F1v0h"
+        }
+      ],
+      "duration_ms": 340506,
+      "name": "Natzurka",
+      "url": "https://open.spotify.com/track/01KKzUvn5d4MHoMcIqnJEy"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -859,70 +883,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Starlite Unlimited Plays Music from Woody Allen Movies",
-        "url": "https://open.spotify.com/album/4TYY6UxDiIkDfJ2d914w3H"
-      },
-      "artists": [
-        {
-          "name": "Starlite Unlimited",
-          "url": "https://open.spotify.com/artist/6PrFrHw9A9OGlUJkhzXmXb"
-        }
-      ],
-      "duration_ms": 291066,
-      "name": "Granada - From Vicky Cristina Barcelona",
-      "url": "https://open.spotify.com/track/4Lks6csj4oksGZOvpcwrri"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Motorcycle Diaries",
-        "url": "https://open.spotify.com/album/58pSUpShA89C9by7g4SSIV"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Santaolalla",
-          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
-        },
-        {
-          "name": "Don Markese",
-          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
-        },
-        {
-          "name": "Braulio Barrera",
-          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
-        },
-        {
-          "name": "Javier Casalla",
-          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
-        },
-        {
-          "name": "Anibal Kerpel",
-          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
-        }
-      ],
-      "duration_ms": 187466,
-      "name": "Leyendo en el Hospital",
-      "url": "https://open.spotify.com/track/6XRfJvxL5hIZwPWDJK7Obr"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Bistro Fada",
-        "url": "https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ"
-      },
-      "artists": [
-        {
-          "name": "Stephane Wrembel",
-          "url": "https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Bistro Fada",
-      "url": "https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Tabarly / B.O.F De Yann Tiersen",
         "url": "https://open.spotify.com/album/77DRf1X1rVBDhXVaIogs2X"
       },
@@ -939,42 +899,82 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Piazzolla / Five Tango Sensations",
-        "url": "https://open.spotify.com/album/2bTSNmLE1THh68IfCqb0wO"
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
       },
       "artists": [
         {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
-        },
-        {
-          "name": "Bandone\u00f3n",
-          "url": "https://open.spotify.com/artist/2y96EwnUYgJlJ2Xk8fEVex"
-        },
-        {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 328573,
-      "name": "Five Tango Sensations: Asleep - Dreaming",
-      "url": "https://open.spotify.com/track/5DMk4aG97MCz8WhrtUQJ4y"
+      "duration_ms": 78813,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/2A19JbqthRuELixxSCzRg9"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "The Hours (Music from the Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4F0LJueCDliCH7Bg4PPVil"
+        "name": "Bistro Fada",
+        "url": "https://open.spotify.com/album/5mTSSRzpn80KfvSBitxemy"
       },
       "artists": [
         {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+          "name": "Stephane Wrembel",
+          "url": "https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm"
         }
       ],
-      "duration_ms": 223266,
-      "name": "The Poet Acts",
-      "url": "https://open.spotify.com/track/0XiMoe7Dh3CcF5sYNWIwYR"
+      "duration_ms": 234188,
+      "name": "Big Brother (from the Motion Picture \"Vicky Cristina Barcelona\")",
+      "url": "https://open.spotify.com/track/0vNtHflJNrmP6EIdtolEs4"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Gypsy Rumble",
+        "url": "https://open.spotify.com/album/3e39bLX6BgsDCaiQmqrlBt"
+      },
+      "artists": [
+        {
+          "name": "The Stephane Wrembel Trio With David Grisman",
+          "url": "https://open.spotify.com/artist/2avaXPIQz3YqYar1jwF0yz"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "Les Deux Guitares",
+      "url": "https://open.spotify.com/track/6UJQTS2H8ZuuIdP1GU4oYa"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "En t'attendant",
+        "url": "https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lanie Laurent",
+          "url": "https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN"
+        }
+      ],
+      "duration_ms": 160066,
+      "name": "D\u00e9but",
+      "url": "https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Starlite Unlimited Plays Music from Woody Allen Movies",
+        "url": "https://open.spotify.com/album/4TYY6UxDiIkDfJ2d914w3H"
+      },
+      "artists": [
+        {
+          "name": "Starlite Unlimited",
+          "url": "https://open.spotify.com/artist/6PrFrHw9A9OGlUJkhzXmXb"
+        }
+      ],
+      "duration_ms": 291066,
+      "name": "Granada - From Vicky Cristina Barcelona",
+      "url": "https://open.spotify.com/track/4Lks6csj4oksGZOvpcwrri"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -995,8 +995,8 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Brokeback Mountain Soundtrack",
-        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+        "name": "Ronroco",
+        "url": "https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9"
       },
       "artists": [
         {
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
         }
       ],
-      "duration_ms": 78813,
-      "name": "Snow",
-      "url": "https://open.spotify.com/track/2A19JbqthRuELixxSCzRg9"
+      "duration_ms": 199106,
+      "name": "Coyita",
+      "url": "https://open.spotify.com/track/016vA5iOfrn9LdFWpoIYr3"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "En t'attendant",
-        "url": "https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W"
+        "name": "The Hours (Music from the Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4F0LJueCDliCH7Bg4PPVil"
       },
       "artists": [
         {
-          "name": "M\u00e9lanie Laurent",
-          "url": "https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN"
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
         }
       ],
-      "duration_ms": 160066,
-      "name": "D\u00e9but",
-      "url": "https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk"
+      "duration_ms": 223266,
+      "name": "The Poet Acts",
+      "url": "https://open.spotify.com/track/0XiMoe7Dh3CcF5sYNWIwYR"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Glass Piano",
-        "url": "https://open.spotify.com/album/7lCXCQKYVxVwGDePzmEQRj"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Bruce Brubaker",
-          "url": "https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ"
-        }
-      ],
-      "duration_ms": 387490,
-      "name": "Metamorphosis 1",
-      "url": "https://open.spotify.com/track/55v3givMbmHrQvCXF0mJRl"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "Albeniz: Granada; Asturias; Mallorca; Cordoba; Torre Bermeja; Cadiz; Zambra; Tango - Sony Classical Masters",
         "url": "https://open.spotify.com/album/5lY62FNmxjms4v3OMTGFWl"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 372733,
       "name": "Suite Espa\u00f1ola No. 1, Op. 47: No. 5, Asturias (Leyenda) [Arranged by John Williams for Guitar]",
       "url": "https://open.spotify.com/track/2u6GTNZF07O4mmFg8CZozY"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Glass Piano",
+        "url": "https://open.spotify.com/album/7lCXCQKYVxVwGDePzmEQRj"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Bruce Brubaker",
+          "url": "https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ"
+        }
+      ],
+      "duration_ms": 387490,
+      "name": "Metamorphosis 1",
+      "url": "https://open.spotify.com/track/55v3givMbmHrQvCXF0mJRl"
     },
     {
       "added_at": "2022-01-01 08:00:00",

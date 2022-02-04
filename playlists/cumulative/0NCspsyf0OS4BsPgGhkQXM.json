@@ -1292,6 +1292,24 @@
     },
     {
       "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/3zOh32D5fBrhgPMUnKwyiE"
+      },
+      "artists": [
+        {
+          "name": "Rossy",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229091,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/4O3acCqL5poIvUl1px4WES"
+    },
+    {
+      "album": {
         "name": "I'm Dreaming",
         "url": "https://open.spotify.com/album/5OrbMYF9w0mxSi5mwtLoYR"
       },
@@ -2452,6 +2470,28 @@
     },
     {
       "album": {
+        "name": "Say Nothing (feat. MAY-A)",
+        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232959,
+      "name": "Say Nothing (feat. MAY-A)",
+      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
+    },
+    {
+      "album": {
         "name": "Say What You Want",
         "url": "https://open.spotify.com/album/0akxBbpsWDFvxrgbxA3oxh"
       },
@@ -2909,6 +2949,46 @@
       "duration_ms": 157866,
       "name": "Who Will Save Us - hyperforms Remix",
       "url": "https://open.spotify.com/track/4mBCcNSM2GDYVHTZlImRQJ"
+    },
+    {
+      "album": {
+        "name": "Wild Love",
+        "url": "https://open.spotify.com/album/6RZ0UG0miL0MkFY1QDnxRF"
+      },
+      "artists": [
+        {
+          "name": "Sunni D",
+          "url": "https://open.spotify.com/artist/6DRsCnHwpy638sR8fO1PTD"
+        },
+        {
+          "name": "Kindred",
+          "url": "https://open.spotify.com/artist/401K7BRPwpumMzCLPInxaE"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/6z4XNYoSj2gs0s2aAVpK5T"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/5sEaAJCCNJfbvzq21SmUZw"
+      },
+      "artists": [
+        {
+          "name": "32Stitches",
+          "url": "https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/7hvpcyq2AkgqTGxTQ9Qif5"
     },
     {
       "album": {

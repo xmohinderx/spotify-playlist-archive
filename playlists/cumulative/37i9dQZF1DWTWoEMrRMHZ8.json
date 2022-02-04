@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "A Rota do Indiv\u00edduo (Ferrugem)",
       "url": "https://open.spotify.com/track/3hnQvO7n6YYzWP03fc8pQf"
@@ -222,6 +222,24 @@
     },
     {
       "album": {
+        "name": "At\u00e9 o carnaval chegar",
+        "url": "https://open.spotify.com/album/5WuQgmQTwU6RMZMPGTSHS8"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Porto",
+          "url": "https://open.spotify.com/artist/0mEd04YNMuimmhCIYo0ka8"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183692,
+      "name": "At\u00e9 o carnaval chegar",
+      "url": "https://open.spotify.com/track/4Yw0adJgiMyMuJ7PFpCdxS"
+    },
+    {
+      "album": {
         "name": "Avarandado",
         "url": "https://open.spotify.com/album/6EyfiA9hNpoS7rIwSLyR3b"
       },
@@ -299,6 +317,14 @@
         {
           "name": "Julia Mestre",
           "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        },
+        {
+          "name": "Lucas Nunes",
+          "url": "https://open.spotify.com/artist/3wO3x8goZuWnibpyFMakpW"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
         }
       ],
       "date_added": "2022-01-27",
@@ -437,7 +463,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 278139,
       "name": "Caminho de Santiago",
       "url": "https://open.spotify.com/track/0xTjK7Ko62EgY5m3KaqlH9"
@@ -959,7 +985,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 149000,
       "name": "Ladainha",
       "url": "https://open.spotify.com/track/7LbvwlzPwrhsbm1es6oH3i"
@@ -1047,6 +1073,28 @@
       "duration_ms": 219640,
       "name": "L\u00e1grimas no Mar",
       "url": "https://open.spotify.com/track/4WGZODjcivlNbqhuqD10DC"
+    },
+    {
+      "album": {
+        "name": "Mais",
+        "url": "https://open.spotify.com/album/1cdVoJnbHKkyNIka9JsZRO"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Perdido",
+          "url": "https://open.spotify.com/artist/2WR3bb5fUKqJ65TPcu3dIt"
+        },
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148842,
+      "name": "Mais",
+      "url": "https://open.spotify.com/track/2oYZ2lqAp5QOTPHtPqyoIx"
     },
     {
       "album": {
@@ -1323,7 +1371,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 243189,
       "name": "Paix\u00e3o",
       "url": "https://open.spotify.com/track/0a5h4bVwbVH2YbVuZ4pLM3"
@@ -1425,7 +1473,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 211477,
       "name": "Pode Amar",
       "url": "https://open.spotify.com/track/1ymxekSYIHAgO2Tg7CZeCT"
@@ -1697,7 +1745,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 153125,
       "name": "Quando o Ver\u00e3o Chegar",
       "url": "https://open.spotify.com/track/55iPmc0vf50RVte1sY2dui"
@@ -2119,7 +2167,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 228329,
       "name": "Tudo Bateu",
       "url": "https://open.spotify.com/track/73V4hpSoL889KOpT22uO49"
@@ -2221,6 +2269,28 @@
       "duration_ms": 255800,
       "name": "Vento Sardo",
       "url": "https://open.spotify.com/track/1NbWJcul8xK4AtYzTBLCnm"
+    },
+    {
+      "album": {
+        "name": "Vermelho Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/27nM8BDWnZAMBZjoP5tszu"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        },
+        {
+          "name": "Laila Garin",
+          "url": "https://open.spotify.com/artist/0aTcBGYTXm8CWo0RB5elE8"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233706,
+      "name": "Vermelho Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/5U9Xv9WkBPTOignYWp6niI"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/7vmPmyjnn6611mHxCCocuw?si=cBYr1_IqR1Sgj3Cpwqjlxw\">95ANTNY </a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B?si=G45GQRkVTf6_eGlpx0GWZA\"> TeeZee </a>  and <a href=\"https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT?si=Jm2npQyQSd6TeteVFByObQ\"> Deto Black </a>",
   "name": "Alt\u00e8 Cruise",
   "published_playlist_ids": [
     "7pF4eqr29AOzUGMPmKhLmc"
@@ -110,6 +110,32 @@
     },
     {
       "album": {
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/33l7tBdwY7wEnVPG2kyekw"
+      },
+      "artists": [
+        {
+          "name": "SuperSmashBroz",
+          "url": "https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x"
+        },
+        {
+          "name": "Adam Halliday",
+          "url": "https://open.spotify.com/artist/4Jd67PsMBBh5YEZlToYLAh"
+        },
+        {
+          "name": "DYM",
+          "url": "https://open.spotify.com/artist/61KTFeXqYuFlhCStFRnooT"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196129,
+      "name": "Baby Chill",
+      "url": "https://open.spotify.com/track/6iukxcu5Y6aDNlWomndA3u"
+    },
+    {
+      "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
       },
@@ -215,7 +241,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 131555,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/1fcPm7yphWQzX0gLZe11ez"
@@ -1061,7 +1087,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 195109,
       "name": "Lovin 21",
       "url": "https://open.spotify.com/track/4QboxKsKXMP6J2wKSJwdeN"
@@ -1097,7 +1123,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 166086,
       "name": "Main List",
       "url": "https://open.spotify.com/track/06no0FzEycGa7BmffmwmOx"
@@ -1245,6 +1271,28 @@
       "duration_ms": 237600,
       "name": "NEW GOVERNMENT",
       "url": "https://open.spotify.com/track/1Hwf5Lbx7hQjAvcl3D3CJb"
+    },
+    {
+      "album": {
+        "name": "NOK'D",
+        "url": "https://open.spotify.com/album/3jr1hQURRkuTqJPGzQi4VZ"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+        },
+        {
+          "name": "DETO BLACK",
+          "url": "https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103500,
+      "name": "NOK'D",
+      "url": "https://open.spotify.com/track/6FANB5EYbYDAHaRCFS0leM"
     },
     {
       "album": {
@@ -1452,6 +1500,28 @@
     },
     {
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/49NEv35Vtyq3x1VKO8vszr"
+      },
+      "artists": [
+        {
+          "name": "Ronehi",
+          "url": "https://open.spotify.com/artist/41h99u87ioeyoCZh7XTshv"
+        },
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/719tWjaCn54N9rCD8tgtDG"
+    },
+    {
+      "album": {
         "name": "Selense",
         "url": "https://open.spotify.com/album/6qqM3masriqBhSobcZVmAt"
       },
@@ -1529,7 +1599,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 225856,
       "name": "Should We Try",
       "url": "https://open.spotify.com/track/5SLGCYDB44nVPKRQf1jJHj"
@@ -1678,6 +1748,24 @@
     },
     {
       "album": {
+        "name": "SUSHI STAND!",
+        "url": "https://open.spotify.com/album/74fkRdAAeijP2RwpnKwS75"
+      },
+      "artists": [
+        {
+          "name": "PhlyMur",
+          "url": "https://open.spotify.com/artist/1Rx24j5gKzt8H22A5tfmpG"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332307,
+      "name": "SUSHI STAND!",
+      "url": "https://open.spotify.com/track/04ntgqtFKNBgHFhiKKfHwP"
+    },
+    {
+      "album": {
         "name": "Black Soap: Reloaded",
         "url": "https://open.spotify.com/album/7BrLCeLG9bR2yMS9ibYVbM"
       },
@@ -1817,7 +1905,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 227447,
       "name": "Toronto",
       "url": "https://open.spotify.com/track/1qrQS3YWnGIPwYvbIomVdJ"
@@ -1839,6 +1927,24 @@
       "duration_ms": 168514,
       "name": "Toyin Tomato",
       "url": "https://open.spotify.com/track/4M4FJYE3mTKtpvUld3cXJn"
+    },
+    {
+      "album": {
+        "name": "Try",
+        "url": "https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224986,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia"
     },
     {
       "album": {

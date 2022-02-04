@@ -145,7 +145,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 168500,
       "name": "Alba",
       "url": "https://open.spotify.com/track/6ENapwu75Tswvvf6QTJpOq"
@@ -2475,6 +2475,24 @@
       "duration_ms": 170874,
       "name": "Pioggia Eterna",
       "url": "https://open.spotify.com/track/2unmie5sfHDGwSQO9jEok4"
+    },
+    {
+      "album": {
+        "name": "Preludium",
+        "url": "https://open.spotify.com/album/6sh07Iqq3mgx76srlNA0Za"
+      },
+      "artists": [
+        {
+          "name": "Karin Borg",
+          "url": "https://open.spotify.com/artist/0mWi0Jr9Ir8GPGVBpQqI1W"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129409,
+      "name": "Preludium",
+      "url": "https://open.spotify.com/track/5V1fERRi9CKUG4lkeAP9Ue"
     },
     {
       "album": {

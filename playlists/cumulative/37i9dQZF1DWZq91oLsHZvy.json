@@ -1302,6 +1302,24 @@
     },
     {
       "album": {
+        "name": "tell ur friends",
+        "url": "https://open.spotify.com/album/7kuv8kNG5KtYEWe4Sw0lSf"
+      },
+      "artists": [
+        {
+          "name": "Dulcie",
+          "url": "https://open.spotify.com/artist/5mizYbdTNtmQlU97XqxJOe"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "tell ur friends",
+      "url": "https://open.spotify.com/track/25RmznGaoSP8tjCLeU2iG2"
+    },
+    {
+      "album": {
         "name": "Mechanical Bull (Expanded Edition)",
         "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 
 > Músicas acústicas para acompanhar sua sessão de pilates.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,454 likes - 102 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,479 likes - 102 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVroJq360LRh.md) - [plain]
 | 55 | [Change The World \- Acoustic](https://open.spotify.com/track/0JoIuY82vgBX5JylD4GqfV) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Change The World \(Acoustic\)](https://open.spotify.com/album/4YMJqOrbqok6cjYjnNInZw) | 4:57 |
 | 56 | [Thunder](https://open.spotify.com/track/0rRtQsqQAaS45dgHfd8t1l) | [The Freed](https://open.spotify.com/artist/1kU8z1cAsNbINQt3ZyFka8) | [Thunder](https://open.spotify.com/album/0yCicHSIShiIcJLkpyxKIC) | 3:24 |
 | 57 | [The A Team](https://open.spotify.com/track/5lbeUlfWKtXsUsOk6tscZz) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct) | [The A Team](https://open.spotify.com/album/5F0rVfRsZs4pbmjVlbVD55) | 3:05 |
-| 58 | [jesus christ 2005 god bless america \(live\)](https://open.spotify.com/track/7uUmhF2T52mfYZryoHrz8D) | [SoSo fauX](https://open.spotify.com/artist/2kWWp7EcScFrWRx2tSgxcl) | [jesus christ 2005 god bless america \(live\)](https://open.spotify.com/album/0yUHXSc7Ze9iusKBfBQi1x) | 3:56 |
+| 58 | [jesus christ 2005 god bless america \(live\)](https://open.spotify.com/track/7uUmhF2T52mfYZryoHrz8D) | [SoSo!](https://open.spotify.com/artist/71aIra258gd74xusYNlIfO) | [jesus christ 2005 god bless america \(live\)](https://open.spotify.com/album/0yUHXSc7Ze9iusKBfBQi1x) | 3:56 |
 | 59 | [The Body](https://open.spotify.com/track/5pVzgoVzrM07rWm0Ui7HBg) | [John Blek](https://open.spotify.com/artist/5CxmG18g0Za8n3kxtRShFj) | [Thistle & Thorn](https://open.spotify.com/album/4CSy2t88qUFosP05IIpjoI) | 4:30 |
 | 60 | [I Want It That Way](https://open.spotify.com/track/6ifRkrDOVOl894U1YuuTfM) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa), [Francis Greg](https://open.spotify.com/artist/3M4HosBeaD82iQkv8HVnzB) | [I Want It That Way](https://open.spotify.com/album/51WvNWrY4yu9Ek3RGBZHiy) | 3:11 |
 | 61 | [Fast Car](https://open.spotify.com/track/704KRYnRNEUUgK5IQX0rNp) | [Sweet Nicks](https://open.spotify.com/artist/7joNWT7KJBapOWTYdaEjPq) | [Fast Car](https://open.spotify.com/album/73TUtNvDPNjPYuStcDKgn4) | 5:31 |

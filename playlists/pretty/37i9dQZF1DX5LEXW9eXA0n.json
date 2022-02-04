@@ -1,12 +1,12 @@
 {
   "description": "Mellow & sentimental K-Pop ballads. (Cover: KYUHYUN(\uaddc\ud604)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
-  "num_followers": 295647,
+  "num_followers": 295918,
   "original_name": "K-Pop Ballad Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg0ODk2NCwwMDAwMDAwMDAzYzQ1YjlkMzQwMzViNmI5YTliOWE0MGRjY2EwNzk2",
+  "snapshot_id": "MTY0MzkzNTQzMiwwMDAwMDAwMDEzNTgyNDM2ODY3MDJlYjg5MzcwOWM2MjY1ZWEwYWU4",
   "tracks": [
     {
       "added_at": "2022-01-27 09:30:25",
@@ -111,18 +111,50 @@
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "One Day More",
-        "url": "https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68"
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
       },
       "artists": [
         {
-          "name": "BIG MAMA",
-          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 247986,
-      "name": "One Day More",
-      "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
+      "duration_ms": 244546,
+      "name": "When This Rain Stops",
+      "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
+        "url": "https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 227986,
+      "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
+      "url": "https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "And we go",
+        "url": "https://open.spotify.com/album/1yxgREDY36DYLdeuSvHITY"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 200773,
+      "name": "And we go",
+      "url": "https://open.spotify.com/track/4Z7DIzXHsoJceD9fDVwnWz"
     },
     {
       "added_at": "2022-01-27 09:30:25",
@@ -151,50 +183,18 @@
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
+        "url": "https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93"
       },
       "artists": [
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 244546,
-      "name": "When This Rain Stops",
-      "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "And we go",
-        "url": "https://open.spotify.com/album/1yxgREDY36DYLdeuSvHITY"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 200773,
-      "name": "And we go",
-      "url": "https://open.spotify.com/track/4Z7DIzXHsoJceD9fDVwnWz"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 8",
-        "url": "https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 275362,
-      "name": "Is It Still Beautiful",
-      "url": "https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf"
+      "duration_ms": 214258,
+      "name": "Sweet Night",
+      "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
     },
     {
       "added_at": "2022-01-27 09:30:25",
@@ -215,98 +215,18 @@
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "Something's Wrong",
-        "url": "https://open.spotify.com/album/5TbAZIZKLCNNM0F7rXWqb1"
+        "name": "One Day More",
+        "url": "https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68"
       },
       "artists": [
         {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+          "name": "BIG MAMA",
+          "url": "https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ"
         }
       ],
-      "duration_ms": 243880,
-      "name": "Something's Wrong",
-      "url": "https://open.spotify.com/track/3ctGT9T08w6VnpND1zhPTW"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/7yDjc5x9LlccQIxNgDnqi6"
-      },
-      "artists": [
-        {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "First Line",
-      "url": "https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Things We Took For Granted",
-        "url": "https://open.spotify.com/album/75GSaOr3SumTiFaHCzYVSD"
-      },
-      "artists": [
-        {
-          "name": "Lee Juck",
-          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
-        }
-      ],
-      "duration_ms": 201832,
-      "name": "Things We Took For Granted",
-      "url": "https://open.spotify.com/track/0AWL2pfPLApKBhV8p6XezU"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
-        "url": "https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 214258,
-      "name": "Sweet Night",
-      "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Me After You",
-        "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 280358,
-      "name": "Me After You",
-      "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Because I am a woman",
-        "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "Because I am a woman",
-      "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
+      "duration_ms": 247986,
+      "name": "One Day More",
+      "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
     },
     {
       "added_at": "2022-01-27 09:30:25",
@@ -327,222 +247,18 @@
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
+        "name": "Because I am a woman",
+        "url": "https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl"
       },
       "artists": [
         {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 246320,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/5JadtZ710Yj8RSLNbSvDqo"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 258226,
-      "name": "Love poem",
-      "url": "https://open.spotify.com/track/4B6cJ34Mkfiu4Xo8t8QU7F"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
-        "url": "https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Slightly Tipsy (She is My Type\u2661 X SANDEUL)",
-      "url": "https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Whenever Wherever",
-        "url": "https://open.spotify.com/album/2lYx5WNdnwIP1x2iryh0n5"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 245360,
-      "name": "Whenever Wherever",
-      "url": "https://open.spotify.com/track/2zyYgnZsfzUDcaBdsBzAYj"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Every day, Every Moment",
-      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Say hello",
-        "url": "https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK"
-      },
-      "artists": [
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
-        },
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 204356,
-      "name": "Say Yes (Feat. Moon Byul of MAMAMOO)",
-      "url": "https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "First Loss",
-        "url": "https://open.spotify.com/album/2wPlvpDKnwrBCePrVE6DSs"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 236146,
-      "name": "First Loss",
-      "url": "https://open.spotify.com/track/4cOxx9vS7Zda7m0RzAsGMG"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "HAPPEN",
-        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 193560,
-      "name": "HAPPEN",
-      "url": "https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Camellia",
-        "url": "https://open.spotify.com/album/1IKUHtQ7OFl1NxHbefAXa8"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        },
-        {
-          "name": "HYUK",
-          "url": "https://open.spotify.com/artist/1WTpKxdwQrNsYW3MBJYwiG"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Camellia",
-      "url": "https://open.spotify.com/track/0oGKpQHFFae8WWCXQtfliO"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/6cicBDN7VCijeMLd0qqyKD"
-      },
-      "artists": [
-        {
-          "name": "KIM WOO SEOK",
-          "url": "https://open.spotify.com/artist/4k2MyP64uZ78mvjKd1Ciq2"
-        },
-        {
-          "name": "Lee Eun Sang",
-          "url": "https://open.spotify.com/artist/23oRZ1WSV1YCPk3Ra7ivzJ"
-        }
-      ],
-      "duration_ms": 171720,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4brbKf89m6T7sul0VIV5cY"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "The day was beautiful",
-        "url": "https://open.spotify.com/album/0TlpkCmHNdH8Fdt0AnDGcF"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 235392,
-      "name": "The day was beautiful",
-      "url": "https://open.spotify.com/track/3LpAsXjqTQ5FUyptb2lujH"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 249241,
-      "name": "Ending Scene",
-      "url": "https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Lazy Me",
-        "url": "https://open.spotify.com/album/6zvdQKxr377crdbVupq7I7"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 187160,
-      "name": "Lazy Me",
-      "url": "https://open.spotify.com/track/7IKiYUKvU394eoRD9TYDfJ"
+      "duration_ms": 240773,
+      "name": "Because I am a woman",
+      "url": "https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU"
     },
     {
       "added_at": "2022-01-27 09:30:25",
@@ -563,50 +279,118 @@
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "Happy Ending",
-        "url": "https://open.spotify.com/album/7kbingImpbGPK2lz8G9c1p"
+        "name": "Good Night MY LOVE",
+        "url": "https://open.spotify.com/album/3LlVa0CZ3pzgZfK3Gdeljl"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        },
-        {
-          "name": "Ban Gwang Ok",
-          "url": "https://open.spotify.com/artist/0xLSqFBJp63NWp5CKTZ2aS"
-        },
-        {
-          "name": "Jeon Sang Keun",
-          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
-        },
-        {
-          "name": "Jung Young Eun",
-          "url": "https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf"
-        },
-        {
-          "name": "Leeraon",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
         }
       ],
-      "duration_ms": 260597,
-      "name": "Happiness (feat. Lee Raon, Ban Gwang Ok, Jung Young Eun & Jeon Sang Keun)",
-      "url": "https://open.spotify.com/track/3rxJpoEe435WLkaqJK5dnO"
+      "duration_ms": 259413,
+      "name": "Good Night MY LOVE",
+      "url": "https://open.spotify.com/track/08JrdECBp67G9IwipvxuBO"
     },
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
+        "name": "Something's Wrong",
+        "url": "https://open.spotify.com/album/5TbAZIZKLCNNM0F7rXWqb1"
       },
       "artists": [
         {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 203866,
-      "name": "All My Love - Korean Ver.",
-      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
+      "duration_ms": 243880,
+      "name": "Something's Wrong",
+      "url": "https://open.spotify.com/track/3ctGT9T08w6VnpND1zhPTW"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        },
+        {
+          "name": "JEON MI DO",
+          "url": "https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX"
+        }
+      ],
+      "duration_ms": 226480,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Me After You",
+        "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 280358,
+      "name": "Me After You",
+      "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Linger On",
+        "url": "https://open.spotify.com/album/5Y0hziji128L0bXg9Dvl6G"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 229867,
+      "name": "Linger On",
+      "url": "https://open.spotify.com/track/6foDgrZtjOAJektiejSJI3"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "I still love you a lot",
+        "url": "https://open.spotify.com/album/01duGRcYzLUPGOh4NqDHhF"
+      },
+      "artists": [
+        {
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "I still love you a lot",
+      "url": "https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 153720,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l"
     },
     {
       "added_at": "2022-01-27 09:30:25",
@@ -631,70 +415,118 @@
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "/// (You, Clouds, Rain)",
-        "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
+        "name": "Not Fine",
+        "url": "https://open.spotify.com/album/3QXZxmPaI5GaiLn1rfOSiW"
+      },
+      "artists": [
+        {
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/2b9Q943vzno2HNZokj4ziM"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 244493,
+      "name": "Not Fine",
+      "url": "https://open.spotify.com/track/0jN5uSFOVZ3x4TKnNNsybi"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Nobody Knows (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/7pVx21fpVF6hh4mG8cbANz"
+      },
+      "artists": [
+        {
+          "name": "SE O",
+          "url": "https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb"
+        }
+      ],
+      "duration_ms": 200565,
+      "name": "Even if nobody cares for you",
+      "url": "https://open.spotify.com/track/3wDgRdUelv4VWol7FlPlTu"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/5JadtZ710Yj8RSLNbSvDqo"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 258226,
+      "name": "Love poem",
+      "url": "https://open.spotify.com/track/4B6cJ34Mkfiu4Xo8t8QU7F"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Fixed On You (new.MAKE20 #10)",
+        "url": "https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 263640,
+      "name": "Fixed On You",
+      "url": "https://open.spotify.com/track/4ySfsrGG2VLMEllTC1QYfI"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "HAPPEN",
+        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
       },
       "artists": [
         {
           "name": "HEIZE",
           "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
         }
       ],
-      "duration_ms": 205312,
-      "name": "You, Clouds, Rain",
-      "url": "https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv"
+      "duration_ms": 193560,
+      "name": "HAPPEN",
+      "url": "https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16"
     },
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "thing song of my life vol.2",
-        "url": "https://open.spotify.com/album/5s2Muss9JgOD92T1g6C8MM"
+        "name": "Hangover",
+        "url": "https://open.spotify.com/album/2bil4uyovEkVkPVpEAWRBp"
       },
       "artists": [
         {
-          "name": "Baek Ji Young",
-          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 238640,
-      "name": "I want to be happy",
-      "url": "https://open.spotify.com/track/7228vjb4e06cqzLv8Fqffi"
+      "duration_ms": 224000,
+      "name": "Hangover",
+      "url": "https://open.spotify.com/track/0vMg57uWWcnv4T3qjoXP68"
     },
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "Everybody Has",
-        "url": "https://open.spotify.com/album/1Tpw7AJHbA2lh32bY1An0C"
+        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/0wjfQ5rrQIRFuSPvAbZBX4"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 222454,
-      "name": "Everybody Has",
-      "url": "https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "My Love (From \"soundtrack#1\" [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/6DCtAzGInnSIffWpJhG7bO"
-      },
-      "artists": [
-        {
-          "name": "Kim Jong Kook",
-          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
-        }
-      ],
-      "duration_ms": 208413,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/3HxEHyCJPT9o9nsGn5pJkl"
+      "duration_ms": 275362,
+      "name": "Is It Still Beautiful",
+      "url": "https://open.spotify.com/track/4rrGSoMxUV0diSX4zpoCTf"
     },
     {
       "added_at": "2022-01-27 09:30:25",
@@ -715,82 +547,34 @@
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "Linger On",
-        "url": "https://open.spotify.com/album/5Y0hziji128L0bXg9Dvl6G"
+        "name": "In Star",
+        "url": "https://open.spotify.com/album/0r9zh2sHXZk9OZy0ofc8SF"
       },
       "artists": [
         {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
         }
       ],
-      "duration_ms": 229867,
-      "name": "Linger On",
-      "url": "https://open.spotify.com/track/6foDgrZtjOAJektiejSJI3"
+      "duration_ms": 240772,
+      "name": "In Star",
+      "url": "https://open.spotify.com/track/2Zd0bxXrdGKjNMbGlkTGOM"
     },
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "bye bye i finally disappear from your life",
-        "url": "https://open.spotify.com/album/32vU9jUYjAYzyESFDDrJNs"
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/0pYCXVuGMKDRCrN05doHXA"
       },
       "artists": [
         {
-          "name": "msftz",
-          "url": "https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4"
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 207893,
-      "name": "bye bye i finally disappear from your life",
-      "url": "https://open.spotify.com/track/7yDkk7GZ9GemJcAG0JD0G9"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "Hotel Del Luna OST Part.5",
-        "url": "https://open.spotify.com/album/4HxM9RlVFPOEwNRorTuLiZ"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 225785,
-      "name": "Can You See My Heart",
-      "url": "https://open.spotify.com/track/6td501MwDVFewdz6qNOtG8"
-    },
-    {
-      "added_at": "2022-01-27 09:30:25",
-      "album": {
-        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/6KH2bpNterP9Xfe65uDdLT"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 242899,
-      "name": "Lonely Night",
-      "url": "https://open.spotify.com/track/35q0DyRH5bIXDoFGWJBjmC"
+      "duration_ms": 253045,
+      "name": "With My Tears",
+      "url": "https://open.spotify.com/track/2ocf3TyvsHPvXQ1vwbavQE"
     },
     {
       "added_at": "2022-01-27 09:30:25",
@@ -815,22 +599,114 @@
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "Autumn Memories",
-        "url": "https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O"
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6KH2bpNterP9Xfe65uDdLT"
       },
       "artists": [
         {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        },
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 238066,
-      "name": "Autumn Memories (with Lee Seok Hoon)",
-      "url": "https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ"
+      "duration_ms": 242899,
+      "name": "Lonely Night",
+      "url": "https://open.spotify.com/track/35q0DyRH5bIXDoFGWJBjmC"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Not Anyone Else",
+        "url": "https://open.spotify.com/album/60GKYHN9SHL0IdxZhU5uBR"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Not Anyone Else",
+      "url": "https://open.spotify.com/track/4TFjrY1GsVbIUZrNH0OTim"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Hotel Del Luna OST Part.5",
+        "url": "https://open.spotify.com/album/4HxM9RlVFPOEwNRorTuLiZ"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 225785,
+      "name": "Can You See My Heart",
+      "url": "https://open.spotify.com/track/6td501MwDVFewdz6qNOtG8"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Every day, Every Moment",
+      "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Plant",
+        "url": "https://open.spotify.com/album/5aUgxOcv6bo9gvuMZweqNb"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "Plant",
+      "url": "https://open.spotify.com/track/3oTeu6YzKhXQIogBgzJr9w"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 249241,
+      "name": "Ending Scene",
+      "url": "https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "HOSPITAL PLAYLIST (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/4f415rW7jQPbi5a2tPo4pA"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        }
+      ],
+      "duration_ms": 230969,
+      "name": "Beautiful My Love",
+      "url": "https://open.spotify.com/track/6lAFMbiZ00wBYwvDGA5PmB"
     },
     {
       "added_at": "2022-01-27 09:30:25",
@@ -851,18 +727,118 @@
     {
       "added_at": "2022-01-27 09:30:25",
       "album": {
-        "name": "Plant",
-        "url": "https://open.spotify.com/album/5aUgxOcv6bo9gvuMZweqNb"
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
       },
       "artists": [
         {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
         }
       ],
-      "duration_ms": 207106,
-      "name": "Plant",
-      "url": "https://open.spotify.com/track/3oTeu6YzKhXQIogBgzJr9w"
+      "duration_ms": 203866,
+      "name": "All My Love - Korean Ver.",
+      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Find Me In Your Memory (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3mTdCQaktzKJihC6TeI4fP"
+      },
+      "artists": [
+        {
+          "name": "Jooyoung",
+          "url": "https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH"
+        }
+      ],
+      "duration_ms": 244451,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/7MjaIOqmlq83z04h7kdhdq"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Only you don't know (Samsung New Retro Series)",
+        "url": "https://open.spotify.com/album/5DqfLEt9syg644ToarPkZU"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 245960,
+      "name": "Only you don't know (Samsung New Retro Series)",
+      "url": "https://open.spotify.com/track/6Zvu8RwsRkogAb5AvBpF2x"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Camellia",
+        "url": "https://open.spotify.com/album/1IKUHtQ7OFl1NxHbefAXa8"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        },
+        {
+          "name": "HYUK",
+          "url": "https://open.spotify.com/artist/1WTpKxdwQrNsYW3MBJYwiG"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Camellia",
+      "url": "https://open.spotify.com/track/0oGKpQHFFae8WWCXQtfliO"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Purpose - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 273293,
+      "name": "Drawing Our Moments",
+      "url": "https://open.spotify.com/track/0BiJCg7FLwWGTYLEsnaHcz"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/7yDjc5x9LlccQIxNgDnqi6"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "First Line",
+      "url": "https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9"
+    },
+    {
+      "added_at": "2022-01-27 09:30:25",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/476k6ufG2tovEGKDHolLSB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "Here I Am Again",
+      "url": "https://open.spotify.com/track/5CDq3Ekm0E0c23S0mbEELV"
     }
   ],
   "unique_name": "K-Pop Ballad Hits",

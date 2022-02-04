@@ -3041,7 +3041,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 121423,
       "name": "LIPSI HA",
       "url": "https://open.spotify.com/track/54ZhPL5soHKDxg9a5wizPv"
@@ -3103,6 +3103,24 @@
       "duration_ms": 228461,
       "name": "Love All (with JAY-Z)",
       "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
+    },
+    {
+      "album": {
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/4RYhipPJtMStS2RvU6iWML"
+      },
+      "artists": [
+        {
+          "name": "\u0414\u043e\u0440\u0430",
+          "url": "https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157059,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/5L2qd1EBfNQJBW0FivYmXj"
     },
     {
       "album": {
@@ -8590,6 +8608,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u0430\u0439\u0444 \u0442\u044b \u043f\u043e\u0439\u043c\u0430\u043b\u0430",
+        "url": "https://open.spotify.com/album/7v11cTDCewNiCBDLSKNDBL"
+      },
+      "artists": [
+        {
+          "name": "Konfuz",
+          "url": "https://open.spotify.com/artist/0JHx4h8GAtjhmHMQ68iQiU"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146242,
+      "name": "\u041a\u0430\u0439\u0444 \u0442\u044b \u043f\u043e\u0439\u043c\u0430\u043b\u0430",
+      "url": "https://open.spotify.com/track/210n2xgoOzGnb3I1K8OF4v"
+    },
+    {
+      "album": {
         "name": "Sosa Muzik",
         "url": "https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh"
       },
@@ -10439,7 +10475,7 @@
       ],
       "date_added": "2021-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 149333,
       "name": "\u043d\u043e\u0447\u044c",
       "url": "https://open.spotify.com/track/0Mfjy6p9vZsfzbQReWdooZ"

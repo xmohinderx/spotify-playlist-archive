@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : QuinzeQuinze",
+  "description": "D\u00e9couvrez notre s\u00e9lection des artistes \u00e0 suivre. Photo : Benjamin Epps",
   "name": "RADAR FRANCE",
   "published_playlist_ids": [
     "5n9koYIGQWOBSUyvQu30SO"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 234763,
       "name": "Au bout de ma rue",
       "url": "https://open.spotify.com/track/1ZpXOfL9NpKMjitFteTZlk"
@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "BMW BOYZ",
+        "url": "https://open.spotify.com/album/1q7JfRmk5FoF8XGlCaY0r2"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Epps",
+          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118946,
+      "name": "BMW BOYZ",
+      "url": "https://open.spotify.com/track/1oBSDxr6s8mVZPf1vcF6J9"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/1vZ7dIXeNdHJkUhT0lVf0E"
       },
@@ -55,10 +73,28 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 187173,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5YkXkfXWTE1pk6l2m78JnH"
+    },
+    {
+      "album": {
+        "name": "CE QUE LE PIPS DEMANDE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/3RYuX3dqqAsDsvenKA75TF"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Epps",
+          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210638,
+      "name": "CE QUE LE PIPS DEMANDE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6vnFX4F6QdMX8LN1pwsrfE"
     },
     {
       "album": {
@@ -77,7 +113,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 174346,
       "name": "Comme moi (feat. Tiakola)",
       "url": "https://open.spotify.com/track/2ave3RUa35dqPnxyxtcRml"
@@ -95,7 +131,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 199200,
       "name": "Compile",
       "url": "https://open.spotify.com/track/37OxMgatnDqpBlhh1WCS8k"
@@ -117,6 +153,24 @@
       "duration_ms": 161240,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy"
+    },
+    {
+      "album": {
+        "name": "Dans la sauce",
+        "url": "https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150066,
+      "name": "Dans la sauce",
+      "url": "https://open.spotify.com/track/0auHcOjJqevDw665HOHpma"
     },
     {
       "album": {
@@ -185,7 +239,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 151301,
       "name": "Fous",
       "url": "https://open.spotify.com/track/6iDJJTC95l6eQBRfUKWrq3"
@@ -207,6 +261,28 @@
       "duration_ms": 168066,
       "name": "Je suis fan",
       "url": "https://open.spotify.com/track/0ek3SCgTcQBeRE897H2IDp"
+    },
+    {
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/6k0C4P2h1qRr3HORw3ziNg"
+      },
+      "artists": [
+        {
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177359,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/2Ibz7YggOBpCHDEamETUFq"
     },
     {
       "album": {
@@ -239,7 +315,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 239253,
       "name": "Le Jeune",
       "url": "https://open.spotify.com/track/6amKBSZGfDYxNbL2ByRnir"
@@ -282,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Les bonnes mani\u00e8res",
+        "url": "https://open.spotify.com/album/3x9CnMbpz96ggiCQATfLQ4"
+      },
+      "artists": [
+        {
+          "name": "blond",
+          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178973,
+      "name": "Les bonnes mani\u00e8res",
+      "url": "https://open.spotify.com/track/1tmEnZhAhwUjzwJ7L0QFAh"
+    },
+    {
+      "album": {
         "name": "Ma meilleure vie",
         "url": "https://open.spotify.com/album/6I3kI8W6fauUBxhvstGwDj"
       },
@@ -311,7 +405,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 281757,
       "name": "Mon idole",
       "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
@@ -437,7 +531,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-04",
       "duration_ms": 240122,
       "name": "The Hill",
       "url": "https://open.spotify.com/track/2deS1gZIjmyBkHNqVjgDfE"
@@ -462,6 +556,24 @@
     },
     {
       "album": {
+        "name": "T\u00e9co",
+        "url": "https://open.spotify.com/album/6WTs5DpsunR2QnVfW9FIEN"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162560,
+      "name": "T\u00e9co",
+      "url": "https://open.spotify.com/track/4rlAcwbAvwpqcmeHSya6fd"
+    },
+    {
+      "album": {
         "name": "Vega",
         "url": "https://open.spotify.com/album/7KPtPt18RqcaqqZvFarHjG"
       },
@@ -477,6 +589,28 @@
       "duration_ms": 240936,
       "name": "Vega",
       "url": "https://open.spotify.com/track/4lT57AWvtIWIc8kEhqjD06"
+    },
+    {
+      "album": {
+        "name": "\u00c9t\u00e9 br\u00fblant",
+        "url": "https://open.spotify.com/album/3H7feFG23ok09jr6Mby8MY"
+      },
+      "artists": [
+        {
+          "name": "blond",
+          "url": "https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x"
+        },
+        {
+          "name": "Sandra Nicolle",
+          "url": "https://open.spotify.com/artist/2zVnYGjWyf1PXEm5kru4Ll"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174666,
+      "name": "\u00c9t\u00e9 br\u00fblant",
+      "url": "https://open.spotify.com/track/5ZYNSdAGH1znlbUXqt8T84"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup"

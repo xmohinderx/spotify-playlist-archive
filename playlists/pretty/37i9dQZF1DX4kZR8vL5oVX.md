@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Vendredi sur Mer
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,243 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,265 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 26 | [Eternal Eyes](https://open.spotify.com/track/3PrRjDQqoEqfTatOdrg9Rv) | [Roseland](https://open.spotify.com/artist/00D0fRKvSoYVOiyMwCfuZn) | [Eternal Eyes](https://open.spotify.com/album/5JwappbMgLiWfZ8QsNthuC) | 3:40 |
 | 27 | [Girls Say No](https://open.spotify.com/track/1Bq9zP7RjwA2bMytJeNDxb) | [Loui Sixteen](https://open.spotify.com/artist/7t7W4IEufSFVW5BVXaHbeM) | [Girls Say No](https://open.spotify.com/album/4B0fRrh1VAbQFDf78W1bP6) | 2:10 |
 | 28 | [Premiers pas](https://open.spotify.com/track/488ZmTQUzAVrOghZskbhf6) | [Charlie](https://open.spotify.com/artist/4JB58mw2UzBuYz7EXNIZVu) | [Charlie](https://open.spotify.com/album/6bRla42b0h3lkmOQcEUmou) | 2:57 |
-| 29 | [Where Would You Be Now](https://open.spotify.com/track/2JkWQJQWhaARpQyQHmfDQk) | [FM LAETI](https://open.spotify.com/artist/4xI4b5xdfrhshv5cMP87zK) | [Where Would You Be Now?](https://open.spotify.com/album/3yUNHtmmQcWfOZG7ihOgny) | 4:24 |
+| 29 | [Where Would You Be Now?](https://open.spotify.com/track/2JkWQJQWhaARpQyQHmfDQk) | [FM LAETI](https://open.spotify.com/artist/4xI4b5xdfrhshv5cMP87zK) | [Where Would You Be Now?](https://open.spotify.com/album/3yUNHtmmQcWfOZG7ihOgny) | 4:24 |
 | 30 | [Comme\-ci comme\-ça](https://open.spotify.com/track/6tHBKuJPEKkEF3Q7MQjDKv) | [Charlie Faron](https://open.spotify.com/artist/7bHfn00UcuTafrQLESy8UE) | [Comme\-ci comme\-ça](https://open.spotify.com/album/2BXCWcLMXTCjEWJjdXjMg8) | 3:29 |
 | 31 | [Brûle](https://open.spotify.com/track/7ltHrqSlgeWngm4McjWY5f) | [Loïse](https://open.spotify.com/artist/3nmiCKhHVrYLvdhBs37t4c) | [Brûle](https://open.spotify.com/album/6LajhxKwAVoXw7Lix5BiMV) | 2:31 |
 | 32 | [Me Gustas Tu](https://open.spotify.com/track/7gu3kq7KeEOnTuBJBYe6ZM) | [Sirine LV](https://open.spotify.com/artist/2KEL18awtDFoxvOHQiuRw5) | [Me Gustas Tu](https://open.spotify.com/album/7zYTRWSsdYqy0em5bJD0W6) | 2:30 |

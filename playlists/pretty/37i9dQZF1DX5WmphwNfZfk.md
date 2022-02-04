@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Idman
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,534 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,537 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 27 | [Rotten Sweet](https://open.spotify.com/track/0V6jHh9gqLAsTTKZGVVrpB) | [Talvi](https://open.spotify.com/artist/3Qj5iycEZWCbcFrhiNgJAu) | [Rotten Sweet](https://open.spotify.com/album/7M1lMnyzbb5FcZpCXdnq8I) | 3:32 |
 | 28 | [Try Me](https://open.spotify.com/track/3fVGXrjmPhAWZyLa0XA4Wp) | [Kennen](https://open.spotify.com/artist/0t3VkVDIgh93tH0rGZOT80) | [Try Me](https://open.spotify.com/album/7DizTlgR24QXu7x8qwgMMB) | 2:34 |
 | 29 | [Big Trees](https://open.spotify.com/track/78LgyytZ57eBM18kx5YFAk) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Big Trees](https://open.spotify.com/album/5eXrCNWiY4ZP01MWog4FN4) | 3:15 |
-| 30 | [Americana](https://open.spotify.com/track/01JHzME7DK9KyKMsfYAz0R) | [Jon Rivera](https://open.spotify.com/artist/34y32pDipyh4aj4SeUKz2d) | [Saved As Draft](https://open.spotify.com/album/6RTIwg8P8zr6U74aGmEZg5) | 3:07 |
+| 30 | [Americana](https://open.spotify.com/track/01JHzME7DK9KyKMsfYAz0R) | [JT Soul](https://open.spotify.com/artist/34y32pDipyh4aj4SeUKz2d) | [Saved As Draft](https://open.spotify.com/album/6RTIwg8P8zr6U74aGmEZg5) | 3:07 |
 | 31 | [DINNER WITH A GEMINI](https://open.spotify.com/track/3DJX261XmlwZ9WtgRwCMoe) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [BECAUSE IT FEELS GOOD](https://open.spotify.com/album/6UyBr6wdoEMQHSo2qmekff) | 3:24 |
 | 32 | [Conversation With Self \(Pt\. 2\)](https://open.spotify.com/track/0HySSNZ8w31k13VLz9mIZQ) | [Kavale](https://open.spotify.com/artist/6q485cUmWwHHYBIEMxz7Ew) | [See You Soon](https://open.spotify.com/album/3Si8ZHErCOw4PL0olDgw5L) | 4:02 |
 | 33 | [Reasons \(with Amaal\)](https://open.spotify.com/track/2hPZY95QjaAK5PpUyvqw6n) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh), [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Tangible](https://open.spotify.com/album/0fvGi7uj6n88ZBSTVvrgDH) | 2:41 |

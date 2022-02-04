@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Mafalda
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,911 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,930 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 47 | [Día de Mierda](https://open.spotify.com/track/3yaXJgeJyfRA2FO9pLv5Y8) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Día de Mierda](https://open.spotify.com/album/5jf84bHUMcmF2ygR4Ivd6D) | 2:30 |
 | 48 | [Primera Luz](https://open.spotify.com/track/04KI7UfOIBBdKwywWqWnji) | [Dotore](https://open.spotify.com/artist/73d7fswSYroHEghc5oXmMn) | [Las Horas Claras](https://open.spotify.com/album/135iUpdifVqEEd8vB2n5fC) | 2:44 |
 | 49 | [Feliz no cumpleaños](https://open.spotify.com/track/01JMbjH0NdvTAmqyXb8K1z) | [Carrera](https://open.spotify.com/artist/3AYF0oqOuNR9SHog5Pqfbr) | [Feliz no cumpleaños](https://open.spotify.com/album/75vfSyhlF52sI5loNCHFjs) | 3:30 |
-| 50 | [Once Menos Diez](https://open.spotify.com/track/0iNj4DguTHlqXLSW2MoH3m) | [Las Retamas](https://open.spotify.com/artist/6anw2OGFTMz6NMZ3wmH9tc) | [Once Menos Diez](https://open.spotify.com/album/19KTT590d4AISc58CgF0Nn) | 2:58 |
+| 50 | [Once Menos Diez](https://open.spotify.com/track/0iNj4DguTHlqXLSW2MoH3m) | [Las Retamas](https://open.spotify.com/artist/6anw2OGFTMz6NMZ3wmH9tc), [Carlos Díaz](https://open.spotify.com/artist/0gaoU0XRthSldakyncXasi) | [Once Menos Diez](https://open.spotify.com/album/19KTT590d4AISc58CgF0Nn) | 2:58 |
 
 Snapshot ID: `MTY0Mzc1NjQwMCwwMDAwMDAzODAwMDAwMTdlYjc4NDJkZTgwMDAwMDE3ZWI1MDAyMWM4`
