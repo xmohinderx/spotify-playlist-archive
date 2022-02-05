@@ -43,7 +43,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 236719,
       "name": "1017 Loaded (feat. Gucci Mane, Big Scarr, Enchanting, Foogiano, K Shiday, Pooh Shiesty)",
       "url": "https://open.spotify.com/track/40RYJy7qh1BDlzhKyceq46"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 231066,
       "name": "Ego Death (feat. Kanye West, FKA twigs & Skrillex)",
       "url": "https://open.spotify.com/track/4JB0EAT4BkLShTyTt50FmO"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 116255,
       "name": "GNF (OKOKOK)",
       "url": "https://open.spotify.com/track/1A8990rtwHQ417l3yADe5t"
@@ -1059,7 +1059,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 170226,
       "name": "Lock It Up (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 239835,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 240051,
       "name": "No 9 To 5",
       "url": "https://open.spotify.com/track/4pSPcjljOqTU2MIWkuv7R4"
@@ -1451,7 +1451,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 203151,
       "name": "Open House (feat. Quavo)",
       "url": "https://open.spotify.com/track/4h31o8w2rruybZpJRfRk04"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 125577,
       "name": "POV (feat. Rubi Rose)",
       "url": "https://open.spotify.com/track/3zjxHcCNv4mw0eoWq8Cumt"
@@ -1689,7 +1689,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 181733,
       "name": "ROCKSTAR (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
@@ -1795,6 +1795,24 @@
       "duration_ms": 142857,
       "name": "Seven Kayne: Bzrp Music Sessions, Vol. 33",
       "url": "https://open.spotify.com/track/5PmK5pRspJq5ki30zgyv7G"
+    },
+    {
+      "album": {
+        "name": "SHUT UP",
+        "url": "https://open.spotify.com/album/1lZ9uQpFOvFcm5SoLhwZSO"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170192,
+      "name": "SHUT UP",
+      "url": "https://open.spotify.com/track/3ekxXNSH4mgUnMprSnopls"
     },
     {
       "album": {
@@ -2327,7 +2345,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 167157,
       "name": "Value",
       "url": "https://open.spotify.com/track/7im3jaJBEYivH5JKXMh1Yy"
@@ -2371,7 +2389,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 187541,
       "name": "WAP (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"

@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 427480,
       "name": "Blue Monday ('88) - 12\" Version",
       "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 246960,
       "name": "Don't Go (Remix) [2008 - Remaster]",
       "url": "https://open.spotify.com/track/5lRik7QOEX2Fda2ZOEzZmP"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 388533,
       "name": "Dr. Beat - Original 12\" Mix",
       "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
@@ -687,7 +687,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 434773,
       "name": "Happy Station - Original 12''",
       "url": "https://open.spotify.com/track/52IqKAPRF1R5EvwHucCrU7"
@@ -1189,7 +1189,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 472899,
       "name": "Like a Prayer - 12\" Dance Mix",
       "url": "https://open.spotify.com/track/3KqZm6zInkBONIaiLEfqXL"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 324653,
       "name": "Music And Lights - Extended Version",
       "url": "https://open.spotify.com/track/5Ixg4mWzXK7wPkcC9rDTzf"
@@ -1376,6 +1376,24 @@
     },
     {
       "album": {
+        "name": "Stella",
+        "url": "https://open.spotify.com/album/3EVfvNf6eB7IkBu1TWlcDi"
+      },
+      "artists": [
+        {
+          "name": "Yello",
+          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184933,
+      "name": "Oh Yeah",
+      "url": "https://open.spotify.com/track/06jDGEBUuTpdJdEuColEE4"
+    },
+    {
+      "album": {
         "name": "The Twelve Inch Mixes",
         "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
       },
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 422693,
       "name": "Owner of a Lonely Heart - Extended Remix",
       "url": "https://open.spotify.com/track/65oXAEPde2ARDKkg9A13gZ"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 316133,
       "name": "Rhythm Is A Dancer - 12'' Version",
       "url": "https://open.spotify.com/track/0RVW7ifzZWqxfNWequ5CfJ"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 312333,
       "name": "Shattered Dreams - 12'' Extended Mix",
       "url": "https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 265013,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/3MgkCOLLBFvWjUr2fQ16jq"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 486840,
       "name": "Take Me Home - Extended Remix",
       "url": "https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 394306,
       "name": "The Reflex - Dance Mix",
       "url": "https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 322026,
       "name": "Thought You Were On My Side - Extended Remix/European",
       "url": "https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm"
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 245360,
       "name": "Trapped - Vocal Version",
       "url": "https://open.spotify.com/track/4QG75CfYI4tsyixze7gt7R"
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 543440,
       "name": "True Faith - Shep Pettibone 12\" Remix",
       "url": "https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P"
@@ -2361,7 +2379,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 396093,
       "name": "What Is Love? [Extended Mix]",
       "url": "https://open.spotify.com/track/76ubLHclAKDHQUwcuQRrkj"
@@ -2455,7 +2473,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 220880,
       "name": "You Sexy Thing - Remix",
       "url": "https://open.spotify.com/track/0yIX2IepFAoSPbS8gk0jpY"

@@ -749,7 +749,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 184565,
       "name": "Gone",
       "url": "https://open.spotify.com/track/0kwtH6NmbB9fsl772LgPL8"
@@ -1079,6 +1079,24 @@
       "duration_ms": 176000,
       "name": "Jabal",
       "url": "https://open.spotify.com/track/5shcRvPPK4usihJQeLZZEX"
+    },
+    {
+      "album": {
+        "name": "Je Cours",
+        "url": "https://open.spotify.com/album/2SEuflFdsEI5pcq3Zo1FtP"
+      },
+      "artists": [
+        {
+          "name": "Taxi 404",
+          "url": "https://open.spotify.com/artist/0k1rMwxE4WYQWR0bInEY0c"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179491,
+      "name": "Je Cours",
+      "url": "https://open.spotify.com/track/34W8tiXQUXw5f8l3HhI55J"
     },
     {
       "album": {

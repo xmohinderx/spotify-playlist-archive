@@ -2,7 +2,7 @@
 
 ### [AULAS](https://open.spotify.com/playlist/2GpYMlHQWhJaqR9gXTSMkt)
 
-> união do hari com o rael é AULAS
+> flow hungria é AULAS
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

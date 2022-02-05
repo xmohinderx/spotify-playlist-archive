@@ -2864,6 +2864,24 @@
     },
     {
       "album": {
+        "name": "i should just leave",
+        "url": "https://open.spotify.com/album/6tnvpdq0gI8htBVcwWMFgg"
+      },
+      "artists": [
+        {
+          "name": "Cassidi",
+          "url": "https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "i should just leave",
+      "url": "https://open.spotify.com/track/1b2liV9Zp9IemfkwDwk9JK"
+    },
+    {
+      "album": {
         "name": "Tender",
         "url": "https://open.spotify.com/album/6g8y670MtORyh88DmXMu6O"
       },

@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 153693,
       "name": "A Number of Words",
       "url": "https://open.spotify.com/track/4ig3ylysiMU3Eo9YlunjMd"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 305626,
       "name": "Blue Lady",
       "url": "https://open.spotify.com/track/1kdp5JKEEHxDmU0VEvKVG9"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 392986,
       "name": "Children of Children",
       "url": "https://open.spotify.com/track/6hNw6Q5zCfCJzp1SdZJdtC"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 398146,
       "name": "Face to Face (A Paper Regret)",
       "url": "https://open.spotify.com/track/27yzBRMWbPCavBo4ixzEa2"
@@ -387,6 +387,24 @@
       "duration_ms": 224706,
       "name": "Fool Me a Good Night",
       "url": "https://open.spotify.com/track/1GxCJ6QRoRv1BHUDto1mGn"
+    },
+    {
+      "album": {
+        "name": "For the Children (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226026,
+      "name": "For the Children",
+      "url": "https://open.spotify.com/track/2ZaJd8nlH68uGoTZ92QDBL"
     },
     {
       "album": {
@@ -671,7 +689,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 167493,
       "name": "Love Song for Someone",
       "url": "https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 221346,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/2tN2vlqY6BlwGVxP8xFSsN"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 271626,
       "name": "Sally Came to Stay",
       "url": "https://open.spotify.com/track/49mJWMhvpbhhuyFR0WZYIC"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 130533,
       "name": "Saved",
       "url": "https://open.spotify.com/track/2Sc7BHveG5jN9IzPaiInsC"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 182400,
       "name": "Thank Your Lucky Star",
       "url": "https://open.spotify.com/track/1m7WlUC67FKB8jk1PTYt3Z"

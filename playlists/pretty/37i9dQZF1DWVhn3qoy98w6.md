@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Mafalda
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,930 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,950 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 40 | [Pena](https://open.spotify.com/track/3cqDTN6zuucZRxrd3lYi5J) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa) | [Pena](https://open.spotify.com/album/6IxNO5qO8zH0LAtJeM5PG7) | 2:48 |
 | 41 | [Fraudulento](https://open.spotify.com/track/29YMJjOx9Xd9qNAxmoDMhQ) | [BRONQUIO](https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1), [41V1L](https://open.spotify.com/artist/02WU1IpQpPQqdX9aGg9kSj) | [Fraudulento](https://open.spotify.com/album/33p0wutmZqkcGwjPLOnfOE) | 2:44 |
 | 42 | [La Eterna Salvación](https://open.spotify.com/track/23RouhqhlNWGs9wYI741BN) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Fiesta a Cargo de E.R.](https://open.spotify.com/album/4ZUFIgo3YxWvIKzTCzBuAY) | 2:45 |
-| 43 | [F3R\-N0S MAL](https://open.spotify.com/track/6KOBt0mddMkJ64akInaxD4) | [xicu](https://open.spotify.com/artist/7kvpnHcyn0RxXpUgEk8ov6) | [F3R\-N0S MAL](https://open.spotify.com/album/6zUhiouoKXnl3fKMeHSh6a) | 4:13 |
+| 43 | [F3R\-N0S MAL](https://open.spotify.com/track/6KOBt0mddMkJ64akInaxD4) | [xicu](https://open.spotify.com/artist/7kvpnHcyn0RxXpUgEk8ov6) | [F3R\-N0S MAL](https://open.spotify.com/album/6zUhiouoKXnl3fKMeHSh6a) | 4:16 |
 | 44 | [subiendo stories x ti](https://open.spotify.com/track/4Ifm1IH8Ctaw81VP6oR6cE) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS) | [subiendo stories x ti](https://open.spotify.com/album/6mTIF0sEONH8p3KB8p8pgE) | 3:23 |
 | 45 | [Despertar](https://open.spotify.com/track/0zTMkoYE4OYzyGjmkDpewX) | [MONTESCO](https://open.spotify.com/artist/2V3eQlSV1eYIQXWD1t9sWb) | [Despertar](https://open.spotify.com/album/6e8fPB5FIXYJdZhL0mm8nM) | 4:15 |
 | 46 | [Refuerzo intermitente](https://open.spotify.com/track/5VGtzg8ItpLJYsuCHTEQ22) | [aroa ay](https://open.spotify.com/artist/11VTXvScf8D82FdfeUp8UC) | [Refuerzo intermitente](https://open.spotify.com/album/2MfMysgQ1tZrVp6uslmu55) | 3:16 |

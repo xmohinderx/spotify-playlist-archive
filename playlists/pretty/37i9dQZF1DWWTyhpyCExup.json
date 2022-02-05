@@ -1,12 +1,12 @@
 {
   "description": "Blues, Bluegrass, Americana, Folk, & Soul; explore today's Black artists that are driving the evolution of roots music. Cover: Jon Batiste",
-  "num_followers": 6138,
+  "num_followers": 6136,
   "original_name": "Our Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODQ2MTA4MywwMDAwMDAwZDAwMDAwMTdkN2JlNDBlMjcwMDAwMDE3ZDdiZTE0NjUy",
+  "snapshot_id": "MTY0Mzk1MDgwMCwwMDAwMDAwZTAwMDAwMTdlYzMxYTdkNTYwMDAwMDE3ZDdiZTE0NjUy",
   "tracks": [
     {
       "added_at": "2021-12-01 22:39:08",
@@ -23,6 +23,22 @@
       "duration_ms": 237244,
       "name": "CRY",
       "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Keeping The Light On",
+        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 223628,
+      "name": "Keeping The Light On",
+      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
     },
     {
       "added_at": "2021-10-22 04:00:00",
@@ -107,70 +123,6 @@
     {
       "added_at": "2021-10-22 04:00:00",
       "album": {
-        "name": "The Way Back Home",
-        "url": "https://open.spotify.com/album/0Hx4AIsLgkYCDZgsdb4pdi"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 214361,
-      "name": "The Way Back Home",
-      "url": "https://open.spotify.com/track/52Xwn8r3KLcwgHO0wyDNbC"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57"
-      },
-      "artists": [
-        {
-          "name": "War & Pierce",
-          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
-        }
-      ],
-      "duration_ms": 220970,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "Diamond Studded Shoes",
-        "url": "https://open.spotify.com/album/1hH8sinTRPta1RQMY8SFX5"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Diamond Studded Shoes",
-      "url": "https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "Hearts Town",
-        "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "Take Me In",
-      "url": "https://open.spotify.com/track/7j3hoTIsDslReqVcQNVUF6"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
         "name": "Long Journey Home",
         "url": "https://open.spotify.com/album/5UmtuR2exwkKpcUR5oNiGN"
       },
@@ -191,6 +143,122 @@
     {
       "added_at": "2021-10-22 04:00:00",
       "album": {
+        "name": "The Way Back Home",
+        "url": "https://open.spotify.com/album/0Hx4AIsLgkYCDZgsdb4pdi"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 214361,
+      "name": "The Way Back Home",
+      "url": "https://open.spotify.com/track/52Xwn8r3KLcwgHO0wyDNbC"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "Diamond Studded Shoes",
+        "url": "https://open.spotify.com/album/1hH8sinTRPta1RQMY8SFX5"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "It's a good day (to fight the system) [feat. Joy Oladokun]",
+        "url": "https://open.spotify.com/album/2AU0XiCtjQEU55l846nraF"
+      },
+      "artists": [
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 197474,
+      "name": "It's a good day (to fight the system) [feat. Joy Oladokun]",
+      "url": "https://open.spotify.com/track/4xzCJ65pFTogCfav8IVqSw"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Do You See The Light Around Me?",
+        "url": "https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 204034,
+      "name": "Do You See The Light Around Me?",
+      "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "Simple Syrup",
+        "url": "https://open.spotify.com/album/1DcosrCPndyPwVtMB84A0u"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 217813,
+      "name": "Lucid Lucy",
+      "url": "https://open.spotify.com/track/21beaiAGKgVVWVSt3tx5QS"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "Step In",
+        "url": "https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside",
+          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Step In",
+      "url": "https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "Hearts Town",
+        "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "Take Me In",
+      "url": "https://open.spotify.com/track/7j3hoTIsDslReqVcQNVUF6"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
         "name": "100 Proof",
         "url": "https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi"
       },
@@ -203,6 +271,22 @@
       "duration_ms": 238300,
       "name": "100 Proof",
       "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Fort Dimanche",
+        "url": "https://open.spotify.com/album/4BzO8Zbnva52t9BSLtlHRt"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 187988,
+      "name": "Fort Dimanche",
+      "url": "https://open.spotify.com/track/47g2cEftywynxNGzZEOepq"
     },
     {
       "added_at": "2021-10-22 04:00:00",
@@ -223,38 +307,6 @@
     {
       "added_at": "2021-10-22 04:00:00",
       "album": {
-        "name": "sorry isn't good enough",
-        "url": "https://open.spotify.com/album/4ND9o4X7nbwLjNGyAtslXE"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 187543,
-      "name": "sorry isn't good enough",
-      "url": "https://open.spotify.com/track/52EPUO8FCJKXrvH6oPs4Nz"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "I\u2019m not a mother, but I have children",
-        "url": "https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX"
-      },
-      "artists": [
-        {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        }
-      ],
-      "duration_ms": 197474,
-      "name": "It's a good day (to fight the system)",
-      "url": "https://open.spotify.com/track/29pn29WZFkunYdDSv5w1Ta"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
         "name": "Black Pumas",
         "url": "https://open.spotify.com/album/54SlWgNocRPhlZEFTYjOfW"
       },
@@ -267,6 +319,86 @@
       "duration_ms": 246586,
       "name": "Colors",
       "url": "https://open.spotify.com/track/6vaSStNN5NX4nJ4QbRY3S0"
+    },
+    {
+      "added_at": "2021-12-01 22:39:08",
+      "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "When Smoke Rises",
+        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 181372,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Honesty (Deluxe Version)",
+        "url": "https://open.spotify.com/album/70FmaCiwtIv1wk7nthZJUU"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "These Fires",
+      "url": "https://open.spotify.com/track/6owBVeLgPaKffX6OAOdM9d"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "Black Hole Rainbow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1WQVKrzi1f3YlqTwf3QahU"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 212016,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/3TyAGYeobwWPHwGrRTJAKl"
+    },
+    {
+      "added_at": "2021-10-22 04:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57"
+      },
+      "artists": [
+        {
+          "name": "War & Pierce",
+          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
+        }
+      ],
+      "duration_ms": 220970,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj"
     },
     {
       "added_at": "2021-10-22 04:00:00",
@@ -317,54 +449,6 @@
       "url": "https://open.spotify.com/track/047ghmBqV2962LxO24aUm9"
     },
     {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "Step In",
-        "url": "https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg"
-      },
-      "artists": [
-        {
-          "name": "Cedric Burnside",
-          "url": "https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Step In",
-      "url": "https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy"
-    },
-    {
-      "added_at": "2021-12-01 22:39:08",
-      "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "Black Hole Rainbow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1WQVKrzi1f3YlqTwf3QahU"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 212016,
-      "name": "Troublemaker",
-      "url": "https://open.spotify.com/track/3TyAGYeobwWPHwGrRTJAKl"
-    },
-    {
       "added_at": "2021-12-01 22:39:08",
       "album": {
         "name": "Tell Me What You Miss The Most",
@@ -379,22 +463,6 @@
       "duration_ms": 218346,
       "name": "Perfect Wife",
       "url": "https://open.spotify.com/track/2fYXieYGhGKFYUH5wbBnVp"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "When Smoke Rises",
-        "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
-      },
-      "artists": [
-        {
-          "name": "Mustafa",
-          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
-        }
-      ],
-      "duration_ms": 181372,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
     },
     {
       "added_at": "2021-12-01 22:39:08",
@@ -467,22 +535,6 @@
     {
       "added_at": "2021-10-22 04:00:00",
       "album": {
-        "name": "Simple Syrup",
-        "url": "https://open.spotify.com/album/1DcosrCPndyPwVtMB84A0u"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 217813,
-      "name": "Lucid Lucy",
-      "url": "https://open.spotify.com/track/21beaiAGKgVVWVSt3tx5QS"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
         "name": "The Medicine Man",
         "url": "https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii"
       },
@@ -515,22 +567,6 @@
       "duration_ms": 135375,
       "name": "Birthday Party",
       "url": "https://open.spotify.com/track/2QRxYrJkEg1iLdvudQHII1"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "The Man Who Sees Tomorrow / Lodarore",
-        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "The Man Who Sees Tomorrow",
-      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
     },
     {
       "added_at": "2021-10-22 04:00:00",
@@ -827,22 +863,6 @@
       "duration_ms": 285990,
       "name": "Uncivil War",
       "url": "https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh"
-    },
-    {
-      "added_at": "2021-10-22 04:00:00",
-      "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 235146,
-      "name": "The Capitalist Blues",
-      "url": "https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6"
     },
     {
       "added_at": "2021-10-22 04:00:00",

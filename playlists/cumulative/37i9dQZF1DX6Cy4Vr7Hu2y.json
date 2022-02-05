@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 182420,
       "name": "3 Months",
       "url": "https://open.spotify.com/track/2bm7HuBe4qhsVwwbm5rbWZ"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 205749,
       "name": "A REUM DA UN I BYEOL",
       "url": "https://open.spotify.com/track/5dcRsgrAojHRlS0BFpmbdj"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 224283,
       "name": "At the end",
       "url": "https://open.spotify.com/track/4wX8BpSzIqqVjnf1X4RohI"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 218045,
       "name": "Because of you",
       "url": "https://open.spotify.com/track/42jl3tTIai0aQ49JDW4MGk"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 199640,
       "name": "Better",
       "url": "https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 204293,
       "name": "DM",
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 228029,
       "name": "Even So",
       "url": "https://open.spotify.com/track/2iRrkHAH7JeDRK9oipHd3j"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 180173,
       "name": "Happy Now!",
       "url": "https://open.spotify.com/track/6Qm4PXogHJW7JyPfG1Yrwj"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 177197,
       "name": "Hide And Seek",
       "url": "https://open.spotify.com/track/3phcTgiZbOrcJdGS16bzXb"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 201295,
       "name": "I want to see you again",
       "url": "https://open.spotify.com/track/1kVjixoK9haTO1NxlBf6hh"
@@ -1180,6 +1180,28 @@
     },
     {
       "album": {
+        "name": "Love Bug",
+        "url": "https://open.spotify.com/album/3nWqDP9Sz8AESze6AVeDhH"
+      },
+      "artists": [
+        {
+          "name": "Edge of Silence",
+          "url": "https://open.spotify.com/artist/4sjA20fiNs4PiloG2u5UIW"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/2grY2oKz3VLMeVaJIG7828"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204469,
+      "name": "Love Bug",
+      "url": "https://open.spotify.com/track/1Cltj3xauZ9gnoW8541Vki"
+    },
+    {
+      "album": {
         "name": "LOVE IS YOU",
         "url": "https://open.spotify.com/album/5GaOf9kp8oxD3ofsMcormR"
       },
@@ -1321,7 +1343,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 149000,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/0vFKaaqXkeaaC2iGtKRGyt"
@@ -1357,7 +1379,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 259885,
       "name": "NA YEOSS EU MYEON",
       "url": "https://open.spotify.com/track/5VnJMPXdPc9p5arVZRHj8O"
@@ -1595,7 +1617,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 251020,
       "name": "Purple Breeze",
       "url": "https://open.spotify.com/track/20NLPjMKvWxEkqT04T1HDD"
@@ -2087,7 +2109,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 186586,
       "name": "THINK",
       "url": "https://open.spotify.com/track/7upOvB292V6qszi7M3QqD9"
@@ -2163,7 +2185,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 227198,
       "name": "Trip \uc5ec\ud589",
       "url": "https://open.spotify.com/track/78iqyVhGvzdGL1WUflBpAl"
@@ -2467,7 +2489,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 255496,
       "name": "X",
       "url": "https://open.spotify.com/track/5FOnZ5yGWaKk0bxHOigYQk"
@@ -2669,7 +2691,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 220745,
       "name": "\uc624\ub298\ubd80\ud130 \uc6b0\ub9ac\ub294 Me Gustas Tu",
       "url": "https://open.spotify.com/track/33dL21KeJquNsfOfacjU0q"

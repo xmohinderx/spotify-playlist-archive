@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The sounds of hip-hop coming out of Canada. Cover: Burna Bandz",
+  "description": "The sounds of hip-hop coming out of Canada. Cover: YSN Fab",
   "name": "Northern Bars",
   "published_playlist_ids": [
     "42ubhhnACTiunpws137UPH"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 207157,
       "name": "100 MILLION NO SETTLE",
       "url": "https://open.spotify.com/track/1AddChNyfYn0wpyxRsflYW"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 163250,
       "name": "Alejandro Sosa",
       "url": "https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 201600,
       "name": "All Aces",
       "url": "https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 161166,
       "name": "Broke Boy",
       "url": "https://open.spotify.com/track/70IUpJP5kwi5IOfdTgR8Ym"
@@ -732,6 +732,24 @@
     },
     {
       "album": {
+        "name": "Doom$day",
+        "url": "https://open.spotify.com/album/6WmwcRQ37y42ayulxZG0Ck"
+      },
+      "artists": [
+        {
+          "name": "KAM$",
+          "url": "https://open.spotify.com/artist/6rvzE5chVmydWTZYAUdD31"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Doom$day",
+      "url": "https://open.spotify.com/track/4wtutRLyL1pdPnZv0yq0Ja"
+    },
+    {
+      "album": {
         "name": "Public Enemy 4301",
         "url": "https://open.spotify.com/album/6cLvJ8NyHQ4JmbFWTLp7CZ"
       },
@@ -815,10 +833,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 176706,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5N51kSCIXYybdKLI2Iq5me"
+    },
+    {
+      "album": {
+        "name": "EGO DYE",
+        "url": "https://open.spotify.com/album/4ZnK1fDS9dKE2FwWi39mcG"
+      },
+      "artists": [
+        {
+          "name": "NLN",
+          "url": "https://open.spotify.com/artist/62n4U1X9Uk7DF9jQkAaBrW"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181137,
+      "name": "EGO DYE",
+      "url": "https://open.spotify.com/track/1iw4Chi31B4zwIYqDbEqJB"
     },
     {
       "album": {
@@ -1076,6 +1112,24 @@
     },
     {
       "album": {
+        "name": "Gave Up On Love",
+        "url": "https://open.spotify.com/album/1XyPIXtoKQ0HBGaoAZ81jd"
+      },
+      "artists": [
+        {
+          "name": "YSN Fab",
+          "url": "https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193211,
+      "name": "Gave Up On Love",
+      "url": "https://open.spotify.com/track/379auTiKCojGVRki4fGf4b"
+    },
+    {
+      "album": {
         "name": "Should've Went to Hollywood",
         "url": "https://open.spotify.com/album/5bEXvldVeu6tfXHvhoJlRj"
       },
@@ -1182,6 +1236,86 @@
     },
     {
       "album": {
+        "name": "Green Line",
+        "url": "https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Terrell Morris",
+          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Green Line",
+      "url": "https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk"
+    },
+    {
+      "album": {
+        "name": "Gwan Eazy",
+        "url": "https://open.spotify.com/album/6tHsswborQuZ2iIFiuvnBO"
+      },
+      "artists": [
+        {
+          "name": "Ca$tro Guapo",
+          "url": "https://open.spotify.com/artist/0LAurKItZ2c5kltNoRMtKq"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216842,
+      "name": "Gwan Eazy",
+      "url": "https://open.spotify.com/track/3Yjatt3XGHtgmWbhrllVRV"
+    },
+    {
+      "album": {
+        "name": "Smuv Operator",
+        "url": "https://open.spotify.com/album/1UsMVARNy6aMNjovmFvyle"
+      },
+      "artists": [
+        {
+          "name": "Casino Costa",
+          "url": "https://open.spotify.com/artist/6PP4RwYACkvUAgfVc1Qgae"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153128,
+      "name": "Hank McCoy",
+      "url": "https://open.spotify.com/track/5kai4nEavM92J8EfPOqduG"
+    },
+    {
+      "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/1t3E3uDJnE59CdXKYxa8ed"
+      },
+      "artists": [
+        {
+          "name": "Suuf Hefner",
+          "url": "https://open.spotify.com/artist/27HXDg1KgoITuVR72sZAts"
+        },
+        {
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132793,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/4A8sWDawez3kOgzmpcpxAJ"
+    },
+    {
+      "album": {
         "name": "Life As We Knew It",
         "url": "https://open.spotify.com/album/06ZbG1c7LwwZsRP563KAdB"
       },
@@ -1285,7 +1419,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 224294,
       "name": "I Don't Wanna Hang",
       "url": "https://open.spotify.com/track/6sSMdueWm4eICidC9W6ujU"
@@ -1379,7 +1513,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 178148,
       "name": "It's Your Birthday",
       "url": "https://open.spotify.com/track/5B6dWRWkCM3a81O0ztQGa8"
@@ -1476,6 +1610,24 @@
     },
     {
       "album": {
+        "name": "Likkle Honey",
+        "url": "https://open.spotify.com/album/05kt4iPMDS5NpRdyoTqlj8"
+      },
+      "artists": [
+        {
+          "name": "Lowkita",
+          "url": "https://open.spotify.com/artist/5a6ihpmD1tWEkLsql9vDxC"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143782,
+      "name": "Likkle Honey",
+      "url": "https://open.spotify.com/track/4EWwEVyLdVJP1aoEGbHb3d"
+    },
+    {
+      "album": {
         "name": "Lizzie McGuire",
         "url": "https://open.spotify.com/album/4GdMqELYHEsbWmoXu9qcF6"
       },
@@ -1495,7 +1647,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 173142,
       "name": "Lizzie McGuire",
       "url": "https://open.spotify.com/track/0YZiPEHwgZA6JeYfsCz6hO"
@@ -1662,6 +1814,24 @@
     },
     {
       "album": {
+        "name": "Money In The Bank",
+        "url": "https://open.spotify.com/album/3YCR4OkwWn7ZVPHqPhReIE"
+      },
+      "artists": [
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "Money In The Bank",
+      "url": "https://open.spotify.com/track/6Z0zJY87dFeKzT1TcLlZyX"
+    },
+    {
+      "album": {
         "name": "Money Over Feelings",
         "url": "https://open.spotify.com/album/5RLZQNVUOIsneYSJrUDdos"
       },
@@ -1677,7 +1847,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 151875,
       "name": "Money Over Feelings",
       "url": "https://open.spotify.com/track/21aWmhuOpBLjhTjHxZuM6r"
@@ -1783,7 +1953,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 204346,
       "name": "No Friends In The Industry",
       "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
@@ -1968,6 +2138,24 @@
     },
     {
       "album": {
+        "name": "Palm Itch",
+        "url": "https://open.spotify.com/album/3nK7uVeXwxxDOEbwXGfkM0"
+      },
+      "artists": [
+        {
+          "name": "Tizzy Stackz",
+          "url": "https://open.spotify.com/artist/3oBYsMKXO4E5j6j3hzFygR"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157910,
+      "name": "Palm Itch",
+      "url": "https://open.spotify.com/track/7jpljw0lB2o3IvOY1Rl5EZ"
+    },
+    {
+      "album": {
         "name": "Paving The Way",
         "url": "https://open.spotify.com/album/4us6uEYjigvZnbdTJefqwq"
       },
@@ -1990,6 +2178,28 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/7LyH1QSSk3ougLo55qXcGK"
+      },
+      "artists": [
+        {
+          "name": "Busy Nasa",
+          "url": "https://open.spotify.com/artist/29m2WwSOMzE2MoFPARm4bi"
+        },
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "PHOENIX",
+      "url": "https://open.spotify.com/track/1JjP2oYeFS5L2mWkc9abJl"
+    },
+    {
+      "album": {
         "name": "Pop Shit",
         "url": "https://open.spotify.com/album/3sfZE5QoRqa8ff3eKHWMDg"
       },
@@ -2001,7 +2211,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 151489,
       "name": "Pop Shit",
       "url": "https://open.spotify.com/track/3oObL5VM4WRQxLOo7miGtS"
@@ -2023,7 +2233,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 212530,
       "name": "Poutine Sauce",
       "url": "https://open.spotify.com/track/0r1dJC8vkEiuqiW7KqVf3g"
@@ -2151,7 +2361,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 161423,
       "name": "Runner",
       "url": "https://open.spotify.com/track/7Mdu4k8vNlKQxzjKI0Jblr"
@@ -2173,6 +2383,32 @@
       "duration_ms": 172269,
       "name": "Shots Fired",
       "url": "https://open.spotify.com/track/2AtYnDbxNMfPZiwwyjXsJQ"
+    },
+    {
+      "album": {
+        "name": "Showgirls",
+        "url": "https://open.spotify.com/album/3BM0aOTDJgvy9I91teD6yl"
+      },
+      "artists": [
+        {
+          "name": "12AM",
+          "url": "https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n"
+        },
+        {
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164375,
+      "name": "Showgirls",
+      "url": "https://open.spotify.com/track/6jAyGjl1JlSGBmyu993LsU"
     },
     {
       "album": {
@@ -2209,7 +2445,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 141600,
       "name": "SOON",
       "url": "https://open.spotify.com/track/0yj6qd95zx2PGU6ZlrWASB"
@@ -2245,10 +2481,36 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 124943,
       "name": "Stand Witcha",
       "url": "https://open.spotify.com/track/5grQjr0LfwioqBqsyMWCoc"
+    },
+    {
+      "album": {
+        "name": "STEPPA",
+        "url": "https://open.spotify.com/album/4fBprQ4vDbT8XkLnxTBQut"
+      },
+      "artists": [
+        {
+          "name": "Aaron Billz",
+          "url": "https://open.spotify.com/artist/3rf7CTYnuiT1wV6SOOsytb"
+        },
+        {
+          "name": "Adrian Duncan",
+          "url": "https://open.spotify.com/artist/6ogwP3LHapMhX2mQuKkosY"
+        },
+        {
+          "name": "That's Deep",
+          "url": "https://open.spotify.com/artist/2T2uyZ8goEevh7veWHo9wu"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136112,
+      "name": "STEPPA",
+      "url": "https://open.spotify.com/track/2P0JeBzWaZBPljLpiCzdBf"
     },
     {
       "album": {
@@ -2267,6 +2529,24 @@
       "duration_ms": 184109,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/0VWqFk6vPwmFirhZiF9tLx"
+    },
+    {
+      "album": {
+        "name": "SUSHI STAND!",
+        "url": "https://open.spotify.com/album/74fkRdAAeijP2RwpnKwS75"
+      },
+      "artists": [
+        {
+          "name": "PhlyMur",
+          "url": "https://open.spotify.com/artist/1Rx24j5gKzt8H22A5tfmpG"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332307,
+      "name": "SUSHI STAND!",
+      "url": "https://open.spotify.com/track/04ntgqtFKNBgHFhiKKfHwP"
     },
     {
       "album": {
@@ -2401,7 +2681,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 138168,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/2q88tYMUUZ03hN9hjFZVDC"
@@ -2556,6 +2836,42 @@
     },
     {
       "album": {
+        "name": "Trippin'",
+        "url": "https://open.spotify.com/album/3cB9sDC8qP3lraCW16X6pq"
+      },
+      "artists": [
+        {
+          "name": "Bby Billions",
+          "url": "https://open.spotify.com/artist/036VAtZMhWUowbla0OesPK"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116520,
+      "name": "Trippin'",
+      "url": "https://open.spotify.com/track/0VIng0bDqHnD9o90i74TbB"
+    },
+    {
+      "album": {
+        "name": "TWITCH",
+        "url": "https://open.spotify.com/album/3SiW26Em1rSBOfmwICXFSG"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190639,
+      "name": "TWITCH",
+      "url": "https://open.spotify.com/track/6jZXep6N4A3xbSTVxHAEBh"
+    },
+    {
+      "album": {
         "name": "Two Of Those",
         "url": "https://open.spotify.com/album/0lyB6vWvp9k1tqxrftEUjr"
       },
@@ -2633,7 +2949,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 264697,
       "name": "Warfare",
       "url": "https://open.spotify.com/track/0n8gvzrfFKvtWAR3pGXPos"
@@ -2663,6 +2979,24 @@
       "duration_ms": 149532,
       "name": "Water Whip (feat. 2kz & YTN Paco)",
       "url": "https://open.spotify.com/track/2CTIrIH7AXD4hLAcRyFLsx"
+    },
+    {
+      "album": {
+        "name": "Western Conference",
+        "url": "https://open.spotify.com/album/5wynBL7bR3Y1BEtXXnBgAA"
+      },
+      "artists": [
+        {
+          "name": "MOULA 1ST",
+          "url": "https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165512,
+      "name": "Western Conference",
+      "url": "https://open.spotify.com/track/4zfwmxOtfEec7Ct9qQ67mU"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL"

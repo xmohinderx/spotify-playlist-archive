@@ -81,7 +81,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 214506,
       "name": "Ag\u00fcita",
       "url": "https://open.spotify.com/track/2QCQvMPXfoTGTP5wAYGvzP"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 191712,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 207700,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/2VWMQXNWdSmabmOWrvo9GC"
@@ -338,6 +338,24 @@
     },
     {
       "album": {
+        "name": "Como Te Lo Digo / Tonta (Live Session)",
+        "url": "https://open.spotify.com/album/0JAxpjvSLz6fRG7TDPxGak"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Como Te Lo Digo / Tonta - Live Session",
+      "url": "https://open.spotify.com/track/4jHbPBldpwH1ex593Ffnsh"
+    },
+    {
+      "album": {
         "name": "Un Homenaje Al Cielo",
         "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
@@ -385,7 +403,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 235767,
       "name": "Coraz\u00f3n, Corazoncito",
       "url": "https://open.spotify.com/track/4CpaWEOZCa4RA8ow8B75O2"
@@ -475,7 +493,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 187393,
       "name": "De Amor Voy a Morirme",
       "url": "https://open.spotify.com/track/4E6Exumf6rVckB5Wz7dRgf"
@@ -493,7 +511,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 196304,
       "name": "De los Besos Que Te Di",
       "url": "https://open.spotify.com/track/1mnwYmoL5vZeBqPyUwrVCs"
@@ -691,7 +709,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 186874,
       "name": "El Polvito del Amor",
       "url": "https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb"
@@ -951,7 +969,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 256021,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 146834,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 206416,
       "name": "Kilometros",
       "url": "https://open.spotify.com/track/4gx7KtrX9WzO0Ra2yzIcyN"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 211896,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 190266,
       "name": "No Es Mi Despedida",
       "url": "https://open.spotify.com/track/4Eyw6tmKn3JHAlOBo60iQU"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 228565,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 196000,
       "name": "No Me Dijiste",
       "url": "https://open.spotify.com/track/2pmHK974eD7VWYMLzcC2jC"
@@ -1923,7 +1941,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 245864,
       "name": "Se Enamor\u00f3 de Mi la Soledad",
       "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
@@ -1941,7 +1959,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 173617,
       "name": "Se Fue el Amor",
       "url": "https://open.spotify.com/track/7ihPPfWMMkxzrvmNh1xNZH"
@@ -1995,7 +2013,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 248600,
       "name": "Se Que Llorar\u00e1s",
       "url": "https://open.spotify.com/track/1BK2BOFeuMd6RTTn38xzUE"
@@ -2075,6 +2093,24 @@
       "duration_ms": 275375,
       "name": "Si Te Vas - Vivo",
       "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
+    },
+    {
+      "album": {
+        "name": "Si Tu Amor No Vuelve / Coraz\u00f3n de Acero",
+        "url": "https://open.spotify.com/album/032HbqNinaK4njyzDouiYT"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260769,
+      "name": "Si Tu Amor No Vuelve / Coraz\u00f3n de Acero",
+      "url": "https://open.spotify.com/track/47dnVU6GPbn6IP9wVWl5Z6"
     },
     {
       "album": {
@@ -2219,7 +2255,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 79594,
       "name": "Tiene Espinas el Rosal",
       "url": "https://open.spotify.com/track/6p3lVBHIY9nHJgVaOoMLU6"
@@ -2309,7 +2345,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 168531,
       "name": "Tu - Live Session",
       "url": "https://open.spotify.com/track/748ZjU8OoEfawysf7HFPph"
@@ -2327,7 +2363,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 199444,
       "name": "Tu Me Obligaste",
       "url": "https://open.spotify.com/track/1gSwrI4t1a9gxSZNK6yvOY"
@@ -2345,7 +2381,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 205043,
       "name": "Un So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/50pB6rEpZ1aDV2clo97wvf"
@@ -2435,7 +2471,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 177930,
       "name": "Uno Por Uno",
       "url": "https://open.spotify.com/track/1d4bXRdIkRHVRaLfLZ6RUC"
@@ -2507,7 +2543,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 215186,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
@@ -2561,7 +2597,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 171957,
       "name": "Volver a Vernos",
       "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"

@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 304934,
       "name": "999 Renaissance",
       "url": "https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2"
@@ -103,6 +103,24 @@
       "duration_ms": 203994,
       "name": "A Light Without Flame",
       "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
+    },
+    {
+      "album": {
+        "name": "A Phantasm at the End of the Tunnel",
+        "url": "https://open.spotify.com/album/5ZV67dLiioz98qZpeqDl2o"
+      },
+      "artists": [
+        {
+          "name": "What After This?",
+          "url": "https://open.spotify.com/artist/2EOmCCwdMcNXiYOzQ4GtmM"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321588,
+      "name": "A Phantasm at the End of the Tunnel",
+      "url": "https://open.spotify.com/track/4UNxmX6uhGVlZELVVJmszt"
     },
     {
       "album": {
@@ -279,7 +297,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
@@ -405,7 +423,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 453318,
       "name": "continuo",
       "url": "https://open.spotify.com/track/4NTaWl9n52PEQqNAa0VAwB"
@@ -427,7 +445,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 148600,
       "name": "De Luce Et Umbra",
       "url": "https://open.spotify.com/track/0SslNpasndxgkQRvqSgC6N"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 215820,
       "name": "Etne",
       "url": "https://open.spotify.com/track/0XmfdHTrbFUZgJjFnb1LqZ"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 105600,
       "name": "Everything in Life is Vibration",
       "url": "https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 282760,
       "name": "Fastelavn",
       "url": "https://open.spotify.com/track/5Yw6J6DgRK9TzX1FHAjVzn"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 247043,
       "name": "Kassel - Robot Koch Rework",
       "url": "https://open.spotify.com/track/2xqRqf5is3SrJeYnIO2lPL"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 167920,
       "name": "Moon Window",
       "url": "https://open.spotify.com/track/4PTSiJw3k6IYIofogD0uuI"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 139130,
       "name": "Overture",
       "url": "https://open.spotify.com/track/3UvvN8jTSRyb7LQZYxrnSI"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 249813,
       "name": "Phosphenes",
       "url": "https://open.spotify.com/track/4WXLubmHAMIwvdIShNLWd4"
@@ -1809,7 +1827,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 335149,
       "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
@@ -1955,7 +1973,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Satori by the Sea",
       "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 207975,
       "name": "The Moments We Keep",
       "url": "https://open.spotify.com/track/3v6FUJuz7vstBfuFykS6xp"
@@ -2191,7 +2209,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 242838,
       "name": "Transformotion",
       "url": "https://open.spotify.com/track/4RBecpK3zimf5RLUMof1f2"
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
@@ -2409,7 +2427,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 214153,
       "name": "Wind",
       "url": "https://open.spotify.com/track/13teEhU18oa0T3sKvrMpgZ"

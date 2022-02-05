@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "shake it up and let it pop! cover: AJR",
+  "description": "shake it up and let it pop! cover: Hippo Campus",
   "name": "soda",
   "published_playlist_ids": [
     "4WlZyLyAP1klcXFbRzSjzt"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "1000 Tears",
+        "url": "https://open.spotify.com/album/1GeOaXdpEL6mksQ0ELEnCT"
+      },
+      "artists": [
+        {
+          "name": "Teddy Failure",
+          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161941,
+      "name": "1000 Tears",
+      "url": "https://open.spotify.com/track/33Nc5TE2bPHa6wtUUFLVSz"
+    },
     {
       "album": {
         "name": "26",
@@ -93,7 +111,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 190911,
       "name": "6AM",
       "url": "https://open.spotify.com/track/5AJ9oWWYzHvSJYX6IBEvMK"
@@ -137,7 +155,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 169411,
       "name": "Again & Again",
       "url": "https://open.spotify.com/track/6WpmLYjucvN7nijrRJiiWZ"
@@ -181,6 +199,42 @@
       "duration_ms": 205927,
       "name": "ARE YOU LETTING GO? (feat. BENEE)",
       "url": "https://open.spotify.com/track/48yXA9OSJ02608WYnTo4ps"
+    },
+    {
+      "album": {
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173202,
+      "name": "Back To The Future",
+      "url": "https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC"
+    },
+    {
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/4ZFKLXH2lTaQn5GxVH6zYg"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174368,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/7eQ6R9XSNfbLSExXggYbmY"
     },
     {
       "album": {
@@ -235,6 +289,24 @@
       "duration_ms": 281366,
       "name": "Bowie",
       "url": "https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2"
+    },
+    {
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/0FbgQx8a9EbsFO2TFcTn12"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192648,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1jA53SLb7NDWeWZU74Uvoo"
     },
     {
       "album": {
@@ -339,7 +411,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 199773,
       "name": "Catch Myself",
       "url": "https://open.spotify.com/track/6accWkHJFVQElZ5aTwdBMQ"
@@ -357,7 +429,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 185000,
       "name": "Chapstick",
       "url": "https://open.spotify.com/track/1I78vjEGzF30QsfjhT34kl"
@@ -639,7 +711,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 181893,
       "name": "Downsize",
       "url": "https://open.spotify.com/track/3SvYs68Wn1Z4U845Cdi0jg"
@@ -679,6 +751,24 @@
       "duration_ms": 238146,
       "name": "FAKE",
       "url": "https://open.spotify.com/track/10hFskWYgBsQzouIOpkfdk"
+    },
+    {
+      "album": {
+        "name": "FEAR OF INTIMACY",
+        "url": "https://open.spotify.com/album/0dY4VGDWRrWy0rLnb2XScT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Sartorius",
+          "url": "https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191559,
+      "name": "FEAR OF INTIMACY",
+      "url": "https://open.spotify.com/track/55Px7prPLkT5scOzkE4gML"
     },
     {
       "album": {
@@ -855,7 +945,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 254920,
       "name": "Heights",
       "url": "https://open.spotify.com/track/1HrjvXRB48xSWgypsP3AYw"
@@ -891,7 +981,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 166820,
       "name": "High School",
       "url": "https://open.spotify.com/track/3Mk56Ai0ZP4MSW7ia46ODo"
@@ -1320,6 +1410,24 @@
     },
     {
       "album": {
+        "name": "London Is Lonely",
+        "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207880,
+      "name": "London Is Lonely - Edit",
+      "url": "https://open.spotify.com/track/06Tr79i53ihD4KUKYIyyjq"
+    },
+    {
+      "album": {
         "name": "Looks Like Me",
         "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
       },
@@ -1414,6 +1522,24 @@
     },
     {
       "album": {
+        "name": "it's a little complicated, but i'm okay.",
+        "url": "https://open.spotify.com/album/4nrSgAxs8tzf8RPIN9lc4Q"
+      },
+      "artists": [
+        {
+          "name": "Virginia To Vegas",
+          "url": "https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197035,
+      "name": "no excuses",
+      "url": "https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y"
+    },
+    {
+      "album": {
         "name": "NO WAY!",
         "url": "https://open.spotify.com/album/2SruOoc4NUXuErLO3zDKbC"
       },
@@ -1468,6 +1594,24 @@
     },
     {
       "album": {
+        "name": "Notion",
+        "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195120,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
+    },
+    {
+      "album": {
         "name": "Oh shit\u2026are we in love?",
         "url": "https://open.spotify.com/album/0m0PoRgev9z31KQ3OuFYO5"
       },
@@ -1501,6 +1645,24 @@
       "duration_ms": 174914,
       "name": "OH WELL",
       "url": "https://open.spotify.com/track/2sfYIKz3J8eZkBdTh25KyK"
+    },
+    {
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/76MulsxJQcZuCf9EphKOi1"
+      },
+      "artists": [
+        {
+          "name": "Harry Strange",
+          "url": "https://open.spotify.com/artist/33hzAXIWsHwT9LxvlQ1ZAr"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188288,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/2Vm6N90nP3iVAm4ejHrl1a"
     },
     {
       "album": {
@@ -1555,7 +1717,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 202955,
       "name": "Peachy",
       "url": "https://open.spotify.com/track/5VN19XwyKuWp3lfQFFB4ov"
@@ -1775,7 +1937,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 182475,
       "name": "Semi Pro",
       "url": "https://open.spotify.com/track/5pAEaufx5VFIl8ct3kWtOt"
@@ -1797,6 +1959,28 @@
       "duration_ms": 187363,
       "name": "Shut Off The Lights",
       "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
+    },
+    {
+      "album": {
+        "name": "Silk Chiffon (feat. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/0tVci75UxNB1H29bpj86tj"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206586,
+      "name": "Silk Chiffon (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/0BLY78hYpsH9NqP6X0N8CX"
     },
     {
       "album": {
@@ -1990,6 +2174,24 @@
     },
     {
       "album": {
+        "name": "The Story of Us",
+        "url": "https://open.spotify.com/album/7j7cqgeWmYH9PbKe3S5oJj"
+      },
+      "artists": [
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206533,
+      "name": "Straightjacket",
+      "url": "https://open.spotify.com/track/51LIqkda3pTeECZUhMnool"
+    },
+    {
+      "album": {
         "name": "Strawberry Kisses",
         "url": "https://open.spotify.com/album/4QQ5HRLZrSC7882WTmvZFH"
       },
@@ -2099,6 +2301,28 @@
       "duration_ms": 158464,
       "name": "talking to yourself",
       "url": "https://open.spotify.com/track/15v3hWfg1p3gfjMZ3wJ4WA"
+    },
+    {
+      "album": {
+        "name": "that's how it goes",
+        "url": "https://open.spotify.com/album/6PDPgSD9VSmg5dKKa3y22q"
+      },
+      "artists": [
+        {
+          "name": "Dalton Mauldin",
+          "url": "https://open.spotify.com/artist/7HLQqnULw9QStkYa6mEEh8"
+        },
+        {
+          "name": "Candor",
+          "url": "https://open.spotify.com/artist/70b2sXX923hUCITy2mAUiZ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121687,
+      "name": "that's how it goes",
+      "url": "https://open.spotify.com/track/5Agb6psLvZTVv1QxfZR73X"
     },
     {
       "album": {
@@ -2439,6 +2663,24 @@
       "duration_ms": 179253,
       "name": "You Shaped Hole",
       "url": "https://open.spotify.com/track/5AoSpWbDyhpHvB6RwjM2c7"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/11sktScKNcbkw6h9zNgkKK"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202199,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/3aKeMLUuvZSmlzMxA41WEr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis"

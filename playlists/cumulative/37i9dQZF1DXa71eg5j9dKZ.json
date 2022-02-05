@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Leon Vynehall",
+  "description": "The home for alternative electronic music. Cover: Nia Archives",
   "name": "Altar",
   "published_playlist_ids": [
     "421FObHiJ0lygWLx69aaX2"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 264004,
       "name": "ain't the same",
       "url": "https://open.spotify.com/track/36HiyxDVheJRnCDhJk73Um"
@@ -780,6 +780,24 @@
     },
     {
       "album": {
+        "name": "Distorted Youth EP",
+        "url": "https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284718,
+      "name": "Distorted Youth",
+      "url": "https://open.spotify.com/track/3DhGxSaArP9Kf57DwcwMPQ"
+    },
+    {
+      "album": {
         "name": "Don't Cry",
         "url": "https://open.spotify.com/album/6E6Ma1phFlnclk3qufofPd"
       },
@@ -831,7 +849,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 184615,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2Z5pQyvM2jC2lFOJTjKCnv"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 166356,
       "name": "Forbidden Feelingz",
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
@@ -1201,7 +1219,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 234289,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/4CFqL2BS4R4FZka8cibIMc"
@@ -1280,6 +1298,24 @@
     },
     {
       "album": {
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205026,
+      "name": "In-between and Overseas",
+      "url": "https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs"
+    },
+    {
+      "album": {
         "name": "Jazz Club After Hours",
         "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
       },
@@ -1295,6 +1331,24 @@
       "duration_ms": 294211,
       "name": "Jazz Club After Hours",
       "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "album": {
+        "name": "Jobi",
+        "url": "https://open.spotify.com/album/57Z1J5yuB2PjLsAq0l1Pt2"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381753,
+      "name": "Jobi",
+      "url": "https://open.spotify.com/track/0meByrGhwxMB1fLV9EhCF1"
     },
     {
       "album": {
@@ -1632,6 +1686,24 @@
     },
     {
       "album": {
+        "name": "Luv Like",
+        "url": "https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186025,
+      "name": "Luv Like",
+      "url": "https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c"
+    },
+    {
+      "album": {
         "name": "Make It",
         "url": "https://open.spotify.com/album/5DwqXlTbsC2ld3bUrx59y2"
       },
@@ -1651,6 +1723,28 @@
       "duration_ms": 296344,
       "name": "Make It",
       "url": "https://open.spotify.com/track/2EpLUT80X1FVKLN1hqiB6o"
+    },
+    {
+      "album": {
+        "name": "malo okoma",
+        "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
+      },
+      "artists": [
+        {
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+        },
+        {
+          "name": "Theresa Ng'ambi",
+          "url": "https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245437,
+      "name": "malo okoma - Radio Edit",
+      "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
     },
     {
       "album": {
@@ -1767,7 +1861,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 239240,
       "name": "Natural (feat. Big Ever)",
       "url": "https://open.spotify.com/track/0Coblp9s0SdXoU5XoILgt9"
@@ -1833,6 +1927,28 @@
       "duration_ms": 371520,
       "name": "Otomo",
       "url": "https://open.spotify.com/track/3VRemRqHZi7qiWzJfc684f"
+    },
+    {
+      "album": {
+        "name": "to hell with it (Remixes)",
+        "url": "https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180899,
+      "name": "Passion - Sam Gellaitry Remix",
+      "url": "https://open.spotify.com/track/4Kd2L1XwxyGOa9dcQIEndh"
     },
     {
       "album": {
@@ -2243,7 +2359,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 231610,
       "name": "soft spot - MJ Cole Remix",
       "url": "https://open.spotify.com/track/5FMwpg768ZLcDVZOsldtws"

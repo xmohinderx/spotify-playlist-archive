@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
+    },
+    {
+      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/45d3TzOxeMA1bWgCD4RkYs"
       },
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 199600,
       "name": "Corona and Lime",
       "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
@@ -803,6 +821,24 @@
       "duration_ms": 244640,
       "name": "Fly",
       "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
+    },
+    {
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/2uGa7gKhYd9DKrRD1pbnZu"
+      },
+      "artists": [
+        {
+          "name": "Mikey Mike",
+          "url": "https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/0xeW4sis1G7eWOVgSVCnOo"
     },
     {
       "album": {
@@ -1221,7 +1257,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 141750,
       "name": "Mary Go Round",
       "url": "https://open.spotify.com/track/0wnwcuAm6WlXLhyJRlYyPe"
@@ -2107,6 +2143,28 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "album": {
+        "name": "Too Late (with Dirty Heads)",
+        "url": "https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn"
+      },
+      "artists": [
+        {
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        },
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157084,
+      "name": "Too Late (with Dirty Heads)",
+      "url": "https://open.spotify.com/track/3jaaCjDmM9wMEr42mMqrPo"
     },
     {
       "album": {

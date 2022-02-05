@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 110213,
       "name": "5 Ways",
       "url": "https://open.spotify.com/track/3yjucIWxFPn6cA0VWorAgM"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 160000,
       "name": "Big Glocks",
       "url": "https://open.spotify.com/track/1zfZr8Du68quGUondXyQJG"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 115657,
       "name": "Biscuit",
       "url": "https://open.spotify.com/track/4cuwwRBCMMwbzyhWoupVLU"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 176840,
       "name": "CUM",
       "url": "https://open.spotify.com/track/26Wi8P1wIM3JQFxRRErnvt"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 117394,
       "name": "HIT THE FLOOR",
       "url": "https://open.spotify.com/track/7MUW9VPYDM00UdwF1csfCq"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 134796,
       "name": "HOLD THE FUCK UP",
       "url": "https://open.spotify.com/track/4aDexnR78Q3l5Hxd0RSRN0"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 96000,
       "name": "HOT DEMON B!TCHES NEAR U ! ! !",
       "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
@@ -1138,6 +1138,24 @@
     },
     {
       "album": {
+        "name": "Ignorance Ain't Bliss",
+        "url": "https://open.spotify.com/album/4K0V5fCyvEymNGYPslc2nz"
+      },
+      "artists": [
+        {
+          "name": "Wavy Jone$",
+          "url": "https://open.spotify.com/artist/7Ai8EYRmzf3N9dhbPvOmQh"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100127,
+      "name": "Ignorance Ain't Bliss",
+      "url": "https://open.spotify.com/track/1fby5BBUXLbq78cAE6zrHv"
+    },
+    {
+      "album": {
         "name": "IMAGES OF DEATH",
         "url": "https://open.spotify.com/album/05FTahM2sUsLd6hvYve6yR"
       },
@@ -1237,7 +1255,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "iPHoNe 12",
       "url": "https://open.spotify.com/track/7HdPTwgiZHMVyOm2rPWkDm"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 134452,
       "name": "LED",
       "url": "https://open.spotify.com/track/2XH2w3lHRhbZ9D5lUjVVRC"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 85463,
       "name": "LIGHTS OUT",
       "url": "https://open.spotify.com/track/7fmdx48NGBhwa4ccuj6KaT"
@@ -1556,6 +1574,28 @@
     },
     {
       "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/5PE0K2u8spjs5v55RPYMOE"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "Lu baby",
+          "url": "https://open.spotify.com/artist/49l3IIrFOZytVpurTa9wCC"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120401,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/08mjZYnpAFVWjKtLom6lRg"
+    },
+    {
+      "album": {
         "name": "NEW PROFILE PIC",
         "url": "https://open.spotify.com/album/5H1l5WjzOXeKYakngqyqRa"
       },
@@ -1629,7 +1669,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 132257,
       "name": "On Da Lowkey",
       "url": "https://open.spotify.com/track/5wnEWLBWLaNMHmECukmTr3"
@@ -1647,7 +1687,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 190145,
       "name": "Once From Evil",
       "url": "https://open.spotify.com/track/2DzXsSC3wLb1IqD8kI5poM"
@@ -1705,7 +1745,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 111020,
       "name": "Paris",
       "url": "https://open.spotify.com/track/4irYeuAi87yyGHcI4h9s0x"
@@ -1943,7 +1983,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 130054,
       "name": "SMITH & WESSON",
       "url": "https://open.spotify.com/track/2iqscA9e8ZmnWf3STlHUKc"
@@ -1979,7 +2019,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 211288,
       "name": "SPIDERBLOOD",
       "url": "https://open.spotify.com/track/0kx1cK3Lhr7yaJ47uvG36X"
@@ -2331,7 +2371,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 97057,
       "name": "YASOPP",
       "url": "https://open.spotify.com/track/5MLlfYP9uZUGqsaPtUAVQe"

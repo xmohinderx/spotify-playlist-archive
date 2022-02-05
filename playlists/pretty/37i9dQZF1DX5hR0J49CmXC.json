@@ -1,13 +1,57 @@
 {
-  "description": "The Real hip-hop. Cover: Kota The Friend",
-  "num_followers": 1061706,
+  "description": "The Real hip-hop. Cover: Saba",
+  "num_followers": 1061867,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0Njg4MiwwMDAwMDE4ZDAwMDAwMTdlOWYxYjcxMTYwMDAwMDE3ZTMyZjJlODIx",
+  "snapshot_id": "MTY0NDAwODY0NCwwMDAwMDE4ZjAwMDAwMTdlYzY4ZDFmOTAwMDAwMDE3ZWMyNjdmNDY5",
   "tracks": [
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
+        "url": "https://open.spotify.com/album/51rkfslHbM2exyR4strATb"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "duration_ms": 286503,
+      "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
+      "url": "https://open.spotify.com/track/07Hl8YmZR1JYpEhCDqNBJA"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Few Good Things",
+        "url": "https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "Pivot Gang",
+          "url": "https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "Soldier (feat. Pivot Gang)",
+      "url": "https://open.spotify.com/track/43nJ4JDR5rbMndZoMXzsZe"
+    },
     {
       "added_at": "2022-01-28 05:14:42",
       "album": {
@@ -29,6 +73,70 @@
       "url": "https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w"
     },
     {
+      "added_at": "2022-02-04 21:04:04",
+      "album": {
+        "name": "Half Moon Mornings",
+        "url": "https://open.spotify.com/album/7hpeQ0G6DCf8rQp0IHgjil"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 135666,
+      "name": "Half Moon Mornings",
+      "url": "https://open.spotify.com/track/6PxSXRE9DaP49sKQOqYotC"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Dope Don't Sell Itself",
+        "url": "https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/01988BWUnQiclJ70TTcnOq"
+        },
+        {
+          "name": "Major Myjah",
+          "url": "https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L"
+        }
+      ],
+      "duration_ms": 267120,
+      "name": "Vlad TV (feat. Stove God Cooks, Symba & Major Myjah)",
+      "url": "https://open.spotify.com/track/1X1a1NKvRjNA7U0jlGTHbL"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Hustlaz",
+        "url": "https://open.spotify.com/album/7yQ5dDfqsH5y9XrVxAYKrs"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 235725,
+      "name": "Hustlaz",
+      "url": "https://open.spotify.com/track/5mV02eybPC77hODuGYd054"
+    },
+    {
       "added_at": "2022-01-28 05:14:42",
       "album": {
         "name": "Walkin",
@@ -45,36 +153,28 @@
       "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
     },
     {
-      "added_at": "2022-01-21 05:00:00",
+      "added_at": "2022-02-04 05:00:00",
       "album": {
-        "name": "State of the Union, Pt. II",
-        "url": "https://open.spotify.com/album/6A8bA2pGj7CllljsVUZTHb"
+        "name": "Few Good Things",
+        "url": "https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8"
       },
       "artists": [
         {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 310547,
-      "name": "State of the Union, Pt. II",
-      "url": "https://open.spotify.com/track/4Vg262UJVApIlI7d0xhkoc"
-    },
-    {
-      "added_at": "2021-12-24 05:21:21",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
-      },
-      "artists": [
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
         }
       ],
-      "duration_ms": 171398,
-      "name": "Meet Joe Black",
-      "url": "https://open.spotify.com/track/6DxuDt3ixGmXWKOTwaA2vz"
+      "duration_ms": 428800,
+      "name": "Few Good Things (feat. Black Thought and Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/61fQSX9Dq75oDhJbIP8v9n"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -111,6 +211,38 @@
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
+    {
+      "added_at": "2022-01-21 05:00:00",
+      "album": {
+        "name": "State of the Union, Pt. II",
+        "url": "https://open.spotify.com/album/6A8bA2pGj7CllljsVUZTHb"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 310547,
+      "name": "State of the Union, Pt. II",
+      "url": "https://open.spotify.com/track/4Vg262UJVApIlI7d0xhkoc"
+    },
+    {
+      "added_at": "2021-12-24 05:21:21",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 171398,
+      "name": "Meet Joe Black",
+      "url": "https://open.spotify.com/track/6DxuDt3ixGmXWKOTwaA2vz"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -827,126 +959,6 @@
       "duration_ms": 177500,
       "name": "JESSE GLOVER / DAY-DATE",
       "url": "https://open.spotify.com/track/4eUlsa8528fWVDF0GWz9bi"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "The Harder They Fall (The Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3whjvbBxG7j2FfTImRdqBw"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "BackRoad Gee",
-          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
-        }
-      ],
-      "duration_ms": 214911,
-      "name": "King Kong Riddim (ft BackRoad Gee)",
-      "url": "https://open.spotify.com/track/52VAPaZbeCB9iib6sqDTwu"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "No Monsters",
-        "url": "https://open.spotify.com/album/0rr3Ho09bozhyYuSnuEiq2"
-      },
-      "artists": [
-        {
-          "name": "Apollo Brown",
-          "url": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
-        },
-        {
-          "name": "Stalley",
-          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
-        }
-      ],
-      "duration_ms": 219483,
-      "name": "No Monsters",
-      "url": "https://open.spotify.com/track/65pA1h2u8yCG8YWtw6a1cu"
-    },
-    {
-      "added_at": "2021-09-24 17:39:52",
-      "album": {
-        "name": "Hitler Wears Hermes 8: Side B",
-        "url": "https://open.spotify.com/album/0KtFP56RU7bd32pcvdeWOU"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 235737,
-      "name": "Hell on Earth, Pt. 2 (feat. Benny The Butcher & Conway The Machine)",
-      "url": "https://open.spotify.com/track/3vonKK5uOX4mHb22A1JLi6"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Yuri",
-        "url": "https://open.spotify.com/album/43IFaDAdbBCAyQKtZMote3"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 150686,
-      "name": "Yuri",
-      "url": "https://open.spotify.com/track/31zXkSEk2PqJSLtQtCnwVm"
-    },
-    {
-      "added_at": "2021-09-24 17:39:52",
-      "album": {
-        "name": "HOMECOURT ADVANTAGE, Vol. 1",
-        "url": "https://open.spotify.com/album/0m4BEvjxcYfa78HlscT2g7"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 117226,
-      "name": "THE LOOP",
-      "url": "https://open.spotify.com/track/1dSQTFRuAAQSGbFlLukmD5"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Piano Love",
-        "url": "https://open.spotify.com/album/5pHaJ5OVQwzww81I7A0DGl"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 240957,
-      "name": "Piano Love",
-      "url": "https://open.spotify.com/track/7AmNgsApCocCTh9wnajhsR"
     }
   ],
   "unique_name": "Mind Right",

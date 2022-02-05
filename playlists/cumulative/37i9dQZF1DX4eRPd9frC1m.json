@@ -812,6 +812,28 @@
     },
     {
       "album": {
+        "name": "DIFFRENT",
+        "url": "https://open.spotify.com/album/68m1oLyZBu6bIRB4L1sHKL"
+      },
+      "artists": [
+        {
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+        },
+        {
+          "name": "THATSHYM",
+          "url": "https://open.spotify.com/artist/2G6zjE7TSKRPPpY8EgAnpq"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "DIFFRENT",
+      "url": "https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884"
+    },
+    {
+      "album": {
         "name": "DOMINATION",
         "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
       },
@@ -1443,6 +1465,28 @@
       "duration_ms": 218536,
       "name": "Grounded",
       "url": "https://open.spotify.com/track/74BPvRdlhKw09YhJtfAEUb"
+    },
+    {
+      "album": {
+        "name": "Harsh",
+        "url": "https://open.spotify.com/album/6uuJWGvPodKtM29QgZBoNu"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Red Hood Squad",
+          "url": "https://open.spotify.com/artist/06MFEUOcADxVpRKLC9EZXn"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Harsh",
+      "url": "https://open.spotify.com/track/4dZpVthxO7J7f7RHCdfSXP"
     },
     {
       "album": {

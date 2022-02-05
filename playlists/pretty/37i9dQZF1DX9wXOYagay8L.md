@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs?si=\-xYSyGAXTneDpoo8\_IoajQ">Makhadzi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,681 likes - 65 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,737 likes - 65 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kulakwe](https://open.spotify.com/track/6aUiXtqc9Qu1nQcousv2pa) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) | [Kulakwe](https://open.spotify.com/album/5WQ2GfzPnf3YN6vfI4Bmrv) | 5:21 |
+| 1 | [Kulakwe](https://open.spotify.com/track/6aUiXtqc9Qu1nQcousv2pa) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF) | [Kulakwe](https://open.spotify.com/album/5WQ2GfzPnf3YN6vfI4Bmrv) | 4:57 |
 | 2 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 |
 | 3 | [Umlilo](https://open.spotify.com/track/5voGF2TQBUJe2FmFpHtnsq) | [Naima Kay](https://open.spotify.com/artist/1RAmAUTyapevk2ViYBPcCM), [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no) | [Umlilo](https://open.spotify.com/album/4YQ8i8IhPB1iyHAVQnebMu) | 5:22 |
 | 4 | [dream about you](https://open.spotify.com/track/4d1KlYbovwaUlpP5yjXvgL) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [dream about you](https://open.spotify.com/album/0Grz9An4utW2oAod9pYBvz) | 3:20 |

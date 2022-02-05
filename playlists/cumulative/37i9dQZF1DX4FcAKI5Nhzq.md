@@ -2,7 +2,7 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/365X6AQFdYqkXtDjWksHVf)
 
-> Future K\-Pop hits! Cover: PENTAGON
+> Future K\-Pop hits! Cover: MAMADOL
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

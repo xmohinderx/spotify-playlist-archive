@@ -184,6 +184,28 @@
     },
     {
       "album": {
+        "name": "Chopin Gold",
+        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "H\u00e9l\u00e8ne Grimaud",
+          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292546,
+      "name": "Berceuse in D Flat Major, Op. 57",
+      "url": "https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ"
+    },
+    {
+      "album": {
         "name": "Chopin: Piano Concerto No.2; Ballade No.4; Berceuse; Polonaise H\u00e9ro\u00efque",
         "url": "https://open.spotify.com/album/2Kd3p575a7bkpGVkvDnYrH"
       },
@@ -203,28 +225,6 @@
       "duration_ms": 248613,
       "name": "Berceuse in D Flat Major, Op. 57",
       "url": "https://open.spotify.com/track/69oUJ4qeLrbFHCloblMglx"
-    },
-    {
-      "album": {
-        "name": "Chopin Gold",
-        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "H\u00e9l\u00e8ne Grimaud",
-          "url": "https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79"
-        }
-      ],
-      "date_added": "2019-08-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 292546,
-      "name": "Berceuse in D flat, Op. 57",
-      "url": "https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ"
     },
     {
       "album": {

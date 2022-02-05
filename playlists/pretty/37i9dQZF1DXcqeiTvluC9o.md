@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqeiTvluC9o.md) - [plain]
 
 > There's nothing better than Country Music and Small Town livin'!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,245 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,255 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqeiTvluC9o.md) - [plain]
 | 74 | [Small Town Southern Man](https://open.spotify.com/track/5jE8yYTU1Kc5QtXZ0fC49D) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 4:39 |
 | 75 | [Small Town](https://open.spotify.com/track/2HsjJJL4DhPCzMlnaGv7ap) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Scarecrow](https://open.spotify.com/album/1BYEhfr8qQGNhbqPAbfnxk) | 3:41 |
 
-Snapshot ID: `MTU4Mzg0NjM3OSwwMDAwMDAwNDAwMDAwMTZjMjEyZDBmOTYwMDAwMDE3MGM0OTlkMDAx`
+Snapshot ID: `MTY0NDAxMTYxMiwwMDAwMDAwNTAwMDAwMTdlYzZiYTY4MzUwMDAwMDE3MGM0OTlkMDAx`

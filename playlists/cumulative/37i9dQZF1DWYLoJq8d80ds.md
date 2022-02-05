@@ -2,7 +2,7 @@
 
 ### [Lunas de Folklore](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
-> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los del Portezuelo.
+> ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los Tekis.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Calle Soledad](https://open.spotify.com/track/6masuUU9NkkiVIbWTYjRU6) | [Grupo Quorum](https://open.spotify.com/artist/1dKVEJXnyHdXOkaHelPLiE) | [Encuentro](https://open.spotify.com/album/5yOpiLXAck9Zxa0TNCMskB) | 3:18 | 2021-12-31 |  |
 | [Cantor de Chacarera](https://open.spotify.com/track/0We54vDRP7gyuBrhn36QV1) | [Ceibo](https://open.spotify.com/artist/77AuP9c2svnUoh7JK5HrOp) | [Origen](https://open.spotify.com/album/2GRvGXSzytFedJyhlIXJRx) | 2:45 | 2021-12-31 |  |
 | [Carnavalito Quebradeño](https://open.spotify.com/track/4cuQJH5MMz7mskIw1W1Zc0) | [Gauchos Of The Pampa](https://open.spotify.com/artist/3rinfPP8tgOSDHnmmfEWCN), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Carnavalito Quebradeño](https://open.spotify.com/album/7mdiHjNKKIXkyXYoKHHwtc) | 2:55 | 2021-12-31 |  |
+| [Carnavalito\-Cumbia](https://open.spotify.com/track/3LmrwJkgv0FnU8Jw9sFIF2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnavalito\-Cumbia](https://open.spotify.com/album/7m71siD2EP9qJfuaK3iOWk) | 2:39 | 2022-02-04 |  |
 | [Cielo de la Baguala](https://open.spotify.com/track/0AjOTP9Ald9iClH4oavIVX) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau), [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Alma Andina](https://open.spotify.com/album/7GTOLniDL5ZCpwv3C3cacz) | 2:48 | 2021-12-31 |  |
 | [Cinco Sentidos](https://open.spotify.com/track/3DhjoaOlyb5iGqfaN8XKbj) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Cinco Sentidos](https://open.spotify.com/album/2KqQcyr7EHi2VHT1KhVEAB) | 2:16 | 2021-12-31 |  |
 | [Corazón Carnavalero](https://open.spotify.com/track/4NdkVqa59EUihYeaeNxJkk) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Tierrita](https://open.spotify.com/album/5W5arztiaKJ9k1dQsZEyXa) | 3:13 | 2021-12-31 |  |
@@ -32,7 +33,7 @@
 | [El Antigal](https://open.spotify.com/track/45VTmXO39bMxc8w6sE0YCd) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau) | [Alma Andina](https://open.spotify.com/album/7GTOLniDL5ZCpwv3C3cacz) | 4:18 | 2021-12-31 |  |
 | [El Coya Dance](https://open.spotify.com/track/7oOFKgqS3oKmiBzMf5ODDq) | [La Cantada](https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb) | [Carnavalito](https://open.spotify.com/album/4fTZtP2wJgcdvLlyKFofoH) | 2:35 | 2021-12-31 |  |
 | [El Nono Luigi](https://open.spotify.com/track/0BblpWQrMXZvsv3vUUVKVA) | [Los Nombradores del Alba](https://open.spotify.com/artist/66H9jh7nhPKz439qlVtgAX), [Facundo Toro](https://open.spotify.com/artist/6ZkfAoHwFnBg7SKExJ3QJX), [Nacho Prado Y Daniel Campos](https://open.spotify.com/artist/7hY9Nctj1rismpSsCItWFC) | [El Nono Luigi](https://open.spotify.com/album/37n2A9nZh8EeEbUjc15a15) | 2:35 | 2021-12-31 |  |
-| [Es Tan Bonito](https://open.spotify.com/track/4v8SCzqiaCHJ23qYrSFd1s) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Es Tan Bonito](https://open.spotify.com/album/5tRZfG0rPTYAheg8fMkxXw) | 3:26 | 2021-12-31 |  |
+| [Es Tan Bonito](https://open.spotify.com/track/4v8SCzqiaCHJ23qYrSFd1s) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Es Tan Bonito](https://open.spotify.com/album/5tRZfG0rPTYAheg8fMkxXw) | 3:26 | 2021-12-31 | 2022-02-05 |
 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 | 2021-12-31 |  |
 | [Febrero Es Carnaval](https://open.spotify.com/track/3P2jmXKi39mCteMPCY8npI) | [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt), [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Festivalero](https://open.spotify.com/album/5TyDRD791MEoJfshww4v4K) | 3:23 | 2021-12-31 |  |
 | [Gato del Festival](https://open.spotify.com/track/4KHBPKKzPuPtj5I73AAXpX) | [Daniela Toro](https://open.spotify.com/artist/0UcY9AtRAa1rSQBaUoiLau), [Yámana](https://open.spotify.com/artist/54aqhNJ3tynW46SOwMR9hT) | [Gato del Festival](https://open.spotify.com/album/3HLPRr5dA9yuJMlirISWxr) | 2:08 | 2021-12-31 |  |
@@ -75,7 +76,7 @@
 | [Píntame de Azul](https://open.spotify.com/track/42JmlitcqfYsUmDwgDMjQ1) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Píntame de Azul](https://open.spotify.com/album/21A8zImrUqeHr0x9jK9Y8O) | 3:50 | 2021-12-31 |  |
 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 | 2021-12-31 |  |
 | [Septiembre Azul](https://open.spotify.com/track/4J66FHVXQPdjJ1kQoy6NUA) | [TAHUE](https://open.spotify.com/artist/6KttJbPQqHWXDmqUC22eSi) | [Septiembre Azul](https://open.spotify.com/album/1zR4ZOHugUOaapOrrbQuBU) | 3:10 | 2021-12-31 |  |
-| [Si Acaso Regresaras](https://open.spotify.com/track/4UfUDmOLBDYLmQt7FKmOyO) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Si Acaso Regresaras](https://open.spotify.com/album/1oJMF6AUvk5MLoGIhEC6nr) | 3:08 | 2021-12-31 |  |
+| [Si Acaso Regresaras](https://open.spotify.com/track/4UfUDmOLBDYLmQt7FKmOyO) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Si Acaso Regresaras](https://open.spotify.com/album/1oJMF6AUvk5MLoGIhEC6nr) | 3:08 | 2021-12-31 | 2022-02-05 |
 | [Si No Te Vuelvo a Ver](https://open.spotify.com/track/47DVLnnCOWVKvOkCz9RA1y) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Si No Te Vuelvo a Ver](https://open.spotify.com/album/4I2nmRLtjWyFoNdHP6W9op) | 3:18 | 2021-12-31 |  |
 | [Siempre Chaqueño Seré](https://open.spotify.com/track/5QsE9o3fVm9PNFTvUyMu8g) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Siempre Chaqueño Seré](https://open.spotify.com/album/7ubNon6hL84WzO4gniXGrU) | 3:04 | 2021-12-31 |  |
 | [Sin Ti No Valgo Nada](https://open.spotify.com/track/7n3rvqszVrAX448hWRX65H) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [Instinto](https://open.spotify.com/album/24NfSZJS8SRtBfzDBzwML0) | 3:10 | 2021-12-31 |  |

@@ -642,6 +642,28 @@
     },
     {
       "album": {
+        "name": "Capitanu'",
+        "url": "https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i"
+      },
+      "artists": [
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        },
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/14Coa6fXcO0NfN2ADir3BK"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134265,
+      "name": "B 808 ZEN",
+      "url": "https://open.spotify.com/track/2lS7WbiKOwkqiZJthZTdCB"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1593,10 +1615,62 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 182400,
       "name": "Cand Am O Zi Grea",
       "url": "https://open.spotify.com/track/1M4CTZ0xTo2HskjUw2UFO2"
+    },
+    {
+      "album": {
+        "name": "Capitanu'",
+        "url": "https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i"
+      },
+      "artists": [
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        },
+        {
+          "name": "Amuly",
+          "url": "https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149610,
+      "name": "Capitanu'",
+      "url": "https://open.spotify.com/track/4qWqQtuAHUd4fzzas9e9bL"
+    },
+    {
+      "album": {
+        "name": "Capitanu'",
+        "url": "https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i"
+      },
+      "artists": [
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        },
+        {
+          "name": "DaDon",
+          "url": "https://open.spotify.com/artist/4dPVjczzpR0wTcIfEfqteT"
+        },
+        {
+          "name": "Kiv-U",
+          "url": "https://open.spotify.com/artist/2oW3wIh7NLo3KwoSKY1whV"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218164,
+      "name": "Ce Intrari Avem",
+      "url": "https://open.spotify.com/track/5JoQmAMQPbf47qGsw3nQFL"
     },
     {
       "album": {
@@ -1677,7 +1751,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 177931,
       "name": "Champs-\u00c9lys\u00e9es",
       "url": "https://open.spotify.com/track/3yZRQkgxHkFQ6fSjMFNtwy"
@@ -2231,7 +2305,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 163106,
       "name": "De 3 zile nu am somn",
       "url": "https://open.spotify.com/track/1XN4XrSJwIoahXM5lyfydo"
@@ -7216,6 +7290,40 @@
     },
     {
       "album": {
+        "name": "Capitanu'",
+        "url": "https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i"
+      },
+      "artists": [
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Amuly",
+          "url": "https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq"
+        },
+        {
+          "name": "Dafiend",
+          "url": "https://open.spotify.com/artist/0EKkjPYSrgM98RLszWTFbz"
+        },
+        {
+          "name": "Xeno",
+          "url": "https://open.spotify.com/artist/44BCQJLg1U5HixjLbVZQ3q"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Ora 6",
+      "url": "https://open.spotify.com/track/2HtMuOtkOxibDrnRRGzpNS"
+    },
+    {
+      "album": {
         "name": "Ora 6",
         "url": "https://open.spotify.com/album/2mwQaMrnWtO66MnIH53Am9"
       },
@@ -7243,7 +7351,7 @@
       ],
       "date_added": "2021-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 186000,
       "name": "Ora 6",
       "url": "https://open.spotify.com/track/5BTzxmS3NYLIwBFEp6tCYw"
@@ -8417,7 +8525,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 188918,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
@@ -8735,6 +8843,32 @@
       "duration_ms": 179025,
       "name": "Se Misca Beat",
       "url": "https://open.spotify.com/track/0TiPsHnzFxNw4ivIWEg70e"
+    },
+    {
+      "album": {
+        "name": "Capitanu'",
+        "url": "https://open.spotify.com/album/02pCTaVkNsyCBOruPrEO2i"
+      },
+      "artists": [
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
+        },
+        {
+          "name": "Azteca",
+          "url": "https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv"
+        },
+        {
+          "name": "Amuly",
+          "url": "https://open.spotify.com/artist/03eZ4y8baXNaR68hpkkDoq"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200727,
+      "name": "Sensibil La Lumina",
+      "url": "https://open.spotify.com/track/0HQrHYghOsf7UVcBdSFRa2"
     },
     {
       "album": {

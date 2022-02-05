@@ -2,7 +2,7 @@
 
 ### [Trapperz Argentina](https://open.spotify.com/playlist/23nX6vOJkUDnsNQfFrfuBO)
 
-> La casa del Trap de Argentino\. <br/>Foto: Lucho SSJ & C.R.O.
+> La casa del Trap de Argentino\. Foto: Bhavi & LIT killah.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Además de Mí \- Remix](https://open.spotify.com/track/7I8L3vYCLThw2FDrE6LuzE) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Además de Mí \(Remix\)](https://open.spotify.com/album/38DYAL9bTbpSQpZwENwj78) | 5:30 | 2022-01-21 |  |
 | [ANGELITO \(feat\. Duki\)](https://open.spotify.com/track/3ZBVYxy3XK4IVUlcoq3suZ) | [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [HÍBRIDO](https://open.spotify.com/album/7uJq7ArZ8F9RLehwiooxlo) | 2:49 | 2022-01-21 |  |
 | [Ansiedad](https://open.spotify.com/track/7iPnvTc3otHAoQ3gIcHuJS) | [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Almamáter \(Lado A\)](https://open.spotify.com/album/6FXIZM29Oeg9J7Is9LNR1v) | 3:03 | 2022-01-21 |  |
+| [AYER](https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [AYER](https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49) | 3:04 | 2022-02-04 |  |
 | [Baller](https://open.spotify.com/track/0WCJqrHLaDsjt2nBZSynnS) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Baller](https://open.spotify.com/album/4M4ASPb71i9q5uq6XDUFLJ) | 3:21 | 2022-01-21 |  |
 | [Bla Bla](https://open.spotify.com/track/3lJVVNEMVTodlhVIi6P1IT) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Bla Bla](https://open.spotify.com/album/2aAmbfScnK7UmJHXW25gi1) | 2:37 | 2022-01-21 |  |
 | [Blindado](https://open.spotify.com/track/4idht8ED4RPnqC3ZEJz2AQ) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Blindado](https://open.spotify.com/album/3ybgfOXXi3uHWHrkNttAJJ) | 2:41 | 2022-01-21 |  |
@@ -63,6 +64,7 @@
 | [Nat Geo \(Remix\)](https://open.spotify.com/track/4ftg5EDTuJw7gIlTi9LC7d) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Nat Geo \(Remix\)](https://open.spotify.com/album/4mQCYm9dzempb87XCrQCCC) | 4:04 | 2022-01-21 |  |
 | [No Puedo](https://open.spotify.com/track/6MbSMSXrSlvsyHf4kcaLQi) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:55 | 2022-01-21 |  |
 | [No Tiene Sentido](https://open.spotify.com/track/6qTfLcLXzymtYrfSRptEhf) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Santos Cuneo](https://open.spotify.com/artist/2FEgeZiCkW82L14BHsDXRZ) | [No Tiene Sentido](https://open.spotify.com/album/3ZGtjPuGFi585P7tMgyNBI) | 2:26 | 2022-01-21 |  |
+| [No\-Cap](https://open.spotify.com/track/5TgEYkLDNafBqeQ8Fs8ns8) | [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [No\-Cap](https://open.spotify.com/album/0wAJDf3nRGO5C8nv93Ptya) | 2:29 | 2022-02-04 |  |
 | [Offline \- Remix](https://open.spotify.com/track/1NJoSKztrhgtoKmwZxJOIu) | [MC Buzzz](https://open.spotify.com/artist/2z8dSH4TMRViQh4QjqrDYv), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Offline Remix](https://open.spotify.com/album/0wTBnt7BJB19IBSQAH3b4H) | 5:58 | 2022-01-21 |  |
 | [OPA](https://open.spotify.com/track/0sukoSvM4zzGnToTabElJI) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OPA](https://open.spotify.com/album/7t8Tx5nUmUqw8rydzPSKFh) | 2:50 | 2022-01-21 |  |
 | [ORO Y PLATINO](https://open.spotify.com/track/1ND2wzmMW3t9HHaHPMIaNo) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf) | [ORO Y PLATINO](https://open.spotify.com/album/0xhqz1zfuhkPcA2XkPjWfh) | 2:48 | 2022-01-21 |  |

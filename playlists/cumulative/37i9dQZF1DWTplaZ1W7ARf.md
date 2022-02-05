@@ -2,7 +2,7 @@
 
 ### [Street Soul](https://open.spotify.com/playlist/5n5KtY8h4kAoEatkpfvbQd)
 
-> Neighborhood Storytellers\. Cover: Lil Durk
+> Neighborhood Storytellers\. Cover: Stunna Gambino
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,11 +20,13 @@
 | [Dead Wrong \(feat\. Future\)](https://open.spotify.com/track/42qt8hsy7l4UR5CsO5ZLfL) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Bigger Than Life Or Death \(Deluxe\)](https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA) | 2:53 | 2021-12-17 |  |
 | [Die Young](https://open.spotify.com/track/4F7lBgkFp0BbO5ClrKrTXU) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Die Young](https://open.spotify.com/album/2v8xo2F7T94dvqFXnaI96O) | 2:14 | 2021-12-17 |  |
 | [Doctor \(feat\. Lil Tjay\)](https://open.spotify.com/track/5Xks4meWbkd8vjWsxqYeNF) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Doctor \(feat\. Lil Tjay\)](https://open.spotify.com/album/566YUUlXUHUdv98SJKo0Os) | 2:47 | 2021-11-05 |  |
+| [Evil](https://open.spotify.com/track/5zG5U3PGRdzzGcpUKP3W1J) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Evil](https://open.spotify.com/album/5X8WNJ9F7SmfCXjC19I2e0) | 2:19 | 2022-02-04 |  |
 | [Eyes Open \(feat\. Lil Baby & Young Thug\)](https://open.spotify.com/track/0va4UcIcxAOf4yVpxGQWSa) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2 Get You Thru The Rain](https://open.spotify.com/album/5AWE3CWvvlvpBBqKIjTrji) | 3:22 | 2021-12-10 |  |
 | [Feeling Down \(feat\. NoCap\)](https://open.spotify.com/track/4BKN3EPTN0HVte4s59dj68) | [No Savage](https://open.spotify.com/artist/0yMuWrw3m4KacxLCpFQW9w), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Life of a Savage 2](https://open.spotify.com/album/6r3kyA8HungIaSRs7CVtqW) | 3:14 | 2021-12-03 |  |
 | [Find A Way \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/4yIH4PcUVivcxNTy1ETMZ3) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Find A Way \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/album/2DKCodaPZGRpDuDFSIctBN) | 3:32 | 2021-09-17 |  |
 | [Fool for Love](https://open.spotify.com/track/2fKgq4eJuQcXuzGDjFm5Vw) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Fool for Love](https://open.spotify.com/album/6MCNOxtviWOQ5JjJ8KBGqx) | 2:30 | 2021-12-24 |  |
-| [Giving Up](https://open.spotify.com/track/7gouwpJuYQotcu6iCDhLri) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Giving Up](https://open.spotify.com/album/4k40PwmY4geokhdtALDDe8) | 2:25 | 2021-06-11 |  |
+| [Forever Ballin' \(feat\. Shenseea\)](https://open.spotify.com/track/4FA9xmJIHU00p0ajkniuW0) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [CM10: Free Game \(Side B\)](https://open.spotify.com/album/4x3Rld7KvaO5HH8dJN8eDU) | 3:37 | 2022-02-04 |  |
+| [Giving Up](https://open.spotify.com/track/7gouwpJuYQotcu6iCDhLri) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Giving Up](https://open.spotify.com/album/4k40PwmY4geokhdtALDDe8) | 2:25 | 2021-06-11 | 2022-02-05 |
 | [Heart & Soul](https://open.spotify.com/track/0PFgeiQORt3eqq5OX7BxCc) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs) | [From The Bayou](https://open.spotify.com/album/2oyN9nzl627l8ZeovPo46F) | 3:49 | 2021-12-10 |  |
 | [In My Blood](https://open.spotify.com/track/4hwMIdB0srOKoCqclPHVLU) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [In My Blood](https://open.spotify.com/album/734djBeY2I4FYSQ0zjTcMg) | 2:31 | 2021-08-20 |  |
 | [Just In Case](https://open.spotify.com/track/13uNBx6V8aUGQJiFvo1Hin) | [True Story Gee](https://open.spotify.com/artist/6fMLt27jSiBVuciQOYZGwm), [Seddy Hendrinx](https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4), [RARE Sound](https://open.spotify.com/artist/5gOJdgcftvP4TwPu0oRSfP) | [Just In Case](https://open.spotify.com/album/0XilKXpHLLMlCjV5aHTpLl) | 2:59 | 2021-09-17 |  |

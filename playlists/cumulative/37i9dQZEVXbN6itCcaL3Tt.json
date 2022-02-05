@@ -2236,6 +2236,28 @@
     },
     {
       "album": {
+        "name": "Hample",
+        "url": "https://open.spotify.com/album/4EVJNFb0HA1qRH9SBqvZX1"
+      },
+      "artists": [
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        },
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175493,
+      "name": "dddd",
+      "url": "https://open.spotify.com/track/5Ci4cvMBSaCbrn5N531Ubz"
+    },
+    {
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -4583,7 +4605,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 141886,
       "name": "Karaluchy",
       "url": "https://open.spotify.com/track/0B287gCJFWfvoCMs8ZIO1K"
@@ -10144,6 +10166,24 @@
     },
     {
       "album": {
+        "name": "TRYB SAMOLOTOWY",
+        "url": "https://open.spotify.com/album/1fxYmqRVRqjAHgvDuiHJ70"
+      },
+      "artists": [
+        {
+          "name": "Jan-Rapowanie",
+          "url": "https://open.spotify.com/artist/43yekIowVCHkR6TGGg9gSp"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153402,
+      "name": "TRYB SAMOLOTOWY",
+      "url": "https://open.spotify.com/track/5kXqZe2VBK3fb3jEVWjI6X"
+    },
+    {
+      "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
       },
@@ -11531,7 +11571,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 222280,
       "name": "\u015aniadanie w hotelu",
       "url": "https://open.spotify.com/track/0gWfyvvyr4jTDhIxeFXyUm"

@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 203680,
       "name": "Bing James (ft. Jay Rock)",
       "url": "https://open.spotify.com/track/3wGkYZLDYtULqg635DyKw8"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 168373,
       "name": "CAN'T STOP",
       "url": "https://open.spotify.com/track/57crda5Lx9OVaYCzb4Wrnd"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 176725,
       "name": "Forever Set In Stone",
       "url": "https://open.spotify.com/track/4heYgxcr1byQWoiFFG3Kvr"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 175720,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 284171,
       "name": "I Stand On That",
       "url": "https://open.spotify.com/track/3yQQgABgbIcyhy7pJjHfWF"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 220995,
       "name": "Icon",
       "url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b"
@@ -722,6 +722,24 @@
     },
     {
       "album": {
+        "name": "Kobe Bryant Legacy",
+        "url": "https://open.spotify.com/album/3QwWywKp9Deu2tF37c1wju"
+      },
+      "artists": [
+        {
+          "name": "King Lil G",
+          "url": "https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "Kobe Bryant Legacy",
+      "url": "https://open.spotify.com/track/74xQwbDn15dgAn5s0QdC2H"
+    },
+    {
+      "album": {
         "name": "Evergreen Wildchild 2",
         "url": "https://open.spotify.com/album/0ajkMErYxEctDJEGFwRBxm"
       },
@@ -733,7 +751,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 123433,
       "name": "Kobe Free",
       "url": "https://open.spotify.com/track/3kWYGRf6I7ozm3NA9vllGt"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 211680,
       "name": "Love Yourz",
       "url": "https://open.spotify.com/track/4gkl7QbQvBd3TM9PhlWFkI"
@@ -849,7 +867,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 105600,
       "name": "Old Streets",
       "url": "https://open.spotify.com/track/7JVfHOV7ylgOUKaHnPMafs"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 239986,
       "name": "Still Ballin (feat. Wiz Khalifa)",
       "url": "https://open.spotify.com/track/199Dz9IgqKekyiRy3LBnHn"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 173419,
       "name": "Still Runnin (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/5cAN3P7jWVf78gev1eF7TJ"

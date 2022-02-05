@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 436284,
+  "num_followers": 436759,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzkzNTQ1NywwMDAwMDAwMGZlODM4MThhYTNiMWVlYzFmYTQ0Mzc4YWQzYTRiZDk2",
+  "snapshot_id": "MTY0NDAyMTU0NSwwMDAwMDAwMDc5YmJiYjg1OTFlZDJiZGQ4MDJhZjYyZjUyYmFjZTIz",
   "tracks": [
     {
       "added_at": "2022-01-01 08:00:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Bacha - Rengue: Lo Mejor De Los Toros Band",
+        "url": "https://open.spotify.com/album/4r5C6cEDcSziyc2K48izZe"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 272680,
+      "name": "Quizas Si, Quizas No - Bachata Remix",
+      "url": "https://open.spotify.com/track/1ehvUn5ei1Ef4XiK7Q32rs"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "Hoja En Blanco",
         "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 307200,
       "name": "Hoja En Blanco",
       "url": "https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Bacha - Rengue: Lo Mejor De Los Toros Band",
-        "url": "https://open.spotify.com/album/4r5C6cEDcSziyc2K48izZe"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 272680,
-      "name": "Quizas Si, Quizas No - Bachata Remix",
-      "url": "https://open.spotify.com/track/1ehvUn5ei1Ef4XiK7Q32rs"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Medicina De Amor",
+        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Medicina De Amor",
+      "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
@@ -111,24 +127,8 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Exitos Y Mas",
-        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
+        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
       },
       "artists": [
         {
@@ -136,25 +136,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 229360,
-      "name": "Dile al Amor",
-      "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Medicina De Amor",
-        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Medicina De Amor",
-      "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
+      "duration_ms": 285226,
+      "name": "Todav\u00eda Me Amas",
+      "url": "https://open.spotify.com/track/6eB5YDhEiJ2vsNajJP3732"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -207,40 +191,8 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 235133,
-      "name": "Propuesta Indecente",
-      "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/5yzUVRAmpuAWyqQDoayDWT"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 239906,
-      "name": "Mi Ni\u00f1a",
-      "url": "https://open.spotify.com/track/4khAnhMnwm94E7z759WqiM"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
+        "name": "Exitos Y Mas",
+        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
       },
       "artists": [
         {
@@ -248,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 259959,
-      "name": "Te Quiero Igual Que Ayer",
-      "url": "https://open.spotify.com/track/1YrZktczkzn59XaWXMCYY2"
+      "duration_ms": 246746,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -267,6 +219,38 @@
       "duration_ms": 212973,
       "name": "Te Extra\u00f1o - Bachata Version",
       "url": "https://open.spotify.com/track/0muI8DpTEpLqqibPm3sKYf"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 235133,
+      "name": "Propuesta Indecente",
+      "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -291,8 +275,24 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
-        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
+        "name": "Dime Que Falto",
+        "url": "https://open.spotify.com/album/0mX3OGgKkGaFONpd2IfB1N"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 251386,
+      "name": "Es Tan Dif\u00edcil",
+      "url": "https://open.spotify.com/track/0Ihu6hcj4hrWVz22W3G10P"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
       "artists": [
         {
@@ -300,169 +300,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 285226,
-      "name": "Todav\u00eda Me Amas",
-      "url": "https://open.spotify.com/track/6eB5YDhEiJ2vsNajJP3732"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "Hilito",
-      "url": "https://open.spotify.com/track/6CKlQHQIxhWtq7MnEJ6QCz"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "De Rodillas Te Pido",
-        "url": "https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "De Rodillas Te Pido",
-      "url": "https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "\u00c9xitos De Yoskar Sarante",
-        "url": "https://open.spotify.com/album/0nAAlwEXjpJwEkLJo7yvG0"
-      },
-      "artists": [
-        {
-          "name": "Yoskar Sarante",
-          "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
-        }
-      ],
-      "duration_ms": 240720,
-      "name": "No Tengo Suerte En El Amor",
-      "url": "https://open.spotify.com/track/1dazXPzmgBB7sNxodglb1l"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "2 Grandes De La Bachata Vol.4",
-        "url": "https://open.spotify.com/album/5ygDQerU3TWJUaGMKy6h9k"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 241666,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/0PLKj66Qm8uUXF4XjS1rMk"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 257079,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Hoja En Blanco",
-        "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        },
-        {
-          "name": "Alexandra",
-          "url": "https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX"
-        }
-      ],
-      "duration_ms": 283560,
-      "name": "No Ha Sido Facil",
-      "url": "https://open.spotify.com/track/5Xg9feC7RNaUO5x3Ns0yyE"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 263346,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        },
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        },
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 279346,
-      "name": "Debate De 4",
-      "url": "https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "La Batalla",
-        "url": "https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 237373,
-      "name": "Antolog\u00eda De Caricias",
-      "url": "https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf"
+      "duration_ms": 229360,
+      "name": "Dile al Amor",
+      "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -499,34 +339,18 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Dime Que Falto",
-        "url": "https://open.spotify.com/album/0mX3OGgKkGaFONpd2IfB1N"
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
       },
       "artists": [
         {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 251386,
-      "name": "Es Tan Dif\u00edcil",
-      "url": "https://open.spotify.com/track/0Ihu6hcj4hrWVz22W3G10P"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
+      "duration_ms": 259959,
+      "name": "Te Quiero Igual Que Ayer",
+      "url": "https://open.spotify.com/track/1YrZktczkzn59XaWXMCYY2"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -547,54 +371,6 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Pena por Ti",
-        "url": "https://open.spotify.com/album/1tPHPcNsAIv964pIckYABR"
-      },
-      "artists": [
-        {
-          "name": "Luis Segura",
-          "url": "https://open.spotify.com/artist/3xgpQ8RHWeHY9ARr9xkOpp"
-        }
-      ],
-      "duration_ms": 178600,
-      "name": "Pena por Ti",
-      "url": "https://open.spotify.com/track/1qFnIBb3QdDk4jGSCH1XuU"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Enamorado",
-        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
-      },
-      "artists": [
-        {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
-        }
-      ],
-      "duration_ms": 372733,
-      "name": "P\u00e9game Tu Vicio",
-      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 234828,
-      "name": "Imitadora",
-      "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
         "name": "\u00c9xitos De Yoskar Sarante",
         "url": "https://open.spotify.com/album/0nAAlwEXjpJwEkLJo7yvG0"
       },
@@ -604,57 +380,37 @@
           "url": "https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4"
         }
       ],
-      "duration_ms": 260386,
-      "name": "Llora Alma M\u00eda",
-      "url": "https://open.spotify.com/track/05XwC0A5ZfyMJbwtO4yngG"
+      "duration_ms": 240720,
+      "name": "No Tengo Suerte En El Amor",
+      "url": "https://open.spotify.com/track/1dazXPzmgBB7sNxodglb1l"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
+        "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
       },
       "artists": [
         {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 269490,
-      "name": "Vagabundo, Borracho y Loco",
-      "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Areito",
-        "url": "https://open.spotify.com/album/7JGSQhEpwG3F1fgIBmi8EX"
-      },
-      "artists": [
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
         {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Frio Frio",
-      "url": "https://open.spotify.com/track/3ETEcTlgvCzqyaZAka4E7G"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Dosis De Amor",
-        "url": "https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV"
-      },
-      "artists": [
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        },
         {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        },
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
         }
       ],
-      "duration_ms": 256000,
-      "name": "El Alchohol",
-      "url": "https://open.spotify.com/track/4cKNAfFzbY6HCvU4dGwKvJ"
+      "duration_ms": 279346,
+      "name": "Debate De 4",
+      "url": "https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -668,41 +424,25 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 255026,
-      "name": "Por un Segundo",
-      "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
+      "duration_ms": 238720,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Tony Bachata Presents: Los Grandes Exitos de Bachata",
-        "url": "https://open.spotify.com/album/1vRP8U5f0PLm1fQYMVOVDj"
+        "name": "De Rodillas Te Pido",
+        "url": "https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM"
       },
       "artists": [
         {
-          "name": "Zacarias Ferreira",
-          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
         }
       ],
-      "duration_ms": 301920,
-      "name": "Siento Que Te Quiero",
-      "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"
-    },
-    {
-      "added_at": "2022-01-01 08:00:00",
-      "album": {
-        "name": "Soy el Mismo",
-        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "Darte un Beso",
-      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
+      "duration_ms": 233320,
+      "name": "De Rodillas Te Pido",
+      "url": "https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -723,8 +463,24 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Viejas Pero Buenas",
-        "url": "https://open.spotify.com/album/6bXAkLwtrDQ3MQExlhPPWx"
+        "name": "Novia Mia",
+        "url": "https://open.spotify.com/album/1Btt4vZ0zB05UK4d4OsvIH"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 325506,
+      "name": "Amiga Veneno",
+      "url": "https://open.spotify.com/track/7n8cKJDktV6TeKZTcR5k8y"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "La Batalla",
+        "url": "https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb"
       },
       "artists": [
         {
@@ -732,15 +488,83 @@
           "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
         }
       ],
-      "duration_ms": 228624,
-      "name": "Voy Pa Alla",
-      "url": "https://open.spotify.com/track/5VC9MOMTd5SvjIEnHTHewV"
+      "duration_ms": 237373,
+      "name": "Antolog\u00eda De Caricias",
+      "url": "https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf"
     },
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "Lo Mejor de la Bachata 3",
-        "url": "https://open.spotify.com/album/72BpKu09BAKjZ9kJ7JGqDV"
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/5yzUVRAmpuAWyqQDoayDWT"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 239906,
+      "name": "Mi Ni\u00f1a",
+      "url": "https://open.spotify.com/track/4khAnhMnwm94E7z759WqiM"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 263346,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Hoja En Blanco",
+        "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        },
+        {
+          "name": "Alexandra",
+          "url": "https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX"
+        }
+      ],
+      "duration_ms": 283560,
+      "name": "No Ha Sido Facil",
+      "url": "https://open.spotify.com/track/5Xg9feC7RNaUO5x3Ns0yyE"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 234828,
+      "name": "Imitadora",
+      "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "2 Grandes De La Bachata Vol.4",
+        "url": "https://open.spotify.com/album/5ygDQerU3TWJUaGMKy6h9k"
       },
       "artists": [
         {
@@ -748,9 +572,41 @@
           "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
         }
       ],
-      "duration_ms": 256333,
-      "name": "Se Fue Mi Amor Bonito",
-      "url": "https://open.spotify.com/track/309M0MPexbrLYbGpqKstYa"
+      "duration_ms": 241666,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/0PLKj66Qm8uUXF4XjS1rMk"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Soy el Mismo",
+        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 266320,
+      "name": "Estrellitas y Duendes",
+      "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -771,6 +627,58 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
+        "name": "Enamorado",
+        "url": "https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 372733,
+      "name": "P\u00e9game Tu Vicio",
+      "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Exitos de Ayer y Hoy",
+        "url": "https://open.spotify.com/album/7AOS7R8vOlAwifUgX1WpM5"
+      },
+      "artists": [
+        {
+          "name": "Zacarias Ferreira",
+          "url": "https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Si Tu Me Dices Ven",
+      "url": "https://open.spotify.com/track/2y7r6KHHuBKdCg20WTAMtX"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Ciego De Amor - Featuring Anthony Santos",
+      "url": "https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
         "name": "50 A\u00f1os De Bachata",
         "url": "https://open.spotify.com/album/5vRtkwA2AZY66h9F2VYc2j"
       },
@@ -783,6 +691,86 @@
       "duration_ms": 473133,
       "name": "Loco De Amor",
       "url": "https://open.spotify.com/track/2WAoShegYKo11YJYcGEo2Y"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Areito",
+        "url": "https://open.spotify.com/album/7JGSQhEpwG3F1fgIBmi8EX"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Frio Frio",
+      "url": "https://open.spotify.com/track/3ETEcTlgvCzqyaZAka4E7G"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "Hilito",
+      "url": "https://open.spotify.com/track/6CKlQHQIxhWtq7MnEJ6QCz"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Dosis De Amor",
+        "url": "https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "El Alchohol",
+      "url": "https://open.spotify.com/track/4cKNAfFzbY6HCvU4dGwKvJ"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "I Love Bachata 2014 (100% Bachata Hits)",
+        "url": "https://open.spotify.com/album/0bmsRWkhRgsWWczSr3b2lt"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 283946,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2ssrxcAv3AvQ7xWXkYmkuH"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "Lo Mejor De Lo Mejor",
+        "url": "https://open.spotify.com/album/6899xrJrb58bQ2NgyV9Tiq"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 269490,
+      "name": "Vagabundo, Borracho y Loco",
+      "url": "https://open.spotify.com/track/1O2fScskNkmR91eEXvrcrv"
     },
     {
       "added_at": "2022-01-01 08:00:00",
@@ -823,8 +811,24 @@
     {
       "added_at": "2022-01-01 08:00:00",
       "album": {
-        "name": "K.O.B. Live",
-        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
+      },
+      "artists": [
+        {
+          "name": "Xtreme",
+          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "Shorty, Shorty",
+      "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
+    },
+    {
+      "added_at": "2022-01-01 08:00:00",
+      "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
       "artists": [
         {
@@ -832,9 +836,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 215213,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
+      "duration_ms": 255026,
+      "name": "Por un Segundo",
+      "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
     }
   ],
   "unique_name": "Bachata Classics",

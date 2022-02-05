@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 110375,
       "name": "\"BOP\"",
       "url": "https://open.spotify.com/track/07VOlyshShGMYBPgjTIZoz"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 228251,
       "name": "30 (feat. Bizzy Banks)",
       "url": "https://open.spotify.com/track/24YG5Z8Of1VHovrfXsbvCZ"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 208490,
       "name": "Apollo",
       "url": "https://open.spotify.com/track/2UbJfiDUgTdUqQbSn9B7fQ"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 213626,
       "name": "Aussie Freaks (feat. ONEFOUR & Fivio Foreign)",
       "url": "https://open.spotify.com/track/6ow2CqeDpH5gJPZlLKIZDU"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 124231,
       "name": "Bandemic",
       "url": "https://open.spotify.com/track/72GT4vlxNfMTeFt9hgTHW7"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 132353,
       "name": "Chrome No Heart",
       "url": "https://open.spotify.com/track/2Cjxth1m5L7wlW3GXKjOse"
@@ -664,6 +664,24 @@
     },
     {
       "album": {
+        "name": "Cold Shoulder",
+        "url": "https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192340,
+      "name": "Cold Shoulder",
+      "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
+    },
+    {
+      "album": {
         "name": "Corn",
         "url": "https://open.spotify.com/album/5hf9tYrWhDC5ZdKy7f9Kx8"
       },
@@ -675,7 +693,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 201398,
       "name": "Corn",
       "url": "https://open.spotify.com/track/4aaEROAXVunrYjS556YxAn"
@@ -745,7 +763,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 121103,
       "name": "Dead Loccs",
       "url": "https://open.spotify.com/track/5pFFXjVZRmDZRajO355bji"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 146972,
       "name": "Different",
       "url": "https://open.spotify.com/track/15xfk8vQvVttTlh3tZn6db"
@@ -899,6 +917,24 @@
       "duration_ms": 216243,
       "name": "Dior - Bonus",
       "url": "https://open.spotify.com/track/6PnTgx9lyvLGIcPnroCvc2"
+    },
+    {
+      "album": {
+        "name": "Don't Change",
+        "url": "https://open.spotify.com/album/2sK6HTE8sFwVwD1gVQMOYX"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134810,
+      "name": "Don't Change",
+      "url": "https://open.spotify.com/track/4JNI9h3odVrUIqDhVocdVj"
     },
     {
       "album": {
@@ -1057,7 +1093,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 176088,
       "name": "Ei8ht Mile (feat. Aitch)",
       "url": "https://open.spotify.com/track/5hI4RRn6wXpEZJUhvkTUNV"
@@ -1083,7 +1119,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 149768,
       "name": "EOS (bonus)",
       "url": "https://open.spotify.com/track/7saawYuiX4HKsU2uyiDB4x"
@@ -1225,7 +1261,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 129103,
       "name": "Game Time",
       "url": "https://open.spotify.com/track/0osRJM5kvt7PnNbzpzv9Uj"
@@ -1512,6 +1548,24 @@
     },
     {
       "album": {
+        "name": "Homerton B",
+        "url": "https://open.spotify.com/album/29rqQ9oeIKk98SUxuaz9xg"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Homerton B",
+      "url": "https://open.spotify.com/track/6eVWOyIA4iacH7UaQ1TqzM"
+    },
+    {
+      "album": {
         "name": "Hot N*gga",
         "url": "https://open.spotify.com/album/5ptl9Sheh9eWaogxFOZ3PV"
       },
@@ -1633,7 +1687,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 128450,
       "name": "I Get That",
       "url": "https://open.spotify.com/track/5b9qArPaYpmfQiDy1NyOnk"
@@ -1789,7 +1843,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 137437,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/0z5V1vTA1R3M3FPCimYphr"
@@ -1935,7 +1989,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 175774,
       "name": "Move Like a Boss (feat. Young M.A)",
       "url": "https://open.spotify.com/track/3T3SeUjR8NhTzSE3NSDxkK"
@@ -2305,7 +2359,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 269217,
       "name": "On Deck (Remix) [feat. Rv, Kush, Double Lz, Bandokay, Lowkey OFB & Dezzie]",
       "url": "https://open.spotify.com/track/1NOyhp2FTTRQ3kEyaPANRO"
@@ -2367,7 +2421,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 125132,
       "name": "Opponent",
       "url": "https://open.spotify.com/track/03jTzOk8XO1LtD8skd57wm"
@@ -2545,7 +2599,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 186373,
       "name": "Racin' (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/6s4E8J1rtwsztOEPCLfSYr"
@@ -2679,7 +2733,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 146021,
       "name": "RUMBLE",
       "url": "https://open.spotify.com/track/1Emg2PWprZxWACEgw3Rn0J"
@@ -2763,7 +2817,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 174960,
       "name": "Show Out (with Skepta & Pop Smoke)",
       "url": "https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv"
@@ -2881,7 +2935,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 266501,
       "name": "Sore - Remix",
       "url": "https://open.spotify.com/track/3qqpV4EqQ3TPSYPHOom3I6"
@@ -2899,7 +2953,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Start Some Shyt",
       "url": "https://open.spotify.com/track/0G05SSrl1EfK3S7rTVob7G"
@@ -2917,7 +2971,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 162000,
       "name": "Story Time",
       "url": "https://open.spotify.com/track/10HF71PuUpSj45eENr2hxx"
@@ -3073,6 +3127,24 @@
       "duration_ms": 194571,
       "name": "Top 5",
       "url": "https://open.spotify.com/track/4tqjZyVyiibvRyne2z5AD2"
+    },
+    {
+      "album": {
+        "name": "UNBREAKABLE",
+        "url": "https://open.spotify.com/album/2bRvrG7DyFYb3aPKcNjnP8"
+      },
+      "artists": [
+        {
+          "name": "BIG Kash",
+          "url": "https://open.spotify.com/artist/4gRA88bjHaAb0aTb7LZhuF"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "UNBREAKABLE",
+      "url": "https://open.spotify.com/track/5LpwpibBUGFZx3ASXS06CC"
     },
     {
       "album": {
@@ -3315,7 +3387,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 173571,
       "name": "Wow",
       "url": "https://open.spotify.com/track/1zEtEb820Vwe9giuUFXH7H"
@@ -3337,7 +3409,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 178443,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/70WI0Hatsx1kZclS58zeZY"
@@ -3381,7 +3453,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 214825,
       "name": "Zoo York (feat. Fivio Foreign & Pop Smoke)",
       "url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Ženy v plné síle\. Poslouchej EQUAL CZ&SK\. Cover: Pam Rabbit
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,114 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,122 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 19 | [Lilith](https://open.spotify.com/track/4aNNkD2DuKkq2xT074awc6) | [Terra](https://open.spotify.com/artist/1HCRMgwVECDvvNTDcgu1Df) | [Lilith](https://open.spotify.com/album/6V74Tl5BkFcmjgFzlrXKlS) | 3:42 |
 | 20 | [Slobodná](https://open.spotify.com/track/2bMZhixpG9IWJsKiQjN4Fb) | [Aless](https://open.spotify.com/artist/28gzJ4kDOIXfu7viuSINlL), [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [Slobodná](https://open.spotify.com/album/6cUxNhqrQVgYbuvXKgWJLe) | 3:35 |
 | 21 | [Hvězdy](https://open.spotify.com/track/5aLbBRryiQMXIS2ynsPeVE) | [Lucie Vondrackova](https://open.spotify.com/artist/7Fh934KVdTC7ekW6Rqangw) | [LÁSKOVĚTY](https://open.spotify.com/album/7LRUTFVeUAcHcLP4CxratA) | 3:00 |
-| 22 | [Chce to len čas](https://open.spotify.com/track/5vdAfclJ9hvFP2AYgmBlQT) | [Patricia Vittek](https://open.spotify.com/artist/6wrZoxN06FzISm5GLxIrVD) | [Chce to len čas](https://open.spotify.com/album/2LnOCuZCOMnmIKuqp5BCNd) | 3:07 |
+| 22 | [Každá z nás](https://open.spotify.com/track/5vdAfclJ9hvFP2AYgmBlQT) | [Patricia Vittek](https://open.spotify.com/artist/6wrZoxN06FzISm5GLxIrVD) | [Každá z nás](https://open.spotify.com/album/2LnOCuZCOMnmIKuqp5BCNd) | 3:07 |
 | 23 | [Lithium](https://open.spotify.com/track/7ziz6Iu5msY4wCZMM2Wqr3) | [Lenny](https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y) | [Lithium](https://open.spotify.com/album/3cUCl0xAC7X5IdIhcSkWDH) | 2:49 |
 | 24 | [HIGH/EXIT](https://open.spotify.com/track/7HglGnP1IfSAI9d66G317O) | [DIANA](https://open.spotify.com/artist/0mtxg8pzPsL6qZ7aoK0yBX), [Masker Muzzik](https://open.spotify.com/artist/5p7SvTRRnQc0CsmhzDhcoI), [SpecialBeatz](https://open.spotify.com/artist/2uk6siR31HTp2t4V2cspwe) | [HIGH/EXIT](https://open.spotify.com/album/4zVHkJXyUakYi6G0e6ofVm) | 3:12 |
 | 25 | [Tři tečky](https://open.spotify.com/track/0PqdMzuPMXXkX9xtO9Hyhx) | [Berenika Kohoutová](https://open.spotify.com/artist/28ukt2qiT4J2XeLyZklllx) | [Tři tečky](https://open.spotify.com/album/2YyWekDi3HRk226aQQy0zo) | 2:31 |

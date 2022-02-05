@@ -1,11 +1,33 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Strictly for the streets. Cover: Nardo Wick",
+  "description": "Strictly for the streets. Cover: NLE Choppa",
   "name": "Out The Mud",
   "published_playlist_ids": [
     "3r6cVrxrflkSADgDVjasQD"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Dope Don't Sell Itself",
+        "url": "https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189955,
+      "name": "10 Bracelets (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/6j1yZ1TvLw9pV7zCM3ylfK"
+    },
     {
       "album": {
         "name": "LIVE LIFE FAST",
@@ -222,6 +244,32 @@
     },
     {
       "album": {
+        "name": "Bottom Of The Trap (feat. Icewear Vezzo & EST Gee)",
+        "url": "https://open.spotify.com/album/3rQTz3HJ5wWoW43TE2Uugb"
+      },
+      "artists": [
+        {
+          "name": "Hardo",
+          "url": "https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179704,
+      "name": "Bottom Of The Trap (feat. Icewear Vezzo & EST Gee)",
+      "url": "https://open.spotify.com/track/0Btz9n7eympYOWBp6ICg1P"
+    },
+    {
+      "album": {
         "name": "Bounce Out",
         "url": "https://open.spotify.com/album/1NL1LWbjMm9inP25ll9H1d"
       },
@@ -251,7 +299,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 265185,
       "name": "Bring The Hook",
       "url": "https://open.spotify.com/track/1giI9yVIG71xY8lPwSDzWY"
@@ -316,6 +364,32 @@
     },
     {
       "album": {
+        "name": "CM10: Free Game",
+        "url": "https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211569,
+      "name": "Cold Gangsta (feat. 42 Dugg & EST Gee)",
+      "url": "https://open.spotify.com/track/2bxvKs7Q0zqFqajnRcgxbv"
+    },
+    {
+      "album": {
         "name": "Cold Shoulder",
         "url": "https://open.spotify.com/album/0bWnbeYmuDqmzJNTbhijub"
       },
@@ -327,7 +401,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 192340,
       "name": "Cold Shoulder",
       "url": "https://open.spotify.com/track/0Ezi0P8N5aVQNaOKnJ3MHz"
@@ -455,7 +529,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 173477,
       "name": "Dead Wrong (feat. Future)",
       "url": "https://open.spotify.com/track/42qt8hsy7l4UR5CsO5ZLfL"
@@ -498,6 +572,68 @@
     },
     {
       "album": {
+        "name": "CM10: Free Game",
+        "url": "https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185196,
+      "name": "Dolla Fo' Dolla",
+      "url": "https://open.spotify.com/track/3jygqNqsSwvuICQMU65bEW"
+    },
+    {
+      "album": {
+        "name": "Don't Get Hit",
+        "url": "https://open.spotify.com/album/2DkdMqF3c9vjelvdoAFrsB"
+      },
+      "artists": [
+        {
+          "name": "VV$ KEN",
+          "url": "https://open.spotify.com/artist/2FelUywHDci70FpLOHGghU"
+        },
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203675,
+      "name": "Don't Get Hit",
+      "url": "https://open.spotify.com/track/1egaPOAa20HfQaaueGlmzK"
+    },
+    {
+      "album": {
+        "name": "Don't Play That",
+        "url": "https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx"
+      },
+      "artists": [
+        {
+          "name": "King Von",
+          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133613,
+      "name": "Don't Play That",
+      "url": "https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL"
+    },
+    {
+      "album": {
         "name": "LIVE LIFE FAST",
         "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
       },
@@ -535,7 +671,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 156734,
       "name": "Don\u2019t Play (with Lil Baby)",
       "url": "https://open.spotify.com/track/2QIBJFl8DJR1mDh9GwfZef"
@@ -879,7 +1015,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 125498,
       "name": "HIT",
       "url": "https://open.spotify.com/track/7aZrmPqodHy4qlKeyjAgDQ"
@@ -1063,7 +1199,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 133224,
       "name": "I'm Hot (feat. Chi Chi & Nick Papz)",
       "url": "https://open.spotify.com/track/4MI8cQXM78e5DbgErePSL2"
@@ -1111,6 +1247,32 @@
       "duration_ms": 206720,
       "name": "It Ain't My Fault",
       "url": "https://open.spotify.com/track/5cX92psZ1aSHr6rTmGQMps"
+    },
+    {
+      "album": {
+        "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
+        "url": "https://open.spotify.com/album/51rkfslHbM2exyR4strATb"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286503,
+      "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
+      "url": "https://open.spotify.com/track/07Hl8YmZR1JYpEhCDqNBJA"
     },
     {
       "album": {
@@ -1213,7 +1375,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 232336,
       "name": "Know Like I Know",
       "url": "https://open.spotify.com/track/227x8PRNRDZUl2yAISuS2k"
@@ -1517,7 +1679,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 159840,
       "name": "Million Dollars Worth of Game (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/3IZWCcD1FYpyeY3ki2VUmL"
@@ -1557,7 +1719,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 185213,
       "name": "mop (feat. Young Thug)",
       "url": "https://open.spotify.com/track/2ZGEjmwyeZ3rpEezkZwqOP"
@@ -1659,10 +1821,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 204346,
       "name": "No Friends In The Industry",
       "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0k8MGNLX5dYWX9iHao1Vtx"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "No Switch",
+      "url": "https://open.spotify.com/track/54COqDgfYUv07Kytm2Ndof"
     },
     {
       "album": {
@@ -1677,7 +1857,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 375652,
       "name": "No Time For Sleep (Freestyle)",
       "url": "https://open.spotify.com/track/50xlqNticOjNCnR192H1YJ"
@@ -1948,6 +2128,24 @@
     },
     {
       "album": {
+        "name": "Protest",
+        "url": "https://open.spotify.com/album/0lJ8jE5x7E3RPyOYbU8Omf"
+      },
+      "artists": [
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128412,
+      "name": "Protest",
+      "url": "https://open.spotify.com/track/7xmvra75oRloZw9fHMhtBe"
+    },
+    {
+      "album": {
         "name": "Proud",
         "url": "https://open.spotify.com/album/5JI0YNKgpiE5OvNaqj6s4J"
       },
@@ -2069,7 +2267,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 148687,
       "name": "Retaliation",
       "url": "https://open.spotify.com/track/1NE8EEo8xpxTLAYHJbmsrY"
@@ -2153,6 +2351,50 @@
       "duration_ms": 185120,
       "name": "Sada Wada",
       "url": "https://open.spotify.com/track/3H3a7z10QCCrqAISXi3IU8"
+    },
+    {
+      "album": {
+        "name": "Said It\u2019s Lit",
+        "url": "https://open.spotify.com/album/7vkA6H43oTStJyxEJeyIiI"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150912,
+      "name": "Said It\u2019s Lit",
+      "url": "https://open.spotify.com/track/4sw5u1NAL7Wd1WaPBEHOFj"
+    },
+    {
+      "album": {
+        "name": "Scared Money",
+        "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204285,
+      "name": "Scared Money (feat. J. Cole and Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz"
     },
     {
       "album": {
@@ -2248,6 +2490,24 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0k8MGNLX5dYWX9iHao1Vtx"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204912,
+      "name": "Smoke One",
+      "url": "https://open.spotify.com/track/1NMvJLrsL07aatHDegq4x8"
+    },
+    {
+      "album": {
         "name": "Yellow Tape 2",
         "url": "https://open.spotify.com/album/7snqOEQEtKqxJw3NTGml6i"
       },
@@ -2295,7 +2555,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 118356,
       "name": "Splash",
       "url": "https://open.spotify.com/track/1u5EEx3hBQjkzzCOnDEds5"
@@ -2481,7 +2741,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 197093,
       "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
       "url": "https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE"
@@ -2565,7 +2825,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 170876,
       "name": "Trap Out Da Spot",
       "url": "https://open.spotify.com/track/3Gghq6fyVejQyvgnIQXGWo"
@@ -2595,6 +2855,36 @@
       "duration_ms": 147732,
       "name": "TrapMania (feat. Gucci Mane & Cootie)",
       "url": "https://open.spotify.com/track/5dp9Sa9oF4joM4t0P2EGlh"
+    },
+    {
+      "album": {
+        "name": "Dope Don't Sell Itself",
+        "url": "https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/01988BWUnQiclJ70TTcnOq"
+        },
+        {
+          "name": "Major Myjah",
+          "url": "https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267120,
+      "name": "Vlad TV (feat. Stove God Cooks, Symba & Major Myjah)",
+      "url": "https://open.spotify.com/track/1X1a1NKvRjNA7U0jlGTHbL"
     },
     {
       "album": {
@@ -2635,10 +2925,36 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 148735,
       "name": "Whatever Come With It (feat. Future)",
       "url": "https://open.spotify.com/track/1vkBk8GslqBkxaGGJsAvFT"
+    },
+    {
+      "album": {
+        "name": "Easy Money",
+        "url": "https://open.spotify.com/album/5XPF5H3EUVmUQjZZcmkw5F"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Who Not Turnt",
+      "url": "https://open.spotify.com/track/6bf6EucSDjeVSez8eTm49M"
     },
     {
       "album": {
@@ -2705,7 +3021,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 123200,
       "name": "Wreck (feat. Big Sean)",
       "url": "https://open.spotify.com/track/6fSRCnfSfTBCbgoa6Nwhim"

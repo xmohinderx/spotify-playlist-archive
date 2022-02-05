@@ -241,7 +241,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 180699,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/3SS1QAGaY6x1vLknhyUfnk"
@@ -285,6 +285,28 @@
       "duration_ms": 248372,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5r1SN9oydMavI39zqAwBoK"
+    },
+    {
+      "album": {
+        "name": "FULL MOON FLEX",
+        "url": "https://open.spotify.com/album/25s2cu7mRX9qGNu7iQnVFE"
+      },
+      "artists": [
+        {
+          "name": "InTaKe",
+          "url": "https://open.spotify.com/artist/0v7aazVnXxy42ppvWPgOcS"
+        },
+        {
+          "name": "Tasha Baxter",
+          "url": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286608,
+      "name": "Amends",
+      "url": "https://open.spotify.com/track/4faf7PrKjuOXI6VmOpc5q6"
     },
     {
       "album": {
@@ -445,7 +467,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 308940,
       "name": "Behind The Glass",
       "url": "https://open.spotify.com/track/3Dd0R86fWYsKSk70EhBZ8v"
@@ -625,7 +647,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 323657,
       "name": "Changing Form",
       "url": "https://open.spotify.com/track/6WHA7XfZ15jNUJdb2jbPJA"
@@ -651,7 +673,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 184871,
       "name": "Chicane - Kumarion Remix",
       "url": "https://open.spotify.com/track/7gULomk5ka4EC5EapKWWBj"
@@ -974,6 +996,28 @@
     },
     {
       "album": {
+        "name": "Drown",
+        "url": "https://open.spotify.com/album/1TCdNCPr7bSfb1hRWWnkdK"
+      },
+      "artists": [
+        {
+          "name": "Psylla",
+          "url": "https://open.spotify.com/artist/0glz26CRdAXpDqL31326C8"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202271,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/4oJ0MwLNZEqRvwgwEfsl0a"
+    },
+    {
+      "album": {
         "name": "End of the Tunnel",
         "url": "https://open.spotify.com/album/1OnVHMWsqLcA1RsB5VcZme"
       },
@@ -1167,7 +1211,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 292173,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0Z3azmUTP30fOD1XJ0hSjV"
@@ -1225,7 +1269,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 300048,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/0coaXvzCPFVhUt5xFkA5Ov"
@@ -1299,7 +1343,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 171034,
       "name": "Fisher",
       "url": "https://open.spotify.com/track/7nCLDQaSVDubzrvOQ3r0l7"
@@ -1525,7 +1569,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 228538,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/6aXRILTdr65hT9dZRpYOJ7"
@@ -1619,7 +1663,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -1637,7 +1681,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 270344,
       "name": "Got to see her VIP - VIP",
       "url": "https://open.spotify.com/track/03WYP3YdGXKsIW6Jcudyan"
@@ -1735,7 +1779,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 208446,
       "name": "High On You - Sigma VIP",
       "url": "https://open.spotify.com/track/4l8pRrklNaqv7H1Tah1M5v"
@@ -1797,7 +1841,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 226206,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1zo0vyy8vdtZqNfnIwZJf9"
@@ -2403,7 +2447,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 397360,
       "name": "Lurk",
       "url": "https://open.spotify.com/track/2JCUlkSUYcwrGTeOBFa6LO"
@@ -2677,7 +2721,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 320021,
       "name": "Never Again",
       "url": "https://open.spotify.com/track/1w8LpjmZeBTY3PFeY1Es1A"
@@ -2699,7 +2743,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 194882,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/1QgYm6U7EX2Bhpj3BOTLHQ"
@@ -2813,7 +2857,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 233095,
       "name": "One Day At A Time",
       "url": "https://open.spotify.com/track/1oXdYtT3GQ3eSHt4PX4sHT"
@@ -2915,7 +2959,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 209651,
       "name": "Payback",
       "url": "https://open.spotify.com/track/0UHeE47Px036a6hiMfUd3C"
@@ -3193,7 +3237,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 247586,
       "name": "Reason",
       "url": "https://open.spotify.com/track/3BhECsg8J4eoepgo3LoGlW"
@@ -3539,7 +3583,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 204482,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1RR19k1GVV2Sl0vi65wFTh"
@@ -3933,7 +3977,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 259306,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/0KsjGpHgQw2kJ1YeoVggRZ"
@@ -4021,7 +4065,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 353103,
       "name": "There for You - LSB Remix",
       "url": "https://open.spotify.com/track/6jLWsTbWniLvGEDSCQPin9"
@@ -4317,7 +4361,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 173110,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0AZRYgE5LSRn2FQNio8sgu"
@@ -4357,7 +4401,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 248751,
       "name": "Write It Down - Fred V Remix",
       "url": "https://open.spotify.com/track/6K8vq2QV9ezdTQ9EdIH4WI"
@@ -4397,7 +4441,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 296562,
       "name": "You Were Mine",
       "url": "https://open.spotify.com/track/26S8Fsh6hK9YkihOpGh3FU"

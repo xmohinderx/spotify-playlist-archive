@@ -1,13 +1,29 @@
 {
-  "description": "The shape of jazz today. Cover: Immanuel Wilkins",
-  "num_followers": 179212,
+  "description": "The shape of jazz today. Cover: Kamasi Washington",
+  "num_followers": 179228,
   "original_name": "Changes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mjc0MTMyMCwwMDAwMDAzYTAwMDAwMTdlN2IwMzQ5OTEwMDAwMDE3ZTQ5ZTE1NzRk",
+  "snapshot_id": "MTY0Mzk1MDg2MCwwMDAwMDAzYjAwMDAwMTdlYzMxYjY3NzkwMDAwMDE3ZWMwMmFiN2U1",
   "tracks": [
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "The Garden Path",
+        "url": "https://open.spotify.com/album/3JDjkBLJicW3ViAuzVxpvA"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "duration_ms": 400170,
+      "name": "The Garden Path",
+      "url": "https://open.spotify.com/track/31KtddFzLJobEIyxBHT3gS"
+    },
     {
       "added_at": "2022-01-14 21:26:29",
       "album": {
@@ -45,6 +61,30 @@
       "url": "https://open.spotify.com/track/0X6iM5oQxj3NViTcdGb7vL"
     },
     {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Nature's Kiss",
+        "url": "https://open.spotify.com/album/6PMSdB8ofYarmEyqWDWtmO"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shell",
+          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
+        },
+        {
+          "name": "Douglas Lira",
+          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
+        },
+        {
+          "name": "Jackie Bertone",
+          "url": "https://open.spotify.com/artist/2iI13MSOIhXO6Dsfcsxfxo"
+        }
+      ],
+      "duration_ms": 362848,
+      "name": "Nature's Kiss",
+      "url": "https://open.spotify.com/track/50VxERP6MGmAtug4JoYhFw"
+    },
+    {
       "added_at": "2021-11-30 18:02:30",
       "album": {
         "name": "Two For Mistake",
@@ -75,6 +115,22 @@
       "duration_ms": 381925,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6GEV8VT0VetzFzlGLGYzub"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "The Description Is Not The Described",
+        "url": "https://open.spotify.com/album/6pwCh7X6DU4Kv8qaizQykc"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Cross",
+          "url": "https://open.spotify.com/artist/31iZhDu1NFs0PVOnvzAk0t"
+        }
+      ],
+      "duration_ms": 433160,
+      "name": "Goodbye for Now",
+      "url": "https://open.spotify.com/track/2ZLAy0dm2u9NmHSG6dbfNe"
     },
     {
       "added_at": "2022-01-06 15:14:51",

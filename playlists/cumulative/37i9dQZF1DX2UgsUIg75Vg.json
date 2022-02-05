@@ -488,6 +488,28 @@
     },
     {
       "album": {
+        "name": "Bag (with Lucky Daye)",
+        "url": "https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Bag (with Lucky Daye)",
+      "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
+    },
+    {
+      "album": {
         "name": "MANTIC",
         "url": "https://open.spotify.com/album/79XZHjSZloC8UIUMT1g5JM"
       },
@@ -1625,7 +1647,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 211346,
       "name": "Dynamite.",
       "url": "https://open.spotify.com/track/5Jg9DV3m2umJpoHXV2e6j8"
@@ -2453,7 +2475,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 204705,
       "name": "Good & Plenty - Remix",
       "url": "https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp"
@@ -5861,6 +5883,28 @@
       "duration_ms": 136000,
       "name": "WFM",
       "url": "https://open.spotify.com/track/18ddJHQ7CUzNBiy55L0Xjj"
+    },
+    {
+      "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/3BY4kqH3wxKXvnDK6GUqH4"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "What About Us (feat. Sevyn Streeter)",
+      "url": "https://open.spotify.com/track/0A7xgfdP4RKVJD95kF0dx6"
     },
     {
       "album": {

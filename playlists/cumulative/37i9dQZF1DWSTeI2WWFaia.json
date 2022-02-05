@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 194604,
       "name": "Back At It",
       "url": "https://open.spotify.com/track/7CtseXl6vo5iKg4lJGdQfG"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 187386,
       "name": "Blood Roses (feat. Jae Skeese)",
       "url": "https://open.spotify.com/track/3wL6HzWOL9s5V2joGaZzZ6"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 179250,
       "name": "Cassius",
       "url": "https://open.spotify.com/track/3Uqv1FU5OwU6hVOdj81VQa"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 204248,
       "name": "Chaining Day",
       "url": "https://open.spotify.com/track/3DQORrfGUHMsNWY4qDpALB"
@@ -591,10 +591,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 140613,
       "name": "Cliff Hanger",
       "url": "https://open.spotify.com/track/6EpGSeInzJgZVDVgfpMn7h"
+    },
+    {
+      "album": {
+        "name": "Jp5000",
+        "url": "https://open.spotify.com/album/2NbXyRbMzqaiE548rmj9qW"
+      },
+      "artists": [
+        {
+          "name": "Junglepussy",
+          "url": "https://open.spotify.com/artist/6atGQM99IrRfUefJFore1B"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109304,
+      "name": "CRITIQUA",
+      "url": "https://open.spotify.com/track/6h9atUDhTFazxUSgXywDzS"
     },
     {
       "album": {
@@ -733,7 +751,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 208500,
       "name": "EAT",
       "url": "https://open.spotify.com/track/4PIFHcMwQrebdI6A2gS17t"
@@ -997,7 +1015,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 238800,
       "name": "God's Bathroom Floor",
       "url": "https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 155994,
       "name": "IDFT!?",
       "url": "https://open.spotify.com/track/6yBNX4txB2sEggpBsigcF0"
@@ -1305,6 +1323,32 @@
       "duration_ms": 136444,
       "name": "INDUSTRY GAMES",
       "url": "https://open.spotify.com/track/6HRUomAomV72oMArAAHEIT"
+    },
+    {
+      "album": {
+        "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
+        "url": "https://open.spotify.com/album/51rkfslHbM2exyR4strATb"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286503,
+      "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
+      "url": "https://open.spotify.com/track/07Hl8YmZR1JYpEhCDqNBJA"
     },
     {
       "album": {
@@ -1375,7 +1419,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 180686,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/3R4IFsTuDOR7XEt2Tl2iuR"
@@ -1415,7 +1459,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 122080,
       "name": "Laps Around the Sun",
       "url": "https://open.spotify.com/track/4zS1GPmECl7sac60w9ntFm"
@@ -1561,7 +1605,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 173489,
       "name": "Mariota (feat. Stove God Cooks)",
       "url": "https://open.spotify.com/track/32BNIFYtnt6ImrvT2TQsdk"
@@ -1889,7 +1933,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 188418,
       "name": "Outside (with Joey Bada$$)",
       "url": "https://open.spotify.com/track/1es7SpekMUeMAIlG4iEJKX"
@@ -2227,7 +2271,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 187238,
       "name": "Scottie Pippens (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/19O7OqzwiT0U5DKec68WJR"
@@ -2377,7 +2421,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 198493,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/4exgimuT6EdLBN3R4Ww3xO"
@@ -2421,7 +2465,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 132773,
       "name": "Stain",
       "url": "https://open.spotify.com/track/0stfZSMUC46cbsQh4j1oSG"
@@ -2461,7 +2505,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 178086,
       "name": "State Prisoner",
       "url": "https://open.spotify.com/track/2GOaOOc8ROBp9O1ob9AsCr"
@@ -2659,7 +2703,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 176551,
       "name": "Teriyaki",
       "url": "https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew"
@@ -2699,7 +2743,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 164938,
       "name": "The Game",
       "url": "https://open.spotify.com/track/091n9MH1VUepOdhnv7SLci"
@@ -2725,7 +2769,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 236837,
       "name": "The Hurt Business",
       "url": "https://open.spotify.com/track/3TffVsQzWJHv1MWMN5xVGS"
@@ -2821,7 +2865,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 175909,
       "name": "The Process (feat. Kay Franklin)",
       "url": "https://open.spotify.com/track/59OyFXckWQoTn73T5SZkiM"
@@ -2857,7 +2901,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 116829,
       "name": "Theme For The People",
       "url": "https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE"
@@ -2967,10 +3011,40 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 177373,
       "name": "TV Dinners (feat. Boldy James & Sideshow)",
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+    },
+    {
+      "album": {
+        "name": "Dope Don't Sell Itself",
+        "url": "https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/01988BWUnQiclJ70TTcnOq"
+        },
+        {
+          "name": "Major Myjah",
+          "url": "https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267120,
+      "name": "Vlad TV (feat. Stove God Cooks, Symba & Major Myjah)",
+      "url": "https://open.spotify.com/track/1X1a1NKvRjNA7U0jlGTHbL"
     },
     {
       "album": {
@@ -3011,7 +3085,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 124872,
       "name": "Weight",
       "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"

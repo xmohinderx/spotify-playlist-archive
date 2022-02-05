@@ -1670,6 +1670,24 @@
     },
     {
       "album": {
+        "name": "Jazz at Night",
+        "url": "https://open.spotify.com/album/7cjqOoWOgTfdrmTeUjvh4u"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "It's In The Middle Of The Night",
+      "url": "https://open.spotify.com/track/7yRKzNvEQz9cngBQhjJp7L"
+    },
+    {
+      "album": {
         "name": "It's You I Like",
         "url": "https://open.spotify.com/album/0HndGWelRVWNQkdiPrhXna"
       },

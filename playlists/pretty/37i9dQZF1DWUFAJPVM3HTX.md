@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > New R&B/Soul from independent artists & labels every Wednesday\. Cover: Jex Nwalor, Artwork: Crystal Zapata
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,144 likes - 106 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,322 likes - 106 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 101 | [American Dirt](https://open.spotify.com/track/6sX37XMyxy5emswaPxU3gl) | [Flores](https://open.spotify.com/artist/7gjUyv57FGMKDu9agyqW1Z) | [American Dirt / Sangre](https://open.spotify.com/album/2pG38Zw3yE5AVYUDuBuUz3) | 2:35 |
 | 102 | [Home Away From Home](https://open.spotify.com/track/3g2ZPuuGDILoQTcokZpm14) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [Home Away From Home](https://open.spotify.com/album/5qTnghHR89oG2qsNfcaJeh) | 2:44 |
 | 103 | [mental](https://open.spotify.com/track/40RsoRlnvDcfkuhJuQNCCR) | [RHY](https://open.spotify.com/artist/3UosPRPY9DXlyIFEswlqTk) | [mental](https://open.spotify.com/album/744I77R6UCsE4KM4KKQ3Lt) | 1:56 |
-| 104 | [Only Love](https://open.spotify.com/track/4oKaJZZAQOUnkjtQ9GsDwv) | [Laureli](https://open.spotify.com/artist/1VzMRLlJzJbV9hlin8Vl0g) | [Laureli](https://open.spotify.com/album/3fM9SLfzl2pu0pl4Hc0PVA) | 2:55 |
+| 104 | [Only Love](https://open.spotify.com/track/4oKaJZZAQOUnkjtQ9GsDwv) | [Laureli](https://open.spotify.com/artist/1VzMRLlJzJbV9hlin8Vl0g) | [Only Love](https://open.spotify.com/album/3fM9SLfzl2pu0pl4Hc0PVA) | 2:55 |
 | 105 | [You Fake AF](https://open.spotify.com/track/54J84VVN4qh4xZkVEaCaCi) | [Sarey Savy](https://open.spotify.com/artist/4tT0QKqmBsGZywpBfLdU7C), [Kingdow](https://open.spotify.com/artist/0Ch6Wj8MJS9nt869qS8Ooj), [Emanuel Brown](https://open.spotify.com/artist/1Kywxpr8keQxuQq1wGBYRu) | [You Fake AF](https://open.spotify.com/album/6ZJKTtZxDfb6MEGtJrX1KF) | 3:29 |
 | 106 | [Drowning](https://open.spotify.com/track/6AJrAfn4NHm5OiT6tgscz8) | [LAV](https://open.spotify.com/artist/4KWE4Xq3SJgnKjDwiwRBMw) | [Drowning](https://open.spotify.com/album/7ePCdSU20AMlySWblW97dZ) | 3:26 |
 

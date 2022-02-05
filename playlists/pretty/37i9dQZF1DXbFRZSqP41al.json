@@ -1,12 +1,12 @@
 {
   "description": "Burn off all those beers from last night.",
-  "num_followers": 547364,
+  "num_followers": 547550,
   "original_name": "Rock Your Body",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzkzNTYwMCwwMDAwMDAwMDQyMzIxMGViNzBmMWEwNmFkMzExZDljY2MwMmUyOGEy",
+  "snapshot_id": "MTY0NDAyMTY4MiwwMDAwMDAwMDBjNGFiOWJhMTIzM2NmOWYwNjgzYjM3MDQwMDVhNDg4",
   "tracks": [
     {
       "added_at": "2022-02-03 07:52:25",
@@ -23,22 +23,6 @@
       "duration_ms": 148327,
       "name": "Alarm",
       "url": "https://open.spotify.com/track/0xXDWZre8pbWXG6ERdVPof"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Don't Back Down",
-        "url": "https://open.spotify.com/album/6nseS1XlNg1bPVN4vXADWB"
-      },
-      "artists": [
-        {
-          "name": "Mammoth WVH",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Don\u2019t Back Down",
-      "url": "https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe"
     },
     {
       "added_at": "2022-02-03 07:52:25",
@@ -91,6 +75,22 @@
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
+        "name": "Don't Back Down",
+        "url": "https://open.spotify.com/album/6nseS1XlNg1bPVN4vXADWB"
+      },
+      "artists": [
+        {
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Don\u2019t Back Down",
+      "url": "https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4"
       },
@@ -103,6 +103,38 @@
       "duration_ms": 215003,
       "name": "Teardrops",
       "url": "https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Karma Kastles",
+        "url": "https://open.spotify.com/album/1Mxgbyz90vgejBQun2dZhY"
+      },
+      "artists": [
+        {
+          "name": "Orgy",
+          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+        }
+      ],
+      "duration_ms": 243248,
+      "name": "Karma Kastles",
+      "url": "https://open.spotify.com/track/5nBMAMLHpdnBn7mVXcT8fl"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "SUCKAPUNCH",
+        "url": "https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 128613,
+      "name": "MAKEMEFEELALIVE",
+      "url": "https://open.spotify.com/track/7tfGLLDpuOI7QhQdhEiqgN"
     },
     {
       "added_at": "2022-02-03 07:52:25",
@@ -139,18 +171,18 @@
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "Karma Kastles",
-        "url": "https://open.spotify.com/album/1Mxgbyz90vgejBQun2dZhY"
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
       "artists": [
         {
-          "name": "Orgy",
-          "url": "https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 243248,
-      "name": "Karma Kastles",
-      "url": "https://open.spotify.com/track/5nBMAMLHpdnBn7mVXcT8fl"
+      "duration_ms": 166373,
+      "name": "Bleed It Out",
+      "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
     },
     {
       "added_at": "2022-02-03 07:52:25",
@@ -171,38 +203,6 @@
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "Infinite Pleasure",
-        "url": "https://open.spotify.com/album/1A8gjtOS5x9Ga0ooO6BXzW"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 200502,
-      "name": "That Dress",
-      "url": "https://open.spotify.com/track/0kL7zJ4HZVBCtux5LK0fro"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/3HEHxmkHfQyuqatAyJWXXB"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/07YAkI4MUIBku8cSJQ2Iz5"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
         "name": "Runnin' Wild",
         "url": "https://open.spotify.com/album/5e11cqb5L0C6s9RBasePB8"
       },
@@ -215,54 +215,6 @@
       "duration_ms": 218040,
       "name": "Runnin' Wild",
       "url": "https://open.spotify.com/track/1wXuogT7bvqnhuWzDBNOdV"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 166373,
-      "name": "Bleed It Out",
-      "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "SUCKAPUNCH",
-        "url": "https://open.spotify.com/album/1QjSCSvRARExE1aFFycrPz"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 128613,
-      "name": "MAKEMEFEELALIVE",
-      "url": "https://open.spotify.com/track/7tfGLLDpuOI7QhQdhEiqgN"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Billy Talent III",
-        "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 229533,
-      "name": "Devil on My Shoulder",
-      "url": "https://open.spotify.com/track/6M2EVaf2a9qhnY04CVvO95"
     },
     {
       "added_at": "2022-02-03 07:52:25",
@@ -283,6 +235,22 @@
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/3HEHxmkHfQyuqatAyJWXXB"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/07YAkI4MUIBku8cSJQ2Iz5"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
         "name": "Hidden Gems",
         "url": "https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B"
       },
@@ -295,22 +263,6 @@
       "duration_ms": 222936,
       "name": "Shakin' Off The Rust",
       "url": "https://open.spotify.com/track/5PUlGG3xO8PUuDcYKuaeZH"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "If I'm The Devil...",
-        "url": "https://open.spotify.com/album/0B3HzbLCsafcQHlOSNpnwg"
-      },
-      "artists": [
-        {
-          "name": "letlive.",
-          "url": "https://open.spotify.com/artist/5ACBALsFxT5Ab3gVe8yyPs"
-        }
-      ],
-      "duration_ms": 191137,
-      "name": "A Weak Ago",
-      "url": "https://open.spotify.com/track/3rY98pNrVY2OOacnbxbI0E"
     },
     {
       "added_at": "2022-02-03 07:52:25",
@@ -331,86 +283,6 @@
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "Let The Vultures In",
-        "url": "https://open.spotify.com/album/4xPEjD84ueU6Oq6l2saC2d"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 207141,
-      "name": "Let Me Live / Let Me Die",
-      "url": "https://open.spotify.com/track/5bCDC7qkmxiJc0lPsqiALj"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Th1rt3en or Nothing",
-        "url": "https://open.spotify.com/album/1GAgpG73IgX85uKhqbio5O"
-      },
-      "artists": [
-        {
-          "name": "Backyard Babies",
-          "url": "https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Th1rt3en or Nothing",
-      "url": "https://open.spotify.com/track/781bD6xtn77Wcep2hs13TC"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "I WANNA BE YOUR SLAVE",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7nDZWF3MBz9bCOJQmVr4x6"
-      },
-      "artists": [
-        {
-          "name": "SAINT PHNX",
-          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
-        }
-      ],
-      "duration_ms": 165755,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/32PINF4tmKyRHurHQ9l1Hp"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/2q2RKKrd7AuRE4I21b090c"
       },
@@ -427,34 +299,34 @@
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "Fortunate Son",
-        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
+        "name": "If I'm The Devil...",
+        "url": "https://open.spotify.com/album/0B3HzbLCsafcQHlOSNpnwg"
       },
       "artists": [
         {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+          "name": "letlive.",
+          "url": "https://open.spotify.com/artist/5ACBALsFxT5Ab3gVe8yyPs"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
+      "duration_ms": 191137,
+      "name": "A Weak Ago",
+      "url": "https://open.spotify.com/track/3rY98pNrVY2OOacnbxbI0E"
     },
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc"
+        "name": "Billy Talent III",
+        "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
       },
       "artists": [
         {
-          "name": "Sugarcult",
-          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
         }
       ],
-      "duration_ms": 237573,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6"
+      "duration_ms": 229533,
+      "name": "Devil on My Shoulder",
+      "url": "https://open.spotify.com/track/6M2EVaf2a9qhnY04CVvO95"
     },
     {
       "added_at": "2022-02-03 07:52:25",
@@ -475,50 +347,18 @@
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "Willow Tree",
-        "url": "https://open.spotify.com/album/6l7FQvAQgrIeeoYBJ0WrR0"
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
       "artists": [
         {
-          "name": "Twin Wild",
-          "url": "https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 199412,
-      "name": "Willow Tree",
-      "url": "https://open.spotify.com/track/5HYonJKY0t9tPAtExyBuvr"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH"
-      },
-      "artists": [
-        {
-          "name": "Bleeker",
-          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
+      "duration_ms": 173346,
+      "name": "I WANNA BE YOUR SLAVE",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
     },
     {
       "added_at": "2022-02-03 07:52:25",
@@ -539,34 +379,82 @@
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "Reckless Tongue",
-        "url": "https://open.spotify.com/album/0YaQ5OQPnogOXT4wMX5aaM"
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc"
       },
       "artists": [
         {
-          "name": "Airways",
-          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
+          "name": "Sugarcult",
+          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
         }
       ],
-      "duration_ms": 178795,
-      "name": "Reckless Tongue",
-      "url": "https://open.spotify.com/track/5Md4gGCtM6HV8eR2lQv8F2"
+      "duration_ms": 237573,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6"
     },
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+        "name": "Let The Vultures In",
+        "url": "https://open.spotify.com/album/4xPEjD84ueU6Oq6l2saC2d"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+      "duration_ms": 207141,
+      "name": "Let Me Live / Let Me Die",
+      "url": "https://open.spotify.com/track/5bCDC7qkmxiJc0lPsqiALj"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Fortunate Son",
+        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7nDZWF3MBz9bCOJQmVr4x6"
+      },
+      "artists": [
+        {
+          "name": "SAINT PHNX",
+          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
+        }
+      ],
+      "duration_ms": 165755,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/32PINF4tmKyRHurHQ9l1Hp"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
     },
     {
       "added_at": "2022-02-03 07:52:25",
@@ -587,66 +475,18 @@
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/15ZfluTMIxytOUoy1FSaEw"
+        "name": "Th1rt3en or Nothing",
+        "url": "https://open.spotify.com/album/1GAgpG73IgX85uKhqbio5O"
       },
       "artists": [
         {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+          "name": "Backyard Babies",
+          "url": "https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN"
         }
       ],
-      "duration_ms": 202800,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/2TFWiFlB1t8j2ALmzIRZOa"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
-      },
-      "artists": [
-        {
-          "name": "Finger Eleven",
-          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Paralyzer",
-      "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Myths & Legends",
-        "url": "https://open.spotify.com/album/6hNgPbvuietZC9tQE6Ix8L"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Legend",
-      "url": "https://open.spotify.com/track/4MNx1N8V4RLTKlRsbQ5Sd2"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Welcome to the Neighbourhood",
-        "url": "https://open.spotify.com/album/1i0k46X5g1vDetBJfNaOYT"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 223720,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/0BBuP5Ynwl0hMKbQGEjfnk"
+      "duration_ms": 225146,
+      "name": "Th1rt3en or Nothing",
+      "url": "https://open.spotify.com/track/781bD6xtn77Wcep2hs13TC"
     },
     {
       "added_at": "2022-02-03 07:52:25",
@@ -667,82 +507,50 @@
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+        "name": "Myths & Legends",
+        "url": "https://open.spotify.com/album/6hNgPbvuietZC9tQE6Ix8L"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 190760,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
+      "duration_ms": 189120,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/4MNx1N8V4RLTKlRsbQ5Sd2"
     },
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "North Of No South (Edit)",
-        "url": "https://open.spotify.com/album/71u1QkBnNqfPdz6ZUKvztb"
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K"
       },
       "artists": [
         {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 216903,
-      "name": "North Of No South - Edit",
-      "url": "https://open.spotify.com/track/3WorLcUF718S4k5LetzDBU"
+      "duration_ms": 214493,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
     },
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5KRTSW8M5GxnznK3fr781W"
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH"
       },
       "artists": [
         {
-          "name": "Young Guns",
-          "url": "https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z"
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
         }
       ],
-      "duration_ms": 184813,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/79t7AWh419e1BHYWRkdOGY"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 173279,
-      "name": "BLACKOUT",
-      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
-    },
-    {
-      "added_at": "2022-02-03 07:52:25",
-      "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 214797,
-      "name": "Help",
-      "url": "https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD"
+      "duration_ms": 201680,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt"
     },
     {
       "added_at": "2022-02-03 07:52:25",
@@ -763,18 +571,162 @@
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "DealBreaker",
-        "url": "https://open.spotify.com/album/5hcQEMNue4uxkHcrpyFZsX"
+        "name": "Reckless Tongue",
+        "url": "https://open.spotify.com/album/0YaQ5OQPnogOXT4wMX5aaM"
       },
       "artists": [
         {
-          "name": "Royal Tusk",
-          "url": "https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ"
+          "name": "Airways",
+          "url": "https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE"
         }
       ],
-      "duration_ms": 223560,
-      "name": "Curse the Weather",
-      "url": "https://open.spotify.com/track/2o0fZALPlVohLSNrjYN3I5"
+      "duration_ms": 178795,
+      "name": "Reckless Tongue",
+      "url": "https://open.spotify.com/track/5Md4gGCtM6HV8eR2lQv8F2"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/15ZfluTMIxytOUoy1FSaEw"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2TFWiFlB1t8j2ALmzIRZOa"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "North Of No South (Edit)",
+        "url": "https://open.spotify.com/album/71u1QkBnNqfPdz6ZUKvztb"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 216903,
+      "name": "North Of No South - Edit",
+      "url": "https://open.spotify.com/track/3WorLcUF718S4k5LetzDBU"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Willow Tree",
+        "url": "https://open.spotify.com/album/6l7FQvAQgrIeeoYBJ0WrR0"
+      },
+      "artists": [
+        {
+          "name": "Twin Wild",
+          "url": "https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D"
+        }
+      ],
+      "duration_ms": 199412,
+      "name": "Willow Tree",
+      "url": "https://open.spotify.com/track/5HYonJKY0t9tPAtExyBuvr"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Welcome to the Neighbourhood",
+        "url": "https://open.spotify.com/album/1i0k46X5g1vDetBJfNaOYT"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 223720,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0BBuP5Ynwl0hMKbQGEjfnk"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Lose My Breath Away",
+        "url": "https://open.spotify.com/album/3ShrZuwFY3Rxhb5N4tJ1uL"
+      },
+      "artists": [
+        {
+          "name": "Storm Orchestra",
+          "url": "https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Lose My Breath Away",
+      "url": "https://open.spotify.com/track/3zrljR8s0YB9KyO5Gl8W9s"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 214797,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "GLOW ON",
+        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 173279,
+      "name": "BLACKOUT",
+      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
     },
     {
       "added_at": "2022-02-03 07:52:25",
@@ -795,18 +747,66 @@
     {
       "added_at": "2022-02-03 07:52:25",
       "album": {
-        "name": "Karma and Effect",
-        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
+        "name": "Traps",
+        "url": "https://open.spotify.com/album/0UdQroPXUq5V73zbzsGGrh"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
         }
       ],
-      "duration_ms": 207213,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
+      "duration_ms": 174581,
+      "name": "Traps",
+      "url": "https://open.spotify.com/track/2ZvxyrNMYKMTazLQI2v9BX"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Never Take Friendship Personal",
+        "url": "https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "The Feel Good Drag",
+      "url": "https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5KRTSW8M5GxnznK3fr781W"
+      },
+      "artists": [
+        {
+          "name": "Young Guns",
+          "url": "https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z"
+        }
+      ],
+      "duration_ms": 184813,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/79t7AWh419e1BHYWRkdOGY"
+    },
+    {
+      "added_at": "2022-02-03 07:52:25",
+      "album": {
+        "name": "Them Vs. You Vs. Me (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2pCfqddO9tLKRz3wzSNGsZ"
+      },
+      "artists": [
+        {
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Paralyzer",
+      "url": "https://open.spotify.com/track/28IEbk5a7twNTbUEvWslUb"
     }
   ],
   "unique_name": "Rock Your Body",

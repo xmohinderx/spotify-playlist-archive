@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  Elevation Worship",
+  "description": "The best mix of today's Christian music, all genres, worldwide.  Cover:  Elevation Phil Wickham",
   "name": "Top Christian & Gospel",
   "published_playlist_ids": [
     "3IGSOKftgGE885pvp0BADM"
@@ -106,6 +106,36 @@
     },
     {
       "album": {
+        "name": "Almost Home (Live)",
+        "url": "https://open.spotify.com/album/4OBs9ABQX0TH3Q5UsGsrmA"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        },
+        {
+          "name": "Matt Boswell",
+          "url": "https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm"
+        },
+        {
+          "name": "Matt Papa",
+          "url": "https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224829,
+      "name": "Almost Home - Live",
+      "url": "https://open.spotify.com/track/7buJkwwok8lFaTLZtQT0UJ"
+    },
+    {
+      "album": {
         "name": "Gospel Song - EP",
         "url": "https://open.spotify.com/album/59637NFu1AkFC1a39GoEe7"
       },
@@ -121,7 +151,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 188963,
       "name": "Alright (feat. Jimmie Allen)",
       "url": "https://open.spotify.com/track/3FF426wDi9nKu01MNYJUVh"
@@ -673,6 +703,32 @@
       "duration_ms": 191563,
       "name": "Good Memories",
       "url": "https://open.spotify.com/track/4XhrBsxPkuFNAPojs3svt0"
+    },
+    {
+      "album": {
+        "name": "Walk with You",
+        "url": "https://open.spotify.com/album/0qFxivCbnRrBlXwhvQlrYV"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Kenzie Walker",
+          "url": "https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy"
+        },
+        {
+          "name": "Luis Vicens",
+          "url": "https://open.spotify.com/artist/3rCr2BPIbxiC5aikVFhPlk"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374546,
+      "name": "Good Things",
+      "url": "https://open.spotify.com/track/1CSSjxVMn8S51x1kC2yJ4z"
     },
     {
       "album": {
@@ -1271,6 +1327,24 @@
       "duration_ms": 242085,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/1uYqNIeFnuuAyECweX2jI7"
+    },
+    {
+      "album": {
+        "name": "Breakthrough: The Exodus (Live)",
+        "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
+      },
+      "artists": [
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402773,
+      "name": "Making Room - Live",
+      "url": "https://open.spotify.com/track/3OEoBPCL3mTezlnap2blTJ"
     },
     {
       "album": {
@@ -2001,7 +2075,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 304000,
       "name": "Speak To The Mountains",
       "url": "https://open.spotify.com/track/2xlV4v4Z7N7X6JB15SeQTg"
@@ -2189,7 +2263,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 407239,
       "name": "Things Are Gonna Get Better - Live",
       "url": "https://open.spotify.com/track/3uCe2iA7StP7nvWpWht9SG"
@@ -2327,7 +2401,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 261626,
       "name": "We Say Yes",
       "url": "https://open.spotify.com/track/54PJXau110gIGZ1T2P845t"
@@ -2519,6 +2593,24 @@
       "duration_ms": 198747,
       "name": "Yes He Can",
       "url": "https://open.spotify.com/track/5QJRT6u1hJuHSE0BeuEEud"
+    },
+    {
+      "album": {
+        "name": "Yes He Does",
+        "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206606,
+      "name": "Yes He Does",
+      "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy"

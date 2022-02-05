@@ -2,7 +2,7 @@
 
 ### [Indie Brasil](https://open.spotify.com/playlist/6JgS0nFYvZfSw5mDRlDbjL)
 
-> Novidades e destaques do indie nacional\. Foto: belina
+> Novidades e destaques do indie nacional\. Foto: Fernando Catatau
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [AMADA](https://open.spotify.com/track/6nEm0lC3exE9EnyZQLFzBQ) | [Ambivalente](https://open.spotify.com/artist/68sZEcd1SSqZyEE0qK5GUr), [Matheus Who](https://open.spotify.com/artist/7dk9vFezaTtPWPnygmbWgf) | [AMADA](https://open.spotify.com/album/75NHZbvpPsGxpXtQgoZTuJ) | 2:32 | 2022-01-14 |  |
 | [Amor Fácil](https://open.spotify.com/track/2XLBexgFy4A9U2SEYNeiB9) | [Vivian Kuczynski](https://open.spotify.com/artist/08AEOtd5A5ubv8RUJIZ3H6) | [Amor Fácil](https://open.spotify.com/album/0rlnF3P0b2PGkfmMzoyZK2) | 2:13 | 2022-01-14 |  |
 | [Aulus](https://open.spotify.com/track/7KtPb4RSS9YCDsBE8WTbl8) | [Maré Tardia](https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i) | [Aulus](https://open.spotify.com/album/3pqnkMtRDxT20PGZV4BPPI) | 4:14 | 2022-01-14 |  |
+| [Aventura](https://open.spotify.com/track/5j0Djj1O4jWIQ4kWYs1mDa) | [Tangerim](https://open.spotify.com/artist/33W3swdDTji5TEb4msJsEk) | [Aventura](https://open.spotify.com/album/6l5rSSzTUsCkKjtFzSu3Wr) | 2:53 | 2022-02-04 |  |
 | [Bicho Papão](https://open.spotify.com/track/6Dks697XrhDdbVfSydNAyQ) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Bicho Papão](https://open.spotify.com/album/3jHc6Yn0a3Nwk50r413tSG) | 3:31 | 2022-01-14 |  |
 | [Bonança](https://open.spotify.com/track/1oRT7e0Vye8UjUw1ceabPl) | [Esquimós](https://open.spotify.com/artist/6VVqkFB3MAmABN79OLFxnt), [Bruno Chaves](https://open.spotify.com/artist/4QKIVNqN2FLOqywERnKMac) | [E Mais um Corpo Caiu no Chão](https://open.spotify.com/album/7K1vGrpnTd09lDFPzBQDDN) | 3:37 | 2022-01-14 | 2022-01-29 |
 | [Breu](https://open.spotify.com/track/3Eu2TC0aIOaBUB5oNzI6kr) | [menores atos](https://open.spotify.com/artist/6KNc5HwsgpYNBCPaPrg4dv) | [Breu](https://open.spotify.com/album/3PoYgoWLUmGblClRJ3IZjq) | 4:14 | 2022-01-14 |  |
@@ -30,6 +31,7 @@
 | [Cê me viu ontem](https://open.spotify.com/track/6Iprd2vrpBI06WoN73BMVO) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Cê me viu ontem](https://open.spotify.com/album/5oVdbLtt5DHqphA3xevV6N) | 3:08 | 2022-01-14 |  |
 | [Cósmico](https://open.spotify.com/track/4hIBfMhwc5s9e0WJd5hEOo) | [NAVE MÃE](https://open.spotify.com/artist/3C8DoOi5SypwXYUNQ6YnK8) | [Cósmico](https://open.spotify.com/album/2EVyRqqr8j8vAXPreNsEwp) | 3:37 | 2022-01-14 |  |
 | [Desagradar](https://open.spotify.com/track/7qhbm7QvRktr6ZwDZzWmG1) | [bule](https://open.spotify.com/artist/0G0UBEMCXDj4UWnT3BeBoS) | [Desagradar](https://open.spotify.com/album/49PztzwJqsj3Ini8umF67R) | 3:24 | 2022-01-14 | 2022-01-22 |
+| [Devagar](https://open.spotify.com/track/7qUOCHvZ9cLi7u6lTFqLMg) | [Mariana Cavanellas](https://open.spotify.com/artist/4XBAtMS0mrX2bQipALDthL) | [Devagar](https://open.spotify.com/album/5XlLrpsRkgC92wfn33kY5B) | 2:16 | 2022-02-04 |  |
 | [Dias da Juventude](https://open.spotify.com/track/64h7945jIYmp90J9OTNMHN) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Dias da Juventude](https://open.spotify.com/album/2Mw5D7bDq20kHVHawd2ovC) | 2:55 | 2022-01-21 |  |
 | [enquanto isso...](https://open.spotify.com/track/6uPfQxEOJ7EKVO24C127NZ) | [Resp](https://open.spotify.com/artist/7aQV5qISnvnjl2IiAw1Q6o) | [enquanto isso...](https://open.spotify.com/album/31aNUqj3CvyC3r7rRSGbNS) | 3:23 | 2022-01-14 | 2022-01-22 |
 | [espelho...](https://open.spotify.com/track/7yU2AHrWg5OGnicuu8cdVt) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Byusukii](https://open.spotify.com/artist/5pvTUpf1gd0VbNGPANCscY) | [espelho...](https://open.spotify.com/album/7clz4qxUPJ4TbY0xlNT6W2) | 2:58 | 2022-01-14 |  |
@@ -37,6 +39,7 @@
 | [Eu Tinha Razão](https://open.spotify.com/track/2dm9LENWpqgh4bhvySFJ1K) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fragmentos 1](https://open.spotify.com/album/1Ik6uKshcmjKfiHF4xhHCh) | 3:24 | 2022-01-14 | 2022-01-22 |
 | [Exausta](https://open.spotify.com/track/0IbcOCuSAOGSAiXMvvczc6) | [Luiza Brina](https://open.spotify.com/artist/09h0yBO50UAcaFa4papv3X), [Sara Não Tem Nome](https://open.spotify.com/artist/31HTzBU95YF2eY7oXK92vM), [Julia Branco](https://open.spotify.com/artist/7023uToWKoLCvKPgpuv8uo) | [Exausta](https://open.spotify.com/album/2RmfuZ5B0cmhEApN9dhSdu) | 3:09 | 2022-01-14 | 2022-01-22 |
 | [Experimento de Observação 5353](https://open.spotify.com/track/5Y9LpbRCeLibZyaYlPTC0H) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC), [o k a m i](https://open.spotify.com/artist/4HRfnwOL9EYmUQBhG3qSWK) | [Experimento de Observação 5353](https://open.spotify.com/album/2mRXxoWKQoXB9uoIOcX6Mm) | 3:01 | 2022-01-14 |  |
+| [Feito pra Durar](https://open.spotify.com/track/1KXxGHLdrdwhXKYzuIa3Qv) | [Crime Caqui](https://open.spotify.com/artist/4WddE3seM79T6fOoIk6fwo) | [Feito pra Durar](https://open.spotify.com/album/0w1RqcFt7Wp4yj51VfirXU) | 5:01 | 2022-02-04 |  |
 | [Festa dos Pássaros](https://open.spotify.com/track/3ga8WGrJaOtraqnPuNDRwv) | [Mais Uma](https://open.spotify.com/artist/6HQ0ZYL7kr8o0wboWtPgLu) | [Festa dos Pássaros](https://open.spotify.com/album/3EbmGa3BkcI24ZdctxdApW) | 4:03 | 2022-01-14 |  |
 | [festa estranha](https://open.spotify.com/track/5Gj78z3zpdXoZzlpEIibOb) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [festa estranha](https://open.spotify.com/album/3ngy9z7zLwytb1QVECUTnz) | 2:51 | 2022-01-21 |  |
 | [Fruto Bruto](https://open.spotify.com/track/7hLyI3PiVvVKLy8SDz0WgE) | [Alan Bernardes](https://open.spotify.com/artist/6H7PacMXVeRywx2z2ZI2wx) | [Fruto Bruto](https://open.spotify.com/album/2vtNSZGt07kW6ki0dRaTin) | 3:47 | 2022-01-14 |  |
@@ -89,6 +92,7 @@
 | [Somos Só](https://open.spotify.com/track/0djmDwUQSh156s9wuvl4Tt) | [Luiza Brina](https://open.spotify.com/artist/09h0yBO50UAcaFa4papv3X), [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Somos Só](https://open.spotify.com/album/5Cw0fuWecAhIsSoWbugI65) | 3:33 | 2022-01-14 |  |
 | [sua sombra](https://open.spotify.com/track/5Qe4Q8qH5ZR39EXRbbB3Pp) | [Gabriel Faria](https://open.spotify.com/artist/0L6jkqOXPUOl62qXsTCqO3) | [memórias](https://open.spotify.com/album/5DOEsAb8QEhCgCESmdGWH3) | 4:45 | 2022-01-14 |  |
 | [Só](https://open.spotify.com/track/0b80V1R6f0RM80kdbVnnv4) | [Nevilton](https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM) | [Só](https://open.spotify.com/album/5AuoJdycZF6eb4pxTDnb13) | 3:48 | 2022-01-14 |  |
+| [Tempos Sombrios](https://open.spotify.com/track/2hdqKJGZ8k3FZaAKnxgXHi) | [Fernando Catatau](https://open.spotify.com/artist/38HnWuclWrz2BLt7Wek7Aj), [Uirá dos Reis](https://open.spotify.com/artist/5L1UfYjJzi1H5bXjSpDrhv) | [Fernando Catatau](https://open.spotify.com/album/1pP6XoftJqib7n3rgJFFIi) | 4:20 | 2022-02-04 |  |
 | [Teoría del Cuerpo Enamorado](https://open.spotify.com/track/7gWgcXWm8nQC8FsBiQiJIM) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Teoría del Cuerpo Enamorado](https://open.spotify.com/album/3bLd5ak4vQm8TWleuhVX4j) | 5:53 | 2022-01-21 |  |
 | [Teu Corre](https://open.spotify.com/track/7xxgsPQZJEha6c588wZSAi) | [Igor B.](https://open.spotify.com/artist/7CYcOnoNkoI4LXpEQqnfUP) | [Teu Corre](https://open.spotify.com/album/3nb2i3XcXxcHEPQFtekLVW) | 4:27 | 2022-01-14 | 2022-01-27 |
 | [toda vez](https://open.spotify.com/track/6eGRkZG3JJkzBm1QTGYpkX) | [belina](https://open.spotify.com/artist/3WhJVsZAzkUvuUQt2UycMg) | [belina](https://open.spotify.com/album/5VDXgZ7XDtKsZwMWNPUA21) | 4:07 | 2022-01-28 |  |
@@ -98,6 +102,7 @@
 | [Umbigo Digital](https://open.spotify.com/track/3TpIVtvzSottLPk2jNhShw) | [Felipe S](https://open.spotify.com/artist/5KWLoiF7jOfWEmhTKXOoi4), [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Umbigo Digital](https://open.spotify.com/album/7C9OJ5T8XHYboKPR7VMAOk) | 3:48 | 2022-01-14 |  |
 | [vai/fica](https://open.spotify.com/track/5J0d2UZQqY2tArK3i2HJzT) | [Gabriel Faria](https://open.spotify.com/artist/0L6jkqOXPUOl62qXsTCqO3) | [vai/fica](https://open.spotify.com/album/7iGZTI4eHlpjJYPLwbQF04) | 4:41 | 2022-01-14 |  |
 | [Viver É Urgente](https://open.spotify.com/track/7jSV6Rj6qwfpWp6217Pesb) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD) | [Viver É Urgente](https://open.spotify.com/album/3hhCQrv2j5qGROGEFaP7Cf) | 3:18 | 2022-01-21 |  |
+| [Vou Te Bagunçar](https://open.spotify.com/track/4zy6LZlj8g5sM3lOI7FChL) | [Xande](https://open.spotify.com/artist/0IqLSb4h4c1SaAijKMmUai), [Vila Condin](https://open.spotify.com/artist/5XrH8sfPNab2LWXuTjwyud) | [Vou Te Bagunçar](https://open.spotify.com/album/1ocxzbRIMJBpeIaCCQFvgH) | 2:43 | 2022-02-04 |  |
 | [vou\-me embora de mim](https://open.spotify.com/track/1f8ZogeEUhm1Nv84LsoJxQ) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [vou\-me embora de mim](https://open.spotify.com/album/54ai34YMvhpux2FLnjWGsz) | 3:06 | 2022-01-14 |  |
 | [Vênus](https://open.spotify.com/track/15aq8H2UxtbVCr5MEY37YO) | [Vítor Guima](https://open.spotify.com/artist/1hqTe0OBdC5nKA5Av8oiRe) | [Vênus](https://open.spotify.com/album/2ZMVEWBLpT3Dc4fsHZmROs) | 2:47 | 2022-01-21 |  |
 

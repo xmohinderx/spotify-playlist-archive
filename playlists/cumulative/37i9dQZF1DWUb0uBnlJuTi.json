@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 280463,
       "name": "Always Let Me Go",
       "url": "https://open.spotify.com/track/3vxNtjIlwUB5A525DGfs2Q"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 386583,
       "name": "Anomynous (Bonus Track) - 2020 Remaster",
       "url": "https://open.spotify.com/track/1r7si2LuTgMM5vmKePACHK"
@@ -208,6 +208,28 @@
     },
     {
       "album": {
+        "name": "Better Day's Are Coming",
+        "url": "https://open.spotify.com/album/3qNRh6bl4LpSgMfT4owJSE"
+      },
+      "artists": [
+        {
+          "name": "Byron Miller",
+          "url": "https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y"
+        },
+        {
+          "name": "Mats \u00d6berg",
+          "url": "https://open.spotify.com/artist/3LUqfl7mVVnNwfCpE6s4RD"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254626,
+      "name": "Better Day's Are Coming",
+      "url": "https://open.spotify.com/track/6mJlNbnQL5hlwmAVI56nfS"
+    },
+    {
+      "album": {
         "name": "Big Building's Walk",
         "url": "https://open.spotify.com/album/4730bSWMAEVpVOcbNQwzSO"
       },
@@ -255,7 +277,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 292533,
       "name": "Blues 3+1",
       "url": "https://open.spotify.com/track/36GrhjwWLnKgkPdPt2ARhB"
@@ -299,7 +321,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 378933,
       "name": "Breaki",
       "url": "https://open.spotify.com/track/4rudng6ylXm7HKBAw524hV"
@@ -357,7 +379,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 456114,
       "name": "Celestial Blues",
       "url": "https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg"
@@ -487,7 +509,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 594133,
       "name": "Cloudburst",
       "url": "https://open.spotify.com/track/7iSSsyuZwrBrw9f3hernoc"
@@ -553,7 +575,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 159228,
       "name": "Comedown",
       "url": "https://open.spotify.com/track/62ymRuQmaETCv6wasnQ8Qr"
@@ -703,7 +725,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 241445,
       "name": "Dirty Sunday",
       "url": "https://open.spotify.com/track/3x9RyZ3wghoQUKtPSnexTZ"
@@ -901,7 +923,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 211216,
       "name": "Green Chimneys - Juffie - Instrumental",
       "url": "https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H"
@@ -937,7 +959,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 355266,
       "name": "Harlem Buck Dance Strut",
       "url": "https://open.spotify.com/track/0u40DR3lPUDNCxtfDzNs3Q"
@@ -1451,7 +1473,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 413893,
       "name": "New York Times - Remastered 2002",
       "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
@@ -1487,7 +1509,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 316493,
       "name": "One In Seven",
       "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
@@ -1629,7 +1651,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 224733,
       "name": "Pontiac",
       "url": "https://open.spotify.com/track/7i1K6szPqqpK5rdASM5c23"
@@ -1825,7 +1847,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 212263,
       "name": "Souly",
       "url": "https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj"
@@ -2023,7 +2045,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 326320,
       "name": "Sweet Power of Your Embrace",
       "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
@@ -2045,7 +2067,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 326426,
       "name": "Swing Praxis - Kaidi Tatham Remix",
       "url": "https://open.spotify.com/track/37jXiMfAujPxIpblIl3EuO"
@@ -2105,7 +2127,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 266453,
       "name": "The Chant",
       "url": "https://open.spotify.com/track/0mFTShnrAE9pSdSfWygBXf"
@@ -2141,7 +2163,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 335586,
       "name": "The Drift",
       "url": "https://open.spotify.com/track/5EiIfRn8uIdWvQgN1v9Qxy"
@@ -2189,7 +2211,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 409560,
       "name": "The Epic (feat. Stanton Moore, Charlie Hunter & Skerik)",
       "url": "https://open.spotify.com/track/3mR91U7nqzAe2QQmawlQ5M"
@@ -2211,7 +2233,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 136020,
       "name": "The Hornet's Nest",
       "url": "https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y"
@@ -2265,7 +2287,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 205829,
       "name": "The Necessary Change",
       "url": "https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA"
@@ -2367,7 +2389,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 266386,
       "name": "Treason",
       "url": "https://open.spotify.com/track/6P93USHBkvsZNww6QXHa7m"
@@ -2407,7 +2429,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 406660,
       "name": "Universal Insanity",
       "url": "https://open.spotify.com/track/16H5KPPLFLzvW0oZjJjwwe"
@@ -2523,7 +2545,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 141030,
       "name": "What's the Matter",
       "url": "https://open.spotify.com/track/2t4Jta1l1mONdzyMAhjvYf"
@@ -2599,7 +2621,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 191253,
       "name": "With You I Rock",
       "url": "https://open.spotify.com/track/0mHwnny42Z2r0gQnIRxOxX"

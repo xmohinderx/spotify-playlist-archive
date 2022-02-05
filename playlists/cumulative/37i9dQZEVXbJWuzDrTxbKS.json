@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -1927,6 +1927,24 @@
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
+    },
+    {
+      "album": {
+        "name": "Cigarettes",
+        "url": "https://open.spotify.com/album/5OI7dLXwSZFtOnB3aQtCGi"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227527,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/42Xba467wgGvYrR2EE6s0i"
     },
     {
       "album": {
@@ -5444,6 +5462,32 @@
     },
     {
       "album": {
+        "name": "Kur ir mana cilts?",
+        "url": "https://open.spotify.com/album/0wFYyqDEAFYWc3qorwu5aG"
+      },
+      "artists": [
+        {
+          "name": "B\u016b\u016b",
+          "url": "https://open.spotify.com/artist/1F396SwhyY2Uj6KLKmwCGB"
+        },
+        {
+          "name": "Edav\u0101rdi",
+          "url": "https://open.spotify.com/artist/6DTzn5I7ckMyeB2ChPQCef"
+        },
+        {
+          "name": "Zen Paul",
+          "url": "https://open.spotify.com/artist/3kpYPUFlUJRgOIYyHcK69I"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129473,
+      "name": "Kur ir mana cilts?",
+      "url": "https://open.spotify.com/track/68un2aViZcPLGvhCa0ATRS"
+    },
+    {
+      "album": {
         "name": "Naivais ku-k\u016b",
         "url": "https://open.spotify.com/album/3kQmw9I67dE91PdansCdbU"
       },
@@ -5955,7 +5999,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 188561,
       "name": "Limuz\u012bns Uz Kr\u012bta",
       "url": "https://open.spotify.com/track/629jErpkObPMEd4aUqPvew"
@@ -10093,7 +10137,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 142000,
       "name": "Star Shopping",
       "url": "https://open.spotify.com/track/30bqVoKjX479ab90a8Pafp"
@@ -11599,7 +11643,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 174567,
       "name": "When I R.I.P.",
       "url": "https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf"

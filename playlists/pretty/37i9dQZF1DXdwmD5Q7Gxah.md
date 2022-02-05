@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > cover: tobias drayyyyyyyyyyy
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,463 likes - 137 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,521 likes - 137 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 14 | [all my ghosts](https://open.spotify.com/track/65LMre3AmSBiaHhdw7l57l) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [all my ghosts](https://open.spotify.com/album/2um5IQr83Qc2dhgNP0jswi) | 3:17 |
 | 15 | [HMU](https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [HMU](https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT) | 1:58 |
 | 16 | [Billie Bossa Nova](https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:16 |
-| 17 | [Makeup](https://open.spotify.com/track/2ciAYoCq1z4BboYNvGbnLH) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Make Up](https://open.spotify.com/album/2xT0Zibv3H6LhmGLFMjpZc) | 3:16 |
+| 17 | [Makeup](https://open.spotify.com/track/2ciAYoCq1z4BboYNvGbnLH) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Makeup](https://open.spotify.com/album/2xT0Zibv3H6LhmGLFMjpZc) | 3:16 |
 | 18 | [Right Down the Line](https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 4:27 |
 | 19 | [collar](https://open.spotify.com/track/1WsRqH46LpjlRZwZIbkvXA) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [collar](https://open.spotify.com/album/1eDBJl4hUDy98JFz98VVX9) | 2:40 |
 | 20 | [tellmewhatuwant](https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [tellmewhatuwant](https://open.spotify.com/album/6VlPTrrwFR2Z6sEnT9YIMR) | 3:13 |

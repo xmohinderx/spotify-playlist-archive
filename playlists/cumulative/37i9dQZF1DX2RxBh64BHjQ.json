@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The official voice of generation next. Cover: SoFaygo",
+  "description": "The official voice of generation next. Cover: Mike Dimes",
   "name": "Most Necessary",
   "published_playlist_ids": [
     "2WbWeZomiAM8yIPIZZMDJK"
@@ -322,6 +322,32 @@
     },
     {
       "album": {
+        "name": "Bottom Of The Trap (feat. Icewear Vezzo & EST Gee)",
+        "url": "https://open.spotify.com/album/3rQTz3HJ5wWoW43TE2Uugb"
+      },
+      "artists": [
+        {
+          "name": "Hardo",
+          "url": "https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179704,
+      "name": "Bottom Of The Trap (feat. Icewear Vezzo & EST Gee)",
+      "url": "https://open.spotify.com/track/0Btz9n7eympYOWBp6ICg1P"
+    },
+    {
+      "album": {
         "name": "Bounce Out",
         "url": "https://open.spotify.com/album/1NL1LWbjMm9inP25ll9H1d"
       },
@@ -351,7 +377,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 192020,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/0Fu7sYDdybCQ7VZYUYh5Ge"
@@ -377,6 +403,24 @@
       "duration_ms": 176317,
       "name": "Brixx",
       "url": "https://open.spotify.com/track/0eY2jYiDnRBLhJoAgQ4yUr"
+    },
+    {
+      "album": {
+        "name": "The Leek 4!",
+        "url": "https://open.spotify.com/album/3FJKPsTOQYoNYgbjRik9M5"
+      },
+      "artists": [
+        {
+          "name": "iayze",
+          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77004,
+      "name": "C'mere!",
+      "url": "https://open.spotify.com/track/109y2iYl9cRHNR4rPzox1q"
     },
     {
       "album": {
@@ -485,7 +529,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 148375,
       "name": "Champagne Fights",
       "url": "https://open.spotify.com/track/2jDNxarXYJ33wnVNWpinL7"
@@ -503,7 +547,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 194823,
       "name": "CHECK THE STATS",
       "url": "https://open.spotify.com/track/5o8sujjo7xS7eqe40Fahtd"
@@ -771,10 +815,50 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 167058,
       "name": "Doctor (feat. Lil Tjay)",
       "url": "https://open.spotify.com/track/5Xks4meWbkd8vjWsxqYeNF"
+    },
+    {
+      "album": {
+        "name": "Don't Change",
+        "url": "https://open.spotify.com/album/2sK6HTE8sFwVwD1gVQMOYX"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134810,
+      "name": "Don't Change",
+      "url": "https://open.spotify.com/track/4JNI9h3odVrUIqDhVocdVj"
+    },
+    {
+      "album": {
+        "name": "Don't Get Hit",
+        "url": "https://open.spotify.com/album/2DkdMqF3c9vjelvdoAFrsB"
+      },
+      "artists": [
+        {
+          "name": "VV$ KEN",
+          "url": "https://open.spotify.com/artist/2FelUywHDci70FpLOHGghU"
+        },
+        {
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203675,
+      "name": "Don't Get Hit",
+      "url": "https://open.spotify.com/track/1egaPOAa20HfQaaueGlmzK"
     },
     {
       "album": {
@@ -811,7 +895,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 191573,
       "name": "Dope Game",
       "url": "https://open.spotify.com/track/2QrFxF0HAlK7Ik91PELa7a"
@@ -851,6 +935,46 @@
       "duration_ms": 138767,
       "name": "Drum Dummy",
       "url": "https://open.spotify.com/track/0vrXDWOGjpjRvMNRujfM1n"
+    },
+    {
+      "album": {
+        "name": "DFTK",
+        "url": "https://open.spotify.com/album/5pb2qoPjdwPtkWUh64Jc8r"
+      },
+      "artists": [
+        {
+          "name": "Yung Kayo",
+          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157769,
+      "name": "everything new (feat. Gunna)",
+      "url": "https://open.spotify.com/track/0UTgiWqnHq17CEUW0QokQ2"
+    },
+    {
+      "album": {
+        "name": "Evil",
+        "url": "https://open.spotify.com/album/5X8WNJ9F7SmfCXjC19I2e0"
+      },
+      "artists": [
+        {
+          "name": "Stunna Gambino",
+          "url": "https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139305,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/5zG5U3PGRdzzGcpUKP3W1J"
     },
     {
       "album": {
@@ -975,7 +1099,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 191358,
       "name": "For The Record",
       "url": "https://open.spotify.com/track/254OydHVwUHK2jIMhZToHm"
@@ -997,6 +1121,28 @@
       "duration_ms": 109852,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/7hN02og1TARl5EER4wURPb"
+    },
+    {
+      "album": {
+        "name": "Glock 9 (with Lil Zay Osama)",
+        "url": "https://open.spotify.com/album/3eQNATRnbTmpIXistwy1By"
+      },
+      "artists": [
+        {
+          "name": "BigKayBeezy",
+          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
+        },
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204947,
+      "name": "Glock 9 (with Lil Zay Osama)",
+      "url": "https://open.spotify.com/track/0tRcyxggR2a32pC7Wl51Bd"
     },
     {
       "album": {
@@ -1245,7 +1391,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 168272,
       "name": "I'm The One",
       "url": "https://open.spotify.com/track/44T0AhTa6pkc4mEqUGta1s"
@@ -1288,6 +1434,24 @@
     },
     {
       "album": {
+        "name": "DFTK",
+        "url": "https://open.spotify.com/album/5pb2qoPjdwPtkWUh64Jc8r"
+      },
+      "artists": [
+        {
+          "name": "Yung Kayo",
+          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116369,
+      "name": "iPic",
+      "url": "https://open.spotify.com/track/5RftcLbYC4bC5QkOGF4e0s"
+    },
+    {
+      "album": {
         "name": "The D.O.A. Tape",
         "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
       },
@@ -1317,7 +1481,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 142837,
       "name": "it's a monday",
       "url": "https://open.spotify.com/track/2oet8fj6MIOn8k1hc3G3Ob"
@@ -1509,7 +1673,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 269727,
       "name": "lost souls (with Brent Faiyaz)",
       "url": "https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0"
@@ -1600,6 +1764,24 @@
     },
     {
       "album": {
+        "name": "FREELANCE",
+        "url": "https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz"
+      },
+      "artists": [
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165550,
+      "name": "Maytag (Tax Free)",
+      "url": "https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC"
+    },
+    {
+      "album": {
         "name": "Me or Sum (feat. Future & Lil Baby)",
         "url": "https://open.spotify.com/album/6SEeNB2xGW1kmysKSvWYqC"
       },
@@ -1641,7 +1823,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 132475,
       "name": "Migo Shit (feat. Quavo)",
       "url": "https://open.spotify.com/track/769gsFXEqrcWbnkrQT8sz9"
@@ -1729,7 +1911,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 208915,
       "name": "MMM MMM (The Remix) [feat. ATL Jacob, Latto & Moneybagg Yo]",
       "url": "https://open.spotify.com/track/4QpNg4wDBtdevpOZFKYabg"
@@ -1889,7 +2071,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 200800,
       "name": "Never Fail (with Benny The Butcher)",
       "url": "https://open.spotify.com/track/0myEYpzyBetSo4tgKs7oUx"
@@ -1929,7 +2111,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 140000,
       "name": "Never Say Never",
       "url": "https://open.spotify.com/track/5m6nfyWGLMBFRVKWE5www0"
@@ -2110,6 +2292,28 @@
     },
     {
       "album": {
+        "name": "Only Fans (feat. G Perico)",
+        "url": "https://open.spotify.com/album/1vaN6rMtLNd66VahhErP4i"
+      },
+      "artists": [
+        {
+          "name": "Haiti Babii",
+          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
+        },
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158735,
+      "name": "Only Fans (feat. G Perico)",
+      "url": "https://open.spotify.com/track/5ndDC07F37lJm5raCPNA9P"
+    },
+    {
+      "album": {
         "name": "OPP PARTY (feat. Nardo Wick & G Herbo)",
         "url": "https://open.spotify.com/album/6f9Ybh8nheTL1SP9fay42H"
       },
@@ -2246,6 +2450,24 @@
     },
     {
       "album": {
+        "name": "Protest",
+        "url": "https://open.spotify.com/album/0lJ8jE5x7E3RPyOYbU8Omf"
+      },
+      "artists": [
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128412,
+      "name": "Protest",
+      "url": "https://open.spotify.com/track/7xmvra75oRloZw9fHMhtBe"
+    },
+    {
+      "album": {
         "name": "Rags 2 Riches",
         "url": "https://open.spotify.com/album/6gMo6gASXbcMgx6emh36xz"
       },
@@ -2337,7 +2559,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 148687,
       "name": "Retaliation",
       "url": "https://open.spotify.com/track/1NE8EEo8xpxTLAYHJbmsrY"
@@ -2377,10 +2599,28 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 175877,
       "name": "Rocc Climbing (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw"
+    },
+    {
+      "album": {
+        "name": "Rock Wit Proph",
+        "url": "https://open.spotify.com/album/2MzJhr9etdHt3IEGvCLZoN"
+      },
+      "artists": [
+        {
+          "name": "Prophet the Artist",
+          "url": "https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165485,
+      "name": "Rock Wit Proph",
+      "url": "https://open.spotify.com/track/6c6WMifL0O4QXMTQOhbB9M"
     },
     {
       "album": {
@@ -2453,7 +2693,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 163720,
       "name": "Rounds",
       "url": "https://open.spotify.com/track/0Ri77u7FwVyFtNkFaY09jJ"
@@ -2475,6 +2715,24 @@
       "duration_ms": 185120,
       "name": "Sada Wada",
       "url": "https://open.spotify.com/track/3H3a7z10QCCrqAISXi3IU8"
+    },
+    {
+      "album": {
+        "name": "Said It\u2019s Lit",
+        "url": "https://open.spotify.com/album/7vkA6H43oTStJyxEJeyIiI"
+      },
+      "artists": [
+        {
+          "name": "22Gz",
+          "url": "https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150912,
+      "name": "Said It\u2019s Lit",
+      "url": "https://open.spotify.com/track/4sw5u1NAL7Wd1WaPBEHOFj"
     },
     {
       "album": {
@@ -2800,6 +3058,24 @@
     },
     {
       "album": {
+        "name": "Thug Melodies",
+        "url": "https://open.spotify.com/album/5VjgH8wgFP70tarZ6iJChd"
+      },
+      "artists": [
+        {
+          "name": "Soldier Kidd",
+          "url": "https://open.spotify.com/artist/7BA072InWOjB1X7MZGOloy"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180001,
+      "name": "Thug Paradise 2",
+      "url": "https://open.spotify.com/track/1wqg2VowoogPATrqPzrpi3"
+    },
+    {
+      "album": {
         "name": "Time Away",
         "url": "https://open.spotify.com/album/0Tk1KpRvKLUC00wWoayxVj"
       },
@@ -2836,6 +3112,68 @@
     },
     {
       "album": {
+        "name": "Tip Off (feat. Louie Ray & Mozzy)",
+        "url": "https://open.spotify.com/album/1Ag2McGuWmTW5ONRuq9Axf"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        },
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "Louie Ray",
+          "url": "https://open.spotify.com/artist/4U44HqrUwzfE2GEx9NXllw"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158697,
+      "name": "Tip Off (feat. Louie Ray & Mozzy)",
+      "url": "https://open.spotify.com/track/1K6e3OgmzaawcZgU33qWfH"
+    },
+    {
+      "album": {
+        "name": "Trust Myself",
+        "url": "https://open.spotify.com/album/4v1LwXDtbFjvaJ62eI6WG5"
+      },
+      "artists": [
+        {
+          "name": "Popp Hunna",
+          "url": "https://open.spotify.com/artist/3fyhhXHbGVLuSHFk2SYx4I"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114600,
+      "name": "Trust Myself",
+      "url": "https://open.spotify.com/track/154OhuXRpU9JsUGCUMQPsd"
+    },
+    {
+      "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155742,
+      "name": "Turban",
+      "url": "https://open.spotify.com/track/4aMxs74PXoQg2SLgjypcvb"
+    },
+    {
+      "album": {
         "name": "Tweet Bird (Never Broke Again feat.YoungBoy Never Broke Again, Rojay MLP, Meechy Baby, P Yungin, Rjae)",
         "url": "https://open.spotify.com/album/4YdoHez1RJ5NPlSgRraKfz"
       },
@@ -2867,7 +3205,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 200301,
       "name": "Tweet Bird (Never Broke Again feat. YoungBoy Never Broke Again, Rojay MLP, Meechy Baby, P Yungin, Rjae)",
       "url": "https://open.spotify.com/track/6UZWeRythuGsvnqrwgcj2v"
@@ -2983,6 +3321,32 @@
       "duration_ms": 135512,
       "name": "Who Hotter Than Gee",
       "url": "https://open.spotify.com/track/1VdWvwRPqiWfAUQrUjXIEt"
+    },
+    {
+      "album": {
+        "name": "Easy Money",
+        "url": "https://open.spotify.com/album/5XPF5H3EUVmUQjZZcmkw5F"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Who Not Turnt",
+      "url": "https://open.spotify.com/track/6bf6EucSDjeVSez8eTm49M"
     },
     {
       "album": {
@@ -3125,7 +3489,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 157714,
       "name": "YEET (feat. Yeat)",
       "url": "https://open.spotify.com/track/19b1RB0jrScAK1MKe3IRnk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > DJ Private Ryan takes over our Carnival playlist for Carnival season 2021
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,614 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,626 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 | 19 | [Live Yuh Life](https://open.spotify.com/track/2HISSlxTzTpGWWv8KWECMG) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [College Boy Jesse](https://open.spotify.com/artist/3ufDB32Ui0RCIIBgpLhYIO) | [House of Calypso Project](https://open.spotify.com/album/3pgUxCYqfMlRuxwVx9QBJw) | 3:25 |
 | 20 | [Dancing Away](https://open.spotify.com/track/1HEnnI5flnRWEYzXcaFGwB) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Dancing Away](https://open.spotify.com/album/6M6dvqYveF3fO2KGGmnQQR) | 3:23 |
 | 21 | [Scrub It Down](https://open.spotify.com/track/67dyt0UQvbHduHRVXddvt7) | [Kernal Roberts](https://open.spotify.com/artist/7HKpbIsFQsZquxRSSoZiyB) | [Jooking Board Riddim](https://open.spotify.com/album/6194w5QugrwiXzn4OOqJAE) | 3:17 |
-| 22 | [Whole Day](https://open.spotify.com/track/74J1milTS96T0UIVJVZtec) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Rae](https://open.spotify.com/artist/14Z9Si0jYlpW80EyyjU0w6) | [House of Calypso Project](https://open.spotify.com/album/3pgUxCYqfMlRuxwVx9QBJw) | 3:14 |
+| 22 | [Whole Day](https://open.spotify.com/track/74J1milTS96T0UIVJVZtec) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [RAE](https://open.spotify.com/artist/4y86b8B5LEQ1qgX9wanKqo) | [House of Calypso Project](https://open.spotify.com/album/3pgUxCYqfMlRuxwVx9QBJw) | 3:14 |
 | 23 | [Can't Take My Joy](https://open.spotify.com/track/2F4Ojd5cJ4JIEqs4GZEWPr) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Terri Lyons](https://open.spotify.com/artist/54Pc87vBkLMKbQfrd7ZWxF) | [Sunkissed Shores](https://open.spotify.com/album/1Qh6lvD6dPqqLhViFvwYrg) | 3:23 |
 | 24 | [Hahaha](https://open.spotify.com/track/2YeIEQKCTTxhLTIoMZj9iU) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf), [Ricky T](https://open.spotify.com/artist/3HHHYK2eIjmJgA0zIklzzU) | [Hahaha](https://open.spotify.com/album/5sH9ViOkjSlXjLoY8wsYtz) | 3:09 |
 | 25 | [IzWE](https://open.spotify.com/track/4LEMcQoso6qr8Gi1hz3bdp) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Etienne Charles](https://open.spotify.com/artist/4JykHd21q5YnsKDekqnqD3), [Laventille Riddim Section](https://open.spotify.com/artist/3KEToqcuTsWYMB93XZHR20) | [IzWE](https://open.spotify.com/album/5GEc3z0zW4J4CrmjVcVqXz) | 4:08 |

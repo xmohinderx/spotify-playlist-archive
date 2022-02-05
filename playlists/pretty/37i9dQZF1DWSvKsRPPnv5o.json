@@ -1,13 +1,141 @@
 {
-  "description": "Holdin' it down for the westside. Cover: Roddy Ricch\n",
-  "num_followers": 680724,
+  "description": "Holdin' it down for the westside. Cover: YG",
+  "num_followers": 680821,
   "original_name": "Westside Story",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzQwMTk1OSwwMDAwMDUwYTAwMDAwMTdlYTI2M2Q4MjUwMDAwMDE3ZTMxYThhYjlj",
+  "snapshot_id": "MTY0Mzk1MDgwMCwwMDAwMDUwYjAwMDAwMTdlYzMxYTdkMjQwMDAwMDE3ZWMyNjkzZmYx",
   "tracks": [
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Scared Money",
+        "url": "https://open.spotify.com/album/3TsYjPFN8qCxcYWHL3DtL8"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 204285,
+      "name": "Scared Money (feat. J. Cole and Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/4heBcjj4Lw3X2sQVFNbLbz"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)",
+        "url": "https://open.spotify.com/album/6F7pAFd441t7xmlYit9I9L"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 237233,
+      "name": "ETA (with Snoop Dogg, Busta Rhymes & Anderson .Paak)",
+      "url": "https://open.spotify.com/track/0bzX26mfmUi0djOLemE2b8"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "It's Hard Not To",
+        "url": "https://open.spotify.com/album/4vp4M2XZxSWho7xgwLl4bO"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Sada Baby",
+          "url": "https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw"
+        }
+      ],
+      "duration_ms": 135017,
+      "name": "It's Hard Not To",
+      "url": "https://open.spotify.com/track/1SoacNoziTAkkUNUkT29Md"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Gospel (with Eminem)",
+        "url": "https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 210027,
+      "name": "Gospel (with Eminem)",
+      "url": "https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Only Fans (feat. G Perico)",
+        "url": "https://open.spotify.com/album/1vaN6rMtLNd66VahhErP4i"
+      },
+      "artists": [
+        {
+          "name": "Haiti Babii",
+          "url": "https://open.spotify.com/artist/6NQgMwGc3jvdwGZKUbhhHi"
+        },
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "duration_ms": 158735,
+      "name": "Only Fans (feat. G Perico)",
+      "url": "https://open.spotify.com/track/5ndDC07F37lJm5raCPNA9P"
+    },
+    {
+      "added_at": "2022-01-24 22:26:04",
+      "album": {
+        "name": "BSG",
+        "url": "https://open.spotify.com/album/0TI6jFxQXiuspIZuoB6dF3"
+      },
+      "artists": [
+        {
+          "name": "Baby Stone Gorillas",
+          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
+        }
+      ],
+      "duration_ms": 220392,
+      "name": "Main Line",
+      "url": "https://open.spotify.com/track/28tm5peRtid0jX6eYqGstU"
+    },
     {
       "added_at": "2022-01-28 20:32:39",
       "album": {
@@ -65,64 +193,20 @@
       "url": "https://open.spotify.com/track/3rjwafyisDpLdoJ4RecHp6"
     },
     {
-      "added_at": "2021-09-24 04:00:00",
+      "added_at": "2022-01-28 20:32:39",
       "album": {
-        "name": "The Melodic Blue",
-        "url": "https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/22QaAcWSzIdOWtCgaca1un"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Rob $tone",
+          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
         }
       ],
-      "duration_ms": 269727,
-      "name": "lost souls (with Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "LEMME FIND OUT",
-        "url": "https://open.spotify.com/album/5BreDfoKKD7DBSzzQ6tAAi"
-      },
-      "artists": [
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "LEMME FIND OUT",
-      "url": "https://open.spotify.com/track/2aMi7wkUtVZ7QTm6paGgox"
-    },
-    {
-      "added_at": "2021-09-24 04:00:00",
-      "album": {
-        "name": "Into The Late Night",
-        "url": "https://open.spotify.com/album/5k3e7zBpog1RBBZKJiWSb6"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "Cardo",
-          "url": "https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx"
-        }
-      ],
-      "duration_ms": 213363,
-      "name": "Don't Try It",
-      "url": "https://open.spotify.com/track/4SeNQ0YufFis838NXImgq3"
+      "duration_ms": 176971,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0XgnXsUlzkpqrcdKx002IT"
     },
     {
       "added_at": "2022-01-21 05:00:00",
@@ -145,22 +229,6 @@
       "url": "https://open.spotify.com/track/5ajUHjr4TkrK0pav0MrDXP"
     },
     {
-      "added_at": "2022-01-24 22:26:04",
-      "album": {
-        "name": "BSG",
-        "url": "https://open.spotify.com/album/0TI6jFxQXiuspIZuoB6dF3"
-      },
-      "artists": [
-        {
-          "name": "Baby Stone Gorillas",
-          "url": "https://open.spotify.com/artist/0jAP1TzUaPmRmcB5j1FMs3"
-        }
-      ],
-      "duration_ms": 220392,
-      "name": "Main Line",
-      "url": "https://open.spotify.com/track/28tm5peRtid0jX6eYqGstU"
-    },
-    {
       "added_at": "2022-01-21 05:00:00",
       "album": {
         "name": "You're A Jerk 2",
@@ -175,22 +243,6 @@
       "duration_ms": 148800,
       "name": "You're A Jerk 2",
       "url": "https://open.spotify.com/track/5aXplC3gYU14i6HW5Fpaer"
-    },
-    {
-      "added_at": "2022-01-28 20:32:39",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/22QaAcWSzIdOWtCgaca1un"
-      },
-      "artists": [
-        {
-          "name": "Rob $tone",
-          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
-        }
-      ],
-      "duration_ms": 176971,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/0XgnXsUlzkpqrcdKx002IT"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -481,38 +533,6 @@
       "url": "https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb"
     },
     {
-      "added_at": "2021-10-22 21:35:59",
-      "album": {
-        "name": "Big Subwoofer",
-        "url": "https://open.spotify.com/album/6od3UwzxgXBPWarUlwkPix"
-      },
-      "artists": [
-        {
-          "name": "MOUNT WESTMORE",
-          "url": "https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 241587,
-      "name": "Big Subwoofer - Single Version",
-      "url": "https://open.spotify.com/track/3U84GeKG4tUHhimhie1aDK"
-    },
-    {
       "added_at": "2022-01-07 05:00:00",
       "album": {
         "name": "Numero Uno",
@@ -687,26 +707,6 @@
       "duration_ms": 251799,
       "name": "Tabula Rasa (feat. Armand Hammer)",
       "url": "https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR"
-    },
-    {
-      "added_at": "2021-09-24 04:00:00",
-      "album": {
-        "name": "Come Through (feat. Lil Tecca)",
-        "url": "https://open.spotify.com/album/1MmvvWW9bxBU68A6eciF2B"
-      },
-      "artists": [
-        {
-          "name": "Bankrol Hayden",
-          "url": "https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 112613,
-      "name": "Come Through (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/3RoCi49XvcidDK7OqGw7fb"
     },
     {
       "added_at": "2021-10-16 03:23:08",

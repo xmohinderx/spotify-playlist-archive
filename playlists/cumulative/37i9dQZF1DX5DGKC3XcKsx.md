@@ -2,7 +2,7 @@
 
 ### [Trapperz Uruguay](https://open.spotify.com/playlist/50Jdwr74HQGEkk8eIxYJWl)
 
-> Lo mejor del trap charrúa\. <br/>Foto: Lit Killah, Falke 912 & Bhavi.
+> Lo mejor del trap charrúa\. Foto: Falke 912 & Polimá Westcoast.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Dinero](https://open.spotify.com/track/36P4q04ZaKiQPSmhGmEeZH) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Dinero](https://open.spotify.com/album/3zAFqMVnVEGlrOR1ew3pbC) | 2:56 | 2021-09-10 |  |
 | [Domador](https://open.spotify.com/track/31dNG4iLpyQ4HwiAL0nGer) | [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A) | [Domador](https://open.spotify.com/album/2JEIIb3bjdIvGaQNH0IGe2) | 2:43 | 2021-09-10 |  |
 | [Dos](https://open.spotify.com/track/6YrxXC8qq1kLvhtUZ8ybkf) | [BNT](https://open.spotify.com/artist/5QPQ1ZQFmow6eoSsscq33K), [Hache Souza](https://open.spotify.com/artist/1yQiZJTb5BgGi69eTkgqMW), [Seba Jones](https://open.spotify.com/artist/2FbKpBqa4bdoDiYIklpw3V) | [Higher Standards \(Lado A\)](https://open.spotify.com/album/6pglBdAozqBiOiF1hDNd1Y) | 4:22 | 2021-09-10 |  |
+| [Dripeando](https://open.spotify.com/track/2x1s3TXM1fvVzCAd1Suf4T) | [Falke 912](https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Dripeando](https://open.spotify.com/album/4tg4Sy7PgIkiMgMzEDEdWq) | 3:06 | 2022-02-04 |  |
 | [Ella Es Mi Bitch](https://open.spotify.com/track/6gAhoYC40nPWRXfc5Gq04H) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Franux BB](https://open.spotify.com/artist/1iblTHYdU8q8t8nH4sHl8A), [44 Kid](https://open.spotify.com/artist/6C5H5G8EN1hu9N1wtOF5Wb) | [Desde el Fin del Mundo](https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0) | 4:06 | 2021-09-10 |  |
 | [Hot Box](https://open.spotify.com/track/4WiYKp8a6JKu4uAejn7ELd) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Hot Box](https://open.spotify.com/album/2rdFLotVCZXVsOG6RLXpHx) | 2:01 | 2021-09-10 |  |
 | [I.D.K.](https://open.spotify.com/track/0Et7R62PgWXXWPeA3N33g2) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Zanto](https://open.spotify.com/artist/4z1EZw4oQOS65xBnx95O60) | [I.D.K.](https://open.spotify.com/album/5ISGPxLsYX94QcADA2rum5) | 2:30 | 2021-09-10 |  |

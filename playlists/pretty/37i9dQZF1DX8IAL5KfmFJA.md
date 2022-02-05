@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 
 > In loving memory of Marie Fredriksson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,113 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,241 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IAL5KfmFJA.md) - [plain]
 | 26 | [Paint](https://open.spotify.com/track/1Ukp8zQgZL03ZwVhiMtYzo) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 3:30 |
 | 27 | [You Don't Understand Me](https://open.spotify.com/track/2ml34OiH9fNXFS9bS5Q6in) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:28 |
 | 28 | [June Afternoon](https://open.spotify.com/track/3tSdiH7uUhSQG7QQtj9uTr) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Don't Bore Us \- Get to the Chorus! Roxette's Greatest Hits](https://open.spotify.com/album/6Zd1OLqFX5geleqvJ9xtAL) | 4:11 |
-| 29 | [Soy Una Mujer \(Fading Like a Flower\) \(Everytime You Leave\)](https://open.spotify.com/track/69RnMA6JzuVCG0osd731iU) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 3:48 |
+| 29 | [Soy Una Mujer \(Fading Like a Flower\)](https://open.spotify.com/track/69RnMA6JzuVCG0osd731iU) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 3:48 |
 | 30 | [Vulnerable](https://open.spotify.com/track/3f5r7wd7GdLHzDuCY9M0X6) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Crash! Boom! Bang! \(2009 Version\)](https://open.spotify.com/album/52YascebxQ8Sn4ZYCvnFBs) | 5:00 |
 | 31 | [\(Do You Get\) Excited?](https://open.spotify.com/track/1VXThXSlJDfst2CkNxvAz9) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride](https://open.spotify.com/album/2s39oUayLt0O5uXkdgmheY) | 4:15 |
 | 32 | [A Thing About You](https://open.spotify.com/track/7JqAHnv9YZOPN8HTR4Fq7M) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [The Ballad Hits](https://open.spotify.com/album/2vYVXGQRRtaicjLpt5INMP) | 3:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B?si=G45GQRkVTf6\_eGlpx0GWZA"> TeeZee </a>  and <a href="https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT?si=Jm2npQyQSd6TeteVFByObQ"> Deto Black </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,046 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,118 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Jaded](https://open.spotify.com/track/7bvafFr1HNPNJVEUdM7SFn) | [Yinka Bernie](https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL) | [Jaded](https://open.spotify.com/album/2OvSuz5kY264szZHbqiF8V) | 2:12 |
 | 80 | [Mars!](https://open.spotify.com/track/4WzG4lLHpWdis2seaFARqA) | [New World Ray](https://open.spotify.com/artist/00MKuoAiFY4p6R46RfcTyt), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Maison2500](https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx) | [Light Speed: A Trip to Space](https://open.spotify.com/album/4fI2gqBllLRUEytq8NyB8p) | 3:30 |
 
-Snapshot ID: `MTY0MzkyOTMyMCwwMDAwMDBiNzAwMDAwMTdlYzFkMmJhZDQwMDAwMDE3ZWI4YmE5OTdk`
+Snapshot ID: `MTY0Mzk2OTI5MiwwMDAwMDBiODAwMDAwMTdlYzQzNGE4MzYwMDAwMDE3ZWM0MzJkZjI4`

@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Bad Habits (Piano Version)",
+        "url": "https://open.spotify.com/album/7qmcWjavQC8OlHP6D8IGvP"
+      },
+      "artists": [
+        {
+          "name": "Flying Fingers",
+          "url": "https://open.spotify.com/artist/1jUIOsS9vK91Nc9qYvpEab"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203644,
+      "name": "Bad Habits - Piano Version",
+      "url": "https://open.spotify.com/track/5J4NcyOSEjvKjOaJTPtYn3"
+    },
+    {
+      "album": {
         "name": "Barbara",
         "url": "https://open.spotify.com/album/4fzpKAp5r6OcnrceQQSWds"
       },

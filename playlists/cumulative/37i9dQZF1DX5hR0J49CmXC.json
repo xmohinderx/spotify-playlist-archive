@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The Real hip-hop. Cover: Kota The Friend",
+  "description": "The Real hip-hop. Cover: Saba",
   "name": "Mind Right",
   "published_playlist_ids": [
     "3aBEPaCmxnNZhkIPP42r3z"
@@ -438,6 +438,32 @@
     },
     {
       "album": {
+        "name": "Few Good Things",
+        "url": "https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428800,
+      "name": "Few Good Things (feat. Black Thought and Eryn Allen Kane)",
+      "url": "https://open.spotify.com/track/61fQSX9Dq75oDhJbIP8v9n"
+    },
+    {
+      "album": {
         "name": "Flowers Freestyle",
         "url": "https://open.spotify.com/album/08l6QEmEjLi3tnTAJrrKy5"
       },
@@ -562,6 +588,28 @@
     },
     {
       "album": {
+        "name": "Half Moon Mornings",
+        "url": "https://open.spotify.com/album/7hpeQ0G6DCf8rQp0IHgjil"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135666,
+      "name": "Half Moon Mornings",
+      "url": "https://open.spotify.com/track/6PxSXRE9DaP49sKQOqYotC"
+    },
+    {
+      "album": {
         "name": "Hitler Wears Hermes 8: Side B",
         "url": "https://open.spotify.com/album/0KtFP56RU7bd32pcvdeWOU"
       },
@@ -581,10 +629,28 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 235737,
       "name": "Hell on Earth, Pt. 2 (feat. Benny The Butcher & Conway The Machine)",
       "url": "https://open.spotify.com/track/3vonKK5uOX4mHb22A1JLi6"
+    },
+    {
+      "album": {
+        "name": "Hustlaz",
+        "url": "https://open.spotify.com/album/7yQ5dDfqsH5y9XrVxAYKrs"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235725,
+      "name": "Hustlaz",
+      "url": "https://open.spotify.com/track/5mV02eybPC77hODuGYd054"
     },
     {
       "album": {
@@ -621,6 +687,32 @@
       "duration_ms": 177500,
       "name": "JESSE GLOVER / DAY-DATE",
       "url": "https://open.spotify.com/track/4eUlsa8528fWVDF0GWz9bi"
+    },
+    {
+      "album": {
+        "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
+        "url": "https://open.spotify.com/album/51rkfslHbM2exyR4strATb"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286503,
+      "name": "John Woo Flick (with Benny The Butcher & Westside Gunn)",
+      "url": "https://open.spotify.com/track/07Hl8YmZR1JYpEhCDqNBJA"
     },
     {
       "album": {
@@ -669,7 +761,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 214911,
       "name": "King Kong Riddim (ft BackRoad Gee)",
       "url": "https://open.spotify.com/track/52VAPaZbeCB9iib6sqDTwu"
@@ -971,7 +1063,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 219483,
       "name": "No Monsters",
       "url": "https://open.spotify.com/track/65pA1h2u8yCG8YWtw6a1cu"
@@ -1103,7 +1195,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 240957,
       "name": "Piano Love",
       "url": "https://open.spotify.com/track/7AmNgsApCocCTh9wnajhsR"
@@ -1212,6 +1304,28 @@
     },
     {
       "album": {
+        "name": "Few Good Things",
+        "url": "https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "Pivot Gang",
+          "url": "https://open.spotify.com/artist/0kDgxQlVYVecF6MCNWJTYE"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "Soldier (feat. Pivot Gang)",
+      "url": "https://open.spotify.com/track/43nJ4JDR5rbMndZoMXzsZe"
+    },
+    {
+      "album": {
         "name": "State of the Union, Pt. II",
         "url": "https://open.spotify.com/album/6A8bA2pGj7CllljsVUZTHb"
       },
@@ -1285,7 +1399,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 117226,
       "name": "THE LOOP",
       "url": "https://open.spotify.com/track/1dSQTFRuAAQSGbFlLukmD5"
@@ -1325,6 +1439,36 @@
       "duration_ms": 191791,
       "name": "Vibin Like Muhammad Inside The Bank Safe",
       "url": "https://open.spotify.com/track/1jR6qgGyo0UY0mcqoafZpH"
+    },
+    {
+      "album": {
+        "name": "Dope Don't Sell Itself",
+        "url": "https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        },
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/01988BWUnQiclJ70TTcnOq"
+        },
+        {
+          "name": "Major Myjah",
+          "url": "https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267120,
+      "name": "Vlad TV (feat. Stove God Cooks, Symba & Major Myjah)",
+      "url": "https://open.spotify.com/track/1X1a1NKvRjNA7U0jlGTHbL"
     },
     {
       "album": {
@@ -1437,7 +1581,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 150686,
       "name": "Yuri",
       "url": "https://open.spotify.com/track/31zXkSEk2PqJSLtQtCnwVm"

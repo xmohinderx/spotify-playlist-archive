@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Luis Fonsi y Manuel Turizo",
+  "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Be\u00e9le y Blessd",
   "name": "Popet\u00f3n",
   "published_playlist_ids": [
     "4GGMZcx3ZrrtspE4f42F2z"
@@ -49,6 +49,32 @@
       "duration_ms": 185263,
       "name": "ADMV - Versi\u00f3n Urbana",
       "url": "https://open.spotify.com/track/3wBKCNw7BFIalnqe4VXzdK"
+    },
+    {
+      "album": {
+        "name": "Alcanc\u00eda",
+        "url": "https://open.spotify.com/album/21FzQPHfPmEK4XLeETdC7o"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198542,
+      "name": "Alcanc\u00eda",
+      "url": "https://open.spotify.com/track/020womZSqTEXnoDptWI6mL"
     },
     {
       "album": {
@@ -141,7 +167,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 195434,
       "name": "Bachata Blue",
       "url": "https://open.spotify.com/track/4o24fPjYFIONeqAMtZIoYr"
@@ -578,6 +604,28 @@
     },
     {
       "album": {
+        "name": "Enchulao (feat. Blessd)",
+        "url": "https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215404,
+      "name": "Enchulao (feat. Blessd)",
+      "url": "https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V"
+    },
+    {
+      "album": {
         "name": "Extra\u00f1andote (Remix)",
         "url": "https://open.spotify.com/album/2XKNkQrc7QT9ouEyuk89f8"
       },
@@ -601,7 +649,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 275217,
       "name": "Extra\u00f1andote - Remix",
       "url": "https://open.spotify.com/track/0sNRkMXnwgJgGWEb1ntpHj"
@@ -653,6 +701,28 @@
       "duration_ms": 214880,
       "name": "FUMETEO - Remix",
       "url": "https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3"
+    },
+    {
+      "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/68AvzTovUyXji5gsMHKAeG"
+      },
+      "artists": [
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        },
+        {
+          "name": "Beatriz Luengo",
+          "url": "https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/1c5Jc2aaUqe6y729qjADLN"
     },
     {
       "album": {
@@ -1199,7 +1269,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 242285,
       "name": "Morena",
       "url": "https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0"
@@ -1243,7 +1313,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 231853,
       "name": "Muy Feliz - Remix",
       "url": "https://open.spotify.com/track/2gx1sn3qic8hsZxmsXgp6z"
@@ -1401,6 +1471,24 @@
       "duration_ms": 208760,
       "name": "POR ELLA",
       "url": "https://open.spotify.com/track/2fjfJqLTtNPEAUJUYuUxzZ"
+    },
+    {
+      "album": {
+        "name": "Que Nunca Sepa",
+        "url": "https://open.spotify.com/album/409j2gQB7jbyuIHQdcx8lF"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203532,
+      "name": "Que Nunca Sepa",
+      "url": "https://open.spotify.com/track/6hrC1xs7FbpJzKyaWTYTbI"
     },
     {
       "album": {

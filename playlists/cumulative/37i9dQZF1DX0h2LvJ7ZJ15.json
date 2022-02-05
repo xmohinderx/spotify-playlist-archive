@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 180636,
       "name": "100,000 problems - slowed and reverbed",
       "url": "https://open.spotify.com/track/0Qc021ixtoOecjNl3jGW4Z"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "Dream Girl - Slowed + Reverb",
       "url": "https://open.spotify.com/track/3YLKkHR4fISvRe1N34l6EJ"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 192000,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/2VQa5cBJCYWrmqZYg17ii3"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 57818,
       "name": "Fallen Down",
       "url": "https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 174886,
       "name": "floral notes - slowed + reverbed",
       "url": "https://open.spotify.com/track/64WvcIKpNx95kiHPTiijYI"
@@ -1074,6 +1074,28 @@
     },
     {
       "album": {
+        "name": "Please Don\u2019t Kill My Vibes",
+        "url": "https://open.spotify.com/album/7wZAMRDwtGZqiUDy1fxIbz"
+      },
+      "artists": [
+        {
+          "name": "ZRobb",
+          "url": "https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ"
+        },
+        {
+          "name": "Shiloh Dynasty",
+          "url": "https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208793,
+      "name": "Losing It - Slowed and Reverb",
+      "url": "https://open.spotify.com/track/3fUr3a6WI1j2zpvBm6YoD1"
+    },
+    {
+      "album": {
         "name": "loving you is a losing game",
         "url": "https://open.spotify.com/album/48yT3hsRcA3Ts3ctTNoHPy"
       },
@@ -1225,7 +1247,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 177080,
       "name": "Not Into You {slow//reverb} - Remix",
       "url": "https://open.spotify.com/track/3jQkpibAH6KQi0Nmq5Js5D"
@@ -1305,7 +1327,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 83345,
       "name": "psychic (reverbed)",
       "url": "https://open.spotify.com/track/6gcMjqMoz73UzHVquPHWt7"
@@ -1539,7 +1561,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 116842,
       "name": "Soul (Slowed Down)",
       "url": "https://open.spotify.com/track/18M3uYhVXQVPsKw88stW30"
@@ -1561,6 +1583,28 @@
       "duration_ms": 448000,
       "name": "Swing Lynn (Slowed Version)",
       "url": "https://open.spotify.com/track/3lsh4fIbGeHZDFovC0InnY"
+    },
+    {
+      "album": {
+        "name": "These Days (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/5ata1vs5hb7Zpurc5gUKKr"
+      },
+      "artists": [
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        },
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263316,
+      "name": "These Days - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/2eZEXkiZmRhbFLkU7WPhDE"
     },
     {
       "album": {
@@ -1597,7 +1641,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 197198,
       "name": "Trauma (Slowed Reverb)",
       "url": "https://open.spotify.com/track/6PcLUYCDfbeU4Byh2cqIf1"
@@ -1669,7 +1713,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 167240,
       "name": "Within These Walls - Slow Down Rework",
       "url": "https://open.spotify.com/track/5faeolAsubn6KYYTYxpFRc"

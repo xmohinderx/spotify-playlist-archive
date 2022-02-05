@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Celebrating Black Girl Magic✨ in Canada, at full volume\. Happy Black History Month! Cover: Jully Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,173 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,172 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 35 | [ROLLA](https://open.spotify.com/track/0E1ECahwlKkFkoi5uFHfRB) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [ROLLA](https://open.spotify.com/album/29FTSpA2recQP47Z4H6Qqm) | 3:52 |
 | 36 | [Same Old Mistake](https://open.spotify.com/track/0esji3PRFprTRKNAP5OASW) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Same Old Mistake](https://open.spotify.com/album/6vjaaocW1oiMF3DYwV0CRQ) | 3:15 |
 | 37 | [Nightflyer](https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:55 |
-| 38 | [Standards](https://open.spotify.com/track/1XQcnIA8QsYmNuNVUzWVMQ) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [The Best Thing](https://open.spotify.com/album/7Gw93eT5wLVQfpRVizuNka) | 2:54 |
+| 38 | [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 |
 | 39 | [Stuttering](https://open.spotify.com/track/7iMI1Z3h8H5UdKeA3rBqlP) | [Fefe Dobson](https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ) | [Joy](https://open.spotify.com/album/15qHh5U7v1DrA3Bk9M1jAu) | 3:09 |
 | 40 | [Nobody](https://open.spotify.com/track/6zgkFwTOepfVdpSqKTlwzY) | [SATE](https://open.spotify.com/artist/0TlgcutPZ6YcuakbQWBHa7) | [The Fool](https://open.spotify.com/album/1QRY1A2qQyp33rCTWpyV3W) | 2:58 |
 | 41 | [Drug Music](https://open.spotify.com/track/3crBkQTJLcR1v0xRI2LY82) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Drug Music](https://open.spotify.com/album/4siDZVuttD0t9lxvSK3cNp) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Honey](https://open.spotify.com/track/6Syx4A5TCsEWGwXktOVcHg) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/5l7N5sEr1ALaHvBuMEZ5a0) | 3:21 |
 | 50 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
 
-Snapshot ID: `MTY0Mzc3ODAwMCwwMDAwMDAxNTAwMDAwMTdlYjhjZGM0ZjgwMDAwMDE3ZWI2ZDcxMmM4`
+Snapshot ID: `MTY0Mzk1MDgwMCwwMDAwMDAxNjAwMDAwMTdlYzMxYTdkM2EwMDAwMDE3ZWI2ZDcxMmM4`

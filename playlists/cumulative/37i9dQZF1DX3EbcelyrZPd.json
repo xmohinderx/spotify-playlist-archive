@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 284016,
       "name": "Attitude (feat. H Baba & Awilo Longomba)",
       "url": "https://open.spotify.com/track/0g0hP1iIE9wndu2QySOnLj"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 197938,
       "name": "Jeshi",
       "url": "https://open.spotify.com/track/3WU4mcgDNDwvOh5yvvUkiR"
@@ -950,6 +950,24 @@
     },
     {
       "album": {
+        "name": "Mwaka Wangu",
+        "url": "https://open.spotify.com/album/132f7fl4T8pB5APju7Z36P"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/64GTboisPoAt7HLgXLB6Yk"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193879,
+      "name": "Mwaka Wangu",
+      "url": "https://open.spotify.com/track/2MDB7PF3rorpdz7oCZTVUe"
+    },
+    {
+      "album": {
         "name": "Mwambieni",
         "url": "https://open.spotify.com/album/5KWJSzOB7rysi3VT90lTAJ"
       },
@@ -1005,6 +1023,28 @@
       "duration_ms": 199308,
       "name": "Naanzaje",
       "url": "https://open.spotify.com/track/0ryJsVr3xjiaZdnCPrk9zK"
+    },
+    {
+      "album": {
+        "name": "Nakumpenda",
+        "url": "https://open.spotify.com/album/0tkAhCJgYZdKLiCIzQQJpO"
+      },
+      "artists": [
+        {
+          "name": "diamond platnumz",
+          "url": "https://open.spotify.com/artist/1HuX2zGY0HfygtVg0AmA8l"
+        },
+        {
+          "name": "jd muliki",
+          "url": "https://open.spotify.com/artist/2cqAJuc0T3yYDGM1HJlvrl"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206866,
+      "name": "Nakumpenda",
+      "url": "https://open.spotify.com/track/262sNgqKP7SVpyDODmKdV7"
     },
     {
       "album": {

@@ -728,6 +728,24 @@
     },
     {
       "album": {
+        "name": "El Mirador",
+        "url": "https://open.spotify.com/album/0G9Bc2RYNUkCjUFK4zWKlX"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218773,
+      "name": "El Mirador",
+      "url": "https://open.spotify.com/track/6HQgUBaY6RbmmrXRER8y8E"
+    },
+    {
+      "album": {
         "name": "Everybody (feat. Jenny Lewis)",
         "url": "https://open.spotify.com/album/2UJQBQGLVhmnt8qVIVZshO"
       },
@@ -934,6 +952,24 @@
     },
     {
       "album": {
+        "name": "Get What You Want",
+        "url": "https://open.spotify.com/album/1QujFDWoU7kZy31k7r5vwd"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271426,
+      "name": "Get What You Want",
+      "url": "https://open.spotify.com/track/6sUOIfXOVPadEdWa3Otr0Y"
+    },
+    {
+      "album": {
         "name": "Total Freedom",
         "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
       },
@@ -1097,6 +1133,28 @@
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/6lJ6Tbyfhd4mKMSQOIxzJV"
+    },
+    {
+      "album": {
+        "name": "Hooray Hooray",
+        "url": "https://open.spotify.com/album/49WXct9dVEokilWT2A7muj"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259946,
+      "name": "Hooray Hooray",
+      "url": "https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu"
     },
     {
       "album": {
@@ -1321,7 +1379,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 242809,
       "name": "Know That I Know",
       "url": "https://open.spotify.com/track/4XHYJpbZL8ytyoZ5olW4nP"
@@ -1803,7 +1861,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 210613,
       "name": "Paducah",
       "url": "https://open.spotify.com/track/4VmDr13LpbbL1l1rOru8qA"
@@ -2030,6 +2088,28 @@
     },
     {
       "album": {
+        "name": "Resentment (New Feelings Version)",
+        "url": "https://open.spotify.com/album/5c0IIUPmCzuIbx4KLgjLGv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172520,
+      "name": "Resentment (New Feelings Version)",
+      "url": "https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g"
+    },
+    {
+      "album": {
         "name": "RHODODENDRON",
         "url": "https://open.spotify.com/album/0jd1zjfrmUwnYgKaHU0WSp"
       },
@@ -2205,7 +2285,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 168973,
       "name": "Some Things Happen",
       "url": "https://open.spotify.com/track/25IU8KLCfdDuTTdf6XzIhO"
@@ -2335,7 +2415,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 194373,
       "name": "Surfboard",
       "url": "https://open.spotify.com/track/6vOCld6YP52WjVal0LoVii"
@@ -2741,7 +2821,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 224583,
       "name": "To All the Girls I've Loved Before",
       "url": "https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb"
@@ -2977,6 +3057,24 @@
       "duration_ms": 169813,
       "name": "Wildest Dream",
       "url": "https://open.spotify.com/track/5YmEX0jmnkxNNg8vJsvbPN"
+    },
+    {
+      "album": {
+        "name": "Wise River",
+        "url": "https://open.spotify.com/album/6mO5zwMf0C8msEZSP8P05P"
+      },
+      "artists": [
+        {
+          "name": "Kitchen Dwellers",
+          "url": "https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233613,
+      "name": "Wise River",
+      "url": "https://open.spotify.com/track/4vWyfagrb0TMBLrdm0ppT9"
     },
     {
       "album": {

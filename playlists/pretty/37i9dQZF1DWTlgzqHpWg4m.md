@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 
 > Bands from and songs about The Golden State\. Here's your playlist for California Dreamin'
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,961 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,022 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 | 21 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/2G8IHtLBcgu2GXTwq0iB4Y) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/0rHpaRGtupLUoicwwVSi4J) | 2:57 |
 | 22 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 |
 | 23 | [California \- Tchad Blake Mix](https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [The Guest](https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD) | 3:13 |
-| 24 | [California English Pt\. 2](https://open.spotify.com/track/2U90b6durzAnQZgIjWdhjP) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [California English Pt\. 2](https://open.spotify.com/album/2nVR6ITkUTU0PgpyqWD5M9) | 2:56 |
+| 24 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
 | 25 | [All Star](https://open.spotify.com/track/22c2pt75xtnDddA5Zlm0yy) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [All Star Smash Hits](https://open.spotify.com/album/44zMHQz2GkFUEifL4DuDNY) | 3:20 |
 | 26 | [Somewhere I Belong](https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 3:33 |
 | 27 | [Loser](https://open.spotify.com/track/4b8GTae6rqb9oPiRzVa3Gy) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/7MKi8PuCX5QJtaG9wLbOI2) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlgzqHpWg4m.md) - [plain]
 | 74 | [The Outsider](https://open.spotify.com/track/6CqYhhUPJORx1vvdTNc8jv) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Thirteenth Step](https://open.spotify.com/album/49K6hYDEr5M3GxIBBxlPf9) | 4:06 |
 | 75 | [California](https://open.spotify.com/track/7MdqStZphq1x5yTXfqgD5U) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Swan Songs](https://open.spotify.com/album/2UYxjXHKm1JDT6JA7OSeR6) | 3:16 |
 
-Snapshot ID: `MTYyNzUwMjQ0MiwwMDAwMDAzOTAwMDAwMTdhZWViNDc5Y2EwMDAwMDE2Y2Y2OTI5Y2Vi`
+Snapshot ID: `MTY0Mzk1MDg2MCwwMDAwMDAzYTAwMDAwMTdlYzMxYjY3NzYwMDAwMDE2Y2Y2OTI5Y2Vi`

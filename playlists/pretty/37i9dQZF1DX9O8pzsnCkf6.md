@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8pzsnCkf6.md) - [plain]
 
 > A collection of sessions from some of the best comedians of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,891 likes - 146 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,897 likes - 146 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8pzsnCkf6.md) - [plain]
 | 5 | [Rudy](https://open.spotify.com/track/2hObyBxqVTZ3YIWHj4orDu) | [Cameron Esposito](https://open.spotify.com/artist/4nhlYI8HVe4BmpJDsNkT5X) | [Marriage Material](https://open.spotify.com/album/3aFnPqDjw0088KHVngoYWK) | 4:18 |
 | 6 | [Comedy Death Ray](https://open.spotify.com/track/7jxUvfjrmAt6xj0LXIAQby) | [Mindy Kaling](https://open.spotify.com/artist/6QdHu2GqGkqM6ilUpkTEn7) | [Comedy Death Ray](https://open.spotify.com/album/1nXjYSKB4TMY4yMtRjK2tl) | 4:19 |
 | 7 | [The female brain](https://open.spotify.com/track/6hmx9X7xA2d3zQXXl8H45N) | [Whitney Cummings](https://open.spotify.com/artist/5nrXNyP5XC1DIgN1CPycmy) | [I Love You](https://open.spotify.com/album/4sJv8vpMFow4y3khAqQYCk) | 2:16 |
-| 8 | [Real Butcher](https://open.spotify.com/track/0595kioxxL2vjY3VWzutfv) | [Rhea Butcher](https://open.spotify.com/artist/75bmG67EtUmq3uR7UFbh4I) | [Butcher](https://open.spotify.com/album/1ycj0TU6dwFCSLA8NEdKvP) | 2:43 |
-| 9 | [Haircuts and Flight Attendants](https://open.spotify.com/track/7MiPtkBHIZD24d3IVhB8Vh) | [Rhea Butcher](https://open.spotify.com/artist/75bmG67EtUmq3uR7UFbh4I) | [Butcher](https://open.spotify.com/album/1ycj0TU6dwFCSLA8NEdKvP) | 5:10 |
-| 10 | [7\-11 and Lighters](https://open.spotify.com/track/2K949X746fFC0ab3CcHXnS) | [Rhea Butcher](https://open.spotify.com/artist/75bmG67EtUmq3uR7UFbh4I) | [Butcher](https://open.spotify.com/album/1ycj0TU6dwFCSLA8NEdKvP) | 2:22 |
-| 11 | [Bicycles and Baseball](https://open.spotify.com/track/4kEmIkUry8dh8q0IS0LYnM) | [Rhea Butcher](https://open.spotify.com/artist/75bmG67EtUmq3uR7UFbh4I) | [Butcher](https://open.spotify.com/album/1ycj0TU6dwFCSLA8NEdKvP) | 4:56 |
+| 8 | [Real Butcher](https://open.spotify.com/track/0595kioxxL2vjY3VWzutfv) | [River Butcher](https://open.spotify.com/artist/75bmG67EtUmq3uR7UFbh4I) | [Butcher](https://open.spotify.com/album/1ycj0TU6dwFCSLA8NEdKvP) | 2:43 |
+| 9 | [Haircuts and Flight Attendants](https://open.spotify.com/track/7MiPtkBHIZD24d3IVhB8Vh) | [River Butcher](https://open.spotify.com/artist/75bmG67EtUmq3uR7UFbh4I) | [Butcher](https://open.spotify.com/album/1ycj0TU6dwFCSLA8NEdKvP) | 5:10 |
+| 10 | [7\-11 and Lighters](https://open.spotify.com/track/2K949X746fFC0ab3CcHXnS) | [River Butcher](https://open.spotify.com/artist/75bmG67EtUmq3uR7UFbh4I) | [Butcher](https://open.spotify.com/album/1ycj0TU6dwFCSLA8NEdKvP) | 2:22 |
+| 11 | [Bicycles and Baseball](https://open.spotify.com/track/4kEmIkUry8dh8q0IS0LYnM) | [River Butcher](https://open.spotify.com/artist/75bmG67EtUmq3uR7UFbh4I) | [Butcher](https://open.spotify.com/album/1ycj0TU6dwFCSLA8NEdKvP) | 4:56 |
 | 12 | [Greenroom: Rachel and Amy](https://open.spotify.com/track/0uEmXABtvrPc3GQmiACRdh) | [Rachel Feinstein](https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X) | [Only Whores Wear Purple](https://open.spotify.com/album/3HhzJ6WXz2PyYKdR2Dq23O) | 1:09 |
 | 13 | [Dirty Picture](https://open.spotify.com/track/6nrVswFYuxcx8k1o2qx2Tn) | [Rachel Feinstein](https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X) | [Only Whores Wear Purple](https://open.spotify.com/album/3HhzJ6WXz2PyYKdR2Dq23O) | 2:54 |
 | 14 | [Dick Pics](https://open.spotify.com/track/4wrAQkDdJEe47gG0POLG1G) | [Rachel Feinstein](https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X) | [Only Whores Wear Purple](https://open.spotify.com/album/3HhzJ6WXz2PyYKdR2Dq23O) | 2:20 |

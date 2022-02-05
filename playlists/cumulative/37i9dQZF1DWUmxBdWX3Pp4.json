@@ -726,6 +726,28 @@
     },
     {
       "album": {
+        "name": "Dripeando",
+        "url": "https://open.spotify.com/album/4tg4Sy7PgIkiMgMzEDEdWq"
+      },
+      "artists": [
+        {
+          "name": "Falke 912",
+          "url": "https://open.spotify.com/artist/2UGqLkLUByrbH1P7d9ThUo"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186352,
+      "name": "Dripeando",
+      "url": "https://open.spotify.com/track/2x1s3TXM1fvVzCAd1Suf4T"
+    },
+    {
+      "album": {
         "name": "D\u00eda De Pago",
         "url": "https://open.spotify.com/album/267aSH2QW3J5PwVuq1NxJe"
       },
@@ -763,7 +785,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 214436,
       "name": "El Gran Robo, Pt. 2",
       "url": "https://open.spotify.com/track/7oqxgOFRoLx9uDfgcMxkNa"
@@ -1209,6 +1231,28 @@
       "duration_ms": 184200,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/4ftH6O3bvfEB4EO04K2xIM"
+    },
+    {
+      "album": {
+        "name": "Joder",
+        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149300,
+      "name": "Joder",
+      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
     },
     {
       "album": {
@@ -2411,7 +2455,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 141407,
       "name": "TOLKIN YIT",
       "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
@@ -2521,6 +2565,28 @@
       "duration_ms": 182594,
       "name": "YaMeFui",
       "url": "https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij"
+    },
+    {
+      "album": {
+        "name": "Zona Pistola",
+        "url": "https://open.spotify.com/album/6S9WkhYhjNzBYhkDDqH1Qf"
+      },
+      "artists": [
+        {
+          "name": "ForyFive",
+          "url": "https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq"
+        },
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176567,
+      "name": "Zona Pistola",
+      "url": "https://open.spotify.com/track/49B9zwKFTKtLf1FcbNVShf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUmxBdWX3Pp4"

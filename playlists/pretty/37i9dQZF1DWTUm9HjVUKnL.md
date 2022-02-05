@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Spotify Singles\. Like nothing you’ve heard before\.  Cover: Lewis Capaldi, Miguel, and Maggie Rogers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,124 likes - 700 songs - 1 day 19 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,131 likes - 700 songs - 1 day 19 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [See\-Line Woman \- Spotify Singles](https://open.spotify.com/track/5QTZD7iE8OARObb9egyphr) | [Manizha](https://open.spotify.com/artist/1Y53ZUhXBydAzILo4Qa0s1) | [Spotify Singles](https://open.spotify.com/album/221ORmKMPS8LdMDs3xcSFk) | 3:06 |
 | 2 | [Now or Never \(acoustic\) \- Spotify Singles](https://open.spotify.com/track/6l7aENe2NY59cE81GUqNwe) | [Manizha](https://open.spotify.com/artist/1Y53ZUhXBydAzILo4Qa0s1) | [Spotify Singles](https://open.spotify.com/album/221ORmKMPS8LdMDs3xcSFk) | 3:29 |
-| 3 | [Imagina A Sentada \- Ao Vivo / Versão Pisadinha](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada \(Ao Vivo / Versão Pisadinha\)](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 |
+| 3 | [Imagina A Sentada \- Versão Pisadinha](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada \(Versão Pisadinha\)](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 |
 | 4 | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf), [DJ Lucas Beat](https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE) | [Não Que Eu Vá \- Spotify Singles](https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL) | 2:22 |
 | 5 | [Los Caminos de la Vida \- Spotify Singles](https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Caminos de la Vida \(Spotify Singles\)](https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5) | 5:28 |
 | 6 | [Until It Stops \- Spotify Singles](https://open.spotify.com/track/0dN85vbuUdU7Hnu0hLZHsN) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Until It Stops \(Spotify Singles\)](https://open.spotify.com/album/6EmA1GZ0KIb5cpXBOrIB5y) | 2:36 |

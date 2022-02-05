@@ -2,7 +2,7 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 
-> O melhor do sertanejo em uma só playlist! Foto: Matheus & Kauan
+> O melhor do sertanejo em uma só playlist! Foto: Hugo & Guilherme, Marília Mendonça
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Dar uma Namorada \- Ao Vivo](https://open.spotify.com/track/2PZmUFZGlUqkYJL0s0Cl6C) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 1](https://open.spotify.com/album/1nttpPXU88Llqwed7qJ19a) | 2:09 | 2021-12-31 |  |
 | [Desbloqueado \- Ao Vivo](https://open.spotify.com/track/66HWIQEq6xO0IZ47AHrybG) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Desbloqueado \(Ao Vivo\)](https://open.spotify.com/album/3RwNnn4Uy7gJlmy0TTWD1m) | 3:08 | 2021-12-31 |  |
 | [Ela e Ela](https://open.spotify.com/track/5Yu1AOnIzC1tWRJ4U0uW7u) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:48 | 2021-12-31 |  |
-| [Erro do Ficante \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/4nDOZT5fC3sUxP7UgjEd57) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Erro do Ficante \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/21wcJSlfv1KBvNYRIPtx0G) | 2:45 | 2022-01-21 |  |
+| [Erro do Ficante \- Ao Vivo No Casa Filtr](https://open.spotify.com/track/4nDOZT5fC3sUxP7UgjEd57) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Erro do Ficante \(Ao Vivo No Casa Filtr\)](https://open.spotify.com/album/21wcJSlfv1KBvNYRIPtx0G) | 2:45 | 2022-01-21 | 2022-02-05 |
 | [Esqueça\-Me Se For Capaz](https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 2:49 | 2021-12-31 |  |
 | [Esse Barulho](https://open.spotify.com/track/67fTDdGkHk1G5IZokS4uML) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Pra Ouvir Tomando uma 3, Vol\. 1](https://open.spotify.com/album/3hJSkysKvEixdL54qbpj5m) | 2:24 | 2022-01-28 |  |
 | [Estelionato Afetivo \- Ao Vivo](https://open.spotify.com/track/0m6XpDgZSyqyCg0HKOCaO8) | [Douglas & Vinicius](https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Estelionato Afetivo \(Ao Vivo\)](https://open.spotify.com/album/6b9kRGac9mBHA2YJRVMzOT) | 2:52 | 2021-12-31 |  |
@@ -34,6 +34,7 @@
 | [Localiza Aí BB](https://open.spotify.com/track/6fe5D0ivKnpXFMAnoSRjah) | [Vitor e Luan](https://open.spotify.com/artist/5hDZAExrfOVqKBLS8Ofyac), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Localiza Aí BB](https://open.spotify.com/album/31UJICytrUt0Y9NqSxnwHI) | 2:25 | 2021-12-31 |  |
 | [Mal Feito \- Ao Vivo](https://open.spotify.com/track/5719MEdRQcH4c3phXqX7WN) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Mal Feito \(Ao Vivo\)](https://open.spotify.com/album/6wM2qL8ddXGiEMPy44Wt8I) | 2:57 | 2022-01-17 |  |
 | [Me Ame Mais](https://open.spotify.com/track/4iavXH4dDUMA8yAabnUhSI) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tudo Em Paz](https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL) | 3:49 | 2021-12-31 | 2022-01-17 |
+| [Melhor Ser uma Saudade](https://open.spotify.com/track/6Lk3kU7JcQ5dZ7jbmhJzQN) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Tarja Preta, Ep\. 1](https://open.spotify.com/album/5BDWrnqQRfs2wSre2V7GbY) | 2:38 | 2022-02-04 |  |
 | [Modo Avião \- Ao Vivo](https://open.spotify.com/track/7m9Hr6qAquvk6nNFtBIlM0) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3) | [Modo Avião \(Ao Vivo\)](https://open.spotify.com/album/1DSGVugkg3B6vZsw7lcs3n) | 2:40 | 2021-12-31 |  |
 | [Molhando o Volante](https://open.spotify.com/track/3ITkrUvAA6gzxer2UIom3P) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Molhando o Volante](https://open.spotify.com/album/27M30wcfpfaDbTPeTI1H9l) | 2:42 | 2021-12-31 |  |
 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 | 2021-12-31 |  |

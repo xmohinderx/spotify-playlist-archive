@@ -4186,6 +4186,24 @@
     },
     {
       "album": {
+        "name": "The Girls Are Fighting",
+        "url": "https://open.spotify.com/album/3xt9SJ3g3ieRV3C2Om8Mws"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181520,
+      "name": "The Girls Are Fighting - Edit",
+      "url": "https://open.spotify.com/track/7F1dxj9sEAHy4SsGIHARGq"
+    },
+    {
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,075 likes - 42 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,138 likes - 42 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 | 12 | [Chopin: 24 Preludes Op\. 28: No\. 15 in D\-Flat Major, "Raindrop"](https://open.spotify.com/track/4q8f3Ls32PcXE8Ks4V1ufx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Nikolai Lugansky](https://open.spotify.com/artist/2bMfnyPOgNaeK8WNnXNXud) | [Chopin : Preludes, Ballades Nos 3 & 4, Nocturnes](https://open.spotify.com/album/3X90hTqv31ElSXpLz4EC8v) | 5:48 |
 | 13 | [Chopin: Mazurka No\. 41 in C\-Sharp Minor, Op\. 63 No\. 3](https://open.spotify.com/track/088OWVKqW0SPLbv7f78SUc) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Chopin "journal intime"](https://open.spotify.com/album/6Tl9QkeaAqtpHvdhvjcSxz) | 2:37 |
 | 14 | [Chopin: Nocturne No\. 21 in C Minor, Op\. Posth.](https://open.spotify.com/track/4enYj5VBLp4qYox1BS6G3k) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Elisabeth Leonskaja](https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8) | [Chopin: Nocturnes \[Complete\]](https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb) | 3:45 |
-| 15 | [Berceuse in D flat, Op\. 57](https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [Chopin Gold](https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif) | 4:52 |
+| 15 | [Berceuse in D Flat Major, Op\. 57](https://open.spotify.com/track/38J3F2EqXt9DnRstJiziTJ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [Chopin Gold](https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif) | 4:52 |
 | 16 | [Valse No\. 1 en La bémol majeur, Op\. 69](https://open.spotify.com/track/2GsXE49M5f126iuAFurXcq) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Chopin: Intégrale des valses](https://open.spotify.com/album/5COrc0P5XfGZrbHM2UH6Fy) | 3:00 |
 | 17 | [Nocturne No\. 19 in E Minor, Op\. 72, No\. 1](https://open.spotify.com/track/64LTn5fTsPR0QLy7bVYl9w) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Benjamin Grosvenor: Chopin, Liszt, Ravel](https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw) | 4:01 |
 | 18 | [Mazurka No\. 43 in G Minor, Op\. 67, No\. 2](https://open.spotify.com/track/2kdzG37VTbJRtCSfgqtrLB) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Janina Fialkowska](https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32) | [Chopin: Complete Mazurkas](https://open.spotify.com/album/687yf7THjQUVpIKMJhVGsb) | 2:09 |

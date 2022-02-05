@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "All the Way",
+        "url": "https://open.spotify.com/album/5gF6ODODJ89NIuvLVCc14x"
+      },
+      "artists": [
+        {
+          "name": "Bark Point.",
+          "url": "https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142646,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/0JDlDoYQi0MDJMHEwulRF4"
+    },
+    {
+      "album": {
         "name": ".-..",
         "url": "https://open.spotify.com/album/2V1FvKvcKEsYNHXW1wXNHU"
       },

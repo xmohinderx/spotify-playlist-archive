@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX27DJRLhzQiD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX27DJRLhzQiD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX27DJRLhzQiD)
 
-### [EQUAL Andes](https://open.spotify.com/playlist/5fIhuZNQG8rHmfjVOfovpF)
+### [EQUAL Andes](https://open.spotify.com/playlist/4ig5nNsfONZJzmj3q1Nolg)
 
 > Evaluna Montaner y más mujeres, a todo volumen.
 

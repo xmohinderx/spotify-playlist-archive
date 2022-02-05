@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Toro y Moi",
+  "description": "Genre-less. Quality first always. Cover: Arlo Parks",
   "name": "POLLEN",
   "published_playlist_ids": [
     "0satjjBJ2wfilttyMYfCS7"
@@ -3882,7 +3882,7 @@
     },
     {
       "album": {
-        "name": "Breakfast",
+        "name": "breakfast",
         "url": "https://open.spotify.com/album/1B1Cj7rG8nQ8KdQ5FSYZNc"
       },
       "artists": [
@@ -3895,7 +3895,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 192857,
-      "name": "Breakfast",
+      "name": "breakfast",
       "url": "https://open.spotify.com/track/7I2hbb8rsTvJR5PtaywRkv"
     },
     {
@@ -12750,6 +12750,24 @@
     },
     {
       "album": {
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205026,
+      "name": "In-between and Overseas",
+      "url": "https://open.spotify.com/track/6cUdw19oUUBNpRafkJ0nYs"
+    },
+    {
+      "album": {
         "name": "Incendio",
         "url": "https://open.spotify.com/album/4cmrJPAbJQuBpGPIKbHzfQ"
       },
@@ -13221,6 +13239,24 @@
       "duration_ms": 205893,
       "name": "It's Nice to Be Alive",
       "url": "https://open.spotify.com/track/0ufCBxOl6vL8Yhcu2Jl2a4"
+    },
+    {
+      "album": {
+        "name": "It's Ok (It's Not Ok)",
+        "url": "https://open.spotify.com/album/3vm61MRxePI3c1FiFuJxn0"
+      },
+      "artists": [
+        {
+          "name": "Mindchatter",
+          "url": "https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186275,
+      "name": "It's Ok (It's Not Ok)",
+      "url": "https://open.spotify.com/track/5I1pqWYuCCNZxmqCO2gGuu"
     },
     {
       "album": {
@@ -15383,6 +15419,24 @@
       "duration_ms": 138312,
       "name": "LUMBERJACK",
       "url": "https://open.spotify.com/track/64v1g2HcPumBz2Wd1rT56b"
+    },
+    {
+      "album": {
+        "name": "Luv Like",
+        "url": "https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186025,
+      "name": "Luv Like",
+      "url": "https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c"
     },
     {
       "album": {
@@ -18630,7 +18684,7 @@
     },
     {
       "album": {
-        "name": "Pieces",
+        "name": "pieces",
         "url": "https://open.spotify.com/album/3BsWqi1hnJEpOthdL1wMtk"
       },
       "artists": [
@@ -18643,7 +18697,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164163,
-      "name": "Pieces",
+      "name": "pieces",
       "url": "https://open.spotify.com/track/3uxvPA68MMOEdkxS4QdlPg"
     },
     {
@@ -22591,6 +22645,32 @@
       "duration_ms": 353898,
       "name": "Stiffness",
       "url": "https://open.spotify.com/track/2Pu2q4i2DQSjJZiMuWyAEU"
+    },
+    {
+      "album": {
+        "name": "Few Good Things",
+        "url": "https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225546,
+      "name": "Still (feat. 6LACK and Smino)",
+      "url": "https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS"
     },
     {
       "album": {

@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 191360,
       "name": "A Certain Shade of Green",
       "url": "https://open.spotify.com/track/6zU4ims9oVbprKkjpdGD5c"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 63271,
       "name": "Ambush",
       "url": "https://open.spotify.com/track/6hHrv8AMpsc5tWuBTuKSAt"
@@ -181,10 +181,28 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 267773,
       "name": "Big House Burning",
       "url": "https://open.spotify.com/track/1oDTpyhLChK7JpnRbbYNqC"
+    },
+    {
+      "album": {
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
       "album": {
@@ -361,7 +379,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 241680,
       "name": "Crack Killed Applejack - Gravy Booty Mix",
       "url": "https://open.spotify.com/track/2SrJ0Quef9Lkv0aIKPWEBY"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 247693,
       "name": "Fire",
       "url": "https://open.spotify.com/track/19pM2X8hdrLb8YW0WegADR"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2020-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 264306,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/4uNr9f4s35mXouHntXwVl6"
@@ -728,6 +746,60 @@
     },
     {
       "album": {
+        "name": "Feed the Wolf",
+        "url": "https://open.spotify.com/album/721D2mVjM26irnIos8qL6Y"
+      },
+      "artists": [
+        {
+          "name": "Miss Velvet and the Blue Wolf",
+          "url": "https://open.spotify.com/artist/4BN7XfgaoYfXuwwZk5Bd0z"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "Miss Velvet",
+          "url": "https://open.spotify.com/artist/69dhX9UsXOSbt9gjxv1wAZ"
+        },
+        {
+          "name": "Constance Hauman",
+          "url": "https://open.spotify.com/artist/7nC3KBioN9j5rW7NnO8Tjc"
+        },
+        {
+          "name": "Nick Carbone",
+          "url": "https://open.spotify.com/artist/7KgTvOst3yl6Ec8mX7IICZ"
+        },
+        {
+          "name": "Henry Ott",
+          "url": "https://open.spotify.com/artist/6dvid0Q11DXNyBHHZku14g"
+        },
+        {
+          "name": "James Jones",
+          "url": "https://open.spotify.com/artist/3smWt8mx56gpWWxXTO3lr3"
+        },
+        {
+          "name": "Timothy Robinson",
+          "url": "https://open.spotify.com/artist/1GsTYnEhohijcX3NlYLHcO"
+        },
+        {
+          "name": "Trevor Neumann",
+          "url": "https://open.spotify.com/artist/2LsCwtGsKLJKvTNRqWqHps"
+        },
+        {
+          "name": "Dan Levine",
+          "url": "https://open.spotify.com/artist/0xyrRdfJsyhoRmcTyzieYG"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252710,
+      "name": "Nasty Freak",
+      "url": "https://open.spotify.com/track/7jQLyEWfWHcSzrVPezlCO8"
+    },
+    {
+      "album": {
         "name": "Porno For Pyros",
         "url": "https://open.spotify.com/album/1wTVRmgk25jTh6VsrxCFDr"
       },
@@ -779,6 +851,24 @@
       "duration_ms": 304333,
       "name": "Politicalamity",
       "url": "https://open.spotify.com/track/7fyHrLP3XxlVjHZHtgeWVe"
+    },
+    {
+      "album": {
+        "name": "Preacher",
+        "url": "https://open.spotify.com/album/4SyVePkSezv4jAwvV4HBxQ"
+      },
+      "artists": [
+        {
+          "name": "Paulo Mendonca",
+          "url": "https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223726,
+      "name": "Preacher",
+      "url": "https://open.spotify.com/track/7LX79SGY8tO1iJz2S0xUMJ"
     },
     {
       "album": {
@@ -1233,6 +1323,24 @@
       "duration_ms": 289893,
       "name": "What Time Is It?",
       "url": "https://open.spotify.com/track/3PoEcTE8L23vYlAbIYbtHA"
+    },
+    {
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319466,
+      "name": "Who Really Are the Monsters?",
+      "url": "https://open.spotify.com/track/3w1m4uW4EgWAxXyoKKUHDw"
     },
     {
       "album": {

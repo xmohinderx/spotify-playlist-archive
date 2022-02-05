@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Josh Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,763 likes - 115 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,765 likes - 115 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 114 | [Can't Miss You Anymore](https://open.spotify.com/track/5DumfXKfywbfbhKWU09BZh) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Can't Miss You Anymore](https://open.spotify.com/album/0BhxONDOnJESzV6x6Md7tx) | 2:52 |
 | 115 | [How Many Hangovers](https://open.spotify.com/track/7gSrde7a8HByZovujKZGfi) | [Baker Grissom](https://open.spotify.com/artist/33oGwiMtijTES49M0gJAEG) | [How Many Hangovers](https://open.spotify.com/album/1x3VIAjZ4s9HAIvqyP5Kxk) | 2:45 |
 
-Snapshot ID: `MTY0MzY5MTYwMCwwMDAwMDQwMTAwMDAwMTdlYjNhNzY5MzIwMDAwMDE3ZWIyYWU3M2I2`
+Snapshot ID: `MTY0Mzk1MDg2MCwwMDAwMDQwMjAwMDAwMTdlYzMxYjY3NGIwMDAwMDE3ZWIyYWU3M2I2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "All new, all jazz. <a href=\"spotify:genre:0JQ5IMCbQBLmUyU8VyapEr\">Click here for more new jazz.</a> Cover: Nicholas Payton",
+  "description": "All new, all jazz. <a href=\"spotify:genre:0JQ5IMCbQBLmUyU8VyapEr\">Click here for more new jazz.</a> Cover: Walter Smith III",
   "name": "All New Jazz",
   "published_playlist_ids": [
     "0siys22nGZQAi8UglzoSEO"
@@ -462,6 +462,32 @@
     },
     {
       "album": {
+        "name": "Blacky's Blues",
+        "url": "https://open.spotify.com/album/5juq6SPJFoyBSwFZ2ajz7x"
+      },
+      "artists": [
+        {
+          "name": "Alberto Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5tJAglV5RDuvQTCpBxeQ28"
+        },
+        {
+          "name": "Jeff Ballard",
+          "url": "https://open.spotify.com/artist/76q6tJ5SRqReZwwCfdzr4I"
+        },
+        {
+          "name": "Lou Lecaudey",
+          "url": "https://open.spotify.com/artist/5hUdNFtVf3ZHuSM1WBwag1"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375640,
+      "name": "Blacky's Blues",
+      "url": "https://open.spotify.com/track/4ZXCbE917ThaC9AFCwHOFM"
+    },
+    {
+      "album": {
         "name": "Blue For You",
         "url": "https://open.spotify.com/album/0ate7tfSz0ilY0OEq8vKu9"
       },
@@ -567,6 +593,28 @@
       "duration_ms": 283640,
       "name": "Catacombs",
       "url": "https://open.spotify.com/track/3L2WZYKE58IGJkQPPYtn6m"
+    },
+    {
+      "album": {
+        "name": "Chandler",
+        "url": "https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        },
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221129,
+      "name": "Chandler",
+      "url": "https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK"
     },
     {
       "album": {
@@ -690,6 +738,32 @@
     },
     {
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1fJ25TWUjwU41frhrkSd8y"
+      },
+      "artists": [
+        {
+          "name": "Nils W\u00fclker",
+          "url": "https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        },
+        {
+          "name": "Patrick Hahn",
+          "url": "https://open.spotify.com/artist/31BzMXuwWSXeEDfmr8KKnK"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329933,
+      "name": "Continuum",
+      "url": "https://open.spotify.com/track/1QbtU6RTj7YoFnjyNlm7na"
+    },
+    {
+      "album": {
         "name": "Coventry Carol",
         "url": "https://open.spotify.com/album/1rpE5mlMHnreq8d6IrVRY5"
       },
@@ -741,6 +815,24 @@
       "duration_ms": 269533,
       "name": "Dirty Horse, Pt. 2",
       "url": "https://open.spotify.com/track/1BYvys5Qle4wOxlU897fEa"
+    },
+    {
+      "album": {
+        "name": "Dolce",
+        "url": "https://open.spotify.com/album/0JfBweIlKQCGCr8EUB10xH"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/2IfSfzkwE607OM1p5gg4cl"
     },
     {
       "album": {
@@ -1047,6 +1139,24 @@
       "duration_ms": 529973,
       "name": "Feed Infinite",
       "url": "https://open.spotify.com/track/3VfcWdXUfDgGTwqKgHdQcp"
+    },
+    {
+      "album": {
+        "name": "Fisherman's Wharf",
+        "url": "https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx"
+      },
+      "artists": [
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229946,
+      "name": "Fisherman's Wharf",
+      "url": "https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq"
     },
     {
       "album": {
@@ -1458,6 +1568,36 @@
     },
     {
       "album": {
+        "name": "Interlude",
+        "url": "https://open.spotify.com/album/5uDB6q4gsxOkxOt1DYYq8b"
+      },
+      "artists": [
+        {
+          "name": "Arkadia Jazz All-Stars",
+          "url": "https://open.spotify.com/artist/6zvf7WeBSm26ESYpE9amLc"
+        },
+        {
+          "name": "Billy Taylor",
+          "url": "https://open.spotify.com/artist/2jiQ4lRvpc4ZTtUFMB3dGF"
+        },
+        {
+          "name": "Chip Jackson",
+          "url": "https://open.spotify.com/artist/2mSebKuwUQPf01fA9wXY00"
+        },
+        {
+          "name": "Steve Johns",
+          "url": "https://open.spotify.com/artist/0RCRGDg0pxsMORRi8pHMI4"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361978,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/06eSw85Mql1G4UjhgxCTAh"
+    },
+    {
+      "album": {
         "name": "Isn't It Romantic?",
         "url": "https://open.spotify.com/album/2aUFk5CmrCyXhkFIG2WP7b"
       },
@@ -1473,6 +1613,48 @@
       "duration_ms": 279775,
       "name": "Isn't It Romantic?",
       "url": "https://open.spotify.com/track/5PWrMJPwBFyCif6uTtmG47"
+    },
+    {
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/2Kz7AVPKuddt9lmX0juPWS"
+      },
+      "artists": [
+        {
+          "name": "Yuto Kanazawa",
+          "url": "https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC"
+        },
+        {
+          "name": "Justus Heher",
+          "url": "https://open.spotify.com/artist/0yMJoO3Z1jIxZdk6nZd0P8"
+        },
+        {
+          "name": "The Woodsiders Collective",
+          "url": "https://open.spotify.com/artist/3GWsbX6rA41kjhrhCP0Wqx"
+        },
+        {
+          "name": "Luis Sig\u00fcenza",
+          "url": "https://open.spotify.com/artist/3xDs547f3Xg4cNGt1eT1ql"
+        },
+        {
+          "name": "Andrew McGowan",
+          "url": "https://open.spotify.com/artist/0pf9I7PKAv7OZzNYcF300Y"
+        },
+        {
+          "name": "Leonardo Catricala",
+          "url": "https://open.spotify.com/artist/0uiuA9l78oEUdbda2Debls"
+        },
+        {
+          "name": "Ilya Dynov",
+          "url": "https://open.spotify.com/artist/5kyy6jzDQlqyCmSHCEO3gj"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Isolation",
+      "url": "https://open.spotify.com/track/3f9TdilQFJubqYeoUGqU3b"
     },
     {
       "album": {
@@ -1577,6 +1759,24 @@
       "duration_ms": 409546,
       "name": "Jump",
       "url": "https://open.spotify.com/track/646oAqLol7y3D4HYRy5fKV"
+    },
+    {
+      "album": {
+        "name": "Just Coolin\u2019",
+        "url": "https://open.spotify.com/album/1foQFrVtku49UFDayrWuNa"
+      },
+      "artists": [
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408240,
+      "name": "Just Coolin\u2019",
+      "url": "https://open.spotify.com/track/1nvGD6MpBrI0tSwiGIcZxQ"
     },
     {
       "album": {
@@ -1734,6 +1934,28 @@
     },
     {
       "album": {
+        "name": "Giulia",
+        "url": "https://open.spotify.com/album/23eKeozrh6qUzPnUpBwGjg"
+      },
+      "artists": [
+        {
+          "name": "Triosence",
+          "url": "https://open.spotify.com/artist/2NxFqOk7uZCe0hxfohdWJX"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379461,
+      "name": "Little Big Steps (feat. Paolo Fresu)",
+      "url": "https://open.spotify.com/track/09qRAoiYfu019U0wVkYCAg"
+    },
+    {
+      "album": {
         "name": "Castelfidardo",
         "url": "https://open.spotify.com/album/0GUpy8VwZEPTUBLlRP6jq5"
       },
@@ -1767,6 +1989,40 @@
       "duration_ms": 451028,
       "name": "LOOP",
       "url": "https://open.spotify.com/track/5weUHYWLloqyhntkypergc"
+    },
+    {
+      "album": {
+        "name": "Loping",
+        "url": "https://open.spotify.com/album/47HeBBOOQdUShj9mWPTPiy"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        },
+        {
+          "name": "Matthew Stevens",
+          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
+        },
+        {
+          "name": "Kris Davis",
+          "url": "https://open.spotify.com/artist/3Noi5BtszygxpaGkmvSNGv"
+        },
+        {
+          "name": "Dave Holland",
+          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
+        },
+        {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307055,
+      "name": "Loping",
+      "url": "https://open.spotify.com/track/6qKaQAZktNloYhd4BZxFLk"
     },
     {
       "album": {
@@ -1823,6 +2079,54 @@
       "duration_ms": 347520,
       "name": "Louise",
       "url": "https://open.spotify.com/track/763lFmk6LHwIUjlgGGuguR"
+    },
+    {
+      "album": {
+        "name": "Love Forgotten By Love",
+        "url": "https://open.spotify.com/album/7bhwsozskBjE2gGSxwpQQO"
+      },
+      "artists": [
+        {
+          "name": "eSNa",
+          "url": "https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274431,
+      "name": "Love Forgotten By Love",
+      "url": "https://open.spotify.com/track/5B8DHIWdNCcag2FUF1OYge"
+    },
+    {
+      "album": {
+        "name": "The Music of Archie Shepp",
+        "url": "https://open.spotify.com/album/4xwW9TnziGb8vIbBEfL8xe"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Emanuele Cisi",
+          "url": "https://open.spotify.com/artist/0gKld6kU40FNrQECM7WXzn"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        },
+        {
+          "name": "Roberto Bobo Facchinetti",
+          "url": "https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258182,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/0jXyHMcc2ItTU5LlUPtJaR"
     },
     {
       "album": {
@@ -2168,6 +2472,36 @@
     },
     {
       "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/51YHotVNniiWWCdlHZyCKR"
+      },
+      "artists": [
+        {
+          "name": "Adam Forkelid",
+          "url": "https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW"
+        },
+        {
+          "name": "Carl M\u00f6rner Ringstr\u00f6m",
+          "url": "https://open.spotify.com/artist/69e8RvFXfQnels113EADzc"
+        },
+        {
+          "name": "Niklas Fernqvist",
+          "url": "https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS"
+        },
+        {
+          "name": "Daniel Fredriksson",
+          "url": "https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353386,
+      "name": "New Beginning",
+      "url": "https://open.spotify.com/track/3P0ndzQkcubRQr1u2uv7PQ"
+    },
+    {
+      "album": {
         "name": "New Morning",
         "url": "https://open.spotify.com/album/3weWaW2gCbpKQQt8dxlcdT"
       },
@@ -2355,6 +2689,24 @@
       "duration_ms": 258426,
       "name": "Only Now",
       "url": "https://open.spotify.com/track/3UHsxlIOSb9r5HwAmBdkZY"
+    },
+    {
+      "album": {
+        "name": "Onward",
+        "url": "https://open.spotify.com/album/7KSzVfWs93KOFvTAlMFqJs"
+      },
+      "artists": [
+        {
+          "name": "Kabir Dalawari",
+          "url": "https://open.spotify.com/artist/23hPG6nUZjGxAeytioXw6j"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420653,
+      "name": "Onward",
+      "url": "https://open.spotify.com/track/2m1gQRgwTq1wQM9nx7kgr8"
     },
     {
       "album": {
@@ -2780,6 +3132,48 @@
     },
     {
       "album": {
+        "name": "Renaissance (Radio Edit)",
+        "url": "https://open.spotify.com/album/5d8D5Cn7N4BdjjAVBSrKR9"
+      },
+      "artists": [
+        {
+          "name": "Louis Matute",
+          "url": "https://open.spotify.com/artist/29W139vCxg27ll23aYZ9u7"
+        },
+        {
+          "name": "Amine M'Raihi",
+          "url": "https://open.spotify.com/artist/5Wqr5RO1sBFvG11Cmyhmsf"
+        },
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        },
+        {
+          "name": "Zacharie Ksyk",
+          "url": "https://open.spotify.com/artist/0EMYpT7zqnEaoB1838AFuI"
+        },
+        {
+          "name": "Andrew Audiger",
+          "url": "https://open.spotify.com/artist/47CvZyBIDcuRZJLVw5m3kB"
+        },
+        {
+          "name": "Virgile Rosselet",
+          "url": "https://open.spotify.com/artist/6aWaB1VrlnFln4ZGy5OBir"
+        },
+        {
+          "name": "Nathan Vandenbulcke",
+          "url": "https://open.spotify.com/artist/22Ng3xcFT2TAugPfDQkofW"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394664,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/4NqCSvS7Pj0uIaYIbl9xH4"
+    },
+    {
+      "album": {
         "name": "River Man (feat. Sara Caswell)",
         "url": "https://open.spotify.com/album/2XpXbabfXk62IKCdfdsMSy"
       },
@@ -3058,6 +3452,42 @@
     },
     {
       "album": {
+        "name": "Stablemates",
+        "url": "https://open.spotify.com/album/2AqA9q6QWngwI33eY7bGC8"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227351,
+      "name": "Stablemates",
+      "url": "https://open.spotify.com/track/67s7O7qTtH8pWhoK1jaSp1"
+    },
+    {
+      "album": {
+        "name": "Stablemates",
+        "url": "https://open.spotify.com/album/1J6qODNVP71k3FZjGsFg0l"
+      },
+      "artists": [
+        {
+          "name": "Steven Feifke",
+          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232200,
+      "name": "Stablemates",
+      "url": "https://open.spotify.com/track/4y2LfKYTXzLvJ9efo8wb25"
+    },
+    {
+      "album": {
         "name": "Stay Now",
         "url": "https://open.spotify.com/album/0sZT6GFJLAZH6NE8DEMsSO"
       },
@@ -3222,6 +3652,36 @@
     },
     {
       "album": {
+        "name": "The Battle",
+        "url": "https://open.spotify.com/album/15yIMw9tNWbZ5enobYbo3p"
+      },
+      "artists": [
+        {
+          "name": "Tino Austen",
+          "url": "https://open.spotify.com/artist/4R8doXwXTWdwuRJLHhRTdS"
+        },
+        {
+          "name": "Can 7",
+          "url": "https://open.spotify.com/artist/7eVY9a9LOOrgIwszKa8XUY"
+        },
+        {
+          "name": "Helge Klein",
+          "url": "https://open.spotify.com/artist/4m1d8hePhS7f5DqyV2XRwb"
+        },
+        {
+          "name": "R\u00fcdiger Baldauf",
+          "url": "https://open.spotify.com/artist/44IwErCK2dY3q4DHTbpnY9"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152883,
+      "name": "The Battle",
+      "url": "https://open.spotify.com/track/6fMRy9mSWLgBteAedjuz5r"
+    },
+    {
+      "album": {
         "name": "The Chant",
         "url": "https://open.spotify.com/album/6pdfgUTHW2zhJHNEPjEVtj"
       },
@@ -3283,6 +3743,42 @@
       "duration_ms": 356293,
       "name": "The Eternal Verities",
       "url": "https://open.spotify.com/track/1sArhTOS7kFgJG1EQloyrA"
+    },
+    {
+      "album": {
+        "name": "Ballads: Into the Heart of It",
+        "url": "https://open.spotify.com/album/3u7748w19CwMSqgxr4gMso"
+      },
+      "artists": [
+        {
+          "name": "Steve Slagle",
+          "url": "https://open.spotify.com/artist/4VzhvQxwHNiqdCnUHZsprs"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "The Four Margarets",
+      "url": "https://open.spotify.com/track/5TpcCpPdujplOntTIre3Lb"
+    },
+    {
+      "album": {
+        "name": "The Garden Path",
+        "url": "https://open.spotify.com/album/3JDjkBLJicW3ViAuzVxpvA"
+      },
+      "artists": [
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400170,
+      "name": "The Garden Path",
+      "url": "https://open.spotify.com/track/31KtddFzLJobEIyxBHT3gS"
     },
     {
       "album": {
@@ -3355,6 +3851,32 @@
       "duration_ms": 486800,
       "name": "The Point",
       "url": "https://open.spotify.com/track/0cDLhszLOZtmbvONCagOcN"
+    },
+    {
+      "album": {
+        "name": "The Road",
+        "url": "https://open.spotify.com/album/7kYzDkPb9SnDgesRsTfNtd"
+      },
+      "artists": [
+        {
+          "name": "Harmen Fraanje",
+          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
+        },
+        {
+          "name": "Brice Soniano",
+          "url": "https://open.spotify.com/artist/2KUigtosd6IpUDi1I1iD9c"
+        },
+        {
+          "name": "Toma Gouband",
+          "url": "https://open.spotify.com/artist/2fIgCJGj48VNtC7YdHzT6h"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300986,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/0esuoRN38UkoNGTvEelywu"
     },
     {
       "album": {
@@ -3583,6 +4105,24 @@
       "duration_ms": 396710,
       "name": "Who Has Ever Been Free in This World?",
       "url": "https://open.spotify.com/track/7yH6m0M5ON9trXzvINrnNA"
+    },
+    {
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/55HaJYtXUgeT4Xs0XHbXGp"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308600,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/68bV95MWkeZOcuBMRezls1"
     },
     {
       "album": {

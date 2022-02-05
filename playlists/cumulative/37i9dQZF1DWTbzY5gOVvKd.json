@@ -19,7 +19,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 301533,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9"
@@ -998,6 +998,24 @@
     },
     {
       "album": {
+        "name": "Love Forgotten By Love",
+        "url": "https://open.spotify.com/album/7bhwsozskBjE2gGSxwpQQO"
+      },
+      "artists": [
+        {
+          "name": "eSNa",
+          "url": "https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274431,
+      "name": "Love Forgotten By Love",
+      "url": "https://open.spotify.com/track/5B8DHIWdNCcag2FUF1OYge"
+    },
+    {
+      "album": {
         "name": "Hooray For Love",
         "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
       },
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 271773,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/29Ym1MRlru8wWI7CS6v05B"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2020-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 213447,
       "name": "There You Are (Second Chance)",
       "url": "https://open.spotify.com/track/4oFYpRn9QZbc7toso38diA"

@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soundtrack to the Internet. Cover: Coco & Clair Clair",
+  "description": "The soundtrack to the Internet. Cover: $NOT",
   "name": "Internet People",
   "published_playlist_ids": [
     "22i2vvRs1o18fCRD821qvI"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0Ct3Nikd1tNSufQrnKqwev"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173423,
+      "name": "",
+      "url": "https://open.spotify.com/track/3Be6tP8oTqFVOMhEJg4wlO"
+    },
     {
       "album": {
         "name": "Stop Staring at the Shadows",
@@ -309,7 +327,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 158896,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/4ooLeGJxmJ89FwaqojgI0D"
@@ -616,6 +634,24 @@
     },
     {
       "album": {
+        "name": "The Leek 4!",
+        "url": "https://open.spotify.com/album/3FJKPsTOQYoNYgbjRik9M5"
+      },
+      "artists": [
+        {
+          "name": "iayze",
+          "url": "https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77004,
+      "name": "C'mere!",
+      "url": "https://open.spotify.com/track/109y2iYl9cRHNR4rPzox1q"
+    },
+    {
+      "album": {
         "name": "Caddy",
         "url": "https://open.spotify.com/album/3Z17WkBq7D8FDqXW4NYlmy"
       },
@@ -681,7 +717,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 115684,
       "name": "CASINO",
       "url": "https://open.spotify.com/track/5iDpk9U5ktJY9ML4tJ6uaX"
@@ -765,7 +801,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 208463,
       "name": "Cpr",
       "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
@@ -787,7 +823,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 159252,
       "name": "D & D",
       "url": "https://open.spotify.com/track/7eY2pFVglVNcJhrRHWcgf6"
@@ -805,7 +841,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 164613,
       "name": "damn Right",
       "url": "https://open.spotify.com/track/01ukVTKa6DhejzNulpoG2t"
@@ -845,7 +881,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 181714,
       "name": "Dear God (feat. Kevin Gates)",
       "url": "https://open.spotify.com/track/1oPdIqXhjswpTnA5PPQs0K"
@@ -871,6 +907,28 @@
       "duration_ms": 92943,
       "name": "DELIRIOUS!",
       "url": "https://open.spotify.com/track/6KemhLE5U7fd5SBUJr2sRl"
+    },
+    {
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171426,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD"
     },
     {
       "album": {
@@ -925,6 +983,28 @@
       "duration_ms": 190093,
       "name": "Dumb Enough",
       "url": "https://open.spotify.com/track/10FZrLxIGfMSDYlgplLzkg"
+    },
+    {
+      "album": {
+        "name": "DFTK",
+        "url": "https://open.spotify.com/album/5pb2qoPjdwPtkWUh64Jc8r"
+      },
+      "artists": [
+        {
+          "name": "Yung Kayo",
+          "url": "https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157769,
+      "name": "everything new (feat. Gunna)",
+      "url": "https://open.spotify.com/track/0UTgiWqnHq17CEUW0QokQ2"
     },
     {
       "album": {
@@ -1067,7 +1147,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 168000,
       "name": "Flossin\u2019 (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/3zDMTxEANpj6hedyCrHXBg"
@@ -1103,7 +1183,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 148897,
       "name": "Frankenstein",
       "url": "https://open.spotify.com/track/7vkFn4MeLp77flJYqffY1r"
@@ -1411,7 +1491,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 169045,
       "name": "I Need Bands",
       "url": "https://open.spotify.com/track/4mU3dpFlrTUqp94wrQodYk"
@@ -1477,7 +1557,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 147722,
       "name": "Intro",
       "url": "https://open.spotify.com/track/6OoynwB0ZIefcMvWBsivXO"
@@ -1582,24 +1662,6 @@
     },
     {
       "album": {
-        "name": "Lets Get It",
-        "url": "https://open.spotify.com/album/0Ct3Nikd1tNSufQrnKqwev"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        }
-      ],
-      "date_added": "2021-11-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 173423,
-      "name": "Lets Get It",
-      "url": "https://open.spotify.com/track/3Be6tP8oTqFVOMhEJg4wlO"
-    },
-    {
-      "album": {
         "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
         "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
       },
@@ -1641,6 +1703,24 @@
       "duration_ms": 182491,
       "name": "Life Goes On (feat. Trippie Redd & Ski Mask The Slump God)",
       "url": "https://open.spotify.com/track/07ShpyCaAqfCseA3fWFFMY"
+    },
+    {
+      "album": {
+        "name": "Loser",
+        "url": "https://open.spotify.com/album/1O1J9ZCRpjUfTVATGWoYUw"
+      },
+      "artists": [
+        {
+          "name": "Reyanna Maria",
+          "url": "https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/0JGXmt0UISP8sttvwFvT76"
     },
     {
       "album": {
@@ -1689,8 +1769,8 @@
       },
       "artists": [
         {
-          "name": "Siouxxie",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/4SSaUSznlkAtjmuiEqa7QW"
         }
       ],
       "date_added": "2021-12-10",
@@ -1713,7 +1793,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 188965,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
@@ -1807,7 +1887,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 121361,
       "name": "mondays! (feat. Pussy Riot)",
       "url": "https://open.spotify.com/track/0QlB73ipXvoGegXQXYxcVA"
@@ -1847,7 +1927,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 150263,
       "name": "My Everything (Part III) (feat. G Herbo)",
       "url": "https://open.spotify.com/track/4aGZWvZ5L2MLWC2GjZBps8"
@@ -1905,7 +1985,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 206206,
       "name": "No Smoke (feat. DC The Don)",
       "url": "https://open.spotify.com/track/5TqAWu0AhiQ7rPne0JMhxq"
@@ -2143,7 +2223,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 125373,
       "name": "Pop Music (feat. Moneybagg Yo & Beatking)",
       "url": "https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour"
@@ -2321,7 +2401,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 83571,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/1avlO8s4bCF7Sk5Sv5tXI7"
@@ -2365,7 +2445,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 97384,
       "name": "Shake",
       "url": "https://open.spotify.com/track/010MlmLvo1ca6KMRLKayli"
@@ -2431,7 +2511,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 192000,
       "name": "Shisha",
       "url": "https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js"
@@ -2485,7 +2565,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 123243,
       "name": "Six Flags",
       "url": "https://open.spotify.com/track/36FDMTfRqSROsSC6pOTqGw"
@@ -2515,6 +2595,28 @@
       "duration_ms": 152790,
       "name": "Sneaky Link 2.0",
       "url": "https://open.spotify.com/track/79fkjl9VtiLUl36ye9tMDP"
+    },
+    {
+      "album": {
+        "name": "Sneaky Link Shemix",
+        "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
+      },
+      "artists": [
+        {
+          "name": "Kayla Nicole",
+          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98795,
+      "name": "Sneaky Link Shemix",
+      "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
     },
     {
       "album": {
@@ -2565,7 +2667,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 150884,
       "name": "SRT",
       "url": "https://open.spotify.com/track/6aFn4ITLUanXywMFPWK6XH"
@@ -2641,7 +2743,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 172330,
       "name": "TBTF",
       "url": "https://open.spotify.com/track/01Vormnc8QSPgBQYkvrQ7P"
@@ -2677,7 +2779,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 113327,
       "name": "The Assignment",
       "url": "https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A"
@@ -2761,7 +2863,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 117066,
       "name": "TWINNEM",
       "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
@@ -2997,7 +3099,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 148800,
       "name": "You're A Jerk 2",
       "url": "https://open.spotify.com/track/5aXplC3gYU14i6HW5Fpaer"

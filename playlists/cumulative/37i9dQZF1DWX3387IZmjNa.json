@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Moneybagg Yo",
+  "description": "Hip-Hop + R&B: Before. Anything. Else. Cover: Gunna",
   "name": "B.A.E.",
   "published_playlist_ids": [
     "4mX7G5RGhbP5eelSWBD353"
@@ -718,6 +718,28 @@
     },
     {
       "album": {
+        "name": "Hate Our Love (with Big Sean)",
+        "url": "https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226373,
+      "name": "Hate Our Love (with Big Sean)",
+      "url": "https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO"
+    },
+    {
+      "album": {
         "name": "Her Peace (feat. YK Osiris & Loui)",
         "url": "https://open.spotify.com/album/5NhtA3dljOQxgXtW6XtfUW"
       },
@@ -789,7 +811,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 224042,
       "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
       "url": "https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI"
@@ -833,6 +855,28 @@
       "duration_ms": 153469,
       "name": "I Luv Dat",
       "url": "https://open.spotify.com/track/4pOHXEWncM34G4t57veFtl"
+    },
+    {
+      "album": {
+        "name": "Dope Don't Sell Itself",
+        "url": "https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158146,
+      "name": "If You Want Me To (feat. Jacquees)",
+      "url": "https://open.spotify.com/track/0u8OPAAPuIASEmrpg32H62"
     },
     {
       "album": {
@@ -1699,7 +1743,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 205036,
       "name": "Worth It (feat. DDG)",
       "url": "https://open.spotify.com/track/0MqqxjoRiDt3TCMMveEldb"

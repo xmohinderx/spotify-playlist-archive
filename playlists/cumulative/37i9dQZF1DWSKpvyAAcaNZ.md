@@ -2,7 +2,7 @@
 
 ### [Blues & Roots Rock](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
-> It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Adia Victoria
+> It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Amythyst Kiah
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

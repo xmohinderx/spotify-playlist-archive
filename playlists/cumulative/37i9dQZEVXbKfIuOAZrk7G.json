@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 230600,
       "name": "Convoy",
       "url": "https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 215686,
       "name": "Every Summertime",
       "url": "https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 214405,
       "name": "Flower Shops (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
@@ -1567,6 +1567,24 @@
       "duration_ms": 188965,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
+    },
+    {
+      "album": {
+        "name": "FREELANCE",
+        "url": "https://open.spotify.com/album/3rYSDctSUHj6HUbpioiICz"
+      },
+      "artists": [
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165550,
+      "name": "Maytag (Tax Free)",
+      "url": "https://open.spotify.com/track/0jdcdrTpIzIZGBqBvkgEaC"
     },
     {
       "album": {
@@ -2506,6 +2524,28 @@
     },
     {
       "album": {
+        "name": "Throw It Back (Abow)",
+        "url": "https://open.spotify.com/album/5mnNOn8Xg5oEXL0frscPIU"
+      },
+      "artists": [
+        {
+          "name": "TarioP",
+          "url": "https://open.spotify.com/artist/5N4ydSgV26FDMKuZcFsttp"
+        },
+        {
+          "name": "ShantiiP",
+          "url": "https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70542,
+      "name": "Throw It Back (Abow)",
+      "url": "https://open.spotify.com/track/23yxlmsXxljX6AVF2NlYP6"
+    },
+    {
+      "album": {
         "name": "TO THE",
         "url": "https://open.spotify.com/album/2CZxED1GDIM7fV6ODe6rMf"
       },
@@ -2751,6 +2791,32 @@
       "duration_ms": 405330,
       "name": "Welcome to My House",
       "url": "https://open.spotify.com/track/44AsWSTC6Gya2Iej5bt4kU"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Revolution",
+        "url": "https://open.spotify.com/album/7mexqsoHRsfOMLPO5a9Esk"
+      },
+      "artists": [
+        {
+          "name": "Hi-Rez",
+          "url": "https://open.spotify.com/artist/7CWvyZsjuJlxfM8Le6B9nP"
+        },
+        {
+          "name": "Jimmy Levy",
+          "url": "https://open.spotify.com/artist/3IWWEdcjhQ3aU6WIk7XdgZ"
+        },
+        {
+          "name": "Jimmy Levy & Hi-Rez",
+          "url": "https://open.spotify.com/artist/30jEuOwxZdqvTEUGRNQFgo"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208142,
+      "name": "Welcome To The Revolution",
+      "url": "https://open.spotify.com/track/4ljFUG0mEiMkjyrTJ0nC2I"
     },
     {
       "album": {

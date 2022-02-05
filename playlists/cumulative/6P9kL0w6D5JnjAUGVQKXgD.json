@@ -4421,7 +4421,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 172390,
       "name": "Dancing Alone",
       "url": "https://open.spotify.com/track/7A9y0ywTGS4iPM5huZAhKf"
@@ -6127,7 +6127,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 250226,
       "name": "Faded - Tiesto's Northern Lights Remix",
       "url": "https://open.spotify.com/track/4jvJPG5YNwenlOmyLWSqaq"
@@ -6515,7 +6515,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 185193,
       "name": "Feel The Vibe",
       "url": "https://open.spotify.com/track/12RAnp0xkdW22UGfgejElE"
@@ -15732,6 +15732,28 @@
     },
     {
       "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231290,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
+    },
+    {
+      "album": {
         "name": "Physical (Alok Remix)",
         "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
       },
@@ -17647,7 +17669,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 225218,
       "name": "Say Yeah",
       "url": "https://open.spotify.com/track/7diiW6RSbOz0o1P7BWGmut"
@@ -17809,7 +17831,7 @@
       ],
       "date_added": "2020-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 155238,
       "name": "September",
       "url": "https://open.spotify.com/track/529UH7VifSxUbFryjZeFpg"
@@ -19246,6 +19268,24 @@
     },
     {
       "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/1RrdMjj57IqU76gY2JEnQJ"
+      },
+      "artists": [
+        {
+          "name": "Thomas Irwin",
+          "url": "https://open.spotify.com/artist/0gQVc6ZiCAzLXqyISPi0qT"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168099,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/2lKgMEjNbAq3cX93QuSfft"
+    },
+    {
+      "album": {
         "name": "Straight To The Morning",
         "url": "https://open.spotify.com/album/6OPYOYkycinpC3gEziMrao"
       },
@@ -19995,7 +20035,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 175312,
       "name": "Tell It To My Heart (feat. Hozier) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI"

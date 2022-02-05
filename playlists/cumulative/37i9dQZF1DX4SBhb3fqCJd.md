@@ -2,7 +2,7 @@
 
 ### [Are & Be](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
 
-> The pulse of R&B music today\.  Cover: Ella Mai
+> The pulse of R&B music today\.  Cover: SZA
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

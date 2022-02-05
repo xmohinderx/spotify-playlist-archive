@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 147653,
       "name": "DARLING",
       "url": "https://open.spotify.com/track/63WglSNzQJ4pzS6OYEsj6B"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 317426,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/2ARB3fKvRkMGhAtZuTnE5J"
@@ -728,6 +728,28 @@
     },
     {
       "album": {
+        "name": "bops etc.",
+        "url": "https://open.spotify.com/album/6F0NmdsuJkbsqhDZrSHLbK"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        },
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181094,
+      "name": "Hey (feat. Alfie Templeman)",
+      "url": "https://open.spotify.com/track/2mSRmsgVkgdAahTTKaG7we"
+    },
+    {
+      "album": {
         "name": "Blonde Tongues",
         "url": "https://open.spotify.com/album/1pzZ7uCZMJSH21sP8g7dUG"
       },
@@ -883,7 +905,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 223053,
       "name": "Let the Sun In",
       "url": "https://open.spotify.com/track/6qMiZK4mGuCRkVwRFds4Sm"
@@ -1031,7 +1053,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 236666,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/4iq4RFWmQc3zFgBgyrpahF"
@@ -1121,7 +1143,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 174597,
       "name": "Out in the Country",
       "url": "https://open.spotify.com/track/7FWhvGFDMGo3BkuSI00rOi"
@@ -1355,7 +1377,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 228015,
       "name": "Shalala",
       "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
@@ -1571,7 +1593,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 187733,
       "name": "Talking Backwards",
       "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
@@ -1719,7 +1741,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 208906,
       "name": "Watching Cartoons",
       "url": "https://open.spotify.com/track/3IIZJE9HWQM0dkBBwL8TSW"
@@ -1791,7 +1813,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 192027,
       "name": "Windows",
       "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"

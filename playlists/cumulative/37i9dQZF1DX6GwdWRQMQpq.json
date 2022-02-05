@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Coi Leray\n",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Nicki Minaj\n",
   "name": "Feelin' Myself",
   "published_playlist_ids": [
     "0FtcGJDMEWLAVf67SoV0Nd"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 174253,
       "name": "Ain't Shit",
       "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 160130,
       "name": "Bet It - from the \"Bruised\" Soundtrack",
       "url": "https://open.spotify.com/track/2qHaFxrDldxWUtIy9qaTM9"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 146213,
       "name": "Chitty Bang",
       "url": "https://open.spotify.com/track/7eUarVRO7tNoJy6WZDhkoR"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 108630,
       "name": "Christmas List",
       "url": "https://open.spotify.com/track/1otneYXhRPhMFXeFDj9qtj"
@@ -356,6 +356,28 @@
     },
     {
       "album": {
+        "name": "Do We Have A Problem?",
+        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207065,
+      "name": "Do We Have A Problem?",
+      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
+    },
+    {
+      "album": {
         "name": "Don't Talk",
         "url": "https://open.spotify.com/album/15HVlassGiyNROvxTxYoXx"
       },
@@ -414,6 +436,42 @@
     },
     {
       "album": {
+        "name": "Fuck It Up",
+        "url": "https://open.spotify.com/album/7EYwhBDLAIwFBQQOqOfSuX"
+      },
+      "artists": [
+        {
+          "name": "Bali Baby",
+          "url": "https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132989,
+      "name": "Fuck It Up",
+      "url": "https://open.spotify.com/track/7FERnkDYqD9D9DJdNjQlnf"
+    },
+    {
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138293,
+      "name": "Get Into It (Yuh)",
+      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
+    },
+    {
+      "album": {
         "name": "Have Mercy",
         "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
       },
@@ -429,6 +487,46 @@
       "duration_ms": 148778,
       "name": "Have Mercy",
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
+    },
+    {
+      "album": {
+        "name": "Hello (with Saucy Santana)",
+        "url": "https://open.spotify.com/album/5EnqzpQ9kXinG5Gs93urB9"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        },
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168997,
+      "name": "Hello (with Saucy Santana)",
+      "url": "https://open.spotify.com/track/2Ib5LOrfWLHrME2dYtMDxp"
+    },
+    {
+      "album": {
+        "name": "Winter in New York City",
+        "url": "https://open.spotify.com/album/35kZs9bouKM60ym7EDqOoF"
+      },
+      "artists": [
+        {
+          "name": "Melii",
+          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102530,
+      "name": "Hey Stranger",
+      "url": "https://open.spotify.com/track/6KNXTW9dcRUbRH9D7uUZZW"
     },
     {
       "album": {
@@ -552,6 +650,24 @@
     },
     {
       "album": {
+        "name": "Keep Going",
+        "url": "https://open.spotify.com/album/2daeZKCpqIqpHJoOt12lyJ"
+      },
+      "artists": [
+        {
+          "name": "Bella Blaq",
+          "url": "https://open.spotify.com/artist/5fVqCTmEK6KwE54TdziL3R"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/5WFS94mQU8LHIlejXYpKP2"
+    },
+    {
+      "album": {
         "name": "Lick (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q"
       },
@@ -592,6 +708,24 @@
     },
     {
       "album": {
+        "name": "Rap?",
+        "url": "https://open.spotify.com/album/1s3yOs7KV2OWx0hoYby2bm"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178266,
+      "name": "Meagan Good",
+      "url": "https://open.spotify.com/track/59LmAQrsS5O64n90EaTQUf"
+    },
+    {
+      "album": {
         "name": "Something for Thee Hotties",
         "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
       },
@@ -625,7 +759,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 137341,
       "name": "MMM MMM (feat. ATL Jacob)",
       "url": "https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm"
@@ -683,7 +817,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
@@ -745,7 +879,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 233266,
       "name": "Party",
       "url": "https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s"
@@ -770,6 +904,24 @@
     },
     {
       "album": {
+        "name": "Pop Sh*t Queen",
+        "url": "https://open.spotify.com/album/6c546bspygDHi7quOrZ2Du"
+      },
+      "artists": [
+        {
+          "name": "LightSkinKeisha",
+          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147800,
+      "name": "Pop Sh*t Queen",
+      "url": "https://open.spotify.com/track/68EFrsoC3TbilZBQe7XRHP"
+    },
+    {
+      "album": {
         "name": "Pastelevision",
         "url": "https://open.spotify.com/album/3Fw3gOj3UVlNJUclaOqLK2"
       },
@@ -785,6 +937,24 @@
       "duration_ms": 159000,
       "name": "PPA",
       "url": "https://open.spotify.com/track/6hdQpybU08u1k4AJvNtKq8"
+    },
+    {
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193279,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2"
     },
     {
       "album": {
@@ -930,6 +1100,28 @@
     },
     {
       "album": {
+        "name": "Sneaky Link Shemix",
+        "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
+      },
+      "artists": [
+        {
+          "name": "Kayla Nicole",
+          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98795,
+      "name": "Sneaky Link Shemix",
+      "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
+    },
+    {
+      "album": {
         "name": "Soufside",
         "url": "https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg"
       },
@@ -1049,7 +1241,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 144195,
       "name": "We Not Humping",
       "url": "https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P"
@@ -1067,7 +1259,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 177293,
       "name": "What Ya Came For",
       "url": "https://open.spotify.com/track/2smo1WyDkIgDtPQc7CYiWn"
@@ -1125,7 +1317,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 132493,
       "name": "Yeah B*tch (feat. DaBaby)",
       "url": "https://open.spotify.com/track/3zT7dmfVjHOMXnUgPl0AQe"

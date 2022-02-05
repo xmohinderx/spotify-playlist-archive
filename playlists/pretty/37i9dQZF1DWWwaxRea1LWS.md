@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Behold the impact and influences of <a href="spotify:artist:4qwGe91Bz9K2T8jXTZ815W">Janet Jackson,</a>  a pop innovator, on \#SpotifyTBT Cover: Janet Jackson
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,051,435 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,051,591 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 47 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 |
 | 48 | [Liquid Dreams](https://open.spotify.com/track/2Pxzfzd1jaZT2F2uqLkZUr) | [O\-Town](https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx) | [O\-Town](https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV) | 3:30 |
 | 49 | [Looking For A New Love](https://open.spotify.com/track/64M7vSptOdMCuHwYzKuplj) | [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ), [Louil Silas Jr.](https://open.spotify.com/artist/4aknOZmKFnayYvd03Avoz6) | [Jody Watley](https://open.spotify.com/album/16Ekp385tuuCTdoEakzEv3) | 5:07 |
-| 50 | [Monkey \- Remastered](https://open.spotify.com/track/2nzPzkGP9QSZ1lqvXTfyzT) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 5:06 |
+| 50 | [Monkey \- 7" Edit Remastered](https://open.spotify.com/track/57s9IreDisp8yqCrywEiQ4) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6) | 4:49 |
 
-Snapshot ID: `MTY0Mzg5ODY0OCwwMDAwMDRjNDAwMDAwMTdlYmZmZWI2ZWEwMDAwMDE3ZWJiOWU3Yzdl`
+Snapshot ID: `MTY0Mzk1Mzk4MCwwMDAwMDRjNTAwMDAwMTdlYzM0YjAzODUwMDAwMDE3ZWJiOWU3Yzdl`

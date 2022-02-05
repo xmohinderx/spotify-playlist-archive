@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 244615,
       "name": "Abena",
       "url": "https://open.spotify.com/track/4lICAx8Aqp6rRV2jfklUYu"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 232292,
       "name": "Burdens Heavy",
       "url": "https://open.spotify.com/track/0il2VwVzkVst3YUdWZJHO2"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 180000,
       "name": "Controla (O.M.G.D.)",
       "url": "https://open.spotify.com/track/3KJL290jagnQ3fJqYprojG"
@@ -1545,7 +1545,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 271040,
       "name": "Finders Keepers",
       "url": "https://open.spotify.com/track/06BD7TeUR6mYbF6cWyzvZt"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 241024,
       "name": "Hurtin' Me - The Remix",
       "url": "https://open.spotify.com/track/3UMhetaB5d2Egu49pfpNQA"
@@ -2001,7 +2001,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 237714,
       "name": "If",
       "url": "https://open.spotify.com/track/0WeN52xa8nBDBfKsaiKJ0i"
@@ -2371,7 +2371,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt"
@@ -2389,7 +2389,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 131764,
       "name": "Live It Up",
       "url": "https://open.spotify.com/track/3bUnzltFofxPOlZB3PpA4j"
@@ -2979,7 +2979,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Murder She Wrote",
       "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
@@ -3459,7 +3459,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 242893,
       "name": "Pana",
       "url": "https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb"
@@ -3546,6 +3546,24 @@
     },
     {
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171092,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG"
+    },
+    {
+      "album": {
         "name": "Ram Pam",
         "url": "https://open.spotify.com/album/2XJXTSgrnZtTK8MoAuY05D"
       },
@@ -3569,7 +3587,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 141030,
       "name": "Ram Pam",
       "url": "https://open.spotify.com/track/4bro6XcuTPaPM61tCCdto8"
@@ -4193,7 +4211,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 205996,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
@@ -4353,7 +4371,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 190400,
       "name": "Todo Pa' Ti",
       "url": "https://open.spotify.com/track/1KeQQmdN8gNmvMvw5yeU8A"
@@ -4481,7 +4499,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
@@ -4503,7 +4521,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 170760,
       "name": "Una Nota",
       "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
@@ -4603,7 +4621,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 189600,
       "name": "Velletjes (Remix)",
       "url": "https://open.spotify.com/track/2HFX1dbRkzdpfW6JPbXJU2"
@@ -4749,7 +4767,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Why",
       "url": "https://open.spotify.com/track/5JivNZTf3Oz2yy5KuSqvFm"

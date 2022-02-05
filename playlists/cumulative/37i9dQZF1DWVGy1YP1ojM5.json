@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 249600,
       "name": "Always Maybe",
       "url": "https://open.spotify.com/track/0clFAwVWulBUHBLZbNVu7d"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 246176,
       "name": "Are You in Love?",
       "url": "https://open.spotify.com/track/0J7HbHY6yqBtHHd44ofbxb"
@@ -788,6 +788,28 @@
     },
     {
       "album": {
+        "name": "Skin Tight (feat. Steve Lacy)",
+        "url": "https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227001,
+      "name": "Skin Tight (feat. Steve Lacy)",
+      "url": "https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs"
+    },
+    {
+      "album": {
         "name": "Slow Down",
         "url": "https://open.spotify.com/album/4iDt95eDvKRfuf8fsVXNzl"
       },
@@ -905,6 +927,24 @@
       "duration_ms": 250362,
       "name": "Teen Scene feat. Buddy",
       "url": "https://open.spotify.com/track/7rNjupJkjsc3ANGeW0RCYj"
+    },
+    {
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/1XXshy7NZW44R2EM2akB7d"
+      },
+      "artists": [
+        {
+          "name": "Maryann Vasquez",
+          "url": "https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/3wEiJMQozHw9KOGeLbkhKK"
     },
     {
       "album": {

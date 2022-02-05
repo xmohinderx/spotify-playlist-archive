@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "5 In The Morning",
+        "url": "https://open.spotify.com/album/220klXAbSUKi5mUSdSZndX"
+      },
+      "artists": [
+        {
+          "name": "Dusky Grey",
+          "url": "https://open.spotify.com/artist/3jFE9Q1V7P1AkbU5UzPEol"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194147,
+      "name": "5 In The Morning",
+      "url": "https://open.spotify.com/track/0hOlbRZFsasbJzcciXRolS"
+    },
+    {
+      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/1dqg0cgO1FRp4xl96B2djc"
       },
@@ -59,7 +77,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 173640,
       "name": "A-O-K",
       "url": "https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7"
@@ -529,7 +547,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 172792,
       "name": "everything",
       "url": "https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 160799,
       "name": "Feel It for You",
       "url": "https://open.spotify.com/track/2AjbxwfJR24dBWmp6tSxy2"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 226071,
       "name": "Hard Not to Love You",
       "url": "https://open.spotify.com/track/5c05lHYIIUXwlZ3Qx6ZbtQ"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 193733,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 260760,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/2SnU0h8f6LlxvSycvfcCQQ"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 200626,
       "name": "Never Get It Right",
       "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 189473,
       "name": "Out of You",
       "url": "https://open.spotify.com/track/6HgclHM1GZyqdEBAiptD9E"
@@ -1799,7 +1817,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 212503,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 205404,
       "name": "Singing Your Name",
       "url": "https://open.spotify.com/track/4kyaNYfxakqYGtYl5IHfQN"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 219865,
       "name": "Sister Ray",
       "url": "https://open.spotify.com/track/3sl0kzHFwrFESmiqB9yqfO"
@@ -2055,7 +2073,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 186963,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz"
@@ -2099,7 +2117,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 170467,
       "name": "Splash",
       "url": "https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 156684,
       "name": "Talk You Down",
       "url": "https://open.spotify.com/track/6UBWwEWTSyYPfz3hVVQqvD"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 150967,
       "name": "The Hurt You Gave Me",
       "url": "https://open.spotify.com/track/1UCN2LmSOqXYUPTZfiOSzv"
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 186935,
       "name": "too many feelings",
       "url": "https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd"
@@ -2535,7 +2553,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 178470,
       "name": "You Give Me More",
       "url": "https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO"

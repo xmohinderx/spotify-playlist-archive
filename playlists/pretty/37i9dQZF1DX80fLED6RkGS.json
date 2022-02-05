@@ -1,13 +1,29 @@
 {
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6?si=sLI4n7mHSAiv4ET_PvrWYA\">Exray Taniua</a>",
-  "num_followers": 8770,
+  "num_followers": 8807,
   "original_name": "Gengetone Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzMxNzE0MCwwMDAwMDAzMzAwMDAwMTdlOWQ1NTlhOTcwMDAwMDE3ZDlmYWVjZDk1",
+  "snapshot_id": "MTY0Mzk0MzYwNywwMDAwMDAzNDAwMDAwMTdlYzJhY2JlNmQwMDAwMDE3ZDlmYWVjZDk1",
   "tracks": [
+    {
+      "added_at": "2022-01-27 20:59:00",
+      "album": {
+        "name": "KISHASH",
+        "url": "https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b"
+      },
+      "artists": [
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "duration_ms": 159940,
+      "name": "KISHASH",
+      "url": "https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk"
+    },
     {
       "added_at": "2021-11-11 20:59:00",
       "album": {
@@ -31,22 +47,6 @@
       "duration_ms": 206280,
       "name": "Sipangwingwi",
       "url": "https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "KISHASH",
-        "url": "https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b"
-      },
-      "artists": [
-        {
-          "name": "Lilmaina",
-          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
-        }
-      ],
-      "duration_ms": 159940,
-      "name": "KISHASH",
-      "url": "https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk"
     },
     {
       "added_at": "2022-01-27 20:59:00",
@@ -97,6 +97,50 @@
       "url": "https://open.spotify.com/track/5GGS1P0wgAlCma5d0J5gez"
     },
     {
+      "added_at": "2022-02-04 03:00:07",
+      "album": {
+        "name": "Three Wise Goats",
+        "url": "https://open.spotify.com/album/3txLNkrdXGL8nvqiOItiRR"
+      },
+      "artists": [
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        },
+        {
+          "name": "Gabu",
+          "url": "https://open.spotify.com/artist/1Lon3hB1ZcGAeJSHNBAL4Y"
+        },
+        {
+          "name": "Naiboi",
+          "url": "https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6"
+        },
+        {
+          "name": "Kristoff",
+          "url": "https://open.spotify.com/artist/2io3BTkaSQLmkQ1Ayy0vXn"
+        },
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        },
+        {
+          "name": "Frasha",
+          "url": "https://open.spotify.com/artist/3MObo2QpsSE0Hhetox5yR0"
+        },
+        {
+          "name": "Wyre",
+          "url": "https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH"
+        },
+        {
+          "name": "Felista Di Superstar",
+          "url": "https://open.spotify.com/artist/4ePK3JSaxcq2ZeulZlkERH"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "Shamra Shamra - Remix",
+      "url": "https://open.spotify.com/track/4KTtFRBpLBZdxt0jU5wGgZ"
+    },
+    {
       "added_at": "2022-01-27 20:59:00",
       "album": {
         "name": "Mzimbiting",
@@ -125,6 +169,22 @@
       "url": "https://open.spotify.com/track/0uDiCG0PNkRNc32AjTDDQj"
     },
     {
+      "added_at": "2022-02-04 03:00:07",
+      "album": {
+        "name": "Madem Wa Nai",
+        "url": "https://open.spotify.com/album/5HtIiLcsMzvYKnF2UpcsbV"
+      },
+      "artists": [
+        {
+          "name": "Team Psycho",
+          "url": "https://open.spotify.com/artist/24v7cO9PN9dqIykt0Nz5SU"
+        }
+      ],
+      "duration_ms": 190985,
+      "name": "Madem Wa Nai",
+      "url": "https://open.spotify.com/track/7f3J5D674s54ZaMPkSAHbs"
+    },
+    {
       "added_at": "2022-01-27 20:59:00",
       "album": {
         "name": "HIVI NA HIVO",
@@ -139,6 +199,38 @@
       "duration_ms": 187559,
       "name": "HIVI NA HIVO",
       "url": "https://open.spotify.com/track/0lbf1IBDUh0ZRfSefOpFZT"
+    },
+    {
+      "added_at": "2022-02-04 03:00:07",
+      "album": {
+        "name": "Bandana Ya E-Sir",
+        "url": "https://open.spotify.com/album/1sEHueRD4NrkFNaSIc9CDR"
+      },
+      "artists": [
+        {
+          "name": "Nameless",
+          "url": "https://open.spotify.com/artist/5e1OCdBgITL78zBRyW2wOf"
+        },
+        {
+          "name": "Dmore",
+          "url": "https://open.spotify.com/artist/01v6UAGxwidjKJkYwX5zcr"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Habib",
+          "url": "https://open.spotify.com/artist/66mZ0Y33cceUlfpvyqDQ6s"
+        },
+        {
+          "name": "Nelly The Goon",
+          "url": "https://open.spotify.com/artist/6Z0LfL7qEINpGSsgc9aeeO"
+        }
+      ],
+      "duration_ms": 293617,
+      "name": "Bandana Ya E-Sir",
+      "url": "https://open.spotify.com/track/6gPgR7ezAhBDlxQ3Co0Cuv"
     },
     {
       "added_at": "2022-01-27 20:59:00",
@@ -229,6 +321,30 @@
       "url": "https://open.spotify.com/track/1g6ZelaQU0nu4hIwxLpwhN"
     },
     {
+      "added_at": "2022-02-04 03:00:07",
+      "album": {
+        "name": "Kitendawili",
+        "url": "https://open.spotify.com/album/1BFacBiVjaDMO0FsTNiDLv"
+      },
+      "artists": [
+        {
+          "name": "Dezian",
+          "url": "https://open.spotify.com/artist/6KZLhiDHLqE2NMAitthV5H"
+        },
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        },
+        {
+          "name": "Wakali Wao",
+          "url": "https://open.spotify.com/artist/41Tl0dALvNay52riHG4M1b"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "Kitendawili",
+      "url": "https://open.spotify.com/track/6p9AHIYBeCgxJPKj4h1ew1"
+    },
+    {
       "added_at": "2022-01-27 20:59:00",
       "album": {
         "name": "The African Experience",
@@ -263,6 +379,22 @@
       "duration_ms": 224888,
       "name": "Mchecheto",
       "url": "https://open.spotify.com/track/6fg4Pocuv72QdwLN1g16T0"
+    },
+    {
+      "added_at": "2022-02-04 03:00:07",
+      "album": {
+        "name": "Moto",
+        "url": "https://open.spotify.com/album/1fKKx2Q3LtrXLQBF7YY40Z"
+      },
+      "artists": [
+        {
+          "name": "Eque",
+          "url": "https://open.spotify.com/artist/3LO87LSYSMSnBzcbElADda"
+        }
+      ],
+      "duration_ms": 167810,
+      "name": "Moto",
+      "url": "https://open.spotify.com/track/0ePHZneZmWefIsJmzqN056"
     },
     {
       "added_at": "2022-01-27 20:59:00",
@@ -331,6 +463,30 @@
       "duration_ms": 262217,
       "name": "Diliti",
       "url": "https://open.spotify.com/track/2vpACJiwXcHpAMTdPSmwGT"
+    },
+    {
+      "added_at": "2022-02-04 03:00:07",
+      "album": {
+        "name": "Kichwa Tu",
+        "url": "https://open.spotify.com/album/1rPCZOiQhea0Stg1h0MClO"
+      },
+      "artists": [
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Timmy Tdat",
+          "url": "https://open.spotify.com/artist/0koEwZCEZrRUvVYb5ggPCZ"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Kichwa Tu",
+      "url": "https://open.spotify.com/track/74Z0rYj90V4QDhxygsKhuB"
     },
     {
       "added_at": "2022-01-27 20:59:00",
@@ -1001,22 +1157,6 @@
       "url": "https://open.spotify.com/track/5xKnSu6Kktoreh2IF1CCUI"
     },
     {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "Fanya",
-        "url": "https://open.spotify.com/album/3HR71O4z5lheIlcadnyq88"
-      },
-      "artists": [
-        {
-          "name": "Ethic",
-          "url": "https://open.spotify.com/artist/1WQ1lasaBi46OgC1kSMvqz"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Fanya",
-      "url": "https://open.spotify.com/track/1EE5AsTfD1y5wv96CsDptx"
-    },
-    {
       "added_at": "2021-09-02 20:59:00",
       "album": {
         "name": "Chini Chini",
@@ -1135,26 +1275,6 @@
     {
       "added_at": "2022-01-27 20:59:00",
       "album": {
-        "name": "Izi Ndio Isaa",
-        "url": "https://open.spotify.com/album/00ni4YtYPDvFuN9V9yPORg"
-      },
-      "artists": [
-        {
-          "name": "Akasha (Jeshi Jinga)",
-          "url": "https://open.spotify.com/artist/6sauKsK1CoTdZoeDP6vzuK"
-        },
-        {
-          "name": "Smady, D'mike",
-          "url": "https://open.spotify.com/artist/0qryoSxhorJEeAKg3dBrTf"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Izi Ndio Isaa",
-      "url": "https://open.spotify.com/track/2rkXSg0O8H4OwKMeEQzb2M"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
         "name": "Full Vaibu",
         "url": "https://open.spotify.com/album/5zB64M0uGhnT39hTnL4i7c"
       },
@@ -1259,54 +1379,6 @@
     {
       "added_at": "2022-01-27 20:59:00",
       "album": {
-        "name": "Twende Church",
-        "url": "https://open.spotify.com/album/7nL1XmZxXT4WoWRZIPY7bK"
-      },
-      "artists": [
-        {
-          "name": "Hitman Kaht",
-          "url": "https://open.spotify.com/artist/1jgOTjEFAogfS8VDFbsO16"
-        }
-      ],
-      "duration_ms": 176378,
-      "name": "Twende Church",
-      "url": "https://open.spotify.com/track/5XuDteC4DYBGRGh6DKCS5Z"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "Kuna Kichwa",
-        "url": "https://open.spotify.com/album/4Sg59HUPYBJ3UI5yAbLwOB"
-      },
-      "artists": [
-        {
-          "name": "VDJ JONES",
-          "url": "https://open.spotify.com/artist/0esgHtr7W67AGn1vQXcuYJ"
-        },
-        {
-          "name": "DANTEZ",
-          "url": "https://open.spotify.com/artist/33phEa6nFD07FtqExXbOsx"
-        },
-        {
-          "name": "Zzero",
-          "url": "https://open.spotify.com/artist/73F4BZXI81TzXZ3SCPfAhQ"
-        },
-        {
-          "name": "Breeder LW",
-          "url": "https://open.spotify.com/artist/2xnRrbCBayUGy65qEaWKXO"
-        },
-        {
-          "name": "Exray",
-          "url": "https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo"
-        }
-      ],
-      "duration_ms": 223346,
-      "name": "Kuna Kichwa",
-      "url": "https://open.spotify.com/track/4CxIs3plY39mHG8P8Vzro2"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
         "name": "Kutu",
         "url": "https://open.spotify.com/album/2P4hE2Rhu49t3P21qmo9q6"
       },
@@ -1395,58 +1467,6 @@
     {
       "added_at": "2022-01-27 20:59:00",
       "album": {
-        "name": "Zimenice",
-        "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
-      },
-      "artists": [
-        {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
-        },
-        {
-          "name": "Tezzla",
-          "url": "https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "Zimenice",
-      "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "Pandemik",
-        "url": "https://open.spotify.com/album/686UwrTXLaD6lSndiKXqil"
-      },
-      "artists": [
-        {
-          "name": "Ochungulo Family",
-          "url": "https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b"
-        }
-      ],
-      "duration_ms": 169644,
-      "name": "Pandemik",
-      "url": "https://open.spotify.com/track/4brFh0GOyGxdh6qfUDOpGK"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
-        "name": "Missed Call",
-        "url": "https://open.spotify.com/album/7i4lOzbPq4E0ebhNTM216U"
-      },
-      "artists": [
-        {
-          "name": "Breeder LW",
-          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
-        }
-      ],
-      "duration_ms": 188604,
-      "name": "Missed Call",
-      "url": "https://open.spotify.com/track/4RAHERsvTGgzHNXbmJL198"
-    },
-    {
-      "added_at": "2022-01-27 20:59:00",
-      "album": {
         "name": "Abdala",
         "url": "https://open.spotify.com/album/4VCfHENYsI0qlmf5zNtIK2"
       },
@@ -1523,6 +1543,26 @@
       "duration_ms": 198200,
       "name": "Kibanda",
       "url": "https://open.spotify.com/track/3n5PmxplLwunP2INPa7daR"
+    },
+    {
+      "added_at": "2022-01-27 20:59:00",
+      "album": {
+        "name": "Zimenice",
+        "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
+      },
+      "artists": [
+        {
+          "name": "Chris Kaiga",
+          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
+        },
+        {
+          "name": "Tezzla",
+          "url": "https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "Zimenice",
+      "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
     },
     {
       "added_at": "2022-01-27 20:59:00",

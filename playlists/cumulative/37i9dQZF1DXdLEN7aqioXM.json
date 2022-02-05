@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 220714,
       "name": "After Hours Run",
       "url": "https://open.spotify.com/track/2PZrXkW8QNsJwYdG9lgTmB"
@@ -127,10 +127,32 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/0kDaCo0U2UcaM3SgZ1Ji7X"
+    },
+    {
+      "album": {
+        "name": "Mikrokozmos",
+        "url": "https://open.spotify.com/album/3sinUlAK8IZ2TqCAmpmWpj"
+      },
+      "artists": [
+        {
+          "name": "Beyhude",
+          "url": "https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo"
+        },
+        {
+          "name": "Dr Parnassus",
+          "url": "https://open.spotify.com/artist/5XEyV45wxK8tHOXIhJMOtk"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "Atmosfer - Dr. Parnassus Remix",
+      "url": "https://open.spotify.com/track/38B8FogBbXu8sIkZK9NFmt"
     },
     {
       "album": {
@@ -387,7 +409,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 230571,
       "name": "Dance or Die",
       "url": "https://open.spotify.com/track/7k6a58ZGLCWG7dCpptHPbq"
@@ -423,7 +445,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 228028,
       "name": "Dark Prince, Pt. 3",
       "url": "https://open.spotify.com/track/2zGsystFbZwMAlrJYxPHNL"
@@ -441,7 +463,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 257490,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ"
@@ -535,7 +557,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 111111,
       "name": "Droid Rage",
       "url": "https://open.spotify.com/track/6BzXcsB6HhmO7yQ7qBjK48"
@@ -600,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/3oLt3Z4c5n6t4XbAYCCccO"
+      },
+      "artists": [
+        {
+          "name": "World Complete",
+          "url": "https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247879,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/1g93dmi3Uw9YLFs0roRedm"
+    },
+    {
+      "album": {
         "name": "Drift Stage Main Theme / Exclusive Coup\u00e9",
         "url": "https://open.spotify.com/album/0x61SIpBPcnlrdqbG3y8Yg"
       },
@@ -655,6 +695,28 @@
       "duration_ms": 272173,
       "name": "Failed Star",
       "url": "https://open.spotify.com/track/39wuQ4m4GBzrGfivIjjL22"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/0sTuNWvCX4Wn5zDiflJ7Qz"
+      },
+      "artists": [
+        {
+          "name": "Grey Killer",
+          "url": "https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb"
+        },
+        {
+          "name": "BRESDEN",
+          "url": "https://open.spotify.com/artist/0djds6pkICcQcfaxmK3cSj"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0SoAEe3qrUmjh9YRX4FFbO"
     },
     {
       "album": {
@@ -801,7 +863,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 259591,
       "name": "Ghost Ship",
       "url": "https://open.spotify.com/track/56N8p428pdGMvLHRWmklzH"
@@ -877,6 +939,28 @@
       "duration_ms": 159939,
       "name": "Homo Deus",
       "url": "https://open.spotify.com/track/3l5bTYYEBEteJpi1MsA5qR"
+    },
+    {
+      "album": {
+        "name": "Hyperlandia",
+        "url": "https://open.spotify.com/album/3DUcJ8bqyo4cZNt97VkmKi"
+      },
+      "artists": [
+        {
+          "name": "deadmau5",
+          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
+        },
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349591,
+      "name": "Hyperlandia - Vocal Mix",
+      "url": "https://open.spotify.com/track/4Vd53EHIw4lEfe7rqHSctN"
     },
     {
       "album": {
@@ -963,7 +1047,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 171034,
       "name": "Laugh Away",
       "url": "https://open.spotify.com/track/4qSG7uX4AGz0rBxDQoFxH9"
@@ -1061,7 +1145,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 257614,
       "name": "Looking for Tracy Tzu",
       "url": "https://open.spotify.com/track/49zgQWxmae5SESFN60Dh33"
@@ -1079,7 +1163,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 257614,
       "name": "Looking for Tracy Tzu",
       "url": "https://open.spotify.com/track/546WYUcLvrd9YifNgEaGsi"
@@ -1119,7 +1203,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 327289,
       "name": "Luminance",
       "url": "https://open.spotify.com/track/0BxJspnDFiFfaOgOf0mSlw"
@@ -1159,7 +1243,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 231533,
       "name": "Maximum Performance",
       "url": "https://open.spotify.com/track/0VpFKLQP6Deh6sHETGCzrp"
@@ -1199,7 +1283,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 319250,
       "name": "Neo-Tokyo - Chromatique Remix",
       "url": "https://open.spotify.com/track/4994qi4UjoPStjsbUB8AAF"
@@ -1253,7 +1337,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 343140,
       "name": "Night City",
       "url": "https://open.spotify.com/track/2wRfmI3v2REarKJFzuzO46"
@@ -1333,7 +1417,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 252121,
       "name": "Nightride (Revisited)",
       "url": "https://open.spotify.com/track/52xsz9WmVwCXiRFOvMh5yQ"
@@ -1395,7 +1479,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 448790,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/6yeIdMq9nowvqdhWZoor9i"
@@ -1579,7 +1663,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 250285,
       "name": "Past Present",
       "url": "https://open.spotify.com/track/6NWqbfviq3zwoGqIlSnzuR"
@@ -1633,7 +1717,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 452427,
       "name": "Refusal Of The Return",
       "url": "https://open.spotify.com/track/27nEodVw1shr7qeyXMcsJ6"
@@ -1691,7 +1775,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "Shadow\u2019s Movement - 16BL\u2019s Universal Disco Mix",
       "url": "https://open.spotify.com/track/68QnK13w8jsIw5V1l9nUYJ"
@@ -1731,7 +1815,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 240000,
       "name": "Shimmer Isle",
       "url": "https://open.spotify.com/track/4MaEEuFFPYgOQQ2ibvcCsY"
@@ -1825,10 +1909,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 231401,
       "name": "Speedboat Night Sweat",
       "url": "https://open.spotify.com/track/3sgFYGElABoVcyPHNCKyki"
+    },
+    {
+      "album": {
+        "name": "Star Runner (From \"Wave Break\")",
+        "url": "https://open.spotify.com/album/6RT4pqLgOFc679rb7paaaR"
+      },
+      "artists": [
+        {
+          "name": "Droid Bishop",
+          "url": "https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Star Runner (From \"Wave Break\")",
+      "url": "https://open.spotify.com/track/2MCI32HJtDDDef0kn2ChgI"
     },
     {
       "album": {
@@ -1861,7 +1963,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 295000,
       "name": "Streetlights",
       "url": "https://open.spotify.com/track/2WincdoOjqG634OcRGqWPA"
@@ -1977,7 +2079,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 244500,
       "name": "Test Pilot",
       "url": "https://open.spotify.com/track/3k7F9Z4RKOajIRQ2gDWO7N"
@@ -2013,7 +2115,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 134666,
       "name": "The Mansion",
       "url": "https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD"
@@ -2139,7 +2241,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 374400,
       "name": "Visitors",
       "url": "https://open.spotify.com/track/3zT42LxWW5YUFEZDukGp5x"
@@ -2193,7 +2295,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 270720,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4QnTtQJnAxK61zOibTJpYT"

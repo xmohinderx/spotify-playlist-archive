@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Lullaby Renditions of Blake Shelton",
+        "url": "https://open.spotify.com/album/4EmetLmY8gysX1cUpJ30Th"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "God\u2019s Country",
+      "url": "https://open.spotify.com/track/6pD07VyA3OBit9l8wMI4cp"
+    },
+    {
+      "album": {
         "name": "Country Lullabies",
         "url": "https://open.spotify.com/album/5jBHodRD5s7OTu1MweI6BF"
       },

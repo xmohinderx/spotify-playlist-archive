@@ -1152,6 +1152,24 @@
     },
     {
       "album": {
+        "name": "Sickening",
+        "url": "https://open.spotify.com/album/2ZrjxpBRyOH2TdWntgXEre"
+      },
+      "artists": [
+        {
+          "name": "Alsace Carcione",
+          "url": "https://open.spotify.com/artist/43oMOJeZr8shNmaBvgvAKr"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191075,
+      "name": "Sickening",
+      "url": "https://open.spotify.com/track/0yO8JKlIOY6phGSlzFpKcm"
+    },
+    {
+      "album": {
         "name": "One Trick Pony",
         "url": "https://open.spotify.com/album/3DsBrHTjrvPVLDK05kqy93"
       },

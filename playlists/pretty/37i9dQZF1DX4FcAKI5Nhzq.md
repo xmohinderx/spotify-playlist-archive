@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: PENTAGON
+> Future K\-Pop hits! Cover: MAMADOL
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,623 likes - 53 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,969 likes - 53 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 52 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
 | 53 | [Unthinkable](https://open.spotify.com/track/0MQa8iD2fcVSnBzAGbdLeX) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [LOCK UP](https://open.spotify.com/album/4CbmJDPP4CuPnjUHaxUiju) | 3:07 |
 
-Snapshot ID: `MTY0Mzg2ODEzOCwwMDAwMDIzYzAwMDAwMTdlYmUyZDJhOWMwMDAwMDE3ZThiNTk1Y2Q0`
+Snapshot ID: `MTY0Mzk0NzM5OSwwMDAwMDIzZDAwMDAwMTdlYzJlNjk4OTYwMDAwMDE3ZWMyZTY0YTkz`

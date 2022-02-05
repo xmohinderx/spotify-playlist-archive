@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 258171,
       "name": "Black Land Prairie",
       "url": "https://open.spotify.com/track/1aVUXhUcwrzwDZZjHEBYhZ"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 223520,
       "name": "Electric Indigo",
       "url": "https://open.spotify.com/track/1xrYp1cdZYy8oBC41KTTTV"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 270853,
       "name": "Gamble for a Rose",
       "url": "https://open.spotify.com/track/3qhyaik3Koy3cvLk9h5L8G"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 277597,
       "name": "I Am a War Machine",
       "url": "https://open.spotify.com/track/6ux5Y3UFasNu0x3jgGY2Xe"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 208466,
       "name": "Leave Me Empty",
       "url": "https://open.spotify.com/track/5GFrgLaLMxGWaJevimSK2E"
@@ -1691,7 +1691,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 183786,
       "name": "Only Songs (Radio Edit)",
       "url": "https://open.spotify.com/track/6oToe0shcqyTZ00Hgdl9ZB"
@@ -2023,7 +2023,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 244506,
       "name": "Shattered & Hollow",
       "url": "https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW"
@@ -2059,7 +2059,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 216198,
       "name": "Soul In Mind",
       "url": "https://open.spotify.com/track/3tTroIOjnFUeohJqPeb4QB"
@@ -2113,7 +2113,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 189425,
       "name": "Starting from Scratch",
       "url": "https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs"
@@ -2329,7 +2329,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 291920,
       "name": "The John Wayne",
       "url": "https://open.spotify.com/track/460n97wRvhCNU4OVgZyM0V"
@@ -2671,7 +2671,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 280573,
       "name": "Wired",
       "url": "https://open.spotify.com/track/4RjB5oKr2A1newpYSoweDd"
@@ -2693,6 +2693,24 @@
       "duration_ms": 274093,
       "name": "Wish I Knew You",
       "url": "https://open.spotify.com/track/7jpP6QKGSJDpSFkAy3nKxG"
+    },
+    {
+      "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/5sirXG61pe7mBq8g6IlNxG"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177586,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/5EZSZuOQLCuZ050rIY4djw"
     },
     {
       "album": {

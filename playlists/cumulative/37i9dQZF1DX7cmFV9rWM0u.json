@@ -115,7 +115,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 212840,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/3SDvcxPcU7BlV1dAne4dWM"
@@ -792,6 +792,28 @@
     },
     {
       "album": {
+        "name": "Maldad",
+        "url": "https://open.spotify.com/album/2Pgu9J1194NsIU2dJSlXYO"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2022-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168158,
+      "name": "Maldad",
+      "url": "https://open.spotify.com/track/499kFE5yNFDRMrhKz96Vct"
+    },
+    {
+      "album": {
         "name": "Mambo (feat. Sean Paul, El Alfa, Sfera Ebbasta & Play-N-Skillz)",
         "url": "https://open.spotify.com/album/37G3F4ZFICzvfCXZ0vOLPu"
       },
@@ -1027,7 +1049,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 235603,
       "name": "Pa' La Cultura",
       "url": "https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX"
@@ -1167,7 +1189,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 222868,
       "name": "Poderosa",
       "url": "https://open.spotify.com/track/1Hs0fpydWBjawdgCocPaC7"
@@ -1215,7 +1237,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 169997,
       "name": "Que Calor (feat. J Balvin & El Alfa)",
       "url": "https://open.spotify.com/track/1RKZvaLj3UPhGjZkaIrFm7"
@@ -1523,7 +1545,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 232421,
       "name": "Te Mueves",
       "url": "https://open.spotify.com/track/23MEeQTkSmsDS6NjL8k6I8"

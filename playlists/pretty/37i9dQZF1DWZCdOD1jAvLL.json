@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Dr. Fresch",
-  "num_followers": 145082,
+  "num_followers": 145246,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM5NDE2NywwMDAwMDFlMzAwMDAwMTdlYTFlY2YyYWQwMDAwMDE3ZTdlM2QzZDUz",
+  "snapshot_id": "MTY0Mzk1MDgwMCwwMDAwMDFlNDAwMDAwMTdlYzMxYTdkNTQwMDAwMDE3ZTdlM2QzZDUz",
   "tracks": [
     {
       "added_at": "2022-01-28 17:47:06",
@@ -69,6 +69,26 @@
       "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
     },
     {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Color Of Your Soul",
+        "url": "https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Color Of Your Soul",
+      "url": "https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe"
+    },
+    {
       "added_at": "2022-01-28 17:47:06",
       "album": {
         "name": "Money",
@@ -113,6 +133,26 @@
       "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
     },
     {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Sillo",
+        "url": "https://open.spotify.com/album/5cMRL9Nv0wLvuArkp3qC9h"
+      },
+      "artists": [
+        {
+          "name": "L\u00f6Kii",
+          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+        },
+        {
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Sillo",
+      "url": "https://open.spotify.com/track/41nCgrlaeqVkMCcAEPuu6O"
+    },
+    {
       "added_at": "2022-01-28 17:47:06",
       "album": {
         "name": "California Dreamin\u2019 (feat. High Jinx) (Vintage Culture Remix)",
@@ -155,26 +195,6 @@
       "duration_ms": 169523,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/4MyPLcBTpqfXZJKcUhMXOg"
-    },
-    {
-      "added_at": "2022-01-28 17:47:06",
-      "album": {
-        "name": "Polite (feat. Malokyo)",
-        "url": "https://open.spotify.com/album/5rLswFt7tvu4Zh4rq2Yndt"
-      },
-      "artists": [
-        {
-          "name": "Return Of The Jaded",
-          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
-        },
-        {
-          "name": "Malokyo",
-          "url": "https://open.spotify.com/artist/3xLrKqOIgw2kuEdaB1eWs6"
-        }
-      ],
-      "duration_ms": 199059,
-      "name": "Polite (feat. Malokyo)",
-      "url": "https://open.spotify.com/track/0ymIxPq8P10uANAKQVCwCp"
     },
     {
       "added_at": "2022-01-28 17:47:06",
@@ -281,6 +301,62 @@
       "url": "https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK"
     },
     {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Better Things (feat. Tania Foster)",
+        "url": "https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Tania Foster",
+          "url": "https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y"
+        }
+      ],
+      "duration_ms": 205729,
+      "name": "Better Things (feat. Tania Foster)",
+      "url": "https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU"
+    },
+    {
+      "added_at": "2022-01-28 17:47:06",
+      "album": {
+        "name": "Polite (feat. Malokyo)",
+        "url": "https://open.spotify.com/album/5rLswFt7tvu4Zh4rq2Yndt"
+      },
+      "artists": [
+        {
+          "name": "Return Of The Jaded",
+          "url": "https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS"
+        },
+        {
+          "name": "Malokyo",
+          "url": "https://open.spotify.com/artist/3xLrKqOIgw2kuEdaB1eWs6"
+        }
+      ],
+      "duration_ms": 199059,
+      "name": "Polite (feat. Malokyo)",
+      "url": "https://open.spotify.com/track/0ymIxPq8P10uANAKQVCwCp"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Locco",
+        "url": "https://open.spotify.com/album/2yh108PHokTOI8D0p4iVvj"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 183875,
+      "name": "Locco",
+      "url": "https://open.spotify.com/track/1MtswMNmlmCn0fl0xf8qB1"
+    },
+    {
       "added_at": "2022-01-28 17:47:06",
       "album": {
         "name": "Next Round (feat. Tasha Kett)",
@@ -335,6 +411,30 @@
       "duration_ms": 234374,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/0vpvhFx17wBN7HHkxUOQUM"
+    },
+    {
+      "added_at": "2022-02-04 05:00:00",
+      "album": {
+        "name": "Move To The Beat Like",
+        "url": "https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip"
+      },
+      "artists": [
+        {
+          "name": "401 WST",
+          "url": "https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ"
+        },
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+        },
+        {
+          "name": "Ashton Adams",
+          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+        }
+      ],
+      "duration_ms": 106875,
+      "name": "Move To The Beat Like",
+      "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
     },
     {
       "added_at": "2022-01-28 17:47:06",

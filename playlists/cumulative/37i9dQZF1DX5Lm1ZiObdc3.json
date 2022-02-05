@@ -100,6 +100,24 @@
     },
     {
       "album": {
+        "name": "aubades",
+        "url": "https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277853,
+      "name": "amour",
+      "url": "https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7"
+    },
+    {
+      "album": {
         "name": "Neujahrskonzert 2020 / New Year's Concert 2020 / Concert du Nouvel An 2020",
         "url": "https://open.spotify.com/album/0y9J1ZRbq8HJBM3N0hrMX3"
       },

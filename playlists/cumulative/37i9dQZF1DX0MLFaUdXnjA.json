@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-11",
+      "date_removed": null,
       "duration_ms": 196730,
       "name": "Billie Bossa Nova",
       "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
@@ -1839,7 +1839,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 137983,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/16SKS0Na572RmGeajx7ker"
@@ -2155,10 +2155,28 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 184946,
       "name": "Calling All Angels (with Quinn XCII)",
       "url": "https://open.spotify.com/track/0elt9diH6UsDfMUR55BAx8"
+    },
+    {
+      "album": {
+        "name": "star-crossed",
+        "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159320,
+      "name": "camera roll",
+      "url": "https://open.spotify.com/track/58ITRjekhkYqHvuE71NUc0"
     },
     {
       "album": {
@@ -5685,7 +5703,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 183888,
       "name": "Green Book",
       "url": "https://open.spotify.com/track/2NcKWbWXShSy60ruFNqu3K"
@@ -8546,6 +8564,28 @@
     },
     {
       "album": {
+        "name": "london (with Cam)",
+        "url": "https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        },
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266219,
+      "name": "london (with Cam)",
+      "url": "https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln"
+    },
+    {
+      "album": {
         "name": "London Is Lonely",
         "url": "https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG"
       },
@@ -9451,7 +9491,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 157560,
       "name": "Missing You Today",
       "url": "https://open.spotify.com/track/0Nr2vFKsz207NQY0LP7IvV"
@@ -11332,6 +11372,28 @@
     },
     {
       "album": {
+        "name": "Rainbow Alley",
+        "url": "https://open.spotify.com/album/5egodvlltbFcR4EzkZ6OXz"
+      },
+      "artists": [
+        {
+          "name": "liza",
+          "url": "https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155283,
+      "name": "Rainbow Alley",
+      "url": "https://open.spotify.com/track/6t9iK4zQRM3ORMPYfn8rqo"
+    },
+    {
+      "album": {
         "name": "RBF: Part 1 - Spotify Singles",
         "url": "https://open.spotify.com/album/6O9K4rWuH7e1V5gM6hxDFH"
       },
@@ -11386,28 +11448,6 @@
     },
     {
       "album": {
-        "name": "Real Thing (feat. Elohim)",
-        "url": "https://open.spotify.com/album/6BelAZUC4yUO1wVouRJNmN"
-      },
-      "artists": [
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "date_added": "2021-12-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 185480,
-      "name": "Real Thing (feat. Elohim)",
-      "url": "https://open.spotify.com/track/5wb8h2gUzyhmCwOtGp29z4"
-    },
-    {
-      "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1"
       },
@@ -11427,6 +11467,28 @@
       "duration_ms": 195368,
       "name": "Real Thing (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
+    },
+    {
+      "album": {
+        "name": "Real Thing (feat. Elohim)",
+        "url": "https://open.spotify.com/album/6BelAZUC4yUO1wVouRJNmN"
+      },
+      "artists": [
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185480,
+      "name": "Real Thing (ft. Elohim)",
+      "url": "https://open.spotify.com/track/5wb8h2gUzyhmCwOtGp29z4"
     },
     {
       "album": {

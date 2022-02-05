@@ -1,12 +1,12 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 252355,
+  "num_followers": 252396,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTQzMjEyMCwwMDAwMDAyYzAwMDAwMTdiNjFiOTAzMjcwMDAwMDE3NzZlNzBjNGJl",
+  "snapshot_id": "MTY0Mzk1MDkyMCwwMDAwMDAyZDAwMDAwMTdlYzMxYzUxYTUwMDAwMDE3NzZlNzBjNGJl",
   "tracks": [
     {
       "added_at": "2021-05-25 23:58:49",
@@ -123,6 +123,30 @@
       "duration_ms": 249266,
       "name": "Soundscape",
       "url": "https://open.spotify.com/track/3fOdWS7sHmnPQNSVbQo6sx"
+    },
+    {
+      "added_at": "2022-02-04 05:02:00",
+      "album": {
+        "name": "One for Nieb",
+        "url": "https://open.spotify.com/album/5ohscyS9sYAT7AEKR8avFd"
+      },
+      "artists": [
+        {
+          "name": "Paulo Morello",
+          "url": "https://open.spotify.com/artist/7HOLgdn03zAzkJ0c1Rdzv0"
+        },
+        {
+          "name": "Mulo Francel",
+          "url": "https://open.spotify.com/artist/4ZfWg40EXHfCUiXHOIfRsI"
+        },
+        {
+          "name": "Sven Faller",
+          "url": "https://open.spotify.com/artist/498SI25eedUQQUqzrf74NF"
+        }
+      ],
+      "duration_ms": 329695,
+      "name": "One for Nieb",
+      "url": "https://open.spotify.com/track/5Gw7MeQTfT7WXrn5f14mm8"
     },
     {
       "added_at": "2021-02-04 20:47:19",

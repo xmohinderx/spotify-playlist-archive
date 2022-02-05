@@ -1,12 +1,12 @@
 {
   "description": "hyperpop is a simulation. Cover: ericdoa",
-  "num_followers": 285130,
+  "num_followers": 285669,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzkwMTU1MywwMDAwMDEyMTAwMDAwMTdlYzAyYjBkMDYwMDAwMDE3ZTljYzBiODJm",
+  "snapshot_id": "MTY0Mzk1MDk4MCwwMDAwMDEyMjAwMDAwMTdlYzMxZDNjMDkwMDAwMDE3ZTljYzBiODJm",
   "tracks": [
     {
       "added_at": "2022-01-28 05:13:00",
@@ -23,6 +23,42 @@
       "duration_ms": 118670,
       "name": "sad4whattt - From \"Euphoria\" An HBO Original Series",
       "url": "https://open.spotify.com/track/3oM8s8hnrh6xjKv1iycJaZ"
+    },
+    {
+      "added_at": "2022-02-04 05:03:00",
+      "album": {
+        "name": "riddle",
+        "url": "https://open.spotify.com/album/0z3Iiza1Fz3vbiHkMgi6RW"
+      },
+      "artists": [
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "duration_ms": 108045,
+      "name": "riddle",
+      "url": "https://open.spotify.com/track/3XVAivXQWs5stb6bhR7tVM"
+    },
+    {
+      "added_at": "2022-02-04 05:03:00",
+      "album": {
+        "name": "smack'd",
+        "url": "https://open.spotify.com/album/2efYM4CCNSenq3CQLvCA8f"
+      },
+      "artists": [
+        {
+          "name": "Button Maker",
+          "url": "https://open.spotify.com/artist/4MAagcKJAflUPllm4L7SOQ"
+        },
+        {
+          "name": "swazy*",
+          "url": "https://open.spotify.com/artist/2GJ6PPwgGBtFS6RX0WFzFV"
+        }
+      ],
+      "duration_ms": 106038,
+      "name": "smack'd",
+      "url": "https://open.spotify.com/track/0brgyfMV6ecfOSlTmKhsk5"
     },
     {
       "added_at": "2022-01-21 05:05:00",
@@ -85,20 +121,20 @@
       "url": "https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n"
     },
     {
-      "added_at": "2022-02-01 14:59:51",
+      "added_at": "2022-02-04 05:03:00",
       "album": {
-        "name": "LOVE IS VIOLENCE",
-        "url": "https://open.spotify.com/album/3wrX9MJvRVrCEJGHGwNvH9"
+        "name": "toxic",
+        "url": "https://open.spotify.com/album/1EmyN13kRMiGNbevnmCPPC"
       },
       "artists": [
         {
-          "name": "Alice Glass",
-          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+          "name": "juno",
+          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
         }
       ],
-      "duration_ms": 157933,
-      "name": "LOVE IS VIOLENCE",
-      "url": "https://open.spotify.com/track/5Bii5cjilhQ9v3BSeSEhnM"
+      "duration_ms": 142774,
+      "name": "toxic",
+      "url": "https://open.spotify.com/track/7BT5AwfQ7nYBMXOM64OTMo"
     },
     {
       "added_at": "2022-01-21 05:05:00",
@@ -128,8 +164,8 @@
       },
       "artists": [
         {
-          "name": "Siouxxie",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/4SSaUSznlkAtjmuiEqa7QW"
         }
       ],
       "duration_ms": 144761,
@@ -169,6 +205,22 @@
       "url": "https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt"
     },
     {
+      "added_at": "2022-02-01 14:59:51",
+      "album": {
+        "name": "LOVE IS VIOLENCE",
+        "url": "https://open.spotify.com/album/3wrX9MJvRVrCEJGHGwNvH9"
+      },
+      "artists": [
+        {
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+        }
+      ],
+      "duration_ms": 157933,
+      "name": "LOVE IS VIOLENCE",
+      "url": "https://open.spotify.com/track/5Bii5cjilhQ9v3BSeSEhnM"
+    },
+    {
       "added_at": "2022-01-26 22:13:05",
       "album": {
         "name": "fishmonger",
@@ -205,6 +257,102 @@
       "url": "https://open.spotify.com/track/0qjslFzLzx8lKJ1kBRi8gQ"
     },
     {
+      "added_at": "2022-02-04 05:03:00",
+      "album": {
+        "name": "hair",
+        "url": "https://open.spotify.com/album/5oJyYWIWHNReVXPDTsSXrj"
+      },
+      "artists": [
+        {
+          "name": "heylog",
+          "url": "https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c"
+        }
+      ],
+      "duration_ms": 241276,
+      "name": "hair",
+      "url": "https://open.spotify.com/track/5N2qTSAxrgR9KC9VGiaJLh"
+    },
+    {
+      "added_at": "2022-02-04 05:03:00",
+      "album": {
+        "name": "hey i'm in texas, do u wanna hang/talk?",
+        "url": "https://open.spotify.com/album/2D9rWo88jntywhPBuGjPJZ"
+      },
+      "artists": [
+        {
+          "name": "Musa",
+          "url": "https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE"
+        }
+      ],
+      "duration_ms": 154551,
+      "name": "hey i'm in texas, do u wanna hang/talk?",
+      "url": "https://open.spotify.com/track/7yRkcEBdg4vhpK8ddBDh5w"
+    },
+    {
+      "added_at": "2022-02-04 05:03:00",
+      "album": {
+        "name": "Mid2007 (Deluxe)",
+        "url": "https://open.spotify.com/album/3fLFnSQ5467BEajY4h77ca"
+      },
+      "artists": [
+        {
+          "name": "Midfebruary",
+          "url": "https://open.spotify.com/artist/6zWI3nb7J7mTQC4SwB2L2N"
+        }
+      ],
+      "duration_ms": 145968,
+      "name": "stole my heart",
+      "url": "https://open.spotify.com/track/13QP4bVJSFuNAgNwWhTYGt"
+    },
+    {
+      "added_at": "2022-02-04 05:03:00",
+      "album": {
+        "name": "prism",
+        "url": "https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7"
+      },
+      "artists": [
+        {
+          "name": "monty.pk",
+          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
+        }
+      ],
+      "duration_ms": 152967,
+      "name": "prism",
+      "url": "https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa"
+    },
+    {
+      "added_at": "2022-02-04 05:03:00",
+      "album": {
+        "name": "0h G0D!!",
+        "url": "https://open.spotify.com/album/72t0guyJB2U5L9wM4ynPTM"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "0h G0D!!",
+      "url": "https://open.spotify.com/track/3wvGpG9cbnWKYlMfLwyLXh"
+    },
+    {
+      "added_at": "2022-01-07 07:56:00",
+      "album": {
+        "name": "selfdestruct",
+        "url": "https://open.spotify.com/album/38MgHK12c40SSoNDvMrtlK"
+      },
+      "artists": [
+        {
+          "name": "torr",
+          "url": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "selfdestruct",
+      "url": "https://open.spotify.com/track/0JEViMA9EhoTE501kxvJMU"
+    },
+    {
       "added_at": "2022-01-28 05:13:00",
       "album": {
         "name": "YORWTB",
@@ -227,42 +375,6 @@
       "duration_ms": 153333,
       "name": "mad",
       "url": "https://open.spotify.com/track/5XwnTvQFHavBkysCPkq4g1"
-    },
-    {
-      "added_at": "2022-01-28 05:13:00",
-      "album": {
-        "name": "Beg For You (feat. Rina Sawayama)",
-        "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Beg For You (feat. Rina Sawayama)",
-      "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
-    },
-    {
-      "added_at": "2022-01-07 07:56:00",
-      "album": {
-        "name": "selfdestruct",
-        "url": "https://open.spotify.com/album/38MgHK12c40SSoNDvMrtlK"
-      },
-      "artists": [
-        {
-          "name": "torr",
-          "url": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
-        }
-      ],
-      "duration_ms": 153191,
-      "name": "selfdestruct",
-      "url": "https://open.spotify.com/track/0JEViMA9EhoTE501kxvJMU"
     },
     {
       "added_at": "2022-01-21 05:05:00",
@@ -329,6 +441,158 @@
       "url": "https://open.spotify.com/track/0H00Yx4Ih4L3m2tOgEQNtO"
     },
     {
+      "added_at": "2021-12-21 15:06:00",
+      "album": {
+        "name": "bitter",
+        "url": "https://open.spotify.com/album/2c86CPDBePhbDWVuFhF3OB"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "Payday",
+          "url": "https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0"
+        }
+      ],
+      "duration_ms": 215727,
+      "name": "bitter",
+      "url": "https://open.spotify.com/track/1nO2Q6aTVKQ7x3yhdzZfMS"
+    },
+    {
+      "added_at": "2021-11-24 16:30:27",
+      "album": {
+        "name": "1000 gecs",
+        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        },
+        {
+          "name": "Laura Les",
+          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
+        },
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 126616,
+      "name": "hand crushed by a mallet",
+      "url": "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
+    },
+    {
+      "added_at": "2021-10-20 16:18:10",
+      "album": {
+        "name": "all I want is you",
+        "url": "https://open.spotify.com/album/78zySHGi3bB36rQ8NVGxFt"
+      },
+      "artists": [
+        {
+          "name": "Rebzyyx",
+          "url": "https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno"
+        },
+        {
+          "name": "hoshie star",
+          "url": "https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001"
+        }
+      ],
+      "duration_ms": 151415,
+      "name": "all I want is you",
+      "url": "https://open.spotify.com/track/6qYmLmMTMpLPi80Mh0EbGb"
+    },
+    {
+      "added_at": "2022-01-28 05:13:00",
+      "album": {
+        "name": "\u041a\u0440\u044b\u0448\u0443 \u0441\u043d\u043e\u0441\u0438\u0442",
+        "url": "https://open.spotify.com/album/3URDUiopN6UnnaOc6SYcAZ"
+      },
+      "artists": [
+        {
+          "name": "LXNER",
+          "url": "https://open.spotify.com/artist/0u32PEQJMO9ufiSInHtKXt"
+        },
+        {
+          "name": "quiizzzmeow",
+          "url": "https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW"
+        }
+      ],
+      "duration_ms": 174977,
+      "name": "\u041a\u0440\u044b\u0448\u0443 \u0441\u043d\u043e\u0441\u0438\u0442",
+      "url": "https://open.spotify.com/track/67Me2LmeUSJZGGSvVQUqbB"
+    },
+    {
+      "added_at": "2021-12-10 06:56:00",
+      "album": {
+        "name": "GAMEBOY",
+        "url": "https://open.spotify.com/album/6CrxVIs6PZY93TYnNwVx3W"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "GAMEBOY",
+      "url": "https://open.spotify.com/track/4H7uK9wWfh8AaDS0pVWh0f"
+    },
+    {
+      "added_at": "2021-11-29 15:25:00",
+      "album": {
+        "name": "hate",
+        "url": "https://open.spotify.com/album/7CZxTJFh2pvZXycuF43LkY"
+      },
+      "artists": [
+        {
+          "name": "Overpade",
+          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
+        }
+      ],
+      "duration_ms": 105183,
+      "name": "hate",
+      "url": "https://open.spotify.com/track/3Jlch5AQC4NS7dS5GO7lYk"
+    },
+    {
+      "added_at": "2022-01-28 05:13:00",
+      "album": {
+        "name": "Beg For You (feat. Rina Sawayama)",
+        "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Beg For You (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
+    },
+    {
+      "added_at": "2021-09-17 04:00:00",
+      "album": {
+        "name": "help_urself (Alternates)",
+        "url": "https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "duration_ms": 118087,
+      "name": "help_urself - breakcore",
+      "url": "https://open.spotify.com/track/3mfO4NyNl1sW4WabTejw4y"
+    },
+    {
       "added_at": "2022-01-28 05:13:00",
       "album": {
         "name": "4MOODss",
@@ -359,26 +623,6 @@
       "duration_ms": 112728,
       "name": "running back",
       "url": "https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX"
-    },
-    {
-      "added_at": "2021-12-21 15:06:00",
-      "album": {
-        "name": "bitter",
-        "url": "https://open.spotify.com/album/2c86CPDBePhbDWVuFhF3OB"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        },
-        {
-          "name": "Payday",
-          "url": "https://open.spotify.com/artist/6I7IZDntAGBmzkCANUmtV0"
-        }
-      ],
-      "duration_ms": 215727,
-      "name": "bitter",
-      "url": "https://open.spotify.com/track/1nO2Q6aTVKQ7x3yhdzZfMS"
     },
     {
       "added_at": "2022-01-21 05:05:00",
@@ -433,30 +677,6 @@
       "url": "https://open.spotify.com/track/1fkVOIKnMeR1NkBPnIfUQ8"
     },
     {
-      "added_at": "2021-11-24 16:30:27",
-      "album": {
-        "name": "1000 gecs",
-        "url": "https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu"
-      },
-      "artists": [
-        {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
-        },
-        {
-          "name": "Laura Les",
-          "url": "https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6"
-        },
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 126616,
-      "name": "hand crushed by a mallet",
-      "url": "https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS"
-    },
-    {
       "added_at": "2022-01-21 05:05:00",
       "album": {
         "name": "club penguin",
@@ -503,26 +723,6 @@
       "duration_ms": 210345,
       "name": "pretty things",
       "url": "https://open.spotify.com/track/6zcRgqSdi9PwQjmYd9jnj8"
-    },
-    {
-      "added_at": "2021-10-20 16:18:10",
-      "album": {
-        "name": "all I want is you",
-        "url": "https://open.spotify.com/album/78zySHGi3bB36rQ8NVGxFt"
-      },
-      "artists": [
-        {
-          "name": "Rebzyyx",
-          "url": "https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno"
-        },
-        {
-          "name": "hoshie star",
-          "url": "https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001"
-        }
-      ],
-      "duration_ms": 151415,
-      "name": "all I want is you",
-      "url": "https://open.spotify.com/track/6qYmLmMTMpLPi80Mh0EbGb"
     },
     {
       "added_at": "2022-01-21 05:05:00",
@@ -627,26 +827,6 @@
       "duration_ms": 206206,
       "name": "No Smoke (feat. DC The Don)",
       "url": "https://open.spotify.com/track/5TqAWu0AhiQ7rPne0JMhxq"
-    },
-    {
-      "added_at": "2022-01-28 05:13:00",
-      "album": {
-        "name": "\u041a\u0440\u044b\u0448\u0443 \u0441\u043d\u043e\u0441\u0438\u0442",
-        "url": "https://open.spotify.com/album/3URDUiopN6UnnaOc6SYcAZ"
-      },
-      "artists": [
-        {
-          "name": "LXNER",
-          "url": "https://open.spotify.com/artist/0u32PEQJMO9ufiSInHtKXt"
-        },
-        {
-          "name": "quiizzzmeow",
-          "url": "https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW"
-        }
-      ],
-      "duration_ms": 174977,
-      "name": "\u041a\u0440\u044b\u0448\u0443 \u0441\u043d\u043e\u0441\u0438\u0442",
-      "url": "https://open.spotify.com/track/67Me2LmeUSJZGGSvVQUqbB"
     },
     {
       "added_at": "2022-01-21 05:05:00",
@@ -929,22 +1109,6 @@
       "url": "https://open.spotify.com/track/1GpjEseBMUiJNx8PfABTuM"
     },
     {
-      "added_at": "2021-12-10 06:56:00",
-      "album": {
-        "name": "GAMEBOY",
-        "url": "https://open.spotify.com/album/6CrxVIs6PZY93TYnNwVx3W"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "GAMEBOY",
-      "url": "https://open.spotify.com/track/4H7uK9wWfh8AaDS0pVWh0f"
-    },
-    {
       "added_at": "2022-01-05 15:39:42",
       "album": {
         "name": "bad luck",
@@ -1067,22 +1231,6 @@
       "duration_ms": 88952,
       "name": "Shame",
       "url": "https://open.spotify.com/track/2SGlRbQZwOID4xScKqF0lC"
-    },
-    {
-      "added_at": "2021-11-29 15:25:00",
-      "album": {
-        "name": "hate",
-        "url": "https://open.spotify.com/album/7CZxTJFh2pvZXycuF43LkY"
-      },
-      "artists": [
-        {
-          "name": "Overpade",
-          "url": "https://open.spotify.com/artist/03hSZAtyBlgYcfb02Nhh6q"
-        }
-      ],
-      "duration_ms": 105183,
-      "name": "hate",
-      "url": "https://open.spotify.com/track/3Jlch5AQC4NS7dS5GO7lYk"
     },
     {
       "added_at": "2022-01-14 15:36:49",
@@ -1303,22 +1451,6 @@
       "duration_ms": 125552,
       "name": "imma ruin you, cunt",
       "url": "https://open.spotify.com/track/10cwI6BlVEBgUJBl4mgcxk"
-    },
-    {
-      "added_at": "2021-09-17 04:00:00",
-      "album": {
-        "name": "help_urself (Alternates)",
-        "url": "https://open.spotify.com/album/7MyfgVtudevZkaalHSpE46"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
-        }
-      ],
-      "duration_ms": 118087,
-      "name": "help_urself - breakcore",
-      "url": "https://open.spotify.com/track/3mfO4NyNl1sW4WabTejw4y"
     },
     {
       "added_at": "2021-07-23 04:24:00",

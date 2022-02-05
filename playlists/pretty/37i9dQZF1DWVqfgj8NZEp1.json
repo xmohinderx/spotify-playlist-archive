@@ -1,13 +1,29 @@
 {
   "description": "Relax to the sound of jazz.",
-  "num_followers": 2359771,
+  "num_followers": 2359876,
   "original_name": "Coffee Table Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM4NTI0NywwMDAwMDA4NTAwMDAwMTdlYTE2NGQ1MWEwMDAwMDE2ZDAwY2EyYTc2",
+  "snapshot_id": "MTY0Mzk1MDg2MCwwMDAwMDA4NjAwMDAwMTdlYzMxYjY3NWIwMDAwMDE2ZDAwY2EyYTc2",
   "tracks": [
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Jazz at Night",
+        "url": "https://open.spotify.com/album/7cjqOoWOgTfdrmTeUjvh4u"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "It's In The Middle Of The Night",
+      "url": "https://open.spotify.com/track/7yRKzNvEQz9cngBQhjJp7L"
+    },
     {
       "added_at": "2022-01-28 15:53:24",
       "album": {

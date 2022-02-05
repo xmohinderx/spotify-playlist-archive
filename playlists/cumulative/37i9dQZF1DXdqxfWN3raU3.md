@@ -2,7 +2,7 @@
 
 ### [R&B Latino](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
-> Disfruta del más fino R&B creado en el continente y España\. Foto: Tiago PZK, LIT killah, Maria Becerra, Nicki Nicole
+> Disfruta del más fino R&B creado en el continente y España\. Foto: Selene
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Beso Picor](https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Beso Picor](https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR) | 3:46 | 2021-12-13 |  |
 | [Brillo en Soledad](https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr) | 4:22 | 2021-12-13 |  |
 | [Caliope](https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl) | [Caliope](https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa) | 3:22 | 2022-01-21 |  |
-| [Cambio](https://open.spotify.com/track/0WvD8VcyBR81nZOVvVpC32) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Cambio](https://open.spotify.com/album/1Wx284gZVggOh2cVd9NcDA) | 2:55 | 2021-12-13 |  |
+| [Cambio](https://open.spotify.com/track/0WvD8VcyBR81nZOVvVpC32) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Cambio](https://open.spotify.com/album/1Wx284gZVggOh2cVd9NcDA) | 2:55 | 2021-12-13 | 2022-02-05 |
 | [Carmesí](https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Carmesí](https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9) | 2:45 | 2021-12-13 |  |
 | [CERO, DOS](https://open.spotify.com/track/6jSkGlUMfrhidBGTGhdKsN) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [CERO, DOS](https://open.spotify.com/album/7KChubVF25Sx3TixA4RkoJ) | 3:29 | 2021-12-13 |  |
 | [city girls](https://open.spotify.com/track/6ogHlZQd9M2Y8SwltuDQdN) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 2:55 | 2021-12-13 |  |
@@ -86,6 +86,7 @@
 | [Odiame o Quiereme](https://open.spotify.com/track/1rLwwHaXkZUOBQU1vd2pPt) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Odiame o Quiereme](https://open.spotify.com/album/0cMIt86ttp5wqaYlhlk83N) | 4:34 | 2021-12-13 |  |
 | [Otra Vez](https://open.spotify.com/track/5uaemjcyPUf8tE6TwnQWtr) | [King Duval](https://open.spotify.com/artist/0Lec5omxt5QmYW5LhrjMIu) | [Otra Vez](https://open.spotify.com/album/7elv2otFkZlylI55zFPIDP) | 3:12 | 2021-12-13 |  |
 | [Para Dos](https://open.spotify.com/track/32UUJ4GlnEzQ6S7OlUxC8P) | [Kafi](https://open.spotify.com/artist/4Sel9suIpjL2glt946Fx4I) | [Para Dos](https://open.spotify.com/album/1BncYNNGSaBgFKDJEdDCS9) | 2:37 | 2021-12-13 |  |
+| [Para Hacernos Bien](https://open.spotify.com/track/55GecPCH7Vvl9j36euFxNu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [erihka](https://open.spotify.com/artist/68pEaQXF6WYi0PWfq1LyYd) | [Para Hacernos Bien](https://open.spotify.com/album/5EfzUHUPMdgbWZft0Lr91A) | 3:10 | 2022-02-04 |  |
 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/6DL3askn1pOCp6Ch2imE74) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/album/4u1QVmlGWpPJUq1n3PaEWd) | 3:50 | 2021-12-13 | 2022-01-29 |
 | [Pieles](https://open.spotify.com/track/53P2WWtGXFQFyxS8u93RHK) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Pieles](https://open.spotify.com/album/1uMhYncnSaolYPFuA15Y0R) | 2:51 | 2021-12-13 |  |
 | [Pulsiones](https://open.spotify.com/track/41WKZIuNkbyPRy0gj7XpNg) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Pulsiones](https://open.spotify.com/album/0rLIHu6IvHDXzUYZ3GlU4I) | 2:57 | 2021-12-13 |  |

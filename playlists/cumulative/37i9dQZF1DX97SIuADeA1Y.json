@@ -219,7 +219,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 194000,
       "name": "Bad Trip",
       "url": "https://open.spotify.com/track/7lFJ0T8zdByaG0cnbsCAgI"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 157142,
       "name": "Eat Sleep Repeat (feat. Nethy Aber)",
       "url": "https://open.spotify.com/track/5UEsKg7v5m0l0e37q7CTYj"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 146693,
       "name": "Enough Of You",
       "url": "https://open.spotify.com/track/0mDINHqydpdNSyPKPCxB7z"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 170662,
       "name": "Everybody Cries",
       "url": "https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 161280,
       "name": "Fall",
       "url": "https://open.spotify.com/track/00cSOUQOAsFheNuCPCJiuG"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 139354,
       "name": "Game",
       "url": "https://open.spotify.com/track/1282qgDXqqQiA6n3u1h32q"
@@ -1123,10 +1123,32 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 184687,
       "name": "Kids (feat. MKLA)",
       "url": "https://open.spotify.com/track/3rgTS3933lMWoPiN6CW4qY"
+    },
+    {
+      "album": {
+        "name": "La alegria",
+        "url": "https://open.spotify.com/album/1hIRGOqH8X8IVdL8KfiThE"
+      },
+      "artists": [
+        {
+          "name": "Scott Rill",
+          "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+        },
+        {
+          "name": "Yasmin Levy",
+          "url": "https://open.spotify.com/artist/1XDkuk3pjmco8Mkd93Qxbu"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173343,
+      "name": "La alegria",
+      "url": "https://open.spotify.com/track/2p2K1OSRcRuZFmBrnqQt46"
     },
     {
       "album": {
@@ -1193,7 +1215,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/5HCab6cbYS5oQo29wc2dLq"
@@ -1233,7 +1255,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 197760,
       "name": "Ma Ma Ma",
       "url": "https://open.spotify.com/track/19c7r2qm1FD7runvg0VzQa"
@@ -1281,6 +1303,28 @@
       "duration_ms": 149062,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0DuZMXIz67N75PijSWwe7k"
+    },
+    {
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/5NYNh8uvOa2ilcG16Fy52V"
+      },
+      "artists": [
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        },
+        {
+          "name": "Mingue",
+          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130848,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/20zTb6lu1t257GDy8LFDWK"
     },
     {
       "album": {
@@ -1703,7 +1747,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 141170,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ"
@@ -1725,7 +1769,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 176640,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/3vrm4dNThrhQ0BArrLIUOV"
@@ -1747,7 +1791,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 144555,
       "name": "Southside Island",
       "url": "https://open.spotify.com/track/7mZ8vvsG2IFgDTWwtKKY0E"
@@ -1839,7 +1883,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 137708,
       "name": "Sushi",
       "url": "https://open.spotify.com/track/2kMSfE03xa0kyksSNIfufy"
@@ -2123,7 +2167,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 145447,
       "name": "What Goes Around",
       "url": "https://open.spotify.com/track/2jiaQsa5E84U1WER1skDDv"
@@ -2255,7 +2299,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 176744,
       "name": "You Spin Me Round (Like A Record) - Radio Edit",
       "url": "https://open.spotify.com/track/5zdbSrKdmK9qDTkqzidcN7"
@@ -2289,7 +2333,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Zombie (Zombic & Felix Schorn Remix)",
       "url": "https://open.spotify.com/track/3p07oZZpSNdVtN93M5yIY5"

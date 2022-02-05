@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The trending country songs and viral hits you need to know. ",
+  "description": "The trending country songs and viral hits you need to know. Cover: Mason Ramsey",
   "name": "Viral Country",
   "published_playlist_ids": [
     "5RPUuOuY7lpUPnjhceluUd"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 180652,
       "name": "2020",
       "url": "https://open.spotify.com/track/3OG2MwfPXYLvPMF4CK4Mo0"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 210169,
       "name": "Before He Could",
       "url": "https://open.spotify.com/track/1RQ38vNdWlETjupj9IXdQm"
@@ -539,6 +539,24 @@
       "duration_ms": 169254,
       "name": "Gone Too Soon",
       "url": "https://open.spotify.com/track/07mnxqYqssab1EEBynCuQ4"
+    },
+    {
+      "album": {
+        "name": "Growing Old With You",
+        "url": "https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ"
+      },
+      "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196007,
+      "name": "Growing Old With You",
+      "url": "https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG"
     },
     {
       "album": {

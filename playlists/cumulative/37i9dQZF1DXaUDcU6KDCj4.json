@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & singer-songwriter. Cover: The Weather Station",
+  "description": "Hear what's new in folk, roots & singer-songwriter. Cover: Wild Rivers",
   "name": "Fresh Folk",
   "published_playlist_ids": [
     "7yU452WcXvKlp2CXhHrD6N"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 183306,
       "name": "Are You Washed in the Blood?",
       "url": "https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM"
@@ -355,10 +355,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 210426,
       "name": "Bedrock",
       "url": "https://open.spotify.com/track/0jd9hK7zbDbhZKy1jF7NZT"
+    },
+    {
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "Bedrock",
+      "url": "https://open.spotify.com/track/5gzS0JyrF7IHZzMH4rNpoK"
     },
     {
       "album": {
@@ -568,6 +586,28 @@
     },
     {
       "album": {
+        "name": "Lighten Up",
+        "url": "https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        },
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216920,
+      "name": "Can't See Stars (feat. Kevin Morby)",
+      "url": "https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H"
+    },
+    {
+      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/1qSYkiIAFof7yxgLsrvxl7"
       },
@@ -688,6 +728,28 @@
     },
     {
       "album": {
+        "name": "Contrast And Compare (Companion Version)",
+        "url": "https://open.spotify.com/album/36NOMnZfejmy5udW39a2nJ"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "Contrast And Compare - Companion Version",
+      "url": "https://open.spotify.com/track/2xIpqgjcUXez0wy8Hc6Zfw"
+    },
+    {
+      "album": {
         "name": "Cosmic Sigh",
         "url": "https://open.spotify.com/album/2mk3EdzRo6ZDOlHfzi6KRC"
       },
@@ -699,7 +761,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 220320,
       "name": "Cosmic Sigh",
       "url": "https://open.spotify.com/track/6N943n0gJTygKYkUfxL5lK"
@@ -753,7 +815,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 196606,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
@@ -793,7 +855,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 186746,
       "name": "Darkness to Light",
       "url": "https://open.spotify.com/track/7lWvTtLciawXhPqDdR0jIc"
@@ -984,6 +1046,24 @@
     },
     {
       "album": {
+        "name": "El Mirador",
+        "url": "https://open.spotify.com/album/0G9Bc2RYNUkCjUFK4zWKlX"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218773,
+      "name": "El Mirador",
+      "url": "https://open.spotify.com/track/6HQgUBaY6RbmmrXRER8y8E"
+    },
+    {
+      "album": {
         "name": "Endless Time",
         "url": "https://open.spotify.com/album/3O9OPQkKo48XW6DohCrAOJ"
       },
@@ -1017,7 +1097,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 214468,
       "name": "erase me (feat. Jacob Collier)",
       "url": "https://open.spotify.com/track/0In3u56vbH2at3bViAzzwq"
@@ -1371,6 +1451,24 @@
       "duration_ms": 181493,
       "name": "Game For Guessing (feat. Robert Ellis)",
       "url": "https://open.spotify.com/track/4jqAbk5oP2vIWnqmMGWGBt"
+    },
+    {
+      "album": {
+        "name": "Get What You Want",
+        "url": "https://open.spotify.com/album/1QujFDWoU7kZy31k7r5vwd"
+      },
+      "artists": [
+        {
+          "name": "Sir Woman",
+          "url": "https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271426,
+      "name": "Get What You Want",
+      "url": "https://open.spotify.com/track/6sUOIfXOVPadEdWa3Otr0Y"
     },
     {
       "album": {
@@ -1764,6 +1862,28 @@
     },
     {
       "album": {
+        "name": "I Know You Know Me (With Matt Berninger)",
+        "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        },
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199123,
+      "name": "I Know You Know Me (With Matt Berninger)",
+      "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
+    },
+    {
+      "album": {
         "name": "I Won't Mention It Again",
         "url": "https://open.spotify.com/album/455BgkjYWdEkJzwQxLb8Pp"
       },
@@ -1869,6 +1989,24 @@
       "duration_ms": 294906,
       "name": "If Trouble Comes a Lookin'",
       "url": "https://open.spotify.com/track/2VZc62J4lUxBxYYXd1RM4c"
+    },
+    {
+      "album": {
+        "name": "If/Then",
+        "url": "https://open.spotify.com/album/3k869jddn1qTtcyFECxjy0"
+      },
+      "artists": [
+        {
+          "name": "Davis John Patton",
+          "url": "https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194760,
+      "name": "If/Then",
+      "url": "https://open.spotify.com/track/690kSfTxw0OVxgRxHlT4bm"
     },
     {
       "album": {
@@ -1984,6 +2122,24 @@
     },
     {
       "album": {
+        "name": "And Now, Let's Turn to Page\u2026",
+        "url": "https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220363,
+      "name": "Just a Closer Walk with Thee",
+      "url": "https://open.spotify.com/track/6TA6uo5Wi9OnWR9HbftAUb"
+    },
+    {
+      "album": {
         "name": "Just a Closer Walk with Thee",
         "url": "https://open.spotify.com/album/5CyR9w2KXUln4DjH00qo4g"
       },
@@ -1995,7 +2151,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 220363,
       "name": "Just a Closer Walk with Thee",
       "url": "https://open.spotify.com/track/7h9AJvnX2HY794n0YhDNwt"
@@ -2657,7 +2813,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 173560,
       "name": "On Your Way (Felix Song)",
       "url": "https://open.spotify.com/track/30hY3WEcrl1ScoND2yBy9T"
@@ -2747,7 +2903,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 237826,
       "name": "Paint This Town",
       "url": "https://open.spotify.com/track/7vSdW9hmGF0YPbqYcaOnYS"
@@ -2776,6 +2932,24 @@
     },
     {
       "album": {
+        "name": "Pick and Choose",
+        "url": "https://open.spotify.com/album/62pznCH0GxT1WTDheTB5uJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Nunnelee",
+          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Pick and Choose",
+      "url": "https://open.spotify.com/track/7yTeopUxZZrDc31m6AfwWo"
+    },
+    {
+      "album": {
         "name": "Picture of You (feat. Hayden Calnin)",
         "url": "https://open.spotify.com/album/0Mz6NtZLK5oR3SZvK8kFk0"
       },
@@ -2791,7 +2965,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 261523,
       "name": "Picture of You (feat. Hayden Calnin)",
       "url": "https://open.spotify.com/track/0rqZHv7LtB9swrz1rouNA0"
@@ -2881,7 +3055,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 255030,
       "name": "Please Don't",
       "url": "https://open.spotify.com/track/2pdkCDCJicLTclo17fzRaC"
@@ -3018,6 +3192,42 @@
     },
     {
       "album": {
+        "name": "Rain Like This",
+        "url": "https://open.spotify.com/album/1bFcRbOHgyxTcmlSopHnyo"
+      },
+      "artists": [
+        {
+          "name": "Sarah Buxton",
+          "url": "https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197348,
+      "name": "Rain Like This",
+      "url": "https://open.spotify.com/track/5UoqxnKXdzJW609IsL0w4G"
+    },
+    {
+      "album": {
+        "name": "Real Heart",
+        "url": "https://open.spotify.com/album/3MnrQYNpy5o9H4bGhkkpdU"
+      },
+      "artists": [
+        {
+          "name": "Mason Jennings",
+          "url": "https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228173,
+      "name": "Real Heart",
+      "url": "https://open.spotify.com/track/6jjpqcjHaH42fu2lY4E0Wl"
+    },
+    {
+      "album": {
         "name": "Through A Dark Wood (Deluxe)",
         "url": "https://open.spotify.com/album/1rtITQyh99ofMUNbRfnz6u"
       },
@@ -3037,6 +3247,28 @@
       "duration_ms": 258971,
       "name": "Reflections on a Grey Dawn (feat. Dustin O'Halloran)",
       "url": "https://open.spotify.com/track/7L8PyLWwV31eqS103InLpy"
+    },
+    {
+      "album": {
+        "name": "Resentment (New Feelings Version)",
+        "url": "https://open.spotify.com/album/5c0IIUPmCzuIbx4KLgjLGv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172520,
+      "name": "Resentment (New Feelings Version)",
+      "url": "https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g"
     },
     {
       "album": {
@@ -3257,7 +3489,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 161745,
       "name": "She'll Change",
       "url": "https://open.spotify.com/track/3d3mxvxLxdBtW5OYLV7faR"
@@ -3535,7 +3767,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 238933,
       "name": "Sweet Unknown",
       "url": "https://open.spotify.com/track/0xFHQ72ymUwAN2QneFYjrH"
@@ -3557,6 +3789,24 @@
       "duration_ms": 276087,
       "name": "Taking Me Back (Gently)",
       "url": "https://open.spotify.com/track/5F87lvBBP8EraYzsRBE6Yw"
+    },
+    {
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/4g32h5uIabwgSDGykJTvSh"
+      },
+      "artists": [
+        {
+          "name": "Ceramic Animal",
+          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227373,
+      "name": "Tangled",
+      "url": "https://open.spotify.com/track/5sCS5RD3FoaPpru90mS8R7"
     },
     {
       "album": {
@@ -3662,6 +3912,24 @@
     },
     {
       "album": {
+        "name": "The Lightning",
+        "url": "https://open.spotify.com/album/2S7mGFGwUqO8qBTfoG3FkU"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241179,
+      "name": "The Lightning",
+      "url": "https://open.spotify.com/track/31yuwnkOHIUHNMc0TaCSXA"
+    },
+    {
+      "album": {
         "name": "The Lonely Persistence of Time",
         "url": "https://open.spotify.com/album/5g84elUozrlHGFSYCvvV8d"
       },
@@ -3713,7 +3981,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 200625,
       "name": "The Man I Loved",
       "url": "https://open.spotify.com/track/1kZYs9zFzfeT1t4lzoZAob"
@@ -3879,7 +4147,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 212499,
       "name": "This Young",
       "url": "https://open.spotify.com/track/0126ndANPh3QGXEUdzQtvD"
@@ -4243,6 +4511,24 @@
       "duration_ms": 158280,
       "name": "Without Any Airs",
       "url": "https://open.spotify.com/track/31MY6ibgufxRqhQgsGkczb"
+    },
+    {
+      "album": {
+        "name": "Woman Named Willie",
+        "url": "https://open.spotify.com/album/3G4Kio5ifVch7EA4uqYe3M"
+      },
+      "artists": [
+        {
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261026,
+      "name": "Woman Named Willie",
+      "url": "https://open.spotify.com/track/1fKZRDnQtSg6LRrmatC28A"
     },
     {
       "album": {

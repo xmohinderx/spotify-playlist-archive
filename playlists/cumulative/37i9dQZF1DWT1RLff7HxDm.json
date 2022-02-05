@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 277666,
       "name": "Backwater Blues - Live",
       "url": "https://open.spotify.com/track/4ScrL9E0Ifv2dL1liFqnf7"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 290693,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/2T9rTwHMIOmXmoh2dVqs1g"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 274853,
       "name": "I Didn't Think She Would Do It - Live",
       "url": "https://open.spotify.com/track/1jjFV8q9KjN0FioJ8EeMeh"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 437358,
       "name": "Judgment Day",
       "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 261874,
       "name": "Lonesome Whistle Blues - Live",
       "url": "https://open.spotify.com/track/75QEITVgnbtUomK27erkds"
@@ -744,6 +744,24 @@
     },
     {
       "album": {
+        "name": "Mississippi Nights (Live)",
+        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300929,
+      "name": "Mississippi Nights - Live",
+      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
+    },
+    {
+      "album": {
         "name": "Mr. Luck - A Tribute to Jimmy Reed: Live at the Royal Albert Hall",
         "url": "https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW"
       },
@@ -781,7 +799,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 298777,
       "name": "Night Train - Live",
       "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
@@ -875,7 +893,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 497133,
       "name": "Pocket Full of Dust (Live)",
       "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 501010,
       "name": "Ride On Josephine - Live In Boston, Massachusetts / 1982",
       "url": "https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 446206,
       "name": "Rocket 88 - Live",
       "url": "https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA"
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 354893,
       "name": "True Lies",
       "url": "https://open.spotify.com/track/2KLT80GTeO0klP5VS8aNHB"
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 324440,
       "name": "Up Your Sleeve - Live",
       "url": "https://open.spotify.com/track/3kEIR6eH1rL9GWQi1bayCG"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 329840,
       "name": "Watchagonnado (Live)",
       "url": "https://open.spotify.com/track/3O3ZFiWatJ9nm8C9AhCh5z"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 574040,
       "name": "Why Does It Take So Long To Say Goodbye - Live",
       "url": "https://open.spotify.com/track/21Ck3GOPmXqiUQaOo4pmVs"

@@ -254,6 +254,28 @@
     },
     {
       "album": {
+        "name": "Lighten Up",
+        "url": "https://open.spotify.com/album/5MT2lgCDRZ1AfHrQ3pklHI"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        },
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216920,
+      "name": "Can't See Stars (feat. Kevin Morby)",
+      "url": "https://open.spotify.com/track/4vDEQxivxtfbgmEHtsJ29H"
+    },
+    {
+      "album": {
         "name": "Certainty",
         "url": "https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw"
       },
@@ -1087,7 +1109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 226799,
       "name": "If There Weren't So Many Damn Songs",
       "url": "https://open.spotify.com/track/0zhQYIwWGcjQ3wnCd3qjse"
@@ -1392,6 +1414,24 @@
     },
     {
       "album": {
+        "name": "Neon Blue",
+        "url": "https://open.spotify.com/album/7tGi2TSrjFhjJ6W6BbD1wQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hedley",
+          "url": "https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Neon Blue",
+      "url": "https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk"
+    },
+    {
+      "album": {
         "name": "Never Wanted To Be That Girl (Acoustic Version)",
         "url": "https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC"
       },
@@ -1573,6 +1613,28 @@
       "duration_ms": 169290,
       "name": "Plain Dealing",
       "url": "https://open.spotify.com/track/7CVFMKpWFqztojsuR654u9"
+    },
+    {
+      "album": {
+        "name": "Resentment (New Feelings Version)",
+        "url": "https://open.spotify.com/album/5c0IIUPmCzuIbx4KLgjLGv"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172520,
+      "name": "Resentment (New Feelings Version)",
+      "url": "https://open.spotify.com/track/1QMlPu2ElT8LO2ceRVJs3g"
     },
     {
       "album": {
@@ -1847,7 +1909,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 221840,
       "name": "That's How Hearts Get Broken",
       "url": "https://open.spotify.com/track/5zNG6YomADdsWvvqzC2Z6R"
@@ -1887,7 +1949,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 176053,
       "name": "The Card You Gamble (Main Theme From Monarch)",
       "url": "https://open.spotify.com/track/7iOS7vJd0JfJkUkauMfQY1"
@@ -2101,7 +2163,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 216080,
       "name": "Think I'll Stay",
       "url": "https://open.spotify.com/track/6cpZoc1E7SBdJHh6AjAv96"
@@ -2483,6 +2545,28 @@
       "duration_ms": 172289,
       "name": "Yes I Guess They Oughta Name A Drink After You",
       "url": "https://open.spotify.com/track/3ifJHM1SYSZUSwIrJZIPQg"
+    },
+    {
+      "album": {
+        "name": "You Asked Me To",
+        "url": "https://open.spotify.com/album/6PUdkUbLe5thp9AOJp1nTM"
+      },
+      "artists": [
+        {
+          "name": "Jesse Daniel",
+          "url": "https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY"
+        },
+        {
+          "name": "Jodi Lyford",
+          "url": "https://open.spotify.com/artist/2CvEMKeg5myDU4WfqqZiru"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268266,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/0fQTCoVkHfqJwMrBQ5IDLR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Portico Quartet
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,447 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,548 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 2 | [EL\-JO](https://open.spotify.com/track/4aL0EnsQkY3DvzJ2ZjRIr5) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [EL\-JO](https://open.spotify.com/album/32Bv56MOZIWuknJR8mOIhA) | 3:53 |
 | 3 | [Direction](https://open.spotify.com/track/6hSljLjoCSk6ldbmWveIPG) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Direction](https://open.spotify.com/album/17rM6juQWBsoi0mMJ57Aek) | 5:05 |
 | 4 | [The Garden Path](https://open.spotify.com/track/31KtddFzLJobEIyxBHT3gS) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [The Garden Path](https://open.spotify.com/album/3JDjkBLJicW3ViAuzVxpvA) | 6:40 |
-| 5 | [Dédalo De Concreto](https://open.spotify.com/track/6PfUV08i2dfwa5FYsTkZiT) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo De Concreto](https://open.spotify.com/album/5EL379oEpD5fBdlU8xydPb) | 4:57 |
+| 5 | [Dédalo De Concreto \- Single Version](https://open.spotify.com/track/6PfUV08i2dfwa5FYsTkZiT) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo De Concreto \(Single Version\)](https://open.spotify.com/album/5EL379oEpD5fBdlU8xydPb) | 4:01 |
 | 6 | [Chandler](https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Chandler](https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8) | 3:41 |
 | 7 | [Special Blend](https://open.spotify.com/track/3z0rugDkzlyoF2cIj8x9mu) | [Max I Million](https://open.spotify.com/artist/3E8ESEdLCBN9GiSZCUXgdf), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Special Blend](https://open.spotify.com/album/2SdR7nobB9gFriz8AWGblO) | 2:44 |
 | 8 | [Fugitive Ritual, Selah](https://open.spotify.com/track/31ZHADyvTbyRgQVw1u2SSW) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 5:47 |

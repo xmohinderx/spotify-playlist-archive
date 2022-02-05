@@ -2,7 +2,7 @@
 
 ### [Punk Unleashed](https://open.spotify.com/playlist/4Fx7H5bue0NPuMWQvcMhLl)
 
-> Maybe it's punk, maybe it's not\. Cover: Sham Family
+> Maybe it's punk, maybe it's not\. Cover: Lynks
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,14 +80,18 @@
 | [Self\-care 101](https://open.spotify.com/track/0nWXMjeGtC8P0bNBly9oo9) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [Get Home Or Die Trying](https://open.spotify.com/album/1FsVH5o3NvtOCQDuCyEZgv) | 5:20 | 2021-12-20 |  |
 | [Shifting Basslines of the Cornucopians](https://open.spotify.com/track/5OKDRfioiU3wmMERM1RfJq) | [Snapped Ankles](https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl) | [Forest of Your Problems](https://open.spotify.com/album/21EXj33nePIyYljFAWtN2Y) | 5:44 | 2021-12-20 |  |
 | [Show Me How to Live Again](https://open.spotify.com/track/47P6jUCBMMFfwe0evjXADx) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm) | [Show Me How to Live Again](https://open.spotify.com/album/4COC6ERKXeFhmuMgyL2xQO) | 3:31 | 2021-12-20 |  |
+| [Silly Boy](https://open.spotify.com/track/1IWDJT71pjQgy9h3P8UwtG) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Silly Boy](https://open.spotify.com/album/48X1aV5CY95zpcnHiE6WGf) | 3:18 | 2022-02-04 |  |
 | [So You Don't Get In Trouble](https://open.spotify.com/track/2ZlMCcLZaxgF1DLF6pFsJu) | [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw) | [So You Don't Get In Trouble](https://open.spotify.com/album/6lFhQlG8PC9byMDPccFNW6) | 3:06 | 2021-12-20 |  |
+| [sore](https://open.spotify.com/track/7vUgOE1PE39ORLkoGg8b82) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [sore](https://open.spotify.com/album/6WOzttpXQTWLtbhUpKF5o2) | 2:54 | 2022-02-04 |  |
 | [storyboard for a pessimist](https://open.spotify.com/track/6UObhqa3DmniQ0YTWg2AqW) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [fell in love with a lie](https://open.spotify.com/album/7m9wfRDxzEXAsQugb5xd93) | 2:38 | 2021-12-20 |  |
 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 | 2021-12-20 |  |
 | [The World Is You](https://open.spotify.com/track/7lqdh6P5XFsXXLvyOQhdzD) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [BRUT](https://open.spotify.com/album/17RcrngElFsVOUInoEtsC9) | 3:33 | 2021-12-20 |  |
 | [Town's Dead](https://open.spotify.com/track/6p8GJBXzymtc0QyJES6ubV) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Town's Dead](https://open.spotify.com/album/6PtpPzTZPYmRQ9EqfGTUYT) | 3:06 | 2021-12-20 |  |
 | [Tropic](https://open.spotify.com/track/3bbPxO1xTChWg6wVHDUl4T) | [Glows](https://open.spotify.com/artist/26bQE33uUmcNp1jdowPRz4), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [Tropic](https://open.spotify.com/album/1YtLqjjhgaxNI6dkUQ2PlU) | 4:34 | 2021-12-20 |  |
 | [Turin](https://open.spotify.com/track/2XlOU18A3RfGNELlvH1Bqe) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Turin](https://open.spotify.com/album/3NU8grUT1x2eOueC7pSRI9) | 2:55 | 2021-12-20 |  |
+| [Uzumaki](https://open.spotify.com/track/0zLNFeLkfUi9Ei4ysZfPXP) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Snake](https://open.spotify.com/album/0zWHPn6Hlv1JSLMnarvVLE) | 3:31 | 2022-02-04 |  |
 | [Voodoo Magic](https://open.spotify.com/track/6y4iXEu64IYdEcNSV0ZH5R) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Voodoo Magic](https://open.spotify.com/album/6yLKy8bef0WCPhEv7UAL0Q) | 2:44 | 2021-12-20 |  |
+| [walking around with no hands](https://open.spotify.com/track/26ZGLRIOtKcio6vF5ZVVd1) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 2:01 | 2022-02-04 |  |
 | [We're All Totally Fucked](https://open.spotify.com/track/6FZk6enwNujep15sIUpZeD) | [Bicurious](https://open.spotify.com/artist/3hg0uAz0P2tHrvqqHU4zzh) | [We're All Totally Fucked](https://open.spotify.com/album/2uBQKNHeZXtrsFh2w58oPy) | 5:17 | 2021-12-20 |  |
 | [What Do You Stand For](https://open.spotify.com/track/0C2BL4ZwEl2iQmQ55aIhU7) | [Low Island](https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd) | [If You Could Have It All Again](https://open.spotify.com/album/3RSVfuDghNNc8LKgqnw7h2) | 3:45 | 2021-12-20 |  |
 | [Witch Slap \(IOU\)](https://open.spotify.com/track/7LFxhbIwEO84r0QlrlN7wq) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Witch Slap \(IOU\)](https://open.spotify.com/album/5bty0rYDoqIxGohu3ifmuA) | 2:15 | 2021-12-20 |  |

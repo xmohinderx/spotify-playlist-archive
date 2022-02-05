@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 211764,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3t7Zhr4y9osHilpdq6OHTQ"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 218190,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/4VQK9d4giauCdAN9C8W6nh"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "Boom",
       "url": "https://open.spotify.com/track/7MvxyZhbn6dClch6g8mCNX"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/1iyFpZJ5zipXxMfj0FseRq"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 190856,
       "name": "Call Of The Unicorn",
       "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
@@ -543,6 +543,28 @@
       "duration_ms": 188444,
       "name": "CLOSE2ME",
       "url": "https://open.spotify.com/track/6WwBF7AhJJWhHULZPEDRmM"
+    },
+    {
+      "album": {
+        "name": "Color Of Your Soul",
+        "url": "https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Color Of Your Soul",
+      "url": "https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe"
     },
     {
       "album": {
@@ -732,6 +754,28 @@
     },
     {
       "album": {
+        "name": "Down With Your Love (SIPPY Remix)",
+        "url": "https://open.spotify.com/album/7FzBN7xBHKiBj0xR2bdrmm"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        },
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Down With Your Love - SIPPY Remix",
+      "url": "https://open.spotify.com/track/7xDxi7ZhHtnQ99owoCXQRi"
+    },
+    {
+      "album": {
         "name": "DUMB DUB",
         "url": "https://open.spotify.com/album/2NxMSGzQGb0itaVvyBtIv3"
       },
@@ -913,7 +957,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 305142,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/2CcbkWGUhEHDUPOxUZwKcV"
@@ -979,7 +1023,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
@@ -1023,7 +1067,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 190909,
       "name": "Fight Or Flight",
       "url": "https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2"
@@ -1407,7 +1451,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/6SRtJnv0NAEIMRLYoCKgoP"
@@ -1527,7 +1571,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 262400,
       "name": "Into Space",
       "url": "https://open.spotify.com/track/1K347oLBkDEuhOJzzpcR21"
@@ -1637,7 +1681,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 202736,
       "name": "KENKA",
       "url": "https://open.spotify.com/track/0IWI0riXpzyc5FqVuoljGJ"
@@ -2227,7 +2271,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 220500,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/5g1WgQiZSetIq1mztFOAGH"
@@ -3455,7 +3499,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 185800,
       "name": "THE SHOOTV",
       "url": "https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU"
@@ -3565,7 +3609,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 204943,
       "name": "Trailblazer",
       "url": "https://open.spotify.com/track/19ht9Lhp2fHgQi00izzrKE"

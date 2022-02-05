@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 152031,
       "name": "11/17",
       "url": "https://open.spotify.com/track/3efydF0TF67eydgM86XEwq"
@@ -589,6 +589,24 @@
       "duration_ms": 200160,
       "name": "Everything I Love Is Going To Die",
       "url": "https://open.spotify.com/track/3ZH7PRzRKfcYxU9aNQ6p3S"
+    },
+    {
+      "album": {
+        "name": "Everything's Electric",
+        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216859,
+      "name": "Everything's Electric",
+      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
     },
     {
       "album": {
@@ -1820,6 +1838,24 @@
     },
     {
       "album": {
+        "name": "Stranger Days",
+        "url": "https://open.spotify.com/album/1TaRqKa2nsaqSYMJgAwuvT"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251520,
+      "name": "Stranger Days",
+      "url": "https://open.spotify.com/track/2YrFwJC9jDaI0BoxtKRI9K"
+    },
+    {
+      "album": {
         "name": "Strong",
         "url": "https://open.spotify.com/album/4d91qyKEWqSefIIUYomXMe"
       },
@@ -1961,7 +1997,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 235341,
       "name": "The Aftergone (feat. CLEWS)",
       "url": "https://open.spotify.com/track/3VpeDsKDbBILjniX4y3rFA"

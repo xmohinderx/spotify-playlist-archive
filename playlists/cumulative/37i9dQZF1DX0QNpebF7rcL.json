@@ -982,6 +982,28 @@
     },
     {
       "album": {
+        "name": "Turquoise Blue",
+        "url": "https://open.spotify.com/album/4QBaAT90iqQxoR9TS2izPF"
+      },
+      "artists": [
+        {
+          "name": "Micki Free",
+          "url": "https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223334,
+      "name": "Judicator Blues",
+      "url": "https://open.spotify.com/track/4jlsa0OLIsdu1ETRpkX6QD"
+    },
+    {
+      "album": {
         "name": "Traveler's Blues",
         "url": "https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd"
       },
@@ -1247,6 +1269,24 @@
       "duration_ms": 222346,
       "name": "Never Want To Be Kissed (featuring William Bell)",
       "url": "https://open.spotify.com/track/6S8C0XoJVULK6NNi1DcWHJ"
+    },
+    {
+      "album": {
+        "name": "New Way of Walking",
+        "url": "https://open.spotify.com/album/0Agtzdkxg9yg1BhVO4Lbwd"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315000,
+      "name": "New Way of Walking",
+      "url": "https://open.spotify.com/track/6pdn2fxWKwdRHrwqA3u4HV"
     },
     {
       "album": {

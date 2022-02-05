@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 177400,
       "name": "A Case Of You",
       "url": "https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 268800,
       "name": "Almost Lover",
       "url": "https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 251840,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 357226,
       "name": "Devastating - Demo",
       "url": "https://open.spotify.com/track/52WVwH53Z4FgGiabokIK1p"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 226733,
       "name": "Do What You Have To Do",
       "url": "https://open.spotify.com/track/32CSjeoAXxx3qQW1tDUy2r"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 181960,
       "name": "For You",
       "url": "https://open.spotify.com/track/4ztkUoiiPrsxK9llT6NWEp"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 210351,
       "name": "Keep On Breaking My Heart",
       "url": "https://open.spotify.com/track/4IdV6Dun39jOadZ6kRheQ5"
@@ -1223,10 +1223,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 230906,
       "name": "Looking for Someone",
       "url": "https://open.spotify.com/track/0nvFWYZiozjGMZ6viIKrTa"
+    },
+    {
+      "album": {
+        "name": "The Future And The Past",
+        "url": "https://open.spotify.com/album/3b4guF43X3i2PNN63tJOCw"
+      },
+      "artists": [
+        {
+          "name": "Natalie Prass",
+          "url": "https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5lmTAFunlGMTIEvN4ZIaYN"
     },
     {
       "album": {
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 223340,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/4z7LkcJsYe8AaZXI3TWOHT"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 403186,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/7iSyaNhLcjwuO22QuRYHsM"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 193000,
       "name": "Over You - Pure Version",
       "url": "https://open.spotify.com/track/4ujjAXDReUtwoaif22p1q0"
@@ -1775,7 +1793,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 181680,
       "name": "Seaweed",
       "url": "https://open.spotify.com/track/2jpaYrcduGAlHkFZwLobxN"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 284240,
       "name": "The Dumbing Down Of Love",
       "url": "https://open.spotify.com/track/42dbPf0M81U47xbawYssYR"
@@ -2219,7 +2237,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 202493,
       "name": "Waltz #1",
       "url": "https://open.spotify.com/track/4SD4ri0Msp6DxgoXKcf6ug"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 378186,
       "name": "Your Love is Killing Me",
       "url": "https://open.spotify.com/track/2S1IUGeYOV3JPSoaheqIo9"

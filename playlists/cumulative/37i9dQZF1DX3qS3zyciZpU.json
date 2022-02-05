@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Beauty in the Struggle",
+        "url": "https://open.spotify.com/album/6e0TQuKQWNnq7SKxC0JpWx"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152510,
+      "name": "Beauty in the Struggle",
+      "url": "https://open.spotify.com/track/6BoxSb788sdA54JFfIjKuh"
+    },
+    {
+      "album": {
         "name": "Mercury Lane",
         "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
       },

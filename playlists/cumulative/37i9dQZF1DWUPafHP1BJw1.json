@@ -926,6 +926,24 @@
     },
     {
       "album": {
+        "name": "Geek Wedding, Vol. 2: The Sequel",
+        "url": "https://open.spotify.com/album/11USWPKwpUSlDyrjBErJ6W"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184875,
+      "name": "Howl's Moving Castle - Merry-Go-Round of Life",
+      "url": "https://open.spotify.com/track/20nMssNxX89e7YMoT0gpFQ"
+    },
+    {
+      "album": {
         "name": "Boyd Meets Girl",
         "url": "https://open.spotify.com/album/1M2ZlMDGp4yjl9hzPX4Eyk"
       },

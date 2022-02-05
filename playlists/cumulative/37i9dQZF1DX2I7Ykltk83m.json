@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "killer songs from badass artists. Cover: Snail Mail",
+  "description": "killer songs from badass artists. Cover: The Linda Lindas",
   "name": "badass",
   "published_playlist_ids": [
     "4qEfllXxSWqJiKi8GSfFEw"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 195000,
       "name": "C'mon Be Cool",
       "url": "https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC"
@@ -363,6 +363,24 @@
       "duration_ms": 190695,
       "name": "Cady Road",
       "url": "https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW"
+    },
+    {
+      "album": {
+        "name": "Call Me Home",
+        "url": "https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225631,
+      "name": "Call Me Home",
+      "url": "https://open.spotify.com/track/7EepuMExJZF3eimemlp771"
     },
     {
       "album": {
@@ -611,7 +629,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 189222,
       "name": "Crying",
       "url": "https://open.spotify.com/track/1H41sRV3HdMgvJgABjdV7N"
@@ -777,10 +795,28 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 279232,
       "name": "Dreams - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5IwiZFGqfB1Mxw4a7svjw7"
+    },
+    {
+      "album": {
+        "name": "Lion and the Cobra",
+        "url": "https://open.spotify.com/album/60gQ6EG1JFQWWUcasx7wKc"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323133,
+      "name": "Drink Before the War",
+      "url": "https://open.spotify.com/track/2fgsTIpGlD5odlua0y7gIQ"
     },
     {
       "album": {
@@ -993,7 +1029,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 181754,
       "name": "God Knows Why",
       "url": "https://open.spotify.com/track/1mHy45rJNN6eT0P7Kuecg8"
@@ -1015,6 +1051,24 @@
       "duration_ms": 252455,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX"
+    },
+    {
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186465,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY"
     },
     {
       "album": {
@@ -1065,7 +1119,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 171359,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/6llEKdd9fteEPFnyV0OLZc"
@@ -1101,10 +1155,28 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 224121,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ"
+    },
+    {
+      "album": {
+        "name": "Honey Understand",
+        "url": "https://open.spotify.com/album/5RltgL786Wbbtt2TT4rWsR"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241920,
+      "name": "Honey Understand",
+      "url": "https://open.spotify.com/track/1FnqKOwkmTClK22zr3kWuH"
     },
     {
       "album": {
@@ -1119,7 +1191,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 100572,
       "name": "How Long",
       "url": "https://open.spotify.com/track/6kUtd2r6ctD3SSOjuV1Rh5"
@@ -1137,7 +1209,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 185626,
       "name": "Human Replacement",
       "url": "https://open.spotify.com/track/1NNd8eBJERD42dv5NYmQpS"
@@ -1155,7 +1227,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 169257,
       "name": "Hunter",
       "url": "https://open.spotify.com/track/7o9gedLq27PNlVLU1XkGXI"
@@ -1487,7 +1559,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/49nEnbfHkmMD9sQVcvG8Ph"
@@ -1599,7 +1671,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 254200,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/6P35XBAEzdCPgbMuP49cxC"
@@ -1642,6 +1714,24 @@
     },
     {
       "album": {
+        "name": "midnight sun",
+        "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282373,
+      "name": "midnight sun",
+      "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
+    },
+    {
+      "album": {
         "name": "Moment In The Sun",
         "url": "https://open.spotify.com/album/5sOC51cFgLhI1DjYhrJTMw"
       },
@@ -1671,7 +1761,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 219579,
       "name": "Monster",
       "url": "https://open.spotify.com/track/61CpLCM1sIzQ8zyvvajUD4"
@@ -1779,7 +1869,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 161120,
       "name": "Open up the Heavens",
       "url": "https://open.spotify.com/track/1dthu6dMsSfRe2k1nBTL36"
@@ -1801,7 +1891,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 209986,
       "name": "Overslept (feat. mei ehara)",
       "url": "https://open.spotify.com/track/0zzePeqwaCTJxqgkIVcivx"
@@ -2187,7 +2277,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 177387,
       "name": "Song for Nick Drake",
       "url": "https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1"
@@ -2267,7 +2357,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 283370,
       "name": "Sucker",
       "url": "https://open.spotify.com/track/0KAW820FoYhpDe3lsgMRaC"
@@ -2357,7 +2447,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 261217,
       "name": "The Last Man on Earth",
       "url": "https://open.spotify.com/track/0X9YmbFHb2sPmml6J7DMK0"
@@ -2429,7 +2519,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 265440,
       "name": "Thumbs",
       "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
@@ -2447,7 +2537,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 279133,
       "name": "Thumbs Again",
       "url": "https://open.spotify.com/track/7DuUnmiBp8C2bXY6V6QN0r"
@@ -2613,7 +2703,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-05",
       "duration_ms": 192000,
       "name": "Waltzing Back",
       "url": "https://open.spotify.com/track/3Q1DprZauQyNo8KGlY8brZ"
@@ -2689,7 +2779,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 319739,
       "name": "We've Got a Good Thing Going",
       "url": "https://open.spotify.com/track/2KEfnqq0wATQc8S1mrFTcf"
