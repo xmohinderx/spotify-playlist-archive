@@ -201,7 +201,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 394124,
       "name": "Bigger Than Prince - Hot Since 82 Remix",
       "url": "https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 390786,
       "name": "Don't Go - Dusky Remix",
       "url": "https://open.spotify.com/track/7tR8aX292Bvop3yIM1EAiy"
@@ -528,6 +528,24 @@
     },
     {
       "album": {
+        "name": "Hackney Parrot / Helter Skelter",
+        "url": "https://open.spotify.com/album/6Dc87OjfKGyKAI6DVTLuzN"
+      },
+      "artists": [
+        {
+          "name": "Tessela",
+          "url": "https://open.spotify.com/artist/1ZgWT8v2NTxXJapNzqJMnd"
+        }
+      ],
+      "date_added": "2020-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344292,
+      "name": "Hackney Parrot",
+      "url": "https://open.spotify.com/track/170ukLhJmsiTNqLHbNtcsG"
+    },
+    {
+      "album": {
         "name": "Hey Hey",
         "url": "https://open.spotify.com/album/4WOHS9vWb4Mu1bjNobDHmO"
       },
@@ -539,7 +557,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 190053,
       "name": "Hey Hey",
       "url": "https://open.spotify.com/track/6o4KTcGUoN8Xse2SNHorGU"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 383552,
       "name": "Liquid Spirit - Claptone Remix",
       "url": "https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 248035,
       "name": "Losing It",
       "url": "https://open.spotify.com/track/5Nbsv7ERwYRaG9fH8Zssvc"
@@ -951,7 +969,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 250666,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/5k3jdIh7BpJaV1DntDQoSD"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 218639,
       "name": "Nothing Better",
       "url": "https://open.spotify.com/track/1oqniN5rzgvhAWoq4HgY2W"
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 150703,
       "name": "The Renegade",
       "url": "https://open.spotify.com/track/7dyWwtPsaL3ThtPtkA4oQK"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 195737,
       "name": "What I Might Do",
       "url": "https://open.spotify.com/track/5ea9yZi9Dv6MuJa8V2kpUq"

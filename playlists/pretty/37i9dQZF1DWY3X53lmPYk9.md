@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3X53lmPYk9.md) - [plain]
 
 > Soft interpretations of songbook classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,433 likes - 76 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,478 likes - 76 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

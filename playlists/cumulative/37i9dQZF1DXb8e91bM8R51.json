@@ -675,7 +675,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 203066,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 211132,
       "name": "Get Dis Money",
       "url": "https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 170808,
       "name": "Jumpin Out The Face",
       "url": "https://open.spotify.com/track/4YIC82vyZpWPc87MUK472B"
@@ -1395,7 +1395,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 304933,
       "name": "Mind Blowin' (feat. Vinia Mojica)",
       "url": "https://open.spotify.com/track/1foIqCKbgzB1czR3SgoEjK"
@@ -1751,7 +1751,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 251480,
       "name": "Pick It Up",
       "url": "https://open.spotify.com/track/7l3ZNXBVVdhBz13Vo0kbLz"
@@ -2081,7 +2081,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 267520,
       "name": "Run This Town",
       "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
@@ -2285,7 +2285,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 111498,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/44aip3NiojpXMaSOTyZ1UO"
@@ -2355,7 +2355,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 223904,
       "name": "Sucka Free (feat. Killer Mike)",
       "url": "https://open.spotify.com/track/4BsT04mOym0M60CbG6uMf3"
@@ -2425,7 +2425,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 243093,
       "name": "Symphony 2000",
       "url": "https://open.spotify.com/track/3WXNzlFDSfjEmNFUOSccf7"
@@ -2542,6 +2542,24 @@
     },
     {
       "album": {
+        "name": "The Listening",
+        "url": "https://open.spotify.com/album/2t4caad14mHY6Lthukz2cY"
+      },
+      "artists": [
+        {
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367893,
+      "name": "The Listening",
+      "url": "https://open.spotify.com/track/1eNjOyhYefAN2AmncRpSjg"
+    },
+    {
+      "album": {
         "name": "Good Job",
         "url": "https://open.spotify.com/album/45AcY6DFGCp9wYlAIu2Itu"
       },
@@ -2575,7 +2593,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 112625,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy"
@@ -2965,7 +2983,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 201270,
       "name": "Writing on the Wall (feat. Post Malone & Cardi B)",
       "url": "https://open.spotify.com/track/7x9nXsowok1JszkVztI5NI"

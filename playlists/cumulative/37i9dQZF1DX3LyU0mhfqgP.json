@@ -899,7 +899,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 164785,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/1beBffSPiC69t4iPU1aOTx"
@@ -1519,7 +1519,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 191049,
       "name": "I Am Sin",
       "url": "https://open.spotify.com/track/2eVGcdvIl5Yb4uZWk7cZxI"
@@ -1761,7 +1761,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 152380,
       "name": "Jigga Who",
       "url": "https://open.spotify.com/track/5epd4ctYB4yCkBuA31XbiN"
@@ -1779,7 +1779,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
@@ -1963,7 +1963,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 272573,
       "name": "Love Will Be Waiting",
       "url": "https://open.spotify.com/track/1ZQc5Dr7qom1s24yK1hFDi"
@@ -2863,7 +2863,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 145849,
       "name": "Somebody I Fucked Once - Lady Bee Remix",
       "url": "https://open.spotify.com/track/4QeEtuZ4paF4UxTtb2MauS"
@@ -3175,7 +3175,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 201386,
       "name": "This Was My House (feat. Niki Haris, Donna De Lory & Initial Talk)",
       "url": "https://open.spotify.com/track/5iKCRVO0ymLpsDB5gpwMpD"
@@ -3453,6 +3453,24 @@
       "duration_ms": 182268,
       "name": "Your Best Friend",
       "url": "https://open.spotify.com/track/4MQLMRjKFmNsz646FyAZ2k"
+    },
+    {
+      "album": {
+        "name": "Your Side of It",
+        "url": "https://open.spotify.com/album/1r4lhS2o8slWxrNPpkdN5I"
+      },
+      "artists": [
+        {
+          "name": "Zoe Cummins",
+          "url": "https://open.spotify.com/artist/6JQwJ01NpI4KojdmsN7Omh"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203670,
+      "name": "Your Side of It",
+      "url": "https://open.spotify.com/track/63M3e3sKF6Zp5u6Vmg0iv7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP"

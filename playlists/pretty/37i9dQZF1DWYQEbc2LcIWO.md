@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQEbc2LcIWO.md) - [plain]
 
 > Enjoy your dinner with some great acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15 likes - 25 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3 likes - 25 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

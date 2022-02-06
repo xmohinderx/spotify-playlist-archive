@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 153076,
       "name": "1080p",
       "url": "https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 237000,
       "name": "ACOUSCOUS",
       "url": "https://open.spotify.com/track/64lmE7hixqSVxMsk5nvG8e"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 175554,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/12sXX3cUzBCpwjIzqBYIw1"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 174241,
       "name": "ALLSTAR",
       "url": "https://open.spotify.com/track/3n7u7AU8FErKTgTfWWhBTR"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 194666,
       "name": "Been Through That",
       "url": "https://open.spotify.com/track/2cZbLHnTKtdSYUsVYlrnSi"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 450135,
       "name": "candy grapes (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/4emJOvmhqWJAxpwB7c9JJw"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 213333,
       "name": "Color Palette",
       "url": "https://open.spotify.com/track/0qL3U7oKi7kGahb1TeRJCt"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 224543,
       "name": "Exposure",
       "url": "https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y"
@@ -1417,7 +1417,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 228602,
       "name": "fue mejor",
       "url": "https://open.spotify.com/track/0ytL9uW7hCZh1Wn7kOQteq"
@@ -1515,7 +1515,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 197675,
       "name": "Ghostin'",
       "url": "https://open.spotify.com/track/02oUEbDQXcVITlLQKMPN1F"
@@ -1723,7 +1723,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 225853,
       "name": "Greed",
       "url": "https://open.spotify.com/track/5PPzJ8kLOfIftp75EnrT1z"
@@ -1741,7 +1741,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 196596,
       "name": "HEADLINE",
       "url": "https://open.spotify.com/track/59mmKoHbCWc10mlWwwTYxn"
@@ -1781,7 +1781,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 179439,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5RMe2tA7RRyWP3cb3upPLd"
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 246609,
       "name": "I Believed It (feat. Mac Miller)",
       "url": "https://open.spotify.com/track/6oIahjoSHQ3GQJg0hrLdzY"
@@ -2021,7 +2021,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 199111,
       "name": "Is There Someone Else?",
       "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
@@ -2191,10 +2191,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 141520,
       "name": "Lil Baby Crush",
       "url": "https://open.spotify.com/track/6nXiaXqSZAJuOG6q66mZV1"
+    },
+    {
+      "album": {
+        "name": "Analogue",
+        "url": "https://open.spotify.com/album/1SgtXskC74No0x9a9iDlfw"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220007,
+      "name": "Little Lies",
+      "url": "https://open.spotify.com/track/6QpZXzHcOgXK41Y3YCx203"
     },
     {
       "album": {
@@ -2285,7 +2303,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 194415,
       "name": "Magazines",
       "url": "https://open.spotify.com/track/6I9gDbfmE9hmHHWQVmvkGZ"
@@ -2343,7 +2361,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 186506,
       "name": "Mask Off (Feelings)",
       "url": "https://open.spotify.com/track/5yozbGmaHKYcNW1qE26qMl"
@@ -2419,7 +2437,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
@@ -2651,7 +2669,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 188280,
       "name": "my slime",
       "url": "https://open.spotify.com/track/2uly2KqqE2cL2fzxyMKnC6"
@@ -2949,7 +2967,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 167503,
       "name": "Onto Me (with UMI)",
       "url": "https://open.spotify.com/track/49YDCahXCIaY44snUKv8JS"
@@ -2971,7 +2989,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 218518,
       "name": "Open Up",
       "url": "https://open.spotify.com/track/1ilf4UU6fYvaEZRqL3FmAq"
@@ -3177,7 +3195,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 185692,
       "name": "Put On Repeat",
       "url": "https://open.spotify.com/track/4ADMbmfzTk6BWBeKOIdfF8"
@@ -3253,7 +3271,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 185490,
       "name": "Relay",
       "url": "https://open.spotify.com/track/7cHLutQTiJ5cMfVI5Bg7nQ"
@@ -3347,7 +3365,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 170807,
       "name": "Roots",
       "url": "https://open.spotify.com/track/5HorjQJbDWGabguEDSwQvl"
@@ -3855,7 +3873,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 192220,
       "name": "sweet thing",
       "url": "https://open.spotify.com/track/2CyzCewZZ1ilsGDClxWuA0"
@@ -4149,7 +4167,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 195506,
       "name": "Trust Nobody",
       "url": "https://open.spotify.com/track/60noSWJZxLxgZBzmOKxckF"
@@ -4185,7 +4203,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 190426,
       "name": "Wait",
       "url": "https://open.spotify.com/track/57jS22tCk2xgFcsMwLrBLl"
@@ -4229,7 +4247,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 175173,
       "name": "Walked In (feat. Young Thug)",
       "url": "https://open.spotify.com/track/4HnvRYwwhulZMABmLK86ue"
@@ -4353,7 +4371,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 258526,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/7yeAu4xPWoTOGwQlQpgNZA"
@@ -4379,7 +4397,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 121572,
       "name": "WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/5B0kgjHULYJhAQkK5XsMoC"

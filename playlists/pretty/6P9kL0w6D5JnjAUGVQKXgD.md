@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki
 
-[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,547 likes - 100 songs - 4 hr 52 min
+[EDM Charts](https://open.spotify.com/user/edmcharts.net) - 48,546 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 32 | [You \- Topic Remix](https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [You \(Topic Remix\)](https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z) | 2:37 |
 | 33 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 |
 | 34 | [You \- KC Lights Remix](https://open.spotify.com/track/0ZxvazjsaB9sdRxaKcJBVx) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You \(KC Lights Remix\)](https://open.spotify.com/album/2slCF7lLFmpnXeix42U9ED) | 3:11 |
-| 35 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
-| 36 | [Roses \(Imanbek Remix\)](https://open.spotify.com/track/7mS2ZgalsI18LW6EnqFA0v) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3wZL4Pxagph7pND4IPpXlt) | 2:56 |
+| 35 | [Roses \(Imanbek Remix\)](https://open.spotify.com/track/7mS2ZgalsI18LW6EnqFA0v) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3wZL4Pxagph7pND4IPpXlt) | 2:56 |
+| 36 | [Goosebumps \- Remix](https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/3SdFuYwyWoq7kuaHdTDcyD) | 2:42 |
 | 37 | [Sweet Vibrations](https://open.spotify.com/track/5S1gAbJcWZy6ICn68Lsx2e) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Sweet Vibrations EP](https://open.spotify.com/album/62IsJzKQrSVzO2k2DIIcOw) | 2:40 |
 | 38 | [Bad Trip \(feat\. ØZMA\)](https://open.spotify.com/track/5cVy2DttzbtldeYPPmsUr6) | [LVNDSCAPE](https://open.spotify.com/artist/2QlwnS23KrBeshXFyK5U6M), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [ØZMA](https://open.spotify.com/artist/1UsQc0jh5G4xfmXtYWSOpQ) | [Bad Trip \(feat\. ØZMA\)](https://open.spotify.com/album/3rBKAB5nPTdETBLpoFq3fr) | 3:10 |
 | 39 | [Sour Candy \(with BLACKPINK\) \- Shygirl & Mura Masa Remix](https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6P9kL0w6D5JnjAUGVQKXgD.md) - [plain]
 | 99 | [SexyBack](https://open.spotify.com/track/5029ej8d6fplrYT7cuNOyH) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [SexyBack](https://open.spotify.com/album/4UYK597aTxN0EE61UjdD0a) | 2:38 |
 | 100 | [Permanence](https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Permanence](https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg) | 3:51 |
 
-Snapshot ID: `MTA5Niw1MzFmOTMxZWFhM2U2MTc2NGMwMjc3YmY5ZTI4NjkyYzdmNGYzZDBj`
+Snapshot ID: `MTA5NywwZGI4Yjg0MzUxM2Q1ZTZkNGM3YWQ3ZGNhNTJiOGRlZmIxZDJlNDk3`

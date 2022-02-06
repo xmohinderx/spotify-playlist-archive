@@ -1,0 +1,882 @@
+{
+  "description": "Icons only. Cover: Bryan Adams",
+  "num_followers": 2520,
+  "original_name": "Classic Artists New Music",
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTY0MzM0NjA2MCwwMDAwMDAxMDAwMDAwMTdlOWYwZWUzNmIwMDAwMDE3ZTliZGJiM2Y5",
+  "tracks": [
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Never Gonna Rain",
+        "url": "https://open.spotify.com/album/5D85XXgpIsodD6VJJ2bhia"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "Never Gonna Rain",
+      "url": "https://open.spotify.com/track/6wlr3s1bhqNayqDNR2Wmnz"
+    },
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Strictly A One-Eyed Jack",
+        "url": "https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Did You Say Such A Thing (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP"
+    },
+    {
+      "added_at": "2022-01-21 05:01:00",
+      "album": {
+        "name": "Act of Love",
+        "url": "https://open.spotify.com/album/5uALptibEa9zDZYmMj8ICg"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Act of Love",
+      "url": "https://open.spotify.com/track/6Kn6kjrz2UL5obNi2q4Uto"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Break The Man",
+        "url": "https://open.spotify.com/album/4KRvCp0VPZ8pUrAtpokokf"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 235613,
+      "name": "Break The Man",
+      "url": "https://open.spotify.com/track/5NFoLXGzAzm3aFZEEaZ98c"
+    },
+    {
+      "added_at": "2022-01-14 14:30:55",
+      "album": {
+        "name": "Big Dreams and Faded Jeans",
+        "url": "https://open.spotify.com/album/3HGWM4zYtxWEZetYK8jqWI"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 247213,
+      "name": "Big Dreams and Faded Jeans",
+      "url": "https://open.spotify.com/track/3N0isz0Mae8SVfL7gQLeet"
+    },
+    {
+      "added_at": "2022-01-07 05:02:00",
+      "album": {
+        "name": "Northern Town / In Your Eyes",
+        "url": "https://open.spotify.com/album/4rlDC3Az0mrX1WBRhLWVUM"
+      },
+      "artists": [
+        {
+          "name": "Wet Wet Wet",
+          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+        },
+        {
+          "name": "Jeremy Wheatley",
+          "url": "https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV"
+        }
+      ],
+      "duration_ms": 200128,
+      "name": "In Your Eyes - Single Mix",
+      "url": "https://open.spotify.com/track/0OSFYKf4XR55DaHt77SykL"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "No Small Thing",
+        "url": "https://open.spotify.com/album/2lT0SejUDTztqxLQtFPuzm"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "No Small Thing",
+      "url": "https://open.spotify.com/track/2ZBbHe0eGsOopMXmEaqUT6"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Surrounded By Time (The Hourglass Edition)",
+        "url": "https://open.spotify.com/album/5QAf18dGZUv4X5FKc3T7i7"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "duration_ms": 323480,
+      "name": "One Hell Of A Life",
+      "url": "https://open.spotify.com/track/3td9rTUTQRbaBQ5mD7ZiTr"
+    },
+    {
+      "added_at": "2021-11-19 05:01:00",
+      "album": {
+        "name": "The Bridge (Deluxe)",
+        "url": "https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 225083,
+      "name": "For Her Love",
+      "url": "https://open.spotify.com/track/0OKn63DGQ2kBRTo9BRfiEP"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "The Tears Of Hercules",
+        "url": "https://open.spotify.com/album/2sjLgnR7JeVPRayrFoYjHs"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 235928,
+      "name": "Touchline",
+      "url": "https://open.spotify.com/track/2AZVRikFuNWo0H8P85Xzmx"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "I Still Believe",
+        "url": "https://open.spotify.com/album/3Jj21Z3ec4p5SwZU3lXshM"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 218459,
+      "name": "I Still Believe",
+      "url": "https://open.spotify.com/track/2gnWpyn0nHoT11V7awaP5g"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "When You Danced With Me",
+      "url": "https://open.spotify.com/track/46OKHucGhjhskazqD8tKnH"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "Your Song Saved My Life (From Sing 2)",
+        "url": "https://open.spotify.com/album/0lgSYiY3qT4Q9myulgxhAu"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Your Song Saved My Life - From Sing 2",
+      "url": "https://open.spotify.com/track/4fcbxnnfUycb7fJAInJOob"
+    },
+    {
+      "added_at": "2021-11-05 04:01:00",
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/5wqUZZr1E77YnRSBYD0Y5E"
+      },
+      "artists": [
+        {
+          "name": "Wet Wet Wet",
+          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+        }
+      ],
+      "duration_ms": 175357,
+      "name": "Beautiful Sunshine",
+      "url": "https://open.spotify.com/track/06vruaOv6AAjmL0lGhimEI"
+    },
+    {
+      "added_at": "2021-10-29 04:01:00",
+      "album": {
+        "name": "Ocean to Ocean",
+        "url": "https://open.spotify.com/album/08dsnxebW6wZCu8NpmK3kn"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Metal Water Wood",
+      "url": "https://open.spotify.com/track/74xme6fG8qeC7BfwXiDa7j"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "All Is Well",
+        "url": "https://open.spotify.com/album/592OJr6HhuC1przr7bDMoL"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 272497,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/2I92BoMwz7ChEbSeuKEnQh"
+    },
+    {
+      "added_at": "2021-10-29 04:01:00",
+      "album": {
+        "name": "Surrounded By Time",
+        "url": "https://open.spotify.com/album/06iDUt5q4pxGHcide19i7X"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "One More Cup Of Coffee",
+      "url": "https://open.spotify.com/track/2I6UEY3f6CQ1rsbpn3Cg7H"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "McCartney III",
+        "url": "https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Diane Warren: The Cave Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/0ltGYHMBZivXbYkjbxyeVV"
+      },
+      "artists": [
+        {
+          "name": "Diane Warren",
+          "url": "https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 221426,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/6moeh7teMhi1ykOZNFDzP7"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Five Years",
+        "url": "https://open.spotify.com/album/2LfOEABtSzqIDAFUSUm2m3"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 285246,
+      "name": "Five Years",
+      "url": "https://open.spotify.com/track/7rmGBiCtvTv2Fh50FWZKHs"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/19TEv9LRkVcl95r0YGSecG"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 259071,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2T83rBdQeCbzyf7HMHPyGY"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Get Together",
+        "url": "https://open.spotify.com/album/4MlWINtVUMSiJziqDpyvvx"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/0VOUTJdbl1xUPSp92MtohU"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "So Happy It Hurts",
+        "url": "https://open.spotify.com/album/6kTdIgZ2K6qbXZALyrO88K"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 215186,
+      "name": "So Happy It Hurts",
+      "url": "https://open.spotify.com/track/13rKI4xThtXQtlTBnuIXPj"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Hi (Deluxe)",
+        "url": "https://open.spotify.com/album/3vSFoYoiYD8ir8VYaGx6Vn"
+      },
+      "artists": [
+        {
+          "name": "Texas",
+          "url": "https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Mr Haze",
+      "url": "https://open.spotify.com/track/7G5WlOGP22EwQjb50il1ZZ"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Ride (Edit)",
+        "url": "https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "Ride - Edit",
+      "url": "https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Anything Can Happen (feat. Leon Russell)",
+        "url": "https://open.spotify.com/album/2ArblNA5QAgMt05M22CG78"
+      },
+      "artists": [
+        {
+          "name": "Bruce Hornsby",
+          "url": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
+        },
+        {
+          "name": "Leon Russell",
+          "url": "https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Anything Can Happen (feat. Leon Russell)",
+      "url": "https://open.spotify.com/track/6XFMd8YMUYptBu7A4FBPJj"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Show Them The Way",
+        "url": "https://open.spotify.com/album/2o90fgeg8x1NNc6TxhduLq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 391332,
+      "name": "Show Them The Way",
+      "url": "https://open.spotify.com/track/39K8KN3Jl5uLz2ykGsNflf"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Alone With My Faith",
+        "url": "https://open.spotify.com/album/7gMSKwzQlQMV55DTf2mYbU"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 293724,
+      "name": "Thank You For Waiting (For Me)",
+      "url": "https://open.spotify.com/track/5Rrv0TThpkqB2U4UskRnt2"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/0AiRY02hMgv49bJlqCQNPG"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 264846,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/2mRK4OJ96kntvBe141m9AW"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Rushing Water",
+        "url": "https://open.spotify.com/album/4gqzoPUB5hRX7NC6r1uE5P"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 197808,
+      "name": "Rushing Water",
+      "url": "https://open.spotify.com/track/5WbDz2wejq1YgdwFaJAipD"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "I Don't Mind",
+        "url": "https://open.spotify.com/album/1Ny3qiqGxrdJujXB1nviYa"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/5DA2AKGBLh6F37BEo217r0"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Just A Notion",
+        "url": "https://open.spotify.com/album/2GaJEBV9MsxCsAInGtMRJ6"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Just A Notion",
+      "url": "https://open.spotify.com/track/1vzLCOukxhUA26QnqACxVL"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "One World",
+        "url": "https://open.spotify.com/album/54Z9zCRlk506q4mS2MXwIL"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 286911,
+      "name": "We Gotta Find Love",
+      "url": "https://open.spotify.com/track/0TyXBdGk2qGLrZLWcj8qJd"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Hey Clockface",
+        "url": "https://open.spotify.com/album/5HwgDLgmrGk6rXd2UPWIsE"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 250089,
+      "name": "Newspaper Pane",
+      "url": "https://open.spotify.com/track/6IseHnFfBqw6k0ACVshrzP"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "LIMITLESS",
+        "url": "https://open.spotify.com/album/1NXH0HmDo32FeptgAsKvjS"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1vSu9DJEAIoKK52gaJnA5G"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "The Conversation",
+        "url": "https://open.spotify.com/album/0aWkNZGf3JfmTVMuldbSne"
+      },
+      "artists": [
+        {
+          "name": "Wet Wet Wet",
+          "url": "https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai"
+        },
+        {
+          "name": "Jeremy Wheatley",
+          "url": "https://open.spotify.com/artist/0GJpMrjpR5nfgZgoM4YIgV"
+        }
+      ],
+      "duration_ms": 200816,
+      "name": "The Conversation - Single Mix",
+      "url": "https://open.spotify.com/track/52LO0vfMz9sgTzXtSFU6Yz"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/5QDnUqAeP7Zq51NASyfri1"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 212129,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/4Re3AZ3OmQWxQHX0NtOzid"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "I Am Not a Dog on a Chain",
+        "url": "https://open.spotify.com/album/40ujnXEoJYbg0AaI9iDaVN"
+      },
+      "artists": [
+        {
+          "name": "Morrissey",
+          "url": "https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "Knockabout World",
+      "url": "https://open.spotify.com/track/5Ru1T8rme8tDQWjADHrMSQ"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Dancin' in the Aisles",
+        "url": "https://open.spotify.com/album/3MaOmRCy1qfE5nSZvJMYpd"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Dancin' in the Aisles",
+      "url": "https://open.spotify.com/track/2rHdLK2ul2kZsf25gBdPVF"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Hate for Sale",
+        "url": "https://open.spotify.com/album/1A88QI9i0LT4ClZgoQIl0t"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "The Buzz",
+      "url": "https://open.spotify.com/track/3fMW1VEAcVw5UXfXYxyjoc"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Brand New Day",
+        "url": "https://open.spotify.com/album/345VHvecrNrNs7SWlTJqPj"
+      },
+      "artists": [
+        {
+          "name": "Eddie Money",
+          "url": "https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE"
+        }
+      ],
+      "duration_ms": 236152,
+      "name": "Brand New Day",
+      "url": "https://open.spotify.com/track/10j6yneyjo8szVHBij2nVm"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Bang A Gong (Get It On)",
+        "url": "https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 266453,
+      "name": "Bang A Gong (Get It On)",
+      "url": "https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Where Is Our Love Song",
+        "url": "https://open.spotify.com/album/3rgaqrCj7z4EdOwuDTTjBi"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Where Is Our Love Song (feat. Gary Clark Jr.)",
+      "url": "https://open.spotify.com/track/7d41wCresuSZFzFh2VRnd2"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1I3BqSode2tMfk4IbbTQnK"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        },
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/46UPxQScuRtw2jvE23vuYJ"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "The Body Remembers",
+        "url": "https://open.spotify.com/album/5gqkg3QPLgnGQQIVOOupdY"
+      },
+      "artists": [
+        {
+          "name": "Debbie Gibson",
+          "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Me Not Loving You",
+      "url": "https://open.spotify.com/track/2A1DHo5MnoDHKpoXTDR0vi"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "The Tipping Point",
+        "url": "https://open.spotify.com/album/2jYnm8r2J5d9FcqJMvZ85L"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "The Tipping Point",
+      "url": "https://open.spotify.com/track/3TVAzlsAyk0thTcwRMEIm2"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Every One of Us",
+        "url": "https://open.spotify.com/album/3Z08OEw7y50bZNAbapjP8B"
+      },
+      "artists": [
+        {
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+        },
+        {
+          "name": "The Unsung Heroes",
+          "url": "https://open.spotify.com/artist/0Hj4TOkvfWyweKo7lIipSg"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "Every One of Us",
+      "url": "https://open.spotify.com/track/6SkgB0rRsGB0ZkSGkPWaOW"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/0187WUsGIlSalPRu0BOu1y"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 238361,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/5oD2dU9uXCuCLYKGeTYi7i"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Precious Time",
+        "url": "https://open.spotify.com/album/6C6bBwceQNCXaNK78OPTKe"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 267207,
+      "name": "Precious Time",
+      "url": "https://open.spotify.com/track/4U9OxFxU1rM1GixGF2MXRS"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "We Are The People (feat. Bono & The Edge) [Official UEFA EURO 2020 Song]",
+        "url": "https://open.spotify.com/album/4Y3TDAf1jKhdithIywJKCb"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bono",
+          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
+        },
+        {
+          "name": "The Edge",
+          "url": "https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "We Are The People (feat. Bono & The Edge) - Official UEFA EURO 2020 Song",
+      "url": "https://open.spotify.com/track/1LFVyrx9ZRJ2IyDLRPG8VK"
+    },
+    {
+      "added_at": "2021-10-22 04:02:00",
+      "album": {
+        "name": "Lindsey Buckingham",
+        "url": "https://open.spotify.com/album/0atVY7fmPpavJNvQjXxcPG"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "duration_ms": 131986,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/1X8eckB81MHBEcixZkvJW9"
+    }
+  ],
+  "unique_name": "Classic Artists New Music",
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWX3wsvr7czQx"
+}

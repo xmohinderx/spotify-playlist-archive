@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 194147,
       "name": "5 In The Morning",
       "url": "https://open.spotify.com/track/0hOlbRZFsasbJzcciXRolS"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 173640,
       "name": "A-O-K",
       "url": "https://open.spotify.com/track/51PSUD2YHjPyAy3jnkaoy7"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 176868,
       "name": "Better for Me",
       "url": "https://open.spotify.com/track/6nBEjwGB9eFeixOssxPej5"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 201178,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 193600,
       "name": "Coming For Ya",
       "url": "https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 172792,
       "name": "everything",
       "url": "https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 160799,
       "name": "Feel It for You",
       "url": "https://open.spotify.com/track/2AjbxwfJR24dBWmp6tSxy2"
@@ -739,6 +739,24 @@
       "duration_ms": 206226,
       "name": "Following The Sun",
       "url": "https://open.spotify.com/track/2JzXBqTIVHYX43t7EcLyMs"
+    },
+    {
+      "album": {
+        "name": "Girls Like Us",
+        "url": "https://open.spotify.com/album/5boy0Dm6JWz7YP8yIWdiyg"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/5SFXOMJJ334Wn2PwBHeRZN"
     },
     {
       "album": {
@@ -865,7 +883,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 226071,
       "name": "Hard Not to Love You",
       "url": "https://open.spotify.com/track/5c05lHYIIUXwlZ3Qx6ZbtQ"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 193733,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 176622,
       "name": "I'll Get Over It",
       "url": "https://open.spotify.com/track/6muh9p2mTDMlIZ06Z4tvvX"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/10xKsIlAjrrdOtdKNPuVin"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 212503,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 188160,
       "name": "see you later (ten years)",
       "url": "https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 205404,
       "name": "Singing Your Name",
       "url": "https://open.spotify.com/track/4kyaNYfxakqYGtYl5IHfQN"
@@ -2019,7 +2037,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 192621,
       "name": "Solar Power",
       "url": "https://open.spotify.com/track/3KdoeNlEN0BoAKWzaRLNZa"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 170467,
       "name": "Splash",
       "url": "https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 156684,
       "name": "Talk You Down",
       "url": "https://open.spotify.com/track/6UBWwEWTSyYPfz3hVVQqvD"
@@ -2261,7 +2279,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 208197,
       "name": "The Sun\u2019s Gonna Rise",
       "url": "https://open.spotify.com/track/21RwRFSFMOuDcaIqy3aiIH"
@@ -2607,7 +2625,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 230133,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/3PBOgjs3aYjPtdB1gbMRqM"

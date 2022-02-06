@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 194800,
       "name": "All I Can Do",
       "url": "https://open.spotify.com/track/4DLCJrhY7EPdjYRaM59wgz"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 179426,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/1f0XxoeFQWM4mR4NxHu6DE"
@@ -315,6 +315,24 @@
       "duration_ms": 238920,
       "name": "Breakaway",
       "url": "https://open.spotify.com/track/17xAjxyUW68z2BJ5tOQBee"
+    },
+    {
+      "album": {
+        "name": "Hope 7",
+        "url": "https://open.spotify.com/album/4KG4xqQgjZ9uimAnbFWbf8"
+      },
+      "artists": [
+        {
+          "name": "Hope 7",
+          "url": "https://open.spotify.com/artist/5TymafJSADimtvQMebQ6PX"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163683,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/1CsBvg3vg2A3DCyeMoomlu"
     },
     {
       "album": {
@@ -579,7 +597,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 247866,
       "name": "Every Other Time - Radio Edit & Album Version",
       "url": "https://open.spotify.com/track/3uD4aRM8QoEAAhwpOke7QU"
@@ -687,7 +705,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 192533,
       "name": "Get the Party Started",
       "url": "https://open.spotify.com/track/02jcEwywffn3Tsb48fXmlW"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 189933,
       "name": "Nothing in This World",
       "url": "https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF"
@@ -1679,7 +1697,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 210466,
       "name": "S Club Party",
       "url": "https://open.spotify.com/track/21ixeD8mGouF993kgb4MER"
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 274440,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/0fGh0trRN1xz3s41r7V5ce"

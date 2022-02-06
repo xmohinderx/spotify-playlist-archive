@@ -816,6 +816,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202746,
+      "name": "Anunnaki",
+      "url": "https://open.spotify.com/track/6Emw7N6BUeyLQOB9E4GeMn"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -1537,7 +1555,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -1745,6 +1763,24 @@
       "duration_ms": 171080,
       "name": "BITTE SPITTE X",
       "url": "https://open.spotify.com/track/5CQqlc5MtuFpyIiPsn3iWa"
+    },
+    {
+      "album": {
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
       "album": {
@@ -4022,6 +4058,36 @@
     },
     {
       "album": {
+        "name": "Mercury - Act 1",
+        "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
+    },
+    {
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -4045,7 +4111,7 @@
       ],
       "date_added": "2021-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
@@ -4409,7 +4475,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 175344,
       "name": "Fingers Crossed",
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
@@ -5227,7 +5293,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -6767,7 +6833,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 177705,
       "name": "Jefe",
       "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
@@ -7313,6 +7379,24 @@
       "duration_ms": 188102,
       "name": "LA FAMA (with The Weeknd)",
       "url": "https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146680,
+      "name": "La faux le fer",
+      "url": "https://open.spotify.com/track/3ntXOAGhqRRjRbGF5Jtbuf"
     },
     {
       "album": {
@@ -8433,7 +8517,7 @@
       ],
       "date_added": "2021-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 241970,
       "name": "Love Tonight - Edit",
       "url": "https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP"
@@ -8723,7 +8807,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 144621,
       "name": "Manila",
       "url": "https://open.spotify.com/track/2hBkoDhuGk2AtSCprEFDFP"
@@ -8801,6 +8885,28 @@
       "duration_ms": 148293,
       "name": "Mardi gras",
       "url": "https://open.spotify.com/track/3derKKqC8nOEuBryp6wfms"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176613,
+      "name": "Maudit (feat. Hamza)",
+      "url": "https://open.spotify.com/track/6MHeQfndkEfQvEoHOpkjgl"
     },
     {
       "album": {
@@ -9879,7 +9985,7 @@
       ],
       "date_added": "2021-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 169944,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
@@ -10616,6 +10722,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154293,
+      "name": "Pand\u00e9mie",
+      "url": "https://open.spotify.com/track/5FHewCm87pZHevn3wc1zDp"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -10631,6 +10755,24 @@
       "duration_ms": 178623,
       "name": "Papi\u2019s Home",
       "url": "https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Papoose",
+      "url": "https://open.spotify.com/track/1QOPXog7uc6nIRuIdIGsdk"
     },
     {
       "album": {
@@ -10745,6 +10887,28 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227386,
+      "name": "Peon (feat. Orelsan)",
+      "url": "https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe"
     },
     {
       "album": {
@@ -11273,6 +11437,32 @@
       "duration_ms": 187267,
       "name": "PUSSYBOY",
       "url": "https://open.spotify.com/track/6More9229VRrmQAHMe5o7d"
+    },
+    {
+      "album": {
+        "name": "Quit (feat. MVNA & ART)",
+        "url": "https://open.spotify.com/album/16v1SNHx1Ez7Oe0KpOVxO5"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "MVNA",
+          "url": "https://open.spotify.com/artist/0XzmYRFJxC3OdOY27QkYkH"
+        },
+        {
+          "name": "ART",
+          "url": "https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145493,
+      "name": "Quit (feat. MVNA & ART)",
+      "url": "https://open.spotify.com/track/1DGnBZVutWD4OrYTaJROP3"
     },
     {
       "album": {
@@ -12450,6 +12640,24 @@
     },
     {
       "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206772,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
+    },
+    {
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -12595,7 +12803,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 168600,
       "name": "Ska",
       "url": "https://open.spotify.com/track/5PEh1I6fovvn6nFcOhA8fW"
@@ -13811,7 +14019,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 168020,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
@@ -13929,6 +14137,24 @@
       "duration_ms": 171382,
       "name": "T\u00e4ter Intensiv",
       "url": "https://open.spotify.com/track/1IQjulXWBd2vPI5AsWIidN"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216680,
+      "name": "Un mot",
+      "url": "https://open.spotify.com/track/2OtS79y1U6ZbuHkP4AzFs0"
     },
     {
       "album": {
@@ -15329,7 +15555,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 186140,
       "name": "Young Right Now",
       "url": "https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG"

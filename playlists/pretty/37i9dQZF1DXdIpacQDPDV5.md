@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Sofi Tukker
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,813 likes - 101 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,848 likes - 101 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 100 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
 | 101 | [Make It Good](https://open.spotify.com/track/1jfd5UYYNB8LEYGtHkP1tM) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Make It Good](https://open.spotify.com/album/3AjMLvMHcgrXICSYHepcy6) | 2:39 |
 
-Snapshot ID: `MTY0Mzk1MDgwMCwwMDAwMDMyNjAwMDAwMTdlYzMxYTdkMzEwMDAwMDE3ZWMxYTVjN2M4`
+Snapshot ID: `MTY0NDA4MjQ1NCwwMDAwMDMyNzAwMDAwMTdlY2FmMzVmN2MwMDAwMDE3ZWMxYTVjN2M4`

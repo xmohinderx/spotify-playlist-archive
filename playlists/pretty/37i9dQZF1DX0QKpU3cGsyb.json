@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1486383,
+  "num_followers": 1487001,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDAyMTM3MywwMDAwMDAwMDVmZmViNzYyMjNhYTdiOTg5Njc1ZTI2ZGYwNDg1YTNi",
+  "snapshot_id": "MTY0NDEwODYwNywwMDAwMDAwMDExOWY4ODIzYzUwZGE2ZWEwZThkN2RjMDNkNDhhZTZk",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -119,6 +119,42 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 213214,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 223414,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
         "name": "Good & Plenty (Remix)",
         "url": "https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us"
       },
@@ -143,46 +179,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Nobody But You",
-        "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 213214,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/1U49zFUoaDyVPjGVeKcmbk"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 164565,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/3S4gq91XRuohTTfJZAiGVK"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "FWM",
         "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
       },
@@ -203,18 +199,22 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
+        "name": "When It's All Said And Done",
+        "url": "https://open.spotify.com/album/7GO8GILzY6wfpeFW4p5Hrq"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        },
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 223414,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
+      "duration_ms": 193849,
+      "name": "Last Time (feat. Snoh Aalegra)",
+      "url": "https://open.spotify.com/track/4wDqeyNLU2Jx9iu4NBIG8O"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -231,26 +231,6 @@
       "duration_ms": 208746,
       "name": "Waves of Blue",
       "url": "https://open.spotify.com/track/5BQHyj5Pb3dUY8W6TSjeTF"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Slow Down (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF"
-      },
-      "artists": [
-        {
-          "name": "VanJess",
-          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 227673,
-      "name": "Slow Down (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -279,6 +259,26 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
+        "name": "Slow Down (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF"
+      },
+      "artists": [
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 227673,
+      "name": "Slow Down (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
@@ -295,6 +295,22 @@
       "duration_ms": 210000,
       "name": "FYE",
       "url": "https://open.spotify.com/track/0nO4zZnJfxDXwTIwqLy5iL"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "LOST YOU",
+        "url": "https://open.spotify.com/album/3DMw1U0phfSBMkmO6pI5eF"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "LOST YOU",
+      "url": "https://open.spotify.com/track/0Gmjaje0sMUwD5mIHlhlfs"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -323,42 +339,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "All Pride Aside with Summer Walker",
-        "url": "https://open.spotify.com/album/5OXWFTGZLq6ro7IKpL7E8v"
-      },
-      "artists": [
-        {
-          "name": "Shelley FKA DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 258417,
-      "name": "All Pride Aside with Summer Walker",
-      "url": "https://open.spotify.com/track/5xJqIMx7GZg4Lt1dRims0V"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Sweet Spot",
-        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
-      },
-      "artists": [
-        {
-          "name": "MK xyz",
-          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
-        }
-      ],
-      "duration_ms": 156909,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa"
       },
@@ -375,70 +355,22 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "At Your Best (You Are Love) - Spotify Singles",
-        "url": "https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn"
+        "name": "All Pride Aside with Summer Walker",
+        "url": "https://open.spotify.com/album/5OXWFTGZLq6ro7IKpL7E8v"
       },
       "artists": [
         {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 317890,
-      "name": "At Your Best (You Are Love) - Spotify Singles",
-      "url": "https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Free Like Me",
-        "url": "https://open.spotify.com/album/4DQdhSH4kOwjkz8OwcCuDd"
-      },
-      "artists": [
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+          "name": "Shelley FKA DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
         },
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 206226,
-      "name": "Free Like Me",
-      "url": "https://open.spotify.com/track/0grbhFgGDSVcPeWRXehe8U"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Ease My Mind (Come Over)",
-        "url": "https://open.spotify.com/album/76PRb1DA17GoOZTExCjnpj"
-      },
-      "artists": [
-        {
-          "name": "Nija",
-          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
-        }
-      ],
-      "duration_ms": 166293,
-      "name": "Ease My Mind (Come Over)",
-      "url": "https://open.spotify.com/track/1FmZC1z76lUOwi2PwdBihB"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Show U Off",
-        "url": "https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 251132,
-      "name": "Show U Off",
-      "url": "https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR"
+      "duration_ms": 258417,
+      "name": "All Pride Aside with Summer Walker",
+      "url": "https://open.spotify.com/track/5xJqIMx7GZg4Lt1dRims0V"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -463,18 +395,70 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "24hrs",
-        "url": "https://open.spotify.com/album/4h3Eyvv9Bu4L9seooUcdiz"
+        "name": "Show U Off",
+        "url": "https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m"
       },
       "artists": [
         {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
         }
       ],
-      "duration_ms": 202551,
-      "name": "24hrs",
-      "url": "https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR"
+      "duration_ms": 251132,
+      "name": "Show U Off",
+      "url": "https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Ease My Mind (Come Over)",
+        "url": "https://open.spotify.com/album/76PRb1DA17GoOZTExCjnpj"
+      },
+      "artists": [
+        {
+          "name": "Nija",
+          "url": "https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW"
+        }
+      ],
+      "duration_ms": 166293,
+      "name": "Ease My Mind (Come Over)",
+      "url": "https://open.spotify.com/track/1FmZC1z76lUOwi2PwdBihB"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Aura III",
+        "url": "https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 188234,
+      "name": "In My Corner",
+      "url": "https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Free Like Me",
+        "url": "https://open.spotify.com/album/4DQdhSH4kOwjkz8OwcCuDd"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "Free Like Me",
+      "url": "https://open.spotify.com/track/0grbhFgGDSVcPeWRXehe8U"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -499,26 +483,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231497,
-      "name": "No Love (with SZA)",
-      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "R\u00e9sum\u00e9",
         "url": "https://open.spotify.com/album/0l8zpK3kp03r6ZCb3yaW8n"
       },
@@ -535,58 +499,18 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/4hZRrCaaXzI6E2lmuRW2yk"
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
         }
       ],
-      "duration_ms": 191903,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/2jTovHL9JKMTErPbYtyOLs"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Aura III",
-        "url": "https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 188234,
-      "name": "In My Corner",
-      "url": "https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "When It's All Said And Done",
-        "url": "https://open.spotify.com/album/7GO8GILzY6wfpeFW4p5Hrq"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        },
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 193849,
-      "name": "Last Time (feat. Snoh Aalegra)",
-      "url": "https://open.spotify.com/track/4wDqeyNLU2Jx9iu4NBIG8O"
+      "duration_ms": 231733,
+      "name": "Julie.",
+      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -607,18 +531,22 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/4PnpSGM16sNxYsPE8KDbjg"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/1U49zFUoaDyVPjGVeKcmbk"
       },
       "artists": [
         {
-          "name": "Emanuel",
-          "url": "https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7"
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 244783,
-      "name": "Worldwide",
-      "url": "https://open.spotify.com/track/29N2S4U4bHo36ylr4gihq3"
+      "duration_ms": 164565,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3S4gq91XRuohTTfJZAiGVK"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -643,34 +571,38 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Situationship",
-        "url": "https://open.spotify.com/album/1reU8zP1OtFCmK055l6UZF"
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
       "artists": [
         {
-          "name": "Nbdy",
-          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 176640,
-      "name": "Situationship",
-      "url": "https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f"
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "LOST YOU",
-        "url": "https://open.spotify.com/album/3DMw1U0phfSBMkmO6pI5eF"
+        "name": "Sweet Spot",
+        "url": "https://open.spotify.com/album/23nTkOwxgL10bRmFMjEYRY"
       },
       "artists": [
         {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+          "name": "MK xyz",
+          "url": "https://open.spotify.com/artist/3vwC5qKVfZGqWAXzwrqCe0"
         }
       ],
-      "duration_ms": 177720,
-      "name": "LOST YOU",
-      "url": "https://open.spotify.com/track/0Gmjaje0sMUwD5mIHlhlfs"
+      "duration_ms": 156909,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -695,34 +627,54 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "OMW",
-        "url": "https://open.spotify.com/album/1GxmqRRHpfU87ijFpDmLvh"
+        "name": "At Your Best (You Are Love) - Spotify Singles",
+        "url": "https://open.spotify.com/album/5hRR7gwAw1b7XbJ3HCZHIn"
       },
       "artists": [
         {
-          "name": "Asiahn",
-          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 197074,
-      "name": "OMW",
-      "url": "https://open.spotify.com/track/0fSdTWC36g1Y44tpKzp7f2"
+      "duration_ms": 317890,
+      "name": "At Your Best (You Are Love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8"
     },
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+        "name": "24hrs",
+        "url": "https://open.spotify.com/album/4h3Eyvv9Bu4L9seooUcdiz"
       },
       "artists": [
         {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
         }
       ],
-      "duration_ms": 231733,
-      "name": "Julie.",
-      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
+      "duration_ms": 202551,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/23S3Ec0TsHifidDXWL0hzR"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/4hZRrCaaXzI6E2lmuRW2yk"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 191903,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/2jTovHL9JKMTErPbYtyOLs"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -739,6 +691,114 @@
       "duration_ms": 225919,
       "name": "Situations",
       "url": "https://open.spotify.com/track/0w9PgFcTJOlUiadfPVefxs"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/4PnpSGM16sNxYsPE8KDbjg"
+      },
+      "artists": [
+        {
+          "name": "Emanuel",
+          "url": "https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7"
+        }
+      ],
+      "duration_ms": 244783,
+      "name": "Worldwide",
+      "url": "https://open.spotify.com/track/29N2S4U4bHo36ylr4gihq3"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Vibrate (feat. Pink Sweat$)",
+        "url": "https://open.spotify.com/album/5lf1nBM3xVI6tqsRoTUqlw"
+      },
+      "artists": [
+        {
+          "name": "IV JAY",
+          "url": "https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "Vibrate (feat. Pink Sweat$)",
+      "url": "https://open.spotify.com/track/5rnDy5QVLVH4A73A3C1PpF"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/0tgUE3W7ZNhpW7sypjvBkK"
+      },
+      "artists": [
+        {
+          "name": "Barii",
+          "url": "https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ"
+        }
+      ],
+      "duration_ms": 165604,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/1snKYWnRhMsrpelhlAONGA"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Heat Of The Moment",
+        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 154634,
+      "name": "Rebel (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Fast Car",
+        "url": "https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "You Want My Love",
+        "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "You Want My Love",
+      "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -767,54 +827,18 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Vibrate (feat. Pink Sweat$)",
-        "url": "https://open.spotify.com/album/5lf1nBM3xVI6tqsRoTUqlw"
+        "name": "OMW",
+        "url": "https://open.spotify.com/album/1GxmqRRHpfU87ijFpDmLvh"
       },
       "artists": [
         {
-          "name": "IV JAY",
-          "url": "https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX"
-        },
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "Asiahn",
+          "url": "https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs"
         }
       ],
-      "duration_ms": 147013,
-      "name": "Vibrate (feat. Pink Sweat$)",
-      "url": "https://open.spotify.com/track/5rnDy5QVLVH4A73A3C1PpF"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/1OlLnAxdhnPl9pHZBWpDA6"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 191884,
-      "name": "Go Get It",
-      "url": "https://open.spotify.com/track/6Oh9IuY1onEK4S433aheJV"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/3GvJ3TWhzD5H2kPMgSB98r"
-      },
-      "artists": [
-        {
-          "name": "Kaien Cruz",
-          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
-        }
-      ],
-      "duration_ms": 150595,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/1iI9QCKcs3W5VW8oSTG8BS"
+      "duration_ms": 197074,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/0fSdTWC36g1Y44tpKzp7f2"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -835,86 +859,66 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "You Want My Love",
-        "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
+        "name": "PEAKING",
+        "url": "https://open.spotify.com/album/5MVJpvyBltzWLE7YY28N3u"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
-      "duration_ms": 194373,
-      "name": "You Want My Love",
-      "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
+      "duration_ms": 193234,
+      "name": "PEAKING",
+      "url": "https://open.spotify.com/track/4AzN1noxlKZszMOXX8irpf"
     },
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Fast Car",
-        "url": "https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d"
+        "name": "Situationship",
+        "url": "https://open.spotify.com/album/1reU8zP1OtFCmK055l6UZF"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+          "name": "Nbdy",
+          "url": "https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK"
+      "duration_ms": 176640,
+      "name": "Situationship",
+      "url": "https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f"
     },
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/0tgUE3W7ZNhpW7sypjvBkK"
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/3GvJ3TWhzD5H2kPMgSB98r"
       },
       "artists": [
         {
-          "name": "Barii",
-          "url": "https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ"
+          "name": "Kaien Cruz",
+          "url": "https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE"
         }
       ],
-      "duration_ms": 165604,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/1snKYWnRhMsrpelhlAONGA"
+      "duration_ms": 150595,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/1iI9QCKcs3W5VW8oSTG8BS"
     },
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/4i077tVvCcRg4JTUhZop5F"
+        "name": "She Knows",
+        "url": "https://open.spotify.com/album/6CryGQCKTRIK0hJcx1I1us"
       },
       "artists": [
         {
-          "name": "Maya Hirasedo",
-          "url": "https://open.spotify.com/artist/79fiC2Vlgb2Q8u30JVcOm8"
+          "name": "Kaleem Taylor",
+          "url": "https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug"
         }
       ],
-      "duration_ms": 168837,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/59YDYuR0NyVtYcJVvduzas"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Ecstasy",
-        "url": "https://open.spotify.com/album/2J08nZUYMNYMo4fKxRJGmr"
-      },
-      "artists": [
-        {
-          "name": "Ayanis",
-          "url": "https://open.spotify.com/artist/0ce3UlXwNzZPkj78XYLE7V"
-        }
-      ],
-      "duration_ms": 187362,
-      "name": "Ecstasy",
-      "url": "https://open.spotify.com/track/1eNggQRMpNZUF9k15CjKgP"
+      "duration_ms": 248250,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3a8vuQ21AzGHP82BmrMV0H"
     }
   ],
   "unique_name": "Bedroom Jams",

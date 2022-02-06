@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 343283,
       "name": "2 Far Gone",
       "url": "https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 256250,
       "name": "Abraham",
       "url": "https://open.spotify.com/track/7nDjW1FNWo17X6M6Cz5iI6"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 150382,
       "name": "avery",
       "url": "https://open.spotify.com/track/6eGEc1s8krSYpJdvyFR2TY"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 231765,
       "name": "Beetle Juice",
       "url": "https://open.spotify.com/track/5bXfImRd5EX482Gc3bdarK"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 351120,
       "name": "Better Days - Full Length",
       "url": "https://open.spotify.com/track/30zOLT8Rbxj0FTxQPhNmLj"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 255239,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5rcGQIrv6eUIyCBfWga363"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 237579,
       "name": "Borders",
       "url": "https://open.spotify.com/track/64kPvG0cDJ7ePFIZi8KBn9"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 407551,
       "name": "Breathe Suite B",
       "url": "https://open.spotify.com/track/35vHk6BGTJxKqlTJnkJyWg"
@@ -426,6 +426,28 @@
     },
     {
       "album": {
+        "name": "Chandler",
+        "url": "https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        },
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221129,
+      "name": "Chandler",
+      "url": "https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK"
+    },
+    {
+      "album": {
         "name": "Chapter 8",
         "url": "https://open.spotify.com/album/7MoukJtX3G5QK3CajdADIM"
       },
@@ -455,7 +477,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 289213,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
@@ -625,7 +647,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 242834,
       "name": "Early Hours",
       "url": "https://open.spotify.com/track/0t7NNWc2iaPJInAaKYCx4K"
@@ -643,7 +665,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 219933,
       "name": "Everything Is Connected",
       "url": "https://open.spotify.com/track/4DoPUruUNmcg5RudmAhMWq"
@@ -679,7 +701,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 396320,
       "name": "Five Fruit",
       "url": "https://open.spotify.com/track/2R8H75qUKm5nCIJHXHFSr3"
@@ -701,7 +723,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 233696,
       "name": "Fix It",
       "url": "https://open.spotify.com/track/6A4IsE49xSN07NqbXiUMFc"
@@ -767,7 +789,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 210439,
       "name": "Forget",
       "url": "https://open.spotify.com/track/4P02fYUDA6IzpVKElRnAcq"
@@ -803,7 +825,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 552706,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/2VhFXhN18TAUvT0kSgB30B"
@@ -851,7 +873,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 197872,
       "name": "Give A Little - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/6QvCnbVDTKqQyyJRsnLlIS"
@@ -953,7 +975,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 344279,
       "name": "Headstew",
       "url": "https://open.spotify.com/track/5IHZOZwnVgqMnFqw8K6pF4"
@@ -1065,7 +1087,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 349629,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/4jsWwL5JRWrHrWRqid2Jvg"
@@ -1101,7 +1123,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 258863,
       "name": "India",
       "url": "https://open.spotify.com/track/3v9EdwOJoKeMQsqiQpb8pH"
@@ -1291,7 +1313,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 318939,
       "name": "Lift Off",
       "url": "https://open.spotify.com/track/7DFKZeHytl80710avStSCH"
@@ -1339,10 +1361,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 193357,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/210QQ9PIeYxjcHaMNNdzbJ"
+    },
+    {
+      "album": {
+        "name": "Low Sun (Live)",
+        "url": "https://open.spotify.com/album/0l993bL6QX8RzqiA6UsjsB"
+      },
+      "artists": [
+        {
+          "name": "Natty Reeves",
+          "url": "https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242750,
+      "name": "Low Sun - Live",
+      "url": "https://open.spotify.com/track/5BDMUXvlEm9LCqvl38FHFN"
     },
     {
       "album": {
@@ -1415,7 +1459,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 206250,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/1MoWsRjtJVoOHEVKRuyGHu"
@@ -1635,7 +1679,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 217268,
       "name": "No Be Today - Yeye Be Dem Policy",
       "url": "https://open.spotify.com/track/1or6YdEd7OVm9bo72rYBOe"
@@ -1751,7 +1795,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 286052,
       "name": "Our People",
       "url": "https://open.spotify.com/track/5O4T4YCPtrYFSZpZU08P2E"
@@ -2039,7 +2083,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 184650,
       "name": "See You",
       "url": "https://open.spotify.com/track/5GZFPLrGgPH0cG2R12aaVM"
@@ -2079,7 +2123,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 260122,
       "name": "Shades of You",
       "url": "https://open.spotify.com/track/2OtnmFipsJgxUPkwnMP11I"
@@ -2157,7 +2201,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 228013,
       "name": "Soul Makosa",
       "url": "https://open.spotify.com/track/42N0Pb6xLVbqgDpOVRHCVo"
@@ -2179,7 +2223,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 335479,
       "name": "Source - Makaya McCraven Remix",
       "url": "https://open.spotify.com/track/4GvCH247Cz1KHi1BTuAKyg"
@@ -2245,7 +2289,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 299653,
       "name": "Speak No Evil (Night Dreamer)",
       "url": "https://open.spotify.com/track/4DTdxOytdNr6zQBBtfBWbg"
@@ -2303,7 +2347,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 300288,
       "name": "Stay Home",
       "url": "https://open.spotify.com/track/6R1R6czIpUXR6vhWWqfgC2"
@@ -2383,7 +2427,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 183653,
       "name": "sweet wurli",
       "url": "https://open.spotify.com/track/3SMt4rUCBTQUEDwtpGZv71"
@@ -2435,7 +2479,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 272817,
       "name": "Talking to the Walls - Ash Walker Remix",
       "url": "https://open.spotify.com/track/0YZ0pUxBhyzdvVZifFRm5l"
@@ -2471,7 +2515,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 200200,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5hJexxZWaa2L7gqTha7nts"
@@ -2609,7 +2653,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 241596,
       "name": "This Sun",
       "url": "https://open.spotify.com/track/5PdhaqWAtMDcMeI7qvsKLp"
@@ -2631,7 +2675,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 269573,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/7nlR2dYMSBaVNz259BQwFU"
@@ -2675,7 +2719,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 319653,
       "name": "Tittle Tattle",
       "url": "https://open.spotify.com/track/3BRbIsUrsR5AGI33ZI0pre"
@@ -2937,7 +2981,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 251278,
       "name": "Yoshi Orange",
       "url": "https://open.spotify.com/track/6DAXWnejJNzLIt6ShyUgdh"
@@ -2959,7 +3003,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 388186,
       "name": "Your Saint",
       "url": "https://open.spotify.com/track/0OsNaSKEXq4zFOzbgfMwHR"

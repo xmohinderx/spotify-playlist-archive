@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\.  Cover:  Elevation Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,401,770 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,402,329 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 99 | [Good God](https://open.spotify.com/track/0oBjCx63OwKT7anxNGO48A) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [God's Favourite Baby](https://open.spotify.com/album/6tIEth6WoH5RhYFvsMN2wF) | 3:35 |
 | 100 | [Precious](https://open.spotify.com/track/4PFArZky2W4NCAxAJ4LuA7) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Precious](https://open.spotify.com/album/4kPmrOm92X5Z9320B6IOsG) | 6:07 |
 
-Snapshot ID: `MTY0NDAyMTcxNSwwMDAwMDAwMDk4OTFmZjdiZjQ1ODgzMWNjYzk0NDVmYWUzYWY2ZGQw`
+Snapshot ID: `MTY0NDEwODk0NCwwMDAwMDAwMDk4OTFmZjdiZjQ1ODgzMWNjYzk0NDVmYWUzYWY2ZGQw`

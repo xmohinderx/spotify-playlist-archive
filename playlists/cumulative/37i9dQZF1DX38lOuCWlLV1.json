@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 219973,
       "name": "Coloring",
       "url": "https://open.spotify.com/track/2FFYeeIB7Vxj5qL8xr7Kd6"
@@ -502,6 +502,24 @@
     },
     {
       "album": {
+        "name": "Fall in Love with You.",
+        "url": "https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
+    },
+    {
+      "album": {
         "name": "I'm Wide Awake, It's Morning",
         "url": "https://open.spotify.com/album/5msfCyqu8fJYqDDV6OrXTg"
       },
@@ -585,7 +603,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 303213,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
@@ -809,7 +827,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 269680,
       "name": "Just Kids",
       "url": "https://open.spotify.com/track/199ydjP4O3NR8wgRLLcUNE"
@@ -863,7 +881,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 87675,
       "name": "Life in the Vivid Dream",
       "url": "https://open.spotify.com/track/2HatzmU2P4RehpC0GYyfUQ"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 248964,
       "name": "Mystery of Love",
       "url": "https://open.spotify.com/track/0MNNKSUU9OOQ8DSGWduw79"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 221693,
       "name": "Passenger Seat",
       "url": "https://open.spotify.com/track/42raDMAj1FDvMtNxcrExux"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 250668,
       "name": "Til Kingdom Come",
       "url": "https://open.spotify.com/track/1wQXj5bgxyZQ2XmE2X9s6n"

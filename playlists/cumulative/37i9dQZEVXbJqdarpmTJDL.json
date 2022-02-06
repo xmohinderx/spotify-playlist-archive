@@ -938,6 +938,24 @@
     },
     {
       "album": {
+        "name": "Ase Me Na Se Prosecho",
+        "url": "https://open.spotify.com/album/2znnejYi8zaFtd8KbuNE9D"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216237,
+      "name": "Ase Me Na Se Prosecho",
+      "url": "https://open.spotify.com/track/7iLGrcj8AInLXuTLfkjtJC"
+    },
+    {
+      "album": {
         "name": "Assassini",
         "url": "https://open.spotify.com/album/4tT9PX4hJ6YxNqHS7NH6jU"
       },
@@ -3389,7 +3407,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
@@ -4031,7 +4049,7 @@
       ],
       "date_added": "2022-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 229013,
       "name": "Gennima Thremma",
       "url": "https://open.spotify.com/track/40qQR2ELY3IcPyRwBj2YLE"
@@ -8425,10 +8443,40 @@
       ],
       "date_added": "2021-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 116504,
       "name": "Pes Tou",
       "url": "https://open.spotify.com/track/0v8TxNTZhQlctTUNX9PpRO"
+    },
+    {
+      "album": {
+        "name": "Pes Tou (Remix)",
+        "url": "https://open.spotify.com/album/2rgk5BnmNB5zHdK4o0tTWH"
+      },
+      "artists": [
+        {
+          "name": "Dirty Harry",
+          "url": "https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233007,
+      "name": "Pes Tou - Remix",
+      "url": "https://open.spotify.com/track/3yYiWonAKTa1W0cYlEPjRj"
     },
     {
       "album": {
@@ -11347,7 +11395,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 247200,
       "name": "XILIOMETRA",
       "url": "https://open.spotify.com/track/0Az2D1ByNU09je0ZtzDcHm"

@@ -149,7 +149,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 192759,
       "name": "Bad Posture",
       "url": "https://open.spotify.com/track/1s7jZkEqW1T84f3VyIT29g"
@@ -1575,6 +1575,28 @@
       "duration_ms": 203893,
       "name": "One Too Many",
       "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
+    },
+    {
+      "album": {
+        "name": "Paying For It",
+        "url": "https://open.spotify.com/album/4FelfT4bTsX1obV8487WSX"
+      },
+      "artists": [
+        {
+          "name": "Levi Hummon",
+          "url": "https://open.spotify.com/artist/64fJiKnU2RfnndB8xP3gLi"
+        },
+        {
+          "name": "Walker Hayes",
+          "url": "https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191087,
+      "name": "Paying For It",
+      "url": "https://open.spotify.com/track/4um0dlscaZs2xkSbH72pP2"
     },
     {
       "album": {

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 225133,
       "name": "1950",
       "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 237049,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi"
@@ -588,6 +588,24 @@
     },
     {
       "album": {
+        "name": "Drama Queen",
+        "url": "https://open.spotify.com/album/4g9Q2JI0ehh0VQ40vLcbFz"
+      },
+      "artists": [
+        {
+          "name": "Delacey",
+          "url": "https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292466,
+      "name": "Drama Queen",
+      "url": "https://open.spotify.com/track/7K4vZUin6BMe1QOM0QpmLO"
+    },
+    {
+      "album": {
         "name": "Get to Know Lonesome",
         "url": "https://open.spotify.com/album/387JnBLrB5nH7DXcy8jBQ1"
       },
@@ -707,7 +725,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 248181,
       "name": "Go Easy, Kid",
       "url": "https://open.spotify.com/track/7AeffRBhIZel7deJBbra5D"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 189468,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/5YGUxFRCpX2QMDeSNlurRh"
@@ -949,7 +967,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 195044,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w"
@@ -1183,7 +1201,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 162758,
       "name": "Like the Movies",
       "url": "https://open.spotify.com/track/6jh16zx3qgGeLA5J3iihS0"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 180028,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 215506,
       "name": "Sleep it Off",
       "url": "https://open.spotify.com/track/1dp3L4RsP70L6SYSSMy8zV"

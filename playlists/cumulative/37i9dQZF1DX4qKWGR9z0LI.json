@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 262746,
       "name": "Abre Que Voy",
       "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 153608,
       "name": "Acuyuye",
       "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 260865,
       "name": "Canciones Viejas",
       "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
@@ -519,7 +519,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 231306,
       "name": "Cuando Te Miro",
       "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 360666,
       "name": "Doble Vida",
       "url": "https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9"
@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Salsa Brava Con Todos los Hierros",
+        "url": "https://open.spotify.com/album/4HGxgo1ysteh87S9lsGvYe"
+      },
+      "artists": [
+        {
+          "name": "Sonora Carruseles",
+          "url": "https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248933,
+      "name": "El Bailar\u00edn de la Avenida",
+      "url": "https://open.spotify.com/track/6WXNXsF3F8oiqc0EGsCG20"
+    },
+    {
+      "album": {
         "name": "El Combo del Mundo",
         "url": "https://open.spotify.com/album/0cZr0vIcUNsPWDnRKhf2s5"
       },
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 259586,
       "name": "El Combo del Mundo",
       "url": "https://open.spotify.com/track/7papz71lGIeD4yHPraTfD7"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 308009,
       "name": "Lo Dudo",
       "url": "https://open.spotify.com/track/0mZqBGmiNEmhDyUnfKrj9A"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 248697,
       "name": "Mala (feat. Victor Manuelle) - Salsa Remix",
       "url": "https://open.spotify.com/track/6ZIzbuU1QzGpSfFdWFKKqL"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 212045,
       "name": "Me Tienes Mal",
       "url": "https://open.spotify.com/track/7rbaW6Q1xCiIucyaZZjTYY"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 439080,
       "name": "Medley",
       "url": "https://open.spotify.com/track/0WwVA5yRSxSUBM3macPfJK"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 258786,
       "name": "Mis Ojos Lloran por T\u00ed",
       "url": "https://open.spotify.com/track/1hvtQqJSaRAWP0PCW3P80Q"
@@ -1545,10 +1563,32 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 224826,
       "name": "Pa Bravo Yo",
       "url": "https://open.spotify.com/track/1reO9cqAkoJUWQw29KwA6S"
+    },
+    {
+      "album": {
+        "name": "Pa Que Caliente",
+        "url": "https://open.spotify.com/album/6RqPpu9kadpIN3P0HxoQJH"
+      },
+      "artists": [
+        {
+          "name": "Michael Stuart",
+          "url": "https://open.spotify.com/artist/5iaO1NHFcaQigDtuJi0mhe"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243250,
+      "name": "Pa Que Caliente",
+      "url": "https://open.spotify.com/track/2hYMUJfIeNLMFOaZHX3m6a"
     },
     {
       "album": {
@@ -1571,7 +1611,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 213000,
       "name": "Pa'lante y Pa'tras - Remix",
       "url": "https://open.spotify.com/track/61adK2aayDAKjms9aMaCt8"
@@ -1803,7 +1843,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
@@ -1839,7 +1879,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 288600,
       "name": "Resistir\u00e9 - Salsa",
       "url": "https://open.spotify.com/track/4Qpom4kmnP9PEFOF2TAoxi"
@@ -1879,7 +1919,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 298306,
       "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
       "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
@@ -2089,7 +2129,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 388160,
       "name": "Te Estan Buscando",
       "url": "https://open.spotify.com/track/61p1Ha5D8jCY42BnocQu5j"
@@ -2233,7 +2273,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 317941,
       "name": "Tuyo (Nueva Versi\u00f3n)",
       "url": "https://open.spotify.com/track/3e8hxZsJBGkwL3G1HYSfUy"
@@ -2395,7 +2435,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 249160,
       "name": "Viene y Se Va",
       "url": "https://open.spotify.com/track/07wgpM7gK7K1u68grjWnxo"
@@ -2453,7 +2493,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 325133,
       "name": "Volver\u00e1s",
       "url": "https://open.spotify.com/track/33KyLofurq1qZ6kpF6J9Hi"

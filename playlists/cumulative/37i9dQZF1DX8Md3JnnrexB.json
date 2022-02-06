@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 191160,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 270760,
       "name": "Almaz",
       "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 244640,
       "name": "Be Here in Te Morning",
       "url": "https://open.spotify.com/track/3uaCC1kjEA6PmDcCR23Iha"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 326800,
       "name": "Biggest Part of Me - Remastered Version",
       "url": "https://open.spotify.com/track/5APylRvEGGAegrESwuG3A0"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 325720,
       "name": "Close the Door",
       "url": "https://open.spotify.com/track/18QoUfcjQavkS6t7QT04aK"
@@ -1029,10 +1029,32 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 326506,
       "name": "Dreamin'",
       "url": "https://open.spotify.com/track/3jQCcmUSBL21Z8Csp96Y9Q"
+    },
+    {
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211346,
+      "name": "Dynamite.",
+      "url": "https://open.spotify.com/track/5Jg9DV3m2umJpoHXV2e6j8"
     },
     {
       "album": {
@@ -1065,7 +1087,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 138893,
       "name": "Ebony Eyes",
       "url": "https://open.spotify.com/track/6x3pbtEBzRrJtQ0Lx9W8L9"
@@ -1247,7 +1269,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 332866,
       "name": "Feel the Fire",
       "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
@@ -1283,7 +1305,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 298946,
       "name": "For You",
       "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
@@ -1377,7 +1399,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 121080,
       "name": "Grandma's Hands",
       "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
@@ -1478,6 +1500,24 @@
     },
     {
       "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383502,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+    },
+    {
+      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -1525,7 +1565,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 181306,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/31S04SZjQCMUTEIF9PWIEp"
@@ -1767,7 +1807,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 260000,
       "name": "I've Got Love On My Mind",
       "url": "https://open.spotify.com/track/5Zclj5e4Jv0Zo9FU9pDmPY"
@@ -1869,7 +1909,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
@@ -1959,7 +1999,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 211493,
       "name": "It's Something",
       "url": "https://open.spotify.com/track/0uRD7NAWhRL0mIB3oDh49u"
@@ -2291,7 +2331,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 275226,
       "name": "Love Ballad",
       "url": "https://open.spotify.com/track/3iCbTmcXnKlRZCdaYOukxq"
@@ -2435,7 +2475,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 300226,
       "name": "Love, Need and Want You",
       "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
@@ -2471,7 +2511,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 318253,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
@@ -2777,7 +2817,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "Neither One Of Us (Wants To Be The First To Say Goodbye)",
       "url": "https://open.spotify.com/track/76Gcy0ltMutGaK8oizgdrF"
@@ -2835,7 +2875,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 333133,
       "name": "New York State Of Mind",
       "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
@@ -3235,7 +3275,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 211786,
       "name": "Show and Tell - Rerecorded",
       "url": "https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M"
@@ -3379,7 +3419,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 230920,
       "name": "Starting All Over Again",
       "url": "https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3"
@@ -3423,7 +3463,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 395493,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/0PKcHf6NgPitUVFwzKnz3c"
@@ -3481,7 +3521,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 262213,
       "name": "Take Me I'm Yours",
       "url": "https://open.spotify.com/track/6JjERCOeWhnecHC46jiyV8"
@@ -3575,7 +3615,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 288653,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe"
@@ -3611,7 +3651,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 172320,
       "name": "Tired of Being Alone",
       "url": "https://open.spotify.com/track/5vjmFhes2UVEo5aGQ27q7l"
@@ -3673,7 +3713,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "Too Much, Too Little, Too Late (with Deniece Williams)",
       "url": "https://open.spotify.com/track/79kNl7HUdQswE7n1Ay7Lnm"
@@ -3745,7 +3785,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 229440,
       "name": "Turn Your Love Around - 2015 GH Version",
       "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
@@ -3799,7 +3839,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 238158,
       "name": "Valentine Love (Slow Version)",
       "url": "https://open.spotify.com/track/6YFG39GOXeyNleOaHBYoap"
@@ -4009,7 +4049,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 222253,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/5hBEqzQ2az9kDXRXJTDCZw"
@@ -4045,7 +4085,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 174400,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM"
@@ -4161,7 +4201,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 288440,
       "name": "You Make Me Feel Brand New",
       "url": "https://open.spotify.com/track/73GR50SgGV5hybgWDSFWtD"
@@ -4233,10 +4273,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 257866,
       "name": "You Should Be Mine (The Woo Woo Song)",
       "url": "https://open.spotify.com/track/4oD0fdiuzgsmLDgrrO7n0I"
+    },
+    {
+      "album": {
+        "name": "Good To Go Lover",
+        "url": "https://open.spotify.com/album/3npVAWyBDUmIUaOB1tpZDg"
+      },
+      "artists": [
+        {
+          "name": "Gwen Guthrie",
+          "url": "https://open.spotify.com/artist/77HthcNFa6SbicRaQKdhyy"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308653,
+      "name": "You Touched My Life",
+      "url": "https://open.spotify.com/track/5ICP44CPuCy5V4hJBMrko0"
     },
     {
       "album": {
@@ -4269,7 +4327,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 255026,
       "name": "Young Free and Single",
       "url": "https://open.spotify.com/track/2f28m5YwEAh9aHOG14ajDD"

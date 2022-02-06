@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,314 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,418 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 79 | [Kehna Kuch](https://open.spotify.com/track/0CbH9bhJrTO6VyjJ8h3rgd) | [Geetesh Iyer](https://open.spotify.com/artist/7yidmGI409tmobqWWAg3fS) | [Kehna Kuch](https://open.spotify.com/album/3UkesRRbgTtZ4zsmY1mRx5) | 3:27 |
 | 80 | [Jaana Kaha Hai](https://open.spotify.com/track/6aHl7WFS38wYezyWHTdghb) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Muhafiz](https://open.spotify.com/album/3i1b37UcMyjpG5vF5G3TMz) | 4:32 |
 
-Snapshot ID: `MTY0NDAyMTE2NiwwMDAwMDAwMGI3ZDkyOTMyNTQxMWRlMWQzNGUxNDM5NjFjZDcyZDMz`
+Snapshot ID: `MTY0NDEwODQxNiwwMDAwMDAwMGI3ZDkyOTMyNTQxMWRlMWQzNGUxNDM5NjFjZDcyZDMz`

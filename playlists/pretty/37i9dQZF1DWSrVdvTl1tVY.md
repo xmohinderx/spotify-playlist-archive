@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: James Hype
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,333 likes - 78 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,458 likes - 78 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

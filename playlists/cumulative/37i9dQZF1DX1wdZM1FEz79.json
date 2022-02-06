@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 186950,
       "name": "31",
       "url": "https://open.spotify.com/track/4oBmGC76HpltDdr0mx2h2i"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 206854,
       "name": "A Little Braver",
       "url": "https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH"
@@ -153,10 +153,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 166968,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/01UPzueYKNIRn4R9l5neB5"
+    },
+    {
+      "album": {
+        "name": "Indifferent People",
+        "url": "https://open.spotify.com/album/1wVHZ8ouYutwHL7H5Gl9s6"
+      },
+      "artists": [
+        {
+          "name": "ONEE",
+          "url": "https://open.spotify.com/artist/6qFD5SSrBTyg4aVi0EQEXI"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195360,
+      "name": "Apricot",
+      "url": "https://open.spotify.com/track/7aNOH4B73XDeLOL1yGhwU5"
     },
     {
       "album": {
@@ -251,7 +269,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 261213,
       "name": "Beach Again (Acoustic Ver.)",
       "url": "https://open.spotify.com/track/2XenAqDhO1owVxsYeRET65"
@@ -435,7 +453,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 229573,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
@@ -569,7 +587,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 244120,
       "name": "For You",
       "url": "https://open.spotify.com/track/5VMFjdoJquu5BH6Ti3GYSZ"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 213800,
       "name": "Headache",
       "url": "https://open.spotify.com/track/6R4Lv4Bx0qhyVlVwurGzdf"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 263453,
       "name": "How Is Your Night",
       "url": "https://open.spotify.com/track/0b3gVNccZdoCLUZ4Dzaase"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 245533,
       "name": "I wanna go out",
       "url": "https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 189066,
       "name": "I'm Fine",
       "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 287535,
       "name": "If",
       "url": "https://open.spotify.com/track/0zaHICE67lr13INMJggubW"
@@ -1284,6 +1302,24 @@
     },
     {
       "album": {
+        "name": "My darling",
+        "url": "https://open.spotify.com/album/2SwPIGMwdkzE4DkCmcNfFr"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200160,
+      "name": "My darling",
+      "url": "https://open.spotify.com/track/6dN3zl2CPLQtyZpRcLemy5"
+    },
+    {
+      "album": {
         "name": "Navillera (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/4G8Gt7AamVOeGVo9Tq031e"
       },
@@ -1447,7 +1483,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 241025,
       "name": "Rain In The Night",
       "url": "https://open.spotify.com/track/3ISTUp8tjTZxDQyhwMQbP5"
@@ -1555,7 +1591,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 170746,
       "name": "Say I Love U",
       "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
@@ -1613,7 +1649,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 289973,
       "name": "Shining, My 2006",
       "url": "https://open.spotify.com/track/0Aw8TF0SpyERLi4w0dXUi8"
@@ -1631,7 +1667,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 237106,
       "name": "Si Fueras Mi\u0301a",
       "url": "https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV"
@@ -1805,7 +1841,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 188864,
       "name": "Stupid love song (with Crush)",
       "url": "https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ"
@@ -1841,7 +1877,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 229665,
       "name": "The night we parted",
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
@@ -1967,7 +2003,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 145360,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
@@ -2003,7 +2039,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 215353,
       "name": "vacation",
       "url": "https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr"
@@ -2061,7 +2097,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 257733,
       "name": "Walking in the Starlight",
       "url": "https://open.spotify.com/track/3wT6q6lHoOpZUM38uPSUTF"
@@ -2169,7 +2205,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 226168,
       "name": "When The Wind Blows",
       "url": "https://open.spotify.com/track/32yIszOf09IiMF5MJ8d88H"
@@ -2285,7 +2321,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 213125,
       "name": "You're here with Rain \ube44 \uc624\ub294 \ub0a0\uc774 \uc88b\uc544\uc9c8 \uac83 \uac19\uc544 (With Chamsom)",
       "url": "https://open.spotify.com/track/3sHe6Zqj9BVYqNHmV8YvOx"
@@ -2333,7 +2369,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 258961,
       "name": "YOUR SONG",
       "url": "https://open.spotify.com/track/6XshUdxavknBQlcnu72LpD"
@@ -2351,7 +2387,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 224600,
       "name": "zzz",
       "url": "https://open.spotify.com/track/7nWbh316VrzihN6Rra5Feh"

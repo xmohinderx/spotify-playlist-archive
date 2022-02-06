@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with the all the drops\. Cover: Sofi Tukker
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,282 likes - 76 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,357 likes - 76 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

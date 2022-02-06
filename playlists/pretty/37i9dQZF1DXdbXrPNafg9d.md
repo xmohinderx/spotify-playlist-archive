@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,913 likes - 182 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,210 likes - 182 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

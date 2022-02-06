@@ -1,12 +1,12 @@
 {
   "description": "Turn up with the biggest party tracks of the '90s and '00s.",
-  "num_followers": 2034140,
+  "num_followers": 2034504,
   "original_name": "Throwback Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDAyMTYxNywwMDAwMDAwMGNmZjJjNjZhZmJiMTcyYjY1OWE5YmJlNzliMmZjMzA2",
+  "snapshot_id": "MTY0NDEwODg0OSwwMDAwMDAwMDUxYWRiZWRiNjU1YTY1NjBmYzFlMDc0NTJhMjcwZWU0",
   "tracks": [
     {
       "added_at": "2018-11-27 22:25:21",
@@ -20,29 +20,13 @@
           "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         },
         {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
         }
       ],
-      "duration_ms": 238800,
-      "name": "Bartender (feat. Akon)",
-      "url": "https://open.spotify.com/track/5kxddRG1RZaZROadk7iC4D"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/61NNWRxokNUQx0aYysBL76"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 257760,
-      "name": "Best I Ever Had",
-      "url": "https://open.spotify.com/track/3fyMH1t6UPeR5croea9PrR"
+      "duration_ms": 227960,
+      "name": "Buy U a Drank (Shawty Snappin') (feat. Yung Joc)",
+      "url": "https://open.spotify.com/track/2aIdVb8v9KTpEZnftkz2mD"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -71,6 +55,22 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/61NNWRxokNUQx0aYysBL76"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/3fyMH1t6UPeR5croea9PrR"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/3ff2p3LnR6V7m6BinwhNaQ"
       },
@@ -87,6 +87,42 @@
       "duration_ms": 223506,
       "name": "All Falls Down",
       "url": "https://open.spotify.com/track/2cYZpcIV39X48RnOFM7w2V"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/2HWBPvQoaMFBF6krXyzpOv"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Country Grammar (Hot Shit)",
+      "url": "https://open.spotify.com/track/2Lg4kvhOrPhpGEZmSe7VAN"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Street Love",
+        "url": "https://open.spotify.com/album/142vTN9svotwu8bxaOULNb"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 273133,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6Ap8lYgDbcDOPr9TAXfcnm"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -111,22 +147,22 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Country Grammar",
-        "url": "https://open.spotify.com/album/2HWBPvQoaMFBF6krXyzpOv"
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/44Z1ZEmOyois0QoAgfUxrD"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         },
         {
-          "name": "City Spud",
-          "url": "https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl"
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 291781,
-      "name": "Ride Wit Me",
-      "url": "https://open.spotify.com/track/06iMqWThw4w8fTFyccvOwr"
+      "duration_ms": 238800,
+      "name": "Bartender (feat. Akon)",
+      "url": "https://open.spotify.com/track/5kxddRG1RZaZROadk7iC4D"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -151,42 +187,82 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/44Z1ZEmOyois0QoAgfUxrD"
+        "name": "Country Grammar",
+        "url": "https://open.spotify.com/album/2HWBPvQoaMFBF6krXyzpOv"
       },
       "artists": [
         {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
         },
         {
-          "name": "Yung Joc",
-          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+          "name": "City Spud",
+          "url": "https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl"
         }
       ],
-      "duration_ms": 227960,
-      "name": "Buy U a Drank (Shawty Snappin') (feat. Yung Joc)",
-      "url": "https://open.spotify.com/track/2aIdVb8v9KTpEZnftkz2mD"
+      "duration_ms": 291781,
+      "name": "Ride Wit Me",
+      "url": "https://open.spotify.com/track/06iMqWThw4w8fTFyccvOwr"
     },
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Street Love",
-        "url": "https://open.spotify.com/album/142vTN9svotwu8bxaOULNb"
+        "name": "The Best of Nelly Furtado (Deluxe)",
+        "url": "https://open.spotify.com/album/0KuwW8qW9a0oKhuxydvMvk"
       },
       "artists": [
         {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Promiscuous",
+      "url": "https://open.spotify.com/track/3SwlakM6VX47IwG0Wll5ek"
+    },
+    {
+      "added_at": "2019-12-19 21:20:40",
+      "album": {
+        "name": "400 Degreez",
+        "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Mannie Fresh",
+          "url": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
         }
       ],
-      "duration_ms": 273133,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6Ap8lYgDbcDOPr9TAXfcnm"
+      "duration_ms": 265600,
+      "name": "Back That Azz Up",
+      "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Cassie (U.S. Version)",
+        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+      },
+      "artists": [
+        {
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -221,66 +297,6 @@
       "url": "https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci"
     },
     {
-      "added_at": "2019-12-19 21:20:40",
-      "album": {
-        "name": "400 Degreez",
-        "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
-      },
-      "artists": [
-        {
-          "name": "JUVENILE",
-          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Mannie Fresh",
-          "url": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "Back That Azz Up",
-      "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Country Grammar",
-        "url": "https://open.spotify.com/album/2HWBPvQoaMFBF6krXyzpOv"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Country Grammar (Hot Shit)",
-      "url": "https://open.spotify.com/track/2Lg4kvhOrPhpGEZmSe7VAN"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "The Best of Nelly Furtado (Deluxe)",
-        "url": "https://open.spotify.com/album/0KuwW8qW9a0oKhuxydvMvk"
-      },
-      "artists": [
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Promiscuous",
-      "url": "https://open.spotify.com/track/3SwlakM6VX47IwG0Wll5ek"
-    },
-    {
       "added_at": "2018-11-27 22:25:21",
       "album": {
         "name": "Jagged Little Thrill",
@@ -303,38 +319,22 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+        "name": "U Gotta Feel Me",
+        "url": "https://open.spotify.com/album/4Qn7STB2T1jc5Dz3I7kjxJ"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+          "name": "Lil' Flip",
+          "url": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
         },
         {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+          "name": "Lea",
+          "url": "https://open.spotify.com/artist/4tAhhPPEWcszcMjhYROUvx"
         }
       ],
-      "duration_ms": 234000,
-      "name": "The Way You Move (feat. Sleepy Brown)",
-      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Hood Hop",
-        "url": "https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv"
-      },
-      "artists": [
-        {
-          "name": "J-Kwon",
-          "url": "https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Tipsy - Club Mix",
-      "url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7"
+      "duration_ms": 222480,
+      "name": "Sunshine (feat. Lea)",
+      "url": "https://open.spotify.com/track/22irp40MtAAatGBNsWE3du"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -359,6 +359,26 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
         "name": "Lovehate",
         "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
       },
@@ -375,66 +395,6 @@
       "duration_ms": 262773,
       "name": "Shawty Is Da Shit",
       "url": "https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        }
-      ],
-      "duration_ms": 257399,
-      "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
-      "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Cassie (U.S. Version)",
-        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
-      },
-      "artists": [
-        {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "U Gotta Feel Me",
-        "url": "https://open.spotify.com/album/4Qn7STB2T1jc5Dz3I7kjxJ"
-      },
-      "artists": [
-        {
-          "name": "Lil' Flip",
-          "url": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
-        },
-        {
-          "name": "Lea",
-          "url": "https://open.spotify.com/artist/4tAhhPPEWcszcMjhYROUvx"
-        }
-      ],
-      "duration_ms": 222480,
-      "name": "Sunshine (feat. Lea)",
-      "url": "https://open.spotify.com/track/22irp40MtAAatGBNsWE3du"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -463,6 +423,50 @@
       "duration_ms": 304000,
       "name": "Air Force Ones",
       "url": "https://open.spotify.com/track/7kAFSrTIOiVZ0gnHBuAH3l"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "duration_ms": 257399,
+      "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Rule 3:36",
+        "url": "https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Put It On Me",
+      "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
     },
     {
       "added_at": "2019-12-19 21:20:40",
@@ -503,58 +507,38 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "The Last Temptation",
-        "url": "https://open.spotify.com/album/0rLZHGRrjPwwUTfEPNTawc"
+        "name": "New Joc City",
+        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
       },
       "artists": [
         {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
         },
         {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Nitti",
+          "url": "https://open.spotify.com/artist/5jx1ZcYEEgdi86Gzc4T7Jq"
         }
       ],
-      "duration_ms": 278720,
-      "name": "Mesmerize",
-      "url": "https://open.spotify.com/track/2iclfHORMqpR3TxuhwVRhD"
+      "duration_ms": 241840,
+      "name": "It's Goin' Down (feat. Nitti)",
+      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
     },
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
+        "name": "Hood Hop",
+        "url": "https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv"
       },
       "artists": [
         {
-          "name": "Bell Biv DeVoe",
-          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+          "name": "J-Kwon",
+          "url": "https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw"
         }
       ],
-      "duration_ms": 261853,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 224440,
-      "name": "21 Questions",
-      "url": "https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI"
+      "duration_ms": 243226,
+      "name": "Tipsy - Club Mix",
+      "url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -573,20 +557,40 @@
       "url": "https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh"
     },
     {
-      "added_at": "2018-11-27 22:25:21",
+      "added_at": "2019-12-19 21:20:40",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+        "name": "Juve The Great",
+        "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Soulja Slim",
+          "url": "https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd"
         }
       ],
-      "duration_ms": 230200,
-      "name": "Jumpin', Jumpin'",
-      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
+      "duration_ms": 248200,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Kamikaze",
+        "url": "https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N"
+      },
+      "artists": [
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        }
+      ],
+      "duration_ms": 233360,
+      "name": "Overnight Celebrity",
+      "url": "https://open.spotify.com/track/024Q1MI4uaYHF6j2Q2ZYgF"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -611,34 +615,114 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Rated Next",
-        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
+        "name": "Underground Luxury",
+        "url": "https://open.spotify.com/album/177byugYOk12NcfRtWvghY"
       },
       "artists": [
         {
-          "name": "Next",
-          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 259440,
-      "name": "Too Close",
-      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
+      "duration_ms": 220240,
+      "name": "HeadBand (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/2LvRR121MWFmmEGkuV2vQP"
     },
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Mario",
-        "url": "https://open.spotify.com/album/1GImI2mDks4CNUWvdeoYqW"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
       },
       "artists": [
         {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
         }
       ],
-      "duration_ms": 214200,
-      "name": "Just a Friend 2002 - Radio Edit",
-      "url": "https://open.spotify.com/track/2cxbxpHrND6i4uvUGVvC9J"
+      "duration_ms": 224440,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Back For The First Time",
+        "url": "https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Shawnna",
+          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "What's Your Fantasy (Featuring Shawna)",
+      "url": "https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "duration_ms": 207626,
+      "name": "Gold Digger",
+      "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Jumpin', Jumpin'",
+      "url": "https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -667,118 +751,18 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Rule 3:36",
-        "url": "https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH"
+        "name": "Just a Friend - EP",
+        "url": "https://open.spotify.com/album/32wD8Cv9HKBXiVumGQsZVL"
       },
       "artists": [
         {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/3ot6fEzKvRrCnWy5BWlnxU"
+          "name": "Biz Markie",
+          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
         }
       ],
-      "duration_ms": 262826,
-      "name": "Put It On Me",
-      "url": "https://open.spotify.com/track/0OvwzS8FX73Bw7ykMRmffU"
-    },
-    {
-      "added_at": "2019-12-19 21:20:40",
-      "album": {
-        "name": "Juve The Great",
-        "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
-      },
-      "artists": [
-        {
-          "name": "JUVENILE",
-          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
-        },
-        {
-          "name": "Soulja Slim",
-          "url": "https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd"
-        }
-      ],
-      "duration_ms": 248200,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Back For The First Time",
-        "url": "https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Shawnna",
-          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "What's Your Fantasy (Featuring Shawna)",
-      "url": "https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Thank Me Later",
-        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Swizz Beatz",
-          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
-        }
-      ],
-      "duration_ms": 319386,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Nellyville",
-        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Rock Wit U (Awww Baby)",
-      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
+      "duration_ms": 238266,
+      "name": "Just a Friend",
+      "url": "https://open.spotify.com/track/1MQCTOWVfy4PcuBXkBsHVB"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -807,370 +791,18 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
         }
       ],
-      "duration_ms": 249866,
-      "name": "Big Poppa - 2007 Remaster",
-      "url": "https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
-        }
-      ],
-      "duration_ms": 207626,
-      "name": "Gold Digger",
-      "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "New Joc City",
-        "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
-      },
-      "artists": [
-        {
-          "name": "Yung Joc",
-          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
-        },
-        {
-          "name": "Nitti",
-          "url": "https://open.spotify.com/artist/5jx1ZcYEEgdi86Gzc4T7Jq"
-        }
-      ],
-      "duration_ms": 241840,
-      "name": "It's Goin' Down (feat. Nitti)",
-      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Outlawz",
-          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "Hit 'Em Up - Single Version",
-      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Jealous Ones Still Envy (J.O.S.E)",
-        "url": "https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI"
-      },
-      "artists": [
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 267093,
-      "name": "What's Luv? (feat. Ja-Rule & Ashanti)",
-      "url": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Part III",
-        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
-      },
-      "artists": [
-        {
-          "name": "112",
-          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Peaches & Cream",
-      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 270506,
-      "name": "Ms. Jackson",
-      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Just a Friend - EP",
-        "url": "https://open.spotify.com/album/32wD8Cv9HKBXiVumGQsZVL"
-      },
-      "artists": [
-        {
-          "name": "Biz Markie",
-          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Just a Friend",
-      "url": "https://open.spotify.com/track/1MQCTOWVfy4PcuBXkBsHVB"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Blow The Whistle",
-        "url": "https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp"
-      },
-      "artists": [
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Blow the Whistle",
-      "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Ashanti",
-        "url": "https://open.spotify.com/album/3dAdilu5vv6ThGzgNwUlK3"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 227386,
-      "name": "Foolish",
-      "url": "https://open.spotify.com/track/2FbD2sqUmAdjqqCBp0mn2g"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Come Home With Me",
-        "url": "https://open.spotify.com/album/2dkW0vytRLSwXcHpOGepZL"
-      },
-      "artists": [
-        {
-          "name": "Cam\u2019ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
-        },
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        },
-        {
-          "name": "Freekey Zeekey",
-          "url": "https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3"
-        },
-        {
-          "name": "Toya",
-          "url": "https://open.spotify.com/artist/6cStgiv1qH5z6GYrFsjuGj"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Hey Ma",
-      "url": "https://open.spotify.com/track/0Uhnzk5zI46IRlQ04LNOtc"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Kamikaze",
-        "url": "https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N"
-      },
-      "artists": [
-        {
-          "name": "Twista",
-          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "Overnight Celebrity",
-      "url": "https://open.spotify.com/track/024Q1MI4uaYHF6j2Q2ZYgF"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        }
-      ],
-      "duration_ms": 292373,
-      "name": "Fergalicious",
-      "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Harlem World",
-        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
-      },
-      "artists": [
-        {
-          "name": "Mase",
-          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Feel so Good",
-      "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Let Me Love You",
-        "url": "https://open.spotify.com/album/7EXstuWka51pNFzEAidEol"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "A Milli",
-      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Come Home With Me",
-        "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
-      },
-      "artists": [
-        {
-          "name": "Cam\u2019ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
-        },
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "Oh Boy",
-      "url": "https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB"
-    },
-    {
-      "added_at": "2019-12-19 21:20:40",
-      "album": {
-        "name": "Murphy's Law",
-        "url": "https://open.spotify.com/album/5T75pyMyLZWKvDl6jFdi0F"
-      },
-      "artists": [
-        {
-          "name": "Murphy Lee",
-          "url": "https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A"
-        },
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        }
-      ],
-      "duration_ms": 295173,
-      "name": "Shake Ya Tailfeather - Radio Edit",
-      "url": "https://open.spotify.com/track/4TJduXYW1Pg96EDNnfiwxJ"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 240026,
-      "name": "So Fresh, So Clean",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Rock Your Body",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+      "duration_ms": 261853,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -1199,26 +831,6 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Tha Carter IV (Deluxe)",
-        "url": "https://open.spotify.com/album/1uuSC0RCJB3dSp8Mb6GflZ"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Cory Gunz",
-          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "6 Foot 7 Foot",
-      "url": "https://open.spotify.com/track/0z5ZPs57J2KERwM1tBM2GF"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
       },
@@ -1235,112 +847,8 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "J To Tha L-O! The Remixes (Clean Version)",
-        "url": "https://open.spotify.com/album/1FQnj8upsxCHbHjYNpzyjb"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Cadillac Tah",
-          "url": "https://open.spotify.com/artist/1pYxANcOtFZSECxACjmCE8"
-        }
-      ],
-      "duration_ms": 229800,
-      "name": "Ain't It Funny - Murder Remix",
-      "url": "https://open.spotify.com/track/1yeLSqz8u8ip9NnzjGs7lQ"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Down for Life",
-        "url": "https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp"
-      },
-      "artists": [
-        {
-          "name": "D4L",
-          "url": "https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "Laffy Taffy",
-      "url": "https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Me & My Brother",
-        "url": "https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95"
-      },
-      "artists": [
-        {
-          "name": "Ying Yang Twins",
-          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
-        },
-        {
-          "name": "Lil Jon & The East Side Boyz",
-          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Salt Shaker",
-      "url": "https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Underground Luxury",
-        "url": "https://open.spotify.com/album/177byugYOk12NcfRtWvghY"
-      },
-      "artists": [
-        {
-          "name": "B.o.B",
-          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "HeadBand (feat. 2 Chainz)",
-      "url": "https://open.spotify.com/track/2LvRR121MWFmmEGkuV2vQP"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "On Top Of Our Game",
-        "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
-      },
-      "artists": [
-        {
-          "name": "Dem Franchize Boyz",
-          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
-        },
-        {
-          "name": "Peanut",
-          "url": "https://open.spotify.com/artist/3ePtiHg3lMjWFLlbIKkCRD"
-        },
-        {
-          "name": "Charlay",
-          "url": "https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Lean Wit It, Rock Wit It",
-      "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/32Uap63CremneOfNRyJAnt"
+        "name": "The Last Temptation",
+        "url": "https://open.spotify.com/album/0rLZHGRrjPwwUTfEPNTawc"
       },
       "artists": [
         {
@@ -1352,205 +860,81 @@
           "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 245373,
-      "name": "Always On Time",
-      "url": "https://open.spotify.com/track/4YA7nxDtAVE2R1Eryx7uRu"
+      "duration_ms": 278720,
+      "name": "Mesmerize",
+      "url": "https://open.spotify.com/track/2iclfHORMqpR3TxuhwVRhD"
     },
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+        "name": "Mario",
+        "url": "https://open.spotify.com/album/1GImI2mDks4CNUWvdeoYqW"
       },
       "artists": [
         {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
         }
       ],
-      "duration_ms": 271333,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+      "duration_ms": 214200,
+      "name": "Just a Friend 2002 - Radio Edit",
+      "url": "https://open.spotify.com/track/2cxbxpHrND6i4uvUGVvC9J"
     },
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Jackpot",
-        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
+        "name": "Rated Next",
+        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
       },
       "artists": [
         {
-          "name": "Chingy",
-          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
         }
       ],
-      "duration_ms": 250746,
-      "name": "Right Thurr",
-      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
+      "duration_ms": 259440,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
     },
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Urban Legend",
-        "url": "https://open.spotify.com/album/4hOTRlVLwjVtOrp9C5MX3E"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
       "artists": [
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Bring Em Out",
-      "url": "https://open.spotify.com/track/7u6aTzXw1JtiK5sr7XctFs"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Brandy",
-        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 291666,
-      "name": "I Wanna Be Down",
-      "url": "https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Street Dreams (Bonus Track)",
-        "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
-      },
-      "artists": [
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         },
         {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
         }
       ],
-      "duration_ms": 274333,
-      "name": "Into You (feat. Ashanti)",
-      "url": "https://open.spotify.com/track/4b5aJdOgxps6z0dPe6wCHF"
+      "duration_ms": 312626,
+      "name": "Hit 'Em Up - Single Version",
+      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
     },
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "702",
-        "url": "https://open.spotify.com/album/3oSahToI00YnUgOPHNZ35i"
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
       },
       "artists": [
         {
-          "name": "702",
-          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
-        }
-      ],
-      "duration_ms": 166693,
-      "name": "Where My Girls At",
-      "url": "https://open.spotify.com/track/2Nzm9dtlzWHrYtbAt53NV8"
-    },
-    {
-      "added_at": "2019-12-19 21:20:40",
-      "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 324373,
-      "name": "Rosa Parks",
-      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
         },
         {
-          "name": "Daz Dillinger",
-          "url": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
         }
       ],
-      "duration_ms": 211493,
-      "name": "Gin And Juice (feat. Dat Nigga Daz)",
-      "url": "https://open.spotify.com/track/0WKYRFtH6KKbaNWjsxqm70"
-    },
-    {
-      "added_at": "2019-12-19 21:20:40",
-      "album": {
-        "name": "The Blueprint",
-        "url": "https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Izzo (H.O.V.A.)",
-      "url": "https://open.spotify.com/track/10EGxvr4fSE42ABWZeJ3K3"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "Release Therapy",
-        "url": "https://open.spotify.com/album/77u9Ndnhi4raBZfnl22Jzg"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 230613,
-      "name": "Money Maker",
-      "url": "https://open.spotify.com/track/2JpUkUR0OsOlUUfm6iS8ic"
-    },
-    {
-      "added_at": "2018-11-27 22:25:21",
-      "album": {
-        "name": "The Cookbook",
-        "url": "https://open.spotify.com/album/3nTGDw2T1QyD9lVKoUD00J"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Fatman Scoop",
-          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
-      "url": "https://open.spotify.com/track/1ulAlG3x3jWtCCK2SI4qyL"
+      "duration_ms": 292373,
+      "name": "Fergalicious",
+      "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -1584,9 +968,409 @@
           "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 301466,
-      "name": "Juicy - 2007 Remaster",
-      "url": "https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22"
+      "duration_ms": 249866,
+      "name": "Big Poppa - 2007 Remaster",
+      "url": "https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Rock Wit U (Awww Baby)",
+      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Peaches & Cream",
+      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Come Home With Me",
+        "url": "https://open.spotify.com/album/2dkW0vytRLSwXcHpOGepZL"
+      },
+      "artists": [
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        },
+        {
+          "name": "Freekey Zeekey",
+          "url": "https://open.spotify.com/artist/6EjZmcZTs67OVOG511gGn3"
+        },
+        {
+          "name": "Toya",
+          "url": "https://open.spotify.com/artist/6cStgiv1qH5z6GYrFsjuGj"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Hey Ma",
+      "url": "https://open.spotify.com/track/0Uhnzk5zI46IRlQ04LNOtc"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Harlem World",
+        "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
+      },
+      "artists": [
+        {
+          "name": "Mase",
+          "url": "https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Feel so Good",
+      "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        }
+      ],
+      "duration_ms": 319386,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/3fpTMuD1u3gJlVI4FadVHs"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Jealous Ones Still Envy (J.O.S.E)",
+        "url": "https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 267093,
+      "name": "What's Luv? (feat. Ja-Rule & Ashanti)",
+      "url": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Release Therapy",
+        "url": "https://open.spotify.com/album/77u9Ndnhi4raBZfnl22Jzg"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 230613,
+      "name": "Money Maker",
+      "url": "https://open.spotify.com/track/2JpUkUR0OsOlUUfm6iS8ic"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB"
+      },
+      "artists": [
+        {
+          "name": "Chingy",
+          "url": "https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh"
+        }
+      ],
+      "duration_ms": 250746,
+      "name": "Right Thurr",
+      "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 270506,
+      "name": "Ms. Jackson",
+      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Tha Carter IV (Deluxe)",
+        "url": "https://open.spotify.com/album/1uuSC0RCJB3dSp8Mb6GflZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Cory Gunz",
+          "url": "https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "6 Foot 7 Foot",
+      "url": "https://open.spotify.com/track/0z5ZPs57J2KERwM1tBM2GF"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Ashanti",
+        "url": "https://open.spotify.com/album/3dAdilu5vv6ThGzgNwUlK3"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 227386,
+      "name": "Foolish",
+      "url": "https://open.spotify.com/track/2FbD2sqUmAdjqqCBp0mn2g"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "The Cookbook",
+        "url": "https://open.spotify.com/album/3nTGDw2T1QyD9lVKoUD00J"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
+      "url": "https://open.spotify.com/track/1ulAlG3x3jWtCCK2SI4qyL"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Me & My Brother",
+        "url": "https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95"
+      },
+      "artists": [
+        {
+          "name": "Ying Yang Twins",
+          "url": "https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m"
+        },
+        {
+          "name": "Lil Jon & The East Side Boyz",
+          "url": "https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Salt Shaker",
+      "url": "https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Urban Legend",
+        "url": "https://open.spotify.com/album/4hOTRlVLwjVtOrp9C5MX3E"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Bring Em Out",
+      "url": "https://open.spotify.com/track/7u6aTzXw1JtiK5sr7XctFs"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Blow The Whistle",
+        "url": "https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Blow the Whistle",
+      "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "On Top Of Our Game",
+        "url": "https://open.spotify.com/album/0e0ks1xlvQBOsC3Gsw2EgA"
+      },
+      "artists": [
+        {
+          "name": "Dem Franchize Boyz",
+          "url": "https://open.spotify.com/artist/0VKTLKamj4IH8OfQbUL0kq"
+        },
+        {
+          "name": "Peanut",
+          "url": "https://open.spotify.com/artist/3ePtiHg3lMjWFLlbIKkCRD"
+        },
+        {
+          "name": "Charlay",
+          "url": "https://open.spotify.com/artist/4FZBzAqTsS12zKdb9Gr2uz"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Lean Wit It, Rock Wit It",
+      "url": "https://open.spotify.com/track/7cVmKBwzPsh4Fmb6SplfEm"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "So Fresh, So Clean",
+      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Down for Life",
+        "url": "https://open.spotify.com/album/5PE3OnyEPOlTShpjij8Wfp"
+      },
+      "artists": [
+        {
+          "name": "D4L",
+          "url": "https://open.spotify.com/artist/4AllEJE7mVkhhyUV6DjqPz"
+        }
+      ],
+      "duration_ms": 224253,
+      "name": "Laffy Taffy",
+      "url": "https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ"
+    },
+    {
+      "added_at": "2019-12-19 21:20:40",
+      "album": {
+        "name": "Murphy's Law",
+        "url": "https://open.spotify.com/album/5T75pyMyLZWKvDl6jFdi0F"
+      },
+      "artists": [
+        {
+          "name": "Murphy Lee",
+          "url": "https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "duration_ms": 295173,
+      "name": "Shake Ya Tailfeather - Radio Edit",
+      "url": "https://open.spotify.com/track/4TJduXYW1Pg96EDNnfiwxJ"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "A Milli",
+      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -1603,6 +1387,74 @@
       "duration_ms": 268533,
       "name": "Creep",
       "url": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 296586,
+      "name": "Rollout (My Business)",
+      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/7EXstuWka51pNFzEAidEol"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Life In 1472 (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 254253,
+      "name": "Money Ain't a Thang (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -1627,22 +1479,134 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Life In 1472 (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt"
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
       },
       "artists": [
         {
-          "name": "Jermaine Dupri",
-          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         },
+        {
+          "name": "Daz Dillinger",
+          "url": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Gin And Juice (feat. Dat Nigga Daz)",
+      "url": "https://open.spotify.com/track/0WKYRFtH6KKbaNWjsxqm70"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/32Uap63CremneOfNRyJAnt"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Always On Time",
+      "url": "https://open.spotify.com/track/4YA7nxDtAVE2R1Eryx7uRu"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 301466,
+      "name": "Juicy - 2007 Remaster",
+      "url": "https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Come Home With Me",
+        "url": "https://open.spotify.com/album/4wn9wcP2D71SyiB7KbVKMy"
+      },
+      "artists": [
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "Oh Boy",
+      "url": "https://open.spotify.com/track/4gdQ8QShlC3toP9Mkc8DwB"
+    },
+    {
+      "added_at": "2019-12-19 21:20:40",
+      "album": {
+        "name": "The Black Album",
+        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
+      },
+      "artists": [
         {
           "name": "JAY-Z",
           "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 254253,
-      "name": "Money Ain't a Thang (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m"
+      "duration_ms": 245173,
+      "name": "Dirt Off Your Shoulder",
+      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Brandy",
+        "url": "https://open.spotify.com/album/2yHJoGH0mIqYVAHUFKJcZ6"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 291666,
+      "name": "I Wanna Be Down",
+      "url": "https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "J To Tha L-O! The Remixes (Clean Version)",
+        "url": "https://open.spotify.com/album/1FQnj8upsxCHbHjYNpzyjb"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Cadillac Tah",
+          "url": "https://open.spotify.com/artist/1pYxANcOtFZSECxACjmCE8"
+        }
+      ],
+      "duration_ms": 229800,
+      "name": "Ain't It Funny - Murder Remix",
+      "url": "https://open.spotify.com/track/1yeLSqz8u8ip9NnzjGs7lQ"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -1669,24 +1633,24 @@
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
     },
     {
-      "added_at": "2019-12-19 21:20:40",
+      "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "Nigga Please",
-        "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
+        "name": "Street Dreams (Bonus Track)",
+        "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
       },
       "artists": [
         {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
         },
         {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Got Your Money (feat. Kelis)",
-      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
+      "duration_ms": 274333,
+      "name": "Into You (feat. Ashanti)",
+      "url": "https://open.spotify.com/track/4b5aJdOgxps6z0dPe6wCHF"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -1703,6 +1667,46 @@
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
+      "added_at": "2019-12-19 21:20:40",
+      "album": {
+        "name": "The Blueprint",
+        "url": "https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Izzo (H.O.V.A.)",
+      "url": "https://open.spotify.com/track/10EGxvr4fSE42ABWZeJ3K3"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
+      },
+      "artists": [
+        {
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Queen Pen",
+          "url": "https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ"
     },
     {
       "added_at": "2018-11-27 22:25:21",
@@ -1727,54 +1731,50 @@
     {
       "added_at": "2018-11-27 22:25:21",
       "album": {
-        "name": "My Ghetto Report Card",
-        "url": "https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl"
+        "name": "Music Of The Sun",
+        "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
       "artists": [
         {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "Keak Da Sneak",
-          "url": "https://open.spotify.com/artist/1sPpJhevOYz54gNgeh2LaV"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 237666,
-      "name": "Tell Me When to Go (feat. Keak da Sneak)",
-      "url": "https://open.spotify.com/track/7eJ5kRpMNPAk7ccCDKywjH"
+      "duration_ms": 246960,
+      "name": "Pon de Replay",
+      "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
+    },
+    {
+      "added_at": "2018-11-27 22:25:21",
+      "album": {
+        "name": "702",
+        "url": "https://open.spotify.com/album/3oSahToI00YnUgOPHNZ35i"
+      },
+      "artists": [
+        {
+          "name": "702",
+          "url": "https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo"
+        }
+      ],
+      "duration_ms": 166693,
+      "name": "Where My Girls At",
+      "url": "https://open.spotify.com/track/2Nzm9dtlzWHrYtbAt53NV8"
     },
     {
       "added_at": "2019-12-19 21:20:40",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2019-12-19 21:20:40",
-      "album": {
-        "name": "The Black Album",
-        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "99 Problems",
-      "url": "https://open.spotify.com/track/7sLpSWxQazJzDVG6YGzlVs"
+      "duration_ms": 324373,
+      "name": "Rosa Parks",
+      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
     }
   ],
   "unique_name": "Throwback Jams",

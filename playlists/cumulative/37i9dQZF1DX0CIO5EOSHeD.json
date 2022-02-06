@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 128530,
       "name": "3:45/buslane",
       "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 176268,
       "name": "4th of july",
       "url": "https://open.spotify.com/track/1jRhmp69z3clRhNjev6P6f"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 210446,
       "name": "Altitude",
       "url": "https://open.spotify.com/track/5hh5t7Wc3NuzFlRhl5Yxhx"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 197133,
       "name": "backseat",
       "url": "https://open.spotify.com/track/2ivpTUIMtk6YUWmEGEfbpN"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 142245,
       "name": "Big Nothing",
       "url": "https://open.spotify.com/track/5z8uTILTDLsjfeQot1NA7t"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 224323,
       "name": "by the way",
       "url": "https://open.spotify.com/track/4zWrWNH8wEgJoLQwqjhTJE"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 131174,
       "name": "Can\u2019t Get Enough",
       "url": "https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 312400,
       "name": "Deaf",
       "url": "https://open.spotify.com/track/4mD08TdVCPxyV4xnP5o7Wt"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/3xiMFRYBQL1zxdxbgUmBKI"
@@ -1217,7 +1217,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 164500,
       "name": "Everything I Know",
       "url": "https://open.spotify.com/track/1vWjISlgaMob9cjPDK8P7I"
@@ -1365,7 +1365,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 148474,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/3oL1stuPW3PaZ304QT5ok0"
@@ -1387,6 +1387,24 @@
       "duration_ms": 138948,
       "name": "For U",
       "url": "https://open.spotify.com/track/4jEj8zsFCz9SpY3VL4b50H"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249968,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP"
     },
     {
       "album": {
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 215000,
       "name": "help me",
       "url": "https://open.spotify.com/track/2oQuObB3RU0MGfZRHV5dKg"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 211360,
       "name": "How to Have Fun",
       "url": "https://open.spotify.com/track/6jaxe5HpttOQVccAOqAMyq"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 131618,
       "name": "Human Condition",
       "url": "https://open.spotify.com/track/4ulOJhLqbDeBFEbYVX6yjG"
@@ -1863,7 +1881,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 290000,
       "name": "I Am the Car",
       "url": "https://open.spotify.com/track/3TH46ofR8DzkLYJUlVtrd9"
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 187687,
       "name": "just the way it is",
       "url": "https://open.spotify.com/track/0hLf3CBO9Oq7OAQx3r4XRR"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 180000,
       "name": "Laying out Your Web",
       "url": "https://open.spotify.com/track/2RQbHBSGpU3CmkHUBEWIYJ"
@@ -2289,7 +2307,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 195918,
       "name": "Locked Up Pt. 1",
       "url": "https://open.spotify.com/track/3jhwRS4l4oeKR3qsWV6hLU"
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 159130,
       "name": "Loose Fix",
       "url": "https://open.spotify.com/track/4IhrvjuTob5DQRcToBvCrk"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 138666,
       "name": "Morning Vibes",
       "url": "https://open.spotify.com/track/1EzEHQjOX0yfJ7dRiRjldl"
@@ -2715,7 +2733,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 252631,
       "name": "No Smoke",
       "url": "https://open.spotify.com/track/1IXHaRuIIuYpIYvisruDvG"
@@ -2935,7 +2953,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 258946,
       "name": "Pointing the Finger",
       "url": "https://open.spotify.com/track/67BEckciiEnrJ7s7zVamMO"
@@ -2953,7 +2971,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 108625,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/0zt0Q41pagMJPehwBbz9kD"
@@ -2993,7 +3011,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 243666,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
@@ -3621,7 +3639,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 155422,
       "name": "somewhere else",
       "url": "https://open.spotify.com/track/6NF1hgyrdNslHmZ5SFY9Oc"
@@ -3682,6 +3700,24 @@
     },
     {
       "album": {
+        "name": "Spiral Stairs",
+        "url": "https://open.spotify.com/album/0JsrXgAVovKYKoKRrBLdMO"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146026,
+      "name": "Spiral Stairs",
+      "url": "https://open.spotify.com/track/6ODsBcPNsjqHzxrhmsPWLD"
+    },
+    {
+      "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/33wDctNQFE0CHgCZfJH4L7"
       },
@@ -3733,7 +3769,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 158333,
       "name": "stay",
       "url": "https://open.spotify.com/track/23uag9bcLig9W06gC4U8XD"
@@ -4011,7 +4047,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 244363,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/4M9W9hA3xsQ50u38FbxZQw"
@@ -4271,7 +4307,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 235462,
       "name": "What We Left Behind",
       "url": "https://open.spotify.com/track/7MNpO6YyXfnYbxFuInDrR3"
@@ -4361,7 +4397,7 @@
       ],
       "date_added": "2021-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 146037,
       "name": "Worth the Wait",
       "url": "https://open.spotify.com/track/1K1M1pMNmGLOcSf73PzfXd"
@@ -4379,7 +4415,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 144705,
       "name": "Yin to Yang",
       "url": "https://open.spotify.com/track/331h4sIr7Xz17a3UpNXhTS"

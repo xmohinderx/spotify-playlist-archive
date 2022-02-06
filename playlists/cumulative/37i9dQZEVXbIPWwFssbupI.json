@@ -755,10 +755,28 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 202746,
       "name": "Anunnaki",
       "url": "https://open.spotify.com/track/5dfgX2GxEMQsGycPvjxhdP"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202746,
+      "name": "Anunnaki",
+      "url": "https://open.spotify.com/track/6Emw7N6BUeyLQOB9E4GeMn"
     },
     {
       "album": {
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 219314,
       "name": "A\u00efcha",
       "url": "https://open.spotify.com/track/3u2NGFCIe5Ynxv8djbpVP8"
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 196373,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/1F80MEkZA9yTlpMQp9dhht"
@@ -1597,6 +1615,24 @@
       "duration_ms": 173093,
       "name": "Beuh \u00e0 la framboise",
       "url": "https://open.spotify.com/track/7Av34oWfL5z6zFRMa3Q0n7"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167360,
+      "name": "Bien s\u00fbr - Bonus",
+      "url": "https://open.spotify.com/track/3F4ujQNrH5qbEA8cAzxYUR"
     },
     {
       "album": {
@@ -1807,7 +1843,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 228211,
       "name": "Bruxelles je t\u2019aime",
       "url": "https://open.spotify.com/track/0iqk44gA8PaId0Fwa6eesN"
@@ -2861,7 +2897,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 365320,
       "name": "C\u0153ur de pirate",
       "url": "https://open.spotify.com/track/2InKuNaoyiBDf4dmr780BZ"
@@ -2941,7 +2977,7 @@
       ],
       "date_added": "2021-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 191984,
       "name": "Daddy chocolat",
       "url": "https://open.spotify.com/track/4IbDTrLxImTJfZePAX2nKB"
@@ -3039,7 +3075,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 145162,
       "name": "Dans le R\u00e9seau",
       "url": "https://open.spotify.com/track/0X5zETsfr8nGAVABRcD4o4"
@@ -3341,7 +3377,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -3788,6 +3824,36 @@
     },
     {
       "album": {
+        "name": "Mercury - Act 1",
+        "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
+    },
+    {
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -3811,7 +3877,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
@@ -4874,6 +4940,28 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "name": "Suikon Blaz AD",
+          "url": "https://open.spotify.com/artist/7kFoHyLeI8IWSoKZ8uIeY1"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192520,
+      "name": "Happy End (feat. Suikon Blaz AD)",
+      "url": "https://open.spotify.com/track/6xwhUh69b89aLTeYR2HH8r"
+    },
+    {
+      "album": {
         "name": "Signature Box",
         "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
       },
@@ -5565,6 +5653,24 @@
       "duration_ms": 198440,
       "name": "Je n'ai pas que des potes",
       "url": "https://open.spotify.com/track/70MrRXJfGbZz4D5YFLpWpm"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183600,
+      "name": "Je ressens rien",
+      "url": "https://open.spotify.com/track/1UyBDxF6P4WLJphGiF9djD"
     },
     {
       "album": {
@@ -6288,6 +6394,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146680,
+      "name": "La faux le fer",
+      "url": "https://open.spotify.com/track/3ntXOAGhqRRjRbGF5Jtbuf"
+    },
+    {
+      "album": {
         "name": "Les mains faites pour l'or",
         "url": "https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM"
       },
@@ -6477,6 +6601,24 @@
       "duration_ms": 47893,
       "name": "La zalousie (Interlude)",
       "url": "https://open.spotify.com/track/59bW1eaRMxhMQlGvDhCTPW"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173893,
+      "name": "Laisse tomber",
+      "url": "https://open.spotify.com/track/258QqB2zhweDE2ZLEtT1GU"
     },
     {
       "album": {
@@ -7369,7 +7511,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 184847,
       "name": "Love & Lov\u00e9",
       "url": "https://open.spotify.com/track/3QZ0iZsciyfyQfV0qEQgLI"
@@ -7467,7 +7609,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
@@ -7995,6 +8137,28 @@
       "duration_ms": 148293,
       "name": "Mardi gras",
       "url": "https://open.spotify.com/track/3derKKqC8nOEuBryp6wfms"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176613,
+      "name": "Maudit (feat. Hamza)",
+      "url": "https://open.spotify.com/track/6MHeQfndkEfQvEoHOpkjgl"
     },
     {
       "album": {
@@ -8663,7 +8827,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 140253,
       "name": "M\u00e9lodie (Tatami)",
       "url": "https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7"
@@ -9202,6 +9366,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154293,
+      "name": "Pand\u00e9mie",
+      "url": "https://open.spotify.com/track/5FHewCm87pZHevn3wc1zDp"
+    },
+    {
+      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/4ocMBARU5In7WQpVoT9OPv"
       },
@@ -9239,6 +9421,24 @@
       "duration_ms": 178623,
       "name": "Papi\u2019s Home",
       "url": "https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Papoose",
+      "url": "https://open.spotify.com/track/1QOPXog7uc6nIRuIdIGsdk"
     },
     {
       "album": {
@@ -9332,6 +9532,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186306,
+      "name": "Pas deux fois",
+      "url": "https://open.spotify.com/track/6WvcAaUJZNxku2ZiOWHVHT"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -9373,6 +9591,28 @@
       "duration_ms": 211052,
       "name": "Pens\u00e9es positives",
       "url": "https://open.spotify.com/track/5XQKrcRNi1XR7ayz5AX9NS"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227386,
+      "name": "Peon (feat. Orelsan)",
+      "url": "https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe"
     },
     {
       "album": {
@@ -9948,6 +10188,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "Qui \u00e9coute ?",
+      "url": "https://open.spotify.com/track/3jTpDWRLWpaDSxdBDJnXaL"
+    },
+    {
+      "album": {
         "name": "Le classico organis\u00e9",
         "url": "https://open.spotify.com/album/5Qiln6hgo90OKyf9x0ci4y"
       },
@@ -10118,6 +10376,24 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149480,
+      "name": "Rappeur conscient",
+      "url": "https://open.spotify.com/track/5UgxIxOJKTSW3MEsyHg64S"
+    },
+    {
+      "album": {
         "name": "Rasmoilcul",
         "url": "https://open.spotify.com/album/5A5WpB4LzR4UqvcA2h005R"
       },
@@ -10247,6 +10523,24 @@
       "duration_ms": 238306,
       "name": "Reda - Partie 3",
       "url": "https://open.spotify.com/track/0YNw7sncP8iZdA2KJiac0B"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "Regarde toi",
+      "url": "https://open.spotify.com/track/3fd1m0WrUUkntWM2EnLS2Y"
     },
     {
       "album": {
@@ -11309,7 +11603,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 175240,
       "name": "Suis-moi (feat. Ninho)",
       "url": "https://open.spotify.com/track/2JFBYWxcJlt1PubMJYVjc0"
@@ -11335,6 +11629,24 @@
       "duration_ms": 165266,
       "name": "Sur le banc",
       "url": "https://open.spotify.com/track/0YLuv7i1ZU2zBXv22T8Vh0"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164946,
+      "name": "Sur un nouvel album",
+      "url": "https://open.spotify.com/track/7gaXVyPaSqUwIcLPTrnHLm"
     },
     {
       "album": {
@@ -11663,7 +11975,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
@@ -11785,7 +12097,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 156658,
       "name": "Time Time (feat. Squeezie, Myd & KronoMuzik)",
       "url": "https://open.spotify.com/track/1MkN8pZzDBf1b2uzfYVOQp"
@@ -12091,7 +12403,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 222448,
       "name": "Tu le sais",
       "url": "https://open.spotify.com/track/2s1lS0DxcxTB8Y6oFgVKqW"
@@ -12205,6 +12517,24 @@
       "duration_ms": 188320,
       "name": "T\u00e9l\u00e9phone - Extrait de CRCLR MVT SAISON II",
       "url": "https://open.spotify.com/track/0FLegMOg3yN9e2zF5p9Vxb"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216680,
+      "name": "Un mot",
+      "url": "https://open.spotify.com/track/2OtS79y1U6ZbuHkP4AzFs0"
     },
     {
       "album": {
@@ -12665,7 +12995,7 @@
       ],
       "date_added": "2021-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

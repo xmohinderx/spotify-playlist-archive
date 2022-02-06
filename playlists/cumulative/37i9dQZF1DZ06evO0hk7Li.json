@@ -302,6 +302,28 @@
     },
     {
       "album": {
+        "name": "About 30",
+        "url": "https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294753,
+      "name": "Ire (Remix) (feat. Jacob Banks)",
+      "url": "https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8"
+    },
+    {
+      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
       },

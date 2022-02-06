@@ -75,7 +75,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 168041,
       "name": "Abajo y Arriba (with Juhn)",
       "url": "https://open.spotify.com/track/5S6t8dvq3kL4V4FmuMQi32"
@@ -133,10 +133,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 164434,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/4sWH0Fhl1a6yBCXnYm73Jp"
+    },
+    {
+      "album": {
+        "name": "Ameno Amapiano Remix (You Wanna Bamba)",
+        "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
+      },
+      "artists": [
+        {
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
+        },
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227100,
+      "name": "Ameno Amapiano Remix (You Wanna Bamba)",
+      "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
     },
     {
       "album": {
@@ -151,7 +173,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 152080,
       "name": "Amor Pasajero",
       "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
@@ -307,7 +329,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 135046,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
@@ -387,7 +409,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 170774,
       "name": "CEO",
       "url": "https://open.spotify.com/track/0d1SYlJPC9ZiF9DKFS8ZnH"
@@ -545,7 +567,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 251670,
       "name": "D\u00e9mons",
       "url": "https://open.spotify.com/track/3gAEAmxdP1GIjgQ3Zud2mE"
@@ -603,7 +625,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 225449,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/1CFT2xoJknV2Hu3rpn0x3K"
@@ -1153,7 +1175,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 166216,
       "name": "malibu",
       "url": "https://open.spotify.com/track/01hEpx8jnOG4q7nDK14Rhi"
@@ -1241,7 +1263,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 156167,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz"
@@ -1343,7 +1365,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 170500,
       "name": "MTV Cribs",
       "url": "https://open.spotify.com/track/0R6SqfmgvpqpHAB5F8Q51Q"
@@ -1515,7 +1537,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 146096,
       "name": "One Day",
       "url": "https://open.spotify.com/track/3VwhJRJyoaGiEAAzR0WyhI"
@@ -1689,7 +1711,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 162204,
       "name": "Pure (feat. ELIO)",
       "url": "https://open.spotify.com/track/1iGHIWpid7uDKaFRMD4VjI"
@@ -2233,7 +2255,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 166260,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/7l1HLHo18BGGNHRfnfJGTc"

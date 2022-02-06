@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: Blithe\. Artwork: Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,861 likes - 143 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,949 likes - 143 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring "Maninder Buttar & Harpi Gill"
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,905 likes - 88 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,937 likes - 88 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

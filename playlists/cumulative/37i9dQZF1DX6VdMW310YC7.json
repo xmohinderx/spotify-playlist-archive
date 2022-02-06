@@ -581,7 +581,7 @@
       ],
       "date_added": "2020-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 290000,
       "name": "Airbeat",
       "url": "https://open.spotify.com/track/4hYPghMp0JblCrq8E7GuYH"
@@ -2085,7 +2085,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 240967,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3ISqJrqSULAszi0B0tB1OX"
@@ -2365,7 +2365,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 283230,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1HaJ9IFikoK82LmPkzNr3x"
@@ -2387,7 +2387,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 187431,
       "name": "Blue Dream - Koresma Remix",
       "url": "https://open.spotify.com/track/39KSC7pPxIp15t9NknC6mb"
@@ -4899,7 +4899,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 145000,
       "name": "don't be so hard on yourself",
       "url": "https://open.spotify.com/track/0j69d3zENO7ZVjplwetmQp"
@@ -5701,7 +5701,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 207052,
       "name": "Entangled",
       "url": "https://open.spotify.com/track/2OISrK95L88giQdFHurbfY"
@@ -5883,7 +5883,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 282746,
       "name": "Every Breath You Took Away",
       "url": "https://open.spotify.com/track/3HK8MiZcFGhdOiQsuxEdeE"
@@ -6737,7 +6737,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 305906,
       "name": "Filmic - CRi Remix",
       "url": "https://open.spotify.com/track/4vhVf1a2vWsA5ZU8PNragq"
@@ -7151,7 +7151,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 247980,
       "name": "Fooling Myself",
       "url": "https://open.spotify.com/track/46cuPz9v6oKpDlCrg4QaAw"
@@ -9001,7 +9001,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 353302,
       "name": "Hope - Parra For Cuva Remix",
       "url": "https://open.spotify.com/track/3TTsR15N3XY4G6z7F4eMwF"
@@ -9049,6 +9049,24 @@
       "duration_ms": 281403,
       "name": "Hotel Moonlight",
       "url": "https://open.spotify.com/track/4et2maqfvMaZiori5YatgZ"
+    },
+    {
+      "album": {
+        "name": "House Of The Rising Sun",
+        "url": "https://open.spotify.com/album/4bplLIBUWTi43ZySUAPL0I"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138796,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/4FIGor0hvkEyu8ZAnjWAe7"
     },
     {
       "album": {
@@ -10055,7 +10073,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 228734,
       "name": "Interior - Edit",
       "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
@@ -11595,7 +11613,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 230243,
       "name": "Limits",
       "url": "https://open.spotify.com/track/6WObvqFvHHiz24Vnbn8aXc"
@@ -13083,7 +13101,7 @@
       ],
       "date_added": "2020-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 219602,
       "name": "Monster",
       "url": "https://open.spotify.com/track/4D4oB9iQGMjwfLpTGTBNNU"
@@ -13683,7 +13701,7 @@
       ],
       "date_added": "2020-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 406544,
       "name": "Nest To The Back",
       "url": "https://open.spotify.com/track/7Aia24xJWV7u7H9t4RsvRU"
@@ -14041,7 +14059,7 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 217000,
       "name": "Nightwhisper",
       "url": "https://open.spotify.com/track/3SYO8wU4bEgIYt7AeGRIwG"
@@ -14671,7 +14689,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 364226,
       "name": "Of Sea",
       "url": "https://open.spotify.com/track/3cGYeXxZTPqmxaZ27JUJsD"
@@ -14915,7 +14933,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 217125,
       "name": "One House",
       "url": "https://open.spotify.com/track/4ysvkVgbuSFCmRfFUTO06h"
@@ -15123,7 +15141,7 @@
       ],
       "date_added": "2020-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 483000,
       "name": "Our Home - Vince Forwards Remix",
       "url": "https://open.spotify.com/track/1kQedHgln1x6vFKlumpNtH"
@@ -15882,6 +15900,28 @@
     },
     {
       "album": {
+        "name": "POV (with NEVRMIND)",
+        "url": "https://open.spotify.com/album/3cHmRL9soTP6s1XFJNkUyo"
+      },
+      "artists": [
+        {
+          "name": "LILO",
+          "url": "https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA"
+        },
+        {
+          "name": "NEVRMIND",
+          "url": "https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "POV (with NEVRMIND)",
+      "url": "https://open.spotify.com/track/63fzBjCtxxS0peGMkyTfVP"
+    },
+    {
+      "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/4pw74rNmWtCAGFMETXYRut"
       },
@@ -15973,7 +16013,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 189850,
       "name": "Purple",
       "url": "https://open.spotify.com/track/4mMYRb2AZyZiI6XiHzqHBo"
@@ -16267,7 +16307,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 360494,
       "name": "Reflections - il:lo Remix",
       "url": "https://open.spotify.com/track/2CRstAyBVOOD1nQKOt7kox"
@@ -18085,7 +18125,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 290546,
       "name": "Solace",
       "url": "https://open.spotify.com/track/5ERoUfNfwvNcFCnV0KH9Wu"
@@ -18641,7 +18681,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 322000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/7w86jiNM1neRMCbkhvjYyo"
@@ -19315,7 +19355,7 @@
       ],
       "date_added": "2020-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 279272,
       "name": "Swim",
       "url": "https://open.spotify.com/track/7GhZOVHHIMUWzLotMJUprl"
@@ -19835,7 +19875,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 210258,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/2n8jUVKiJW4GGhgCWsAka5"
@@ -20887,7 +20927,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 246000,
       "name": "Undecided",
       "url": "https://open.spotify.com/track/25CSuITuHOTUSrCx4u72UT"
@@ -21323,7 +21363,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 230163,
       "name": "Wake Up - BAILE Remix",
       "url": "https://open.spotify.com/track/3BCaiamID008P5wudGP5Yh"
@@ -21717,7 +21757,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 227304,
       "name": "Whatever Happens, Happens",
       "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
@@ -22197,7 +22237,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Wish",
       "url": "https://open.spotify.com/track/5BNx9lam9cgCr0RQJkUhdE"

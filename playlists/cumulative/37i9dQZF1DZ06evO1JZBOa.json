@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 414000,
       "name": "Abele Dance",
       "url": "https://open.spotify.com/track/1tTUxQPN19BkCv5Qk9FFSx"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 257266,
       "name": "Africa Boogie",
       "url": "https://open.spotify.com/track/0vN7mFkONrm4lRXNHSyimn"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 296400,
       "name": "Du bush a bush",
       "url": "https://open.spotify.com/track/6OqaYMzgKyk1Ne3BGz3ueT"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 217946,
       "name": "Homeless (feat. Ray Lema)",
       "url": "https://open.spotify.com/track/1dZwuG11VrX4Kn0uaRWBfo"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 472200,
       "name": "Mouvement Ewondo",
       "url": "https://open.spotify.com/track/0mcH1StoiW1ww6CbrfCnoW"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 274626,
       "name": "Musica",
       "url": "https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 397573,
       "name": "Reggae Makossa",
       "url": "https://open.spotify.com/track/6XR29umHoZKLmQRoJgUC2o"
@@ -1183,6 +1183,24 @@
       "duration_ms": 259160,
       "name": "Son de la Loma",
       "url": "https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS"
+    },
+    {
+      "album": {
+        "name": "Africadelic",
+        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128985,
+      "name": "Soul Fiesta",
+      "url": "https://open.spotify.com/track/3MhErr2oHiTPfbxG8Ya9s1"
     },
     {
       "album": {

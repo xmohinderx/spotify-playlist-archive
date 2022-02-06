@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > The names you know and the names you need to know in hip\-hop\. Cover: Nicki Minaj, Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,940 likes - 76 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,992 likes - 76 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

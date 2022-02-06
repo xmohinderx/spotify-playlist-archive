@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Nicki Minaj\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,834 likes - 77 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,901 likes - 77 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

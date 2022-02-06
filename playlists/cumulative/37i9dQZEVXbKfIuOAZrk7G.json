@@ -348,6 +348,24 @@
     },
     {
       "album": {
+        "name": "Captain",
+        "url": "https://open.spotify.com/album/32cbprgfOu2u1RoUzZ35mX"
+      },
+      "artists": [
+        {
+          "name": "Nutcase22",
+          "url": "https://open.spotify.com/artist/223shoqJ9oge1jE0QKyV1K"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214819,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/2GPh676erhgaOyMRmQNOc6"
+    },
+    {
+      "album": {
         "name": "Cherry Wine",
         "url": "https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J"
       },
@@ -435,7 +453,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 269533,
       "name": "Convoy",
       "url": "https://open.spotify.com/track/40PoNDPuPmUqzxM9do0QZR"
@@ -647,6 +665,24 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "album": {
+        "name": "Lion and the Cobra",
+        "url": "https://open.spotify.com/album/60gQ6EG1JFQWWUcasx7wKc"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323133,
+      "name": "Drink Before the War",
+      "url": "https://open.spotify.com/track/2fgsTIpGlD5odlua0y7gIQ"
     },
     {
       "album": {
@@ -1930,6 +1966,24 @@
     },
     {
       "album": {
+        "name": "In My Sins",
+        "url": "https://open.spotify.com/album/4GENTWizn55KM44eriqNq8"
+      },
+      "artists": [
+        {
+          "name": "Jx.Zero",
+          "url": "https://open.spotify.com/artist/3mMSaohBdsQgDKFmsJ5n2d"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152450,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/45GDh5cZcRVOAyQqZWxiUt"
+    },
+    {
+      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -2281,7 +2335,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -2813,7 +2867,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 208142,
       "name": "Welcome To The Revolution",
       "url": "https://open.spotify.com/track/4ljFUG0mEiMkjyrTJ0nC2I"

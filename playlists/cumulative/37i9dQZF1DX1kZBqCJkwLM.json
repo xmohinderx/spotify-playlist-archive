@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 220800,
       "name": "4am",
       "url": "https://open.spotify.com/track/0DTDQgTl6dfdFCCr8ZdE7T"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 410080,
       "name": "All We Have (feat. Lastlings)",
       "url": "https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 181714,
       "name": "alone < /3",
       "url": "https://open.spotify.com/track/7sKh83nj5qdw1bnXX6RY3r"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 196007,
       "name": "CLOUDS",
       "url": "https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 180693,
       "name": "Come and Go",
       "url": "https://open.spotify.com/track/4tN0ytPJ4ig51FVchYxHHB"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 193457,
       "name": "Dystopia",
       "url": "https://open.spotify.com/track/755jaJqdAQTreuL8MLYT5K"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 218684,
       "name": "Emo Song",
       "url": "https://open.spotify.com/track/5hQjB552fc7TQAtdzJTzLo"
@@ -979,7 +979,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 108304,
       "name": "GOR!LLAZ",
       "url": "https://open.spotify.com/track/5pcO248MInWTjo87ex4CxY"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 174945,
       "name": "Grace Lee",
       "url": "https://open.spotify.com/track/7em3bV28UtlFrCIrtMZk1N"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 219348,
       "name": "I'm Every Woman - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
       "url": "https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo"
@@ -1233,7 +1233,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 193894,
       "name": "Kinda Hate U Kinda Love U",
       "url": "https://open.spotify.com/track/6y4A9PmtRYhK0wtldpb1Wo"
@@ -1269,7 +1269,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 222357,
       "name": "Last Day On Earth",
       "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
@@ -1313,6 +1313,24 @@
       "duration_ms": 173960,
       "name": "Less Like",
       "url": "https://open.spotify.com/track/5iEvWfUIV8sWCU5thnoXHt"
+    },
+    {
+      "album": {
+        "name": "LITTLE FIRES",
+        "url": "https://open.spotify.com/album/1vVD2Jm1xVWk3TGhdQ6z97"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Jonze",
+          "url": "https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179406,
+      "name": "LITTLE FIRES",
+      "url": "https://open.spotify.com/track/3rZbiEFem2bm8zYUIA9ecd"
     },
     {
       "album": {
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 183655,
       "name": "MADAME",
       "url": "https://open.spotify.com/track/2QM5FStfpfbT7SKgVwY0D5"
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 161250,
       "name": "Monster (Meg and Dia\u2019s version)",
       "url": "https://open.spotify.com/track/55sgBR6rRySVy1dnJ5X44r"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 156909,
       "name": "One Time",
       "url": "https://open.spotify.com/track/5E7D6pwvNV7oOYEoVQaL38"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 144299,
       "name": "paper promises",
       "url": "https://open.spotify.com/track/2EtPkAFoT8otljWXtgJ4la"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 154437,
       "name": "PrettyGirlBop",
       "url": "https://open.spotify.com/track/46xThv0skPIbk2SpDHkxNm"
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 151150,
       "name": "Rain",
       "url": "https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 173008,
       "name": "Rings of Saturn",
       "url": "https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH"
@@ -1807,7 +1825,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 145173,
       "name": "Shapeshift",
       "url": "https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL"
@@ -1970,6 +1988,24 @@
     },
     {
       "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196433,
+      "name": "Stay Soft",
+      "url": "https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL"
+    },
+    {
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/5fFw29w9WN8DowadchtaCr"
       },
@@ -1985,7 +2021,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 210000,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/5hfn3tbQM78sjfEp0yRTlC"
@@ -2003,7 +2039,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 198705,
       "name": "Sucker Punch",
       "url": "https://open.spotify.com/track/4wiTiQP1ZU5nTdU3Y8kx6Y"
@@ -2259,7 +2295,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 229848,
       "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
       "url": "https://open.spotify.com/track/0V61Y32ISHWztELtK7RHF3"
@@ -2375,7 +2411,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 166623,
       "name": "yellow fever (feat. Ramengvrl & YAYOI DAIMON)",
       "url": "https://open.spotify.com/track/6mrHgesCVZEEDxiS6aovn6"

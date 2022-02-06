@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jtMPFVTOER.md) - [plain]
 
 > You and jazz are the center of this universe\. Cover: Alicia Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,972 likes - 128 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,100 likes - 128 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 166122,
       "name": "Affet Beni Sevgilim",
       "url": "https://open.spotify.com/track/7iPURFHXYLPT7vb5p3wLiz"
@@ -1047,7 +1047,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 215488,
       "name": "Beyaz Skandal\u0131m",
       "url": "https://open.spotify.com/track/7gI0722sWUhVpI0xOpejmZ"
@@ -1676,6 +1676,24 @@
     },
     {
       "album": {
+        "name": "Diabolico",
+        "url": "https://open.spotify.com/album/7t5MPt9ACpBHcWwXsx9AM7"
+      },
+      "artists": [
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189913,
+      "name": "Diabolico",
+      "url": "https://open.spotify.com/track/4c2M8LTjJChc890Pr1I43h"
+    },
+    {
+      "album": {
         "name": "Duman 1",
         "url": "https://open.spotify.com/album/0DKrLdv42DlBsGZQYMKU8C"
       },
@@ -2132,6 +2150,36 @@
     },
     {
       "album": {
+        "name": "Mercury - Act 1",
+        "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
+    },
+    {
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -2155,7 +2203,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
@@ -6341,6 +6389,32 @@
       "duration_ms": 164701,
       "name": "Yalan",
       "url": "https://open.spotify.com/track/2coKk2gtpeK86rFNEtYjzP"
+    },
+    {
+      "album": {
+        "name": "Yallah",
+        "url": "https://open.spotify.com/album/57TckZyIR5Gc6vab60RBpm"
+      },
+      "artists": [
+        {
+          "name": "Montiego",
+          "url": "https://open.spotify.com/artist/1pMFoni6A1enu9OBmaanG2"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144736,
+      "name": "Yallah",
+      "url": "https://open.spotify.com/track/7zxHknEJ9gfaL8Ln6UqYUX"
     },
     {
       "album": {

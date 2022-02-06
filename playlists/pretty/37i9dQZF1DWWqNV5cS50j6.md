@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > not not pop\. featuring new music by WizTheMc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,962 likes - 167 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,087 likes - 167 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

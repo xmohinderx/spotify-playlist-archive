@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW06b4n9Ho9J.md) - [plain]
 
 > Editors' picks of the best indie tracks this year\. Cover: Japanese Breakfast
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,586 likes - 104 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,854 likes - 104 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

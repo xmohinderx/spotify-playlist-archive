@@ -109,7 +109,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 225640,
       "name": "All Lined Up",
       "url": "https://open.spotify.com/track/1MTZLNGlaw1308UlCv9QGJ"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 248293,
       "name": "Birth, School, Work, Death",
       "url": "https://open.spotify.com/track/4WEPWs9LmYPEaUCQlSzZC3"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 221053,
       "name": "Brilliant Mind",
       "url": "https://open.spotify.com/track/6lN2rz6C3XTq6RauOl8J3a"
@@ -682,6 +682,24 @@
     },
     {
       "album": {
+        "name": "Love, Peace & Harmony The Best Of Bow Wow Wow",
+        "url": "https://open.spotify.com/album/7kTKe2ALE0FDt0OuuiIAqF"
+      },
+      "artists": [
+        {
+          "name": "Bow Wow Wow",
+          "url": "https://open.spotify.com/artist/52K4ArhA4OgMO7AsyEgqCT"
+        }
+      ],
+      "date_added": "2019-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193893,
+      "name": "Do You Wanna Hold Me?",
+      "url": "https://open.spotify.com/track/5kXufSBanSLRpgbUcLZpil"
+    },
+    {
+      "album": {
         "name": "Shabooh Shoobah (Remastered)",
         "url": "https://open.spotify.com/album/3TgBFSeiKspqODV8Ivk6Zl"
       },
@@ -729,7 +747,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 210746,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/493NNPBvpP6cj5r0VBqcL4"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 149426,
       "name": "Duchess",
       "url": "https://open.spotify.com/track/3FgEerIxXNMRhY2KV5Kl44"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 219066,
       "name": "Electricity - Remastered 2003",
       "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 251480,
       "name": "Head On",
       "url": "https://open.spotify.com/track/6RZZH2tHv1eGKqwJrPB13f"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 176693,
       "name": "Heartache Avenue",
       "url": "https://open.spotify.com/track/4sUsKsKD56QEixq7wyeMHN"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 275840,
       "name": "Homosapien",
       "url": "https://open.spotify.com/track/36XJWjuNKBax6KqdzpH7Wb"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 126440,
       "name": "I Can't Stand Up For Falling Down",
       "url": "https://open.spotify.com/track/5h0CMhpV8wmPfcmL3xXRkz"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 331240,
       "name": "I Still Believe (Great Design)",
       "url": "https://open.spotify.com/track/6XpG30QPzV1wkuUhUMw64l"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 269146,
       "name": "I've Seen That Face Before (Libertango)",
       "url": "https://open.spotify.com/track/5pkykO4PBUKMwjcOzrlfJd"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 288733,
       "name": "Infected",
       "url": "https://open.spotify.com/track/7mqRfGV4RarfX8Pgl5BIqT"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 299000,
       "name": "Kristallnaach",
       "url": "https://open.spotify.com/track/2aZsp1KAJLMOaW2socza14"
@@ -1793,7 +1811,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 233800,
       "name": "Making Plans For Nigel",
       "url": "https://open.spotify.com/track/3ey3YMZLdl1tQjbz7EJkKG"
@@ -1973,7 +1991,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 408293,
       "name": "Nightporter",
       "url": "https://open.spotify.com/track/2KMu1C3jtaTQ8z4CC5ucUK"
@@ -2027,7 +2045,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 185199,
       "name": "On my Radio",
       "url": "https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD"
@@ -2286,6 +2304,24 @@
     },
     {
       "album": {
+        "name": "Quiet Life",
+        "url": "https://open.spotify.com/album/0QOBJYviordwqHAgv5g9m3"
+      },
+      "artists": [
+        {
+          "name": "Japan",
+          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
+        }
+      ],
+      "date_added": "2018-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288506,
+      "name": "Quiet Life",
+      "url": "https://open.spotify.com/track/3vyzp6lqJbpZlDfwXan61J"
+    },
+    {
+      "album": {
         "name": "Murmur - Deluxe Edition",
         "url": "https://open.spotify.com/album/0vAX6P1azQqgtrTWuxYWrm"
       },
@@ -2499,7 +2535,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 324000,
       "name": "Say Hello, Wave Goodbye - 7\" Single Version",
       "url": "https://open.spotify.com/track/4H3RNIn5KIvDbJrc4EIzvt"
@@ -2535,7 +2571,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 240906,
       "name": "Sensoria (7'' Version)",
       "url": "https://open.spotify.com/track/0HHdfCcmF6EElG0SgDNCGw"
@@ -2553,7 +2589,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 230333,
       "name": "Seven Into The Sea",
       "url": "https://open.spotify.com/track/2QS2qdVaLXOfokeTlJo5AV"
@@ -2841,7 +2877,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 241013,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/42pwUwxNpqxPEEzCnu7eOn"
@@ -3327,7 +3363,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 204906,
       "name": "Walk out to Winter",
       "url": "https://open.spotify.com/track/6Z2TIb43jnjHcmMGSkxJcI"
@@ -3493,7 +3529,7 @@
       ],
       "date_added": "2019-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 228613,
       "name": "Whisper to a Scream (Birds Fly) - Single Version",
       "url": "https://open.spotify.com/track/1uiktZkzFSVDhp7i73faz2"
@@ -3547,7 +3583,7 @@
       ],
       "date_added": "2019-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 247973,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/7w76loirJapdVKMf6sFrJo"
@@ -3601,7 +3637,7 @@
       ],
       "date_added": "2018-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 215000,
       "name": "World Shut Your Mouth",
       "url": "https://open.spotify.com/track/2GF0D3d6LKIsDnk8ufpBQa"
@@ -3627,7 +3663,7 @@
       ],
       "date_added": "2020-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-06",
       "duration_ms": 268240,
       "name": "Would I Lie to You? - Remastered Version",
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"

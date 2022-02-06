@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del Trap Latino\. Foto: Eladio Carrion.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496,796 likes - 101 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,011 likes - 101 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
