@@ -1,6 +1,6 @@
 {
   "description": "Discover the classical side of your favourite Disney soundtracks.",
-  "num_followers": 164260,
+  "num_followers": 164566,
   "original_name": "Disney Classical",
   "owner": {
     "name": "Spotify",
@@ -31,17 +31,21 @@
     {
       "added_at": "2022-01-07 10:49:31",
       "album": {
-        "name": "Little Mermaid (Special Edition)",
+        "name": "The Little Mermaid Special Edition",
         "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
       },
       "artists": [
         {
           "name": "Alan Menken",
           "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 86186,
-      "name": "Main Titles - The Little Mermaid - From \"The Little Mermaid\"/Score",
+      "name": "Main Titles - The Little Mermaid",
       "url": "https://open.spotify.com/track/09HBvmj0dUeQYHGbKJefR5"
     },
     {
@@ -382,6 +386,10 @@
         {
           "name": "Alan Menken",
           "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 349960,
@@ -439,7 +447,7 @@
     {
       "added_at": "2022-01-07 10:49:31",
       "album": {
-        "name": "Little Mermaid (Special Edition)",
+        "name": "The Little Mermaid Special Edition",
         "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
       },
       "artists": [
@@ -450,10 +458,14 @@
         {
           "name": "Alan Menken",
           "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 191400,
-      "name": "Happy Ending - From \"The Little Mermaid\"/Soundtrack Version",
+      "name": "Happy Ending",
       "url": "https://open.spotify.com/track/3ChNbqbiPteCoYtufO79qw"
     },
     {
@@ -482,6 +494,10 @@
         {
           "name": "Alan Menken",
           "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 297680,
@@ -707,17 +723,21 @@
     {
       "added_at": "2022-01-07 10:49:31",
       "album": {
-        "name": "Mulan",
+        "name": "Mulan (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3Ohs7Jo6GM6mydUOL0m5aC"
       },
       "artists": [
         {
           "name": "Jerry Goldsmith",
           "url": "https://open.spotify.com/artist/7t8q7ikEtcPNtoaKAm9Vu6"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 426293,
-      "name": "Suite From Mulan - From \"Mulan\"/Score",
+      "name": "Suite From Mulan",
       "url": "https://open.spotify.com/track/1b6Spq4MiEzShOBQLtEhWe"
     },
     {
@@ -746,6 +766,10 @@
         {
           "name": "Alan Menken",
           "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 149480,
@@ -1199,17 +1223,21 @@
     {
       "added_at": "2022-01-07 10:49:31",
       "album": {
-        "name": "Little Mermaid (Special Edition)",
+        "name": "The Little Mermaid Special Edition",
         "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
       },
       "artists": [
         {
           "name": "Alan Menken",
           "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
       "duration_ms": 82853,
-      "name": "Bedtime - From \"The Little Mermaid\"/Score",
+      "name": "Bedtime",
       "url": "https://open.spotify.com/track/6Fk3FHkenVKzkppY122Jsr"
     },
     {

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWxrt1tiKYiX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWxrt1tiKYiX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWxrt1tiKYiX)
 
-### Unplugged
+### [Unplugged](https://open.spotify.com/playlist/6HVsDWyBbAUBPhu4S7Fnez)
 
 > Stripped\-down versions of all your favorite pop hits\. Cover: Taylor Swift
 

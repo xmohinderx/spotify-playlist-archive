@@ -159,7 +159,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 186258,
       "name": "Anymore - Lost Frequencies Remix",
       "url": "https://open.spotify.com/track/5Ov2PopcdXsm6ja4j9AsHE"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 233133,
       "name": "Carry Me (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/3FZEv9JddkjHNFiMVxJYpS"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 195172,
       "name": "Catch & Release (Deepend remix)",
       "url": "https://open.spotify.com/track/4FqrgfKej2jv450UFW6PP8"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 189266,
       "name": "Ghost - Lost Kings Remix",
       "url": "https://open.spotify.com/track/4ehErMHPM40f92dks3vb2p"
@@ -2209,6 +2209,24 @@
       "duration_ms": 191803,
       "name": "Leave The World Behind (feat. Kaleena Zanders)",
       "url": "https://open.spotify.com/track/5Yn4h3upuCzhwfOffa0Liy"
+    },
+    {
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/45Hs7PqCNnzhLjxBM3KTeY"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166935,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo"
     },
     {
       "album": {
@@ -3165,7 +3183,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Pumped Up - Ryan Riback Remix",
       "url": "https://open.spotify.com/track/4DWSl33tt6k4H4Unj7YWs5"
@@ -3187,7 +3205,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 203000,
       "name": "Ragga - Radio Edit",
       "url": "https://open.spotify.com/track/6JKSgnPypPIs08k1SGOhXD"
@@ -3227,7 +3245,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 186062,
       "name": "Recognise",
       "url": "https://open.spotify.com/track/3YwyAnL9NlqAK9V833qiGz"
@@ -3353,7 +3371,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 339310,
       "name": "Riptide - FlicFlac Remix",
       "url": "https://open.spotify.com/track/5K9AcgSi8DK4lZKM2LpFu8"
@@ -3375,7 +3393,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 194000,
       "name": "Riverbank",
       "url": "https://open.spotify.com/track/4eG4eNTXUDHpaWsbsTTBcU"
@@ -3515,7 +3533,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 181000,
       "name": "Safe and Sound - Radio Edit",
       "url": "https://open.spotify.com/track/340sV0G2e1h5jWsMyDRmc9"
@@ -3861,7 +3879,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 184118,
       "name": "Spirits - Sondr Remix",
       "url": "https://open.spotify.com/track/2X7ImJ12Sd2mwW8m29x7Ka"
@@ -4045,7 +4063,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 368000,
       "name": "Sunday - KlangTherapeuten \"Looking For Summer\" Remix",
       "url": "https://open.spotify.com/track/3YcAw0Uc94mb7n8DHMFWRa"
@@ -4725,7 +4743,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 186610,
       "name": "Wishing Well",
       "url": "https://open.spotify.com/track/3a4UuAErF1VMAkwqzkc1tj"

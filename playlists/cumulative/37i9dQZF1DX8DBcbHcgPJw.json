@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 180182,
       "name": "Amor para un Rato",
       "url": "https://open.spotify.com/track/47EEKhimMiDtUfYNR5Ii58"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 113170,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/6kisXjjNkIRBkIjiNkPCgZ"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 138174,
       "name": "Chau al Chongo",
       "url": "https://open.spotify.com/track/601aUNwNuFfNqN4OtFaPi4"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 159335,
       "name": "Chica Ideal",
       "url": "https://open.spotify.com/track/5rBR6heuIk4p5MAY82i53F"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 141444,
       "name": "Cu\u00e9ntale",
       "url": "https://open.spotify.com/track/6T9FCkiIPtowqeSb5ePTeH"
@@ -1053,7 +1053,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 155065,
       "name": "El Manual - Remix",
       "url": "https://open.spotify.com/track/3bNgKthxO42KUUSVi0F2vA"
@@ -1078,6 +1078,32 @@
     },
     {
       "album": {
+        "name": "El Pacto",
+        "url": "https://open.spotify.com/album/0UaE1A5FJX0JmHiL3DUPIk"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174147,
+      "name": "El Pacto",
+      "url": "https://open.spotify.com/track/3l7mtqP3F8OsDWd2SlcFN4"
+    },
+    {
+      "album": {
         "name": "El Trato (Remix)",
         "url": "https://open.spotify.com/album/4igopBx6HMw2NVxX0R3sOv"
       },
@@ -1097,7 +1123,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 143529,
       "name": "El Trato - Remix",
       "url": "https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w"
@@ -1385,7 +1411,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 149160,
       "name": "Hasta la luna",
       "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
@@ -1487,7 +1513,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 475951,
       "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
       "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
@@ -1505,7 +1531,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 177730,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/7KiNT9UqMAds5gYL9RQ7sB"
@@ -1553,7 +1579,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 165340,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/2WRMzDyCVSIcT3DUTFYQC7"
@@ -1783,7 +1809,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 158007,
       "name": "Lloraras por Mi",
       "url": "https://open.spotify.com/track/6RIbI3LsAZXfkBo5L48YoB"
@@ -1983,7 +2009,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 151224,
       "name": "Mal Acostumbrao",
       "url": "https://open.spotify.com/track/3ZTtpEG8evPvNTiKJYbDTO"
@@ -2041,7 +2067,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 212443,
       "name": "Me Muero por Besarte",
       "url": "https://open.spotify.com/track/4ySkQDs1dYGvSmbhX1fwvv"
@@ -2182,6 +2208,32 @@
     },
     {
       "album": {
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/0KT87buTeJTjElmq4WHTfy"
+      },
+      "artists": [
+        {
+          "name": "Valentin Reigada",
+          "url": "https://open.spotify.com/artist/4E1vcDCiROPP3muKybizHO"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "FIM Records",
+          "url": "https://open.spotify.com/artist/6kglzxqEyySD25zaxbPBK8"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170036,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/7FZYwegaHD1mWZZGyAgESI"
+    },
+    {
+      "album": {
         "name": "Sin mirar Atr\u00e1s",
         "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
       },
@@ -2237,7 +2289,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 188749,
       "name": "Ni Contigo, Ni Sin Ti",
       "url": "https://open.spotify.com/track/5lMKndDQ8MLFYdhLETzIcg"
@@ -2441,7 +2493,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 154402,
       "name": "No vas a cambiar",
       "url": "https://open.spotify.com/track/2JyR4XomCbSv543H904cME"
@@ -2539,7 +2591,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 244036,
       "name": "Pareja del A\u00f1o /Makinon",
       "url": "https://open.spotify.com/track/7AQ0VSiZb5AlyVo3qsjiNB"
@@ -2615,7 +2667,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 184390,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/4y7cFoXdDhfCfEaMdwEwwX"
@@ -2727,7 +2779,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 185118,
       "name": "Ponte Pa' Mix",
       "url": "https://open.spotify.com/track/27RbEsHY7OdniHk3sepP5k"
@@ -2775,7 +2827,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 102060,
       "name": "Porque Te Fuiste - Nico Vallorani DJ & Emus DJ Remix",
       "url": "https://open.spotify.com/track/37QHYWHxhWumG9SuQB9a2s"
@@ -2797,7 +2849,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 199262,
       "name": "Procuro Olvidarte - Remix",
       "url": "https://open.spotify.com/track/2650m8ktV7TWj076k8eER0"
@@ -2833,10 +2885,36 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 169575,
       "name": "P\u00eddeme la Luna",
       "url": "https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI"
+    },
+    {
+      "album": {
+        "name": "Que Calor (Remix)",
+        "url": "https://open.spotify.com/album/2km2XEy8GpjOPhUOWKwYyq"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        },
+        {
+          "name": "Nico Vallorani DJ",
+          "url": "https://open.spotify.com/artist/2ebw2UvIeAWFGykGkXEyfx"
+        },
+        {
+          "name": "Emus DJ",
+          "url": "https://open.spotify.com/artist/5M5yM2s8dqrvy4y0AJ10Z4"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174184,
+      "name": "Que Calor - Remix",
+      "url": "https://open.spotify.com/track/0aPYEakMxmZ3dpcdCYCbJN"
     },
     {
       "album": {
@@ -2983,7 +3061,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 171764,
       "name": "Quiero Verte Bailar - DJ Alex Remix",
       "url": "https://open.spotify.com/track/0li8QfMCtq5hg6qB67E4U1"
@@ -3207,7 +3285,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 182599,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
@@ -3331,7 +3409,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 125729,
       "name": "Su\u00e9ltate",
       "url": "https://open.spotify.com/track/2sCmI627F3eynMnW15kuen"
@@ -3535,7 +3613,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 263496,
       "name": "Todavia Me Amas / La Novelita / Los Infieles",
       "url": "https://open.spotify.com/track/4LN5b4doyzFdKK9SgwEm8p"
@@ -3579,7 +3657,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 174679,
       "name": "Travesuras / Se Me Ha Perdido un Corazon",
       "url": "https://open.spotify.com/track/4rVhs9LlKB2ofHKnHR3FSw"
@@ -3633,7 +3711,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 132675,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/5BMaLGInRPhdskYN7jPm4e"
@@ -3677,7 +3755,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 157669,
       "name": "UH",
       "url": "https://open.spotify.com/track/6ExxGGEr58N4ZxtGmn9tCA"
@@ -3695,7 +3773,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 238173,
       "name": "Una Cerveza - Versi\u00f3n 2018",
       "url": "https://open.spotify.com/track/2uViGylyj39rq8G0pqyX9y"
@@ -3757,7 +3835,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 187426,
       "name": "Vida de Rico",
       "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"

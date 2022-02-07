@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki",
-  "num_followers": 48546,
+  "num_followers": 48547,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTA5NywwZGI4Yjg0MzUxM2Q1ZTZkNGM3YWQ3ZGNhNTJiOGRlZmIxZDJlNDk3",
+  "snapshot_id": "MTA5OCw0OWMwM2I2NWI5NTU1NGNkZjIwMGNlZDlkNGM2MGMyYzRmM2E2ZGI4",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -621,6 +621,26 @@
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
     },
     {
+      "added_at": "2021-06-10 23:01:05",
+      "album": {
+        "name": "Roses (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/3wZL4Pxagph7pND4IPpXlt"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 176218,
+      "name": "Roses (Imanbek Remix)",
+      "url": "https://open.spotify.com/track/7mS2ZgalsI18LW6EnqFA0v"
+    },
+    {
       "added_at": "2021-05-16 23:01:06",
       "album": {
         "name": "The Best",
@@ -719,26 +739,6 @@
       "duration_ms": 191370,
       "name": "You - KC Lights Remix",
       "url": "https://open.spotify.com/track/0ZxvazjsaB9sdRxaKcJBVx"
-    },
-    {
-      "added_at": "2021-06-10 23:01:05",
-      "album": {
-        "name": "Roses (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/3wZL4Pxagph7pND4IPpXlt"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 176218,
-      "name": "Roses (Imanbek Remix)",
-      "url": "https://open.spotify.com/track/7mS2ZgalsI18LW6EnqFA0v"
     },
     {
       "added_at": "2021-12-28 15:41:02",
@@ -1701,6 +1701,110 @@
       "url": "https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI"
     },
     {
+      "added_at": "2022-01-26 15:41:01",
+      "album": {
+        "name": "Gassed Up",
+        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "Gassed Up",
+      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
+    },
+    {
+      "added_at": "2021-04-29 23:01:06",
+      "album": {
+        "name": "Nothing But Love",
+        "url": "https://open.spotify.com/album/0nHmnOlkxcMyNvHPH9iDEf"
+      },
+      "artists": [
+        {
+          "name": "Steve Forest",
+          "url": "https://open.spotify.com/artist/0U6suWTdf1eQtxorBi2Chu"
+        },
+        {
+          "name": "F\u00f8yk",
+          "url": "https://open.spotify.com/artist/4Ez8kqZQnzyaxTq35cziVF"
+        },
+        {
+          "name": "Jaydan Wolf",
+          "url": "https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0"
+        }
+      ],
+      "duration_ms": 157480,
+      "name": "Nothing But Love",
+      "url": "https://open.spotify.com/track/4NnIVd1NI1OFeUy4t8Re9f"
+    },
+    {
+      "added_at": "2022-01-29 15:41:02",
+      "album": {
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "added_at": "2021-05-06 23:01:06",
+      "album": {
+        "name": "Head Up In The Clouds",
+        "url": "https://open.spotify.com/album/7fGno87MnrXy6r7CLMKQDp"
+      },
+      "artists": [
+        {
+          "name": "Colin Crooks",
+          "url": "https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP"
+        },
+        {
+          "name": "Lee Morris",
+          "url": "https://open.spotify.com/artist/0of4ZCQQXBygOFG7cCMmBV"
+        },
+        {
+          "name": "George Redwood",
+          "url": "https://open.spotify.com/artist/05GVokC63cKCaNegdJDj1n"
+        }
+      ],
+      "duration_ms": 200975,
+      "name": "Head Up In The Clouds",
+      "url": "https://open.spotify.com/track/1gnx4fFMggaEVpJ6TDMaQR"
+    },
+    {
+      "added_at": "2022-02-01 15:41:03",
+      "album": {
+        "name": "Shake & Bounce",
+        "url": "https://open.spotify.com/album/0HN3xpvBztzsZogoP4K0Iu"
+      },
+      "artists": [
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 166771,
+      "name": "Shake & Bounce",
+      "url": "https://open.spotify.com/track/2NQped73vYrqDbJl9zauUT"
+    },
+    {
       "added_at": "2022-01-25 15:41:02",
       "album": {
         "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
@@ -1729,146 +1833,6 @@
       "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
     },
     {
-      "added_at": "2021-04-29 23:01:06",
-      "album": {
-        "name": "Nothing But Love",
-        "url": "https://open.spotify.com/album/0nHmnOlkxcMyNvHPH9iDEf"
-      },
-      "artists": [
-        {
-          "name": "Steve Forest",
-          "url": "https://open.spotify.com/artist/0U6suWTdf1eQtxorBi2Chu"
-        },
-        {
-          "name": "F\u00f8yk",
-          "url": "https://open.spotify.com/artist/4Ez8kqZQnzyaxTq35cziVF"
-        },
-        {
-          "name": "Jaydan Wolf",
-          "url": "https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0"
-        }
-      ],
-      "duration_ms": 157480,
-      "name": "Nothing But Love",
-      "url": "https://open.spotify.com/track/4NnIVd1NI1OFeUy4t8Re9f"
-    },
-    {
-      "added_at": "2022-01-26 15:41:01",
-      "album": {
-        "name": "Gassed Up",
-        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "Gassed Up",
-      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
-    },
-    {
-      "added_at": "2021-05-06 23:01:06",
-      "album": {
-        "name": "Head Up In The Clouds",
-        "url": "https://open.spotify.com/album/7fGno87MnrXy6r7CLMKQDp"
-      },
-      "artists": [
-        {
-          "name": "Colin Crooks",
-          "url": "https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP"
-        },
-        {
-          "name": "Lee Morris",
-          "url": "https://open.spotify.com/artist/0of4ZCQQXBygOFG7cCMmBV"
-        },
-        {
-          "name": "George Redwood",
-          "url": "https://open.spotify.com/artist/05GVokC63cKCaNegdJDj1n"
-        }
-      ],
-      "duration_ms": 200975,
-      "name": "Head Up In The Clouds",
-      "url": "https://open.spotify.com/track/1gnx4fFMggaEVpJ6TDMaQR"
-    },
-    {
-      "added_at": "2022-01-29 15:41:02",
-      "album": {
-        "name": "Sextacy",
-        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Sextacy",
-      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
-    },
-    {
-      "added_at": "2022-02-01 15:41:03",
-      "album": {
-        "name": "Shake & Bounce",
-        "url": "https://open.spotify.com/album/0HN3xpvBztzsZogoP4K0Iu"
-      },
-      "artists": [
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        }
-      ],
-      "duration_ms": 166771,
-      "name": "Shake & Bounce",
-      "url": "https://open.spotify.com/track/2NQped73vYrqDbJl9zauUT"
-    },
-    {
-      "added_at": "2021-07-06 08:40:04",
-      "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 225357,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
-    },
-    {
-      "added_at": "2020-12-16 10:55:04",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/6LiCWteZBny6uiTf6GfYM3"
-      },
-      "artists": [
-        {
-          "name": "James Godfrey",
-          "url": "https://open.spotify.com/artist/1pW7nkXUFCEdCzVOzPKqlV"
-        },
-        {
-          "name": "Danielle Knoll",
-          "url": "https://open.spotify.com/artist/4WORCXhH4FPPjU8P87Tj2u"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3Gn54LKKV2sQHG05yQPnO8"
-    },
-    {
       "added_at": "2022-01-26 15:41:01",
       "album": {
         "name": "2 Ph\u00fat H\u01a1n (Make It Hot) [KAIZ Remix]",
@@ -1893,40 +1857,24 @@
       "url": "https://open.spotify.com/track/0AiutyM63Meqk04YevpBba"
     },
     {
-      "added_at": "2022-01-29 15:41:02",
+      "added_at": "2020-12-16 10:55:04",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/6LiCWteZBny6uiTf6GfYM3"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "James Godfrey",
+          "url": "https://open.spotify.com/artist/1pW7nkXUFCEdCzVOzPKqlV"
         },
         {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "Danielle Knoll",
+          "url": "https://open.spotify.com/artist/4WORCXhH4FPPjU8P87Tj2u"
         }
       ],
-      "duration_ms": 198635,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
-    },
-    {
-      "added_at": "2021-04-29 23:01:06",
-      "album": {
-        "name": "Counting Stars",
-        "url": "https://open.spotify.com/album/37pe9MY7jGryHnAep9PDBk"
-      },
-      "artists": [
-        {
-          "name": "mavzy grx",
-          "url": "https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR"
-        }
-      ],
-      "duration_ms": 157221,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/7cN7s2AvXLQHg6S5AyXf6v"
+      "duration_ms": 158709,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3Gn54LKKV2sQHG05yQPnO8"
     },
     {
       "added_at": "2022-02-03 15:41:03",
@@ -1947,6 +1895,58 @@
       "duration_ms": 172245,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
+    },
+    {
+      "added_at": "2021-07-06 08:40:04",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 225357,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
+    },
+    {
+      "added_at": "2021-04-29 23:01:06",
+      "album": {
+        "name": "Counting Stars",
+        "url": "https://open.spotify.com/album/37pe9MY7jGryHnAep9PDBk"
+      },
+      "artists": [
+        {
+          "name": "mavzy grx",
+          "url": "https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR"
+        }
+      ],
+      "duration_ms": 157221,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/7cN7s2AvXLQHg6S5AyXf6v"
+    },
+    {
+      "added_at": "2022-01-29 15:41:02",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 198635,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
     },
     {
       "added_at": "2020-12-16 10:55:04",

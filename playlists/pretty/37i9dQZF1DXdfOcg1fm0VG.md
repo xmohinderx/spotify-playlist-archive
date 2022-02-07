@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favourites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,705 likes - 93 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,888 likes - 93 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,6 +100,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 90 | [Skalitz 1403](https://open.spotify.com/track/1GraDYg4bSZYIV7AOqc1ls) | [Jan Valta](https://open.spotify.com/artist/3refNRo1fb7DLZi9rGUEo9), [Adam Sporka](https://open.spotify.com/artist/1tfJNGH0H6MudsgqCS7DS4) | [Kingdom Come: Deliverance \(Original Soundtrack Essentials\)](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) | 2:21 |
 | 91 | [Préludes / Book 1, L\. 117 \- Arr\. Dan Golding: Minstrels](https://open.spotify.com/track/5PjcWKOgKS9eclq2J0uJV5) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Dan Golding](https://open.spotify.com/artist/6yL1j20yrcLtfc8Fb9a4hM) | [Untitled Goose Game \(Original Soundtrack\)](https://open.spotify.com/album/7y8Ihc6D0V71csR3xP8uAj) | 2:27 |
 | 92 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 |
-| 93 | [The Gapra Whitewood](https://open.spotify.com/track/3b74h1zdaACqenzjNoe87z) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 2:44 |
+| 93 | [The Gapra Whitewood](https://open.spotify.com/track/3b74h1zdaACqenzjNoe87z) | [浜渦正志](https://open.spotify.com/artist/5HKs7z1En5zaWcLkMTlST9) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 2:44 |
 
 Snapshot ID: `MTY0Mzk4MzMzMSwwMDAwMDA0NTAwMDAwMTdlYzUwYWUxNjEwMDAwMDE3MWM5YzhhNzAy`

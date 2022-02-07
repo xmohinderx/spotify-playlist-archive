@@ -1,13 +1,45 @@
 {
   "description": "The romantic side of classic rock and metal",
-  "num_followers": 383008,
+  "num_followers": 383404,
   "original_name": "Rock Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDEwODgxOCwwMDAwMDAwMDU0MDhmZmNkODY3OGI4MjhlMTE2NWIzOTg5MWIxMjQ5",
+  "snapshot_id": "MTY0NDE5NDY3MCwwMDAwMDAwMGZiNjQzNWQzYjg0NTVjZDI5OWI3YTZlYWM2NDA3YjA3",
   "tracks": [
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "Cuts Like A Knife",
+        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 211933,
+      "name": "Straight From The Heart",
+      "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "Bad English",
+        "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
+      },
+      "artists": [
+        {
+          "name": "Bad English",
+          "url": "https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "When I See You Smile",
+      "url": "https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh"
+    },
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
@@ -43,18 +75,18 @@
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
-        "name": "Ultimate",
-        "url": "https://open.spotify.com/album/29PaTFb1Y3KjipQaayjAS5"
+        "name": "The Story So Far: The Best Of Def Leppard",
+        "url": "https://open.spotify.com/album/7pL0TZHOXuFawocdIe90K5"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 244960,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2a0xe9nviZCio9gUQp0E5a"
+      "duration_ms": 256866,
+      "name": "When Love And Hate Collide",
+      "url": "https://open.spotify.com/track/4YwR2G26Pp5jNUX3gN3EIP"
     },
     {
       "added_at": "2021-12-20 06:26:07",
@@ -91,18 +123,18 @@
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
-        "name": "Bad English",
-        "url": "https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69"
+        "name": "Ultimate",
+        "url": "https://open.spotify.com/album/29PaTFb1Y3KjipQaayjAS5"
       },
       "artists": [
         {
-          "name": "Bad English",
-          "url": "https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 257440,
-      "name": "When I See You Smile",
-      "url": "https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh"
+      "duration_ms": 244960,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2a0xe9nviZCio9gUQp0E5a"
     },
     {
       "added_at": "2021-12-20 06:26:07",
@@ -127,54 +159,6 @@
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
-        "name": "The Story So Far: The Best Of Def Leppard",
-        "url": "https://open.spotify.com/album/7pL0TZHOXuFawocdIe90K5"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 256866,
-      "name": "When Love And Hate Collide",
-      "url": "https://open.spotify.com/track/4YwR2G26Pp5jNUX3gN3EIP"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "Vagabond Heart (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 241506,
-      "name": "Have I Told You Lately - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 394600,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/5MWfGxvRpRrcOw21rqoJUP"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -191,18 +175,18 @@
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/4vWdSsgQzazxS7ndj9VcnO"
+        "name": "If We Fall in Love Tonight",
+        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 355640,
-      "name": "Please Forgive Me",
-      "url": "https://open.spotify.com/track/03EnOL1O9EKi9CFNmPyrCm"
+      "duration_ms": 265026,
+      "name": "Sometimes When We Touch",
+      "url": "https://open.spotify.com/track/095S6zESAqe4xrm321mGsa"
     },
     {
       "added_at": "2021-12-20 06:26:07",
@@ -223,6 +207,70 @@
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
+        "name": "Hold Your Fire",
+        "url": "https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 239866,
+      "name": "When I Look Into Your Eyes",
+      "url": "https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "Armageddon - The Album",
+        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "Fahrenheit",
+        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "I'll Be Over You",
+      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "Retro Active",
+        "url": "https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 256486,
+      "name": "Two Steps Behind - String / Acoustic Version",
+      "url": "https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
@@ -235,6 +283,38 @@
       "duration_ms": 229240,
       "name": "You're the Inspiration - 2006 Remaster",
       "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/4vWdSsgQzazxS7ndj9VcnO"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 355640,
+      "name": "Please Forgive Me",
+      "url": "https://open.spotify.com/track/03EnOL1O9EKi9CFNmPyrCm"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "Vagabond Heart (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 241506,
+      "name": "Have I Told You Lately - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh"
     },
     {
       "added_at": "2021-12-20 06:26:07",
@@ -271,8 +351,8 @@
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
-        "name": "Hold Your Fire",
-        "url": "https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy"
+        "name": "Firehouse",
+        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
       },
       "artists": [
         {
@@ -280,41 +360,9 @@
           "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
         }
       ],
-      "duration_ms": 239866,
-      "name": "When I Look Into Your Eyes",
-      "url": "https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "The Hits",
-        "url": "https://open.spotify.com/album/6qVtCTLXHnRF8gc8pubQPU"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 294333,
-      "name": "Can't Fight This Feeling",
-      "url": "https://open.spotify.com/track/4zC2f6KKjnmscQKLJfI7dF"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "If We Fall in Love Tonight",
-        "url": "https://open.spotify.com/album/2GmrcFfoRPSKmmSyh36Bu6"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 265026,
-      "name": "Sometimes When We Touch",
-      "url": "https://open.spotify.com/track/095S6zESAqe4xrm321mGsa"
+      "duration_ms": 286573,
+      "name": "Love of a Lifetime",
+      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
     },
     {
       "added_at": "2021-12-20 06:26:07",
@@ -335,162 +383,18 @@
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
-        "name": "Cuts Like A Knife",
-        "url": "https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7"
+        "name": "You're the Inspiration: A Collection",
+        "url": "https://open.spotify.com/album/0lHNWtBk8qkFUaqCAobtNq"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
         }
       ],
-      "duration_ms": 211933,
-      "name": "Straight From The Heart",
-      "url": "https://open.spotify.com/track/5eaK7PLGwyDXmHfTdWZZuE"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/0PNvxevEEOiyQEEJdkmn0N"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "The Search Is Over",
-      "url": "https://open.spotify.com/track/3y7j9iz5XfbDOySTspM4Ss"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "Fahrenheit",
-        "url": "https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "I'll Be Over You",
-      "url": "https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 288933,
-      "name": "Never Say Goodbye",
-      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "Armageddon - The Album",
-        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "Brigade",
-        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 254373,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/7tQxhJ3Vl57OMuFW8PBGWS"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "Firehouse",
-        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
-      },
-      "artists": [
-        {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
-        }
-      ],
-      "duration_ms": 286573,
-      "name": "Love of a Lifetime",
-      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "Alias",
-        "url": "https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF"
-      },
-      "artists": [
-        {
-          "name": "Alias",
-          "url": "https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ"
-        }
-      ],
-      "duration_ms": 234196,
-      "name": "More Than Words Can Say",
-      "url": "https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "Retro Active",
-        "url": "https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 256486,
-      "name": "Two Steps Behind - String / Acoustic Version",
-      "url": "https://open.spotify.com/track/0hJnqEmo8DeMmRhh6mwAof"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
+      "duration_ms": 274453,
+      "name": "(I Wanna Take) Forever Tonight",
+      "url": "https://open.spotify.com/track/1uybEGNH2GIvNdzGB7L2Qj"
     },
     {
       "added_at": "2021-12-20 06:26:07",
@@ -519,6 +423,86 @@
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 288933,
+      "name": "Never Say Goodbye",
+      "url": "https://open.spotify.com/track/4AfsbRvvuN7nEHAhONdeEp"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/0PNvxevEEOiyQEEJdkmn0N"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "The Search Is Over",
+      "url": "https://open.spotify.com/track/3y7j9iz5XfbDOySTspM4Ss"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/6qVtCTLXHnRF8gc8pubQPU"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 294333,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/4zC2f6KKjnmscQKLJfI7dF"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "Alias",
+        "url": "https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF"
+      },
+      "artists": [
+        {
+          "name": "Alias",
+          "url": "https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ"
+        }
+      ],
+      "duration_ms": 234196,
+      "name": "More Than Words Can Say",
+      "url": "https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
         "name": "Last of the Independents",
         "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
       },
@@ -535,34 +519,66 @@
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
-        "name": "You're the Inspiration: A Collection",
-        "url": "https://open.spotify.com/album/0lHNWtBk8qkFUaqCAobtNq"
+        "name": "Waking Up The Neighbours",
+        "url": "https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh"
       },
       "artists": [
         {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 274453,
-      "name": "(I Wanna Take) Forever Tonight",
-      "url": "https://open.spotify.com/track/1uybEGNH2GIvNdzGB7L2Qj"
+      "duration_ms": 371200,
+      "name": "Do I Have To Say The Words?",
+      "url": "https://open.spotify.com/track/5zDVyVBJoE0NVUmYcyvTny"
     },
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
-        "name": "Trial By Fire",
-        "url": "https://open.spotify.com/album/1E8owCbqr9Hhm2jJ6fmGij"
+        "name": "3",
+        "url": "https://open.spotify.com/album/0h43h6cTsAOVeKLlFe028n"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
         }
       ],
-      "duration_ms": 246986,
-      "name": "When You Love a Woman",
-      "url": "https://open.spotify.com/track/4b79AEQyxEVoiGMyBUv0io"
+      "duration_ms": 235826,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/2HHF8es4MShLvMiDgOq3Z5"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "Brigade",
+        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 254373,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/7tQxhJ3Vl57OMuFW8PBGWS"
+    },
+    {
+      "added_at": "2021-12-20 06:26:07",
+      "album": {
+        "name": "Third Stage",
+        "url": "https://open.spotify.com/album/2MiQn0TZmrcvesvudgBsnd"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 256959,
+      "name": "Amanda",
+      "url": "https://open.spotify.com/track/5dKUiinZmJFbuddlPxATvb"
     },
     {
       "added_at": "2021-12-20 06:26:07",
@@ -576,9 +592,9 @@
           "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
+      "duration_ms": 394600,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/5MWfGxvRpRrcOw21rqoJUP"
     },
     {
       "added_at": "2021-12-20 06:26:07",
@@ -599,34 +615,18 @@
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
-        "name": "Life As We Know It",
-        "url": "https://open.spotify.com/album/5Yd9XNS5qG8edw1eBNHdok"
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
       "artists": [
         {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
         }
       ],
-      "duration_ms": 270226,
-      "name": "In My Dreams",
-      "url": "https://open.spotify.com/track/5ZeKZBB57EnctaXih6hJvE"
-    },
-    {
-      "added_at": "2021-12-20 06:26:07",
-      "album": {
-        "name": "Atlantic Crossing",
-        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "I Don't Want to Talk About It - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2JWKzkQbYsNzx019WyGzaH"
+      "duration_ms": 293306,
+      "name": "I Won't Hold You Back",
+      "url": "https://open.spotify.com/track/7D4EtbE7LfQiH8CWj7fQoz"
     },
     {
       "added_at": "2021-12-20 06:26:07",
@@ -687,34 +687,34 @@
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
-        "name": "Cornerstone",
-        "url": "https://open.spotify.com/album/0RhPpU4BvtF44qdvFnGQuh"
+        "name": "No Brakes",
+        "url": "https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H"
       },
       "artists": [
         {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+          "name": "John Waite",
+          "url": "https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj"
         }
       ],
-      "duration_ms": 265973,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/5W7YROOF6bFfBexY81LFjt"
+      "duration_ms": 269760,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr"
     },
     {
       "added_at": "2021-12-20 06:26:07",
       "album": {
-        "name": "Agent Provocateur",
-        "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
       },
       "artists": [
         {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 304786,
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
     },
     {
       "added_at": "2021-12-20 06:26:07",

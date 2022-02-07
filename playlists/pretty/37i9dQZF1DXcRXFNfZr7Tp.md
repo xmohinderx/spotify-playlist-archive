@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: The Chainsmokers
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,345,019 likes - 94 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,345,719 likes - 94 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

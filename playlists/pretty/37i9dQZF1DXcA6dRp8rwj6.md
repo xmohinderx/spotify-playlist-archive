@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover: Nicki Minaj\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,901 likes - 77 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,011 likes - 77 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 11 | [Don't Play That](https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Don't Play That](https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx) | 2:13 |
 | 12 | [Dearly Beloved \(feat\. Flee Lord\)](https://open.spotify.com/track/1e7aHgTmshZUnFqiqogWiP) | [Real Bad Man](https://open.spotify.com/artist/1AmknJ29fbA6ahZXxFCNLE), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flee Lord](https://open.spotify.com/artist/3I6neO2jiyMa8arh6JBe7e) | [Mood Swings](https://open.spotify.com/album/5cAiCEZjRwxjdoeu8oZaT3) | 2:44 |
 | 13 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 |
-| 14 | [Doll](https://open.spotify.com/track/4bbD3gA9DjCGpI1F48aoVY) | [Jesicca Janess](https://open.spotify.com/artist/1RLL5Fvwxcw4WMBehYQHIL), [FareedPF](https://open.spotify.com/artist/3igVX9WZbD28zJax1lE6aI) | [Doll](https://open.spotify.com/album/24aoC0ZI8fu7Zw0x61j0d1) | 3:03 |
+| 14 | [Doll](https://open.spotify.com/track/4bbD3gA9DjCGpI1F48aoVY) | [Jesicca Janess](https://open.spotify.com/artist/1RLL5Fvwxcw4WMBehYQHIL), [Fareedpf](https://open.spotify.com/artist/1VOd3Fcm6twv4nfk0pNvwZ) | [Doll](https://open.spotify.com/album/24aoC0ZI8fu7Zw0x61j0d1) | 3:03 |
 | 15 | [NEW TRICKS: ART, AESTHETICS, AND MONEY](https://open.spotify.com/track/07kpHrIhO1NPGmU0qaAm60) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [NEW TRICKS: ART, AESTHETICS, AND MONEY](https://open.spotify.com/album/0ayS1mFnBoFAdcbEo0KTZs) | 3:09 |
 | 16 | [BIZNEZ](https://open.spotify.com/track/0o7PjmDDv1HTc1P4JARF4t) | [F.Rider](https://open.spotify.com/artist/0IAkxUc3IVgyrDLwB3BLkq), [Nakalness](https://open.spotify.com/artist/1loI0RIE3tosoU6YePYuUI) | [RAF F](https://open.spotify.com/album/3XadvA1qODTfwzl0K3drlx) | 2:38 |
 | 17 | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rumors \(feat\. Lil Durk\)](https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM) | 3:05 |

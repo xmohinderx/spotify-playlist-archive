@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 220352,
       "name": "Amalfi",
       "url": "https://open.spotify.com/track/770OG2Ut5K3OvR7Ff56c9g"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 218880,
       "name": "Baby Ur Mine",
       "url": "https://open.spotify.com/track/58w8ZA2d2LNjLsn9lp52bG"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 230165,
       "name": "Better Ways",
       "url": "https://open.spotify.com/track/2Ip84kMNK6QFQQ8hffed25"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Casino",
       "url": "https://open.spotify.com/track/4n9QMtAlgryYNocF4H9uKQ"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 240000,
       "name": "Chillin' With Some Koi Fish",
       "url": "https://open.spotify.com/track/4wFAa3hEi4ApV5U06kT5JY"
@@ -478,6 +478,24 @@
     },
     {
       "album": {
+        "name": "Cyberphunk",
+        "url": "https://open.spotify.com/album/6ABZmbNo0rYTOBqcpQdgkr"
+      },
+      "artists": [
+        {
+          "name": "DUCAT",
+          "url": "https://open.spotify.com/artist/4ADZvJH9oSDFHFGkwWGGGD"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203428,
+      "name": "Cyberphunk",
+      "url": "https://open.spotify.com/track/2Ze92sni94SXcCThj0L5aq"
+    },
+    {
+      "album": {
         "name": "Cygnus",
         "url": "https://open.spotify.com/album/2G7chgH4yeOqKpRiUanLKa"
       },
@@ -489,7 +507,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 345053,
       "name": "Cygnus",
       "url": "https://open.spotify.com/track/4Vcmrf9gfHvjs3Y5ZDVGH4"
@@ -565,7 +583,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 235000,
       "name": "Dancing All Night",
       "url": "https://open.spotify.com/track/659mVnG0vnPHRcGLly0GyK"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 205090,
       "name": "Diagonale",
       "url": "https://open.spotify.com/track/1TGMLE2aI80iNmyAqrX4Ss"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 294459,
       "name": "DO YOU REMEMBER",
       "url": "https://open.spotify.com/track/0yBSPz5uyiPnciDuJb6CRi"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 220750,
       "name": "Fantango (2020 Remaster)",
       "url": "https://open.spotify.com/track/41bzXacOb6NKECrfXddHH3"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 295894,
       "name": "First Season",
       "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 226254,
       "name": "Frame Trap",
       "url": "https://open.spotify.com/track/76zRP3MrZZi3oLlwRoNHsD"
@@ -947,7 +965,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 136173,
       "name": "Fuel injection",
       "url": "https://open.spotify.com/track/5c4sloOCCbkM83InSSd6AA"
@@ -1001,7 +1019,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 185629,
       "name": "Future Funk 2021",
       "url": "https://open.spotify.com/track/0DmEzg3O3uEWSPnCflPbD0"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 238048,
       "name": "Galactica Airlines",
       "url": "https://open.spotify.com/track/2o7IjLDnjj6g837R0dKOQJ"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 236065,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/24yzI42u0NBWMytUrR0yU9"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 192000,
       "name": "Gotta Go Crazy",
       "url": "https://open.spotify.com/track/6KZy61Sm4nT7u0klehF6OU"
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 260176,
       "name": "Journey",
       "url": "https://open.spotify.com/track/3zdzuZCTpZUzWXEggYzVJN"
@@ -1598,6 +1616,24 @@
     },
     {
       "album": {
+        "name": "Little bit of your love sensation",
+        "url": "https://open.spotify.com/album/7hr9v6P7grvo2d5yHr88UF"
+      },
+      "artists": [
+        {
+          "name": "ConsciousThoughts",
+          "url": "https://open.spotify.com/artist/7nNml7OiJoyXojuihNAmDu"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180465,
+      "name": "Little bit of your love sensation",
+      "url": "https://open.spotify.com/track/333weGzkNPRuwq837OGsVI"
+    },
+    {
+      "album": {
         "name": "Smoothie Sounds",
         "url": "https://open.spotify.com/album/02MNW0xsLkgYaQiKcfWeU8"
       },
@@ -1681,7 +1717,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 221250,
       "name": "Love Affair",
       "url": "https://open.spotify.com/track/68bgd0hTguW8GtufImrhFh"
@@ -1739,7 +1775,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 228571,
       "name": "Lovin' You",
       "url": "https://open.spotify.com/track/6nuGskQk0ug4IS8IDF8zgd"
@@ -1865,7 +1901,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 246260,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/2M60hZ2tohD2Kb5q82avva"
@@ -1963,7 +1999,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 187118,
       "name": "Mono",
       "url": "https://open.spotify.com/track/7rs3NuYZ7uQlEISOEKEu5x"
@@ -2003,7 +2039,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 198105,
       "name": "Morale",
       "url": "https://open.spotify.com/track/7AOTewkdVbkiA8Um32t58A"
@@ -2047,7 +2083,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 259354,
       "name": "Nevermore",
       "url": "https://open.spotify.com/track/2Y9dlYjiiOxqYg9BLw0tTa"
@@ -2109,7 +2145,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 238760,
       "name": "Niito na Gogosanji - Night Tempo Showa Groove Mix",
       "url": "https://open.spotify.com/track/7wdremSaBbpQMF4fRazsHM"
@@ -2319,7 +2355,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 217500,
       "name": "Positive",
       "url": "https://open.spotify.com/track/0E2A3EhNsvWYWVqSaqisep"
@@ -2413,7 +2449,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 202153,
       "name": "Rat Castle (Skylar Spence Remix)",
       "url": "https://open.spotify.com/track/7coIyCR7adaGjC7cEc5Vow"
@@ -2453,7 +2489,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 226909,
       "name": "Remember Summer Days (Night Tempo Showa Groove Mix)",
       "url": "https://open.spotify.com/track/02M7L7vwVmzrRNq6gx9oxE"
@@ -2489,7 +2525,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 209529,
       "name": "Right on Time",
       "url": "https://open.spotify.com/track/1dCS0RyXoaxAXKfzMeyBsC"
@@ -2511,7 +2547,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 155750,
       "name": "Ritmo.",
       "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
@@ -2565,7 +2601,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 248890,
       "name": "Rush On Me",
       "url": "https://open.spotify.com/track/4RGIVVTf7irHT1W2mTk9rk"
@@ -2761,7 +2797,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 219135,
       "name": "Sonic Boom",
       "url": "https://open.spotify.com/track/5HooTABpv8hlCKCzJ74LTo"
@@ -2851,7 +2887,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 225230,
       "name": "Starcatcher",
       "url": "https://open.spotify.com/track/6zlnBXuKPuGtfemZyMGdha"
@@ -2869,7 +2905,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 183750,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
@@ -3039,7 +3075,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 227184,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/7ffZSO8kwi6QtF9lB56zOc"
@@ -3075,7 +3111,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 140692,
       "name": "THANK YOU",
       "url": "https://open.spotify.com/track/5xkt8vnh8OBCrnzeL9dxGs"
@@ -3097,7 +3133,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 168000,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/0PaxDutmFOW1LBg3dcskVK"
@@ -3151,7 +3187,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 363156,
       "name": "This Is Just a Test",
       "url": "https://open.spotify.com/track/0ByqrkUrYFYP4LUMBKzeHf"
@@ -3361,7 +3397,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 251610,
       "name": "Want To Be Free",
       "url": "https://open.spotify.com/track/2GNiINqe4dtdqKnznDw0XF"
@@ -3409,7 +3445,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 195274,
       "name": "Welcome to the Disco",
       "url": "https://open.spotify.com/track/1aKRACWeXW0kXMhCWo35ub"
@@ -3601,7 +3637,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 251638,
       "name": "Yours",
       "url": "https://open.spotify.com/track/5KZ3iSAR0Vaie08HBiM9fq"
@@ -3663,7 +3699,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 259855,
       "name": "\u30d0\u30a4\u5c11\u5973\u6642\u4ee3",
       "url": "https://open.spotify.com/track/3XfKumvamwW49nvWeOAYex"

@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 190856,
       "name": "Call Of The Unicorn",
       "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 268800,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/1Z6tfLB21XhdZZnS9xaBLs"
@@ -957,7 +957,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 305142,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/2CcbkWGUhEHDUPOxUZwKcV"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 192000,
       "name": "Fight Milk",
       "url": "https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 190909,
       "name": "Fight Or Flight",
       "url": "https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2"
@@ -1308,6 +1308,24 @@
     },
     {
       "album": {
+        "name": "Grounded",
+        "url": "https://open.spotify.com/album/5PjjbPoXk5oJV27JbsjBdI"
+      },
+      "artists": [
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218536,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/74BPvRdlhKw09YhJtfAEUb"
+    },
+    {
+      "album": {
         "name": "Im Feelin Good / Guest List",
         "url": "https://open.spotify.com/album/12uLijMmrBkTCPakE4kkLk"
       },
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 221750,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 270422,
       "name": "How To Feel",
       "url": "https://open.spotify.com/track/7JaHPMXlx37VACDtbROCUW"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 197142,
       "name": "nowhere left to hide",
       "url": "https://open.spotify.com/track/78vyS0sHFKbr195feDdp9O"
@@ -3113,7 +3131,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/0LCUh32YKsqbh3d7eCJIh8"
@@ -3499,7 +3517,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 185800,
       "name": "THE SHOOTV",
       "url": "https://open.spotify.com/track/5TAhkZc6p4XKuYGMnbwTdU"
@@ -3933,7 +3951,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 256551,
       "name": "WITH U",
       "url": "https://open.spotify.com/track/1xuIethB7B6S14ZdQ2LxoW"

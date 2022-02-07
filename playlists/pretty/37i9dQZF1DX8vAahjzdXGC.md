@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: keshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,729 likes - 102 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,731 likes - 102 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 45 | [The Function](https://open.spotify.com/track/0hNBnbIJjHFaLcEHbFyl4e) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sky Sky](https://open.spotify.com/artist/1qHWLwufRLQk2pVywVbBBp) | [The Function](https://open.spotify.com/album/4TH7qCdf6828E9rwQ7WFe5) | 2:54 |
 | 46 | [Kisah Terima Kasih](https://open.spotify.com/track/3ZWauVAWgj0KVfdHgo4VBO) | [Alsa](https://open.spotify.com/artist/79ZuAKAPvlGaPMRXR8KwPU), [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Kisah Terima Kasih](https://open.spotify.com/album/45q4uxCqpd41FKXDrIouOX) | 3:37 |
 | 47 | [Downtown Strut](https://open.spotify.com/track/1ayxGck4FlryIwEWY4pdrc) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Downtown Strut](https://open.spotify.com/album/1GK2rUsQ4ENNeJldVn3Hi3) | 4:46 |
-| 48 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:12 |
+| 48 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:03 |
 | 49 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 |
-| 50 | [Doll](https://open.spotify.com/track/4bbD3gA9DjCGpI1F48aoVY) | [Jesicca Janess](https://open.spotify.com/artist/1RLL5Fvwxcw4WMBehYQHIL), [FareedPF](https://open.spotify.com/artist/3igVX9WZbD28zJax1lE6aI) | [Doll](https://open.spotify.com/album/24aoC0ZI8fu7Zw0x61j0d1) | 3:03 |
+| 50 | [Doll](https://open.spotify.com/track/4bbD3gA9DjCGpI1F48aoVY) | [Jesicca Janess](https://open.spotify.com/artist/1RLL5Fvwxcw4WMBehYQHIL), [Fareedpf](https://open.spotify.com/artist/1VOd3Fcm6twv4nfk0pNvwZ) | [Doll](https://open.spotify.com/album/24aoC0ZI8fu7Zw0x61j0d1) | 3:03 |
 | 51 | [Bukalah Mata Hatimu](https://open.spotify.com/track/55Grp1gYf2cjMV3qEum6fw) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK) | [Bukalah Mata Hatimu](https://open.spotify.com/album/08Naq10l4iQWbOqStB6mex) | 2:50 |
 | 52 | [Bounce](https://open.spotify.com/track/4rhiMqUU1ZExsPDgKg8Afn) | [Lil Tsuki](https://open.spotify.com/artist/3qLcitAaWcVjzopi9PwjIm) | [Bounce](https://open.spotify.com/album/2ZvGVeLA003aMv64n3gwXL) | 1:45 |
 | 53 | [close ur eyes \(paradise\)](https://open.spotify.com/track/4ochREEX8I4eFUp8BsDkUa) | [Db Mandala](https://open.spotify.com/artist/6JVLqhpcrlRroql6UduuqC), [Boodles](https://open.spotify.com/artist/3CsMZm9r0IwASsDPnhpYdi) | [close ur eyes \(paradise\)](https://open.spotify.com/album/1GqWcLJYfaQz7e0QHUtSlP) | 2:33 |

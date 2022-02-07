@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > not not pop\. featuring new music by WizTheMc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,087 likes - 167 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,224 likes - 167 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 57 | [Quiet On Set](https://open.spotify.com/track/7yjum1B7kQ8gFWTP0cqKMu) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Quiet On Set / Grumpy Old Man](https://open.spotify.com/album/24CtvDmYkaT3MbLIVHHFGg) | 3:15 |
 | 58 | [Suburban Sociopath](https://open.spotify.com/track/0iiNKiK5BeNGMzxGi6ap0A) | [Afourteen](https://open.spotify.com/artist/1yfmP9tNARpez6v4p31zqg), [Teenage Disaster](https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep) | [Suburban Sociopath](https://open.spotify.com/album/4gglL5UEFKSEnYR7vaErSW) | 3:54 |
 | 59 | [Life's Been Good To Me](https://open.spotify.com/track/70maYMm40ytuPewZ63bzd6) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Life's Been Good To Me](https://open.spotify.com/album/06uPzH5sNiyThjWFLLc48O) | 5:20 |
-| 60 | [SPORTS CAR](https://open.spotify.com/track/6WYZ4NWTQzzT5fLnL88yJ0) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [SPORTS CAR](https://open.spotify.com/album/3qsYtGNKLYJrBslFEQVOgO) | 3:06 |
+| 60 | [SPORTS CAR](https://open.spotify.com/track/6WYZ4NWTQzzT5fLnL88yJ0) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [SPORTS CAR](https://open.spotify.com/album/3qsYtGNKLYJrBslFEQVOgO) | 3:06 |
 | 61 | [girls like drugs](https://open.spotify.com/track/0eXkUXr4wJ3Orruk8S1cpW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [girls like drugs](https://open.spotify.com/album/2xowbFbsPQ5UY05US7AJS9) | 2:54 |
 | 62 | [Popeye](https://open.spotify.com/track/2dQkCBUasJzLfNjSumrRDd) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/3xrOFa0RU14V1b9gIH1NQN) | 2:54 |
 | 63 | [The One And Lonely](https://open.spotify.com/track/6XRcsUKJJm1HWYYj1Rbxea) | [Carter Ace](https://open.spotify.com/artist/0bhck1r45kgsoMNBVqIziz) | [The One And Lonely](https://open.spotify.com/album/0GcPEqXEQrcsAOetTkyrNX) | 3:22 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 112 | [Jimmy Jimmy \(feat\. AJ Tracey\)](https://open.spotify.com/track/4Iv2jOCKQakC3YWhijrRKK) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Meanwhile EP](https://open.spotify.com/album/0q19TmDISPRbmRIZJyrEz6) | 3:03 |
 | 113 | [Best Thing](https://open.spotify.com/track/4O7N7BLSnvItd2NecWsrV9) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Best Thing](https://open.spotify.com/album/0mBeDTE8w6LE0ZmSEXCqDs) | 2:36 |
 | 114 | [CUT](https://open.spotify.com/track/4PfmDu5FfaGBX5wYUE6xzK) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [CUT](https://open.spotify.com/album/49XT5V5ifCiMj7IM4a2x5O) | 2:58 |
-| 115 | [SMOKE](https://open.spotify.com/track/3meycN9hk4DZaMBfi2HDny) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K), [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [97 BLOSSOM](https://open.spotify.com/album/1PjpcapSfVsBXZ9zyN7Tql) | 2:48 |
+| 115 | [SMOKE](https://open.spotify.com/track/3meycN9hk4DZaMBfi2HDny) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K), [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [97 BLOSSOM](https://open.spotify.com/album/1PjpcapSfVsBXZ9zyN7Tql) | 2:48 |
 | 116 | [Chess & Checkers](https://open.spotify.com/track/7I1L8djBxdsQGtybPXSeMZ) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [Chess & Checkers](https://open.spotify.com/album/7tf1B0szpLaftMECpvPYWh) | 2:29 |
 | 117 | [Crying In The Club](https://open.spotify.com/track/5Cfh8D9E3CFEVj0LGjf9wU) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Crying In The Club](https://open.spotify.com/album/1H40oY3rVCgsN1vt0ytdLp) | 2:50 |
 | 118 | [cactus flowers](https://open.spotify.com/track/6AElOTwdEAPRVnozEzJ2q6) | [Christian Rich](https://open.spotify.com/artist/7cAlvWK5rgMmJ37j7woN8l) | [pretty / REALIZE](https://open.spotify.com/album/7JBiaIaa8eew1oekR6bPGH) | 2:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbo534XMsLSe.md) - [plain]
 
 > In Country Music, if your heart hasn't been broken, you haven't been trying hard enough\.  Keep a tissue handy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,261 likes - 116 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 876 likes - 116 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbo534XMsLSe.md) - [plain]
 | 3 | [The Wurlitzer Prize \(I Don't Want to Get Over You\)](https://open.spotify.com/track/39vRhTRqO7qQggd8aID96o) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 2:08 |
 | 4 | [She Wouldn't Be Gone](https://open.spotify.com/track/4UIOPiM5kNcJFUoRtdDRZa) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Startin' Fires](https://open.spotify.com/album/4BHNgbuhb9QglcxsSegKld) | 3:35 |
 | 5 | [A Bad Goodbye \(with Wynonna\)](https://open.spotify.com/track/3FZmpOBUuOWdgR0cOeaASG) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt), [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Ultimate Clint Black](https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz) | 3:39 |
-| 6 | [You Take Me For Granted](https://open.spotify.com/track/1VOlrwdQwP2k7Cx9QfVnWD) | [George Jones](https://open.spotify.com/artist/7dzfuuI1Tptg442kizNg23), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [His Epic Hits](https://open.spotify.com/album/2PTryP6kpdTQ19gRluZcHB) | 2:40 |
+| 6 | [You Take Me For Granted](https://open.spotify.com/track/1VOlrwdQwP2k7Cx9QfVnWD) | [George Jones](https://open.spotify.com/artist/4w3SbKx9G1XOV8TeMOEmTi), [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [His Epic Hits](https://open.spotify.com/album/2PTryP6kpdTQ19gRluZcHB) | 2:40 |
 | 7 | [Somebody Should Leave](https://open.spotify.com/track/16PnvRZnezJqHiWpgPFzjg) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Reba McEntire's Greatest Hits](https://open.spotify.com/album/2MLqNKbNHiFxU2W25KkW3o) | 3:34 |
 | 8 | [I Fall To Pieces \- Single Version](https://open.spotify.com/track/1xyBQeZBGAlUFkY8blLpUz) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Sweet Dreams: Her Complete Decca Masters \(1960\-1963\)](https://open.spotify.com/album/42ClQwOX06MiqvPJ97yoNC) | 2:47 |
 | 9 | [When I Call Your Name](https://open.spotify.com/track/1PZiTHz9ZQdNDIFA6JC1ta) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Souvenirs](https://open.spotify.com/album/1cudEt9ALkzUNCcGeQX9cM) | 4:14 |

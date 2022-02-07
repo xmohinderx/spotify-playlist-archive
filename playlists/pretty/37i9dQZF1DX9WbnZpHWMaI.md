@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Octo Octa
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,728 likes - 68 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,795 likes - 68 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WbnZpHWMaI.md) - [plain]
 | 40 | [Trans Love Vibration \(Eris Goes to Church\)](https://open.spotify.com/track/5uSqU4wuVUEKPeb0pntudC) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/0XdX6LbFAZU9UaactwqWfA) | 5:04 |
 | 41 | [Feel](https://open.spotify.com/track/1iKW2yrouUd2E3tK4tj8Tu) | [Xyla](https://open.spotify.com/artist/7CmkZcKpESltjho1LZJgnb) | [Ways](https://open.spotify.com/album/2PqGGOZm4IPKiXzLZpJULH) | 4:37 |
 | 42 | [No Good For Me](https://open.spotify.com/track/7CAwk333MKotsz8nm6Og7j) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [No Good For Me](https://open.spotify.com/album/41lP4JFAtyIfAMLMBX1Hhw) | 3:35 |
-| 43 | [Obsesión Romántica](https://open.spotify.com/track/3kBUPfyyjXV7SYFUQnwWzv) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU), [Tottie](https://open.spotify.com/artist/70OXFT4fyMwvcOHgFsVj9B) | [SOS MUSIC VOL\. 1](https://open.spotify.com/album/5ffE081DdeFbqJFZ6F6MOY) | 7:11 |
+| 43 | [Obsesión Romántica](https://open.spotify.com/track/3kBUPfyyjXV7SYFUQnwWzv) | [Maddy Maia](https://open.spotify.com/artist/61DvbqY9Ihl7jmhQEEpSgU), [Tottie](https://open.spotify.com/artist/70OXFT4fyMwvcOHgFsVj9B) | [SOS MUSIC VOL\. 1](https://open.spotify.com/album/5ffE081DdeFbqJFZ6F6MOY) | 7:11 |
 | 44 | [Hollow](https://open.spotify.com/track/1AL3QYWKnoUWHD8IvXx72j) | [Ikonika](https://open.spotify.com/artist/1GbZUOowT6BhrI9QVoUniG) | [Hollow EP](https://open.spotify.com/album/6DIDW3h9nsJgVkWiCM3H4x) | 3:36 |
 | 45 | [About Work The Dancefloor \- The Blessed Madonna Remix \(Edit\)](https://open.spotify.com/track/58uvwTRUJLYy7dCe4L052M) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [About Work The Dancefloor \(The Blessed Madonna Remix\)](https://open.spotify.com/album/1gb9PQawrh5AldGrdrlzxP) | 3:29 |
 | 46 | [Rotating In Unison](https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 5:01 |

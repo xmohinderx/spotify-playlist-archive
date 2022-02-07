@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Koffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,589 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,719 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 20 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:39 |
 | 21 | [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 |
 | 22 | [Back To The Future](https://open.spotify.com/track/2i6j4kdRKZV4Y62I2bD1QC) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2Jxhndt77Zu0Y5TVXM37ho) | 2:53 |
-| 23 | [Moth To A Flame \(with The Weeknd, Chris Lake\) \- Chris Lake Remix](https://open.spotify.com/track/7u6f174xl25TOBHA2HpFHO) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Moth To A Flame](https://open.spotify.com/album/5aO3Oi0nwsfKuiJPi3Mu6G) | 4:38 |
+| 23 | [Moth To A Flame \(with The Weeknd, Chris Lake\)](https://open.spotify.com/track/7u6f174xl25TOBHA2HpFHO) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [Moth To A Flame](https://open.spotify.com/album/5aO3Oi0nwsfKuiJPi3Mu6G) | 4:38 |
 | 24 | [Change My World \(feat\. Sam Martin\)](https://open.spotify.com/track/1ABmhkPKvCoVSNh5NJYScq) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Sam Martin](https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK) | [Change My World \(feat\. Sam Martin\)](https://open.spotify.com/album/7jPy3P2O7RA3VCBNtqzJS8) | 4:00 |
 | 25 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 |
 | 26 | [Lost In The Grandeur](https://open.spotify.com/track/6whiIhWVTRqFpA2Aa8DSAr) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Lost In The Grandeur](https://open.spotify.com/album/5s4ZVN1095ucWudIEWuiTM) | 3:50 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 37 | [no excuses](https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [it's a little complicated, but i'm okay.](https://open.spotify.com/album/4nrSgAxs8tzf8RPIN9lc4Q) | 3:17 |
 | 38 | [BAND$](https://open.spotify.com/track/2sWoPLbQ4qCZ56D5yCX5W3) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [BAND$](https://open.spotify.com/album/42ToFwAOyBEIE9dtll54d1) | 1:48 |
 | 39 | [Money](https://open.spotify.com/track/1BgZkJd4qbT8ylmj0snRaE) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Money](https://open.spotify.com/album/3qgypaYo8ZK0vLNAVhzkJ0) | 3:04 |
-| 40 | [Cold Gangsta \(feat\. 42 Dugg & EST Gee\)](https://open.spotify.com/track/2bxvKs7Q0zqFqajnRcgxbv) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 3:31 |
+| 40 | [Cold Gangsta](https://open.spotify.com/track/2bxvKs7Q0zqFqajnRcgxbv) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 3:31 |
 | 41 | [Gave Up On Love](https://open.spotify.com/track/379auTiKCojGVRki4fGf4b) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Gave Up On Love](https://open.spotify.com/album/1XyPIXtoKQ0HBGaoAZ81jd) | 3:13 |
 | 42 | [Showgirls](https://open.spotify.com/track/6jAyGjl1JlSGBmyu993LsU) | [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n), [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Showgirls](https://open.spotify.com/album/3BM0aOTDJgvy9I91teD6yl) | 2:44 |
 | 43 | [Demon Child](https://open.spotify.com/track/1RaVC8vuMq3HfrdIKmBUJ3) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [Demon Child](https://open.spotify.com/album/1UmT3WDoH3f6RP9qHX6hoI) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 30,482 likes - 100 songs - 5 hr 20 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 30,502 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 6 | [Homesick](https://open.spotify.com/track/3Fz7zfM0dQxL4810Dmla6z) | [Nic Billington](https://open.spotify.com/artist/0upmBN9fllZJBgez7wmCtb) | [Homesick](https://open.spotify.com/album/45Q3yDZP7CSnWSQLy35QgE) | 4:01 |
 | 7 | [Sefton in the Summertime](https://open.spotify.com/track/0bz4B5C6ZtusODmKgRubhn) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Sefton in the Summertime](https://open.spotify.com/album/3fJaGz6Iqb5Yd8mPvfSCKz) | 2:58 |
 | 8 | [WALLS](https://open.spotify.com/track/5DGpdTunAf0nOvrWCqlYXu) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [WALLS](https://open.spotify.com/album/7wAOkvucdEObwJsRDtiUhP) | 3:58 |
-| 9 | [Magik](https://open.spotify.com/track/7xLcAnBaCj1tnJyUZOSY9R) | [Cassetta Records](https://open.spotify.com/artist/3a3kPlCy5LRirAMy7PdZYP), [Lisa Murdoch](https://open.spotify.com/artist/1mEb5jFImvZxRYjwgsVtH3), [Mac James](https://open.spotify.com/artist/2ReqB9kgSNgqflnBNuAx7d) | [Magik](https://open.spotify.com/album/3EQnQZssYJKQPEPJh6J7yq) | 2:00 |
+| 9 | [Magik](https://open.spotify.com/track/7xLcAnBaCj1tnJyUZOSY9R) | [Cassetta Records](https://open.spotify.com/artist/3a3kPlCy5LRirAMy7PdZYP), [Lisa Murdoch](https://open.spotify.com/artist/1mEb5jFImvZxRYjwgsVtH3), [Mac James](https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3) | [Magik](https://open.spotify.com/album/3EQnQZssYJKQPEPJh6J7yq) | 2:00 |
 | 10 | [Mona Lisa](https://open.spotify.com/track/10QdSJJJflPZ0k6izpUEYG) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [Mona Lisa](https://open.spotify.com/album/7cd4kzNVpOjsOCValmZX7w) | 2:20 |
 | 11 | [Panic](https://open.spotify.com/track/2thyQFEQxNdn9UBaKFVcUR) | [Hembree](https://open.spotify.com/artist/0NTqSkdyIji6DuHVac7ROJ) | [It's a Dream!](https://open.spotify.com/album/2T565vrx61D9qlU8wZFTSc) | 3:44 |
-| 12 | [Down](https://open.spotify.com/track/6w6il2pfFaG1J7x0mKaYTw) | [Luke & Friends](https://open.spotify.com/artist/7usgQwRW6IYF5oChwlPpMT), [Cool Kids](https://open.spotify.com/artist/2Ju5klfsJTK28yTOTe9xG5) | [Down](https://open.spotify.com/album/5Mzl7QXUVFGDuFfV2qBfGU) | 2:41 |
+| 12 | [Down](https://open.spotify.com/track/6w6il2pfFaG1J7x0mKaYTw) | [Luke & Friends](https://open.spotify.com/artist/7usgQwRW6IYF5oChwlPpMT), [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV) | [Down](https://open.spotify.com/album/5Mzl7QXUVFGDuFfV2qBfGU) | 2:41 |
 | 13 | [SENSITIVE AS FUCK SO WHAT](https://open.spotify.com/track/49TWOkBS37dWHn5afm7aBz) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [MERCY II](https://open.spotify.com/album/6nNbdSJEpYtCaJPYgWj9i7) | 3:03 |
 | 14 | [Afraid to Lose You](https://open.spotify.com/track/2rhQwPsQi6oqLyc1fVkLm8) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Afraid to Lose You](https://open.spotify.com/album/12AqU8dNMrCvL0beCDohYv) | 3:27 |
 | 15 | [Fez Market](https://open.spotify.com/track/0d4vrfH5B8XmZV4Mp6vXXK) | [Pedro Retro](https://open.spotify.com/artist/3uzJ5cTjLIpYB3iBvwesfP), [Purple Cloud](https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl) | [Fez Market](https://open.spotify.com/album/2XV9nlUb3X2FXoyA4ixVbD) | 3:14 |

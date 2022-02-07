@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "Again",
       "url": "https://open.spotify.com/track/3TgQIP81Ha5lyDOLWemQ78"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 256881,
       "name": "Ain't Got No Money",
       "url": "https://open.spotify.com/track/3F8xarcB4wgIwEWTGSzBGr"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 209134,
       "name": "Ally - Headnodic Remix",
       "url": "https://open.spotify.com/track/4vNh0o3gb1QbmLKtiQvYFn"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 237579,
       "name": "Borders",
       "url": "https://open.spotify.com/track/45HyHvHfun98p29Hp1MnCu"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 293666,
       "name": "Distracted",
       "url": "https://open.spotify.com/track/1BWPQ3okXEbZTPI3sJ0Ywi"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 176250,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5J4CkTyZitaJ0L0X5kSoJr"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 214933,
       "name": "Final Piece",
       "url": "https://open.spotify.com/track/5uTn8XYjxNe15vRIvid1Fl"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 168000,
       "name": "Girl",
       "url": "https://open.spotify.com/track/0pHCRRtOHbe94CaEAYGkGn"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 183673,
       "name": "Good Mood",
       "url": "https://open.spotify.com/track/14Yvoau2QPIpHpI0uMJrOB"
@@ -1351,6 +1351,24 @@
       "duration_ms": 241253,
       "name": "Good People",
       "url": "https://open.spotify.com/track/7M7wlgmhKhfZq7UN4U8wmC"
+    },
+    {
+      "album": {
+        "name": "Goodnightmare",
+        "url": "https://open.spotify.com/album/7bVIynTZaUMnXaPydLxksb"
+      },
+      "artists": [
+        {
+          "name": "Fake Fake",
+          "url": "https://open.spotify.com/artist/43nxlJkq1IwAYVZtTWo5kv"
+        }
+      ],
+      "date_added": "2020-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209361,
+      "name": "Goodnightmare",
+      "url": "https://open.spotify.com/track/4tUV3qVS1tIT5K2vbwo7Kh"
     },
     {
       "album": {
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 231571,
       "name": "Happy Days",
       "url": "https://open.spotify.com/track/1u8BiP9APkwKjtVb9L1z50"
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 175306,
       "name": "Honesty - Cool Company Remix",
       "url": "https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS"
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 257020,
       "name": "Lights",
       "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 181330,
       "name": "Lost & Alive",
       "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
@@ -2067,7 +2085,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 239328,
       "name": "Move Along",
       "url": "https://open.spotify.com/track/7ePI88B6EPUq9IpCn76LYT"
@@ -2187,7 +2205,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 248159,
       "name": "Noa Noa",
       "url": "https://open.spotify.com/track/27OctETisMkxIypWYruUUG"
@@ -2315,7 +2333,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 204210,
       "name": "Our Way",
       "url": "https://open.spotify.com/track/2WwxprzPDdUqmUF8dcHGSI"
@@ -2435,7 +2453,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 233394,
       "name": "Perfection",
       "url": "https://open.spotify.com/track/35n9OXJ7r0kV9yzy1nacu9"
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 152390,
       "name": "PINK FAMILY",
       "url": "https://open.spotify.com/track/0B2uxDcDlrhe2HU2vmdJST"
@@ -2591,7 +2609,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 129230,
       "name": "Right There",
       "url": "https://open.spotify.com/track/02urcBVsMSr13r3iZZNwvX"
@@ -2617,7 +2635,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 253745,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/7qArNkBYimMqrrRvVtzuPI"
@@ -2941,7 +2959,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 286453,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/7kqXN3NJIjdH844bUX1vK3"
@@ -3061,7 +3079,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 238444,
       "name": "Summertime Shine",
       "url": "https://open.spotify.com/track/2sc6ybY6Y6tbKw5TQ89TUu"
@@ -3137,7 +3155,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 304838,
       "name": "Tango",
       "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
@@ -3173,7 +3191,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 282693,
       "name": "Telepathic Woman",
       "url": "https://open.spotify.com/track/1tb8XxJNsGXG79ynep6Fem"
@@ -3217,7 +3235,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 172517,
       "name": "THE SUN SHINES SO BRIGHT WITH YOU",
       "url": "https://open.spotify.com/track/3jJF4tK7hDS5MBRHyVns0V"
@@ -3323,7 +3341,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 304218,
       "name": "Those Days Are Gone",
       "url": "https://open.spotify.com/track/3lca4MeFGxOtgePnb168n3"
@@ -3745,7 +3763,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 185716,
       "name": "You",
       "url": "https://open.spotify.com/track/6efuh9QMx0T6dwmZBC1Hez"

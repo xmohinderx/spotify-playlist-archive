@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-05",
   "description": "soft, chewy & good for the soul. uwu",
   "name": "tapioca",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7moHOuo8YGkhu2acqCiqv9"
+  ],
   "tracks": [
     {
       "album": {
@@ -93,7 +95,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 312191,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/0t0p3pFkUxv3KnMGZqPxyP"
@@ -249,7 +251,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "blink",
       "url": "https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG"
@@ -285,7 +287,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 207006,
       "name": "Bus",
       "url": "https://open.spotify.com/track/3gVoawJtboNvhP23qk0RFA"
@@ -343,7 +345,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 215533,
       "name": "COLD LOVE",
       "url": "https://open.spotify.com/track/4lyJXFhjQ6D0XMMAddhzZP"
@@ -361,7 +363,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 159906,
       "name": "cold these days",
       "url": "https://open.spotify.com/track/63iD8vONVMBVvxR02dSzoE"
@@ -379,7 +381,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 160378,
       "name": "Collide",
       "url": "https://open.spotify.com/track/0OopWuQ3JrNrin9q7te8Rv"
@@ -455,7 +457,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 241907,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/7z7WXNfGMvXbNKGITuQknR"
@@ -531,7 +533,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Do You Feel Like You Have No One to Turn to?",
       "url": "https://open.spotify.com/track/7IM7JCGA6lNktX9ORtyQS8"
@@ -549,7 +551,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 206583,
       "name": "Do You Think You Know Me?",
       "url": "https://open.spotify.com/track/2PPpy5E9AlP8x2YSso07hx"
@@ -709,7 +711,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 223913,
       "name": "For Days",
       "url": "https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z"
@@ -774,6 +776,24 @@
     },
     {
       "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241458,
+      "name": "grateful",
+      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
+    },
+    {
+      "album": {
         "name": "Grow Old",
         "url": "https://open.spotify.com/album/7Lj9tkBDBjhXURrWanx2Xb"
       },
@@ -803,7 +823,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 165924,
       "name": "HANNA",
       "url": "https://open.spotify.com/track/4nwunjVkj6tg2OOOM6uFM1"
@@ -829,6 +849,24 @@
       "duration_ms": 280714,
       "name": "Happy w u (feat. Jason Dhakal)",
       "url": "https://open.spotify.com/track/1n94XVEMS40MCW52AyLGDs"
+    },
+    {
+      "album": {
+        "name": "Headspace",
+        "url": "https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv"
+      },
+      "artists": [
+        {
+          "name": "liesl-mae",
+          "url": "https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187131,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q"
     },
     {
       "album": {
@@ -923,7 +961,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 169655,
       "name": "How We Used To",
       "url": "https://open.spotify.com/track/05Yx3Bn7dyIUu6pQvrKfrg"
@@ -949,7 +987,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 236048,
       "name": "Hurry Home (with beabadoobee & Jay Som)",
       "url": "https://open.spotify.com/track/6Ha8pqxdSJHdPY4tlzPhlT"
@@ -1025,6 +1063,32 @@
       "duration_ms": 127500,
       "name": "IF I DIE ALONE",
       "url": "https://open.spotify.com/track/7cpK40AM4MOFsQdDSTYqda"
+    },
+    {
+      "album": {
+        "name": "if it's with you",
+        "url": "https://open.spotify.com/album/2bLMmJLLFBEzDEYwspVuYO"
+      },
+      "artists": [
+        {
+          "name": "evanturetime",
+          "url": "https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa"
+        },
+        {
+          "name": "Marian Carmel",
+          "url": "https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6"
+        },
+        {
+          "name": "Tim De Cotta",
+          "url": "https://open.spotify.com/artist/0SFCGvh4sE1t6b2mTgpQ5D"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213975,
+      "name": "if it's with you",
+      "url": "https://open.spotify.com/track/24zqBDy2Pg8ngi1Hc3uK2U"
     },
     {
       "album": {
@@ -1347,7 +1411,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 128727,
       "name": "ok bye",
       "url": "https://open.spotify.com/track/233XcBvOmiwJNANsDLjc2q"
@@ -1517,7 +1581,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
@@ -1931,10 +1995,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "what are we?",
       "url": "https://open.spotify.com/track/7EpoDg0xKyD29FMvYwNxP1"
+    },
+    {
+      "album": {
+        "name": "when you, were mine",
+        "url": "https://open.spotify.com/album/4D9fNBLEPGhlMOc80DxUAC"
+      },
+      "artists": [
+        {
+          "name": "Rahmania Astrini",
+          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217384,
+      "name": "when you, were mine",
+      "url": "https://open.spotify.com/track/2SNymnR8r90L9Ow5No9GSu"
     },
     {
       "album": {
@@ -1967,7 +2049,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 273013,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/0ZOPiQDN9XoSXUjcink66H"
@@ -2047,6 +2129,24 @@
       "duration_ms": 317675,
       "name": "You Are",
       "url": "https://open.spotify.com/track/37JChM82iueRqLoDoNEZx7"
+    },
+    {
+      "album": {
+        "name": "you look so beautiful",
+        "url": "https://open.spotify.com/album/1j71Uy4eOOuxtBxxnk152F"
+      },
+      "artists": [
+        {
+          "name": "Michael Aldi",
+          "url": "https://open.spotify.com/artist/2Ib1uh2Zl7LI4JjFqP81v4"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291052,
+      "name": "you look so beautiful",
+      "url": "https://open.spotify.com/track/1J5xz1F0BvYRJTpOJdXHJo"
     },
     {
       "album": {

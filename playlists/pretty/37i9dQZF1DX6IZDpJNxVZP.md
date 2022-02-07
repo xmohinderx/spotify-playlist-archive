@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,577 likes - 133 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,566 likes - 133 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 28 | [Baby Ghost](https://open.spotify.com/track/5ojQFlYr2HgRxV8GPT6yAH) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Baby Ghost](https://open.spotify.com/album/0oDKbLKGqzWUqSd8Ld32Qw) | 1:36 |
 | 29 | [Overture](https://open.spotify.com/track/2fp9PZRJEOCrP4qR8ZONGs) | [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The Addams Family \(Original Cast Recording\)](https://open.spotify.com/album/11oSgc7tukNbysMv0nOpW3) | 1:58 |
 | 30 | [Cruella De Vil \- From "101 Dalmatians"/Soundtrack Version](https://open.spotify.com/track/2tkIIkF3CPqsmYhsncNEGN) | [Bill Lee](https://open.spotify.com/artist/3UcnwnNwP6egaBs7DAgRdJ) | [101 Dalmatians](https://open.spotify.com/album/6hcQqEfqHDkQZl1bdgr4Vr) | 5:03 |
-| 31 | [Poor Unfortunate Souls \- From "The Little Mermaid" / Soundtrack Version](https://open.spotify.com/track/7yyTZAgwQUy1a5kDjQJJNN) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW) | [The Little Mermaid](https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG) | 4:51 |
+| 31 | [Poor Unfortunate Souls \- From "The Little Mermaid" / Soundtrack Version](https://open.spotify.com/track/7yyTZAgwQUy1a5kDjQJJNN) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid](https://open.spotify.com/album/4YTduhQWfS0pOzQC4o0HcG) | 4:51 |
 | 32 | [Somebody's Watching Me \- Single Version](https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA) | [Rockwell](https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 3:57 |
 | 33 | [Bump in the Night](https://open.spotify.com/track/7ax40vh2zp5UIwDzGf1cop) | [The Hit Crew Kids](https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN) | [The Best Halloween Stories for Kids](https://open.spotify.com/album/1ksHEut4cKxzLXLBJemmrO) | 2:30 |
 | 34 | [Happy Happy Halloween](https://open.spotify.com/track/3RYEmRrhyNW8crprsaQDBh) | [Dad Jokes Duo](https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0) | [Are We There Yet?](https://open.spotify.com/album/1WKVF97SZHVb7fAVkVHsoz) | 2:52 |

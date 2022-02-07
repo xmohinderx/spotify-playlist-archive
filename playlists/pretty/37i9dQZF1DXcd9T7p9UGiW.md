@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s?si=SdYL\_4YqTLeGftktNOmp\_w"> Adekunle Gold </a> and <a href="https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq?si=XVKRvFFsS262ROEK3X578A"> Ty Dollar $ign </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,133 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,139 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

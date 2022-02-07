@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXblsWWYXYYVu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXblsWWYXYYVu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXblsWWYXYYVu)
 
-### Take it Slow
+### [Take it Slow](https://open.spotify.com/playlist/3p1V85d927eyG2kPYAHK5f)
 
 > Relax and take it slow today
 

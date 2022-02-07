@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 178677,
       "name": "A Punto",
       "url": "https://open.spotify.com/track/0i5Ocz6WdNNK5NAmT4NSEP"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 144750,
       "name": "Amor de Bolero",
       "url": "https://open.spotify.com/track/3XZEt7mxd5C5Ur05j1dfZr"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 232176,
       "name": "Cuando No Hay Nada Que Hablar",
       "url": "https://open.spotify.com/track/2RZ316OxGfbTPIrzIfvk7j"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 164813,
       "name": "Drume Negrita",
       "url": "https://open.spotify.com/track/5OREHskP2rZtA29N8sC82C"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 235746,
       "name": "Hagamos el amor a la distancia",
       "url": "https://open.spotify.com/track/3NNvVQo6CeU2bnxIKHNgHz"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 228466,
       "name": "La Trenza",
       "url": "https://open.spotify.com/track/10Tf0pmDJDUIfzZf87kwt5"
@@ -1195,7 +1195,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 181493,
       "name": "La \u00daltima Noche (feat. Goyo) - En Vivo",
       "url": "https://open.spotify.com/track/1KufFlWwqD111AKQgCwJzp"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 186730,
       "name": "Lo Hice, Te Dej\u00e9",
       "url": "https://open.spotify.com/track/5HT7sdhkOCFVegIoMOL7yj"
@@ -1231,7 +1231,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 189900,
       "name": "Lo Mismo Que Usted",
       "url": "https://open.spotify.com/track/13uDG9SBhqz2Ucca2oSHgk"
@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 181090,
       "name": "Mu\u00f1equita Linda",
       "url": "https://open.spotify.com/track/6jGAAW47TMyEzouHsl4YEn"
@@ -1649,7 +1649,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 171049,
       "name": "Noche No Te Vayas",
       "url": "https://open.spotify.com/track/5rtZvX3I8Rx6WfGmRgipBE"
@@ -1743,7 +1743,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 209040,
       "name": "Para Que Pides Perdon (Bonus Track)",
       "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
@@ -2101,7 +2101,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 197480,
       "name": "Sabor a Mi",
       "url": "https://open.spotify.com/track/6Ghqj5i94yxy3uSAnpQljL"
@@ -2225,7 +2225,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Sombras",
       "url": "https://open.spotify.com/track/3WW69emJPnNXoplzyl6W7L"
@@ -2243,7 +2243,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 193493,
       "name": "Sombras - Sombras Nada M\u00e1s",
       "url": "https://open.spotify.com/track/7HmD951OFt2D9PvYpsFBxY"
@@ -2522,6 +2522,28 @@
     },
     {
       "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/4vWMXbIf6HRnxd3vZ4fq66"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/1Rz2UCxkUlzuT6Kxe47wxc"
+        },
+        {
+          "name": "Cristobal Sarmiento",
+          "url": "https://open.spotify.com/artist/2AIg5VYeWoMaGDuINUQwKC"
+        }
+      ],
+      "date_added": "2021-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/1DMiJvljMa3QwvIGDqGJtF"
+    },
+    {
+      "album": {
         "name": "Un Besito M\u00e1s",
         "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
@@ -2599,7 +2621,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "Va Cayendo una L\u00e1grima - Los Iracundos Cover",
       "url": "https://open.spotify.com/track/1CjfBhfq68umdZF2Oer4pG"
@@ -2675,7 +2697,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 275280,
       "name": "Ya S\u00e9",
       "url": "https://open.spotify.com/track/3oHFLejTrYABV5OCi4vGEv"

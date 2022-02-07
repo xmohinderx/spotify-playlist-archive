@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > The Bollywood crooner's best songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,695 likes - 72 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,177 likes - 72 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 5 | [Aashiqui Aa Gayi\(From "Radhe Shyam"\)](https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aashiqui Aa Gayi \(From "Radhe Shyam"\)](https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd) | 4:20 |
 | 6 | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/album/2L1otdfoUvp3MKdaT4knVK) | 4:51 |
 | 7 | [Mere Yaaraa \(From "Sooryavanshi"\)](https://open.spotify.com/track/0tpwqQhdfJXRcUDSNRjb9O) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Mere Yaaraa \(From "Sooryavanshi"\)](https://open.spotify.com/album/1XO82yE4raeQEBSHxrNuSe) | 4:45 |
-| 8 | [Tera Hua \(From "Cash"\)](https://open.spotify.com/track/6HDBzDFSDYSmKzadobMr7e) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Tera Hua \(From "Cash"\)](https://open.spotify.com/album/3JuAV5XPKsHyOPxftMSejw) | 4:13 |
+| 8 | [Tera Hua \(From "Cash"\)](https://open.spotify.com/track/6HDBzDFSDYSmKzadobMr7e) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss), [Riya Duggal](https://open.spotify.com/artist/5goNlHuuRk93uDY86KcLET) | [Tera Hua \(From "Cash"\)](https://open.spotify.com/album/3JuAV5XPKsHyOPxftMSejw) | 4:13 |
 | 9 | [Jeetega Jeetega Film Version](https://open.spotify.com/track/17fhQI9tsFAdd5fPSBBCWu) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [83 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54MWK3HGLOxBWnQRYWEfEA) | 3:57 |
 | 10 | [Aabaad Barbaad](https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 5:09 |
 | 11 | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/track/018eOid2aGaPdxon7T6GsC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Shayad \(From "Love Aaj Kal"\)](https://open.spotify.com/album/3Q6oDVihOpQVi2FC0Mfjlm) | 4:07 |

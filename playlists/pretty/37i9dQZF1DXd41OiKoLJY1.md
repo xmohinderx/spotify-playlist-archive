@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Fitz Shioda, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,023 likes - 102 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,045 likes - 102 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 2 | [Seas N U](https://open.spotify.com/track/68O9fpr23kBNaqtnMNkPzR) | [Project: Romeo](https://open.spotify.com/artist/3Y4E0sWmWrd7930e3F3I55) | [Seas N U](https://open.spotify.com/album/3ghvSHWLO2R5XKObBdjNtZ) | 3:03 |
 | 3 | [Tired](https://open.spotify.com/track/6EpeZqLM4v2uFalW1sOy6i) | [Seann](https://open.spotify.com/artist/6XhthTIap2KElvJdGRMh7K) | [Tired](https://open.spotify.com/album/1K6LnxfypxuKNSznwxC48U) | 2:42 |
 | 4 | [YOU WANTED MORE](https://open.spotify.com/track/5llL9735jr1eD3GjFQVZA3) | [Jnuzh](https://open.spotify.com/artist/7HyJFrpVIEYmf2tRMVU8hk), [VVNILLA](https://open.spotify.com/artist/77GOFfG6ibHi4EHpJkvUU7), [BJ Esporma](https://open.spotify.com/artist/5Yry7sNo8rH2jGuJGRayKx) | [Facade](https://open.spotify.com/album/6BBnOSfcyXphLOhdX8bbFT) | 2:27 |
-| 5 | [callboi](https://open.spotify.com/track/1Ktu8ewVsfUStGLD8qbAZI) | [Fitz Shioda](https://open.spotify.com/artist/4K2p3Mrec7V2Ntq76uzwPo) | [callboi](https://open.spotify.com/album/2wUxZugddWPsvVhkGRnkVh) | 4:24 |
+| 5 | [callboi](https://open.spotify.com/track/1Ktu8ewVsfUStGLD8qbAZI) | [Fitz Shioda](https://open.spotify.com/artist/5C2w1OkTeKl8BLSwHI68dj) | [callboi](https://open.spotify.com/album/2wUxZugddWPsvVhkGRnkVh) | 4:24 |
 | 6 | [broken this way](https://open.spotify.com/track/6cSGff63T1sjRxhViuDNKq) | [AG Ulpindo](https://open.spotify.com/artist/14dBLsfSqFRC9miFnHNsKT) | [broken this way](https://open.spotify.com/album/01MUzf6zMZ9lbi1ME1glvK) | 5:47 |
 | 7 | [INFORMAL](https://open.spotify.com/track/3CeVJsE2VRMGds0ZI9AyDD) | [boredr](https://open.spotify.com/artist/04F0UpZLrWzmLu12KIavZJ), [gio](https://open.spotify.com/artist/7cRlM81fbHdZ3oq7Z70i7X) | [INFORMAL](https://open.spotify.com/album/61Oqz1nhny0j2IrX79JOXb) | 2:43 |
 | 8 | [Matulin](https://open.spotify.com/track/0Rskom3BMYybbcCbihqQz6) | [Itim Na Ulap](https://open.spotify.com/artist/7wP4dkyDiZqZxrimIEMO7x) | [Matulin](https://open.spotify.com/album/2fYakOT1ii9XM1pLFYf2yN) | 3:40 |

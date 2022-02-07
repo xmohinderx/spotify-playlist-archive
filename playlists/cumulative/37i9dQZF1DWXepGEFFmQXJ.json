@@ -266,6 +266,24 @@
     },
     {
       "album": {
+        "name": "Cheap Moscato",
+        "url": "https://open.spotify.com/album/1YVHfRtUC9nmqUTJlk2zEy"
+      },
+      "artists": [
+        {
+          "name": "Melanie Dyer",
+          "url": "https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL"
+        }
+      ],
+      "date_added": "2022-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165738,
+      "name": "Cheap Moscato",
+      "url": "https://open.spotify.com/track/0Sz3WfyjvMvAqjdZ8URlXH"
+    },
+    {
+      "album": {
         "name": "Circles Around This Town",
         "url": "https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ"
       },

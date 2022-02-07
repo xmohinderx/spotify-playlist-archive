@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Alternative and indie artists from across the Pride spectrum\. Cover: Hope Tala
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,138 likes - 92 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,133 likes - 92 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 37 | [Where the Bodies are Buried](https://open.spotify.com/track/0xG35t62RlS74P1ReAgew9) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Where The Bodies Are Buried](https://open.spotify.com/album/3nVtNC85YkvrxYWmaJJ22M) | 3:06 |
 | 38 | [Pretty Girl hi!](https://open.spotify.com/track/2Mee0OQcf0X2059JwUd4Vj) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Pretty Girl hi!](https://open.spotify.com/album/0MUA9dXULszXctZbOqYCUV) | 1:52 |
 | 39 | [More Than a Friend](https://open.spotify.com/track/5TIyFlLF0EfYOUZH1TYxBq) | [GIRLI](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [More Than a Friend](https://open.spotify.com/album/5Gim9raGhoYvmx2bD31vJe) | 2:55 |
-| 40 | [SHAPESHIFTER](https://open.spotify.com/track/5WXz2toRgsjW6XHDvTYQ9X) | [THE BLOSSOM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [SHAPESHIFTER](https://open.spotify.com/album/1ubKaRZMSZTtkckIO0e72j) | 3:13 |
+| 40 | [SHAPESHIFTER](https://open.spotify.com/track/5WXz2toRgsjW6XHDvTYQ9X) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [SHAPESHIFTER](https://open.spotify.com/album/1ubKaRZMSZTtkckIO0e72j) | 3:13 |
 | 41 | [Small Ghosts](https://open.spotify.com/track/6zFqu6VWpbpO36qr9QkH4G) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [5 Songs For The Dysphoric](https://open.spotify.com/album/6ope4Z98ybMP7ayuCSLDNl) | 3:27 |
 | 42 | [Lovestained](https://open.spotify.com/track/5I67IXwHIMi0svzyp7GxUe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/1aOr4fzpxI4I1MWzwtXKcl) | 2:55 |
 | 43 | [Don't Freak](https://open.spotify.com/track/6IDf8qhBUUi8BUWYRqk1mB) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Don't Freak](https://open.spotify.com/album/5xv8mQtOVEPHSmzUgqKlAx) | 2:46 |

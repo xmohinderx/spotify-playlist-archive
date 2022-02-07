@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 172066,
       "name": "American Beauty",
       "url": "https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 194906,
       "name": "any human friend",
       "url": "https://open.spotify.com/track/3tuG0klzbWrBCzQt99iYG2"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 247506,
       "name": "Bad girl",
       "url": "https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 261475,
       "name": "Buzz",
       "url": "https://open.spotify.com/track/55pp6iI1wvxZL93k25vzXn"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 195000,
       "name": "C'mon Be Cool",
       "url": "https://open.spotify.com/track/5WEvpHhaLnH1ScM4A1nDzC"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 190695,
       "name": "Cady Road",
       "url": "https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW"
@@ -489,6 +489,24 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/0oHPGTS0X4TVmgtKQoarfX"
+      },
+      "artists": [
+        {
+          "name": "Warpaint",
+          "url": "https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279293,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/35qqONLfWcE34sjgEM8UhG"
     },
     {
       "album": {
@@ -629,7 +647,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 189222,
       "name": "Crying",
       "url": "https://open.spotify.com/track/1H41sRV3HdMgvJgABjdV7N"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 237186,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/2vSuUcBhcqYZ3RXTKAx3Bp"
@@ -759,7 +777,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 261941,
       "name": "Don't Go Puttin Wishes in My Head",
       "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
@@ -903,7 +921,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 264815,
       "name": "Feel the Pain",
       "url": "https://open.spotify.com/track/5r2qy6NxfsLJukqllGueTa"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 181754,
       "name": "God Knows Why",
       "url": "https://open.spotify.com/track/1mHy45rJNN6eT0P7Kuecg8"
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 100572,
       "name": "How Long",
       "url": "https://open.spotify.com/track/6kUtd2r6ctD3SSOjuV1Rh5"
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 185626,
       "name": "Human Replacement",
       "url": "https://open.spotify.com/track/1NNd8eBJERD42dv5NYmQpS"
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 216026,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/6ZVVax9sMTB6HPKu36eYZs"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 210165,
       "name": "Immune",
       "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 197437,
       "name": "It's a good day (to fight the system)",
       "url": "https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w"
@@ -1559,7 +1577,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 262960,
       "name": "Let It All Go",
       "url": "https://open.spotify.com/track/49nEnbfHkmMD9sQVcvG8Ph"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 254200,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/6P35XBAEzdCPgbMuP49cxC"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 219579,
       "name": "Monster",
       "url": "https://open.spotify.com/track/61CpLCM1sIzQ8zyvvajUD4"
@@ -1851,7 +1869,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 196802,
       "name": "Old Peel",
       "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 161120,
       "name": "Open up the Heavens",
       "url": "https://open.spotify.com/track/1dthu6dMsSfRe2k1nBTL36"
@@ -1945,7 +1963,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 218346,
       "name": "Perfect Wife",
       "url": "https://open.spotify.com/track/4sUkaBPPpnBKnmBfrgAyv1"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 173640,
       "name": "Questions",
       "url": "https://open.spotify.com/track/4jmBJcu8Ee8CSrXQYSvmbv"
@@ -2194,6 +2212,28 @@
     },
     {
       "album": {
+        "name": "Silver Into Rain",
+        "url": "https://open.spotify.com/album/72VkcDnanX8Z3JM66PSmAD"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201869,
+      "name": "Silver Into Rain",
+      "url": "https://open.spotify.com/track/7tOJr0Vl4xcxhPYqUfjwVX"
+    },
+    {
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/6SvGZhGt46WiZayR9bB1ox"
       },
@@ -2205,7 +2245,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 185813,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/3METNlutAzAhnNKgzZBA1a"
@@ -2223,7 +2263,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 140026,
       "name": "Smithereens",
       "url": "https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk"
@@ -2303,7 +2343,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/1JPRgRUK044O15wgv8uZO1"
@@ -2447,7 +2487,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 261217,
       "name": "The Last Man on Earth",
       "url": "https://open.spotify.com/track/0X9YmbFHb2sPmml6J7DMK0"
@@ -2483,7 +2523,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 214305,
       "name": "The Starlight Lounge",
       "url": "https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK"
@@ -2519,7 +2559,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 265440,
       "name": "Thumbs",
       "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
@@ -2537,7 +2577,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 279133,
       "name": "Thumbs Again",
       "url": "https://open.spotify.com/track/7DuUnmiBp8C2bXY6V6QN0r"
@@ -2649,7 +2689,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 156448,
       "name": "Until It Stops - Spotify Singles",
       "url": "https://open.spotify.com/track/0dN85vbuUdU7Hnu0hLZHsN"
@@ -2667,7 +2707,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 196173,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP"
@@ -2779,7 +2819,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 319739,
       "name": "We've Got a Good Thing Going",
       "url": "https://open.spotify.com/track/2KEfnqq0wATQc8S1mrFTcf"
@@ -2941,7 +2981,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 307075,
       "name": "Your Light",
       "url": "https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8"

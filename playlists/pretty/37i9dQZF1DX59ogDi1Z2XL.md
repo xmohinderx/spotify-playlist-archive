@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The sounds of hip\-hop coming out of Canada\. Cover: YSN Fab
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,375 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,437 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 28 | [Rambos Freestyle](https://open.spotify.com/track/5fuRS0HBZK8BMUfl78KxvW) | [Keysha Freshh](https://open.spotify.com/artist/5dOPo7YOqsRrH0cqw8ol3u) | [Rambos Freestyle](https://open.spotify.com/album/2ZDoHDHsljfAybBnH9ptdN) | 2:08 |
 | 29 | [One More Thing](https://open.spotify.com/track/6BzPNRduOs6Aoob2h3Tcjd) | [Kresnt](https://open.spotify.com/artist/7B6gRPGS1V6bA0DkxqJktA) | [Hustle Sold Separately](https://open.spotify.com/album/6TMiPKrgZIRysr7YAKBywM) | 2:48 |
 | 30 | [EGO DYE](https://open.spotify.com/track/1iw4Chi31B4zwIYqDbEqJB) | [NLN](https://open.spotify.com/artist/62n4U1X9Uk7DF9jQkAaBrW) | [EGO DYE](https://open.spotify.com/album/4ZnK1fDS9dKE2FwWi39mcG) | 3:01 |
-| 31 | [STEPPA](https://open.spotify.com/track/2P0JeBzWaZBPljLpiCzdBf) | [Aaron Billz](https://open.spotify.com/artist/3rf7CTYnuiT1wV6SOOsytb), [Adrian Duncan](https://open.spotify.com/artist/6ogwP3LHapMhX2mQuKkosY), [That's Deep](https://open.spotify.com/artist/2T2uyZ8goEevh7veWHo9wu) | [STEPPA](https://open.spotify.com/album/4fBprQ4vDbT8XkLnxTBQut) | 2:16 |
+| 31 | [STEPPA](https://open.spotify.com/track/2P0JeBzWaZBPljLpiCzdBf) | [Aaron Billz](https://open.spotify.com/artist/4lBeqDvCiYGnW8ipIvPaWM), [Adrian Duncan](https://open.spotify.com/artist/4UT0LBgm8ooVT0ohnFoA2F), [That's Deep](https://open.spotify.com/artist/2T2uyZ8goEevh7veWHo9wu) | [STEPPA](https://open.spotify.com/album/4fBprQ4vDbT8XkLnxTBQut) | 2:16 |
 | 32 | [Demons](https://open.spotify.com/track/723FOHi7nU0sAO8DM4mGit) | [Harmony](https://open.spotify.com/artist/4sktpxNtVEm8VrvXWihfBS) | [Demons](https://open.spotify.com/album/15agpAYT2OJrw53issJ2fM) | 3:33 |
 | 33 | [Dead Body \(feat\. Rowdy Rebel\)](https://open.spotify.com/track/4JTfekrzazNd71Q5k6QZyK) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Gardner Express \(Deluxe\)](https://open.spotify.com/album/4qtoUHReyTTUUGMu8hpDGr) | 2:50 |
 | 34 | [Tell Em How You Feel](https://open.spotify.com/track/4FRHo2eXjShYV7555U7hD0) | [Velow](https://open.spotify.com/artist/2UOHBwSdgEwpUgbRDkY8mA) | [Tell Em How You Feel](https://open.spotify.com/album/2QZAfZUDUfTDVwDrPTIwHv) | 3:18 |

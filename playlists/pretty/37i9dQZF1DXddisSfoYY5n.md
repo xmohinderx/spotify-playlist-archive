@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddisSfoYY5n.md) - [plain]
 
 > Danger, mystery, and tangled webs of intrigue lie ahead....
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,261 likes - 28 songs - 12 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,259 likes - 28 songs - 12 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

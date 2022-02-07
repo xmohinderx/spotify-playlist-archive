@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSwbJpH6lAw.md) - [plain]
 
 > The most exciting new Latin artists and tracks, handpicked by our curators featuring Chavi Leons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,753 likes - 30 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,763 likes - 30 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSwbJpH6lAw.md) - [plain]
 | 4 | [Poema](https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:35 |
 | 5 | [Hear Me Out \- Stripped](https://open.spotify.com/track/0EX3OCeGdjwz2P017sOEIk) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Hear Me Out](https://open.spotify.com/album/0NNKUMVScFPOCdXiFIV2Ev) | 2:17 |
 | 6 | [Energia](https://open.spotify.com/track/3oot6YbOkial5BIJAvEra8) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [Energia](https://open.spotify.com/album/5OBkkS1adIEouu18tESdW3) | 2:35 |
-| 7 | [MANDIBULEO](https://open.spotify.com/track/1zRKz6wOqvcg5qUmEy5VT9) | [S Moreno](https://open.spotify.com/artist/2Eq8xNV6aKDDdoJibsY6FG) | [MANDIBULEO](https://open.spotify.com/album/4Z1SFFBLyQxVpdDSgRQskw) | 2:26 |
+| 7 | [Mandibuleo](https://open.spotify.com/track/1zRKz6wOqvcg5qUmEy5VT9) | [S Moreno](https://open.spotify.com/artist/2Eq8xNV6aKDDdoJibsY6FG) | [Mandibuleo](https://open.spotify.com/album/4Z1SFFBLyQxVpdDSgRQskw) | 2:26 |
 | 8 | [La Tóxica](https://open.spotify.com/track/5lwNIm2sP8ixUpCkeoO9G9) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [La Tóxica](https://open.spotify.com/album/6Wb4ju59AnNwUgPwKgwyqI) | 2:51 |
 | 9 | [Yo Me Lo Merezco](https://open.spotify.com/track/4KKDhRcCz7CAnJfSxf8pJN) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Yo Me Lo Merezco](https://open.spotify.com/album/2hYgnSCgWk5DTu9pnCNh1R) | 3:42 |
 | 10 | [TRANQUI](https://open.spotify.com/track/4U4oLQbcoVOGspDsl2bhsL) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [TRANQUI](https://open.spotify.com/album/6Z4FU5oHSdpK3YXedod4iO) | 3:27 |

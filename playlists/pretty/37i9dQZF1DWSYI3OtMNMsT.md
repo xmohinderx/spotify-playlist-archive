@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYI3OtMNMsT.md) - [plain]
 
 > Mellow, instrumental versions of all your favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,346 likes - 35 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,344 likes - 35 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

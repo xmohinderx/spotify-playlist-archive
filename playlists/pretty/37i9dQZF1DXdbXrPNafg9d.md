@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,184,210 likes - 182 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,466 likes - 182 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 161 | [Stevie Doesn't Wonder](https://open.spotify.com/track/0I3X1n3KEFWPY4S2NcQC9U) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Stevie Doesn't Wonder](https://open.spotify.com/album/6gNV8pbExf0cFutm2a8Buz) | 2:44 |
 | 162 | [Change My Mind](https://open.spotify.com/track/7y1kGRMsoBW5IL0rOBp5qn) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Change My Mind](https://open.spotify.com/album/6yphXLC7doIHYZl5R4cCA5) | 3:28 |
 | 163 | [Big Trees](https://open.spotify.com/track/78LgyytZ57eBM18kx5YFAk) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [Big Trees](https://open.spotify.com/album/5eXrCNWiY4ZP01MWog4FN4) | 3:15 |
-| 164 | [Drifting Out \(feat\. Jakob Koranyi and Yo\-Yo Ma\)](https://open.spotify.com/track/3CNWq7lUjDrIdM32Hwdbbh) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Jakob Koranyi](https://open.spotify.com/artist/0t6zWYaTM3aHkDCGWLdjFL), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Drifting Out EP](https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh) | 3:45 |
+| 164 | [Drifting Out \(feat\. Jakob Koranyi and Yo\-Yo Ma\)](https://open.spotify.com/track/3CNWq7lUjDrIdM32Hwdbbh) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Jakob Koranyi](https://open.spotify.com/artist/0t6zWYaTM3aHkDCGWLdjFL), [Yo\-Yo Ma & The Silk Road Ensemble](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Drifting Out EP](https://open.spotify.com/album/5LkepEqRrfqY2t0UeOaEnh) | 3:45 |
 | 165 | [Faultline](https://open.spotify.com/track/0wssiCpBengvOADco2G3GI) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Faultline](https://open.spotify.com/album/2ivM0FlRjtPUuLcHNh64MK) | 4:11 |
 | 166 | [Day After Tomorrow](https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7) | 6:05 |
 | 167 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \(From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 |

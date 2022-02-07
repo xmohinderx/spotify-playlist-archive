@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 194800,
       "name": "All I Can Do",
       "url": "https://open.spotify.com/track/4DLCJrhY7EPdjYRaM59wgz"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 274946,
       "name": "Bossy Featuring Too $hort (feat. Too $hort)",
       "url": "https://open.spotify.com/track/0Eu5SrReZzaJX0NLKI8tQS"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 179426,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/1f0XxoeFQWM4mR4NxHu6DE"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 163683,
       "name": "Breakthrough",
       "url": "https://open.spotify.com/track/1CsBvg3vg2A3DCyeMoomlu"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 211200,
       "name": "Confessions Part II",
       "url": "https://open.spotify.com/track/7wBThXx7BGZHJJ3aN3OPvv"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 247866,
       "name": "Every Other Time - Radio Edit & Album Version",
       "url": "https://open.spotify.com/track/3uD4aRM8QoEAAhwpOke7QU"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 251960,
       "name": "Everything",
       "url": "https://open.spotify.com/track/0QRcOtv4LE9C2QTfbbkL1e"
@@ -1042,6 +1042,24 @@
     },
     {
       "album": {
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/1jJfarxewGo1tSH3goL9mr"
+      },
+      "artists": [
+        {
+          "name": "Lillix",
+          "url": "https://open.spotify.com/artist/00hKB8cu5lyBE35ilxyP7v"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "It's About Time",
+      "url": "https://open.spotify.com/track/3ftDydhrDMyERL9AXqRKo7"
+    },
+    {
+      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 209800,
       "name": "Mickey",
       "url": "https://open.spotify.com/track/7rdSb2dF6WvIt08ayNnzyj"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 189933,
       "name": "Nothing in This World",
       "url": "https://open.spotify.com/track/4XRGwyAARL21fesc6BvliF"
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 274440,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/0fGh0trRN1xz3s41r7V5ce"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 237760,
       "name": "Smile",
       "url": "https://open.spotify.com/track/5Xkvi3GZeRGah9e5px61gG"

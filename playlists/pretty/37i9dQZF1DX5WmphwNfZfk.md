@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Sacha
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,612 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,621 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 99 | [Pop Shit](https://open.spotify.com/track/3oObL5VM4WRQxLOo7miGtS) | [Tia Bank$](https://open.spotify.com/artist/59rZoAv1GLoq9Iu8pcQbkU) | [Pop Shit](https://open.spotify.com/album/3sfZE5QoRqa8ff3eKHWMDg) | 2:31 |
 | 100 | [Love Crimes](https://open.spotify.com/track/1mQnu0MBj6Fodl25LTPelF) | [Harman](https://open.spotify.com/artist/7E2SCkykx5uOljc7dpISHI) | [Love Crimes](https://open.spotify.com/album/6r2KPELb6CKYAd1wtjOWiX) | 2:56 |
 
-Snapshot ID: `MTY0NDEwODc2MSwwMDAwMDAwMGYzNTg5YmIwNTRlZGUyZGEzYmYzNGU5OTc5MGFhYTli`
+Snapshot ID: `MTY0NDE5NDYxMiwwMDAwMDAwMGYzNTg5YmIwNTRlZGUyZGEzYmYzNGU5OTc5MGFhYTli`

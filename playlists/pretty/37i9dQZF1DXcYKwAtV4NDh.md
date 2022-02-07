@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 
 > A deep and concise look at the music that made Country Music what is is today\.  Covers eras <br/>1930's \- 1990.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,622 likes - 107 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,712 likes - 107 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 15 | [I Want to Be a Cowboy's Sweetheart](https://open.spotify.com/track/1RIQw2QuIglFKwBgzRidIe) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG), [Prairie Ramblers](https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W) | [Patsy Montana \(Doxy Collection\)](https://open.spotify.com/album/6X7NzTn7L81LSlxSsHIGFD) | 3:10 |
 | 16 | [Tumbling Tumbleweeds \- Single Version](https://open.spotify.com/track/57D6AiyvWKSZppMyp8HNFl) | [Sons of the Pioneers](https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68) | [Tumbling Tumbleweeds](https://open.spotify.com/album/2agohVudwSuZZFarAjZmkh) | 3:16 |
 | 17 | [Great Speckled Bird](https://open.spotify.com/track/73GgHC9lkVsEyVW9gp1X0E) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The King of Country](https://open.spotify.com/album/5IL280VXMuFzpMiIIdSESH) | 2:40 |
-| 18 | [Take Me Back To Tulsa](https://open.spotify.com/track/74zBjPCZ1juar6yeglInYv) | [Bob Wills](https://open.spotify.com/artist/3YeRGjR8sa1PHjTUMjqsQg) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:34 |
+| 18 | [Take Me Back To Tulsa](https://open.spotify.com/track/74zBjPCZ1juar6yeglInYv) | [Bob Wills & Tommy Duncan with The Texas Playboys](https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE) | [Together Again](https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX) | 2:34 |
 | 19 | [Back In The Saddle Again](https://open.spotify.com/track/4eePcTiLO6o5W4ejSQ7uSn) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:35 |
 | 20 | [Wabash Cannonball](https://open.spotify.com/track/5RKPe1oN9lGayUCKn00fYi) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The Essential Roy Acuff](https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM) | 2:36 |
 | 21 | [New Mule Skinner Blues](https://open.spotify.com/track/3CIoKguwyGbZlcvc4KtlC6) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 2:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ミオヤマザキ
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,915 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,928 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 68 | [ワールドワイドワンダー \(feat\. 初音ミク\)](https://open.spotify.com/track/6QwBAzXMDASm2erm3QYxUQ) | [TOKOTOKO](https://open.spotify.com/artist/4D6R9IkfxEFHtLrm7D2LUH) | [ワールドワイドワンダー](https://open.spotify.com/album/4HPLTJ8qCVZwTU2FNWhWxt) | 3:44 |
 | 69 | [アマゾン](https://open.spotify.com/track/7MsGAF7pJePa7UlYDW77e7) | [SEVENTEEN AGAiN](https://open.spotify.com/artist/44vCIlLzyYUo6UQ2s4huqu) | [アマゾン](https://open.spotify.com/album/5oYhRqBAk3VznCf1iti2Ic) | 3:26 |
 | 70 | [化け猫](https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK) | 0:56 |
-| 71 | [ノンブレス・オブリージュ](https://open.spotify.com/track/7Bh9YS2VtUnf1swxGqPtXn) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x) | [ノンブレス・オブリージュ](https://open.spotify.com/album/1JCauW2FW7L3hrSyyynPOz) | 3:27 |
+| 71 | [ノンブレス・オブリージュ \- COVER](https://open.spotify.com/track/7Bh9YS2VtUnf1swxGqPtXn) | [Yuu Miyashita](https://open.spotify.com/artist/6hJkIUy4LmRN3l0Ld99M5x) | [ノンブレス・オブリージュ\(COVER\)](https://open.spotify.com/album/1JCauW2FW7L3hrSyyynPOz) | 3:27 |
 | 72 | [Morning](https://open.spotify.com/track/1AFRB52O6jDHRVLWTr5c1y) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Morning](https://open.spotify.com/album/0WqH9nFhGSOrAwu8nVEmkM) | 3:05 |
 | 73 | [花風](https://open.spotify.com/track/2nFtgZ03JKcn01BOhldvNP) | [dramastore](https://open.spotify.com/artist/4m7NpM6ekl26IgjouiqfwJ) | [花風](https://open.spotify.com/album/7MgwvA0H0goUXYGqKJu5TO) | 4:32 |
 | 74 | [チルソナ](https://open.spotify.com/track/4BRVR2xcPXlaO7JnutOJf9) | [nowisee](https://open.spotify.com/artist/3skdh04lf7IDIxyZ5AnsRI) | [チルソナ](https://open.spotify.com/album/0Y5Lw43pSybBwHKlXLHpjG) | 4:33 |

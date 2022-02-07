@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: Eli Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,229 likes - 134 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,359 likes - 134 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

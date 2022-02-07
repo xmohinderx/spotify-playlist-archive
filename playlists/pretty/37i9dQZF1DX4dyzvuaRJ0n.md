@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring new music from Flume & MAY\-A, MNEK & Jax Jones, Joel Corry & Da Hool, Sofi Tukker & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,886,489 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,886,719 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,194 likes - 58 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,273 likes - 58 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 17 | [Isn't This My Sound Around Me](https://open.spotify.com/track/2VaRUwAU7Ik3r5KoHVjS23) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [At the Edge of the World](https://open.spotify.com/album/2n12HqIagVlEPeXY4hhWUs) | 5:20 |
 | 18 | [Blues for the Real Human Beings](https://open.spotify.com/track/6UHNNAMBinTF3Eo7uzrU5b) | [Seamus Blake](https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY), [Tony Tixier](https://open.spotify.com/artist/2deStK1BeKj2LL2FREkSUX), [Florent Nisse](https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA), [Gautier Garrigue](https://open.spotify.com/artist/3mUKJa0KuUOyLllzNP1DAO) | [Guardians of the Heart Machine](https://open.spotify.com/album/42Bf0gsyJAsJs3s8ia5Yzh) | 4:19 |
 | 19 | [Ancient and Distant](https://open.spotify.com/track/2kXJ6su5YWx1a3YQilPxmF) | [Harold Danko](https://open.spotify.com/artist/26IGMCxg4NgtwUVLlX5rPw), [Jay Anderson](https://open.spotify.com/artist/7eaHILZta913Fkf49T57SV), [Jeff Hirshfield](https://open.spotify.com/artist/52O6frArSmachHxpz0NSTZ) | [Triple Play](https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr) | 7:13 |
-| 20 | [Habbit Rabbit](https://open.spotify.com/track/6Pz1RgeZG6tmlu0X00KHhZ) | [Karin Hammar](https://open.spotify.com/artist/6PpRVXmqjgmgFPg9gEJfWc) | [Circles](https://open.spotify.com/album/7yDHwMVnH0SXCYw6eD7fDg) | 5:14 |
+| 20 | [Habbit Rabbit](https://open.spotify.com/track/6Pz1RgeZG6tmlu0X00KHhZ) | [Karin Hammar](https://open.spotify.com/artist/6PpRVXmqjgmgFPg9gEJfWc), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Fredrik Rundqvist](https://open.spotify.com/artist/5xLLcvi1xnXS9mMKi6PW57) | [Circles](https://open.spotify.com/album/7yDHwMVnH0SXCYw6eD7fDg) | 5:14 |
 | 21 | [There's A Small Hotel](https://open.spotify.com/track/1vd6bplZvB2edAjNd9bR7l) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 6:41 |
 | 22 | [Tidal Breeze](https://open.spotify.com/track/4TRyfSh9IzlprJbTlMrWxl) | [Passport Quartet](https://open.spotify.com/artist/1sKCem3MqxDHeM5F5zAKfy), [Raphaël Imbert](https://open.spotify.com/artist/2FLekZm435IfyjMhb0JCIg) | [Invitation](https://open.spotify.com/album/6D6xpmmZhAg25csbBX8leD) | 1:13 |
 | 23 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 |

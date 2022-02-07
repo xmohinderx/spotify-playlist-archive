@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Cover: $NOT
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,051,930 likes - 120 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,052,724 likes - 120 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

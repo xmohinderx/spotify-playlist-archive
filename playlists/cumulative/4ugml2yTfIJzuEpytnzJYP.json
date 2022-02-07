@@ -1118,6 +1118,28 @@
     },
     {
       "album": {
+        "name": "Up in the Safe",
+        "url": "https://open.spotify.com/album/48nO2BxjWwKFW68OIYHaCc"
+      },
+      "artists": [
+        {
+          "name": "ENiGMA Dubz",
+          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
+        },
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "date_added": "2022-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236530,
+      "name": "Up in the Safe",
+      "url": "https://open.spotify.com/track/2sMqWQvSw5FBphrjhby5Se"
+    },
+    {
+      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/4TVo5m16Nw2x5B2uzHuuwh"
       },
@@ -1177,6 +1199,24 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "album": {
+        "name": "Caldera",
+        "url": "https://open.spotify.com/album/0A78Is5hxV6Bn2IQwARtYP"
+      },
+      "artists": [
+        {
+          "name": "INTRASoL",
+          "url": "https://open.spotify.com/artist/1gWSlynXtpMIR4V25NG5Nc"
+        }
+      ],
+      "date_added": "2022-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177949,
+      "name": "Xihuitl",
+      "url": "https://open.spotify.com/track/2ZYb1WBluBC3dFMWVDdFyW"
     }
   ],
   "url": "https://open.spotify.com/playlist/4ugml2yTfIJzuEpytnzJYP"

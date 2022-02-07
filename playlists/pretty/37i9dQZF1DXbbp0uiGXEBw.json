@@ -1,18 +1,18 @@
 {
   "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: AMEE",
-  "num_followers": 6589,
+  "num_followers": 6600,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzczNDgwMCwwMDAwMDAyMDAwMDAwMTdlYjYzYTk2ZmUwMDAwMDE3ZWI0ZWM2Yjkx",
+  "snapshot_id": "MTY0NDE1MTQxMSwwMDAwMDAyMTAwMDAwMTdlY2YwZjkyNzYwMDAwMDE3ZWI0ZWM2Yjkx",
   "tracks": [
     {
-      "added_at": "2022-02-01 17:00:00",
+      "added_at": "2022-02-06 12:43:31",
       "album": {
-        "name": "dreAMEE",
-        "url": "https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt"
+        "name": "thay m\u1ecdi c\u00f4 g\u00e1i y\u00eau anh",
+        "url": "https://open.spotify.com/album/3hR3yDFUQhLex9F9goRs80"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
         }
       ],
-      "duration_ms": 253500,
-      "name": "tr\u1eddi gi\u1ea5u tr\u1eddi mang \u0111i",
-      "url": "https://open.spotify.com/track/1ecVks3GJX8U67DvhVDVBn"
+      "duration_ms": 215257,
+      "name": "thay m\u1ecdi c\u00f4 g\u00e1i y\u00eau anh",
+      "url": "https://open.spotify.com/track/7e8Kt6pX4Y589CJL37mIWa"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -271,6 +271,22 @@
       "duration_ms": 228631,
       "name": "OK Anh \u0110\u00fang",
       "url": "https://open.spotify.com/track/50Dh4QeAljOaFDRYcedzNW"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
+        "name": "dreAMEE",
+        "url": "https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt"
+      },
+      "artists": [
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "tr\u1eddi gi\u1ea5u tr\u1eddi mang \u0111i",
+      "url": "https://open.spotify.com/track/1ecVks3GJX8U67DvhVDVBn"
     },
     {
       "added_at": "2022-02-01 17:00:00",

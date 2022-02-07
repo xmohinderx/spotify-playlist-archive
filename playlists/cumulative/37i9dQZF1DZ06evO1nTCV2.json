@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 210240,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 306920,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/5R1vxqzPxyA31YODI5nRIR"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 204233,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/1npZLnadIut8UfjsqYSOBh"
@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Ashes & Fire",
+        "url": "https://open.spotify.com/album/1w2aDtXIq2HjpZQOt8JaRa"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2022-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290520,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/1c7QlGCnOxQY0ToOezw9zS"
+    },
+    {
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
       },
@@ -325,7 +343,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 239546,
       "name": "Do You Still Love Me?",
       "url": "https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 310346,
       "name": "Hotel Chelsea Nights",
       "url": "https://open.spotify.com/track/45EnbdDSEyfNd4xbGSLaBM"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 195440,
       "name": "How Much Light",
       "url": "https://open.spotify.com/track/3nXM6fSbUdWugKFCukr8ib"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 338923,
       "name": "In My Time of Need",
       "url": "https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 261065,
       "name": "Outbound Train",
       "url": "https://open.spotify.com/track/6eGBTRiVkcrSHDr5S4Xf4T"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 246440,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-07",
       "duration_ms": 186253,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/58Zr6jYL2DAeKhvq40Rzcb"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 218363,
       "name": "Why Do They Leave?",
       "url": "https://open.spotify.com/track/69ssbOW3LgQnLE62Z4FNrO"

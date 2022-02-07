@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVY4eLfA3XFQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVY4eLfA3XFQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVY4eLfA3XFQ)
 
-### [Operator](https://open.spotify.com/playlist/79a2RVYUWEInEyKQSaUemp)
+### [Operator](https://open.spotify.com/playlist/78BxbIkAGKnzKUXystZiu3)
 
 > Tech house technicians\. Cover: Eli Brown
 
