@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUZMtnnlvJ9p.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUZMtnnlvJ9p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUZMtnnlvJ9p)
 
-### The Ultimate Hit Mix
+### [The Ultimate Hit Mix](https://open.spotify.com/playlist/0cMkRSoeWRIiSvfgE4l5Mo)
 
 > Mixing the decades: 1990s, 2000s, 2010s and 2020s\. Updated weekly.
 

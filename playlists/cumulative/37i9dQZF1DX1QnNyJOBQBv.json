@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Your favorite soon to be hits. Cover: CNCO",
+  "description": "Your favorite soon to be hits. Cover: Manuel Turizo",
   "name": "Latin Pop Today",
   "published_playlist_ids": [
     "1C2XqxMOTFW3XGWn44uwXh"
@@ -411,6 +411,24 @@
       "duration_ms": 177386,
       "name": "Cuando Estoy Contigo",
       "url": "https://open.spotify.com/track/51gL5n807jjnX6UPTTUqmE"
+    },
+    {
+      "album": {
+        "name": "De 100 a 0",
+        "url": "https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184737,
+      "name": "De 100 a 0",
+      "url": "https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a"
     },
     {
       "album": {
@@ -907,7 +925,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 181804,
       "name": "Malo",
       "url": "https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg"

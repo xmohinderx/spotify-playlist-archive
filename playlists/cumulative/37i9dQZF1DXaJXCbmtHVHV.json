@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 238280,
       "name": "Bye Mom",
       "url": "https://open.spotify.com/track/0dVuf0NSPxHeovkeAEsvPz"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 162885,
       "name": "Fill Them Boots",
       "url": "https://open.spotify.com/track/4RBcYEl3yD9gYQE94LxFmE"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 191360,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 216226,
       "name": "PARADISE TO ME",
       "url": "https://open.spotify.com/track/2oMfpjxWmnLYcgbqkeAjfp"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 226901,
       "name": "While You're Gone",
       "url": "https://open.spotify.com/track/6bL7MlyOebDrTSRpEv7UBw"
@@ -993,7 +993,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 206506,
       "name": "Whiskey And Rain",
       "url": "https://open.spotify.com/track/1tf4Bfk8JIKryLpWYRvyiI"
@@ -1051,7 +1051,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
@@ -1091,6 +1091,24 @@
       "duration_ms": 200040,
       "name": "You Ain't Pretty",
       "url": "https://open.spotify.com/track/6tDHV2IZGoEBR2iYSw0lOb"
+    },
+    {
+      "album": {
+        "name": "Weekends Look A Little Different These Days",
+        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225813,
+      "name": "You Didn\u2019t",
+      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
     },
     {
       "album": {

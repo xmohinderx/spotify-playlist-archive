@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Allen Stone
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,979 likes - 99 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,099 likes - 99 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

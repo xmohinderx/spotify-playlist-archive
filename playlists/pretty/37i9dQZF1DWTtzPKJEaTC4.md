@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:7MNEVabc4cs19CbzAFZmXz">Terrace Martin</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,955 likes - 30 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,992 likes - 30 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -814,6 +814,24 @@
     },
     {
       "album": {
+        "name": "Fora de Si - Spotify Singles",
+        "url": "https://open.spotify.com/album/7Krd9lFlvyibIXVHsK1ieN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136764,
+      "name": "Fora de Si - Spotify Singles",
+      "url": "https://open.spotify.com/track/2gvQ2JkD9ft9q4OI6TSzUD"
+    },
+    {
+      "album": {
         "name": "Foto do Corte",
         "url": "https://open.spotify.com/album/5ZKOEqxlviycdRGrSkBDME"
       },

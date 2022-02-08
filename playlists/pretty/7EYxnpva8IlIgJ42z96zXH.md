@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,077 likes - 60 songs - 2 hr 58 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,082 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 |
-| 2 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 |
-| 3 | [Honest \(feat\. Slayyyter\)](https://open.spotify.com/track/7p15pjKeiHuxFg7cu776sl) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Honest \(feat\. Slayyyter\)](https://open.spotify.com/album/46vmaiRCmEHYavivCY1r68) | 2:58 |
+| 1 | [Honest \(feat\. Slayyyter\)](https://open.spotify.com/track/7p15pjKeiHuxFg7cu776sl) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Honest \(feat\. Slayyyter\)](https://open.spotify.com/album/46vmaiRCmEHYavivCY1r68) | 2:58 |
+| 2 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 |
+| 3 | [Melody](https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Melody](https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg) | 2:47 |
 | 4 | [How Will I Know](https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [How Will I Know](https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ) | 3:33 |
 | 5 | [Promises](https://open.spotify.com/track/50YQaQXog18lS11wGCl77u) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Promises](https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG) | 3:21 |
 | 6 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 | 59 | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK) | 2:54 |
 | 60 | [Freedom \(You Bring Me\)](https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Freedom \(You Bring Me\)](https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP) | 3:08 |
 
-Snapshot ID: `MjIxMCw1ZDgyNDY2MDZhYzJiNWViOWRjYWI4MjUyZDlmOGY4YWNhM2ZjZjE2`
+Snapshot ID: `MjIxMixlYzFlMjJlN2NlZmMwYmFlMjQ5NjdmMDY4MWVmZTAzZWNhZTYwY2Y1`

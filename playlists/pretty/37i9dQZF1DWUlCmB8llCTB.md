@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 
 > Esto es un perreo a lo..\. Gigolo y la Exce Jay Wheeler
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,086 likes - 101 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,176 likes - 101 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

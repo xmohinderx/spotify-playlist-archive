@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX3wsvr7czQx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX3wsvr7czQx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX3wsvr7czQx)
 
-### Classic Artists New Music
+### [Classic Artists New Music](https://open.spotify.com/playlist/4JWFbt8Q2IBwZxJYygUGYN)
 
 > Icons only\. Cover: Bryan Adams
 

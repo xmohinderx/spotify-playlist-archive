@@ -721,7 +721,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 170750,
       "name": "Cumbia Pa Olvidarte",
       "url": "https://open.spotify.com/track/2cRPXNRi3zpY9ILOBHyVJ6"
@@ -947,7 +947,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 133458,
       "name": "El Clavo",
       "url": "https://open.spotify.com/track/2GjM9m8RkyUhGc1scH1g3b"
@@ -2201,7 +2201,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 163266,
       "name": "Muchachita",
       "url": "https://open.spotify.com/track/7rmT7CeqEFft8Os5chlRFW"
@@ -2591,7 +2591,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 244036,
       "name": "Pareja del A\u00f1o /Makinon",
       "url": "https://open.spotify.com/track/7AQ0VSiZb5AlyVo3qsjiNB"
@@ -2885,7 +2885,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 169575,
       "name": "P\u00eddeme la Luna",
       "url": "https://open.spotify.com/track/0vsyr3APhEL7FBv0AWk5TI"
@@ -2911,7 +2911,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 174184,
       "name": "Que Calor - Remix",
       "url": "https://open.spotify.com/track/0aPYEakMxmZ3dpcdCYCbJN"
@@ -3061,7 +3061,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 171764,
       "name": "Quiero Verte Bailar - DJ Alex Remix",
       "url": "https://open.spotify.com/track/0li8QfMCtq5hg6qB67E4U1"
@@ -3171,7 +3171,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 361276,
       "name": "Si la Ves / Perdoname / Igual Que Ayer / Voy a Olvidarte",
       "url": "https://open.spotify.com/track/1TioNwNnJe7YnlUstCTS9S"
@@ -3387,7 +3387,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 186587,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/4FZJUfuJ2iWmYQGP049z34"
@@ -3431,6 +3431,28 @@
       "duration_ms": 155878,
       "name": "S\u00f3lo con un Beso",
       "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+    },
+    {
+      "album": {
+        "name": "Te Burlaste de Mi",
+        "url": "https://open.spotify.com/album/74lgU8LH2m43mBmX45Lzl8"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193320,
+      "name": "Te Burlaste de Mi",
+      "url": "https://open.spotify.com/track/2YCaTaj5GdDjb7iujE6Lfi"
     },
     {
       "album": {
@@ -3657,7 +3679,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 174679,
       "name": "Travesuras / Se Me Ha Perdido un Corazon",
       "url": "https://open.spotify.com/track/4rVhs9LlKB2ofHKnHR3FSw"
@@ -3755,7 +3777,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 157669,
       "name": "UH",
       "url": "https://open.spotify.com/track/6ExxGGEr58N4ZxtGmn9tCA"
@@ -3773,7 +3795,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 238173,
       "name": "Una Cerveza - Versi\u00f3n 2018",
       "url": "https://open.spotify.com/track/2uViGylyj39rq8G0pqyX9y"
@@ -3857,7 +3879,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 230388,
       "name": "Vuelvo Contigo (Alex Dover Remix)",
       "url": "https://open.spotify.com/track/13HpPm50x0EaZJSqFnHPkq"

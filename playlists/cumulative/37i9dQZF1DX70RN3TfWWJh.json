@@ -178,6 +178,24 @@
     },
     {
       "album": {
+        "name": "Boys Don't Cry",
+        "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135046,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI"
+    },
+    {
+      "album": {
         "name": "Better Mistakes",
         "url": "https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp"
       },
@@ -387,7 +405,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 138733,
       "name": "Don't You Wanna Play?",
       "url": "https://open.spotify.com/track/15hhlasuVIxEZ3O0PxlRkT"
@@ -1433,7 +1451,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 156116,
       "name": "Miss U More Than U Know (with R3HAB)",
       "url": "https://open.spotify.com/track/7s61Kg0qZhhFj5MQW7DDIB"
@@ -2415,7 +2433,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 205207,
       "name": "Together",
       "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"

@@ -403,7 +403,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 235767,
       "name": "Coraz\u00f3n, Corazoncito",
       "url": "https://open.spotify.com/track/4CpaWEOZCa4RA8ow8B75O2"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 196304,
       "name": "De los Besos Que Te Di",
       "url": "https://open.spotify.com/track/1mnwYmoL5vZeBqPyUwrVCs"
@@ -637,7 +637,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 200968,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/3j4K4BR0vC1nUq2WgukHJv"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 186874,
       "name": "El Polvito del Amor",
       "url": "https://open.spotify.com/track/5zRQDokwLLYAgNB0CCo2qb"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 192482,
       "name": "Hawai",
       "url": "https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71"
@@ -1273,7 +1273,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 129229,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
@@ -1959,7 +1959,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 245864,
       "name": "Se Enamor\u00f3 de Mi la Soledad",
       "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
@@ -2183,6 +2183,24 @@
       "duration_ms": 235933,
       "name": "Tan Solo Amantes",
       "url": "https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg"
+    },
+    {
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/7kqHhwpPrCobPk9nrQQgVX"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223232,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/71kqyXptHmPcqG4bnRZz9u"
     },
     {
       "album": {
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 188966,
       "name": "Vengo de la Casa de Ella",
       "url": "https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC"
@@ -2655,7 +2673,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 213600,
       "name": "Ya Me Entere",
       "url": "https://open.spotify.com/track/7IqU3VnEGCta6yVb7peofO"

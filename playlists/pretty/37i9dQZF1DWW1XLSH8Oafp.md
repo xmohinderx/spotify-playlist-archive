@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring piri & tommy villiers
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,065 likes - 106 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,237 likes - 106 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

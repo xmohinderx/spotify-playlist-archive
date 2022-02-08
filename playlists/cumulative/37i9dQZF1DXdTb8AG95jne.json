@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 178266,
       "name": "3108",
       "url": "https://open.spotify.com/track/1jJb6ZRhsPVYRKBj4wZ4xc"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 230531,
       "name": "8%",
       "url": "https://open.spotify.com/track/5b8kLu7ws92PZNztnAfhTr"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 205375,
       "name": "Blue bird",
       "url": "https://open.spotify.com/track/1WlNLsdkbPm2tjwIgvkneM"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 218040,
       "name": "Burning Sunset",
       "url": "https://open.spotify.com/track/7EH1Z1xI4lUG1G0STPGsHj"
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 187693,
       "name": "Don't be Disappointed",
       "url": "https://open.spotify.com/track/5NFUz1lKuetUhaRBPYuC6b"
@@ -713,6 +713,24 @@
       "duration_ms": 236440,
       "name": "Eyes on you",
       "url": "https://open.spotify.com/track/1sdCoReUzXPLDIJ2i9ConA"
+    },
+    {
+      "album": {
+        "name": "Flex",
+        "url": "https://open.spotify.com/album/0xZT3BXMksrqFn0oKO33Qq"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HYUNG",
+          "url": "https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213232,
+      "name": "Failure story",
+      "url": "https://open.spotify.com/track/1uPOeYYJW6uI4BSCSPjsM1"
     },
     {
       "album": {
@@ -873,7 +891,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 167234,
       "name": "Fortune Teller (feat. Stella Jang)",
       "url": "https://open.spotify.com/track/66216rH0JIcTsLCEDq2yeD"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 248156,
       "name": "I don't know",
       "url": "https://open.spotify.com/track/2tjh87mXDZJJIKLOpqH97T"
@@ -1357,7 +1375,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 319344,
       "name": "It's Raining",
       "url": "https://open.spotify.com/track/33pFdhZM3hNMTq6QPJf1Mu"
@@ -1415,7 +1433,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 299428,
       "name": "Koh",
       "url": "https://open.spotify.com/track/11nTAYWC46C6LGdJH1JlGG"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 226559,
       "name": "Let's Meet In Spring",
       "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 207413,
       "name": "MIMI",
       "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
@@ -1657,7 +1675,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 175229,
       "name": "My Last Teen",
       "url": "https://open.spotify.com/track/13vw7pAaPFnJLsv66FeXnq"
@@ -1809,7 +1827,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 241451,
       "name": "Northern Light",
       "url": "https://open.spotify.com/track/1CRpDZ0XPU77yoJu2mJZir"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 254053,
       "name": "Photograph \uc0ac\uc9c4\ucca9",
       "url": "https://open.spotify.com/track/0NH2J0S8HK56jq5YUwVL22"
@@ -2011,7 +2029,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 189533,
       "name": "RAL 9002",
       "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 132437,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/6YBR8tsZZjbZRATuFPNPVu"
@@ -2257,7 +2275,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 216490,
       "name": "Story Line (Feat.Dawon) (Korean ver.)",
       "url": "https://open.spotify.com/track/51ZLM32YbcAQ1aSl292T5N"
@@ -2525,7 +2543,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 216510,
       "name": "Two Days",
       "url": "https://open.spotify.com/track/5cbSa8113mXCHqDkwfV6PQ"
@@ -2561,7 +2579,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 218544,
       "name": "Us",
       "url": "https://open.spotify.com/track/4xOxGzY6ctpO2prDbGJbIQ"
@@ -2583,7 +2601,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 210106,
       "name": "Waiting For Victor (Feat. Dawon)",
       "url": "https://open.spotify.com/track/2AHyUGlV6sCwBVUjr8rKXq"
@@ -2753,6 +2771,24 @@
       "duration_ms": 235746,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0v89jw9S9NPzOPCoZnLZxE"
+    },
+    {
+      "album": {
+        "name": "YA,YA \uc57c,\uc57c",
+        "url": "https://open.spotify.com/album/2XfaxkhGc0Bpn6TDUR7Vhu"
+      },
+      "artists": [
+        {
+          "name": "Dasutt",
+          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282186,
+      "name": "YA,YA \uc57c,\uc57c",
+      "url": "https://open.spotify.com/track/3BwKReqxpaS1CCsLkydw5a"
     },
     {
       "album": {

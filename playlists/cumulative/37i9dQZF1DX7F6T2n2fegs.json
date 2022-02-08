@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 212960,
       "name": "Blame (feat. John Newman)",
       "url": "https://open.spotify.com/track/07nH4ifBxUB4lZcsf44Brn"
@@ -1626,6 +1626,24 @@
     },
     {
       "album": {
+        "name": "Music For Seventies",
+        "url": "https://open.spotify.com/album/3L6yuuvIFVNQEOQ0F3rwn8"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "date_added": "2022-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195880,
+      "name": "I Will Survive - Single Version",
+      "url": "https://open.spotify.com/track/7wNYqliW0LVNT3B25gGXtw"
+    },
+    {
+      "album": {
         "name": "80s 100 Hits",
         "url": "https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF"
       },
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/3fsghmcEnT7K9f30ohHDRn"
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 207613,
       "name": "Love Generation - Radio Edit",
       "url": "https://open.spotify.com/track/3s3DWOPtKQSgJVDRKu85Tt"

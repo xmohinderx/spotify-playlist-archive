@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-06",
   "description": "iykyk",
   "name": "big on the internet",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4A3sS6FGGPjl0VEjsEjlzC"
+  ],
   "tracks": [
     {
       "album": {
@@ -958,6 +960,24 @@
     },
     {
       "album": {
+        "name": "The World of Studio Ghibli",
+        "url": "https://open.spotify.com/album/49lcv6t0GsJVxcoD8hjgPp"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185306,
+      "name": "Howl's Moving Castle - Merry Go Round of Life",
+      "url": "https://open.spotify.com/track/1SH0BnKkEtLh8IcZnci79y"
+    },
+    {
+      "album": {
         "name": "Public Displays Of Affection",
         "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
       },
@@ -1059,7 +1079,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 157802,
       "name": "I'm Tired - From \"Euphoria\" An Original HBO Series",
       "url": "https://open.spotify.com/track/2QH0jR41d11GTubjRSRdJo"
@@ -1948,6 +1968,24 @@
     },
     {
       "album": {
+        "name": "Surrender To Me",
+        "url": "https://open.spotify.com/album/1MHqH1tfMRvWJXmHzJlQNZ"
+      },
+      "artists": [
+        {
+          "name": "FireCityFunk",
+          "url": "https://open.spotify.com/artist/3fp7WTKKzrpXiS9kXzkhkF"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214727,
+      "name": "Surrender To Me",
+      "url": "https://open.spotify.com/track/34sIEdi9tN5Fi2rNaSHVTQ"
+    },
+    {
+      "album": {
         "name": "Chase Atlantic",
         "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
       },
@@ -2375,10 +2413,28 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 131720,
       "name": "Yeh I Fuckin' Did It - From \"Euphoria\" An Original HBO Series",
       "url": "https://open.spotify.com/track/0JlBceojDDiHGAKtMEhGm9"
+    },
+    {
+      "album": {
+        "name": "Yeh I Fuckin' Did It (From \"Euphoria\" An Original HBO Series)",
+        "url": "https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131720,
+      "name": "Yeh I Fuckin' Did It - From \"Euphoria\" An Original HBO Series",
+      "url": "https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck"
     },
     {
       "album": {

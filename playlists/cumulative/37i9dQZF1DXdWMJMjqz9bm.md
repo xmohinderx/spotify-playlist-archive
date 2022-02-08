@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdWMJMjqz9bm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdWMJMjqz9bm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdWMJMjqz9bm)
 
-### Varsity Bars
+### [Varsity Bars](https://open.spotify.com/playlist/2Nwo9aiDgjWV2FZ832hzzr)
 
 > A little bit of rap & a little bit of pop\. Featuring new music by Arizona Zervas.
 

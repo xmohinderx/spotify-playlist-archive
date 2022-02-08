@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWBZYt7rDYK4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWBZYt7rDYK4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWBZYt7rDYK4)
 
-### Raised on Pop
+### [Raised on Pop](https://open.spotify.com/playlist/4WGXzSJ3RMfwF6SJ6no75o)
 
 > A pop soundtrack that both you and your little one can enjoy.
 

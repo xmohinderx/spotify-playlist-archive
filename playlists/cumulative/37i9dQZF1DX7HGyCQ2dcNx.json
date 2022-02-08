@@ -298,6 +298,36 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4mxZdVQB1gMNYML5VTNJTo"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222089,
+      "name": "Better Days (NEIKED x Mae Muller x J Balvin x Polo G)",
+      "url": "https://open.spotify.com/track/2psUZ3pOZZ95FHLgPvWv05"
+    },
+    {
+      "album": {
         "name": "Blanco",
         "url": "https://open.spotify.com/album/5mcUbpuVL0i5q4cECQ6cV4"
       },
@@ -2183,6 +2213,28 @@
       "duration_ms": 230693,
       "name": "Una Locura",
       "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
+    },
+    {
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170760,
+      "name": "Una Nota",
+      "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
     },
     {
       "album": {

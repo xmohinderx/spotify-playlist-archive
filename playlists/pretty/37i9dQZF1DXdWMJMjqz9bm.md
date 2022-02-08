@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of rap & a little bit of pop\. Featuring new music by Arizona Zervas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,025 likes - 125 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,115 likes - 125 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,15 +17,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 7 | [Tom Holland](https://open.spotify.com/track/1Ovf6VdhqNnM9eOd1ZJQgd) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Tom Holland](https://open.spotify.com/album/7GgItGEIkjMOZ1fm8VKkxJ) | 3:15 |
 | 8 | [On My Own](https://open.spotify.com/track/1f32820VZo8vu4eTzdOWAo) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [On My Own](https://open.spotify.com/album/3Wx2WlJjuVfI5GfpJ2Gb9r) | 2:50 |
 | 9 | [horror story](https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 1](https://open.spotify.com/album/3o4JOV2P8fueS8vdkaivbO) | 2:03 |
-| 10 | [you](https://open.spotify.com/track/249pLzwkXDMii8wHyfZpZD) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [you](https://open.spotify.com/album/25zQdgsABXUprCCJp82mph) | 2:41 |
-| 11 | [way back 2 you](https://open.spotify.com/track/3ySkKnDdEkmW6zEzkQIsOv) | [danny orange](https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT) | [way back 2 you](https://open.spotify.com/album/0ZKlsBdvVS0vGbLZF8DBZ9) | 2:05 |
-| 12 | [Icee Pop](https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Icee Pop](https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7) | 2:27 |
-| 13 | [funny lil thing](https://open.spotify.com/track/5vcLMRWLRXZS7r5UNaNZ0r) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [funny lil thing](https://open.spotify.com/album/12JZ24MNf9lUCDgOBJze2D) | 2:17 |
-| 14 | [No Drama](https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [No Drama](https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z) | 3:16 |
-| 15 | [Mexico](https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w), [Yung Craka](https://open.spotify.com/artist/1V2sJvNlPQYSO4Kf6GC3if) | [Mexico](https://open.spotify.com/album/7jYsN8reapgn1y78L90qjx) | 3:24 |
-| 16 | [okay okay](https://open.spotify.com/track/5cUqAcXOXUBAIak03DlsTh) | [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [okay okay](https://open.spotify.com/album/7xTfWn46bSnJml91YeZU57) | 3:01 |
-| 17 | [Strawberry Skies](https://open.spotify.com/track/7xyPdtIfDcCGgB8tkVskLr) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Strawberry Skies \(Deluxe Edition\)](https://open.spotify.com/album/5UsLsvwDxpbBRMTf7cLJNy) | 2:45 |
-| 18 | [lead me on](https://open.spotify.com/track/45HHTHXv7gQ5q2r89ui2Fy) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [lead me on](https://open.spotify.com/album/3X368boMWsdwZGW8ByzNU9) | 2:07 |
+| 10 | [lead me on](https://open.spotify.com/track/45HHTHXv7gQ5q2r89ui2Fy) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [lead me on](https://open.spotify.com/album/3X368boMWsdwZGW8ByzNU9) | 2:07 |
+| 11 | [you](https://open.spotify.com/track/249pLzwkXDMii8wHyfZpZD) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [you](https://open.spotify.com/album/25zQdgsABXUprCCJp82mph) | 2:41 |
+| 12 | [way back 2 you](https://open.spotify.com/track/3ySkKnDdEkmW6zEzkQIsOv) | [danny orange](https://open.spotify.com/artist/0uEtD5ztXw2PYCyLwOK3QT) | [way back 2 you](https://open.spotify.com/album/0ZKlsBdvVS0vGbLZF8DBZ9) | 2:05 |
+| 13 | [Icee Pop](https://open.spotify.com/track/1zKOagmkCtXuGmCivG8HZE) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Icee Pop](https://open.spotify.com/album/0N75npNB8Wo93bY41XjHr7) | 2:27 |
+| 14 | [funny lil thing](https://open.spotify.com/track/5vcLMRWLRXZS7r5UNaNZ0r) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [funny lil thing](https://open.spotify.com/album/12JZ24MNf9lUCDgOBJze2D) | 2:17 |
+| 15 | [No Drama](https://open.spotify.com/track/1YmyHCxLKjLBBNQU51yQOh) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [No Drama](https://open.spotify.com/album/6ViANKeydeABO0cqB0SB3Z) | 3:16 |
+| 16 | [Mexico](https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w), [Yung Craka](https://open.spotify.com/artist/1V2sJvNlPQYSO4Kf6GC3if) | [Mexico](https://open.spotify.com/album/7jYsN8reapgn1y78L90qjx) | 3:24 |
+| 17 | [okay okay](https://open.spotify.com/track/5cUqAcXOXUBAIak03DlsTh) | [Pertinence](https://open.spotify.com/artist/1uCXC0T5m3qkDOfpdtar9N) | [okay okay](https://open.spotify.com/album/7xTfWn46bSnJml91YeZU57) | 3:01 |
+| 18 | [Strawberry Skies](https://open.spotify.com/track/7xyPdtIfDcCGgB8tkVskLr) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Strawberry Skies \(Deluxe Edition\)](https://open.spotify.com/album/5UsLsvwDxpbBRMTf7cLJNy) | 2:45 |
 | 19 | [winter](https://open.spotify.com/track/6aMS0HK7fnPpT21KhV7MC7) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [winter](https://open.spotify.com/album/2RWtkN2zZCPl9VuMVBye6x) | 2:06 |
 | 20 | [Getcho Mans](https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Brightside](https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ) | 3:31 |
 | 21 | [All Night \(feat\. Trippie Redd\)](https://open.spotify.com/track/0RW7ykDvCSTMF5FT4lIFfL) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [All Night \(feat\. Trippie Redd\)](https://open.spotify.com/album/5GUgoPG9hrtOyix0u2tG37) | 3:07 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 124 | [DIVA](https://open.spotify.com/track/3xf30JR3dwUTCneru7jSOT) | [MILES](https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH) | [DIVA](https://open.spotify.com/album/6WIFd9kAF8y7dnVW6s8ZIs) | 2:12 |
 | 125 | [Fall Apart](https://open.spotify.com/track/24OmaiYqI3gfwfuf41vRFj) | [Nicholas Mick](https://open.spotify.com/artist/0HmWuWhwxKEIuwTVtFyI8s), [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [Fall Apart](https://open.spotify.com/album/6ew7i5O38lehQheHDx4h9h) | 2:34 |
 
-Snapshot ID: `MTY0Mzk1MDk4MCwwMDAwMDBmNTAwMDAwMTdlYzMxZDNjMDcwMDAwMDE3ZWMxNWI5ZWJh`
+Snapshot ID: `MTY0NDI2OTk1MywwMDAwMDBmNjAwMDAwMTdlZDYyMDYyZDcwMDAwMDE3ZWMxNWI5ZWJh`

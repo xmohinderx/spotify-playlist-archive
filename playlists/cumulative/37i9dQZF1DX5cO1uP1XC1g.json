@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 212571,
       "name": "Adda El Kalam",
       "url": "https://open.spotify.com/track/4IMYgmXkjzzOmbDNbQZnVe"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 177541,
       "name": "Aladdin Lamp",
       "url": "https://open.spotify.com/track/3HKwxtEpjx7dEtQgkt588J"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 192258,
       "name": "Ana Nejri W Zman Yejri",
       "url": "https://open.spotify.com/track/4jjQIXVANytMf4SSaZmv2r"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 153906,
       "name": "Baree",
       "url": "https://open.spotify.com/track/54nQpzXkuEqeYcw5CrkIBI"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 201308,
       "name": "Btaaref Shuur",
       "url": "https://open.spotify.com/track/48wOhHtZNVEDL05Vxrp7eZ"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Courage",
       "url": "https://open.spotify.com/track/2A17I9810aeJa9BHIvHYxp"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 206285,
       "name": "Darhali Galbi",
       "url": "https://open.spotify.com/track/5rX5sT9yC44Rq61EmtGrk5"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 252000,
       "name": "El Walida",
       "url": "https://open.spotify.com/track/1Ld7ou1JXz77rg70AG7usC"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 280247,
       "name": "Elly Yemshy 3ady",
       "url": "https://open.spotify.com/track/1Qh8KVerk8wYXVmRWw51Xe"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 228510,
       "name": "Enta Al Saadah",
       "url": "https://open.spotify.com/track/2dN3NBI4cvTmexGsgDfbf7"
@@ -861,7 +861,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 218783,
       "name": "Enta Zaalan Meni",
       "url": "https://open.spotify.com/track/2AGHWbmR6YAgJJ8fXy4o3G"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 225600,
       "name": "Hathi Ente W Hatha Ana",
       "url": "https://open.spotify.com/track/2Ee2FsZHiLfYQIb6mBZx9z"
@@ -1324,6 +1324,28 @@
     },
     {
       "album": {
+        "name": "J'en ai marre !",
+        "url": "https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        },
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211623,
+      "name": "J'en ai marre !",
+      "url": "https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj"
+    },
+    {
+      "album": {
         "name": "Jabbar",
         "url": "https://open.spotify.com/album/5FJlW8zUj3PnXSa8Ih5rWd"
       },
@@ -1335,7 +1357,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 222059,
       "name": "Jabbar",
       "url": "https://open.spotify.com/track/6np5g8KulUOqN7wCDrMuRt"
@@ -1444,6 +1466,24 @@
     },
     {
       "album": {
+        "name": "Khalass",
+        "url": "https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7"
+      },
+      "artists": [
+        {
+          "name": "Mocci",
+          "url": "https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200216,
+      "name": "Khalass",
+      "url": "https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun"
+    },
+    {
+      "album": {
         "name": "Khaleny Ashofak Tany",
         "url": "https://open.spotify.com/album/4GFJsoUYI8WnwGsW2fAsEZ"
       },
@@ -1491,7 +1531,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 394968,
       "name": "Khalsana M3ako B Sheyaka",
       "url": "https://open.spotify.com/track/1IxQNacPrIEyWapyS7DYKB"
@@ -1509,7 +1549,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 204269,
       "name": "Khat Ahmar",
       "url": "https://open.spotify.com/track/6NPCmRmpXbercMsJgoEo6L"
@@ -1549,7 +1589,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 175311,
       "name": "Kol El Nas",
       "url": "https://open.spotify.com/track/6GjW5aqVmn2mIHdMiWn8sR"
@@ -1567,7 +1607,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 205635,
       "name": "Kol Youm",
       "url": "https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz"
@@ -1701,7 +1741,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 294523,
       "name": "Machafouhach",
       "url": "https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0"
@@ -1723,7 +1763,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 183027,
       "name": "Mahragan Bent El Geran",
       "url": "https://open.spotify.com/track/2vSLxBSZoK0eha4AuhZlXV"
@@ -1820,6 +1860,24 @@
     },
     {
       "album": {
+        "name": "MILANO",
+        "url": "https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ"
+      },
+      "artists": [
+        {
+          "name": "7-Toun",
+          "url": "https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249707,
+      "name": "MILANO",
+      "url": "https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM"
+    },
+    {
+      "album": {
         "name": "Millionaire (Music from 100 Wesh TV Series)",
         "url": "https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L"
       },
@@ -1889,7 +1947,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 221379,
       "name": "Nadi Canadi",
       "url": "https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q"
@@ -1915,7 +1973,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 280968,
       "name": "Nebghik Ou Manbaynhach",
       "url": "https://open.spotify.com/track/7F96fzZwkdJTN9JlFa0895"
@@ -1969,7 +2027,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 157959,
       "name": "No Me Interesa",
       "url": "https://open.spotify.com/track/3bZUHmDm7QCshN8gaMNoTW"
@@ -2009,7 +2067,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 192122,
       "name": "Oud Al batal",
       "url": "https://open.spotify.com/track/5ty3c5ZNvTN61ZrfM2E0cS"
@@ -2049,6 +2107,42 @@
       "duration_ms": 189176,
       "name": "Piece Of My Heart",
       "url": "https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM"
+    },
+    {
+      "album": {
+        "name": "Sabra",
+        "url": "https://open.spotify.com/album/7DTt8yVftsh8Gi0opaE74z"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223448,
+      "name": "Sabra",
+      "url": "https://open.spotify.com/track/0iqRTNFvfLZUjdkIBaJkVS"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0laELllYHrj2Zbw4It01B9"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Sac",
+      "url": "https://open.spotify.com/track/63DDC3J4z88hNMvcDFzQnH"
     },
     {
       "album": {
@@ -2107,7 +2201,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 210119,
       "name": "Sans Toi",
       "url": "https://open.spotify.com/track/5XCmPcevC1eHbM8zfBYKRq"
@@ -2161,10 +2255,28 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 237775,
       "name": "Single",
       "url": "https://open.spotify.com/track/29MbJ4ReqIZ2lduxiwp8Cd"
+    },
+    {
+      "album": {
+        "name": "Stylo warqa",
+        "url": "https://open.spotify.com/album/1pHIJnUoWiYGVwV2PAn8Oc"
+      },
+      "artists": [
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "Stylo warqa",
+      "url": "https://open.spotify.com/track/4H0oUwMaA4iFVZtl4YR4Jj"
     },
     {
       "album": {
@@ -2423,6 +2535,28 @@
       "duration_ms": 340927,
       "name": "Ya Hasra",
       "url": "https://open.spotify.com/track/46w0RuHSg4LYbMh1JjJU8j"
+    },
+    {
+      "album": {
+        "name": "Ya Hmed",
+        "url": "https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Mozayine",
+          "url": "https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk"
+        },
+        {
+          "name": "Madara",
+          "url": "https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209309,
+      "name": "Ya Hmed",
+      "url": "https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf"
     },
     {
       "album": {

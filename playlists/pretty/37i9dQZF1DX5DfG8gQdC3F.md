@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Koffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,719 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,731 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 |
 | 2 | [Do We Have A Problem?](https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Do We Have A Problem?](https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct) | 3:27 |
 | 3 | [Black Summer](https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Black Summer](https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH) | 3:52 |
-| 4 | [I'm Tired \- From "Euphoria" An Original HBO Series](https://open.spotify.com/track/2QH0jR41d11GTubjRSRdJo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Yeh I Fuckin' Did It / I'm Tired \(From "Euphoria" An Original HBO Series\)](https://open.spotify.com/album/48kRTccY4Ii9qyoT6fxRVh) | 2:37 |
+| 4 | [Yeh I Fuckin' Did It \- From "Euphoria" An Original HBO Series](https://open.spotify.com/track/3UCYp1hyLw59Gw9dnyg7ck) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Yeh I Fuckin' Did It \(From "Euphoria" An Original HBO Series\)](https://open.spotify.com/album/16IQ46wzzPmSNvxjO7ndvO) | 2:11 |
 | 5 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
 | 6 | [Cigarettes](https://open.spotify.com/track/42Xba467wgGvYrR2EE6s0i) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Cigarettes](https://open.spotify.com/album/5OI7dLXwSZFtOnB3aQtCGi) | 3:47 |
 | 7 | [Don't Play That](https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Don't Play That](https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [what u need](https://open.spotify.com/track/7mXNYo4eXnKNBx2yicz5MD) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [what u need](https://open.spotify.com/album/1u5HgNFQPwFaniRb3jx69G) | 3:14 |
 | 100 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 |
 
-Snapshot ID: `MTY0Mzk4NjgwNCwwMDAwMDJhMjAwMDAwMTdlYzUzZmUwOTAwMDAwMDE3ZWMxMTcxMjRm`
+Snapshot ID: `MTY0NDI0NzE1NCwwMDAwMDJhMzAwMDAwMTdlZDRjNDdlZDcwMDAwMDE3ZWMxMTcxMjRm`

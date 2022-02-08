@@ -1402,6 +1402,24 @@
     },
     {
       "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Sweetpie",
+      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
+    },
+    {
+      "album": {
         "name": "Songs for the Drunk and Broken Hearted",
         "url": "https://open.spotify.com/album/0LjVT3fUFE8bBh3gjQdzOo"
       },

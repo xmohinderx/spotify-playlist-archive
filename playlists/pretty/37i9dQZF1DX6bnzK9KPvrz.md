@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bnzK9KPvrz.md) - [plain]
 
 > The essential tracks from The Weeknd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,701,927 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,703,093 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

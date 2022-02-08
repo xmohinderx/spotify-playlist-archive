@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYs2pvwxWA7l.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYs2pvwxWA7l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYs2pvwxWA7l)
 
-### Afropop
+### [Afropop](https://open.spotify.com/playlist/4ro2D5NHaC1uSUC6UDaKRz)
 
 > The hottest Afropop records on the planet\.  Cover: <a href="https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s?si=oyl\_2bWbSGeefiJWJl57HA"> Adekunle Gold </a>
 
@@ -38,6 +38,7 @@
 | [Kwenzekile](https://open.spotify.com/track/64xZ9gPptI3rrZjkNdIq3J) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Chang Cello](https://open.spotify.com/artist/0Fy0LMkScL5OMShfg3UM1i) | [Kwenzekile](https://open.spotify.com/album/5c7Pf0109qPClzjeVClEqE) | 3:57 | 2021-10-08 | 2022-02-07 |
 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 | 2021-09-27 |  |
 | [Lonely](https://open.spotify.com/track/14iiJ4gyBO09irFz6SqAes) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Somewhere Between Beauty & Magic](https://open.spotify.com/album/5wMGH7IDoHYCZHgSivY3ko) | 2:56 | 2021-09-27 |  |
+| [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 | 2021-12-16 |  |
 | [Mercy](https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Mercy](https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR) | 2:47 | 2022-01-20 |  |
 | [Mood \(feat\. Buju\)](https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:29 | 2021-09-27 |  |
 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 | 2021-09-27 |  |
@@ -53,7 +54,7 @@
 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/7fuYevQzzFDUvK9s8QrPYT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 | 2021-12-09 |  |
 | [Proud](https://open.spotify.com/track/5nFI3AUINDSps2nrVk0JCs) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Proud](https://open.spotify.com/album/6Xubmr8h1cTUObgNzfngfa) | 3:18 | 2021-09-27 |  |
 | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/track/6OOKa5alX6PoKUhSqg0ph7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/album/3ADsIZtmI8SfypS0cvLyfx) | 2:48 | 2021-09-27 |  |
-| [Rock](https://open.spotify.com/track/5mcD4M6ERcFxeB2T6oe4dZ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Rock](https://open.spotify.com/album/6Wi0eIgEMemIdqHhBfe1ti) | 3:05 | 2021-09-27 |  |
+| [Rock](https://open.spotify.com/track/5mcD4M6ERcFxeB2T6oe4dZ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Rock](https://open.spotify.com/album/6Wi0eIgEMemIdqHhBfe1ti) | 3:05 | 2021-09-27 | 2022-02-08 |
 | [Running](https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Running](https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP) | 3:34 | 2021-10-22 |  |
 | [Running \(To You\)](https://open.spotify.com/track/2KfKuJ3iWLYu8M1srzG2h0) | [chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Running \(To You\)](https://open.spotify.com/album/2VDPWlaYFP1F1BKC9ZVR9D) | 3:11 | 2021-09-27 |  |
 | [Sempe](https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [ZaZa Vibes](https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD) | 2:51 | 2021-09-27 |  |

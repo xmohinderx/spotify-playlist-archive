@@ -1,12 +1,12 @@
 {
   "description": "if bunny is on, you know it's a good perreo.",
-  "num_followers": 1939,
+  "num_followers": 2535,
   "original_name": "bad bunny perreo mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDE5NDM0OCwwMDAwMDAwMDNjN2MyNmE2OWI5NmIyZGQ0YzQ3ZmFiZDBlYzUxZjJh",
+  "snapshot_id": "MTY0NDI4MDc4NiwwMDAwMDAwMGZiMWU2ZjE2YjdiODRmYjE5ZTFhZDY0N2U3MWEyMDg4",
   "tracks": [
     {
       "added_at": "2022-02-01 19:04:43",
@@ -71,30 +71,6 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
-        "name": "Volando (Remix)",
-        "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 273474,
-      "name": "Volando - Remix",
-      "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -115,6 +91,30 @@
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
+        "name": "Volando (Remix)",
+        "url": "https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 273474,
+      "name": "Volando - Remix",
+      "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -279,26 +279,6 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 206420,
-      "name": "La Santa",
-      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -324,6 +304,26 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 206420,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/69vlMrzHwATKzupwNcUPyK"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
           "name": "Mora",
           "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
@@ -331,6 +331,26 @@
       "duration_ms": 232496,
       "name": "Una Vez",
       "url": "https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "LA NOCHE DE ANOCHE",
+      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -367,26 +387,6 @@
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "LA NOCHE DE ANOCHE",
-      "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -447,18 +447,22 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
-        "name": "LAS QUE NO IBAN A SALIR",
-        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 178000,
-      "name": "BYE ME FUI",
-      "url": "https://open.spotify.com/track/0FktnzDqjClqU6iqOZVEs2"
+      "duration_ms": 210606,
+      "name": "Ignorantes",
+      "url": "https://open.spotify.com/track/38RIEav39FGi86jppxO0du"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -494,15 +498,11 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 210606,
-      "name": "Ignorantes",
-      "url": "https://open.spotify.com/track/38RIEav39FGi86jppxO0du"
+      "duration_ms": 159282,
+      "name": "Soli\u00e1",
+      "url": "https://open.spotify.com/track/7sOfmPd18RWp3FoCzpa7Kw"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -527,8 +527,8 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
       },
       "artists": [
         {
@@ -536,29 +536,9 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 159282,
-      "name": "Soli\u00e1",
-      "url": "https://open.spotify.com/track/7sOfmPd18RWp3FoCzpa7Kw"
-    },
-    {
-      "added_at": "2022-02-01 19:04:43",
-      "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 167975,
-      "name": "Que Malo",
-      "url": "https://open.spotify.com/track/53v2u51nq3CxiKUNphRzP1"
+      "duration_ms": 178000,
+      "name": "BYE ME FUI",
+      "url": "https://open.spotify.com/track/0FktnzDqjClqU6iqOZVEs2"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -599,6 +579,26 @@
     {
       "added_at": "2022-02-01 19:04:43",
       "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 167975,
+      "name": "Que Malo",
+      "url": "https://open.spotify.com/track/53v2u51nq3CxiKUNphRzP1"
+    },
+    {
+      "added_at": "2022-02-01 19:04:43",
+      "album": {
         "name": "X 100PRE",
         "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
       },
@@ -624,13 +624,13 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         }
       ],
-      "duration_ms": 183520,
-      "name": "M\u00c1S DE UNA CITA",
-      "url": "https://open.spotify.com/track/4EJHKSnHENfjOxXWryyNtL"
+      "duration_ms": 194200,
+      "name": "PA' ROMPERLA",
+      "url": "https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -644,13 +644,13 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         },
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         }
       ],
-      "duration_ms": 194200,
-      "name": "PA' ROMPERLA",
-      "url": "https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i"
+      "duration_ms": 183520,
+      "name": "M\u00c1S DE UNA CITA",
+      "url": "https://open.spotify.com/track/4EJHKSnHENfjOxXWryyNtL"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -678,15 +678,11 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 210367,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
+      "duration_ms": 188654,
+      "name": "Cuando Perriabas",
+      "url": "https://open.spotify.com/track/5mj8WVFcKdGA8p9HWGTSLc"
     },
     {
       "added_at": "2022-02-01 19:04:43",
@@ -698,11 +694,15 @@
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 188654,
-      "name": "Cuando Perriabas",
-      "url": "https://open.spotify.com/track/5mj8WVFcKdGA8p9HWGTSLc"
+      "duration_ms": 210367,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
     }
   ],
   "unique_name": "bad bunny perreo mix",

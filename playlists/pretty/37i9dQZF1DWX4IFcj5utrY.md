@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC?si=DOZkChnsSZecVGYMsr4Tqg">THEMBA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,093 likes - 70 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,101 likes - 70 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSpF87bP6JSF.md) - [plain]
 
 > Los éxitos del pop latino featuring Sebastian Yatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,980,476 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,981,404 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

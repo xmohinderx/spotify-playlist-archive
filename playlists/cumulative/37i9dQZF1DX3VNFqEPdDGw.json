@@ -238,6 +238,28 @@
     },
     {
       "album": {
+        "name": "Chandigarh",
+        "url": "https://open.spotify.com/album/6b3e1cebG8me8nmeBVpJto"
+      },
+      "artists": [
+        {
+          "name": "Jass Manak",
+          "url": "https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8"
+        },
+        {
+          "name": "Guri",
+          "url": "https://open.spotify.com/artist/6wmETiZFS8CviwUTaeoVgf"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137872,
+      "name": "Chandigarh",
+      "url": "https://open.spotify.com/track/0C3E2mfHDxqrSQjQ5702g4"
+    },
+    {
+      "album": {
         "name": "Chandigarh Kare Aashiqui Title Track (From \"Chandigarh Kare Aashiqui\")",
         "url": "https://open.spotify.com/album/3J0XOvaaEByP4xeGTtYa9Y"
       },

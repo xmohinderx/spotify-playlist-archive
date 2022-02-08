@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Black Country, New Road
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,157 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,240 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

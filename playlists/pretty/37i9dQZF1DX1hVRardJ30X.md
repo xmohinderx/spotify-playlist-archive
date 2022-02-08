@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Maluma, Jennifer Lopez
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,372 likes - 53 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,462 likes - 53 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

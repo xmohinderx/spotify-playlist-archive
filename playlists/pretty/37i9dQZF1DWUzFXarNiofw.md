@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Muni Long
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,436 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,650 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 7 | [Ridin' Shotgun](https://open.spotify.com/track/6akhN7c2f1pDq1cSv5MEym) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [Ridin' Shotgun](https://open.spotify.com/album/4ZSgLjI6LADrkJrCKbmR5K) | 1:53 |
 | 8 | [Brag \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6FsVDZWQk6QBBrmZKvFxvW) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Brag \(feat\. Fivio Foreign\)](https://open.spotify.com/album/2SxvstE24VIYBAy8jQRswO) | 3:15 |
 | 9 | [Don't Care](https://open.spotify.com/track/3Bw5aVedzczifLB0KltMU1) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Don't Care](https://open.spotify.com/album/357Hn4FjCTrrhwY0rohrol) | 3:06 |
-| 10 | [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 |
+| 10 | [Time Machine](https://open.spotify.com/track/1caYuDcVSxd8qZBEqzrXQk) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:42 |
 | 11 | [DFMU](https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [DFMU](https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k) | 3:17 |
 | 12 | [Sunday](https://open.spotify.com/track/5lI6k5j7a25q3IrtAEe0JF) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [It's Not So Bad](https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9) | 3:32 |
 | 13 | [Real Thing \(feat\. Tori Kelly\)](https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Pink Moon](https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 49 | [Rich Kids](https://open.spotify.com/track/7n7ZuzfTUJEvo7cZJVvCwd) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Rich Kids](https://open.spotify.com/album/7xKUg94LStzFMZzbVBlWkK) | 3:18 |
 | 50 | [I Just Wanna Know](https://open.spotify.com/track/0EnSlazIrg3sp5T6RXw4iM) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [I Just Wanna Know](https://open.spotify.com/album/1KI9hd3ztHycQ0EvyjEgXg) | 3:10 |
 
-Snapshot ID: `MTY0Mzk1MDg2MCwwMDAwMDU0YTAwMDAwMTdlYzMxYjY3NzIwMDAwMDE3ZTU2MzhkYmFl`
+Snapshot ID: `MTY0NDI2MzY1OSwwMDAwMDU0YjAwMDAwMTdlZDVjMDU4MjUwMDAwMDE3ZTU2MzhkYmFl`

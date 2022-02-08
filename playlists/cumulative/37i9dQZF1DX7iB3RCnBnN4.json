@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Every song with over 1 billion streams on Spotify. Cover: Lil Nas X & Jack Harlow",
+  "description": "Every song with over 1 billion streams on Spotify. Cover: Alessia Cara",
   "name": "BILLIONS CLUB",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0C0sQRzxdwWHDf74RbiLwr"
+  ],
   "tracks": [
     {
       "album": {
@@ -159,6 +161,24 @@
       "duration_ms": 207133,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
+    },
+    {
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "date_added": "2021-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295893,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
       "album": {
@@ -1037,7 +1057,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 253920,
       "name": "Every Breath You Take",
       "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
@@ -1735,6 +1755,28 @@
       "duration_ms": 217925,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/0h1W19pS59KtEd7aDzF58i"
+    },
+    {
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "date_added": "2021-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0E9ZjEAyAwOXZ7wJC0PD33"
     },
     {
       "album": {
@@ -3793,6 +3835,28 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "album": {
+        "name": "Hot Space",
+        "url": "https://open.spotify.com/album/0fZCqpTHYq2k89uG6pPTYE"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2021-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245506,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/1mSClObliRtgPVT399COQH"
     },
     {
       "album": {

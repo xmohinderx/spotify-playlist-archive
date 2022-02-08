@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 
 > The latest in gaming music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,569 likes - 108 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,751 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,13 +108,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8GjsySWIS1x.md) - [plain]
 | 98 | [Control](https://open.spotify.com/track/6jKOxnQ1Pdsr4KblSSeA0j) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Birthday Boy](https://open.spotify.com/album/0cyNgrx98dRKCnNLKTl9u1) | 3:04 |
 | 99 | [Waterfalls](https://open.spotify.com/track/7lliY6GonfFNnGuJqaKAPU) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE), [Less Gravity](https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe) | [Waterfalls](https://open.spotify.com/album/05e4qbxuuyM9Jbqb2YuP5y) | 1:55 |
 | 100 | [Awa Ni](https://open.spotify.com/track/4ob71GMH7PAokRzPhejagR) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Awa Ni](https://open.spotify.com/album/0JcasIRv6rbQG0Bb98o7In) | 3:39 |
-| 101 | [Swing](https://open.spotify.com/track/6T0PSfzdg8PE44T8PbbEmM) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Swing](https://open.spotify.com/album/23BlliKjsR6eGFuBit4R7K) | 2:59 |
-| 102 | [Underwater](https://open.spotify.com/track/0t6PFnmkwRdmcLDArYTLdk) | [Board\-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [Underwater](https://open.spotify.com/album/26OiVkEQbzUucsS0WRM616) | 1:50 |
-| 103 | [Why Did You Run?](https://open.spotify.com/track/3IMh0b6bFDuFNB7F0E0A9h) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Why Did You Run?](https://open.spotify.com/album/4sQoMHf0N0lmmpKwHFUrmj) | 3:53 |
-| 104 | [Ripple](https://open.spotify.com/track/1ugPKPinO8iKLt3j2Rvbf1) | [Kooma](https://open.spotify.com/artist/2OQpMQGdpN1kb9vf7Sn9Em) | [Ripple](https://open.spotify.com/album/0q6qlJYxfkmXLZczmKkJrD) | 4:23 |
-| 105 | [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 |
-| 106 | [The Runner](https://open.spotify.com/track/0AWYvdcS6N463VlsbrzijH) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [The Runner](https://open.spotify.com/album/7CwnnH6mZCAKwKLgwrLWRU) | 4:21 |
-| 107 | [She Don't Dance](https://open.spotify.com/track/4XOc8gjhKl7FvdD4CHBYIy) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [She Don't Dance](https://open.spotify.com/album/7JuHmjs1ho2kL6DvGWvnmH) | 3:46 |
-| 108 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
 
-Snapshot ID: `MTY0Mzk4NzAwNywwMDAwMDA1MzAwMDAwMTdlYzU0MmY4MjcwMDAwMDE3Yjg4MGY3MmI3`
+Snapshot ID: `MTY0NDI0ODAxOCwwMDAwMDA1NDAwMDAwMTdlZDRkMWFlNWUwMDAwMDE3Yjg4MGY3MmI3`

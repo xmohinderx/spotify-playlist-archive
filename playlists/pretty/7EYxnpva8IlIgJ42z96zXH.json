@@ -1,13 +1,33 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly!",
-  "num_followers": 30077,
+  "num_followers": 30082,
   "original_name": "Morning Workout",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "MjIxMCw1ZDgyNDY2MDZhYzJiNWViOWRjYWI4MjUyZDlmOGY4YWNhM2ZjZjE2",
+  "snapshot_id": "MjIxMixlYzFlMjJlN2NlZmMwYmFlMjQ5NjdmMDY4MWVmZTAzZWNhZTYwY2Y1",
   "tracks": [
+    {
+      "added_at": "2022-02-03 22:24:17",
+      "album": {
+        "name": "Honest (feat. Slayyyter)",
+        "url": "https://open.spotify.com/album/46vmaiRCmEHYavivCY1r68"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 178689,
+      "name": "Honest (feat. Slayyyter)",
+      "url": "https://open.spotify.com/track/7p15pjKeiHuxFg7cu776sl"
+    },
     {
       "added_at": "2022-02-03 22:24:17",
       "album": {
@@ -39,26 +59,6 @@
       "duration_ms": 167142,
       "name": "Melody",
       "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
-    },
-    {
-      "added_at": "2022-02-03 22:24:17",
-      "album": {
-        "name": "Honest (feat. Slayyyter)",
-        "url": "https://open.spotify.com/album/46vmaiRCmEHYavivCY1r68"
-      },
-      "artists": [
-        {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
-        },
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 178689,
-      "name": "Honest (feat. Slayyyter)",
-      "url": "https://open.spotify.com/track/7p15pjKeiHuxFg7cu776sl"
     },
     {
       "added_at": "2022-02-03 22:24:17",

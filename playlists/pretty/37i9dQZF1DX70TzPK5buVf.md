@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 
 > Funk to these good ol' funky soul classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,239 likes - 80 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,407 likes - 80 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 3 | [Get Up Offa That Thing](https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Cold Sweat & Other Soul Classics: James Brown](https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R) | 4:10 |
 | 4 | [Controversy](https://open.spotify.com/track/5shPZ6RnC6sCm0iSZiv7wU) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Controversy](https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA) | 7:15 |
 | 5 | [Pick Up The Pieces](https://open.spotify.com/track/5FJlZUlKxvqkrPMSOh8jFK) | [Average White Band](https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb) | [Let's Go Round Again: The Best Of AWB](https://open.spotify.com/album/6BRKdiPDkmi4UP31LetL6C) | 3:54 |
-| 6 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
-| 7 | [Fantastic Voyage \- Extended](https://open.spotify.com/track/64JkfFIUe4gQTCXCQESF2X) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [The Best of Lakeside](https://open.spotify.com/album/6qEgsBxOzMnrWyc4iOhGQp) | 6:09 |
+| 6 | [Fantastic Voyage \- Extended](https://open.spotify.com/track/64JkfFIUe4gQTCXCQESF2X) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [The Best of Lakeside](https://open.spotify.com/album/6qEgsBxOzMnrWyc4iOhGQp) | 6:09 |
+| 7 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
 | 8 | [Funkin' for Jamaica](https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Love Approach \(Bonus Track\)](https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP) | 4:42 |
 | 9 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 10 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70TzPK5buVf.md) - [plain]
 | 79 | [It's Serious](https://open.spotify.com/track/7xxPEWraePLXgLsibZjUjb) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Gold](https://open.spotify.com/album/7xU5YV1lr7X2q2pOr757SB) | 8:06 |
 | 80 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(O.S.T.\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
 
-Snapshot ID: `MTY0MzE4NTEwNSwwMDAwMDAzZTAwMDAwMTdlOTU3NmViOGEwMDAwMDE2ZDAwYmY5ZTll`
+Snapshot ID: `MTY0NDIzMTA1MiwwMDAwMDAzZjAwMDAwMTdlZDNjZWNlYWQwMDAwMDE2ZDAwYmY5ZTll`

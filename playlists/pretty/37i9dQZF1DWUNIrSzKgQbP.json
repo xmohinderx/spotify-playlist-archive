@@ -1,12 +1,12 @@
 {
   "description": "acoustic songs for the season.",
-  "num_followers": 1657900,
+  "num_followers": 1657819,
   "original_name": "Winter Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDAyMzgyNiwwMDAwMDA3YTAwMDAwMTdkZDkwOTllOTkwMDAwMDE3ZGQ5MDdhMDFm",
+  "snapshot_id": "MTY0NDI2ODE3NSwwMDAwMDA3YjAwMDAwMTdlZDYwNTQyNTkwMDAwMDE3ZGQ5MDdhMDFm",
   "tracks": [
     {
       "added_at": "2021-12-20 18:10:26",
@@ -387,6 +387,22 @@
       "duration_ms": 237288,
       "name": "Coast",
       "url": "https://open.spotify.com/track/4ih6tIjbm3jJMjHYwYe7x9"
+    },
+    {
+      "added_at": "2022-02-07 21:09:35",
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Sweetpie",
+      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
     },
     {
       "added_at": "2021-12-20 18:10:26",

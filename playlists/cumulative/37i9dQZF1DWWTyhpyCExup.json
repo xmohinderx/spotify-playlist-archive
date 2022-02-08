@@ -120,6 +120,24 @@
     },
     {
       "album": {
+        "name": "Black Irish Indian",
+        "url": "https://open.spotify.com/album/3HO00ATLZnsQW5iiUA13Me"
+      },
+      "artists": [
+        {
+          "name": "Cherokee Rose",
+          "url": "https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Black Irish Indian",
+      "url": "https://open.spotify.com/track/7dVdTythtqhJLeRA9vKkkC"
+    },
+    {
+      "album": {
         "name": "Black Myself",
         "url": "https://open.spotify.com/album/78BmKxgvj4rGwoqnT3Q4Tz"
       },

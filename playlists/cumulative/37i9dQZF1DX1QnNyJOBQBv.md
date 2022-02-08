@@ -2,7 +2,7 @@
 
 ### [Latin Pop Today](https://open.spotify.com/playlist/1C2XqxMOTFW3XGWn44uwXh)
 
-> Your favorite soon to be hits\. Cover: CNCO
+> Your favorite soon to be hits\. Cover: Manuel Turizo
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Colorao](https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Colorao](https://open.spotify.com/album/6e6Hm48gs1vaQvsKPH9PTZ) | 3:18 | 2021-12-16 |  |
 | [Como Tu Decías](https://open.spotify.com/track/2c6zZv6eIVs8wjFiFzJ913) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [El Playlist de Anoche](https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e) | 3:27 | 2021-12-16 |  |
 | [Cuando Estoy Contigo](https://open.spotify.com/track/51gL5n807jjnX6UPTTUqmE) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 2:57 | 2021-12-16 |  |
+| [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 | 2022-02-07 |  |
 | [Delirante](https://open.spotify.com/track/3xQ8jCXftSa4l2gZvIegHw) | [Juliana Velasquez](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Nico Legreti](https://open.spotify.com/artist/0DqqjwKWuQhMcvHKrkY0ii) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 2:45 | 2022-01-28 |  |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-12-16 |  |
 | [DPM \(De Pxta Madre\)](https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [DPM \(De Pxta Madre\)](https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ) | 3:01 | 2021-12-16 |  |
@@ -48,7 +49,7 @@
 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 | 2021-12-16 |  |
 | [Mal Acostumbrao](https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal Acostumbrao](https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q) | 3:10 | 2021-12-16 |  |
 | [Mal de Amores](https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal de Amores](https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW) | 3:08 | 2021-12-16 |  |
-| [Malo](https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Malo](https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz) | 3:01 | 2021-12-16 |  |
+| [Malo](https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Malo](https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz) | 3:01 | 2021-12-16 | 2022-02-08 |
 | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Mama Tetema \(feat\. Rayvanny\)](https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z) | 3:08 | 2021-12-16 |  |
 | [Mató Mi Corazón](https://open.spotify.com/track/2aCbnkuBZcGBNtYQYf1QyD) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Mató Mi Corazón](https://open.spotify.com/album/7qGDQXrIHDq4WqkDxN78XD) | 3:35 | 2021-12-16 |  |
 | [Me Has Dejado](https://open.spotify.com/track/6ojA83SXbJ5BKpJucn3j6R) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ) | [Me Has Dejado](https://open.spotify.com/album/0HXKAvPTxhQUV8MMC0Kag9) | 4:02 | 2021-12-16 |  |

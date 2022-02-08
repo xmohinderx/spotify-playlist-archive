@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Walter Smith III
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,831 likes - 96 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,876 likes - 96 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

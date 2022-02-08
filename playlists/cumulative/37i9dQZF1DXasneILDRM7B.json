@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 167896,
       "name": "21st Century Vampire",
       "url": "https://open.spotify.com/track/7KDqNm3Vo6isNP1rfiEVZx"
@@ -138,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Living Well Is The Best Revenge",
+        "url": "https://open.spotify.com/album/1l30Lz33tMOir9eKHGHfgZ"
+      },
+      "artists": [
+        {
+          "name": "Midtown",
+          "url": "https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "Become What You Hate",
+      "url": "https://open.spotify.com/track/0vOkRZZeSdTgrJNqQhSeHR"
+    },
+    {
+      "album": {
         "name": "Beg",
         "url": "https://open.spotify.com/album/1gb1U1Rb3xqq6xMFGHrcSG"
       },
@@ -149,7 +167,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 151288,
       "name": "Beg",
       "url": "https://open.spotify.com/track/3s9oKWdvPOF7KMgtApYVE4"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 180082,
       "name": "Drown In My Mind",
       "url": "https://open.spotify.com/track/1i2t3VyIcsAonPhK6wjuJp"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 239237,
       "name": "Hit Like A Girl",
       "url": "https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 214493,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
@@ -1281,7 +1299,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 203026,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 208280,
       "name": "MakeDamnSure",
       "url": "https://open.spotify.com/track/48O6kz322Dzu1R6Al5147q"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 185733,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/7mG2RbhyzGsjpQOz568d39"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 216454,
       "name": "She's Kinda Hot",
       "url": "https://open.spotify.com/track/5fsQSDifYpjfbCqvZKPVBj"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 197986,
       "name": "Stacy's Mom",
       "url": "https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW"
@@ -2285,7 +2303,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 161978,
       "name": "Turbulent",
       "url": "https://open.spotify.com/track/2ZD4ORPQl85o5QPU3EsSXQ"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 212186,
       "name": "Warm Me Up",
       "url": "https://open.spotify.com/track/7qZdLKPA5TXDxpd10AGpf0"
@@ -2549,7 +2567,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 177826,
       "name": "You're Gonna Go Far, Kid",
       "url": "https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT"

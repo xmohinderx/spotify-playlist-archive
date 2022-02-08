@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXlWx1itq9S5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXlWx1itq9S5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXlWx1itq9S5)
 
-### Lo mejor de La Lista Pop 2021
+### [Lo mejor de La Lista Pop 2021](https://open.spotify.com/playlist/6ayZNdMR1YDS002Yqm7HJQ)
 
 > Las canciones de pop latino más escuchadas del año.<br/>Foto: Maluma
 

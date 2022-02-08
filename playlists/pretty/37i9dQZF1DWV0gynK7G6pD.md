@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Jean\-Michel Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,520 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,603 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

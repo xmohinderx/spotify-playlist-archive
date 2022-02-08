@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 189760,
       "name": "Bring The Pain",
       "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 206693,
       "name": "Da Joint",
       "url": "https://open.spotify.com/track/4opGTspdCCVK9IG1b4k8yp"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 227866,
       "name": "I Just Wanna Love U (Give It 2 Me)",
       "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
@@ -1197,7 +1197,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 223546,
       "name": "Ms. Fat Booty",
       "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 297906,
       "name": "Oochie Wally - Remix",
       "url": "https://open.spotify.com/track/56DPW47j6NZnRye792oACa"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 261266,
       "name": "Rebirth Of Slick (Cool Like Dat)",
       "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9"
@@ -1527,7 +1527,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 325506,
       "name": "Shook Ones, Pt. II",
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
@@ -1549,6 +1549,24 @@
       "duration_ms": 218333,
       "name": "Slam",
       "url": "https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn"
+    },
+    {
+      "album": {
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302360,
+      "name": "Song Cry",
+      "url": "https://open.spotify.com/track/4xHQTdD5oItTLv0rTjM5XN"
     },
     {
       "album": {

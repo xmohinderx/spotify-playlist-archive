@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > Me and bae = love
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,969 likes - 97 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,964 likes - 97 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: James Hype",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Joel Corry",
   "name": "UK House Music",
   "published_playlist_ids": [
     "40Y5kerBfiqY44aZeglX8x"
@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "Bring The Noise",
+        "url": "https://open.spotify.com/album/2SkNReQaZLjRhsETr5POso"
+      },
+      "artists": [
+        {
+          "name": "Dance System",
+          "url": "https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207874,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/4RqPqt3d3WfooOB0ZTW27h"
+    },
+    {
+      "album": {
         "name": "California Dreamin' (feat. High Jinx)",
         "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
       },
@@ -257,7 +275,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 196899,
       "name": "California Dreamin' (feat. High Jinx)",
       "url": "https://open.spotify.com/track/4ASOMWcJUrwEpjJy4GEijz"
@@ -704,6 +722,24 @@
     },
     {
       "album": {
+        "name": "Getting Over This",
+        "url": "https://open.spotify.com/album/7hPtpTY8ObMImZoRuDOXqb"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195396,
+      "name": "Getting Over This",
+      "url": "https://open.spotify.com/track/34G80YJLjP46YcIlDoVpdC"
+    },
+    {
+      "album": {
         "name": "Falling / Gift of Life",
         "url": "https://open.spotify.com/album/3JqnHutKl8g9uBGNsLasuF"
       },
@@ -1126,6 +1162,24 @@
     },
     {
       "album": {
+        "name": "Liquor Store",
+        "url": "https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201868,
+      "name": "Liquor Store",
+      "url": "https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM"
+    },
+    {
+      "album": {
         "name": "Locco",
         "url": "https://open.spotify.com/album/2yh108PHokTOI8D0p4iVvj"
       },
@@ -1297,7 +1351,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 214560,
       "name": "Make It Through",
       "url": "https://open.spotify.com/track/10y2Bcx3Xl6U4sQVjDYchn"
@@ -2267,6 +2321,24 @@
       "duration_ms": 185896,
       "name": "You Give Me A Feeling",
       "url": "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"
+    },
+    {
+      "album": {
+        "name": "Your Dreams",
+        "url": "https://open.spotify.com/album/7b3qQtrbWgNkd3eKFshnWc"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151852,
+      "name": "Your Dreams",
+      "url": "https://open.spotify.com/track/5M5TCPGgMZxzRN3tOCOoGd"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY"

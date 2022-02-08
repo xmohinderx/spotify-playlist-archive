@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > hyperpop is a simulation\. Cover: ericdoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,819 likes - 176 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,455 likes - 176 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

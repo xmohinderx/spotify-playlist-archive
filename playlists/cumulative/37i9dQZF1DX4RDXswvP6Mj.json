@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 212415,
       "name": "1, 2, 3",
       "url": "https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 210573,
       "name": "Alcohol-Free",
       "url": "https://open.spotify.com/track/6HTwoo4dUOvePNqMsTarPA"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-19",
+      "date_removed": null,
       "duration_ms": 229849,
       "name": "BEAUTIFUL",
       "url": "https://open.spotify.com/track/406szmvIaQo0EATtjcf19k"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 209105,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 181600,
       "name": "Can't Control Myself",
       "url": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 180093,
       "name": "Chronograph",
       "url": "https://open.spotify.com/track/1qHBk92AaOQR4w5uzBfFGb"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 204293,
       "name": "DM",
       "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
@@ -1181,7 +1181,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 204933,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
@@ -1377,7 +1377,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 215586,
       "name": "Favorite (Vampire)",
       "url": "https://open.spotify.com/track/2R8MZR1RCP4cIJITHDPRbY"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 183090,
       "name": "Given-Taken",
       "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 169506,
       "name": "Going Dumb (with Stray Kids)",
       "url": "https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI"
@@ -1872,6 +1872,24 @@
     },
     {
       "album": {
+        "name": "Restore",
+        "url": "https://open.spotify.com/album/6tMchqSyAKi6ePdzbaZqK6"
+      },
+      "artists": [
+        {
+          "name": "JINJIN&ROCKY(ASTRO)",
+          "url": "https://open.spotify.com/artist/6zJq6snkjTflfNsUOQBekK"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Just Breath",
+      "url": "https://open.spotify.com/track/68U6oSUCvqk4MiTULbYCEd"
+    },
+    {
+      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
       },
@@ -1883,7 +1901,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 164053,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 177845,
       "name": "Lover Like Me",
       "url": "https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 199133,
       "name": "MAGO",
       "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 212480,
       "name": "Mixtape : OH",
       "url": "https://open.spotify.com/track/3lYHmpjkm95UbQz76S47xZ"
@@ -2615,7 +2633,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 158253,
       "name": "PING PONG",
       "url": "https://open.spotify.com/track/0Z99Xe1lGBmq60RwJ5YU18"
@@ -2849,7 +2867,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "riBBon",
       "url": "https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x"
@@ -3091,7 +3109,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 173413,
       "name": "SMILEY(Feat. BIBI)",
       "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
@@ -3445,7 +3463,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 231466,
       "name": "Universe (Let's Play Ball)",
       "url": "https://open.spotify.com/track/0S38pb0gNLNpOeyV3w9gXb"
@@ -3499,7 +3517,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 181973,
       "name": "Villain",
       "url": "https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY"
@@ -3809,7 +3827,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 206920,
       "name": "ZERO",
       "url": "https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ"

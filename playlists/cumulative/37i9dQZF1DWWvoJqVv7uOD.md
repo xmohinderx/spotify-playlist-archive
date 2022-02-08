@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWvoJqVv7uOD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWvoJqVv7uOD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWvoJqVv7uOD)
 
-### Everyday Favorites 
+### [Everyday Favorites ](https://open.spotify.com/playlist/57Nh8OaYOKSlXPXupFKB2E)
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: George Ezra
 

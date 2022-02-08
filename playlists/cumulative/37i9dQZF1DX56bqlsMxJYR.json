@@ -553,7 +553,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 120306,
       "name": "Crying in the Rain",
       "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
@@ -1169,7 +1169,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 143800,
       "name": "Itsy Bitsy Teenie Weenie Yellow Polka-Dot Bikini",
       "url": "https://open.spotify.com/track/3Aug2RunJbjGiz2CTtWu5l"
@@ -1691,7 +1691,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 130093,
       "name": "Shout Shout (Knock Yourself Out)",
       "url": "https://open.spotify.com/track/5x6EGByCHCfGtVCwg1Z1PG"
@@ -1907,7 +1907,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 147266,
       "name": "Surf City",
       "url": "https://open.spotify.com/track/1Oewmmr12xuhgzvUJ9Q0cf"
@@ -2307,7 +2307,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 174600,
       "name": "Vaya Con Dios",
       "url": "https://open.spotify.com/track/3qhxI5f7klTVfK0iWYmKdM"
@@ -2535,6 +2535,24 @@
       "duration_ms": 170106,
       "name": "You're All I Need To Get By",
       "url": "https://open.spotify.com/track/64IJPv9SUpcGZWAZ5ipaGD"
+    },
+    {
+      "album": {
+        "name": "Perry Como with the Fontane Sisters (with The Fontane Sisters)",
+        "url": "https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "date_added": "2020-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175213,
+      "name": "You're Just In Love (I Wonder Why)",
+      "url": "https://open.spotify.com/track/0jVYsBfsxGA7zPurjqnlH8"
     },
     {
       "album": {

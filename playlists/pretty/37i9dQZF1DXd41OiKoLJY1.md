@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Fitz Shioda, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,045 likes - 102 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,065 likes - 102 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 83 | [Pasensya Ka Na God Bless](https://open.spotify.com/track/1hlAsRX92GnbsjJ6Ka432n) | [Denin Sy](https://open.spotify.com/artist/42gcHqku5AvQyAEkIj27Jt) | [Pasensya Ka Na God Bless](https://open.spotify.com/album/20cm18VzlMCSm8imgVLZjR) | 3:07 |
 | 84 | [2Solid](https://open.spotify.com/track/0aMelp4KVUCeSGsE0vypA5) | [Lucky Boondock$](https://open.spotify.com/artist/24vTQMK6jBbIZ0yWISNs8H), [Karl Mountain](https://open.spotify.com/artist/4EmkYEVZCVRHvYFZRm0dDb) | [2Solid](https://open.spotify.com/album/2H5Il22VbMTpel1PrF5Ogq) | 3:16 |
 | 85 | [Change Of Pace](https://open.spotify.com/track/7tbZEY50vnyHLKwxnYA918) | [Gemini](https://open.spotify.com/artist/3pn0EJZkmVCHSTfk5Y5m3g) | [Change Of Pace](https://open.spotify.com/album/2Gneb4KaqWcP90NXxO2shQ) | 3:57 |
-| 86 | [The Rest](https://open.spotify.com/track/5SpFHyIhWgjvEQV81AfPRD) | [Xyclone](https://open.spotify.com/artist/0DH9ow6OUibpQYvne1Y0P5), [Space Reject](https://open.spotify.com/artist/1tFf05Q7sp8qP8KctWQw7i) | [The Rest](https://open.spotify.com/album/4hMVtwIl2leWCzgWAoOzE3) | 3:52 |
+| 86 | [The Rest](https://open.spotify.com/track/5SpFHyIhWgjvEQV81AfPRD) | [Xyclone](https://open.spotify.com/artist/4e1wdWKpnR2W9Y1M1xkuN7), [Space Reject](https://open.spotify.com/artist/1tFf05Q7sp8qP8KctWQw7i) | [The Rest](https://open.spotify.com/album/4hMVtwIl2leWCzgWAoOzE3) | 3:52 |
 | 87 | [Flow](https://open.spotify.com/track/7gx76iGAzo2YbTspYEKNVW) | [$kinny G](https://open.spotify.com/artist/18aTaCPklxEwS0SSpkPPvf), [Awie](https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm), [Yaweh](https://open.spotify.com/artist/0VcuKzPLBhK5LDBzTIGRM4), [DK](https://open.spotify.com/artist/0zBTZiWtNFY4waysCHR2r6) | [Flow](https://open.spotify.com/album/2CzigDWYeybWge8rSEABkI) | 4:23 |
 | 88 | [Salamat](https://open.spotify.com/track/73IdoTMphQ3SDfernUxHAZ) | [Rikiboi](https://open.spotify.com/artist/26gSoXtC2XbGxRMqXW8jGe), [Metroboyz](https://open.spotify.com/artist/1hubGeUlmhPeJ16nUYhE4y), [Borhuh](https://open.spotify.com/artist/5mheAaS72JKiklL2CvvDnH), [Daryl Kagah](https://open.spotify.com/artist/3IwqLTK74WPjRxCfgqlltQ) | [Salamat](https://open.spotify.com/album/1N3FXsnHFs0DcsbdEoef0R) | 3:23 |
 | 89 | [Gilid](https://open.spotify.com/track/3qdSNpFvZQXOOg2Rwjhk8e) | [Jem](https://open.spotify.com/artist/36ziRC0ZsbXzOLgn8q0C42) | [Gilid](https://open.spotify.com/album/6MeCpMdaSYUjWRWWdUvU8K) | 4:37 |

@@ -1,12 +1,12 @@
 {
   "description": "Marilina Bertoldi y m\u00e1s mujeres, a todo volumen.",
-  "num_followers": 13958,
+  "num_followers": 13973,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDE5NDUxMywwMDAwMDAwMDhmYWUxZmVhNWMxYWY5NTY0NWJhOGUxYjI5MjhmNzBj",
+  "snapshot_id": "MTY0NDI4MDk1MiwwMDAwMDAwMDY1YzA4NGFmYmVmMzAyZGYwYWVlOWNjNjYzYWQxNjlj",
   "tracks": [
     {
       "added_at": "2022-02-02 14:15:14",
@@ -47,6 +47,22 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
+        "name": "Ni Tan Mal",
+        "url": "https://open.spotify.com/album/2XQdDSYeVG4JODop7tP7l2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 163583,
+      "name": "Velocidad",
+      "url": "https://open.spotify.com/track/4sGO3y9uiNt84xUeTAamCy"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
         "name": "YAS\u00c9",
         "url": "https://open.spotify.com/album/7rRMfbcp3OlgxYA2QGHNNo"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 200937,
       "name": "YAS\u00c9",
       "url": "https://open.spotify.com/track/5Y9Ykmo9XOhM5fdHTVPPTH"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
-        "name": "El Astronauta",
-        "url": "https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 164524,
-      "name": "El Astronauta",
-      "url": "https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0"
     },
     {
       "added_at": "2022-02-02 14:15:14",
@@ -95,38 +95,34 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "Manos",
-        "url": "https://open.spotify.com/album/78z4lZfzLSpj8jHXJTblCC"
+        "name": "Lo Que Dur\u00f3 la Vida de Alguien",
+        "url": "https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v"
       },
       "artists": [
         {
-          "name": "In\u00e9s Mauri",
-          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
-        },
-        {
-          "name": "Paula Maffia",
-          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
+          "name": "Ni\u00f1a Lobo",
+          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
         }
       ],
-      "duration_ms": 215238,
-      "name": "Manos",
-      "url": "https://open.spotify.com/track/4DeI38iEDWvVFK6c5ZgOc6"
+      "duration_ms": 145000,
+      "name": "Dentro",
+      "url": "https://open.spotify.com/track/7zygrEhhUZgzLzoX8RWdWR"
     },
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "Te Pas\u00e9 a Buscar",
-        "url": "https://open.spotify.com/album/1P7FZoRMuMaHzukOyEHmTF"
+        "name": "El Astronauta",
+        "url": "https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR"
       },
       "artists": [
         {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
         }
       ],
-      "duration_ms": 181005,
-      "name": "Te Pas\u00e9 a Buscar",
-      "url": "https://open.spotify.com/track/1FpuNBh1v3WFFXLgLgu9S8"
+      "duration_ms": 164524,
+      "name": "El Astronauta",
+      "url": "https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0"
     },
     {
       "added_at": "2022-02-02 14:15:14",
@@ -147,22 +143,6 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "OSAD\u00cdA",
-        "url": "https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa"
-      },
-      "artists": [
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 133648,
-      "name": "Pisteando",
-      "url": "https://open.spotify.com/track/0kRDY2gDmv3aCKd7AuLNnt"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -179,70 +159,6 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "Lo Que Dur\u00f3 la Vida de Alguien",
-        "url": "https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Lobo",
-          "url": "https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Dentro",
-      "url": "https://open.spotify.com/track/7zygrEhhUZgzLzoX8RWdWR"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
-        "name": "Ni Tan Mal",
-        "url": "https://open.spotify.com/album/2XQdDSYeVG4JODop7tP7l2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 163583,
-      "name": "Velocidad",
-      "url": "https://open.spotify.com/track/4sGO3y9uiNt84xUeTAamCy"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
-        "name": "Hice Todo Mal",
-        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Hice Todo Mal",
-      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
-        "name": "Seremos Primavera",
-        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 230259,
-      "name": "Sorojchi",
-      "url": "https://open.spotify.com/track/3G2oKpZKebeikGbTBiidsb"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
         "name": "Tanta Data",
         "url": "https://open.spotify.com/album/2yZn2CNQjT154b0gSvbFUo"
       },
@@ -255,6 +171,22 @@
       "duration_ms": 266020,
       "name": "Tanta Data",
       "url": "https://open.spotify.com/track/7slRZKu168JfXdKBGw5WId"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
+        "name": "X El Barrio",
+        "url": "https://open.spotify.com/album/473EMNLmnFCEoKl11qzABM"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 202484,
+      "name": "X El Barrio",
+      "url": "https://open.spotify.com/track/5C23TshL3Y78V8clTfctlO"
     },
     {
       "added_at": "2022-02-02 14:15:14",
@@ -291,34 +223,70 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "X El Barrio",
-        "url": "https://open.spotify.com/album/473EMNLmnFCEoKl11qzABM"
+        "name": "No Te Perdono",
+        "url": "https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0"
       },
       "artists": [
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "MUGRE",
+          "url": "https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V"
         }
       ],
-      "duration_ms": 202484,
-      "name": "X El Barrio",
-      "url": "https://open.spotify.com/track/5C23TshL3Y78V8clTfctlO"
+      "duration_ms": 203792,
+      "name": "No Te Perdono",
+      "url": "https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C"
     },
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "En Toneles",
-        "url": "https://open.spotify.com/album/4ECgkCokgcOe49066pPA2a"
+        "name": "No Est\u00e1 Tan Mal",
+        "url": "https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn"
       },
       "artists": [
         {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+          "name": "Jazm\u00edn Mazzuchelli",
+          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
+        },
+        {
+          "name": "JUD",
+          "url": "https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB"
         }
       ],
-      "duration_ms": 244993,
-      "name": "En Toneles",
-      "url": "https://open.spotify.com/track/0ffdqrWgbkKZsjoAXco3Mm"
+      "duration_ms": 185897,
+      "name": "No Est\u00e1 Tan Mal",
+      "url": "https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
+        "name": "OSAD\u00cdA",
+        "url": "https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa"
+      },
+      "artists": [
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "duration_ms": 133648,
+      "name": "Pisteando",
+      "url": "https://open.spotify.com/track/0kRDY2gDmv3aCKd7AuLNnt"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
+        "name": "Hice Todo Mal",
+        "url": "https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Hice Todo Mal",
+      "url": "https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW"
     },
     {
       "added_at": "2022-02-02 14:15:14",
@@ -339,18 +307,18 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "Terso",
-        "url": "https://open.spotify.com/album/5ecrotTFt36RPmI999Fp0S"
+        "name": "En Toneles",
+        "url": "https://open.spotify.com/album/4ECgkCokgcOe49066pPA2a"
       },
       "artists": [
         {
-          "name": "Vera",
-          "url": "https://open.spotify.com/artist/0x3Vlve4e1tC8jVv0P1Lwm"
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
         }
       ],
-      "duration_ms": 248703,
-      "name": "Incesante",
-      "url": "https://open.spotify.com/track/0Oj6857mwNbVNT4uavIZIM"
+      "duration_ms": 244993,
+      "name": "En Toneles",
+      "url": "https://open.spotify.com/track/0ffdqrWgbkKZsjoAXco3Mm"
     },
     {
       "added_at": "2022-02-02 14:15:14",
@@ -371,6 +339,86 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
+        "name": "Seremos Primavera",
+        "url": "https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 230259,
+      "name": "Sorojchi",
+      "url": "https://open.spotify.com/track/3G2oKpZKebeikGbTBiidsb"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
+        "name": "Te Pas\u00e9 a Buscar",
+        "url": "https://open.spotify.com/album/1P7FZoRMuMaHzukOyEHmTF"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 181005,
+      "name": "Te Pas\u00e9 a Buscar",
+      "url": "https://open.spotify.com/track/1FpuNBh1v3WFFXLgLgu9S8"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
+        "name": "Como son las cosas",
+        "url": "https://open.spotify.com/album/7zeucEPN9Dnx2eNtdfOGWO"
+      },
+      "artists": [
+        {
+          "name": "Mariana P\u00e4raway",
+          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Como son las cosas",
+      "url": "https://open.spotify.com/track/7t8zoNnda5roMNPJVQAdpC"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
+        "name": "Amor de Instagramer",
+        "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Amor de Instagramer",
+      "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
+        "name": "Tigre Ulli",
+        "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 127600,
+      "name": "Postales Blancas",
+      "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
         "name": "Ruta Hotel",
         "url": "https://open.spotify.com/album/5198xcABxOJ3tJicMBwchi"
       },
@@ -387,18 +435,18 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "ELET\u00c9",
-        "url": "https://open.spotify.com/album/5TPygbVZFHfeYLwBGYVLm7"
+        "name": "Terso",
+        "url": "https://open.spotify.com/album/5ecrotTFt36RPmI999Fp0S"
       },
       "artists": [
         {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+          "name": "Vera",
+          "url": "https://open.spotify.com/artist/0x3Vlve4e1tC8jVv0P1Lwm"
         }
       ],
-      "duration_ms": 181453,
-      "name": "Apag\u00f3n",
-      "url": "https://open.spotify.com/track/5sPgQauWDjqvCMZGl0RGru"
+      "duration_ms": 248703,
+      "name": "Incesante",
+      "url": "https://open.spotify.com/track/0Oj6857mwNbVNT4uavIZIM"
     },
     {
       "added_at": "2022-02-02 14:15:14",
@@ -419,34 +467,54 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "No Te Perdono",
-        "url": "https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0"
+        "name": "Brindo por el tiempo que perd\u00ed",
+        "url": "https://open.spotify.com/album/3w9onXJHH3lcgtwwcSgvtW"
       },
       "artists": [
         {
-          "name": "MUGRE",
-          "url": "https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V"
+          "name": "La Piba Berreta",
+          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
         }
       ],
-      "duration_ms": 203792,
-      "name": "No Te Perdono",
-      "url": "https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C"
+      "duration_ms": 192000,
+      "name": "Brindo por el tiempo que perd\u00ed",
+      "url": "https://open.spotify.com/track/4Tkc6JuglEHFvy6BOVKsiA"
     },
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "Amor de Instagramer",
-        "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/2eZrZxOfzdQKvNthFD5IDJ"
       },
       "artists": [
         {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        },
+        {
+          "name": "Jazm\u00edn Esquivel",
+          "url": "https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Amor de Instagramer",
-      "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
+      "duration_ms": 187000,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/1F2MEdnUuZDV23rEFw6ZcM"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "duration_ms": 229329,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/6yPdKUk3kSelyKc15Ix0sV"
     },
     {
       "added_at": "2022-02-02 14:15:14",
@@ -471,18 +539,34 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "Tigre Ulli",
-        "url": "https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/1gNV7gHVMvM1XU0ZxrxRzL"
       },
       "artists": [
         {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
         }
       ],
-      "duration_ms": 127600,
-      "name": "Postales Blancas",
-      "url": "https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi"
+      "duration_ms": 223700,
+      "name": "Paraguaya",
+      "url": "https://open.spotify.com/track/6BFpuCx0Hq9ZK2bZmo7l8v"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
+        "name": "Flash Memory",
+        "url": "https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 111883,
+      "name": "Chicas Para El Fin Del Mundo",
+      "url": "https://open.spotify.com/track/6pQNvPJQ3RwA5JMjaJ7ZW1"
     },
     {
       "added_at": "2022-02-02 14:15:14",
@@ -527,34 +611,18 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "Como son las cosas",
-        "url": "https://open.spotify.com/album/7zeucEPN9Dnx2eNtdfOGWO"
+        "name": "Blanco & Negro",
+        "url": "https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO"
       },
       "artists": [
         {
-          "name": "Mariana P\u00e4raway",
-          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Como son las cosas",
-      "url": "https://open.spotify.com/track/7t8zoNnda5roMNPJVQAdpC"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
-        "name": "Flash Memory",
-        "url": "https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1"
-      },
-      "artists": [
-        {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
-        }
-      ],
-      "duration_ms": 111883,
-      "name": "Chicas Para El Fin Del Mundo",
-      "url": "https://open.spotify.com/track/6pQNvPJQ3RwA5JMjaJ7ZW1"
+      "duration_ms": 196016,
+      "name": "Blanco & Negro",
+      "url": "https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA"
     },
     {
       "added_at": "2022-02-02 14:15:14",
@@ -575,86 +643,38 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "Mala Reputaci\u00f3n: Latfem Presenta una Memoria Feminista en Canci\u00f3n",
-        "url": "https://open.spotify.com/album/5JZhhS3MgW4b4XY0aLvH6L"
+        "name": "Perspectiva",
+        "url": "https://open.spotify.com/album/2zsxjBGs0k2XkMukaXnKSF"
       },
       "artists": [
         {
-          "name": "Flopa",
-          "url": "https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy"
+          "name": "T'Shine",
+          "url": "https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm"
         }
       ],
-      "duration_ms": 241882,
-      "name": "Tirando Paredes",
-      "url": "https://open.spotify.com/track/5321PpL805EQwsSIX4eBBz"
+      "duration_ms": 152524,
+      "name": "Perspectiva",
+      "url": "https://open.spotify.com/track/54gV08eukqnNl8NwRu9rN6"
     },
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "No Est\u00e1 Tan Mal",
-        "url": "https://open.spotify.com/album/1lecsZUQgeiZKJ0ySteHKn"
+        "name": "Manos",
+        "url": "https://open.spotify.com/album/78z4lZfzLSpj8jHXJTblCC"
       },
       "artists": [
         {
-          "name": "Jazm\u00edn Mazzuchelli",
-          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
+          "name": "In\u00e9s Mauri",
+          "url": "https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF"
         },
         {
-          "name": "JUD",
-          "url": "https://open.spotify.com/artist/2nsbsMDYDShTn9qi96XNDB"
+          "name": "Paula Maffia",
+          "url": "https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa"
         }
       ],
-      "duration_ms": 185897,
-      "name": "No Est\u00e1 Tan Mal",
-      "url": "https://open.spotify.com/track/5E9y8BNSVhY3CyCrUDmMeI"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
-        "name": "Blanco & Negro",
-        "url": "https://open.spotify.com/album/4wG2YePvIfmyUN61cFXSzO"
-      },
-      "artists": [
-        {
-          "name": "Riel",
-          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
-        }
-      ],
-      "duration_ms": 196016,
-      "name": "Blanco & Negro",
-      "url": "https://open.spotify.com/track/4SwidOXMXm7I4hJMziEPfA"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
-        "name": "Brindo por el tiempo que perd\u00ed",
-        "url": "https://open.spotify.com/album/3w9onXJHH3lcgtwwcSgvtW"
-      },
-      "artists": [
-        {
-          "name": "La Piba Berreta",
-          "url": "https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Brindo por el tiempo que perd\u00ed",
-      "url": "https://open.spotify.com/track/4Tkc6JuglEHFvy6BOVKsiA"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 229329,
-      "name": "Color",
-      "url": "https://open.spotify.com/track/6yPdKUk3kSelyKc15Ix0sV"
+      "duration_ms": 215238,
+      "name": "Manos",
+      "url": "https://open.spotify.com/track/4DeI38iEDWvVFK6c5ZgOc6"
     },
     {
       "added_at": "2022-02-02 14:15:14",
@@ -695,90 +715,34 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "Arde",
-        "url": "https://open.spotify.com/album/2eZrZxOfzdQKvNthFD5IDJ"
+        "name": "Mala Reputaci\u00f3n: Latfem Presenta una Memoria Feminista en Canci\u00f3n",
+        "url": "https://open.spotify.com/album/5JZhhS3MgW4b4XY0aLvH6L"
       },
       "artists": [
         {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        },
-        {
-          "name": "Jazm\u00edn Esquivel",
-          "url": "https://open.spotify.com/artist/0wfckwaQiT9YWllkSO7oUU"
+          "name": "Flopa",
+          "url": "https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Culpable",
-      "url": "https://open.spotify.com/track/1F2MEdnUuZDV23rEFw6ZcM"
+      "duration_ms": 241882,
+      "name": "Tirando Paredes",
+      "url": "https://open.spotify.com/track/5321PpL805EQwsSIX4eBBz"
     },
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/1gNV7gHVMvM1XU0ZxrxRzL"
+        "name": "HIJO DE CAMPEONES",
+        "url": "https://open.spotify.com/album/29RwEvS11hYGHpVrqxk2AV"
       },
       "artists": [
         {
-          "name": "Juana Molina",
-          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+          "name": "Mariana Michi",
+          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
         }
       ],
-      "duration_ms": 223700,
-      "name": "Paraguaya",
-      "url": "https://open.spotify.com/track/6BFpuCx0Hq9ZK2bZmo7l8v"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
-        "name": "Perspectiva",
-        "url": "https://open.spotify.com/album/2zsxjBGs0k2XkMukaXnKSF"
-      },
-      "artists": [
-        {
-          "name": "T'Shine",
-          "url": "https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm"
-        }
-      ],
-      "duration_ms": 152524,
-      "name": "Perspectiva",
-      "url": "https://open.spotify.com/track/54gV08eukqnNl8NwRu9rN6"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
-        "name": "Se\u00f1orita Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/08CmI3dm5kz9Fboesariy9"
-      },
-      "artists": [
-        {
-          "name": "A1",
-          "url": "https://open.spotify.com/artist/5wMv4AU0UZ6WyIQhSCvyno"
-        },
-        {
-          "name": "Maria Gabriela Epumer",
-          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "Se\u00f1orita Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3elVBReqWZsDD9eWMBhyOQ"
-    },
-    {
-      "added_at": "2022-02-02 14:15:14",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2AQ7PaeUi7IffLWrvovNFp"
-      },
-      "artists": [
-        {
-          "name": "Alfonsina",
-          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
-        }
-      ],
-      "duration_ms": 291461,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0zoqxeTaRQf6QbdMwsa7n9"
+      "duration_ms": 165069,
+      "name": "New Age",
+      "url": "https://open.spotify.com/track/5YIrM9ft5Jt8N1R8BDAXn5"
     },
     {
       "added_at": "2022-02-02 14:15:14",
@@ -799,18 +763,54 @@
     {
       "added_at": "2022-02-02 14:15:14",
       "album": {
-        "name": "HIJO DE CAMPEONES",
-        "url": "https://open.spotify.com/album/29RwEvS11hYGHpVrqxk2AV"
+        "name": "ELET\u00c9",
+        "url": "https://open.spotify.com/album/5TPygbVZFHfeYLwBGYVLm7"
       },
       "artists": [
         {
-          "name": "Mariana Michi",
-          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
         }
       ],
-      "duration_ms": 165069,
-      "name": "New Age",
-      "url": "https://open.spotify.com/track/5YIrM9ft5Jt8N1R8BDAXn5"
+      "duration_ms": 181453,
+      "name": "Apag\u00f3n",
+      "url": "https://open.spotify.com/track/5sPgQauWDjqvCMZGl0RGru"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2AQ7PaeUi7IffLWrvovNFp"
+      },
+      "artists": [
+        {
+          "name": "Alfonsina",
+          "url": "https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k"
+        }
+      ],
+      "duration_ms": 291461,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0zoqxeTaRQf6QbdMwsa7n9"
+    },
+    {
+      "added_at": "2022-02-02 14:15:14",
+      "album": {
+        "name": "Se\u00f1orita Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/08CmI3dm5kz9Fboesariy9"
+      },
+      "artists": [
+        {
+          "name": "A1",
+          "url": "https://open.spotify.com/artist/5wMv4AU0UZ6WyIQhSCvyno"
+        },
+        {
+          "name": "Maria Gabriela Epumer",
+          "url": "https://open.spotify.com/artist/0G0wjvWRWLREOBLLE1JcOQ"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "Se\u00f1orita Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3elVBReqWZsDD9eWMBhyOQ"
     },
     {
       "added_at": "2022-02-02 14:15:14",

@@ -1312,6 +1312,24 @@
     },
     {
       "album": {
+        "name": "Just One Of Those Days",
+        "url": "https://open.spotify.com/album/1MAYtAvrKCnbnK5GWKQyfb"
+      },
+      "artists": [
+        {
+          "name": "Sam Greenfield",
+          "url": "https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202061,
+      "name": "Just One Of Those Days",
+      "url": "https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/0N3k3fSV4gXgJ0IrwlCTYv"
       },

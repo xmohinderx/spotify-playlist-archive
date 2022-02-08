@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-06",
   "description": "Throw the weights around with your favorite uptempo pop songs!",
   "name": "Pumped Pop",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2PdN5idnlpDGB9nQ1OsLKL"
+  ],
   "tracks": [
     {
       "album": {
@@ -39,7 +41,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 214040,
       "name": "About Love - From The Netflix Film \u201cTo All The Boys: P.S. I Still Love You\u201d",
       "url": "https://open.spotify.com/track/12x0zQ2X70OVWsM5X4pg2z"
@@ -1063,7 +1065,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 224649,
       "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
       "url": "https://open.spotify.com/track/1yYkset0nTuUteJQMl5Tx0"
@@ -1208,6 +1210,24 @@
     },
     {
       "album": {
+        "name": "Night Call (New Year's Edition)",
+        "url": "https://open.spotify.com/album/4ANoIvV1JMAne7lFSExMI0"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170319,
+      "name": "Night Call",
+      "url": "https://open.spotify.com/track/1dNyeO5Oy7RuGYOq30HrK2"
+    },
+    {
+      "album": {
         "name": "Magnets EP",
         "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
       },
@@ -1289,6 +1309,24 @@
       "duration_ms": 184640,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/142oChZWeBCxPMlY7g7cM2"
+    },
+    {
+      "album": {
+        "name": "queen of broken hearts",
+        "url": "https://open.spotify.com/album/5kl5z37tuQet6Na96jGKv9"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171171,
+      "name": "queen of broken hearts",
+      "url": "https://open.spotify.com/track/1YaLBadQjS701ZLZRGjPMX"
     },
     {
       "album": {

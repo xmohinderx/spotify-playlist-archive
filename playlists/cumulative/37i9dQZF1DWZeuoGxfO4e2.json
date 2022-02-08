@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 294333,
       "name": "Aun",
       "url": "https://open.spotify.com/track/1JTewgSxH7jQjolSwCn69u"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 264026,
       "name": "Calaveras y Diablitos",
       "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 320656,
       "name": "Chau",
       "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 194573,
       "name": "El Duelo",
       "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 161053,
       "name": "El Microbito",
       "url": "https://open.spotify.com/track/78Yoe3YYGLWYRIFp5YDPS6"
@@ -895,7 +895,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "El P\u00e1jaro Vio el Cielo y Se Vol\u00f3",
       "url": "https://open.spotify.com/track/4smTDf8dKkZXxz66uv5w43"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 243560,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/7j7qS7NIvezns7Z5fLUAuT"
@@ -1129,7 +1129,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 266706,
       "name": "Fin",
       "url": "https://open.spotify.com/track/4Nr3NY4LluTed9I3jFM5gJ"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 248986,
       "name": "H\u00e9roe de leyenda",
       "url": "https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 213720,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 291117,
       "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
       "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
@@ -1756,6 +1756,24 @@
     },
     {
       "album": {
+        "name": "Sirenas",
+        "url": "https://open.spotify.com/album/5Pdup40Qu77WInn8u0fk58"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267226,
+      "name": "Las Luces De Esta Ciudad",
+      "url": "https://open.spotify.com/track/0QicAPpjTCYJcG8cwimbrM"
+    },
+    {
+      "album": {
         "name": "Una rola para los minusv\u00e1lidos",
         "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
       },
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 198040,
       "name": "Las piedras rodantes",
       "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 282133,
       "name": "Los Dioses Ocultos",
       "url": "https://open.spotify.com/track/3aYLIO4htUZCAygXUbbc3Q"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 316426,
       "name": "Luna de Miel en la Mano",
       "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
@@ -2149,7 +2167,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 244760,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
@@ -2387,7 +2405,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 234813,
       "name": "Para no olvidar",
       "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
@@ -2477,7 +2495,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 230693,
       "name": "Pobre so\u00f1ador",
       "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
@@ -2531,7 +2549,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 273800,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
@@ -2719,7 +2737,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 237973,
       "name": "Siento Que\u2026 - En Directo",
       "url": "https://open.spotify.com/track/6SpePqf5G8vzNZoLAaLm36"
@@ -2791,7 +2809,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 226652,
       "name": "So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/46UhTfdy7LhAFK8BalnJid"
@@ -2863,7 +2881,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 224320,
       "name": "Tornasol (Vuelves a Ser)",
       "url": "https://open.spotify.com/track/1BaNzcWE5fAJ6Ujh1CytzN"
@@ -3007,7 +3025,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 297533,
       "name": "Veneno Vil",
       "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"

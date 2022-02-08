@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today...featuring Gunna, Rod Wave, and iann dior.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,069,739 likes - 91 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,069,951 likes - 91 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "100% amazing female singers. Enjoy!",
-  "num_followers": 1589424,
+  "num_followers": 1589536,
   "original_name": "50 Great Female Voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDE5NDcyNiwwMDAwMDAwMGJlMzAxYjIwZGE5MTQyMDAwNmRjNGZhMWExNmU1MTkz",
+  "snapshot_id": "MTY0NDI4MTE3MywwMDAwMDAwMDU4OGNlZmY0NmE4MDU5M2IzMDJkMzczZDUxNjZmNjFl",
   "tracks": [
     {
       "added_at": "2021-01-08 13:35:52",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Pair Of Fives: Roberta Flack / Dionne Warwick",
-        "url": "https://open.spotify.com/album/6bcs0N6URuCCa206hPceyh"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/1U1xdCEZYkr6e1stqhaR2F"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
         "name": "Music For Lovers",
         "url": "https://open.spotify.com/album/7i9Ifsw1L8PsGAmX6t3xOk"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 272986,
       "name": "Get Here",
       "url": "https://open.spotify.com/track/5pDRIxiUZ9Sz9XKKFfKSsJ"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Pair Of Fives: Roberta Flack / Dionne Warwick",
+        "url": "https://open.spotify.com/album/6bcs0N6URuCCa206hPceyh"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/1U1xdCEZYkr6e1stqhaR2F"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
+        "name": "The Rose",
+        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
+      },
+      "artists": [
+        {
+          "name": "Bette Midler",
+          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "The Rose",
-        "url": "https://open.spotify.com/album/6PXrZg7FMAGm1rnu6widwU"
-      },
-      "artists": [
-        {
-          "name": "Bette Midler",
-          "url": "https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "The Rose",
-      "url": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
         "name": "A Star Is Born",
         "url": "https://open.spotify.com/album/435mubtZvkoTYIPXWy3seP"
       },
@@ -183,22 +183,6 @@
       "duration_ms": 184800,
       "name": "Evergreen (Love Theme from, \"A Star Is Born\")",
       "url": "https://open.spotify.com/track/2IcqY68BxP1ONPi3ME6aje"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "I Try: The Macy Gray Collection",
-        "url": "https://open.spotify.com/album/5CM936m8EZUHEEpxN5X7Sa"
-      },
-      "artists": [
-        {
-          "name": "Macy Gray",
-          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg"
     },
     {
       "added_at": "2022-01-10 11:51:17",
@@ -219,82 +203,18 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+        "name": "I Try: The Macy Gray Collection",
+        "url": "https://open.spotify.com/album/5CM936m8EZUHEEpxN5X7Sa"
       },
       "artists": [
         {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
         }
       ],
-      "duration_ms": 263480,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Dusty In Memphis",
-        "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 148053,
-      "name": "Son Of A Preacher Man",
-      "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Back To Black",
-        "url": "https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 154160,
-      "name": "Love Is A Losing Game",
-      "url": "https://open.spotify.com/track/4IMBnBRqm9RALmLrRqfMor"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/7kwezyxShStyqj0PE8NvRw"
-      },
-      "artists": [
-        {
-          "name": "Alison Moyet",
-          "url": "https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4"
-        }
-      ],
-      "duration_ms": 170040,
-      "name": "Love Letters - Remastered",
-      "url": "https://open.spotify.com/track/6iM14W0FGSCZczBiNI6jPe"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Before Me",
-        "url": "https://open.spotify.com/album/2epCdnoKoOoYA3heqJs5WP"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
-        }
-      ],
-      "duration_ms": 231746,
-      "name": "Since I Fell For You",
-      "url": "https://open.spotify.com/track/3DG4WI5bE5IyfTteCgrXa6"
+      "duration_ms": 238066,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/00cP99zN0bsUZSpXbAlQXg"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -315,6 +235,54 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
+        "name": "Before Me",
+        "url": "https://open.spotify.com/album/2epCdnoKoOoYA3heqJs5WP"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        }
+      ],
+      "duration_ms": 231746,
+      "name": "Since I Fell For You",
+      "url": "https://open.spotify.com/track/3DG4WI5bE5IyfTteCgrXa6"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/6GJCGWfI95aeRsdtVB52vc"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 154160,
+      "name": "Love Is A Losing Game",
+      "url": "https://open.spotify.com/track/4IMBnBRqm9RALmLrRqfMor"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Dusty In Memphis",
+        "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 148053,
+      "name": "Son Of A Preacher Man",
+      "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
         "name": "Rhino Hi-Five: Linda Ronstadt",
         "url": "https://open.spotify.com/album/5s2DuWddxp8onCKncWspZR"
       },
@@ -331,18 +299,34 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Easter",
-        "url": "https://open.spotify.com/album/6dx7saKYTu93wHcCuDSvUH"
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/7kwezyxShStyqj0PE8NvRw"
       },
       "artists": [
         {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+          "name": "Alison Moyet",
+          "url": "https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4"
         }
       ],
-      "duration_ms": 205386,
-      "name": "Because the Night",
-      "url": "https://open.spotify.com/track/77XlfkvXtMwppbEU5sku97"
+      "duration_ms": 170040,
+      "name": "Love Letters - Remastered",
+      "url": "https://open.spotify.com/track/6iM14W0FGSCZczBiNI6jPe"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 263480,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -363,22 +347,6 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/2jiDaTcE7WmJr384lZJvgw"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "My Love Is Your Love",
-      "url": "https://open.spotify.com/track/4xzhlulgIL4yFEAR9EjHkR"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
         "name": "Essential Memories Of Love",
         "url": "https://open.spotify.com/album/1EQEIZIv1DAyo62wmQlDhY"
       },
@@ -395,18 +363,34 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Colour Me Free",
-        "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/2jiDaTcE7WmJr384lZJvgw"
       },
       "artists": [
         {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 233040,
-      "name": "Free Me",
-      "url": "https://open.spotify.com/track/2osA5KIMQLLaNLHiuusgGy"
+      "duration_ms": 261573,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/4xzhlulgIL4yFEAR9EjHkR"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Easter",
+        "url": "https://open.spotify.com/album/6dx7saKYTu93wHcCuDSvUH"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 205386,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/77XlfkvXtMwppbEU5sku97"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -443,22 +427,6 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Lisa Stansfield (Deluxe)",
-        "url": "https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0"
-      },
-      "artists": [
-        {
-          "name": "Lisa Stansfield",
-          "url": "https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1"
-        }
-      ],
-      "duration_ms": 301973,
-      "name": "Never, Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/1YwM86VfyDhJv5obDMMjp5"
-    },
-    {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
         "name": "Man",
         "url": "https://open.spotify.com/album/2bYrUTI2vWLQq2VXJ8DvVJ"
       },
@@ -475,18 +443,18 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+        "name": "Colour Me Free",
+        "url": "https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL"
       },
       "artists": [
         {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
         }
       ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+      "duration_ms": 233040,
+      "name": "Free Me",
+      "url": "https://open.spotify.com/track/2osA5KIMQLLaNLHiuusgGy"
     },
     {
       "added_at": "2021-06-07 14:46:37",
@@ -507,18 +475,18 @@
     {
       "added_at": "2021-01-08 13:35:52",
       "album": {
-        "name": "Rhino Hi-Five: Anita Baker",
-        "url": "https://open.spotify.com/album/7y0uqLr5RQqEltmS3XBdyE"
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
       "artists": [
         {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
         }
       ],
-      "duration_ms": 264079,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/6b8pYhpXu2pHHvRZW3FBXp"
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -535,6 +503,54 @@
       "duration_ms": 187213,
       "name": "A Thousand Beautiful Things",
       "url": "https://open.spotify.com/track/2E69zptZWLWSMBArSJLUAa"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Lisa Stansfield (Deluxe)",
+        "url": "https://open.spotify.com/album/5DwKK9JTj5zZ2vUs2EeAq0"
+      },
+      "artists": [
+        {
+          "name": "Lisa Stansfield",
+          "url": "https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1"
+        }
+      ],
+      "duration_ms": 301973,
+      "name": "Never, Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/1YwM86VfyDhJv5obDMMjp5"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Rhino Hi-Five: Anita Baker",
+        "url": "https://open.spotify.com/album/7y0uqLr5RQqEltmS3XBdyE"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 264079,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/6b8pYhpXu2pHHvRZW3FBXp"
+    },
+    {
+      "added_at": "2021-05-31 15:01:23",
+      "album": {
+        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 151866,
+      "name": "What A Diff'rence A Day Made",
+      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -567,22 +583,6 @@
       "duration_ms": 176426,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo"
-    },
-    {
-      "added_at": "2021-05-31 15:01:23",
-      "album": {
-        "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 151866,
-      "name": "What A Diff'rence A Day Made",
-      "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
     },
     {
       "added_at": "2021-01-08 13:35:52",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/7xYy4fuiPfFEAsjz3H93Sl"
     },
     {
-      "added_at": "2021-01-08 13:35:52",
-      "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/3ngc7rGlfeFaskU90EWl4R"
-    },
-    {
       "added_at": "2021-05-31 15:01:23",
       "album": {
         "name": "Stax 50th Anniversary",
@@ -727,6 +711,22 @@
       "duration_ms": 160546,
       "name": "What A Man",
       "url": "https://open.spotify.com/track/20fHsQJ6sXz6EFN3VTPpOD"
+    },
+    {
+      "added_at": "2021-01-08 13:35:52",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/3ngc7rGlfeFaskU90EWl4R"
     },
     {
       "added_at": "2021-01-08 13:35:52",

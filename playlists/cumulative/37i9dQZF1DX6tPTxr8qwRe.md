@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6tPTxr8qwRe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6tPTxr8qwRe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6tPTxr8qwRe)
 
-### SALT
+### [SALT](https://open.spotify.com/playlist/6uOoVSA8DjAX2qeF3BOP8u)
 
 > Extra vicious, hard\-hitting pop\.  This is SALT\.  Cover: Mad Tsai
 
@@ -58,6 +58,7 @@
 | [R.I.P.](https://open.spotify.com/track/2NsT14VbcsVEZksjccxkvH) | [Casey Baer](https://open.spotify.com/artist/0NJXUPqUHxTBWf7n3naRqy) | [R.I.P.](https://open.spotify.com/album/6AIk8FOlSBxFtJik5iuyBq) | 2:56 | 2021-12-10 |  |
 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 | 2022-01-07 |  |
 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 | 2022-02-04 |  |
+| [SAOKO](https://open.spotify.com/track/2J3oaXTqKjGGHCOQLeBnBA) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [SAOKO](https://open.spotify.com/album/3OUsI2v5sOR5JTorrsi7If) | 2:17 | 2022-02-07 |  |
 | [She Knows It](https://open.spotify.com/track/5EjlKmbefO401Kra4OoN83) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [She Knows It](https://open.spotify.com/album/3gK9p6wdFwQHlEwBoYxhSD) | 2:36 | 2022-02-04 |  |
 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 | 2022-02-04 |  |
 | [Sink Or Swim](https://open.spotify.com/track/2X0hSfFCaunosj2mcLU4Y4) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Sink Or Swim](https://open.spotify.com/album/4L15oA6HAW5cywuJjNBc44) | 3:04 | 2022-01-14 |  |

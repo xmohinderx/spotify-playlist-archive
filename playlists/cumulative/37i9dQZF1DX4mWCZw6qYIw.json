@@ -181,7 +181,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 215980,
       "name": "Back to Friends",
       "url": "https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 180933,
       "name": "Bored",
       "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 186129,
       "name": "Come Here and Leave Me Alone",
       "url": "https://open.spotify.com/track/2AirVCqXkrvrqs6WkN4bgp"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 182121,
       "name": "Good Without",
       "url": "https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 162732,
       "name": "Make It To Me",
       "url": "https://open.spotify.com/track/3EBdDNM1VcD8d8mJJEYIcJ"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 220918,
       "name": "Moon",
       "url": "https://open.spotify.com/track/1XpAZlfENlrHalIvuhAp9R"
@@ -1301,6 +1301,24 @@
       "duration_ms": 156505,
       "name": "parachute",
       "url": "https://open.spotify.com/track/4QvSA3gQn7DAWEwuEdHBAt"
+    },
+    {
+      "album": {
+        "name": "Read My Mind",
+        "url": "https://open.spotify.com/album/33AZnu3azsTdALxhjX2gh2"
+      },
+      "artists": [
+        {
+          "name": "Beren Olivia",
+          "url": "https://open.spotify.com/artist/5WGPbnx9LqsQYXgpnUI3DZ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178513,
+      "name": "Read My Mind",
+      "url": "https://open.spotify.com/track/6k1RWwxJpRgm2lbyxRTmtF"
     },
     {
       "album": {
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 174278,
       "name": "the lifeboat's empty!",
       "url": "https://open.spotify.com/track/59zrASvoFolvYcBSewxuT4"

@@ -1084,6 +1084,24 @@
     },
     {
       "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456866,
+      "name": "It's All Coming Back to Me Now",
+      "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
+    },
+    {
+      "album": {
         "name": "Jenny (I Wanna Ruin Our Friendship)",
         "url": "https://open.spotify.com/album/0PTGY2rz75YFy0H1jvibuD"
       },

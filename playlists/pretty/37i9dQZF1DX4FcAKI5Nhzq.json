@@ -1,13 +1,61 @@
 {
   "description": "Future K-Pop hits! Cover: MAMADOL",
-  "num_followers": 638763,
+  "num_followers": 639310,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk0NzM5OSwwMDAwMDIzZDAwMDAwMTdlYzJlNjk4OTYwMDAwMDE3ZWMyZTY0YTkz",
+  "snapshot_id": "MTY0NDIyNzQ3NSwwMDAwMDIzZjAwMDAwMTdlZDM5ODM3MzAwMDAwMDE3ZWMyZTY0YTkz",
   "tracks": [
+    {
+      "added_at": "2022-02-07 09:51:15",
+      "album": {
+        "name": "Pity Party",
+        "url": "https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk"
+    },
+    {
+      "added_at": "2022-02-07 09:51:15",
+      "album": {
+        "name": "Child - SM STATION : NCT LAB",
+        "url": "https://open.spotify.com/album/4XGMXl3AMjb11YIKdeujj1"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "duration_ms": 211069,
+      "name": "Child",
+      "url": "https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea"
+    },
+    {
+      "added_at": "2022-02-07 09:49:41",
+      "album": {
+        "name": "Pilmography",
+        "url": "https://open.spotify.com/album/6ycojlJlzjC6T9IlWYI0PK"
+      },
+      "artists": [
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/53tf1wMP5cj1fqJVaVm3on"
+        }
+      ],
+      "duration_ms": 227596,
+      "name": "Voiceless",
+      "url": "https://open.spotify.com/track/4LK6Kbz62qTjzhA9MbXuRB"
+    },
     {
       "added_at": "2022-02-03 06:02:18",
       "album": {

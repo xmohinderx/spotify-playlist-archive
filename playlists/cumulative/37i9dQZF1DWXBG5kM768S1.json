@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 188796,
       "name": "Aldri i livet",
       "url": "https://open.spotify.com/track/7gadRhiN4RURlW5wmPyJ0F"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 250403,
       "name": "Alt det som skinner",
       "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 274124,
       "name": "Bak En Sky Heim",
       "url": "https://open.spotify.com/track/4tNknyVhJDxgQxjCZEoqfN"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 138412,
       "name": "De N\u00e6re Ting",
       "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 254380,
       "name": "Det Hainnle Om \u00c5 Leve",
       "url": "https://open.spotify.com/track/2WJ14O84lqRcgjPOSgf6tI"
@@ -643,7 +643,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 226453,
       "name": "Elefanten i rommet",
       "url": "https://open.spotify.com/track/4051cW2QEyKfTfLeLgyzOb"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 366977,
       "name": "En St\u00f8rre Dag",
       "url": "https://open.spotify.com/track/6eTgnzT2IGzcHLqb3XDDHA"
@@ -1048,6 +1048,24 @@
     },
     {
       "album": {
+        "name": "Hva kj\u00e6rlighet er",
+        "url": "https://open.spotify.com/album/30ORqFtorGGkXnY1Bl5TLx"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254481,
+      "name": "Hva kj\u00e6rlighet er",
+      "url": "https://open.spotify.com/track/788MR92vsPMTRVlZSAaxd4"
+    },
+    {
+      "album": {
         "name": "Hjarteskjell",
         "url": "https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC"
       },
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 173798,
       "name": "I ungdommen",
       "url": "https://open.spotify.com/track/5XPqE4SyHOXygx8vLFmV8p"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 221866,
       "name": "Miriams sang",
       "url": "https://open.spotify.com/track/2dlxb5AyIThRLQwhh9tXml"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 141120,
       "name": "Mitt Hjerte Er Ditt",
       "url": "https://open.spotify.com/track/6T95elNl2CwTnJXAUUq9LI"
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 186552,
       "name": "Pusterom",
       "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
@@ -1739,7 +1757,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 203145,
       "name": "Sommeren legg ifra",
       "url": "https://open.spotify.com/track/7mxUWWdYEzZM6gHNmIgyy7"
@@ -1775,7 +1793,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 181413,
       "name": "Stille Vann",
       "url": "https://open.spotify.com/track/6EbPwM0nNa6T3Hy1pDBvl0"
@@ -1865,7 +1883,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 285653,
       "name": "S\u00f8tten \u00e5r",
       "url": "https://open.spotify.com/track/4gYmhjHmokTmLfBO13wIg3"
@@ -1901,7 +1919,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 386333,
       "name": "Tapt Paradis",
       "url": "https://open.spotify.com/track/5nxWnKvhtGxvPl7tkR9jvi"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 251429,
       "name": "Tru",
       "url": "https://open.spotify.com/track/78OG4KeOteCs5a91xWDBHi"
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Varmere vind i vente - rett og slett en sommersang",
       "url": "https://open.spotify.com/track/0c1JadNYdOyD7jV5MUce8x"
@@ -2170,6 +2188,24 @@
     },
     {
       "album": {
+        "name": "Morild",
+        "url": "https://open.spotify.com/album/1h9JILdyYsamDDHVbehYfG"
+      },
+      "artists": [
+        {
+          "name": "Helene B\u00f8ksle",
+          "url": "https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192746,
+      "name": "Vise i mai",
+      "url": "https://open.spotify.com/track/3U8IQozhvijdKg7JBFXqCm"
+    },
+    {
+      "album": {
         "name": "Vit at det ga\u030ar \u00f8ve",
         "url": "https://open.spotify.com/album/4WvZPJICxM0vvhjvMvbZBf"
       },
@@ -2199,7 +2235,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 198357,
       "name": "Vuggesang",
       "url": "https://open.spotify.com/track/44mUxIp2hjL0gQBVM5gx5a"

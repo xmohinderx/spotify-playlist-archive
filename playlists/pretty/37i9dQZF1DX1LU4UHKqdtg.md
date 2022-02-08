@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: ATEEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,986 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,414 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 49 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 |
 | 50 | [Yours](https://open.spotify.com/track/5NLIIwf9UPaT04xU9aaZyr) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [智異山 オリジナル・サウンドトラック Part.4](https://open.spotify.com/album/0qK9PxAMNAwc4fPqsCyxwj) | 4:24 |
 
-Snapshot ID: `MTY0NDE5NDQ4NSwwMDAwMDAwMDMxYTdjNGQwMzM1ZjNlMmJlNWI1OWEwZjhkODNhNDI5`
+Snapshot ID: `MTY0NDI4MDkyNCwwMDAwMDAwMDMxYTdjNGQwMzM1ZjNlMmJlNWI1OWEwZjhkODNhNDI5`

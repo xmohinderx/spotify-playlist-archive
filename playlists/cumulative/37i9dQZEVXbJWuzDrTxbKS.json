@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 196841,
       "name": "3D",
       "url": "https://open.spotify.com/track/5mmWXDatUx0Kjcb7d1YY61"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 192986,
       "name": "All For Us - from the HBO Original Series Euphoria",
       "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2021-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -3016,6 +3016,24 @@
     },
     {
       "album": {
+        "name": "Eat Your Salad",
+        "url": "https://open.spotify.com/album/6W0RNAULq6QYSf6cjPl7U2"
+      },
+      "artists": [
+        {
+          "name": "Citi Z\u0113ni",
+          "url": "https://open.spotify.com/artist/0kJje6gpjclOrCsPxZtoAW"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181795,
+      "name": "Eat Your Salad",
+      "url": "https://open.spotify.com/track/0rNIEBlBuo5108lnHyGbqJ"
+    },
+    {
+      "album": {
         "name": "Eazy",
         "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
       },
@@ -3929,7 +3947,7 @@
       ],
       "date_added": "2021-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -4807,6 +4825,24 @@
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "album": {
+        "name": "Yeh I Fuckin' Did It / I'm Tired (From \"Euphoria\" An Original HBO Series)",
+        "url": "https://open.spotify.com/album/48kRTccY4Ii9qyoT6fxRVh"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157802,
+      "name": "I'm Tired - From \"Euphoria\" An Original HBO Series",
+      "url": "https://open.spotify.com/track/2QH0jR41d11GTubjRSRdJo"
     },
     {
       "album": {
@@ -7315,7 +7351,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 157444,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6GomT970rCOkKAyyrwJeZi"
@@ -7431,7 +7467,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 226198,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
@@ -8641,7 +8677,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 153028,
       "name": "Pl\u0101ksteris",
       "url": "https://open.spotify.com/track/1oGmFrMqitiA38yJZnvWin"
@@ -9005,6 +9041,24 @@
       "duration_ms": 198613,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN"
+    },
+    {
+      "album": {
+        "name": "Rich Itch",
+        "url": "https://open.spotify.com/album/17sbXS1eBnY3GeMsWxJX8x"
+      },
+      "artists": [
+        {
+          "name": "M\u0113s J\u016bs M\u012blam",
+          "url": "https://open.spotify.com/artist/4Y74CWqy9sHPdY84V13zu8"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "Rich Itch 1",
+      "url": "https://open.spotify.com/track/7a1wfzILCR56vs9aJHuPir"
     },
     {
       "album": {
@@ -11717,7 +11771,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 174567,
       "name": "When I R.I.P.",
       "url": "https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf"

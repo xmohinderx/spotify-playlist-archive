@@ -1,12 +1,12 @@
 {
   "description": "Uplifting jazz to get you in good mood.",
-  "num_followers": 41471,
+  "num_followers": 41594,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDE5NDQyNSwwMDAwMDAwMDU2ODIyZGJhODQ5NTk4MjQ2OTc2MmYzMGM4OWVjY2Ez",
+  "snapshot_id": "MTY0NDI4MDg2MywwMDAwMDAwMGYwMmNkMGZmNmE0NWQzNmM4OWYxZmQ4ZjVkNzc5NzA5",
   "tracks": [
     {
       "added_at": "2022-01-13 14:52:04",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Samara Joy",
-        "url": "https://open.spotify.com/album/7odhq8nBHDrTgYXIuV6g23"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "Everything Happens to Me",
-      "url": "https://open.spotify.com/track/7qFaoRVHhqowCFEi3McfkF"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
         "name": "You Can't Lose with the Blues",
         "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
       },
@@ -59,18 +43,18 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+        "name": "Samara Joy",
+        "url": "https://open.spotify.com/album/7odhq8nBHDrTgYXIuV6g23"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 167160,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
+      "duration_ms": 227893,
+      "name": "Everything Happens to Me",
+      "url": "https://open.spotify.com/track/7qFaoRVHhqowCFEi3McfkF"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -111,6 +95,22 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/1RcLTd97Z6CGEXuKxyornO"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
         "name": "Happy Moods",
         "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
@@ -123,6 +123,38 @@
       "duration_ms": 347453,
       "name": "Pavanne",
       "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Gettin' Around",
+        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 422400,
+      "name": "Le Coiffeur",
+      "url": "https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Let's Do It",
+      "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -159,38 +191,6 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "Let's Do It",
-      "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "Gettin' Around",
-        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 422400,
-      "name": "Le Coiffeur",
-      "url": "https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Dinah! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
         "name": "Blue Trane",
         "url": "https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x"
       },
@@ -255,38 +239,34 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+        "name": "Dinah! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/28EUtXFCY6AuKxFDyLt1Ol"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        },
-        {
-          "name": "Ron McMaster",
-          "url": "https://open.spotify.com/artist/4JQpzBKMvxrA6UqO4Z0if4"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 120133,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/7moJWeYfMTr7iWgSHvwF7Y"
+      "duration_ms": 225840,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/48RDHEZQhUHFfwrJ7o7Owr"
     },
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+        "name": "Paris In The Rain",
+        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
         }
       ],
-      "duration_ms": 201400,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
+      "duration_ms": 246640,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -307,18 +287,18 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "At The Village Vanguard",
-        "url": "https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj"
+        "name": "It's All Right!",
+        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
       },
       "artists": [
         {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+          "name": "Wynton Kelly Trio",
+          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
         }
       ],
-      "duration_ms": 409640,
-      "name": "Waltz For Debby - Live At The Village Vanguard, New York / 1961 / Take 2",
-      "url": "https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm"
+      "duration_ms": 170053,
+      "name": "It's All Right",
+      "url": "https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -339,34 +319,34 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "It's All Right!",
-        "url": "https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad"
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
       },
       "artists": [
         {
-          "name": "Wynton Kelly Trio",
-          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 170053,
-      "name": "It's All Right",
-      "url": "https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk"
+      "duration_ms": 192173,
+      "name": "(Getting Some) Fun out of Life",
+      "url": "https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2"
     },
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Paris In The Rain",
-        "url": "https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp"
+        "name": "At The Village Vanguard",
+        "url": "https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj"
       },
       "artists": [
         {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 246640,
-      "name": "Tea For Two",
-      "url": "https://open.spotify.com/track/63DeUSSaejT2QBXkDYwXWt"
+      "duration_ms": 409640,
+      "name": "Waltz For Debby - Live At The Village Vanguard, New York / 1961 / Take 2",
+      "url": "https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -391,38 +371,6 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 192173,
-      "name": "(Getting Some) Fun out of Life",
-      "url": "https://open.spotify.com/track/1WWVlkmJSdLBSiqF2m8Ex2"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
-        }
-      ],
-      "duration_ms": 309360,
-      "name": "Paul's Pal - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
         "name": "Cafe Society (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A"
       },
@@ -439,6 +387,42 @@
       "duration_ms": 150800,
       "name": "Mountain Greenery",
       "url": "https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        },
+        {
+          "name": "Ron McMaster",
+          "url": "https://open.spotify.com/artist/4JQpzBKMvxrA6UqO4Z0if4"
+        }
+      ],
+      "duration_ms": 120133,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/7moJWeYfMTr7iWgSHvwF7Y"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -471,6 +455,22 @@
       "duration_ms": 153826,
       "name": "John Hardy's Wife",
       "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 309360,
+      "name": "Paul's Pal - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -511,38 +511,6 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Secrets of My Heart",
-        "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
-      },
-      "artists": [
-        {
-          "name": "Sarah McKenzie",
-          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
-        }
-      ],
-      "duration_ms": 238587,
-      "name": "I Fell in Love with You",
-      "url": "https://open.spotify.com/track/5qGT8l7gwwl4UxjIkNnyCH"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "This Time I'm Swingin'/Pretty Baby",
-        "url": "https://open.spotify.com/album/6GiiT8KIGNmVRdVM7uabcq"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 223773,
-      "name": "On The Street Where You Live",
-      "url": "https://open.spotify.com/track/2BbC6eZK6RJE3hYuMGZELY"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
         "name": "Buen Sabor",
         "url": "https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 482592,
       "name": "Dakar",
       "url": "https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "This Time I'm Swingin'/Pretty Baby",
+        "url": "https://open.spotify.com/album/6GiiT8KIGNmVRdVM7uabcq"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 223773,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/2BbC6eZK6RJE3hYuMGZELY"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Get Happy! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 142333,
+      "name": "A-Tisket, A-Tasket",
+      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Get Happy! (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n"
+        "name": "Secrets of My Heart",
+        "url": "https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Sarah McKenzie",
+          "url": "https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2"
         }
       ],
-      "duration_ms": 142333,
-      "name": "A-Tisket, A-Tasket",
-      "url": "https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg"
+      "duration_ms": 238587,
+      "name": "I Fell in Love with You",
+      "url": "https://open.spotify.com/track/5qGT8l7gwwl4UxjIkNnyCH"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -635,54 +635,6 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Ramblin'",
-        "url": "https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs"
-      },
-      "artists": [
-        {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
-        }
-      ],
-      "duration_ms": 298013,
-      "name": "Ramblin'",
-      "url": "https://open.spotify.com/track/3PI3LtxqQtlQCxUxKqDfqm"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "The Great American Songbook",
-        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 201466,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "It's Time For Ernestine",
-        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 134973,
-      "name": "Love for Sale",
-      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
@@ -699,6 +651,22 @@
       "duration_ms": 188960,
       "name": "Line For Lyons",
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Ramblin'",
+        "url": "https://open.spotify.com/album/6IF4t8d8X6WTr3KR5RRpSs"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 298013,
+      "name": "Ramblin'",
+      "url": "https://open.spotify.com/track/3PI3LtxqQtlQCxUxKqDfqm"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -739,6 +707,74 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
+        "name": "Follow Your Heart",
+        "url": "https://open.spotify.com/album/2KPizBplSDIJ16sDqjLFKT"
+      },
+      "artists": [
+        {
+          "name": "Lee Wiley",
+          "url": "https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "It's Only a Paper Moon",
+      "url": "https://open.spotify.com/track/27Gqrcetxl6L6UOyhKrLwo"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "My Kinda Swing",
+        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 138986,
+      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "The Great American Songbook",
+        "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 201466,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 358760,
+      "name": "Who Cares?",
+      "url": "https://open.spotify.com/track/71igtS6V0X6v1s53CWS1nO"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dakota Staton",
         "url": "https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl"
       },
@@ -775,38 +811,54 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Know What I Mean? [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/6u8Ort30hKbxtKurrQlJhX"
+        "name": "New Soil",
+        "url": "https://open.spotify.com/album/2jutpmWgWgnoYm6wgy1I2Z"
       },
       "artists": [
         {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
         }
       ],
-      "duration_ms": 358760,
-      "name": "Who Cares?",
-      "url": "https://open.spotify.com/track/71igtS6V0X6v1s53CWS1nO"
+      "duration_ms": 445426,
+      "name": "Greasy",
+      "url": "https://open.spotify.com/track/5rcEapnWT4NrPSFT5co106"
     },
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Things Are Swingin'",
-        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
+        "name": "The Complete RCA Victor Recordings",
+        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
       },
       "artists": [
         {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 130199,
-      "name": "Ridin' High",
-      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
+      "duration_ms": 439506,
+      "name": "The Way You Look Tonight - 2003 Remastered",
+      "url": "https://open.spotify.com/track/7yYgBAj3yaMdTgq7fIvDlQ"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "It's Time For Ernestine",
+        "url": "https://open.spotify.com/album/4VEMfnBuWDt6Ims4wQWH8L"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 134973,
+      "name": "Love for Sale",
+      "url": "https://open.spotify.com/track/2pEBaVA84jg2kDyGa2rGDf"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -827,50 +879,58 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Follow Your Heart",
-        "url": "https://open.spotify.com/album/2KPizBplSDIJ16sDqjLFKT"
+        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
+        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
       },
       "artists": [
         {
-          "name": "Lee Wiley",
-          "url": "https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 192213,
-      "name": "It's Only a Paper Moon",
-      "url": "https://open.spotify.com/track/27Gqrcetxl6L6UOyhKrLwo"
+      "duration_ms": 209826,
+      "name": "New York, New York (with Tony Bennett)",
+      "url": "https://open.spotify.com/track/51ByjYKVpToZk8v10PLYCO"
     },
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "My Kinda Swing",
-        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 138986,
-      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/7BWHPwLi3s4rOnKXooZQXP"
+      "duration_ms": 156493,
+      "name": "Straighten Up And Fly Right",
+      "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
     },
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "New Soil",
-        "url": "https://open.spotify.com/album/2jutpmWgWgnoYm6wgy1I2Z"
+        "name": "Clifford Brown And Max Roach",
+        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
       "artists": [
         {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
         }
       ],
-      "duration_ms": 445426,
-      "name": "Greasy",
-      "url": "https://open.spotify.com/track/5rcEapnWT4NrPSFT5co106"
+      "duration_ms": 410666,
+      "name": "Joy Spring",
+      "url": "https://open.spotify.com/track/2oMaXY0yiWhAEWD7SutXh2"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -907,94 +967,18 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "Things Are Swingin'",
+        "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 156493,
-      "name": "Straighten Up And Fly Right",
-      "url": "https://open.spotify.com/track/3vXRZhHnVB3Z5scbRgH1ah"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
-        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        },
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "New York, New York (with Tony Bennett)",
-      "url": "https://open.spotify.com/track/51ByjYKVpToZk8v10PLYCO"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "Clifford Brown And Max Roach",
-        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
-      },
-      "artists": [
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
-        },
-        {
-          "name": "Max Roach Quintet",
-          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
-        }
-      ],
-      "duration_ms": 410666,
-      "name": "Joy Spring",
-      "url": "https://open.spotify.com/track/2oMaXY0yiWhAEWD7SutXh2"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "Oh! Look At Me Now",
-        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
-      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "The Complete RCA Victor Recordings",
-        "url": "https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        },
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 439506,
-      "name": "The Way You Look Tonight - 2003 Remastered",
-      "url": "https://open.spotify.com/track/7yYgBAj3yaMdTgq7fIvDlQ"
+      "duration_ms": 130199,
+      "name": "Ridin' High",
+      "url": "https://open.spotify.com/track/531BfkXiRcoBDqRaJWKfqT"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
         "name": "Cheek To Cheek: The Complete Duet Recordings",
         "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
       },
@@ -1067,34 +1067,18 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+        "name": "Desafinado",
+        "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 133213,
-      "name": "It Had to Be You",
-      "url": "https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "Score",
-        "url": "https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16"
-      },
-      "artists": [
-        {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Morning Song",
-      "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
+      "duration_ms": 173160,
+      "name": "I'm Looking Over A Four Leaf Clover (Jazz Samba)",
+      "url": "https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1119,70 +1103,70 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Desafinado",
-        "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
+        "name": "Score",
+        "url": "https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
         }
       ],
-      "duration_ms": 173160,
-      "name": "I'm Looking Over A Four Leaf Clover (Jazz Samba)",
-      "url": "https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf"
+      "duration_ms": 249666,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ"
     },
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Getz Meets Mulligan In Hi-Fi",
-        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
+        "name": "Lady Sings the Blues",
+        "url": "https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Rebecca Ferguson",
+          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+        }
+      ],
+      "duration_ms": 168573,
+      "name": "Get Happy",
+      "url": "https://open.spotify.com/track/7ndRluuhCWFbz9QdrxIuso"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Oh! Look At Me Now",
+        "url": "https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "I'm Beginning To See The Light - 2001 Digital Remaster",
+      "url": "https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Got You on My Mind",
+        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         },
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "William Galison",
+          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
         }
       ],
-      "duration_ms": 219266,
-      "name": "Anything Goes",
-      "url": "https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "Peggy Lee - The Great American Songbook",
-        "url": "https://open.spotify.com/album/2dKw7DRG9yxRdn0v02p8q7"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "On the Sunny Side of the Street",
-      "url": "https://open.spotify.com/track/1oUUEvFBplfRbVwMkp8v8Z"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "Way Out West (OJC Remaster)",
-        "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        }
-      ],
-      "duration_ms": 343120,
-      "name": "I'm an Old Cowhand",
-      "url": "https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw"
+      "duration_ms": 152531,
+      "name": "Back in Your Own Back Yard",
+      "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1219,54 +1203,22 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+        "name": "Getz Meets Mulligan In Hi-Fi",
+        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "Sarah Vaughan with Clifford Brown (Expanded, Hd Remastered)",
-        "url": "https://open.spotify.com/album/16vuKfE2bGmNv3hvG7K7dT"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 252316,
-      "name": "He's My Guy",
-      "url": "https://open.spotify.com/track/1kk0zlIS3VOGmv34trEq6C"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "Got You on My Mind",
-        "url": "https://open.spotify.com/album/2JEelOrzOn2cJT9O5CSA1S"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         },
         {
-          "name": "William Galison",
-          "url": "https://open.spotify.com/artist/7h0BtqCDYMVLc57uiinjxn"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 152531,
-      "name": "Back in Your Own Back Yard",
-      "url": "https://open.spotify.com/track/7hZ5vjaWl6KxvTXo1aMorp"
+      "duration_ms": 219266,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1291,18 +1243,66 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Lady Sings the Blues",
-        "url": "https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys"
+        "name": "Peggy Lee - The Great American Songbook",
+        "url": "https://open.spotify.com/album/2dKw7DRG9yxRdn0v02p8q7"
       },
       "artists": [
         {
-          "name": "Rebecca Ferguson",
-          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 168573,
-      "name": "Get Happy",
-      "url": "https://open.spotify.com/track/7ndRluuhCWFbz9QdrxIuso"
+      "duration_ms": 193720,
+      "name": "On the Sunny Side of the Street",
+      "url": "https://open.spotify.com/track/1oUUEvFBplfRbVwMkp8v8Z"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Way Out West (OJC Remaster)",
+        "url": "https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "duration_ms": 343120,
+      "name": "I'm an Old Cowhand",
+      "url": "https://open.spotify.com/track/6VRSZGxuhPGOCgUUAnAaUw"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Sarah Vaughan with Clifford Brown (Expanded, Hd Remastered)",
+        "url": "https://open.spotify.com/album/16vuKfE2bGmNv3hvG7K7dT"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 252316,
+      "name": "He's My Guy",
+      "url": "https://open.spotify.com/track/1kk0zlIS3VOGmv34trEq6C"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 250280,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
+        "name": "Chris Connor",
+        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 171240,
+      "name": "You Make Me Feel so Young",
+      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
         "name": "Far Away Lands",
         "url": "https://open.spotify.com/album/2dtIc2zQas1dfBadi57ohi"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+        "name": "Bing With A Beat",
+        "url": "https://open.spotify.com/album/16nNC5RMywKfmx9shprH12"
       },
       "artists": [
         {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 143800,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
+      "duration_ms": 161546,
+      "name": "Dream a Little Dream of Me",
+      "url": "https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Bing With A Beat",
-        "url": "https://open.spotify.com/album/16nNC5RMywKfmx9shprH12"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 161546,
-      "name": "Dream a Little Dream of Me",
-      "url": "https://open.spotify.com/track/49biLp7sPTHLW6sQib5F0V"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
         "name": "Sonny Stitt Sits In With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 281093,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/4RLNFZ5CHaLH1URS90ycgP"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Chris Connor",
-        "url": "https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD"
+        "name": "Gone For The Day",
+        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
       },
       "artists": [
         {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
         }
       ],
-      "duration_ms": 171240,
-      "name": "You Make Me Feel so Young",
-      "url": "https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF"
+      "duration_ms": 137893,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Gone For The Day",
-        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
       "artists": [
         {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
         }
       ],
-      "duration_ms": 137893,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
+      "duration_ms": 254800,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1503,22 +1519,6 @@
       "duration_ms": 319666,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1jWOaHSKT7CUcBuLdIcOTp"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1555,6 +1555,26 @@
       "duration_ms": 219160,
       "name": "I've Told Ev'ry Little Star",
       "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Sarah Vaughan",
+        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        },
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "duration_ms": 306133,
+      "name": "It's Crazy",
+      "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1607,22 +1627,6 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Sophisticated Swing",
-        "url": "https://open.spotify.com/album/2HSXNwybsegzhAgASpZcHD"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 208960,
-      "name": "Jeannie",
-      "url": "https://open.spotify.com/track/2S16YRyDugzBKy2FglLBLz"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
         "name": "Introducing",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
@@ -1635,6 +1639,22 @@
       "duration_ms": 300346,
       "name": "It's All Right With Me - Rudy Van Gelder Edition/Digital Remaster/2006",
       "url": "https://open.spotify.com/track/0fnMpSyjIY0PmtHlopoIow"
+    },
+    {
+      "added_at": "2022-01-13 14:52:04",
+      "album": {
+        "name": "Sophisticated Swing",
+        "url": "https://open.spotify.com/album/2HSXNwybsegzhAgASpZcHD"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Jeannie",
+      "url": "https://open.spotify.com/track/2S16YRyDugzBKy2FglLBLz"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1671,22 +1691,18 @@
     {
       "added_at": "2022-01-13 14:52:04",
       "album": {
-        "name": "Sarah Vaughan",
-        "url": "https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG"
+        "name": "Sonic Boom",
+        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
       },
       "artists": [
         {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        },
-        {
-          "name": "Clifford Brown",
-          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
         }
       ],
-      "duration_ms": 306133,
-      "name": "It's Crazy",
-      "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
+      "duration_ms": 333826,
+      "name": "Uncle Rough",
+      "url": "https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS"
     },
     {
       "added_at": "2022-01-13 14:52:04",
@@ -1703,22 +1719,6 @@
       "duration_ms": 144800,
       "name": "I Ain't Got Nobody",
       "url": "https://open.spotify.com/track/1mYU1xNK2THM44DpukZGY4"
-    },
-    {
-      "added_at": "2022-01-13 14:52:04",
-      "album": {
-        "name": "Sonic Boom",
-        "url": "https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 333826,
-      "name": "Uncle Rough",
-      "url": "https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS"
     }
   ],
   "unique_name": "Feel Good Jazz",

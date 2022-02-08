@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0kbJZpiYdZl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0kbJZpiYdZl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0kbJZpiYdZl)
 
-### Hot Hits USA
+### [Hot Hits USA](https://open.spotify.com/playlist/2brDS0QQWX5e1U2TwG3JDB)
 
 > The hottest tracks in the United States\. Cover: Justin Bieber
 

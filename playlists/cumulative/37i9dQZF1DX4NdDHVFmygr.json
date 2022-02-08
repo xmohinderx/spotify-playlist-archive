@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Regalo",
+        "url": "https://open.spotify.com/album/6QYA0gxCZ0mRO4XgpNPmTf"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "1000 Fois",
+      "url": "https://open.spotify.com/track/0b8ePOUVHahjftHqZXEa5I"
+    },
+    {
+      "album": {
         "name": "3amarli Kasi",
         "url": "https://open.spotify.com/album/3aPbk4uvzin5SftEiBL4q3"
       },
@@ -187,7 +205,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 126955,
       "name": "Bianco",
       "url": "https://open.spotify.com/track/2EdXbgelxBBEiNvRb3fpLv"

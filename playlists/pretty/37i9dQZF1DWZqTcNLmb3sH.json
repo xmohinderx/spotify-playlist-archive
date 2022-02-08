@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : KGF 2",
-  "num_followers": 21079,
+  "num_followers": 21112,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzg4OTczOCwwMDAwMDEzYjAwMDAwMTdlYmY3NmMzZDIwMDAwMDE3ZWJlOTc3N2Mx",
+  "snapshot_id": "MTY0NDIxMDU5MCwwMDAwMDEzYzAwMDAwMTdlZDI5Njk0YmQwMDAwMDE3ZWJlOTc3N2Mx",
   "tracks": [
     {
       "added_at": "2022-02-03 09:54:34",
@@ -123,6 +123,26 @@
       "duration_ms": 229805,
       "name": "Rere Rere Bhajarangi",
       "url": "https://open.spotify.com/track/3XpK2yXQiYJQkP40geHtI1"
+    },
+    {
+      "added_at": "2022-02-07 05:09:50",
+      "album": {
+        "name": "Rich Rich (From \"Maha Purusha\")",
+        "url": "https://open.spotify.com/album/5FxumcFX7jWQGCODh7yu4m"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Santhosh Hariharan",
+          "url": "https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Rich Rich (From \"Maha Purusha\")",
+      "url": "https://open.spotify.com/track/2xvbI9OQX8cAUviRI1HUjW"
     },
     {
       "added_at": "2022-01-28 08:47:08",

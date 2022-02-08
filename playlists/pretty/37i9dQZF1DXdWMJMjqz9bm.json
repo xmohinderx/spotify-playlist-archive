@@ -1,12 +1,12 @@
 {
   "description": "A little bit of rap & a little bit of pop. Featuring new music by Arizona Zervas.",
-  "num_followers": 138025,
+  "num_followers": 138115,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1MDk4MCwwMDAwMDBmNTAwMDAwMTdlYzMxZDNjMDcwMDAwMDE3ZWMxNWI5ZWJh",
+  "snapshot_id": "MTY0NDI2OTk1MywwMDAwMDBmNjAwMDAwMTdlZDYyMDYyZDcwMDAwMDE3ZWMxNWI5ZWJh",
   "tracks": [
     {
       "added_at": "2022-02-04 05:03:00",
@@ -169,6 +169,22 @@
       "url": "https://open.spotify.com/track/4yIHTPSFg5Ma41IJNE0GUL"
     },
     {
+      "added_at": "2021-11-16 22:00:15",
+      "album": {
+        "name": "lead me on",
+        "url": "https://open.spotify.com/album/3X368boMWsdwZGW8ByzNU9"
+      },
+      "artists": [
+        {
+          "name": "sammy rash",
+          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
+        }
+      ],
+      "duration_ms": 127802,
+      "name": "lead me on",
+      "url": "https://open.spotify.com/track/45HHTHXv7gQ5q2r89ui2Fy"
+    },
+    {
       "added_at": "2022-02-04 05:03:00",
       "album": {
         "name": "you",
@@ -299,22 +315,6 @@
       "duration_ms": 165333,
       "name": "Strawberry Skies",
       "url": "https://open.spotify.com/track/7xyPdtIfDcCGgB8tkVskLr"
-    },
-    {
-      "added_at": "2021-11-16 22:00:15",
-      "album": {
-        "name": "lead me on",
-        "url": "https://open.spotify.com/album/3X368boMWsdwZGW8ByzNU9"
-      },
-      "artists": [
-        {
-          "name": "sammy rash",
-          "url": "https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm"
-        }
-      ],
-      "duration_ms": 127802,
-      "name": "lead me on",
-      "url": "https://open.spotify.com/track/45HHTHXv7gQ5q2r89ui2Fy"
     },
     {
       "added_at": "2022-01-28 17:05:29",

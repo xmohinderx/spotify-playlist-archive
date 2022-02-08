@@ -1,13 +1,45 @@
 {
   "description": "not not pop. featuring new music by WizTheMc.",
-  "num_followers": 629224,
+  "num_followers": 629315,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDAwNDM4NCwwMDAwMDI0YjAwMDAwMTdlYzY0YzFkOTkwMDAwMDE3ZWMxNmU3NDhl",
+  "snapshot_id": "MTY0NDI3MzUyNywwMDAwMDI0ZDAwMDAwMTdlZDY1NmU5YjAwMDAwMDE3ZWMxNmU3NDhl",
   "tracks": [
+    {
+      "added_at": "2022-02-07 22:20:20",
+      "album": {
+        "name": "Escalator",
+        "url": "https://open.spotify.com/album/15bXChIVRMbSDYDoDoz3bG"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "duration_ms": 146298,
+      "name": "Escalator",
+      "url": "https://open.spotify.com/track/0FpsrB0Kivu69LD8TaywhD"
+    },
+    {
+      "added_at": "2022-02-07 22:38:47",
+      "album": {
+        "name": "Poster Girl",
+        "url": "https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph"
+      },
+      "artists": [
+        {
+          "name": "Talia Goddess",
+          "url": "https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw"
+        }
+      ],
+      "duration_ms": 174330,
+      "name": "Poster Girl",
+      "url": "https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn"
+    },
     {
       "added_at": "2022-02-04 05:03:00",
       "album": {

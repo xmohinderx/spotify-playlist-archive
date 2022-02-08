@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZQaaqNMbbXa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZQaaqNMbbXa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZQaaqNMbbXa)
 
-### Dance Pop Hits
+### [Dance Pop Hits](https://open.spotify.com/playlist/1qshYoxyr9mriwE8obWHoK)
 
 > Hit the dance floor with your favorite bops!
 

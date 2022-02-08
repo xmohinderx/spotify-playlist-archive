@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 247659,
       "name": "40 Days 40 Nights",
       "url": "https://open.spotify.com/track/5mowBXcS0kBQ347Hb48QTc"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 212063,
       "name": "Already Won (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 146803,
       "name": "Alright (feat. 24kGoldn & Quavo)",
       "url": "https://open.spotify.com/track/5T0ahhwM0f4YYExfIGEHVw"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 199866,
       "name": "Belly, The Weeknd - Die For It (ft. Nas)",
       "url": "https://open.spotify.com/track/2Nc1v8I86FUGorwjXKo0in"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 156719,
       "name": "Candy (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/37AGgp9VP8TVJBfEat74Bj"
@@ -1114,6 +1114,28 @@
     },
     {
       "album": {
+        "name": "Gardner Express (Deluxe)",
+        "url": "https://open.spotify.com/album/4qtoUHReyTTUUGMu8hpDGr"
+      },
+      "artists": [
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162002,
+      "name": "Cool, Calm & Collected (feat. Swae Lee)",
+      "url": "https://open.spotify.com/track/5DA10wRfycixAJMmi1aKqt"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },
@@ -1125,7 +1147,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 123549,
       "name": "Coupe",
       "url": "https://open.spotify.com/track/4wNKxMbE3n1gRm4F6OaCP1"
@@ -1349,7 +1371,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 171888,
       "name": "DOORS UNLOCKED (feat. Ty Dolla $ign & Polo G)",
       "url": "https://open.spotify.com/track/7CmNyEQUpNSX6RMM5Fw3os"
@@ -1481,7 +1503,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 145542,
       "name": "Drip Too Hard (Lil Baby & Gunna)",
       "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
@@ -1601,7 +1623,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 168758,
       "name": "first order of business",
       "url": "https://open.spotify.com/track/4d6z0mKVcnhE5x0YWvTexh"
@@ -2093,7 +2115,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 220486,
       "name": "High Fashion (feat. Mustard)",
       "url": "https://open.spotify.com/track/07KXEDMj78x68D884wgVEm"
@@ -2710,6 +2732,32 @@
     },
     {
       "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255093,
+      "name": "LOVE (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/19FE7YCq8xxijzQNqFnGAd"
+    },
+    {
+      "album": {
         "name": "What You Expect",
         "url": "https://open.spotify.com/album/6aLBUWVN4WcBAJeJ7nI6j1"
       },
@@ -2835,7 +2883,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 180000,
       "name": "Me (FWM) (feat. A$AP Ferg)",
       "url": "https://open.spotify.com/track/4IfJuDOnqRfVVnzsDaqPeL"
@@ -3245,7 +3293,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 173986,
       "name": "Number 2 (feat. Future & 21 Savage)",
       "url": "https://open.spotify.com/track/0bat8wCQURNkxmzrnEnfR9"
@@ -3939,7 +3987,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Ric Flair Drip (with Metro Boomin)",
       "url": "https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR"
@@ -3969,6 +4017,28 @@
       "duration_ms": 247714,
       "name": "Rich MF (feat. Polo G & Lil Durk)",
       "url": "https://open.spotify.com/track/5KQxun2WxwDMsV7HCN2ONK"
+    },
+    {
+      "album": {
+        "name": "The Lost Boy",
+        "url": "https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175827,
+      "name": "RNP (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/5lw8Mgb4LyhriPIC86gV6e"
     },
     {
       "album": {
@@ -4031,7 +4101,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 181733,
       "name": "ROCKSTAR (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
@@ -4093,7 +4163,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 173220,
       "name": "Run My Shit",
       "url": "https://open.spotify.com/track/7zVVkNOKWMd46nwMUgHPmL"
@@ -4133,7 +4203,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 172903,
       "name": "Scrub",
       "url": "https://open.spotify.com/track/28ZhRMf6jwUWNtJgOBR7HL"
@@ -4265,7 +4335,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 148459,
       "name": "Sinister (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/2Tq63TjpS5euE9jT1GWleN"
@@ -4661,7 +4731,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 200958,
       "name": "thailand",
       "url": "https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx"
@@ -4679,7 +4749,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 208546,
       "name": "The Announcement (Sex Drugs & Rock and Roll)",
       "url": "https://open.spotify.com/track/4OiBN3pUfo2ykf2xaEHWA6"
@@ -4805,7 +4875,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 197093,
       "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
       "url": "https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE"
@@ -5149,7 +5219,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 178431,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/5bjTLWk5cBOACEVPl3oqkU"
@@ -5421,7 +5491,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 175765,
       "name": "Woah",
       "url": "https://open.spotify.com/track/7ovsrGkfcZhLuXPtN4Z2qC"
@@ -5439,7 +5509,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 180930,
       "name": "Wockesha",
       "url": "https://open.spotify.com/track/0nqhKXDjsyBMvbeWmgijD0"

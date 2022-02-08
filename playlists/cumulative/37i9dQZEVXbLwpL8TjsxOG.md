@@ -208,7 +208,7 @@
 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 | 2021-03-27\* | 2021-09-19 |
 | [勁浪漫 超溫馨](https://open.spotify.com/track/78TbTvePaJ6FFdwSMSXARy) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [勁浪漫 超溫馨](https://open.spotify.com/album/17rzHi2IJyAQS0X8MnetY2) | 3:18 | 2021-11-28 |  |
 | [勿念](https://open.spotify.com/track/7jo1ash37IUB5NyviV7ajO) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [勿念](https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH) | 3:26 | 2021-10-16 |  |
-| [及時行樂](https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [及時行樂](https://open.spotify.com/album/01rSZF79mCVntQ445seVtF) | 3:54 | 2022-01-28 |  |
+| [及時行樂](https://open.spotify.com/track/3i5pZUWXYvDaZfQO5UDjPa) | [Kaho Hung](https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh) | [及時行樂](https://open.spotify.com/album/01rSZF79mCVntQ445seVtF) | 3:54 | 2022-01-28 | 2022-02-08 |
 | [反對無效](https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [反對無效](https://open.spotify.com/album/580J4faNuujItQTyIVzNxs) | 3:48 | 2021-06-06 |  |
 | [另一個諾貝爾](https://open.spotify.com/track/56Aal9B8gurDIRmlw4y74a) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [另一個諾貝爾](https://open.spotify.com/album/3zlC4E72LhS3svz4GFWvTR) | 4:14 | 2021-07-07 | 2021-08-24 |
 | [只收一半](https://open.spotify.com/track/4rtBWaUKppPfnOjH1sehyt) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [SABINA之淚](https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf) | 2:18 | 2021-09-01 | 2021-09-02 |
@@ -316,6 +316,6 @@
 | [風繼續吹](https://open.spotify.com/track/5RLv04XXxe0Nc4W7DTBJGT) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [風繼續吹](https://open.spotify.com/album/5wqxExrvXYQquHfwD9UtWu) | 5:08 | 2021-04-03 | 2021-04-05 |
 | [風靈物語](https://open.spotify.com/track/1SqvBGCkvXVFDAQf2ZJa02) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [風靈物語](https://open.spotify.com/album/6TYkKQdnTNnw5E1OQWZZ1m) | 4:09 | 2021-07-23 | 2021-07-24 |
 | [飞鸟和蝉](https://open.spotify.com/track/0O7O4sssbFxoNoB4QRGra1) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [飞鸟和蝉](https://open.spotify.com/album/4LGp83hqpcHOAk50c7IQeK) | 4:56 | 2021-03-27\* | 2021-04-26 |
-| [鯨落](https://open.spotify.com/track/1rTnGbIahUmq6fK8RWAXfd) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [鯨落](https://open.spotify.com/album/6TNTfqsjHvxcrzjaO3fvWC) | 4:02 | 2021-03-27\* | 2022-01-03 |
+| [鯨落](https://open.spotify.com/track/1rTnGbIahUmq6fK8RWAXfd) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [鯨落](https://open.spotify.com/album/6TNTfqsjHvxcrzjaO3fvWC) | 4:02 | 2021-03-27\* |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

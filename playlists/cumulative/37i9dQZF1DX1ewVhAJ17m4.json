@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All the best new songs from the pop punk scene. Cover: Knuckle Puck",
+  "description": "All the best new songs from the pop punk scene. Cover: Machine Gun Kelly + WILLOW",
   "name": "Pop Punk's Not Dead",
   "published_playlist_ids": [
     "1ZPuIvGxHPsGj5FOHcdzdv"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "2009",
+        "url": "https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d"
+      },
+      "artists": [
+        {
+          "name": "Aryia",
+          "url": "https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191145,
+      "name": "2009",
+      "url": "https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4"
+    },
     {
       "album": {
         "name": "2AM (And I Did It Again)",
@@ -389,6 +407,28 @@
       "duration_ms": 194789,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/5lYsGl4zkG80JH1FOYIxDI"
+    },
+    {
+      "album": {
+        "name": "emo girl (feat. WILLOW)",
+        "url": "https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159096,
+      "name": "emo girl (feat. WILLOW)",
+      "url": "https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ"
     },
     {
       "album": {
@@ -895,6 +935,32 @@
       "duration_ms": 167414,
       "name": "Love You Like I Used To",
       "url": "https://open.spotify.com/track/5YTCpQnzU6OiQqLndUuIBT"
+    },
+    {
+      "album": {
+        "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+        "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        },
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207280,
+      "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
+      "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
     },
     {
       "album": {

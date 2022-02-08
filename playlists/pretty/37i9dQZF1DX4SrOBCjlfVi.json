@@ -1,12 +1,12 @@
 {
   "description": "New joints of the week featuring Nicki Minaj, Yo Gotti, YG, and more. Cover: 2 Chainz",
-  "num_followers": 139982,
+  "num_followers": 140211,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzk1NDQ2MywwMDAwMDBhMDAwMDAwMTdlYzM1MjY0MzIwMDAwMDE3ZWMxN2Q0MzBj",
+  "snapshot_id": "MTY0NDI2MTQyNiwwMDAwMDBhMTAwMDAwMTdlZDU5ZTQ1NTQwMDAwMDE3ZWMxN2Q0MzBj",
   "tracks": [
     {
       "added_at": "2022-02-04 05:00:00",
@@ -381,6 +381,26 @@
       "url": "https://open.spotify.com/track/3Bpju6yr23IQ75f954uNto"
     },
     {
+      "added_at": "2022-02-07 19:17:06",
+      "album": {
+        "name": "ALIEN",
+        "url": "https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv"
+      },
+      "artists": [
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 212542,
+      "name": "30mgs (feat. Vory)",
+      "url": "https://open.spotify.com/track/6pkDAIRyrKq5NZVfD2Has8"
+    },
+    {
       "added_at": "2022-02-04 05:00:00",
       "album": {
         "name": "Hello (with Saucy Santana)",
@@ -571,22 +591,6 @@
       "duration_ms": 112866,
       "name": "Born With It",
       "url": "https://open.spotify.com/track/2OoNh4KrWVJjmIeYU9chtF"
-    },
-    {
-      "added_at": "2022-02-04 05:00:00",
-      "album": {
-        "name": "ALIEN",
-        "url": "https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv"
-      },
-      "artists": [
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 382898,
-      "name": "PLANET BEAM",
-      "url": "https://open.spotify.com/track/39e9hkMX40YCILJqWEyBKp"
     },
     {
       "added_at": "2022-02-04 05:00:00",

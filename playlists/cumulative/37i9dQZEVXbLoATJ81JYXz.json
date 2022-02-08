@@ -768,6 +768,24 @@
     },
     {
       "album": {
+        "name": "Bananas",
+        "url": "https://open.spotify.com/album/6LF5cslZo6GaeqLQc4bC4b"
+      },
+      "artists": [
+        {
+          "name": "Malou Prytz",
+          "url": "https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153716,
+      "name": "Bananas",
+      "url": "https://open.spotify.com/track/1XmehgmNmJSl8RCNQsQTCT"
+    },
+    {
+      "album": {
         "name": "Barn av v\u00e5r tid",
         "url": "https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm"
       },
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 140893,
       "name": "BLOCK",
       "url": "https://open.spotify.com/track/05yJ4zGSH2HP9cSVE4pfOW"
@@ -4396,6 +4414,24 @@
     },
     {
       "album": {
+        "name": "Hallabaloo",
+        "url": "https://open.spotify.com/album/2u7ztpJOb2L2SE7JbcBini"
+      },
+      "artists": [
+        {
+          "name": "Danne Str\u00e5hed",
+          "url": "https://open.spotify.com/artist/3nc8VYKBqtooEzkV1S1orW"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153710,
+      "name": "Hallabaloo",
+      "url": "https://open.spotify.com/track/1aNk5NV589KrdpbW0CmtAO"
+    },
+    {
+      "album": {
         "name": "Unge Med Extra Energi",
         "url": "https://open.spotify.com/album/6WZR2h3rFvJH8DKq3oHt6T"
       },
@@ -6807,7 +6843,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 173854,
       "name": "Lose my mind",
       "url": "https://open.spotify.com/track/5D2ZobLrLLFcPoOWw5YE0e"
@@ -7427,7 +7463,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 127947,
       "name": "Milli",
       "url": "https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK"
@@ -7699,6 +7735,24 @@
       "duration_ms": 164253,
       "name": "Motorola",
       "url": "https://open.spotify.com/track/5EhNalC8HJFOMNbCFibHqB"
+    },
+    {
+      "album": {
+        "name": "Moving Like That",
+        "url": "https://open.spotify.com/album/32FC7UO1DuuzlTgkoLP7VJ"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "Moving Like That",
+      "url": "https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3"
     },
     {
       "album": {
@@ -10076,6 +10130,24 @@
     },
     {
       "album": {
+        "name": "Som du vill",
+        "url": "https://open.spotify.com/album/7Bt9EjtQhswBKqqOo9MiBU"
+      },
+      "artists": [
+        {
+          "name": "Theoz",
+          "url": "https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173650,
+      "name": "Som du vill",
+      "url": "https://open.spotify.com/track/12fYEY6L7M2k7qFWgMEwXn"
+    },
+    {
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H"
       },
@@ -12335,7 +12407,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 145882,
       "name": "Young & Heartless",
       "url": "https://open.spotify.com/track/6t0YIui8b5Jt8oUVOrmujk"

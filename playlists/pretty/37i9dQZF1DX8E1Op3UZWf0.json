@@ -1,29 +1,13 @@
 {
   "description": "Start the day with a morning run together with these easy and joyful tracks.",
-  "num_followers": 197596,
+  "num_followers": 197665,
   "original_name": "Morning Run ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDE5NDY4NSwwMDAwMDAwMDMyNGY3ZDNlZGE1NWVlYTg1MjA5Zjk0OWFkZmVhMmUz",
+  "snapshot_id": "MTY0NDI4MTEzMSwwMDAwMDAwMDMyNzdhMjhkNjlhNThiNWVmNmVlM2Q3NDM3MDk3NWRj",
   "tracks": [
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 167065,
-      "name": "Like I Can",
-      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
-    },
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 195880,
       "name": "Love Me Now (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 167065,
+      "name": "Like I Can",
+      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214147,
+      "name": "Pompeii",
+      "url": "https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
       },
@@ -175,42 +191,6 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
-        "name": "Relapse",
-        "url": "https://open.spotify.com/album/6XvEXbtjtKXMDUfRgqCB6T"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
-        }
-      ],
-      "duration_ms": 206054,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/73MF8Hnmjee0hMv9AMjqbA"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214147,
-      "name": "Pompeii",
-      "url": "https://open.spotify.com/track/4Ub8UsjWuewQrPhuepfVpd"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
         "name": "Waking Up",
         "url": "https://open.spotify.com/album/4ySSx2L6h2siW22LK6dwhN"
       },
@@ -227,18 +207,34 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
-        "name": "Oceans Away",
-        "url": "https://open.spotify.com/album/4JXvWkSdccqwwRJBVvF4Oq"
+        "name": "21",
+        "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
       },
       "artists": [
         {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 193981,
-      "name": "Oceans Away",
-      "url": "https://open.spotify.com/track/4NJpJ17Dgm5r4OYExFbxLk"
+      "duration_ms": 228293,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/1CkvWZme3pRgbzaxZnTl5X"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -263,50 +259,38 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+        "name": "Oceans Away",
+        "url": "https://open.spotify.com/album/4JXvWkSdccqwwRJBVvF4Oq"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+      "duration_ms": 193981,
+      "name": "Oceans Away",
+      "url": "https://open.spotify.com/track/4NJpJ17Dgm5r4OYExFbxLk"
     },
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/6XvEXbtjtKXMDUfRgqCB6T"
       },
       "artists": [
         {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Hey, Soul Sister",
-      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "No Sleep",
-        "url": "https://open.spotify.com/album/2ilQ24f85bagzH1nXZSGhA"
-      },
-      "artists": [
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
         {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
         }
       ],
-      "duration_ms": 183556,
-      "name": "No Sleep",
-      "url": "https://open.spotify.com/track/60hJh9xajGyiVdoKEwCEKv"
+      "duration_ms": 206054,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/73MF8Hnmjee0hMv9AMjqbA"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -323,58 +307,6 @@
       "duration_ms": 267866,
       "name": "A Sky Full of Stars",
       "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "I Miss You (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/78zct4Yn5hwMqrlh5uQedB"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 205747,
-      "name": "I Miss You (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/2xmrfQpmS2iJExTlklLoAL"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -399,6 +331,42 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
+        "name": "I Miss You (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/78zct4Yn5hwMqrlh5uQedB"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 205747,
+      "name": "I Miss You (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/2xmrfQpmS2iJExTlklLoAL"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
         "name": "The World From The Side Of The Moon",
         "url": "https://open.spotify.com/album/0mVaaNSEcExh4rejUpiSj6"
       },
@@ -415,18 +383,18 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
-        "name": "My Everything",
-        "url": "https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4"
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/2ilQ24f85bagzH1nXZSGhA"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
         }
       ],
-      "duration_ms": 197253,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/7bJwvubZZaoGE1AGEfu8Fi"
+      "duration_ms": 183556,
+      "name": "No Sleep",
+      "url": "https://open.spotify.com/track/60hJh9xajGyiVdoKEwCEKv"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -443,26 +411,6 @@
       "duration_ms": 426600,
       "name": "Distant Voices",
       "url": "https://open.spotify.com/track/4ZKGrcEeahq1LfUC3iZg9i"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "Back To You (Joey Pecoraro Remix)",
-        "url": "https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Joey Pecoraro",
-          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
-        }
-      ],
-      "duration_ms": 226644,
-      "name": "Back To You - Joey Pecoraro Remix",
-      "url": "https://open.spotify.com/track/216afVgCJWieLyqPDwziwq"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -487,6 +435,74 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
+        "name": "My Everything",
+        "url": "https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7bJwvubZZaoGE1AGEfu8Fi"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Hey, Soul Sister",
+      "url": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
+        "name": "Back To You (Joey Pecoraro Remix)",
+        "url": "https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Joey Pecoraro",
+          "url": "https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ"
+        }
+      ],
+      "duration_ms": 226644,
+      "name": "Back To You - Joey Pecoraro Remix",
+      "url": "https://open.spotify.com/track/216afVgCJWieLyqPDwziwq"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
         "name": "Life of a Wallflower, Vol. 1",
         "url": "https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2"
       },
@@ -503,26 +519,6 @@
       "duration_ms": 184814,
       "name": "Superlove (feat. Oh Wonder)",
       "url": "https://open.spotify.com/track/0lchLc0vSyRRqKSPIkFtJI"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "Stitches (Seeb Remix)",
-        "url": "https://open.spotify.com/album/5IyE2Ev9TrJr2eFfI7OMeV"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        }
-      ],
-      "duration_ms": 167093,
-      "name": "Stitches - Seeb Remix",
-      "url": "https://open.spotify.com/track/4mEPquRcjE0gTFoylj2b5v"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -547,38 +543,22 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
-        "name": "Remind Me to Forget",
-        "url": "https://open.spotify.com/album/5Og1PZOwpUkL8slf11stBq"
+        "name": "Stitches (Seeb Remix)",
+        "url": "https://open.spotify.com/album/5IyE2Ev9TrJr2eFfI7OMeV"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         },
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
         }
       ],
-      "duration_ms": 217286,
-      "name": "Remind Me to Forget",
-      "url": "https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Rolling in the Deep",
-      "url": "https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC"
+      "duration_ms": 167093,
+      "name": "Stitches - Seeb Remix",
+      "url": "https://open.spotify.com/track/4mEPquRcjE0gTFoylj2b5v"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -599,6 +579,26 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
+        "name": "It Ain't Me (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 220780,
+      "name": "It Ain't Me (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -635,38 +635,18 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
-        "name": "Nice To Meet You",
-        "url": "https://open.spotify.com/album/6ERbVmi33M9tKn7RNtt17G"
+        "name": "Once In a While",
+        "url": "https://open.spotify.com/album/7nsWIOWiX7Zt0AdR5imU50"
       },
       "artists": [
         {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+          "name": "Timeflies",
+          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
         }
       ],
-      "duration_ms": 182265,
-      "name": "Drink About",
-      "url": "https://open.spotify.com/track/73WJ6rYbtFi0Z2T4hPS1iN"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "Songs About Jane",
-        "url": "https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 206200,
-      "name": "This Love",
-      "url": "https://open.spotify.com/track/5zF2zGPkL6Ipsn9AfAK6RP"
+      "duration_ms": 215160,
+      "name": "Once In a While",
+      "url": "https://open.spotify.com/track/6cREm4bV7V79Yxdilx9HDo"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -691,54 +671,18 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
-        "name": "Delirium (Deluxe)",
-        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
+        "name": "Songs About Jane",
+        "url": "https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 252534,
-      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
-      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "It Ain't Me (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 220780,
-      "name": "It Ain't Me (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3eR23VReFzcdmS7TYCrhCe"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "Once In a While",
-        "url": "https://open.spotify.com/album/7nsWIOWiX7Zt0AdR5imU50"
-      },
-      "artists": [
-        {
-          "name": "Timeflies",
-          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Once In a While",
-      "url": "https://open.spotify.com/track/6cREm4bV7V79Yxdilx9HDo"
+      "duration_ms": 206200,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/5zF2zGPkL6Ipsn9AfAK6RP"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -755,6 +699,26 @@
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
+        "name": "Nice To Meet You",
+        "url": "https://open.spotify.com/album/6ERbVmi33M9tKn7RNtt17G"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 182265,
+      "name": "Drink About",
+      "url": "https://open.spotify.com/track/73WJ6rYbtFi0Z2T4hPS1iN"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -779,22 +743,38 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
-        "name": "Shock Value II",
-        "url": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
+        "name": "Delirium (Deluxe)",
+        "url": "https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j"
       },
       "artists": [
         {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 292706,
-      "name": "If We Ever Meet Again (Featuring Katy Perry)",
-      "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
+      "duration_ms": 252534,
+      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
+      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
+        "name": "Stargazing - EP",
+        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Justin Jesso",
+          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+        }
+      ],
+      "duration_ms": 236853,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -819,18 +799,62 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+        "name": "Shock Value II",
+        "url": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 233712,
-      "name": "Shape of You",
-      "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+      "duration_ms": 292706,
+      "name": "If We Ever Meet Again (Featuring Katy Perry)",
+      "url": "https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
+        "name": "Cold Water",
+        "url": "https://open.spotify.com/album/1xWnsfFkhdh44LXIP2Korb"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "duration_ms": 185351,
+      "name": "Cold Water",
+      "url": "https://open.spotify.com/track/6nCZ5qSevoKw4hQY0jzshb"
+    },
+    {
+      "added_at": "2022-01-21 10:14:44",
+      "album": {
+        "name": "Rockferry (intl Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HPrr0iy8FSvvCtfPWeKRA"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1dKm4a7TOYFzzTQvU59C59"
     },
     {
       "added_at": "2022-01-21 10:14:44",
@@ -855,44 +879,24 @@
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+        "name": "Year Of The Gentleman",
+        "url": "https://open.spotify.com/album/6dC6J5qkPcJ1iGshEN5MpX"
       },
       "artists": [
         {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
         }
       ],
-      "duration_ms": 368783,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+      "duration_ms": 232000,
+      "name": "Miss Independent",
+      "url": "https://open.spotify.com/track/1yJ5fyqBusR7Verj8JGsKV"
     },
     {
       "added_at": "2022-01-21 10:14:44",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
-    },
-    {
-      "added_at": "2022-01-21 10:14:44",
-      "album": {
-        "name": "Stargazing - EP",
-        "url": "https://open.spotify.com/album/2sPYPyDFwgi1jrRTGhoxq2"
+        "name": "Remind Me to Forget",
+        "url": "https://open.spotify.com/album/5Og1PZOwpUkL8slf11stBq"
       },
       "artists": [
         {
@@ -900,13 +904,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Justin Jesso",
-          "url": "https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 236853,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/0Zbbxnx4SGGHoIow4PpISP"
+      "duration_ms": 217286,
+      "name": "Remind Me to Forget",
+      "url": "https://open.spotify.com/track/5sIx4BlfYGuZeSLF40N9GH"
     }
   ],
   "unique_name": "Morning Run ",

@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Certain Shade of Green](https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:11 | 2021-09-06 |  |
+| [A Certain Shade of Green](https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:11 | 2021-09-06 | 2022-02-08 |
 | [A.D.I.D.A.S.](https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 2:33 | 2021-09-06 |  |
 | [Alive \- 2006 Remaster](https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Greatest Hits \(The Atlantic Years\)](https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU) | 3:23 | 2021-09-06 |  |
 | [Back to School \(Mini Maggit\)](https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 3:57 | 2021-09-06 |  |
@@ -48,8 +48,8 @@
 | [How Can I Live](https://open.spotify.com/track/3H7IV0Aps0rHpqJXQYe5Ma) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Confession \(Explicit Version\)](https://open.spotify.com/album/55swKTEIYvcbpFAAFmHtVk) | 3:16 | 2021-09-06 | 2022-02-07 |
 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 | 2021-09-06 |  |
 | [I Stand Alone](https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk) | 4:06 | 2021-09-06 |  |
-| [I'm So Sick](https://open.spotify.com/track/3v0ylYF51SKkgAi4PrfKTq) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/0k64QfYJiwT7ko5K8z91S3) | 2:56 | 2021-09-06 | 2022-02-05 |
-| [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 | 2021-09-06 | 2022-02-05 |
+| [I'm So Sick](https://open.spotify.com/track/3v0ylYF51SKkgAi4PrfKTq) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/0k64QfYJiwT7ko5K8z91S3) | 2:56 | 2021-09-06 |  |
+| [In the End](https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:36 | 2021-09-06 |  |
 | [Jumpdafuckup](https://open.spotify.com/track/1UwwbPgKGOoSbqqHm9Xxzn) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Primitive \(Special Edition\)](https://open.spotify.com/album/5d9Rip6cM1xM8uYVepN70l) | 5:11 | 2021-09-06 |  |
 | [Just Got Wicked](https://open.spotify.com/track/20QoUUjUE4MW8eWCSeUGhX) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [13 Ways To Bleed Onstage](https://open.spotify.com/album/3dOVfly8hXQAgNdiKnLiFn) | 4:01 | 2021-09-06 | 2022-01-23 |
 | [Just So You Know](https://open.spotify.com/track/22BfiVybhTRsSTZAtS4YMv) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/4J1sDftkKHy8ohSvjOgUc9) | 5:31 | 2021-09-06 | 2022-02-06 |
@@ -87,7 +87,7 @@
 | [Toxicity](https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:38 | 2021-09-06 |  |
 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 | 2021-09-06 |  |
 | [Wait and Bleed](https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:27 | 2021-09-06 |  |
-| [Whatever](https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Godsmack](https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM) | 3:26 | 2021-09-06 |  |
+| [Whatever](https://open.spotify.com/track/6PHn6aXuM2FkzonGWJxY28) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Godsmack](https://open.spotify.com/album/1w7vC8hjYXhK1fS5cM2fUM) | 3:26 | 2021-09-06 | 2022-02-08 |
 | [When Worlds Collide](https://open.spotify.com/track/4xfcKZRY6LnjfZwE5lVJp0) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Tonight The Stars Revolt](https://open.spotify.com/album/6ddsr0JgiHHEN0FBGwme21) | 2:57 | 2021-09-06 |  |
 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 | 2021-09-06 |  |
 

@@ -3061,7 +3061,7 @@
       ],
       "date_added": "2022-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 216859,
       "name": "Everything's Electric",
       "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
@@ -5874,6 +5874,24 @@
     },
     {
       "album": {
+        "name": "Light Switch (Instrumental)",
+        "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185680,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
+    },
+    {
+      "album": {
         "name": "In The Lonely Hour (Deluxe)",
         "url": "https://open.spotify.com/album/6oSJciY7B2HlZPJpyR9nOR"
       },
@@ -7151,7 +7169,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da) (feat. Topic)",
       "url": "https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe"
@@ -9477,7 +9495,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -9929,7 +9947,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -10223,7 +10241,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 249678,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"

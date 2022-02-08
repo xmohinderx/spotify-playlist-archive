@@ -700,6 +700,28 @@
     },
     {
       "album": {
+        "name": "Kingta",
+        "url": "https://open.spotify.com/album/6RnpBgJlHBszyMdXgz3LXJ"
+      },
+      "artists": [
+        {
+          "name": "Dannyteks",
+          "url": "https://open.spotify.com/artist/3FghLL9ePSRolWAzQzcc7m"
+        },
+        {
+          "name": "Azerbeats",
+          "url": "https://open.spotify.com/artist/595CdU8Gay4WhfvkmX7w3T"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194180,
+      "name": "Kingta",
+      "url": "https://open.spotify.com/track/4EwUy1s4RiUfMaxi5iqqLN"
+    },
+    {
+      "album": {
         "name": "Laif Is Tu Short",
         "url": "https://open.spotify.com/album/3lboE8eK35egnJ9yqkjuMs"
       },

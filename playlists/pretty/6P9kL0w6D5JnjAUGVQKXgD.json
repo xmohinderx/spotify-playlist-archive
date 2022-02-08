@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki",
-  "num_followers": 48547,
+  "num_followers": 48546,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTA5OCw0OWMwM2I2NWI5NTU1NGNkZjIwMGNlZDlkNGM2MGMyYzRmM2E2ZGI4",
+  "snapshot_id": "MTA5OSw5OGVhNTgxMDA0NThkOGMxMDU4OWIzYzljMmI3NDlmODZiNWMxN2Yz",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -925,6 +925,26 @@
       "url": "https://open.spotify.com/track/6ZDGcLFDewEV6c9xOgpFGS"
     },
     {
+      "added_at": "2021-11-08 15:41:02",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
       "added_at": "2021-07-25 08:40:06",
       "album": {
         "name": "Sweet Dreams",
@@ -945,24 +965,48 @@
       "url": "https://open.spotify.com/track/0uIwEMEjZDGrZ3NvxK3T9F"
     },
     {
-      "added_at": "2021-11-08 15:41:02",
+      "added_at": "2021-12-01 15:42:03",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+        "name": "Firestone",
+        "url": "https://open.spotify.com/album/4JVCsRgCU1j17JcNGdwXNw"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Conrad Sewell",
+          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
         }
       ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+      "duration_ms": 273684,
+      "name": "Firestone",
+      "url": "https://open.spotify.com/track/2sNvitW3TxiTeC9xT9f2ZZ"
+    },
+    {
+      "added_at": "2021-05-20 23:01:05",
+      "album": {
+        "name": "Music Is My Suicide",
+        "url": "https://open.spotify.com/album/7zT7gs67GfHt4od7vRjAqa"
+      },
+      "artists": [
+        {
+          "name": "GNRM",
+          "url": "https://open.spotify.com/artist/3orP99gKf9BjrFSwlxgR0S"
+        },
+        {
+          "name": "AZVRE",
+          "url": "https://open.spotify.com/artist/6X2OB3TE91YnoJDmIWAROq"
+        },
+        {
+          "name": "TORQ",
+          "url": "https://open.spotify.com/artist/7ynlueboQGl64hxBmjdeeN"
+        }
+      ],
+      "duration_ms": 156647,
+      "name": "Music Is My Suicide",
+      "url": "https://open.spotify.com/track/4ZOmpwhNsdiguAZjptcpBF"
     },
     {
       "added_at": "2021-08-16 15:42:05",
@@ -993,28 +1037,20 @@
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
     },
     {
-      "added_at": "2021-05-20 23:01:05",
+      "added_at": "2021-12-28 15:41:02",
       "album": {
-        "name": "Music Is My Suicide",
-        "url": "https://open.spotify.com/album/7zT7gs67GfHt4od7vRjAqa"
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
       },
       "artists": [
         {
-          "name": "GNRM",
-          "url": "https://open.spotify.com/artist/3orP99gKf9BjrFSwlxgR0S"
-        },
-        {
-          "name": "AZVRE",
-          "url": "https://open.spotify.com/artist/6X2OB3TE91YnoJDmIWAROq"
-        },
-        {
-          "name": "TORQ",
-          "url": "https://open.spotify.com/artist/7ynlueboQGl64hxBmjdeeN"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 156647,
-      "name": "Music Is My Suicide",
-      "url": "https://open.spotify.com/track/4ZOmpwhNsdiguAZjptcpBF"
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2022-01-23 15:43:02",
@@ -1057,10 +1093,10 @@
       "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
     },
     {
-      "added_at": "2021-12-01 15:42:03",
+      "added_at": "2021-11-24 15:41:02",
       "album": {
-        "name": "Firestone",
-        "url": "https://open.spotify.com/album/4JVCsRgCU1j17JcNGdwXNw"
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
       "artists": [
         {
@@ -1068,29 +1104,13 @@
           "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Conrad Sewell",
-          "url": "https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 273684,
-      "name": "Firestone",
-      "url": "https://open.spotify.com/track/2sNvitW3TxiTeC9xT9f2ZZ"
-    },
-    {
-      "added_at": "2021-12-28 15:41:02",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2022-01-18 15:45:02",
@@ -1111,6 +1131,26 @@
       "duration_ms": 168118,
       "name": "Fake A Smile",
       "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
+    },
+    {
+      "added_at": "2021-11-19 15:46:04",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
     },
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1153,24 +1193,24 @@
       "url": "https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY"
     },
     {
-      "added_at": "2021-11-24 15:41:02",
+      "added_at": "2021-06-10 23:01:05",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/5gJZcmgf7nTi6HEkapCnu5"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "Jay Dixie",
+          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
         },
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "The Crushboys",
+          "url": "https://open.spotify.com/artist/495JzkPWUCyhbtB8fPVb4Z"
         }
       ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+      "duration_ms": 152245,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/7LV3f8bBaoIHdVoR5cCEFc"
     },
     {
       "added_at": "2022-01-27 15:43:02",
@@ -1195,26 +1235,6 @@
       "duration_ms": 168824,
       "name": "Fake A Smile (feat. salem ilese) - R3HAB Remix",
       "url": "https://open.spotify.com/track/1dMsLbHAMiWPzUUbLrXAwF"
-    },
-    {
-      "added_at": "2021-06-10 23:01:05",
-      "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/5gJZcmgf7nTi6HEkapCnu5"
-      },
-      "artists": [
-        {
-          "name": "Jay Dixie",
-          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
-        },
-        {
-          "name": "The Crushboys",
-          "url": "https://open.spotify.com/artist/495JzkPWUCyhbtB8fPVb4Z"
-        }
-      ],
-      "duration_ms": 152245,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/7LV3f8bBaoIHdVoR5cCEFc"
     },
     {
       "added_at": "2022-01-27 15:43:02",
@@ -1281,26 +1301,6 @@
       "url": "https://open.spotify.com/track/2BnoxYpCeEiDQSUNx1TZpf"
     },
     {
-      "added_at": "2021-11-19 15:46:04",
-      "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
-    },
-    {
       "added_at": "2021-12-03 15:46:02",
       "album": {
         "name": "Lasting Lover",
@@ -1345,24 +1345,24 @@
       "url": "https://open.spotify.com/track/3eLdNmnRWr9gIyBcqTSSti"
     },
     {
-      "added_at": "2022-01-25 15:41:02",
+      "added_at": "2022-01-29 15:41:02",
       "album": {
-        "name": "Electroman",
-        "url": "https://open.spotify.com/album/6NPb3Bb77dtZhnypL0W0fv"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
       },
       "artists": [
         {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Gary Go",
-          "url": "https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs"
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
         }
       ],
-      "duration_ms": 307986,
-      "name": "Cinema (feat. Gary Go) - Skrillex Remix",
-      "url": "https://open.spotify.com/track/6jNM6fKx3WnyHbWBI9hs2r"
+      "duration_ms": 198635,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
     },
     {
       "added_at": "2021-04-08 23:01:07",
@@ -1383,6 +1383,46 @@
       "duration_ms": 156480,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/5jojrbu23LlN5YBGIJepou"
+    },
+    {
+      "added_at": "2022-01-25 15:41:02",
+      "album": {
+        "name": "Electroman",
+        "url": "https://open.spotify.com/album/6NPb3Bb77dtZhnypL0W0fv"
+      },
+      "artists": [
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        },
+        {
+          "name": "Gary Go",
+          "url": "https://open.spotify.com/artist/6beTArFVpUujvkHi9FVPqs"
+        }
+      ],
+      "duration_ms": 307986,
+      "name": "Cinema (feat. Gary Go) - Skrillex Remix",
+      "url": "https://open.spotify.com/track/6jNM6fKx3WnyHbWBI9hs2r"
+    },
+    {
+      "added_at": "2022-02-04 15:44:03",
+      "album": {
+        "name": "Permanence",
+        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 231290,
+      "name": "Permanence",
+      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
     },
     {
       "added_at": "2022-02-04 15:44:03",
@@ -1445,42 +1485,6 @@
       "url": "https://open.spotify.com/track/7LRY2RkbmL4eSZrTGhr17e"
     },
     {
-      "added_at": "2022-01-29 15:41:02",
-      "album": {
-        "name": "Lovefool",
-        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        }
-      ],
-      "duration_ms": 190487,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
-    },
-    {
-      "added_at": "2022-01-29 15:41:02",
-      "album": {
-        "name": "Lose Somebody",
-        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 199549,
-      "name": "Lose Somebody",
-      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
-    },
-    {
       "added_at": "2021-04-29 23:01:06",
       "album": {
         "name": "Decisions",
@@ -1503,22 +1507,18 @@
     {
       "added_at": "2022-01-29 15:41:02",
       "album": {
-        "name": "Breaking Me",
-        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+        "name": "Lovefool",
+        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
         }
       ],
-      "duration_ms": 166793,
-      "name": "Breaking Me",
-      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+      "duration_ms": 190487,
+      "name": "Lovefool",
+      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
     },
     {
       "added_at": "2021-06-25 17:34:07",
@@ -1541,40 +1541,44 @@
       "url": "https://open.spotify.com/track/5UrXbEy5JaWwV6COcCA2Nu"
     },
     {
-      "added_at": "2021-07-23 08:52:04",
+      "added_at": "2022-01-29 15:41:02",
       "album": {
-        "name": "Fallen Embers",
-        "url": "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
+        "name": "Lose Somebody",
+        "url": "https://open.spotify.com/album/3LhriqAiHJYw7rxvtlkvQc"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 230571,
-      "name": "Blame Myself",
-      "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
+      "duration_ms": 199549,
+      "name": "Lose Somebody",
+      "url": "https://open.spotify.com/track/7xbWAw3LMgRMn4omR5yVn3"
     },
     {
-      "added_at": "2022-01-22 15:42:02",
+      "added_at": "2022-02-07 15:46:03",
       "album": {
-        "name": "Hot In Here",
-        "url": "https://open.spotify.com/album/2MrCpTiC2GIarhN5FrTGHV"
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
       },
       "artists": [
         {
-          "name": "Steff da Campo",
-          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 151681,
-      "name": "Hot In Here",
-      "url": "https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP"
+      "duration_ms": 169672,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
     },
     {
       "added_at": "2021-04-22 23:01:06",
@@ -1599,6 +1603,78 @@
       "duration_ms": 160000,
       "name": "Unconditionally",
       "url": "https://open.spotify.com/track/57ZIDOAZ3ljXkN9cRVF9H3"
+    },
+    {
+      "added_at": "2022-01-29 15:41:02",
+      "album": {
+        "name": "Breaking Me",
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 166793,
+      "name": "Breaking Me",
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "added_at": "2021-07-23 08:52:04",
+      "album": {
+        "name": "Fallen Embers",
+        "url": "https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 230571,
+      "name": "Blame Myself",
+      "url": "https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4"
+    },
+    {
+      "added_at": "2021-03-05 23:01:05",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY"
+      },
+      "artists": [
+        {
+          "name": "Xan Castel",
+          "url": "https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9"
+        }
+      ],
+      "duration_ms": 160586,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
+    },
+    {
+      "added_at": "2022-01-22 15:42:02",
+      "album": {
+        "name": "Hot In Here",
+        "url": "https://open.spotify.com/album/2MrCpTiC2GIarhN5FrTGHV"
+      },
+      "artists": [
+        {
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+        }
+      ],
+      "duration_ms": 151681,
+      "name": "Hot In Here",
+      "url": "https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP"
     },
     {
       "added_at": "2022-01-29 15:41:02",
@@ -1641,90 +1717,6 @@
       "url": "https://open.spotify.com/track/6GWRcf3yBx3Y7pSScXoxGk"
     },
     {
-      "added_at": "2021-03-05 23:01:05",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY"
-      },
-      "artists": [
-        {
-          "name": "Xan Castel",
-          "url": "https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
-    },
-    {
-      "added_at": "2022-01-29 15:41:02",
-      "album": {
-        "name": "Love Me Now (feat. Zoe Wees)",
-        "url": "https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 195880,
-      "name": "Love Me Now (feat. Zoe Wees)",
-      "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
-    },
-    {
-      "added_at": "2022-02-04 15:44:03",
-      "album": {
-        "name": "Tell It To My Heart (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 175312,
-      "name": "Tell It To My Heart (feat. Hozier) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI"
-    },
-    {
-      "added_at": "2022-01-26 15:41:01",
-      "album": {
-        "name": "Gassed Up",
-        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "Gassed Up",
-      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
-    },
-    {
       "added_at": "2021-04-29 23:01:06",
       "album": {
         "name": "Nothing But Love",
@@ -1751,18 +1743,22 @@
     {
       "added_at": "2022-01-29 15:41:02",
       "album": {
-        "name": "Sextacy",
-        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+        "name": "Love Me Now (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo"
       },
       "artists": [
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Sextacy",
-      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+      "duration_ms": 195880,
+      "name": "Love Me Now (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
     },
     {
       "added_at": "2021-05-06 23:01:06",
@@ -1789,20 +1785,28 @@
       "url": "https://open.spotify.com/track/1gnx4fFMggaEVpJ6TDMaQR"
     },
     {
-      "added_at": "2022-02-01 15:41:03",
+      "added_at": "2022-02-04 15:44:03",
       "album": {
-        "name": "Shake & Bounce",
-        "url": "https://open.spotify.com/album/0HN3xpvBztzsZogoP4K0Iu"
+        "name": "Tell It To My Heart (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30"
       },
       "artists": [
         {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 166771,
-      "name": "Shake & Bounce",
-      "url": "https://open.spotify.com/track/2NQped73vYrqDbJl9zauUT"
+      "duration_ms": 175312,
+      "name": "Tell It To My Heart (feat. Hozier) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI"
     },
     {
       "added_at": "2022-01-25 15:41:02",
@@ -1835,26 +1839,26 @@
     {
       "added_at": "2022-01-26 15:41:01",
       "album": {
-        "name": "2 Ph\u00fat H\u01a1n (Make It Hot) [KAIZ Remix]",
-        "url": "https://open.spotify.com/album/0NdNztgf9c9inxTx2EJxHh"
+        "name": "Gassed Up",
+        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
       },
       "artists": [
         {
-          "name": "Ph\u00e1o",
-          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         },
         {
-          "name": "KAIZ",
-          "url": "https://open.spotify.com/artist/5Oy8zRNFImMUeoAxjbT7Bj"
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "duration_ms": 159374,
-      "name": "2 Ph\u00fat H\u01a1n (Make It Hot) - KAIZ Remix",
-      "url": "https://open.spotify.com/track/0AiutyM63Meqk04YevpBba"
+      "duration_ms": 238285,
+      "name": "Gassed Up",
+      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -1877,40 +1881,36 @@
       "url": "https://open.spotify.com/track/3Gn54LKKV2sQHG05yQPnO8"
     },
     {
-      "added_at": "2022-02-03 15:41:03",
+      "added_at": "2022-01-29 15:41:02",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
       },
       "artists": [
         {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 172245,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
     },
     {
-      "added_at": "2021-07-06 08:40:04",
+      "added_at": "2022-02-01 15:41:03",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE"
+        "name": "Shake & Bounce",
+        "url": "https://open.spotify.com/album/0HN3xpvBztzsZogoP4K0Iu"
       },
       "artists": [
         {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
         }
       ],
-      "duration_ms": 225357,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
+      "duration_ms": 166771,
+      "name": "Shake & Bounce",
+      "url": "https://open.spotify.com/track/2NQped73vYrqDbJl9zauUT"
     },
     {
       "added_at": "2021-04-29 23:01:06",
@@ -1929,24 +1929,20 @@
       "url": "https://open.spotify.com/track/7cN7s2AvXLQHg6S5AyXf6v"
     },
     {
-      "added_at": "2022-01-29 15:41:02",
+      "added_at": "2021-07-06 08:40:04",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 198635,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
+      "duration_ms": 225357,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -1969,52 +1965,48 @@
       "url": "https://open.spotify.com/track/0FHKZ1sDMl3p51DP4jjwm6"
     },
     {
-      "added_at": "2022-01-29 15:41:02",
+      "added_at": "2022-01-26 15:41:01",
       "album": {
-        "name": "Call Me (with R3HAB & Timmy Trumpet)",
-        "url": "https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ"
+        "name": "2 Ph\u00fat H\u01a1n (Make It Hot) [KAIZ Remix]",
+        "url": "https://open.spotify.com/album/0NdNztgf9c9inxTx2EJxHh"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         },
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+          "name": "KAIZ",
+          "url": "https://open.spotify.com/artist/5Oy8zRNFImMUeoAxjbT7Bj"
         }
       ],
-      "duration_ms": 178309,
-      "name": "Call Me (with R3HAB & Timmy Trumpet)",
-      "url": "https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw"
+      "duration_ms": 159374,
+      "name": "2 Ph\u00fat H\u01a1n (Make It Hot) - KAIZ Remix",
+      "url": "https://open.spotify.com/track/0AiutyM63Meqk04YevpBba"
     },
     {
-      "added_at": "2021-12-07 15:44:06",
+      "added_at": "2022-02-03 15:41:03",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg"
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         }
       ],
-      "duration_ms": 186805,
-      "name": "Lifetime (with Ty Dolla $ign & 070 Shake)",
-      "url": "https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q"
+      "duration_ms": 172245,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -2041,40 +2033,48 @@
       "url": "https://open.spotify.com/track/5At3exVBWkAfqJGsRG8Z5L"
     },
     {
-      "added_at": "2022-02-01 15:41:03",
+      "added_at": "2022-01-29 15:41:02",
       "album": {
-        "name": "SexyBack",
-        "url": "https://open.spotify.com/album/4UYK597aTxN0EE61UjdD0a"
+        "name": "Call Me (with R3HAB & Timmy Trumpet)",
+        "url": "https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ"
       },
       "artists": [
         {
-          "name": "HUTS",
-          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "SexyBack",
-      "url": "https://open.spotify.com/track/5029ej8d6fplrYT7cuNOyH"
-    },
-    {
-      "added_at": "2022-02-04 15:44:03",
-      "album": {
-        "name": "Permanence",
-        "url": "https://open.spotify.com/album/1Sq58aXNrzbQxmczMAtTGg"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         }
       ],
-      "duration_ms": 231290,
-      "name": "Permanence",
-      "url": "https://open.spotify.com/track/05IbhAKODbXn8og9uaUgpc"
+      "duration_ms": 178309,
+      "name": "Call Me (with R3HAB & Timmy Trumpet)",
+      "url": "https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw"
+    },
+    {
+      "added_at": "2022-02-07 15:46:03",
+      "album": {
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/2SY4apBowOVRSG3WtrALWm"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "duration_ms": 145748,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/4IOK3PjSHrQm6dgYZdHZkE"
     }
   ],
   "unique_name": "EDM Top 100",

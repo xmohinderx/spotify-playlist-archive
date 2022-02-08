@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: 2 Chainz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,666 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,887 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 15 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 |
 | 16 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 |
 | 17 | [Ya Bih](https://open.spotify.com/track/1sKn4AQNdddMINS7I0A6Tl) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 2:37 |
-| 18 | [PLANET BEAM](https://open.spotify.com/track/39e9hkMX40YCILJqWEyBKp) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 6:22 |
+| 18 | [30mgs \(feat\. Vory\)](https://open.spotify.com/track/6pkDAIRyrKq5NZVfD2Has8) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [ALIEN](https://open.spotify.com/album/6To6T5lr8PLhCQ8ik3vPdv) | 3:32 |
 | 19 | [NO TRENDS](https://open.spotify.com/track/3ItezvVKyAyy0nxf6yJpcx) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [NO TRENDS](https://open.spotify.com/album/5ESucdNFBDxfVPHprdjfA7) | 2:31 |
 | 20 | [Don't Get Hit](https://open.spotify.com/track/1egaPOAa20HfQaaueGlmzK) | [VV$ KEN](https://open.spotify.com/artist/2FelUywHDci70FpLOHGghU), [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [Don't Get Hit](https://open.spotify.com/album/2DkdMqF3c9vjelvdoAFrsB) | 3:23 |
 | 21 | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/5tnkjUMLG42rKiRuvcllIp) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Do No Wrong \(feat\. Trippie Redd & PnB Rock\)](https://open.spotify.com/track/7CxH1tODk6zn4VrqXmJ0MF) | [Tyla Yaweh](https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Do No Wrong \(feat\. Trippie Redd & PnB Rock\)](https://open.spotify.com/album/3SEsdycdg76Mxjf6o3rAiB) | 2:59 |
 | 50 | [WIN](https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [WIN](https://open.spotify.com/album/4CenGyZ0UR5yccbM5b7Zk1) | 2:49 |
 
-Snapshot ID: `MTY0NDAxMTY3MCwwMDAwMDFmZjAwMDAwMTdlYzZiYjRkMWQwMDAwMDE3ZWMxYjZhYjM3`
+Snapshot ID: `MTY0NDI2MTQ1MiwwMDAwMDIwMDAwMDAwMTdlZDU5ZWFjYTMwMDAwMDE3ZWMxYjZhYjM3`

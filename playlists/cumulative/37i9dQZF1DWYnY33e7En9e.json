@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
+    },
+    {
+      "album": {
         "name": "Michael Jackson's This Is It",
         "url": "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm"
       },
@@ -591,7 +609,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 328680,
       "name": "Da Funk",
       "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
@@ -609,7 +627,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 208360,
       "name": "Da Joint",
       "url": "https://open.spotify.com/track/7nk7oS0G6qG3ofHUAKbg9F"
@@ -663,7 +681,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 215133,
       "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
       "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 213394,
       "name": "Freed From Desire",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 252240,
       "name": "How I Could Just Kill a Man",
       "url": "https://open.spotify.com/track/6WceXj9vvlxVyRCkDXt4nI"
@@ -1687,7 +1705,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 310226,
       "name": "Keep Their Heads Ringin'",
       "url": "https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI"
@@ -1813,7 +1831,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 287906,
       "name": "Mama Said Knock You Out",
       "url": "https://open.spotify.com/track/6dQJI4hFolhMnZhSHxkuGc"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 147826,
       "name": "Mississippi Queen",
       "url": "https://open.spotify.com/track/5Ny6yVg3LRfz3jicFcIMlm"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 289866,
       "name": "N 2 Gether Now",
       "url": "https://open.spotify.com/track/4lqU4WByDFKDGrHknQV6ZC"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 405640,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/3YBZIN3rekqsKxbJc9FZko"
@@ -2195,10 +2213,28 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 168733,
       "name": "Rock And Roll All Nite",
       "url": "https://open.spotify.com/track/7990Xs9HQx7FXVIDVPEwj9"
+    },
+    {
+      "album": {
+        "name": "Over 60 Minutes With....",
+        "url": "https://open.spotify.com/album/7j8rkTCLtfGplItwmFZTbs"
+      },
+      "artists": [
+        {
+          "name": "Helix",
+          "url": "https://open.spotify.com/artist/7JF6mRd5N8LzsKugg4rcSG"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174266,
+      "name": "Rock You",
+      "url": "https://open.spotify.com/track/6ia7gJS1M30VZYRSptsBps"
     },
     {
       "album": {
@@ -2267,7 +2303,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 225493,
       "name": "Sandstorm",
       "url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
@@ -2321,7 +2357,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 218506,
       "name": "Slam",
       "url": "https://open.spotify.com/track/38fJv1GvxHkHlgbERUuBCJ"
@@ -2447,7 +2483,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 285200,
       "name": "Stayin' Alive - Remastered Version",
       "url": "https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI"
@@ -2877,7 +2913,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 221000,
       "name": "Working for the Weekend",
       "url": "https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ"
@@ -2895,7 +2931,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 233199,
       "name": "Wreckonize - Remix Vocal",
       "url": "https://open.spotify.com/track/22Yq5tkMN8JE7h1Bq3pWHS"

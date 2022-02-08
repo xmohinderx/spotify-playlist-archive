@@ -1933,9 +1933,9 @@
           "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
         }
       ],
-      "date_added": "2021-10-09",
+      "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-11",
+      "date_removed": null,
       "duration_ms": 205108,
       "name": "Little Birds",
       "url": "https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr"
@@ -2717,7 +2717,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 261141,
       "name": "Sail on the Water",
       "url": "https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD"
@@ -2926,6 +2926,24 @@
     },
     {
       "album": {
+        "name": "So My Darling (Acoustic)",
+        "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228922,
+      "name": "So My Darling - Acoustic",
+      "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
+    },
+    {
+      "album": {
         "name": "Mount Moriah",
         "url": "https://open.spotify.com/album/2cp5rR30VgDRPGvu7t9Ao2"
       },
@@ -3121,7 +3139,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 246347,
       "name": "Star-Crossed Lovers (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/33ABk3bhz6G8AB9ASHrgW9"
@@ -3391,7 +3409,7 @@
       ],
       "date_added": "2019-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 179373,
       "name": "The Girl I Haven't Met",
       "url": "https://open.spotify.com/track/6EaTwxekBZbk9SuKmmqQzm"
@@ -3560,6 +3578,24 @@
     },
     {
       "album": {
+        "name": "Songs to Break Up To",
+        "url": "https://open.spotify.com/album/5OVxLrOoXXD2HSKkQNqhQW"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199391,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
+    },
+    {
+      "album": {
         "name": "Thirty",
         "url": "https://open.spotify.com/album/4y3zrJympvQWVLfVGAe626"
       },
@@ -3607,7 +3643,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 235986,
       "name": "Till Forever (Acoustic)",
       "url": "https://open.spotify.com/track/3bELVNyQDvjRqJiMiFoohe"
@@ -4209,7 +4245,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 155690,
       "name": "Wondrous Love",
       "url": "https://open.spotify.com/track/1XxBNS8YE8bSpzXjXYpQCY"

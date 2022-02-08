@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 263733,
       "name": "Are You OK?",
       "url": "https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 130093,
       "name": "Back Of My Hand",
       "url": "https://open.spotify.com/track/2tNGLZLYpG7LUc8PuBXAb6"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 202226,
       "name": "Birdcage",
       "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 190200,
       "name": "Craziest Things",
       "url": "https://open.spotify.com/track/2BYBbUyjC4yZ4L2IKIVAgf"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 163120,
       "name": "Deep Down Way Out",
       "url": "https://open.spotify.com/track/5UPXitLeEHQyL5TZRy47uN"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/78wvkEG8AhizCo20BeJjRF"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 195546,
       "name": "Drink The Lake",
       "url": "https://open.spotify.com/track/66ODte3X9Uk7ON85hnDNmw"
@@ -983,7 +983,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 206233,
       "name": "Guts",
       "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 196640,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A"
@@ -1131,7 +1131,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 179508,
       "name": "How Can I Love? - When I Can't Get Away from You",
       "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 163292,
       "name": "I Don't Wanna Be Funny Anymore",
       "url": "https://open.spotify.com/track/0kwBATkVUAG7JRMEosNUUs"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 264873,
       "name": "My Own Person",
       "url": "https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH"
@@ -1794,6 +1794,24 @@
     },
     {
       "album": {
+        "name": "Paramaniac",
+        "url": "https://open.spotify.com/album/3ol4KhcloRgpuQaA9B9rW3"
+      },
+      "artists": [
+        {
+          "name": "Abby Roberts",
+          "url": "https://open.spotify.com/artist/11260Smss09lExMicvRPeO"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180302,
+      "name": "Paramaniac",
+      "url": "https://open.spotify.com/track/6bO7GeKYXEvOEDi9O3zMOC"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/4d5DOcNGBexFH0P3prrJgY"
       },
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-08",
       "duration_ms": 216200,
       "name": "Quotations For Locations",
       "url": "https://open.spotify.com/track/00yYbmR2BbBLTdUYAtkqbd"
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 218659,
       "name": "Secrets from a Girl (Who's Seen it All)",
       "url": "https://open.spotify.com/track/7xgTVcQqY25wPns8HYxPXc"
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-23",
+      "date_removed": null,
       "duration_ms": 208200,
       "name": "Semolina",
       "url": "https://open.spotify.com/track/6vjz5weAmyNgRWdLE6TKln"
@@ -2098,6 +2116,24 @@
     },
     {
       "album": {
+        "name": "So My Darling",
+        "url": "https://open.spotify.com/album/1U269hAxxYxkknYfpeCVku"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269914,
+      "name": "So My Darling",
+      "url": "https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc"
+    },
+    {
+      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/2vuKU9YQ69fZvS1LDX199X"
       },
@@ -2217,7 +2253,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 202003,
       "name": "Southwark",
       "url": "https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR"
@@ -2275,6 +2311,24 @@
       "duration_ms": 173259,
       "name": "Stay And Rest For A While",
       "url": "https://open.spotify.com/track/4tHWZg3t5LpOkdRd53gal2"
+    },
+    {
+      "album": {
+        "name": "Following The Trend / Sun Room",
+        "url": "https://open.spotify.com/album/3xWLlWkthzF6DJFIEgK0hd"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235546,
+      "name": "Sun Room",
+      "url": "https://open.spotify.com/track/1ziaE1jEe2qWiYUH1sfzOV"
     },
     {
       "album": {
@@ -2693,7 +2747,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 271160,
       "name": "When U Love Somebody",
       "url": "https://open.spotify.com/track/2Vy7B6YpJHfqSzMmheUfvy"

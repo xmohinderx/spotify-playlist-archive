@@ -2,10 +2,11 @@
 
 ### [Pop Punk's Not Dead](https://open.spotify.com/playlist/1ZPuIvGxHPsGj5FOHcdzdv)
 
-> All the best new songs from the pop punk scene\. Cover: Knuckle Puck
+> All the best new songs from the pop punk scene\. Cover: Machine Gun Kelly + WILLOW
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2009](https://open.spotify.com/track/0hyjxXkT5neqnNmJUVjtD4) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [2009](https://open.spotify.com/album/59ZhsyVbxiKkuKm0vUK65d) | 3:11 | 2022-02-07 |  |
 | [2AM \(And I Did It Again\)](https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [2AM \(And I Did It Again\)](https://open.spotify.com/album/2SAQ4W2EiZFbcZNEhubkLG) | 3:15 | 2021-12-20 |  |
 | [A Long Way Down](https://open.spotify.com/track/2LQHdAiBWYmJwVVahBGgRD) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [A Long Way Down](https://open.spotify.com/album/2AfGzdoesN3AXv5ZETC4eR) | 3:18 | 2021-12-20 |  |
 | [A Session With My Therapist](https://open.spotify.com/track/34z2PBOPZUisHIdPYdlUzU) | [Aryia](https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2) | [A Session With My Therapist](https://open.spotify.com/album/1UkkJcrSfZ0YBir2pnfNhV) | 3:19 | 2022-01-14 |  |
@@ -26,6 +27,7 @@
 | [Down \(feat\. Travis Barker\)](https://open.spotify.com/track/5mkjZ6EciJaZrRXUL5eDfH) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Down \(feat\. Travis Barker\)](https://open.spotify.com/album/6xDFoGf8jzDuFTPwQIOlyK) | 2:48 | 2021-12-20 |  |
 | [elegy](https://open.spotify.com/track/33yVBJ4wdUkItubqKA5UvY) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [guardin](https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7) | [elegy](https://open.spotify.com/album/1rQvm59V13d70jUeHgVTBl) | 2:20 | 2021-12-20 |  |
 | [Embrace](https://open.spotify.com/track/5lYsGl4zkG80JH1FOYIxDI) | [Nicolas Rage](https://open.spotify.com/artist/2zW42doVH9hhAq2RZyA7Vf) | [Embrace](https://open.spotify.com/album/1hD2NvQFp7ou66bZXVYRW7) | 3:14 | 2021-12-20 |  |
+| [emo girl \(feat\. WILLOW\)](https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [emo girl \(feat\. WILLOW\)](https://open.spotify.com/album/1BnZXtDOHSW7tx72fPAhyA) | 2:39 | 2022-02-07 |  |
 | [Erase You](https://open.spotify.com/track/3PXPKC81NbQc9Eaig0vLZO) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Erase You](https://open.spotify.com/album/1rO6JlIBPhEnyY9fdO7BsI) | 2:58 | 2021-12-20 |  |
 | [Escape](https://open.spotify.com/track/5Ws8QOTBn4fJP3ZZ2tx9ma) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Open Mouth, Open Heart](https://open.spotify.com/album/5jowai2DVaDn3cgxigARdy) | 3:15 | 2021-12-20 |  |
 | [Every Guy Ever](https://open.spotify.com/track/5pgOXFPQROrmboHmcTYonC) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Every Guy Ever](https://open.spotify.com/album/71uSY3G4j624cwlyt9w1Q0) | 2:39 | 2021-12-20 |  |
@@ -53,6 +55,7 @@
 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0) | 2:25 | 2022-01-14 |  |
 | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/track/1F9kEuwT29fgqlovIclu81) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [love race \(feat\. Kellin Quinn\)](https://open.spotify.com/album/3q4wUTOTsRASPClG5Fg3tk) | 3:08 | 2021-12-20 |  |
 | [Love You Like I Used To](https://open.spotify.com/track/5YTCpQnzU6OiQqLndUuIBT) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Love You Like I Used To](https://open.spotify.com/album/5tMuCZPGTJybQwkh4K6tK8) | 2:47 | 2021-12-20 |  |
+| [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-02-07 |  |
 | [Matching Piece](https://open.spotify.com/track/3TkhGiMSW4s29s1EMTmeyh) | [Ready Steady Steroids](https://open.spotify.com/artist/1ObNbwiR2rX4PUY2BUF9xN) | [Matching Piece](https://open.spotify.com/album/6pr2hYWxrwPkWHWrZ71wJi) | 2:50 | 2021-12-20 | 2022-01-15 |
 | [Missing Out](https://open.spotify.com/track/1jnldPFWWKVxYVQuaYzk1D) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Missing Out](https://open.spotify.com/album/0H0OyIb3wyliBmLFxiwr4T) | 2:58 | 2021-12-20 |  |
 | [molotov \[OK\]](https://open.spotify.com/track/6m0vqKogDYkJwwwpvNjyJT) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [molotov \[OK\]](https://open.spotify.com/album/1zV1jnwaCLWeXw8JiuaPSQ) | 2:16 | 2021-12-20 | 2022-01-15 |

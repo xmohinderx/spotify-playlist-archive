@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,079 likes - 54 songs - 3 hr 12 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,081 likes - 54 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lotus Flower \(Special Edition\)](https://open.spotify.com/track/4KtJs4bQl9Sq5ZiOEBD7Ro) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75) | [Lotus Flower / with Dimond Saints](https://open.spotify.com/album/2ZMc6j04fiWOKP2Vkm43DI) | 3:32 |
-| 2 | [Revel](https://open.spotify.com/track/31OzkljjiMk2xJzZBg23F8) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Cycles In Flux](https://open.spotify.com/album/3UXTCoH6FHAefHY03xApls) | 4:44 |
-| 3 | [Flip The Switch](https://open.spotify.com/track/49IK6z6NG2bdRzxksEjxUN) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Flip The Switch](https://open.spotify.com/album/2ZxLmPMahxbTcVjR50Pciw) | 3:26 |
+| 2 | [Guilty \- Kid Drama Remix](https://open.spotify.com/track/3E3BxEaJub80EI97LeJNHt) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz), [Kid Drama](https://open.spotify.com/artist/7w6o2HAvNOSFJqkSeVRsf4) | [Taygeta Code Remixes, Pt\. 2](https://open.spotify.com/album/40VS5gb1v9lAZZ6lBNqDaV) | 6:07 |
+| 3 | [Error](https://open.spotify.com/track/2NrU98Z2W1rEvLRumC2DI9) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl) | [Digital Death EP](https://open.spotify.com/album/1jCTirgapx94wqkkHZR1rv) | 2:44 |
 | 4 | [Evolution](https://open.spotify.com/track/0tIBpcrapaemsTHXMrmeQY) | [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Evolution](https://open.spotify.com/album/4qAZS4OJjzLZ7M7epC2SRk) | 4:11 |
 | 5 | [Up in the Safe](https://open.spotify.com/track/2sMqWQvSw5FBphrjhby5Se) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5), [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Up in the Safe](https://open.spotify.com/album/48nO2BxjWwKFW68OIYHaCc) | 3:56 |
-| 6 | [Guilty \- Kid Drama Remix](https://open.spotify.com/track/3E3BxEaJub80EI97LeJNHt) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz), [Kid Drama](https://open.spotify.com/artist/7w6o2HAvNOSFJqkSeVRsf4) | [Taygeta Code Remixes, Pt\. 2](https://open.spotify.com/album/40VS5gb1v9lAZZ6lBNqDaV) | 6:07 |
-| 7 | [Full Spec](https://open.spotify.com/track/0yvW4QBvtpZVsSwBYhZmRb) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [MC Fokus](https://open.spotify.com/artist/3p1MEmKbYRQLR69aCPTZbV) | [Full Spec](https://open.spotify.com/album/460IYfQBoFrhpGKJzQkAKA) | 4:19 |
-| 8 | [Xihuitl](https://open.spotify.com/track/2ZYb1WBluBC3dFMWVDdFyW) | [INTRASoL](https://open.spotify.com/artist/1gWSlynXtpMIR4V25NG5Nc) | [Caldera](https://open.spotify.com/album/0A78Is5hxV6Bn2IQwARtYP) | 2:57 |
-| 9 | [The Last Judgement](https://open.spotify.com/track/0fs2L8OS0Jgc2Qy7aZsbIK) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [MC GQ](https://open.spotify.com/artist/28aPVWC88rDADOQBZNEgIs) | [The Dance Of Death](https://open.spotify.com/album/1w7u33Vp72rY6hnOspQ5cs) | 2:51 |
-| 10 | [Lessons](https://open.spotify.com/track/1hrKjYBJDWZw4xWLIOPIT3) | [Vyhara](https://open.spotify.com/artist/0uxBvW7LTgKjr721ks2a6O) | [Lessons](https://open.spotify.com/album/16QDJ6WVKUnUIedEyVQdEy) | 2:32 |
-| 11 | [ILL](https://open.spotify.com/track/1K3u242m5zHFNLRp7Th6hd) | [Bemah](https://open.spotify.com/artist/5wYDagjHjJRgNlu5W6D4hK), [AfterShock Fam](https://open.spotify.com/artist/73knz0sBKwC2qCk5pEpe2g) | [The Family Reunion](https://open.spotify.com/album/1vf2u5g26jNlCt1krJgbM1) | 2:37 |
+| 6 | [Revel](https://open.spotify.com/track/31OzkljjiMk2xJzZBg23F8) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [Cycles In Flux](https://open.spotify.com/album/3UXTCoH6FHAefHY03xApls) | 4:44 |
+| 7 | [Flip The Switch](https://open.spotify.com/track/49IK6z6NG2bdRzxksEjxUN) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Flip The Switch](https://open.spotify.com/album/2ZxLmPMahxbTcVjR50Pciw) | 3:26 |
+| 8 | [Full Spec](https://open.spotify.com/track/0yvW4QBvtpZVsSwBYhZmRb) | [Mystic State](https://open.spotify.com/artist/052KAntc3fhUFwUgewa3Q4), [MC Fokus](https://open.spotify.com/artist/3p1MEmKbYRQLR69aCPTZbV) | [Full Spec](https://open.spotify.com/album/460IYfQBoFrhpGKJzQkAKA) | 4:19 |
+| 9 | [Xihuitl](https://open.spotify.com/track/2ZYb1WBluBC3dFMWVDdFyW) | [INTRASoL](https://open.spotify.com/artist/1gWSlynXtpMIR4V25NG5Nc) | [Caldera](https://open.spotify.com/album/0A78Is5hxV6Bn2IQwARtYP) | 2:57 |
+| 10 | [The Last Judgement](https://open.spotify.com/track/0fs2L8OS0Jgc2Qy7aZsbIK) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [MC GQ](https://open.spotify.com/artist/28aPVWC88rDADOQBZNEgIs) | [The Dance Of Death](https://open.spotify.com/album/1w7u33Vp72rY6hnOspQ5cs) | 2:51 |
+| 11 | [Lessons](https://open.spotify.com/track/1hrKjYBJDWZw4xWLIOPIT3) | [Vyhara](https://open.spotify.com/artist/0uxBvW7LTgKjr721ks2a6O) | [Lessons](https://open.spotify.com/album/16QDJ6WVKUnUIedEyVQdEy) | 2:32 |
 | 12 | [E C L I P S E](https://open.spotify.com/track/2xL5JtHtAwQGGpIGDsSNEO) | [Elijah Nang](https://open.spotify.com/artist/0yIO6HI875mLzamqmjjFFU) | [E C L I P S E](https://open.spotify.com/album/4VrYoXadX5jb0QyfQ4ox9p) | 3:55 |
 | 13 | [Undercover \(feat\. Kayla Rae\)](https://open.spotify.com/track/3TrXgzMCWBxkyXjm7eeahk) | [MiM0SA](https://open.spotify.com/artist/5BTlwnHtDmzpMj0URbp4Ur), [Kayla Rae](https://open.spotify.com/artist/0cz0uZX8a30POuEC2hDL9j) | [Undercover \(feat\. Kayla Rae\)](https://open.spotify.com/album/7CDGFJARMiy2KOR8i2KDDX) | 2:56 |
 | 14 | [Progenitor](https://open.spotify.com/track/7GbYFaJS5suiQCV9G771AX) | [Daggz](https://open.spotify.com/artist/3S5aXjH9pDeyD7BDMkLbiF) | [Progenitor](https://open.spotify.com/album/0CPzjmC9UovlGvUd4w8OQK) | 3:03 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 53 | [Nihil](https://open.spotify.com/track/5YVgl0hVPItJHtXXRdlfFD) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [NCDIG006](https://open.spotify.com/album/6WwwcYvNRf7e7VrdMrq5lB) | 4:40 |
 | 54 | [Get Bun](https://open.spotify.com/track/5X8W307Uv6qa69GUXubD5y) | [Hypho](https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7) | [Time Is Now White, Vol.10](https://open.spotify.com/album/2QRu4xj67JLGINTazmeCRU) | 3:35 |
 
-Snapshot ID: `MTc5MiwzZmI0MDFkZjNkNDRiMjM1NzRjNTI1M2ExYjgyZTEzYzljMTFmZjk0`
+Snapshot ID: `MTc5OSxkODBmZWMxY2Q4YmUzMWRjNjdiZWJjNjA0NjU0OGRjMzJlMjNhN2Nj`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX11otjJ7crqp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX11otjJ7crqp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX11otjJ7crqp)
 
-### New Pop Picks
+### [New Pop Picks](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 > This week's essential new pop tracks\. Cover: Machine Gun Kelly & WILLOW
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaASLfu4mBQT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaASLfu4mBQT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaASLfu4mBQT)
 
-### Best Mellow Pop of 2021
+### [Best Mellow Pop of 2021](https://open.spotify.com/playlist/23CdQguTiRUfiEh3jJLc2Q)
 
 > Mellow pop favorites from 2021\. Cover: Adele
 
