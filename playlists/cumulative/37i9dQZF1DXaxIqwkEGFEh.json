@@ -572,6 +572,24 @@
     },
     {
       "album": {
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
+    },
+    {
+      "album": {
         "name": "CM10: Free Game",
         "url": "https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT"
       },

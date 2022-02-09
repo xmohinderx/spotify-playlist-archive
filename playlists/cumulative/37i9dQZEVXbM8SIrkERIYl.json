@@ -5974,6 +5974,24 @@
     },
     {
       "album": {
+        "name": "Numb Little Bug",
+        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169237,
+      "name": "Numb Little Bug",
+      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
+    },
+    {
+      "album": {
         "name": "Obsessed With You",
         "url": "https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9"
       },
@@ -6983,6 +7001,28 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "Say Nothing (feat. MAY-A)",
+        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232959,
+      "name": "Say Nothing (feat. MAY-A)",
+      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
     },
     {
       "album": {
@@ -8035,7 +8075,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 257213,
       "name": "The Family Madrigal",
       "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
@@ -8563,7 +8603,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 225000,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"

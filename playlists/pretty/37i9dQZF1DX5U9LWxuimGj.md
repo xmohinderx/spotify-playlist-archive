@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Hayley Orrantia
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,381 likes - 73 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,395 likes - 73 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

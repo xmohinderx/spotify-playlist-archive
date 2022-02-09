@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 190216,
       "name": "Activate",
       "url": "https://open.spotify.com/track/0aHV99VipGqb8uwnMTxbYh"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 172146,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/1De4dxD98pz77aeFx0DOdo"
@@ -1931,7 +1931,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 149643,
       "name": "Hot Topicz",
       "url": "https://open.spotify.com/track/2pyLZLboSKOLKII3uacUsP"
@@ -1987,6 +1987,24 @@
       "duration_ms": 192784,
       "name": "I Like (feat. WizKid)",
       "url": "https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851"
+    },
+    {
+      "album": {
+        "name": "I.L.Y",
+        "url": "https://open.spotify.com/album/6n6czlJGJOEXP4BC2CRPXh"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245630,
+      "name": "I.L.Y",
+      "url": "https://open.spotify.com/track/37Sw3UuUzxK5iqbDfao6Df"
     },
     {
       "album": {
@@ -2587,7 +2605,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
@@ -2613,7 +2631,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 183773,
       "name": "Ma Play",
       "url": "https://open.spotify.com/track/3ijQFCjoldvRJjOn4AK4iS"
@@ -2715,7 +2733,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 218089,
       "name": "Make Me Feel (feat. Ari Lennox) - IzyBeats Dub Mix",
       "url": "https://open.spotify.com/track/60H3vKDbEFREGqEmUdMWGu"
@@ -2939,7 +2957,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 172248,
       "name": "Move It",
       "url": "https://open.spotify.com/track/4zjA6RlphwqfTkZgtNif92"
@@ -3169,7 +3187,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 145860,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu"
@@ -3415,7 +3433,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 190800,
       "name": "Pam Pam",
       "url": "https://open.spotify.com/track/0onCpID636LlzqZ1OXJcRk"
@@ -3503,7 +3521,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 207324,
       "name": "People",
       "url": "https://open.spotify.com/track/1pH3ibG3IDuktQ7wFozrnu"
@@ -3697,7 +3715,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 270315,
       "name": "Risky",
       "url": "https://open.spotify.com/track/5CWaYPulpYMRRl1ToR6yO7"
@@ -3733,7 +3751,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 163777,
       "name": "Rum & Soca",
       "url": "https://open.spotify.com/track/1DOPGpgJEv3vI228L66zqC"
@@ -3905,7 +3923,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 170103,
       "name": "She Got It (with Rafa Pab\u00f6n)",
       "url": "https://open.spotify.com/track/59MMi0CiK66DVzFo1aRRby"
@@ -4065,7 +4083,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 220464,
       "name": "Stay So",
       "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
@@ -4371,7 +4389,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 190400,
       "name": "Todo Pa' Ti",
       "url": "https://open.spotify.com/track/1KeQQmdN8gNmvMvw5yeU8A"
@@ -4521,7 +4539,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 170760,
       "name": "Una Nota",
       "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
@@ -4621,7 +4639,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 189600,
       "name": "Velletjes (Remix)",
       "url": "https://open.spotify.com/track/2HFX1dbRkzdpfW6JPbXJU2"

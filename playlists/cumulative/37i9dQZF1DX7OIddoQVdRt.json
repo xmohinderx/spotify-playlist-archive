@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 349027,
       "name": "Black Lives Matter",
       "url": "https://open.spotify.com/track/5ZXZWHmI69IAhiseyYWF2D"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 265173,
       "name": "Close (Radio Edit)",
       "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 346096,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/7DpfOkks38EfsrVcG9Zmhw"
@@ -321,7 +321,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 441546,
       "name": "Every Praise - (album edit)",
       "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 232345,
       "name": "Gotta Have You (feat. Kirk Franklin, Jermaine Dolly & Lena Byrd Miles)",
       "url": "https://open.spotify.com/track/7sua3EElbSneVDxEVDzgX4"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 164480,
       "name": "Hallelujah (You Get The Glory) - Live",
       "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
@@ -1022,6 +1022,24 @@
     },
     {
       "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236339,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n"
+    },
+    {
+      "album": {
         "name": "Overflow",
         "url": "https://open.spotify.com/album/7gggTmjWOAI4VtzBKDhSz4"
       },
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 166963,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/0z9aEc97GSfDPiRRNwfBmt"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 376360,
       "name": "Speechless",
       "url": "https://open.spotify.com/track/50CnlEH8KWLVNPxi29dnwb"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 245901,
       "name": "Strong God",
       "url": "https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 257093,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj"
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 193791,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 344019,
       "name": "Victory Belongs To Jesus",
       "url": "https://open.spotify.com/track/1Ewkl1ys052xqnnCGPssbv"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 214973,
       "name": "We Gon\u2019 Be Alright",
       "url": "https://open.spotify.com/track/0ErItBOhcHJahcQ8BGqk4V"

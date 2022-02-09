@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "All American",
+        "url": "https://open.spotify.com/album/6lhrfOe8aN6TVyl1cynFmV"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "All American",
+      "url": "https://open.spotify.com/track/3z610KBfuClGcA7ywI19w8"
+    },
+    {
+      "album": {
         "name": "Cosmic Hallelujah",
         "url": "https://open.spotify.com/album/0bBHLytjtuHYxKxuAE5G5G"
       },
@@ -265,7 +283,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 182066,
       "name": "Back Then, Right Now",
       "url": "https://open.spotify.com/track/1AIlY4mVcOY34SNA4CTVbC"
@@ -383,7 +401,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 209733,
       "name": "Beer Can\u2019t Fix",
       "url": "https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 165386,
       "name": "Body Like A Back Road",
       "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
@@ -843,7 +861,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 221240,
       "name": "Country Again",
       "url": "https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG"
@@ -897,7 +915,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 188320,
       "name": "Die From A Broken Heart",
       "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 167360,
       "name": "Drunk & I Miss You",
       "url": "https://open.spotify.com/track/7DoUCGBFzVTVfl4Nhl5BZE"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 194766,
       "name": "Found It in You",
       "url": "https://open.spotify.com/track/0t0ODvxpVPS2dcGGTgsnq9"
@@ -1527,7 +1545,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 178419,
       "name": "Hard Days",
       "url": "https://open.spotify.com/track/2AqbOAAgaNRygNIJYcM69I"
@@ -1675,7 +1693,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 205000,
       "name": "Homegrown",
       "url": "https://open.spotify.com/track/1qwnPVOIJjAFfCc40Etb1D"
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 210146,
       "name": "I Can't (feat. Old Dominion)",
       "url": "https://open.spotify.com/track/2YoOaGlM2zGpYBanN3AxrV"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 224853,
       "name": "In Case You Didn't Know",
       "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
@@ -2379,7 +2397,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 187000,
       "name": "Make It Sweet",
       "url": "https://open.spotify.com/track/23vpjrt7G0ERE2L95dyxdI"
@@ -2849,7 +2867,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 198440,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
@@ -2885,7 +2903,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 183160,
       "name": "She Got the Best of Me",
       "url": "https://open.spotify.com/track/698eQRku24PIYPQPHItKlA"
@@ -2975,7 +2993,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 199068,
       "name": "Six Feet Apart",
       "url": "https://open.spotify.com/track/3aMUiKCIXJeurR5ppEMJZD"
@@ -3015,7 +3033,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 241899,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
@@ -3069,7 +3087,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 196266,
       "name": "Some People Do",
       "url": "https://open.spotify.com/track/3ae686rmXIGq7ufDlozcde"
@@ -3159,7 +3177,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 263386,
       "name": "Springsteen",
       "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB"
@@ -3195,7 +3213,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 335480,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
@@ -3213,7 +3231,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 228706,
       "name": "Stick That In Your Country Song",
       "url": "https://open.spotify.com/track/5lH14PEjAXYuMTz0Dd4L1D"
@@ -3545,7 +3563,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 176087,
       "name": "Villain",
       "url": "https://open.spotify.com/track/1cHJK4H49CP0Qp3iz7hMi8"
@@ -3599,7 +3617,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 222650,
       "name": "What Could've Been",
       "url": "https://open.spotify.com/track/4WWbmSEZTTWfqoOLSW8AMS"
@@ -3617,7 +3635,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 229686,
       "name": "What I See",
       "url": "https://open.spotify.com/track/4zLh511JiWkVxr5QOUkeVR"
@@ -3653,7 +3671,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 166240,
       "name": "What If I'm Right",
       "url": "https://open.spotify.com/track/5dg2ifK4KMf60vH6Zxm4Yq"
@@ -3671,7 +3689,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-26",
+      "date_removed": null,
       "duration_ms": 166240,
       "name": "What If I'm Right",
       "url": "https://open.spotify.com/track/6GrkistOez8uem1N0oLuPg"
@@ -3689,7 +3707,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 208213,
       "name": "Whatever It Is",
       "url": "https://open.spotify.com/track/2ISojTv3VUnimEOiLddIw4"
@@ -3747,7 +3765,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 290560,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0"
@@ -3819,7 +3837,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 211430,
       "name": "Why We Drink",
       "url": "https://open.spotify.com/track/4lSfhHd5Knwl8yQw2cVjAD"
@@ -3873,7 +3891,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 228186,
       "name": "Would You Go With Me",
       "url": "https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi"
@@ -3927,7 +3945,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 192026,
       "name": "You Time",
       "url": "https://open.spotify.com/track/0pJalGEYsRikSogLkXU6KV"
@@ -3945,7 +3963,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 192026,
       "name": "You Time",
       "url": "https://open.spotify.com/track/3yFsyy1hw7v31NBrRJX2QM"

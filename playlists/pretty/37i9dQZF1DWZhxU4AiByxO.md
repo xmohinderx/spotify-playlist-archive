@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 
 > Enjoy some kid\-friendly pop tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,363 likes - 144 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,429 likes - 144 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhxU4AiByxO.md) - [plain]
 | 25 | [Midnight Sky](https://open.spotify.com/track/6SA0ceSATdlyh6SzP9Jd2f) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Midnight Sky](https://open.spotify.com/album/6yf61oBWOtfJm73xKoqoFp) | 3:27 |
 | 26 | [Without You](https://open.spotify.com/track/7eWs7BP5L9C6vxvOtNX6ns) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:41 |
 | 27 | [Savage Love](https://open.spotify.com/track/55J4JL8TPPeId91ScTt3bv) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Savage Love](https://open.spotify.com/album/2cKEeMf90SRPfSHVDNaH8w) | 2:51 |
-| 28 | [Supalonely](https://open.spotify.com/track/3T509PFxP648elTwOoA5mj) | [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J), [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u) | [Supalonely / Midnight Sky \- EP](https://open.spotify.com/album/1cnXdPm39Kxe35EyeKP0hP) | 3:00 |
+| 28 | [Supalonely](https://open.spotify.com/track/3T509PFxP648elTwOoA5mj) | [Saph's Story](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J), [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u) | [Supalonely / Midnight Sky \- EP](https://open.spotify.com/album/1cnXdPm39Kxe35EyeKP0hP) | 3:00 |
 | 29 | [Astronaut In The Ocean](https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:14 |
 | 30 | [It’s Alright \- From The Netflix Film My Little Pony: A New Generation](https://open.spotify.com/track/3pj8yw8GHt28TfX8RE2OaV) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [It's Alright \(From The Netflix Film My Little Pony: A New Generation\)](https://open.spotify.com/album/21gDAoF1n6uNZUIR6iDvC7) | 3:13 |
 | 31 | [Into the Unknown](https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:14 |

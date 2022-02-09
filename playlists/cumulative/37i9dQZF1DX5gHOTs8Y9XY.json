@@ -86,28 +86,6 @@
     },
     {
       "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
-      },
-      "artists": [
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "date_added": "2022-01-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 138013,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
-    },
-    {
-      "album": {
         "name": "New York Jazz",
         "url": "https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm"
       },
@@ -1981,6 +1959,28 @@
       "duration_ms": 266800,
       "name": "You Go To My Head - 2020 Mix",
       "url": "https://open.spotify.com/track/7KsJkshpIjjeIwyKnkhQUc"
+    },
+    {
+      "album": {
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138013,
+      "name": "\u00c1gua de Beber",
+      "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5gHOTs8Y9XY"

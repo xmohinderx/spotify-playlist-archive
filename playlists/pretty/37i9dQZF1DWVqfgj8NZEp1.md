@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,360,194 likes - 170 songs - 16 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,360,285 likes - 170 songs - 16 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

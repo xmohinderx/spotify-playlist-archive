@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 207133,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 234466,
       "name": "Dangerous Levels of Introspection",
       "url": "https://open.spotify.com/track/4iT46O2cYu63Rlv09Fpxch"
@@ -1147,7 +1147,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 212493,
       "name": "Devil On My Shoulder",
       "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 229133,
       "name": "Don't Break the Heart",
       "url": "https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 240133,
       "name": "False Alarms (with Jon Bellion)",
       "url": "https://open.spotify.com/track/05J50VX6xpsMYAqOb0atmk"
@@ -1443,7 +1443,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 169453,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn"
@@ -1501,7 +1501,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 165293,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3FtOav13HRZKhnEFIeYl8q"
@@ -1938,6 +1938,24 @@
     },
     {
       "album": {
+        "name": "If You Ever Change Your Mind",
+        "url": "https://open.spotify.com/album/0qiryT3ni74ILjCikUeX9G"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205994,
+      "name": "If You Ever Change Your Mind",
+      "url": "https://open.spotify.com/track/06Nak3IpaRtZKS27DYoHmt"
+    },
+    {
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP"
       },
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 181182,
       "name": "Know It All",
       "url": "https://open.spotify.com/track/1p4WB0tCCYcoJKFNwMVUZ4"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 187309,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/1fzf9Aad4y1RWrmwosAK5y"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 189720,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
@@ -2127,7 +2145,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 137307,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P"
@@ -2391,7 +2409,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 191574,
       "name": "Love for a Minute",
       "url": "https://open.spotify.com/track/3GKIhntQhBqD6PRWscMLs1"
@@ -2707,7 +2725,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 193989,
       "name": "Odds",
       "url": "https://open.spotify.com/track/3PODaKOPvABUlVOA98ekqv"
@@ -2863,7 +2881,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 171613,
       "name": "Perfect Conditions",
       "url": "https://open.spotify.com/track/5PegehfZSBLp5HZ8OuUJQz"
@@ -2917,7 +2935,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 156376,
       "name": "Present",
       "url": "https://open.spotify.com/track/6RBfz4bNLNzvt37HycN1Xf"
@@ -3153,7 +3171,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 191208,
       "name": "SING",
       "url": "https://open.spotify.com/track/73qyiny4KFB8kh4n2TUkOX"
@@ -3291,7 +3309,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 228482,
       "name": "Stuck with U (with Justin Bieber)",
       "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
@@ -3493,7 +3511,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 203258,
       "name": "The 90s",
       "url": "https://open.spotify.com/track/6xmlFb4Ld15YysAmRQ545N"
@@ -3587,6 +3605,28 @@
       "duration_ms": 194853,
       "name": "This City",
       "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
+    },
+    {
+      "album": {
+        "name": "This Time Is Right",
+        "url": "https://open.spotify.com/album/4LnJ19xij0LIw8lo2ZxJTs"
+      },
+      "artists": [
+        {
+          "name": "CVBZ",
+          "url": "https://open.spotify.com/artist/0pt7PX4Hftlg8mV1ySU84Q"
+        },
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179597,
+      "name": "This Time is Right",
+      "url": "https://open.spotify.com/track/5Tds4pWlV9R0O4en5nGveF"
     },
     {
       "album": {
@@ -3695,7 +3735,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 174000,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
@@ -4129,7 +4169,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 178470,
       "name": "You Give Me More",
       "url": "https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO"

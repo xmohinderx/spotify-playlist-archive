@@ -489,7 +489,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 192986,
       "name": "All For Us - from the HBO Original Series Euphoria",
       "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2021-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 211560,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
@@ -3545,7 +3545,7 @@
       ],
       "date_added": "2021-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
@@ -10304,6 +10304,28 @@
     },
     {
       "album": {
+        "name": "Stan Smith",
+        "url": "https://open.spotify.com/album/52Lz9d2VVZAkVhHNWCHFIC"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Stan Smith",
+      "url": "https://open.spotify.com/track/6brzImyRC7tYwWKIvumozI"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU"
       },
@@ -10649,7 +10671,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
@@ -11904,6 +11926,24 @@
     },
     {
       "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174567,
+      "name": "When I R.I.P.",
+      "url": "https://open.spotify.com/track/2t16D9V5FmmRAJjsSpwvZf"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/0uUtGVj0y9FjfKful7cABY"
       },
@@ -12687,6 +12727,24 @@
       "duration_ms": 126265,
       "name": "\u0414\u0423\u041b\u041e",
       "url": "https://open.spotify.com/track/2Db7e6H4R5XXnyuTtxUggp"
+    },
+    {
+      "album": {
+        "name": "\u0417\u0430 \u0432\u0441\u0435\u0445",
+        "url": "https://open.spotify.com/album/6iKw2kpxfdP9j0jn6Q3D7f"
+      },
+      "artists": [
+        {
+          "name": "MACAN",
+          "url": "https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104680,
+      "name": "\u0417\u0430 \u0432\u0441\u0435\u0445",
+      "url": "https://open.spotify.com/track/7uJlcGDXjx8Ha6t8kWFlxf"
     },
     {
       "album": {

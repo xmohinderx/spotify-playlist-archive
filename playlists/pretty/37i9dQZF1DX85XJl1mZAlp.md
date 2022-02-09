@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 
 > The best new releases from swinging bop to free jazz\. Cover: Daniel Herskedal
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,858 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,870 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

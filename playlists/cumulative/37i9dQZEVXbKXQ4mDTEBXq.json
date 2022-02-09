@@ -704,6 +704,24 @@
     },
     {
       "album": {
+        "name": "POP SONG",
+        "url": "https://open.spotify.com/album/0pok5Oa8DgsXdZpsnpAbqX"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "POP SONG",
+      "url": "https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ"
+    },
+    {
+      "album": {
         "name": "Poppin' Shakin'",
         "url": "https://open.spotify.com/album/3yTEI6nQJTTHPVlFauTCsv"
       },
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 274860,
       "name": "\u30db\u30ef\u30a4\u30c8\u30ad\u30b9",
       "url": "https://open.spotify.com/track/7sRYDTjWTX00fd9BCOflLo"

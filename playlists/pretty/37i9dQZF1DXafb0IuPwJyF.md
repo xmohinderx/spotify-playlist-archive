@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > Hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: 緑黄色社会
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,170 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,544 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 34 | [GIOTF \(feat\. JP THE WAVY\)](https://open.spotify.com/track/11HUvojdq0GOZAHyxKzfZ0) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [GIOTF \(feat\. JP THE WAVY\)](https://open.spotify.com/album/0mfah5mmzghWmBXyyEPrB7) | 2:41 |
 | 35 | [Boots](https://open.spotify.com/track/6Rn05EymASLxmDsQ1gVzIC) | [KICK THE CAN CREW](https://open.spotify.com/artist/5MRAExqyhUPkktT9yWNvIe) | [Boots](https://open.spotify.com/album/29KPfuJS5aQIuucPZn3Pmh) | 3:22 |
 | 36 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
-| 37 | [EVERBLUE](https://open.spotify.com/track/5RmtuRIe8FJg9FRegwCqzW) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [EVERBLUE](https://open.spotify.com/album/2TWOBBZ8C8mqkNGerg2C5f) | 4:01 |
-| 38 | [YONA YONA DANCE \- フレデリズム Ver.](https://open.spotify.com/track/1mdlF75ac2fDG5b4TtmUx0) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [YONA YONA DANCE \(フレデリズム Ver.\)](https://open.spotify.com/album/6JHbg9ff2XMv36z7SKi5yj) | 3:49 |
-| 39 | [藍才](https://open.spotify.com/track/7znz9Gm1qXs5wOXwOGQqZR) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [藍才](https://open.spotify.com/album/7jVKn2OEHBIflIiBOFQ5O1) | 4:16 |
-| 40 | [告白](https://open.spotify.com/track/1wSx4QJ82TQpT2WAjAa2fA) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [告白](https://open.spotify.com/album/605KBeQ7Mxy1vvgrcxWZgv) | 4:00 |
-| 41 | [「知りたくなかった、失うのなら」 \- feat.純猥談](https://open.spotify.com/track/0DunLVRj83iOoDQFt0iqcI) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh), [純猥談](https://open.spotify.com/artist/6sraWd2C9dGYyGjeLQhh1M) | [「知りたくなかった、失うのなら」 \(feat\. 純猥談\)](https://open.spotify.com/album/784bIaXrItzmMWrAGWcRFC) | 5:11 |
-| 42 | [いけないbaby](https://open.spotify.com/track/2YFkYS11X5biooHpEQtMc8) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [いけないbaby](https://open.spotify.com/album/1D61fTagHmbifkxX2AYStq) | 3:35 |
-| 43 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
-| 44 | [Free](https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Free](https://open.spotify.com/album/74BcG9pHH1R3OJRVBiKC8g) | 3:02 |
-| 45 | [きらり](https://open.spotify.com/track/3ciqhcLmXP4hVGBD98QlEj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [きらり](https://open.spotify.com/album/1fokTD5rDI2bHnFH1QSbPy) | 3:51 |
-| 46 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 |
-| 47 | [君に触れた時から](https://open.spotify.com/track/0HySSZyKbJG9MDIQnS9ivD) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [君に触れた時から](https://open.spotify.com/album/2ofD9WKTOIyWJnjwAk4Kys) | 3:37 |
-| 48 | [アルデバラン](https://open.spotify.com/track/5dCWwd6RUQPxVZZ1igVvn6) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [アルデバラン](https://open.spotify.com/album/2Ys2XufiWIUqGpwgSlbibq) | 4:26 |
-| 49 | [スローモーション](https://open.spotify.com/track/0vBvzHyCIhghcqqQamSOZy) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [スローモーション](https://open.spotify.com/album/5wJFueegyDyd22s8EDgevS) | 3:40 |
+| 37 | [スローモーション](https://open.spotify.com/track/0vBvzHyCIhghcqqQamSOZy) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [スローモーション](https://open.spotify.com/album/5wJFueegyDyd22s8EDgevS) | 3:40 |
+| 38 | [EVERBLUE](https://open.spotify.com/track/5RmtuRIe8FJg9FRegwCqzW) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [EVERBLUE](https://open.spotify.com/album/2TWOBBZ8C8mqkNGerg2C5f) | 4:01 |
+| 39 | [YONA YONA DANCE \- フレデリズム Ver.](https://open.spotify.com/track/1mdlF75ac2fDG5b4TtmUx0) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [YONA YONA DANCE \(フレデリズム Ver.\)](https://open.spotify.com/album/6JHbg9ff2XMv36z7SKi5yj) | 3:49 |
+| 40 | [藍才](https://open.spotify.com/track/7znz9Gm1qXs5wOXwOGQqZR) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [藍才](https://open.spotify.com/album/7jVKn2OEHBIflIiBOFQ5O1) | 4:16 |
+| 41 | [告白](https://open.spotify.com/track/1wSx4QJ82TQpT2WAjAa2fA) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA), [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr) | [告白](https://open.spotify.com/album/605KBeQ7Mxy1vvgrcxWZgv) | 4:00 |
+| 42 | [「知りたくなかった、失うのなら」 \- feat.純猥談](https://open.spotify.com/track/0DunLVRj83iOoDQFt0iqcI) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh), [純猥談](https://open.spotify.com/artist/6sraWd2C9dGYyGjeLQhh1M) | [「知りたくなかった、失うのなら」 \(feat\. 純猥談\)](https://open.spotify.com/album/784bIaXrItzmMWrAGWcRFC) | 5:11 |
+| 43 | [いけないbaby](https://open.spotify.com/track/2YFkYS11X5biooHpEQtMc8) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [いけないbaby](https://open.spotify.com/album/1D61fTagHmbifkxX2AYStq) | 3:35 |
+| 44 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
+| 45 | [Free](https://open.spotify.com/track/45wqUOhtYiE76OW7Us7Tqx) | [Doul](https://open.spotify.com/artist/6iCB8Oh5qNCfMM6Bjn3bOf) | [Free](https://open.spotify.com/album/74BcG9pHH1R3OJRVBiKC8g) | 3:02 |
+| 46 | [きらり](https://open.spotify.com/track/3ciqhcLmXP4hVGBD98QlEj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [きらり](https://open.spotify.com/album/1fokTD5rDI2bHnFH1QSbPy) | 3:51 |
+| 47 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 |
+| 48 | [君に触れた時から](https://open.spotify.com/track/0HySSZyKbJG9MDIQnS9ivD) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [君に触れた時から](https://open.spotify.com/album/2ofD9WKTOIyWJnjwAk4Kys) | 3:37 |
+| 49 | [アルデバラン](https://open.spotify.com/track/5dCWwd6RUQPxVZZ1igVvn6) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [アルデバラン](https://open.spotify.com/album/2Ys2XufiWIUqGpwgSlbibq) | 4:26 |
 | 50 | [さよならクレール](https://open.spotify.com/track/0oYXyyHYFmGCJTwCqv0OU3) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [さよならクレール](https://open.spotify.com/album/5d8QblpT5wbBlaq9qOflhm) | 3:48 |
 
-Snapshot ID: `MTY0NDIyMTExMSwwMDAwMDJmNjAwMDAwMTdlZDMzNzFkOTcwMDAwMDE3ZWNjMjdlODA1`
+Snapshot ID: `MTY0NDM1NjQ4NywwMDAwMDJmNzAwMDAwMTdlZGI0OGNiMTQwMDAwMDE3ZWNjMjdlODA1`

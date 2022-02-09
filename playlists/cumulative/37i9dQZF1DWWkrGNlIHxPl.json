@@ -716,6 +716,24 @@
     },
     {
       "album": {
+        "name": "Freestyle #1",
+        "url": "https://open.spotify.com/album/3Sri5bHFhK6jQWQI5pyCzq"
+      },
+      "artists": [
+        {
+          "name": "Dhalma",
+          "url": "https://open.spotify.com/artist/5nBnuz27wNFubJjmRTRNPC"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175483,
+      "name": "Freestyle #1",
+      "url": "https://open.spotify.com/track/3PqCDTA5l72UmTDmTXpely"
+    },
+    {
+      "album": {
         "name": "Galbi Dalili (feat. Narcy)",
         "url": "https://open.spotify.com/album/1MqguCDENJ5cTU2Jg2CJaE"
       },

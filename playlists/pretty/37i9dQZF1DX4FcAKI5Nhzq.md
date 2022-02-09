@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: MAMADOL
 
-[Spotify](https://open.spotify.com/user/spotify) - 639,310 likes - 56 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 639,783 likes - 56 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

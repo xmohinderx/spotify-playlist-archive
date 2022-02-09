@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,877 likes - 151 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,986 likes - 151 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

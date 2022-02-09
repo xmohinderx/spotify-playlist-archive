@@ -1,13 +1,29 @@
 {
   "description": "The Real hip-hop. Cover: Saba",
-  "num_followers": 1062246,
+  "num_followers": 1062432,
   "original_name": "Mind Right",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDAwODY0NCwwMDAwMDE4ZjAwMDAwMTdlYzY4ZDFmOTAwMDAwMDE3ZWMyNjdmNDY5",
+  "snapshot_id": "MTY0NDI5NjQwMCwwMDAwMDE5MDAwMDAwMTdlZDdiM2VjZWUwMDAwMDE3ZWMyNjdmNDY5",
   "tracks": [
+    {
+      "added_at": "2022-02-08 05:00:00",
+      "album": {
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
+    },
     {
       "added_at": "2022-02-04 05:00:00",
       "album": {
@@ -943,22 +959,6 @@
       "duration_ms": 223298,
       "name": "Manufacturing Consent",
       "url": "https://open.spotify.com/track/00AjxIFsPaUDwZgSemKNA2"
-    },
-    {
-      "added_at": "2021-12-06 19:14:49",
-      "album": {
-        "name": "IF I WAS BORN THEN",
-        "url": "https://open.spotify.com/album/435n3w7pMZ3zGMkRbhxyFO"
-      },
-      "artists": [
-        {
-          "name": "Geechy",
-          "url": "https://open.spotify.com/artist/5fmeR9y2YakPD9lb6bfIHW"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "JESSE GLOVER / DAY-DATE",
-      "url": "https://open.spotify.com/track/4eUlsa8528fWVDF0GWz9bi"
     }
   ],
   "unique_name": "Mind Right",

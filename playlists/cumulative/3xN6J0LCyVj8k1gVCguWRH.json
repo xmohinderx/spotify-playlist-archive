@@ -9536,6 +9536,24 @@
     },
     {
       "album": {
+        "name": "I Don\u2019t Wanna Wake Up",
+        "url": "https://open.spotify.com/album/2tmWZGtpjtEhUT0gGoMiyo"
+      },
+      "artists": [
+        {
+          "name": "Manuela Panizzo",
+          "url": "https://open.spotify.com/artist/0NXYHFMg0Bvx0ZvajqoAap"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215295,
+      "name": "I Don\u2019t Wanna Wake Up",
+      "url": "https://open.spotify.com/track/4rxZxC5tGEF0XQA9MGqcSC"
+    },
+    {
+      "album": {
         "name": "I Feel the Power",
         "url": "https://open.spotify.com/album/3z7FDizj8juedf4R1kYLL2"
       },
@@ -15532,7 +15550,7 @@
     },
     {
       "album": {
-        "name": "The Riversides",
+        "name": "The Riversides EP",
         "url": "https://open.spotify.com/album/0IisQC9f4M5VDz9Koa0ZwY"
       },
       "artists": [

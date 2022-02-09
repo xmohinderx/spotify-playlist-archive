@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill...
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,292,653 likes - 133 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,293,158 likes - 133 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 27 | [Bolero](https://open.spotify.com/track/74i9MJfZdRhcv6XnAfwjBA) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bolero](https://open.spotify.com/album/4HOdt0FN0eALgbFNhpACU7) | 3:25 |
 | 28 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 |
 | 29 | [Moonlight Shawty](https://open.spotify.com/track/7wkgkIBYBH3xV2ob9Zmh87) | [Fatboibari](https://open.spotify.com/artist/13iQ9ZfyvF0fJPpT9uVzfi), [Shiloh](https://open.spotify.com/artist/5r6AkaWwQMMkRBEaaM8AFS) | [Moonlight Shawty](https://open.spotify.com/album/40Clsjg6Obb6Bg3wb17anY) | 2:47 |
-| 30 | [Not Around](https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [Not Around](https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P) | 3:03 |
+| 30 | [Not Around](https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa) | [Nova](https://open.spotify.com/artist/55Sm62RihVq5W0XGmjZdxK) | [Not Around](https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P) | 3:03 |
 | 31 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 |
 | 32 | [TECTONIC PLATES](https://open.spotify.com/track/5dy9zUa1y7I15hEyC2LSPj) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [TECTONIC PLATES](https://open.spotify.com/album/6wEFrGy4VbXGZidDfPQ8JQ) | 3:40 |
 | 33 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 |

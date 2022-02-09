@@ -2,7 +2,7 @@
 
 ### [Perreo City](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
 
-> Esto es un perreo a lo..\. Gigolo y la Exce Jay Wheeler
+> Esto es un perreo a lo..\. Gigolo y la Exce & Jay Wheeler
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Hooka](https://open.spotify.com/track/5YhEoEA8OdwNYiFIBPh6nt) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [El Casti](https://open.spotify.com/artist/2Dwsrv9EwfgB2tEFhUG7CA), [Bigcvyu](https://open.spotify.com/artist/5UP5ETcG5QZxs8t19cdrTv) | [Hooka](https://open.spotify.com/album/4dotvAmzUuJ8yugn71wz86) | 3:13 | 2022-01-14 |  |
 | [Instinto](https://open.spotify.com/track/7eQ1a5DgRxRnyrhNM7Kql5) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Instinto](https://open.spotify.com/album/5vHhyucp6G8yWLcfkQitzz) | 3:48 | 2021-12-24 |  |
 | [INTERESTELAR](https://open.spotify.com/track/13XxxfnZmFEkU90QN8bOjz) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [INTERESTELAR](https://open.spotify.com/album/5p1Ibt3enlZjqqQxvpRZsM) | 2:53 | 2022-02-04 |  |
-| [Jangueo](https://open.spotify.com/track/5TzKEqqKpPb2tbgpofiItm) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY) | [Jangueo](https://open.spotify.com/album/63YMOhWDb6PtPmQ9V4ygtP) | 3:17 | 2022-02-04 |  |
+| [Jangueo](https://open.spotify.com/track/5TzKEqqKpPb2tbgpofiItm) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY) | [Jangueo](https://open.spotify.com/album/63YMOhWDb6PtPmQ9V4ygtP) | 3:17 | 2022-02-04 | 2022-02-09 |
 | [La Busqué \(with Yandel & Rauw Alejandro\)](https://open.spotify.com/track/5nNcBfbJu1RjBoKplRPw5m) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cotidiano](https://open.spotify.com/album/0vIS13618HUMjfeFcbXIoM) | 4:31 | 2021-12-24 |  |
 | [La Cartera \- Remix](https://open.spotify.com/track/48oYZdR5YurN2YWnUsYDYu) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [La Cartera \(Remix\)](https://open.spotify.com/album/4flTfoyNXilB9S6BrBeXCH) | 4:04 | 2022-02-04 |  |
 | [La Llamada](https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP) | [Pusho](https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Llamada](https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m) | 3:44 | 2021-12-24 |  |

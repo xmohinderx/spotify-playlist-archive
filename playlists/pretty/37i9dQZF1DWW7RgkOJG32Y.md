@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending new and recent tracks from the last few months\.  Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,974 likes - 86 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,081 likes - 86 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

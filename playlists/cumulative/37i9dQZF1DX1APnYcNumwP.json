@@ -136,6 +136,24 @@
     },
     {
       "album": {
+        "name": "Lux",
+        "url": "https://open.spotify.com/album/1O09puSK7tOoQP58R4FM5M"
+      },
+      "artists": [
+        {
+          "name": "Venus Ex Machina",
+          "url": "https://open.spotify.com/artist/70kUH4TKwLNkPozC2zye3p"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144994,
+      "name": "Avril",
+      "url": "https://open.spotify.com/track/0div0En4DQn4cGuZYqwtpR"
+    },
+    {
+      "album": {
         "name": "132,480 minutes",
         "url": "https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm"
       },
@@ -147,7 +165,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 220000,
       "name": "Band (pause)",
       "url": "https://open.spotify.com/track/6cUrqtrXOcmRfUhlkJ8RWx"
@@ -237,7 +255,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 106443,
       "name": "Cold Waves, Immersed",
       "url": "https://open.spotify.com/track/07NJfChhNZG2uWJqp6UMOn"
@@ -356,6 +374,24 @@
     },
     {
       "album": {
+        "name": "Echoes of the Past (Ambient Mix)",
+        "url": "https://open.spotify.com/album/4s10vc4AasHAEPIYombY9R"
+      },
+      "artists": [
+        {
+          "name": "Justin Robinson",
+          "url": "https://open.spotify.com/artist/0uPxBB7P3ZUKE6IDCUYJsI"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363375,
+      "name": "Echoes of the Past - Ambient Mix",
+      "url": "https://open.spotify.com/track/73KkLb3vy6k6YV8myyxUJS"
+    },
+    {
+      "album": {
         "name": "Music for the Ninth Silence",
         "url": "https://open.spotify.com/album/74dQeJwvaPaeFsWOgP0RWz"
       },
@@ -371,6 +407,24 @@
       "duration_ms": 273101,
       "name": "Extraverted Sensing (Akasaka)",
       "url": "https://open.spotify.com/track/31OuoHeItUP2R3JMQxlQxD"
+    },
+    {
+      "album": {
+        "name": "The landscape has become a bed",
+        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+      },
+      "artists": [
+        {
+          "name": "Low Flung",
+          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Feet submerged",
+      "url": "https://open.spotify.com/track/4HWFE0kz9LDIwJsOg7Fyfl"
     },
     {
       "album": {
@@ -429,6 +483,24 @@
       "duration_ms": 416720,
       "name": "From Sky to Sea",
       "url": "https://open.spotify.com/track/0I6PkVKkHnS1WtAo53A13M"
+    },
+    {
+      "album": {
+        "name": "The Pacific Visions of Martin Glass",
+        "url": "https://open.spotify.com/album/1u45eCsl1EhMCVpOzNW8Si"
+      },
+      "artists": [
+        {
+          "name": "Martin Glass",
+          "url": "https://open.spotify.com/artist/4Icvm8wrj4Btq3O7FHJJZd"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Greetings from Under the Ocean",
+      "url": "https://open.spotify.com/track/3bNH69NjwtqkhmoZAYuorI"
     },
     {
       "album": {
@@ -551,7 +623,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 345560,
       "name": "Hyperborea",
       "url": "https://open.spotify.com/track/1Sw8rWRv7yASSHcGgOPKR0"
@@ -587,7 +659,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 310946,
       "name": "In Some Brighter Sphere",
       "url": "https://open.spotify.com/track/2ytwLXKGmbbmsEpoaNnNlh"
@@ -641,7 +713,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 317047,
       "name": "Last Dream Before Sunrise",
       "url": "https://open.spotify.com/track/3jQe4AVg43Oh6byqoVUgjQ"
@@ -905,7 +977,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 445253,
       "name": "Polynya II",
       "url": "https://open.spotify.com/track/0fsTPHpanQBwiINIbIpF8E"
@@ -984,6 +1056,24 @@
     },
     {
       "album": {
+        "name": "Surface Variations",
+        "url": "https://open.spotify.com/album/04Pn49unOo1GzfUeON5mxV"
+      },
+      "artists": [
+        {
+          "name": "Eric Holm",
+          "url": "https://open.spotify.com/artist/2dO6yK3KNuHEpfpL7Ythp8"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370178,
+      "name": "Salp",
+      "url": "https://open.spotify.com/track/36OzNBMNi4Z3lPb0dpNhkg"
+    },
+    {
+      "album": {
         "name": "Holographic Prism",
         "url": "https://open.spotify.com/album/7bIo9SNU6eFXu6qVcBIyqP"
       },
@@ -1003,6 +1093,24 @@
       "duration_ms": 351129,
       "name": "Sky - Slow Dancing Society Remix",
       "url": "https://open.spotify.com/track/6VyXLflSeJTiCFVmAanzkX"
+    },
+    {
+      "album": {
+        "name": "Slowly Falling II",
+        "url": "https://open.spotify.com/album/5hDONHyuHnYfSa7zSQePxl"
+      },
+      "artists": [
+        {
+          "name": "Jeff Pearce",
+          "url": "https://open.spotify.com/artist/74pi4wcNMJ20RYsbbEmA46"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312710,
+      "name": "Slowly Falling II",
+      "url": "https://open.spotify.com/track/0VVkdE8HEpneAyVC9V2Tgv"
     },
     {
       "album": {
@@ -1039,6 +1147,24 @@
       "duration_ms": 329830,
       "name": "Subnautica",
       "url": "https://open.spotify.com/track/1uMxxNWkxNJMQr7IxMWmyN"
+    },
+    {
+      "album": {
+        "name": "The Alias Sessions",
+        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230320,
+      "name": "Surface Wear",
+      "url": "https://open.spotify.com/track/4MqwW5oA1CNolnb8tnxT9E"
     },
     {
       "album": {
@@ -1215,7 +1341,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 229980,
       "name": "Undersea",
       "url": "https://open.spotify.com/track/0Jnos33PiyIouElIko3KnO"

@@ -2,7 +2,7 @@
 
 ### [Indigo](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
 
-> A new shade of Country\. Cover: Corb Lund
+> A new shade of Country\. Cover: Joshua Hedley
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

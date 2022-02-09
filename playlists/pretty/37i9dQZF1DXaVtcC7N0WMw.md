@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVtcC7N0WMw.md) - [plain]
 
 > A poem or short literary excerpt for every day of the month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,704 likes - 29 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,703 likes - 29 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

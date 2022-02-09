@@ -8234,6 +8234,24 @@
     },
     {
       "album": {
+        "name": "\u0417\u0430 \u0432\u0441\u0435\u0445",
+        "url": "https://open.spotify.com/album/6iKw2kpxfdP9j0jn6Q3D7f"
+      },
+      "artists": [
+        {
+          "name": "MACAN",
+          "url": "https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104680,
+      "name": "\u0417\u0430 \u0432\u0441\u0435\u0445",
+      "url": "https://open.spotify.com/track/7uJlcGDXjx8Ha6t8kWFlxf"
+    },
+    {
+      "album": {
         "name": "Sosa Muzik",
         "url": "https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh"
       },
@@ -11707,7 +11725,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 205293,
       "name": "\u0421\u0430\u043d \u041b\u0430\u0440\u0430\u043d",
       "url": "https://open.spotify.com/track/07OqyOeHz7LOGVuXUx4pr3"

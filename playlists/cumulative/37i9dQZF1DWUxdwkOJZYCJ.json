@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Da Ya Think I'm Sexy?",
       "url": "https://open.spotify.com/track/0gTFo2Va6oImBxUZOEOg9T"
@@ -203,10 +203,28 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 262800,
       "name": "Dance Into The Light",
       "url": "https://open.spotify.com/track/4oKHWJpgJKHcBvqyUNYQey"
+    },
+    {
+      "album": {
+        "name": "Discography - Complete Singles Collection",
+        "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "date_added": "2021-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258333,
+      "name": "Domino Dancing",
+      "url": "https://open.spotify.com/track/4mVLzFbc3gaCoWCEENLouc"
     },
     {
       "album": {
@@ -705,7 +723,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 283426,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9"
@@ -759,7 +777,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 240493,
       "name": "Sight for Sore Eyes",
       "url": "https://open.spotify.com/track/0EHIEIJq0Tskc6YPNViMFv"
@@ -849,7 +867,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 278026,
       "name": "The Animal Song",
       "url": "https://open.spotify.com/track/71njVDfhJHavyvOZSYEQnW"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 224933,
       "name": "Too Funky - Single Edit",
       "url": "https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 219466,
       "name": "We've Got It Goin' On - Radio Edit",
       "url": "https://open.spotify.com/track/7qD9lD0dabABT6y3Vw3uVX"

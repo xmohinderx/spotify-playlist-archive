@@ -1,12 +1,12 @@
 {
   "description": "Discover your favorite new chill pop songs. Cover: Tai Verdes",
-  "num_followers": 1178987,
+  "num_followers": 1179510,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDI2OTczOCwwMDAwMDU3NTAwMDAwMTdlZDYxZDE5MTEwMDAwMDE3ZWJkZGY3MzNl",
+  "snapshot_id": "MTY0NDI5ODQ1NCwwMDAwMDU3NjAwMDAwMTdlZDdkMzQ2MDkwMDAwMDE3ZWJkZGY3MzNl",
   "tracks": [
     {
       "added_at": "2022-02-07 21:35:38",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-02-07 21:35:38",
       "album": {
+        "name": "Fat Funny Friend",
+        "url": "https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 199764,
+      "name": "Fat Funny Friend",
+      "url": "https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2"
+    },
+    {
+      "added_at": "2022-02-07 21:35:38",
+      "album": {
         "name": "GHOST TOWN",
         "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
       },
@@ -291,38 +307,6 @@
     {
       "added_at": "2022-02-07 21:35:38",
       "album": {
-        "name": "Miserable Man",
-        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 232991,
-      "name": "Miserable Man",
-      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
-    },
-    {
-      "added_at": "2022-02-07 21:35:38",
-      "album": {
-        "name": "Fat Funny Friend",
-        "url": "https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 199764,
-      "name": "Fat Funny Friend",
-      "url": "https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2"
-    },
-    {
-      "added_at": "2022-02-07 21:35:38",
-      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U"
       },
@@ -359,22 +343,6 @@
     {
       "added_at": "2022-02-07 21:35:38",
       "album": {
-        "name": "Scenic Drive (The Tape)",
-        "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/2LTFSIFfYR9tjPdzX4if0Z"
-    },
-    {
-      "added_at": "2022-02-07 21:35:38",
-      "album": {
         "name": "Fall in Love with You.",
         "url": "https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc"
       },
@@ -391,18 +359,38 @@
     {
       "added_at": "2022-02-07 21:35:38",
       "album": {
-        "name": "TOUCH",
-        "url": "https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7"
+        "name": "When I\u00b4m Still Getting Over You (feat. Paige)",
+        "url": "https://open.spotify.com/album/22DgDTv6KXY6rpEyFbzcPR"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        },
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7"
         }
       ],
-      "duration_ms": 205346,
-      "name": "TOUCH",
-      "url": "https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY"
+      "duration_ms": 173242,
+      "name": "When I\u00b4m Still Getting Over You (feat. Paige)",
+      "url": "https://open.spotify.com/track/7suhPkKX61NRfwW7A4TK6t"
+    },
+    {
+      "added_at": "2022-02-07 21:35:38",
+      "album": {
+        "name": "Miserable Man",
+        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 232991,
+      "name": "Miserable Man",
+      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
     },
     {
       "added_at": "2022-02-07 21:35:38",
@@ -439,6 +427,54 @@
     {
       "added_at": "2022-02-07 21:35:38",
       "album": {
+        "name": "vaultboy EP",
+        "url": "https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        }
+      ],
+      "duration_ms": 196481,
+      "name": "i think i wanna text u",
+      "url": "https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3"
+    },
+    {
+      "added_at": "2022-02-07 21:35:38",
+      "album": {
+        "name": "Dumb Love",
+        "url": "https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "Dumb Love",
+      "url": "https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX"
+    },
+    {
+      "added_at": "2022-02-07 21:35:38",
+      "album": {
+        "name": "Scenic Drive (The Tape)",
+        "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/2LTFSIFfYR9tjPdzX4if0Z"
+    },
+    {
+      "added_at": "2022-02-07 21:35:38",
+      "album": {
         "name": "Come Close",
         "url": "https://open.spotify.com/album/3IwrLHxANKcf9PKXpZ2lh7"
       },
@@ -455,6 +491,22 @@
     {
       "added_at": "2022-02-07 21:35:38",
       "album": {
+        "name": "TOUCH",
+        "url": "https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY"
+    },
+    {
+      "added_at": "2022-02-07 21:35:38",
+      "album": {
         "name": "Always Been You",
         "url": "https://open.spotify.com/album/1VhOdgOjIARBn6SoNyeQDa"
       },
@@ -467,26 +519,6 @@
       "duration_ms": 131824,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV"
-    },
-    {
-      "added_at": "2022-02-07 21:35:38",
-      "album": {
-        "name": "When I\u00b4m Still Getting Over You (feat. Paige)",
-        "url": "https://open.spotify.com/album/22DgDTv6KXY6rpEyFbzcPR"
-      },
-      "artists": [
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        },
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7"
-        }
-      ],
-      "duration_ms": 173242,
-      "name": "When I\u00b4m Still Getting Over You (feat. Paige)",
-      "url": "https://open.spotify.com/track/7suhPkKX61NRfwW7A4TK6t"
     },
     {
       "added_at": "2022-02-07 21:35:38",
@@ -523,6 +555,38 @@
     {
       "added_at": "2022-02-07 21:35:38",
       "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "added_at": "2022-02-07 21:35:38",
+      "album": {
+        "name": "i don't wanna let u go",
+        "url": "https://open.spotify.com/album/5zHj469rFk5ZGxT5tSniLA"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "i don't wanna let u go",
+      "url": "https://open.spotify.com/track/6awEFGRJn9q75S3oYxnJEs"
+    },
+    {
+      "added_at": "2022-02-07 21:35:38",
+      "album": {
         "name": "Pink Moon",
         "url": "https://open.spotify.com/album/5MxLgiQF7yvC7SVMghxPZ1"
       },
@@ -539,38 +603,6 @@
       "duration_ms": 195368,
       "name": "Real Thing (feat. Tori Kelly)",
       "url": "https://open.spotify.com/track/4Nk5iJrw4u7vJ6nGXosuxk"
-    },
-    {
-      "added_at": "2022-02-07 21:35:38",
-      "album": {
-        "name": "Dumb Love",
-        "url": "https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 207068,
-      "name": "Dumb Love",
-      "url": "https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX"
-    },
-    {
-      "added_at": "2022-02-07 21:35:38",
-      "album": {
-        "name": "vaultboy EP",
-        "url": "https://open.spotify.com/album/0SiHxjCWqC4ODGKirRUk9L"
-      },
-      "artists": [
-        {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        }
-      ],
-      "duration_ms": 196481,
-      "name": "i think i wanna text u",
-      "url": "https://open.spotify.com/track/4hH46xhExjwEGfuWFgnOc3"
     },
     {
       "added_at": "2022-02-07 21:35:38",
@@ -623,22 +655,6 @@
     {
       "added_at": "2022-02-07 21:35:38",
       "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
-    },
-    {
-      "added_at": "2022-02-07 21:35:38",
-      "album": {
         "name": "rapunzel",
         "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 241458,
       "name": "grateful",
       "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
-    },
-    {
-      "added_at": "2022-02-07 21:35:38",
-      "album": {
-        "name": "i don't wanna let u go",
-        "url": "https://open.spotify.com/album/5zHj469rFk5ZGxT5tSniLA"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "i don't wanna let u go",
-      "url": "https://open.spotify.com/track/6awEFGRJn9q75S3oYxnJEs"
     },
     {
       "added_at": "2022-02-07 21:35:38",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-02-07 21:35:38",
       "album": {
-        "name": "Gradually",
-        "url": "https://open.spotify.com/album/5HXC22e6m3XhjzpnSRmeLV"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        }
-      ],
-      "duration_ms": 155960,
-      "name": "Gradually",
-      "url": "https://open.spotify.com/track/2zQ0BWsBnGckZt5PwW2Rrj"
-    },
-    {
-      "added_at": "2022-02-07 21:35:38",
-      "album": {
         "name": "TOO YOUNG TO BE SAD",
         "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
       },
@@ -767,22 +751,6 @@
       "duration_ms": 181945,
       "name": "A LOT",
       "url": "https://open.spotify.com/track/1cRY1p6f4k8B1fGt7hnP5H"
-    },
-    {
-      "added_at": "2022-02-07 21:35:38",
-      "album": {
-        "name": "Picture Myself",
-        "url": "https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        }
-      ],
-      "duration_ms": 211337,
-      "name": "Picture Myself",
-      "url": "https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel"
     },
     {
       "added_at": "2022-02-07 21:35:38",
@@ -919,6 +887,22 @@
     {
       "added_at": "2022-02-07 21:35:38",
       "album": {
+        "name": "Picture Myself",
+        "url": "https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "duration_ms": 211337,
+      "name": "Picture Myself",
+      "url": "https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel"
+    },
+    {
+      "added_at": "2022-02-07 21:35:38",
+      "album": {
         "name": "What Did I Do?",
         "url": "https://open.spotify.com/album/74WdQxAgACeqOaId2H4W7I"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 211613,
       "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
       "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"
+    },
+    {
+      "added_at": "2022-02-07 21:35:38",
+      "album": {
+        "name": "Gradually",
+        "url": "https://open.spotify.com/album/5HXC22e6m3XhjzpnSRmeLV"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "duration_ms": 155960,
+      "name": "Gradually",
+      "url": "https://open.spotify.com/track/2zQ0BWsBnGckZt5PwW2Rrj"
     },
     {
       "added_at": "2022-02-07 21:35:38",
@@ -1247,26 +1247,6 @@
       "duration_ms": 199166,
       "name": "Only When I Look into Your Eyes",
       "url": "https://open.spotify.com/track/5MgXxIwMUkJQlv5WYxlUNS"
-    },
-    {
-      "added_at": "2022-02-07 21:35:38",
-      "album": {
-        "name": "when was it over? (feat. Sam Hunt)",
-        "url": "https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        },
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "when was it over? (feat. Sam Hunt)",
-      "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
     },
     {
       "added_at": "2022-02-07 21:35:38",

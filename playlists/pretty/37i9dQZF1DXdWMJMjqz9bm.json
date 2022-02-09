@@ -1,13 +1,37 @@
 {
   "description": "A little bit of rap & a little bit of pop. Featuring new music by Arizona Zervas.",
-  "num_followers": 138115,
+  "num_followers": 138255,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDI2OTk1MywwMDAwMDBmNjAwMDAwMTdlZDYyMDYyZDcwMDAwMDE3ZWMxNWI5ZWJh",
+  "snapshot_id": "MTY0NDMzMzEwMCwwMDAwMDBmNzAwMDAwMTdlZDllM2ViZWMwMDAwMDE3ZWMxNWI5ZWJh",
   "tracks": [
+    {
+      "added_at": "2022-02-08 15:11:39",
+      "album": {
+        "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+        "url": "https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T"
+    },
     {
       "added_at": "2022-02-04 05:03:00",
       "album": {
@@ -27,38 +51,6 @@
     {
       "added_at": "2022-02-04 05:03:00",
       "album": {
-        "name": "TAKEN BACK",
-        "url": "https://open.spotify.com/album/6mQgaTQxOJ8HRFD6kQ46qB"
-      },
-      "artists": [
-        {
-          "name": "Allen Haley",
-          "url": "https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb"
-        }
-      ],
-      "duration_ms": 153672,
-      "name": "TAKEN BACK",
-      "url": "https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi"
-    },
-    {
-      "added_at": "2022-02-04 05:03:00",
-      "album": {
-        "name": "LMK",
-        "url": "https://open.spotify.com/album/3Xpq6wIvop8j2akHp9fkgp"
-      },
-      "artists": [
-        {
-          "name": "Anthony Russo",
-          "url": "https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki"
-        }
-      ],
-      "duration_ms": 127679,
-      "name": "LMK",
-      "url": "https://open.spotify.com/track/19YxMrQzETGpRvMmFNbsPW"
-    },
-    {
-      "added_at": "2022-02-04 05:03:00",
-      "album": {
         "name": "HANDSOMER",
         "url": "https://open.spotify.com/album/3zCqTgk4dwtws1HhNoHqWI"
       },
@@ -71,6 +63,22 @@
       "duration_ms": 143414,
       "name": "HANDSOMER",
       "url": "https://open.spotify.com/track/4v1TTTCadimzZkTuDTnYBc"
+    },
+    {
+      "added_at": "2022-02-04 05:03:00",
+      "album": {
+        "name": "TAKEN BACK",
+        "url": "https://open.spotify.com/album/6mQgaTQxOJ8HRFD6kQ46qB"
+      },
+      "artists": [
+        {
+          "name": "Allen Haley",
+          "url": "https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb"
+        }
+      ],
+      "duration_ms": 153672,
+      "name": "TAKEN BACK",
+      "url": "https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi"
     },
     {
       "added_at": "2022-02-04 05:03:00",
@@ -217,6 +225,42 @@
       "url": "https://open.spotify.com/track/3ySkKnDdEkmW6zEzkQIsOv"
     },
     {
+      "added_at": "2022-01-28 17:05:29",
+      "album": {
+        "name": "Brightside",
+        "url": "https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ"
+      },
+      "artists": [
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "Warren Hue",
+          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
+        }
+      ],
+      "duration_ms": 211306,
+      "name": "Getcho Mans",
+      "url": "https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj"
+    },
+    {
+      "added_at": "2022-02-04 05:03:00",
+      "album": {
+        "name": "LMK",
+        "url": "https://open.spotify.com/album/3Xpq6wIvop8j2akHp9fkgp"
+      },
+      "artists": [
+        {
+          "name": "Anthony Russo",
+          "url": "https://open.spotify.com/artist/6PFcrRZezCL5p9A0nwb7ki"
+        }
+      ],
+      "duration_ms": 127679,
+      "name": "LMK",
+      "url": "https://open.spotify.com/track/19YxMrQzETGpRvMmFNbsPW"
+    },
+    {
       "added_at": "2021-11-16 22:00:15",
       "album": {
         "name": "Icee Pop",
@@ -331,26 +375,6 @@
       "duration_ms": 126316,
       "name": "winter",
       "url": "https://open.spotify.com/track/6aMS0HK7fnPpT21KhV7MC7"
-    },
-    {
-      "added_at": "2022-01-28 17:05:29",
-      "album": {
-        "name": "Brightside",
-        "url": "https://open.spotify.com/album/41f4EFQKt0oSJjq8KCClJZ"
-      },
-      "artists": [
-        {
-          "name": "Rich Brian",
-          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-        },
-        {
-          "name": "Warren Hue",
-          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "Getcho Mans",
-      "url": "https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj"
     },
     {
       "added_at": "2022-02-01 18:59:40",

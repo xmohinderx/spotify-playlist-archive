@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: YSN Fab<br/>, Artwork: Alfie Kungu
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,153 likes - 64 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,336 likes - 64 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

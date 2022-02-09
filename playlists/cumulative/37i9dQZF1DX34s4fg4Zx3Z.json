@@ -304,6 +304,24 @@
     },
     {
       "album": {
+        "name": "B\u1ed1n B\u1ee9c T\u01b0\u1eddng",
+        "url": "https://open.spotify.com/album/4RNp6hEWoDeDXh8PTKXdik"
+      },
+      "artists": [
+        {
+          "name": "Loli",
+          "url": "https://open.spotify.com/artist/2STiM46mIuADJaq9Rt3odB"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280575,
+      "name": "B\u1ed1n B\u1ee9c T\u01b0\u1eddng",
+      "url": "https://open.spotify.com/track/47YM9oNT1A3YccwkP3nddV"
+    },
+    {
+      "album": {
         "name": "Cho \u0110\u1ebfn M\u00e3i V\u1ec1 Sau",
         "url": "https://open.spotify.com/album/1OpCdTvLMHQNSMOVoYDZm2"
       },
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 224394,
       "name": "C\u00f2n Anh Ch\u1edd",
       "url": "https://open.spotify.com/track/2cMZmoSvU9Z6HDn5qnpxZj"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 176345,
       "name": "Em L\u00e0 M\u1ed9t \u0110\u00f3a Hoa",
       "url": "https://open.spotify.com/track/2hRiSqRBYbsupfep33WpI8"
@@ -983,7 +1001,7 @@
       ],
       "date_added": "2022-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 209777,
       "name": "G\u1ecdi Cho Anh",
       "url": "https://open.spotify.com/track/0xJGa0K3KvrlpMZsdzeayG"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 190009,
       "name": "L\u1ec5 H\u1ed9i Qu\u00e9t Nh\u00e0",
       "url": "https://open.spotify.com/track/0qf9KAxuAhwMUU2xHISl2l"
@@ -1945,7 +1963,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 214378,
       "name": "Phai",
       "url": "https://open.spotify.com/track/42ajbrD1sow2nEGPGxPPRl"

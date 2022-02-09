@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY58YgA8d6HG.md) - [plain]
 
 > Celebrate music's biggest awards show with all the ultimate performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,174 likes - 40 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,172 likes - 40 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

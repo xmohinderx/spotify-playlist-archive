@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Corb Lund
+> A new shade of Country\. Cover: Joshua Hedley
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,247 likes - 115 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,368 likes - 115 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 114 | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/track/7F4WQ6WwJLVEDpjR9MG3bw) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Sad Songs and Waltzes \(with Willie Nelson\)](https://open.spotify.com/album/4sKrlN6o8XBEpRybKt7A28) | 3:31 |
 | 115 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 |
 
-Snapshot ID: `MTY0Mzk1MDgwMCwwMDAwMDBjOTAwMDAwMTdlYzMxYTdkM2IwMDAwMDE3ZWMxYWM2ZGRj`
+Snapshot ID: `MTY0NDM1NzM2NywwMDAwMDBjYTAwMDAwMTdlZGI1NjM1NWUwMDAwMDE3ZWMxYWM2ZGRj`

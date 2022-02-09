@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a os hits do momento da m\u00fasica pop brasileira. Foto: J\u00e3o",
+  "description": "Ou\u00e7a os hits do momento da m\u00fasica pop brasileira. Foto: Lu\u00edsa Sonza, LUDMILLA",
   "name": "Pop Brasil",
   "published_playlist_ids": [
     "2iwi9LnnLi5RXjdilr4cmw"
@@ -275,6 +275,28 @@
       "duration_ms": 141187,
       "name": "Bumbum Check",
       "url": "https://open.spotify.com/track/07q51cMw9IyDfZ7Jk08S6z"
+    },
+    {
+      "album": {
+        "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+        "url": "https://open.spotify.com/album/5GLvWI68rAJXKVmGfdV2Eu"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181173,
+      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+      "url": "https://open.spotify.com/track/38elgIhd4uAawIUAA0fG99"
     },
     {
       "album": {
@@ -771,7 +793,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 159113,
       "name": "Melhor Assunto",
       "url": "https://open.spotify.com/track/02Z6GIcuJJy2Q29vveZqpD"

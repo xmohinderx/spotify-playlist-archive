@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 218826,
       "name": "200 Copas - En Vivo",
       "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 196970,
       "name": "A Cu\u00e1nto Me Qued\u00e9",
       "url": "https://open.spotify.com/track/6nSdCunUQiGAnSMbdvt5Mw"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 192453,
       "name": "Amor De Madrugada",
       "url": "https://open.spotify.com/track/010A0oe6YYm0ng35rAG7tV"
@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 255680,
       "name": "Atr\u00e9vete",
       "url": "https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 235920,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 227866,
       "name": "Dame un Poco Mas",
       "url": "https://open.spotify.com/track/118nYRgA9iNCv5aiUO5B8K"
@@ -927,7 +927,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 223440,
       "name": "En Mi Cama una Cualquiera",
       "url": "https://open.spotify.com/track/1NY5y5yyjZGqvdhffOeA1R"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 169496,
       "name": "Eran dos locos de amor",
       "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
@@ -981,7 +981,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 270733,
       "name": "Eres \u00danica / Dile a Ella",
       "url": "https://open.spotify.com/track/161kF8hEUV037j8LsBZVH0"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 200362,
       "name": "La Bella y la Bestia",
       "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
@@ -1506,6 +1506,28 @@
     },
     {
       "album": {
+        "name": "Lamento Borincano",
+        "url": "https://open.spotify.com/album/2FtEHp1FkZCugd7pKdgEic"
+      },
+      "artists": [
+        {
+          "name": "Los Ferrari",
+          "url": "https://open.spotify.com/artist/2qLoaugsCpfAOolvFfe06b"
+        },
+        {
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/7FIrQ4igI8Mn9dmPnTS9xu"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223924,
+      "name": "Lamento Borincano",
+      "url": "https://open.spotify.com/track/07aYIkmsTxp1klYv7CeMSk"
+    },
+    {
+      "album": {
         "name": "Sabroso",
         "url": "https://open.spotify.com/album/4EFaPLKwbFhzBy9GWVcT75"
       },
@@ -1571,7 +1593,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 281880,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/7g8FwoWCD7MzMOVN5ZgNkz"
@@ -1719,7 +1741,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 187245,
       "name": "Ma\u00f1ana Sin Vos",
       "url": "https://open.spotify.com/track/4QfmLUhVYZgykeLHBYLbVf"
@@ -1843,7 +1865,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 223179,
       "name": "Mi Cama Huele A Ti",
       "url": "https://open.spotify.com/track/0M8Fzjbx1Ia5zcd3MzIKVB"
@@ -1897,7 +1919,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 209121,
       "name": "Mil Demonios - En Vivo",
       "url": "https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU"
@@ -2081,7 +2103,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 230546,
       "name": "Noche De Travesura",
       "url": "https://open.spotify.com/track/47YL75nTX9rVZ4gJT9Q8W7"
@@ -2259,7 +2281,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 212489,
       "name": "Pesadilla",
       "url": "https://open.spotify.com/track/5JoxSI5yd4eC2ODlhzIgA7"
@@ -2527,7 +2549,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 199666,
       "name": "Recreo",
       "url": "https://open.spotify.com/track/6eZqovhe0LPyiphM1fU0uk"
@@ -2639,7 +2661,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 136318,
       "name": "Sofia",
       "url": "https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp"
@@ -2929,7 +2951,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 198320,
       "name": "Tu amor me duele",
       "url": "https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY"
@@ -3023,7 +3045,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 242950,
       "name": "Un Perfecto Idiota",
       "url": "https://open.spotify.com/track/0VaT0YEN3tFeEGqleYLpsq"
@@ -3139,7 +3161,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 319280,
       "name": "Vuela",
       "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"

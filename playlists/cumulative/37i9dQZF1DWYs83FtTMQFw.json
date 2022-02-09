@@ -6456,6 +6456,24 @@
     },
     {
       "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/7GDatS6iAApwmxAvLMEG1c"
+      },
+      "artists": [
+        {
+          "name": "Fresco Trey",
+          "url": "https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173065,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/5FkBoG7xkb0pPkaO8rS5td"
+    },
+    {
+      "album": {
         "name": "F*CK LOVE",
         "url": "https://open.spotify.com/album/6RuwGwQcAureaOraKJNFQG"
       },

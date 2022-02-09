@@ -1,12 +1,12 @@
 {
   "description": "Halestorm on top of the biggest Metal playlist!",
-  "num_followers": 1249175,
+  "num_followers": 1249507,
   "original_name": "Kickass Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzkzMjg2MCwwMDAwMDRjNzAwMDAwMTdlYzIwOGJlY2IwMDAwMDE3ZWJhNjZhYmE2",
+  "snapshot_id": "MTY0NDMyMDkyMiwwMDAwMDRjOTAwMDAwMTdlZDkyYTFiNjIwMDAwMDE3ZWJhNjZhYmE2",
   "tracks": [
     {
       "added_at": "2022-02-04 00:01:00",
@@ -67,6 +67,38 @@
     {
       "added_at": "2022-02-04 00:01:00",
       "album": {
+        "name": "So Called Life",
+        "url": "https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 206276,
+      "name": "So Called Life",
+      "url": "https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53"
+    },
+    {
+      "added_at": "2022-02-04 00:01:00",
+      "album": {
+        "name": "Handshake with Hell",
+        "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 338960,
+      "name": "Handshake with Hell",
+      "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
+    },
+    {
+      "added_at": "2022-02-04 00:01:00",
+      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
       },
@@ -95,38 +127,6 @@
       "duration_ms": 284266,
       "name": "Call Me Little Sunshine",
       "url": "https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl"
-    },
-    {
-      "added_at": "2022-02-04 00:01:00",
-      "album": {
-        "name": "Handshake with Hell",
-        "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 338960,
-      "name": "Handshake with Hell",
-      "url": "https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ"
-    },
-    {
-      "added_at": "2022-02-04 00:01:00",
-      "album": {
-        "name": "So Called Life",
-        "url": "https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 206276,
-      "name": "So Called Life",
-      "url": "https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53"
     },
     {
       "added_at": "2022-02-04 00:01:00",
@@ -223,6 +223,22 @@
     {
       "added_at": "2022-02-04 00:01:00",
       "album": {
+        "name": "Plastic Heart",
+        "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 183350,
+      "name": "Plastic Heart",
+      "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
+    },
+    {
+      "added_at": "2022-02-04 00:01:00",
+      "album": {
         "name": "Watchtower",
         "url": "https://open.spotify.com/album/0I0qq25JoA8DyCaztuUgHb"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 269398,
       "name": "Death Is All Around",
       "url": "https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j"
-    },
-    {
-      "added_at": "2022-02-04 00:01:00",
-      "album": {
-        "name": "Plastic Heart",
-        "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
-      },
-      "artists": [
-        {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
-        }
-      ],
-      "duration_ms": 183350,
-      "name": "Plastic Heart",
-      "url": "https://open.spotify.com/track/4hfA3mKxMHm7cOdFHMcfen"
     },
     {
       "added_at": "2022-02-04 00:01:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-02-04 00:01:00",
       "album": {
+        "name": "Deadman",
+        "url": "https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs"
+      },
+      "artists": [
+        {
+          "name": "Smash Into Pieces",
+          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
+        }
+      ],
+      "duration_ms": 209828,
+      "name": "Deadman",
+      "url": "https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga"
+    },
+    {
+      "added_at": "2022-02-04 00:01:00",
+      "album": {
         "name": "On The Dark Waters",
         "url": "https://open.spotify.com/album/6ihUByrh3f1BUgOKWbe1NN"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 185772,
       "name": "Left For Dead",
       "url": "https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx"
-    },
-    {
-      "added_at": "2022-02-04 00:01:00",
-      "album": {
-        "name": "Deadman",
-        "url": "https://open.spotify.com/album/5UyRUec6G8ArrTXgIkfDGs"
-      },
-      "artists": [
-        {
-          "name": "Smash Into Pieces",
-          "url": "https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq"
-        }
-      ],
-      "duration_ms": 209828,
-      "name": "Deadman",
-      "url": "https://open.spotify.com/track/06OJVnoWmumCvMhAgi1zga"
     },
     {
       "added_at": "2022-02-04 00:01:00",

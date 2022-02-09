@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Exciting artists on the RADAR from the Benelux and beyond\. Cover: Emma Bale
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,685 likes - 46 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,688 likes - 46 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Divide](https://open.spotify.com/track/6xAt3TGyEhAkWJsJggwA27) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Divide](https://open.spotify.com/album/06Fh29APHSqF8pQvbxYy0W) | 3:34 |
-| 2 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 |
+| 1 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 |
+| 2 | [Divide](https://open.spotify.com/track/6xAt3TGyEhAkWJsJggwA27) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV), [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [Divide](https://open.spotify.com/album/06Fh29APHSqF8pQvbxYy0W) | 3:34 |
 | 3 | [Een Teken](https://open.spotify.com/track/4YWS5c1tKeLFFiuZuSCg10) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Een Teken](https://open.spotify.com/album/5JRilfWaLp7MmGybgpS04Q) | 2:12 |
 | 4 | [dejavu](https://open.spotify.com/track/4GwIJFFipIzqF6ZvQ9vZd7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 2:56 |
 | 5 | [Numbers Up](https://open.spotify.com/track/45vFhToZg8ABIXKAp3nggm) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [Numbers Up](https://open.spotify.com/album/5nV448yp33kVXzPAZ2BwwU) | 3:25 |
 | 6 | [Smile](https://open.spotify.com/track/2ApL6VOKSrkgQpReK9CNSo) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Smile](https://open.spotify.com/album/0mdge9D2gBA10epxNEXjLS) | 3:04 |
 | 7 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 |
 | 8 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
-| 9 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:41 |
+| 9 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 |
 | 10 | [someone like u](https://open.spotify.com/track/6BeODAFUXgrscucnq8xDAs) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [someone like u](https://open.spotify.com/album/5Bv3bGkyEVmF3WJXLtrCkn) | 3:52 |
 | 11 | [Mascarade \(feat\. Lous and The Yakuza\) \- Radio Edit](https://open.spotify.com/track/7pCdgnXuPLIMI3MgpHMxUp) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Mascarade \(feat\. Lous and The Yakuza\)](https://open.spotify.com/album/6uxj1PvvdPviYBxNFYCfQS) | 2:35 |
 | 12 | [Gisèle](https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 3:16 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 45 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 |
 | 46 | [París](https://open.spotify.com/track/4bF2y8rR7GUjrd5LNEvej3) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [París](https://open.spotify.com/album/6Ktv94u6eUIZBiUiBwOADD) | 2:31 |
 
-Snapshot ID: `MTY0MzkyOTIwMCwwMDAwMDAzMzAwMDAwMTdlYzFkMGU2MzQwMDAwMDE3ZThjNGI2ZmZj`
+Snapshot ID: `MTY0NDMxMjcwMiwwMDAwMDAzNDAwMDAwMTdlZDhhY2FlNWUwMDAwMDE3ZThjNGI2ZmZj`

@@ -1522,6 +1522,24 @@
     },
     {
       "album": {
+        "name": "Mujeriego",
+        "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Mujeriego",
+      "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
+    },
+    {
+      "album": {
         "name": "G.T.F.O.M.D: There\u2019s Not Enough Room for All You Motha Fuckas to Be on It Like This",
         "url": "https://open.spotify.com/album/0bh0XYNyfyC2rybpzHTC85"
       },

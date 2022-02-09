@@ -746,6 +746,24 @@
     },
     {
       "album": {
+        "name": "gnb",
+        "url": "https://open.spotify.com/album/5KWDHBSc9h4QkMTG2XS0Lz"
+      },
+      "artists": [
+        {
+          "name": "Goreshit",
+          "url": "https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316424,
+      "name": "Fine Night",
+      "url": "https://open.spotify.com/track/6UeUyaI0Mg6YVrleDiUzdG"
+    },
+    {
+      "album": {
         "name": "First Blue Sky",
         "url": "https://open.spotify.com/album/6bSCOFhuRmg0idv0QM5J1k"
       },

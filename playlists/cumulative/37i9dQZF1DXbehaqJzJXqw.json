@@ -750,6 +750,24 @@
     },
     {
       "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146253,
+      "name": "La fille d'Ipanema",
+      "url": "https://open.spotify.com/track/54HjqZdYLyQTirAJTieAnx"
+    },
+    {
+      "album": {
         "name": "13 chansons d'avant le d\u00e9luge",
         "url": "https://open.spotify.com/album/15I7QvT8jQY5xvU2CBzWgf"
       },
@@ -1742,6 +1760,24 @@
     },
     {
       "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200173,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/3IyikwjDC5J3RO1z1xbyIx"
+    },
+    {
+      "album": {
         "name": "N\u00b06 - 10 ans de chansons",
         "url": "https://open.spotify.com/album/2r7CEhSi0rTgDUx3cttce8"
       },
@@ -1927,6 +1963,24 @@
       "duration_ms": 203160,
       "name": "Un jour de diff\u00e9rence",
       "url": "https://open.spotify.com/track/4szoAieU3gUmaObmgPaTGa"
+    },
+    {
+      "album": {
+        "name": "Um Rio",
+        "url": "https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcio Faraco",
+          "url": "https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254693,
+      "name": "\u00c0 quoi \u00e7a sert l'amour",
+      "url": "https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY"
     },
     {
       "album": {

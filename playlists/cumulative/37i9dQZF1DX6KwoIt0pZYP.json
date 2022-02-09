@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Little Bit Patient",
+        "url": "https://open.spotify.com/album/5KQKBocUoSXhXpqHVvUNzJ"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "A Little Bit Patient",
+      "url": "https://open.spotify.com/track/13eVfN1euUur28OoD5s86X"
+    },
+    {
+      "album": {
         "name": "Yonny (Deluxe Version)",
         "url": "https://open.spotify.com/album/6zhx4mc5PdwekgjZD4N7i7"
       },
@@ -59,6 +77,24 @@
       "duration_ms": 170132,
       "name": "Another",
       "url": "https://open.spotify.com/track/3tspXbvwbQF4zRk6dD7pqq"
+    },
+    {
+      "album": {
+        "name": "Anxious",
+        "url": "https://open.spotify.com/album/0e2t5kgPoO2arJl087wrH6"
+      },
+      "artists": [
+        {
+          "name": "NYK",
+          "url": "https://open.spotify.com/artist/009SHiJ9rvFm3vNwL4SjZx"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191311,
+      "name": "Anxious",
+      "url": "https://open.spotify.com/track/4eEcCdjYBxMD9YsHBvesJt"
     },
     {
       "album": {
@@ -99,6 +135,24 @@
       "duration_ms": 312191,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/0t0p3pFkUxv3KnMGZqPxyP"
+    },
+    {
+      "album": {
+        "name": "baggage",
+        "url": "https://open.spotify.com/album/3AuIno5NGIaCoRnILRyxab"
+      },
+      "artists": [
+        {
+          "name": "SHN",
+          "url": "https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "baggage",
+      "url": "https://open.spotify.com/track/1S0JzPuqUbCw3Jd14fGn2b"
     },
     {
       "album": {
@@ -193,7 +247,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 164174,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0Eo54xCp6agPUoddGv9Ta5"
@@ -233,7 +287,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 273662,
       "name": "Birdy",
       "url": "https://open.spotify.com/track/5hBpxb5JtyfqLWOlIaZ9YY"
@@ -269,7 +323,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 226217,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/0nPpDVxWDSWdSIrd26Taja"
@@ -327,7 +381,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 230000,
       "name": "Chilly",
       "url": "https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2"
@@ -381,7 +435,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 159906,
       "name": "cold these days",
       "url": "https://open.spotify.com/track/63iD8vONVMBVvxR02dSzoE"
@@ -439,7 +493,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 298000,
       "name": "Comme des Gar\u00e7ons",
       "url": "https://open.spotify.com/track/0i2mhiiHucVjXuywKdLniL"
@@ -551,7 +605,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 186000,
       "name": "Do You Feel Like You Have No One to Turn to?",
       "url": "https://open.spotify.com/track/7IM7JCGA6lNktX9ORtyQS8"
@@ -569,7 +623,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 206583,
       "name": "Do You Think You Know Me?",
       "url": "https://open.spotify.com/track/2PPpy5E9AlP8x2YSso07hx"
@@ -609,7 +663,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 202105,
       "name": "Endless Road",
       "url": "https://open.spotify.com/track/5EsIWm4H8qouBQ8jXVF2Ng"
@@ -729,7 +783,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 223913,
       "name": "For Days",
       "url": "https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z"
@@ -805,7 +859,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 241458,
       "name": "grateful",
       "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
@@ -841,7 +895,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 165924,
       "name": "HANNA",
       "url": "https://open.spotify.com/track/4nwunjVkj6tg2OOOM6uFM1"
@@ -1041,7 +1095,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 184624,
       "name": "I Miss U",
       "url": "https://open.spotify.com/track/3r40QKuIBpo9b9Wv4PTkdQ"
@@ -1077,7 +1131,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 127500,
       "name": "IF I DIE ALONE",
       "url": "https://open.spotify.com/track/7cpK40AM4MOFsQdDSTYqda"
@@ -1429,7 +1483,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 128727,
       "name": "ok bye",
       "url": "https://open.spotify.com/track/233XcBvOmiwJNANsDLjc2q"
@@ -1509,7 +1563,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 193548,
       "name": "Pause + Reset",
       "url": "https://open.spotify.com/track/52mKGhgm1VQiGIkos3EFY6"
@@ -1531,6 +1585,24 @@
       "duration_ms": 211337,
       "name": "Picture Myself",
       "url": "https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel"
+    },
+    {
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/68DMCodGLgBv2W0EHbTFAr"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/2Tp9N1PSuCsv6uqj7IgFWJ"
     },
     {
       "album": {
@@ -1617,7 +1689,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
@@ -1857,7 +1929,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 252569,
       "name": "Thought of You",
       "url": "https://open.spotify.com/track/7c4uw1mBaMpoq6CJ1CShut"
@@ -1875,7 +1947,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 199514,
       "name": "Tired",
       "url": "https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1"
@@ -1947,7 +2019,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 199679,
       "name": "twentysixteen",
       "url": "https://open.spotify.com/track/5GJUSu9bxSzYBSZmHwPJNT"
@@ -2023,7 +2095,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 217083,
       "name": "Want You Here",
       "url": "https://open.spotify.com/track/0t8xmBormclXxZlZV7Lg62"
@@ -2103,7 +2175,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 273013,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/0ZOPiQDN9XoSXUjcink66H"
@@ -2121,7 +2193,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 350357,
       "name": "Wine",
       "url": "https://open.spotify.com/track/1sp745hELNnYUHowtyvAvn"
@@ -2197,10 +2269,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 291052,
       "name": "you look so beautiful",
       "url": "https://open.spotify.com/track/1J5xz1F0BvYRJTpOJdXHJo"
+    },
+    {
+      "album": {
+        "name": "you should have said so",
+        "url": "https://open.spotify.com/album/5H8nls3xG7OgydbrNQ27Va"
+      },
+      "artists": [
+        {
+          "name": "RRILEY",
+          "url": "https://open.spotify.com/artist/5uIwzjKbKHiTiRCShromkj"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "you should have said so",
+      "url": "https://open.spotify.com/track/5WodEIKkgtFPmfqSB7Ve8e"
     },
     {
       "album": {
@@ -2241,6 +2331,28 @@
       "duration_ms": 155923,
       "name": "your love",
       "url": "https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN"
+    },
+    {
+      "album": {
+        "name": "\uadf8\ub9ac\uc6c0 (Rindu)",
+        "url": "https://open.spotify.com/album/6vWZt1ZL6HRLWsNzbZlhCg"
+      },
+      "artists": [
+        {
+          "name": "MFMF.",
+          "url": "https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR"
+        },
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171195,
+      "name": "\uadf8\ub9ac\uc6c0 (Rindu)",
+      "url": "https://open.spotify.com/track/32owsT82fuFexAND08A5sS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6KwoIt0pZYP"

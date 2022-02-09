@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Muni Long
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,650 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 854,909 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tomorrow](https://open.spotify.com/track/2F8UhXCxJveJWAmUVKse5h) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Tomorrow](https://open.spotify.com/album/3s5lka6gH7LY0EGJOINgVo) | 3:23 |
 | 2 | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7) | 3:46 |
-| 3 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:39 |
+| 3 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:40 |
 | 4 | [One Night Ting \(feat\. Saweetie\)](https://open.spotify.com/track/0v3WvQ010FCs5IT1VvvHCr) | [Tai'Aysha](https://open.spotify.com/artist/2RY3ihP6cPwsuGv97SGWg2), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [One Night Ting \(feat\. Saweetie\)](https://open.spotify.com/album/5dzapwbVC7KYnvUB5zZlTB) | 2:24 |
 | 5 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/5qrPtPZ0o6pXIwdJrzASTs) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/album/26eVDoCWYUMJ42dEAlsgDe) | 3:47 |
 | 6 | [Feeling Lucky](https://open.spotify.com/track/50xaiGmgb5AspAtX7IAQGF) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/6GvImL1QmugCoaAoD3bgIH) | 2:36 |
 | 7 | [Ridin' Shotgun](https://open.spotify.com/track/6akhN7c2f1pDq1cSv5MEym) | [TYuS](https://open.spotify.com/artist/5J7URjIP8aFmeSn2QwF9Au) | [Ridin' Shotgun](https://open.spotify.com/album/4ZSgLjI6LADrkJrCKbmR5K) | 1:53 |
 | 8 | [Brag \(feat\. Fivio Foreign\)](https://open.spotify.com/track/6FsVDZWQk6QBBrmZKvFxvW) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Brag \(feat\. Fivio Foreign\)](https://open.spotify.com/album/2SxvstE24VIYBAy8jQRswO) | 3:15 |
-| 9 | [Don't Care](https://open.spotify.com/track/3Bw5aVedzczifLB0KltMU1) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Don't Care](https://open.spotify.com/album/357Hn4FjCTrrhwY0rohrol) | 3:06 |
+| 9 | [Don’t Care](https://open.spotify.com/track/3Bw5aVedzczifLB0KltMU1) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Don’t Care](https://open.spotify.com/album/357Hn4FjCTrrhwY0rohrol) | 3:06 |
 | 10 | [Time Machine](https://open.spotify.com/track/1caYuDcVSxd8qZBEqzrXQk) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:42 |
 | 11 | [DFMU](https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [DFMU](https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k) | 3:17 |
 | 12 | [Sunday](https://open.spotify.com/track/5lI6k5j7a25q3IrtAEe0JF) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [It's Not So Bad](https://open.spotify.com/album/7CiDYc1gQ1In1cfhkX11I9) | 3:32 |

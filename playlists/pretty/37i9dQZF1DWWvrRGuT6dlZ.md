@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: aeriqah\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,067 likes - 97 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,074 likes - 97 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 54 | [faces](https://open.spotify.com/track/1XbVWmihyaFRZgA8NRW5vd) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [faces](https://open.spotify.com/album/0cG0hyAI6P6dXWxrf38FOB) | 3:12 |
 | 55 | [LYFE](https://open.spotify.com/track/745Nlo9R1q2DdOXdbzhSkR) | [Limix](https://open.spotify.com/artist/3j8Mcd2URdfUERL1Ar4VRs) | [LYFE](https://open.spotify.com/album/4UoFid4JByc3Jb6ZNw7GfV) | 2:55 |
 | 56 | [ily](https://open.spotify.com/track/3O2KSaYVs7Dh7i5LxWqumA) | [Isabelle Wong](https://open.spotify.com/artist/61cPV1F8G8kVDCFpk9bURe) | [ily](https://open.spotify.com/album/1zPHjigvi5vLHptht1yQPp) | 3:04 |
-| 57 | [Night Skies](https://open.spotify.com/track/3FLzaNA0bJd3DeuWUxkSBx) | [Swityie](https://open.spotify.com/artist/4mSANUmfyv5vtmmQUyU8IU), [Fil El](https://open.spotify.com/artist/7Js1LB4tguiRHf8NketrK3) | [Night Skies](https://open.spotify.com/album/7Gp1FsShKxC3NUEWttyhva) | 3:43 |
+| 57 | [Night Skies](https://open.spotify.com/track/3FLzaNA0bJd3DeuWUxkSBx) | [SWIT](https://open.spotify.com/artist/6jXLHnwTIZ42hffoRuELR1), [Fil El](https://open.spotify.com/artist/7Js1LB4tguiRHf8NketrK3) | [Night Skies](https://open.spotify.com/album/7Gp1FsShKxC3NUEWttyhva) | 3:43 |
 | 58 | [Want You](https://open.spotify.com/track/1zX6oy2xSjbcfFVgnjXCcy) | [Dudes in Parachutes](https://open.spotify.com/artist/2L2In1jbYcXVTLSg94Kjre), [GO TOMMY](https://open.spotify.com/artist/1OTICqOxLa5iI9efh8rnTn), [Nic Soze](https://open.spotify.com/artist/51nOpomnHBXvNeWe11ImuE) | [Want You](https://open.spotify.com/album/5gfO3IjaHhkcozPeDvWeLK) | 3:07 |
 | 59 | [Together](https://open.spotify.com/track/3TJIMpjbW492DHb54atSFL) | [Brian CeeFH](https://open.spotify.com/artist/4XJez5kGIET6Ma2pRjoyY0) | [Together](https://open.spotify.com/album/4KF63ZzRb7CJDBaqi6ST7K) | 2:58 |
 | 60 | [i knew you'd break me too](https://open.spotify.com/track/3GxfAIc71D0H34YjmRtN4C) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [i knew you'd break me too](https://open.spotify.com/album/7M9BIvJayv8lJAyP9EI8vD) | 3:06 |

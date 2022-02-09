@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성들의 목소리가 담긴 플레이리스트를 감상해보세요\. \(커버: JAMIE\(제이미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,888 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,886 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Numbers \(feat\. JMIN\)](https://open.spotify.com/track/3n2GHYGyQOkMw5LTFQgjy0) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [No Numbers \(feat\. JMIN\)](https://open.spotify.com/album/5pOaEeLYnWzUILmjYJlyRh) | 2:56 |
-| 2 | [Apollo 11 \(feat\. Jay Park\)](https://open.spotify.com/track/2PudJHuPDFyXomHjmwTxqG) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Apollo 11 \(feat\. Jay Park\)](https://open.spotify.com/album/560eyB9eHh656ZiDHnAsdl) | 3:20 |
+| 1 | [Pity Party](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Pity Party](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) | 3:10 |
+| 2 | [No Numbers \(feat\. JMIN\)](https://open.spotify.com/track/3n2GHYGyQOkMw5LTFQgjy0) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [No Numbers \(feat\. JMIN\)](https://open.spotify.com/album/5pOaEeLYnWzUILmjYJlyRh) | 2:56 |
 | 3 | [Shutdown \(Feat\. Seori\)](https://open.spotify.com/track/3mjSO8tQD78ht78SlFMKd1) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:21 |
 | 4 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 |
 | 5 | [Play](https://open.spotify.com/track/4zw0hc13H9fbzj2UpD6Rfu) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [\[REC.\]](https://open.spotify.com/album/6ofVW04Q32gN1Hxk50S9Fi) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 49 | [Every Little Thing](https://open.spotify.com/track/0cE1JDGRvVyqXk5htcOAeB) | [Evelyn Hahn](https://open.spotify.com/artist/1396Izxfp684qKybVFEAY3) | [Every Little Thing](https://open.spotify.com/album/0DYIVssmRfswXdgGqL3Gun) | 3:05 |
 | 50 | [Bittersweet](https://open.spotify.com/track/25xZOc4SVkqRfzjoAYRCJu) | [Evelyn Hahn](https://open.spotify.com/artist/1396Izxfp684qKybVFEAY3) | [Bittersweet](https://open.spotify.com/album/6JDKMKdtdaL38IPbb02hdH) | 4:09 |
 
-Snapshot ID: `MTY0MzcyNzYxMywwMDAwMDAxMDAwMDAwMTdlYjVjY2VkZWUwMDAwMDE3ZWI1YzJjY2Vh`
+Snapshot ID: `MTY0NDI4OTA3OSwwMDAwMDAxMTAwMDAwMTdlZDc0NDM2ZmEwMDAwMDE3ZWI1YzJjY2Vh`

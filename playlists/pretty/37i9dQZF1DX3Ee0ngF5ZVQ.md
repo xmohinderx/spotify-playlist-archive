@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > From the Dance Halls and Honky Tonks across America to the World! Formerly Texas Music Now\. Cover: Corey Kent
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,046 likes - 155 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,073 likes - 155 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 55 | [Hellbent For Leather](https://open.spotify.com/track/5HGIEueWDuLOsLhixMvpKM) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Hellbent For Leather](https://open.spotify.com/album/6Bx6xAWeQLPPnfMP9tiE3z) | 3:08 |
 | 56 | [Longshot](https://open.spotify.com/track/5IsQP1RpheEEdMjDVL0oWh) | [Lane Smith](https://open.spotify.com/artist/2NAFBYpHLQhucaNUoUI3g2) | [Longshot](https://open.spotify.com/album/0pJfjqoI5XpEp34ABAJb09) | 3:44 |
 | 57 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 |
-| 58 | [Better Love Next Time](https://open.spotify.com/track/5I3oTFeQmclQmhAzOqRpTF) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU), [Bart Busch](https://open.spotify.com/artist/2KxZAtb1F7fafZDoJtQ0jq) | [Better Love Next Time](https://open.spotify.com/album/52VIbzshUC3cGliz3IZxOp) | 3:16 |
+| 58 | [Better Love Next Time](https://open.spotify.com/track/5I3oTFeQmclQmhAzOqRpTF) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Better Love Next Time](https://open.spotify.com/album/52VIbzshUC3cGliz3IZxOp) | 3:16 |
 | 59 | [Down in Flames](https://open.spotify.com/track/2P0oaaPrziT3qhjyZCSp2f) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Cody Hibbard](https://open.spotify.com/album/6xmxKXhPm7ZVISNoDsZo5K) | 3:35 |
 | 60 | [Get It Right](https://open.spotify.com/track/0ve68szQnWDaBxmXcW9JgY) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Get It Right](https://open.spotify.com/album/08WN5lGg3mobJaIzFCDoTQ) | 3:32 |
 | 61 | [Fooled Around](https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Fooled Around](https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q) | 3:12 |

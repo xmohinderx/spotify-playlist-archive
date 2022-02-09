@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 203750,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 106800,
       "name": "at least i'm pretty",
       "url": "https://open.spotify.com/track/5o9iQVktO08gIlRAHqqxtj"
@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Better On Your Own",
+        "url": "https://open.spotify.com/album/2GOkSjZzy8MKVNvgIVEz5f"
+      },
+      "artists": [
+        {
+          "name": "Kristiane",
+          "url": "https://open.spotify.com/artist/2DBFAP6nXms5yPochyh2sZ"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143667,
+      "name": "Better On Your Own",
+      "url": "https://open.spotify.com/track/52IjH7U9fkLgqM4yVecYGz"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
       },
@@ -383,7 +401,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 184500,
       "name": "blue",
       "url": "https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 160500,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/4qkVALwOxCIEZ7I5gkZ3m4"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 296048,
       "name": "BYE",
       "url": "https://open.spotify.com/track/3OUyyDN7EZrL7i0Sbi5SVd"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 175324,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/7d6MywFjsWZuDdpGOa6orT"
@@ -833,7 +851,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 123884,
       "name": "Flaming Hot Cheetos",
       "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 150010,
       "name": "Internet Stalking (feat. Adam Melchor)",
       "url": "https://open.spotify.com/track/4BAkJk9QFtYWycVXRvhmhk"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 100750,
       "name": "kissing girls",
       "url": "https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf"
@@ -1451,7 +1469,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 251280,
       "name": "Line Without a Hook (feat. mxmtoon)",
       "url": "https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 232004,
       "name": "Motocross",
       "url": "https://open.spotify.com/track/71PfgIUSVJEE9lsuDf4MsK"
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/0HOyjfrsAUktL1MeMxP9Fo"
@@ -1937,7 +1955,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
@@ -1973,7 +1991,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 188097,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/7G47Ba9JiHkzl3JLYD0zJ4"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 207946,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
@@ -2125,7 +2143,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 133050,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/5dtgtmWdO4pOASLQdOfWSr"
@@ -2270,6 +2288,28 @@
     },
     {
       "album": {
+        "name": "u suck",
+        "url": "https://open.spotify.com/album/4pf9DXu6ePDlQSM5IApkeN"
+      },
+      "artists": [
+        {
+          "name": "Emily Bear",
+          "url": "https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199515,
+      "name": "u suck",
+      "url": "https://open.spotify.com/track/4s01RhVHZSp76UsZc9xbAR"
+    },
+    {
+      "album": {
         "name": "we fell in love in october / forget her",
         "url": "https://open.spotify.com/album/4oRcMHsdNG9IAF3xwv1kWu"
       },
@@ -2317,7 +2357,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 188380,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/0qPeakaeFndczx9OhJIFp6"

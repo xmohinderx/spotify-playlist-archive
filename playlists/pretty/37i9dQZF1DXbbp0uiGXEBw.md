@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: AMEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,623 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,640 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbp0uiGXEBw.md) - [plain]
 | 36 | [Ngày Chưa Giông Bão](https://open.spotify.com/track/7laWkT6uyoMDUXBqhcAN4V) | [Bùi Lan Hương](https://open.spotify.com/artist/2XtMx7EHHODQSeBzDCBec9) | [Ngày Chưa Giông Bão \(Người Bất Tử OST\)](https://open.spotify.com/album/6eYeMsrAOwsbGsdMU3tMZn) | 3:32 |
 | 37 | [Nhắm Mắt Thấy Mùa Hè](https://open.spotify.com/track/7KiVghFxUSJjrSQXlb9tdh) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Nhắm Mắt Thấy Mùa Hè \(Nhạc Phim\)](https://open.spotify.com/album/7jozXLciIE8b6eh8yM6UYi) | 4:42 |
 | 38 | [Mong Cho Anh \- Unplugged](https://open.spotify.com/track/1SjMtotf90psm4i8xWVhkC) | [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Trạm Không Gian Số 0 \(Unplugged\)](https://open.spotify.com/album/5ScazWOt0AHFU5tiJCtcuA) | 3:09 |
-| 39 | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/track/3ckraK42KnTt0Mk0b8pmA2) | [Tien Tien](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe), [Trang](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/album/6Qb69lLK43aP1s06fQIYnJ) | 3:15 |
+| 39 | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/track/3ckraK42KnTt0Mk0b8pmA2) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe), [Trang](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/album/6Qb69lLK43aP1s06fQIYnJ) | 3:15 |
 | 40 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 |
 | 41 | [Lỗi Ở Yêu Thương](https://open.spotify.com/track/2Wdkr6L7CxdSH5C2HRliEP) | [Ai Phuong](https://open.spotify.com/artist/5k5vCzAmH0dcRda22U9Hut) | [Lỗi Ở Yêu Thương](https://open.spotify.com/album/66GdlFHolfWr4mu6ZYZb2b) | 4:26 |
 | 42 | [Yêu Thầm](https://open.spotify.com/track/7dJVE53hGAX9TcKH0abFic) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [TDK](https://open.spotify.com/artist/30x6rCQm4CuabePneJLGj7) | [Yêu Thầm](https://open.spotify.com/album/36CB3L3Wjw0VfgYx4xSqfa) | 4:12 |

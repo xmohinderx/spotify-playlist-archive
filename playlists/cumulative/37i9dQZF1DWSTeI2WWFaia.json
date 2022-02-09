@@ -141,7 +141,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 194746,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/42dLRNmTqdwPZIiG0NRBWH"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 194604,
       "name": "Back At It",
       "url": "https://open.spotify.com/track/7CtseXl6vo5iKg4lJGdQfG"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 187386,
       "name": "Blood Roses (feat. Jae Skeese)",
       "url": "https://open.spotify.com/track/3wL6HzWOL9s5V2joGaZzZ6"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 211848,
       "name": "Burning Bush",
       "url": "https://open.spotify.com/track/3yDZ1IIFMsNbbe1NIUn53q"
@@ -591,7 +591,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 140613,
       "name": "Cliff Hanger",
       "url": "https://open.spotify.com/track/6EpGSeInzJgZVDVgfpMn7h"
@@ -652,6 +652,24 @@
     },
     {
       "album": {
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
+    },
+    {
+      "album": {
         "name": "UNLOCKED",
         "url": "https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a"
       },
@@ -689,7 +707,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 274133,
       "name": "Dmtri",
       "url": "https://open.spotify.com/track/1CEVg3GpmapQ5rK5feHbFc"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 208500,
       "name": "EAT",
       "url": "https://open.spotify.com/track/4PIFHcMwQrebdI6A2gS17t"
@@ -821,7 +839,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 226800,
       "name": "Fake Flowers",
       "url": "https://open.spotify.com/track/6kdYgh9p7t8wlxljk8KGJg"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 185306,
       "name": "For Real (feat. Kemba)",
       "url": "https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg"
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 167693,
       "name": "Golden Eye",
       "url": "https://open.spotify.com/track/7AHZDaJM22hkQZ0xSOFsrT"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 190501,
       "name": "Good Morning (feat. Pusha T, Swizz Beatz & Killer Mike)",
       "url": "https://open.spotify.com/track/7evTceKtCaBbxoLIqICIVh"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 171459,
       "name": "Hollyhood (feat. Kent Jamz)",
       "url": "https://open.spotify.com/track/5OuPKLNJjsBsyRZ9PjTRTj"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 146419,
       "name": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
       "url": "https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 180686,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/3R4IFsTuDOR7XEt2Tl2iuR"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 122080,
       "name": "Laps Around the Sun",
       "url": "https://open.spotify.com/track/4zS1GPmECl7sac60w9ntFm"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 223641,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/67xMYvb2jcgUuxiak7SIPL"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-20",
+      "date_removed": null,
       "duration_ms": 251935,
       "name": "Meant To Put A Hook",
       "url": "https://open.spotify.com/track/1rQiJnPlBpQX7KpZY3AgDL"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 195367,
       "name": "Moment of Truth",
       "url": "https://open.spotify.com/track/6TmQQEMF0KwpXYbmBgHpNU"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 186000,
       "name": "No M\u00e1s!",
       "url": "https://open.spotify.com/track/3Sxd2zTEoWwMPAVbBJGwAC"
@@ -1933,7 +1951,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 188418,
       "name": "Outside (with Joey Bada$$)",
       "url": "https://open.spotify.com/track/1es7SpekMUeMAIlG4iEJKX"
@@ -2085,7 +2103,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 223014,
       "name": "Pyrex Picasso (feat. Rick Hyde & Conway the Machine)",
       "url": "https://open.spotify.com/track/7fA6XzRtQHoS2qebR7XW4R"
@@ -2289,7 +2307,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 199803,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/0d33DG1uICHiennWuQUjzs"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 235023,
       "name": "Shooter",
       "url": "https://open.spotify.com/track/7hOjezWUSDr2FaBBUiX8dz"
@@ -2421,7 +2439,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 198493,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/4exgimuT6EdLBN3R4Ww3xO"
@@ -2619,7 +2637,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 235500,
       "name": "Sunday Morning Drive (feat. Curren$y & Dom Kennedy)",
       "url": "https://open.spotify.com/track/6CFS1rOM1rlhESQr6FMaFS"
@@ -2637,7 +2655,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 186933,
       "name": "Super Deep Brother",
       "url": "https://open.spotify.com/track/4rpF2SBmTOw8zGCHAhkByI"
@@ -2663,7 +2681,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 162528,
       "name": "Talkin' Back (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0Bj62CkpsaMZJwgqZ0UbPc"
@@ -2703,7 +2721,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 176551,
       "name": "Teriyaki",
       "url": "https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew"
@@ -2887,7 +2905,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 175909,
       "name": "The Process (feat. Kay Franklin)",
       "url": "https://open.spotify.com/track/59OyFXckWQoTn73T5SZkiM"
@@ -3155,7 +3173,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 323303,
       "name": "Who Wants What",
       "url": "https://open.spotify.com/track/2z3woIGj8hClFZVq0Hvcwr"
@@ -3199,7 +3217,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 181466,
       "name": "Young King",
       "url": "https://open.spotify.com/track/0e06xmdGFV4Rf796vIBCle"

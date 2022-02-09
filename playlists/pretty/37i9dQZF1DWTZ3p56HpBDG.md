@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Home to english South Asian tracks, acclaimed worldwide \- Cover: Joy Crookes
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,119 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,150 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 30 | [Bad Habits](https://open.spotify.com/track/4paOi2D1A1pS5bPugSfUg7) | [Madame Gandhi](https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf) | [Bad Habits](https://open.spotify.com/album/4qKIwcoyB91GMyy9431kaf) | 3:47 |
 | 31 | [Mood](https://open.spotify.com/track/1hyDfFecpM9cGPHN1Zdp4X) | [HMG](https://open.spotify.com/artist/6diGZumAY3ubVA7L6e8iBR), [Jake Vicious](https://open.spotify.com/artist/4uzponaVyeBeZ9oSlaGBrA), [Anjali Taneja](https://open.spotify.com/artist/1A7CIDrLklSiVgGJjdhdDX) | [Mood](https://open.spotify.com/album/4Rb2HAAZ4h27W3A1VUjbNs) | 2:32 |
 | 32 | [Fashion Week \(feat\. AJ Tracey & MoStack\)](https://open.spotify.com/track/78KyOmqWmqLkQcXO1cA7MO) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Fashion Week \(feat\. AJ Tracey & MoStack\)](https://open.spotify.com/album/6OvaMPD9RAQ3tVTijCTgz8) | 3:21 |
-| 33 | [This Time](https://open.spotify.com/track/2xlUfU2qsSF7yCrWhbowEv) | [Ta'Shan ](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [This Time](https://open.spotify.com/album/5aSeHV735ix30MlMb5tMYc) | 2:55 |
+| 33 | [This Time](https://open.spotify.com/track/2xlUfU2qsSF7yCrWhbowEv) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [This Time](https://open.spotify.com/album/5aSeHV735ix30MlMb5tMYc) | 2:55 |
 | 34 | [Name on it](https://open.spotify.com/track/6lBTpWSk7BnMhxY9JEBrw4) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Name on it](https://open.spotify.com/album/7flKRtYhgE5NvFE6ylazVf) | 3:25 |
 | 35 | [Control](https://open.spotify.com/track/2famriH3O9cb6LHu8iRpUI) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Control](https://open.spotify.com/album/4N7hL7GzcAfFYHr9zsLWJi) | 3:07 |
 | 36 | [Got It](https://open.spotify.com/track/1mjAb2GZZcNqInQNscm0cu) | [Anjali Taneja](https://open.spotify.com/artist/1A7CIDrLklSiVgGJjdhdDX) | [Got It](https://open.spotify.com/album/1wjSb44UbiZHcOV5vL0vdG) | 2:46 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 74 | [My Own Way](https://open.spotify.com/track/7fzskZbbwD9Ftsn5GXEk3i) | [Esther Eden](https://open.spotify.com/artist/51mIT66wqhRNMHACFzatPI) | [My Own Way](https://open.spotify.com/album/6HD8K3zNheEDbRsIrgGe1C) | 2:54 |
 | 75 | [I'm Yours](https://open.spotify.com/track/4zMx72lMg0PytbVzTwd0Oe) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [I'm Yours](https://open.spotify.com/album/17mtviWhSTKrsZjMHQRW1w) | 3:54 |
 | 76 | [Next Life](https://open.spotify.com/track/6PVujJYQmv8oJxa96v1ptT) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Next Life](https://open.spotify.com/album/1qY8L7CXdYKIRlMbomzR5k) | 3:06 |
-| 77 | [Mami](https://open.spotify.com/track/4zxnSs7bnFb6TisMem8Q7n) | [Ta'Shan ](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Mami](https://open.spotify.com/album/3wYkr0Fwc8he14Kn6Hma6d) | 2:44 |
+| 77 | [Mami](https://open.spotify.com/track/4zxnSs7bnFb6TisMem8Q7n) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Mami](https://open.spotify.com/album/3wYkr0Fwc8he14Kn6Hma6d) | 2:44 |
 | 78 | [Need Your Love](https://open.spotify.com/track/1bZzONEMrE3LOliPoFF9pb) | [THEMXXNLIGHT](https://open.spotify.com/artist/7crF48BmAnNaoNU8QPVld0) | [Need Your Love](https://open.spotify.com/album/3XgYXKKUEwLlinpAnKcZmB) | 2:52 |
 | 79 | [january](https://open.spotify.com/track/3G1x64pVpHhi0EkjmL9OJ8) | [Vardaan Arora](https://open.spotify.com/artist/5W2Oohe20LNWXAqq5aOaP2) | [january](https://open.spotify.com/album/4K5DDarPbyB6zkYSGDxT8p) | 2:36 |
 | 80 | [Summer Nights](https://open.spotify.com/track/2HzMwZguobsrcDu9YmFXHL) | [Raaginder](https://open.spotify.com/artist/0aS41TT32O5PsnAB7qZj7L), [Wisechild](https://open.spotify.com/artist/6cICKubdnKplDTlNfmxMZJ) | [Summer Nights](https://open.spotify.com/album/4cSOgTinaZDvRYVv2H6DV5) | 2:54 |

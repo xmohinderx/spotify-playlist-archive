@@ -202,7 +202,7 @@
       "artists": [
         {
           "name": "Rico",
-          "url": "https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG"
+          "url": "https://open.spotify.com/artist/3JrGyrmqkOo417urhPrMcf"
         },
         {
           "name": "Hiba Nawab",
@@ -484,6 +484,24 @@
     },
     {
       "album": {
+        "name": "Do Naina",
+        "url": "https://open.spotify.com/album/0EVUyfD6cz5l3lrgpRmptO"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224651,
+      "name": "Do Naina",
+      "url": "https://open.spotify.com/track/5WjQaVXmQFxQyGGdqPLkkW"
+    },
+    {
+      "album": {
         "name": "Alll Rounder",
         "url": "https://open.spotify.com/album/7c7ygaIIg8bAtik7vGLwgS"
       },
@@ -517,6 +535,28 @@
       "duration_ms": 188000,
       "name": "Dooja Pyaar",
       "url": "https://open.spotify.com/track/4MqRN7DQQXxxU4eZdC0zcb"
+    },
+    {
+      "album": {
+        "name": "Dua Mangdi",
+        "url": "https://open.spotify.com/album/4indLUuIZjVgHQ6vtgD5s8"
+      },
+      "artists": [
+        {
+          "name": "Karan Dhillon",
+          "url": "https://open.spotify.com/artist/7hmEpCcjK4KFhb7zjEt6LJ"
+        },
+        {
+          "name": "Nick Dhammu",
+          "url": "https://open.spotify.com/artist/5E8B4QGklx5On8tFgo294e"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "Dua Mangdi",
+      "url": "https://open.spotify.com/track/0cMx4Mk2g47IvinNJEIWbB"
     },
     {
       "album": {
@@ -2105,6 +2145,28 @@
       "duration_ms": 213626,
       "name": "Saada Pyaar",
       "url": "https://open.spotify.com/track/5gSVKG0R4xc8qtDIoyDNy8"
+    },
+    {
+      "album": {
+        "name": "Sadi Goodluck (feat. Aman Hayer)",
+        "url": "https://open.spotify.com/album/7ogfUS96zWyJNJDDLmgfHB"
+      },
+      "artists": [
+        {
+          "name": "K.S Makhan",
+          "url": "https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3"
+        },
+        {
+          "name": "Aman Hayer",
+          "url": "https://open.spotify.com/artist/2BbbmzjRFPhzLWrLQxvlus"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205037,
+      "name": "Sadi Goodluck (feat. Aman Hayer)",
+      "url": "https://open.spotify.com/track/1vpHo0efrA4MknIfSilvFB"
     },
     {
       "album": {

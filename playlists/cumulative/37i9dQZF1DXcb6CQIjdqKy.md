@@ -2,7 +2,7 @@
 
 ### [Top Christian & Gospel](https://open.spotify.com/playlist/3IGSOKftgGE885pvp0BADM)
 
-> The best mix of today's Christian music, all genres, worldwide\.  Cover:  Elevation Phil Wickham
+> The best mix of today's Christian music, all genres, worldwide\.  Cover:  Phil Wickham
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

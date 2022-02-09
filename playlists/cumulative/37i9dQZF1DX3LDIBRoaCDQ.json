@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 167400,
       "name": "All This and More",
       "url": "https://open.spotify.com/track/0JwGJgL8LCUFzDDPZNmQLa"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 218066,
       "name": "Bastards of Young - 2008 Remaster",
       "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 109133,
       "name": "Dean's Dream",
       "url": "https://open.spotify.com/track/65ZK2zk1YFTnaD7D4deD37"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 297733,
       "name": "Gut Feeling / (Slap Your Mammy)",
       "url": "https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 231706,
       "name": "Happy House",
       "url": "https://open.spotify.com/track/0oU1wL8FqgKwTPa50nACdd"
@@ -512,6 +512,24 @@
     },
     {
       "album": {
+        "name": "The Record",
+        "url": "https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE"
+      },
+      "artists": [
+        {
+          "name": "Fear",
+          "url": "https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125040,
+      "name": "I Love Livin' in the City",
+      "url": "https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd"
+    },
+    {
+      "album": {
         "name": "Rhino Hi-Five: Ramones",
         "url": "https://open.spotify.com/album/5J9I5RkAe6EMWb4aZxAKYl"
       },
@@ -581,7 +599,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 279520,
       "name": "I'm Waiting For The Man - Album Version (Stereo)",
       "url": "https://open.spotify.com/track/5Q4OndPgegGCR88wPsXswf"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-24",
+      "date_removed": null,
       "duration_ms": 138200,
       "name": "In The City",
       "url": "https://open.spotify.com/track/1Na7UkusgEr3aTp31YX3Bl"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 183823,
       "name": "Kick Out The Jams (Original Uncensored Version)",
       "url": "https://open.spotify.com/track/5mSZLysuAtdNA21mbOm0sx"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 117080,
       "name": "Last Caress - C.I. Recording 1978",
       "url": "https://open.spotify.com/track/5ALCHMO9Fmvn1Ly18Q3apL"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 85866,
       "name": "Maxwell Murder",
       "url": "https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H"
@@ -909,7 +927,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 221506,
       "name": "Personality Crisis",
       "url": "https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 237013,
       "name": "She's Lost Control - 2007 Remaster",
       "url": "https://open.spotify.com/track/49G0Rj1qpt75vdgiOo8QAE"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-09",
       "duration_ms": 189333,
       "name": "Sonic Reducer",
       "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
@@ -1179,7 +1197,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 134026,
       "name": "Sound System",
       "url": "https://open.spotify.com/track/7xkSwLmSHDlnNuiePDgp22"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 89666,
       "name": "Viet Nam",
       "url": "https://open.spotify.com/track/21vp1orbqySVyww9ngW44w"

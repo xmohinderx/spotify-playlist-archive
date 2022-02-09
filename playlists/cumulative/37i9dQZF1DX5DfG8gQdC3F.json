@@ -2806,24 +2806,6 @@
     },
     {
       "album": {
-        "name": "Don't Care",
-        "url": "https://open.spotify.com/album/357Hn4FjCTrrhwY0rohrol"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "date_added": "2022-02-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186708,
-      "name": "Don't Care",
-      "url": "https://open.spotify.com/track/3Bw5aVedzczifLB0KltMU1"
-    },
-    {
-      "album": {
         "name": "Don't Mess With Love",
         "url": "https://open.spotify.com/album/4MyriGlKItrboh6pR9C4C7"
       },
@@ -2901,6 +2883,24 @@
       "duration_ms": 199746,
       "name": "Don\u2019t Break (My Soul)",
       "url": "https://open.spotify.com/track/39ZSr9sYegoaqybVsWT4QC"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Care",
+        "url": "https://open.spotify.com/album/357Hn4FjCTrrhwY0rohrol"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186708,
+      "name": "Don\u2019t Care",
+      "url": "https://open.spotify.com/track/3Bw5aVedzczifLB0KltMU1"
     },
     {
       "album": {
@@ -7682,7 +7682,7 @@
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 159182,
+      "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
     },
@@ -11758,7 +11758,7 @@
         },
         {
           "name": "Prudence",
-          "url": "https://open.spotify.com/artist/46Yft7aKaVVOyuSvu2Fyka"
+          "url": "https://open.spotify.com/artist/6G7P1WNRTlg3FxiYaW0hYh"
         },
         {
           "name": "Morgan Phalen",

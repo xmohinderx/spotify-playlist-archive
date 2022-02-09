@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU?si=Xh\_ZEAULQWeNrhQhjJb4PQ">Dangerfields</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,779 likes - 65 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,786 likes - 65 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
