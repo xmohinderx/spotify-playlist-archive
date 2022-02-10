@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcgmlEJyzKw.md) - [plain]
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,112 likes - 63 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,151 likes - 63 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Concert de bruit: No\. 2, Étude aux chemis de fer "Imposée"](https://open.spotify.com/track/2fvs8D9hWFCdtRBFsaq1dc) | [Pierre Schaeffer](https://open.spotify.com/artist/47ypz2bndV4j06Xx8yPDZl), [Club d'essai de la Radiodiffusion\-télévision Française](https://open.spotify.com/artist/1YA4zHtk2xQz2CVHYYJEdx) | [Premier panorama de musique concrète \(Mono Version\)](https://open.spotify.com/album/77ANTgiaByXP1i5UxgC0Fm) | 2:50 |
 | 2 | [Wire Recorder Piece](https://open.spotify.com/track/6B8EIKs90a7PAlUxMT5Szo) | [Halim El\-Dabh](https://open.spotify.com/artist/1hhsjRTpSbycEeaPE9wPrI) | [Laiyla and the Poet](https://open.spotify.com/album/374ADWNsoO7RgQJ5IZi2Vs) | 1:49 |
 | 3 | [Dies Irae](https://open.spotify.com/track/3ekTbi14cj5gjg1HXj1XFv) | [Michel Chion](https://open.spotify.com/artist/2ozHdIM8I61aAYW7WlSno5) | [Requiem](https://open.spotify.com/album/6TcZlksMuA6Zb5nKjCBMrF) | 6:08 |
-| 4 | [Sfaira](https://open.spotify.com/track/1NbYTv2CmPmu1ecmlHjUd3) | [Tilman Ehrhorn](https://open.spotify.com/artist/2Xryn0qneP0nHP67bvb5Fm), [Werken](https://open.spotify.com/artist/10OUYUUQc3Ux5jEnJOG0ci), [An Moku](https://open.spotify.com/artist/0N1t5LXpAaEakJ3f2zdGA4) | [Sfaira](https://open.spotify.com/album/58culJGdA7C6pCnHg7dL2t) | 6:38 |
+| 4 | [Sfaira](https://open.spotify.com/track/1NbYTv2CmPmu1ecmlHjUd3) | [Tilman Ehrhorn](https://open.spotify.com/artist/2Xryn0qneP0nHP67bvb5Fm), [An Moku](https://open.spotify.com/artist/0N1t5LXpAaEakJ3f2zdGA4) | [Sfaira](https://open.spotify.com/album/58culJGdA7C6pCnHg7dL2t) | 6:38 |
 | 5 | [Revolution 9 \- Remastered 2009](https://open.spotify.com/track/5dZ8PeKKZJLIQAWNTdp8WX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 8:22 |
 | 6 | [Study for Voice and Tape](https://open.spotify.com/track/7vrvKZU7gsRgh3yMBr07OY) | [Alice Shields](https://open.spotify.com/artist/60dHuhMXgrJgD1ZXrDf0ff) | [Columbia\-Princeton Electronic Music Center 1961\-1973](https://open.spotify.com/album/2G4IrmveiWoH0yMAZDPfbe) | 5:17 |
 | 7 | [Sound Patterns](https://open.spotify.com/track/4A7U5MG1gtnEciBG9MxNP5) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Brandeis University Chamber Chorus](https://open.spotify.com/artist/4XVSALf4pwJEFbkIgC5IBA), [Alvin Lucier](https://open.spotify.com/artist/0ARBCE8g4PI0TO7PEYMm0Z) | [Extended Voices](https://open.spotify.com/album/5cd1WvUjpDzBLq2bc9nDcr) | 4:00 |

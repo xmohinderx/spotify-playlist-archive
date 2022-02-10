@@ -6,8 +6,28 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "OTQzMSw3YjlkYTgwOTA5NTQ1NTQ1ZjNiYWQxY2UyZTY1NzZmNDhjMmEyZmE3",
+  "snapshot_id": "OTQzNSxmMDZhN2QxNzQwNTdmNDhhNzgwMDdjYjZjOWRkYjE3YTFlZmM5NzI1",
   "tracks": [
+    {
+      "added_at": "2022-02-09 23:35:36",
+      "album": {
+        "name": "Regret (Remix)",
+        "url": "https://open.spotify.com/album/5yeVrIiSsye63K1hSkD07A"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Regret - Remix",
+      "url": "https://open.spotify.com/track/7Cylzz6IvrRChlRdk9M6Fi"
+    },
     {
       "added_at": "2022-01-14 16:17:41",
       "album": {
@@ -703,6 +723,46 @@
       "duration_ms": 205729,
       "name": "Better Things (feat. Tania Foster)",
       "url": "https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU"
+    },
+    {
+      "added_at": "2022-02-10 00:15:48",
+      "album": {
+        "name": "The Last Goodbye (feat. Bettye LaVette)",
+        "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 359126,
+      "name": "The Last Goodbye (feat. Bettye LaVette)",
+      "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2022-02-10 00:16:09",
+      "album": {
+        "name": "Say Nothing (feat. MAY-A)",
+        "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 232959,
+      "name": "Say Nothing (feat. MAY-A)",
+      "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
     }
   ],
   "unique_name": "Moving Castle Monthly",

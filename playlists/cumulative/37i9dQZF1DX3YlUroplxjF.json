@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "11 Minutes",
       "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 204700,
       "name": "A War Within",
       "url": "https://open.spotify.com/track/0eVKztlTcw8z3dVgKMBuS9"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 209117,
       "name": "All in Time",
       "url": "https://open.spotify.com/track/0kF01NTUMMlrGDy0QVqtmY"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 223742,
       "name": "Alpha Omega (feat. Kamiyada+)",
       "url": "https://open.spotify.com/track/2rcrjV0mUnrFfw5dbiqdxA"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 223255,
       "name": "Apertures (feat. Aaron Gillespie)",
       "url": "https://open.spotify.com/track/7wqdCyWXeizsSwiGJnp8Pk"
@@ -409,7 +409,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 260826,
       "name": "Before I Cave In",
       "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
@@ -449,6 +449,24 @@
       "duration_ms": 313589,
       "name": "Blind",
       "url": "https://open.spotify.com/track/64ZrrxjOKjEQJ23zgcVJTK"
+    },
+    {
+      "album": {
+        "name": "Bloodhound for Oblivion",
+        "url": "https://open.spotify.com/album/2I6PNQfFtQCFQR4jNyGSAh"
+      },
+      "artists": [
+        {
+          "name": "Relic Hearts",
+          "url": "https://open.spotify.com/artist/1gmrjw85YvHI6jrbFkoN3n"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191464,
+      "name": "Bloodhound for Oblivion",
+      "url": "https://open.spotify.com/track/18stKLTAtC2nhDYylooMdz"
     },
     {
       "album": {
@@ -737,7 +755,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 229266,
       "name": "Carry the Weight",
       "url": "https://open.spotify.com/track/17aUTUaDHrwv49PViccjy9"
@@ -755,7 +773,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 253655,
       "name": "Choke",
       "url": "https://open.spotify.com/track/7limjM5x3keqRzoEfZeoYh"
@@ -929,7 +947,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 157880,
       "name": "Damn Excuses",
       "url": "https://open.spotify.com/track/6baLJiU334Yq5AU0XMyzsH"
@@ -969,7 +987,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 223547,
       "name": "Death",
       "url": "https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs"
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 185684,
       "name": "Deceiver",
       "url": "https://open.spotify.com/track/14R7BhSQeZB00InVzISMG3"
@@ -1005,7 +1023,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 184893,
       "name": "Degenerates",
       "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
@@ -1023,7 +1041,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 216108,
       "name": "Demons",
       "url": "https://open.spotify.com/track/4KyUg4IdVVqJRoLGowHqyl"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 160701,
       "name": "Dirty Talk",
       "url": "https://open.spotify.com/track/1U4f6DJeMHNxMjyrrl4ZeO"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 191229,
       "name": "Disassociate",
       "url": "https://open.spotify.com/track/0A61KXiNWA9rJMHllD7yOw"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 264646,
       "name": "Domino",
       "url": "https://open.spotify.com/track/5eJHc3YadLPtA5I834EcmS"
@@ -1185,7 +1203,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 264646,
       "name": "Domino",
       "url": "https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 196464,
       "name": "Down To Hell",
       "url": "https://open.spotify.com/track/0bjBFEzs0cbvqNLfDMUSjH"
@@ -1365,7 +1383,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 210880,
       "name": "Everything Is Ordinary",
       "url": "https://open.spotify.com/track/1jZQKtmTYJS5P5Im07Yhce"
@@ -1401,7 +1419,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 225500,
       "name": "Fall Until We Fly",
       "url": "https://open.spotify.com/track/0n8tIXRZ2IVzsJAUe2dh6q"
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 246362,
       "name": "Fault Lines",
       "url": "https://open.spotify.com/track/6CNKbEyG2ntWEVyPbZwQ61"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 197213,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 185309,
       "name": "Fortune and Glory, Kid",
       "url": "https://open.spotify.com/track/0xU5hglREQipGgY488h3aF"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 219400,
       "name": "Fractional",
       "url": "https://open.spotify.com/track/2VDIAPnl1EikA70Ac1SzDd"
@@ -1711,7 +1729,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 280950,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/0nv8LBkWyWSO5tFSYh2Kb1"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 217568,
       "name": "Hollow Point",
       "url": "https://open.spotify.com/track/257RcEUJdg3SGhlksI0zGC"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 199621,
       "name": "Home",
       "url": "https://open.spotify.com/track/5gy1YIqLHga0NlBz9ngrFX"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 193196,
       "name": "In Our Wake",
       "url": "https://open.spotify.com/track/3hAZiVgaOPP8B2tDv2ReOb"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 179500,
       "name": "In Passing",
       "url": "https://open.spotify.com/track/5wL8yyRyJSBth4ZJ6cWySu"
@@ -2239,7 +2257,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 214493,
       "name": "Ivy (Doomsday)",
       "url": "https://open.spotify.com/track/51VHAM1iIikiX2qTf4FCFl"
@@ -2491,7 +2509,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 219661,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/0Zawi4KtjKvLWCQZMPP2W9"
@@ -2603,7 +2621,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 223640,
       "name": "Make It out Alive",
       "url": "https://open.spotify.com/track/3QiXPvdTlpghLHrmGy0UWB"
@@ -2661,7 +2679,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 185454,
       "name": "Messed Up",
       "url": "https://open.spotify.com/track/3OIgrIav93q8e6bsSR8NJm"
@@ -2769,7 +2787,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 136666,
       "name": "myfeelingshavefeelings",
       "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
@@ -2841,7 +2859,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 179400,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/7AUF59Aa05cbLrlMEbMgy5"
@@ -2913,7 +2931,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 195422,
       "name": "Now / Never",
       "url": "https://open.spotify.com/track/1962zHkiWIAVetiHXFDLUn"
@@ -2935,7 +2953,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 209329,
       "name": "Now and Forever (feat. Trevor Wentworth)",
       "url": "https://open.spotify.com/track/4bU3F1DmfAJl9G5Xej0x5T"
@@ -2971,7 +2989,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 274588,
       "name": "Only Apathy",
       "url": "https://open.spotify.com/track/5LdOiLY4RPFGIKsSePM6SD"
@@ -3043,7 +3061,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 217750,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/7fVjzWzmE7236Fq7wdmKja"
@@ -3079,7 +3097,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 205333,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/4sgxBtQThrhZ9dkSYjLzb6"
@@ -3717,7 +3735,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 219600,
       "name": "Smashed into Pieces",
       "url": "https://open.spotify.com/track/78koTLpNZKZjz5Nikq4oIq"
@@ -3833,7 +3851,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 228299,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0"
@@ -3851,7 +3869,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 207111,
       "name": "Stars Before The Sun",
       "url": "https://open.spotify.com/track/4d7dyljzjkPs3tT0xK1KF7"
@@ -3923,7 +3941,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 193200,
       "name": "Swipe",
       "url": "https://open.spotify.com/track/5Xm3q9DHDSCGyQg2o3RGhD"
@@ -3981,7 +3999,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 201500,
       "name": "Take Your Pill",
       "url": "https://open.spotify.com/track/4rfa4cvs3mkw0Sm2bQtlGN"
@@ -4089,7 +4107,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 212864,
       "name": "The Beaten Path",
       "url": "https://open.spotify.com/track/0j5wVgeBC1p1LFW016nj38"
@@ -4273,7 +4291,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 190971,
       "name": "Together",
       "url": "https://open.spotify.com/track/1oHPc5Ay7inlsTBolZRVmP"
@@ -4381,7 +4399,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 214181,
       "name": "Walk On",
       "url": "https://open.spotify.com/track/4vUWzxdmtVqMonTp97JIOf"
@@ -4399,7 +4417,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 208258,
       "name": "Were You Nervous?",
       "url": "https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0"
@@ -4417,7 +4435,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 227563,
       "name": "We\u2019ll Always Have Paris",
       "url": "https://open.spotify.com/track/4sYQbdudBHfgKDXhrVmycI"
@@ -4453,7 +4471,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 188771,
       "name": "Where Needles and Lovers Collide",
       "url": "https://open.spotify.com/track/2Fx8gbIu1oMGGLl6cEpr6L"

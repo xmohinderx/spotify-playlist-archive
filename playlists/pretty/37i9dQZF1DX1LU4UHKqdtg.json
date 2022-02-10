@@ -1,12 +1,12 @@
 {
   "description": "\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01// The freshest K-Pop of today! cover: ATEEZ",
-  "num_followers": 148641,
+  "num_followers": 148951,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDM2NzUwMywwMDAwMDAwMDQyNzViMmQxNDVmNGMzZjEzNTc5NmQ5N2ZlN2YzYTky",
+  "snapshot_id": "MTY0NDQ1Mzc5MywwMDAwMDAwMDQyNzViMmQxNDVmNGMzZjEzNTc5NmQ5N2ZlN2YzYTky",
   "tracks": [
     {
       "added_at": "2022-02-08 15:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 211069,
       "name": "Child",
       "url": "https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea"
+    },
+    {
+      "added_at": "2022-02-08 15:00:00",
+      "album": {
+        "name": "The 1st Mini Album 'Beam Of Prism'",
+        "url": "https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "BOP BOP!",
+      "url": "https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ"
     },
     {
       "added_at": "2022-02-08 15:00:00",

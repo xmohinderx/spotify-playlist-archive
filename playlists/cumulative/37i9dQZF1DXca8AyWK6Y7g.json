@@ -2001,7 +2001,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 146410,
       "name": "Boys",
       "url": "https://open.spotify.com/track/3r6oQ66z8GfFNdAmjZr2ct"
@@ -2821,7 +2821,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 170405,
       "name": "Chicken Tenders",
       "url": "https://open.spotify.com/track/3D8sT8D3f5egWSQnF0fbqu"
@@ -10284,6 +10284,24 @@
     },
     {
       "album": {
+        "name": "my fuckin birthday",
+        "url": "https://open.spotify.com/album/3qLe2UuUhONvPtMBBe0W1u"
+      },
+      "artists": [
+        {
+          "name": "sreedhanya",
+          "url": "https://open.spotify.com/artist/7Lp4zS3we1Dwh1dqMD0GEO"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114482,
+      "name": "my fuckin birthday",
+      "url": "https://open.spotify.com/track/5I6VzAAwuPtbHmnwODDb50"
+    },
+    {
+      "album": {
         "name": "My Girl",
         "url": "https://open.spotify.com/album/4voikfQLmfd122fTT7rgGC"
       },
@@ -11559,7 +11577,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 168159,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/6LfzViiIqsweZi9V8A2BvG"

@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 230240,
       "name": "A la Calma",
       "url": "https://open.spotify.com/track/2nTuvsJS2FzF02AMmxErR2"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 188580,
       "name": "Armao 100pre Andamos",
       "url": "https://open.spotify.com/track/127Q567KlWtlo1pLsiXr3h"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 202746,
       "name": "BABY DRIP",
       "url": "https://open.spotify.com/track/5rsR3HabI5cDfztvbFvUJr"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 212210,
       "name": "Booty Call",
       "url": "https://open.spotify.com/track/21SA3m9Lgs1Ch9leBdYrfz"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 240306,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/4pN7yDeBmmAud5lBtuCsVs"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 193546,
       "name": "Chama",
       "url": "https://open.spotify.com/track/1V5QyGNrBtBbKoIxyFnhLf"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 204293,
       "name": "Doble L",
       "url": "https://open.spotify.com/track/4mBQaDxxH0vn7jAuraDI47"
@@ -766,6 +766,24 @@
     },
     {
       "album": {
+        "name": "El Papi",
+        "url": "https://open.spotify.com/album/5IErHXIHg87j2wlH36BpXh"
+      },
+      "artists": [
+        {
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170781,
+      "name": "El Papi",
+      "url": "https://open.spotify.com/track/5QyUhnJWnndTxBYCA6EMRy"
+    },
+    {
+      "album": {
         "name": "El Perreo Intenso",
         "url": "https://open.spotify.com/album/3o5gUr5Q1eUDcdUb5fdV98"
       },
@@ -823,7 +841,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 164813,
       "name": "El Que Se Enamora Pierde (feat. Darell)",
       "url": "https://open.spotify.com/track/5Ik2TPCpwDNnBmkIf4GhBM"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 168440,
       "name": "El Querend\u00f3n",
       "url": "https://open.spotify.com/track/0c9SrjNN7UuZgqq1UjKsAx"
@@ -1127,7 +1145,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 178560,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/5CZQKFyopa2wIG7LjMrbPJ"
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 203008,
       "name": "I Don't Sleep - Remix",
       "url": "https://open.spotify.com/track/6VzbeqtKkPOaAxiNeXhomy"
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 238481,
       "name": "New York",
       "url": "https://open.spotify.com/track/4dJmVKgYJGSnRRb1jPFiq4"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 239093,
       "name": "No Vuelvas M\u00e1s",
       "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
@@ -1951,7 +1969,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 198981,
       "name": "No Wey",
       "url": "https://open.spotify.com/track/6cjOE0Ed9INrkClCCSpwBv"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 133331,
       "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
       "url": "https://open.spotify.com/track/3pJbrgZ3rmVFw1huQNQQUZ"
@@ -2301,7 +2319,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 188733,
       "name": "Pilonea",
       "url": "https://open.spotify.com/track/217RE2TUIVqJCB6pg3nIhx"
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 158800,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
@@ -2505,7 +2523,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 165215,
       "name": "Reggaeton Sessions #3",
       "url": "https://open.spotify.com/track/4u6zSS8VVCMXwVlwKPZUa6"
@@ -2597,7 +2615,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 198857,
       "name": "Royal Medellin",
       "url": "https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp"
@@ -2645,7 +2663,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 169585,
       "name": "Santo",
       "url": "https://open.spotify.com/track/6QPOXrZQDq2XuSTruAttFo"
@@ -2685,7 +2703,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 166719,
       "name": "Sin Censura",
       "url": "https://open.spotify.com/track/4LYiS0pzPGMMKmbheAPng9"
@@ -2771,7 +2789,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 232000,
       "name": "Sin Tab\u00fa",
       "url": "https://open.spotify.com/track/7xJeg4TFZBwoK63G98YRaA"
@@ -3237,7 +3255,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 184535,
       "name": "XULITA (feat. Kaydy Cain)",
       "url": "https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA"

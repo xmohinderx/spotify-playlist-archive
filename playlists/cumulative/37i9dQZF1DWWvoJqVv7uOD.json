@@ -174,6 +174,24 @@
     },
     {
       "album": {
+        "name": "Give Me The Future (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4OAET9jwMLVkoiciXfXRRT"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173202,
+      "name": "Back To The Future",
+      "url": "https://open.spotify.com/track/2f2mB1zwAh9fVhw3aoxYfM"
+    },
+    {
+      "album": {
         "name": "Beautiful",
         "url": "https://open.spotify.com/album/6XrF9flkOo2jQuCTXPitha"
       },

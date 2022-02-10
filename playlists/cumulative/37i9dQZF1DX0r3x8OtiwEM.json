@@ -139,7 +139,7 @@
       ],
       "date_added": "2020-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 520912,
       "name": "Agitation",
       "url": "https://open.spotify.com/track/6EZx0YpJHf6nwQT6bKXq1o"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 324000,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/3gkChSNvZJeTegxz57szLt"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 350047,
       "name": "Bird",
       "url": "https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf"
@@ -935,7 +935,7 @@
       ],
       "date_added": "2021-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 457622,
       "name": "Boavista",
       "url": "https://open.spotify.com/track/5XWtnEDX7CJC9yK6F7KeK6"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 400263,
       "name": "Capture Casa",
       "url": "https://open.spotify.com/track/1CRih7VXpMGKLfLT5pKUvt"
@@ -2481,7 +2481,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 414326,
       "name": "Exhilaration",
       "url": "https://open.spotify.com/track/5JGCS3oySt8hnSQeMOqDGc"
@@ -2609,7 +2609,7 @@
       ],
       "date_added": "2019-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 300789,
       "name": "Father",
       "url": "https://open.spotify.com/track/7uZYLHmJuAft2I6otiV0X1"
@@ -2923,7 +2923,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 333495,
       "name": "Fury",
       "url": "https://open.spotify.com/track/6I4QZC7Zir3dSlrTYrU0nv"
@@ -2981,7 +2981,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 432848,
       "name": "German Spring",
       "url": "https://open.spotify.com/track/16rPiwJp75OWUxBAMVzJQx"
@@ -3339,7 +3339,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 420876,
       "name": "Head Over Heels",
       "url": "https://open.spotify.com/track/07kw4vqIzRkaoR2JQMiIXK"
@@ -3503,7 +3503,7 @@
       ],
       "date_added": "2020-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 431162,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
@@ -3716,6 +3716,24 @@
     },
     {
       "album": {
+        "name": "Hunter",
+        "url": "https://open.spotify.com/album/7o2t4O9Hgx2sDS2ElSlSc7"
+      },
+      "artists": [
+        {
+          "name": "Marius Drescher",
+          "url": "https://open.spotify.com/artist/4oU99ab1DTNIF3a9RHmnhf"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466935,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/4Q7P00LthFrc2Q0L3n0vuO"
+    },
+    {
+      "album": {
         "name": "Hunting",
         "url": "https://open.spotify.com/album/2YwWxYBY1hkYOPsTbnDRrU"
       },
@@ -3917,7 +3935,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 328189,
       "name": "Iela",
       "url": "https://open.spotify.com/track/3nUMd9BAvtt7r0RZnecRh3"
@@ -5941,7 +5959,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 483226,
       "name": "Owl Adventure",
       "url": "https://open.spotify.com/track/51uhOO3zvddkGfZHkRxbJc"
@@ -6309,7 +6327,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 257439,
       "name": "Protection",
       "url": "https://open.spotify.com/track/6gR1tZQ9cs1I6Ln7soMYLL"
@@ -6403,6 +6421,28 @@
       "duration_ms": 557213,
       "name": "Raum",
       "url": "https://open.spotify.com/track/7MzAx4rpVVnqTAvA0fvmPw"
+    },
+    {
+      "album": {
+        "name": "Raum & Zeit",
+        "url": "https://open.spotify.com/album/4QkqWnECnvM5Fjy2athPwp"
+      },
+      "artists": [
+        {
+          "name": "Schoonebeek",
+          "url": "https://open.spotify.com/artist/0s3vpUpz6x99aBoH6FksO2"
+        },
+        {
+          "name": "Aestie",
+          "url": "https://open.spotify.com/artist/5Nxk7QzMmMscqjw6Dz2hb1"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333658,
+      "name": "Raum & Zeit",
+      "url": "https://open.spotify.com/track/4qDjkijuo7lGlMqyx9NNlK"
     },
     {
       "album": {
@@ -6577,7 +6617,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 321995,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/1uyOpyskQrpOUR5FW0kt3E"
@@ -7193,7 +7233,7 @@
       ],
       "date_added": "2020-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 369742,
       "name": "Sirens (feat. Yasmin Jane) [Tube & Berger Remix] - Extended Mix",
       "url": "https://open.spotify.com/track/737nhXOCDtruTb0NXhPU5Z"
@@ -7327,7 +7367,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 279127,
       "name": "Something Was Missing - Made in Paris Remix",
       "url": "https://open.spotify.com/track/0B4XSKCFYzkfLXdX5cHE41"
@@ -7425,7 +7465,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 211200,
       "name": "Spicy (feat. Ginger) - Edit",
       "url": "https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH"
@@ -7689,7 +7729,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 238537,
       "name": "Tarcu",
       "url": "https://open.spotify.com/track/53XCa30Ua1FGl4VeAyCENK"
@@ -8070,6 +8110,28 @@
     },
     {
       "album": {
+        "name": "The Parallel - Remixes",
+        "url": "https://open.spotify.com/album/3JBR0smUc7g9h3WU7ygVI6"
+      },
+      "artists": [
+        {
+          "name": "Morttagua",
+          "url": "https://open.spotify.com/artist/1XVL802tNy6tucST8spKOv"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426885,
+      "name": "The Parallel - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/6IoSsOgcDI8BadBDp7AZ5E"
+    },
+    {
+      "album": {
         "name": "The Past",
         "url": "https://open.spotify.com/album/3ve0uhqyMLCEJkc7W7dB3J"
       },
@@ -8107,7 +8169,7 @@
       ],
       "date_added": "2021-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 444737,
       "name": "The Prey - Mind Against Remix",
       "url": "https://open.spotify.com/track/3sMQ55H79frDZG6TXam3UC"
@@ -8369,7 +8431,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 298120,
       "name": "Toni",
       "url": "https://open.spotify.com/track/1pCKUgc3yk3F9Mt0MTX51o"

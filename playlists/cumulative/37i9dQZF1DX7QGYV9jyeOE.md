@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7QGYV9jyeOE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7QGYV9jyeOE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7QGYV9jyeOE)
 
-### Women of New Age
+### [Women of New Age](https://open.spotify.com/playlist/0dItxl1sEvUbA2B1gbgxeH)
 
 > Classic and contemporary pioneers of New Age music\. Cover: Pauline Anna Strom
 

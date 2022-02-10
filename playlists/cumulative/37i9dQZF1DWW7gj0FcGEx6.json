@@ -1832,6 +1832,24 @@
     },
     {
       "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225747,
+      "name": "The Lake",
+      "url": "https://open.spotify.com/track/2cyUIoPzLmFVLN6hw1Kk84"
+    },
+    {
+      "album": {
         "name": "The Mandalorian: Chapter 1 (Original Score)",
         "url": "https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL"
       },

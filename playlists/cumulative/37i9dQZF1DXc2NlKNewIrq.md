@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc2NlKNewIrq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc2NlKNewIrq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc2NlKNewIrq)
 
-### Ambient 1980s
+### [Ambient 1980s](https://open.spotify.com/playlist/0cAKPa0n1keUFqltC1nqcQ)
 
 > Dive in to the Ambient of the 1980s.
 

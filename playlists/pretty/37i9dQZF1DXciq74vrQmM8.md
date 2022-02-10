@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. yeule
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,775 likes - 58 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,104 likes - 58 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: NLE Choppa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,645 likes - 98 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,022 likes - 98 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

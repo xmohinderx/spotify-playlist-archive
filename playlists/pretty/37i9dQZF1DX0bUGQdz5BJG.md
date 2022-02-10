@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Kassi Ashton
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,625 likes - 146 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,623 likes - 146 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 136 | [Nothin' I Don't Love About You](https://open.spotify.com/track/3bpUoxpGoJkEQIHmMaUYPl) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [The Demos](https://open.spotify.com/album/0u5178s4Tdo1FboVzXSQUl) | 2:46 |
 | 137 | [Little Tired](https://open.spotify.com/track/0ja9diRG0aLcDWXeTIO8ue) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Little Tired](https://open.spotify.com/album/7pT1pxIAziEL1IzdEZ1mxW) | 4:23 |
 | 138 | [Come Home to Me](https://open.spotify.com/track/7sHsHmY4ZpVP9DCPe2cz8c) | [Scott Stevens](https://open.spotify.com/artist/18gxQcIuISU8gKxgElH7OU) | [Come Home to Me](https://open.spotify.com/album/62pRsoHQRvpdtO6OuSuAMt) | 3:41 |
-| 139 | [Goin’ Nowhere \(feat\. HARDY, Morgan Wallen & Chris Shiflett\)](https://open.spotify.com/track/0gVni0CzLUorl3ev8zN2gc) | [HIXTAPE](https://open.spotify.com/artist/4SbuhLih8eWLmqFzzmM3AK), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [Goin’ Nowhere \(feat\. HARDY, Morgan Wallen & Chris Shiflett\)](https://open.spotify.com/album/5sDf82J0gQXQQfagoXoqqw) | 3:09 |
+| 139 | [Goin’ Nowhere \(feat\. HARDY, Morgan Wallen & Chris Shiflett\)](https://open.spotify.com/track/0gVni0CzLUorl3ev8zN2gc) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Chris Shiflett](https://open.spotify.com/artist/5tv5SsSRqR7uLtpKZgcRrg) | [Goin’ Nowhere \(feat\. HARDY, Morgan Wallen & Chris Shiflett\)](https://open.spotify.com/album/5sDf82J0gQXQQfagoXoqqw) | 3:09 |
 | 140 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/2QWEKEYag6vI7VfJehbd7v) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Burn It Down \(717 Tapes\)](https://open.spotify.com/album/40CsyVbSKJPVHgxfLDKhJN) | 2:49 |
 | 141 | [Ready](https://open.spotify.com/track/7Ie1CC6QSRdaQsE8GvHalE) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Ready](https://open.spotify.com/album/6S2BM1B8Rz7yQT6b5iDPWW) | 4:33 |
 | 142 | [Anyway](https://open.spotify.com/track/3tzQ7pUOVTQg3AcPbPe0ml) | [Rod + Rose](https://open.spotify.com/artist/6xWrMsqTNDV7Pi10GWUhuZ), [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Rod + Rose](https://open.spotify.com/album/5KfaykNJBPdPKAJ9v4WRq6) | 3:15 |

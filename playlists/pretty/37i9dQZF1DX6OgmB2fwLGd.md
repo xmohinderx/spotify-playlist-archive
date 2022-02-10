@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the Internet\. Cover: $NOT
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,610 likes - 121 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,645 likes - 121 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 66 | [FEAST](https://open.spotify.com/track/3smTeRQ3qxUvC8Gf4ckUEs) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [notsick](https://open.spotify.com/artist/0LIittGjyw9kSH8YAo9HGq) | [FEAST](https://open.spotify.com/album/2SNp7R18YlGO9Mo7HLJFYv) | 2:03 |
 | 67 | [Real High](https://open.spotify.com/track/1bkQWh7IFqJERi1u81MXa7) | [Vyne](https://open.spotify.com/artist/1NLX3s8dqC5fsSSL7KNilq), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Real High](https://open.spotify.com/album/0p0tDDR4pRzDB0jqODKupP) | 2:31 |
 | 68 | [Public](https://open.spotify.com/track/65lV8m1obLQsdL76WjyRyy) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Public](https://open.spotify.com/album/3lxXrzog0ZLVIykCBAlf9P) | 2:01 |
-| 69 | [masquerade II \(dante’s inferno\)](https://open.spotify.com/track/7G7jd3o9p7KH9jMRhefwiQ) | [siouxxie sixxsta](https://open.spotify.com/artist/4SSaUSznlkAtjmuiEqa7QW) | [masquerade II \(dante’s inferno\)](https://open.spotify.com/album/75pEi3CTFA4uFOrKqPgkep) | 2:10 |
+| 69 | [masquerade II \(dante’s inferno\)](https://open.spotify.com/track/7G7jd3o9p7KH9jMRhefwiQ) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade II \(dante’s inferno\)](https://open.spotify.com/album/75pEi3CTFA4uFOrKqPgkep) | 2:10 |
 | 70 | [Shakira!](https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [EGOVERT](https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp) | [Shakira!](https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM) | 2:29 |
 | 71 | [MIA](https://open.spotify.com/track/4gJqfuiyXLtnjvX7lqFOBu) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [Caddy](https://open.spotify.com/album/3Z17WkBq7D8FDqXW4NYlmy) | 2:01 |
 | 72 | [fafo](https://open.spotify.com/track/2R711v6UpsgYvDuzCJ1iSl) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [fafo](https://open.spotify.com/album/0Q7DWii4IDrNrz9l4F6GPl) | 2:39 |

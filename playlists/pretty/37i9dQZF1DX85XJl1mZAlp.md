@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 
 > The best new releases from swinging bop to free jazz\. Cover: Daniel Herskedal
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,870 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,897 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 | 45 | [Vintermørke](https://open.spotify.com/track/2i8mf4M58VG6bRaSp48lzK) | [Espen Berg Trio](https://open.spotify.com/artist/7KUOutQopHIyqvTqjuHZSk), [Mathias Eick](https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ) | [Vintermørke](https://open.spotify.com/album/7wpWC9p8PjOIdtVCbZO5fF) | 7:18 |
 | 46 | [Rituals: Sacrifice II](https://open.spotify.com/track/73FpwhisuaayYbQGoDqRxU) | [Frankfurt Radio Bigband](https://open.spotify.com/artist/5ElbcIDCAB1mhTzTlR9RN5), [Jim McNeely](https://open.spotify.com/artist/6D85hE3x4Y14HbocOLYP0Z), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB) | [Rituals](https://open.spotify.com/album/0OUmiTtBH3r0369gH70qG9) | 6:36 |
 | 47 | [The Thump \(Live\)](https://open.spotify.com/track/2vvJ2DODsgMIYbc8En47pU) | [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez) | [The Thump \(Live\)](https://open.spotify.com/album/2tiRflgINXcibO2PTTmDR5) | 8:03 |
-| 48 | [Sweet Smile](https://open.spotify.com/track/6io9TUXA4dff0Lh0eHpW6c) | [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB) | [Sweet Smile](https://open.spotify.com/album/20RGcOGpc5bKbwVX2QG2hv) | 5:27 |
+| 48 | [Sweet Smile](https://open.spotify.com/track/6io9TUXA4dff0Lh0eHpW6c) | [Håkan Broström](https://open.spotify.com/artist/1bBOtfNnAX2zVoNf0FAneB), [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Sweet Smile](https://open.spotify.com/album/20RGcOGpc5bKbwVX2QG2hv) | 5:27 |
 | 49 | [You're All That Matters To Me](https://open.spotify.com/track/1jdr7bSQLHztdLqdoNbi7Y) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [You're All That Matters To Me](https://open.spotify.com/album/0zaSi5KF33ZQZHZZCNxiao) | 5:58 |
 | 50 | [Aftermath](https://open.spotify.com/track/0mJyBsdupi1HqYjUM2rkQ1) | [Boris Kozlov](https://open.spotify.com/artist/3oPzcffnTlaWQILnSzNNh5) | [First Things First](https://open.spotify.com/album/7fAtCUnToO5D14SleopisH) | 7:53 |
 

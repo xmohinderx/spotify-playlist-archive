@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
 
-> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Mafalda
+> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Tomás Roca
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

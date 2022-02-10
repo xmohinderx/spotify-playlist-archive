@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127697,
+  "num_followers": 127700,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzIzNSw2MWM5ODA0OTVlOWRlZDJkZGRlNjE0ZDcyMzc1NjYwMmUzZDdjMjEy",
+  "snapshot_id": "MzIzNyxiMjg4YmNjMDNjYTVkNzVkZjNiMWZiMmZiNjU4ZDM1YzJmMDZmMzM0",
   "tracks": [
+    {
+      "added_at": "2022-02-09 17:41:44",
+      "album": {
+        "name": "Searchlight",
+        "url": "https://open.spotify.com/album/6VhsXwh4KOtMPyXJSLnIm5"
+      },
+      "artists": [
+        {
+          "name": "Elypsis",
+          "url": "https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL"
+        },
+        {
+          "name": "Brandon Mignacca",
+          "url": "https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Searchlight",
+      "url": "https://open.spotify.com/track/5uvTLiE8me3c4rW3mlVQbL"
+    },
     {
       "added_at": "2022-02-08 18:05:03",
       "album": {
@@ -1095,26 +1115,6 @@
       "duration_ms": 200000,
       "name": "D.E.A.L",
       "url": "https://open.spotify.com/track/4NC86WqrkTKQjs4JqXpyml"
-    },
-    {
-      "added_at": "2021-11-19 18:18:32",
-      "album": {
-        "name": "Oc\u00e9ano Naranja",
-        "url": "https://open.spotify.com/album/3QVXhWXUHXsVretMx71lb4"
-      },
-      "artists": [
-        {
-          "name": "Airdraw",
-          "url": "https://open.spotify.com/artist/5aBN1E7wd2mJU0Ug8fG60K"
-        },
-        {
-          "name": "Jo.E",
-          "url": "https://open.spotify.com/artist/1huIFRAUYkJ5VQ9GcXcUax"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "A Trav\u00e9s del Tiempo Naranja",
-      "url": "https://open.spotify.com/track/1VsQs5sy7vkeixrRmEIN91"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

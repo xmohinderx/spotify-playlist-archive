@@ -404,6 +404,24 @@
     },
     {
       "album": {
+        "name": "Aurora Borealis",
+        "url": "https://open.spotify.com/album/2FKrLUaFsF2jWj1f0QEhGg"
+      },
+      "artists": [
+        {
+          "name": "Astro.Not",
+          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145808,
+      "name": "Aurora Borealis",
+      "url": "https://open.spotify.com/track/0YTKlaMszVp6rja34CzUDs"
+    },
+    {
+      "album": {
         "name": "Awareness",
         "url": "https://open.spotify.com/album/3Tonb9LcXzkJpfbd3xjV23"
       },
@@ -815,6 +833,24 @@
       "duration_ms": 163730,
       "name": "Chapters",
       "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
+    },
+    {
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/1ypEOpmaYFV46bpgf4HiuR"
+      },
+      "artists": [
+        {
+          "name": "Alva Adler",
+          "url": "https://open.spotify.com/artist/6SWtPjGME9m6Slzy5KmEWl"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161885,
+      "name": "Choices",
+      "url": "https://open.spotify.com/track/4rnHitehqGrHlgr8TiTMYX"
     },
     {
       "album": {
@@ -1740,6 +1776,42 @@
     },
     {
       "album": {
+        "name": "Flucht",
+        "url": "https://open.spotify.com/album/2NNkB8re9TnYdfcRmbv7Fn"
+      },
+      "artists": [
+        {
+          "name": "Elias Dome",
+          "url": "https://open.spotify.com/artist/0jrRKY6KdJnLLOmF1FPb6p"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Flucht",
+      "url": "https://open.spotify.com/track/2mPQlLpYdr2HFROOunOKH4"
+    },
+    {
+      "album": {
+        "name": "Graceful",
+        "url": "https://open.spotify.com/album/5qRo14dwWwk80r2UK4flJa"
+      },
+      "artists": [
+        {
+          "name": "Calming Eyes",
+          "url": "https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141510,
+      "name": "For Your Relief",
+      "url": "https://open.spotify.com/track/2bBNdeBMLLOrpzewcEQIPl"
+    },
+    {
+      "album": {
         "name": "From Above",
         "url": "https://open.spotify.com/album/7rj2uybb1d4Q3WnjMCtn04"
       },
@@ -2118,6 +2190,24 @@
     },
     {
       "album": {
+        "name": "Inner Peace",
+        "url": "https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF"
+      },
+      "artists": [
+        {
+          "name": "Sabrina McGregor",
+          "url": "https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179222,
+      "name": "Inner Peace",
+      "url": "https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF"
+    },
+    {
+      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1HRBd6bU9JxHmzGOHX2HJn"
       },
@@ -2493,6 +2583,24 @@
       "duration_ms": 178285,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/3KbmeqpwQMymXHdhzaAFms"
+    },
+    {
+      "album": {
+        "name": "Mane Fluctus",
+        "url": "https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15"
+      },
+      "artists": [
+        {
+          "name": "Somnum Magnam",
+          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158529,
+      "name": "Lux Mane",
+      "url": "https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3"
     },
     {
       "album": {
@@ -4073,7 +4181,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 259200,
       "name": "Tallkrona",
       "url": "https://open.spotify.com/track/0SY2SUY5MH7SYd4TTIzgfJ"

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdcgmlEJyzKw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdcgmlEJyzKw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdcgmlEJyzKw)
 
-### Musique Concrète
+### [Musique Concrète](https://open.spotify.com/playlist/4vM64ZMVSwtnmECx082lsj)
 
 > Early explorations with recorded sounds as instruments \-  the groundwork for sampling as we know it today.
 
@@ -58,7 +58,7 @@
 | [Poème Electronique](https://open.spotify.com/track/6gdOMWMd4WKHU03vfmxkIp) | [Edgard Varèse](https://open.spotify.com/artist/0enRaCZSvIUa2nVC7I4roi) | [Varèse: The Complete Works](https://open.spotify.com/album/1GVXkLXndn3JMWi9bftSZF) | 8:02 | 2022-01-07 |  |
 | [Revolution 9 \- Remastered 2009](https://open.spotify.com/track/5dZ8PeKKZJLIQAWNTdp8WX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 8:22 | 2022-01-07 |  |
 | [Science & Industry](https://open.spotify.com/track/5pAZhawFE5XMjnSWApssUg) | [Phil Young](https://open.spotify.com/artist/3jbkcQVR0WH0APuO1Gd4Ly) | [Electronycs Vol.4, 20th Century Early Electronic, Noise and Experimental Music\. 1920\-1960](https://open.spotify.com/album/6OAZsSkpQaUeOXzRWDcT3L) | 0:28 | 2022-01-07 |  |
-| [Sfaira](https://open.spotify.com/track/1NbYTv2CmPmu1ecmlHjUd3) | [Tilman Ehrhorn](https://open.spotify.com/artist/2Xryn0qneP0nHP67bvb5Fm), [Werken](https://open.spotify.com/artist/10OUYUUQc3Ux5jEnJOG0ci), [An Moku](https://open.spotify.com/artist/0N1t5LXpAaEakJ3f2zdGA4) | [Sfaira](https://open.spotify.com/album/58culJGdA7C6pCnHg7dL2t) | 6:38 | 2022-01-07 |  |
+| [Sfaira](https://open.spotify.com/track/1NbYTv2CmPmu1ecmlHjUd3) | [Tilman Ehrhorn](https://open.spotify.com/artist/2Xryn0qneP0nHP67bvb5Fm), [An Moku](https://open.spotify.com/artist/0N1t5LXpAaEakJ3f2zdGA4) | [Sfaira](https://open.spotify.com/album/58culJGdA7C6pCnHg7dL2t) | 6:38 | 2022-01-07 |  |
 | [Sound Patterns](https://open.spotify.com/track/4A7U5MG1gtnEciBG9MxNP5) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Brandeis University Chamber Chorus](https://open.spotify.com/artist/4XVSALf4pwJEFbkIgC5IBA), [Alvin Lucier](https://open.spotify.com/artist/0ARBCE8g4PI0TO7PEYMm0Z) | [Extended Voices](https://open.spotify.com/album/5cd1WvUjpDzBLq2bc9nDcr) | 4:00 | 2022-01-07 |  |
 | [Study for Voice and Tape](https://open.spotify.com/track/7vrvKZU7gsRgh3yMBr07OY) | [Alice Shields](https://open.spotify.com/artist/60dHuhMXgrJgD1ZXrDf0ff) | [Columbia\-Princeton Electronic Music Center 1961\-1973](https://open.spotify.com/album/2G4IrmveiWoH0yMAZDPfbe) | 5:17 | 2022-01-07 |  |
 | [Synchronisms No\. 6](https://open.spotify.com/track/3I0gtCsE6xQtyp0jgCPouV) | [Mario Davidovsky](https://open.spotify.com/artist/0RkeeCvii56vYCER2jY5IH), [Aleck Karis](https://open.spotify.com/artist/5infXBnDBbGBPoWNBslhRH) | [Secret Geometry](https://open.spotify.com/album/5ATviy3QWhI6OuzJiN9tr3) | 7:06 | 2022-01-07 |  |

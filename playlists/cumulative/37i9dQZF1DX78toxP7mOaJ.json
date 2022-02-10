@@ -62,6 +62,42 @@
     },
     {
       "album": {
+        "name": "American Holy Spirit",
+        "url": "https://open.spotify.com/album/0WBWExqhdbQGheTm7jYC05"
+      },
+      "artists": [
+        {
+          "name": "Mr. Neptoon",
+          "url": "https://open.spotify.com/artist/4NTrWPdN3Cs2x90Bwukh0A"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237648,
+      "name": "American Holy Spirit",
+      "url": "https://open.spotify.com/track/6zrllqKVzbAuZuNzFSLplz"
+    },
+    {
+      "album": {
+        "name": "Autonomy",
+        "url": "https://open.spotify.com/album/3NgOTWWWfc7JpxQUGjm5Mg"
+      },
+      "artists": [
+        {
+          "name": "Glacier Veins",
+          "url": "https://open.spotify.com/artist/1ABJDb5VkWotQpFDOZeene"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "Autonomy",
+      "url": "https://open.spotify.com/track/1LxF3X9iAsf5aRmD86UzYu"
+    },
+    {
+      "album": {
         "name": "Get Some",
         "url": "https://open.spotify.com/album/3GcRpPbUITV69vTolwRDsp"
       },
@@ -77,6 +113,24 @@
       "duration_ms": 151893,
       "name": "Baby Let's Pretend",
       "url": "https://open.spotify.com/track/1BmaIHgkvLvZWv1kPmH0mb"
+    },
+    {
+      "album": {
+        "name": "Back To How It Was",
+        "url": "https://open.spotify.com/album/6ERPnRcLpOfUjwcAvPTnwB"
+      },
+      "artists": [
+        {
+          "name": "China Bears",
+          "url": "https://open.spotify.com/artist/3ygItx4xOyxkoaAZD9sc19"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231026,
+      "name": "Back To How It Was",
+      "url": "https://open.spotify.com/track/7cv0YzftJIpwrpLUiT8ESX"
     },
     {
       "album": {
@@ -199,7 +253,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 184077,
       "name": "Better Each Day",
       "url": "https://open.spotify.com/track/3Mdx0JOsOWRI76zIwZKEyL"
@@ -387,6 +441,24 @@
       "duration_ms": 176000,
       "name": "Catharsis",
       "url": "https://open.spotify.com/track/4uZP2V8073N3O7dJhqGxhG"
+    },
+    {
+      "album": {
+        "name": "Claw Your Way Out",
+        "url": "https://open.spotify.com/album/6ZXoRg5L8XMA7M3HC2QOpl"
+      },
+      "artists": [
+        {
+          "name": "Pluralone",
+          "url": "https://open.spotify.com/artist/5jQsMNuCW0iZeFTz6YUK8K"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183679,
+      "name": "Claw Your Way Out",
+      "url": "https://open.spotify.com/track/3HjohYDsYZg2KLhYjto8Hq"
     },
     {
       "album": {
@@ -1161,7 +1233,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 192532,
       "name": "Honey",
       "url": "https://open.spotify.com/track/55A8JVhujPcofz2NYWobcj"
@@ -1745,6 +1817,24 @@
       "duration_ms": 181320,
       "name": "Nostalgia Seed",
       "url": "https://open.spotify.com/track/64eJOf186peUV6FZaGbWGf"
+    },
+    {
+      "album": {
+        "name": "Number",
+        "url": "https://open.spotify.com/album/7iEf7zDbDYs0lFOejv1abs"
+      },
+      "artists": [
+        {
+          "name": "SLOE JACK",
+          "url": "https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119200,
+      "name": "Number",
+      "url": "https://open.spotify.com/track/25v9Wey2GfhIvO0Q1G1VUG"
     },
     {
       "album": {
@@ -2473,7 +2563,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 217493,
       "name": "Trouble In Paradise",
       "url": "https://open.spotify.com/track/3poOwGf58oSRT8edctak7i"
@@ -2653,7 +2743,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 232732,
       "name": "Who's Laughing Now",
       "url": "https://open.spotify.com/track/2upp8DCqGyzL4UquAoy9Uf"

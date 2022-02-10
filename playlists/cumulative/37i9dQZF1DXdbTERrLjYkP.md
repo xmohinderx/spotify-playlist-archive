@@ -106,5 +106,6 @@
 | [WYD Now?](https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [WYD Now?](https://open.spotify.com/album/7vHnOZjiqPEgDP6BkmEp2Z) | 2:24 | 2022-01-14 |  |
 | [you ruined phoebe bridgers](https://open.spotify.com/track/1wbqhfq7CIN9Q5FL8CL90r) | [Anya Gupta](https://open.spotify.com/artist/6SHpQ6QnVZdoPVhQa3A2sL) | [i \(don't\) know you](https://open.spotify.com/album/3Vyl6gXOqLsiaao9xxUpn7) | 2:46 | 2022-01-14 |  |
 | [You'll Be Fine](https://open.spotify.com/track/06XZWfafzxL4DgcRsqCYBZ) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [You'll Be Fine](https://open.spotify.com/album/39FcPlEZ6XEqGyYuyM5mtJ) | 2:41 | 2022-01-14 |  |
+| [Your World](https://open.spotify.com/track/55tJrxAsKjmkFK1PMSY5Uh) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Only Emotion](https://open.spotify.com/album/6UxOg4nG9oarhtHFQghmbC) | 3:25 | 2022-02-09 |  |
 
 \*This playlist was first scraped on 2022-02-06. Prior content cannot be recovered.

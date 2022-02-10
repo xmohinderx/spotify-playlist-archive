@@ -1120,6 +1120,24 @@
     },
     {
       "album": {
+        "name": "Good Trouble",
+        "url": "https://open.spotify.com/album/1BqIPBcVq5VEl4HpMuboQI"
+      },
+      "artists": [
+        {
+          "name": "Leslie Clio",
+          "url": "https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204200,
+      "name": "Good Trouble",
+      "url": "https://open.spotify.com/track/7tOscxxC3AlgiBagWInEm3"
+    },
+    {
+      "album": {
         "name": "Haja Te Min T\u00fbne",
         "url": "https://open.spotify.com/album/2PDA2TWHD9OO3QbZIJDnXo"
       },
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 169405,
       "name": "I Follow",
       "url": "https://open.spotify.com/track/4QZYTmGqtEHngxs10Rd9qB"
@@ -2135,7 +2153,7 @@
       ],
       "date_added": "2022-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 143078,
       "name": "Nicht allein",
       "url": "https://open.spotify.com/track/0gocDi3YsNnoRqq7h0phrO"
@@ -2845,6 +2863,24 @@
       "duration_ms": 254863,
       "name": "Sisa Rasa",
       "url": "https://open.spotify.com/track/6pmo9ha8iOPZc5lxPU9o8w"
+    },
+    {
+      "album": {
+        "name": "SO WIE ICH",
+        "url": "https://open.spotify.com/album/0t6Q2AEooDRXaI1xITnhKe"
+      },
+      "artists": [
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219314,
+      "name": "SO WIE ICH",
+      "url": "https://open.spotify.com/track/6JkTgg7FY1DWZLYiM1B56Q"
     },
     {
       "album": {

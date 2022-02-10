@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "Another Whiskey",
+        "url": "https://open.spotify.com/album/2uRrE8Nkm3xhua8m0c5RUk"
+      },
+      "artists": [
+        {
+          "name": "Junez",
+          "url": "https://open.spotify.com/artist/3jdd1dE8PUWOXfGvh7tIRT"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242891,
+      "name": "Another Whiskey",
+      "url": "https://open.spotify.com/track/24DOHRr8IX1npa2cRxMZ1l"
+    },
+    {
+      "album": {
         "name": "As You Leave",
         "url": "https://open.spotify.com/album/10mMsHExUCFJEcILYH3wZt"
       },
@@ -261,6 +279,24 @@
       "duration_ms": 216896,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/26xr7bf7T1iOAreNKug5KV"
+    },
+    {
+      "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/07redYeQNsVylDt4OGRG3Q"
+      },
+      "artists": [
+        {
+          "name": "Bri Fletcher",
+          "url": "https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225156,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/1xMTryybLDviCRWPUy9zw6"
     },
     {
       "album": {
@@ -419,7 +455,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 183269,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/53JlTg2Od9OClsaNt7IBNE"
@@ -553,7 +589,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 193793,
       "name": "Best of Us",
       "url": "https://open.spotify.com/track/3oNRJQtUOagIL40hJHwWBx"
@@ -625,7 +661,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 149332,
       "name": "Better On Me",
       "url": "https://open.spotify.com/track/3Gk75ziLzHNskYTW2MIG4p"
@@ -830,6 +866,24 @@
     },
     {
       "album": {
+        "name": "Candles To Burn",
+        "url": "https://open.spotify.com/album/6ZtEFBiAd16jsDGkDwwh4p"
+      },
+      "artists": [
+        {
+          "name": "Caleb Mills",
+          "url": "https://open.spotify.com/artist/2hoDSV1Gib8tGTS7q1yKWP"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219090,
+      "name": "Candles To Burn",
+      "url": "https://open.spotify.com/track/52kO7RJTJIY8KYYNyCQRxw"
+    },
+    {
+      "album": {
         "name": "Anything But Casual",
         "url": "https://open.spotify.com/album/1OKK45Ysi9Iu5r3WhsEI8s"
       },
@@ -913,7 +967,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 277171,
       "name": "Cigarettes and Alcohol",
       "url": "https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe"
@@ -956,6 +1010,24 @@
     },
     {
       "album": {
+        "name": "Coldest Beer In Town",
+        "url": "https://open.spotify.com/album/7DSzRunVxzUeMwGfUmdlZX"
+      },
+      "artists": [
+        {
+          "name": "John Morgan",
+          "url": "https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186360,
+      "name": "Coldest Beer In Town",
+      "url": "https://open.spotify.com/track/3wxxyy1kvTOX59vxrYJESI"
+    },
+    {
+      "album": {
         "name": "Come Home to Me",
         "url": "https://open.spotify.com/album/62pRsoHQRvpdtO6OuSuAMt"
       },
@@ -989,6 +1061,24 @@
       "duration_ms": 179954,
       "name": "Country Girl Commandments",
       "url": "https://open.spotify.com/track/0wqjEtWb4TBwsJQnnUu7GM"
+    },
+    {
+      "album": {
+        "name": "Country in Me",
+        "url": "https://open.spotify.com/album/14TyyqNVDqZ7i1X60CNE0J"
+      },
+      "artists": [
+        {
+          "name": "Jono Grayson",
+          "url": "https://open.spotify.com/artist/2A91hKSHbGC0awW297Plqi"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Country in Me",
+      "url": "https://open.spotify.com/track/5s0aFRBOpQzWBivW8EHiZK"
     },
     {
       "album": {
@@ -1500,6 +1590,24 @@
     },
     {
       "album": {
+        "name": "Favorite Heartbreak",
+        "url": "https://open.spotify.com/album/6cyYTxvbtbjaog6LHWKNac"
+      },
+      "artists": [
+        {
+          "name": "Mary Kate Farmer",
+          "url": "https://open.spotify.com/artist/11ha0H11IFm1GO416F07kf"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245368,
+      "name": "Favorite Heartbreak",
+      "url": "https://open.spotify.com/track/0Utgtxl79uhN9TT5WGeha0"
+    },
+    {
+      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/7dP7birbQvtZn13VEEolvt"
       },
@@ -1547,7 +1655,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 188239,
       "name": "First Time",
       "url": "https://open.spotify.com/track/3CusVXKAMVGcxv9NcB4mHP"
@@ -1749,7 +1857,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 160573,
       "name": "Go Find Less",
       "url": "https://open.spotify.com/track/0n0brhGyJyy1cHAUNDsi0h"
@@ -1864,6 +1972,24 @@
     },
     {
       "album": {
+        "name": "Hate This Hometown",
+        "url": "https://open.spotify.com/album/5rxQ4YdwcGbyqyP3GoJ0Ab"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193023,
+      "name": "Hate This Hometown",
+      "url": "https://open.spotify.com/track/6eukvmq1A85Jz0hBVfmkkP"
+    },
+    {
+      "album": {
         "name": "Hate This Town",
         "url": "https://open.spotify.com/album/2ujT24e10vFXS6Cay4dxRh"
       },
@@ -1936,6 +2062,24 @@
     },
     {
       "album": {
+        "name": "Headfirst",
+        "url": "https://open.spotify.com/album/0j29dN4Q2gI16rLxIYaNI6"
+      },
+      "artists": [
+        {
+          "name": "Olivia Webber",
+          "url": "https://open.spotify.com/artist/5ouNfYZXUWK9gaBW6vjSh6"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211397,
+      "name": "Headfirst",
+      "url": "https://open.spotify.com/track/4so29BBcUm3yIdBd45UQHO"
+    },
+    {
+      "album": {
         "name": "Heart Thinks",
         "url": "https://open.spotify.com/album/1BonXTSPop7ed1rh0SkSq8"
       },
@@ -1987,7 +2131,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 196734,
       "name": "Hell You Go Through",
       "url": "https://open.spotify.com/track/54liFMsJKL9r7WTuvyt5h5"
@@ -2067,7 +2211,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 187113,
       "name": "Hometown Girl",
       "url": "https://open.spotify.com/track/0vZAKkSdmJUZRGDMD6GgMO"
@@ -2366,6 +2510,24 @@
     },
     {
       "album": {
+        "name": "I Lose Things",
+        "url": "https://open.spotify.com/album/1iPhCWhTTze7qBg8JS5WW9"
+      },
+      "artists": [
+        {
+          "name": "Lost Saints",
+          "url": "https://open.spotify.com/artist/7yesAkgxokciQUMxMeZtsy"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "I Lose Things",
+      "url": "https://open.spotify.com/track/5Pob0FJaLtnLXRjArALqer"
+    },
+    {
+      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/2Tq0xtWB6rqCemzGCf9yUG"
       },
@@ -2467,7 +2629,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 195395,
       "name": "I'm Drinkin' She's Drivin'",
       "url": "https://open.spotify.com/track/38GeL4oaWQR0YZTpRPDS6c"
@@ -2759,7 +2921,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 232711,
       "name": "Last Place I Want To Be",
       "url": "https://open.spotify.com/track/3ujflVU6iW4uA8dXCDC0DQ"
@@ -3163,7 +3325,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 204356,
       "name": "Minus You",
       "url": "https://open.spotify.com/track/37tgNw6q6BsXgxxMMvCL6r"
@@ -3221,6 +3383,24 @@
       "duration_ms": 207096,
       "name": "Ms. Fire",
       "url": "https://open.spotify.com/track/3iVmCauTAulRmUKIuh821l"
+    },
+    {
+      "album": {
+        "name": "My Kind of Paradise",
+        "url": "https://open.spotify.com/album/50JOZnRf31tSFX9cPMlDAy"
+      },
+      "artists": [
+        {
+          "name": "Mike Whiteside",
+          "url": "https://open.spotify.com/artist/3gx8Jy5EhQET99sstT90bk"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193599,
+      "name": "My Kind of Paradise",
+      "url": "https://open.spotify.com/track/4H3auEbmMoWqc13ns3u2MS"
     },
     {
       "album": {
@@ -3426,6 +3606,28 @@
     },
     {
       "album": {
+        "name": "One Plus One",
+        "url": "https://open.spotify.com/album/4SqKoLRm931mluvoXhlFCz"
+      },
+      "artists": [
+        {
+          "name": "TracieLynn",
+          "url": "https://open.spotify.com/artist/0mPEljpx3NF2bWuBQdlF2v"
+        },
+        {
+          "name": "Cody Purvis",
+          "url": "https://open.spotify.com/artist/3uVEo0XTel7WqHQlSnRehM"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184242,
+      "name": "One Plus One",
+      "url": "https://open.spotify.com/track/0ZbnAuryxWxK7iCROg6MRa"
+    },
+    {
+      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/46ZLJTYD4DaRTPdKyFoJqP"
       },
@@ -3527,7 +3729,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 178361,
       "name": "RECKLESS",
       "url": "https://open.spotify.com/track/08a51R97SLj4lbrKtG6NCS"
@@ -3815,7 +4017,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 217942,
       "name": "Sky Full Of Stars",
       "url": "https://open.spotify.com/track/7is31jFJdTZyB1T5f5sWyK"
@@ -4064,6 +4266,24 @@
     },
     {
       "album": {
+        "name": "Somewhere in Middle America",
+        "url": "https://open.spotify.com/album/3dFecYLR08BLmbgSnGcWhZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Foster",
+          "url": "https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141960,
+      "name": "Somewhere in Middle America",
+      "url": "https://open.spotify.com/track/4qBsg15tarx6s5l4nG6lXq"
+    },
+    {
+      "album": {
         "name": "Southbound",
         "url": "https://open.spotify.com/album/1Xfjg97fPgMtoFGcXWCRux"
       },
@@ -4075,7 +4295,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 168648,
       "name": "Southbound",
       "url": "https://open.spotify.com/track/6I1j7XU7NCyaajwfemnV2R"
@@ -4273,10 +4493,28 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 216466,
       "name": "The List",
       "url": "https://open.spotify.com/track/2VimQ9O9FfEeDLRUebKfuK"
+    },
+    {
+      "album": {
+        "name": "The Lonely Drink",
+        "url": "https://open.spotify.com/album/0qio95qGhrAufATTCqz4Ij"
+      },
+      "artists": [
+        {
+          "name": "Blake Henderson",
+          "url": "https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210229,
+      "name": "The Lonely Drink",
+      "url": "https://open.spotify.com/track/1h82D1tLX3kPKSkHLyduaI"
     },
     {
       "album": {
@@ -4417,7 +4655,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 188054,
       "name": "Those Tonights",
       "url": "https://open.spotify.com/track/3bpKWJaN2wWqMcNxrocYD0"
@@ -4605,6 +4843,24 @@
       "duration_ms": 177445,
       "name": "Water Me Down",
       "url": "https://open.spotify.com/track/16ykyP9WVXNP84lD7BS7F2"
+    },
+    {
+      "album": {
+        "name": "Water My Roots",
+        "url": "https://open.spotify.com/album/6dfk75eIPCR1fslQRUqVr2"
+      },
+      "artists": [
+        {
+          "name": "Anna McElroy",
+          "url": "https://open.spotify.com/artist/4Nt8eUdKYirbAtfFMvqkvx"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222772,
+      "name": "Water My Roots",
+      "url": "https://open.spotify.com/track/2vIA6ImJ8DhlsH6ML7Lug1"
     },
     {
       "album": {

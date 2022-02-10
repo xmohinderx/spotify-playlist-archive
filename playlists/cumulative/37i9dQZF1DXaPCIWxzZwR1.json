@@ -12384,6 +12384,24 @@
     },
     {
       "album": {
+        "name": "Teenage Mona Lisa",
+        "url": "https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d"
+      },
+      "artists": [
+        {
+          "name": "Alfie Castley",
+          "url": "https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198607,
+      "name": "Teenage Mona Lisa",
+      "url": "https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz"
+    },
+    {
+      "album": {
         "name": "Telepath",
         "url": "https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE"
       },

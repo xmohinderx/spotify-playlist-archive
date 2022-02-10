@@ -27,7 +27,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 281960,
       "name": "#1 Stunna",
       "url": "https://open.spotify.com/track/7kBdenpTmgWfAz9clmBcok"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 286333,
       "name": "Anything",
       "url": "https://open.spotify.com/track/1xixUOjgdqMOPZxursTms3"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 253666,
       "name": "Beanie (Mack B****)",
       "url": "https://open.spotify.com/track/67t2pIIrrdBWFr0u8y4L1b"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 256800,
       "name": "Dem Boyz",
       "url": "https://open.spotify.com/track/59xyRqG06dGbTmmJFVFbyQ"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 286453,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/5F7caGhe84C6ONva5S8yXF"
@@ -1267,7 +1267,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 383093,
       "name": "E.I. - TIPDRILL REMIX",
       "url": "https://open.spotify.com/track/4untFhhBpZiRjVfEMCnui0"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 277706,
       "name": "Ether",
       "url": "https://open.spotify.com/track/06UPCXzhIsXnceSXmKLMEY"
@@ -1307,7 +1307,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 246160,
       "name": "Feel It In The Air",
       "url": "https://open.spotify.com/track/4rICUbwZZuqUOcgQgtux2k"
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 292186,
       "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
       "url": "https://open.spotify.com/track/04fX3oTJm5Zucg3Uf9aix0"
@@ -1511,10 +1511,32 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 281826,
       "name": "Go DJ",
       "url": "https://open.spotify.com/track/4svCVV4VHEL3Z4efES868h"
+    },
+    {
+      "album": {
+        "name": "The Inspiration",
+        "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "R. Kelly",
+          "url": "https://open.spotify.com/artist/2mxe0TnaNL039ysAj51xPQ"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229346,
+      "name": "Go Getta",
+      "url": "https://open.spotify.com/track/03b1NUHnoavfpLLKcEMfIb"
     },
     {
       "album": {
@@ -1555,7 +1577,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 207000,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1fLdeDTrJWNkwOeFyAVLvF"
@@ -1577,7 +1599,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 210093,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5c3664v0qorEpBy1nXqtfL"
@@ -1617,7 +1639,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 244626,
       "name": "Got Money",
       "url": "https://open.spotify.com/track/46lIt6GmL0VkkbuUyGDbCs"
@@ -1665,7 +1687,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 271160,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/3YQjgTpUVNWvpYeb2mtTF7"
@@ -1691,7 +1713,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 272546,
       "name": "Grillz",
       "url": "https://open.spotify.com/track/7fnY0ec4B3SbcsJoaIIXIa"
@@ -1709,7 +1731,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 264760,
       "name": "Grindin'",
       "url": "https://open.spotify.com/track/3XrvEifl0hIzgBGUa5jBLS"
@@ -1771,7 +1793,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
@@ -1793,7 +1815,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/60WcXjimfbhk6T0gj1Eufg"
@@ -1889,7 +1911,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 238706,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/3EyNj8ps0rYIAF4xIpFCjc"
@@ -1925,7 +1947,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 228240,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
@@ -2271,7 +2293,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 259933,
       "name": "I'm A Hustla - Street Mix/ Dirty Version",
       "url": "https://open.spotify.com/track/41D6aNNTmUUd7fWlVNWMN8"
@@ -2325,7 +2347,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 240066,
       "name": "I'm So Fly",
       "url": "https://open.spotify.com/track/0MjM12n2Blr3UxS083X5cQ"
@@ -2475,7 +2497,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 294040,
       "name": "Is That Your Chick (The Lost Verses)",
       "url": "https://open.spotify.com/track/4aWxp4mBOnWIUDlXb4ngaV"
@@ -2515,7 +2537,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 193733,
       "name": "Jesus Walks",
       "url": "https://open.spotify.com/track/62r62ArmWq38cu6QCVgyTc"
@@ -2613,7 +2635,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 212906,
       "name": "Knock Yourself Out",
       "url": "https://open.spotify.com/track/4jCio4LNO1eZbl09ed4ZFn"
@@ -2665,7 +2687,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 272586,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/4i2HYTGM7yHty0qVhD3lqD"
@@ -2717,7 +2739,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 222360,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/4QNJd8ma02Oy9PBenHErs1"
@@ -2775,9 +2797,9 @@
           "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
         }
       ],
-      "date_added": "2021-08-16",
+      "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 247426,
       "name": "Lean Back",
       "url": "https://open.spotify.com/track/2Ozc0me9PV5vlt8cokwdvI"
@@ -3019,7 +3041,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 299333,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
@@ -3041,7 +3063,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 299333,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/5jnxxpX2834SB6LJ0S73Uz"
@@ -3133,7 +3155,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 359973,
       "name": "Magic Stick",
       "url": "https://open.spotify.com/track/0aULRU35N9kTj6O1xMULRR"
@@ -3155,7 +3177,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 247413,
       "name": "Make It Rain",
       "url": "https://open.spotify.com/track/1Ji8DhJGIQuV9kBiTgcChh"
@@ -3243,7 +3265,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 233706,
       "name": "Money in the Bank (feat. Young Buck) - Remix",
       "url": "https://open.spotify.com/track/6YTp4sUEi3oWNToQvOjke6"
@@ -3383,7 +3405,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 286906,
       "name": "Mrs. Officer",
       "url": "https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7"
@@ -3409,7 +3431,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 286906,
       "name": "Mrs. Officer",
       "url": "https://open.spotify.com/track/7gihksIHhs6nw5tYlI6UEq"
@@ -3519,7 +3541,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 286186,
       "name": "Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",
       "url": "https://open.spotify.com/track/4GIsskMpViPkt0uzPJTJSp"
@@ -3567,7 +3589,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 235906,
       "name": "No Better Love",
       "url": "https://open.spotify.com/track/0K7XjmTNFwQ2qwHn4MjlDx"
@@ -3611,7 +3633,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 214213,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/0EgigrGFGb4PHaVNb7fgK7"
@@ -3629,7 +3651,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 264653,
       "name": "Nothin'",
       "url": "https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X"
@@ -3713,7 +3735,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 276800,
       "name": "One Call Away",
       "url": "https://open.spotify.com/track/0UNTBB02C1aB55Fu4H63qd"
@@ -3869,7 +3891,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 268866,
       "name": "Party Up",
       "url": "https://open.spotify.com/track/4MxZW1XEcPuIZmkANsJabC"
@@ -3891,7 +3913,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 205133,
       "name": "Pop Bottles - Main",
       "url": "https://open.spotify.com/track/1kEp3Po9RUPm11N5ITOUWx"
@@ -4157,7 +4179,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 291781,
       "name": "Ride Wit Me",
       "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
@@ -4237,7 +4259,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 296586,
       "name": "Rollout (My Business)",
       "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
@@ -4387,7 +4409,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 252440,
       "name": "Salt Shaker",
       "url": "https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn"
@@ -4427,7 +4449,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 272506,
       "name": "Say I Yi Yi",
       "url": "https://open.spotify.com/track/46XvcuEZFFInDilbYUNHBn"
@@ -4849,7 +4871,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 335613,
       "name": "Still Fly",
       "url": "https://open.spotify.com/track/563vSy3HB5NHxel1VGQCW6"
@@ -4929,7 +4951,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 232226,
       "name": "Stunt 101",
       "url": "https://open.spotify.com/track/6QdVBqkKNUqCqercvUHMkP"
@@ -5035,7 +5057,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 226160,
       "name": "Take It to da House",
       "url": "https://open.spotify.com/track/1wLhwzPAtze5JT8qqXlqaO"
@@ -5057,7 +5079,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 227106,
       "name": "Take It to da House (feat. The Slip N' Slide Express)",
       "url": "https://open.spotify.com/track/7fkbO9RJWW0zQAtXBu5ixb"
@@ -5075,7 +5097,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 278800,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7aXXjA800sXYKpM8D9pCVT"
@@ -5147,7 +5169,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 249626,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/2037Ob3nwf6lnMCByEoTSB"
@@ -5267,7 +5289,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 263920,
       "name": "Throw Some D's",
       "url": "https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu"
@@ -5413,7 +5435,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 265226,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/3NOq1Gpiy4KwDni8NhOmHQ"
@@ -5467,7 +5489,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 219400,
       "name": "Wanksta - From \"8 Mile\" Soundtrack",
       "url": "https://open.spotify.com/track/6rpNe6gSkmiYW6BfSFATi5"
@@ -5507,7 +5529,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 249840,
       "name": "Wasted (feat. Plies)",
       "url": "https://open.spotify.com/track/11hQvcLydGTyXS3Wo6AkmW"
@@ -5529,7 +5551,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 224666,
       "name": "Wat Da Hook Gon Be",
       "url": "https://open.spotify.com/track/6njG8EYG1lrROn8P6q46eq"
@@ -5613,7 +5635,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 258066,
       "name": "What Happened To That Boy",
       "url": "https://open.spotify.com/track/20Sp7dNLM3NjIu3TInDqjq"
@@ -5635,7 +5657,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 253040,
       "name": "What These Bitches Want",
       "url": "https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8"
@@ -5657,7 +5679,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 320186,
       "name": "What U Gon' Do",
       "url": "https://open.spotify.com/track/1bTphHXspys3RvvRxfzzIc"
@@ -5793,7 +5815,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 275906,
       "name": "What's Your Fantasy (Featuring Shawna)",
       "url": "https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z"
@@ -5927,7 +5949,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 240000,
       "name": "Why",
       "url": "https://open.spotify.com/track/58LflM1owDAzQkYIL7ayCX"
@@ -6077,7 +6099,7 @@
       ],
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 287906,
       "name": "You Owe Me (feat. Ginuwine)",
       "url": "https://open.spotify.com/track/2VqjCBJ4AxpDTrNRKhL0Pw"

@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-02-08",
   "description": "Ambient glimpses of light.",
   "name": "soundbeams",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "64DRbQC1Lcyo6AXTksrVbC"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Meeting of Waters",
+        "url": "https://open.spotify.com/album/2qL8bWLcAx5tyBWsuQqaVd"
+      },
+      "artists": [
+        {
+          "name": "Josiah Steinbrick",
+          "url": "https://open.spotify.com/artist/2t1feKJJZgzieczJ0oDmiP"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230200,
+      "name": "(Vibraphone, Marimbaphone, Malleted Wood, Two Synthesizers)",
+      "url": "https://open.spotify.com/track/7qAHwlEjjrrOLkIu8h6hob"
+    },
     {
       "album": {
         "name": "A Light Without Flame",
@@ -17,7 +37,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 203994,
       "name": "A Light Without Flame",
       "url": "https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG"
@@ -35,7 +55,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 644571,
       "name": "Act of Love",
       "url": "https://open.spotify.com/track/3ihIZ7uA7uDa5dc4e8FqM5"
@@ -78,6 +98,46 @@
     },
     {
       "album": {
+        "name": "Transformation (Remixed)",
+        "url": "https://open.spotify.com/album/56vjMAIvFhwZV3Ka4h34j3"
+      },
+      "artists": [
+        {
+          "name": "Ljudv\u00e4gg",
+          "url": "https://open.spotify.com/artist/2bLckzJ86LxjFy2j7hnAQ8"
+        },
+        {
+          "name": "Elin Piel",
+          "url": "https://open.spotify.com/artist/3zVDpnuUhxYYCYyTccvdTY"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298392,
+      "name": "Artikulation - Elin Piel Remix",
+      "url": "https://open.spotify.com/track/3QbuqdMghj97htv9cGyB2h"
+    },
+    {
+      "album": {
+        "name": "132,480 minutes",
+        "url": "https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm"
+      },
+      "artists": [
+        {
+          "name": "58918012",
+          "url": "https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "August",
+      "url": "https://open.spotify.com/track/4GV7mCsJkARKN2hHSaDx5c"
+    },
+    {
+      "album": {
         "name": "La Deriva",
         "url": "https://open.spotify.com/album/6JPpLuPTyI0PoXDGFl9jiF"
       },
@@ -93,7 +153,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 344000,
       "name": "Ausencia, Desde\u0301n Y Fortuna",
       "url": "https://open.spotify.com/track/4hVW1idEQVLh9nuIrGjbso"
@@ -147,7 +207,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 426000,
       "name": "Blocks and Waves",
       "url": "https://open.spotify.com/track/5RdjssIk1wBSteGN2jY7CD"
@@ -285,7 +345,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 304000,
       "name": "Constructs of Still",
       "url": "https://open.spotify.com/track/0p4crmL5P8JdV6wvw5iwaZ"
@@ -303,7 +363,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 194004,
       "name": "Dark green",
       "url": "https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz"
@@ -329,6 +389,24 @@
       "duration_ms": 272223,
       "name": "Drift",
       "url": "https://open.spotify.com/track/3X6Fyt7NXiZ0TUA2bf4iVK"
+    },
+    {
+      "album": {
+        "name": "Angel Tears in Sunlight",
+        "url": "https://open.spotify.com/album/40tlrXYp2qd0ioGD92haRj"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370115,
+      "name": "Equatorial Sunrise",
+      "url": "https://open.spotify.com/track/0D0KOxwPkS2SniweX6eFCS"
     },
     {
       "album": {
@@ -401,7 +479,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 193809,
       "name": "Gamma Leonis",
       "url": "https://open.spotify.com/track/4uKBq6MPgytBK6jBTnGHri"
@@ -419,7 +497,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 292135,
       "name": "Heathland Haze",
       "url": "https://open.spotify.com/track/0JGXjFS1m5lJ8AECkKzB9K"
@@ -437,7 +515,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 294000,
       "name": "I've Got What I Need",
       "url": "https://open.spotify.com/track/5X7DeZgp2mRSkwc5tHrCNY"
@@ -491,7 +569,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 141320,
       "name": "Iso",
       "url": "https://open.spotify.com/track/37Cv4VL4oAfIKy9ERAQTOe"
@@ -599,7 +677,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 149666,
       "name": "Leopards, Pt. 3",
       "url": "https://open.spotify.com/track/3tzMmoxCeCSi0tPf51Js1T"
@@ -617,10 +695,46 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 181440,
       "name": "Light Bodied",
       "url": "https://open.spotify.com/track/1cz0kAvZ6lKUQHpzbcI8wF"
+    },
+    {
+      "album": {
+        "name": "Body Trip",
+        "url": "https://open.spotify.com/album/1M5s1L4EXnYhnatH8dTnDS"
+      },
+      "artists": [
+        {
+          "name": "H.Takahashi",
+          "url": "https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139688,
+      "name": "Limestone",
+      "url": "https://open.spotify.com/track/1FoWEgrDZnKJZXtCDr4FBq"
+    },
+    {
+      "album": {
+        "name": "Love Birds, Night Birds, Devil-Birds",
+        "url": "https://open.spotify.com/album/3JEIiy4nCsXBudx1QZevuC"
+      },
+      "artists": [
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266965,
+      "name": "Love Birds, Night Birds, Devil-Birds",
+      "url": "https://open.spotify.com/track/2eK9fQF84eSw3DqJ7LbPOQ"
     },
     {
       "album": {
@@ -635,7 +749,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 141162,
       "name": "Marigolds & Tulsi",
       "url": "https://open.spotify.com/track/5yV7ydd1DOpiyA5Yy0Dani"
@@ -697,7 +811,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 330062,
       "name": "Nunca",
       "url": "https://open.spotify.com/track/5vcONWuIIFxlWy8nnKrunw"
@@ -759,6 +873,24 @@
       "duration_ms": 190000,
       "name": "Parallel_arc",
       "url": "https://open.spotify.com/track/3lrOUF9BVkpakEZV7htTaB"
+    },
+    {
+      "album": {
+        "name": "Party Elsewhere",
+        "url": "https://open.spotify.com/album/4iSBjsdmj0sGVyNetoArnA"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Party Elsewhere",
+      "url": "https://open.spotify.com/track/3Yvp3sZXUQBxwzeO0I1D21"
     },
     {
       "album": {
@@ -827,7 +959,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 267906,
       "name": "Projection of Light on Water",
       "url": "https://open.spotify.com/track/0teq2AmpDF4kQXaVft015v"
@@ -849,6 +981,24 @@
       "duration_ms": 235000,
       "name": "Rose Water",
       "url": "https://open.spotify.com/track/4BsmOaKB7OqPEE9uzSVgXz"
+    },
+    {
+      "album": {
+        "name": "Eyes Like Angels",
+        "url": "https://open.spotify.com/album/3peNyjBArdVRwfMNCY5UOP"
+      },
+      "artists": [
+        {
+          "name": "Vanity Productions",
+          "url": "https://open.spotify.com/artist/05mBiI86tCefGxbtQZnnDI"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399000,
+      "name": "Ruby Lights",
+      "url": "https://open.spotify.com/track/6kOgyouykoatyTDUUHqkeb"
     },
     {
       "album": {
@@ -881,7 +1031,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 274800,
       "name": "Shadows (The Light of Light)",
       "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
@@ -1073,7 +1223,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 474125,
       "name": "Thaw",
       "url": "https://open.spotify.com/track/6B37IfOOUpVWjxYXkW5Fir"
@@ -1091,7 +1241,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 390720,
       "name": "The Unquestioned Answer",
       "url": "https://open.spotify.com/track/5ftgOffbWhT3hYtQXNEPou"
@@ -1181,7 +1331,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 320340,
       "name": "Under Isen (sunset ocean)",
       "url": "https://open.spotify.com/track/0clbuYStWIt4imZXUMwxGI"
@@ -1199,7 +1349,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 534413,
       "name": "Unthinking E, Pt. \u2162",
       "url": "https://open.spotify.com/track/7hHR8MjI9Epsx1bx5aW8iR"
@@ -1224,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517152,
+      "name": "Walking in a spiral towards the house: Side C",
+      "url": "https://open.spotify.com/track/6VAQq0NST9DpWDc7zretjm"
+    },
+    {
+      "album": {
         "name": "Waving",
         "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
       },
@@ -1235,7 +1403,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 245636,
       "name": "Waving",
       "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
@@ -1271,7 +1439,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 587508,
       "name": "Wealth",
       "url": "https://open.spotify.com/track/6DEVAhgo6OLAK8pdTFKBFo"
@@ -1307,7 +1475,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 291159,
       "name": "What a day II",
       "url": "https://open.spotify.com/track/4dreokc8vzhK9Uj4yVouyO"
@@ -1329,10 +1497,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 485333,
       "name": "You Never Really Knew Me",
       "url": "https://open.spotify.com/track/0kjXQ4EwuAdvyXoJuCsbbO"
+    },
+    {
+      "album": {
+        "name": "Honest Labour",
+        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
+      },
+      "artists": [
+        {
+          "name": "Space Afrika",
+          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330831,
+      "name": "yyyyyy2222",
+      "url": "https://open.spotify.com/track/6qNgUxNscSCV4Oqvo5Eo8T"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWpPDyGY7zGd"

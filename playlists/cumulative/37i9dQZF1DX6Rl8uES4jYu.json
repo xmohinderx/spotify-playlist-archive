@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 204000,
       "name": "Again",
       "url": "https://open.spotify.com/track/3TgQIP81Ha5lyDOLWemQ78"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 159629,
       "name": "All This Life",
       "url": "https://open.spotify.com/track/1hjcNJETMy5NYuQkRtsKpC"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 196038,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/0V46zmNoXDwkefMNQhR87Q"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 217618,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/1dBmN1VxLCgBEVnvE5NCGe"
@@ -998,6 +998,24 @@
     },
     {
       "album": {
+        "name": "Expensive Taste",
+        "url": "https://open.spotify.com/album/1JYJYA32IjG9AwW6jNvbae"
+      },
+      "artists": [
+        {
+          "name": "Kevin Holliday",
+          "url": "https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130714,
+      "name": "Expensive Taste",
+      "url": "https://open.spotify.com/track/2GZ7hpra0vcDNXLVQiJsMN"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/2pS27MgX6cEJZlbGSOjMbM"
       },
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 214933,
       "name": "Final Piece",
       "url": "https://open.spotify.com/track/5uTn8XYjxNe15vRIvid1Fl"
@@ -1419,7 +1437,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 231571,
       "name": "Happy Days",
       "url": "https://open.spotify.com/track/1u8BiP9APkwKjtVb9L1z50"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 155867,
       "name": "I Won't Do U Like That",
       "url": "https://open.spotify.com/track/7DKnkvTDOyFfKXCF8QY4we"
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 257020,
       "name": "Lights",
       "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 181330,
       "name": "Lost & Alive",
       "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 202528,
       "name": "Nobody Like You",
       "url": "https://open.spotify.com/track/5kX95xAwtGRyaUZ7tA8667"
@@ -2257,7 +2275,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 223873,
       "name": "Nostalgia (feat. Taura)",
       "url": "https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt"
@@ -2413,7 +2431,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 160096,
       "name": "Peach",
       "url": "https://open.spotify.com/track/0gM8QGo4unf0k2nSptufIz"
@@ -2489,7 +2507,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 152390,
       "name": "PINK FAMILY",
       "url": "https://open.spotify.com/track/0B2uxDcDlrhe2HU2vmdJST"
@@ -2751,7 +2769,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 169372,
       "name": "Serious",
       "url": "https://open.spotify.com/track/7lRTLHR5zOgZ9FPLJQWwd2"
@@ -3039,7 +3057,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 200064,
       "name": "Spin Around",
       "url": "https://open.spotify.com/track/1AIxRO2siLiccrD1nkQvjG"
@@ -3079,7 +3097,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 238444,
       "name": "Summertime Shine",
       "url": "https://open.spotify.com/track/2sc6ybY6Y6tbKw5TQ89TUu"
@@ -3191,7 +3209,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 282693,
       "name": "Telepathic Woman",
       "url": "https://open.spotify.com/track/1tb8XxJNsGXG79ynep6Fem"
@@ -3217,7 +3235,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 115954,
       "name": "Thank You Master (For My Soul)",
       "url": "https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx"
@@ -3297,7 +3315,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 203428,
       "name": "This Is Good",
       "url": "https://open.spotify.com/track/6K9FwSKOvILs2MrY8DaKsR"
@@ -3359,7 +3377,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 253500,
       "name": "Til' The End",
       "url": "https://open.spotify.com/track/637xhnFza81m9ZAXTOYFkI"
@@ -3377,7 +3395,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 261293,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7eKt06H4E9atyWYWmdo7x7"
@@ -3669,7 +3687,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 212065,
       "name": "Wild (Golden Child) - Japan Bonus Track",
       "url": "https://open.spotify.com/track/23XhwutrIEirC0lz1sAERf"
@@ -3709,7 +3727,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 191826,
       "name": "Woman (feat. Lianne La Havas)",
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"

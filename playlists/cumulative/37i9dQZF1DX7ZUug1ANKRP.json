@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Peak-time bangers and emerging future hits. Cover: Luude",
+  "description": "Peak-time bangers and emerging future hits. Cover: Max + Johann",
   "name": "Main Stage",
   "published_playlist_ids": [
     "4Sc3vClwMPjm8ROhpN4cCx"
@@ -49,7 +49,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 185348,
       "name": "All Good Things (Come To An End) - Nelly Furtado x Quarterhead",
       "url": "https://open.spotify.com/track/0cgwBauQ20B1nVedvGxUQs"
@@ -718,6 +718,28 @@
     },
     {
       "album": {
+        "name": "I Like U",
+        "url": "https://open.spotify.com/album/3iVzUUmc3UOehgORoRuXay"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        },
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152812,
+      "name": "I Like U",
+      "url": "https://open.spotify.com/track/0OukqYh1kgvROXX98hqsd1"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/6nCrDS9ApohnfQvXWHLSEu"
       },
@@ -1196,6 +1218,28 @@
     },
     {
       "album": {
+        "name": "Piece Of My Heart",
+        "url": "https://open.spotify.com/album/0vulF8iwEhbGEvguCuxQeK"
+      },
+      "artists": [
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        },
+        {
+          "name": "Chris Deelay",
+          "url": "https://open.spotify.com/artist/5tM2ADPVos6RHQgEYWvgs5"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Piece Of My Heart",
+      "url": "https://open.spotify.com/track/7c8xbrrTb3gSkfvM0fiS8B"
+    },
+    {
+      "album": {
         "name": "Planet In The Sky (feat. MKLA)",
         "url": "https://open.spotify.com/album/7iyZBOe2XNO7ZH7Q1fzttL"
       },
@@ -1369,7 +1413,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 165882,
       "name": "Squid Play",
       "url": "https://open.spotify.com/track/5zPFhnPNbdhhOLMTeqZT5C"
@@ -1453,7 +1497,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
@@ -1548,6 +1592,28 @@
     },
     {
       "album": {
+        "name": "The Parade",
+        "url": "https://open.spotify.com/album/6OV7KH6OamCkgFzgD7ijEa"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Da Hool",
+          "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158724,
+      "name": "The Parade",
+      "url": "https://open.spotify.com/track/0B3H6se7MYo3D7BmzfvdVN"
+    },
+    {
+      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/4053RHHeqwePbdghoqM1i9"
       },
@@ -1585,7 +1651,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
@@ -1685,6 +1751,24 @@
       "duration_ms": 175960,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/6GWRcf3yBx3Y7pSScXoxGk"
+    },
+    {
+      "album": {
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230945,
+      "name": "Won't Forget You - Edit",
+      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
     },
     {
       "album": {

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDIhtzn7T2e.md) - [plain]
 
 > Let these country tunes light up your day
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,366 likes - 62 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,438 likes - 62 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Roll Me Up](https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 3:25 |
 | 2 | [Whitehouse Road](https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 4:40 |
 | 3 | [Get High](https://open.spotify.com/track/6s4zZQXESbvdX2Nc5tOulD) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [12 Stories](https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz) | 3:31 |
-| 4 | [I Smoke Weed \(feat\. Ashland Craft & Brothers Osborne\)](https://open.spotify.com/track/6gSgXKY7p3KE8VlcipZeRX) | [HIXTAPE](https://open.spotify.com/artist/4SbuhLih8eWLmqFzzmM3AK), [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I Smoke Weed \(feat\. Ashland Craft & Brothers Osborne\)](https://open.spotify.com/album/5fUsjj8OrROaXvrfTEW2nd) | 4:19 |
+| 4 | [I Smoke Weed \(feat\. Ashland Craft & Brothers Osborne\)](https://open.spotify.com/track/6gSgXKY7p3KE8VlcipZeRX) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [I Smoke Weed \(feat\. Ashland Craft & Brothers Osborne\)](https://open.spotify.com/album/5fUsjj8OrROaXvrfTEW2nd) | 4:19 |
 | 5 | [Them Stems](https://open.spotify.com/track/6vcFHirl6xkhzNLgZZH6QN) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:00 |
 | 6 | [Smoke A Little Smoke](https://open.spotify.com/track/2uZhNjlUQ9mnt0rS7hcAgF) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/0QZc1pzqelwhdKftQQDdUw) | 3:11 |
 | 7 | [My Medicine](https://open.spotify.com/track/5BL4FPMaF1vmw65OV7yPnE) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Ego Trippin'](https://open.spotify.com/album/7HnpPsuzBgpkbZJm0GOMgC) | 2:39 |

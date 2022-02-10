@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: Theo Bleak",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Flo Perlin",
   "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "7p7eF0LcucA5cLFCS6Cqce"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 228798,
       "name": "5am in tokyo",
       "url": "https://open.spotify.com/track/6QUvXswOZGneJSqGnKSJCe"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 213281,
       "name": "Alabaster",
       "url": "https://open.spotify.com/track/4f3KrxEGZ3thdvUrK4uUP9"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 242567,
       "name": "all in",
       "url": "https://open.spotify.com/track/4PI8gpfr0AkhHyHRGpAnPj"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 207000,
       "name": "all my friends are taking drugs l",
       "url": "https://open.spotify.com/track/1V1haaV1wXjZuZvS8nrmod"
@@ -279,10 +279,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 250350,
       "name": "Better with the Devil",
       "url": "https://open.spotify.com/track/5QEnhFijS6JQmXd9DL3n5M"
+    },
+    {
+      "album": {
+        "name": "Bigger Than Anything Ever",
+        "url": "https://open.spotify.com/album/588h8kBL4MeG3M0vanSbAm"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180368,
+      "name": "Bigger Than Anything Ever",
+      "url": "https://open.spotify.com/track/7uXUsR8O6RFjPnjehfNyYO"
     },
     {
       "album": {
@@ -427,7 +445,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 231497,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/4orMLGF3QJlTh2YsSKZuzE"
@@ -578,6 +596,24 @@
     },
     {
       "album": {
+        "name": "Feel the Fall",
+        "url": "https://open.spotify.com/album/6lfGUaGqRxIzVVjBHYllZG"
+      },
+      "artists": [
+        {
+          "name": "Prince Li",
+          "url": "https://open.spotify.com/artist/7685zHQMctmEdcB1o8CYft"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185684,
+      "name": "Feel the Fall",
+      "url": "https://open.spotify.com/track/3QF7pzrx8XCACaLHYPuc4X"
+    },
+    {
+      "album": {
         "name": "Feels Like Rain",
         "url": "https://open.spotify.com/album/7dFmIDy8U1Wke5cmoUcMm2"
       },
@@ -629,7 +665,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 396875,
       "name": "For Friends",
       "url": "https://open.spotify.com/track/7KJTx0xHTJwA6kqyLV19E2"
@@ -850,6 +886,24 @@
     },
     {
       "album": {
+        "name": "Hit and Run",
+        "url": "https://open.spotify.com/album/0z6vuMM2IcZAL6lEEK7b0d"
+      },
+      "artists": [
+        {
+          "name": "Sophia Alexa",
+          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202530,
+      "name": "Hit and Run",
+      "url": "https://open.spotify.com/track/6WeQmowNd1q0jdfuzesWOs"
+    },
+    {
+      "album": {
         "name": "Honeymoon Suite",
         "url": "https://open.spotify.com/album/7MkA8uIJPWcheBcTliOus9"
       },
@@ -969,7 +1023,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 129185,
       "name": "i don't like u",
       "url": "https://open.spotify.com/track/5UMHVt7jQ0LfoWGO01fywI"
@@ -1030,6 +1084,24 @@
     },
     {
       "album": {
+        "name": "I'm not looking for a friend",
+        "url": "https://open.spotify.com/album/5g1uQ95l9mM4JhwxAhPoGb"
+      },
+      "artists": [
+        {
+          "name": "Beth Keeping",
+          "url": "https://open.spotify.com/artist/4Arf7HqBihxQlOs8wO49l5"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206617,
+      "name": "I'm not looking for a friend",
+      "url": "https://open.spotify.com/track/3Wc1E2zg5JYSKEPPpek6p2"
+    },
+    {
+      "album": {
         "name": "In my bed",
         "url": "https://open.spotify.com/album/0NLa2Sq7sJc5JL5Ozlk15H"
       },
@@ -1041,7 +1113,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 170657,
       "name": "In my bed",
       "url": "https://open.spotify.com/track/6DYoBEquvxExgjZqvwM2Zq"
@@ -1135,7 +1207,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 201072,
       "name": "June from the Endz",
       "url": "https://open.spotify.com/track/6wWlSedPEGz4HTCKnAevMW"
@@ -1259,6 +1331,24 @@
       "duration_ms": 161118,
       "name": "LONDON",
       "url": "https://open.spotify.com/track/2zpb7bOv9Y6wmaxuqXDpUI"
+    },
+    {
+      "album": {
+        "name": "Long Days",
+        "url": "https://open.spotify.com/album/2uguvB7fnrOes0kAaYbVMd"
+      },
+      "artists": [
+        {
+          "name": "Becky McNeice",
+          "url": "https://open.spotify.com/artist/7edFE4o8Du2u5kmW93EY5f"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173538,
+      "name": "Long Days",
+      "url": "https://open.spotify.com/track/7J6pGI2zEmSCKd1WjK1Mo6"
     },
     {
       "album": {
@@ -1472,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "Motorway",
+        "url": "https://open.spotify.com/album/38FpDWvVkbFy5HmvU6l0aB"
+      },
+      "artists": [
+        {
+          "name": "Ella McMurray",
+          "url": "https://open.spotify.com/artist/7KB4ARlXXhbOJN9BsLtaC0"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183720,
+      "name": "Motorway",
+      "url": "https://open.spotify.com/track/1QjDvTVd2tkhQSq83bXtWf"
+    },
+    {
+      "album": {
         "name": "Mountaineer",
         "url": "https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7"
       },
@@ -1634,6 +1742,32 @@
     },
     {
       "album": {
+        "name": "OBiNRiN",
+        "url": "https://open.spotify.com/album/2IKoeMAEUBOvnkLwx3h8v4"
+      },
+      "artists": [
+        {
+          "name": "DIVINEANGEL",
+          "url": "https://open.spotify.com/artist/2P2NByJDCB5VUHkKVVnOtX"
+        },
+        {
+          "name": "Angel Seka",
+          "url": "https://open.spotify.com/artist/3YqnEjLCU7wmiG51vnUlC0"
+        },
+        {
+          "name": "muva of Earth",
+          "url": "https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248863,
+      "name": "OBiNRiN",
+      "url": "https://open.spotify.com/track/34HdupoNXwiGPFthiBJ9mD"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
       },
@@ -1685,6 +1819,24 @@
       "duration_ms": 157840,
       "name": "PEACE",
       "url": "https://open.spotify.com/track/2JhvPbdeynxzLYRPtX5GH1"
+    },
+    {
+      "album": {
+        "name": "Peoples",
+        "url": "https://open.spotify.com/album/7AOIFPZ2gmoXXaS7kf4FU4"
+      },
+      "artists": [
+        {
+          "name": "Zapho",
+          "url": "https://open.spotify.com/artist/2RemWfvXDLB6GpxtDAMBnM"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204011,
+      "name": "Peoples",
+      "url": "https://open.spotify.com/track/7wvSZrs4lyHnHfjWiPNT90"
     },
     {
       "album": {
@@ -1872,6 +2024,24 @@
     },
     {
       "album": {
+        "name": "Sefton in the Summertime",
+        "url": "https://open.spotify.com/album/3fJaGz6Iqb5Yd8mPvfSCKz"
+      },
+      "artists": [
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178766,
+      "name": "Sefton in the Summertime",
+      "url": "https://open.spotify.com/track/0bz4B5C6ZtusODmKgRubhn"
+    },
+    {
+      "album": {
         "name": "She Gives U",
         "url": "https://open.spotify.com/album/0QYsPD9bqPwoIvQ5KdpFRf"
       },
@@ -1883,7 +2053,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 331957,
       "name": "She Gives U",
       "url": "https://open.spotify.com/track/4O0ZhoIxA7xovHZ9RSbI9E"
@@ -2009,7 +2179,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 193994,
       "name": "So Cool",
       "url": "https://open.spotify.com/track/2Ydl0tdL1G2mqVxCLNDsPa"
@@ -2075,6 +2245,46 @@
       "duration_ms": 174286,
       "name": "Starsigns",
       "url": "https://open.spotify.com/track/6FvONiMvj4TLK7EgOfNS7e"
+    },
+    {
+      "album": {
+        "name": "STERLING",
+        "url": "https://open.spotify.com/album/6ROOWIRVXERXpKkSs3OuKv"
+      },
+      "artists": [
+        {
+          "name": "Uzo",
+          "url": "https://open.spotify.com/artist/2wioxvHou7CnsOE63MAG1K"
+        },
+        {
+          "name": "CJ Run",
+          "url": "https://open.spotify.com/artist/17g2kHe1KbJjcO3VUDSwVl"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190750,
+      "name": "STERLING",
+      "url": "https://open.spotify.com/track/3iDOaf2y140vraQVpyIZOA"
+    },
+    {
+      "album": {
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/3SbHSVABDjfvJpgjbASwWW"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221789,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/4v1WZvjAic2aDNDfTklLZ8"
     },
     {
       "album": {
@@ -2351,6 +2561,28 @@
       "duration_ms": 279656,
       "name": "Wonderin'",
       "url": "https://open.spotify.com/track/3HenGKQ9HhXxhb8bH03DbD"
+    },
+    {
+      "album": {
+        "name": "Wondering What I Did To Lose You",
+        "url": "https://open.spotify.com/album/20N9WJu6hx0Rpn9KN1FKt6"
+      },
+      "artists": [
+        {
+          "name": "R.L. Beats",
+          "url": "https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO"
+        },
+        {
+          "name": "Rahmania Astrini",
+          "url": "https://open.spotify.com/artist/3WRbuoFaZ6HUGjZEQ12c3J"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "Wondering What I Did To Lose You",
+      "url": "https://open.spotify.com/track/5f75XPGWRZqKp6IDWdtzkS"
     },
     {
       "album": {

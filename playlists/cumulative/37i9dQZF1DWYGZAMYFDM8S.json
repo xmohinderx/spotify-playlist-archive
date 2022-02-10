@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 196758,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/3V78OHkbhsmOv13MbBRnxt"
@@ -464,6 +464,24 @@
     },
     {
       "album": {
+        "name": "Bloomsday",
+        "url": "https://open.spotify.com/album/2rfQho2fgiLBVquouCUbKy"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199146,
+      "name": "Bloomsday",
+      "url": "https://open.spotify.com/track/2kRPwBHZQTot91lTuElVmK"
+    },
+    {
+      "album": {
         "name": "Breathe Again (Acoustic)",
         "url": "https://open.spotify.com/album/22x38hY6zx2WhTpobtRVk1"
       },
@@ -511,7 +529,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
@@ -529,7 +547,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 203466,
       "name": "Bull Frogs Croon: i. Night Fishing",
       "url": "https://open.spotify.com/track/3XLWO3f18mpSJqAGMCyJnp"
@@ -645,7 +663,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 232066,
       "name": "Cherokee Rose",
       "url": "https://open.spotify.com/track/50FakcsMM8aCyRJuNu5PSW"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 251184,
       "name": "Fever to the Form",
       "url": "https://open.spotify.com/track/6OTthGcvrclj6XUs1JRN2J"
@@ -973,7 +991,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 254920,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/4c3zxAgmvnSHRqesr14tdZ"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 179000,
       "name": "Fresh Water in an Empty Vase",
       "url": "https://open.spotify.com/track/1tymDrjc0O0AzSo4gtAXT0"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 213720,
       "name": "howling",
       "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 220864,
       "name": "I Hope It Takes You Higher - Acoustic",
       "url": "https://open.spotify.com/track/71aHrUacV9bMtm1qCqJuwZ"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 180581,
       "name": "I-89 - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 185746,
       "name": "Love Brought Weight",
       "url": "https://open.spotify.com/track/1H56ffyFrFcvMEWUg3WFbM"
@@ -1669,6 +1687,24 @@
       "duration_ms": 238515,
       "name": "May",
       "url": "https://open.spotify.com/track/3kfXRPnEqfAEOeKKX4UszE"
+    },
+    {
+      "album": {
+        "name": "Mind on Fire",
+        "url": "https://open.spotify.com/album/1Ms5teyYCQM0bHa2aSKfod"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194320,
+      "name": "Mind on Fire",
+      "url": "https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C"
     },
     {
       "album": {
@@ -1719,7 +1755,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 191435,
       "name": "Moontalk",
       "url": "https://open.spotify.com/track/4IfJK8MICEM41IIlDcelG9"
@@ -1827,7 +1863,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 264407,
       "name": "My Dreams Have All Come True",
       "url": "https://open.spotify.com/track/2s1c8h4P4u1GxzNQFws648"
@@ -2486,6 +2522,24 @@
     },
     {
       "album": {
+        "name": "Matin\u00e9e",
+        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252640,
+      "name": "So Are We",
+      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
+    },
+    {
+      "album": {
         "name": "Sorrow (Acoustic)",
         "url": "https://open.spotify.com/album/3T70FnpPiuMgle8JKzpzJk"
       },
@@ -2973,7 +3027,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 234382,
       "name": "Winter",
       "url": "https://open.spotify.com/track/6lRFrEmU09wbl8rMKpgZB6"

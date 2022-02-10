@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 219000,
       "name": "A Rota do Indiv\u00edduo (Ferrugem)",
       "url": "https://open.spotify.com/track/3hnQvO7n6YYzWP03fc8pQf"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 182656,
       "name": "Capricorniana",
       "url": "https://open.spotify.com/track/7xTsr6XMJJVF2sQQeWWiHq"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 209645,
       "name": "Elo",
       "url": "https://open.spotify.com/track/0ieQVijx2su3EexZRxoriA"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 128856,
       "name": "Fim de Mundo",
       "url": "https://open.spotify.com/track/5hObX2Qx6de7otHwqkNM4G"
@@ -949,7 +949,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 210690,
       "name": "Isso Me Far\u00e1",
       "url": "https://open.spotify.com/track/4vNyFrftdxHk61euvwUpT1"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 224693,
       "name": "Juventude Transviada",
       "url": "https://open.spotify.com/track/2tbfaB6mHxcD4LVhII9DpW"
@@ -1019,7 +1019,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 149000,
       "name": "Ladainha",
       "url": "https://open.spotify.com/track/7LbvwlzPwrhsbm1es6oH3i"
@@ -1165,7 +1165,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 174002,
       "name": "Me Pega",
       "url": "https://open.spotify.com/track/39cxjz5pnD78uAMUWRNik8"
@@ -1405,7 +1405,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 243189,
       "name": "Paix\u00e3o",
       "url": "https://open.spotify.com/track/0a5h4bVwbVH2YbVuZ4pLM3"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 211477,
       "name": "Pode Amar",
       "url": "https://open.spotify.com/track/1ymxekSYIHAgO2Tg7CZeCT"
@@ -2179,7 +2179,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 221632,
       "name": "Toda Manh\u00e3",
       "url": "https://open.spotify.com/track/6lmSM41n29qLnp4dnawFSS"
@@ -2343,6 +2343,24 @@
       "duration_ms": 281120,
       "name": "Voc\u00ea Pra Sempre Em Mim",
       "url": "https://open.spotify.com/track/27Qv1EN4l1fNKpTweNdZ3O"
+    },
+    {
+      "album": {
+        "name": "Pra Gente Acordar",
+        "url": "https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156906,
+      "name": "Voltar \u00e0 Bahia",
+      "url": "https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr"
     },
     {
       "album": {

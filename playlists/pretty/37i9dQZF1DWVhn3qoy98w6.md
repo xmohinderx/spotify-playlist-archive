@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Mafalda
+> Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Tomás Roca
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,012 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,030 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [San Valentín \(debería dejarte\)](https://open.spotify.com/track/1rt4tTshiv7KAr8o4gwpSe) | [Secundaria](https://open.spotify.com/artist/2X9pSg6p44sB1cQYty192c) | [Sobre lo nuestro \(...\)](https://open.spotify.com/album/69ar6ut1QfplbvukyPCo5E) | 2:33 |
-| 2 | [Beso en un Portal](https://open.spotify.com/track/7LHI4Fiey9TgD9NB5SnkYK) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Beso en un Portal](https://open.spotify.com/album/7pBoVxQ2my7PNulvyK95Jz) | 3:14 |
-| 3 | [Cierra xfa al salir](https://open.spotify.com/track/6Wz1kOfguv8Pxf4FeXsGMG) | [Tomás Roca](https://open.spotify.com/artist/7tUu2H6RCutqIgP88lLLpw) | [Cierra xfa al salir](https://open.spotify.com/album/1rghrvsgzLiB10PMRFMBf7) | 3:14 |
+| 1 | [Cierra xfa al salir](https://open.spotify.com/track/6Wz1kOfguv8Pxf4FeXsGMG) | [Tomás Roca](https://open.spotify.com/artist/7tUu2H6RCutqIgP88lLLpw) | [Cierra xfa al salir](https://open.spotify.com/album/1rghrvsgzLiB10PMRFMBf7) | 3:14 |
+| 2 | [San Valentín \(debería dejarte\)](https://open.spotify.com/track/1rt4tTshiv7KAr8o4gwpSe) | [Secundaria](https://open.spotify.com/artist/2X9pSg6p44sB1cQYty192c) | [Sobre lo nuestro \(...\)](https://open.spotify.com/album/69ar6ut1QfplbvukyPCo5E) | 2:33 |
+| 3 | [Beso en un Portal](https://open.spotify.com/track/7LHI4Fiey9TgD9NB5SnkYK) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Beso en un Portal](https://open.spotify.com/album/7pBoVxQ2my7PNulvyK95Jz) | 3:14 |
 | 4 | [Van a tener que recordarnos](https://open.spotify.com/track/3fq5gcxx4xl5zVsTjpwo7v) | [llvna](https://open.spotify.com/artist/1xpz5Q84yJn1rd7cgO5iwN) | [Van a tener que recordarnos](https://open.spotify.com/album/6zQImnCX6tQB4xjkLN17Ev) | 2:35 |
 | 5 | [De carne y hueso](https://open.spotify.com/track/4aJuoy64V9hWhnATpYP9x1) | [Kilezzz](https://open.spotify.com/artist/6qlGEH78MyEuzM9qzleKHo), [Juanse](https://open.spotify.com/artist/4JZQm2SY7i4U8A4nDJI3tT) | [De carne y hueso](https://open.spotify.com/album/7H7ekFu6DwKgDAc7NmWR7e) | 2:33 |
 | 6 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Todo Sobra Menos Tú](https://open.spotify.com/track/0r8oay7wNxBSOJP9aUz48H) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Todo Sobra Menos Tú](https://open.spotify.com/album/6s0ANdQLcJOP6ztt4CIaLA) | 3:19 |
 | 50 | [ya no estás](https://open.spotify.com/track/4BRgQ57LIus0rNJ6g1RBbw) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [ya no estás](https://open.spotify.com/album/25jsaeYA5IUuyWPkeGVDDF) | 3:24 |
 
-Snapshot ID: `MTY0NDM2MTIwMCwwMDAwMDAzOTAwMDAwMTdlZGI5MGIxZjEwMDAwMDE3ZWI1MDAyMWM4`
+Snapshot ID: `MTY0NDQwMDUwOCwwMDAwMDAzYTAwMDAwMTdlZGRlODdjNmIwMDAwMDE3ZWRkZTgzMDcy`

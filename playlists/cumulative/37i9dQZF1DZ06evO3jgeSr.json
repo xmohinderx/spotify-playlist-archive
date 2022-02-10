@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 179960,
       "name": "Get to the Country",
       "url": "https://open.spotify.com/track/1HUCAIw6lVFNS17tTX1s9J"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 220199,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/7peWB3RK5kHtSCjHLoKTa1"
@@ -1103,7 +1103,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 262800,
       "name": "Staride to Nowhere",
       "url": "https://open.spotify.com/track/1R9zMVwsFqnKnuYZrnZob3"
@@ -1121,7 +1121,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 193186,
       "name": "Summer Is Coming",
       "url": "https://open.spotify.com/track/580oXJE0NpJqVusRiJcOt4"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 162400,
       "name": "Talkabout",
       "url": "https://open.spotify.com/track/2dGUGJmo9wSRB4vmgX61lb"
@@ -1269,6 +1269,24 @@
       "duration_ms": 85146,
       "name": "When I'm on My Own You Are on My Mind",
       "url": "https://open.spotify.com/track/3wiGdP73tq99dHMmeEE58i"
+    },
+    {
+      "album": {
+        "name": "So Strong",
+        "url": "https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131853,
+      "name": "When You're Lonely",
+      "url": "https://open.spotify.com/track/23Vhc0SDblDARyCo3CIOQC"
     },
     {
       "album": {

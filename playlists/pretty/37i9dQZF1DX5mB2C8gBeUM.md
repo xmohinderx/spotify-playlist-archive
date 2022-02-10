@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\.  Artist: Walker Hayes
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,584 likes - 139 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,628 likes - 139 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 6 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 |
 | 7 | [For the Rest of Our Lives](https://open.spotify.com/track/5WIYFeHtMq8zvln5C93bK8) | [Sam Outlaw](https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r) | [For the Rest of Our Lives](https://open.spotify.com/album/0t0nztX2U29thqhHC2Kasq) | 3:40 |
 | 8 | [We Did](https://open.spotify.com/track/2Fc13mlF3nMqeFm2MY5Pnz) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4ewGerVWPwgTWwD0m0NdNG) | 3:03 |
-| 9 | [One Of Y’all \(feat\. HARDY, Rhett Akins & The Cadillac Three\)](https://open.spotify.com/track/3dZVJDoJ5SDWQ9aVbJcmK3) | [HIXTAPE](https://open.spotify.com/artist/4SbuhLih8eWLmqFzzmM3AK), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [One Of Y’all \(feat\. HARDY, Rhett Akins & The Cadillac Three\)](https://open.spotify.com/album/25cMnMKe0DwR4i60VNJVhe) | 3:05 |
+| 9 | [One Of Y’all \(feat\. HARDY, Rhett Akins & The Cadillac Three\)](https://open.spotify.com/track/3dZVJDoJ5SDWQ9aVbJcmK3) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [One Of Y’all \(feat\. HARDY, Rhett Akins & The Cadillac Three\)](https://open.spotify.com/album/25cMnMKe0DwR4i60VNJVhe) | 3:05 |
 | 10 | [I'm The One](https://open.spotify.com/track/1oX0dEo74asYCL9sBVPec3) | [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [I'm The One](https://open.spotify.com/album/4qn0GauE7JcVX5WlzYv9UD) | 2:24 |
 | 11 | [She Ain't](https://open.spotify.com/track/6me4kri7ccTesxEQzRMRXa) | [Seth Alley](https://open.spotify.com/artist/03iUAGyJwZiIhAF6PcSoxt) | [She Ain't](https://open.spotify.com/album/2REjfGJcn53lxTZI2VlJpS) | 2:50 |
 | 12 | [Tequila Talkin'](https://open.spotify.com/track/3LjZIJQCRx5wh7yYOpYNFB) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q), [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 3:18 |

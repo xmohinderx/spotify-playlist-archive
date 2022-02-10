@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-08",
   "description": "Get immersed by the great depths of ambient and drone. ",
   "name": "Submerged",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1dMBiS1UblD3IgAlmZN7K3"
+  ],
   "tracks": [
     {
       "album": {
@@ -165,7 +167,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Band (pause)",
       "url": "https://open.spotify.com/track/6cUrqtrXOcmRfUhlkJ8RWx"
@@ -385,7 +387,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 363375,
       "name": "Echoes of the Past - Ambient Mix",
       "url": "https://open.spotify.com/track/73KkLb3vy6k6YV8myyxUJS"
@@ -403,7 +405,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 273101,
       "name": "Extraverted Sensing (Akasaka)",
       "url": "https://open.spotify.com/track/31OuoHeItUP2R3JMQxlQxD"
@@ -483,6 +485,24 @@
       "duration_ms": 416720,
       "name": "From Sky to Sea",
       "url": "https://open.spotify.com/track/0I6PkVKkHnS1WtAo53A13M"
+    },
+    {
+      "album": {
+        "name": "coast/range/arc//",
+        "url": "https://open.spotify.com/album/2aIBQ7UFrxGtMrPpmmZ6uE"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462786,
+      "name": "Fromme",
+      "url": "https://open.spotify.com/track/24BctB6JjJ4hwtpzUPkO3f"
     },
     {
       "album": {
@@ -659,7 +679,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 310946,
       "name": "In Some Brighter Sphere",
       "url": "https://open.spotify.com/track/2ytwLXKGmbbmsEpoaNnNlh"
@@ -713,7 +733,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 317047,
       "name": "Last Dream Before Sunrise",
       "url": "https://open.spotify.com/track/3jQe4AVg43Oh6byqoVUgjQ"
@@ -1013,7 +1033,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 185165,
       "name": "Quiet Sunset in Hurdal",
       "url": "https://open.spotify.com/track/6aVQ9twvxywwPUHq6CexDl"
@@ -1107,7 +1127,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 312710,
       "name": "Slowly Falling II",
       "url": "https://open.spotify.com/track/0VVkdE8HEpneAyVC9V2Tgv"
@@ -1287,10 +1307,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 220221,
       "name": "The Whale Chant",
       "url": "https://open.spotify.com/track/0TN6iDgvPhyVPzxKTveUrS"
+    },
+    {
+      "album": {
+        "name": "Unabled Form",
+        "url": "https://open.spotify.com/album/7D4A2BboC3hbBQvWUxoboa"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341606,
+      "name": "Tracking a Smile of Familiarity",
+      "url": "https://open.spotify.com/track/3Ti2kJvcydLVKtybDljwuc"
     },
     {
       "album": {
@@ -1341,7 +1379,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 229980,
       "name": "Undersea",
       "url": "https://open.spotify.com/track/0Jnos33PiyIouElIko3KnO"
@@ -1503,7 +1541,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 258491,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/540S77ItrhQjMYBCAd2Dld"

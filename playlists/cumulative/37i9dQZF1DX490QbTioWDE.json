@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 218826,
       "name": "200 Copas - En Vivo",
       "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 196970,
       "name": "A Cu\u00e1nto Me Qued\u00e9",
       "url": "https://open.spotify.com/track/6nSdCunUQiGAnSMbdvt5Mw"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-22",
+      "date_removed": null,
       "duration_ms": 303253,
       "name": "Beso a beso",
       "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 178816,
       "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 235920,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 204008,
       "name": "Dame el Aire",
       "url": "https://open.spotify.com/track/7kcvu6EbKIOD2VefjNKGGD"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 227866,
       "name": "Dame un Poco Mas",
       "url": "https://open.spotify.com/track/118nYRgA9iNCv5aiUO5B8K"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 239726,
       "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
       "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
@@ -927,10 +927,32 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 223440,
       "name": "En Mi Cama una Cualquiera",
       "url": "https://open.spotify.com/track/1NY5y5yyjZGqvdhffOeA1R"
+    },
+    {
+      "album": {
+        "name": "Enfrentados",
+        "url": "https://open.spotify.com/album/7F6CpxCSP813AHoBml1pGl"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Carli Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/5rGUuPEIFYMVmocNdihpUe"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204641,
+      "name": "Enfrentados",
+      "url": "https://open.spotify.com/track/4bp6aza2gUPrIKJzIXij3s"
     },
     {
       "album": {
@@ -945,7 +967,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 169496,
       "name": "Eran dos locos de amor",
       "url": "https://open.spotify.com/track/5ggd3IXmVD3GM7uHu81K4a"
@@ -963,7 +985,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-21",
+      "date_removed": null,
       "duration_ms": 200320,
       "name": "Eres Mia",
       "url": "https://open.spotify.com/track/45i9Tr7JfW4f9Et0o2UiqI"
@@ -981,7 +1003,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 270733,
       "name": "Eres \u00danica / Dile a Ella",
       "url": "https://open.spotify.com/track/161kF8hEUV037j8LsBZVH0"
@@ -1311,7 +1333,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 224453,
       "name": "La Caba\u00f1a",
       "url": "https://open.spotify.com/track/2cTKuxpHcPzDFRbbhE2WxP"
@@ -1437,7 +1459,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 344186,
       "name": "La mano de Dios (Homenaje a Diego Maradona)",
       "url": "https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G"
@@ -1521,7 +1543,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 223924,
       "name": "Lamento Borincano",
       "url": "https://open.spotify.com/track/07aYIkmsTxp1klYv7CeMSk"
@@ -1705,7 +1727,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 236920,
       "name": "Maldito Coche Negro",
       "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
@@ -1741,7 +1763,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 187245,
       "name": "Ma\u00f1ana Sin Vos",
       "url": "https://open.spotify.com/track/4QfmLUhVYZgykeLHBYLbVf"
@@ -1865,7 +1887,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 223179,
       "name": "Mi Cama Huele A Ti",
       "url": "https://open.spotify.com/track/0M8Fzjbx1Ia5zcd3MzIKVB"
@@ -2103,7 +2125,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 230546,
       "name": "Noche De Travesura",
       "url": "https://open.spotify.com/track/47YL75nTX9rVZ4gJT9Q8W7"
@@ -2281,7 +2303,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 212489,
       "name": "Pesadilla",
       "url": "https://open.spotify.com/track/5JoxSI5yd4eC2ODlhzIgA7"
@@ -2933,7 +2955,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 480888,
       "name": "Todo Me Recuerda a Ti / Despu\u00e9s de Ti / Dale Mami",
       "url": "https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB"
@@ -3161,7 +3183,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 319280,
       "name": "Vuela",
       "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
@@ -3215,7 +3237,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-31",
+      "date_removed": null,
       "duration_ms": 246360,
       "name": "Ya No Quiero",
       "url": "https://open.spotify.com/track/5ZRjSlIgKzTtjaLgyVZ1jY"

@@ -13570,6 +13570,24 @@
     },
     {
       "album": {
+        "name": "ANGER",
+        "url": "https://open.spotify.com/album/0q82a7Y4VGcqIr9QHzomuk"
+      },
+      "artists": [
+        {
+          "name": "ABOUT",
+          "url": "https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172973,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6VBDdGnghBwQVACafWAUlL"
+    },
+    {
+      "album": {
         "name": "Mouth Water",
         "url": "https://open.spotify.com/album/6B82NnRFxQ0f8ysCtkUTHG"
       },

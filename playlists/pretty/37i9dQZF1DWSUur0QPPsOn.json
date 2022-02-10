@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Tyreek Hill",
-  "num_followers": 174309,
+  "num_followers": 175229,
   "original_name": "Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDM2NzI1MSwwMDAwMDAwMGNlZTJjZDgxNGQ2OGUyZGVhNTJlYjRiNDNiMzc2Mzk1",
+  "snapshot_id": "MTY0NDQ1MzUzNywwMDAwMDAwMGU2NTIyOTNiYmJkNjYxOWQzZjkyZjRkNTMwYzk3ZTkz",
   "tracks": [
     {
       "added_at": "2022-02-01 17:00:00",
@@ -31,6 +31,22 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/6OgQ8QxV9rrdtmRmzGvwiT"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231253,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/7GQ8cwszA8HsUA6ohLoa3i"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
         "name": "Trip",
         "url": "https://open.spotify.com/album/30lroEyTjzx2KXJIbRy7fy"
       },
@@ -51,22 +67,6 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Public Displays Of Affection",
-        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs and Hrs",
-      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/5aDILeQNfZHqDBDyu0deCG"
       },
@@ -79,22 +79,6 @@
       "duration_ms": 167810,
       "name": "Can I",
       "url": "https://open.spotify.com/track/5za3gDk5z9B4RyrX58imRV"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/6OgQ8QxV9rrdtmRmzGvwiT"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231253,
-      "name": "Broken Clocks",
-      "url": "https://open.spotify.com/track/7GQ8cwszA8HsUA6ohLoa3i"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -123,22 +107,6 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/4fwXIXqROwOmKXgIMvNNIx"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/1nBiw8XS1pwa0e4Z7iPnDq"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
         "name": "Come Through (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/7MecLSsXvSmehhP3F7f3tt"
       },
@@ -159,18 +127,34 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "P*$$Y Fairy (OTW)",
-        "url": "https://open.spotify.com/album/2bIvAgJwl43N1jezIPraVn"
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 181860,
-      "name": "P*$$Y Fairy (OTW)",
-      "url": "https://open.spotify.com/track/60Ir2W9REDPNoHBoW33Zss"
+      "duration_ms": 204316,
+      "name": "Hrs and Hrs",
+      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/4fwXIXqROwOmKXgIMvNNIx"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/1nBiw8XS1pwa0e4Z7iPnDq"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -187,6 +171,42 @@
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
+        "name": "P*$$Y Fairy (OTW)",
+        "url": "https://open.spotify.com/album/2bIvAgJwl43N1jezIPraVn"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 181860,
+      "name": "P*$$Y Fairy (OTW)",
+      "url": "https://open.spotify.com/track/60Ir2W9REDPNoHBoW33Zss"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
+        "name": "Shea Butter Baby",
+        "url": "https://open.spotify.com/album/59a2mrYYr9YRqYVeZLZ0iT"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 211610,
+      "name": "Shea Butter Baby (with J. Cole)",
+      "url": "https://open.spotify.com/track/2bMtvPSfbateps4QUiufE1"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -223,26 +243,6 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Shea Butter Baby",
-        "url": "https://open.spotify.com/album/59a2mrYYr9YRqYVeZLZ0iT"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 211610,
-      "name": "Shea Butter Baby (with J. Cole)",
-      "url": "https://open.spotify.com/track/2bMtvPSfbateps4QUiufE1"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
@@ -255,6 +255,22 @@
       "duration_ms": 198370,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 255065,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -279,6 +295,22 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
+        "name": "Fortunate",
+        "url": "https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 301160,
+      "name": "Fortunate",
+      "url": "https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
         "name": "COOL RELAX",
         "url": "https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ"
       },
@@ -291,38 +323,6 @@
       "duration_ms": 274666,
       "name": "They Don't Know",
       "url": "https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
-        "name": "Naturally (Live in the Studio)",
-        "url": "https://open.spotify.com/album/3AdKQXtBtp6XdpH5GPrdPi"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 292057,
-      "name": "Naturally - Live in the Studio",
-      "url": "https://open.spotify.com/track/3qC8u94gRGtwXU2YL3kLlc"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Every Kind Of Way",
-      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -343,50 +343,66 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Tony! Toni! Tone'! Greatest Hits",
-        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
       },
       "artists": [
         {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 271200,
-      "name": "Anniversary",
-      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
+      "duration_ms": 160173,
+      "name": "Every Kind Of Way",
+      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
     },
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Anonymous Hit Pack",
-        "url": "https://open.spotify.com/album/6m2goRff2pztaBREbC3WTD"
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/51A2da4k1w6M34buA7fdIL"
       },
       "artists": [
         {
-          "name": "Bobby V.",
-          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
+          "name": "Saccway",
+          "url": "https://open.spotify.com/artist/1CGN9y2Bev23ydc1vVZAcm"
         }
       ],
-      "duration_ms": 258880,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/1BSmRSyHC1pSCnIdJb9MSs"
+      "duration_ms": 190257,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/1CYn5bTy3PWc6tyIwQtcpP"
     },
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
+        "name": "J.E. Heartbreak",
+        "url": "https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3"
       },
       "artists": [
         {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
         }
       ],
-      "duration_ms": 306093,
-      "name": "Meeting in My Bedroom",
-      "url": "https://open.spotify.com/track/3Ypnlj9KYSif4Elk7EeHgt"
+      "duration_ms": 244053,
+      "name": "He Can't Love U",
+      "url": "https://open.spotify.com/track/3VEZvzr84WVnoorZ4tlBSw"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
+        "name": "Naturally (Live in the Studio)",
+        "url": "https://open.spotify.com/album/3AdKQXtBtp6XdpH5GPrdPi"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 292057,
+      "name": "Naturally - Live in the Studio",
+      "url": "https://open.spotify.com/track/3qC8u94gRGtwXU2YL3kLlc"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -411,50 +427,34 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "J.E. Heartbreak",
-        "url": "https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3"
+        "name": "Anonymous Hit Pack",
+        "url": "https://open.spotify.com/album/6m2goRff2pztaBREbC3WTD"
       },
       "artists": [
         {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+          "name": "Bobby V.",
+          "url": "https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb"
         }
       ],
-      "duration_ms": 244053,
-      "name": "He Can't Love U",
-      "url": "https://open.spotify.com/track/3VEZvzr84WVnoorZ4tlBSw"
+      "duration_ms": 258880,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/1BSmRSyHC1pSCnIdJb9MSs"
     },
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
         }
       ],
-      "duration_ms": 255065,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
-        "name": "Sex, Love & Pain II",
-        "url": "https://open.spotify.com/album/2z2U8qAQFjxGfIGLHeaTn3"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Fuckin' wit Me",
-      "url": "https://open.spotify.com/track/2HUpyYh5ADVI7FrlVMP9HH"
+      "duration_ms": 253626,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -471,6 +471,38 @@
       "duration_ms": 281511,
       "name": "Permission",
       "url": "https://open.spotify.com/track/1ej4Flio1cr5bWDL7vkHlG"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
+      },
+      "artists": [
+        {
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
+        }
+      ],
+      "duration_ms": 306093,
+      "name": "Meeting in My Bedroom",
+      "url": "https://open.spotify.com/track/3Ypnlj9KYSif4Elk7EeHgt"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
+        "name": "Make It Last Forever",
+        "url": "https://open.spotify.com/album/1UwtBNOPmXRtdxPJAiNryN"
+      },
+      "artists": [
+        {
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        }
+      ],
+      "duration_ms": 317133,
+      "name": "Right and a Wrong Way",
+      "url": "https://open.spotify.com/track/6gTWAUYQMAQV3Cw2t5kWrx"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -495,22 +527,6 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Where I Wanna Be",
-        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Where I Wanna Be",
-      "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
         "name": "Jeremih",
         "url": "https://open.spotify.com/album/5CKAAsmFCdmKq4fTtNdmHc"
       },
@@ -523,6 +539,22 @@
       "duration_ms": 226506,
       "name": "Birthday Sex",
       "url": "https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
+        "name": "Sex, Love & Pain II",
+        "url": "https://open.spotify.com/album/2z2U8qAQFjxGfIGLHeaTn3"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Fuckin' wit Me",
+      "url": "https://open.spotify.com/track/2HUpyYh5ADVI7FrlVMP9HH"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -543,18 +575,18 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/51A2da4k1w6M34buA7fdIL"
+        "name": "Tony! Toni! Tone'! Greatest Hits",
+        "url": "https://open.spotify.com/album/1yoA6HcbdX23c4k0MXNq5g"
       },
       "artists": [
         {
-          "name": "Saccway",
-          "url": "https://open.spotify.com/artist/1CGN9y2Bev23ydc1vVZAcm"
+          "name": "Tony! Toni! Ton\u00e9!",
+          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 190257,
-      "name": "Elevate",
-      "url": "https://open.spotify.com/track/1CYn5bTy3PWc6tyIwQtcpP"
+      "duration_ms": 271200,
+      "name": "Anniversary",
+      "url": "https://open.spotify.com/track/6PViGgcsQhLPSkMxgoRWLl"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -575,50 +607,18 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Make It Last Forever",
-        "url": "https://open.spotify.com/album/1UwtBNOPmXRtdxPJAiNryN"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
       },
       "artists": [
         {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
         }
       ],
-      "duration_ms": 317133,
-      "name": "Right and a Wrong Way",
-      "url": "https://open.spotify.com/track/6gTWAUYQMAQV3Cw2t5kWrx"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
-        "name": "If I Ever Fall In Love",
-        "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
-      },
-      "artists": [
-        {
-          "name": "Shai",
-          "url": "https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "If I Ever Fall In Love",
-      "url": "https://open.spotify.com/track/1jCsCYgzQQHk3bDJDuFbNi"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 430800,
-      "name": "Untitled (How Does It Feel)",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
+      "duration_ms": 337466,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/5DwP705ZZWaTQ8olnVtD0b"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Hard",
-        "url": "https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl"
+        "name": "If I Ever Fall In Love",
+        "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
       },
       "artists": [
         {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+          "name": "Shai",
+          "url": "https://open.spotify.com/artist/72y3ZI95ctkQC2O4mjBaU3"
         }
       ],
-      "duration_ms": 270880,
-      "name": "Walked Outta Heaven",
-      "url": "https://open.spotify.com/track/06ZDLodo1UDVavc3MXREZ3"
+      "duration_ms": 189026,
+      "name": "If I Ever Fall In Love",
+      "url": "https://open.spotify.com/track/1jCsCYgzQQHk3bDJDuFbNi"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -671,38 +671,6 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/0mqGFxOIb7nOwVkXTx1wsk"
-      },
-      "artists": [
-        {
-          "name": "Silk",
-          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
-        }
-      ],
-      "duration_ms": 337466,
-      "name": "If You",
-      "url": "https://open.spotify.com/track/5DwP705ZZWaTQ8olnVtD0b"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
-        "name": "Open Letter",
-        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
-      },
-      "artists": [
-        {
-          "name": "Case",
-          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
         "name": "Still Ghetto",
         "url": "https://open.spotify.com/album/65VxTGpDPYJJ73hRoxlIij"
       },
@@ -715,38 +683,6 @@
       "duration_ms": 245733,
       "name": "Put That Woman First",
       "url": "https://open.spotify.com/track/14mYQm3y6GMmfylkL1DsFg"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2qp79t3GkxRfsgsL8uBkt1"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "In Those Jeans - Radio Edit",
-      "url": "https://open.spotify.com/track/0obh6DwCYrVQWrt9nBoYeP"
-    },
-    {
-      "added_at": "2022-02-01 17:00:00",
-      "album": {
-        "name": "Make It Last Forever",
-        "url": "https://open.spotify.com/album/1UwtBNOPmXRtdxPJAiNryN"
-      },
-      "artists": [
-        {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
-        }
-      ],
-      "duration_ms": 290800,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/0KgbwF3wEBvPWPwwTLo9iR"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -767,18 +703,66 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Ready (Deluxe)",
-        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+        "name": "Tyrese",
+        "url": "https://open.spotify.com/album/1srJ4xgMWliQdwquG81ObA"
       },
       "artists": [
         {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
         }
       ],
-      "duration_ms": 186306,
-      "name": "Neighbors Know My Name",
-      "url": "https://open.spotify.com/track/6jvvpPJQJy5rMOEkLlADl6"
+      "duration_ms": 290600,
+      "name": "Sweet Lady",
+      "url": "https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
+        "name": "Open Letter",
+        "url": "https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL"
+      },
+      "artists": [
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "duration_ms": 284666,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
+        "name": "Make It Last Forever",
+        "url": "https://open.spotify.com/album/1UwtBNOPmXRtdxPJAiNryN"
+      },
+      "artists": [
+        {
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        }
+      ],
+      "duration_ms": 290800,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/0KgbwF3wEBvPWPwwTLo9iR"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
+        "name": "Hard",
+        "url": "https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 270880,
+      "name": "Walked Outta Heaven",
+      "url": "https://open.spotify.com/track/06ZDLodo1UDVavc3MXREZ3"
     },
     {
       "added_at": "2022-02-01 17:00:00",
@@ -799,6 +783,22 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 430800,
+      "name": "Untitled (How Does It Feel)",
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
+    },
+    {
+      "added_at": "2022-02-01 17:00:00",
+      "album": {
         "name": "Never Too Much",
         "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
       },
@@ -815,34 +815,34 @@
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/4ol8aChmHBMIL85LzG10ja"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2qp79t3GkxRfsgsL8uBkt1"
       },
       "artists": [
         {
-          "name": "Rome",
-          "url": "https://open.spotify.com/artist/6KcJMeHZr0A6XHwAwlmfef"
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
         }
       ],
-      "duration_ms": 273266,
-      "name": "I Belong To You (Every Time I See Your Face)",
-      "url": "https://open.spotify.com/track/1nP6feYWJVpbO41aezFtm2"
+      "duration_ms": 243106,
+      "name": "In Those Jeans - Radio Edit",
+      "url": "https://open.spotify.com/track/0obh6DwCYrVQWrt9nBoYeP"
     },
     {
       "added_at": "2022-02-01 17:00:00",
       "album": {
-        "name": "Enter The Dru",
-        "url": "https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE"
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
       },
       "artists": [
         {
-          "name": "Dru Hill",
-          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
         }
       ],
-      "duration_ms": 248400,
-      "name": "These Are The Times",
-      "url": "https://open.spotify.com/track/0OMmiWMwsCNtpQ5aP6fdp9"
+      "duration_ms": 186306,
+      "name": "Neighbors Know My Name",
+      "url": "https://open.spotify.com/track/6jvvpPJQJy5rMOEkLlADl6"
     }
   ],
   "unique_name": "Taste",

@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
-> Gazo & Ninho au top de la première playlist de rap français !
+> Ninho au top de la première playlist de rap français !
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

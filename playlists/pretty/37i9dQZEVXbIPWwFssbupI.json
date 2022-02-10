@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - France.",
-  "num_followers": 785226,
+  "num_followers": 785354,
   "original_name": "Top 50 - France",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk3NjMxNDYzLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk3NzIxMTk0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Anunnaki",
+      "url": "https://open.spotify.com/track/6Emw7N6BUeyLQOB9E4GeMn"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
@@ -45,23 +61,7 @@
       "url": "https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
-      },
-      "artists": [
-        {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Anunnaki",
-      "url": "https://open.spotify.com/track/6Emw7N6BUeyLQOB9E4GeMn"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
@@ -97,55 +113,7 @@
       "url": "https://open.spotify.com/track/6MHeQfndkEfQvEoHOpkjgl"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
-      },
-      "artists": [
-        {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Papoose",
-      "url": "https://open.spotify.com/track/1QOPXog7uc6nIRuIdIGsdk"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
-      },
-      "artists": [
-        {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "La faux le fer",
-      "url": "https://open.spotify.com/track/3ntXOAGhqRRjRbGF5Jtbuf"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
-      },
-      "artists": [
-        {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        }
-      ],
-      "duration_ms": 154293,
-      "name": "Pand\u00e9mie",
-      "url": "https://open.spotify.com/track/5FHewCm87pZHevn3wc1zDp"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Nonante-Cinq",
         "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
@@ -165,23 +133,7 @@
       "url": "https://open.spotify.com/track/3gAEAmxdP1GIjgQ3Zud2mE"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Best Life",
         "url": "https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc"
@@ -201,55 +153,7 @@
       "url": "https://open.spotify.com/track/46vfSYsDJZaNQcD4YvT8GD"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
-      },
-      "artists": [
-        {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "Regarde toi",
-      "url": "https://open.spotify.com/track/3fd1m0WrUUkntWM2EnLS2Y"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
-      },
-      "artists": [
-        {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        }
-      ],
-      "duration_ms": 164946,
-      "name": "Sur un nouvel album",
-      "url": "https://open.spotify.com/track/7gaXVyPaSqUwIcLPTrnHLm"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
-      },
-      "artists": [
-        {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Un mot",
-      "url": "https://open.spotify.com/track/2OtS79y1U6ZbuHkP4AzFs0"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Cartel : volume 1 & 2",
         "url": "https://open.spotify.com/album/5YPvyAo9EUi0gIv8oEprFc"
@@ -269,7 +173,7 @@
       "url": "https://open.spotify.com/track/1cgRpYVOkYnxomkDpYLyba"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Civilisation",
         "url": "https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur"
@@ -285,7 +189,7 @@
       "url": "https://open.spotify.com/track/6VOUfCrjmxH62oijWgbC6O"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
@@ -296,12 +200,12 @@
           "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
         }
       ],
-      "duration_ms": 149480,
-      "name": "Rappeur conscient",
-      "url": "https://open.spotify.com/track/5UgxIxOJKTSW3MEsyHg64S"
+      "duration_ms": 195760,
+      "name": "Papoose",
+      "url": "https://open.spotify.com/track/1QOPXog7uc6nIRuIdIGsdk"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
@@ -310,18 +214,30 @@
         {
           "name": "Vald",
           "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        },
-        {
-          "name": "Suikon Blaz AD",
-          "url": "https://open.spotify.com/artist/7kFoHyLeI8IWSoKZ8uIeY1"
         }
       ],
-      "duration_ms": 192520,
-      "name": "Happy End (feat. Suikon Blaz AD)",
-      "url": "https://open.spotify.com/track/6xwhUh69b89aLTeYR2HH8r"
+      "duration_ms": 146680,
+      "name": "La faux le fer",
+      "url": "https://open.spotify.com/track/3ntXOAGhqRRjRbGF5Jtbuf"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "duration_ms": 154293,
+      "name": "Pand\u00e9mie",
+      "url": "https://open.spotify.com/track/5FHewCm87pZHevn3wc1zDp"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -349,7 +265,7 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
@@ -360,12 +276,12 @@
           "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
         }
       ],
-      "duration_ms": 183600,
-      "name": "Je ressens rien",
-      "url": "https://open.spotify.com/track/1UyBDxF6P4WLJphGiF9djD"
+      "duration_ms": 205293,
+      "name": "Regarde toi",
+      "url": "https://open.spotify.com/track/3fd1m0WrUUkntWM2EnLS2Y"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
@@ -376,28 +292,12 @@
           "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
         }
       ],
-      "duration_ms": 173893,
-      "name": "Laisse tomber",
-      "url": "https://open.spotify.com/track/258QqB2zhweDE2ZLEtT1GU"
+      "duration_ms": 164946,
+      "name": "Sur un nouvel album",
+      "url": "https://open.spotify.com/track/7gaXVyPaSqUwIcLPTrnHLm"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
-      },
-      "artists": [
-        {
-          "name": "Vald",
-          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "Bien s\u00fbr - Bonus",
-      "url": "https://open.spotify.com/track/3F4ujQNrH5qbEA8cAzxYUR"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Akimbo",
         "url": "https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq"
@@ -413,7 +313,7 @@
       "url": "https://open.spotify.com/track/0Kvkx0NcqsdYOhQzYfDuDZ"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "L\u2019enfer",
         "url": "https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM"
@@ -429,7 +329,7 @@
       "url": "https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
@@ -440,12 +340,28 @@
           "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
         }
       ],
-      "duration_ms": 186306,
-      "name": "Pas deux fois",
-      "url": "https://open.spotify.com/track/6WvcAaUJZNxku2ZiOWHVHT"
+      "duration_ms": 216680,
+      "name": "Un mot",
+      "url": "https://open.spotify.com/track/2OtS79y1U6ZbuHkP4AzFs0"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "duration_ms": 149480,
+      "name": "Rappeur conscient",
+      "url": "https://open.spotify.com/track/5UgxIxOJKTSW3MEsyHg64S"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -461,7 +377,27 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "name": "Suikon Blaz AD",
+          "url": "https://open.spotify.com/artist/7kFoHyLeI8IWSoKZ8uIeY1"
+        }
+      ],
+      "duration_ms": 192520,
+      "name": "Happy End (feat. Suikon Blaz AD)",
+      "url": "https://open.spotify.com/track/6xwhUh69b89aLTeYR2HH8r"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "ARR\u00caTEZ-LE ! (Vol.2)",
         "url": "https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy"
@@ -477,7 +413,7 @@
       "url": "https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
@@ -493,7 +429,7 @@
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -509,27 +445,39 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
-        "name": "LA FAMA (with The Weeknd)",
-        "url": "https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU"
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
         }
       ],
-      "duration_ms": 188102,
-      "name": "LA FAMA (with The Weeknd)",
-      "url": "https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK"
+      "duration_ms": 183600,
+      "name": "Je ressens rien",
+      "url": "https://open.spotify.com/track/1UyBDxF6P4WLJphGiF9djD"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "Laisse tomber",
+      "url": "https://open.spotify.com/track/258QqB2zhweDE2ZLEtT1GU"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -549,7 +497,27 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "LA FAMA (with The Weeknd)",
+        "url": "https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188102,
+      "name": "LA FAMA (with The Weeknd)",
+      "url": "https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
@@ -560,12 +528,12 @@
           "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
         }
       ],
-      "duration_ms": 167973,
-      "name": "Qui \u00e9coute ?",
-      "url": "https://open.spotify.com/track/3jTpDWRLWpaDSxdBDJnXaL"
+      "duration_ms": 167360,
+      "name": "Bien s\u00fbr - Bonus",
+      "url": "https://open.spotify.com/track/3F4ujQNrH5qbEA8cAzxYUR"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
@@ -589,75 +557,7 @@
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "Enna Boost",
-        "url": "https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        },
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Attentat",
-      "url": "https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "Ind\u00e9pendance",
-        "url": "https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP"
-      },
-      "artists": [
-        {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
-        }
-      ],
-      "duration_ms": 241093,
-      "name": "La miss",
-      "url": "https://open.spotify.com/track/6RXHipTclQenO0vKFeGZYi"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "No crari",
-        "url": "https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5"
-      },
-      "artists": [
-        {
-          "name": "OBOY",
-          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
-        }
-      ],
-      "duration_ms": 154280,
-      "name": "TDB",
-      "url": "https://open.spotify.com/track/5YoDQgB4j7oBHWXH3DcwFD"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "Les mains faites pour l'or",
-        "url": "https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM"
-      },
-      "artists": [
-        {
-          "name": "Naps",
-          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
-        }
-      ],
-      "duration_ms": 179426,
-      "name": "La kiffance",
-      "url": "https://open.spotify.com/track/1bwhDrXcAtqePp8mNJ0pTe"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -681,27 +581,75 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+        "name": "Enna Boost",
+        "url": "https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+      "duration_ms": 194266,
+      "name": "Attentat",
+      "url": "https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "No crari",
+        "url": "https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5"
+      },
+      "artists": [
+        {
+          "name": "OBOY",
+          "url": "https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ"
+        }
+      ],
+      "duration_ms": 154280,
+      "name": "TDB",
+      "url": "https://open.spotify.com/track/5YoDQgB4j7oBHWXH3DcwFD"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "Ind\u00e9pendance",
+        "url": "https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 241093,
+      "name": "La miss",
+      "url": "https://open.spotify.com/track/6RXHipTclQenO0vKFeGZYi"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "Les mains faites pour l'or",
+        "url": "https://open.spotify.com/album/3mLAiqAlaOd5KaVOLJLtYM"
+      },
+      "artists": [
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        }
+      ],
+      "duration_ms": 179426,
+      "name": "La kiffance",
+      "url": "https://open.spotify.com/track/1bwhDrXcAtqePp8mNJ0pTe"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Le classico organis\u00e9",
         "url": "https://open.spotify.com/album/5Qiln6hgo90OKyf9x0ci4y"
@@ -753,7 +701,43 @@
       "url": "https://open.spotify.com/track/2O9enJqAqs46tfBlGhLsnW"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Pas deux fois",
+      "url": "https://open.spotify.com/track/6WvcAaUJZNxku2ZiOWHVHT"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Toujours nous-m\u00eames",
         "url": "https://open.spotify.com/album/3LYMEkvKNcITfGChENpSbP"
@@ -773,7 +757,7 @@
       "url": "https://open.spotify.com/track/6CyIkPh5mRkJg7T5xXynQ8"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Emiliana",
         "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
@@ -789,23 +773,7 @@
       "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
@@ -821,7 +789,7 @@
       "url": "https://open.spotify.com/track/1O1EqgvgRyj1ejZPUxI0UX"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
@@ -841,7 +809,23 @@
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -861,39 +845,7 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "Civilisation",
-        "url": "https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur"
-      },
-      "artists": [
-        {
-          "name": "Orelsan",
-          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "La Qu\u00eate",
-      "url": "https://open.spotify.com/track/0w6lsLBvhtGcqMYA7MB7r6"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
-      "album": {
-        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
-        "url": "https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "D O D O",
-      "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
-    },
-    {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "MAUVAIS 2X (feat. Ninho)",
         "url": "https://open.spotify.com/album/1VzvY3LElVy2aPEph6Tsch"
@@ -913,7 +865,39 @@
       "url": "https://open.spotify.com/track/6UlSVbJrj3wsyxjGM4KPAv"
     },
     {
-      "added_at": "2022-02-08 10:31:03",
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "Civilisation",
+        "url": "https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur"
+      },
+      "artists": [
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "La Qu\u00eate",
+      "url": "https://open.spotify.com/track/0w6lsLBvhtGcqMYA7MB7r6"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
+        "url": "https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "D O D O",
+      "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
       "album": {
         "name": "Pays des merveilles",
         "url": "https://open.spotify.com/album/7B1NFmx9uu3VbOvGBAiUCe"
@@ -927,6 +911,22 @@
       "duration_ms": 163977,
       "name": "Clic clic pan pan",
       "url": "https://open.spotify.com/track/6aZPMuJetqwKQCPClCNgd3"
+    },
+    {
+      "added_at": "2022-02-09 11:26:34",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Qui \u00e9coute ?",
+      "url": "https://open.spotify.com/track/3jTpDWRLWpaDSxdBDJnXaL"
     }
   ],
   "unique_name": "Top 50 - France",

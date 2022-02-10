@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Liam Gallagher
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,613 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,856 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 31 | [Kicking and Screaming](https://open.spotify.com/track/53FesPUnDYQddZIrJv4e4f) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Kicking and Screaming](https://open.spotify.com/album/2LFPpRDmWtrCEGX8vVtIv3) | 3:05 |
 | 32 | [Mannequin Man](https://open.spotify.com/track/3TLmInnvL9NKCvKYLMvxpx) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Mannequin Man](https://open.spotify.com/album/66SfEAJkuQIKC9FUVYN4bh) | 2:33 |
 | 33 | [Circles](https://open.spotify.com/track/2SNkdHWUc0zcvBcJKiX0a5) | [HRTLSS](https://open.spotify.com/artist/3weTDlYKpF9A55JH0XAKkD) | [Circles](https://open.spotify.com/album/3vZQKx7j76M7OgJqwV9iGG) | 3:09 |
-| 34 | [IDK](https://open.spotify.com/track/5VvkhvfjgKPsFejLIXbK3U) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [IDK](https://open.spotify.com/album/7uWOvSJmV62K9VZkHXWyaE) | 2:59 |
+| 34 | [Idk](https://open.spotify.com/track/5VvkhvfjgKPsFejLIXbK3U) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [IDK](https://open.spotify.com/album/7uWOvSJmV62K9VZkHXWyaE) | 2:59 |
 | 35 | [Digital Atlas](https://open.spotify.com/track/4DweoPyHETeUjbkUDwHlnl) | [Daisy Brain](https://open.spotify.com/artist/5WuDKeWph4EKsyy9e56Mz4) | [Digital Atlas](https://open.spotify.com/album/3pPp2gMM0o5BK92geIkWa8) | 3:02 |
 | 36 | [Die on the West Coast](https://open.spotify.com/track/7eSmAnQITAQTmoy2blazii) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [A Dream About Death](https://open.spotify.com/album/3IlUTUy6zU75un9lSN78dw) | 3:50 |
 | 37 | [Carry Me Home](https://open.spotify.com/track/3LQZgFdfJoo9b8p74Ai9L9) | [Moon Tooth](https://open.spotify.com/artist/7ssGZO3qDsbwCaBOBcQ4aA) | [Carry Me Home](https://open.spotify.com/album/0nFga4aSrhFbWWPmVX4UQM) | 3:45 |

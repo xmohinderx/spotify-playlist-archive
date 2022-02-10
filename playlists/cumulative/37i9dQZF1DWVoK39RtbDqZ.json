@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-08",
   "description": "Environmental compositions bringing together the worlds of field recording and music.",
   "name": "Ecoscapes",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0xsMMzwYOUr2gs3GDxPl7y"
+  ],
   "tracks": [
     {
       "album": {
@@ -35,10 +37,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "396hz light mist",
       "url": "https://open.spotify.com/track/6YhTEllekuI3Y7VZKGnkOB"
+    },
+    {
+      "album": {
+        "name": "Ett",
+        "url": "https://open.spotify.com/album/4L0fc2YXgT11MYf45xEZm3"
+      },
+      "artists": [
+        {
+          "name": "Klara Lewis",
+          "url": "https://open.spotify.com/artist/0kyeczWICSebymos0FqJvt"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334317,
+      "name": "49th Hour",
+      "url": "https://open.spotify.com/track/7lCjUjCwCYbxXpPsC9lxI5"
     },
     {
       "album": {
@@ -162,6 +182,24 @@
     },
     {
       "album": {
+        "name": "Eldfjall",
+        "url": "https://open.spotify.com/album/3oD5K3HfJeOQCyovHPjpyO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Kirkegaard",
+          "url": "https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372480,
+      "name": "Ala",
+      "url": "https://open.spotify.com/track/0IAnW8ATjqA9UxwrQszqQx"
+    },
+    {
+      "album": {
         "name": "Anomi",
         "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
       },
@@ -253,7 +291,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 472026,
       "name": "Atmosphere for Dreaming",
       "url": "https://open.spotify.com/track/7roEb0sCAwzhJ1S0lTXd8z"
@@ -271,10 +309,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 227076,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/3jlM4fIFPWUUTquxmMSeiq"
+    },
+    {
+      "album": {
+        "name": "woodland dance",
+        "url": "https://open.spotify.com/album/1lU0UMYU1b0mi2I5F4Ccz1"
+      },
+      "artists": [
+        {
+          "name": "Oxhy",
+          "url": "https://open.spotify.com/artist/6Vrx4NO23zUu57fTnqx19L"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73625,
+      "name": "balcony",
+      "url": "https://open.spotify.com/track/1OSG76fUDfmw7oAUfHJvgH"
     },
     {
       "album": {
@@ -311,7 +367,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 417500,
       "name": "Bild",
       "url": "https://open.spotify.com/track/0Z0mHN5Ry5FErGDm5DquPL"
@@ -347,7 +403,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 378949,
       "name": "Buoyant",
       "url": "https://open.spotify.com/track/66ttOFgIX7bZTk6wCxzyjB"
@@ -373,7 +429,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 222720,
       "name": "BYOS Bring Your Own Sounds: Industrial Blues",
       "url": "https://open.spotify.com/track/40QcLhYeWYqlIyj3EY2rx9"
@@ -447,7 +503,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 283266,
       "name": "Cave - JIJU Remix",
       "url": "https://open.spotify.com/track/2hCXTTMGC6DwcbBCtk8CBe"
@@ -465,7 +521,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 159178,
       "name": "Chatter",
       "url": "https://open.spotify.com/track/5kjkUAVkyb5xsGQtidawte"
@@ -483,7 +539,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 237349,
       "name": "Cityscape",
       "url": "https://open.spotify.com/track/0DVIhUCMKhwvZ16OL8rc1Z"
@@ -531,7 +587,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 345096,
       "name": "Concrete Dreams",
       "url": "https://open.spotify.com/track/4vPyghta166Xj8qQuTMLzR"
@@ -625,7 +681,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 246885,
       "name": "Doe",
       "url": "https://open.spotify.com/track/32uNotHejWWLwk06MXs3HV"
@@ -661,7 +717,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 334000,
       "name": "El Divisadero",
       "url": "https://open.spotify.com/track/2oDQvYpRAq2kwPXZJFeWsT"
@@ -853,7 +909,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 255928,
       "name": "HUO / \u60d1",
       "url": "https://open.spotify.com/track/57Ks9Tp1OGEWBaaFw8ssap"
@@ -915,6 +971,24 @@
       "duration_ms": 270586,
       "name": "Kernel Expansion Part I",
       "url": "https://open.spotify.com/track/60nac1u1RN2ycCOmJqEfkY"
+    },
+    {
+      "album": {
+        "name": "Field Recordings From The Zone",
+        "url": "https://open.spotify.com/album/1eu4cEYADvr9xiYqXNgthq"
+      },
+      "artists": [
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Know Your Exit",
+      "url": "https://open.spotify.com/track/1XLcsM1MtF6TNN1qwGd8XJ"
     },
     {
       "album": {
@@ -1001,7 +1075,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 243715,
       "name": "M49",
       "url": "https://open.spotify.com/track/2RfNDjeTtnmW8x2tGiu8Qi"
@@ -1095,7 +1169,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 301121,
       "name": "Midnight Shore",
       "url": "https://open.spotify.com/track/3cgHnmPHsZJ8EJ1rw3KRND"
@@ -1131,10 +1205,28 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 173782,
       "name": "Nakht",
       "url": "https://open.spotify.com/track/2S7UHCqCu9CUbkjCYH2xEh"
+    },
+    {
+      "album": {
+        "name": "Ngarwul",
+        "url": "https://open.spotify.com/album/2fGg1HN2IXTlNG0iPnnOUm"
+      },
+      "artists": [
+        {
+          "name": "Allara",
+          "url": "https://open.spotify.com/artist/2SOHs50n32zI2YXcZTVeov"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 788125,
+      "name": "Ngarwul",
+      "url": "https://open.spotify.com/track/79Bhs3poNiFTiyqaZzk31g"
     },
     {
       "album": {
@@ -1621,7 +1713,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 252000,
       "name": "The Child Within - Astropilot's Ambient Remix",
       "url": "https://open.spotify.com/track/03h8PM17Ci304tysgxswUz"
@@ -1657,7 +1749,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 321968,
       "name": "The Only Way Out Is In",
       "url": "https://open.spotify.com/track/4uiRX9a6IAIW7ttCnEx1jw"
@@ -1675,7 +1767,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 386370,
       "name": "The Raw and The Cooked (II)",
       "url": "https://open.spotify.com/track/5igaZJ63P6DfjrVpP1dXI6"

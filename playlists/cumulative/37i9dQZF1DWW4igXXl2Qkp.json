@@ -99,7 +99,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 157675,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 240731,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/3hAN6UAr1uMhV1HypM09hN"
@@ -310,6 +310,24 @@
     },
     {
       "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/4mH0wv4qar1zyBL5C32JtS"
+      },
+      "artists": [
+        {
+          "name": "Pryce",
+          "url": "https://open.spotify.com/artist/6H3O1u6iVONELLtNldM5i5"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/5ojrT9RmyYhjTkQxo9kfjg"
+    },
+    {
+      "album": {
         "name": "Baby Choppa",
         "url": "https://open.spotify.com/album/5cwJVzQYwCmcb6dqLuvLzl"
       },
@@ -393,7 +411,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 120115,
       "name": "BANTER.",
       "url": "https://open.spotify.com/track/14ebwzoKQJcoDjrOZUbWrS"
@@ -429,7 +447,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 166829,
       "name": "Been Himma",
       "url": "https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t"
@@ -447,7 +465,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 142426,
       "name": "Bet",
       "url": "https://open.spotify.com/track/504JCx3dJov6Fi5083r4Hb"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 123419,
       "name": "Criminal Minds",
       "url": "https://open.spotify.com/track/6EOEUZbqNagBb9iVJzcwgx"
@@ -979,6 +997,42 @@
       "duration_ms": 162580,
       "name": "D's",
       "url": "https://open.spotify.com/track/4CwI0ZjiMaW3F7B70iE43Y"
+    },
+    {
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5"
+      },
+      "artists": [
+        {
+          "name": "Jay Safari",
+          "url": "https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165485,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK"
+    },
+    {
+      "album": {
+        "name": "Dash",
+        "url": "https://open.spotify.com/album/6mach9nHSda3x1AXFpNVSK"
+      },
+      "artists": [
+        {
+          "name": "G. Moore",
+          "url": "https://open.spotify.com/artist/3psIP4EUjaw8zj91e5QAnz"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180716,
+      "name": "Dash",
+      "url": "https://open.spotify.com/track/44GvMGkbk1ya7cHr3zr7Ih"
     },
     {
       "album": {
@@ -1139,7 +1193,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 176706,
       "name": "Easy",
       "url": "https://open.spotify.com/track/5N51kSCIXYybdKLI2Iq5me"
@@ -1229,7 +1283,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 108643,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/3zfiP8usVgBgwwyyU5NbJP"
@@ -1341,7 +1395,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 139463,
       "name": "Games.",
       "url": "https://open.spotify.com/track/2fxtkaSHEWTdmut6OQSRM2"
@@ -1377,7 +1431,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 102661,
       "name": "Get It Quick",
       "url": "https://open.spotify.com/track/0v2J4890gxjORbpsPUyAmC"
@@ -1443,7 +1497,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 108000,
       "name": "gochujang",
       "url": "https://open.spotify.com/track/5VazOHd6tWSejBmt9tWR7r"
@@ -1501,7 +1555,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 156734,
       "name": "Grim Reaper",
       "url": "https://open.spotify.com/track/4Q8xz9BbklcXEMh2pqm6E8"
@@ -1689,7 +1743,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 224294,
       "name": "I Don't Wanna Hang",
       "url": "https://open.spotify.com/track/6sSMdueWm4eICidC9W6ujU"
@@ -1729,7 +1783,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 204600,
       "name": "In Awe (Live Performance)",
       "url": "https://open.spotify.com/track/5goNJmUi7j897rieTFe17d"
@@ -1808,6 +1862,24 @@
     },
     {
       "album": {
+        "name": "Irregular",
+        "url": "https://open.spotify.com/album/2B65I9ji5qADXohWMNxCQB"
+      },
+      "artists": [
+        {
+          "name": "Prophet the Artist",
+          "url": "https://open.spotify.com/artist/0vXtpskNA5slWYQBsjlaJU"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181629,
+      "name": "Irregular",
+      "url": "https://open.spotify.com/track/0HhEvFxhhrbg9ddKSgkNKC"
+    },
+    {
+      "album": {
         "name": "Jet Lag",
         "url": "https://open.spotify.com/album/71cbgvGM8UuYarh9NJvxS1"
       },
@@ -1823,6 +1895,24 @@
       "duration_ms": 178120,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/48bX1EGF4U7viuyRmoHmdI"
+    },
+    {
+      "album": {
+        "name": "Jump Out The Flame",
+        "url": "https://open.spotify.com/album/1gzurh4ImnDVv75CUQQqPP"
+      },
+      "artists": [
+        {
+          "name": "3Fortiori",
+          "url": "https://open.spotify.com/artist/1cLwvhC56kforLsYJpjuSe"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200792,
+      "name": "Jump Out The Flame",
+      "url": "https://open.spotify.com/track/4IxGJjP97tImKMiSzixirf"
     },
     {
       "album": {
@@ -1935,7 +2025,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 146858,
       "name": "Lemon Pepper",
       "url": "https://open.spotify.com/track/6Pl5udKp5kVc5zZn1q5hLO"
@@ -2005,7 +2095,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 120000,
       "name": "Letter From The Cell",
       "url": "https://open.spotify.com/track/1XGOH2yf8yQMjrpJFAmvSI"
@@ -2142,6 +2232,28 @@
     },
     {
       "album": {
+        "name": "Millie Slims & BLB",
+        "url": "https://open.spotify.com/album/7bougEBgbpP9cY6GubDMfo"
+      },
+      "artists": [
+        {
+          "name": "Amon",
+          "url": "https://open.spotify.com/artist/6XUNPrvR2kBv09hMw4HYHL"
+        },
+        {
+          "name": "Cash Made The Track",
+          "url": "https://open.spotify.com/artist/68CBOlGLSrbH80gzc9GgkM"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Millie Slims",
+      "url": "https://open.spotify.com/track/5sIMPVpZDnrwbDMMXvY4Xx"
+    },
+    {
+      "album": {
         "name": "Cold Heart",
         "url": "https://open.spotify.com/album/0nad7s9GpyCkG9ttCDMH0z"
       },
@@ -2263,10 +2375,32 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 166956,
       "name": "Mud Brothers",
       "url": "https://open.spotify.com/track/1E6xPYt9FyvkMnDeyVHLby"
+    },
+    {
+      "album": {
+        "name": "Southsidestory",
+        "url": "https://open.spotify.com/album/5qtzCi0cXGbrrpWoSQeUzo"
+      },
+      "artists": [
+        {
+          "name": "Marino",
+          "url": "https://open.spotify.com/artist/0hkpCle6HepundQL06w9Xt"
+        },
+        {
+          "name": "Sn0wFTS",
+          "url": "https://open.spotify.com/artist/7eR3EoITpgvmioN74Eof0P"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "My Blood, My Genes",
+      "url": "https://open.spotify.com/track/1YjCmFZzydjq7b4J4t6exH"
     },
     {
       "album": {
@@ -2307,6 +2441,24 @@
       "duration_ms": 218709,
       "name": "NASCAR",
       "url": "https://open.spotify.com/track/4ROzAiT7TDnLNwZm1LWepl"
+    },
+    {
+      "album": {
+        "name": "Neighborhood",
+        "url": "https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf"
+      },
+      "artists": [
+        {
+          "name": "Felukah",
+          "url": "https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168062,
+      "name": "Neighborhood",
+      "url": "https://open.spotify.com/track/1MqxAzd8MOFxrMlu5Ixw4l"
     },
     {
       "album": {
@@ -2441,7 +2593,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 177689,
       "name": "On Me (feat. Bino Rideaux)",
       "url": "https://open.spotify.com/track/3wn2Asl28hXz6ddUHr6OzJ"
@@ -2524,6 +2676,24 @@
     },
     {
       "album": {
+        "name": "Off The Mussle",
+        "url": "https://open.spotify.com/album/2WyHeyQQ3VwCfsmMd6YZ71"
+      },
+      "artists": [
+        {
+          "name": "OTM",
+          "url": "https://open.spotify.com/artist/2kL4eDtAl8mixMQr6bndD1"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254692,
+      "name": "Pippy Long",
+      "url": "https://open.spotify.com/track/4gD5SzumVdVNBXQufTMWgG"
+    },
+    {
+      "album": {
         "name": "Pastelevision",
         "url": "https://open.spotify.com/album/3Fw3gOj3UVlNJUclaOqLK2"
       },
@@ -2575,7 +2745,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 137534,
       "name": "READY OR NOT",
       "url": "https://open.spotify.com/track/0BrjFCqjdRwlLJXm34kbvE"
@@ -2637,7 +2807,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 141177,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/2oRgMFZeD3hDYbUv4GxKOh"
@@ -2815,7 +2985,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 192000,
       "name": "Shisha",
       "url": "https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js"
@@ -2931,7 +3101,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 141500,
       "name": "Stop Asking",
       "url": "https://open.spotify.com/track/3F6lZEIQe8JBoSSSmbtkpk"
@@ -3169,7 +3339,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 147400,
       "name": "Trust Nobody",
       "url": "https://open.spotify.com/track/79n4p7Yfb9jLzmoFaExzzA"

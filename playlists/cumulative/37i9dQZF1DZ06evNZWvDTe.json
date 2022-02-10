@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 222958,
       "name": "CEO FLOW",
       "url": "https://open.spotify.com/track/4iF0umElVzYWpHe9zRJzZE"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 345793,
       "name": "Efya-Am In Luv With U(prod. By Killbeatz) (feat. Efya)",
       "url": "https://open.spotify.com/track/0pE5QY5MzbQZ4LxrBBnOny"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 276401,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/3JGpJctFgQjVqernRw7YAP"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 187924,
       "name": "I Know",
       "url": "https://open.spotify.com/track/0UyqB29vUuveKq8ftX7tLD"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 225307,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/216YULEAPFqGpco9dgXuTm"
@@ -1426,6 +1426,28 @@
     },
     {
       "album": {
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248713,
+      "name": "Saa Okodie No (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/7rOLszCsFdgsyDhIJUtf8O"
+    },
+    {
+      "album": {
         "name": "Saara",
         "url": "https://open.spotify.com/album/7LoPpiCoplyvf4dcVY91u9"
       },
@@ -1481,7 +1503,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 182164,
       "name": "Sub Zero",
       "url": "https://open.spotify.com/track/55z37b4GACx19xCvJezn9x"
@@ -1595,7 +1617,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 187061,
       "name": "VIP",
       "url": "https://open.spotify.com/track/4orL9o7BToP1jrzvwMO3gV"

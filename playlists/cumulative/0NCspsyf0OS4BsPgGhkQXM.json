@@ -343,7 +343,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 138082,
       "name": "bad guy",
       "url": "https://open.spotify.com/track/4727RsuKMuY09HnC1ZD6yt"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 146181,
       "name": "Better Than That",
       "url": "https://open.spotify.com/track/0oahhHKPxJRFoFoMJZ3zuL"
@@ -501,6 +501,28 @@
       "duration_ms": 228705,
       "name": "Broken",
       "url": "https://open.spotify.com/track/1PA8t7QlRzSpUOZIlLLi6U"
+    },
+    {
+      "album": {
+        "name": "Broken - VIP",
+        "url": "https://open.spotify.com/album/5wUYObziE4i9B9nSbyuV4A"
+      },
+      "artists": [
+        {
+          "name": "William Black",
+          "url": "https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h"
+        },
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237241,
+      "name": "Broken - VIP",
+      "url": "https://open.spotify.com/track/6JjdMJw5pVpiNIM1eqOiPp"
     },
     {
       "album": {
@@ -1094,6 +1116,28 @@
     },
     {
       "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238344,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq"
+    },
+    {
+      "album": {
         "name": "Overstimulated",
         "url": "https://open.spotify.com/album/2HNrUJc3c1HBRN4W0zZrQ3"
       },
@@ -1193,7 +1237,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 202500,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/5sGZrYjR38XjepfN2b7Pkx"
@@ -1587,7 +1631,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 164571,
       "name": "last breath",
       "url": "https://open.spotify.com/track/7iJKUX0fbC5pxobb2xnzRQ"
@@ -2097,7 +2141,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 225705,
       "name": "Night Falls",
       "url": "https://open.spotify.com/track/3ZNhFhshMLjGQraO4pvpDR"
@@ -2215,7 +2259,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 206197,
       "name": "Only One I Need",
       "url": "https://open.spotify.com/track/5tqjt07Jes01AokedrhRtQ"
@@ -2237,7 +2281,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 246857,
       "name": "Only Reason",
       "url": "https://open.spotify.com/track/1SC0BVu0v6z4K2fnVydkyH"
@@ -2533,7 +2577,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 137156,
       "name": "Revenant",
       "url": "https://open.spotify.com/track/4ZbRH1596F1j9uhSPCToQO"
@@ -2833,7 +2877,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 166753,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/73aaclqbUGL3q6YJqphuMq"
@@ -2971,7 +3015,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-10",
       "duration_ms": 204923,
       "name": "Time",
       "url": "https://open.spotify.com/track/0I2w0DF5Y4dWo2V9J5Wu4R"

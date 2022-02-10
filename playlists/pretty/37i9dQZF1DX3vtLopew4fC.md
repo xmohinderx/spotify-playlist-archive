@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Celebrating Black Girl Magic✨ in Canada, at full volume\. Happy Black History Month! Cover: Jully Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,334 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,339 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
