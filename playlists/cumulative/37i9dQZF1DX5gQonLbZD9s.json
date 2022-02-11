@@ -353,7 +353,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 123214,
       "name": "CAN'T TOUCH THIS - R3HAB Remix",
       "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 173175,
       "name": "Cold Heart - The Blessed Madonna Remix",
       "url": "https://open.spotify.com/track/0AXik9eoKYsfRYzJdS2GXH"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 212668,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 191466,
       "name": "Free Woman",
       "url": "https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 179277,
       "name": "Man's World - MUNA Remix",
       "url": "https://open.spotify.com/track/0bsoUd1dzVg419MJhjp7zt"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 171171,
       "name": "queen of broken hearts",
       "url": "https://open.spotify.com/track/1YaLBadQjS701ZLZRGjPMX"
@@ -1634,6 +1634,32 @@
     },
     {
       "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184732,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -1751,7 +1777,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 171386,
       "name": "You Need To Calm Down",
       "url": "https://open.spotify.com/track/29fRTIKsJhLUJoldM89GZS"
@@ -1769,7 +1795,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 163758,
       "name": "Your Man",
       "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"

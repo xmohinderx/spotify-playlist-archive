@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Rex Orange County",
+  "description": "Current indie tunes from Asia and around the world. Cover: mxmtoon",
   "name": "Indie Shuffle",
   "published_playlist_ids": [
     "20Eh596su19VARcgGsKVKl"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "2 + 2",
+        "url": "https://open.spotify.com/album/7zvvJVutV8jbR9QNwMpbdZ"
+      },
+      "artists": [
+        {
+          "name": "Cupnoodle",
+          "url": "https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "2 + 2",
+      "url": "https://open.spotify.com/track/40RoDWnE4BI9Nt9V6qOAwI"
+    },
     {
       "album": {
         "name": "2 late",
@@ -287,7 +305,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 322071,
       "name": "breakeasy",
       "url": "https://open.spotify.com/track/3k4c6jVhuucrexa0q8Ah4C"
@@ -439,6 +457,28 @@
       "duration_ms": 364333,
       "name": "Change",
       "url": "https://open.spotify.com/track/5WZGUtMLcqOMPem9J7PzVs"
+    },
+    {
+      "album": {
+        "name": "cheeze",
+        "url": "https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Andrew Kang",
+          "url": "https://open.spotify.com/artist/5xiDPchmaJ9F7Y3NUb6bZn"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158804,
+      "name": "cheeze",
+      "url": "https://open.spotify.com/track/61lc9FK6RvPaU8YgeKf2NE"
     },
     {
       "album": {
@@ -1063,7 +1103,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 202926,
       "name": "HUOY",
       "url": "https://open.spotify.com/track/6gE9RjMPBlUXQo4HVkYSEC"
@@ -1268,6 +1308,28 @@
     },
     {
       "album": {
+        "name": "La Novela",
+        "url": "https://open.spotify.com/album/0Jm9vE88gbVVxYVyXfSgcY"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291750,
+      "name": "La Novela",
+      "url": "https://open.spotify.com/track/0zeeAjrLX2mNacLeefRTGG"
+    },
+    {
+      "album": {
         "name": "Left Outside Alone",
         "url": "https://open.spotify.com/album/5Lb8TICdBMs0TtqFAMkw7r"
       },
@@ -1395,7 +1457,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 294803,
       "name": "Love",
       "url": "https://open.spotify.com/track/2S21tvV0jigedzU9tbQksd"
@@ -1417,6 +1479,24 @@
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
+    },
+    {
+      "album": {
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309283,
+      "name": "Lucifer On The Sofa",
+      "url": "https://open.spotify.com/track/5C5EOBG95uBcP2mmytv8j7"
     },
     {
       "album": {
@@ -1514,6 +1594,24 @@
     },
     {
       "album": {
+        "name": "Making Me Sick!",
+        "url": "https://open.spotify.com/album/5BR2hx0RWzvUJ2KfRksdo5"
+      },
+      "artists": [
+        {
+          "name": "SAMMii",
+          "url": "https://open.spotify.com/artist/1QFyA2fQ8oYPgn6Mih9mrc"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Making Me Sick!",
+      "url": "https://open.spotify.com/track/0VTM61Pe3WBw79oEXTbhWE"
+    },
+    {
+      "album": {
         "name": "MENTHOL*",
         "url": "https://open.spotify.com/album/1KTVkY7i6Ry8QMtPTBzYOf"
       },
@@ -1529,10 +1627,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 187106,
       "name": "MENTHOL*",
       "url": "https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e"
+    },
+    {
+      "album": {
+        "name": "mona lisa",
+        "url": "https://open.spotify.com/album/3wVcBPUDJrmInLD0G1W1r2"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190052,
+      "name": "mona lisa",
+      "url": "https://open.spotify.com/track/5O7TgofxqSQh31TiRcKXzo"
     },
     {
       "album": {
@@ -1653,7 +1769,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 221826,
       "name": "No Choice",
       "url": "https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY"
@@ -1843,7 +1959,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 190253,
       "name": "Pa Pa Power",
       "url": "https://open.spotify.com/track/7GTlrFi1WMmZyLEUlRTihW"
@@ -1883,6 +1999,24 @@
       "duration_ms": 187333,
       "name": "Pope Is a Rockstar",
       "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+    },
+    {
+      "album": {
+        "name": "Porta",
+        "url": "https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206960,
+      "name": "Porta",
+      "url": "https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni"
     },
     {
       "album": {
@@ -2012,6 +2146,42 @@
     },
     {
       "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259591,
+      "name": "Red Moon",
+      "url": "https://open.spotify.com/track/3AqSeHqtg45ddsAYJeuCqm"
+    },
+    {
+      "album": {
+        "name": "Red Wine",
+        "url": "https://open.spotify.com/album/7EyqNdG1L28OzpwISAfef5"
+      },
+      "artists": [
+        {
+          "name": "LambC",
+          "url": "https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221909,
+      "name": "Red Wine",
+      "url": "https://open.spotify.com/track/5C0EJsIQXMQt97tTs3ZVh6"
+    },
+    {
+      "album": {
         "name": "hi",
         "url": "https://open.spotify.com/album/6TGVTRNzLtxpD7RxvWaCfT"
       },
@@ -2113,7 +2283,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 186300,
       "name": "Run to you - Christmas Special",
       "url": "https://open.spotify.com/track/2LeNMdCRoqrLue1lsCMW5i"
@@ -2345,7 +2515,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 140026,
       "name": "Smithereens",
       "url": "https://open.spotify.com/track/5D7yZnGSaFzQMh04MXiPkk"
@@ -2786,6 +2956,28 @@
     },
     {
       "album": {
+        "name": "Valdoxan",
+        "url": "https://open.spotify.com/album/4QUv10tacKfmSELFaqzQs0"
+      },
+      "artists": [
+        {
+          "name": "Junva",
+          "url": "https://open.spotify.com/artist/5OfxnYqIv0WZ4JmIg2NLtt"
+        },
+        {
+          "name": "Gong H 3 F",
+          "url": "https://open.spotify.com/artist/4AvLJBT9GUw1MAvfe4cALA"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208333,
+      "name": "Valdoxan",
+      "url": "https://open.spotify.com/track/5NmRjZdzwHvKVrpchBL08F"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE"
       },
@@ -2916,6 +3108,24 @@
     },
     {
       "album": {
+        "name": "Who Put You Up To This?",
+        "url": "https://open.spotify.com/album/4YGcrIILDZSwsSwILUKhxR"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199715,
+      "name": "Who Put You Up To This?",
+      "url": "https://open.spotify.com/track/0DZ8GaDFNzl7FxNZI0CU4B"
+    },
+    {
+      "album": {
         "name": "Frozen",
         "url": "https://open.spotify.com/album/2I5iN7GsalNRg4VeLVItc2"
       },
@@ -3036,6 +3246,24 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e48\u0e2d\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49 (Scent)",
+        "url": "https://open.spotify.com/album/31gNak51sie3nlD36qzG5E"
+      },
+      "artists": [
+        {
+          "name": "loserpop",
+          "url": "https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228977,
+      "name": "\u0e0a\u0e48\u0e2d\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49 (Scent)",
+      "url": "https://open.spotify.com/track/4Lqs2hxgKDMQ0zDUTE7Vu5"
+    },
+    {
+      "album": {
         "name": "\u5149\u308b\u3068\u304d",
         "url": "https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop"
       },
@@ -3051,6 +3279,24 @@
       "duration_ms": 351932,
       "name": "\u5149\u308b\u3068\u304d",
       "url": "https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf"
+    },
+    {
+      "album": {
+        "name": "\u9999\u6e2f\u5730pt.2",
+        "url": "https://open.spotify.com/album/1UB7z3WhjgeyibzaNQkjLu"
+      },
+      "artists": [
+        {
+          "name": "Dessy",
+          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215181,
+      "name": "\u9999\u6e2f\u5730pt.2",
+      "url": "https://open.spotify.com/track/2q24Khiek5SoCiBMyHO1Kx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVbu3wLXA48X"

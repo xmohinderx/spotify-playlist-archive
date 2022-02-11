@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r0FByV5U4C.md) - [plain]
 
 > Saluting the songs and artists that have filled us with pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,415 likes - 26 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,480 likes - 26 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let America Be America Again by Langston Hughes](https://open.spotify.com/track/7izKDKmGjfPVVY7n0LRz29) | [James Earl Jones](https://open.spotify.com/artist/28DFDpyRKnHQr6BFNPGP4L) | [Words For You](https://open.spotify.com/album/7MN6GoQ07ePSs74gVZwUVc) | 3:40 |
-| 2 | [Phenomenal Woman By Maya Angelou](https://open.spotify.com/track/45hRiC1zMG0mIjZX83JYdt) | [Ruby Dee](https://open.spotify.com/artist/4h3T07QIlR7ws1Kclf0x6A) | [Words For You](https://open.spotify.com/album/7MN6GoQ07ePSs74gVZwUVc) | 2:39 |
-| 3 | [Dope](https://open.spotify.com/track/771WmrdhwYKmr3qSiYn8zI) | [Amiri Baraka](https://open.spotify.com/artist/7KYqj72JjHmay1VKYjC5c4) | [Poets Read Their Contemporary Poetry: Before Columbus Foundation](https://open.spotify.com/album/5vu3jh0MWkKRW6tDYRodk7) | 5:35 |
-| 4 | [Adulthood](https://open.spotify.com/track/0eg1fvlZkRx115i95XVHy0) | [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Adulthood](https://open.spotify.com/album/64FLOlR1JB20A49iu9LJpF) | 2:58 |
-| 5 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/2BEuUkh9r8NCYiVvSKZIol) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [The Revolution Begins: The Flying Dutchman Masters](https://open.spotify.com/album/6iTXdGkpPqaNkeaFUGQSCW) | 3:07 |
-| 6 | [When The Revolution Comes](https://open.spotify.com/track/2ZvNOGkA3mBmwru0VcK50C) | [The Last Poets](https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG) | [On The Subway](https://open.spotify.com/album/2Cezj5CMhk6pssl1EkUs0n) | 2:30 |
-| 7 | [Pick Your Poison](https://open.spotify.com/track/0DBKzi2j2TfGXRu1Y9HWzD) | [Nego True](https://open.spotify.com/artist/3Wwcrarn4rr3pE8HqLNwFx) | [Black Suit: Musical Poetry](https://open.spotify.com/album/2qWpxksKGNnNfGjaPBEhh9) | 4:00 |
-| 8 | [I Have Known Rivers](https://open.spotify.com/track/3RXOKHGxFK0t2k9zJJHb6y) | [Langston Hughes](https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm) | [Anthology of Negro Poetry](https://open.spotify.com/album/0AlTTHIRWDV8ENsNZeRbG0) | 1:09 |
+| 1 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/2BEuUkh9r8NCYiVvSKZIol) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [The Revolution Begins: The Flying Dutchman Masters](https://open.spotify.com/album/6iTXdGkpPqaNkeaFUGQSCW) | 3:07 |
+| 2 | [I Have Known Rivers](https://open.spotify.com/track/3RXOKHGxFK0t2k9zJJHb6y) | [Langston Hughes](https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm) | [Anthology of Negro Poetry](https://open.spotify.com/album/0AlTTHIRWDV8ENsNZeRbG0) | 1:09 |
+| 3 | [Let America Be America Again by Langston Hughes](https://open.spotify.com/track/7izKDKmGjfPVVY7n0LRz29) | [James Earl Jones](https://open.spotify.com/artist/28DFDpyRKnHQr6BFNPGP4L) | [Words For You](https://open.spotify.com/album/7MN6GoQ07ePSs74gVZwUVc) | 3:40 |
+| 4 | [Phenomenal Woman By Maya Angelou](https://open.spotify.com/track/45hRiC1zMG0mIjZX83JYdt) | [Ruby Dee](https://open.spotify.com/artist/4h3T07QIlR7ws1Kclf0x6A) | [Words For You](https://open.spotify.com/album/7MN6GoQ07ePSs74gVZwUVc) | 2:39 |
+| 5 | [Dope](https://open.spotify.com/track/771WmrdhwYKmr3qSiYn8zI) | [Amiri Baraka](https://open.spotify.com/artist/7KYqj72JjHmay1VKYjC5c4) | [Poets Read Their Contemporary Poetry: Before Columbus Foundation](https://open.spotify.com/album/5vu3jh0MWkKRW6tDYRodk7) | 5:35 |
+| 6 | [Adulthood](https://open.spotify.com/track/0eg1fvlZkRx115i95XVHy0) | [Suli Breaks](https://open.spotify.com/artist/5XnwG6JFrOMlVGOZfy54ck) | [Adulthood](https://open.spotify.com/album/64FLOlR1JB20A49iu9LJpF) | 2:58 |
+| 7 | [When The Revolution Comes](https://open.spotify.com/track/2ZvNOGkA3mBmwru0VcK50C) | [The Last Poets](https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG) | [On The Subway](https://open.spotify.com/album/2Cezj5CMhk6pssl1EkUs0n) | 2:30 |
+| 8 | [Pick Your Poison](https://open.spotify.com/track/0DBKzi2j2TfGXRu1Y9HWzD) | [Nego True](https://open.spotify.com/artist/3Wwcrarn4rr3pE8HqLNwFx) | [Black Suit: Musical Poetry](https://open.spotify.com/album/2qWpxksKGNnNfGjaPBEhh9) | 4:00 |
 | 9 | [Maya Angelou Interview with Ebony Moments \- Live Interview](https://open.spotify.com/track/3i5P8iTZNBjoccQm5jljsp) | [Maya Angelou](https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89) | [Maya Angelou Interview with Ebony Moments \(Live Interview\)](https://open.spotify.com/album/0fEhPkcpzvV3QAxpGojyt4) | 5:04 |
 | 10 | [St Louis Woman](https://open.spotify.com/track/0ZNfaWzf7xbB5FOZA5v1rZ) | [Ishmael Reed](https://open.spotify.com/artist/3kfQrdEicFEL3UJ8wp4zqo) | [Poets Read Their Contemporary Poetry: Before Columbus Foundation](https://open.spotify.com/album/5vu3jh0MWkKRW6tDYRodk7) | 7:40 |
 | 11 | [LITW](https://open.spotify.com/track/6Mt1UnC2xs3s2VjZHHyhva) | [Afrikan Boy](https://open.spotify.com/artist/7IYwVupkZuGBcG3CPBzsC5) | [LITW](https://open.spotify.com/album/3xKkbgPBuUidLWnlGf88Ne) | 5:18 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r0FByV5U4C.md) - [plain]
 | 25 | [Dreams](https://open.spotify.com/track/6A7bVdaeKLeHCutvJovQrn) | [Langston Hughes](https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm) | [Langston Hughes Recordings](https://open.spotify.com/album/7Ek0QRGNy92Zcfv53edFET) | 0:57 |
 | 26 | [Africa](https://open.spotify.com/track/4rU1Cunyeg7JNdNM3mP8BL) | [Maya Angelou](https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89) | [Caged Bird Songs](https://open.spotify.com/album/1VmP4cahFDmehEWhXvnYbc) | 3:28 |
 
-Snapshot ID: `MTYxNTkxODQ3MiwwMDAwMDA0NDAwMDAwMTc4M2MzZjFlZTMwMDAwMDE3ODNjM2RkMmQ1`
+Snapshot ID: `MTY0NDUyNzYzOSwwMDAwMDA0NTAwMDAwMTdlZTU3YzVkNWIwMDAwMDE3ODNjM2RkMmQ1`

@@ -2,7 +2,7 @@
 
 ### [DOPE.](https://open.spotify.com/playlist/5uxXRmYANYLYX4xEGWZNbz)
 
-> Hip\-hop hits\. Foto: Lil Nas X
+> Hip\-hop hits\. Foto: Eminem
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

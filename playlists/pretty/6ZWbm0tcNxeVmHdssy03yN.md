@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 30,542 likes - 100 songs - 5 hr 20 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 30,555 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 13 | [SENSITIVE AS FUCK SO WHAT](https://open.spotify.com/track/49TWOkBS37dWHn5afm7aBz) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [MERCY II](https://open.spotify.com/album/6nNbdSJEpYtCaJPYgWj9i7) | 3:03 |
 | 14 | [Afraid to Lose You](https://open.spotify.com/track/2rhQwPsQi6oqLyc1fVkLm8) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Afraid to Lose You](https://open.spotify.com/album/12AqU8dNMrCvL0beCDohYv) | 3:27 |
 | 15 | [Fez Market](https://open.spotify.com/track/0d4vrfH5B8XmZV4Mp6vXXK) | [Pedro Retro](https://open.spotify.com/artist/3uzJ5cTjLIpYB3iBvwesfP), [Purple Cloud](https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl) | [Fez Market](https://open.spotify.com/album/2XV9nlUb3X2FXoyA4ixVbD) | 3:14 |
-| 16 | [Tangerine](https://open.spotify.com/track/5D7u4kLcpRlYRYVOxESPvA) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [TJW](https://open.spotify.com/artist/11ytrEfijT8k5ZPNymeXfS) | [Tangerine](https://open.spotify.com/album/7qp88K9x4hQEWZZ6ywZN1z) | 2:29 |
+| 16 | [Tangerine](https://open.spotify.com/track/5D7u4kLcpRlYRYVOxESPvA) | [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [TJOnline](https://open.spotify.com/artist/075vIavRWTeFXUdRBkHZ2l) | [Tangerine](https://open.spotify.com/album/7qp88K9x4hQEWZZ6ywZN1z) | 2:29 |
 | 17 | [Kanyagia](https://open.spotify.com/track/5lQ8vd1uvPqib93vOyTFJh) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Adventures of Chris Kaiga](https://open.spotify.com/album/1lib5N5QFDOCOWloEQ6vZP) | 2:37 |
 | 18 | [Body Language](https://open.spotify.com/track/2bkgIGPHdyQN03nAmSViSi) | [Alexa Cappelli](https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x) | [Body Language](https://open.spotify.com/album/3Mhy375dvX9kspGRCe3Wip) | 2:53 |
 | 19 | [Same Faces](https://open.spotify.com/track/7MWBGBNuaUFIHKrHtNqA9R) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [Same Faces](https://open.spotify.com/album/7pepAGdEw7G1SmOI7P6m0I) | 3:05 |

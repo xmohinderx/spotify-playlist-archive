@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now! Cover: <a href=\"https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s?si=SdYL_4YqTLeGftktNOmp_w\"> Adekunle Gold </a>  ",
+  "description": "The tracks heating up the continent right now! Cover: <a href=\"https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS?si=tzlgJY5QR3m7ZZyPPek35A\"> Rema </a>  ",
   "name": "African Heat",
   "published_playlist_ids": [
     "6CGfDwBbFDC5qx0eVHKRnz"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 159130,
       "name": "Abeg",
       "url": "https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 181360,
       "name": "Anoti",
       "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
@@ -252,6 +252,24 @@
     },
     {
       "album": {
+        "name": "Baddest Boy",
+        "url": "https://open.spotify.com/album/7yxdgb3JrIfoNbJTY6f8jP"
+      },
+      "artists": [
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141599,
+      "name": "Baddest Boy",
+      "url": "https://open.spotify.com/track/3t7hYVVDzf1VDUz0pu5Zy1"
+    },
+    {
+      "album": {
         "name": "Big Thug Boys",
         "url": "https://open.spotify.com/album/33XnJkxrpCyni7MnbnZPCj"
       },
@@ -281,10 +299,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 160666,
       "name": "C'est toi",
       "url": "https://open.spotify.com/track/729blbra42RS4hrSqGOU3t"
+    },
+    {
+      "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD"
     },
     {
       "album": {
@@ -576,6 +612,28 @@
     },
     {
       "album": {
+        "name": "Italy (feat. Blaq Diamond)",
+        "url": "https://open.spotify.com/album/6yXZuo4j1YCVsbuDTJdwNp"
+      },
+      "artists": [
+        {
+          "name": "Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188395,
+      "name": "Italy (feat. Blaq Diamond)",
+      "url": "https://open.spotify.com/track/79P1sxrpp1phhTgF1gkaI8"
+    },
+    {
+      "album": {
         "name": "Kilometre",
         "url": "https://open.spotify.com/album/3t3tbmUPaWrFTUriPUeiXc"
       },
@@ -591,6 +649,28 @@
       "duration_ms": 153786,
       "name": "Kilometre",
       "url": "https://open.spotify.com/track/15NVnnLI5oXQSw10lKrR51"
+    },
+    {
+      "album": {
+        "name": "Kulakwe",
+        "url": "https://open.spotify.com/album/5WQ2GfzPnf3YN6vfI4Bmrv"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "Kulakwe",
+      "url": "https://open.spotify.com/track/6aUiXtqc9Qu1nQcousv2pa"
     },
     {
       "album": {
@@ -721,7 +801,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 206000,
       "name": "MOSLADO",
       "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
@@ -1142,6 +1222,24 @@
     },
     {
       "album": {
+        "name": "Stalling",
+        "url": "https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232779,
+      "name": "Stalling",
+      "url": "https://open.spotify.com/track/1iSiayhy8ewrs7Bb2g0du4"
+    },
+    {
+      "album": {
         "name": "Tayari",
         "url": "https://open.spotify.com/album/5xDq1QkYliIl4gEuTwR52U"
       },
@@ -1183,7 +1281,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 196033,
       "name": "Tigini - Remix",
       "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"
@@ -1205,7 +1303,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 183499,
       "name": "Tinkerbell (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"
@@ -1285,6 +1383,24 @@
       "duration_ms": 276009,
       "name": "Wishes",
       "url": "https://open.spotify.com/track/1JatNOHjkqO8omLaTCNTSU"
+    },
+    {
+      "album": {
+        "name": "Love Supreme",
+        "url": "https://open.spotify.com/album/0Erpf9zdbahSonL0cQ0NC6"
+      },
+      "artists": [
+        {
+          "name": "Nneka",
+          "url": "https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "Yansh",
+      "url": "https://open.spotify.com/track/0gaUeH6AIlvaQsqeXZylRr"
     },
     {
       "album": {

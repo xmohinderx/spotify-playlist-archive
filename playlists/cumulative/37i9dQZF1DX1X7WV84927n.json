@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For the Hard Rock and full volume lovers. Cover: Scorpions",
+  "description": "For the Hard Rock and full volume lovers. Cover: Slash feat. Myles Kennedy & The Conspirators",
   "name": "Hard Rock",
   "published_playlist_ids": [
     "2HA2QQOzqVmyF0ys9hz4Cw"
@@ -19,10 +19,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 203829,
       "name": "54321",
       "url": "https://open.spotify.com/track/7uBsoJ1lIldpC0NK5qe9bv"
+    },
+    {
+      "album": {
+        "name": "4 (feat. Myles Kennedy and The Conspirators)",
+        "url": "https://open.spotify.com/album/5hEFdC1iEWOjgQgiRqdtXQ"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Myles Kennedy And The Conspirators",
+          "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241954,
+      "name": "Actions Speak Louder Than Words (feat. Myles Kennedy and The Conspirators)",
+      "url": "https://open.spotify.com/track/3pg8FGqUihrwtsPxmBf8NJ"
     },
     {
       "album": {
@@ -243,7 +265,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 195910,
       "name": "Call Off The Dogs (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/4Ejf3NzTDbWdRGdjDq3KG4"
@@ -818,6 +840,24 @@
     },
     {
       "album": {
+        "name": "God Has Cut You Down",
+        "url": "https://open.spotify.com/album/3sUqSrGGTG11juyEzJJclL"
+      },
+      "artists": [
+        {
+          "name": "DIRT",
+          "url": "https://open.spotify.com/artist/3QBEd0Gi3ApA2EqVrIKNDa"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252120,
+      "name": "God Has Cut You Down",
+      "url": "https://open.spotify.com/track/5nPcvDZFopbXqdSqOcjvcM"
+    },
+    {
+      "album": {
         "name": "GODLESS",
         "url": "https://open.spotify.com/album/2Fb2NcUF1CS6CrxtgCnVDD"
       },
@@ -1240,6 +1280,24 @@
     },
     {
       "album": {
+        "name": "Lord Of Chaos",
+        "url": "https://open.spotify.com/album/37x2vRUVdneFhfGWPCPA0s"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238765,
+      "name": "Lord Of Chaos",
+      "url": "https://open.spotify.com/track/4m5zAz7YVq1p5nQO2gVtDE"
+    },
+    {
+      "album": {
         "name": "MAMMAMIA",
         "url": "https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme"
       },
@@ -1291,6 +1349,32 @@
       "duration_ms": 184058,
       "name": "Mrs. Sleazy",
       "url": "https://open.spotify.com/track/37AzekkMLM7N8lXbzjKDey"
+    },
+    {
+      "album": {
+        "name": "Naturally Wild",
+        "url": "https://open.spotify.com/album/6EGo7nlEgTBejeViAv1NOk"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+        },
+        {
+          "name": "John 5",
+          "url": "https://open.spotify.com/artist/7mAqCk75DUBWgcC0sqhzwX"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194694,
+      "name": "Naturally Wild",
+      "url": "https://open.spotify.com/track/5qg7MzDQ51X2TTDuTIqh2o"
     },
     {
       "album": {
@@ -1353,6 +1437,24 @@
       "duration_ms": 233960,
       "name": "No Man's Land",
       "url": "https://open.spotify.com/track/1enHGN4avDEx4tihPGhNXz"
+    },
+    {
+      "album": {
+        "name": "On The Dark Side",
+        "url": "https://open.spotify.com/album/1fDOdT4aAuVvCOqIlFMHBx"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218731,
+      "name": "On The Dark Side",
+      "url": "https://open.spotify.com/track/4bO8TyUK8fgE1yCwR94qON"
     },
     {
       "album": {
@@ -1501,7 +1603,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 272278,
       "name": "Real World",
       "url": "https://open.spotify.com/track/0Io2CNRGfNcq4MeGxbitaQ"
@@ -1555,7 +1657,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 215422,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/3d9TFVrQK4eGjV0H0Z63Dv"
@@ -1635,7 +1737,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 237128,
       "name": "Rock Believer",
       "url": "https://open.spotify.com/track/0CsORbIcXLBUVVlntpO7Q3"
@@ -1657,6 +1759,24 @@
       "duration_ms": 202453,
       "name": "Roses on Your Grave",
       "url": "https://open.spotify.com/track/2xMEKnHsZLusGWXSCaKkh9"
+    },
+    {
+      "album": {
+        "name": "Seventh Sun",
+        "url": "https://open.spotify.com/album/5rWzNqVFg8nispXCaewxIB"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330717,
+      "name": "Seventh Sun",
+      "url": "https://open.spotify.com/track/7jgCtSWhv7Y2glV9I8sCUy"
     },
     {
       "album": {
@@ -1923,7 +2043,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 176306,
       "name": "The Reckoning",
       "url": "https://open.spotify.com/track/6WUgfVk8ls7zPs3O49y7Cx"

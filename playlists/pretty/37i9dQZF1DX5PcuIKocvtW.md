@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 
 > it's a lifestyle / Cover: Jeris Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,362 likes - 150 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,576 likes - 150 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,12 +98,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 | 88 | [Pieces of You](https://open.spotify.com/track/7CGz9zQ07qHQbqMemymj1h) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Pieces of You](https://open.spotify.com/album/5KYKGnxBPkx9dh3NpHfL84) | 3:02 |
 | 89 | [Happy, Healthy, Well\-Adjusted](https://open.spotify.com/track/4wuPygBcl5pQ4pY0U7nNFa) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Happy, Healthy, Well\-Adjusted](https://open.spotify.com/album/7D4L6AWgzku0AsNLbzQ9nh) | 2:17 |
 | 90 | [Hell Yeah!](https://open.spotify.com/track/2neJYYLMFULWKPXGrtqGvd) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [Hell Yeah!](https://open.spotify.com/album/5uJ1JdxcmMPQELZ7laxYFi) | 2:34 |
-| 91 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/6Tb41xQxfkhpuJOkaWNTMV) | [LILHUDDY](https://open.spotify.com/artist/5nDdaia3PDYD0x4zBEHGtg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/album/6tZI7NswQRx6ufyTpkzu5c) | 2:36 |
+| 91 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/6Tb41xQxfkhpuJOkaWNTMV) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/album/6tZI7NswQRx6ufyTpkzu5c) | 2:36 |
 | 92 | [You've Won](https://open.spotify.com/track/3p9ZAIfZN9rBPlJfCc5yo7) | [7evin7ins](https://open.spotify.com/artist/4Nr6sbnl0dWasnapIxS92I) | [You've Won](https://open.spotify.com/album/4GyKyaMWBVON06i7eMvqyv) | 2:12 |
 | 93 | [KILL MY X](https://open.spotify.com/track/1kTqTQL8fllItqEALQGEkd) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [KILL MY X](https://open.spotify.com/album/3Py93Kogs26fIRDW7DUyvk) | 2:16 |
 | 94 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
 | 95 | [I Might Die \(feat\. Chloe Lilac\)](https://open.spotify.com/track/4GTqvaOC6rlnjHOPqqZ5jm) | [Ricky Himself](https://open.spotify.com/artist/5vz4AsHBUwAQ7qrhG5yyBS), [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [I Might Die](https://open.spotify.com/album/23eTF19CMMNNFCrkWxX6k9) | 3:09 |
-| 96 | [Partycrasher](https://open.spotify.com/track/5QfVA7ZS9RtZCefzNedeIe) | [LILHUDDY](https://open.spotify.com/artist/5nDdaia3PDYD0x4zBEHGtg) | [Partycrasher](https://open.spotify.com/album/2Vbn9c20CFkn25VxtztPzo) | 3:09 |
+| 96 | [Partycrasher](https://open.spotify.com/track/5QfVA7ZS9RtZCefzNedeIe) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Partycrasher](https://open.spotify.com/album/2Vbn9c20CFkn25VxtztPzo) | 3:09 |
 | 97 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 |
 | 98 | [Down \(feat\. Travis Barker\)](https://open.spotify.com/track/5mkjZ6EciJaZrRXUL5eDfH) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Down \(feat\. Travis Barker\)](https://open.spotify.com/album/6xDFoGf8jzDuFTPwQIOlyK) | 2:48 |
 | 99 | [Someone Else's Dream](https://open.spotify.com/track/25ji0D3bOxIQ1GRKACLJWW) | [Tyler Posey](https://open.spotify.com/artist/2J6oM8cqh6JxBLRged0d7U) | [Drugs](https://open.spotify.com/album/34lnwhjUmMRr9lyu3be5VC) | 3:16 |

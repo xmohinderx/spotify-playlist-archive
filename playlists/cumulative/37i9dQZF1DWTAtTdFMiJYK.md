@@ -2,7 +2,7 @@
 
 ### [Radar India](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
-> Most exciting artists from the Indian Indie scene\. Cover : Shadow and Light
+> Most exciting artists from the Indian Indie scene\. Cover : Kanishk Seth
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,13 +99,14 @@
 | [Rooni](https://open.spotify.com/track/0QpBibmVhtKB935pjfkYNI) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Rooni](https://open.spotify.com/album/31fg61G7seuzDT0wB6Zr4e) | 2:41 | 2022-01-10 |  |
 | [Roothe Saiyaan](https://open.spotify.com/track/6Y22M2lBDpfk1GEGYrsVrn) | [Keshav Tyohar](https://open.spotify.com/artist/4K2l6pikW66DDwViUWSUpS), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI) | [Roothe Saiyaan](https://open.spotify.com/album/4BfsyCJjVYQc8G3ZKDW5KN) | 2:58 | 2021-12-06 |  |
 | [Run to the Ocean](https://open.spotify.com/track/5LNCjqlDfOb8Pki1j1UWx5) | [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Run to the Ocean](https://open.spotify.com/album/7g114toMJHLl21XaZfh81e) | 4:10 | 2021-12-06 | 2022-01-11 |
+| [Saacha Sahib](https://open.spotify.com/track/17aNTNL5QuHmomXRTeUpVN) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [Saacha Sahib](https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI) | 3:36 | 2022-02-10 |  |
 | [Saawan](https://open.spotify.com/track/5cFZPjthvr0T4bgGX1BVsF) | [RITWIKA BHATTACHARYA](https://open.spotify.com/artist/4jR1uB3GxQHJmqj5hYfSUo) | [Saawan](https://open.spotify.com/album/5mJuxVoryQM1tKkq8GvYNp) | 5:06 | 2021-12-06 | 2022-01-11 |
 | [Sanware](https://open.spotify.com/track/4qBHgJWDMuWhgWwp2FFz7z) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Saurabh Jain](https://open.spotify.com/artist/20YBMuBchncywfuOulfmtG) | [Sanware](https://open.spotify.com/album/1MjMz9NFcXGDktqiB5h4r5) | 4:57 | 2022-01-17 |  |
 | [Schoolbus](https://open.spotify.com/track/0kQW2QuxGyygGQAREdGILd) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW), [Tintin](https://open.spotify.com/artist/4UqI6vZZIuZAT4d2yzVnYA) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:28 | 2021-12-06 | 2022-01-11 |
 | [September Embers](https://open.spotify.com/track/5VFsY60sYjnJfFZgDvV1xX) | [Anoushka Maskey](https://open.spotify.com/artist/2nDgCBr8jDMiGFjTkwR6ph) | [September Embers](https://open.spotify.com/album/4XsTt6wPXIKpgtaGLsja9W) | 4:46 | 2021-12-06 | 2022-01-11 |
 | [Sha\- Dobara](https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD) | [Sha\- Dobara](https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1) | 3:12 | 2021-12-06 |  |
 | [Sitaara](https://open.spotify.com/track/1RRvJxYhx65qZJoJ4hKrIG) | [Ravator](https://open.spotify.com/artist/1cZXy31snJUWXKwhWRyDgs), [Anand Bhaskar](https://open.spotify.com/artist/4aykldlxvwj6cRQfhbfNMO) | [Sitaara](https://open.spotify.com/album/6mVxCSUapeMqnhvitV8eGR) | 3:19 | 2021-12-06 |  |
-| [Siyah \| Azizo](https://open.spotify.com/track/4dDPeULdvQPl2qel2ll7RZ) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Siyah \| Azizo](https://open.spotify.com/album/31w9hz9GXUKRRc4U4ciF3Y) | 3:36 | 2022-01-10 |  |
+| [Siyah \| Azizo](https://open.spotify.com/track/4dDPeULdvQPl2qel2ll7RZ) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Siyah \| Azizo](https://open.spotify.com/album/31w9hz9GXUKRRc4U4ciF3Y) | 3:36 | 2022-01-10 | 2022-02-11 |
 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 | 2021-12-06 |  |
 | [sophomore sweetheart](https://open.spotify.com/track/3PaBfBBp3jJw6sxMp0E669) | [sunflower tape machine](https://open.spotify.com/artist/5Bk7ZZFYTY2ILPZljqdfrf) | [sophomore sweetheart](https://open.spotify.com/album/7BF29uGUwtFWrJNV71JkXv) | 3:37 | 2021-12-06 |  |
 | [Sucks To Be Human](https://open.spotify.com/track/0Rn2cteUVGOabK55rQVN3Z) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks To Be Human](https://open.spotify.com/album/69EKPVK5owroH5jbQhlXv7) | 3:25 | 2022-01-10 | 2022-01-17 |

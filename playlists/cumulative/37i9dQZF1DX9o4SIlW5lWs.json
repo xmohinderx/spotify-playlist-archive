@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 187393,
       "name": "De Amor Voy a Morirme",
       "url": "https://open.spotify.com/track/4E6Exumf6rVckB5Wz7dRgf"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 196304,
       "name": "De los Besos Que Te Di",
       "url": "https://open.spotify.com/track/1mnwYmoL5vZeBqPyUwrVCs"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 120592,
       "name": "Dile Tu - En Vivo",
       "url": "https://open.spotify.com/track/20mrMuyFD9lP8gTpuIKkxy"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 264858,
       "name": "Dueles",
       "url": "https://open.spotify.com/track/1QuGDS0fic3lyKzJhIMX99"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 243882,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/0rjqLLOngwqS41api7EipQ"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 191177,
       "name": "El Trato",
       "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 177533,
       "name": "Esa Malvada",
       "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-28",
+      "date_removed": null,
       "duration_ms": 353720,
       "name": "Formula de Amor / Todo Esta en Vos",
       "url": "https://open.spotify.com/track/2TWtjWp7zaw9siAhd2MUVp"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 129229,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 211896,
       "name": "Me Encanta",
       "url": "https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 217364,
       "name": "Me Vas a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/20G9tFLFSjdBSz65LlASqk"
@@ -1429,6 +1429,28 @@
       "duration_ms": 195466,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
+    },
+    {
+      "album": {
+        "name": "Mi Figurita",
+        "url": "https://open.spotify.com/album/3qIZHzb0e132TyVGJQtTxd"
+      },
+      "artists": [
+        {
+          "name": "Como Suena",
+          "url": "https://open.spotify.com/artist/6mMF00MGSqk8MT3c31YRSg"
+        },
+        {
+          "name": "Fede Rojas",
+          "url": "https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184164,
+      "name": "Mi Figurita",
+      "url": "https://open.spotify.com/track/0e1ZHxouYIXP1XaxdTEO7V"
     },
     {
       "album": {
@@ -1739,7 +1761,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 250760,
       "name": "Nunca me Faltes",
       "url": "https://open.spotify.com/track/3YCcsuRdJArE4rsAG5V3sW"
@@ -2107,7 +2129,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 218133,
       "name": "Si Hay Alguien en Tu Vida",
       "url": "https://open.spotify.com/track/0wCJwNurZCTKJzwU9bJfjY"
@@ -2403,7 +2425,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 168531,
       "name": "Tu - Live Session",
       "url": "https://open.spotify.com/track/748ZjU8OoEfawysf7HFPph"
@@ -2439,7 +2461,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 205043,
       "name": "Un So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/50pB6rEpZ1aDV2clo97wvf"
@@ -2565,7 +2587,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 204250,
       "name": "Vas a Llorar",
       "url": "https://open.spotify.com/track/0aEYM9dzRxkwZ1HElWjrIX"
@@ -2583,7 +2605,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 188966,
       "name": "Vengo de la Casa de Ella",
       "url": "https://open.spotify.com/track/4SzugwgIKdvSCdJMOEi8UC"
@@ -2601,7 +2623,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 215186,
       "name": "Vete",
       "url": "https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr"
@@ -2695,7 +2717,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 213600,
       "name": "Ya Me Entere",
       "url": "https://open.spotify.com/track/7IqU3VnEGCta6yVb7peofO"

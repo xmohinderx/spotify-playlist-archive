@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,891,767 likes - 202 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,891,940 likes - 202 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,7 +180,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 170 | [Green Meadow](https://open.spotify.com/track/0z2dmmunpl2LB0iozr4yYv) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Green Meadow](https://open.spotify.com/album/5w03krSmnpaXsVoF56X1Kc) | 2:04 |
 | 171 | [Folkestone](https://open.spotify.com/track/3QzgCLR0nGHa2y928KwEyE) | [Clotho](https://open.spotify.com/artist/47BxCwdoIB8uBDUY6KktXs) | [Folkestone](https://open.spotify.com/album/5AWbRAMbpWTYYPBUzowzk3) | 3:18 |
 | 172 | [Cadaqués](https://open.spotify.com/track/5jg06BQ7aNRWBArYMDlw77) | [Jacques Walter](https://open.spotify.com/artist/3Ag2nPTVyDtgYpbAIe8xHn) | [Cadaqués](https://open.spotify.com/album/3LGKDNlZXmrJNo8iDFjD9s) | 2:23 |
-| 173 | [All Those Things](https://open.spotify.com/track/6crKfVVbULAcl1qmnZfr47) | [Leo Krepper](https://open.spotify.com/artist/3brfwMGTs3rErKQ1aLzlZC) | [All Those Things](https://open.spotify.com/album/335oTYZv32szZG1aXCyg0o) | 2:42 |
+| 173 | [All Those Things](https://open.spotify.com/track/6crKfVVbULAcl1qmnZfr47) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [All Those Things](https://open.spotify.com/album/335oTYZv32szZG1aXCyg0o) | 2:42 |
 | 174 | [Noche Oscura](https://open.spotify.com/track/7pBTuE1FyL9c384Qn7VjSi) | [Juan Pedro Camoro](https://open.spotify.com/artist/0RU0eLI9MsXfF40bMd6Wh1) | [Noche Oscura](https://open.spotify.com/album/4VsF4lug4BUD3eU6cAd1zv) | 2:30 |
 | 175 | [Closing](https://open.spotify.com/track/4ZGhVe2y4ze5G92JDnZRPc) | [Ryohei Shimoyama](https://open.spotify.com/artist/22rBJY8j8xwmBm0Iml3Cgt) | [Closing](https://open.spotify.com/album/1F7KG7KmDpd9lGRNquqUMU) | 2:14 |
 | 176 | [Mysteria](https://open.spotify.com/track/7kiJGWdIIGQGNKGbJiZY13) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Mysteria](https://open.spotify.com/album/15x93VkfHJU0cHYMGXTmcW) | 2:02 |
@@ -201,7 +201,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 191 | [when the stars align](https://open.spotify.com/track/4JWkY1lHA5tTUCqyk0JFE1) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [when the stars align](https://open.spotify.com/album/7dd2msGOs5dEYWMjYAvcJq) | 3:06 |
 | 192 | [Little Krumbs](https://open.spotify.com/track/3vrkYJODH1pEthNwy9bdSq) | [Aurélien Trigo](https://open.spotify.com/artist/1XvEjHuBKBUIbZHuBesoCE) | [The Acoustic Mind \- Vol\. 3](https://open.spotify.com/album/1e3eyPgitBo2NNaKJ096YY) | 3:13 |
 | 193 | [Pelotas](https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg) | [Maria Gastona](https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV) | [Rosa](https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7) | 2:30 |
-| 194 | [Doldrums](https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG) | [Leo Krepper](https://open.spotify.com/artist/3brfwMGTs3rErKQ1aLzlZC) | [Doldrums](https://open.spotify.com/album/5K7l55YIhPjl3HoY1eYgHF) | 2:20 |
+| 194 | [Doldrums](https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Doldrums](https://open.spotify.com/album/5K7l55YIhPjl3HoY1eYgHF) | 2:20 |
 | 195 | [Pragmatique](https://open.spotify.com/track/4oOgOAn9AgPDygYgN8nXhc) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Pragmatique](https://open.spotify.com/album/7GJvN3Murt1srya715Qjut) | 2:03 |
 | 196 | [In The Morning Sun](https://open.spotify.com/track/3GK06PqC7srEok5b6tlfAc) | [Mario Regio](https://open.spotify.com/artist/37J9hiCCgzUYyi8V46abD2) | [Pinus Halepensis](https://open.spotify.com/album/5VbSF6F1JbowAFGpB3YB9C) | 3:33 |
 | 197 | [Presque l'amour](https://open.spotify.com/track/6ECDIq1iKLeAXisPMRyxMr) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Presque l'amour](https://open.spotify.com/album/6ndqkMdA8Uiu5ZbvrfEYiD) | 2:14 |

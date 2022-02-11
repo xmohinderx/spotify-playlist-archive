@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - USA.",
-  "num_followers": 3381761,
+  "num_followers": 3381769,
   "original_name": "Top 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk3NzIxMjAxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk3ODA2NzM0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -49,7 +49,39 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "Grinding All Season",
+        "url": "https://open.spotify.com/album/1vGyLhY5K9AEzRoVGOTTB2"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/2bBClS4zzrRd4Aj59NaKSv"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
@@ -73,55 +105,7 @@
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
-        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 200547,
-      "name": "Super Gremlin",
-      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Cigarettes",
-        "url": "https://open.spotify.com/album/5OI7dLXwSZFtOnB3aQtCGi"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 227527,
-      "name": "Cigarettes",
-      "url": "https://open.spotify.com/track/42Xba467wgGvYrR2EE6s0i"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Surface Pressure (From \"Encanto\")",
         "url": "https://open.spotify.com/album/5IQviZiPOcXLBAd9eGo2sA"
@@ -137,7 +121,23 @@
       "url": "https://open.spotify.com/track/6K5ph5mq1qprHae3TrgTj5"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "Cigarettes",
+        "url": "https://open.spotify.com/album/5OI7dLXwSZFtOnB3aQtCGi"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 227527,
+      "name": "Cigarettes",
+      "url": "https://open.spotify.com/track/42Xba467wgGvYrR2EE6s0i"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "I Love You So",
         "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
@@ -193,23 +193,27 @@
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "Do We Have A Problem?",
+        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 207065,
+      "name": "Do We Have A Problem?",
+      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Mercury - Act 1",
         "url": "https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt"
@@ -237,27 +241,23 @@
       "url": "https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
-        "name": "Do We Have A Problem?",
-        "url": "https://open.spotify.com/album/1fDcx48pkgRmOXQ3weT0ct"
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 207065,
-      "name": "Do We Have A Problem?",
-      "url": "https://open.spotify.com/track/1PNs0uGru3TcrA94kpyGnc"
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
@@ -313,31 +313,7 @@
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Beatriz",
-          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
-        },
-        {
-          "name": "Olga Merediz",
-          "url": "https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX"
-        },
-        {
-          "name": "Encanto - Cast",
-          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
-        }
-      ],
-      "duration_ms": 257213,
-      "name": "The Family Madrigal",
-      "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -361,7 +337,31 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Olga Merediz",
+          "url": "https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "duration_ms": 257213,
+      "name": "The Family Madrigal",
+      "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Dark Red",
         "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
@@ -393,23 +393,23 @@
       "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Don't Play That",
         "url": "https://open.spotify.com/album/3g34Pygt0svsSHv19XI4gx"
@@ -429,23 +429,55 @@
       "url": "https://open.spotify.com/track/6BczFLHW9aIf9aWn5NFuNL"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/6vzH59tobnxE5WXMiqvBIx"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/1bjhYUwKUHEg5fHknxFObO"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -465,7 +497,7 @@
       "url": "https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "I Hate U",
         "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
@@ -481,26 +513,10 @@
       "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
+        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
       },
       "artists": [
         {
@@ -510,10 +526,10 @@
       ],
       "duration_ms": 175344,
       "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
@@ -533,39 +549,7 @@
       "url": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 206772,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
@@ -585,43 +569,7 @@
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o"
-      },
-      "artists": [
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
-        },
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 171453,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -637,7 +585,23 @@
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "2014 Forest Hills Drive",
         "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
@@ -653,39 +617,7 @@
       "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Gawk",
-        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Alien Blues",
-      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Notion",
         "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
@@ -701,7 +633,55 @@
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "Gawk",
+        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Alien Blues",
+      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 206772,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Better Days (NEIKED x Mae Muller x Polo G)",
         "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
@@ -725,7 +705,7 @@
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
@@ -745,23 +725,7 @@
       "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Light Switch (Instrumental)",
-        "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 185680,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Broadway Girls (feat. Morgan Wallen)",
         "url": "https://open.spotify.com/album/021fiBoLY6KwQmgIvByEtG"
@@ -781,7 +745,43 @@
       "url": "https://open.spotify.com/track/3DZ8dbKg4OTSSqGARvecYd"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o"
+      },
+      "artists": [
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 171453,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
@@ -797,39 +797,7 @@
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Beatriz",
-          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "Waiting On A Miracle",
-      "url": "https://open.spotify.com/track/3oRW9ZGPRbLRMneQ5lwflt"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 298899,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "Numb Little Bug",
         "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
@@ -845,7 +813,7 @@
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "THE ANXIETY",
         "url": "https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K"
@@ -869,55 +837,7 @@
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
     },
     {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Hall of Fame",
-        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "RAPSTAR",
-      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
-    },
-    {
-      "added_at": "2022-02-09 11:26:41",
+      "added_at": "2022-02-10 11:12:14",
       "album": {
         "name": "An Evening With Silk Sonic",
         "url": "https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE"
@@ -939,6 +859,90 @@
       "duration_ms": 197442,
       "name": "Smokin Out The Window",
       "url": "https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        }
+      ],
+      "duration_ms": 161840,
+      "name": "Waiting On A Miracle",
+      "url": "https://open.spotify.com/track/3oRW9ZGPRbLRMneQ5lwflt"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 298899,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "All For Us (from the HBO Original Series Euphoria)",
+        "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "All For Us - from the HBO Original Series Euphoria",
+      "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "Hall of Fame",
+        "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "RAPSTAR",
+      "url": "https://open.spotify.com/track/18vXApRmJSgQ6wG2ll9AOg"
+    },
+    {
+      "added_at": "2022-02-10 11:12:14",
+      "album": {
+        "name": "Light Switch (Instrumental)",
+        "url": "https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
     }
   ],
   "unique_name": "Top 50 - USA",

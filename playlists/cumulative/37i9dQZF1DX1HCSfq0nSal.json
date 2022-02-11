@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. La Pantera, Quevedo, Juseph, Abhir Hathi, Bejo, Cruz Cafun\u00e9, EL IMA",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Quevedo",
   "name": "PEGAO",
   "published_playlist_ids": [
     "0eEaxEcjouD8bXoqNOVuIi"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 207813,
       "name": "Antojo (with De La Ghetto)",
       "url": "https://open.spotify.com/track/0ped2RBpjF2pRWCrmi1Lfw"
@@ -1241,7 +1241,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 152110,
       "name": "Ojos Rojos",
       "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"
@@ -1263,6 +1263,28 @@
       "duration_ms": 216827,
       "name": "Pelele",
       "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
+    },
+    {
+      "album": {
+        "name": "Piel de Cordero",
+        "url": "https://open.spotify.com/album/4m55xXBvpVcsO3CHXAJItH"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213647,
+      "name": "Piel de Cordero",
+      "url": "https://open.spotify.com/track/43Tf6aMFSw2vP7IHBWsA1R"
     },
     {
       "album": {
@@ -1599,6 +1621,28 @@
       "duration_ms": 146815,
       "name": "TOP 5",
       "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
+    },
+    {
+      "album": {
+        "name": "All Star Game",
+        "url": "https://open.spotify.com/album/7d0hMBy98bkBVRssATx4YL"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "T\u00fa No Eras As\u00ed",
+      "url": "https://open.spotify.com/track/6h1UftIKsK3dn9RJXhx4G9"
     },
     {
       "album": {

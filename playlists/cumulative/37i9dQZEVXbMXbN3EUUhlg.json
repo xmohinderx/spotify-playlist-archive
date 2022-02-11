@@ -1166,6 +1166,28 @@
     },
     {
       "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181173,
+      "name": "CAF\u00c9 DA MANH\u00c3 ;P",
+      "url": "https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f"
+    },
+    {
+      "album": {
         "name": "Cai de vagarinho at\u00e9 embaixo",
         "url": "https://open.spotify.com/album/0HximOntVcjaDrMQcPxUXq"
       },
@@ -6285,7 +6307,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 154662,
       "name": "Voc\u00ea Beberia Ou N\u00e3o Beberia?",
       "url": "https://open.spotify.com/track/2ixi9HWJw5lnLDmRMsiCS5"

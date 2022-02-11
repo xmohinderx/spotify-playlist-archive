@@ -302,6 +302,28 @@
     },
     {
       "album": {
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/0fK7EQycUMyl2lCiIaxltA"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196240,
+      "name": "Dos Mundos",
+      "url": "https://open.spotify.com/track/5bcwDKs6i2A4FQWRlPTvDA"
+    },
+    {
+      "album": {
         "name": "Ya Aprend\u00ed la Lecci\u00f3n",
         "url": "https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8"
       },
@@ -473,7 +495,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 268405,
       "name": "La Barda",
       "url": "https://open.spotify.com/track/0pi1spZ3Upm2gXb1OVDq5y"
@@ -751,10 +773,28 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 214035,
       "name": "Reina de mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk"
+    },
+    {
+      "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/5tMtH0kJcq8yPCTBTyIWWN"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199080,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/2vEWdPXczuJoK6cim5jxK5"
     },
     {
       "album": {

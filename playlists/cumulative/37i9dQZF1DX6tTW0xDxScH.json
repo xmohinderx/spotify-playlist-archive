@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Snuggle jams to keep you cozy under the covers.",
+  "description": "Where everything is lovely and snuggly <3 ",
   "name": "Stay in Bed",
   "published_playlist_ids": [
     "3OzAg60NrwMQPfMtLjUuRG"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 258053,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/04RdUAbN5UAM0cHTVD1kCv"
@@ -543,6 +543,24 @@
       "duration_ms": 220405,
       "name": "Help Me Down",
       "url": "https://open.spotify.com/track/3QM6LAQY5eZ237iKv4QIuL"
+    },
+    {
+      "album": {
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS"
     },
     {
       "album": {
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 438493,
       "name": "Just the Two of Us (feat. Bill Withers)",
       "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
@@ -770,6 +788,24 @@
     },
     {
       "album": {
+        "name": "Son Little (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
+    },
+    {
+      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/60i9U1oYiGHVmt7wkwzybi"
       },
@@ -781,10 +817,28 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 185800,
       "name": "Let's Move To The Country",
       "url": "https://open.spotify.com/track/73q8Er6tGTXnHWk2juT9qG"
+    },
+    {
+      "album": {
+        "name": "Lightning Of July",
+        "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "Lightning Of July",
+      "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
     },
     {
       "album": {
@@ -897,7 +951,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 307062,
       "name": "Love and Happiness",
       "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel"
@@ -1237,7 +1291,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 289560,
       "name": "Rosyln",
       "url": "https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop"
@@ -1291,7 +1345,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 256151,
       "name": "scared",
       "url": "https://open.spotify.com/track/7q5kKe4RyUFSGlxX0PKXaN"
@@ -1367,7 +1421,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 201053,
       "name": "Show Up",
       "url": "https://open.spotify.com/track/3eX6q8ys28dIq4H83UUgPx"
@@ -1421,7 +1475,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 230625,
       "name": "Skin",
       "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
@@ -1681,7 +1735,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-25",
+      "date_removed": null,
       "duration_ms": 273866,
       "name": "Time Moves Slow",
       "url": "https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV"
@@ -1699,7 +1753,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 214643,
       "name": "Timing",
       "url": "https://open.spotify.com/track/21i3EJ8BUOtxtGMuD3UH8Z"
@@ -1775,6 +1829,24 @@
       "duration_ms": 194398,
       "name": "Twinkle",
       "url": "https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf"
+    },
+    {
+      "album": {
+        "name": "I Can't Stand the Rain",
+        "url": "https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "Until You Came into My Life",
+      "url": "https://open.spotify.com/track/2kyFN7sfxOgNLkxw66c1Ij"
     },
     {
       "album": {
@@ -1865,7 +1937,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 229666,
       "name": "Woman",
       "url": "https://open.spotify.com/track/4RraQaETfGBWvDAbVeCBib"
@@ -1901,7 +1973,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 162466,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"

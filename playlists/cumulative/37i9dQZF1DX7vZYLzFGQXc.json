@@ -2112,6 +2112,24 @@
     },
     {
       "album": {
+        "name": "Hideournight",
+        "url": "https://open.spotify.com/album/6Re11JZ1ikN625JT2KyNgh"
+      },
+      "artists": [
+        {
+          "name": "Heo Daniel",
+          "url": "https://open.spotify.com/artist/7rm9HHTVczNfUIXiKdLK8m"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165511,
+      "name": "Thursday Night",
+      "url": "https://open.spotify.com/track/35RJJaoJr1Bqjj6VpbbSqY"
+    },
+    {
+      "album": {
         "name": "Genre",
         "url": "https://open.spotify.com/album/06zqWDByh13Pa5hPW9tiUG"
       },

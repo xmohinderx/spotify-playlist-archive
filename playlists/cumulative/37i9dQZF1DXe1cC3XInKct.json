@@ -232,6 +232,24 @@
     },
     {
       "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/6oS2CFXIdm1AEKZbtHBvbN"
+      },
+      "artists": [
+        {
+          "name": "These Brittle Bones",
+          "url": "https://open.spotify.com/artist/5KlIaIphSopJ8iyuv6aYrX"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257183,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/6E7sJWnrq3Rnu40cVFjRHb"
+    },
+    {
+      "album": {
         "name": "Bondade",
         "url": "https://open.spotify.com/album/6HKujCNne4yFHm5ek2aY11"
       },
@@ -1146,6 +1164,28 @@
     },
     {
       "album": {
+        "name": "Lago Escondido",
+        "url": "https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI"
+      },
+      "artists": [
+        {
+          "name": "Samuel Aguilar",
+          "url": "https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Lago Escondido",
+      "url": "https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq"
+    },
+    {
+      "album": {
         "name": "Age Of",
         "url": "https://open.spotify.com/album/05A41BF3z2E5F0tnTyWRNh"
       },
@@ -1298,6 +1338,24 @@
     },
     {
       "album": {
+        "name": "Manakau",
+        "url": "https://open.spotify.com/album/30ytHlHZerutDWCHpgongp"
+      },
+      "artists": [
+        {
+          "name": "Jay Belshaw",
+          "url": "https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Manakau",
+      "url": "https://open.spotify.com/track/5hDlX1yUzAD44iGM04WaPS"
+    },
+    {
+      "album": {
         "name": "Cornemuse / Manekin",
         "url": "https://open.spotify.com/album/7CFSGkedEAnrFL9WR1qjvD"
       },
@@ -1443,6 +1501,28 @@
       "duration_ms": 390016,
       "name": "MLG_recovery patch",
       "url": "https://open.spotify.com/track/3xYIROg1eG5v0TXfPu8van"
+    },
+    {
+      "album": {
+        "name": "Monomom",
+        "url": "https://open.spotify.com/album/2IdpCfBJCkX4GnY99B0MqW"
+      },
+      "artists": [
+        {
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331520,
+      "name": "Monomom",
+      "url": "https://open.spotify.com/track/083hSYQL8F0UScdHIXDBTN"
     },
     {
       "album": {
@@ -1661,6 +1741,24 @@
       "duration_ms": 237071,
       "name": "Nod",
       "url": "https://open.spotify.com/track/3yrhTQ3lv4axr8VIjQkFX8"
+    },
+    {
+      "album": {
+        "name": "O Woods / Wake",
+        "url": "https://open.spotify.com/album/1voNqheGLAG4jd34kt38FS"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 681500,
+      "name": "O Woods",
+      "url": "https://open.spotify.com/track/5BxnSpD1nOMzISYOTUmPzJ"
     },
     {
       "album": {
@@ -2531,7 +2629,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-26",
+      "date_removed": null,
       "duration_ms": 338038,
       "name": "Trees for the Wood",
       "url": "https://open.spotify.com/track/1FrWd9mBupo0EeAnYZYomp"

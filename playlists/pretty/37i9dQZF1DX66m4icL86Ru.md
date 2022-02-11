@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 > Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,349 likes - 79 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,580 likes - 79 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

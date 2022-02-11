@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 300000,
       "name": "4am",
       "url": "https://open.spotify.com/track/76PZlokCTD6ezzVl73nCRg"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 289327,
       "name": "Above below",
       "url": "https://open.spotify.com/track/3xe2mnK1su5rkjvGXs8hm6"
@@ -196,6 +196,24 @@
     },
     {
       "album": {
+        "name": "atomic bombs atomic bonds i love you",
+        "url": "https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r"
+      },
+      "artists": [
+        {
+          "name": "Askjell",
+          "url": "https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327600,
+      "name": "atomic bombs atomic bonds i love you",
+      "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
+    },
+    {
+      "album": {
         "name": "Before You Sleep",
         "url": "https://open.spotify.com/album/0lQDTQArkfPvc5K8l46rvj"
       },
@@ -211,7 +229,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 171043,
       "name": "Before You Sleep",
       "url": "https://open.spotify.com/track/1KIC8wPFEZvACivBF5dy1y"
@@ -265,7 +283,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 435276,
       "name": "Bondage To Formula",
       "url": "https://open.spotify.com/track/7lRWJEm8N20d7HPIx9fiyn"
@@ -283,7 +301,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 447034,
       "name": "Breakdown (The End of Chemical Romance)",
       "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
@@ -359,7 +377,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 333293,
       "name": "Dandelion Heart",
       "url": "https://open.spotify.com/track/2FVPcTBYidM2xDfVf6Nr7k"
@@ -381,7 +399,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 221538,
       "name": "Dark Forces - Robot Koch Rework",
       "url": "https://open.spotify.com/track/4IHPv1BTBH3wvYTskeN1dA"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 236692,
       "name": "Genesis (Version)",
       "url": "https://open.spotify.com/track/5Akz6IbYaaIteC7kQkL9he"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 173798,
       "name": "Graveyard",
       "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
@@ -849,7 +867,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 212848,
       "name": "is this nature escape",
       "url": "https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk"
@@ -885,7 +903,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 796000,
       "name": "Konvektion",
       "url": "https://open.spotify.com/track/5fOr0VJwhHuOFyh6FCZVyO"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 233968,
       "name": "Left On The Ice",
       "url": "https://open.spotify.com/track/2DhxltKaXEnhvKvCMyw4Xi"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "Little One",
       "url": "https://open.spotify.com/track/4ZWOPkS0VXZ00g4ZLxiHO6"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 265000,
       "name": "Melting Refuge",
       "url": "https://open.spotify.com/track/72yOEueBpwoPF7zBWtvREm"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 617500,
       "name": "Moments In Love",
       "url": "https://open.spotify.com/track/5GTjzlFM8t2xB9RJGVkmvd"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 89302,
       "name": "notes of a crocodile",
       "url": "https://open.spotify.com/track/7DgYQpSRq8oKdstt80n0A4"
@@ -1342,6 +1360,24 @@
     },
     {
       "album": {
+        "name": "Quarter Turns over a Living Line",
+        "url": "https://open.spotify.com/album/11ILaqdmxlFwL2cC4XVhF4"
+      },
+      "artists": [
+        {
+          "name": "Raime",
+          "url": "https://open.spotify.com/artist/2A5d1n2pC54Ks3HR1kNWEu"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270260,
+      "name": "Passed over Trail",
+      "url": "https://open.spotify.com/track/3Zke9tyOGB7cOjtMOLlDW7"
+    },
+    {
+      "album": {
         "name": "Winter Ashes",
         "url": "https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N"
       },
@@ -1353,7 +1389,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 204358,
       "name": "Path of Devotion",
       "url": "https://open.spotify.com/track/6GfYaRGWjzvvakXv9okhjB"
@@ -1389,7 +1425,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-27",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Pipopapipo",
       "url": "https://open.spotify.com/track/44yYxVlcLb3lp9EokUElUn"
@@ -1469,7 +1505,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 642880,
       "name": "P\u00e4rt: F\u00fcr Alina - 1. F\u00fcr Alina",
       "url": "https://open.spotify.com/track/0fXQMORkpxlJUqyu5fTUL3"
@@ -1487,7 +1523,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 222373,
       "name": "Rakas",
       "url": "https://open.spotify.com/track/55Lz2Y0x9gu0Vh7yTIk6Dj"
@@ -1505,7 +1541,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 396000,
       "name": "Rendering Intuitions",
       "url": "https://open.spotify.com/track/1JsRDrH5qt8QV5wqMOjQfk"
@@ -1523,7 +1559,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 308000,
       "name": "River Whispering Run",
       "url": "https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI"
@@ -1559,7 +1595,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 383080,
       "name": "Sacro Bosco",
       "url": "https://open.spotify.com/track/27gRCQY4CNnc7qLz84TFj0"
@@ -1613,7 +1649,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 388000,
       "name": "Second Half",
       "url": "https://open.spotify.com/track/7CFziAj4VX4vspOI4ypY6f"
@@ -1631,7 +1667,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 123750,
       "name": "Seconds",
       "url": "https://open.spotify.com/track/3vXmJi22FQIryr1IpTHOnX"
@@ -1703,7 +1739,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 380819,
       "name": "Sista Dagen",
       "url": "https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA"
@@ -1863,7 +1899,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 474125,
       "name": "Thaw",
       "url": "https://open.spotify.com/track/6B37IfOOUpVWjxYXkW5Fir"
@@ -2109,7 +2145,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 169911,
       "name": "Under",
       "url": "https://open.spotify.com/track/3kCzddqKxidFHMrhKNSVDD"
@@ -2175,7 +2211,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 292389,
       "name": "Untitled, Saturday",
       "url": "https://open.spotify.com/track/1yAG81LXyetlG4yrmowDGn"
@@ -2193,7 +2229,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 309708,
       "name": "Vaara",
       "url": "https://open.spotify.com/track/7saUM4eE5H2Ai6c4Ot6Q47"
@@ -2251,7 +2287,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 135062,
       "name": "Wasa Stone Trio",
       "url": "https://open.spotify.com/track/3CJv88R1gtnn1xrC2NOW5G"

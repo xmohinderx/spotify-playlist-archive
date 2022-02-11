@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-07",
+      "date_removed": null,
       "duration_ms": 198985,
       "name": "Eltasz\u00edt",
       "url": "https://open.spotify.com/track/1IFm1QxtgTNBoH862C2RkB"
@@ -3325,7 +3325,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 253000,
       "name": "Megcsin\u00e1ltad",
       "url": "https://open.spotify.com/track/4xtinqVXs7IloLUSTx19rB"
@@ -5213,7 +5213,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -6495,6 +6495,24 @@
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
+    },
+    {
+      "album": {
+        "name": "Zombi",
+        "url": "https://open.spotify.com/album/7Lv9fN83OQiv7Zyb77x6wk"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191411,
+      "name": "Zombi",
+      "url": "https://open.spotify.com/track/5WthbIy7Qp7HmGYGRCZ43z"
     },
     {
       "album": {

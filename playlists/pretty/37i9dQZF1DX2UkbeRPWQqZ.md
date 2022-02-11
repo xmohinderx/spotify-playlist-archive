@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,735 likes - 86 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,779 likes - 86 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 13 | [Skidamarink A Dink A Dink](https://open.spotify.com/track/3jWeocrrxb4mQmH0Po0UNA) | [Lisa Liddle](https://open.spotify.com/artist/1YzqZE21VmV1PvWp1bHmlq) | [Skidamarink A Dink A Dink](https://open.spotify.com/album/3ckHFaiiOJl3x1lCf5S9nw) | 2:20 |
 | 14 | [Wheels On The Bus](https://open.spotify.com/track/09inREgdiCICBK1z9gbPsw) | [Toola Hoot](https://open.spotify.com/artist/4MJ1e4BtHcv048OI92a4i9) | [Wheels On The Bus](https://open.spotify.com/album/1POdFavgcOurjDfD7C4jXb) | 1:33 |
 | 15 | [Baby Mine](https://open.spotify.com/track/0QuySdLpzsu6KNfvd79WVL) | [Wholy Moly](https://open.spotify.com/artist/3XdE126uFbtnhVKolZQ65n) | [Baby Mine](https://open.spotify.com/album/7uigbvctsvCz0qaxWUWVIW) | 2:17 |
-| 16 | [This Old Man](https://open.spotify.com/track/0FFtYy25WDwgdTlKOyFFui) | [Funny Fanny](https://open.spotify.com/artist/1kvETyy8pcVERDBrk7Txdh) | [This Old Man](https://open.spotify.com/album/0iL8y62kdnKlUv0l1n5LLb) | 2:00 |
-| 17 | [Take Me Out to the Ballgame](https://open.spotify.com/track/7zg3AH81GeAQWov5dNLTtI) | [The Sleepy Guitar](https://open.spotify.com/artist/3Dyk5VGJ21XhhypsaeMjYO) | [Guitar Lullabies](https://open.spotify.com/album/3kZzS9BJtaRcshaIa1wqwr) | 2:17 |
-| 18 | [Brahms Lullaby](https://open.spotify.com/track/4XpkimJZpewto3Pdy7fJ0v) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Zzzz](https://open.spotify.com/album/0qNimyY8eJHQRREEcznGGk) | 1:40 |
-| 19 | [Six Little Ducks](https://open.spotify.com/track/3RGS63bYLsf9kjL1GTjNFz) | [John Petravic](https://open.spotify.com/artist/1yvylwyE6YBJOErEOJrr7X) | [Bedtime Guitar Lullabies](https://open.spotify.com/album/08P9sX4mlNilheho0M8iia) | 2:10 |
-| 20 | [Quarantine](https://open.spotify.com/track/2bO6mmvs9RLVTghH0Dvqhm) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Quarantine](https://open.spotify.com/album/2DNVnWLKBxPnayjT8q2VYc) | 1:33 |
+| 16 | [Take Me Out to the Ballgame](https://open.spotify.com/track/7zg3AH81GeAQWov5dNLTtI) | [The Sleepy Guitar](https://open.spotify.com/artist/3Dyk5VGJ21XhhypsaeMjYO) | [Guitar Lullabies](https://open.spotify.com/album/3kZzS9BJtaRcshaIa1wqwr) | 2:17 |
+| 17 | [Brahms Lullaby](https://open.spotify.com/track/4XpkimJZpewto3Pdy7fJ0v) | [Izakaru](https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq) | [Zzzz](https://open.spotify.com/album/0qNimyY8eJHQRREEcznGGk) | 1:40 |
+| 18 | [Six Little Ducks](https://open.spotify.com/track/3RGS63bYLsf9kjL1GTjNFz) | [John Petravic](https://open.spotify.com/artist/1yvylwyE6YBJOErEOJrr7X) | [Bedtime Guitar Lullabies](https://open.spotify.com/album/08P9sX4mlNilheho0M8iia) | 2:10 |
+| 19 | [Quarantine](https://open.spotify.com/track/2bO6mmvs9RLVTghH0Dvqhm) | [Manuel Gonza](https://open.spotify.com/artist/0DvrI5NcxFYxzaySshEJxw) | [Quarantine](https://open.spotify.com/album/2DNVnWLKBxPnayjT8q2VYc) | 1:33 |
+| 20 | [This Old Man](https://open.spotify.com/track/0FFtYy25WDwgdTlKOyFFui) | [Funny Fanny](https://open.spotify.com/artist/1kvETyy8pcVERDBrk7Txdh) | [This Old Man](https://open.spotify.com/album/0iL8y62kdnKlUv0l1n5LLb) | 2:00 |
 | 21 | [Golden Slumbers](https://open.spotify.com/track/0clBn1cAI0fdRLrZYgt7NE) | [Nippy Naps](https://open.spotify.com/artist/0qN4BVnmOvXHzKLEVAfL3a) | [Golden Slumbers](https://open.spotify.com/album/5vYQUfJWTIbxYTxQ5Wezui) | 1:51 |
 | 22 | [Fade In To Dreams](https://open.spotify.com/track/4OB6kC727SMiIxVlN8iGQI) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [Fade In To Dreams](https://open.spotify.com/album/5w8IVZyRXJayO37WcljsvO) | 2:56 |
 | 23 | [Det gåtfulla folket](https://open.spotify.com/track/3LJaPZaJQMDAPd4NWZMnU9) | [Celeste Knight](https://open.spotify.com/artist/1UgS4sDHUIYMiwbzV2LkXl) | [Det gåtfulla folket](https://open.spotify.com/album/4jkbKpDaccNPhnDACXwGOr) | 3:44 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 85 | [Måne och sol](https://open.spotify.com/track/581iZrDptObqVHR5Yo5nFp) | [Thomas Scheller](https://open.spotify.com/artist/26Dtv4a7haiHQI10e0mDJg) | [Sånger för själen vol 2](https://open.spotify.com/album/5DOYzeiyApvUj0739e7VWf) | 1:55 |
 | 86 | [Lake District](https://open.spotify.com/track/62rk91S0MdArx37LedWsZH) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Classical Lullabies](https://open.spotify.com/album/4WAOzYGmbwp2DaPL5NJsLb) | 1:44 |
 
-Snapshot ID: `MTY0Mjc1NDY4MSwwMDAwMDAwZTAwMDAwMTdlN2JjZjJjNDQwMDAwMDE3OGIxZDJjZDQz`
+Snapshot ID: `MTY0NDQ4NzE3NCwwMDAwMDAwZjAwMDAwMTdlZTMxMmU5YjQwMDAwMDE3OGIxZDJjZDQz`

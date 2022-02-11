@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "After Loss",
+        "url": "https://open.spotify.com/album/3HnkFW8PmN0qfQcsatsbmZ"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297600,
+      "name": "After Loss",
+      "url": "https://open.spotify.com/track/1WOlqkj8R7QvQSAsoKXz5H"
+    },
+    {
+      "album": {
         "name": "Akkosaari",
         "url": "https://open.spotify.com/album/3xZKjBTuNJpwBy5K6xsGvz"
       },
@@ -149,7 +167,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 144994,
       "name": "Avril",
       "url": "https://open.spotify.com/track/0div0En4DQn4cGuZYqwtpR"
@@ -387,7 +405,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 363375,
       "name": "Echoes of the Past - Ambient Mix",
       "url": "https://open.spotify.com/track/73KkLb3vy6k6YV8myyxUJS"
@@ -405,7 +423,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 273101,
       "name": "Extraverted Sensing (Akasaka)",
       "url": "https://open.spotify.com/track/31OuoHeItUP2R3JMQxlQxD"
@@ -499,7 +517,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 462786,
       "name": "Fromme",
       "url": "https://open.spotify.com/track/24BctB6JjJ4hwtpzUPkO3f"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 310946,
       "name": "In Some Brighter Sphere",
       "url": "https://open.spotify.com/track/2ytwLXKGmbbmsEpoaNnNlh"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 317047,
       "name": "Last Dream Before Sunrise",
       "url": "https://open.spotify.com/track/3jQe4AVg43Oh6byqoVUgjQ"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 172184,
       "name": "LB 100",
       "url": "https://open.spotify.com/track/1sN2S42xK4GFwJ0kPOruCY"
@@ -834,6 +852,28 @@
     },
     {
       "album": {
+        "name": "Meltwater Cave",
+        "url": "https://open.spotify.com/album/4rDyzDWrmPcJjEWoY7tuEx"
+      },
+      "artists": [
+        {
+          "name": "Kilometre Club",
+          "url": "https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w"
+        },
+        {
+          "name": "Unknown Observer",
+          "url": "https://open.spotify.com/artist/2IRQBq3gxlGnpurk8gxdHY"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Meltwater Cave",
+      "url": "https://open.spotify.com/track/4iltl1TzeHOF5Cih69SPjm"
+    },
+    {
+      "album": {
         "name": "The Flower And The Vessel",
         "url": "https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy"
       },
@@ -845,7 +885,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 478488,
       "name": "Moderato Cantabile",
       "url": "https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7"
@@ -903,7 +943,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 307000,
       "name": "nothing is immobile",
       "url": "https://open.spotify.com/track/0relZsM4K01Ov4IdPnbDsb"
@@ -997,7 +1037,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 445253,
       "name": "Polynya II",
       "url": "https://open.spotify.com/track/0fsTPHpanQBwiINIbIpF8E"
@@ -1033,7 +1073,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 185165,
       "name": "Quiet Sunset in Hurdal",
       "url": "https://open.spotify.com/track/6aVQ9twvxywwPUHq6CexDl"
@@ -1127,7 +1167,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 312710,
       "name": "Slowly Falling II",
       "url": "https://open.spotify.com/track/0VVkdE8HEpneAyVC9V2Tgv"
@@ -1163,7 +1203,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 329830,
       "name": "Subnautica",
       "url": "https://open.spotify.com/track/1uMxxNWkxNJMQr7IxMWmyN"
@@ -1541,7 +1581,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 258491,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/540S77ItrhQjMYBCAd2Dld"

@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 237333,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/1AM8QdDFZMq6SrrqUnuQ9P"
@@ -843,10 +843,6 @@
         {
           "name": "Peggy Lee",
           "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        },
-        {
-          "name": "Robert Norberg",
-          "url": "https://open.spotify.com/artist/4iVTujtmxeDNd1XJX9cHLa"
         }
       ],
       "date_added": "2022-01-13",
@@ -961,7 +957,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 175066,
-      "name": "It's A Good Day - Remastered",
+      "name": "It's A Good Day",
       "url": "https://open.spotify.com/track/3nlUYUOdnPg4AF9Xvh9LNK"
     },
     {
@@ -991,10 +987,6 @@
         {
           "name": "Peggy Lee",
           "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        },
-        {
-          "name": "Robert Norberg",
-          "url": "https://open.spotify.com/artist/4iVTujtmxeDNd1XJX9cHLa"
         }
       ],
       "date_added": "2021-12-20",
@@ -1231,7 +1223,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 188120,
       "name": "Oh Lady Be Good",
       "url": "https://open.spotify.com/track/4QfwBjaq7OprjSZss5Qle3"

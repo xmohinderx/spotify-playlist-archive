@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Halestorm on top of the biggest Metal playlist!",
+  "description": "Sabaton on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -77,6 +77,24 @@
       "duration_ms": 210639,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
+    },
+    {
+      "album": {
+        "name": "Break the Silence",
+        "url": "https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv"
+      },
+      "artists": [
+        {
+          "name": "Breathe Atlantis",
+          "url": "https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207573,
+      "name": "Break The Silence",
+      "url": "https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF"
     },
     {
       "album": {
@@ -185,7 +203,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 227026,
       "name": "Changes",
       "url": "https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT"
@@ -203,7 +221,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 183773,
       "name": "Church Burns",
       "url": "https://open.spotify.com/track/5a6VEGwYR8xM6daWuhml9j"
@@ -297,7 +315,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 169750,
       "name": "Dancing with the Dead",
       "url": "https://open.spotify.com/track/2wRwogyIPvVRAJWEdqbBwB"
@@ -363,6 +381,24 @@
       "duration_ms": 269398,
       "name": "Death Is All Around",
       "url": "https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j"
+    },
+    {
+      "album": {
+        "name": "Zeal & Ardor",
+        "url": "https://open.spotify.com/album/4lh0rl7eI2w9Rik8JECk9l"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187680,
+      "name": "Death to the Holy",
+      "url": "https://open.spotify.com/track/1IypdXpPULSVvtrWRba5A5"
     },
     {
       "album": {
@@ -547,6 +583,28 @@
       "duration_ms": 259213,
       "name": "Good Stories - Remastered 2022",
       "url": "https://open.spotify.com/track/1uVyA0eUK86gElgjnvaxio"
+    },
+    {
+      "album": {
+        "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
+        "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176587,
+      "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
+      "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
     },
     {
       "album": {
@@ -813,7 +871,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 210525,
       "name": "Lights & Fire",
       "url": "https://open.spotify.com/track/1SlOs4l9WvJ4bITuyZXHqc"
@@ -1026,6 +1084,24 @@
     },
     {
       "album": {
+        "name": "Peace That Starts the War",
+        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168391,
+      "name": "Peace That Starts the War",
+      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
+    },
+    {
+      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/2p732bJ3OshHkiQGJfz1Jo"
       },
@@ -1217,7 +1293,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 218000,
       "name": "Soldier of Heaven",
       "url": "https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG"
@@ -1404,6 +1480,24 @@
     },
     {
       "album": {
+        "name": "The Unkillable Soldier",
+        "url": "https://open.spotify.com/album/3wjhgpXJu4BWzOilpLkYte"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "The Unkillable Soldier",
+      "url": "https://open.spotify.com/track/1h98WxD3tsMfb4YlB2wBDS"
+    },
+    {
+      "album": {
         "name": "Untitled",
         "url": "https://open.spotify.com/album/4tModRmtwGx1rjRVbfrhCz"
       },
@@ -1545,7 +1639,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 199800,
       "name": "We\u2019re All Gonna Die",
       "url": "https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC"

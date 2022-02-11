@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 302960,
       "name": "Ay hombre",
       "url": "https://open.spotify.com/track/5wsJ8UlGeXBKozC52hC2A4"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 250920,
       "name": "Burbujas de Amor",
       "url": "https://open.spotify.com/track/4JvxxMnFK1zGtDb8rr5RmE"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 307933,
       "name": "Ciego De Amor - Featuring Anthony Santos",
       "url": "https://open.spotify.com/track/1IdSPagRNE4i6cr6I8QBYD"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 206933,
       "name": "Darte un Beso",
       "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 245253,
       "name": "Intentalo Tu",
       "url": "https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 298640,
       "name": "Me Dejaste Abandonado",
       "url": "https://open.spotify.com/track/4wYgiYARSciofNZnAG3LLS"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "Morire Bebiendo",
       "url": "https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 371720,
       "name": "Mujer Infiel",
       "url": "https://open.spotify.com/track/4VIkwr0aHuvr5ETPaBt9oQ"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 255026,
       "name": "Por un Segundo",
       "url": "https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq"
@@ -1117,7 +1117,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 372733,
       "name": "P\u00e9game Tu Vicio",
       "url": "https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 256333,
       "name": "Se Fue Mi Amor Bonito",
       "url": "https://open.spotify.com/track/309M0MPexbrLYbGpqKstYa"
@@ -1445,6 +1445,24 @@
       "duration_ms": 276840,
       "name": "Vete y Alejate de Mi",
       "url": "https://open.spotify.com/track/66CYjKNVEp21AsDGQkmywV"
+    },
+    {
+      "album": {
+        "name": "Volvio el Dolor",
+        "url": "https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "Volvio el dolor",
+      "url": "https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up"
     },
     {
       "album": {

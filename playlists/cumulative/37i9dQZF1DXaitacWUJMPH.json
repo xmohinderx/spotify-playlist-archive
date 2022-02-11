@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-01",
+      "date_removed": null,
       "duration_ms": 258782,
       "name": "2k",
       "url": "https://open.spotify.com/track/0zLmCMhA8Ly30tZhSmUhAy"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 188855,
       "name": "4th Quarter",
       "url": "https://open.spotify.com/track/7lbMFw3ZVx2orxwHP5blUb"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-03",
+      "date_removed": null,
       "duration_ms": 234540,
       "name": "Bookoo Bucks",
       "url": "https://open.spotify.com/track/6zdVd206eHcQ5GuDvCSGcZ"
@@ -329,10 +329,32 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 245813,
       "name": "Dedication (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6fIjnWrv46njJHLDAY2JdC"
+    },
+    {
+      "album": {
+        "name": "Don't Rush (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/5kjL5qfhBmKHjnnjSfhkBp"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201960,
+      "name": "Don't Rush (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/3AMxuq6id3YGB57eWeheZQ"
     },
     {
       "album": {
@@ -351,7 +373,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 184573,
       "name": "Dre Grant",
       "url": "https://open.spotify.com/track/1YBo2pYIAlkfPLrIoucRLl"
@@ -409,7 +431,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 176725,
       "name": "Forever Set In Stone",
       "url": "https://open.spotify.com/track/4heYgxcr1byQWoiFFG3Kvr"
@@ -605,7 +627,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 175720,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
@@ -631,7 +653,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 284171,
       "name": "I Stand On That",
       "url": "https://open.spotify.com/track/3yQQgABgbIcyhy7pJjHfWF"
@@ -649,7 +671,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 220995,
       "name": "Icon",
       "url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b"
@@ -715,7 +737,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 143181,
       "name": "Kobe Bryant",
       "url": "https://open.spotify.com/track/7sYtgBHnF2D1mgA7vNXig1"
@@ -831,7 +853,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 211680,
       "name": "Love Yourz",
       "url": "https://open.spotify.com/track/4gkl7QbQvBd3TM9PhlWFkI"
@@ -1069,7 +1091,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 339506,
       "name": "Seeing Green (with Drake & Lil Wayne)",
       "url": "https://open.spotify.com/track/1TZv3bujNaYz646eezRE91"
@@ -1087,7 +1109,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 270714,
       "name": "STARGAZING",
       "url": "https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m"
@@ -1135,7 +1157,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 173419,
       "name": "Still Runnin (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/5cAN3P7jWVf78gev1eF7TJ"
@@ -1345,7 +1367,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 143152,
       "name": "Woodlawn",
       "url": "https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP"

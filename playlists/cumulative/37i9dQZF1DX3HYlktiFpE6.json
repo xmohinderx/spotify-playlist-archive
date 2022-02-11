@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 171520,
       "name": "Attention",
       "url": "https://open.spotify.com/track/5P40YyCrdZRsoj2vTbSyVI"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 109213,
       "name": "If I Were a Boy",
       "url": "https://open.spotify.com/track/6nbjZ2Jl8yjSZ964YDeRLy"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 233266,
       "name": "Pumped Up Kicks",
       "url": "https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT"
@@ -809,6 +809,24 @@
       "duration_ms": 228000,
       "name": "Radioactive",
       "url": "https://open.spotify.com/track/6vGVf8K3ri7VfkCj6PtZRy"
+    },
+    {
+      "album": {
+        "name": "Impaired",
+        "url": "https://open.spotify.com/album/3C1bXxcAkP6FkHyHGKcDuH"
+      },
+      "artists": [
+        {
+          "name": "The Dartmouth Aires",
+          "url": "https://open.spotify.com/artist/71Cez1b1NqsxIn5u8XNiQD"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199533,
+      "name": "Remix to Ignition",
+      "url": "https://open.spotify.com/track/5q1CMrZQ9LIjjzOoYlz0Fo"
     },
     {
       "album": {
@@ -887,6 +905,28 @@
       "duration_ms": 223840,
       "name": "Riff Off: Mickey/Like A Virgin/Hit Me With Your Best Shot/S&M/Let\u2019s Talk About Sex/I\u2019ll Make Love To You/Feels Like The First Time/No Diggity",
       "url": "https://open.spotify.com/track/6Gds0xbRf66IPJ3Qo0pmPL"
+    },
+    {
+      "album": {
+        "name": "Pitch Perfect Soundtrack",
+        "url": "https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2"
+      },
+      "artists": [
+        {
+          "name": "The Treblemakers",
+          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/61ign4aCSDuDNNibeGNhBB"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196986,
+      "name": "Right Round",
+      "url": "https://open.spotify.com/track/4Gx4trpKEbcJy6JarDuNvR"
     },
     {
       "album": {
@@ -1007,7 +1047,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 183466,
       "name": "Stars",
       "url": "https://open.spotify.com/track/4247FwxHfmtIJgILhAKjaa"

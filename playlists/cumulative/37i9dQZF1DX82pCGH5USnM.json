@@ -156,6 +156,24 @@
     },
     {
       "album": {
+        "name": "Affection",
+        "url": "https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL"
+      },
+      "artists": [
+        {
+          "name": "Goose Groovy",
+          "url": "https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176616,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd"
+    },
+    {
+      "album": {
         "name": "Affection Reflection",
         "url": "https://open.spotify.com/album/3IAEw6178vpkPKJZajvtZ0"
       },
@@ -2855,7 +2873,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 117966,
       "name": "Forest Run",
       "url": "https://open.spotify.com/track/7IfFGjE55MtQejeXNPSlpD"
@@ -2967,6 +2985,24 @@
       "duration_ms": 185583,
       "name": "Get Over",
       "url": "https://open.spotify.com/track/4cTbzyrSwc9bs6Z3v6I26y"
+    },
+    {
+      "album": {
+        "name": "glacial",
+        "url": "https://open.spotify.com/album/4jw8875Q5wwxTWJ63OEw8g"
+      },
+      "artists": [
+        {
+          "name": "Tiriba",
+          "url": "https://open.spotify.com/artist/1SYHJDCUZirC4azFR67geQ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215285,
+      "name": "glacial",
+      "url": "https://open.spotify.com/track/5T0E6sSBSdlHOGOvUnJRx2"
     },
     {
       "album": {
@@ -3341,7 +3377,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 350038,
       "name": "Hugh's Disco",
       "url": "https://open.spotify.com/track/6aQoktEdPA3zbi8ZjS6KUC"
@@ -3537,6 +3573,24 @@
       "duration_ms": 200010,
       "name": "In Brevi",
       "url": "https://open.spotify.com/track/6IdoTS34g52DiT8RoOWQNl"
+    },
+    {
+      "album": {
+        "name": "In Deep",
+        "url": "https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm"
+      },
+      "artists": [
+        {
+          "name": "Vood Gibes",
+          "url": "https://open.spotify.com/artist/1YN2IvyNI4xtOPSRQky7mN"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171289,
+      "name": "In Deep",
+      "url": "https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds"
     },
     {
       "album": {
@@ -4773,7 +4827,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 195987,
       "name": "Morning Tram",
       "url": "https://open.spotify.com/track/1WcZDHH4d9vv9X1xYzWID1"
@@ -4870,6 +4924,24 @@
     },
     {
       "album": {
+        "name": "Myst",
+        "url": "https://open.spotify.com/album/4qHIVZJHIcxTexR7fHC3zv"
+      },
+      "artists": [
+        {
+          "name": "The Pleasure Principle",
+          "url": "https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182267,
+      "name": "Myst",
+      "url": "https://open.spotify.com/track/3v5wI6MHWu2YMB1lnetBkW"
+    },
+    {
+      "album": {
         "name": "New Creation",
         "url": "https://open.spotify.com/album/4kV127M8gRdovkFwvwLGcA"
       },
@@ -4953,7 +5025,7 @@
       ],
       "date_added": "2021-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 171000,
       "name": "Nightly Purpose",
       "url": "https://open.spotify.com/track/1eJpAPbFOJ9FcVrq99Vbsz"
@@ -5393,6 +5465,24 @@
       "duration_ms": 212652,
       "name": "Phase Off",
       "url": "https://open.spotify.com/track/4jnuEF4AKcTnJg0bpiVsKQ"
+    },
+    {
+      "album": {
+        "name": "Piano Park",
+        "url": "https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr"
+      },
+      "artists": [
+        {
+          "name": "Ben Jonovski",
+          "url": "https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Piano Park",
+      "url": "https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ"
     },
     {
       "album": {
@@ -5865,7 +5955,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 194505,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/5UYHZL7Kvi8WMqGxFry4Hs"
@@ -6542,6 +6632,24 @@
     },
     {
       "album": {
+        "name": "Sidebar Sally",
+        "url": "https://open.spotify.com/album/6fnD0mBt9kdNagaR2oBvmu"
+      },
+      "artists": [
+        {
+          "name": "Kleo",
+          "url": "https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175758,
+      "name": "Sidebar Sally",
+      "url": "https://open.spotify.com/track/21ypSBlIsEL8siDMTmufhK"
+    },
+    {
+      "album": {
         "name": "Sights",
         "url": "https://open.spotify.com/album/1nKontDiwLQHVBj5usVEgt"
       },
@@ -6951,6 +7059,24 @@
       "duration_ms": 167239,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV"
+    },
+    {
+      "album": {
+        "name": "Still Need People",
+        "url": "https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182267,
+      "name": "Still Need People",
+      "url": "https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j"
     },
     {
       "album": {
@@ -7419,6 +7545,24 @@
       "duration_ms": 179505,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/0LaErT2gDG7iZhHDKrrb2v"
+    },
+    {
+      "album": {
+        "name": "tanlines",
+        "url": "https://open.spotify.com/album/3eD0id4j2SrYRn9VeX5nkm"
+      },
+      "artists": [
+        {
+          "name": "metricity",
+          "url": "https://open.spotify.com/artist/3GyvrTet9xaits2vMSrVlT"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180668,
+      "name": "tanlines",
+      "url": "https://open.spotify.com/track/1q3rZdIOgKe4LQPpcBqiyo"
     },
     {
       "album": {
@@ -8075,7 +8219,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 131458,
       "name": "Urban Exploration",
       "url": "https://open.spotify.com/track/1ykMsXleK0ys7uJYCDttJT"

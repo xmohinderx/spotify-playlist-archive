@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Babyface Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,965 likes - 48 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,020 likes - 48 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

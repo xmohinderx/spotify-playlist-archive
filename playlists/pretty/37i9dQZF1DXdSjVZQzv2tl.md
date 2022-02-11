@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Hugo & Guilherme, Marília Mendonça
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,278,044 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,279,368 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Faz Amor Comigo Só Hoje \- Ao Vivo](https://open.spotify.com/track/7Kba4OaxQFQ1zlknQUpNqN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Faz Amor Comigo Só Hoje \(Ao Vivo\)](https://open.spotify.com/album/3J7UQC40YfybB6TvralOEK) | 2:28 |
 | 50 | [Coração Na Cama \- Ao Vivo](https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo 3, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb) | 2:53 |
 
-Snapshot ID: `MTY0Mzk0MzYwMCwwMDAwMDFiZjAwMDAwMTdlYzJhY2EwMGUwMDAwMDE3ZWMyNzcwZDU1`
+Snapshot ID: `MTY0NDQ5NzE4OSwwMDAwMDFjMjAwMDAwMTdlZTNhYmJhMjkwMDAwMDE3ZWMyNzcwZDU1`

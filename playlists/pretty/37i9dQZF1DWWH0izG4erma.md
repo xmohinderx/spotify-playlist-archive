@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS!!  <br/>Cover: Brothers Osborne
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,997 likes - 112 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,227 likes - 112 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: AS IT IS",
+  "description": "The best new music from the wide world of punk. Cover: Drug Church",
   "name": "All New Punk",
   "published_playlist_ids": [
     "2haHBtUGc1WwW279RE9x3F"
@@ -41,6 +41,24 @@
       "duration_ms": 195782,
       "name": "2AM (And I Did It Again)",
       "url": "https://open.spotify.com/track/0bOvIiChMJgvGsn5anlJgm"
+    },
+    {
+      "album": {
+        "name": "A Real Thing",
+        "url": "https://open.spotify.com/album/53IuAG6Mqh2iMjI3b1ithn"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215180,
+      "name": "A Real Thing",
+      "url": "https://open.spotify.com/track/5cHFMi5m8FTcYOjzgzmXt1"
     },
     {
       "album": {
@@ -135,6 +153,24 @@
       "duration_ms": 187808,
       "name": "Another Kill For The Highlight Reel",
       "url": "https://open.spotify.com/track/42Zrm6dR3rios7W7I1NizE"
+    },
+    {
+      "album": {
+        "name": "Baby, I Had an Abortion",
+        "url": "https://open.spotify.com/album/0MmQCI3aQdUXVAfN2q67V7"
+      },
+      "artists": [
+        {
+          "name": "Petrol Girls",
+          "url": "https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192446,
+      "name": "Baby, I Had an Abortion",
+      "url": "https://open.spotify.com/track/5ilQi9gYgFQohJ5olmtigL"
     },
     {
       "album": {
@@ -520,6 +556,64 @@
     },
     {
       "album": {
+        "name": "DEAD ASTRONAUT",
+        "url": "https://open.spotify.com/album/5EXQvM0YJmhdqaU0lBXG4A"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "DEAD ASTRONAUT",
+      "url": "https://open.spotify.com/track/2hym6qBXvGwg0VnI7HuZot"
+    },
+    {
+      "album": {
+        "name": "Never Better",
+        "url": "https://open.spotify.com/album/4kIveoABOUtggCmUMS3Iz8"
+      },
+      "artists": [
+        {
+          "name": "Weatherstate",
+          "url": "https://open.spotify.com/artist/21N31MF7KfcS5OXKRBaVZt"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236376,
+      "name": "Dead Space",
+      "url": "https://open.spotify.com/track/2aFF7fuVEtX4THgT1FiFjc"
+    },
+    {
+      "album": {
+        "name": "debbie downer",
+        "url": "https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        },
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159617,
+      "name": "debbie downer",
+      "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
+    },
+    {
+      "album": {
         "name": "Demolition Row",
         "url": "https://open.spotify.com/album/5yFJMmjk4FWPRWT8Bg2IBG"
       },
@@ -574,6 +668,24 @@
     },
     {
       "album": {
+        "name": "Don't Fall In Love With Me",
+        "url": "https://open.spotify.com/album/5IQldAUzw7BjWe6fcg163u"
+      },
+      "artists": [
+        {
+          "name": "Story Untold",
+          "url": "https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Don't Fall In Love With Me",
+      "url": "https://open.spotify.com/track/14U3GHjvw3Bk9HDeEBdrur"
+    },
+    {
+      "album": {
         "name": "Drawers",
         "url": "https://open.spotify.com/album/66zhNJrowQOe0nfj2mrm6o"
       },
@@ -611,6 +723,42 @@
       "duration_ms": 228451,
       "name": "Fall From Grace",
       "url": "https://open.spotify.com/track/5MIHYD2WUOjCNkqOzB7Vi0"
+    },
+    {
+      "album": {
+        "name": "FTHC",
+        "url": "https://open.spotify.com/album/22KVoZ7EmeN7pAbWjb5FeH"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160960,
+      "name": "Fatherless",
+      "url": "https://open.spotify.com/track/0QfugNC25vn2PiFsUaEauO"
+    },
+    {
+      "album": {
+        "name": "Figure Eights In My Head",
+        "url": "https://open.spotify.com/album/2U1bSRxngaxbxzc1vNhNaB"
+      },
+      "artists": [
+        {
+          "name": "A Wilhelm Scream",
+          "url": "https://open.spotify.com/artist/6v7mkDKyZ50l4Jiqwx2JLg"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141849,
+      "name": "Figure Eights In My Head",
+      "url": "https://open.spotify.com/track/4pBHHWqn3Su6vqNPt5w9sJ"
     },
     {
       "album": {
@@ -914,6 +1062,24 @@
     },
     {
       "album": {
+        "name": "I Raise You (The Price of Your Head)",
+        "url": "https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt"
+      },
+      "artists": [
+        {
+          "name": "Folly Group",
+          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231336,
+      "name": "I Raise You (The Price of Your Head)",
+      "url": "https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn"
+    },
+    {
+      "album": {
         "name": "Intimacy",
         "url": "https://open.spotify.com/album/7zYp5nRE0nSKYryN9BUArc"
       },
@@ -1037,6 +1203,24 @@
       "duration_ms": 235094,
       "name": "Keep Going",
       "url": "https://open.spotify.com/track/14YFX4TkMfBY7ibVbtTbzh"
+    },
+    {
+      "album": {
+        "name": "Brass for Gold",
+        "url": "https://open.spotify.com/album/5JGOnZNGITakM9gDfqLgBh"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143030,
+      "name": "Kicking Soles",
+      "url": "https://open.spotify.com/track/2urkZbZWKYQ2gLMuGPOLqo"
     },
     {
       "album": {
@@ -1618,6 +1802,24 @@
     },
     {
       "album": {
+        "name": "Premium Offer",
+        "url": "https://open.spotify.com/album/0779EKnVwh2qEe4qzM2woS"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174091,
+      "name": "Premium Offer",
+      "url": "https://open.spotify.com/track/4QAO8vNiEQJFECZyfksE4i"
+    },
+    {
+      "album": {
         "name": "Prism on a Window",
         "url": "https://open.spotify.com/album/5SHquT5v0YBVOBVJcQDTMb"
       },
@@ -1633,6 +1835,24 @@
       "duration_ms": 172078,
       "name": "Prism on a Window",
       "url": "https://open.spotify.com/track/2Pjyh2H2WfHgXtpKyAmqJH"
+    },
+    {
+      "album": {
+        "name": "Psychic Jailbreak",
+        "url": "https://open.spotify.com/album/68GoH2CL71TtFdL7TgQ1HG"
+      },
+      "artists": [
+        {
+          "name": "Cancer Bats",
+          "url": "https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "Psychic Jailbreak",
+      "url": "https://open.spotify.com/track/2CFCzifspMOF9GJkb67ucV"
     },
     {
       "album": {
@@ -1727,6 +1947,24 @@
       "duration_ms": 216013,
       "name": "Robot Writes A Love Song",
       "url": "https://open.spotify.com/track/2IL6235nJxKiKsBQykUk2M"
+    },
+    {
+      "album": {
+        "name": "Room 156",
+        "url": "https://open.spotify.com/album/1V4Jy2vEzGQwwJ9D34kJsr"
+      },
+      "artists": [
+        {
+          "name": "Crows",
+          "url": "https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "Room 156",
+      "url": "https://open.spotify.com/track/31U2luPkRz8a8rMOp9n9aU"
     },
     {
       "album": {

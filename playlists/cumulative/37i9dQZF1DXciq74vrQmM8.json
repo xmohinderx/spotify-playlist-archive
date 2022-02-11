@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. yeule",
+  "description": "welcome to our universe ft. daine",
   "name": "misfits 2.0",
   "published_playlist_ids": [
     "7v4i1kizdUXc9HxDt7gAmG"
@@ -1398,6 +1398,24 @@
     },
     {
       "album": {
+        "name": "new ground",
+        "url": "https://open.spotify.com/album/3Fph5JhkVM91EjzCLAxUsV"
+      },
+      "artists": [
+        {
+          "name": "daine",
+          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172373,
+      "name": "new ground",
+      "url": "https://open.spotify.com/track/4wq4nZrqN8i4dRz3Wlj1OX"
+    },
+    {
+      "album": {
         "name": "NIGHTMARES",
         "url": "https://open.spotify.com/album/5S8FMiG1oz3ynTO2yYRwO8"
       },
@@ -1507,6 +1525,24 @@
       "duration_ms": 142699,
       "name": "Pink Bubblegum",
       "url": "https://open.spotify.com/track/4jxg7aD2s4ehpjyVP0qisg"
+    },
+    {
+      "album": {
+        "name": "pity party (hyperpunk remix)",
+        "url": "https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156879,
+      "name": "pity party (hyperpunk remix)",
+      "url": "https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL"
     },
     {
       "album": {

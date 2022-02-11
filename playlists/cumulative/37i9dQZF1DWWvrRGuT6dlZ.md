@@ -2,7 +2,7 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
-> Unearthing your new favourite artists\. Cover: aeriqah\. Artwork: Isu Kim
+> Unearthing your new favourite artists\. Cover: Paper Citizen\. Artwork: Isu Kim.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,9 @@
 | [Good Vibes](https://open.spotify.com/track/2vM8mWh9tEnTG8RTMD0t24) | [Yul Elias](https://open.spotify.com/artist/79EQjEKZfDJYUM4Kj6yWxZ), [Yazsar](https://open.spotify.com/artist/2PsTwWdDdNZHpbZYj2Czrm) | [Good Vibes](https://open.spotify.com/album/3Lv5bpblF3ep6rdEYKvUgG) | 4:04 | 2022-01-13 |  |
 | [gotta swim](https://open.spotify.com/track/7FKRSuXtdSvy62jjFzKYsb) | [Absence!](https://open.spotify.com/artist/1BjwVi1onfbbvL3DK3MIKB) | [gotta swim](https://open.spotify.com/album/4LtUV3xM0xHnH7tbOTImjh) | 4:11 | 2022-01-13 |  |
 | [Guilty](https://open.spotify.com/track/5a0721eNhawTeTrp5V91AK) | [ABBEY](https://open.spotify.com/artist/025iaeoX6uj3UKZbSG0LcR) | [Guilty](https://open.spotify.com/album/0BFcsokFBzCI4WBcUOoxC6) | 3:09 | 2021-12-01 | 2022-01-14 |
+| [hands to yourself](https://open.spotify.com/track/7DXEAhWuCuWo3ya6FBI5Jg) | [Jazzy](https://open.spotify.com/artist/2GycKV84bgjhaEtyRtqwJZ), [Alex Yen](https://open.spotify.com/artist/35gMLw7WSqX6NiBv6Rz5KN) | [hands to yourself](https://open.spotify.com/album/5TdnYH9K0ZyQUD4CagIVKb) | 3:11 | 2022-02-10 |  |
 | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/track/2GkRcyxXrcK1N69fTvh41V) | [Qastalani](https://open.spotify.com/artist/66WdsOJqSYj93d2tDRygaj) | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/album/12tStuD8cBgyYlLGuNt1un) | 3:08 | 2021-12-01 | 2022-01-14 |
+| [Heart On Fire](https://open.spotify.com/track/6tvl88OEmUpw4uAh9nNI9S) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Heart On Fire](https://open.spotify.com/album/178NsqOrpIbqpOQtJparp5) | 3:46 | 2022-02-10 |  |
 | [Hold Me](https://open.spotify.com/track/22UneO4S3Num3CIsFsX3BR) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH) | [Hold Me](https://open.spotify.com/album/2F3wq0941ab4XPnfNapWTH) | 2:34 | 2021-12-01 | 2022-01-14 |
 | [home.](https://open.spotify.com/track/6x6i7ky72K8OgytVjmDPpJ) | [Lincoln Lim](https://open.spotify.com/artist/6SWt2vc0oCLKFQKy5OB253) | [home.](https://open.spotify.com/album/78qhhu1f0mzaBHHnH5e3Ev) | 5:31 | 2022-01-20 |  |
 | [Homemade Chicken Soup](https://open.spotify.com/track/0ZDb1gKLEmimWszMPX6QjY) | [thelandofgreysea](https://open.spotify.com/artist/1elZrGAuUvrokatVLMnUWl), [DSML](https://open.spotify.com/artist/7kZ5xFtlC9bPMPjWGYBpIu) | [Homemade Chicken Soup](https://open.spotify.com/album/0tNXJpv0SkYP1aB6Xv0vWw) | 2:05 | 2022-01-13 |  |
@@ -70,7 +72,7 @@
 | [I Don't Mind](https://open.spotify.com/track/3DzYmaYp3RIFYsn4WF9W22) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt), [Karena Yeo](https://open.spotify.com/artist/3aHgoRddVvpmmaci2RNzZj), [Vessail](https://open.spotify.com/artist/5BkvrjwohNWFvwYUJ1jxnZ) | [I Don't Mind](https://open.spotify.com/album/5sT9gxDFo7toJBGbZEktqS) | 3:05 | 2022-01-13 |  |
 | [i knew you'd break me too](https://open.spotify.com/track/3GxfAIc71D0H34YjmRtN4C) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [i knew you'd break me too](https://open.spotify.com/album/7M9BIvJayv8lJAyP9EI8vD) | 3:06 | 2022-01-13 |  |
 | [i like red](https://open.spotify.com/track/3GQ4GdXU8wBbPqBcKDTJ65) | [Charlene Su](https://open.spotify.com/artist/5Ltw2zQx9zqzyXfsQkkFBD) | [i like red](https://open.spotify.com/album/2DYmZa0uuVkUGdwqjNTJNj) | 2:02 | 2021-12-01 | 2022-01-14 |
-| [I Miss You](https://open.spotify.com/track/33bTQa936DdseMAkYG480W) | [AFMidnight](https://open.spotify.com/artist/6XvBP1jL8uPMvAwqvNzNXc) | [I Miss You](https://open.spotify.com/album/2ZT0rNL2TyFN5w7DvmXl9a) | 3:10 | 2022-01-27 |  |
+| [I Miss You](https://open.spotify.com/track/33bTQa936DdseMAkYG480W) | [AFMidnight](https://open.spotify.com/artist/6XvBP1jL8uPMvAwqvNzNXc) | [I Miss You](https://open.spotify.com/album/2ZT0rNL2TyFN5w7DvmXl9a) | 3:10 | 2022-01-27 | 2022-02-11 |
 | [If I Told You](https://open.spotify.com/track/4FQcQxmFQiIlzRC04x8gOd) | [Tiara Maimun](https://open.spotify.com/artist/0YLCRlUQxyVLAlIlqU56SB) | [If I Told You](https://open.spotify.com/album/5oFEP7JTL8qC7aHnBd9etf) | 3:36 | 2021-12-01 | 2022-01-14 |
 | [if you'd have me](https://open.spotify.com/track/0YRm5Kbyhg0u9O38pBhC8X) | [whirring](https://open.spotify.com/artist/6tVhJDK05xM7fBVa6Jx2cU) | [if you'd have me](https://open.spotify.com/album/6AVG11CgJQl58BK2Kug9BC) | 2:55 | 2021-12-01 | 2022-01-14 |
 | [ily](https://open.spotify.com/track/3O2KSaYVs7Dh7i5LxWqumA) | [Isabelle Wong](https://open.spotify.com/artist/61cPV1F8G8kVDCFpk9bURe) | [ily](https://open.spotify.com/album/1zPHjigvi5vLHptht1yQPp) | 3:04 | 2022-01-13 |  |
@@ -101,6 +103,7 @@
 | [Next To You \- Karazey Remix](https://open.spotify.com/track/0stQ4u3sU52yaD8BqwkAgk) | [Monoriff](https://open.spotify.com/artist/36uQyCP3IOQkRwL5AU8jnB), [Karazey](https://open.spotify.com/artist/2sA7JXgexSOAcvqTBveRNf) | [Next To You \(Karazey Remix\)](https://open.spotify.com/album/25mMcTUrDf5hzIhMAadvXs) | 3:16 | 2022-01-27 |  |
 | [Nice Guy](https://open.spotify.com/track/4mqfulQde45NLDlT06XDbu) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Irwinandfire](https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa) | [Nice Guy](https://open.spotify.com/album/5wFgGKoAS8BrCMjEmaNzgy) | 2:53 | 2021-12-01 | 2022-01-14 |
 | [Night Skies](https://open.spotify.com/track/3FLzaNA0bJd3DeuWUxkSBx) | [SWIT](https://open.spotify.com/artist/6jXLHnwTIZ42hffoRuELR1), [Fil El](https://open.spotify.com/artist/7Js1LB4tguiRHf8NketrK3) | [Night Skies](https://open.spotify.com/album/7Gp1FsShKxC3NUEWttyhva) | 3:43 | 2022-01-13 |  |
+| [no bad vibes](https://open.spotify.com/track/5UGItqf6dcDAsNaoaTuRwY) | [Qis Maraj](https://open.spotify.com/artist/0rRWud0f3XEpYgiHcIiBSv) | [no bad vibes](https://open.spotify.com/album/4PNfpkpHYk83OnQ6EBKUIn) | 2:34 | 2022-02-10 |  |
 | [Novacane](https://open.spotify.com/track/4dpB2DGhRfxbsbqCyxsKi1) | [Alysha Ridwan](https://open.spotify.com/artist/2divqL5ztMYdbU8PguBHxC) | [Novacane](https://open.spotify.com/album/0N4lMcPnDAgXEXF0yVTdJ4) | 2:56 | 2022-01-27 |  |
 | [Oh It's You](https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Summertime](https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a) | 3:25 | 2021-12-01 | 2022-01-14 |
 | [Only Lover](https://open.spotify.com/track/12hueiL6lpOWp1HlnZ8tGO) | [Micki Jayy](https://open.spotify.com/artist/5zopZiBoumSnc3vhbe66IZ) | [Only Lover](https://open.spotify.com/album/74t2G0n8dX98XzCY3TuFvc) | 2:58 | 2022-01-27 |  |
@@ -114,6 +117,7 @@
 | [Running](https://open.spotify.com/track/1YpPgnVsX1qTPHgmGQCjcw) | [codecaud](https://open.spotify.com/artist/3o5MStF8uD9Vvy8Hgqk9ju) | [Still Jive](https://open.spotify.com/album/50QSLXhEWwltjrd2cdmN7u) | 3:58 | 2021-12-01 | 2022-01-14 |
 | [Runway](https://open.spotify.com/track/4hAs3NCpwL8Lhr4GcL9kkV) | [Cadence](https://open.spotify.com/artist/0MtXc3VR14iObCndBTBHTr) | [Runway](https://open.spotify.com/album/3mrOvZdzJgCflKQdJDBxPs) | 3:32 | 2022-01-13 |  |
 | [Sad Blue Eyes](https://open.spotify.com/track/17BCfjdEFjp0LdbYiZMpIp) | [Suehaila](https://open.spotify.com/artist/2CrbmDngTlkWzpWszKVR3p) | [Sad Blue Eyes](https://open.spotify.com/album/51Z8I8NYJTJ0xvhJ85KBPf) | 3:22 | 2021-12-01 | 2022-01-14 |
+| [SAUCE!](https://open.spotify.com/track/7nqGdKjlt1X4hBuPB2Ccm4) | [FUDGY](https://open.spotify.com/artist/277YzxZXoTJUeJaH4cfmQL) | [SAUCE!](https://open.spotify.com/album/7wKL6WBL0lxZlo8h8thdDf) | 2:27 | 2022-02-10 |  |
 | [Shadows](https://open.spotify.com/track/4aw1CYgrgWNUDWXmuXhtLK) | [Redwan Hamzah](https://open.spotify.com/artist/6gubGGxqITX4wIbRHqEMUE) | [Shadows](https://open.spotify.com/album/3vLoez9XAXujGBr7CQjavo) | 4:58 | 2022-01-27 |  |
 | [Shape of Your Love](https://open.spotify.com/track/7zvCdlYkabM6T5E1V1OvVl) | [HE1ST](https://open.spotify.com/artist/3qaVa0rLcDzCWzKjpJdKCX) | [Shape of Your Love](https://open.spotify.com/album/4inJZlyjetZp8JmA3JpMOZ) | 3:14 | 2021-12-01 | 2022-01-14 |
 | [Sick Sad Love Song](https://open.spotify.com/track/69OA949QUIJh51PXeHbsYn) | [St\. Humain](https://open.spotify.com/artist/1TzaWm5TbNb62mWSvoTW2Y) | [Sick Sad Love Song](https://open.spotify.com/album/5ZyGPSv12xrGf1tyFbk7n4) | 3:07 | 2022-01-13 |  |

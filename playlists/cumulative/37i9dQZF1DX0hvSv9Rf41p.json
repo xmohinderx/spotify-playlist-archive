@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "Boom",
       "url": "https://open.spotify.com/track/7MvxyZhbn6dClch6g8mCNX"
@@ -605,7 +605,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 175792,
       "name": "DAYTONS",
       "url": "https://open.spotify.com/track/3qOQF98C8xvlpdzD7LZHHu"
@@ -1045,7 +1045,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Fight Milk",
       "url": "https://open.spotify.com/track/3NR2E4XSKDzasRnTzivtLU"
@@ -1067,7 +1067,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 190909,
       "name": "Fight Or Flight",
       "url": "https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 221750,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
@@ -1469,7 +1469,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 200000,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/6SRtJnv0NAEIMRLYoCKgoP"
@@ -1509,7 +1509,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 270422,
       "name": "How To Feel",
       "url": "https://open.spotify.com/track/7JaHPMXlx37VACDtbROCUW"
@@ -1721,7 +1721,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 202736,
       "name": "KENKA",
       "url": "https://open.spotify.com/track/0IWI0riXpzyc5FqVuoljGJ"
@@ -2311,7 +2311,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 220500,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/5g1WgQiZSetIq1mztFOAGH"
@@ -2979,7 +2979,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 182857,
       "name": "Scars",
       "url": "https://open.spotify.com/track/5t0EAqNTV7MmQI6tvlrqmk"
@@ -3153,7 +3153,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/0LCUh32YKsqbh3d7eCJIh8"
@@ -3569,6 +3569,32 @@
       "duration_ms": 308400,
       "name": "This Could Be Us",
       "url": "https://open.spotify.com/track/45PEs9rgK7Q4gcxwOsPM4o"
+    },
+    {
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/6F39Vxaf4xtK02FL8DQ2Vj"
+      },
+      "artists": [
+        {
+          "name": "Abandoned",
+          "url": "https://open.spotify.com/artist/1qs72LBhNBAQGwxFAnlo0x"
+        },
+        {
+          "name": "Nytrix",
+          "url": "https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa"
+        },
+        {
+          "name": "DVRKCLOUD",
+          "url": "https://open.spotify.com/artist/3d5iL1jm2HGMJS1woaIohE"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267433,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/50YSCNyYuyZpgQ0QFmsqln"
     },
     {
       "album": {

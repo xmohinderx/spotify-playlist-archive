@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WxEZbyU6MA.md) - [plain]
 
 > Relax to the calming sounds of choral music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,843 likes - 60 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,885 likes - 60 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

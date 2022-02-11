@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain]
 
 > Instrumental guitar for rainy day contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,501 likes - 120 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,530 likes - 120 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bgBpcV2oGY.md) - [plain]
 | 74 | [Window From A Train](https://open.spotify.com/track/2Nvuy3Oj6KXMay8iCjJLsw) | [Carrie Mittenkemp](https://open.spotify.com/artist/6nKvQqW0UVk8LBPUNxUH1P) | [Window From A Train](https://open.spotify.com/album/6QGcFMaEC1eSBuO2QgH9yT) | 2:25 |
 | 75 | [Vero Amore](https://open.spotify.com/track/1kkvNP512ctkEDMJIq2ca3) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Vero Amore](https://open.spotify.com/album/2xfZJ7RYOMiBDWKy0m9g9L) | 2:40 |
 | 76 | [Guachinango](https://open.spotify.com/track/2UMCVuUjTYG2ZJf9Dqdmuq) | [Acusticalia](https://open.spotify.com/artist/0JsktCrX85DtrZ4PWbs3bv) | [Mixtlan](https://open.spotify.com/album/28muYyyz6ID3quXRKM4SN0) | 2:35 |
-| 77 | [Doldrums](https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG) | [Leo Krepper](https://open.spotify.com/artist/3brfwMGTs3rErKQ1aLzlZC) | [Doldrums](https://open.spotify.com/album/5K7l55YIhPjl3HoY1eYgHF) | 2:20 |
+| 77 | [Doldrums](https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Doldrums](https://open.spotify.com/album/5K7l55YIhPjl3HoY1eYgHF) | 2:20 |
 | 78 | [Bibo No Aozora](https://open.spotify.com/track/5JitZNsoYf7zzF2MDcwO8G) | [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED) | [Bibo No Aozora](https://open.spotify.com/album/0o613KBRB7aYyCURvsyyZT) | 3:06 |
 | 79 | [Seerosen Teich](https://open.spotify.com/track/1DOjcrbaQbzU2zyHbBg5KM) | [Marco Tournesol](https://open.spotify.com/artist/1CpSnAYIqeAWZVDyWDqxws) | [Seerosen Teich](https://open.spotify.com/album/3Tsldk3OSEHytaICuSND55) | 2:57 |
 | 80 | [Adagio Albinoni](https://open.spotify.com/track/5xEcZIjrJu3DI7hz8k4Ltw) | [Richard Mollenbeck](https://open.spotify.com/artist/2zFkwocH9Ah8KpUzydbcrO) | [Classical Guitar for Study](https://open.spotify.com/album/1E5EqMSPzEnbaYbWnHIMCY) | 2:35 |

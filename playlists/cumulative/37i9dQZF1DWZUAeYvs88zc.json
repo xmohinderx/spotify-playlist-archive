@@ -163,7 +163,7 @@
       ],
       "date_added": "2019-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 193293,
       "name": "All You Had To Do Was Stay",
       "url": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 201286,
       "name": "Die On The Dancefloor",
       "url": "https://open.spotify.com/track/5cGCTK7q37dgISC1IYQuS1"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 174071,
       "name": "Different People",
       "url": "https://open.spotify.com/track/2gbYKZdLvnMFf8tFTwIaEh"
@@ -2270,6 +2270,28 @@
     },
     {
       "album": {
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Frances",
+          "url": "https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195853,
+      "name": "Heartbreak On The Dancefloor (feat. Frances)",
+      "url": "https://open.spotify.com/track/7LgOkzv8NTDeInrCLJnNru"
+    },
+    {
+      "album": {
         "name": "Heartburn",
         "url": "https://open.spotify.com/album/4RfO9aZPT2i4U2Wi1ERfOP"
       },
@@ -2321,7 +2343,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 268733,
       "name": "Hold No Grudge - Bonus Track",
       "url": "https://open.spotify.com/track/188rKyWMsC4WsKKZ85lnUO"
@@ -3081,7 +3103,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 176703,
       "name": "It\u2019s You, Not Me (Sabotage)",
       "url": "https://open.spotify.com/track/2Vz1Kcs9Chj8SGb2UjPMxP"
@@ -3405,7 +3427,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 179076,
       "name": "Life's a Bitch (L.A.B)",
       "url": "https://open.spotify.com/track/72Stw9ZEi73pKIQsctIb9x"
@@ -3673,7 +3695,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-04",
+      "date_removed": null,
       "duration_ms": 164166,
       "name": "Love Runs Out (feat. G-Eazy & Sasha Alex Sloan)",
       "url": "https://open.spotify.com/track/3jbAzLVcHiI5hYSkcKe1Ty"
@@ -3763,7 +3785,7 @@
       ],
       "date_added": "2020-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 200400,
       "name": "me & ur ghost",
       "url": "https://open.spotify.com/track/4yJiXq86uM56uIfIZgE440"
@@ -4269,7 +4291,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 205580,
       "name": "not cool anymore,",
       "url": "https://open.spotify.com/track/4iabzEk5WL3yipdTR7uohI"
@@ -5005,7 +5027,7 @@
       ],
       "date_added": "2020-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 170546,
       "name": "Sad Together",
       "url": "https://open.spotify.com/track/586bDV7NhZOAfjMdER1cYc"
@@ -5273,7 +5295,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 212262,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC"
@@ -5723,7 +5745,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 277506,
       "name": "Supercut",
       "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
@@ -5799,7 +5821,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 146533,
       "name": "Take On Me",
       "url": "https://open.spotify.com/track/7aW7NJWNPSNOMGRUCmIody"

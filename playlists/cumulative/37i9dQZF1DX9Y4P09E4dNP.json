@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 301609,
       "name": "Abrantee",
       "url": "https://open.spotify.com/track/4cZvoz7mHBLAc42FBVya0i"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 324806,
       "name": "Abuskeleke",
       "url": "https://open.spotify.com/track/2iywIMWIJIEH5kCKpP9Zdf"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 330573,
       "name": "Ahomka Womu",
       "url": "https://open.spotify.com/track/64QtNm7SM1TwKZ3iINW6Be"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 305972,
       "name": "Deeba",
       "url": "https://open.spotify.com/track/6NLy8oSDKKXfHfxpKeAjOt"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 351033,
       "name": "Dondo",
       "url": "https://open.spotify.com/track/0YrIz7PlFQPjRVzP8hQsH2"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 399124,
       "name": "I'm Going to Come",
       "url": "https://open.spotify.com/track/5DcOSvBnce6X6GlsAa0eZ4"
@@ -541,10 +541,28 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 212767,
       "name": "Maba",
       "url": "https://open.spotify.com/track/4Ygc9wczMo4gt2kjslEsoJ"
+    },
+    {
+      "album": {
+        "name": "Made in Ghana",
+        "url": "https://open.spotify.com/album/2U7uD59hrGd7V5i1HiASD1"
+      },
+      "artists": [
+        {
+          "name": "RCEE",
+          "url": "https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189474,
+      "name": "Made in Ghana",
+      "url": "https://open.spotify.com/track/7dMMkof2wbprZYG6ggp8eP"
     },
     {
       "album": {
@@ -563,7 +581,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 292106,
       "name": "Medo",
       "url": "https://open.spotify.com/track/2oyghYx5263u7C6O1vq2FA"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 346775,
       "name": "Mesan Aba (feat. Nana Quame)",
       "url": "https://open.spotify.com/track/6ubA77bSivUeRqk10GpRTX"
@@ -705,7 +723,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 309786,
       "name": "Odo Esisi Me",
       "url": "https://open.spotify.com/track/2zhlGF3UdumrDkgLx3iaVv"
@@ -741,7 +759,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 338076,
       "name": "Ofie Nipa",
       "url": "https://open.spotify.com/track/5NahRnfX0SvMD1axzzVQsk"
@@ -795,7 +813,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 300359,
       "name": "Oye Ohene featuring Tinny",
       "url": "https://open.spotify.com/track/4vR0tJ5daJdqZ0sjEidju2"
@@ -849,7 +867,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 304222,
       "name": "Sikilitele",
       "url": "https://open.spotify.com/track/3PeIqo6ofIXXey8FmE8QjR"
@@ -911,7 +929,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 272901,
       "name": "Sudwe (feat. Batman & Tinny)",
       "url": "https://open.spotify.com/track/4aSkWak39yEulN0pwtYfir"
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 365191,
       "name": "Toffee",
       "url": "https://open.spotify.com/track/6vmZvszEVumYcks9XOkjiN"
@@ -1059,7 +1077,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 344790,
       "name": "Wafom",
       "url": "https://open.spotify.com/track/2pY5TiBztBDclvZoGNm90E"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 233333,
       "name": "Ware Me",
       "url": "https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 204220,
       "name": "Wish Me Well",
       "url": "https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 244950,
       "name": "Wo Sisi Ye Woya",
       "url": "https://open.spotify.com/track/4gaDKm5JQYlo6DFOv3eHAF"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 320261,
       "name": "Wokye (feat. Lazy Dogg)",
       "url": "https://open.spotify.com/track/5k33aBKKLT6Xc9eQ6CMXng"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 293355,
       "name": "Yahooya (feat. Batman)",
       "url": "https://open.spotify.com/track/2f31vW2Rp3390tlIZ0IHzl"

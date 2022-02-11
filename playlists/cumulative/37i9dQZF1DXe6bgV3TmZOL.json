@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 202907,
       "name": "1234",
       "url": "https://open.spotify.com/track/4Mbj2NKklmBRfs0ekO6cQ5"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 216625,
       "name": "Balboa Son",
       "url": "https://open.spotify.com/track/7Lbd9uhPYTnMHwxRTIUPbU"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 235013,
       "name": "Calm Before the Storm",
       "url": "https://open.spotify.com/track/09HfJKl4pR0dWn8Ym9XAcl"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 225133,
       "name": "Chaos And Earthquakes",
       "url": "https://open.spotify.com/track/2imkodSyg1hOZwZuE2fJdU"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 197853,
       "name": "Drop Dead Cynical",
       "url": "https://open.spotify.com/track/0Ra3DxdKaqmMhUy2enFfb4"
@@ -1651,7 +1651,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 315177,
       "name": "Nero Forte",
       "url": "https://open.spotify.com/track/56fiFTRrSiHHH3gBeaTg2P"
@@ -1687,7 +1687,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 189746,
       "name": "Nimrod",
       "url": "https://open.spotify.com/track/5cUziBfFGOHrkXFE4qAgKe"
@@ -2065,7 +2065,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 206471,
       "name": "Risen",
       "url": "https://open.spotify.com/track/5SPdrK8RwO52MlBI1kjcft"
@@ -2119,7 +2119,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 240660,
       "name": "Savior",
       "url": "https://open.spotify.com/track/5PMogZN5K3HUfge2IvAecW"
@@ -2217,7 +2217,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 180810,
       "name": "Silence Means Nothing (feat. Liam Cormier)",
       "url": "https://open.spotify.com/track/1iG8AeszL0CUIp6ryOG1za"
@@ -2589,7 +2589,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 260276,
       "name": "Unsainted",
       "url": "https://open.spotify.com/track/2093eVNfimjmNjU1gk1ES7"
@@ -2643,10 +2643,36 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 231963,
       "name": "Waking Lions",
       "url": "https://open.spotify.com/track/7L9GgvMlQ3wcSrDoeGWAej"
+    },
+    {
+      "album": {
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/3nxyPoazh75KnTzqSXfRDY"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167034,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/0KBRMpZVUTxrU8blRUBfm3"
     },
     {
       "album": {
@@ -2773,7 +2799,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 193653,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/1wZy1qIk3qPVv33I9bALi6"

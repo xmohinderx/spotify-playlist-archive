@@ -2,7 +2,7 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Schmyt
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: FLØRE
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10,7 +10,7 @@
 | [2 become 1](https://open.spotify.com/track/2kmaG6LSoJGUrLf9MAAX8P) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [2 become 1](https://open.spotify.com/album/6NQjPTgNuXOnxTXpSz6OD4) | 2:49 | 2021-12-16 |  |
 | [A Declaration of Love](https://open.spotify.com/track/65bMFgIYR9rxMR9GeYraIh) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 5:34 | 2021-12-16 | 2022-01-14 |
 | [All We Are](https://open.spotify.com/track/0RuQVn5JcxuDBSNxo1sxau) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:38 | 2021-12-16 |  |
-| [Another year like that and we'd all be dead](https://open.spotify.com/track/7ytFo4I2OsaiGRhYdFGoQW) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ROMANIAC](https://open.spotify.com/album/6DqP8rOL3mQrK1av1L3AbT) | 4:36 | 2021-12-16 |  |
+| [Another year like that and we'd all be dead](https://open.spotify.com/track/7ytFo4I2OsaiGRhYdFGoQW) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [ROMANIAC](https://open.spotify.com/album/6DqP8rOL3mQrK1av1L3AbT) | 4:36 | 2021-12-16 | 2022-02-11 |
 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 | 2022-01-27 |  |
 | [besonders](https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [besonders](https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg) | 3:00 | 2022-01-13 |  |
 | [Boomerang](https://open.spotify.com/track/1DilMm613lCaBlin10YfGM) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO) | [Aylo Technology](https://open.spotify.com/album/0AbFBBT1NiSS7x9IDghT2T) | 2:11 | 2021-12-16 | 2022-01-21 |
@@ -21,6 +21,7 @@
 | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/track/7w6HmxoHbohJ9S9lScjH1m) | [Aylo](https://open.spotify.com/artist/5ggr9FUq9cjogKBxQmI2ZO), [Takt32](https://open.spotify.com/artist/1G7TGDJ01So6i6XNirnVS7) | [Diamonds \(feat\. Takt32\)](https://open.spotify.com/album/5WAnIlIOyTf5VJwMqB8DxF) | 2:23 | 2021-12-16 |  |
 | [Dies & Das](https://open.spotify.com/track/5GzBVGr752l5qcGo2ZBNoS) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi) | [Dies & Das](https://open.spotify.com/album/3w25lpXTAf001nxzF9nBPI) | 2:19 | 2021-12-16 |  |
 | [DON'T BLAME ME](https://open.spotify.com/track/4HGmBETDnJDreKHb9tW2bg) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [TEETH OUT](https://open.spotify.com/album/6wE7d28Rxv1y1v2FSaYnW2) | 2:27 | 2021-12-16 |  |
+| [Don't U Dare](https://open.spotify.com/track/3CQuzM93RAg867gQ0mVAw7) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Don't U Dare](https://open.spotify.com/album/2YV91Zb0tDaxAsT2mmBDFP) | 2:42 | 2022-02-10 |  |
 | [Eins sein](https://open.spotify.com/track/1cIk7YqCnsVEv6FGRFLLrU) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Eins sein](https://open.spotify.com/album/7uFZmTPubuC0o8gV4ODoL6) | 2:52 | 2021-12-16 | 2022-01-14 |
 | [End of the Road](https://open.spotify.com/track/3BfRjAclEFihCqLguT8Ch7) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [End of the Road](https://open.spotify.com/album/77eNqATHOvAle5qBQqBHtM) | 2:39 | 2021-12-16 |  |
 | [Feel Good](https://open.spotify.com/track/3Qhb33VQRVAfCVEa1oga05) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Feel Good](https://open.spotify.com/album/6p4rt48ywuUFCaQtbicjUy) | 3:17 | 2021-12-16 |  |

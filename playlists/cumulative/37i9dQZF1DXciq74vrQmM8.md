@@ -2,7 +2,7 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
-> welcome to our universe ft\. yeule
+> welcome to our universe ft\. daine
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,12 +79,14 @@
 | [My Mother Wants Me Dead](https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [My Mother Wants Me Dead](https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK) | 1:45 | 2021-12-27 | 2022-02-04 |
 | [My Name is Dark \- Art Mix](https://open.spotify.com/track/43DBhwmvfhWTQwBRmJsafC) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 5:56 | 2021-12-27 | 2022-01-19 |
 | [Napalm](https://open.spotify.com/track/5DCFs0BboOFVMCYWMpQfeH) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Napalm](https://open.spotify.com/album/7sJcgW8x73vH5vwhqEdsLz) | 2:30 | 2022-01-28 |  |
+| [new ground](https://open.spotify.com/track/4wq4nZrqN8i4dRz3Wlj1OX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [new ground](https://open.spotify.com/album/3Fph5JhkVM91EjzCLAxUsV) | 2:52 | 2022-02-11 |  |
 | [NIGHTMARES](https://open.spotify.com/track/7mSlQDf71bBDU3vRMJCSol) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [NIGHTMARES](https://open.spotify.com/album/5S8FMiG1oz3ynTO2yYRwO8) | 2:12 | 2021-12-27 |  |
 | [nihilist blues \(feat\. Grimes\)](https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 5:25 | 2022-02-04 |  |
 | [Opinion](https://open.spotify.com/track/2ODY9n6MPPDTLgqTlgFW50) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [Opinion](https://open.spotify.com/album/1zR96H40EoUG62VmJ7fK6A) | 2:27 | 2021-12-27 | 2022-02-04 |
 | [Outcast Radio](https://open.spotify.com/track/2ZXmDl6a8yvWRTrOml2wvS) | [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Outcast Radio](https://open.spotify.com/album/3RDcuLho8axFjv64qo9iFg) | 2:49 | 2021-12-27 | 2022-01-06 |
 | [P.M.P](https://open.spotify.com/track/1VA0mnllvpmDA9bnRAuTXL) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [P.M.P](https://open.spotify.com/album/6g1CyzJuejx3AVopNeS1aX) | 3:22 | 2021-12-27 |  |
 | [Pink Bubblegum](https://open.spotify.com/track/4jxg7aD2s4ehpjyVP0qisg) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Bubblegum](https://open.spotify.com/album/70bWJ4nB1AGuDh5hqfZ3pf) | 2:22 | 2021-12-27 |  |
+| [pity party \(hyperpunk remix\)](https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [pity party \(hyperpunk remix\)](https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF) | 2:36 | 2022-02-11 |  |
 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 | 2021-12-27 | 2022-01-29 |
 | [Pretty Boy](https://open.spotify.com/track/4rTYW2D4ndQC02e6qAPo2p) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Boys Will Be Boys](https://open.spotify.com/album/3EQRAaLvsRsyp9Zr7y0rKJ) | 2:32 | 2021-12-27 |  |
 | [prick](https://open.spotify.com/track/6IUVdUkKw18jHqFAjl7y8k) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [prick](https://open.spotify.com/album/6enhvDQVtETLMQZjAzlUWp) | 2:14 | 2021-12-27 | 2022-02-04 |

@@ -866,6 +866,24 @@
     },
     {
       "album": {
+        "name": "(yellow)",
+        "url": "https://open.spotify.com/album/4OwS1arhD7iCSSDRjF28tu"
+      },
+      "artists": [
+        {
+          "name": "De Staat",
+          "url": "https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164739,
+      "name": "Who\u2019s Gonna Be The GOAT?",
+      "url": "https://open.spotify.com/track/43lovrb0yCRgUzM3CA2KNz"
+    },
+    {
+      "album": {
         "name": "F*CK LOVE (SAVAGE)",
         "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
       },

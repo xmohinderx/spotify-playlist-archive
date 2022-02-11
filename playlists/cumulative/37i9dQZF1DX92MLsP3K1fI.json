@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-02-09",
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! En portada: Alejandra Guzm\u00e1n",
   "name": "Oye Pop",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "4deShREhcI0g0uTRXQGiPo"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 165896,
       "name": "11 Con 11",
       "url": "https://open.spotify.com/track/3Svyh4451NwWlZJaYNPAXS"
@@ -60,6 +62,54 @@
     },
     {
       "album": {
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/4jiWU7w7CXSn56IPKdLH5T"
+      },
+      "artists": [
+        {
+          "name": "Adriana Torron",
+          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
+        },
+        {
+          "name": "Pascal",
+          "url": "https://open.spotify.com/artist/2fuu7gBnfDhgJNt1Yr4ERu"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167474,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/0ZjhDp2DAAAH5gTj8b7qBK"
+    },
+    {
+      "album": {
+        "name": "Algo Como Lo Nuestro No Existe",
+        "url": "https://open.spotify.com/album/2eO3vmz8Kz0KGWGa0YjgRD"
+      },
+      "artists": [
+        {
+          "name": "Alan Estrada",
+          "url": "https://open.spotify.com/artist/52CxCoUZXDONXWfnqEKdX0"
+        },
+        {
+          "name": "Jannette Chao",
+          "url": "https://open.spotify.com/artist/49xEbqPQALFf9rzEwO924T"
+        },
+        {
+          "name": "Vince Miranda",
+          "url": "https://open.spotify.com/artist/26yqxU7d4WlsJy4RiQvpgQ"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "Algo Como Lo Nuestro No Existe",
+      "url": "https://open.spotify.com/track/5DfHtdirAqVrvnwwdfcmdi"
+    },
+    {
+      "album": {
         "name": "Amapolas (Remix)",
         "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
       },
@@ -93,7 +143,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 208636,
       "name": "Amor",
       "url": "https://open.spotify.com/track/6vmhP1NKDIFT79gpz7Anzl"
@@ -111,10 +161,28 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 236900,
       "name": "Amor - Prestado",
       "url": "https://open.spotify.com/track/1aH5VLlp7W3Cy2YMu1PW90"
+    },
+    {
+      "album": {
+        "name": "Arrebatada",
+        "url": "https://open.spotify.com/album/5LpKeG5wRaCMdCjoKft3bn"
+      },
+      "artists": [
+        {
+          "name": "GRECIA",
+          "url": "https://open.spotify.com/artist/38R1cYS63phBu2ZIsOinxw"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137333,
+      "name": "Arrebatada",
+      "url": "https://open.spotify.com/track/2NPrK3MXPjgoZgXqgjWDKA"
     },
     {
       "album": {
@@ -195,7 +263,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 160513,
       "name": "Casita de Playa",
       "url": "https://open.spotify.com/track/1c7GIhlw4PW1jTrw8k9nXf"
@@ -220,6 +288,24 @@
     },
     {
       "album": {
+        "name": "Crayola",
+        "url": "https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3"
+      },
+      "artists": [
+        {
+          "name": "SHEISA",
+          "url": "https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150461,
+      "name": "Crayola",
+      "url": "https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI"
+    },
+    {
+      "album": {
         "name": "Cuenta Hasta Diez",
         "url": "https://open.spotify.com/album/5ilpxKVdFtf4K3niLom1oN"
       },
@@ -231,7 +317,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 157900,
       "name": "Cuenta Hasta Diez",
       "url": "https://open.spotify.com/track/2hLPflU1zfDDnOUEkxNEQQ"
@@ -307,7 +393,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 163599,
       "name": "Esta Vez",
       "url": "https://open.spotify.com/track/59TY6qwu9lY4HRHM1oDGiv"
@@ -351,7 +437,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 185345,
       "name": "Feelin\u2019 U",
       "url": "https://open.spotify.com/track/2CHnGGcS7pO8SnaprKdjog"
@@ -387,7 +473,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 148149,
       "name": "Fue Lindo",
       "url": "https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5"
@@ -489,7 +575,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 173778,
       "name": "Lero Lero",
       "url": "https://open.spotify.com/track/1cWFqqulhCa9AwJ4JLkKxo"
@@ -526,6 +612,24 @@
     },
     {
       "album": {
+        "name": "Mariposa",
+        "url": "https://open.spotify.com/album/6rfhJg9kaJ5GvyFMeJGUZa"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185625,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/1s8tH07V0xMkozNWmiFau9"
+    },
+    {
+      "album": {
         "name": "Maviri",
         "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
       },
@@ -555,7 +659,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 217973,
       "name": "Me Liber\u00e9",
       "url": "https://open.spotify.com/track/54o97glZqjfQambK2yyNCG"
@@ -603,7 +707,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 145269,
       "name": "Mi Soledad",
       "url": "https://open.spotify.com/track/5YpuWisXx6bCrZ6jNBZTqT"
@@ -697,7 +801,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 190489,
       "name": "Nadie Te Entiende",
       "url": "https://open.spotify.com/track/3UMJzfw9Fq4gXnrJ0eCdM1"
@@ -759,7 +863,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 158736,
       "name": "No Seas As\u00ed",
       "url": "https://open.spotify.com/track/502dC2IZ0seREbTF6OhBOQ"
@@ -933,7 +1037,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 172266,
       "name": "Si Ella Se Va",
       "url": "https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf"
@@ -959,6 +1063,28 @@
       "duration_ms": 194122,
       "name": "Siempre T\u00fa",
       "url": "https://open.spotify.com/track/6LUouQmwcFQQgjkL4jsxUh"
+    },
+    {
+      "album": {
+        "name": "Sincron\u00eda",
+        "url": "https://open.spotify.com/album/6Z3JXvfQtfMo5B0sArZ2TK"
+      },
+      "artists": [
+        {
+          "name": "Luisa Ferss",
+          "url": "https://open.spotify.com/artist/1ItAvLPSVDyxMZoH7uqj2K"
+        },
+        {
+          "name": "Chel Maya",
+          "url": "https://open.spotify.com/artist/4rzcZT4YwRv7DslbjV1sPh"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Sincron\u00eda",
+      "url": "https://open.spotify.com/track/1wNsiqRAWRc6xGCOEGv7li"
     },
     {
       "album": {
@@ -1068,6 +1194,24 @@
     },
     {
       "album": {
+        "name": "Todo Pasa",
+        "url": "https://open.spotify.com/album/5NFSYdBSEnJdxC3j6gD1Vo"
+      },
+      "artists": [
+        {
+          "name": "Sharlene",
+          "url": "https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177506,
+      "name": "Todo Pasa",
+      "url": "https://open.spotify.com/track/2EUBBnxhFBYEvu9cpGQYLU"
+    },
+    {
+      "album": {
         "name": "Canciones Pa Mi Ex Vol.1",
         "url": "https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh"
       },
@@ -1097,7 +1241,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 182994,
       "name": "Tus Besos",
       "url": "https://open.spotify.com/track/7DKWBbMHCnf7l3j1ujHRNN"

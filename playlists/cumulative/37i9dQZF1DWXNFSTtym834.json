@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 243746,
       "name": "Anthem (We Are the Fire)",
       "url": "https://open.spotify.com/track/36ZvFmD6IuW1nawOBbpC8z"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 376920,
       "name": "Blacklist",
       "url": "https://open.spotify.com/track/2K2aRJUaQl3CKKHELRqGZ6"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 442733,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 249853,
       "name": "Clouds Over California",
       "url": "https://open.spotify.com/track/21WIpZXepY9HA7NDwYiNaM"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 464453,
       "name": "Flying Whales",
       "url": "https://open.spotify.com/track/6SJ2LK3yMdGzC4AEcXJZo4"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 231386,
       "name": "Hearts on Fire",
       "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
@@ -678,6 +678,24 @@
     },
     {
       "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562706,
+      "name": "Lateralus",
+      "url": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d"
+    },
+    {
+      "album": {
         "name": "Digimortal",
         "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
       },
@@ -761,7 +779,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 252280,
       "name": "Nemesis",
       "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 212840,
       "name": "Redneck Stomp",
       "url": "https://open.spotify.com/track/3wiT4tcjKk4jAqrfDahS6W"
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 594213,
       "name": "The art of dying",
       "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"

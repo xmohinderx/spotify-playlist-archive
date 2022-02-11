@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 
 > Keep calm with instrumental acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,620 likes - 228 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,767 likes - 228 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,7 +202,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 192 | [Wonderland](https://open.spotify.com/track/5P3BsY0X3coRVobCcaDLRh) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [Venezia](https://open.spotify.com/album/3AwXe36NVPSvuhPPIZq7PH) | 3:05 |
 | 193 | [Bosque Nevado](https://open.spotify.com/track/6S3dGUUgqt61UnjFqL1C0W) | [Ernesto Jiménez](https://open.spotify.com/artist/6xf34gZLMObXtgYsbmyjRS) | [Bosque Nevado](https://open.spotify.com/album/0mzN5tEu3Fm035fbQ7norg) | 2:23 |
 | 194 | [Memento](https://open.spotify.com/track/69BDXrJPLMJ2qVN6NkYmry) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Memento](https://open.spotify.com/album/6sQnpBPrAuHonNKkmtxlwI) | 2:44 |
-| 195 | [Leap Of Faith](https://open.spotify.com/track/0Hop5LbeV6B7gLkdRQnpcq) | [Leo Krepper](https://open.spotify.com/artist/3brfwMGTs3rErKQ1aLzlZC) | [Leap Of Faith](https://open.spotify.com/album/6nggNkn35TZ4MrSn0pPz0G) | 2:44 |
+| 195 | [Leap Of Faith](https://open.spotify.com/track/0Hop5LbeV6B7gLkdRQnpcq) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Leap Of Faith](https://open.spotify.com/album/6nggNkn35TZ4MrSn0pPz0G) | 2:44 |
 | 196 | [Pelotas](https://open.spotify.com/track/00lpRj2l4gBL7aex8kneAg) | [Maria Gastona](https://open.spotify.com/artist/3qkCdwF2fxcLJsPUigwRcV) | [Rosa](https://open.spotify.com/album/6g3WQMnaQDcJiWseLkTcv7) | 2:30 |
 | 197 | [I Did It For Love](https://open.spotify.com/track/5jylGgVVATuDr405KavaE2) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [I Did It For Love](https://open.spotify.com/album/6838N6uu0AasMz7FxQkdfy) | 2:03 |
 | 198 | [Shifrin](https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 3:13 |
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaImRpG7HXqp.md) - [plain]
 | 213 | [Cuantas Amantes](https://open.spotify.com/track/009thiR2SWpG6jXqXYX2AT) | [Xavier Suarez](https://open.spotify.com/artist/4qxGMBS25xDymfWz3kkKOE) | [Cuantas Amantes](https://open.spotify.com/album/3YKLNFNyg3a1ZSYO9z3EHr) | 2:32 |
 | 214 | [Seven Hills of Rome](https://open.spotify.com/track/6X57NpjrTZmKqzT0tnJPF0) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Seven Hills of Rome](https://open.spotify.com/album/5oUkh52zA4MoZQ5G1Zw6y1) | 2:12 |
 | 215 | [Pragmatique](https://open.spotify.com/track/4oOgOAn9AgPDygYgN8nXhc) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Pragmatique](https://open.spotify.com/album/7GJvN3Murt1srya715Qjut) | 2:03 |
-| 216 | [Something Special](https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS) | [Leo Krepper](https://open.spotify.com/artist/3brfwMGTs3rErKQ1aLzlZC) | [Something Special](https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm) | 2:48 |
-| 217 | [All Those Things](https://open.spotify.com/track/6crKfVVbULAcl1qmnZfr47) | [Leo Krepper](https://open.spotify.com/artist/3brfwMGTs3rErKQ1aLzlZC) | [All Those Things](https://open.spotify.com/album/335oTYZv32szZG1aXCyg0o) | 2:42 |
+| 216 | [Something Special](https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Something Special](https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm) | 2:48 |
+| 217 | [All Those Things](https://open.spotify.com/track/6crKfVVbULAcl1qmnZfr47) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [All Those Things](https://open.spotify.com/album/335oTYZv32szZG1aXCyg0o) | 2:42 |
 | 218 | [Questions and Answers](https://open.spotify.com/track/1XfuNRBmDmaXuEcoKfShOh) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Questions and Answers](https://open.spotify.com/album/4f4SIvQEwkW3bOKh1Ji1gB) | 2:13 |
 | 219 | [Humble Stream](https://open.spotify.com/track/52MgsfWkg5SaySCSybgq2f) | [Matthew Everwood](https://open.spotify.com/artist/7C69ACEOoF0mqZxylAevY7) | [Humble Stream](https://open.spotify.com/album/0i8ogDdtotOqUuzxNRAvH1) | 1:55 |
 | 220 | [The Lone Wolf's Meadow](https://open.spotify.com/track/5085Fog6qVXvnsApSamQJl) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [The Lone Wolf's Meadow](https://open.spotify.com/album/33EnSk5EHcTVBMiycZ427c) | 2:07 |

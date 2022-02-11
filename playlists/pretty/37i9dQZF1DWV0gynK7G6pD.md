@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Jean\-Michel Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,837 likes - 75 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,943 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 16 | [Immortal Beloved](https://open.spotify.com/track/4sCGhHlHnNKvwxrYZ63svS) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Immortal Beloved](https://open.spotify.com/album/69h36d8bwdH736XeIUMj2a) | 3:54 |
 | 17 | [Hemera](https://open.spotify.com/track/1KH3Ti6LkLkRm1eRi0wtNC) | [Giuliano Poles](https://open.spotify.com/artist/3BvVMUz8byTqm9nFMezZk4) | [Hemera](https://open.spotify.com/album/7vSZqsRi9mai5lk1bI3cs1) | 2:34 |
 | 18 | [Violin Concerto in B Minor, RV\. 384: II\. Largo](https://open.spotify.com/track/1t2V0gLl3qEGNkxAxjMyHR) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Théotime Langlois de Swarte](https://open.spotify.com/artist/5cBgAWdOSP0eY36MX6sfy5), [Les Ombres](https://open.spotify.com/artist/562Gvw2UfJOb1qxOzyXmDj) | [Vivaldi: Violin Concerto in B Minor, RV\. 384: II\. Largo](https://open.spotify.com/album/2Kia7uNdHZoxMUP2YgYbXc) | 3:46 |
-| 19 | [Piano Sonata No\. 1 in D Minor, Op\. 28: II\. Lento](https://open.spotify.com/track/35RTCdP8NpFqxBuB6ruhlB) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) | [1908: Ravel Rachmaninoff](https://open.spotify.com/album/47gF8Y1E3kInxrxzOrtKmZ) | 8:13 |
+| 19 | [Piano Sonata No\. 1 in D Minor, Op\. 28: II\. Lento](https://open.spotify.com/track/35RTCdP8NpFqxBuB6ruhlB) | [Valentina Lisitsa](https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca) | [1908: Ravel Rachmaninoff](https://open.spotify.com/album/47gF8Y1E3kInxrxzOrtKmZ) | 8:13 |
 | 20 | [Andante con espressione for Violin & Piano](https://open.spotify.com/track/0p3KJxPDxmbv9tLmugQ2wa) | [Florence Beatrice Price](https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH), [Ric'key Pageot](https://open.spotify.com/artist/0DIBDlyQkAFh7WwghTlFJf), [Lady Jess](https://open.spotify.com/artist/406uY8mYTi5CiKoWbdz4Pr) | [Andante con espressione for Violin & Piano](https://open.spotify.com/album/3JbKPEWcW5NP6ACdRxNeit) | 4:50 |
 | 21 | [Violin Partita No\. 3 in E Major, BWV 1006: III\. Gavotte en rondeau](https://open.spotify.com/track/3ZWDDi6t3cH29Iin8wPukT) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Frank Peter Zimmermann](https://open.spotify.com/artist/5hZj6cPZx2lFYtS7p234B2) | [J.S\. Bach: Sonatas & Partitas, Vol\. 1](https://open.spotify.com/album/5RjOKe3ZdAv7HAydYqZyC3) | 2:49 |
 | 22 | [The Entertainer](https://open.spotify.com/track/4TeOAAUK2yLkR7cEOQ6iyb) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq), [Lara Downes](https://open.spotify.com/artist/2pSV3M4cqq8MUqT3SrXdpS), [Joe Brent](https://open.spotify.com/artist/53vzyyAOTG8mrTMcXy6DZ1) | [REFLECTIONS: Scott Joplin Reconsidered](https://open.spotify.com/album/71onYQW5RAV3c9PHAtkwYp) | 3:15 |

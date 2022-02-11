@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,034 likes - 197 songs - 12 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,174 likes - 197 songs - 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,7 +170,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 160 | [Would You Be Mine?](https://open.spotify.com/track/6lMSD6SW8sazpPANmZSKi0) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Would You Be Mine?](https://open.spotify.com/album/2VyiqxfAFBkkT6QR29PoA2) | 2:38 |
 | 161 | [Roses](https://open.spotify.com/track/3rHZHXHKsjvJJPgBiQMmQR) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Roses](https://open.spotify.com/album/0UeANj4WzvJQmhb509bqmL) | 4:11 |
 | 162 | [Postcards](https://open.spotify.com/track/1IxO95D87hSIyA20XTLCiU) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Postcards](https://open.spotify.com/album/6Oi5hnd7ZOiAlhv9AYTenT) | 3:05 |
-| 163 | [Chelsea Bridge](https://open.spotify.com/track/5GCBRCB2SVSNOu7k38ix5r) | [Leo Krepper](https://open.spotify.com/artist/3brfwMGTs3rErKQ1aLzlZC) | [Chelsea Bridge](https://open.spotify.com/album/7LELdHXIAow8e1HFmoC859) | 5:03 |
+| 163 | [Chelsea Bridge](https://open.spotify.com/track/5GCBRCB2SVSNOu7k38ix5r) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Chelsea Bridge](https://open.spotify.com/album/7LELdHXIAow8e1HFmoC859) | 5:03 |
 | 164 | [Ain't Misbehavin](https://open.spotify.com/track/1wkSPmQdKk81GDcTOt7FRr) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Ain't Misbehavin](https://open.spotify.com/album/2tcjne2CE9L0x9MLiCX9Hg) | 3:16 |
 | 165 | [I Wish You Love](https://open.spotify.com/track/5U6viBMb17ayuEad6Inpgg) | [Hope Heights Jazz Band](https://open.spotify.com/artist/2tXIjDDrcesRhyQ3nYW9Qp) | [I Wish You Love](https://open.spotify.com/album/5O8yoOenBf9CSMmxLQp4Vt) | 3:50 |
 | 166 | [Like Someone in Love](https://open.spotify.com/track/1p3hY7tPdrThCuXtFXCKG7) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Like Someone in Love](https://open.spotify.com/album/7InaTkdgWcexr7kSmGFv0w) | 3:35 |

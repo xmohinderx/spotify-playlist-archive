@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Amont",
+        "url": "https://open.spotify.com/album/3qsbn82SoavBcdk4BBbrQV"
+      },
+      "artists": [
+        {
+          "name": "Lucavietski",
+          "url": "https://open.spotify.com/artist/27PTN8da910Uo2RPCfpFKR"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Ayewete",
+      "url": "https://open.spotify.com/track/2ksbaKOkuO1SYyQIqLIX1M"
+    },
+    {
+      "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/0EMCjRQIXRInbqSsVwvvUf"
       },
@@ -739,7 +757,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 354791,
       "name": "Copycat",
       "url": "https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0"
@@ -779,6 +797,24 @@
       "duration_ms": 172962,
       "name": "Cradle Beach",
       "url": "https://open.spotify.com/track/7rB5yo66bLtgPopOiht49F"
+    },
+    {
+      "album": {
+        "name": "Cuddle",
+        "url": "https://open.spotify.com/album/7mjXhZxuAENnEQ3NVjHZaa"
+      },
+      "artists": [
+        {
+          "name": "Elton Baptiste",
+          "url": "https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139480,
+      "name": "Cuddle",
+      "url": "https://open.spotify.com/track/0qPQBBWJdESIBv0S5CS3to"
     },
     {
       "album": {
@@ -1909,7 +1945,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 164181,
       "name": "Let It Out",
       "url": "https://open.spotify.com/track/0CzDdoY6f6j4m2ma0t1Y3r"
@@ -2039,6 +2075,24 @@
       "duration_ms": 157599,
       "name": "Lujo",
       "url": "https://open.spotify.com/track/3eFYzQjpnwDWl2ThvF1rgI"
+    },
+    {
+      "album": {
+        "name": "Lucid Moments",
+        "url": "https://open.spotify.com/album/6RlE8VrwG6K3Bqs3NbuxwV"
+      },
+      "artists": [
+        {
+          "name": "Undeva Ploua",
+          "url": "https://open.spotify.com/artist/2pTLeyGB0F7IAftkVc3nga"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111628,
+      "name": "Lumina Mov",
+      "url": "https://open.spotify.com/track/6u1PJVc6R2HjO9VmArEqAC"
     },
     {
       "album": {
@@ -2921,7 +2975,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 189600,
       "name": "Reflect",
       "url": "https://open.spotify.com/track/6KoJqqoM9nwU9Gpo0mMPA9"
@@ -3051,6 +3105,24 @@
       "duration_ms": 179590,
       "name": "Rose",
       "url": "https://open.spotify.com/track/0bEixfuWUAwzt6Khi1ccgn"
+    },
+    {
+      "album": {
+        "name": "Row",
+        "url": "https://open.spotify.com/album/7zeALtA6XRlLZQIlFapcDO"
+      },
+      "artists": [
+        {
+          "name": "Elton Baptiste",
+          "url": "https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109125,
+      "name": "Row",
+      "url": "https://open.spotify.com/track/1DUOaKbG2qAbRYgOlQMBah"
     },
     {
       "album": {
@@ -3418,6 +3490,24 @@
     },
     {
       "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/559m1quyOHDPpwenShOIp6"
+      },
+      "artists": [
+        {
+          "name": "Pat Poker",
+          "url": "https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/1CYrpAj5Gdnv1zNBoEhJj4"
+    },
+    {
+      "album": {
         "name": "soul serum",
         "url": "https://open.spotify.com/album/7MaUGcfvsLuWu2YYxxAUNX"
       },
@@ -3526,6 +3616,24 @@
     },
     {
       "album": {
+        "name": "Sunday Adventures",
+        "url": "https://open.spotify.com/album/79a2OpVBeeAfdtDi3jm2ic"
+      },
+      "artists": [
+        {
+          "name": "joorla",
+          "url": "https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Sunday Adventures",
+      "url": "https://open.spotify.com/track/0VbkuDmoBUtdAAePWnyRP2"
+    },
+    {
+      "album": {
         "name": "sunique",
         "url": "https://open.spotify.com/album/60t2NsIUvRFZ6kMTMIg7SH"
       },
@@ -3573,7 +3681,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 149664,
       "name": "Sunset Nights",
       "url": "https://open.spotify.com/track/0SUIQ3g1UZjEXaISeOu2DH"

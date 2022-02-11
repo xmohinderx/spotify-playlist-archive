@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,489 likes - 40 songs - 2 hr 18 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,488 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

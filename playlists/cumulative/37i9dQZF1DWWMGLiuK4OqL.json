@@ -414,6 +414,24 @@
     },
     {
       "album": {
+        "name": "Flirting With Twilight",
+        "url": "https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/1eWkhs5WbRc8q4s2xtKuRL"
+    },
+    {
+      "album": {
         "name": "The Essential Rosemary Clooney",
         "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
@@ -519,7 +537,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 235533,
       "name": "But For Now",
       "url": "https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 263266,
       "name": "Do Nothing 'Til You Hear From Me",
       "url": "https://open.spotify.com/track/3by6ghRkTX4PwXVAbt61E5"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 162866,
       "name": "I've Grown Accustomed To Her Face - Remastered/1998",
       "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 430081,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH"
@@ -1452,6 +1470,28 @@
     },
     {
       "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
+      },
+      "artists": [
+        {
+          "name": "Alma Naidu",
+          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233093,
+      "name": "Just a Word",
+      "url": "https://open.spotify.com/track/0KUWzd4xWLHOfAWu7fvqfe"
+    },
+    {
+      "album": {
         "name": "Your Songs",
         "url": "https://open.spotify.com/album/74MmrgGXDvEZepbjCDCi8r"
       },
@@ -1481,7 +1521,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 283586,
       "name": "Keep Me From The Cold",
       "url": "https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z"
@@ -1579,7 +1619,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 118400,
       "name": "Let's Fall in Love",
       "url": "https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE"
@@ -2381,7 +2421,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 300593,
       "name": "Surrey with the Fringe on Top",
       "url": "https://open.spotify.com/track/2GQhILwu4keRmOPV3Mqi3g"
@@ -2529,7 +2569,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 184453,
       "name": "The Girl from Ipanema",
       "url": "https://open.spotify.com/track/1aucqAQImjlcxcQajOBUAv"
@@ -2771,7 +2811,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 290880,
       "name": "Until It Happens to You",
       "url": "https://open.spotify.com/track/4aUVMqQWLjpXyjvONHUpvC"
@@ -3017,7 +3057,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 228133,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/5UPJdlkMWG2G2UwTfGSjOe"

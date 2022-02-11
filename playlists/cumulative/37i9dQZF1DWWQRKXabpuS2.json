@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0627\u0628\u0642 \u0639\u0644\u0649 \u0627\u0637\u0644\u0627\u0639 \u0628\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u0628\u062f\u0631 \u0627\u0644\u0634\u0639\u064a\u0628\u064a",
+  "description": "\u0627\u0628\u0642 \u0639\u0644\u0649 \u0627\u0637\u0644\u0627\u0639 \u0628\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629! \u0627\u0644\u063a\u0644\u0627\u0641: \u062d\u0633\u064a\u0646 \u0627\u0644\u062c\u0633\u0645\u064a",
   "name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "published_playlist_ids": [
     "4PSk8NVZJlLmYibT60mLzt"
@@ -77,6 +77,24 @@
       "duration_ms": 208741,
       "name": "Al Sulae",
       "url": "https://open.spotify.com/track/0YGB5IEVEh4UmXIaGed2PE"
+    },
+    {
+      "album": {
+        "name": "Albadr Aldhahook",
+        "url": "https://open.spotify.com/album/2rONmeWNNWsm1oh8Yt8T45"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Al Shehhi",
+          "url": "https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Albadr Aldhahook",
+      "url": "https://open.spotify.com/track/3to1cO2tsmdl7d4JNVnSyE"
     },
     {
       "album": {
@@ -286,6 +304,24 @@
     },
     {
       "album": {
+        "name": "Dawlat Ghram",
+        "url": "https://open.spotify.com/album/2eNvzuRYgHRdT8DtwlsCIQ"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301091,
+      "name": "Dawlat Ghram",
+      "url": "https://open.spotify.com/track/4f5dUf1tjB2M8XYGvZzJtA"
+    },
+    {
+      "album": {
         "name": "Fadeha Denyay",
         "url": "https://open.spotify.com/album/6Iq3beBQFZnqRb2ycjeesy"
       },
@@ -395,7 +431,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 272250,
       "name": "Hatet Yadak",
       "url": "https://open.spotify.com/track/0hnemjZiAz2E1jg83hsQl0"
@@ -453,6 +489,24 @@
       "duration_ms": 211560,
       "name": "Hobak Le Hayah",
       "url": "https://open.spotify.com/track/6yjtDOt9B6n1yWLgcwNK91"
+    },
+    {
+      "album": {
+        "name": "Jany Al Asmar",
+        "url": "https://open.spotify.com/album/01Z9FR6JmU9LxLuDQfR6w7"
+      },
+      "artists": [
+        {
+          "name": "Mashael",
+          "url": "https://open.spotify.com/artist/0Wy58cHn0XDlkr4jBIqhZs"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231999,
+      "name": "Jany Al Asmar",
+      "url": "https://open.spotify.com/track/7zKTTQFVPcKpPuRzQUUr9X"
     },
     {
       "album": {
@@ -593,7 +647,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 220969,
       "name": "Ma Aaraf Qadry",
       "url": "https://open.spotify.com/track/0OFnsKz5QuApnBoxHsylT5"
@@ -882,6 +936,28 @@
     },
     {
       "album": {
+        "name": "Sukkar",
+        "url": "https://open.spotify.com/album/6Tzgry4wnabAF4gpSff1uO"
+      },
+      "artists": [
+        {
+          "name": "Molham",
+          "url": "https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom"
+        },
+        {
+          "name": "Dyler",
+          "url": "https://open.spotify.com/artist/6YczkNz5V8O3xnSrYbVEiU"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136866,
+      "name": "Sukkar",
+      "url": "https://open.spotify.com/track/4OcGPIHDcFZcGB5seRrfIm"
+    },
+    {
+      "album": {
         "name": "Swalef Al Lel",
         "url": "https://open.spotify.com/album/4iVcTtt2gMtG6V4PCk0mU1"
       },
@@ -955,7 +1031,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 246163,
       "name": "This Is Our Time",
       "url": "https://open.spotify.com/track/0yG7cff6yTcV58dVgAr8NB"
@@ -1291,7 +1367,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 202562,
       "name": "\u064a\u0639\u0646\u064a \u0634\u0646\u0648",
       "url": "https://open.spotify.com/track/6q8j0K2yFOA9e7iTcl0SmS"

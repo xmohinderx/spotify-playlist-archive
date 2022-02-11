@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "This is the new core at its finest. Cover: Pridelands",
+  "description": "This is the new core at its finest. Cover: Smash Into Pieces",
   "name": "New Core",
   "published_playlist_ids": [
     "3WEyotDPwbgzHjigMpDgbN"
@@ -206,6 +206,24 @@
     },
     {
       "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/1Ou12iLak8y0mZfWMAIyI8"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215880,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0yniOmVAE9jUGz6Vn8QvCO"
+    },
+    {
+      "album": {
         "name": "Beta Gods",
         "url": "https://open.spotify.com/album/1Uw2WdS8xyAABgFUqCt5ON"
       },
@@ -221,7 +239,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 172696,
       "name": "Beta Gods",
       "url": "https://open.spotify.com/track/5GXV3BnqivDTVGo3S4jGIc"
@@ -264,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Krewe D'Amour, Vol. 2",
+        "url": "https://open.spotify.com/album/5vvNSlSJC11OnhvE8Esqnx"
+      },
+      "artists": [
+        {
+          "name": "Cane Hill",
+          "url": "https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197260,
+      "name": "Blood & Honey",
+      "url": "https://open.spotify.com/track/2stPzQY6XyjRTtsevzgjdA"
+    },
+    {
+      "album": {
         "name": "Blood Eagle",
         "url": "https://open.spotify.com/album/5bGQuHM7O09qh8Iqftm9lD"
       },
@@ -279,6 +315,24 @@
       "duration_ms": 277000,
       "name": "Blood Eagle",
       "url": "https://open.spotify.com/track/7k4bQ69rhUem3UcfJN8brF"
+    },
+    {
+      "album": {
+        "name": "Break the Silence",
+        "url": "https://open.spotify.com/album/2YefdDltPsBbG4eHT0jVnv"
+      },
+      "artists": [
+        {
+          "name": "Breathe Atlantis",
+          "url": "https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207573,
+      "name": "Break The Silence",
+      "url": "https://open.spotify.com/track/6abtzJMSDIosKqVe8KUToF"
     },
     {
       "album": {
@@ -358,6 +412,24 @@
     },
     {
       "album": {
+        "name": "Bury My Flame",
+        "url": "https://open.spotify.com/album/2xbuGSzEAtxnR8mv2lci00"
+      },
+      "artists": [
+        {
+          "name": "Glasslands",
+          "url": "https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220074,
+      "name": "Bury My Flame",
+      "url": "https://open.spotify.com/track/1kRguNpOF4WiqJBn732Rvx"
+    },
+    {
+      "album": {
         "name": "Calling You",
         "url": "https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz"
       },
@@ -391,7 +463,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 227026,
       "name": "Changes",
       "url": "https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT"
@@ -1046,6 +1118,50 @@
     },
     {
       "album": {
+        "name": "Gimme Danger",
+        "url": "https://open.spotify.com/album/2LpCKo4rOxtQcVvPg42bc1"
+      },
+      "artists": [
+        {
+          "name": "Crossfaith",
+          "url": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205246,
+      "name": "Gimme Danger",
+      "url": "https://open.spotify.com/track/2MPcAxH9maeDEbMmLAp51U"
+    },
+    {
+      "album": {
+        "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
+        "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        },
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176587,
+      "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
+      "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
+    },
+    {
+      "album": {
         "name": "Heads Up",
         "url": "https://open.spotify.com/album/5kiO6eG6N0MGbzIs0pMwUf"
       },
@@ -1230,6 +1346,24 @@
     },
     {
       "album": {
+        "name": "Lie2Me",
+        "url": "https://open.spotify.com/album/4nr7TwAm9Nc0MU5QG631EW"
+      },
+      "artists": [
+        {
+          "name": "Octopus Montage",
+          "url": "https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184269,
+      "name": "Lie2Me",
+      "url": "https://open.spotify.com/track/5Lj46byXVaSNMFGB0NkK08"
+    },
+    {
+      "album": {
         "name": "Evil Things",
         "url": "https://open.spotify.com/album/7vgtKRBOKgM1BUEjJ0sEIl"
       },
@@ -1259,7 +1393,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 210525,
       "name": "Lights & Fire",
       "url": "https://open.spotify.com/track/1SlOs4l9WvJ4bITuyZXHqc"
@@ -1335,7 +1469,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 186615,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4mWx5WcTcwWqynzuB18mSJ"
@@ -1353,7 +1487,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 265297,
       "name": "Lowborn",
       "url": "https://open.spotify.com/track/7nGc6tq27wHwpF7iFdUaWr"
@@ -1576,6 +1710,24 @@
     },
     {
       "album": {
+        "name": "Peace That Starts the War",
+        "url": "https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk"
+      },
+      "artists": [
+        {
+          "name": "Wolves At The Gate",
+          "url": "https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168391,
+      "name": "Peace That Starts the War",
+      "url": "https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs"
+    },
+    {
+      "album": {
         "name": "Plastic Heart",
         "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
       },
@@ -1659,7 +1811,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 192508,
       "name": "Reflection, Pt. 3",
       "url": "https://open.spotify.com/track/3kQZMbUfSuqPBPYNQyvVB4"
@@ -1695,7 +1847,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 203694,
       "name": "Riot",
       "url": "https://open.spotify.com/track/6KPHpYLUcSIWQy6mG3JpN0"
@@ -1789,6 +1941,24 @@
       "duration_ms": 159000,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/19d7c6jEpypybNrOAw8Chk"
+    },
+    {
+      "album": {
+        "name": "Shadow Walker",
+        "url": "https://open.spotify.com/album/0ZHUpNq2PbntwpITcHhe0O"
+      },
+      "artists": [
+        {
+          "name": "Monument Of A Memory",
+          "url": "https://open.spotify.com/artist/05c2505LW4Jc0MfEkrUjUZ"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237053,
+      "name": "Shadow Walker",
+      "url": "https://open.spotify.com/track/5gymkbWGc57ZzHqBb6KCfK"
     },
     {
       "album": {
@@ -2044,6 +2214,24 @@
     },
     {
       "album": {
+        "name": "Deadlock",
+        "url": "https://open.spotify.com/album/25flL4yb0wLI5mIJrL2rUR"
+      },
+      "artists": [
+        {
+          "name": "InVisions",
+          "url": "https://open.spotify.com/artist/1QQDWitxJcOcNAivxpuKcR"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272757,
+      "name": "The 6 6 9",
+      "url": "https://open.spotify.com/track/1x3D10RwWsAbJaohK2XeRX"
+    },
+    {
+      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/2Jrd7g3DXOU5uoFbs95RLb"
       },
@@ -2243,7 +2431,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 226440,
       "name": "Till We Have Faces",
       "url": "https://open.spotify.com/track/7DVaDiCKKX9I2UonUdDfh1"
@@ -2272,6 +2460,24 @@
     },
     {
       "album": {
+        "name": "UGLY",
+        "url": "https://open.spotify.com/album/3XKm3EFzoIjbGmL95cx5aS"
+      },
+      "artists": [
+        {
+          "name": "GH\u00d8STKID",
+          "url": "https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213181,
+      "name": "UGLY",
+      "url": "https://open.spotify.com/track/1OeUAnQzyziBEwnZEg7pet"
+    },
+    {
+      "album": {
         "name": "Rhema",
         "url": "https://open.spotify.com/album/1UMemAsPkhn8gtMvv9nq9f"
       },
@@ -2283,7 +2489,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 262977,
       "name": "Unspoken",
       "url": "https://open.spotify.com/track/45A5LSkr8lptp6M1JYfpPo"
@@ -2413,7 +2619,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 197916,
       "name": "Walking Blind",
       "url": "https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f"
@@ -2431,7 +2637,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 213750,
       "name": "Wayfarer",
       "url": "https://open.spotify.com/track/37lowkjDP9xPe7aQFXUsvT"
@@ -2449,7 +2655,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 190926,
       "name": "We Are No Saints",
       "url": "https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6"
@@ -2467,7 +2673,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 199800,
       "name": "We\u2019re All Gonna Die",
       "url": "https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC"

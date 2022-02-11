@@ -1,12 +1,12 @@
 {
   "description": "The most romantic tracks of all time, featuring today's hits and all the classics.",
-  "num_followers": 481128,
+  "num_followers": 482534,
   "original_name": "Valentine's Day Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDQ1MzkwMSwwMDAwMDAwMGVkM2M4ZmQ4MzIxNzc2MzA4MGQ4OTcyYTg2ODQ5NWY4",
+  "snapshot_id": "MTY0NDU0MDQ1NSwwMDAwMDAwMGNlZTMyMzU4OTE5N2I1MDk5NjBiMDhlYzZlNjNlZTNk",
   "tracks": [
     {
       "added_at": "2022-02-07 01:58:42",
@@ -27,8 +27,8 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Fall Into Me",
-        "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
       "artists": [
         {
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
         }
       ],
-      "duration_ms": 226066,
-      "name": "Fall Into Me",
-      "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
+      "duration_ms": 217351,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -115,58 +115,6 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "10,000 Hours (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "10,000 Hours (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Sing To Me Instead",
-        "url": "https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        }
-      ],
-      "duration_ms": 249426,
-      "name": "Grow As We Go",
-      "url": "https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -187,8 +135,60 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "If You Love Her",
-        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
+        "name": "10,000 Hours (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "10,000 Hours (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Sing To Me Instead",
+        "url": "https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 249426,
+      "name": "Grow As We Go",
+      "url": "https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Fall Into Me",
+        "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
       },
       "artists": [
         {
@@ -196,25 +196,9 @@
           "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
         }
       ],
-      "duration_ms": 217351,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "La Vie en Rose",
-        "url": "https://open.spotify.com/album/7sd4mutjZPWieisqUbKnOv"
-      },
-      "artists": [
-        {
-          "name": "Ashley Park",
-          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "La Vie en Rose",
-      "url": "https://open.spotify.com/track/53M62RXn9LZEylHW7M0CdC"
+      "duration_ms": 226066,
+      "name": "Fall Into Me",
+      "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -235,6 +219,54 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
+        "name": "La Vie en Rose",
+        "url": "https://open.spotify.com/album/7sd4mutjZPWieisqUbKnOv"
+      },
+      "artists": [
+        {
+          "name": "Ashley Park",
+          "url": "https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "La Vie en Rose",
+      "url": "https://open.spotify.com/track/53M62RXn9LZEylHW7M0CdC"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "The Bones",
+      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Greetings From...Jake",
+        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Made For You",
+      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
         "name": "Parachutes",
         "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
@@ -247,6 +279,22 @@
       "duration_ms": 266773,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -283,102 +331,6 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/0mqTcM8kuu2IYPotMt7AzS"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "A Star Is Born Soundtrack (Without Dialogue)",
-        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "The Bones",
-      "url": "https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "\u00f7 (Deluxe)",
-        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 263400,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Greetings From...Jake",
-        "url": "https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Made For You",
-      "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
-      },
-      "artists": [
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -411,6 +363,22 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
         "name": "L-O-V-E",
         "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
       },
@@ -427,144 +395,8 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/1Xq7GtFHmTt110bmxQrtC4"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/7cCf8vPXJw4e7e2CQYyYgi"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "A Star Is Born Soundtrack",
-        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bradley Cooper",
-          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 269560,
-      "name": "All of Me",
-      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
-      },
-      "artists": [
-        {
-          "name": "Grover Washington, Jr.",
-          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
-        },
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 438493,
-      "name": "Just the Two of Us (feat. Bill Withers)",
-      "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/1SUC3BzNqa5Kna2bZAsAK8"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/6mORGLOz79w6VsCRLWYYuK"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Songs About Jane",
-        "url": "https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 257133,
-      "name": "She Will Be Loved",
-      "url": "https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Halcyon Days",
-        "url": "https://open.spotify.com/album/7epiarahRkAHJbwASl4hA5"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 154435,
-      "name": "How Long Will I Love You - Bonus Track",
-      "url": "https://open.spotify.com/track/1wyo8plJbo1BO9s8TWqZpN"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Golden Hour",
-        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 198453,
-      "name": "Golden Hour",
-      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "x (Wembley Edition)",
-        "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
+        "name": "\u00f7 (Deluxe)",
+        "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
       "artists": [
         {
@@ -572,25 +404,25 @@
           "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Thinking out Loud",
-      "url": "https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg"
+      "duration_ms": 263400,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
     },
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Save Me, San Francisco (Golden Gate Edition)",
-        "url": "https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS"
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
       "artists": [
         {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         }
       ],
-      "duration_ms": 205453,
-      "name": "Marry Me",
-      "url": "https://open.spotify.com/track/0VZ9xPNa6ROafP6GYYuv2S"
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -611,18 +443,82 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/1Xq7GtFHmTt110bmxQrtC4"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 224320,
-      "name": "Crazy for You",
-      "url": "https://open.spotify.com/track/6B4oVElDIKRNcNUary0WG7"
+      "duration_ms": 212560,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/7cCf8vPXJw4e7e2CQYyYgi"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Songs About Jane",
+        "url": "https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 257133,
+      "name": "She Will Be Loved",
+      "url": "https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/7tEPbuzTMNGSytEMdezXtS"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/0VZ9xPNa6ROafP6GYYuv2S"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 198453,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2iarUPEwf9aLuvE0PDvpfi"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/6RSNKGdv3nDTHqgw4bdzyF"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -659,50 +555,54 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Blue Hawaii",
-        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/1SUC3BzNqa5Kna2bZAsAK8"
       },
       "artists": [
         {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 182360,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/6mORGLOz79w6VsCRLWYYuK"
     },
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "The Colour Of My Love",
-        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
+        "name": "A Star Is Born Soundtrack",
+        "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bradley Cooper",
+          "url": "https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG"
         }
       ],
-      "duration_ms": 342400,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+      "duration_ms": 215733,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+        "name": "x (Wembley Edition)",
+        "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 212373,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
+      "duration_ms": 281560,
+      "name": "Thinking out Loud",
+      "url": "https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -723,50 +623,86 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things.",
-        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
       "artists": [
         {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 242946,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
+      "duration_ms": 269560,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
     },
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/2iarUPEwf9aLuvE0PDvpfi"
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
       "artists": [
         {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 216960,
-      "name": "Yours",
-      "url": "https://open.spotify.com/track/6RSNKGdv3nDTHqgw4bdzyF"
+      "duration_ms": 212373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
     },
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Grover Washington, Jr.",
+          "url": "https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1"
+        },
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/62NVyyEBiRxGae3SeB97nl"
+      "duration_ms": 438493,
+      "name": "Just the Two of Us (feat. Bill Withers)",
+      "url": "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Halcyon Days",
+        "url": "https://open.spotify.com/album/7epiarahRkAHJbwASl4hA5"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 154435,
+      "name": "How Long Will I Love You - Bonus Track",
+      "url": "https://open.spotify.com/track/1wyo8plJbo1BO9s8TWqZpN"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Blue Hawaii",
+        "url": "https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 182360,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -787,6 +723,38 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "Crazy for You",
+      "url": "https://open.spotify.com/track/6B4oVElDIKRNcNUary0WG7"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -799,106 +767,6 @@
       "duration_ms": 161829,
       "name": "All Night Parking (with Erroll Garner) Interlude",
       "url": "https://open.spotify.com/track/496vIKS2INz840xZaKncvR"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/2JNVoEx4psIgNQyEExwQVn"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Love On The Brain",
-      "url": "https://open.spotify.com/track/26QRPeQOgmIGLCQKgoUJkG"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        },
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 266266,
-      "name": "Endless Love - From \"The Endless Love\" Soundtrack",
-      "url": "https://open.spotify.com/track/0FGxAEMIE5GhyFqFMHRWaO"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Latin Ala Lee",
-        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Till There Was You - Remastered",
-      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 279626,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Tarzan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 256733,
-      "name": "You'll Be In My Heart",
-      "url": "https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -935,6 +803,86 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 172723,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/62NVyyEBiRxGae3SeB97nl"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Tarzan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1zszC1x9HYKxUCKVa62p7C"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "You'll Be In My Heart",
+      "url": "https://open.spotify.com/track/4Y8vb1uy9IjM2V1hqvrAid"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "The Colour Of My Love",
+        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 279626,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
         "name": "How Sweet It Is To Be Loved By You",
         "url": "https://open.spotify.com/album/308UA1MWMf1VnJV8jqyUPM"
       },
@@ -951,66 +899,34 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "The Bodyguard - Original Soundtrack Album",
-        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/2JNVoEx4psIgNQyEExwQVn"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 271093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+      "duration_ms": 224000,
+      "name": "Love On The Brain",
+      "url": "https://open.spotify.com/track/26QRPeQOgmIGLCQKgoUJkG"
     },
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Love For Sale (Deluxe)",
-        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+        "name": "Latin Ala Lee",
+        "url": "https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
         }
       ],
-      "duration_ms": 271333,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/3cvdaHJUFir8IQhHO0XD0j"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Dirty Dancing",
-        "url": "https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 248266,
-      "name": "Hungry Eyes",
-      "url": "https://open.spotify.com/track/25BxqC9Yo7TQ175DLAyMJs"
+      "duration_ms": 151973,
+      "name": "Till There Was You - Remastered",
+      "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1031,18 +947,86 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
-        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        },
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
         }
       ],
-      "duration_ms": 199133,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/2KNMqqNd3sLfeN4ukKduRT"
+      "duration_ms": 266266,
+      "name": "Endless Love - From \"The Endless Love\" Soundtrack",
+      "url": "https://open.spotify.com/track/0FGxAEMIE5GhyFqFMHRWaO"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/3cvdaHJUFir8IQhHO0XD0j"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "When I Fall In Love",
+      "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Dirty Dancing",
+        "url": "https://open.spotify.com/album/03HVo5MVOWQ4kilTtF1Czg"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 248266,
+      "name": "Hungry Eyes",
+      "url": "https://open.spotify.com/track/25BxqC9Yo7TQ175DLAyMJs"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1063,18 +1047,114 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 264333,
-      "name": "Right Here Waiting",
-      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
+      "duration_ms": 293293,
+      "name": "Tennessee Whiskey",
+      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/2KNMqqNd3sLfeN4ukKduRT"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 191186,
+      "name": "I Hate Love Songs",
+      "url": "https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1091,6 +1171,86 @@
       "duration_ms": 241280,
       "name": "Can You Feel the Love Tonight",
       "url": "https://open.spotify.com/track/4f6jZRNyjZQ8ltv1txgZUG"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 264333,
+      "name": "Right Here Waiting",
+      "url": "https://open.spotify.com/track/4LFwNJWoj74Yd71fIr1W8x"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Robin Hood: Prince Of Thieves (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3bbdZdZQtCtnWEN5zG7Eyj"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 398026,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/5HQ6AUDMbMuwktvcNPuV1y"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "The Temptations Sing Smokey",
+        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Carlton",
+          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1115,86 +1275,6 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "I Will Always Love You",
-      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Back to Bedlam",
-        "url": "https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "The Temptations Sing Smokey",
-        "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/2uHUZLZ8AJ7KjtUb3ogQt1"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Carlton",
-          "url": "https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/6Qm9MaditCcx5V62rVHYqu"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -1207,86 +1287,6 @@
       "duration_ms": 179693,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 293293,
-      "name": "Tennessee Whiskey",
-      "url": "https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/0zktx87Zil6xHw7OWtXwIz"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 264240,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/3Y8WRvVlQHMvtBwaV4TGlJ"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Abbey Road (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 182226,
-      "name": "Something - 2019 Mix",
-      "url": "https://open.spotify.com/track/3S6N0Wbem9KV3DBcYNfXuv"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1307,34 +1307,50 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "The Story & Cover Stories",
-        "url": "https://open.spotify.com/album/1JUiwrGw7950O1zwfWILEX"
+        "name": "Back to Bedlam",
+        "url": "https://open.spotify.com/album/1wklsLLbGIZg1RDpoJovrb"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
         }
       ],
-      "duration_ms": 238493,
-      "name": "The Story",
-      "url": "https://open.spotify.com/track/44IeABaLLsnFVb7rjzNTzS"
+      "duration_ms": 209493,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t"
     },
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Now in a Minute",
-        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/0zktx87Zil6xHw7OWtXwIz"
       },
       "artists": [
         {
-          "name": "Donna Lewis",
-          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 239960,
-      "name": "I Love You Always Forever",
-      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
+      "duration_ms": 264240,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/3Y8WRvVlQHMvtBwaV4TGlJ"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Abbey Road (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5iT3F2EhjVQVrO4PKhsP8c"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 182226,
+      "name": "Something - 2019 Mix",
+      "url": "https://open.spotify.com/track/3S6N0Wbem9KV3DBcYNfXuv"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1355,18 +1371,86 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+        "name": "Now in a Minute",
+        "url": "https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Donna Lewis",
+          "url": "https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2"
         }
       ],
-      "duration_ms": 201373,
-      "name": "She's Always a Woman",
-      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+      "duration_ms": 239960,
+      "name": "I Love You Always Forever",
+      "url": "https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "The Story & Cover Stories",
+        "url": "https://open.spotify.com/album/1JUiwrGw7950O1zwfWILEX"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 238493,
+      "name": "The Story",
+      "url": "https://open.spotify.com/track/44IeABaLLsnFVb7rjzNTzS"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Bing & Rosie: The Crosby - Clooney Radio Sessions",
+        "url": "https://open.spotify.com/album/0OAY4qHKqE929XRuV7Mxff"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "People Will Say We're In Love - Version 1",
+      "url": "https://open.spotify.com/track/6uwQ5Ilmg6X1AYgUud9PCR"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Last of the Independents",
+        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Savage Garden",
+        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "Truly Madly Deeply",
+      "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1387,18 +1471,18 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
         }
       ],
-      "duration_ms": 191186,
-      "name": "I Hate Love Songs",
-      "url": "https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh"
+      "duration_ms": 158226,
+      "name": "It Had to Be You (Big Band and Vocals)",
+      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1423,18 +1507,18 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Last of the Independents",
-        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 240760,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+      "duration_ms": 267080,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1455,6 +1539,22 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
+        "name": "The Spirit Room & Hotel Paper",
+        "url": "https://open.spotify.com/album/0ZlhCL8tqSv2RxN2eN9IVR"
+      },
+      "artists": [
+        {
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/78NSG3Hy7IV8er5qEo9BUU"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
         "name": "City of Angels (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/2IxykVOZuS5JdJHjhlD2ds"
       },
@@ -1471,50 +1571,18 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Savage Garden",
-        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
+        "name": "The Ultimate Jackie Wilson",
+        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
       },
       "artists": [
         {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 277266,
-      "name": "Truly Madly Deeply",
-      "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Baby Can I Hold You",
-      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+      "duration_ms": 181066,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1531,38 +1599,6 @@
       "duration_ms": 170600,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/2yNWwardt8VzlpNBWrGYD6"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "The Best Of...",
-        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Wherever You Will Go",
-      "url": "https://open.spotify.com/track/37qI0mchgzUSeUhPiwUWPY"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "The Ultimate Collection 1968-2003",
-        "url": "https://open.spotify.com/album/7kJxjkRxiAy0NeFIaRqcKV"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/7nb2hZWBxeG38lwcRjFqn4"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1603,26 +1639,6 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Bing & Rosie: The Crosby - Clooney Radio Sessions",
-        "url": "https://open.spotify.com/album/0OAY4qHKqE929XRuV7Mxff"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "People Will Say We're In Love - Version 1",
-      "url": "https://open.spotify.com/track/6uwQ5Ilmg6X1AYgUud9PCR"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
         "name": "Extreme II - Pornograffitti",
         "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
       },
@@ -1639,34 +1655,34 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+        "name": "The Best Of...",
+        "url": "https://open.spotify.com/album/0eumbPpzy0UGChIwnCpLpl"
       },
       "artists": [
         {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
         }
       ],
-      "duration_ms": 158226,
-      "name": "It Had to Be You (Big Band and Vocals)",
-      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
+      "duration_ms": 209360,
+      "name": "Wherever You Will Go",
+      "url": "https://open.spotify.com/track/37qI0mchgzUSeUhPiwUWPY"
     },
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "The Spirit Room & Hotel Paper",
-        "url": "https://open.spotify.com/album/0ZlhCL8tqSv2RxN2eN9IVR"
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7"
       },
       "artists": [
         {
-          "name": "Michelle Branch",
-          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
         }
       ],
-      "duration_ms": 214826,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/78NSG3Hy7IV8er5qEo9BUU"
+      "duration_ms": 316466,
+      "name": "Crash into Me",
+      "url": "https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1687,50 +1703,82 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+        "name": "The Beat Goes On: Best Of",
+        "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
       },
       "artists": [
         {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+          "name": "Sonny & Cher",
+          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
         }
       ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
+      "duration_ms": 193840,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
     },
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "The Ultimate Jackie Wilson",
-        "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
+        "name": "Tapestry (Legacy Edition)",
+        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
         }
       ],
-      "duration_ms": 181066,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+      "duration_ms": 178560,
+      "name": "I Feel the Earth Move",
+      "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
     },
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
         }
       ],
-      "duration_ms": 261573,
-      "name": "My Love Is Your Love",
-      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
+      "duration_ms": 193120,
+      "name": "Baby Can I Hold You",
+      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Classics (Vol.4)",
+        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 162973,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Definitive Soul: Aretha Franklin",
+        "url": "https://open.spotify.com/album/2TQwwjsqs7dsHWkzcTa36n"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 236599,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4b0nLE71uqQDgnrIQ9uB1v"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1751,18 +1799,86 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Just Once In My Life",
-        "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
+        "name": "The Spy Who Loved Me",
+        "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
       },
       "artists": [
         {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+          "name": "Marvin Hamlisch",
+          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
+        },
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
         }
       ],
-      "duration_ms": 218013,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
+      "duration_ms": 212666,
+      "name": "Nobody Does It Better",
+      "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "80's The Collection",
+        "url": "https://open.spotify.com/album/3GDOnLCioGbwCWMi0SNqat"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/3Z6DV0jsGqCs4whsfda7lX"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Deep Cuts: The Best Of The Ballads",
+        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "To Be With You",
+      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1803,122 +1919,6 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/3Z72KfamjH9Wc5m9mgVqI7"
-      },
-      "artists": [
-        {
-          "name": "Dave Matthews Band",
-          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
-        }
-      ],
-      "duration_ms": 316466,
-      "name": "Crash into Me",
-      "url": "https://open.spotify.com/track/1HL3yEnYq8LEyFQ3QegA5V"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Deep Cuts: The Best Of The Ballads",
-        "url": "https://open.spotify.com/album/0DYLNt604AgwFMQhK3HNLR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "To Be With You",
-      "url": "https://open.spotify.com/track/0Yi128S6QgQDnAKg5A0OZw"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "80's The Collection",
-        "url": "https://open.spotify.com/album/3GDOnLCioGbwCWMi0SNqat"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/3Z6DV0jsGqCs4whsfda7lX"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Tapestry (Legacy Edition)",
-        "url": "https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Feel the Earth Move",
-      "url": "https://open.spotify.com/track/7onOpypcFWFc2YjMIcJnx9"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "The Beat Goes On: Best Of",
-        "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
-      },
-      "artists": [
-        {
-          "name": "Sonny & Cher",
-          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "I Got You Babe",
-      "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Double Fantasy",
-        "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Woman - Remastered 2010",
-      "url": "https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "The Spy Who Loved Me",
-        "url": "https://open.spotify.com/album/5k55f89cnXdy0BikkUeBHJ"
-      },
-      "artists": [
-        {
-          "name": "Marvin Hamlisch",
-          "url": "https://open.spotify.com/artist/1VN38ZSdtQnHLa8PfTTKZD"
-        },
-        {
-          "name": "Carly Simon",
-          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "Nobody Does It Better",
-      "url": "https://open.spotify.com/track/49RUdNvwSiUTC8fBh4KKoC"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
         "name": "White Ladder",
         "url": "https://open.spotify.com/album/7J9gUB4pQMa3Z3UAFubiim"
       },
@@ -1931,22 +1931,6 @@
       "duration_ms": 245426,
       "name": "This Years Love",
       "url": "https://open.spotify.com/track/7etlenN6okW92JzaCFxyFC"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "Definitive Soul: Aretha Franklin",
-        "url": "https://open.spotify.com/album/2TQwwjsqs7dsHWkzcTa36n"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 236599,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4b0nLE71uqQDgnrIQ9uB1v"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -1967,66 +1951,34 @@
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "Robin Hood: Prince Of Thieves (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3bbdZdZQtCtnWEN5zG7Eyj"
+        "name": "Double Fantasy",
+        "url": "https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         }
       ],
-      "duration_ms": 398026,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/5HQ6AUDMbMuwktvcNPuV1y"
+      "duration_ms": 212933,
+      "name": "Woman - Remastered 2010",
+      "url": "https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32"
     },
     {
       "added_at": "2022-02-07 01:58:42",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
         }
       ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "The Legendary Hi Records Albums, Volume 1: Green Is Blues + Gets Next To You + Let\u2019s Stay Together + I\u2019m Still In Love With You",
-        "url": "https://open.spotify.com/album/35sk1TGldszGdn9hWgFNPM"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Let\u2019s Stay Together",
-      "url": "https://open.spotify.com/track/5BP3Cd8jGp5jn5EgKDRHrD"
-    },
-    {
-      "added_at": "2022-02-07 01:58:42",
-      "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
+      "duration_ms": 216266,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
     },
     {
       "added_at": "2022-02-07 01:58:42",
@@ -2047,6 +1999,54 @@
       "duration_ms": 188266,
       "name": "That's Amore",
       "url": "https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "The Legendary Hi Records Albums, Volume 1: Green Is Blues + Gets Next To You + Let\u2019s Stay Together + I\u2019m Still In Love With You",
+        "url": "https://open.spotify.com/album/35sk1TGldszGdn9hWgFNPM"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Let\u2019s Stay Together",
+      "url": "https://open.spotify.com/track/5BP3Cd8jGp5jn5EgKDRHrD"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "Earth Angel - 1954-1960",
+        "url": "https://open.spotify.com/album/2BEps8UpyCc6mcMPzNmwFe"
+      },
+      "artists": [
+        {
+          "name": "The Penguins",
+          "url": "https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR"
+        }
+      ],
+      "duration_ms": 178026,
+      "name": "Earth Angel",
+      "url": "https://open.spotify.com/track/64CR7W5ZxCwcMu8AphwCt9"
+    },
+    {
+      "added_at": "2022-02-07 01:58:42",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
     }
   ],
   "unique_name": "Valentine's Day Love",

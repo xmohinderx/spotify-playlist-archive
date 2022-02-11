@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: Delaney Bailey Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,706 likes - 96 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,056 likes - 96 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

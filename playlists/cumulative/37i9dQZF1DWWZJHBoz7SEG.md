@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWZJHBoz7SEG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWZJHBoz7SEG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWZJHBoz7SEG)
 
-### Novedades Viernes MX
+### [Novedades Viernes MX](https://open.spotify.com/playlist/0cF57aJLHrApDaSD7aCtGt)
 
 > ¡Llane, Reik y KHEA; ROSALÍA; Ingratax y Sael; Mitski; y más!
 

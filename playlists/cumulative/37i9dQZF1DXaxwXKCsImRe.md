@@ -51,6 +51,7 @@
 | [Turn Around](https://open.spotify.com/track/2tEnmxLtnpbhuSks6aOxeL) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Too Young](https://open.spotify.com/album/5ZfCvmBhlJhVyKFLits0lx) | 2:44 | 2021-12-10 |  |
 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 | 2022-02-03 |  |
 | [What Goes, Let Go](https://open.spotify.com/track/1T9PWBFDewu2lz6R2Obydp) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [What Goes, Let Go](https://open.spotify.com/album/5rIh0IGTwv2Y7m10VnJb4k) | 4:34 | 2021-12-10 |  |
+| [Who’s Gonna Be The GOAT?](https://open.spotify.com/track/43lovrb0yCRgUzM3CA2KNz) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [\(yellow\)](https://open.spotify.com/album/4OwS1arhD7iCSSDRjF28tu) | 2:44 | 2022-02-10 |  |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2021-12-10 |  |
 | [You Were in My Dream Last Night](https://open.spotify.com/track/5XdUEaXDQRaSkMT9y2FNvU) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were in My Dream Last Night](https://open.spotify.com/album/0r9Qxn2RLpE6naOr0GXcJq) | 4:01 | 2021-12-10 |  |
 

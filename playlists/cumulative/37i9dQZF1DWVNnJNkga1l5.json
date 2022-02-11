@@ -96,6 +96,24 @@
     },
     {
       "album": {
+        "name": "Gratitud",
+        "url": "https://open.spotify.com/album/53BSvP9Gegfk3OV4OtcWA7"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "Arroyito",
+      "url": "https://open.spotify.com/track/3YiF4GqPHrifMDhn7mUnD1"
+    },
+    {
+      "album": {
         "name": "Fantasia o realidad (american edition)",
         "url": "https://open.spotify.com/album/2NVUSpunMuwYEFaqJsTRd1"
       },
@@ -111,6 +129,24 @@
       "duration_ms": 265173,
       "name": "Aunque no te pueda ver",
       "url": "https://open.spotify.com/track/6UTRKQhyERZY5Jduii5Jmv"
+    },
+    {
+      "album": {
+        "name": "Tierna La Noche",
+        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281520,
+      "name": "Az\u00facar Amargo",
+      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
     },
     {
       "album": {
@@ -186,6 +222,24 @@
     },
     {
       "album": {
+        "name": "Los Romanticos- Myriam Hernandez",
+        "url": "https://open.spotify.com/album/5BGRh1xpSGI66rDxaisPyx"
+      },
+      "artists": [
+        {
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217160,
+      "name": "El Hombre Que Yo Amo",
+      "url": "https://open.spotify.com/track/37VoMBYfOxPDiMPUP5iMIn"
+    },
+    {
+      "album": {
         "name": "Santo Pecado",
         "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
       },
@@ -233,7 +287,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 228493,
       "name": "Entre t\u00fa y mil mares",
       "url": "https://open.spotify.com/track/715pi9Q08DJxLmyFj5SULx"
@@ -251,7 +305,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 196840,
       "name": "Eres",
       "url": "https://open.spotify.com/track/169fypnmX8pWC6cdUR19bt"
@@ -294,6 +348,24 @@
     },
     {
       "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204293,
+      "name": "Jam\u00e1s",
+      "url": "https://open.spotify.com/track/0ScrUVrcTYIZijbqDZ3CJE"
+    },
+    {
+      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/5Ht3gLTIVlqQ8KKGSz2XI1"
       },
@@ -305,7 +377,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 236093,
       "name": "La Calle De Las Sirenas",
       "url": "https://open.spotify.com/track/44OzhCg9CsKCbUtBHyLQqI"
@@ -377,7 +449,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 239866,
       "name": "La soledad",
       "url": "https://open.spotify.com/track/1F31sM4SCBmPlg1H3r7wGH"
@@ -521,7 +593,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 334093,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/10dtkq3WqY3Mtqewv4AbJt"
@@ -593,7 +665,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 268746,
       "name": "No Hace Falta",
       "url": "https://open.spotify.com/track/7FZ9pYYBFVQhEWSwqmyB68"
@@ -611,7 +683,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 239400,
       "name": "No Me Doy Por Vencido",
       "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
@@ -712,6 +784,24 @@
     },
     {
       "album": {
+        "name": "Adentro",
+        "url": "https://open.spotify.com/album/3MXgh2NutxVsZvxHaNZG2s"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228106,
+      "name": "Ping\u00fcinos en la Cama",
+      "url": "https://open.spotify.com/track/5uALDiBIe9EzvRBpJyf5Ce"
+    },
+    {
+      "album": {
         "name": "Lo Que Te Conte Mientras Te Hacias La Dormida",
         "url": "https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp"
       },
@@ -727,6 +817,24 @@
       "duration_ms": 236506,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq"
+    },
+    {
+      "album": {
+        "name": "Disco De Oro Vol. 1 - Joan Sebastian",
+        "url": "https://open.spotify.com/album/5in9WtfuLVsYRRCK9zsnke"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222526,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/2RdfcTpYnfQPTieIi7dc6e"
     },
     {
       "album": {
@@ -749,6 +857,24 @@
       "duration_ms": 248000,
       "name": "Si la Ves (feat. Sin Bandera)",
       "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
+    },
+    {
+      "album": {
+        "name": "20 Aut\u00e9nticos \u00c9xitos Originales - Jos\u00e9 Jos\u00e9",
+        "url": "https://open.spotify.com/album/1UNi8P7bmTY2JnxzCWMqYe"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273066,
+      "name": "Si Me Dejas Ahora",
+      "url": "https://open.spotify.com/track/5PrGKIdXRTMBj3OmMOe5w9"
     },
     {
       "album": {
@@ -969,7 +1095,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 234040,
       "name": "Un Buen Perdedor",
       "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
@@ -1027,7 +1153,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 264173,
       "name": "Vuela, Vuela (Voyage, Voyage)",
       "url": "https://open.spotify.com/track/59DBFv5MOW0M4KSF78rHw7"
@@ -1067,6 +1193,42 @@
       "duration_ms": 323026,
       "name": "Y, \u00bfSi fuera ella?",
       "url": "https://open.spotify.com/track/1DmlUpnkg4N1VWquSoffF1"
+    },
+    {
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224640,
+      "name": "Yo No Soy Esa Mujer",
+      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
+    },
+    {
+      "album": {
+        "name": "Celebridades- Daniela Romo",
+        "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
+      },
+      "artists": [
+        {
+          "name": "Daniela Romo",
+          "url": "https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231440,
+      "name": "Yo No Te Pido La Luna",
+      "url": "https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE"
     },
     {
       "album": {

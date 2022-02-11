@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "Fenix TX",
+        "url": "https://open.spotify.com/album/1mAITc0ctsvRM76qU90upG"
+      },
+      "artists": [
+        {
+          "name": "Fenix TX",
+          "url": "https://open.spotify.com/artist/074c96SFGJ7WfW7ykczDHr"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169240,
+      "name": "All My Fault",
+      "url": "https://open.spotify.com/track/0ddf9avsMIU4KrKDWB9SRv"
+    },
+    {
+      "album": {
         "name": "Party Animals",
         "url": "https://open.spotify.com/album/7tn2kS6On7umvcGfwSghDu"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 158426,
       "name": "All My Friends Are Dead",
       "url": "https://open.spotify.com/track/6iDnezR8vmo7aF7k2BsMzD"
@@ -109,7 +127,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 130933,
       "name": "Country Roads",
       "url": "https://open.spotify.com/track/2sj6shokFZofFW0VaygHAA"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 241908,
       "name": "Diamonds And Guns",
       "url": "https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 207733,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/3q5U2BPRRCY57XtPWx5MfO"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 190493,
       "name": "Girl's Not Grey",
       "url": "https://open.spotify.com/track/6YjciGk65aCrZAXjaQVG6C"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-08",
+      "date_removed": null,
       "duration_ms": 197786,
       "name": "I Won't Lie Down",
       "url": "https://open.spotify.com/track/5sEmIMKfc3Y75rDHc6dnOb"
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 200573,
       "name": "Insects Destroy",
       "url": "https://open.spotify.com/track/3h0cVQlafBKn2dHPIiCmBb"
@@ -811,7 +829,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 149506,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/2gAJ6xYuJ2N6DdtDOhsL3y"
@@ -937,7 +955,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 167506,
       "name": "Roots Radical",
       "url": "https://open.spotify.com/track/0LWkdUtorgGHr1bwT2C6tY"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 158733,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 318013,
       "name": "The Three of Us",
       "url": "https://open.spotify.com/track/2xrRBqEanoBaA0tOgYy18V"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 150293,
       "name": "True Believers",
       "url": "https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8"

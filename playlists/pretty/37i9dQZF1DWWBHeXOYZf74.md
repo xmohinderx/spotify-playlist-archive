@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,323,905 likes - 108 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,323,856 likes - 108 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

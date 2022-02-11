@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 190714,
       "name": "Acquacalda",
       "url": "https://open.spotify.com/track/6dMBQNftw7Pcrg02853Qae"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 123000,
       "name": "Altitude",
       "url": "https://open.spotify.com/track/1vcSv84ppGJDv6AffZrlB3"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 208421,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/3phCbf2aKOilnmUdlSm0Uh"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 354791,
       "name": "Copycat",
       "url": "https://open.spotify.com/track/4fRDbN8d9hKBbYs0rG4El0"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 143665,
       "name": "Cosmopolitan",
       "url": "https://open.spotify.com/track/5tIBc0L66MVZ1tNUApYV8f"
@@ -1063,10 +1063,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 175714,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/15kngPpHArrpT8PSdKVSud"
+    },
+    {
+      "album": {
+        "name": "Get in Line",
+        "url": "https://open.spotify.com/album/3i7j0fMwZROk6o1dgzLmFS"
+      },
+      "artists": [
+        {
+          "name": "Soft Sea",
+          "url": "https://open.spotify.com/artist/1ZHSuZbZPXpAFuQl6XSzYx"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204521,
+      "name": "Get in Line",
+      "url": "https://open.spotify.com/track/4HSmG5J9Cbu1pEbSHCXWJI"
     },
     {
       "album": {
@@ -1085,6 +1103,24 @@
       "duration_ms": 142500,
       "name": "Get Me",
       "url": "https://open.spotify.com/track/5Gc1uMVOV4q4GZ6BpbER4T"
+    },
+    {
+      "album": {
+        "name": "glacial",
+        "url": "https://open.spotify.com/album/4jw8875Q5wwxTWJ63OEw8g"
+      },
+      "artists": [
+        {
+          "name": "Tiriba",
+          "url": "https://open.spotify.com/artist/1SYHJDCUZirC4azFR67geQ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215285,
+      "name": "glacial",
+      "url": "https://open.spotify.com/track/5T0E6sSBSdlHOGOvUnJRx2"
     },
     {
       "album": {
@@ -1484,6 +1520,24 @@
     },
     {
       "album": {
+        "name": "Lucid Moments",
+        "url": "https://open.spotify.com/album/6RlE8VrwG6K3Bqs3NbuxwV"
+      },
+      "artists": [
+        {
+          "name": "Undeva Ploua",
+          "url": "https://open.spotify.com/artist/2pTLeyGB0F7IAftkVc3nga"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111628,
+      "name": "Lumina Mov",
+      "url": "https://open.spotify.com/track/6u1PJVc6R2HjO9VmArEqAC"
+    },
+    {
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/6HMxIJa3vbn5re4tapLD34"
       },
@@ -1531,7 +1585,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 189272,
       "name": "Mannequin",
       "url": "https://open.spotify.com/track/36Uz12ctE58QztkK67Doya"
@@ -1603,7 +1657,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 166714,
       "name": "Messages",
       "url": "https://open.spotify.com/track/5Xl97YwxMDsvdmKeCBe6eT"
@@ -1873,7 +1927,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 165291,
       "name": "Palm Beach",
       "url": "https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh"
@@ -1895,6 +1949,24 @@
       "duration_ms": 216000,
       "name": "Peaches & Cream",
       "url": "https://open.spotify.com/track/2DLTtKF8Y5tvBuCj8eUzsk"
+    },
+    {
+      "album": {
+        "name": "Piano Park",
+        "url": "https://open.spotify.com/album/6u0PJfhQLlBRArcd2T5iNr"
+      },
+      "artists": [
+        {
+          "name": "Ben Jonovski",
+          "url": "https://open.spotify.com/artist/01lzF0kz4osCQXfUDFmOnC"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Piano Park",
+      "url": "https://open.spotify.com/track/7MYP5ACQrR73wJ4CQkzhaZ"
     },
     {
       "album": {
@@ -2341,7 +2413,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 154419,
       "name": "Standing with You",
       "url": "https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE"
@@ -2363,6 +2435,24 @@
       "duration_ms": 112941,
       "name": "Steek",
       "url": "https://open.spotify.com/track/0tmfkSrjCbV7fOUPEDznhP"
+    },
+    {
+      "album": {
+        "name": "Still Need People",
+        "url": "https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9"
+      },
+      "artists": [
+        {
+          "name": "Camisade",
+          "url": "https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182267,
+      "name": "Still Need People",
+      "url": "https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j"
     },
     {
       "album": {
@@ -2413,7 +2503,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 241043,
       "name": "Sun Glitches",
       "url": "https://open.spotify.com/track/4J9HHafhgC42Dm18pJUIQo"
@@ -2611,7 +2701,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 143460,
       "name": "Triscar",
       "url": "https://open.spotify.com/track/3EeTOaa2ojxqifAS3lPDIv"

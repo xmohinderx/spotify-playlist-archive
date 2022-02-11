@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > shake it up and let it pop! cover: Hippo Campus
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,735 likes - 87 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,818 likes - 87 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

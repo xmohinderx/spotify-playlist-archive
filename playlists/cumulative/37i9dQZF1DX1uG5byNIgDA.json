@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 198165,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3YwRisfTPmDXtZ1Lnz6Fpr"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 229066,
       "name": "be",
       "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 230148,
       "name": "BEST FRIEND",
       "url": "https://open.spotify.com/track/5GB0hU37rKZNVsHMu7FOM9"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 148946,
       "name": "Cherry On Top",
       "url": "https://open.spotify.com/track/6S2vJU8eHt7WpZJE3SWpTa"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 187659,
       "name": "cocoa",
       "url": "https://open.spotify.com/track/4PtG12oVoSFfJnkQ6jjRiC"
@@ -511,7 +511,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 169500,
       "name": "Creamppang",
       "url": "https://open.spotify.com/track/4kPG3bVHSq0cfIIt0LQEsO"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 189546,
       "name": "Dear DREAM",
       "url": "https://open.spotify.com/track/42HB7NqTtooRK7Lrwvwrq2"
@@ -825,7 +825,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 213885,
       "name": "FANCY",
       "url": "https://open.spotify.com/track/2FXd6kKCtBIc6UfN1gH1pA"
@@ -991,7 +991,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 196560,
       "name": "Heart",
       "url": "https://open.spotify.com/track/0mjbciwK9zhfQl44jXfQv6"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 234177,
       "name": "HOME",
       "url": "https://open.spotify.com/track/7lthOBXNue2IvedLRfkod8"
@@ -1218,6 +1218,24 @@
     },
     {
       "album": {
+        "name": "Sweet-Tea",
+        "url": "https://open.spotify.com/album/7BFmhM7GcY5oeseQmyYlpZ"
+      },
+      "artists": [
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200173,
+      "name": "ICE T",
+      "url": "https://open.spotify.com/track/6eNVf9UDzT0wrEFDEHnSus"
+    },
+    {
+      "album": {
         "name": "If we were friends",
         "url": "https://open.spotify.com/album/1CPm4sLbf1jpOlLZyVeru5"
       },
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 172358,
       "name": "In the morning",
       "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 181000,
       "name": "It's Okay to Not Be Okay",
       "url": "https://open.spotify.com/track/0TmFsWTadkiSy6A7fjvqbB"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 208040,
       "name": "Jam & Butterfly",
       "url": "https://open.spotify.com/track/5rZkRaL4AjykFgw49KULyo"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 156818,
       "name": "Just Good",
       "url": "https://open.spotify.com/track/1Q7BxZ0eWJ0nY08idRET5r"
@@ -1385,7 +1403,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 229306,
       "name": "kickkick \ud0a5\ud0a5",
       "url": "https://open.spotify.com/track/0hAcqZNqVR5AyTypgFn7v5"
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 194773,
       "name": "Love Right Back (feat. TAEIL of NCT, lIlBOI)",
       "url": "https://open.spotify.com/track/1XAjHcWjzNbYlVi9uSp1ko"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 181196,
       "name": "Not For Sale",
       "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 163026,
       "name": "Playlist",
       "url": "https://open.spotify.com/track/7xTDCxibzHpmUUQeso8Sg7"
@@ -1945,7 +1963,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 218720,
       "name": "Second (feat. BIBI)",
       "url": "https://open.spotify.com/track/4ghTyKLeMMTZQ85LwRbej0"
@@ -2155,7 +2173,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 222284,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC"
@@ -2307,7 +2325,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 198266,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/5Hvi3XSS00txHgZB6UZhFl"
@@ -2369,7 +2387,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-05",
+      "date_removed": null,
       "duration_ms": 206946,
       "name": "Together",
       "url": "https://open.spotify.com/track/3TDGIHf1Mdxat9VftcIVZ0"
@@ -2387,7 +2405,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 145360,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR"
@@ -2477,7 +2495,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 235386,
       "name": "Winter Falls",
       "url": "https://open.spotify.com/track/0uQIb3EOcrw5tnRLXIAqbD"
@@ -2571,7 +2589,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 191788,
       "name": "Wishlist",
       "url": "https://open.spotify.com/track/1xo0SABqJrTriyMb2JMtLg"
@@ -2625,7 +2643,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 218984,
       "name": "You make Me",
       "url": "https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp"

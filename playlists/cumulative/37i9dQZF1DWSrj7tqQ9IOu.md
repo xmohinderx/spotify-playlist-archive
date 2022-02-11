@@ -2,7 +2,7 @@
 
 ### [Made in France](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
-> The best French indie tracks right now\. Cover: Nell Widmer
+> The best French indie tracks right now\. Cover: Oscar Anton & Clementine
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Space Trip](https://open.spotify.com/track/5kA30CMKo6wUWiINlG4YXt) | [Abel Chéret](https://open.spotify.com/artist/2SA8kSdrElh8uRTa7AnGyL) | [Space Trip](https://open.spotify.com/album/42aPZS0haRwyQbeay0mpOU) | 3:36 | 2021-12-16 |  |
 | [Superlove](https://open.spotify.com/track/2HAlxc5ytQPDAeSBfDYiTu) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI) | [Superlove](https://open.spotify.com/album/2Xed5UiAm9CUVasY1uo6RE) | 3:48 | 2022-01-13 | 2022-02-04 |
 | [Tata](https://open.spotify.com/track/5toHaNWeaCf5cw9Jfn6yK4) | [Johan Papaconstantino](https://open.spotify.com/artist/7xuc5o2ysVzV0UDiGordzO) | [Tata](https://open.spotify.com/album/6D2bRl9q3zF2Rt3hcSQaRu) | 3:58 | 2021-12-16 |  |
-| [Teenager](https://open.spotify.com/track/4fuFDRwSnpcU7xfeSrZHrr) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Breakup Songs](https://open.spotify.com/album/4IAkKeuLkZWzWQqqFI6uDk) | 3:16 | 2022-01-27 |  |
+| [Teenager](https://open.spotify.com/track/4fuFDRwSnpcU7xfeSrZHrr) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Breakup Songs](https://open.spotify.com/album/4IAkKeuLkZWzWQqqFI6uDk) | 3:16 | 2022-01-27 | 2022-02-11 |
+| [The Crush](https://open.spotify.com/track/5w8PRAWFhg3EPBqd9fwZMn) | [Silly Boy Blue](https://open.spotify.com/artist/4m9uyzV105Mtdiz7mEco9J) | [Breakup Songs \(Extended\)](https://open.spotify.com/album/03LGiK0ZUZx0nkp4fOhkkJ) | 3:20 | 2022-02-10 |  |
 | [Toi & moi \- Edit](https://open.spotify.com/track/6roMwL3sNdHRO2MRVmkBRn) | [Cabale](https://open.spotify.com/artist/5raQmxMcTBUh8pMYU6ZOit) | [Toi & moi \(Edit\)](https://open.spotify.com/album/3brOAQNbUUmMryZeP8nLvK) | 3:06 | 2021-12-16 |  |
 | [Tomber sur toi](https://open.spotify.com/track/5ROlPKakaGkRvOungamJK2) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tomber sur toi](https://open.spotify.com/album/0SUoYmi2VwoCiYh16PjEhv) | 4:14 | 2021-12-16 |  |
 | [Un coup de génie](https://open.spotify.com/track/0NGl6062nPDjtyZe8ie6r6) | [Dani Terreur](https://open.spotify.com/artist/5AWtYkPhj1X2cECuTUfq7Z) | [Un coup de génie](https://open.spotify.com/album/3QxWS5kGcfdpE80oOhrrte) | 3:12 | 2022-02-03 |  |

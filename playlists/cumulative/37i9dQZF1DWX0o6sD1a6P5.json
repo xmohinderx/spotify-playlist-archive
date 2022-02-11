@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover:  1da Banton",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: CKay",
   "name": "Afro Hits",
   "published_playlist_ids": [
     "1dEBeASsRuQMcB6nFV6Y3W"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 131296,
       "name": "Bresom (feat. Naza)",
       "url": "https://open.spotify.com/track/6o7lJeWBrDtsortS0FPKPJ"
@@ -333,6 +333,24 @@
       "duration_ms": 160666,
       "name": "C'est toi",
       "url": "https://open.spotify.com/track/729blbra42RS4hrSqGOU3t"
+    },
+    {
+      "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/6uKDUDB0xUmI7hOJHMHULk"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/0prHRcmwD2Kk6no5sMovDD"
     },
     {
       "album": {
@@ -904,6 +922,24 @@
     },
     {
       "album": {
+        "name": "Ronisia",
+        "url": "https://open.spotify.com/album/5T2XIptVJAJM0KIs6aWxWo"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140253,
+      "name": "M\u00e9lodie (Tatami)",
+      "url": "https://open.spotify.com/track/78cYGQUXUNS5LZuNRzeqk7"
+    },
+    {
+      "album": {
         "name": "Original Vibe Machine",
         "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
       },
@@ -937,6 +973,28 @@
       "duration_ms": 278167,
       "name": "Nzoto",
       "url": "https://open.spotify.com/track/2TXxYgXnKnq3qJTXclJHTj"
+    },
+    {
+      "album": {
+        "name": "Omo Ope",
+        "url": "https://open.spotify.com/album/6PU3yx6qtcu2BKkRMGSbdG"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Omo Ope (feat. Olamide)",
+      "url": "https://open.spotify.com/track/7d1aTQlsHMgWmkPywDi7h1"
     },
     {
       "album": {
@@ -1281,7 +1339,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 196398,
       "name": "Sure Banker",
       "url": "https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV"
@@ -1373,7 +1431,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 207804,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/7JaYn3eZYVgW4cjrvqbJWE"

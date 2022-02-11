@@ -84,6 +84,24 @@
     },
     {
       "album": {
+        "name": "12 Stars",
+        "url": "https://open.spotify.com/album/4XhG0Qxth2pJsb3efESk9S"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179092,
+      "name": "12 Stars",
+      "url": "https://open.spotify.com/track/2FjOGQaDBoR2rcEkSDA5jL"
+    },
+    {
+      "album": {
         "name": "Music of Mad Men",
         "url": "https://open.spotify.com/album/0PcbId0kGlLBTGm3PLdK7G"
       },
@@ -153,7 +171,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 315733,
       "name": "Alien",
       "url": "https://open.spotify.com/track/4EVOgxhFXQ0U6u8k4vebET"

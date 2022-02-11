@@ -617,7 +617,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 149869,
       "name": "Man\u00e8ge",
       "url": "https://open.spotify.com/track/0JyX9jNf4mUdp1eNUVAqyR"
@@ -788,6 +788,28 @@
     },
     {
       "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227386,
+      "name": "Peon (feat. Orelsan)",
+      "url": "https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe"
+    },
+    {
+      "album": {
         "name": "R\u00e9elle vie 3.0",
         "url": "https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw"
       },
@@ -810,6 +832,28 @@
     },
     {
       "album": {
+        "name": "SVR",
+        "url": "https://open.spotify.com/album/7BGxAPIIuq3UapnPUhjBDy"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        },
+        {
+          "name": "Kalash Criminel",
+          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163986,
+      "name": "Shooter",
+      "url": "https://open.spotify.com/track/6RkusvVLSW6i29LiUWyg8w"
+    },
+    {
+      "album": {
         "name": "L'\u00c9trange Histoire de Mr.Anderson",
         "url": "https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz"
       },
@@ -829,7 +873,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 231586,
       "name": "SPECIAL (feat. Nekfeu & Foushe\u00e9)",
       "url": "https://open.spotify.com/track/11HLDMuPD3wh88XHw4udKO"

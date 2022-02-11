@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-02-09",
   "description": "Your daily update of the most viral tracks right now - Mexico.",
   "name": "Viral 50 - Mexico",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "706djbLH8NRytoGkztKsYT"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/5sHmIFBPArURrhuDGkbBle"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208468,
+      "name": "",
+      "url": "https://open.spotify.com/track/5ZgnfWvnsbF4HpSCyYWs5k"
+    },
     {
       "album": {
         "name": "12x3",
@@ -173,7 +193,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 259122,
       "name": "Contigo Quiero",
       "url": "https://open.spotify.com/track/2LcIJVkjKZbGsIfR8wAwMH"
@@ -195,24 +215,6 @@
       "duration_ms": 177058,
       "name": "Creo en Ti",
       "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
-    },
-    {
-      "album": {
-        "name": "Cuando Te Ame",
-        "url": "https://open.spotify.com/album/5sHmIFBPArURrhuDGkbBle"
-      },
-      "artists": [
-        {
-          "name": "El Rey De La Taquilla",
-          "url": "https://open.spotify.com/artist/0PqHgYaNYyntbxa8TMLh5d"
-        }
-      ],
-      "date_added": "2022-02-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208468,
-      "name": "Cuando Te Ame",
-      "url": "https://open.spotify.com/track/5ZgnfWvnsbF4HpSCyYWs5k"
     },
     {
       "album": {
@@ -253,7 +255,7 @@
       ],
       "date_added": "2022-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -539,7 +541,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 186549,
       "name": "Lo Hice, Te Dej\u00e9",
       "url": "https://open.spotify.com/track/3PKhRDUCDckxRypmC5RhO6"
@@ -675,6 +677,24 @@
       "duration_ms": 202478,
       "name": "Mi Gata",
       "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
+    },
+    {
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
       "album": {

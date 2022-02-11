@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 190229,
       "name": "Answers (Acoustic)",
       "url": "https://open.spotify.com/track/28peZbGhHydhLLeZb1FUbz"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 202473,
       "name": "Birds",
       "url": "https://open.spotify.com/track/3DekCgOkhOg1afxMyx1ixA"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 199146,
       "name": "Bloomsday",
       "url": "https://open.spotify.com/track/2kRPwBHZQTot91lTuElVmK"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 216173,
       "name": "Build Me Up From Bones",
       "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
@@ -547,7 +547,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 203466,
       "name": "Bull Frogs Croon: i. Night Fishing",
       "url": "https://open.spotify.com/track/3XLWO3f18mpSJqAGMCyJnp"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 236285,
       "name": "Colder Heavens - Acoustic Version",
       "url": "https://open.spotify.com/track/07GpOUnhF3EwVjv3pMMchp"
@@ -1237,7 +1237,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 214564,
       "name": "Green Lights - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 244960,
       "name": "Horse to Water",
       "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
@@ -1447,7 +1447,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 220864,
       "name": "I Hope It Takes You Higher - Acoustic",
       "url": "https://open.spotify.com/track/71aHrUacV9bMtm1qCqJuwZ"
@@ -1643,7 +1643,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 185746,
       "name": "Love Brought Weight",
       "url": "https://open.spotify.com/track/1H56ffyFrFcvMEWUg3WFbM"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 194320,
       "name": "Mind on Fire",
       "url": "https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C"
@@ -1798,6 +1798,28 @@
     },
     {
       "album": {
+        "name": "Luck Mansion Sessions",
+        "url": "https://open.spotify.com/album/72sVXC5BzvjO9WFaebpK1c"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        },
+        {
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215998,
+      "name": "Mother, Mother",
+      "url": "https://open.spotify.com/track/6X0hjAJlVW9PiqQIaGsVzd"
+    },
+    {
+      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1p16WxrdVBNIAAxbpZMWJR"
       },
@@ -1863,7 +1885,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 264407,
       "name": "My Dreams Have All Come True",
       "url": "https://open.spotify.com/track/2s1c8h4P4u1GxzNQFws648"
@@ -1899,7 +1921,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 178240,
       "name": "New Paint - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
@@ -2065,7 +2087,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 225850,
       "name": "On That Day",
       "url": "https://open.spotify.com/track/462spZcKDCjmwrJRDxlx3N"
@@ -2371,7 +2393,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 238546,
       "name": "Rolling On",
       "url": "https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy"
@@ -2587,7 +2609,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 266906,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK"
@@ -2609,6 +2631,24 @@
       "duration_ms": 307534,
       "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218160,
+      "name": "Sweetpie",
+      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
     },
     {
       "album": {
@@ -2868,6 +2908,24 @@
     },
     {
       "album": {
+        "name": "The Widow Knows E.P.",
+        "url": "https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe"
+      },
+      "artists": [
+        {
+          "name": "Wyvern Lingo",
+          "url": "https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN"
+        }
+      ],
+      "date_added": "2022-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252816,
+      "name": "Used",
+      "url": "https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y"
+    },
+    {
+      "album": {
         "name": "Caamp",
         "url": "https://open.spotify.com/album/4bYZ9xpRDgpOn6qUWLngTr"
       },
@@ -2973,7 +3031,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 158386,
       "name": "Whale Song",
       "url": "https://open.spotify.com/track/0qFFiR3SiXqgnQvX6Q1WOO"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Foto: Natos y Waor
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,749 likes - 61 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,929 likes - 61 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

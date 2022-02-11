@@ -142,6 +142,46 @@
     },
     {
       "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/5B285ZvlrjVrlBQs3qnhGv"
+      },
+      "artists": [
+        {
+          "name": "Barii",
+          "url": "https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149958,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/1FuZI50Lm6PLN6JWQagTzK"
+    },
+    {
+      "album": {
+        "name": "Bag (with Lucky Daye)",
+        "url": "https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "Bag (with Lucky Daye)",
+      "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
+    },
+    {
+      "album": {
         "name": "Look What We Do",
         "url": "https://open.spotify.com/album/0NvjjPqZXrP22wH2kDPrwL"
       },
@@ -388,6 +428,54 @@
     },
     {
       "album": {
+        "name": "Chicken Wings (Remix)",
+        "url": "https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Bando.",
+          "url": "https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165565,
+      "name": "Chicken Wings - Remix",
+      "url": "https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK"
+    },
+    {
+      "album": {
+        "name": "Chocolate Hills",
+        "url": "https://open.spotify.com/album/5PwD9RssnZnPRgDuP3s5hY"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190433,
+      "name": "Chocolate Hills",
+      "url": "https://open.spotify.com/track/1No3OKWvdgtctLvSKQcREg"
+    },
+    {
+      "album": {
         "name": "Cigars",
         "url": "https://open.spotify.com/album/5p9gflqMka80oxLg9PsKmX"
       },
@@ -599,7 +687,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 176065,
       "name": "Feel",
       "url": "https://open.spotify.com/track/3iJf0dg0PGISj0ied0T0g0"
@@ -639,7 +727,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 285000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6BSewgCeSs7mVkAxafwMeg"
@@ -698,6 +786,28 @@
     },
     {
       "album": {
+        "name": "Starfruit",
+        "url": "https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        },
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222733,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/1zmU3zbuD2sLne01XUvhYy"
+    },
+    {
+      "album": {
         "name": "Get It Right",
         "url": "https://open.spotify.com/album/0UCzllaY9orr3hC1iZsim3"
       },
@@ -709,7 +819,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 240701,
       "name": "Get It Right",
       "url": "https://open.spotify.com/track/3159fLoJc7neVqMUchcCin"
@@ -786,6 +896,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210873,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
+    },
+    {
+      "album": {
         "name": "Got Me Like",
         "url": "https://open.spotify.com/album/575QSGuN3CVFiknwHdkWav"
       },
@@ -823,7 +951,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 204901,
       "name": "Got My Back",
       "url": "https://open.spotify.com/track/5x3v1Td2EkrUJfscZdb6zJ"
@@ -960,6 +1088,24 @@
     },
     {
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/0uqPboQOJKyyLKAx41LygI"
+      },
+      "artists": [
+        {
+          "name": "K.ZIA",
+          "url": "https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183996,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3wa8JC8fe9gtsrMj7pXiKz"
+    },
+    {
+      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -971,7 +1117,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 270066,
       "name": "Hope",
       "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
@@ -1058,6 +1204,24 @@
     },
     {
       "album": {
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238026,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/6V1t4hTpqOyLgeTge1VWxL"
+    },
+    {
+      "album": {
         "name": "I'm Trying",
         "url": "https://open.spotify.com/album/42CmiJbrEQNYNkIYzKr6ZJ"
       },
@@ -1073,7 +1237,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 188181,
       "name": "I'm Trying",
       "url": "https://open.spotify.com/track/62VtlNPhJPlb0nqlL2Tn4L"
@@ -1095,6 +1259,24 @@
       "duration_ms": 298400,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/2KzpsnZztszanilxkAQBTh"
+    },
+    {
+      "album": {
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/351WcL5BItxQNGjf4zVCkw"
+      },
+      "artists": [
+        {
+          "name": "EMY",
+          "url": "https://open.spotify.com/artist/60fG6DGeN38kRBsBaokPNG"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201868,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/7KbAnSIxjZb8AXkMM1EfTG"
     },
     {
       "album": {
@@ -1139,6 +1321,24 @@
       "duration_ms": 209226,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl"
+    },
+    {
+      "album": {
+        "name": "The In and Out of Love Tape",
+        "url": "https://open.spotify.com/album/2L9YPeuEgWPyFmRbq5JWsD"
+      },
+      "artists": [
+        {
+          "name": "Funky DL",
+          "url": "https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233933,
+      "name": "Kicked to the Curb",
+      "url": "https://open.spotify.com/track/4yzRABpnrtTV3HxOQPzzv7"
     },
     {
       "album": {
@@ -1223,7 +1423,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 230100,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/6h6IgxlexLCcZDUAKUYMhC"
@@ -1241,7 +1441,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 260776,
       "name": "Like I Want You",
       "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
@@ -1340,6 +1540,28 @@
     },
     {
       "album": {
+        "name": "MIDSKY",
+        "url": "https://open.spotify.com/album/0FCsCJFEaPYwToH79yo6ES"
+      },
+      "artists": [
+        {
+          "name": "Chelan",
+          "url": "https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH"
+        },
+        {
+          "name": "Malter",
+          "url": "https://open.spotify.com/artist/3FDn3vsowXE4E7NNQn4fqq"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216250,
+      "name": "MIDSKY",
+      "url": "https://open.spotify.com/track/7zsNh2wvCUxcXYmKbPjoAW"
+    },
+    {
+      "album": {
         "name": "MilkShake & FriES (Demo)",
         "url": "https://open.spotify.com/album/0CZMcf4cXdbwL7WwlR83NW"
       },
@@ -1377,7 +1599,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 226858,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4rdQivUpY3faWSm98gMplo"
@@ -1471,7 +1693,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 235621,
       "name": "Mystic Lover",
       "url": "https://open.spotify.com/track/5Qs1FoJHwRJWx258CMJSxH"
@@ -1834,6 +2056,28 @@
     },
     {
       "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/7CeHWqHwSeRkV0XY1GePBN"
+      },
+      "artists": [
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        },
+        {
+          "name": "L V J",
+          "url": "https://open.spotify.com/artist/6nbOYUQOlOoU5C0p2I6zGk"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214698,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/5pvQJtNSJH28ex4qFLQi69"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2mhIpzfMTGU01Owrq3ydin"
       },
@@ -2030,6 +2274,24 @@
     },
     {
       "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/0WTexgyWemY3YVYS3VE8Qk"
+      },
+      "artists": [
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111498,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/44aip3NiojpXMaSOTyZ1UO"
+    },
+    {
+      "album": {
         "name": "Poetry In Motion",
         "url": "https://open.spotify.com/album/4Z5bdwjILIWCBWpqTpdcRY"
       },
@@ -2059,7 +2321,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 144688,
       "name": "Stacy",
       "url": "https://open.spotify.com/track/6EbK8OLEbYvj6wWNik3A1f"
@@ -2125,7 +2387,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 188805,
       "name": "Stickin' (feat. Masego & VanJess)",
       "url": "https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP"
@@ -2191,7 +2453,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 218017,
       "name": "Super Bounce",
       "url": "https://open.spotify.com/track/0bdNktKwMzf6d4V5BNK1KN"

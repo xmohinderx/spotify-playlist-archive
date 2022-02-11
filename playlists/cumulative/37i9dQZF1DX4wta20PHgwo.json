@@ -307,7 +307,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 412266,
       "name": "Autumn Nocturne",
       "url": "https://open.spotify.com/track/6Jws7Ip1lI09JNDGppRHRv"
@@ -1295,7 +1295,7 @@
       ],
       "date_added": "2020-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 258839,
       "name": "Grandmother's Dream",
       "url": "https://open.spotify.com/track/1q9lbtvwfAekaD6ScD7h2t"
@@ -1489,7 +1489,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 222996,
       "name": "Impression E Minor",
       "url": "https://open.spotify.com/track/5eIUDdG5pFjmshH9CsJgTV"
@@ -1715,7 +1715,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 518053,
       "name": "January",
       "url": "https://open.spotify.com/track/3bPNIOqP9KeWX0Z6SpM4qC"
@@ -1911,7 +1911,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 383626,
       "name": "Midnight Mood",
       "url": "https://open.spotify.com/track/1PMdnh8JihyvccTeC16XwB"
@@ -2009,7 +2009,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 204760,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/7LdrTu0apcwGJi3B5WWYnk"
@@ -2141,7 +2141,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 258266,
       "name": "Naima",
       "url": "https://open.spotify.com/track/1hVRTl4yhWmGW7ImZoO22e"
@@ -2159,7 +2159,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-06",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "Nancy (With The Laughing Face)",
       "url": "https://open.spotify.com/track/6xXUcB3UuWfuaiExwlzY9Q"
@@ -2459,6 +2459,32 @@
       "duration_ms": 289637,
       "name": "Re: Stacks - Radio Edit",
       "url": "https://open.spotify.com/track/5LgjJfkiN9BorHEUZV9M53"
+    },
+    {
+      "album": {
+        "name": "Reflections in D",
+        "url": "https://open.spotify.com/album/1PulHx45zSWvOGnbMJ4gND"
+      },
+      "artists": [
+        {
+          "name": "Larry Goldings",
+          "url": "https://open.spotify.com/artist/6wTD4jLsPadWutQ9nJvzT6"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Bill Stewart",
+          "url": "https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335866,
+      "name": "Reflections in D",
+      "url": "https://open.spotify.com/track/5pyFDbYIDiRBsFK3F59iju"
     },
     {
       "album": {
@@ -2859,7 +2885,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 446586,
       "name": "Soft Pedal Blues - Remastered",
       "url": "https://open.spotify.com/track/7rx7TWrRy5cYyKrM9ty8r9"
@@ -2979,7 +3005,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 284933,
       "name": "Strands",
       "url": "https://open.spotify.com/track/5LaxA3Vqu1huHZCQHUXnr3"
@@ -3393,7 +3419,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 188716,
       "name": "Theme for Laura",
       "url": "https://open.spotify.com/track/4rH0C49g6oJcPzsHgCzNLQ"
@@ -3505,7 +3531,7 @@
       ],
       "date_added": "2020-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 462106,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/3EeUl7XZAqrU2NoDTZjfdU"
@@ -3559,7 +3585,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 325586,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2"
@@ -3581,7 +3607,7 @@
       ],
       "date_added": "2020-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 356586,
       "name": "Vashkar",
       "url": "https://open.spotify.com/track/3Om7i5Xg1ORaABNTaCnF29"
@@ -3711,7 +3737,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 488693,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/6ttNHrgyK11RvgYOdC6Vpn"

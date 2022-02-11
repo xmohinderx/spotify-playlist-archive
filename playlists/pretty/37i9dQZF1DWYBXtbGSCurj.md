@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Caio Luccas
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,358 likes - 71 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,555 likes - 71 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

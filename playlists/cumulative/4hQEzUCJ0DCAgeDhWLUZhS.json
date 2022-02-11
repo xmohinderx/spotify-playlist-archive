@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "2am",
+        "url": "https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224178,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK"
+    },
+    {
+      "album": {
         "name": "A Hunger In Your Haunt",
         "url": "https://open.spotify.com/album/6KbmzvqXq3IxqjhJOFEKPh"
       },

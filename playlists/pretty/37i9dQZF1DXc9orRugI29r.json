@@ -1,13 +1,33 @@
 {
   "description": "\u00a1No busques m\u00e1s! La m\u00fasica del momento est\u00e1 aqu\u00ed.",
-  "num_followers": 243896,
-  "original_name": "HOT NOW: Rauw Alejandro - Caprichoso",
+  "num_followers": 244004,
+  "original_name": "HOT NOW: Becky G, KAROL G - MAMIII",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDQyMjA1NywwMDAwMDI4MTAwMDAwMTdlZGYzMTRjOTMwMDAwMDE3ZWM3MGUyYzM1",
+  "snapshot_id": "MTY0NDUzNDAwMCwwMDAwMDI4MjAwMDAwMTdlZTVkZDZhNTkwMDAwMDE3ZWU1YmU1MzEy",
   "tracks": [
+    {
+      "added_at": "2022-02-10 23:00:00",
+      "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
     {
       "added_at": "2022-02-07 17:00:00",
       "album": {
@@ -359,22 +379,6 @@
     {
       "added_at": "2022-01-27 06:00:00",
       "album": {
-        "name": "FINAL (Vol.1)",
-        "url": "https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "PENDEJO",
-      "url": "https://open.spotify.com/track/5cy2dREJqJAyf3CNr509W7"
-    },
-    {
-      "added_at": "2022-01-27 06:00:00",
-      "album": {
         "name": "Mama Tetema (feat. Rayvanny)",
         "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
       },
@@ -677,6 +681,6 @@
       "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
     }
   ],
-  "unique_name": "HOT NOW: Rauw Alejandro - Caprichoso",
+  "unique_name": "HOT NOW: Becky G, KAROL G - MAMIII",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r"
 }

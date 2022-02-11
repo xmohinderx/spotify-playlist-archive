@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 186306,
       "name": "Buena Se\u00f1al",
       "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 228253,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX"
@@ -675,10 +675,32 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 216533,
       "name": "Inventas",
       "url": "https://open.spotify.com/track/48eeeHvDzNvtJiQh5XDs2N"
+    },
+    {
+      "album": {
+        "name": "Joder",
+        "url": "https://open.spotify.com/album/4AuyjPAbIqovnGdkiashml"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149300,
+      "name": "Joder",
+      "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
     },
     {
       "album": {
@@ -971,7 +993,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 162548,
       "name": "Mi M\u00fasica",
       "url": "https://open.spotify.com/track/2AlHpf178cwGhoBUEyhBUv"
@@ -1113,7 +1135,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 197815,
       "name": "No Pasa Nada - Recorded at Panoram Studios, Mexico",
       "url": "https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth"
@@ -1237,7 +1259,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 172434,
       "name": "Pa' Mi Entero",
       "url": "https://open.spotify.com/track/3XYRNTBQLpR8qZMJSptr8V"
@@ -1331,7 +1353,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 191109,
       "name": "Quiero Que Me Quieras",
       "url": "https://open.spotify.com/track/69I8H6hOjJtysbOQIdRZCO"
@@ -1393,7 +1415,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-02",
+      "date_removed": null,
       "duration_ms": 221595,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4uLJm8nrmgjCT6ftc8GycM"
@@ -1557,7 +1579,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql"

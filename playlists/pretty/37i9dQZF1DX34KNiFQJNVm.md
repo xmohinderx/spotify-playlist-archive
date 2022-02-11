@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lucas Lucco com Marília Mendonça, Luan Santana e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,724,302 likes - 99 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,724,748 likes - 99 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 73 | [Stay Soft](https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:16 |
 | 74 | [De 100 a 0](https://open.spotify.com/track/2WbC6wQYIAOVpnB8Xai63a) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [De 100 a 0](https://open.spotify.com/album/11QTKoa3O2tD7Vz1AmSgSc) | 3:04 |
 | 75 | [Noche en LA](https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Noche en LA](https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw) | 3:29 |
-| 76 | [Malvada](https://open.spotify.com/track/6MuoUZu0bzBgsT8nBdbzUw) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU), [Adi](https://open.spotify.com/artist/4AnpI5Laz6YeM09dMJNTaW) | [Malvada](https://open.spotify.com/album/1gC2oOqDpQJYN0oCsOhMZN) | 3:12 |
+| 76 | [Malvada](https://open.spotify.com/track/6MuoUZu0bzBgsT8nBdbzUw) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU), [Adi](https://open.spotify.com/artist/4AnpI5Laz6YeM09dMJNTaW), [Ibrahits](https://open.spotify.com/artist/6HboNi5lIZPz7BetCfCTgu) | [Malvada](https://open.spotify.com/album/1gC2oOqDpQJYN0oCsOhMZN) | 3:12 |
 | 77 | [Sem Placa](https://open.spotify.com/track/0XiSRPLQ3mVneW7Tkb7dYU) | [Mc Brunyn](https://open.spotify.com/artist/4wwEIIZHZG4WFy0PfZnKTn), [Dj Huguinho do Banco](https://open.spotify.com/artist/5ni65R3Lu8gNiQEHN6Gspw) | [Sem Placa](https://open.spotify.com/album/3gYyrTYTKNrkMv3QKgamUV) | 2:59 |
 | 78 | [Vitima do mês](https://open.spotify.com/track/1r2riwSrYQdUKc3GZX9OYf) | [Gah Bernardes](https://open.spotify.com/artist/7u8RGJqTNFz0AOP74ok20D) | [Vitima do mês](https://open.spotify.com/album/58heN7oo6aOrCRi2c0axqG) | 2:39 |
 | 79 | [Elas Gostam dos Cachorros](https://open.spotify.com/track/45rDeuI869VJe64u6dNQR6) | [Pedrinho Pegação](https://open.spotify.com/artist/1gIUJHUm50CJDBoM6IEDWc) | [Elas Gostam dos Cachorros](https://open.spotify.com/album/5RsvlZPzVGdNKJczhbQ72i) | 2:29 |

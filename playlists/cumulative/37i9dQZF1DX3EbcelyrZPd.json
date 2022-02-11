@@ -384,6 +384,28 @@
     },
     {
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/2IFf1dEQFwXSil0IPksTSF"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167872,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/431exPjnaorQQS0J9S8cN6"
+    },
+    {
+      "album": {
         "name": "I Miss You (feat. Zuchu)",
         "url": "https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD"
       },
@@ -559,7 +581,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 255634,
       "name": "Jela",
       "url": "https://open.spotify.com/track/7xmYLGUy5kzd9DeRIE1WP6"
@@ -1077,7 +1099,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 225503,
       "name": "Natamani",
       "url": "https://open.spotify.com/track/66e3PI32YFAtjWS6JckXW7"
@@ -1354,6 +1376,50 @@
     },
     {
       "album": {
+        "name": "Pomp Pomp",
+        "url": "https://open.spotify.com/album/2VgxfRdeb2X6nihfFXMhrM"
+      },
+      "artists": [
+        {
+          "name": "Sani Boy",
+          "url": "https://open.spotify.com/artist/7koc9wMjyVw3KNLwc6bSKb"
+        },
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186687,
+      "name": "Pomp Pomp",
+      "url": "https://open.spotify.com/track/7c80qxudZjhs4niCgOi0Gi"
+    },
+    {
+      "album": {
+        "name": "Selema (Po Po)",
+        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340846,
+      "name": "Selema (Po Po)",
+      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
+    },
+    {
+      "album": {
         "name": "High School",
         "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
       },
@@ -1621,7 +1687,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 175200,
       "name": "Tucheze",
       "url": "https://open.spotify.com/track/02usEBrKS2uXxRKHoSkMxP"

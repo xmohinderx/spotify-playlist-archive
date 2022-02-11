@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 265263,
       "name": "Doom & Bloom",
       "url": "https://open.spotify.com/track/2xZRImWklE8cTFgcjAyHBc"
@@ -566,6 +566,24 @@
     },
     {
       "album": {
+        "name": "Retriever",
+        "url": "https://open.spotify.com/album/7mWI8Asn8rQqYX0lXgHNhk"
+      },
+      "artists": [
+        {
+          "name": "Labradors",
+          "url": "https://open.spotify.com/artist/4kf8k9dopDL5PK5q0ufGkG"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198080,
+      "name": "Hey Sis",
+      "url": "https://open.spotify.com/track/18BngYNbP0xadmssigycDH"
+    },
+    {
+      "album": {
         "name": "Hole",
         "url": "https://open.spotify.com/album/60mPQihGw1E84gfBo52vON"
       },
@@ -617,6 +635,24 @@
       "duration_ms": 277186,
       "name": "Howl",
       "url": "https://open.spotify.com/track/1HWEOquMVnzvbQLfqJt6Zk"
+    },
+    {
+      "album": {
+        "name": "I'm No Good (At Any Sports)",
+        "url": "https://open.spotify.com/album/3UzIfJF2KKWAXb3JyFE7Nu"
+      },
+      "artists": [
+        {
+          "name": "Dude Safari",
+          "url": "https://open.spotify.com/artist/6u86o2rCOh2saTMgsYFvzX"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229736,
+      "name": "I'm No Good (At Any Sports)",
+      "url": "https://open.spotify.com/track/4pWmr2jgsHRi8cUfhDzuBA"
     },
     {
       "album": {
@@ -991,7 +1027,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 193266,
       "name": "Swimming in Your Sea",
       "url": "https://open.spotify.com/track/2JvLFEgS92cbpGiEFWUmbv"

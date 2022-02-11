@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > the songs you need rn \- cover: Melanie Martinez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,110 likes - 103 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,106 likes - 103 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

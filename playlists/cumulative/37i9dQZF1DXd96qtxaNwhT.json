@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 158520,
       "name": "Bad For Me",
       "url": "https://open.spotify.com/track/7tmj8qKBJaZwBtB6k6TYng"
@@ -1851,7 +1851,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 159500,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw"
@@ -3713,7 +3713,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 215973,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5urSoDnEo7NAvlSK6mKF17"
@@ -5462,6 +5462,24 @@
     },
     {
       "album": {
+        "name": "Self Preservation",
+        "url": "https://open.spotify.com/album/4plpuG3ZuucaxXhIo2gobJ"
+      },
+      "artists": [
+        {
+          "name": "GRAACE",
+          "url": "https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128207,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/5SCyrDAsqu3iryTewIgFzg"
+    },
+    {
+      "album": {
         "name": "Send Me on My Way",
         "url": "https://open.spotify.com/album/0Q9gYCnSArFUpFhCDXxRAD"
       },
@@ -5859,7 +5877,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 172880,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0"
@@ -6216,6 +6234,28 @@
     },
     {
       "album": {
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "album": {
         "name": "The Only High",
         "url": "https://open.spotify.com/album/4BSl1pycaP0lPG8JhqbVbC"
       },
@@ -6553,7 +6593,7 @@
       ],
       "date_added": "2021-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 155361,
       "name": "Unlearn (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD"
@@ -6679,7 +6719,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 216864,
       "name": "Walked Through Hell",
       "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
@@ -6791,7 +6831,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 148266,
       "name": "We Don\u2019t Talk Enough (with Alexander 23)",
       "url": "https://open.spotify.com/track/4IaizE26moyyMYn70TeFiX"

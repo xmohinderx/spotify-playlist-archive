@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-03",
-  "description": "The UK's biggest dance playlist! Cover: Jax Jones & MNEK",
+  "description": "The UK's biggest dance playlist! Cover: Becky Hill and Wilkinson",
   "name": "Massive Dance Hits",
   "published_playlist_ids": [
     "5fVCEeL6B4wf7pLEe8QzL4"
@@ -45,6 +45,28 @@
       "duration_ms": 167857,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/3YBilqc4QBO3w3FMQRxM4G"
+    },
+    {
+      "album": {
+        "name": "beachin",
+        "url": "https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn"
+      },
+      "artists": [
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194568,
+      "name": "beachin",
+      "url": "https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF"
     },
     {
       "album": {
@@ -649,7 +671,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 166356,
       "name": "Forbidden Feelingz",
       "url": "https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB"
@@ -814,6 +836,28 @@
     },
     {
       "album": {
+        "name": "Cognition",
+        "url": "https://open.spotify.com/album/4fbTcsvGcoM2OZMC3mPgl0"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/1QgebV92VO4Z7VxbQ1tSKo"
+    },
+    {
+      "album": {
         "name": "I Don't Want You",
         "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
       },
@@ -873,7 +917,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 181728,
       "name": "I Wish (feat. Mabel)",
       "url": "https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII"
@@ -939,6 +983,36 @@
       "duration_ms": 225400,
       "name": "In My Arms - Edit",
       "url": "https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs"
+    },
+    {
+      "album": {
+        "name": "In Your Arms (For An Angel)",
+        "url": "https://open.spotify.com/album/5wcSb6xtmgO4YvmVV1Xt7b"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        },
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150476,
+      "name": "In Your Arms (For An Angel)",
+      "url": "https://open.spotify.com/track/5WOnsi0Bug74LmhxcPfKvR"
     },
     {
       "album": {
@@ -1465,7 +1539,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 148960,
       "name": "My Heart Goes (La Di Da) (feat. Topic)",
       "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
@@ -1491,6 +1565,32 @@
       "duration_ms": 186046,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
+    },
+    {
+      "album": {
+        "name": "Nightjar (feat. SHELLS)",
+        "url": "https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "SHELLS",
+          "url": "https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149455,
+      "name": "Nightjar (feat. SHELLS)",
+      "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
     },
     {
       "album": {
@@ -2011,7 +2111,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 249678,
       "name": "Tell Me Something Good",
       "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
@@ -2241,7 +2341,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 171178,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/6fwosYHgw98fyKpNTV96vk"

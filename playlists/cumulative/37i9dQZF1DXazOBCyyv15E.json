@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Black Country, New Road",
+  "description": "The home of the best new alternative music. Cover: alt-J",
   "name": "The Other List",
   "published_playlist_ids": [
     "2P9CK2lB90NpmCPDPSex2G"
@@ -1066,6 +1066,24 @@
     },
     {
       "album": {
+        "name": "Bad Friday",
+        "url": "https://open.spotify.com/album/7AdWplLlKwLEW3Jln1pJLW"
+      },
+      "artists": [
+        {
+          "name": "Everything Everything",
+          "url": "https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191960,
+      "name": "Bad Friday",
+      "url": "https://open.spotify.com/track/6sWnt5FMTlcgSe2xkYpszP"
+    },
+    {
+      "album": {
         "name": "Bad Hair Day",
         "url": "https://open.spotify.com/album/6ML8qi2lysnDvinhIGtIJx"
       },
@@ -1501,6 +1519,24 @@
       "duration_ms": 179093,
       "name": "Bigger",
       "url": "https://open.spotify.com/track/1UfGrmZa1bUQ6nsfDdSiNU"
+    },
+    {
+      "album": {
+        "name": "Billions",
+        "url": "https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296554,
+      "name": "Billions",
+      "url": "https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm"
     },
     {
       "album": {
@@ -2915,7 +2951,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 172972,
       "name": "Crush Style",
       "url": "https://open.spotify.com/track/5t4Y3IWiYiguDDPe7zW02z"
@@ -2955,6 +2991,24 @@
       "duration_ms": 223053,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA"
+    },
+    {
+      "album": {
+        "name": "Dance on the Rain",
+        "url": "https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ"
+      },
+      "artists": [
+        {
+          "name": "Khazali",
+          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219472,
+      "name": "Dance on the Rain",
+      "url": "https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH"
     },
     {
       "album": {
@@ -4339,7 +4393,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 173546,
       "name": "FREEZE",
       "url": "https://open.spotify.com/track/7cxJa9oiHeAwl4fkxVjBYC"
@@ -5133,6 +5187,24 @@
       "duration_ms": 169400,
       "name": "HARDCORE HAPPY",
       "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
+    },
+    {
+      "album": {
+        "name": "Hauntology",
+        "url": "https://open.spotify.com/album/3pvwLH6Zu6JCrpBCk8XkBG"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239746,
+      "name": "Hauntology",
+      "url": "https://open.spotify.com/track/7psLe6PhPQZm3B7nqaD3l8"
     },
     {
       "album": {
@@ -6251,6 +6323,28 @@
       "duration_ms": 230000,
       "name": "Into the Blue - Single Edit",
       "url": "https://open.spotify.com/track/4TZK4LFbnWJhYnTpPTHH5u"
+    },
+    {
+      "album": {
+        "name": "Invincible (feat. Daniel Caesar)",
+        "url": "https://open.spotify.com/album/31BVN37zvcirLlth8tlKHh"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Invincible (feat. Daniel Caesar)",
+      "url": "https://open.spotify.com/track/4Qy41cZBMKnm8OIAeTQRBH"
     },
     {
       "album": {
@@ -8467,7 +8561,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 252733,
       "name": "New Romance",
       "url": "https://open.spotify.com/track/5ZhBx7W9rigl2vuRdT27rq"
@@ -8569,7 +8663,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 221826,
       "name": "No Choice",
       "url": "https://open.spotify.com/track/4dj1qglNo2j45K8z2sDFEY"
@@ -9609,7 +9703,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 206744,
       "name": "Popular (feat. Matthew Caws of Nada Surf)",
       "url": "https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57"
@@ -9887,7 +9981,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 197735,
       "name": "Reality",
       "url": "https://open.spotify.com/track/4UouUPNprfX62HM4iP06bh"
@@ -10439,7 +10533,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 242149,
       "name": "Second Nature",
       "url": "https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE"
@@ -11844,6 +11938,24 @@
     },
     {
       "album": {
+        "name": "The Actor",
+        "url": "https://open.spotify.com/album/50B0wJmn0HNY2x10RbwRhk"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240893,
+      "name": "The Actor",
+      "url": "https://open.spotify.com/track/2TyHTGdwx7uOdxsq1e8DEt"
+    },
+    {
+      "album": {
         "name": "The Avalanche",
         "url": "https://open.spotify.com/album/1taXLQKx7np0GCW938yzVI"
       },
@@ -12771,6 +12883,24 @@
       "duration_ms": 142310,
       "name": "Trying Not To Cry (feat. Cavetown)",
       "url": "https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f"
+    },
+    {
+      "album": {
+        "name": "Tryna Tryna Take Control",
+        "url": "https://open.spotify.com/album/1XsLBdkU2kTxHmcbxqRQUc"
+      },
+      "artists": [
+        {
+          "name": "audiobooks",
+          "url": "https://open.spotify.com/artist/1YvLqwm8xl6ENUT3KK6XMj"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181269,
+      "name": "Tryna Tryna Take Control",
+      "url": "https://open.spotify.com/track/7yNXFP9pO41VHrs9A5hNUh"
     },
     {
       "album": {

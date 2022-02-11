@@ -1,13 +1,29 @@
 {
   "description": "New Hip-Hop from independent artists & labels every Wednesday. Cover: YSN Fab\n, Artwork: Alfie Kungu\n",
-  "num_followers": 171625,
+  "num_followers": 171798,
   "original_name": "Fresh Finds Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDQyNjAwMCwwMDAwMDBmODAwMDAwMTdlZGY2ZDc2ZWIwMDAwMDE3ZWJkYWY0YzA5",
+  "snapshot_id": "MTY0NDUxNjI5MywwMDAwMDBmOTAwMDAwMTdlZTRjZjNjYTMwMDAwMDE3ZWJkYWY0YzA5",
   "tracks": [
+    {
+      "added_at": "2022-02-10 18:04:53",
+      "album": {
+        "name": "Close Friends",
+        "url": "https://open.spotify.com/album/1N6EM0uF39G1A3uHPO6oIX"
+      },
+      "artists": [
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        }
+      ],
+      "duration_ms": 90091,
+      "name": "Close Friends",
+      "url": "https://open.spotify.com/track/3pU2KkdQkI0lVjVInjFhgB"
+    },
     {
       "added_at": "2022-02-09 17:00:00",
       "album": {
@@ -71,6 +87,22 @@
       "duration_ms": 254692,
       "name": "Pippy Long",
       "url": "https://open.spotify.com/track/4gD5SzumVdVNBXQufTMWgG"
+    },
+    {
+      "added_at": "2022-02-10 18:04:53",
+      "album": {
+        "name": "July!",
+        "url": "https://open.spotify.com/album/28VPe39kQYOWGr1c69ixhu"
+      },
+      "artists": [
+        {
+          "name": "JELEEL!",
+          "url": "https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d"
+        }
+      ],
+      "duration_ms": 90161,
+      "name": "July!",
+      "url": "https://open.spotify.com/track/6cvMsuvXWdYujR9xN5qbUz"
     },
     {
       "added_at": "2022-02-09 17:00:00",
@@ -271,6 +303,22 @@
       "duration_ms": 220392,
       "name": "Main Line",
       "url": "https://open.spotify.com/track/28tm5peRtid0jX6eYqGstU"
+    },
+    {
+      "added_at": "2022-02-10 18:04:53",
+      "album": {
+        "name": "ANGELS",
+        "url": "https://open.spotify.com/album/6JNbEbqGGeJmlzL00JQMy6"
+      },
+      "artists": [
+        {
+          "name": "tophillfreddo",
+          "url": "https://open.spotify.com/artist/3zEY6RiafCMPr3OGgYXcfp"
+        }
+      ],
+      "duration_ms": 154775,
+      "name": "ANGELS",
+      "url": "https://open.spotify.com/track/1sry2aMD48zwDPHDcYOMba"
     },
     {
       "added_at": "2022-02-03 03:48:27",

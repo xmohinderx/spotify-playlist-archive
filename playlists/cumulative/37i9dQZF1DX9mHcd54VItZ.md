@@ -2,11 +2,13 @@
 
 ### [SA Rock Essentials](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
-> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU?si=Xh\_ZEAULQWeNrhQhjJb4PQ">Dangerfields</a>
+> Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=2jUJ3TqJTsaljEbzghQbzw">Hugo Pooe</a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Always Remember](https://open.spotify.com/track/4MFcHNGVFZn3IKGvC5hLxx) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Always Remember](https://open.spotify.com/album/3zb6zrs37yKTXMHdwPFkx9) | 3:49 | 2021-12-09 |  |
+| [Aquarius Girl](https://open.spotify.com/track/7qPMIsXE4pVqzAVIN436va) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 3:38 | 2022-02-10 |  |
+| [Badluck](https://open.spotify.com/track/7kR0o7XKyLiKxqqu98bupO) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 0:52 | 2022-02-10 |  |
 | [Begin Van Die Einde](https://open.spotify.com/track/7kfWuIVQ0vqTxBA5hAIbzG) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Begin Van Die Einde](https://open.spotify.com/album/2BYTNrN2Ct1XkjTtriuqSa) | 3:28 | 2021-02-25 |  |
 | [Bones](https://open.spotify.com/track/0QFgIdxhhn6QzPT5Ndnm7E) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Bones](https://open.spotify.com/album/2H1yVakFRyooDlWkX2o3on) | 3:43 | 2021-10-07 |  |
 | [Cocoon](https://open.spotify.com/track/5DyMpoB5hqmjkwPBnTPxFw) | [Dangerfields](https://open.spotify.com/artist/2jvp5tnnyCvPIgOczuIaZU) | [Cocoon](https://open.spotify.com/album/2PB4vdIz8aRwh3hhucvLCE) | 5:04 | 2022-01-21 |  |
@@ -57,10 +59,12 @@
 | [Silwer](https://open.spotify.com/track/4UFuCgW8yugNXB5SMn3MQs) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Silwer](https://open.spotify.com/album/6P5AWCkCPJyb3UPbeaoB2F) | 3:41 | 2021-09-02 |  |
 | [Skylight](https://open.spotify.com/track/4ur8uhTyzF4Ok9WyxQLr68) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Skylight](https://open.spotify.com/album/0DD0jU03Tn8NxFInW0AtGY) | 4:00 | 2022-01-06 |  |
 | [Slipping Away](https://open.spotify.com/track/2KgfOqr3H3Hh6cwaAQeWcy) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Looking Back At Getting Here](https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE) | 3:17 | 2022-02-03 |  |
+| [Something To Believe In](https://open.spotify.com/track/2RvRa53Ni5Nd5H1IJpjjNl) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [Something To Believe In](https://open.spotify.com/album/6JFNJNx2lZRM61wq2Ov4Cp) | 3:21 | 2022-02-10 |  |
 | [Somewhere Chill \- Radio Edit](https://open.spotify.com/track/0bW4UyOIu9XqLxboQwzdKO) | [John Niel](https://open.spotify.com/artist/4Ad2R0V0nC2N2AmXCmq9NA) | [Somewhere Chill \(Radio Edit\)](https://open.spotify.com/album/2aGoeqEDHNVVSOk2NGwJto) | 3:05 | 2021-12-09 |  |
 | [State of Emergency](https://open.spotify.com/track/14DeZipuC3gNdBBrKXnoSN) | [Future Radio](https://open.spotify.com/artist/072SqMAxf3dxwWoa2aTTH7) | [State of Emergency](https://open.spotify.com/album/307UnF5MmOp0ilqPRPqGIj) | 3:12 | 2021-10-14 |  |
 | [Swine Tooth Grin \- Single Mix](https://open.spotify.com/track/4ACcJ7UeiHv8x38bZGglYc) | [Ruff Majik](https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL) | [Swine Tooth Grin](https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT) | 3:33 | 2021-06-24 |  |
 | [Tattoos](https://open.spotify.com/track/1RTBUEn7eJaL8mDaCBCVqe) | [Parable Fifteen](https://open.spotify.com/artist/0nIR1lnY2FD8JAaKcmmV1Z) | [Tattoos](https://open.spotify.com/album/1l4qhYVEvbdsep8C8AYaw8) | 3:55 | 2021-11-05 |  |
+| [Tell the World](https://open.spotify.com/track/417MnGJAJS2Cg9WM9PUJlH) | [Matthew John Duncan](https://open.spotify.com/artist/4dqbuy4ucRfaFUVfzDk9LA) | [Tell the World](https://open.spotify.com/album/6bfRzJDoHtvx1JNeo6nAUq) | 2:43 | 2022-02-10 |  |
 | [The Blues](https://open.spotify.com/track/3yJxrf4EFpXzxPmXMMTmnf) | [Hot Water](https://open.spotify.com/artist/5qstfxx5gD2kxiK1BtZri7) | [Fire](https://open.spotify.com/album/5Do7e2q8fSBTYV29HmBieO) | 2:11 | 2021-12-09 |  |
 | [The Day I Gave My Sister Away](https://open.spotify.com/track/5xtq7iINMAphuyAaimsut7) | [The Amblers](https://open.spotify.com/artist/5xYLSTOR0Zi7Zjb4tAGEuq) | [The Day I Gave My Sister Away](https://open.spotify.com/album/6Eh0WwpG6PnUsVXPoVEc2W) | 2:59 | 2021-03-04 |  |
 | [The Naughty List](https://open.spotify.com/track/3EKFkwbeXhcyZkdBOQOokp) | [Joy Club Cassidy Cassidy](https://open.spotify.com/artist/6kzLUn6qCD2dGTjMkmunBn) | [The Naughty List](https://open.spotify.com/album/0lyaXU7puSvjbyYMAgaUjy) | 0:42 | 2022-01-06 |  |
@@ -70,6 +74,7 @@
 | [Toxic Memories](https://open.spotify.com/track/70Vz80OyLKa5UrChrI3ewd) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [Toxic Memories](https://open.spotify.com/album/21uYLW8NnoSJVdYTamQGx6) | 2:41 | 2021-09-23 |  |
 | [Undone \- Elephant in the room](https://open.spotify.com/track/0tzBYDsCRT9rZDirLc5gWY) | [Watershed](https://open.spotify.com/artist/6ccmA5oOV7nHvBQj2ft9NW) | [Undone \(Elephant in the room\)](https://open.spotify.com/album/4CifqZXckC4tX4J8rP0DN7) | 3:34 | 2021-03-25 |  |
 | [Until I Forget You](https://open.spotify.com/track/505KIwDfwJFpwVpza70TmC) | [Wayne Cumming](https://open.spotify.com/artist/7yOrr8uio6byKlQC6NLufS) | [Until I Forget You](https://open.spotify.com/album/5FLo5HPAAhRiKtNnpxuvqg) | 3:32 | 2022-02-03 |  |
+| [Use Me](https://open.spotify.com/track/3SAvq5q3kuXSQ2qKxuBGMI) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 2:58 | 2022-02-10 |  |
 | [What Would You Do?](https://open.spotify.com/track/0NWvwMNhJW0vIMrWHmrp6Q) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Wasteland \- The Purgatory EP](https://open.spotify.com/album/5iFkEubAbRjQN50VLXmhYF) | 4:49 | 2021-07-29 |  |
 | [Wolves](https://open.spotify.com/track/0eK0J5fikmB5TiCY932gtQ) | [Kat](https://open.spotify.com/artist/4rB9lKJyTJ6LI6mccmA5EW), [Mark Haze](https://open.spotify.com/artist/6f10Qwvg9bkTGVMRKLF1tO) | [Wolves](https://open.spotify.com/album/1f98ilxMIzaqHosQXwiZY3) | 3:35 | 2022-01-21 |  |
 | [Your Best Friend Hates Me 2](https://open.spotify.com/track/7tAo2VzcrgL4a0KAZsU2HV) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [Your Best Friend Hates Me 2](https://open.spotify.com/album/3cxN0iVrpeWaBHUJnVcaCu) | 2:45 | 2021-10-07 |  |

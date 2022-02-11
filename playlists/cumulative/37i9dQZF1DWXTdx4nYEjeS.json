@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 289154,
       "name": "Al Vac\u00edo",
       "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 252760,
       "name": "Arde la Ciudad",
       "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
@@ -421,7 +421,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 234760,
       "name": "Cactus",
       "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
@@ -439,7 +439,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 233400,
       "name": "Caronte",
       "url": "https://open.spotify.com/track/2JgcShs8JycDzmfcazU9pX"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 199482,
       "name": "Casamiento",
       "url": "https://open.spotify.com/track/5BTxwgE4eOyVvo4Ss6GUvU"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 232026,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
@@ -822,6 +822,28 @@
     },
     {
       "album": {
+        "name": "El Regalo (feat. Natalie Perez)",
+        "url": "https://open.spotify.com/album/6EpbvpUGQhhapliINC24Vm"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        },
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166408,
+      "name": "El Regalo (feat. Natalie Perez)",
+      "url": "https://open.spotify.com/track/4S6xZnnSy1gdUI2sOKW6LH"
+    },
+    {
+      "album": {
         "name": "El Tesoro - Picnic En el Piso Doce",
         "url": "https://open.spotify.com/album/5ChGm7ffNc5DUPp9qjLhDj"
       },
@@ -939,7 +961,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 186306,
       "name": "Ese Maldito Momento",
       "url": "https://open.spotify.com/track/4xEAPLGnp20PYUlhbKHuTF"
@@ -957,7 +979,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 221985,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3wo5ZlsWZNVAeemkiel7Ds"
@@ -1077,7 +1099,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 254135,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
@@ -1182,6 +1204,28 @@
     },
     {
       "album": {
+        "name": "Quiromancia",
+        "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213311,
+      "name": "Ilumin\u00e1bamos (feat. Monsieur Perin\u00e9)",
+      "url": "https://open.spotify.com/track/4vkfRQ5XMhl0KYVFoR3YxS"
+    },
+    {
+      "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
@@ -1229,7 +1273,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 314772,
       "name": "La Flor",
       "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
@@ -1421,7 +1465,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 260813,
       "name": "Me Est\u00e1s Tratando Mal - En Vivo Ac\u00fastico",
       "url": "https://open.spotify.com/track/6YKN33GKbvLF3dcZtXPIlP"
@@ -1613,7 +1657,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 275508,
       "name": "Mundo Agradable (feat. Ricardo Mollo)",
       "url": "https://open.spotify.com/track/1xiJPP4NLxuCr4ecoyq6jR"
@@ -2103,7 +2147,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 250357,
       "name": "Personalmente",
       "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
@@ -2143,7 +2187,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 125611,
       "name": "Por Amor al Arte",
       "url": "https://open.spotify.com/track/2M6gFpCKX6IxkdQZrzi7r6"
@@ -2255,7 +2299,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 234733,
       "name": "Pupilas Lejanas",
       "url": "https://open.spotify.com/track/0VZ2rAa5ceRaMPMufTVmqd"
@@ -2277,7 +2321,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 210712,
       "name": "Quiero Regalarte Mi Amor (feat. Zoe Gotusso)",
       "url": "https://open.spotify.com/track/1HjqrGHsd6scxN1qmcJQnS"
@@ -2547,7 +2591,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 238666,
       "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
       "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
@@ -2631,7 +2675,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 215343,
       "name": "Solo para Ti",
       "url": "https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh"
@@ -2743,7 +2787,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 246858,
       "name": "Tan Solo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/2kXVg8VLdF3YXZ4NLSqsoz"
@@ -2823,7 +2867,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 214483,
       "name": "Tierra Firme Remix",
       "url": "https://open.spotify.com/track/5kQsLYW6IHsLBfCzOfp5Ay"
@@ -2917,7 +2961,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 149880,
       "name": "Tu Locura",
       "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
@@ -2939,7 +2983,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 214986,
       "name": "Tu Nombre - En Vivo En El Gran Rex / 2015",
       "url": "https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38"
@@ -2957,7 +3001,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 254865,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J"
@@ -2975,7 +3019,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 86000,
       "name": "Un Bossa +",
       "url": "https://open.spotify.com/track/3uz2tyLRgSzSlhOIXCz0DB"
@@ -3051,7 +3095,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 295160,
       "name": "Un Pacto - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/1lcwoylQLJUtl2pNNdZQ7p"
@@ -3257,7 +3301,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 208764,
       "name": "Ya Lo Sab\u00e9s",
       "url": "https://open.spotify.com/track/5mMFnSDg8Jz0BDToHPahlg"

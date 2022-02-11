@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,703,991 likes - 195 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,704,079 likes - 195 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 26 | [Aún](https://open.spotify.com/track/45o1tTvcokwroBi9TR5qfv) | [Didio Carrión](https://open.spotify.com/artist/1poC0V8QpqJPeO3ogJw0zw) | [Aún](https://open.spotify.com/album/6vMZ7NEoCkORl8R20IXYGq) | 3:04 |
 | 27 | [Sueño tranquilo](https://open.spotify.com/track/7vCDAK4DJNr1GHYEG3Ylyp) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Sueño tranquilo](https://open.spotify.com/album/7jstHQo9AWHr8buCOkbM1K) | 3:02 |
 | 28 | [Everyday Peace](https://open.spotify.com/track/7CGtdNBijQGEvkZeLU4699) | [Moira Kent](https://open.spotify.com/artist/75XVrjr0r3FvwErC3VDPcl) | [Everyday Peace](https://open.spotify.com/album/1UiPNc6vzfDESq9EcXoO0B) | 2:15 |
-| 29 | [Imaginary Worlds](https://open.spotify.com/track/69q6xPYxLjv79PfJXUVJ3a) | [Through the Clouds](https://open.spotify.com/artist/09jQ9FyJX1MMlulufif93a) | [Imaginary Worlds](https://open.spotify.com/album/69zTNVfbecGElr8nPpGkGU) | 2:36 |
+| 29 | [Imaginary Worlds](https://open.spotify.com/track/69q6xPYxLjv79PfJXUVJ3a) | [Through the Clouds](https://open.spotify.com/artist/7nkaSqmmbUmRsVa403T17z) | [Imaginary Worlds](https://open.spotify.com/album/69zTNVfbecGElr8nPpGkGU) | 2:36 |
 | 30 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 |
 | 31 | [Carpe Noctem](https://open.spotify.com/track/027030DBi749hu0tVBAFgX) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Carpe Noctem](https://open.spotify.com/album/38AOIqKaMi4AmlwjD1R9wJ) | 3:03 |
 | 32 | [Empire of Life](https://open.spotify.com/track/6lDGxIv3i5M1SYwbXCXqjR) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Empire of Life](https://open.spotify.com/album/6Uwj4SOiO17yrm3fqcc14i) | 3:00 |

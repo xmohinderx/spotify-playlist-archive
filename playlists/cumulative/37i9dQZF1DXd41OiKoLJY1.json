@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 196010,
       "name": "2Solid",
       "url": "https://open.spotify.com/track/0aMelp4KVUCeSGsE0vypA5"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 157879,
       "name": "88 (My Way)",
       "url": "https://open.spotify.com/track/1YSOiXPbUrCWmNS4PgBxAU"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 257259,
       "name": "ADDY",
       "url": "https://open.spotify.com/track/2vjyGJ3D5WpepGRkoHlwRh"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 239331,
       "name": "AH!",
       "url": "https://open.spotify.com/track/47ZtkWjNcPhDfQBbLsNa0N"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 252444,
       "name": "Aking Sinta",
       "url": "https://open.spotify.com/track/5OQWnquiRW11S8e1sng07f"
@@ -175,10 +175,28 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 241194,
       "name": "All My Favorite Songs",
       "url": "https://open.spotify.com/track/6asBJn26N0JlitdgPIqdaD"
+    },
+    {
+      "album": {
+        "name": "Amping",
+        "url": "https://open.spotify.com/album/66dkSWWPibXHqjra1hpeCa"
+      },
+      "artists": [
+        {
+          "name": "FiveStates",
+          "url": "https://open.spotify.com/artist/76ZJzx5b26rLUxoq1Yq31w"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "Amping",
+      "url": "https://open.spotify.com/track/2JTQEl3bqAobCyV5PWVJV3"
     },
     {
       "album": {
@@ -215,7 +233,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 228055,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/3YfK1KXnKsSRlugnyWmC5E"
@@ -287,7 +305,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 262000,
       "name": "Bisig (Malamig Na Hangin)",
       "url": "https://open.spotify.com/track/4mm8NvCFteoH8BJTKXsxQY"
@@ -323,7 +341,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 347315,
       "name": "broken this way",
       "url": "https://open.spotify.com/track/6cSGff63T1sjRxhViuDNKq"
@@ -353,7 +371,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 194500,
       "name": "Bulong",
       "url": "https://open.spotify.com/track/51z2hjkYBY162pViBGx8e3"
@@ -389,7 +407,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 237720,
       "name": "Change Of Pace",
       "url": "https://open.spotify.com/track/7tbZEY50vnyHLKwxnYA918"
@@ -425,7 +443,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 150967,
       "name": "DEMONS",
       "url": "https://open.spotify.com/track/13thY8C8o3Vg24Pfk9RIB5"
@@ -443,7 +461,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 265380,
       "name": "Didya (Dito)",
       "url": "https://open.spotify.com/track/7J01KSeyaeW69UkI8Y3YFR"
@@ -461,7 +479,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 257071,
       "name": "Doesn't Matter",
       "url": "https://open.spotify.com/track/75HTcPxKutwsIGhJ0nESZT"
@@ -479,10 +497,50 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 181745,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/1yZIGahHoOdOvNBuANqS2S"
+    },
+    {
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/58aQNBju6TwX1M4zeFMe5p"
+      },
+      "artists": [
+        {
+          "name": "Bugs",
+          "url": "https://open.spotify.com/artist/6G9MlqHkHJ1PaDShA2ZiAN"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4MiiXgGEw6i3FjnrDgmDbC"
+    },
+    {
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/2fGdfWaaeclkWCawdUYlsR"
+      },
+      "artists": [
+        {
+          "name": "KRT",
+          "url": "https://open.spotify.com/artist/5VZjChYDtaSkKRkXpymYHF"
+        },
+        {
+          "name": "Ric",
+          "url": "https://open.spotify.com/artist/2bO0YGDJ1fW8XEg6Vzcxm2"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153562,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6CMm84EhAwHwloz6dAi7wO"
     },
     {
       "album": {
@@ -515,7 +573,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 272000,
       "name": "fallinloveagain",
       "url": "https://open.spotify.com/track/72MaPXXgu0cC9FVeSmfDk2"
@@ -555,7 +613,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 213394,
       "name": "Flirt",
       "url": "https://open.spotify.com/track/5OskTLTEqwyDW2rBpfALQ8"
@@ -585,7 +643,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 263689,
       "name": "Flow",
       "url": "https://open.spotify.com/track/7gx76iGAzo2YbTspYEKNVW"
@@ -621,7 +679,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 277766,
       "name": "Gilid",
       "url": "https://open.spotify.com/track/3qdSNpFvZQXOOg2Rwjhk8e"
@@ -639,7 +697,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 172800,
       "name": "GLOOMBOY",
       "url": "https://open.spotify.com/track/3KgOwGJtvHbYgnccI10r8W"
@@ -661,7 +719,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 215366,
       "name": "Growing Apart",
       "url": "https://open.spotify.com/track/0Smiba04qIDbOQuAnx0KuD"
@@ -697,7 +755,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 222189,
       "name": "GUMAMELA",
       "url": "https://open.spotify.com/track/4aP7XQNl9iVVRpEXpV280U"
@@ -722,6 +780,42 @@
     },
     {
       "album": {
+        "name": "Gusto Ko Lang Umibig",
+        "url": "https://open.spotify.com/album/3GXgS90uWUHD7eyOEYBsI7"
+      },
+      "artists": [
+        {
+          "name": "baron dacel",
+          "url": "https://open.spotify.com/artist/4Pw9NYy5bwi3xg8VHKF0Qs"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241875,
+      "name": "Gusto Ko Lang Umibig",
+      "url": "https://open.spotify.com/track/2VdUNClL6ddgKHKff9uK6f"
+    },
+    {
+      "album": {
+        "name": "Halaga (1553)",
+        "url": "https://open.spotify.com/album/2w5GmPK4SpI0hiMCoa1ypv"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/4iTGD1IiSfm4z0PPeULqnK"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250382,
+      "name": "Halaga (1553)",
+      "url": "https://open.spotify.com/track/5NLuEozQdasSn9Pu5PnW4r"
+    },
+    {
+      "album": {
         "name": "Hiling",
         "url": "https://open.spotify.com/album/4pYT6TUXeYz7iil5VSZaSi"
       },
@@ -733,7 +827,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 257319,
       "name": "Hiling",
       "url": "https://open.spotify.com/track/2LN7eedWXqnu4zpYB2c6uY"
@@ -751,7 +845,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 287555,
       "name": "Himig Natin",
       "url": "https://open.spotify.com/track/5w42u0d33uap7enuIQUhRB"
@@ -769,7 +863,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 181748,
       "name": "Home",
       "url": "https://open.spotify.com/track/7twwca7JaphyTpxxove78a"
@@ -805,7 +899,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 286000,
       "name": "I Think We're On To Something Good",
       "url": "https://open.spotify.com/track/3DOq7JBSU0B8aJgBsSfjTU"
@@ -823,7 +917,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 183808,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/3CY53c9o3IXVxiycPCGI7V"
@@ -863,6 +957,64 @@
       "duration_ms": 244687,
       "name": "I'm so in Love with You",
       "url": "https://open.spotify.com/track/4A6Wup6zfnxAQCKRpcL2nV"
+    },
+    {
+      "album": {
+        "name": "Ikaw",
+        "url": "https://open.spotify.com/album/2cyCCF6EhYGgnlObAJGg7y"
+      },
+      "artists": [
+        {
+          "name": "I.V.X.N",
+          "url": "https://open.spotify.com/artist/2OCTaDYhI6ZqXmplfXdtmw"
+        },
+        {
+          "name": "Catli",
+          "url": "https://open.spotify.com/artist/37ciheU907UZqulRh8vhhJ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270393,
+      "name": "Ikaw",
+      "url": "https://open.spotify.com/track/201F6gelPapdSoUm3kHY8S"
+    },
+    {
+      "album": {
+        "name": "Ilaw",
+        "url": "https://open.spotify.com/album/6H2OSPe5bo2918JOfRlngv"
+      },
+      "artists": [
+        {
+          "name": "2202",
+          "url": "https://open.spotify.com/artist/1Nxfmdq6CCMgUCb4oLnpQh"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271037,
+      "name": "Ilaw",
+      "url": "https://open.spotify.com/track/2hMipxHjeODqO8Ackt3o2V"
+    },
+    {
+      "album": {
+        "name": "Importante Kita",
+        "url": "https://open.spotify.com/album/5fFM7yIhNC6SRorh8vq9yD"
+      },
+      "artists": [
+        {
+          "name": "the DLB",
+          "url": "https://open.spotify.com/artist/6rZG76BHXLE9nnCgIJWcNo"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186490,
+      "name": "Importante Kita",
+      "url": "https://open.spotify.com/track/6olrSzaWlbetgzsp9m4a9T"
     },
     {
       "album": {
@@ -943,7 +1095,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 231400,
       "name": "Kahit Ako Na Lang Ang Mag Isa",
       "url": "https://open.spotify.com/track/7E8A4LxEnOoXIA718YPEnM"
@@ -961,7 +1113,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 205062,
       "name": "Kahit Malayo",
       "url": "https://open.spotify.com/track/69GQo18NJZVKq7Qgg8tHH4"
@@ -979,7 +1131,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 207272,
       "name": "kahulugan",
       "url": "https://open.spotify.com/track/1r9IiKw7QmC1TGboAgTc3v"
@@ -1015,7 +1167,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 219183,
       "name": "Keep on Believing",
       "url": "https://open.spotify.com/track/1XhYiJTfBZIrMTa6dlPxqP"
@@ -1033,10 +1185,46 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 244250,
       "name": "Kung Nasa'n Ka Man",
       "url": "https://open.spotify.com/track/4YQa1Ov5dO26UBiQ9HmicI"
+    },
+    {
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/2Mko7W4gMcTgg5ZVkcltI0"
+      },
+      "artists": [
+        {
+          "name": "Javier Sale",
+          "url": "https://open.spotify.com/artist/0bJ0Cr7lha1Yq6jbtS4hDo"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206772,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/3bFm32KBgR7yuqH4w2Qz1p"
+    },
+    {
+      "album": {
+        "name": "Lia",
+        "url": "https://open.spotify.com/album/5XwBLmExD09sEE4h7nyYdp"
+      },
+      "artists": [
+        {
+          "name": "Persii Dijor",
+          "url": "https://open.spotify.com/artist/4o19E9lVTAB2PJafVLsorO"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Lia",
+      "url": "https://open.spotify.com/track/7d2drbGf972RBdYfgkpdy5"
     },
     {
       "album": {
@@ -1062,6 +1250,46 @@
     },
     {
       "album": {
+        "name": "Lonely Lovers Club",
+        "url": "https://open.spotify.com/album/23nNIpuRfqsGMSHm9xriJD"
+      },
+      "artists": [
+        {
+          "name": "Jolo",
+          "url": "https://open.spotify.com/artist/3SFgMq0IoflT4LZhYsI4hj"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233500,
+      "name": "Lonely Lovers Club",
+      "url": "https://open.spotify.com/track/41f4fa0Tj9EqXVzMIyvQ1D"
+    },
+    {
+      "album": {
+        "name": "Lowkey",
+        "url": "https://open.spotify.com/album/1IGFTAG4jQq5zjU9fS7CX0"
+      },
+      "artists": [
+        {
+          "name": "Saint Klutch",
+          "url": "https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj"
+        },
+        {
+          "name": "$killz",
+          "url": "https://open.spotify.com/artist/2ulYvQZc4T5VIBg0eUYyAJ"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213684,
+      "name": "Lowkey",
+      "url": "https://open.spotify.com/track/1SEUmH7bezwvZC8eLlNLe7"
+    },
+    {
+      "album": {
         "name": "LULAN",
         "url": "https://open.spotify.com/album/1bJykLi7qtS1b5xlolCTtV"
       },
@@ -1077,7 +1305,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 218502,
       "name": "LULAN",
       "url": "https://open.spotify.com/track/6jFTqB8iNPnsaAgpQPqxPo"
@@ -1113,10 +1341,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 192576,
       "name": "maneho",
       "url": "https://open.spotify.com/track/4dJ6hd9dT4gqMipv1WGWam"
+    },
+    {
+      "album": {
+        "name": "Marahuyo",
+        "url": "https://open.spotify.com/album/6ZcO1oThwT8LGq7Szi13AN"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Ellaga",
+          "url": "https://open.spotify.com/artist/0zH0VRggznE2vwaL6OLm2i"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221389,
+      "name": "Marahuyo",
+      "url": "https://open.spotify.com/track/0Mq4bwlJi2oFTLpIwbFIQ2"
     },
     {
       "album": {
@@ -1131,7 +1377,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 238216,
       "name": "Masasamang Tao",
       "url": "https://open.spotify.com/track/4DH70TGDfqZzsIiZbhkvCO"
@@ -1167,10 +1413,32 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 220528,
       "name": "Matulin",
       "url": "https://open.spotify.com/track/0Rskom3BMYybbcCbihqQz6"
+    },
+    {
+      "album": {
+        "name": "Mestiza",
+        "url": "https://open.spotify.com/album/5eH5GEIjTgzEjU4FT0mdqW"
+      },
+      "artists": [
+        {
+          "name": "mindofaddy",
+          "url": "https://open.spotify.com/artist/6HkQwYaX8YVhnfufJDvXfw"
+        },
+        {
+          "name": "Drae Tutor",
+          "url": "https://open.spotify.com/artist/3ZsOt9KwtGeRzXdatiJQjR"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Mestiza",
+      "url": "https://open.spotify.com/track/40y1kq5Q1FlpKzx4ThbRxh"
     },
     {
       "album": {
@@ -1185,7 +1453,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 227300,
       "name": "Moments",
       "url": "https://open.spotify.com/track/1yPJQTblcMJsbgkS94VnPe"
@@ -1203,7 +1471,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 182625,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/60npTP91s65FauHJQojAs1"
@@ -1221,10 +1489,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 178993,
       "name": "Move With Me",
       "url": "https://open.spotify.com/track/5jJetLGNFoBeyLOFFmhzFS"
+    },
+    {
+      "album": {
+        "name": "Much Like Any",
+        "url": "https://open.spotify.com/album/5qPbZCz3TCo7kcbwxvqXy1"
+      },
+      "artists": [
+        {
+          "name": "Mimi Donado",
+          "url": "https://open.spotify.com/artist/5LEvN6umswMlIK7ChUCRl6"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224623,
+      "name": "Much Like Any",
+      "url": "https://open.spotify.com/track/5dnqdBN9E8jNFH7IKEpHEU"
     },
     {
       "album": {
@@ -1239,7 +1525,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 235728,
       "name": "Nandiyan Ka Lang Pala",
       "url": "https://open.spotify.com/track/3HmCBj3fty1IyXiTiKr4mg"
@@ -1275,7 +1561,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 235440,
       "name": "New Era",
       "url": "https://open.spotify.com/track/2mCMDCdyHOx47O5P78O2P9"
@@ -1327,7 +1613,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 260307,
       "name": "No Match",
       "url": "https://open.spotify.com/track/40Iddu94AhjCcSUJKQLLLg"
@@ -1363,10 +1649,28 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 220253,
       "name": "Out of Sight",
       "url": "https://open.spotify.com/track/0i6xKBoEmesUdhYhdYpRCd"
+    },
+    {
+      "album": {
+        "name": "Paradiso",
+        "url": "https://open.spotify.com/album/2fn7Fuk0chR8CyRm08Cxtp"
+      },
+      "artists": [
+        {
+          "name": "Weil Ylagan",
+          "url": "https://open.spotify.com/artist/0PqtA8gL9IgesdbiQqenp1"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270545,
+      "name": "Paradiso",
+      "url": "https://open.spotify.com/track/5Mo5uf76diPX3mdbcoP0nO"
     },
     {
       "album": {
@@ -1381,7 +1685,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 187996,
       "name": "Pasensya Ka Na God Bless",
       "url": "https://open.spotify.com/track/1hlAsRX92GnbsjJ6Ka432n"
@@ -1399,7 +1703,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 311631,
       "name": "Pinagtagpo",
       "url": "https://open.spotify.com/track/1CvAQVnkGDGVo5oPMydC6N"
@@ -1421,7 +1725,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 221333,
       "name": "pink rain",
       "url": "https://open.spotify.com/track/5BfFaaKKsG2lYVgxvyqGdU"
@@ -1447,10 +1751,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 150046,
       "name": "Puso Ko",
       "url": "https://open.spotify.com/track/5Z4TjyGzoq1RgiBK25C8Rr"
+    },
+    {
+      "album": {
+        "name": "Rhythms",
+        "url": "https://open.spotify.com/album/5mJtK2Lqfrt46phaeA1JNM"
+      },
+      "artists": [
+        {
+          "name": "Signalgiant",
+          "url": "https://open.spotify.com/artist/44Nu5YNDuInA3q27ilTQwC"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288500,
+      "name": "Rhythms",
+      "url": "https://open.spotify.com/track/32CwzxEmCEK3bTxOyxHK9t"
     },
     {
       "album": {
@@ -1531,7 +1853,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 183514,
       "name": "Seas N U",
       "url": "https://open.spotify.com/track/68O9fpr23kBNaqtnMNkPzR"
@@ -1567,7 +1889,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 201163,
       "name": "Sky Rocket",
       "url": "https://open.spotify.com/track/0YBw27KSYugy0YRdIM9yYo"
@@ -1603,10 +1925,28 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 352769,
       "name": "Sta. Clara",
       "url": "https://open.spotify.com/track/5h2lrA7NMKNhxQXXZDwMm4"
+    },
+    {
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/6siRdYtpNuLsdEn2AV8VH5"
+      },
+      "artists": [
+        {
+          "name": "Enzo X",
+          "url": "https://open.spotify.com/artist/1rQ5MdB7IWpptF0XWyl4NO"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306770,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/1CtA1TS674y9uc2srbQnyj"
     },
     {
       "album": {
@@ -1646,6 +1986,28 @@
     },
     {
       "album": {
+        "name": "Suyaon",
+        "url": "https://open.spotify.com/album/3HAjYl2ebvCUIv2zWKLcft"
+      },
+      "artists": [
+        {
+          "name": "Amos Edgar",
+          "url": "https://open.spotify.com/artist/79NvTawzQj4dQu6ilInMkH"
+        },
+        {
+          "name": "$aintNasty",
+          "url": "https://open.spotify.com/artist/6Itqd2zKbJA5CR1SjparKY"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122554,
+      "name": "Suyaon",
+      "url": "https://open.spotify.com/track/0BbjrdoPtbKn9Gd1SE8PMo"
+    },
+    {
+      "album": {
         "name": "Tabla",
         "url": "https://open.spotify.com/album/0DhZM5CIY9BH1eX2swbl2K"
       },
@@ -1657,7 +2019,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 177490,
       "name": "Tabla",
       "url": "https://open.spotify.com/track/23kC7WYHyKwh1BrvCvy9ld"
@@ -1697,7 +2059,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 226784,
       "name": "Tanging Ikaw",
       "url": "https://open.spotify.com/track/0hTzKx2QWfyVMSyUevmULK"
@@ -1741,7 +2103,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 189490,
       "name": "Teka Lang",
       "url": "https://open.spotify.com/track/4lF1uhLlSQKpZxRYvUM2ZS"
@@ -1759,7 +2121,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 136045,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6w3H8pMUkiRxaPxJ6LnqJG"
@@ -1839,7 +2201,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 199560,
       "name": "The Long Way (feat. Sin Santos)",
       "url": "https://open.spotify.com/track/67UZAWaykbnkqVwobhQYdy"
@@ -1879,7 +2241,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 232522,
       "name": "The Rest",
       "url": "https://open.spotify.com/track/5SpFHyIhWgjvEQV81AfPRD"
@@ -1897,7 +2259,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 224394,
       "name": "through every mistake",
       "url": "https://open.spotify.com/track/3ql1UNVkqcSbVM4KTRZqIm"
@@ -1933,7 +2295,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 162461,
       "name": "Tired",
       "url": "https://open.spotify.com/track/6EpeZqLM4v2uFalW1sOy6i"
@@ -1969,7 +2331,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 213933,
       "name": "Today",
       "url": "https://open.spotify.com/track/5GDkQB4tRRkNTgJJ7FkdJu"
@@ -1987,7 +2349,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 240414,
       "name": "Ulap",
       "url": "https://open.spotify.com/track/1x4YeEL3afmIVjcSKl3osA"
@@ -2043,10 +2405,28 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 339000,
       "name": "Walang Gana",
       "url": "https://open.spotify.com/track/3q55zTn6l70JOZ5dDAh2jk"
+    },
+    {
+      "album": {
+        "name": "Waste My Time",
+        "url": "https://open.spotify.com/album/6rFa3Il7FjcfJHFSpuK7sj"
+      },
+      "artists": [
+        {
+          "name": "seos",
+          "url": "https://open.spotify.com/artist/3ARcA6vRUflFo0cG4qgrKW"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Waste My Time",
+      "url": "https://open.spotify.com/track/4IwBSWqSZyykdR33ZvRFr2"
     },
     {
       "album": {
@@ -2083,7 +2463,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 224050,
       "name": "When You Call",
       "url": "https://open.spotify.com/track/7nwRjorqY5iLfflv5qrYV4"
@@ -2127,7 +2507,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 147692,
       "name": "YOU WANTED MORE",
       "url": "https://open.spotify.com/track/5llL9735jr1eD3GjFQVZA3"
@@ -2145,7 +2525,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 195985,
       "name": "Your Special Day",
       "url": "https://open.spotify.com/track/4dZddqrwCcoUo3SgyZIKUO"
@@ -2171,6 +2551,28 @@
       "duration_ms": 217965,
       "name": "\u2022 Potions",
       "url": "https://open.spotify.com/track/1MzAo6Q2u3Z5x5hl6ajwZz"
+    },
+    {
+      "album": {
+        "name": "\u2022 Room 777",
+        "url": "https://open.spotify.com/album/7yHkXxgo1I8T20xDMvvPRC"
+      },
+      "artists": [
+        {
+          "name": "Funkatalyst",
+          "url": "https://open.spotify.com/artist/3motMD9zVELUjNfwizA3yk"
+        },
+        {
+          "name": "Nuevo",
+          "url": "https://open.spotify.com/artist/7odaSqnw2i4Mo4HPOmLVhb"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213260,
+      "name": "\u2022 Room 777",
+      "url": "https://open.spotify.com/track/2Z33XMLR5RvlL4ulxxfFCb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1"

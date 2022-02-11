@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > hyperpop is a simulation\. Cover: ericdoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,711 likes - 176 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,360 likes - 176 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 10 | [icarus](https://open.spotify.com/track/5L1eW2bt7pDbjhNLKWKom2) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [old dog, new tricks](https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8) | 1:56 |
 | 11 | [tellmewhatuwant](https://open.spotify.com/track/2i7zSl7A1kFXVAygESTsDt) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [tellmewhatuwant](https://open.spotify.com/album/6VlPTrrwFR2Z6sEnT9YIMR) | 3:13 |
 | 12 | [LOVE IS VIOLENCE](https://open.spotify.com/track/5Bii5cjilhQ9v3BSeSEhnM) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LOVE IS VIOLENCE](https://open.spotify.com/album/3wrX9MJvRVrCEJGHGwNvH9) | 2:37 |
-| 13 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 |
-| 14 | [forever](https://open.spotify.com/track/0qjslFzLzx8lKJ1kBRi8gQ) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [forever](https://open.spotify.com/album/3iWkYl4dzsVJwbraBBCnAQ) | 2:34 |
-| 15 | [hair](https://open.spotify.com/track/5N2qTSAxrgR9KC9VGiaJLh) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [hair](https://open.spotify.com/album/5oJyYWIWHNReVXPDTsSXrj) | 4:01 |
-| 16 | [hey i'm in texas, do u wanna hang/talk?](https://open.spotify.com/track/7yRkcEBdg4vhpK8ddBDh5w) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [hey i'm in texas, do u wanna hang/talk?](https://open.spotify.com/album/2D9rWo88jntywhPBuGjPJZ) | 2:34 |
-| 17 | [stole my heart](https://open.spotify.com/track/13QP4bVJSFuNAgNwWhTYGt) | [Midfebruary](https://open.spotify.com/artist/6zWI3nb7J7mTQC4SwB2L2N) | [Mid2007 \(Deluxe\)](https://open.spotify.com/album/3fLFnSQ5467BEajY4h77ca) | 2:25 |
-| 18 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 |
+| 13 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 |
+| 14 | [Spoiled little brat](https://open.spotify.com/track/724utiMbqUfT1g3tqbfQYu) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [fishmonger](https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g) | 3:19 |
+| 15 | [forever](https://open.spotify.com/track/0qjslFzLzx8lKJ1kBRi8gQ) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [forever](https://open.spotify.com/album/3iWkYl4dzsVJwbraBBCnAQ) | 2:34 |
+| 16 | [hair](https://open.spotify.com/track/5N2qTSAxrgR9KC9VGiaJLh) | [heylog](https://open.spotify.com/artist/5Jf6pl4SGgueZHZ4pC313c) | [hair](https://open.spotify.com/album/5oJyYWIWHNReVXPDTsSXrj) | 4:01 |
+| 17 | [hey i'm in texas, do u wanna hang/talk?](https://open.spotify.com/track/7yRkcEBdg4vhpK8ddBDh5w) | [Musa](https://open.spotify.com/artist/4YNFxyTiP2AS188pQ2eKQE) | [hey i'm in texas, do u wanna hang/talk?](https://open.spotify.com/album/2D9rWo88jntywhPBuGjPJZ) | 2:34 |
+| 18 | [stole my heart](https://open.spotify.com/track/13QP4bVJSFuNAgNwWhTYGt) | [Midfebruary](https://open.spotify.com/artist/6zWI3nb7J7mTQC4SwB2L2N) | [Mid2007 \(Deluxe\)](https://open.spotify.com/album/3fLFnSQ5467BEajY4h77ca) | 2:25 |
 | 19 | [0h G0D!!](https://open.spotify.com/track/3wvGpG9cbnWKYlMfLwyLXh) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [0h G0D!!](https://open.spotify.com/album/72t0guyJB2U5L9wM4ynPTM) | 2:40 |
 | 20 | [selfdestruct](https://open.spotify.com/track/0JEViMA9EhoTE501kxvJMU) | [torr](https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m) | [selfdestruct](https://open.spotify.com/album/38MgHK12c40SSoNDvMrtlK) | 2:33 |
 | 21 | [mad](https://open.spotify.com/track/5XwnTvQFHavBkysCPkq4g1) | [andy polk](https://open.spotify.com/artist/0pjzVvlSShyf6ZiWa7ICzw), [funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd), [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR) | [YORWTB](https://open.spotify.com/album/4d5UtEtrpKILvzBGOa9UgF) | 2:33 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 175 | [Todas las Noches](https://open.spotify.com/track/163LYuTnKVArtI4vc98F83) | [Cma](https://open.spotify.com/artist/4D0v8wSG179N0eMjwXFlDN), [Orslok](https://open.spotify.com/artist/2TzPi0fPdqVesjZ3Y2wY43) | [Todas las Noches](https://open.spotify.com/album/3jHCLzgYIPWLQYAMGQFc1v) | 2:22 |
 | 176 | [something real](https://open.spotify.com/track/4i2eL6hAvu6R02Qu2lBQp0) | [nimbustwokay](https://open.spotify.com/artist/3d8xkw6hQY4NrUFUJW9u21) | [something real](https://open.spotify.com/album/5IWNLsvJbWQTA8WOYTHNmX) | 2:44 |
 
-Snapshot ID: `MTY0NDM0NDc5NiwwMDAwMDEyMzAwMDAwMTdlZGE5NjY3M2MwMDAwMDE3ZTljYzBiODJm`
+Snapshot ID: `MTY0NDUyNTQ3NywwMDAwMDEyNDAwMDAwMTdlZTU1YjVmOGIwMDAwMDE3ZTljYzBiODJm`

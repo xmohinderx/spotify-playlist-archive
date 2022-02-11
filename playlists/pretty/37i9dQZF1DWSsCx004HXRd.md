@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsCx004HXRd.md) - [plain]
 
 > Learn and practice your Russian language skills, from basic vocabulary to useful travel phrases and conversations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,953 likes - 174 songs - 18 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,951 likes - 174 songs - 18 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

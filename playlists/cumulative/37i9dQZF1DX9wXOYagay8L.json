@@ -337,7 +337,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 127111,
       "name": "Faith",
       "url": "https://open.spotify.com/track/2BdVXGDBqMBLF8PCEqfYrL"
@@ -497,7 +497,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 341333,
       "name": "Izimpi",
       "url": "https://open.spotify.com/track/5HivUEOLwjCIpJQsXj0S9r"
@@ -968,6 +968,36 @@
     },
     {
       "album": {
+        "name": "Nomalizo",
+        "url": "https://open.spotify.com/album/0lrN0sE96nmWQARcESCze2"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Qwana",
+          "url": "https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi"
+        },
+        {
+          "name": "The Maniac DJ",
+          "url": "https://open.spotify.com/artist/22uhGwtaO918jLyqEtMIUC"
+        },
+        {
+          "name": "Howard",
+          "url": "https://open.spotify.com/artist/0aP1ZzvGhXjejlBmy1Gk6G"
+        },
+        {
+          "name": "Mnqobi Yazo",
+          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304626,
+      "name": "Nomalizo",
+      "url": "https://open.spotify.com/track/1ysHgVZiTnTNYSeMaUSjG1"
+    },
+    {
+      "album": {
         "name": "Nqaba Yam",
         "url": "https://open.spotify.com/album/3cUuIVztKrPy4LiB5isZxs"
       },
@@ -1001,6 +1031,24 @@
       "duration_ms": 285343,
       "name": "Ntab'ezimnyama",
       "url": "https://open.spotify.com/track/7lg6eea6HeZbJOT01pKS4m"
+    },
+    {
+      "album": {
+        "name": "Ntliziyo ndise",
+        "url": "https://open.spotify.com/album/2wiyIRDeCLYAuZl5AyDxdt"
+      },
+      "artists": [
+        {
+          "name": "Inga",
+          "url": "https://open.spotify.com/artist/5irNJjqvaqPcwhCnzFLfbr"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233456,
+      "name": "Ntliziyo ndise",
+      "url": "https://open.spotify.com/track/69nXSKjJvSmWryRxR7Bchn"
     },
     {
       "album": {
@@ -1271,7 +1319,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 233906,
       "name": "Smoke & Mirrors (feat. Ami Faku)",
       "url": "https://open.spotify.com/track/4DKkkquLEKqiVMQ7ua5gaf"
@@ -1469,6 +1517,24 @@
       "duration_ms": 281588,
       "name": "Uthando",
       "url": "https://open.spotify.com/track/0aUVQPkZdgX4TdykTZqDiY"
+    },
+    {
+      "album": {
+        "name": "Uyajola",
+        "url": "https://open.spotify.com/album/3Wga1LdphDEovcP1O499PH"
+      },
+      "artists": [
+        {
+          "name": "Eves Manxeba",
+          "url": "https://open.spotify.com/artist/5XLEwFZp3QbAQxL51R2ADB"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192024,
+      "name": "Uyajola",
+      "url": "https://open.spotify.com/track/6XhB177w4FLohKRYMNkjRA"
     },
     {
       "album": {

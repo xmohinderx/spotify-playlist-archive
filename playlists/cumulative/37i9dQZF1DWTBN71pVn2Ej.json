@@ -152,6 +152,28 @@
     },
     {
       "album": {
+        "name": "belly aching beast (feat. Jamie Lenman)",
+        "url": "https://open.spotify.com/album/4uSJH3tbQHpYMCi9x599Hq"
+      },
+      "artists": [
+        {
+          "name": "Sick Joy",
+          "url": "https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx"
+        },
+        {
+          "name": "Jamie Lenman",
+          "url": "https://open.spotify.com/artist/3kAJUCn4swbWxCZXW7cZ6K"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202037,
+      "name": "belly aching beast (feat. Jamie Lenman)",
+      "url": "https://open.spotify.com/track/0z0SfVwuiI26AnrnDZNrto"
+    },
+    {
+      "album": {
         "name": "the lovehate mixtape",
         "url": "https://open.spotify.com/album/0A7duZERSI4xT4SttTCBvj"
       },
@@ -404,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Core",
+        "url": "https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g"
+      },
+      "artists": [
+        {
+          "name": "Dead Horse One",
+          "url": "https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268399,
+      "name": "Core",
+      "url": "https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td"
+    },
+    {
+      "album": {
         "name": "Cough Up Cherries",
         "url": "https://open.spotify.com/album/7bIjrTiG0YVJBjOBIVp03N"
       },
@@ -649,7 +689,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 360333,
       "name": "Great Mass of Color",
       "url": "https://open.spotify.com/track/640A5AgdKNmZfPUBDJyvDS"
@@ -826,6 +866,24 @@
     },
     {
       "album": {
+        "name": "Journey Proud",
+        "url": "https://open.spotify.com/album/4MthkjXIy91PKMCOdcX7E7"
+      },
+      "artists": [
+        {
+          "name": "Tree River",
+          "url": "https://open.spotify.com/artist/1FLrUkEcdVbt27IZ3dnTIu"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260799,
+      "name": "Journey Proud",
+      "url": "https://open.spotify.com/track/7lZYsbTb3qmsJlZZUXz0KK"
+    },
+    {
+      "album": {
         "name": "Lava Lamp Pisco",
         "url": "https://open.spotify.com/album/6OxduyVLmp55HliX26j59W"
       },
@@ -855,7 +913,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 193002,
       "name": "Leash",
       "url": "https://open.spotify.com/track/3jV6xQbRfeYUgwCZEsz1sJ"
@@ -1165,7 +1223,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 254688,
       "name": "Swan Song",
       "url": "https://open.spotify.com/track/4j8K6zdYmmWGOojP3QEoHO"

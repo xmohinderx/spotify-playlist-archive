@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop featuring BENEE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,127 likes - 97 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,323 likes - 97 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

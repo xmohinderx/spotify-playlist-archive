@@ -674,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Best Friends",
+        "url": "https://open.spotify.com/album/17alm7Ps8Mi7HRhbTzbMOw"
+      },
+      "artists": [
+        {
+          "name": "Mirela Rubio",
+          "url": "https://open.spotify.com/artist/5IQ0vabudI7APVrHXfEsCA"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94250,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/7JYP1qkUvm7pq3Mb3UxSk3"
+    },
+    {
+      "album": {
         "name": "Big Fat Cat",
         "url": "https://open.spotify.com/album/2jbjXlL2adMy67cHvLzrlG"
       },
@@ -1502,6 +1520,24 @@
     },
     {
       "album": {
+        "name": "Edelweiss",
+        "url": "https://open.spotify.com/album/3XmoG1qMCD7ma5bAMPmU5a"
+      },
+      "artists": [
+        {
+          "name": "Sasha Gardner",
+          "url": "https://open.spotify.com/artist/1v6vfNoFtjrE3iAgvJKMa7"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92488,
+      "name": "Edelweiss",
+      "url": "https://open.spotify.com/track/5VqYIR8jiqFaMkXmXMvY2P"
+    },
+    {
+      "album": {
         "name": "Eeny Meeny Miny Moe",
         "url": "https://open.spotify.com/album/6qgQ3pEsZJKEJ7VdRmkvus"
       },
@@ -1949,6 +1985,24 @@
       "duration_ms": 93000,
       "name": "Hannah My Nana",
       "url": "https://open.spotify.com/track/1sDjxNFyypPdv3SuHb8tSB"
+    },
+    {
+      "album": {
+        "name": "Happy Times",
+        "url": "https://open.spotify.com/album/5rEXMXkgfwi97O2THttUPS"
+      },
+      "artists": [
+        {
+          "name": "Thora Nelson",
+          "url": "https://open.spotify.com/artist/32SpgZv8WZjxnzitTsP6R3"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98624,
+      "name": "Happy Times",
+      "url": "https://open.spotify.com/track/5ktISNmss2NX5pPIZp3tDf"
     },
     {
       "album": {
@@ -2582,6 +2636,24 @@
     },
     {
       "album": {
+        "name": "Ladybird",
+        "url": "https://open.spotify.com/album/4LTG85GVjf5C17cdMaWGsh"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Rafferty",
+          "url": "https://open.spotify.com/artist/0m9pUjmNedBWPtNVf0ZVlt"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "Ladybird",
+      "url": "https://open.spotify.com/track/29m9bqkYtMvxDEO6QQYLJ3"
+    },
+    {
+      "album": {
         "name": "Lassie\u2019s Sleeping",
         "url": "https://open.spotify.com/album/2DWRAS2ugcEenO52ppMLEH"
       },
@@ -2665,7 +2737,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 102000,
       "name": "Lemonade Lullaby",
       "url": "https://open.spotify.com/track/0v086ZhcBsganZwwWxwVeY"
@@ -2809,7 +2881,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 107182,
       "name": "Little Jack Horner",
       "url": "https://open.spotify.com/track/4E4WPKft2WloG16jooo7po"
@@ -2831,6 +2903,24 @@
       "duration_ms": 110500,
       "name": "Little Sweetheart",
       "url": "https://open.spotify.com/track/5CLD2SV9D7MigUOl6r5UO7"
+    },
+    {
+      "album": {
+        "name": "Little Tiger",
+        "url": "https://open.spotify.com/album/6cflbsdLEBdDJQaIyWvSEK"
+      },
+      "artists": [
+        {
+          "name": "Calista Barrett",
+          "url": "https://open.spotify.com/artist/3XfWyEYMiQxHvtAXl3m1ih"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85500,
+      "name": "Little Tiger",
+      "url": "https://open.spotify.com/track/1YfOi6EOZxp3zKIXuXTxYA"
     },
     {
       "album": {
@@ -3259,7 +3349,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 147945,
       "name": "Napping Bell",
       "url": "https://open.spotify.com/track/1BYxm8eVidk1UG1eS5Afc0"
@@ -3349,7 +3439,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 139688,
       "name": "New Shoes",
       "url": "https://open.spotify.com/track/58xDXVIn9GeEsrpM4HMHWJ"
@@ -3806,6 +3896,24 @@
     },
     {
       "album": {
+        "name": "Right here beside you",
+        "url": "https://open.spotify.com/album/4RMqoq2gdDMZRvrB6olJTV"
+      },
+      "artists": [
+        {
+          "name": "Janessa Coleman",
+          "url": "https://open.spotify.com/artist/2XBm3Isxn2i0mt3Rm0Jc1O"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76624,
+      "name": "Right here beside you",
+      "url": "https://open.spotify.com/track/2zJJOSHZ0nhtQWKRdf9mzJ"
+    },
+    {
+      "album": {
         "name": "Going To Kentucky",
         "url": "https://open.spotify.com/album/0cSU2f5kyvb1Y7hF7IlgC3"
       },
@@ -3839,6 +3947,24 @@
       "duration_ms": 117330,
       "name": "Rock-A-Bye Baby (Piano Version)",
       "url": "https://open.spotify.com/track/6WuXpEDnevdok1wn7VxiHO"
+    },
+    {
+      "album": {
+        "name": "Room For One More",
+        "url": "https://open.spotify.com/album/2fvKK9bz4BRUteKXj8DW6s"
+      },
+      "artists": [
+        {
+          "name": "Lev Castillo",
+          "url": "https://open.spotify.com/artist/6dyJAS8BWMoNaWDHxJR2J6"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Room For One More",
+      "url": "https://open.spotify.com/track/7JsEBQiCoVUoF7ryygpwBf"
     },
     {
       "album": {
@@ -4357,7 +4483,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 62639,
       "name": "The Big Ship Sails On The Ali-Ali-O",
       "url": "https://open.spotify.com/track/1YDlXrLsLs5a0demOtyIKl"
@@ -4465,7 +4591,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 120827,
       "name": "The Fluffy Tiger",
       "url": "https://open.spotify.com/track/7lJNPBUPS273CMBGR2Tqmb"
@@ -4681,7 +4807,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 105913,
       "name": "The star dream",
       "url": "https://open.spotify.com/track/1OCBLAXdExzlR7WsR1gxfg"
@@ -5275,7 +5401,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 88648,
       "name": "When she sleeps",
       "url": "https://open.spotify.com/track/1Kv135cJAE5ZBBb1uHJ40A"

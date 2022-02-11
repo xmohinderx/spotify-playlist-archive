@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/6ADjhQABlpEiPGf4QFbazp"
+      },
+      "artists": [
+        {
+          "name": "Kiki",
+          "url": "https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "666",
+      "url": "https://open.spotify.com/track/7aP68E6dMvQ54Mu41Omke4"
+    },
+    {
+      "album": {
         "name": "6ft",
         "url": "https://open.spotify.com/album/2bCsCBe9HB26bB8VVYH5uV"
       },
@@ -3765,7 +3783,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 180674,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf"

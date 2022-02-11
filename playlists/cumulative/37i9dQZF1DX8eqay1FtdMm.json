@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet Korea's representative eardrum boyfriend & girlfriend vocals. (Cover: Def.) (\ud55c\uad6d\uc744 \ub300\ud45c\ud558\ub294 \uace0\ub9c9\ub0a8\uce5c & \uace0\ub9c9\uc5ec\uce5c \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
+  "description": "Meet Korea's representative eardrum boyfriend & girlfriend vocals. (Cover: HA SUNG WOON(\ud558\uc131\uc6b4)) (\ud55c\uad6d\uc744 \ub300\ud45c\ud558\ub294 \uace0\ub9c9\ub0a8\uce5c & \uace0\ub9c9\uc5ec\uce5c \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "v o K a l",
   "published_playlist_ids": [
     "2BbJAyiww6XGkUOKjIhd3r"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 229187,
       "name": "180 Degree",
       "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 259079,
       "name": "A Daily Song",
       "url": "https://open.spotify.com/track/5Df08ImWepnNDWoOS7pIxq"
@@ -251,10 +251,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 238066,
       "name": "Autumn Memories (with Lee Seok Hoon)",
       "url": "https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ"
+    },
+    {
+      "album": {
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200386,
+      "name": "AWay",
+      "url": "https://open.spotify.com/track/6kDjvnLPUyDn0GVc6BLG6A"
     },
     {
       "album": {
@@ -269,7 +287,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
@@ -424,6 +442,24 @@
     },
     {
       "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/30WYyl2dDYF5KWeEpJ3GF6"
+      },
+      "artists": [
+        {
+          "name": "HA SUNG WOON",
+          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244120,
+      "name": "Can\u2032t Live Without You",
+      "url": "https://open.spotify.com/track/1HGEtYmtaMDG4lTtITK5pA"
+    },
+    {
+      "album": {
         "name": "Come & Talk",
         "url": "https://open.spotify.com/album/5mXhZgl7vv33urDUc7dujJ"
       },
@@ -514,6 +550,24 @@
     },
     {
       "album": {
+        "name": "Don't treat me well",
+        "url": "https://open.spotify.com/album/2FqhiCBwlQAuNW87paj41N"
+      },
+      "artists": [
+        {
+          "name": "yeo eun",
+          "url": "https://open.spotify.com/artist/00hyJ4Om3BEqgLwfqHSFxv"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218062,
+      "name": "Don't treat me well",
+      "url": "https://open.spotify.com/track/6gf5ELYMwGOYvihbp6NA0s"
+    },
+    {
+      "album": {
         "name": "Dreaming me",
         "url": "https://open.spotify.com/album/0gnOekyeHjuZwQF2yRkcms"
       },
@@ -543,7 +597,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 243986,
       "name": "Emergency Room - 2021",
       "url": "https://open.spotify.com/track/3USmrwVK08XzzrIQdYtY1m"
@@ -601,6 +655,28 @@
       "duration_ms": 250240,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/2zK2c6EZcHzNMM9lKAIeO2"
+    },
+    {
+      "album": {
+        "name": "FINE",
+        "url": "https://open.spotify.com/album/0C4FHIxRJjcvVEUhKq99X5"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        },
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185760,
+      "name": "FINE",
+      "url": "https://open.spotify.com/track/2FfqCAm7SlGd0pWc23ovCO"
     },
     {
       "album": {
@@ -695,7 +771,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 160306,
       "name": "Gloomy Sunday",
       "url": "https://open.spotify.com/track/2mvZNCT457rEgTRvedTiJV"
@@ -731,7 +807,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 288000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/5BTRHDHNRDdFUYcbTeOacW"
@@ -1001,7 +1077,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 285040,
       "name": "I See You (Feat. Dongha)",
       "url": "https://open.spotify.com/track/7ukwiVFOiH3Jh8ETip7qk9"
@@ -1073,7 +1149,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 248066,
       "name": "Is it me?",
       "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
@@ -1113,7 +1189,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 256314,
       "name": "It\u2032s My Life",
       "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
@@ -1131,7 +1207,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-07",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
@@ -1453,7 +1529,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 176093,
       "name": "My Regards",
       "url": "https://open.spotify.com/track/0L1mzb0pEAemX4QpAvDSa5"
@@ -1475,6 +1551,24 @@
       "duration_ms": 144960,
       "name": "Natural",
       "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
+    },
+    {
+      "album": {
+        "name": "Need You (Outro)",
+        "url": "https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "Need You (Outro)",
+      "url": "https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz"
     },
     {
       "album": {
@@ -1507,7 +1601,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 225560,
       "name": "Nobody else (Under the Oak Tree) - Original Soundtrack, Part. 3",
       "url": "https://open.spotify.com/track/41hJZwfHtGsr3MxQa6V7bv"
@@ -1525,7 +1619,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 258933,
       "name": "Not Anyone Else",
       "url": "https://open.spotify.com/track/4TFjrY1GsVbIUZrNH0OTim"
@@ -1583,7 +1677,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-09",
+      "date_removed": null,
       "duration_ms": 272573,
       "name": "On A Starry Night",
       "url": "https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h"
@@ -1681,7 +1775,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
@@ -1807,7 +1901,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 272023,
       "name": "Rain & You",
       "url": "https://open.spotify.com/track/6wdPOrD3wXNq4WIUprJ7qi"
@@ -1901,7 +1995,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-10",
+      "date_removed": null,
       "duration_ms": 221946,
       "name": "Should\u2032ve known",
       "url": "https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w"
@@ -2031,7 +2125,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 205440,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
@@ -2107,7 +2201,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 203269,
       "name": "SUNSET WITH YOU",
       "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
@@ -2143,7 +2237,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 244173,
       "name": "The Eternal Moment",
       "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
@@ -2345,7 +2439,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 281880,
       "name": "understand",
       "url": "https://open.spotify.com/track/3J1SWo1MyGSR6dwjv1jdlT"
@@ -2486,6 +2580,24 @@
     },
     {
       "album": {
+        "name": "Winter in your eyes",
+        "url": "https://open.spotify.com/album/6u4vWQGQVlqYBJGkAqb5ya"
+      },
+      "artists": [
+        {
+          "name": "Soul People",
+          "url": "https://open.spotify.com/artist/4osIclpwZM5DUwI2JgBJp3"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242453,
+      "name": "Winter in your eyes",
+      "url": "https://open.spotify.com/track/6XPEXAXBVykCQVR0lQJxMV"
+    },
+    {
+      "album": {
         "name": "Words From The Wind",
         "url": "https://open.spotify.com/album/3tTot2iuMI0qcBviT62OWB"
       },
@@ -2573,7 +2685,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 221333,
       "name": "You&I \uc778\uc0ac",
       "url": "https://open.spotify.com/track/6AoISiNZ4ibepHHkBGHvNH"
@@ -2685,7 +2797,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-02-11",
       "duration_ms": 212164,
       "name": "\ube4c\ub824\uc904\uac8c",
       "url": "https://open.spotify.com/track/0uAW2Jb7ZjI5xUzaC0fhqT"
