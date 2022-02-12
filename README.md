@@ -2632,6 +2632,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Vocal Jazz Classics](/playlists/pretty/37i9dQZF1DX3Sx2mAdbEvx.md)
 - [Voces Añejas de Iberoamérica](/playlists/pretty/37i9dQZF1DWYtLQ6jk5kQG.md)
 - [Vogue Travel: The Sound of the Upper East Side](/playlists/pretty/61T3llVc7dJDCZf1SR72c0.md)
+- [VOL.4](/playlists/pretty/25wn6E4IiaAaTH6HBnGJ8y.md)
 - [Volume Máximo](/playlists/pretty/37i9dQZF1DX4908CEYEdlz.md)
 - [Wake Up Gently](/playlists/pretty/37i9dQZF1DX7cZxYLqLUJl.md)
 - [Wake Up Happy](/playlists/pretty/37i9dQZF1DX0UrRvztWcAU.md)
